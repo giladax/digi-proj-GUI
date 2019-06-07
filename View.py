@@ -77,7 +77,7 @@ class View:
         index = int(w.curselection()[0])
         letter = w.get(index)
 
-        files = self.fm.find_optional_matches(letter)
+        files = self.fm.find_optional_matches_by_prefix(letter)
 
         # Set proper callback
         self.lb.bind('<<ListboxSelect>>', self.present_file_content)

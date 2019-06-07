@@ -72,6 +72,7 @@ class View:
         self.lb.pack(side="right", fill="both", expand=True)
 
     def list_by_letter(self, selection_event):
+
         w = selection_event.widget
         index = int(w.curselection()[0])
         letter = w.get(index)
@@ -85,11 +86,13 @@ class View:
         self.lb.delete(0, tk.END)
 
         for file in files:
-            self.lb.insert(tk.END, file)
+            self.lb.insert(tk.END, file.replace('.txt', ''))
 
         self.lb.pack(side="right", fill="both", expand=True)
 
     def browse(self):
+        self.lower_frame_text.delete('1.0', tk.END)
+
         # Set proper callback
         self.lb.bind('<<ListboxSelect>>', self.list_by_letter)
 
@@ -99,7 +102,7 @@ class View:
         for letter in alphabet:
             self.lb.insert(tk.END, self.text_wrapper.fill(letter))
 
-        self.lb.pack(side="right", fill=tk.Y, expand=True)
+        self.lb.pack(side="right", fill="both", expand=True)
 
     def init_view(self):
         self.lower_frame = tk.Frame(self.root, bg='#80c1ff')

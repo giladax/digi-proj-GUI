@@ -18,6 +18,9 @@ class FileManager:
     def find_optional_matches(self, search_input):
         return [] if search_input == '' else [f for f in self.files if re.search(search_input, f.replace('.txt', ''))]
 
+    def find_optional_matches_by_prefix(self, prefix):
+        return [] if prefix == '' else [f for f in self.files if prefix.startswith(prefix)]
+
     def read_file(self, file_name):
         file_name = file_name.replace(ADDITIONAL_FILE_SUFFIX, '')
         try:

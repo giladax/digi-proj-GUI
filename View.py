@@ -160,7 +160,7 @@ class View:
                                path.join(download_path, self.curr_file.replace("txt", "xml")))
             # f = open(path.join(self.fm.base_dir, self.curr_file), "r", encoding="utf8")
             # new_text = open(path.join(download_path, self.curr_file), "w+")
-            # new_text.write(f.read())
+            # new_text.write(f.read(dsd))
             #
             # f.close()
             # new_text.close()

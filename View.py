@@ -1,6 +1,26 @@
 import tkinter as tk
+from os import path, O_CREAT, O_RDWR
+from tkinter import filedialog
+from shutil import copyfile
+import urllib
 
 alphabet = 'אבגדהוזחטיכלמנסעפףצקרשת'
+
+
+class popupWindow(object):
+    def __init__(self, master):
+        top = self.top = tk.Toplevel(master)
+        self.l = tk.Label(top, text="Hello World")
+        self.l.pack()
+        self.e = tk.Entry(top)
+        self.e.pack()
+        self.b = tk.Button(top, text='Ok', command=self.cleanup)
+        self.b.pack()
+
+    def cleanup(self):
+        self.value = self.e.get()
+        self.top.destroy()
+
 
 class View:
     def __init__(self, fm, text_wrapper, height, width):
@@ -16,6 +36,10 @@ class View:
 
         self.browse_button = tk.Button(self.frame, text="חפש לפי אלפבית", font="Palatino 16",
                                        command=lambda: self.browse())
+
+        self.download_button = tk.Button(self.frame, text="הורד מסמך", font="Palatino 16",
+                                         command=lambda: self.download_curr_file())
+        self.curr_file = ""
 
         self.canvas.pack()
         self.background_label.place(relwidth=1, relheight=1)
@@ -35,6 +59,8 @@ class View:
         w = selection_event.widget
         index = int(w.curselection()[0])
         file_name = w.get(index) + '.txt'
+
+        self.curr_file = file_name
         file_content = self.fm.read_file(file_name)
 
         # Clear the listbox and replace with the chosen content
@@ -45,9 +71,6 @@ class View:
 
         # Print each line.
         for line in file_content.split('\n'):
-            # url = re.findall('http.*\d', line)
-            # if url:
-            #     line = line.replace(url[0], '<a href="{link}">{text}</a>'.format(link=url[0], text='קישור לאתר האינצקלופדיה'))
             # Wrap each line with predefined width
             word_list = self.text_wrapper.fill(text=line)
             self.lower_frame_text.insert(tk.END, word_list)
@@ -58,6 +81,7 @@ class View:
 
         scrollbar = tk.Scrollbar(self.lower_frame_text, orient=tk.VERTICAL, command=self.lower_frame_text.xview)
         scrollbar.place(rely=1)
+        self.download_button.place(relx=0.30, relheight=1, relwidth=0.15)
 
     def list_search_results(self, search_results):
         # Set proper callback
@@ -92,7 +116,7 @@ class View:
 
     def browse(self):
         self.lower_frame_text.delete('1.0', tk.END)
-
+        self.download_button.forget()
         # Set proper callback
         self.lb.bind('<<ListboxSelect>>', self.list_by_letter)
 
@@ -109,7 +133,8 @@ class View:
         self.lower_frame.place(relx=0.5, rely=0.25, relwidth=0.85, relheight=0.6, anchor='n')
 
         self.lower_frame_text = tk.Text(self.lower_frame,
-                                        font="Palatino 14", width=100, spacing1=0, spacing2=0, spacing3=0, borderwidth=0, wrap="none")
+                                        font="Palatino 14", width=100, spacing1=0, spacing2=0, spacing3=0,
+                                        borderwidth=0, wrap="none")
         self.lower_frame_text.place(relwidth=1, relheight=1)
         self.lower_frame_text.config(state=tk.DISABLED)
 
@@ -120,3 +145,31 @@ class View:
         # self.browse_lb.configure(justify=tk.RIGHT)
         self.root.mainloop()
 
+    def popup(self):
+        self.w = popupWindow(self.root)
+        self.download_button["state"] = "disabled"
+        self.root.wait_window(self.w.top)
+        self.download_button["state"] = "normal"
+
+    def download_curr_file(self):
+        # self.popup()
+        download_path = filedialog.askdirectory(parent=self.root, initialdir="/", title='Pick a directory')
+        try:
+            copyfile(path.join(self.fm.base_dir, self.curr_file), path.join(download_path, self.curr_file))
+            copyfile(path.join(self.fm.base_dir, self.curr_file.replace("txt", "xml")),
+                               path.join(download_path, self.curr_file.replace("txt", "xml")))
+            # f = open(path.join(self.fm.base_dir, self.curr_file), "r", encoding="utf8")
+            # new_text = open(path.join(download_path, self.curr_file), "w+")
+            # new_text.write(f.read())
+            #
+            # f.close()
+            # new_text.close()
+            #
+            # f = open(path.join(self.fm.base_dir, self.curr_file.replace("txt", "xml")), "r", encoding="utf8")
+            # new_xml = open(path.join(download_path, self.curr_file.replace("txt", "xml")), "w+")
+            # new_xml.write("fsdds".encode("utf8"))
+            #
+            # f.close()
+            # new_xml.close()
+        except FileNotFoundError:
+            pass

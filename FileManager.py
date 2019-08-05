@@ -10,7 +10,7 @@ class FileManager:
 
     def __init__(self, base_dir):
         self.base_dir = base_dir
-        self.files = [f for f in listdir(base_dir) if isfile(join(base_dir, f))]
+        self.files = [f for f in listdir(base_dir) if not re.search("xml", f) and isfile(join(base_dir, f))]
 
         additional_files_dir = path.join(base_dir, ADDITIONAL_FILES_DIR_NAME)
         self.files += [f + ADDITIONAL_FILE_SUFFIX for f in listdir(additional_files_dir) if isfile(join(additional_files_dir, f))]

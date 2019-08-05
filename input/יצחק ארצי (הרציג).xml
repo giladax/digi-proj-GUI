@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4435 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4435</bibl><bibl>Volume: #14 ,Page: 4436 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4436</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק ארצי (הרציג)</persName>
+
+</head>
+         <div><p> נולד ג' כסלו תרס"א (14.11.1920) בעיר סירט שבחלק הרומני של בוקובינה.
+
+ לאביו <persName>גבריאל הרציג</persName> , מחסידי ויזניץ, ולאמו <persName>פייגה</persName> בת<persName> אברהם כ"ץ.</persName>
+
+ קיבל חינוך מסורתי, גמר בית-ספר תיכון בצ'רנוביץ, למד ספרות ופילוסופיה באוניברסיטת בוקארשט, ובארץ גמר בית-ספר למשפט וכלכלה בתל-אביב.
+
+ הצטרף לתנועת "הנוער הציוני" ופעל במרכז הארצי שלה. בשנות המלחמה היה חבר ההנהלה של ההסתדרות הציונית ברומניה ומזכיר "החלוץ"" (במחתרת), ואחרי המלחמה חבר ועד העזרה וההצלה, חבר מרכז העליה וה"בריחה". כתב בעתונים יהודיים וכלליים ברומנית, וב-1946 פירסם בבוקארשט, בהוצאת "החלוץ" את החוברת "דרכו של הנוער הציוני" (ברומנית).
+
+ ב-1946 נשא לאשה את<persName> מרגלית </persName> בת<persName> דב ליקוורניק.</persName>
+
+ פעל באירגון ההעפלה בספינה "כנסת ישראל" ב-1946, נטל חלקו בסבלות המסע, תפיסת הספינה והגירוש לקפריסין, שם פעל במחנה בעבודות הנהגה ועידוד של אחיו למסע ולגורל.
+
+ ב-1947 הורשה לעלות לארץ. היה פועל חקלאי בהרצליה, חבר קיבוץ "במאבק" (כיום המושב השיתופי אלוני-אבא). פעל במוסדות המרכזיים של העובד הציוני" והמפלגה הפרוגרסיבית, מזכיר כללי שלה וסגן עורך עתונה היומי "זמנים". מאז איחוד מפלגות המרכז ממשיך בתפקידים הנ"ל במפלגה הליברלית, בתור מזכיר כללי, ובתנועת העבודה הליברלית, חבר המחלקה המדינית של ההסתדרות'
+
+
+ חבר ההנהלה הישראלית של הקונגרס היהודי העולמי, ציר בקונגרסים הציוניים שנערכו בארץ, יו"ר הועדה המדינית בקונגרס הציוני הכ"ב, חבר הועד הפועל הציוני, חבר המוסדות של התאחדות עולי רומניה. היה עובד בכיר ב"קרן המגן", במשרד החוץ ובמשרד האוצר.
+
+ כותב בעתונים "הארץ", "מעריב", "הבוקר".
+
+ צאצאיו: <persName>שלמה-חיים, נאוה-ברכה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4435 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4435</bibl><bibl>Volume: #14 ,Page: 4436 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4436</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

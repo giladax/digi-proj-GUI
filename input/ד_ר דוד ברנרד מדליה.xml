@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2332 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2332</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר דוד ברנרד מדליה</persName>
+
+</head>
+         <div><p> נולד ב<placeName>מוסקבה</placeName> (רוסיה), ח' טבת תרמ"ט (12.12.1888).
+
+ לאביו<persName> דב (ברנארד) מדליה</persName> בן <persName>אברהם יצחק,</persName> (מראשוני המושבה ראשון לציון) ולאמו<persName> דבורה לאה </persName> בת ר' <persName>יצחק ראטהויז.</persName>
+
+ בן שנה היה כשעלה עם משפחתו לארץ והתישבו בראשון לציון.
+
+ קיבל חינוך בבית הספר של המושבה, בבית הספר כי"ח בהנהלת אלברט ענטבי בירושלים. עבד ביקב בראשון לציון.
+
+ בשנת 1906 נסע לארצות הברית והמשיך שם ללמוד אצל מורים פרטיים. ב- Y.M.C.A במאסס קולדג' לרוקחות, בטאפטס קולדג' לרפואה בבוסטון, וקיבל תואר דוקטור לרפואה.
+
+ בשנת 1917 נשא לאשה את<persName> סאפיה</persName> בת <persName>אהרן לאעף</persName> (ציירת ידועה בארצות הברית, מצטיינת בעיקר בציורי
+
+ פרחים ונוף בכשרון רב. העתונות משבחת את עבודתה, ותמונותיה זכו בפרסים שונים), היא ממשפחת הסופר הידוע -<persName> "שלום עליכם".</persName> היתה גם מורה.
+
+ ביתה הוא כעין מוזיאון המכיל הרבה תמונות ציורי יד וחרסינה מסין - ממינים שונים. Assisted in laboratory of American Ambulance .Hospital, Neuilly, France, and served in Army Med ical Corps 1918-19; Connected with Rockfeller Inst ;for Med. Research, N.Y. ; Fort Oglethorp )Ga( Hosp. Dijon Laboratory, Hosp. No. 66; Neufchateau Regu lating Station B., and St. Dizier, France. He as sisted at hay fever and asthma clinic of Peter Ben Brigham Hosp., Boston, and at present is Asst. in Medicine at Beth Israel Hosp. in Allergy Clinic, and Med. Examiner for Metropolitan and Prudential Lif Insurance Companies. He is Member, Mass. Med Soc., Greater Boston Med. Soc. ; Amer. Med. Assn. Amer. Legion, and Free Masons. His hobbies are reading, music. Publications : Contributions to medical journals.
+
+ פעיל בעבודה צבורית, ובני א''י מוצאים בביתו עזר רב.
+
+ בתו: <persName>הענרעטא איירין</persName> אשת ה'<persName> ראלף ה. טיילאר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2332 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2332</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4778 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4778</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' יהושע גוטמן</persName>
+
+</head>
+         <div><p> נולד בשמחת תורה, כ"ב תשרי תרנ"א (אוקטובר 1890), בעיירה צ'אשניקי, פלך ויטבסק (רוסיה הלבנה).
+
+ לאביו<persName> נתן ליב גוטמן </persName> (בעל מלאכה בצ'אשניקי). למד בישיבת סלובודקה, ואחר כך בישיבת "רב צעיר" (הלב חיים טשרנוביץ) באודיסה ובאו
+
+ ניברסיטאות בפטרבורג וברלין (תלמידם של:<persName> אדו</persName> <persName>ארד מאיר, וילאמוביץ, הוגו גרסמן. אדוארד נורדו).</persName> במוסדו של <persName>הבארון דוד גינצבורג</persName> בפטרבורג ובאוניברסיטה בברלין. בתקופה מסוימת שימש כמנהל הסמינר למורים של טשרנא בווילנה.
+
+ בשנות מגורו בברלין (1933-1923) היה חבר מערכת האנציקלופיה היהודית "אשכול", ואף הרצה בבית-המדרש הגבוה לחכמת ישראל.
+
+ עלה לארץ בשנת 1933.
+
+ עד 1949 היה מורה בבית-הספר הריאלי בחיפה, ואחר כך מנהל הסמינר העברי למורים בבית הכרם בירושלים. משנת 1950 מרצה באוניברסיטה העברית בירושלים, וב-1958 נתמנה לפרופיסור לתולדות ישראל והתקופה ההלניסטית.
+
+ בתשי"ט (1959) קיבל את "פרס דוד ילין" של עירית ירושלים, על ספרו "הספרות היהודיתההלניסטית", חלק א'. אותה שנה קיבל אות-כבוד ממלך יוון על עבודתו בשטח התרבות ההלניסטית, ובתשכ"ב "פרס ביאליק" של עירית תל-אביב על חלק ב' מספרו.
+
+ פירסם מאמרים על נושאים היסטוריים בכתביעת שונים, והיה עורך השנתון הספרותי-מדעי "אשכולות".
+
+ נפטר בירושלים בי"ד כסלו תשכ"ד (30.11.1963).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4778 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4778</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1231 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1231</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל דושמן</persName>
+
+</head>
+         <div><p> נולד בוילנה, ליטא, טבת תרמ"ד (1.1.1884), לאביו <persName>שאול אהרן </persName> ולאמו<persName> בת-שבע</persName> . למד בחדרים ובישיבה ונתפרסם כעילוי. הרגיש נטיה להוראה, השתלם בהשכלה כללית ובשפות לועזיות וכשראה את עצמו מוכן להתחיל בהוראה החליט להתחיל בארץ-ישראל.
+
+ ב-1905 עלה ארצה ועבד בשנים הראשונות בתור מורה בבתי-הספר הכפריים בראש פנה ובמתולה. שם עשה את נסיונותיו הראשונים בספרות ובשירה. באותה תקופה חיבר גם את השיר הידוע "פה בארץ חמדת אבות תתגשמנה כל התקוות", שנתחבב מאד על הקהל והושר במשך שנים רבות בכל מסיבה ציונית בארץ ובגולה.
+
+ נשא לאשה את <persName>לאה</persName> בת <persName>אריה קרמין</persName> .
+
+ נתפרסם כמורה מוכשר, מסור ומצליח וב-1909 הוזמן להורות בגימנסיה הרצליה בתל-אביב, בשנים הראשונות עברית, תנ"ך, אגדה ומשנה, ובשנים האחרונות לימד בחמישית ובשישית בעיקר דקדוק.
+
+ השתתף ביסוד "חובבי הבמה העברית" עם ד"ר <persName>חיים הררי, יהודית הררי, מנחם גנסין</persName> ואחרים, מילא תפקידים על הבמה ובמשך עשרות שנים היה מראשי הבמאים בהצגות של תלמידי הגימנסיה ופעיל בכל פרטי עריכתן. תרגם למעלה מ-50 מחוזות מרוסית, צרפתית, אנגלית וגרמנית, ביניהם "רביזור" לגוגול. "שמע ישראל" לדימוב, "פינוקיו" לקולוני, "אותלו" לשכספיר, "הדב" לצ'חוב, "ימי חיינו" לאנדרייב ועוד.
+
+ פרסם בעתונים, בקובצים ובספרות לילדים הרבה מאמרים, ספורים ושירים לילדים ולמבוגרים. לרבים משיריו חוברו מנגינות על ידי המורים למוסיקה <persName>חנינא</persName> <persName>קרישבסקי</persName> (ז"ל),<persName> פ. גרינשפון</persName> ואחרים, ונפוצו בקהל. ביניהם: "פה בארץ חמדת אבות", "השקדיה פורחת", "שיר לכת" של המכבים, "שיר התוצרת" ועוד.
+
+ בשנים האחרונות פרסם שירים, ספורים ומעשיות בחרוזים בעתוני הילדים של "דבר", "הבוקר" ו"הצופה".
+
+ במזגו הטוב ובמדותיו התרומיות נתחבב על המוני תלמידיו והוריהם ומכיריו בכלל ואף לאחר עשרות שנים היו תלמידיו זוכרים אותו לטובה.
+
+ חלה במחלת לב ונפטר בתל-אביב, כ"ו תמוז תש"ז. צאצאיו:<persName> ראובן, עפרה</persName> אשת <persName>משה</persName> בן <persName>אלכסנדר</persName> <persName>עליאש </persName> (ירושלים),<persName> שולמית</persName> אשת<persName> אליעזר טרביץ</persName> (רחובות).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1231 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1231</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

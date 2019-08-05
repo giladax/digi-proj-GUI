@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 870 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/870</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנוח אביוב</persName>
+
+</head>
+         <div><p> נולד בדרבנט, קוקאז, רוסיה, בשנת תרל"ג (1873), לאביו <persName>אבא</persName> ולאמו <persName>שושנה.</persName> קיבל חינוך מסורתי והתמחה בעבודה. נשא לאשה את <persName>צפורה</persName> בת <persName>דוד.</persName>
+
+ אחרי הפרעות בקישינוב והתחדשות גל הפרעות ביהודי רוסיה בכלל בא עם אביו לסייר את הארץ. שהו כאן 17 יום ותרו את הארץ לארכה ולרחבה ולמדו את תנאי ההשתרשות והחיים כאן.
+
+ חזרו לרוסיה, שם מכר את רכושו ועלה ארצה עם משפחתו ב-1906 והתישבו בירושלים.
+
+ כשקנה <persName>ישראל זייגר </persName> מעירית רמלה 2000 דונם מתוך 4000 הדונמים ששנלר הגרמני קנה מהעיריה לשם הקמת חות-שפון והמקום נועד ליסוד המושבה באר יעקב, היה הוא בין הראשונים שהצטרפו אל הרב יעקב יצחקי, רכש לו נחלה והשתתף ביסוד המושבה באר-יעקב. בנה בית ונטע פרדס. היה כמה פעמים חבר הועד ומ-1928 ואילך היה מוכתר המושבה עד יומו האחרון.
+
+ נפטר בבאר יעקב, ד' אדר ב' תש"ו.
+
+ צאצאיו: <persName>זבולון, מיכאל, חזקיהו, אורה,</persName> בת<persName>ציון, אברהם, חסידה</persName> אשת בנימין זהבי, <persName>עמנואל,</persName> <persName>ישראל </persName> ז"ל (נהרג בשעה שעמד על משמרתו כנוטר מתנדב).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 870 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/870</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

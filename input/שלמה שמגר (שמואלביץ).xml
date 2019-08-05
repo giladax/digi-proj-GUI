@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3706 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3706</bibl><bibl>Volume: #11 ,Page: 3707 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3707</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה שמגר (שמואלביץ)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ברלין</placeName> (גרמניה), ט' חשון תרפ"ד (19.10.1923). לאביו <persName>ראובן שמואלביץ </persName> (מצאצאי ר' משה שמולעוויטש, בעל "יד משה") ולאמו<persName> סופיה</persName> בת הרב <persName>שלמה</persName> <persName>אליהו כהן.</persName>
+
+ קיבל חנוך מסורתי, כללי בגרמניה, בארץ ובפורטוגל.
+
+ בשנת 1933 עלה לארץ.
+
+ בשנות 1941-44 מזכיר הפדרציה הציונית ונציג הנהלת הסוכנות ומוסדות יהודים אחרים בפורטוגל.
+
+ בשנות 1944-48 חברת מערכת "הבקר".
+
+ בשנת 1945 נשא לאשה את<persName> חיה</persName> בת <persName>יהודה כהן.</persName>
+
+ בשנות 1948-50 חבר צ"הל (מודיעין).
+
+ עורך "הבולאי העברי" 1952-58.
+
+ יו"ר התאחדות אגודת הכולאים בישראל.
+
+ יו"ר סקצית מבקרי הקולנוע ליד אגודת העתונאים בישראל.
+
+ בשנת 1958 מזכיר ועד אגודת העתונאים.
+
+ בשנות 1958-59 כתב "ידיעות אחרונות" בלונדון.
+
+ חבר הועד המארגן של "תכיל" - תערוכת-הבולים הבינלאומיים בתל-אביב.
+
+
+ חבר הועד המארגן של פסטיבל-הקולנוע הראשון בחיפה.
+
+ עורך החדשות ב"ידיעות אחרונות" ועורך מדורי בקורת קולנוע ובולאות.
+
+ כתב מאות מאמרים בעתונות הפורטוגזית, העברית והאנגלית.
+
+ ספריו "חבש" (ציביליזסיון, 1944, פורטוגזית), "מה עליך לדעת על בולים" (הבולאי, 1957, עברית).
+
+ תרגומי-ספרים רבים מספרדית, גרמנית, צרפתית ואנגלית.
+
+ צאצאיו : <persName>עדנה, גד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3706 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3706</bibl><bibl>Volume: #11 ,Page: 3707 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3707</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

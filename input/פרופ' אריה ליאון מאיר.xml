@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2182 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2182</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' אריה ליאון מאיר</persName>
+
+</head>
+         <div><p> נולד בסטאניסלאבוב, מזרח גליציה, טבת תרנ"ה (1895. 12.1), לאביו <persName>ברוך</persName> ולאמו<persName> רחל.</persName> למד בגימנסיה ובאוניברסיטה בוינה והוסמך בה לד"ר לפילוסופיה והמשיך לעבוד בה כעוזר מן המנין. התמחה ביחוד בידיעת המזרח
+
+ המושלמי ותולדות התרבות שלו, ובשנות 1919-21 היה עוזר בספריה הממלכתית בברלין.
+
+ עלה ארצה ב-1921 ונתמנה למפקח במחלקת העתיקות הממשלתית, מ-1929 מנהל הארכיון שלה ומ-1932 ואילך עד לקץ השלטון המנדטורי היה הממונה על אוסף המטבעות האיסלמיות והכתובות הערביות במוזיאון הממשלתי (רוקפלר) בירושלים. חבר המועצה הארכיאולוגית הממשלטית. מ-1925 ואילך היה מרצה ומ-1932 ואילך הנו פרופסור מן המנין לארכיאולוגיה ולאמנות של המזרח הקרוב באוניברסיטה העברית ובמשך תקופה מסוימת נשא בה את כהונת הרקטור. ניהל (ביחד עם הפרופ'<persName> א. ל. סוקניק)</persName> את חפירות החומה השלישית בירושלים וחפירות אחרות. נבחר לחבר אגודת הארכיאולוגים בלונדון וחבר כבוד בחברה האמריקאית להראלדיקה. במשך שנים רבות חבר פעיל וחבר הועד בחברה העברית לחקירת ארץ-ישראל ועתיקותיה ונבחר לנשיא-הכבוד שלה, חבר ועד החברה הא"י לפולקלור ונשיא-כבוד של החברה המזרחנית הישראלית.
+
+ פרסם הרבה מאמרים, מחקרים וספרים בעברית ובלועזית על נושאים מהארכיאולוגיה המזרחית והיהודית. ערך הרבה מסעי מחקר בארצות המזרח התיכון. השתתף בקונגרסים בינלאומיים של מזרחנים בארצות שונות והוזמן להרצאות-אורח באוניברסיטאות שונות.
+
+ בראשית השנה האחרונה לשלטון הבריטי בארצנו (1948) הוענק לו אות הכבוד M.B.E.כהכרה רשמית על פעולתו הפוריה ורבת הערך בשרות המדע הארצישראלי ושל המזרח התיכון בכלל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2182 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2182</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

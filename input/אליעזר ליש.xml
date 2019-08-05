@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3085 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3085</bibl><bibl>Volume: #8 ,Page: 3086 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3086</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר ליש</persName>
+
+</head>
+         <div><p> נולד בכפר יאנושפליא, ע"י העיר סעקעליאודווארהעלי (הונגריה), י"ג סיון תרנ"ב (1892).
+
+ לאביו ר'<persName> עקיבה ליש </persName> ולאמו <persName>שיינדל </persName> בת ר'<persName> נפתלי</persName> <persName>הרץ סגל-ווייס</persName> (אחות המדפיס ר' <persName>יהודה אהרן סגל</persName> <persName>הייס</persName> מירושלים).
+
+ קבל חנוך מסורתי ע"י מורה פרטי.
+
+
+ בשנת תרס"א (1901) הובא לארץ ע"י דודו, והוא בן עשר, וגדל בבית דודו.
+
+ המשיך ללמוד בחדר ובישיבה.
+
+ נשא לאשה את<persName> בריינה </persName> בת ר' <persName>אריה ליב גוטליב.</persName>
+
+ התנדב לגדוד העברי הא"י בסוף מלחמת העולם הראשונה.
+
+ מראשוני הנהגים בארץ.
+
+ ממיסדי "אגד".
+
+ צאצאיו: <persName>אפרים ליש</persName> (ראה כרך ד', עמוד 1835), <persName>מינה</persName> אשת<persName> סם בלוי, אריה ליש, אסתר</persName> אשת<persName> אברהם</persName> <persName>בלום, אביבה</persName> אשת <persName>נסים קאולי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3085 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3085</bibl><bibl>Volume: #8 ,Page: 3086 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3086</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

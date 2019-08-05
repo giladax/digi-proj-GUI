@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5227 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5227</bibl><bibl>Volume: #17 ,Page: 5228 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5228</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל הלב"ץ</persName>
+
+</head>
+         <div><p> נולד באחוזה בפלך מוגילוב (רוסיה), בשנת תרמ"ז (1887).
+
+ לאביו<persName> יוסף דב הלב"ץ</persName> - סוחר יערות (ראה את הערך שלו בכרך זה(. (ראשי תיבות של שם המשפחה: הלויים בני צדוק - הכהן הגדול של הבית השני) ולאמו<persName> פרומה</persName> בת <persName>יוסף רזומובסקי </persName> (סוחר יערות).
+
+
+ קיבל חינוך מסורתי וכללי. המורה הפרטי שלו היה הסופר<persName> הלל צייטלין</persName> . למד בייקטרינוסלב הנהלת חשבונות ועבד בקרים במקצועו.
+
+ בשנת תרס"ה (1905) כשפרצה מלחמת יפאןרוסיה, הצליח להשתחרר מגיוס לצבא הרוסי, בתור הבן הבכור במשפחה.
+
+ נשא לאשה את רופאת השיניים,<persName> לאה </persName> בת<persName> דוד</persName> <persName>מרדר, </persName> ילידת בוברויסק.
+
+ בשנת 1923 הצליח אחיו הצעיר <persName>לוי הלב'"ץ</persName> (שעלה לארץ בשנת 1920) להשיג עבורו ועבור ההורים סרטיפיקטים - ועלו לארץ.
+
+ נתקבל בתור מזכיר התאחדות האיכרים בגליל ביבנאל, ואח"כ השתקע בחדרה והתעסק במסחר.
+
+ אח"כ עבד בפקידות בהסתדרות החקלאית במושבה.
+
+ היה חבר פעיל במיסדר בני-ברית בחדרה.
+
+ נפטר בחדרה, ז' תשרי תשכ"ב (1961).
+
+ צאצאיו: <persName>רחל</persName> (מורה) אשת <persName>יצחק בן-נר</persName> (מהנדס חשמל בתל-אביב);<persName> דוד</persName> ז"ל (היה מנהל בחברת התחבורה "אגד"); <persName>אלכסנדר</persName> (מהנדס למים בתה"ל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5227 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5227</bibl><bibl>Volume: #17 ,Page: 5228 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5228</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

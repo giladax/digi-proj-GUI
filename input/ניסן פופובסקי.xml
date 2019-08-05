@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 676 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/676</bibl><bibl>Volume: #2 ,Page: 677 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/677</bibl>
+<bibl>Volume: #2 ,Page: 678 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/678</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ניסן פופובסקי</persName>
+
+</head>
+         <div><p> נולד בייליסאבטגראד, אוקראינה, בשנת תר"ט (1849), לאביו<persName> זליג דוד</persName> ולאמו<persName> דבורה</persName> בת<persName> יצחק מזי</persName> <persName>בובסקי</persName> . למד בחדרים ובישיבות. בן עשרים נשא לאשה את <persName>רבקה</persName> בת <persName>אברהם סטרימובסקי</persName> , שניהלה חנות לחמרי ברזל לפרנסתם, והוא המשיך ללמוד עוד חמש שנים בבית-המדרש, ואח"כ יצא לחיי המעשה והרחיב את העסק גם במסחר רהיטים. עסק בצרכי צבור והיה גבאי "בית-הכנסת האדום" ("דאס רויטע שול'כל"), וכן היה חבר הנהלת הבנק המקו
+
+ מי לסחר-חוץ והבנק לאשראי הדדי. מידידי הד"ר <persName>זאב טיומקין</persName> , שהיה רב-מטעם בייליסאבטגראד ועסקן פעיל בחיבת ציון. גם הוא היה חובב-ציון מסור ושאף כל ימיו לעלות לארץ-ישראל, וכשפרצו הפרעות הראשונות בייליסאבטגראד באביב תרמ"א ("הסופות בנגב") ארגן שם קבוצת יהודים לעליה לארץ-ישראל, אך הוא עצמו לא יכול עדיין לעלות.
+
+
+ בשנת תרע"ב, בהיותו בן 63 וכבר היו לו 21 נכדים, חיסל את עסקיו ועלה ארצה עם משפחתו. השתקע ביפו, קנה לו מגרש מהמורה <persName>ברוך הוז </persName> בשכונת "אהל משה" (כיום בשטח תל-אביב) ובנה לו בית.
+
+ בעת הגירוש הכללי מיפו ותל-אביב במלחמתהעולם הראשונה באביב תרע"ז עבר עם משפחתו לפתח-תקוה והצליחו להשאר שם ולהנצל מהגזירה להמשכת הנדודים לצפון הארץ. שם נפטרה אשתו, כ"ט תשרי תרע"ח.
+
+ נפטר בתל-אביב ונקבר בבית-העלמין הישן, ו' תשרי תרפ"ז.
+
+ צאצאיו : <persName>יצחק, עטיל</persName> (אשת <persName>נפתלי ברמן), שושנה</persName> (אשת <persName>דוד פופובסקי</persName> , בארצות-הברית).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 676 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/676</bibl><bibl>Volume: #2 ,Page: 677 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/677</bibl>
+<bibl>Volume: #2 ,Page: 678 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/678</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

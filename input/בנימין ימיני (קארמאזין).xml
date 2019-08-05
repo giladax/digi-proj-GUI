@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3969 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3969</bibl><bibl>Volume: #12 ,Page: 3970 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3970</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנימין ימיני (קארמאזין)</persName>
+
+</head>
+         <div><p> נולד י' שבט תרנ''ט (25.1.1899) בדז'יאלושיצה שבפולין.
+
+ לאביו <persName>יהושע קארמאזין </persName> ולאמו <persName>רייזל </persName> בת<persName> ישראל</persName> <persName>מרדכי באכמאיר</persName> . למד בחדרים, ב"מחזיקי הדת" בצ'נסטוחוב, משם נשלח כתלמיד מצטיין לישיבה בגור, בה למד עד פרוץ מלחמת העולם ב-1914.
+
+ ב-1917 נשא לאשה את <persName>שושנה </persName> בת ר'<persName> ישעיה</persName> <persName>קאמלגארן</persName> . (נפטרה בחיפה, כ''ט חשון תשט"ז) וב-1961 נשא בזיווג שני את<persName> גולדה</persName> בת ר' <persName>עמנואל גרואר</persName> .
+
+ היה פעיל בצעירי המזרחי, למען הקהק"ל ותעמולה ציונית בחוגים דתיים בפולין בשלהי מלחמת העולם א' ואחריה. יסד בית-ספר דתי-לאומי בראדומסקי וניהלו בהתנדבות.
+
+ עלה לארץ בראשית 1920. למד בבית-המדרש למורים "מזרחי" והיה מראשוני מוסמכיו. באותה שנה השתתף בפעולה ליסוד שכונת מקור חיים, דרומית מזרחית לירושלים. עבד בהוראה - מקודם כמיסדו ומנהלו של בית-הספר הראשון בבני-ברק עם היווסדה, אח"כ בכפר גדעון שבעמק יזרעאל, ובאחרונה בבית-הספר נצח ישראל בחיפה - שם השתתף ביסוד שכונת הפועל המזרחי והמשיך בהוראה עד שיצא לפנסיה.
+
+ היה פעיל בהגנה ובארגונים ציבוריים שונים.
+
+ ב-1952 יצא בשליחות למרוקו, ניהל את בית-המדרש
+
+
+ לרבנים בעיר רבת, עזר גם בארגון העליה ובניהול שיעורי-עזר למורים המקומיים ולנוער. לרגל התסיסה לפרוע פרעות ביהודים לקתה אשתו בשיתוק. במצב קשה הביא אותה לארץ וכאן נפטרה.
+
+ צאצאיו:<persName> ישראל, תחיה</persName> אשת הצייר <persName>אריה אמיר</persName> , <persName>יגאל, עודדה </persName> אשת <persName>אברהם וייסמן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3969 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3969</bibl><bibl>Volume: #12 ,Page: 3970 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3970</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

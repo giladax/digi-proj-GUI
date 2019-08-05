@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5106 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5106</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמעון סבוראי (גולדזייגר)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אודסה</placeName> (רוסיה), י"ב חשון תרס"א (4.11.1900).
+
+ לאביו<persName> מרדכי גולדזייגר-סבוראי </persName> ולאמו <persName>זלדה</persName> בת <persName>אייזיק וסימה איידלס.</persName>
+
+ קיבל חינוך בבית ספר יהודי ב<placeName>אודסה</placeName>.
+
+ באוקטובר 1913 עלה לארץ.
+
+ המשיך ללמוד בגמנסיה העברית "הרצליה" בתלאביב, שבה גמר את לימודיו במחזור הששי.
+
+ בשנת 1932 נשא לאשה את<persName> יהודית</persName> בת<persName> צבי</persName> <persName>הלפרין </persName> (כיום, מתנדבת כעובדת ב"ארכיון הציונות
+
+ הרוסית" מיסודו של החוקר <persName>אריה רפאלי-צנציפר</persName> (ראה כרך ט"ז, עמודים 4945-6).
+
+ היה מנהל חשבונות ראשי של אגרובנק בע"מ במשך 30 שנה.
+
+ היה חשבונאי מוסמך.
+
+ חבר ההגנה משנת 1920 אחרי שהתארגנה מחדש (נוסדה במלחמת העולם הראשונה ע"י קבוצת ה-י"ג עוד בשנת 1915).
+
+ עוד לפני סיום מאורעות תרפ"ט (1929) הוטל עליו לארגן את העזרה הרפואית הראשונה לחברי ההגנה בתל-אביב-יפו. הקורס הראשון לעזרה רפואית ראשונה נערך בשנת 1930. בשנת 1937 התקיים קורס ארצי למדריכות עזרה ראשונה, אשר נמשך 10 ימים.
+
+ התמסר במיוחד לטיפול בחברי ההגנה הנזקקים לעזרה רפואית. יסד ופיקד על שרות רפואי של ההגנה והגיע לדרגת "מש"ר" (מפקד שרות רפואי) של מחוז תל-אביב.
+
+ כל השנים היה בין מפקדי ההגנה הפעילים (מספרו בתל-אביב היה 7, וכנויו: <persName>עזריהו)</persName> . עד 1949 שימש קצין מטה של שירות רפואי בצה"ל.
+
+ עם הקמת המדינה נתמנה למפקד יחידת "אלישע" של חיל רפואה בדרגת רב-סרן.
+
+ היה חבר המזכירות של ההנהלה הארצית של אירגון חברי ההגנה.
+
+ בספר "ההגנה בתל-אביב" בעמודים 428-424 פרסם מאמר על "השירות הרפואי" (בהגנה). ערך את ספר "עזרה ראשונה" של ד"ר <persName>אריה</persName> <persName>אלוטין</persName> (ראה כרך שני, עמוד 932).
+
+ צאצאיו: <persName>אמיה</persName> אשת<persName> נסים לוי </persName> (בנם:<persName> דני)</persName> ; <persName>אבנר סבוראי</persName> (נשוי <persName>לדליה </persName> לבית<persName> אדלר</persName> . בנם: <persName>אורי</persName> ).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5106 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5106</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

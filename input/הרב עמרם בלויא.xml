@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 200 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/200</bibl><bibl>Volume: #1 ,Page: 201 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/201</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב עמרם בלויא</persName>
+
+</head>
+         <div><p> נולד בעיירה קטנה בסלובקיה (אז מערב-הונגריה), בשנת תקפ"ט (1829), לאביו ר' <persName>יהודה </persName> ולאמו <persName>רבקה</persName> . קיבל את ראשית חינוכו ב"חדר" ואח"כ ב"ישיבה הר
+
+ מה" של פרסבורג והיה תלמידו המובהק של הגאון בעל "כתב סופר" (בנו של ה"חתם סופר" זצ"ל) והוס
+
+
+ מך על-ידו לרבנות. שימש ברבנות בכמה קהלות קטנות בסלובקיה, ובאחרונה בקהלה קטנה סמוכה לפרסבורג. הוא חי שם בשלוה ובכבוד ופרנסתו היתה מצויה בנחת, אך אביו, שהיה מתלמידי ה"חתם סופר" והושפע מאד מדבריו על חובת כל יהודי להתאמץ ולעלות לארץ הקודש ולחיות בה בקדושה ובטהרה, השתוקק כל ימיו לקיים את דבר רבו, כמו שעשו כמה מבחירי תלמידיו. הוא הצטער כל ימיו על שלא נסתייע הדבר בידו, ואת כמיהתו לציון הוריש לבניו<persName> עמרם</persName> <persName>וצבי.</persName>
+
+ כמה שנים לאחר פטירת האב החליטו שני הבנים לעלות ארצה. הרב עמרם נפרד מקהלתו, לקח אתו את אשתו<persName> עלקא</persName> ושני בניו, <persName>יצחק שלמה</persName> (אבי הרב<persName> משה</persName> <persName>בלוי,</persName> המנהיג של היהדות החרדית המאורגנת ב"אגודת ישראל" בירושלים) <persName>וברוך יהודה</persName> ואת אמו שהיתה אז בת 87 שנה, נזדמן עם אחיו צבי, ואחרי חגיגתפרידה נלהבת בפרסבורג מכל ידידיהם וקרוביהם, שנהרו לפרסבורג מקרוב ומרחוק לברך את העולים, נסעו דרך וינה לטריאסט, הפליגו באניה מזרחה, ובסוף אלול תרכ"ט הגיעו ארצה והתישבו בירושלים.
+
+ כאן קבע הרב עמרם את דירתו בעיר העתיקה, ומקום לתורה ולתפלה נקבע לו בכותל המזרח של בית-כנסת ה"חורבה". לאחר כמה שנים נענה לקריאת ר' <persName>יוסף ריבלין,</persName> הצטרף למיסדי שכונת "אבן ישראל" שמחוץ לחומה, חסך מהכנסותיו שקיבל מהכולל ומהישיבה לבנין ביתו בין הראשונים בשכונה בשנת תרל''ח, אך בימים נוראים היה הולך להתפלל במקומו הקבוע בבית-הכנסת של ה"חורבה".
+
+ מאז בואו ירושלימה שקד על לימוד התורה ועבודת הבורא במסירות ובהצנע לכת וחינך את בניו ללכת בדרכיו והיה מכובד בקהל כולל עולי הונגריה ובצבור האשכנזי בירושלים בכלל.
+
+ נפטר בירושלים, ח' אדר א' תר"ס.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 200 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/200</bibl><bibl>Volume: #1 ,Page: 201 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/201</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

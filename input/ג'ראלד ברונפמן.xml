@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3753 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3753</bibl><bibl>Volume: #11 ,Page: 3755 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3755</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ג'ראלד ברונפמן</persName>
+
+</head>
+         <div><p> מהפעילים לטובת מדינת ישראל. Mr Gerald )Jocob( Bornfman was born at Yorkton, Saskatchewan, )Canada( De.1911 ,22 cember 
+
+ Son of Harry Bronfman )see his biography in this book(.
+
+ Mother: Ann )Hinde( daughter of Mr Gallaman.
+
+ On February 9, 1941, married Marjorie Meta, daughter of Jacob Sshechter of New York.
+
+ Has four children: Joan Eileen, Corinne Marcia, Judith Lynn, Jeffrey Mark. Educated : Western Public Schools,
+
+ Montreal High School, McGill University )B. Comm.(
+
+ Began with Distillers Corporation-Seagrams Ltd., Montreal, Que., and SeagramDistillers Corporation, New York. President, Kensington Industries Inc. Chairman of Executive Committee and
+
+ Director, Dominion Dairies Ltd., Montreal, Que.
+
+
+ Director; Pinatel Piece Dye Works Ltd., Joliette, Que.; Stressteel Corporation, Wilkes-Barre, Pa. Vice-Chairman, Combined Jewish Appeal, Montreal, for number of years. Member, Board of Trustees, Federation of Jewish Community Services, Montreal.
+
+ Member: Executive Committee Canadian Red Cross Society, Quebec Division; National Council Canadian Institute for the Blind ; National Council of American Joint Distribution Committee ; Life Governor, Verdun Prote3tant Hospital ; active in other communal and philanthropic causes. Member, Executive Committee, Montreal Symphony Orchestra; Centennial Advisory Committee, Montreal Museum of Arts. Served with R. C. A. F. in Word War .II Rank: Squadron Leader. Decoration: U. S. Legion of Merit, Degree of Officer. Clubs : Montefiore )Montreal( ; Elm. Ridge Country )Dorval, Que.( Societies and Fraternities : Phi Lamba. Phi. Mu Sigma, B'nei Brith, McGill Graduates. Recreations : Golf, Photography, Skiing.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3753 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3753</bibl><bibl>Volume: #11 ,Page: 3755 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3755</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

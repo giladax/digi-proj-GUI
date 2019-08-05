@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3109</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה בנארי (לוינסון)</persName>
+
+</head>
+         <div><p> נולד באוסטסולסק (רוסיה) כסלו תרס"ט (24.12.1908). לאביו <persName>ראובן</persName> ולאמו <persName>זלדה</persName> בת <persName>יעקב קומיי.</persName>
+
+ חניך האוניברסיטה בפריס. ד"ר למשפטים.
+
+ היה מזכיר כללי לנשיאות הסתדרות הציונית החדשה, יו"ר הצה"ר באנגליה, חבר הנהלת עליה ב' (לפני המלחמה העולמית השניה) ויו"ר הליגה למען אסירי ציון באנגליה.
+
+ בשנת 1933 נשא לאשה את<persName> סופיה</persName> בת <persName>דוד יוכלמן.</persName> היה חבר אצ"ל בחו"ל.
+
+ ביוני 1948 ביקר בפעם הראשונה בא"י ובשנת 1951 . עלה לארץ לישיבת קבע.
+
+ היה ציר הקונגרס הציוני הכ''ד בירושלים (1956) מטעם תנועת החרות.
+
+ חבר מרכז תנועת החרות.
+
+ עתונאי. כתב מאמרים ב"חרות", "ג'ואיש סטאנדארט", "ג'ואיש הרלד", "מנצ'סטר גרדיאן" ועוד.
+
+ צאצאיו:<persName> נעמי, יהודית, דניאל ולדימיר</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3109</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2322 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2322</bibl><bibl>Volume: #5 ,Page: 2323 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2323</bibl>
+<bibl>Volume: #5 ,Page: 2324 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2324</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר מרדכי זר-כבוד (אהרנקראנץ)</persName>
+
+</head>
+         <div><p> נולד בי' תמוז תרס"א (4.7.1901) בפרובישנה שבמזרח גליציה לאביו <persName>אברהם צבי</persName> (בן אחיו של משוררההשכלה <persName>בנימין זאב אהרנקראנץ</persName> , המכונה "וועלוויל זבאראזער") ולאמו <persName>דובה</persName> בת <persName>צבי מנחם זומר</persName> . למד בחדרים ואח"כ בבית המדרש מפי רב הקהלה בא"י הור ביץ, שהיה לאחר זמן ראש "ישיבת חכמי לובצין". במלחמת העולם א' נתגלגל בתור פליט לווינה, שם נבחן וקיבל תעודת בגרות בגימנסיה בגרמנית.
+
+ אחרי המלחמה נשאר בווינה ולמד בבית-המדרש למורים עברים ("פדגוגיון") מיסודו של הרב פרופ' <persName>צבי פרץ חיות</persName> . עבר לברלין ולמד פילוסופיה באוניברסיטה ושפות המזרח בביהמ"ד הגבוה לחכמת ישראל, וקיבל את התוארים מוסמך למדעי הרוח וד"ר לפילוסופיה, וחיבור-הגמר שלו (דיסרטציה) "לתולדות סדרי חכירת קרקעות בתקופה הבבלית החדשה" (בגרמנית) נדפס ב-1936 במינכן.
+
+
+ מתר"פ ואילך עסק בהפצת ידיעת הלשון העברית, ומעת עלותו ארצה בתרצ"ז הנו מורה למקצועות היהדות בבתי-ספר תיכוניים (בזמן האחרון בביהמ"ד למורים בחיפה) ופעיל בעבודה מדעית כמרצה באגודה להשתלמות במדע בחיפה, ממיסדי הספריה התורניתמדעית בחיפה, ממיסדי החברה לחקירת המקרא בישראל, משתתף באנציקלופדיה מקראית, בירחון "סיני" ובעתון המורים "הד החינוך", ופירושו לעזרא ונחמיה נדפס בתש"ט בירושלים.
+
+ בתרצ"ח נשא לאשה את <persName>בתיה</persName> בת ר' <persName>צבי ביקל.</persName>
+
+ צאצאיו:<persName> ניצה, מנחם שמשון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2322 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2322</bibl><bibl>Volume: #5 ,Page: 2323 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2323</bibl>
+<bibl>Volume: #5 ,Page: 2324 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2324</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

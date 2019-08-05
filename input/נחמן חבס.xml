@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3644 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3644</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחמן חבס</persName>
+
+</head>
+         <div><p> נולד באליטה, פלך וילנה (ליטא), כ' אדר א' תרס"ה (1905).
+
+ לאביו הרב<persName> ישראל חבס </persName> (ראה כרך א', עמוד 98) ולאמו<persName> נחמה דבורה</persName> בת ר' <persName>נחמן שלזינגר</persName> (היתה נצר למשפחת הגר"א מוילנה).
+
+ בתרס"ז (1907) עלה לארץ עם הוריו וכל המשפחה והשתקעו ביפו.
+
+ קיבל חינוך מסורתי וכללי.
+
+ פיתח יחד עם אחיו את מסחר העורות, ובשנת 1927 בנו בית חרושת לעורות, שהיה אז המודרני בארץ.
+
+ נשא לאשה את<persName> טובה</persName> בת <persName>אליהו ברנט</persName> (בנו של העסקן בישוב הישן ר'<persName> זרח ברנט </persName> (ראה כרך ב', עמוד 764).
+
+ עסקו בייבוא וייצוא עורות.
+
+ אחרי פטירת האח הבכור<persName> יעקב דב חבס </persName> (ראה כרך ח', עמוד 3184) המשיך בעסקים.
+
+ בשנת 1950 יסד את בית החרושת הגדול ביותר במזרח התיכון לייצור נעלים ומנהל את העסקים של "החברה הירושלמית לנעלים בע"מ" - בירושלים.
+
+ שירת במשטרה המיוחדת ובמשמר האזרחי.
+
+ אח בלשכת בנאים חפשים.
+
+ צאצאיו:<persName> נחום</persName> (רעיתו - דליה אברבנאל), <persName>לאה</persName> אשת<persName> זאב בופמן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3644 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3644</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

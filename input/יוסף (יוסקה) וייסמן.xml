@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2574 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2574</bibl><bibl>Volume: #6 ,Page: 2575 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2575</bibl>
+<bibl>Volume: #6 ,Page: 2576 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2576</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף (יוסקה) וייסמן</persName>
+
+</head>
+         <div><p> נולד בטילטרבנה (בסרביה) בשנת תרע"ד (15.7.1914).
+
+ לאביו<persName> דוד יצחק</persName> (מהנדס ימי. היה קבלן לבנינים בתל-אביב) ולאמו <persName>צפורה</persName> בת <persName>שלום ספוזניקוב</persName> (מאודיסה).
+
+ כבן 5 שנים היה כשהוריו עלו אתו לארץ.
+
+ עלה לארץ בשנת 1919.
+
+ קבל חנוך בבית ספר עממי ע'ש אחד העם, בי"ס תל-נורדאו ובבית ספר ימי "זבולון", עלה לדרגת מדריך לדייג, השתלם בדרכי ההצלה בים והיה לעוזרו של המציל <persName>אריה כץ</persName> (ראה כרך ד', עמוד 1932).
+
+ כש<persName>אריה כץ</persName> עבר לירושלים נתמנה במקומו בתור מציל בחוף ימה של תל-אביב.
+
+ בשנת 1932 קבל מדליה מידי ראש עירית תל-אביב - מטעם תחנת ההצלה "זבולון" - לחוף ימה של תל--אביב.
+
+ השתלם גם במקצוע המסזים הרפואיים אצל <persName>פרופ'</persName> <persName>אוטובובר</persName> . נתמנה למורה להתעמלות ולמסזים רפואיים ואורטופדיה לילדים.
+
+ למד גם בבית המלאכה "מגן" (של יעקב גולדמן). נשא לאשה את<persName> אירנה </persName> בת <persName>ישראל פורדונסקי.</persName>
+
+ חבר בועד הקלוב להתאגרפות שעל שם "בני ליאונרד" מיסודו של <persName>אבנרי.</persName> היה פעיל בהגנה.
+
+ ב-1933<persName> כשאמיל אבנרי</persName> נתמנה למציל בחוף ימה של תל--אביב, החלו לפתח את דרכי ההצלה ב"חסקה"
+
+
+ (ע"י סירות שטוחות) והגיעו להישגים בינלאומיים. אחרי נסיון של שנים - בהכירם את הגלים והזרמים בימה של תל-אביב בבל התקופות והגיעו לשיא של הצלה. מדינת ישראל משמשת כיום כדוגמא לדרגה הגבוהה בעולם.
+
+ מ- 1932-33 היה מורה לשחיה ולהתעמלות לתלמידי כפר בן-שמן והגמנסיה "הרצליה" בעונת הקיטנות בקיץ.
+
+ יחד עם חברו אמיל אבנרי הצילו עד היום כ2000 איש מטביעה, ביניהם חילים בריטיים וכו'.
+
+ בשנת 1952 פתחו שניהם - אולפן לתרבות הגוף, התעמלות, זיאו זיטשו ע"י הטכניקה החדישה ביותר של המדע הרפואי עם כל הסידורים החדישים בעולם (עבר קורס מיוחד לרפוי האסטמה), לרפוי קצרת. הם גם הממונים על ההצלה בחופה העירוני של הרצליה.
+
+ כתב ב"דבר" על הצלה ימית ועל דייג.
+
+ בנו: <persName>שלום.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2574 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2574</bibl><bibl>Volume: #6 ,Page: 2575 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2575</bibl>
+<bibl>Volume: #6 ,Page: 2576 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2576</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

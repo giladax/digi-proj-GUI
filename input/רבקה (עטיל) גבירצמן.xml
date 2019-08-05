@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5615 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5615</bibl><bibl>Volume: #19 ,Page: 5616 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5616</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רבקה (עטיל) גבירצמן</persName>
+
+</head>
+         <div><p> נולדה בלודג' (פולין), ה' סיון תרס"ז (18.5.1907).
+
+ לאביה<persName> אהרן וויינברגר</persName> ולאמה<persName> מיכל</persName> בת<persName> אהרון</persName> <persName>מקובסקי.</persName>
+
+ קיבלה חינוך מסורתי וכללי בבית ספר.
+
+ היתה חברה פעילה בהסתדרות הציונית וב"החלוץ".
+
+
+ בשנת 1929 עלתה לארץ והתיישבה בבית דודה ר'<persName> קלמן רובין</persName> בבני ברק.
+
+ בשנת 1933 נישאה <persName>למנחם מרדכי גבירצמן.</persName>
+
+ חברה פעליה ב"ויצו" וב"גח"ל".
+
+ פירסמה מאמרים ושירים שונים בעתונות.
+
+ חיברה ספרים: "אויפן בערגעל אין נגב" (שיצא לאור בתמיכת נשיא מדינת ישראל השלישי, ר' <persName>זלמן שזר,</persName> ע"י פערלאג "ניי-לעבן" בשנת 1967, ביידיש): "רבי מנשה"; "משם ועד הנה" (סיפור היסטורי ממלחמת היטלר, בשלושה חלקים).
+
+ פירסמה שירי הארץ : שירי ילדים; שירי מלחמה ; שיר לכבוד ראש הממשלה גולדה מאיר, באידיש ועוד.
+
+ ציורים, כל מיני ציורים, אחדים מהם הוצגו בבית ציוני אמריקה בתערוכת תמונות.
+
+ מחזות מוכנים להצגות מהווי הארץ, בעברית ובאידיש.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5615 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5615</bibl><bibl>Volume: #19 ,Page: 5616 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5616</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

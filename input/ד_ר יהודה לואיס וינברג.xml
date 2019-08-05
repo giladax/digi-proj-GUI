@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1145 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1145</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יהודה לואיס וינברג</persName>
+
+</head>
+         <div><p> בן צבי נפתלי ולאמו יוהנה בת שלמה אלזברג - נולד ב-15 דצמבר 1883 בעיר דורטמונד שבוסטפליה - גרמניה. מוצאו ממשפחה יהודית עתיקה.
+
+ קבל חינוך כללי. למד בילדותו בבי"ס עממי ואח"כ בגמנסיה. אחרי גמרו את חוק למודיו בגרמניה לימד תורת המשפטים באוניברסיטאות הידלברג, מינכן, ברלין ובון. בעיר זו סיים את חוק למודיו בפקולטה המשפטית והוכתר בתואר ד"ר.
+
+ אחרי שסיים את למודיו התמסר לציונות. בשנים 1910-1912 היה יו"ר "מכבי" בדורטמונד, יסד שם את האגודה הציונית ועסק בכתיבת מאמרים ציוניים בשביל ה''יודישע רונדשוי" ו"די-וועלט".
+
+ בשנת 1913 ביקר בארץ ישראל. עוד באותה שנה עלה שוב ארצה, ועבד במשרד הא"י בתל אביב,
+
+ בהנהלתו של הד"ר א. רופין. בפרוץ המלחמה העולמית הראשונה היה עליו לעזוב את הארץ ולהשתתף במלחמה, אך נשלח לעבוד במחלקה של מיניסטריון המלחמה בברלין. לאחר סיום המלחמה ניהל בשנים 1920-1919 את המשרד הארצישראלי בברלין. אחר כך, בשנת 1921, חזר לארץ ישראל והשתקע שם כעורךדין.
+
+ נשא לאשה את מלכה בת אליעזר אלחנן שליט מראשון לציון (ראה כרך א', עמוד 190). בתקופת המלחמה הנ"ל החל בעבודתו הספרותית ותרגם לגרמנית אוסף שירי ביאליק שפרסם בהוצאת "וועלט-פערלאג". בארץ ישראל המשיך בעבודות תרגומים ותרגם ביניהם את "מסדה" ליצחק למדן, מיצירותיו של דוד שמעונוביץ ושל אסף הלוי. מלבד הנ"ל סידר גם אנתולוגיה של שירי ארץ ישראל בגרמנית.
+
+ בשנת 1946 פרסם בהוצאת ראובן מאס, ירושלים, את הספר "נצני הציונות" על הפרופ' הינריך אליקום לוה, שהופיע באותה ההוצאה גם בשפה הגרמנית. חוץ מהספר הנ"ל כתב את הספר: "אשמנו" (הדרמה של גיטו וורשה), מספר גדול של שירים, ביחוד סוניטות, שבחלקן הגדול הופיעו בשם Gehassige Sonette בתל אביב. 
+
+ מלבד הנ"ל עומד להופיע ספרו על "אביגדור משל" (התקופה ההירואית של ארץ ישראל). וספר "יציאת ארץ ישראל".
+
+ השתתף בכמה קונגרסים לפני מלחמת העולם הראשונה.
+
+<persName>בנותיו: רחל אביבה </persName> אשת נתנאל מאירוביץ.<persName> חנה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1145 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1145</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

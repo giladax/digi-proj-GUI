@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3709 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3709</bibl><bibl>Volume: #11 ,Page: 3710 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3710</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ירוחם פישל קאופמן</persName>
+
+</head>
+         <div><p> נולד ברצין (בסרביה) בשנת תרכ"ח (1868). לאביו<persName> זאב פרץ קאופמן </persName> ולאמו <persName>שרה.</persName>
+
+ קיבל חנוך מסורתי.
+
+ היה פעיל בארגוני הנוער היהודי בעירו. בשנת תרמ"ו (1886) עלה לארץ.
+
+
+ התישב בירושלים ולמד אצל <persName>שניצר</persName> את מלאכת עצי זית.
+
+ נשא לאשה את<persName> מרים</persName> בת <persName>פנחס רבינוביץ.</persName>
+
+ בשנת 1909 עבר ליפו ופתח בית מסחר ובית מלאכה לעצי זית בקבת נמל יפו.
+
+ בית מסחרו בקרבת הנמל שימש מקום "מחבוא" לעולים "בלתי ליגליים" שעלו בשנים ההם בלי "הפתקא האדומה" של ממשלת תורכיה. קשר קשרים טובים עם המלחים הערבים, בעלי הסירות שבראשם עמד עלי חאמיס, והצליח להוריד יהודים רבים מהאניות "בלי הפתקא האדומה"...
+
+ היה ממיסדי ביה"ס הדתי, "תחכמוני" ביפו.
+
+ מפעילי אגודת "אחוה" שפעלו רבות למען הישוב הישן בימים ההם.
+
+ ממיסדי "בית וגן" מדרום יפו.
+
+ הרבה שנים שימש כמוכתר היהודים.
+
+ בפרעות מאי 1921 הסתיר והציל הרבה יהודים שנמצאו בסביבות נמל יפו.
+
+ נפטר בבת-ים, כ"ג חשון תרצ"ז (8.11.1936) ונקבר בנחלת ציון, תל-אביב.
+
+ צאצאיו (מאשתו הראשונה): <persName>אהרן, שרה</persName> אשת<persName> מוריס</persName> <persName>יוריסט, פנינה</persName> אשת<persName> אברהם משה בלום</persName> (ראה בכרך זה).
+
+ מאשתו השניה <persName>ריזל : צפורה</persName> אשת<persName> יוסף אוזלבו.</persName> מאשתו השלישית <persName>לאה : אריה</persName> (ליבוש).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3709 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3709</bibl><bibl>Volume: #11 ,Page: 3710 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3710</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

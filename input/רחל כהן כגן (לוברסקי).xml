@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1885 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1885</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רחל כהן-כגן (לוברסקי)</persName>
+
+</head>
+         <div><p> נולדה באודיסה (רוסיה), בתרמ"ח (4.3.1888), לאביה <persName>יעקב לוברסקי </persName> (סוחר, מחובבי ציון הראשונים, ממיסדי החברה לעזרה לבעלי מלאכה ואכרים יחד עם אגרונום <persName>אטינגר)</persName> , ולאמה <persName>מרים</persName> בת <persName>משה ברשטיין,</persName>
+
+ גמרה גימנסיה באודיסה והמשיכה בלימודיה באוניברסיטה שם, במקצוע המתמטיקה, אח"כ עוד למדה בפטרוגרד בקורסים של פרופ' <persName>לסגפט,</persName>
+
+ בשנת 1913 נישאה לד"ר <persName>נח כהן</persName> מטשקנט (היה רופא "הדסה" ביבנאל),
+
+ בתור סטודנטית היתה פעילה במפעלי עזרה יהודיים שונים. לאחר פרוץ המהפכה נהלה באודיסה את משרד רישום המצב האישי (נשואין, גטין, לידות, מיתות), מטעם השלטונות הסובייטיים.
+
+ בשנת 1919 הגיעה ארצה באנית "רוסלן".
+
+ התישבה בחיפה. היתה חברת הועד הפועל של ועד הקהלה. במשך 17 שנה יו"ר הועדה לעזרה סוציאלית.
+
+ השתתפה בכל ועידות ויצ"ו בג'נף ובציריך. נבחרה לאספת הנבחרים וניהלה את המחלקה הסוציאלית של הועד הלאומי. היתה בין החברות המתנדבות הראשונות, שבקרו בבתים בירושלים אצל משפחות שנזקקו לעזרה. דאגה להכניס את הילדים לגן ולביה"ס. דברה על לב האשה שתלמד עברית ותעלה את רמתה התרבותית. יחד עם "הדסה" יסדה אז הסתדרות נשים עבריות, שאח"כ היתה לויצ"ו הא"י. בשנת 1946 נבחרה כיו"ר ויצ"ו.
+
+ מטעם רשימת ויצ"ו נבחרה לכנסת הראשונה והיא חברה שם בועדת החינוך ובועדת חוק ומשפט.
+
+ בניה: <persName>אליהו </persName> (פיסיקאי), <persName>מיכאל </persName> (חיל בצ.ה.ל.).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1885 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1885</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

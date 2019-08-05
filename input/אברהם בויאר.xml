@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3051 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3051</bibl><bibl>Volume: #8 ,Page: 3052 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3052</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם בויאר</persName>
+
+</head>
+         <div><p> נולד בט"ז שבט תרס"ז (31.1.1907) בקורילובקה (פולין).
+
+ לאביו <persName>שרגא פייבל</persName> ולאמו <persName>דבורה</persName> בת<persName> ירחמיאל</persName> <persName>קניגסברג.</persName>
+
+ למד בחדרים ובישיבות והשתלם בהשכלה תיכונית. עבד כמורה ואח"כ בפקידות. השתתף ביסוד ארגון נוער דתי "תפארת בחורים". הצטרף ל"החלוץ המזרחי" ואחרי פעילות ארגונית בו נבחר למנהלו בחבל. בו בזמן פעל
+
+
+ גם בהמזרחי הכללי ונבחר לחבר נשיאותהסתדרות המזרחי בבוקובינה.
+
+ ב-1933 נשא לאשה את <persName>חנה</persName> בת הרב<persName> נחום ליברסון.</persName>
+
+ באותה שנה עלה לארץ. והתחיל לעבוד כפועל בנין. אחר-כך נדרש לעבודה ארגונית בהפועל המזרחי, מקודם כמזכיר הסניף בתל-אביב, אח"כ עם גידול הסתדרותו והיקף פעולותיה הוטלו עליו תפקידים מרכזיים כמנהל מרכז העבודה וראש מחלקת האיגוד המקצועי שלה.
+
+ עם הצטרפות הפועל המזרחי ללשכת העבודה הכללית השתתף ביסוד הרשת הארצית של לשכות העבודה ומרכזן כנציג מפלגתו ונתמנה לסגן יו''ר מרכז לשכות העבודה. כן הועמד בראש המחלקה לקליטת העליה של הפועל המזרחי ונבחר לועד הפועל של הפועל המזרחי.
+
+ ב-1946 נבחר לאספת הנבחרים הרביעית ברשימת "תורה ועבודה" (הפועל המזרחי) והיה חבר בה עד להחלפתה במועצת-המדינה הזמנית.
+
+ ב-1955 נבחר בראש רשימת הפועל המזרחי למועצת עירית תל-אביב-יפו, וכשהורכבה הנהלת העיר נבחר לסגן ראש העיר ולראש המחלקה לתברואה.
+
+ בניו: <persName>יהודה, ייחמיאל, נחום.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3051 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3051</bibl><bibl>Volume: #8 ,Page: 3052 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3052</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

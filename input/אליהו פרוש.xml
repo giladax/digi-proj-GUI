@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3098 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3098</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו פרוש</persName>
+
+</head>
+         <div><p> נולד בט"ו אלול תרמ"ג (1883) בירושלים. לאביו ר'<persName> גרשון </persName> (ראה ערכו בכרך זה) ולאמו <persName>מייטא</persName> <persName>פריל</persName> בת ר' <persName>ישראל ברימ"ט,</persName>
+
+ למד בת''ת ובישיבת "עץ חיים", ובגיל 18 החל עוזר לאביו בעבודתו בניהול המשק של בית-החולים "שערי צדק", שכל ספריו וחשבונותיו ורשימותיו נערכו בגרמנית, ולכן שכר לו אביו מורים ללמדו גרמנית <persName>(אלכסנדר פרייס</persName> , פקיד במשרד בית החולים הנ"ל, ואחריו הזואולוג <persName>י. אהרוני</persName> ), וסגן המנהל מר <persName>יונה מרקס</persName> לימד אותו לפי ספר-לימוד גרמני תורת ניהול המשק והחשבונות והשרות בבית-חולים.
+
+ בתרס"ג נשא לאשה את <persName>דבורה גיטל</persName> בת ר' <persName>יוסף</persName> <persName>מקופקי</persName> , נכדת ר'<persName> גדליה דוד</persName> סופר סת"ם, שהמציא חידוש טכני חשוב בעשית "בתים" לתפילין.
+
+ המשיך לעבוד בניהול המשק והשרות בבית-החולים, רכש יום-יום את המצרכים מהשוק שבעיר העתיקה, וזמן-מה רכש גם את המצרכים בשביל המטבח לתלמידות בית-הספר <persName>אולינה דה רוטשילד</persName> (בהנהלת <persName>"מיס</persName> <persName>לנדוי"</persName> הזכורה לישוב הירושלמי הותיק). כשהיה מחסור במצרכי מזון בשתי מלחמות העולם, סידר הלואות
+
+ ורכישת מצרכים גם לעובדי המוסד יחד עם הרכישה למוסד עצמו, וכן סידר לעובדים הלואות גמ"ח, ובסוף סידר להם קופה פנימית לחסכונות והלואות, הקיימת עד היום.
+
+ במלחמת-העולם הראשונה, כשהיה צפוי לגיוס לצבא הטורקי, עמד לצאת מהארץ ללונדון וכבר ירד ליפו. אך הנהלת בית-החולים שלחה להחזירו והבטיחה לפדותו בכל עת שידרשוהו לצבא, וליתר בטחון מינתה אותו לרב של בית-החולים. אף-על-פי-כן נתפס לצבא, כששוטר צבאי ראה אותו עסוק ברכישת המצרכים, עבודה שלפי הבנתו של השוטר אינה בתפקידו של הרב. נסחב לדמשק ולחלב ועד עדאנה שבאנאטוליה הגיע, ואחרי סבל רב במחנות ובבתי-חולים הצליח להשתחרר ולהגיע הביתה חדשים מספר לפני שהצבא הטורקי גורש מירושלים.
+
+ כמה פעמים הוצעו לו משרות-מינהל במוסדות אחרים, אך סירב לנטוש את המוסד שאביו והוא השקיעו בו עמל עשרות שנים. שקד על טובת עובדי המוסד, ואילו במלחמותיהם עם ההנהלה על שיפור התנאים עמד כאילו מן הצד ועזר להם בהשפעתו ובמשקלו האישי כנאמן הבית. כן דבק במוסד זה משום שבהיותו מנוהל לפי מיטב המסורת הדתית ניתן לו לקיים בו בקביעות תפלה ולימוד תורה בצבור כחפצו. בית-חולים זה שימש בית-מרפא לחוג החרדים, אך הוא קיים קשרים גם עם הישוב החדש, ובמלחמת השחרור התנדב למשמר העם, אף כי היה למעלה מגיל השרות, ושימש בתפקיד מפקד אזור, ובמינהל בית-החולים עזר בהרבה לקליטת פצועי הקרבות.
+
+ בתשי"ב הוציא לאור ספר בשם "שערי צדק" לתולדות בית החולים שערי צדק בירושלים לכבוד יובל השנים ליסוד המוסד ועבודתו תחת חסות המוסד ורופאו ומנהלו הראשי ד''ר<persName> משה וואלאך</persName> ).
+
+ צאצאיו: <persName>אסתר הינדה</persName> אשת <persName>בן-ציון שני</persName> (מהנדס ראשי בחברת החשמל בירושלים), הרב ד''ר<persName> ישראל</persName> <persName>פרוש</persName> (רב ראשי באוסטרליה), <persName>שלמה זלמן, לאה</persName> אשת <persName>תיאודור הרצל קוק, רבקה</persName> אשת <persName>דב דמבו, שרה</persName> אשת <persName>דוד רולאנד, שושנה</persName> אשת <persName>ירוחם בן-דרור.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3098 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3098</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

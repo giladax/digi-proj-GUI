@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1730 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1730</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף שחור (שוארץ)</persName>
+
+</head>
+         <div><p> נולד בצוואנץ, פלך פודוליה (רוסיה), א' תמוז תרנ"ד (1894) לאביו <persName>אליהו שווארץ </persName> (סוחר ועסקן) ולאמו<persName> סימה</persName> <persName>בת צבי פרידמן.</persName>
+
+ למד בחדר, בבית ספר. אחרי גמר הלימודים עסק בעבודה משרדית בלודז.
+
+ בשנת תרע''ד עלה ארצה בתור תלמיד בבית המדרש העברי למורים בירושלים, בימי מלחמת העולם הראשונה התנדב לצבא התורכי
+
+ (1916). גמר בקושטא בית ספר לקצינים יחד עם קבוצת תלמידים של בית המדרש למורים והגימנסיה "הרצליה". אחרי גמר בית הספר שימש כמתורגמן בצבא הגרמני בקורדיסטן. 
+
+ אתרי המלחמה חזר לירושלים ומשתתף בשנת תרנ"ט בייסוד "הלואה וחסכון". עד לשנת 1935 הוא משמש כמזכירה. משנת 1935 הוא מנהל "הלואה וחסכון" בירושלים. חבר בהנהלת בנק "זרובבל". עסקן בתנועת הקורפורציה האשראית בארץ, בתפקיד יו"ר המועצה של "מרכז ברית הפיקוח של הקופרציה האשראית". חבר לשכת המסחר בירושלים.
+
+ בשנת תרפ"א נשא לאשה את <persName>חנה </persName> בת<persName> נחום קומרוב.</persName>
+
+ בנותיו:<persName> אולה</persName> אשת <persName>אהרן ברטלר </persName> (חיפה),<persName> רחל</persName> אשת <persName>חסדאי ורון </persName> (ירושלים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1730 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1730</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

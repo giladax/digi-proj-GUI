@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3851 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3851</bibl><bibl>Volume: #11 ,Page: 3852 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3852</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים יעקב הכהן (פיינשטיין)</persName>
+
+</head>
+         <div><p> נולד בשנת ת''ר (1840).
+
+ לאביו<persName> יהודה דב.</persName>
+
+ בילדותו עלה לא"י עם אביו ושלשה אחים והתישבו בצפת.
+
+ בשנת תרכ"א (1861) יצא בשליחות צפת להודו וביקר בכלכותה ובבומבי.
+
+ בהיותו בבומבי נודע לו על החלירע שפרץ בירושלים, לשם כך ערך מיד מגבית מיוחדת לטובת הנפגעים, וגבה 1175 רפיות. את הסכום הזה המציא לידי החכם באשי <persName>דוד חזן</persName> בירושלים.
+
+ בשנת תרל"ג (1873) יצא שנית בשליחות, והפעם ביקר גם בתימן. בהיותו במקומות אלו ראה שהיהודים נוסעים לתומם במסילת הברזל ביום השבת. לשם כך הדפיס בשנת תרל"ד (1874) בכלכותא קונטרס קטן בשם "אמרי שבת" על "איסור הליכת מסילת הברזל בעגלות הקיטור בשבת".
+
+ בתימן לא הצליח לאסוף כסף, אבל פרסם בעתון "המגיד" כמה ידיעות על היהודים שם.
+
+ בשנת תרמ"ו (1886) יצא שוב בשליחות להודו, והדפיס בכלכולתא ספר קטן בשם "תורת אמך" (דברי מוסר). בתרמ"ז (1887) הגיע לקוג'ין. בהיותו שם התעוררה מחלוקת בין היהודים הלבנים והיהודים השחורים בקוצ'ין. הוא יצא לעזרת השחורים, שהלבנים
+
+
+ אמרו עליהם שאינם מיוחסים, וחיבר קונטרס "משבית מלחמות" - להוכיח את צדקתם.
+
+ עיקר פעולתו לטובת הישוב בא"י היתה גאולת הקרקעות בכפר ג'וני ליד צפת, במטרה, לבנות עליהם ישובים יהודיים. חלק מהקרקעות מכר ליהודים בחו"ל, ועל אדמות אלו, הוקמה אח"כ המושבה "ראש פינה" בעזרת דוד שו"ב ועוד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3851 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3851</bibl><bibl>Volume: #11 ,Page: 3852 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3852</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2807 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2807</bibl><bibl>Volume: #7 ,Page: 2808 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2808</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' יצחק קלוגאי (קלג'סקי)</persName>
+
+</head>
+         <div><p> נולד בי"ד תשרי תרמ"ט (20.9.1888) בקרמנצ'יג שבאוקראינה.
+
+ לאביו<persName> צבי קלג'סקי </persName> (מצד אמו מצאצאי ר' נחמן מברסלב. נינו של הבעש"ט) ולאמו<persName> חנה</persName> בת <persName>יצחק</persName> <persName>יורובסקי.</persName>
+
+ גמר גימנסיה קלאסית בפולטאבה (1908). שם הש
+
+
+ תתף ביסוד תנועת הנוער הציוני "יהודה הצעיר". אח"כ למד מדעי הטבע באוניברסיטת קיוב וגמר בדרגה ראשונה ב-1912. בשנות למודיו היה פעיל במפלגת פועליציון.
+
+ ב-1913 עלה לארץ ולימד כימיה. פיסיקה ומתמטיקה בגמנסיה העברית בירושלים.
+
+ רעיתו היא<persName> שולמית</persName> בת <persName>צבי שמשי </persName> (אחות <persName>יצחק בן</persName> <persName>צבי,</persName> נשיא מדינת ישראל) - ראה כרך ב', עמוד 639.
+
+ בראשית מלחמת העולם א' קיבל את הנתינות העותומנית, לבל יגורש מן הארץ בגלל נתינות רוסית, וב1916 גויס לצבא העותומני ושירת בו כמעט עד סוף המלחמה.
+
+ בשנת 1920 יצא להשתלם בכימיה באוניברסיטת פיטסבורג שבארצות הברית. שם השתתף בחוגי פועלי ציון ועסק בהוראה. ב-1922 קיבל את התואר "מוסמך למדעים'' (בכימיה), עבד בבתי חרושת כימיים, וב-1924 חזר לארץ.
+
+ כחבר ועדת התרבות המרכזית של הסתדרות העובדים (1924-25) הרצה הרצאות פופולריות במדעי הטבע לפועלים, השתתף בעבודה תרבותית כללית ויסד בירושלים את הקורסים הראשונים להשתלמות פועלים ובחשמלאות.
+
+ חבר ההסתדרות הכללית של העובדים העברים בא''י, חבר מפא"י.
+
+ משנת 1925 אסיסטנט, מרצה ואח"כ פרופסור לכימיה בטכניון בחיפה, והורה כימיה בבית הספר הריאלי.
+
+ הנו חבר הסתדרות הכימאים בישראל, חבר הסתדרות המורים וחבר אגודת הכימאים באמריקה, השתתף בועידות כימאים, מהנדסים ואדריכלים, בועידות מורים ובקונגרס לתולדות המדע.
+
+ פרסם מאמרים ב"הטבע והארץ'', "טכניקה ומדע'', "דבר" ועוד - וכן בעתונות המקצועית באנגלית מאמרים בכימיה ובתולדות הטבע.
+
+ ספריו: "קצור תולדות הכימיה" (הוצאת "הטבע והארץ", תרצ"ח), "שבע מתכות" (הוצאת ראובן מס, ירושלים, 1937), "שעורי כימיה" (שני חלקים, יצא כשלש מהדורות, בהוצאת "אמנות" תרצ"ח), "כימיה בחיי יום-יום" (הוצאת "דבר", תשי"ב), וספרי לימוד בדרגה אקדמאית - בהוצאת אגודת הסטודנטים של הטכניון בחיפה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2807 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2807</bibl><bibl>Volume: #7 ,Page: 2808 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2808</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

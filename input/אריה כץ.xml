@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1932 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1932</bibl><bibl>Volume: #4 ,Page: 1933 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1933</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה כץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>טארנוב</placeName> (גליציה המערבית), כ"ח תמוז תרס"ג (23.9.1903), לאביו <persName>אברהם.</persName>
+
+ בגיל שלוש עבר עם הוריו לוינה, שם קיבל חינוך יהודי וכללי, עסק בענפי ספורט שונים, וביחוד בשחיה, והיה חבר מחלקת השהיה של "הכח" וינה.
+
+ עלה לאת ב-1925. עבד בתל-אביב בתיקון מכוניות והצטרף למחלקת השחיה של "מכבי" והיה חבר קבוצתה הנבחרת, ובשנות 1927/28 הופיע בשם מכבי
+
+
+ ת"א בתחרויות הארציות הראשונות לשחיה שנערכו בחיפה ביזמת הממשלה.
+
+ באין בריכה התאמן בימה של ת"א ותוך אימוניו נזדמן לו להציל רבים מטביעה, והמתרחצים כבר ידעו, כי בזמן שאותו בחור מוינה נמצא בקרבת מקום אין נשקפת סכנה לחייהם, שכן יש מציל גם בחוף תל-אביב, כמו במקומות-רחצה ימיים הגונים בעולם.
+
+ ב-1927 נתמנה מטעם עירית תל-אביב להיות מציל בשכר מדי שנה בשנה. ב-1930 יצא לדניה ולגרמניה והשתלם בשיטות חדשות בהצלת טובעים וגם בהתעמלות ובשחיה, ומשחזר המשיך בשרותו (חוף משנה אחת, כשהוזמן להיות המאמן הראשי לשחיה בבריכת הסתדרות הצעירים בירושלים) ובמשך שנות פעולתו הציל הרבה מאות מטביעה וחינך והכשיר מצילים חדשים. השתתף ביסוד המועדון לבוכס "בני ליאונרד" והיה גם מורה להתעמלות למאות ילדים ומבוגרים. באחת מפעולותיו הנועזות בהצלת אדם מטביעה נפצע פצע אנוש. מאז חלה ונפטר בתל-אביב, י"ט ניסן ת"ש (27.4.40).
+
+ לזכרו הוציא ארגון המצילים בת"א ב-1946 את החוברת "השחיין והמציל התל-אביבי" (לזכר אריה כץ) מאת <persName>ליפא לויתן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1932 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1932</bibl><bibl>Volume: #4 ,Page: 1933 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1933</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3172 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3172</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר ליואי</persName>
+
+</head>
+         <div><p> נולד ביפו, י"ד ניסן תרס"ד (30.3.1904).
+
+ לאביו המורה והמחנך <persName>אברהם ליואי</persName> (ראה ערכו בכרך זה) ולאמו <persName>רבקה</persName> בת<persName> יהודה הורביץ</persName> מירושלים.
+
+ קבל חנוך מסורתי בביה''ס תחכמוני ביפו ובביה"ס התיכוני למסחר בתל-אביב.
+
+ בשנות 1922-23, היה מנהל טחנת הקיטור של <persName>יחזקאל דנין </persName> בפלוג'ה ע''י עזה.
+
+ היה מנהל הענינים של <persName>א. מ. הויזדורף</persName> (סוכנות פחמים) בתל-אביב.
+
+ עבד כגזבר ראשי בבנק אפ"ק (היום - הבנק הלאומי לישראל בע''מ).
+
+ היה המזכיר הראשון של החברה למחסני קרור מטעם ה"ה <persName>יפה-פוליקנסקי</persName> בתל-אביב.
+
+ ממיסדי גדוד מגיני השפה העברית. נשא לאשה את <persName>שרה</persName> בת <persName>צבי ברונשטיין.</persName> השתלם במוסד הלונדוני לרואי חשבונות מוסמכים והמשיך בבלגיה. קבל תואר של רואה חשבון מוסמך.
+
+ משנת 1934 בשותפות עם <persName>אברהם פלמן </persName> ומנהל הפירמה "פלמן, ליואי ושות', רואי חשבון מוסמכים".
+
+ חיבר ספר "תורת הנהלת חשבונות" (1933).
+
+ היה חבר מועצת בת-ים.
+
+ חבר הרוטרי ביפו-תל-אביב.
+
+ חבר מועצת רואי חשבון בישראל מיום הוסדה (1949). נשיא לשכת רואי חשבון בישראל.
+
+ צאצאיו:<persName> ירון, רם, אוריה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3172 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3172</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

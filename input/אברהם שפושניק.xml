@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 725 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/725</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם שפושניק</persName>
+
+</head>
+         <div><p> (שם משפחתו לפנים : <persName>ביצ'קובסקי)</persName> . - נולד בעיר חודורקוב, פלך קיוב, אוקראינה, בשנת תרי"ד (1854), לאביו <persName>יהודה ליב</persName> . קיבל חינוך יהודי מסורתי ולמד את מלאכת עשית חגורות רפואיות ומחוכים. בן 18 עבר לברדיצ'ב, עסק במקצועו, הקים משפחה והתמסר לעבודה ציונית. חיבב את השירה הדתית, התקרב לגדולי החזנים ולמד מהם. היה עובר לפני התיבה בהתנדבות, אך לא עסק במקצוע זה לשם פרנסה.
+
+ עם התחלת זרם העליה השניה עזב את עסקיו בברדיצ'ב וב-11 בינואר 1906 הגיע ארצה והתישב בפתח-תקוה, קנה 100 דונם אדמה ונטע כרם שקדים. שלש פעמים חזר לרוסיה מעת עליתו עד שנת 1913 והביא את כל משפחתו.
+
+ בתרע"ג יסד בפתח-תקוה את מקהלת "הזמיר", שהכילה 40 חברים פעילים, ונוסף לכך ארגן אותה כאגודה שקיבלה גם חברים תומכים ובכספי מסיהם נקנו תוים, מחברות ושאר הצרכים. התמסר להדרכת המקהלה בתור מנצח והשפיע ממסירותו גם על החברים. המקהלה הופיעה באספות ובחגיגות צבוריות ולאומיות (אחת מהופעותיה ה"היסטוריות" היתה
+
+ בעת ביקור הנציב העליון<persName> סיר הרברט סמואל</persName> בפתחתקוה בשנת תרפ"ב), עברו עליה גלגולים שונים והיא מתקיימת עד היום ותמיד זכתה להוקרה מצד התושבים וראשי המושבה.
+
+ בייחוד מילאה המקהלה תפקיד מועיל מאד בתקופת מלחמת-העולם הראשונה, כששרר במושבה דכאון כללי ופחד בגלל מעשי הדיכוי והשוד של חיילי הצבא.
+
+ הטורקי, ולא פעם פחדו התושבים לצאת בערב מבתיהם. אך אברהם שפושניק וחברי מקהלתו היו מתאספים בכל ערב באולם בית-הספר החקלאי של הד"ר <persName>חניאל</persName> (פיקהולץ), ושירתם שנשמעה בכל המושבה, עודדה קצת את הרוחות וחיזקה את התקוה שיחלפו ימי הרעה. אולם הוא עצמו לא זכה להגיע לכך, כי נפטר בתל-אביב, ביום כ"ז אלול תרע"ה. נקבר בבית הקברות הישן.
+
+ בן אחיו היה שניאור שפושניק מראשי המתנדבים. להגנת תל-חי והחלל הראשון שם. 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 725 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/725</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

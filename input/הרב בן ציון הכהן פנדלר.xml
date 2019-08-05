@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4066 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4066</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב בן-ציון הכהן פנדלר</persName>
+
+</head>
+         <div><p> נולד בדוניבצי (רוסיא), ג' תמוז תרנ"ח (1898). לאביו הרב <persName>יוסף הכהן פנדלר</persName> זצ"ל (נכד הרבי
+
+ המפורסם הגאון ר' <persName>ישראל חריף</persName> , בעל "תפארת ישראל" מסטנוב) ולאמו<persName> אסתר גיטל </persName> בת הרב<persName> יעקב </persName> (ז"ל) <persName>שפירא.</persName> קיבל חינוך מסורתי בחדר ובישיבות קמיניץ וקישינוב.
+
+ היה רב בעירו.
+
+ פעיל בתגועת המזרחי ובעניני צבור.
+
+ בשנת תרצ"ד (1934) נשא לאשה את <persName>לאה</persName> בת הר' <persName>יצחק לוי זעליחובסקי.</persName>
+
+ בשנת תרצ"ו (1936) עלה לארץ.
+
+ נתקבל לעבור בועד הארצי של הקרן הקימת והיסוד במחלקת החרדים.
+
+ רב אזורי בצפון ת"א.
+
+ מנהל מחלקת החרדים בועד הארצי של קרן קימת.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4066 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4066</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

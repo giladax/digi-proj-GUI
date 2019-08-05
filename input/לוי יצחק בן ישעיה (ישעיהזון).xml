@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3187 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3187</bibl><bibl>Volume: #8 ,Page: 3188 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3188</bibl>
+<bibl>Volume: #8 ,Page: 3189 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3189</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>לוי יצחק בן-ישעיה (ישעיהזון)</persName>
+
+</head>
+         <div><p> נולד בקיוב (רוסיה), בשנת תרכ"ח (1868).
+
+ לאביו <persName>יהושע אוסלנדר</persName> ולאמו <persName>ראשע</persName> (נכדת ר'<persName> לוי</persName> <persName>יצחק</persName> מברדיצ'ב).
+
+ קבל חנוך מסורתי. 
+
+
+ בשנת תרמ"ב (1882) עלה לארץ.
+
+ למד בישיבה ואח"כ עבד בדאר האוסטרי בירושלים. בשנת תרנ"ד (1894) נשא לאשה את <persName>שיינדל</persName> בת <persName>אברהם יחזקאל שורצברג</persName> ובזיווג שני נשא לאשה את אחותה<persName> יוכבד איטה.</persName>
+
+ עבד יחד עם <persName>אליעזר בן-יהודה</persName> במערכת "החבצלת". מהלוחמים להוצאת ילדי ירושלים שנמסרו למסיון. היה פקיד בבית החולים הדסה בירושלים.
+
+ בין העסקנים בעזרה האמריקאית במלחמת העולם הראשונה.
+
+ נתן חנוך עברי ולאומי לצאצאיו.
+
+ נפטר בירושלים, י"ד טבת תרפ''ט (27.12.1928). צאצאיו (מאשתו הראשונה): <persName>אליקום</persName> ז"ל,<persName> אסתר</persName> אשת <persName>יהושע פבזנר</persName> (ראה ערכה בכרך ה', עמוד 2239), <persName>נחמה </persName> ז''ל, <persName>משה.</persName>
+
+ (מאשתו השניה): <persName>יהושע </persName> ז''ל,<persName> צבי, יפה</persName> אשת <persName>ישראל ורנר, לאה, יהושע, שלום</persName> ז''ל,<persName> נחום.</persName>
+
+
+ הוספות ותקונים
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3187 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3187</bibl><bibl>Volume: #8 ,Page: 3188 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3188</bibl>
+<bibl>Volume: #8 ,Page: 3189 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3189</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

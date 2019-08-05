@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3376 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3376</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם חקלאי (צחובוי)</persName>
+
+</head>
+         <div><p> נולד כ''ה ניסן תרנ"ח (29.3.1898) בקרץ' שבחצי-האי קרים, רוסיה.
+
+ לאביו<persName> ישראל</persName> ולאמו <persName>חיה שרה</persName> בת <persName>יעקב נטע קראסני</persName> (אחותו של<persName> גרשון קראסני, </persName> שהיה עורך עתונים ציוניים בשפה הרוסית ועסקן צבורי, ואחד מאחיה הוגלה לסיביר מפני שבהיותו סטודנט סטר על לחיו של<persName> פורישקי</persName> <persName>ביץ',</persName> המנהיג האנטישמי הנודע ברוסיה, ואחרי שגמר את לימודיו בסיביר נתמנה שם למהנדס-יעור).
+
+ למד בגימנסיה ממשלתית בקרץ' והיה פעיל בארגון חוגי נוער ציוני ולמען הקה"ק, ואחרי מהפכת אוקטובר 1917 היה חבר ה"סוביעט רבוציק דעפוטאט".
+
+ אחרי גמר הגימנסיה למד שנה במכון לפסיכו-נברולוגיה בפטרוגראד ושנתים בפקולטה לחקלאות באוניברסיטת סימפרופול שבקרים. ב-1918 נתן יד <persName>ליוסף</persName> <persName>טרומפלדור</persName> ביסוד החלוץ ופעל בהכשרה בפולוסטרובו שליד פטרוגראד ובחות ההכשרה בש-טרק בקרים.
+
+ עלה לארץ באביב 1919. עבד במרחביה, בקבוצה חקלאית במגדל, השתתף ביסוד גדוד העבודה על שם טרומפלדור, היה חבר בקבוצת רושמיה, על הכרמל, עבד בעין חרוד, היה מבוני תחנת החשמל בתל-אביב, חבר קבוצת קרית ענבים, ממיסדי קרית עבודה (אח"כ חלק של העיר חולון). נתקבל לעבודות במינהל במועצה המקומית חולון והנה כעת מנהל ארגון בעלי גינות של עירית חולון.
+
+ ב-1924 נשא לאשה את <persName>מלכה</persName> בת <persName>קלמן פומרנץ,</persName> ואחרי פטירתה בט''ז חשון תר"ץ בקרית ענבים נשא ב-1932 את<persName> בלומה</persName> בת <persName>ברוך טרמבובולסקי.</persName>
+
+ השתתף ביסוד חטיבת עובדי הרשויות המקומיות בהסתדרות הפקידים והיה חבר מזכירותה הארצית. כעת הנו חבר הנהלת קופת תגמולין של עובדי עירית חולון, חבר מועצת הסניף המקומי של מפא"י, חבר ועדת התרבות ומרכז פעולת הנחלת הלשון של מועצת פועלי חולון, ועוד.
+
+ שירת ארבע שנים בצבא הבריטי במלחמת העולם השניה.
+
+ כתב ב"קונטרס", "הפועל הצעיר", "הפנקס", "דבר", "החייל העברי", "שורות", ועוד.
+
+ בנותיו:<persName> רות</persName> אשת<persName> יוסף איתן, אילנה</persName> אשת<persName> אלי</persName> <persName>מרגלית, ברכה</persName> אשת <persName>נמרוד אשל.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בחולון, כ"ז חשון תשכ"ג (24.11.62)
+
+ והובא לקבורה במשק קרית ענבים
+
+ (ראה כרך ט', עמוד 3376)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3376 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3376</bibl>            <bibl>Volume: #13 ,Page: 4357 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4357</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

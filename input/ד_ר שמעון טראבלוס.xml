@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 164 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/164</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר שמעון טראבלוס</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> חשון תרמ"ה, לאביו צדוק, נכדו של הרב <persName>חיים אברהם גאגין,</persName> הראשון-לציון הראשון ב<placeName>ירושלים</placeName>, רב ראשי בעל סמכות ממשלתית. למד בתלמוד-תורה של העדה הספרדית ב<placeName>ירושלים</placeName>, ואח"כ בבית-הספר של כי"ח (אליאנס), במקוה ישראל, והשתלם בשפות ובהשכלה כללית.
+
+ בתרס"ג נתמנה למנהל בית-הספר בחדרה, עבד בתפקיד זה חמש שנים, עזר בהרבה לשכלול ביתהספר וביסוסו ונתחבב על ההורים והילדים. מתרס"ט עד תרע"א היה פקיד של חברת יק"א בניהול עניני המושבה והמשק בסג'רה.
+
+ יצא לז'נבה בשוייץ ולמד רפואה באוניברסיטה. היה שם יו"ר האגודה הציונית של הסטודנטים "השחר" ועם פרוץ מלחמת-העולם הראשונה, כאשר נותקו סטודנטים רבים מארצות מוצאם וממקורות העזרה שקיבלו, נבחר לחבר בועד שנוסד על-ידי הפרופסורים לעזרת הסטודנטים הנצרכים מכל העדות והארצות.
+
+ בתרע"ז גמר את לימודיו, הוכתר בתואר ד"ר לרפואה וחזר הביתה. גויס לשרות בצבא ושמש רופא צבאי באיסטמבול עד סוף המלחמה. חזר ארצה ובמושבה שהיה לפנים מנהל בית-הספר, בחדרה, נתקבל כרופא והמשיך בשרותו זה עד סוף שנת תרפ"ד. מתרפ"ה ואילך הוא רופא פרטי בתל-אביב.
+
+ חבריו בבית-הספר היו: <persName>איתמר בן-אבי</persName> , השופט ד"ר <persName>מ. ואלירו, אברהם אלמליח,</persName> ד"ר<persName> רפאל אופלטקה</persName> ועוד.
+
+ אביו<persName> צדוק (צדיק)</persName> היה מורה לדקדוק, כותב דרשות, עובד בבתי-הדין ב<placeName>ירושלים</placeName>, ובסוף ימיו נתמנה מטעם השלטון הטורקי לצנזור לשפה העברית.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 164 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/164</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

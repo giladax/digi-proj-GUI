@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2856 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2856</bibl><bibl>Volume: #7 ,Page: 2857 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2857</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישעיהו (הרברט) פורדר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>שרלוטנבורג</placeName> (גרמניה), ה' ניסן תרס"א (25.3.1901).
+
+ לאביו <persName>איבן</persName> (יצחק) <persName>פורדר </persName> ולאמו <persName>הלנה</persName> לבית <persName>ראובנסון.</persName>
+
+ קבל חנוך באוניברסיטאות: פרייבורג, היידלברג וקניגסברג (משפט וכלכלה) וקבל תואר ד"ר למשפטים (עורך דין).
+
+ בשנת 1926 נשא לאשה את <persName>גרטרוד</persName> בת <persName>מנחם סימון.</persName> עבד בחו"ל כעורך-דין, היה חבר ההנהלה ומזכיר פוליטי של ההסתדרות הציונית בגרמניה. בשנת 1933 עלה לארץ.
+
+ ממיסדי חברת "רסקו" בע"מ ומנהלה בפועל. החברה הקימה כפרים, שכונות, ושכונים בכל רחבי הארץ.
+
+ היה ציר אספת הנבחרים ברשימת "עליה חדשה'' וחבר הועד הלאומי.
+
+ לשעבר מנהל "עמידר".
+
+ אחרי הקמת המדינה (בימי הממשלה הזמנית) היה מפקח על המזונות.
+
+ חבר הנהלת המפלגה הפרוגרסיבית. חבר הכנסת - הראשונה, השניה והשלישית, נבחר מטעם המפלגה הפרוגרסיבית.
+
+ היה ציר בכמה קונגרסים ציונים.
+
+ כתב מאמרים בעתונות בארץ ובחו"ל - במיוחד על בעיות כלכלה וכספים.
+
+ בתו: <persName>מרים.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2856 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2856</bibl><bibl>Volume: #7 ,Page: 2857 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2857</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

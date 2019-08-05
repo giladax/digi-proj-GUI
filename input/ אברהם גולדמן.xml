@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1800 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1800</bibl><bibl>Volume: #4 ,Page: 1801 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1801</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> אברהם גולדמן</persName>
+
+</head>
+         <div><p> לאביו<persName> יהודה</persName> נולד בעירה צ'חנוב, פלך פלוצק (פולין) בשנת תרל"ג (1873). קיבל חינוך מסורתי בחדר ובישיבה.
+
+ השתלם במקצוע של שען ופתח בית מלאכה ובית מסחר לשעונים בלודז.
+
+ נשא לאשה את <persName>רחל</persName> בת <persName>זאב סגל,</persName> מפלונסק.
+
+ היה מחובבי ציון הראשונים, פעל רבות למען תעמולה לעליה לארץ. הפיץ שקלים ואת ספריהם של
+
+
+ ר' עקיבא איגר, צבי קלישר, יעקב אמדן וכו'. והיה פעיל בתנועת "המזרחי". האמרה שלו: "מי שלא נוסע בעצמו לא"י - איננו נחשב לציון", המצווה היא למי שמקיים אותה בגופו.
+
+ בשנת תרס"ז עלה עם בנו הבכור יעקב ואח"כ העלה את בני משפחתו לארץ. התישב ביפו ויזם ליסד בית חרושת לשעונים עם אותיות ומספרים עבריים, לשם כך נסע ב-1914 לשוייץ לרכוש מכשירים ומכונות ולרגלי פרוץ המלחמה העולמית הראשונה - נשאר שם עד 1920.
+
+ מצניע לבת כל חייו, עבד ולמד תורה בשעות הפנאי.
+
+<persName>צאצאיו: יעקב</persName> (מנהל כללי של "מגן-צ'טווד" בע''מ), <persName>יחיאל, טובה</persName> ז"ל, <persName>מרים.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1800 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1800</bibl><bibl>Volume: #4 ,Page: 1801 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1801</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

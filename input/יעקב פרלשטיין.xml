@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 315 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/315</bibl><bibl>Volume: #1 ,Page: 316 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/316</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב פרלשטיין</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"ז כסלו תרל"ט (1878), לאביו ר'<persName> יצחק קלמן,</persName> שעלה ארצה בבחרותו עם אביו ר' <persName>שמואל</persName> <persName>כלב</persName> , שו"ב מקובנה, ולאמו בת הרב החכם והחוקר ר' <persName>נחמן נתן קוהוניל,</persName> מחבר הספרים "בית נתן", "זכר נתן" ועוד.
+
+
+ למד ב"חדר" והיה מנערי ירושלים הראשונים שהתקוממו בפועל למנהג המלמדים להכות את תלמידיהם (ואף השיב בידים למלמדו ר' <persName>יעקב הוברדיקה </persName> כפני התלמידים והכריחו בכך לחדול מחינוך בהרמת יד ושוט). אח''כ
+
+ למד תורה מפי דודו הרב הצדיק ר' <persName>מיכאל שפירא</persName> .
+
+ בתרנ"ט ירד ליפו ונכנס לעבוד כפקיד בבית-מסחר ואח"כ נתקבל לשותף בעסק ולמעלה מ-25 שנה ניהל את הפירמה <persName>טורקניץ-פרלשטיין</persName> ורכש לה שם טוב בחוגי הלקוחות היהודים והאחרים. היה חבר פעיל בלשכת "אחוה," והשתתף בה ביסוד החדר הדתי לאומי "תחכמוני(בניסן תרס"ה) וביתר פעולותיה לטובת הצבור. הצטרף לחברת "אחוזת בית" שיסדה את השכונה תל-אביב ובנה בה את ביתו ברחוב לילינבלום בין ששים ראשוני הבונים, ובחנוכת הבית עשה סעודה לעניים. היה חבר בועד שכונת תל-אביב.
+
+ אחרי שובו מהגירוש במוצאי מלחמת-העולם הראשונה התמסר לגאולת קרקעות והרחבת הישוב העברי מדרום ליפו. השתתף בהרחבת שטח בית וגן (היא <persName>בת</persName> <persName>ים),</persName> בנה לו שם בית ונבחר לחבר הועד והמועצה. יסד את השכונות מנורה א' וג' (נקראו כך על שם תכנית הרחובות שיסתעפו בצורת קני המנורה) מעבר למקור. ישראל ומנורה ב' בבת-ים. ביזמתו נרכשו קרקעות בדרום בשביל חברת הכשרת הישוב, עולי פולין, אגרובנק וקרית עבודה, ולבסוף מאות דונמים כשביל שכונה בשם "צל צח".
+
+ תמך בבנין בית-הכנסת הגדול בתל-אביב.
+
+ נפטר בביתו בבת-ים, כ"ט חשון תש"ב.
+
+ צאצאיו: <persName>שפרה</persName> אשת ישראל ורטהיים,<persName> לאה</persName> אשת אברהם מרימסקי<persName>, יצחק, רבקה</persName> אשת מרדכי מאיר<persName> ואהודה</persName> אשת שלמה בורנשטיין.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 315 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/315</bibl><bibl>Volume: #1 ,Page: 316 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/316</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

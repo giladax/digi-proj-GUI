@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 155 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/155</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלעזר יעקב פודהורצר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>צפת</placeName> בט"ו אדר תר"כ לאביו ר' יונה בן הרב ר' יעקב, רבה של קהלת טרנופול (גליציה) מצאצאי ר' שאול ווהל. נתחנך ב"חדר" ובישיבה ב<placeName>צפת</placeName>. בשנתו ה-27 בחרו בו רבני העדה וראשיה ושלחוהו לאוסטריה לעורר את לב נדיבי עמנו להגביר את עזרתם ליהודים יוצאי מלכות אוסטריה (וגליציה בכללה). במסעו נפגש עם רבנים, המנהיגים וגדולי הצבור בווינה ובערים רבות והצליח לעוררם לעזרת הסובלים יסורי ישוב ארץ-ישראל.
+
+ תקע יתד לישוב עברי במירון, קנה שם שטחי אד
+
+ מה, יסד שם ישיבה ומושב-זקנים, גאל את קברו של רבי יוחנן הסנדלר ועזר לגאול את שרידי ביתהכנסת העתיק של מירון, הנקרא על שם רבי שמעון בן יוחאי.
+
+ במשך שנים רבות עמד בראש בית-החולים אטלינגר, אולם לא היה מרוצה מדרגת בית-החולים הזה, בי לפי דעתו היתד, צפת היהודית זקוקה וראויה למוסר רפואי משוכלל יותר. לפיכך, כשביקר הרב הלונדוני ד"ר גאסטר ב<placeName>צפת</placeName> הטעים לו ר' אלעזר יעקב את הצורך בבית-חולים חדיש, היכול לעמוד בהתחרות לעומת בית החולים של המיסיון. כשחזר הד"ר גאסטר ללונדון הצליח להשפיע בענין זה על הבארונית די רוטשילד, ואכן בנתה ב<placeName>צפת</placeName> את בית-החולים רוטשילד, שהוא כיום בית-החולים של "הדסה".
+
+ מעת שנוסדו המושבות בגליל העליון שקד על שלומם וטובתם של תושביהן ולא פעם היד, מכתת את רגליו לראש-פנה, ואפילו עד למטולה, כדי ליישב סכסוכים ולהביא שלום בין אדם לחברו.
+
+ היה מכובד אף בעיני אנשי השלטון ובעת הצורך היה מתיצב לפניהם בשליחות העדה להגנה על עניני היהודים.
+
+ נפטר ב<placeName>צפת</placeName>, בי"ד מרחשון תרפ"ה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 155 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/155</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

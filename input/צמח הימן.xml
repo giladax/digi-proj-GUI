@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3844 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3844</bibl><bibl>Volume: #11 ,Page: 3845 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3845</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צמח הימן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>לונדון</placeName> (אנגליה) בשנת תרנ"ט (12.2.1899).
+
+ לאביו הרב <persName>אהרן היימן</persName> ולאמו<persName> רחל</persName> לבית <persName>אברהמ</persName> <persName>סון.</persName>
+
+ חניך: בי"ס גבוה, פקולטה לרפואה ב<placeName>לונדון</placeName>.
+
+ בימי מלחמת העולם הראשונה התגייס ללגיון היהודי.
+
+ בשנת 1922 עלה לארץ.
+
+ עד שנת 1950 חבר הנהלת בנק ברקליס בירושלים.
+
+ היה עורך המדור הכלכלי של "פלשטיין פוסט" בירושלים.
+
+ בשנת 1926 נשא לאשה את ד"ר<persName> חנה </persName> בת<persName> מנחם</persName> פונר.
+
+ בשנת 1950 יועץ כלכלי בשגרירות ישראל בוואשינגטון.
+
+
+ בשנות 1951-55 ציר ישראל בדרום אפריקה.
+
+ משנת 1955 קונסול כללי בניו-יורק.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3844 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3844</bibl><bibl>Volume: #11 ,Page: 3845 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3845</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

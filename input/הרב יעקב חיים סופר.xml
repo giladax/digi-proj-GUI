@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3765 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3765</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יעקב חיים סופר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>בגדד</placeName> (עירק) בשנת תרכ"ז (1867).
+
+ לאביו ר' <persName>יצחק ברוך סופר.</persName>
+
+ התחנך בבית המדרש לרבנים "מדרש בית זלכה", ויצק מים על ידי הרבנים המובהקים ר' <persName>אלישע נסים</persName> <persName>ששון</persName> ור'<persName> יחזקאל עזרא ב"ר רחמים.</persName>
+
+ התפרסם כמתמיד בתורה ומכתיבת סת"ם.
+
+ באייר תרס"ד (1904) עלה לארץ והתישב בירושלים.
+
+ נתפרסם ע"י חבוריו הרבים ונחשב לאחד מגדולי רבני העיר. רבים היו מוקיריו ומעריציו.
+
+ חבוריו: ספרו החשוב ביותר הוא "כף החיים", נדפסו 8 חלקים על שו"ע או"ח, וחלק ט' - עד יו"ד נמצא בכתב יד ; "קול יעקב" - על הלכות סת"מ ירושלים, תרס"ד, תר"ע, "יגל יעקב" - דרושים על התורה, ירושלים, תרס"ו: "חוקי חיים" - כ"ח דרושים על נשואים ומילה, ירושלים, תרע"א ; "חיים עד העולם" - דקדוקים ודרוש על האגדה; ירושלים, תרפ"א. הוא גם חדושי תורה.
+
+ נפטר בירושלים. ט' סיון תרצ"ט (27.5.1939).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3765 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3765</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

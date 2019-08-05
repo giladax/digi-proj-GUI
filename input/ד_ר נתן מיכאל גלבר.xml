@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 349 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/349</bibl><bibl>Volume: #1 ,Page: 350 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/350</bibl>
+<bibl>Volume: #1 ,Page: 351 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/351</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר נתן מיכאל גלבר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ברודי</placeName> (מזרח גליציה) ב-27.5.1891 לאביו <persName>נחמן</persName> , ציוני וחובב השכלה וספרות עברית, בעל תעשיה ונשיא הקהלת (ממשפחת המשורר יעקב<persName> אייכנבוים</persName>
+
+<persName>גלבר</persName> ) ומצד אמו מצאצאי הרבנים<persName> חיים כהן רפופורט </persName> (רב
+
+ בלבוב במאה הי"ח)<persName> ולוין </persName> בפולין. למד בחדר, בבי"ס עממי וגמר את הגמנסיה ב<placeName>ברודי</placeName> ובבית קיבל גם חינוך עברי מודרני. למד פילוסופיה באוניברסיטאות וינה וברלין וב-1914 הוסמך לד"ר לפילוסופיה בווינה.
+
+ עוד בשנות לימודו בגימנסיה (מ-1904 עד 1910) היה פעיל בהסתדרות הגימנזיסטים הציונים "צעירי ציון'' בגליציה, ובשתי השנים האחרונות מהן ניהל את עבודת ההסתדרות העברית של הנוער. אח''כ היה פעיל בווינה ובברלין בהסתדרות הציונית האקדמאית "עבריה" והשתתף ביסוד האיגוד העברי הראשון "התחיה" של הסטודנטים בווינה, וב-1913 ביקר בארץ. במלחמת-העולם הראשונה שרת כקצין אוסטרי בחזיתות סרביה, איטליה והבלקנים. בסוף המלחמה היה פעיל במשך כ-12 שנה (1918-1930) בהסתדרות הציונית בווינה כמזכיר ראשי, חבר הועד המנהל, מנהל קרן היסוד, עורך העתונים היומיים הציוניים "וינר מורגנצייטונג" ו"שטימה". כן השתתף בפעולות למען זכויות היהודים בארצות הגולה בשנים שאחרי המלחמה הקודמת ב"ועד שליחי הארצות" שליד ועידת השלום בפאריס וביקר פעמים אחדות בשליחות פוליטית בשמו ברומניה ואח"כ פרסם בחוברת דו"ח מפורט בצרפתית (פאריס, 1928) על מצב המיעוט היהודי שם ובן סקירה מקפת על הפרעות ביהודי פולין בראשית העצמאות הפולנית (בגרמנית ; וינה 1922).
+
+ פרסם מאמרים, סקירות ומחקרים בדברי ימי יהודי פולין והציונות בעברית, אידיש, גרמנית, פולנית, רוסית, צרפתית ואנגלית בעתונות היהודית בארצות הגולה. כן השתתף בקביעות ב"יידישס לקסיקון", "אנציקלופדיה יודאיקה" ו"אשכול" (ברלין) ובירחונים למדעי היהדות בגרמניה, פולין, אמריקה וצרפת. בשנות 1930-1931 היה עורך העתון היומי הציוני "נובי סלובו" בווארשה וחבר מערכת "הצפירה". ב-1931-1932 ביקר בשליחות קרן היסוד בארצות
+
+
+ מרכז אירופה. ב-1933 עלה ארצה ומאז הוא עובד בלשכה הראשית של קרן היסוד בירושלים ועוסק בשטח ההיסטוריוגרפיה היהודית. הספרים שפרסם: כתבים לשאלת היהודים בקונגרס הווינאי (גרמנית, וינה 1919); היהודים ברפובליקה הקראקובית (פולנית, קראקוב 1919); הועידה בקאטוביץ (גרמנית, ברין 1919); היהודים ומרד 1863 בפולין (גרמנית, וינה 1924); מתקופת מאתים שנה (גרמנית, וינה 1924); לתולדות הציונות שלפני הרצל בשנות 1695-1845 (גרמנית, וינה 1927); חסידי אומות העולם, ירושלים תרצ"א; הצהרת בלפור ותולדותיה, ירושלים תרצ"ט; אוסטריה ועלילת דמשק (גרמנית, פרנקפורט 1929); מפנקס בית-העלמין הישן ב<placeName>ברודי</placeName> (גרמ', פרנקפורט 1923); היהודים ומרד 1831 בפולין (פולנית, לבוב 1930); בשולי תולדות הציונות, ירושלים תש"ג; הכין עד עתה לדפוס את הספרים : שאלת ארץ-ישראל בועידת השלום 18-1920 (2 כרכים); יהודי פולין בסוף המאה הי"ח; תולדות הציונות בגליציה; תולדות מקוה ישראל; תולדות יהודי ברודי.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בירושלים, י' בתשרי תשכ"ז (24.9.66) (ראה כרך א', עמוד 350)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 349 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/349</bibl><bibl>Volume: #1 ,Page: 350 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/350</bibl>
+<bibl>Volume: #1 ,Page: 351 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/351</bibl>
+            <bibl>Volume: #16 ,Page: 5005 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/5005</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

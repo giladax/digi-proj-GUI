@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3956 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3956</bibl><bibl>Volume: #12 ,Page: 3957 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3957</bibl>
+<bibl>Volume: #12 ,Page: 3958 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3958</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים מרדכי פילצר</persName>
+
+</head>
+         <div><p> נולד כ"ח שבט תר"מ (1880) במיקולינצה שבמזרח גליציה.
+
+ לאביו <persName>הלל</persName> (חובב ציון, ממשפחת רבנים מזבאראז') ולאמו<persName> שושנה</persName> בת <persName>אליהו הלר.</persName>
+
+ למד בחדר ואח''כ בגימנסיה, ובעודו נער השתלב בתנועה הציונית שקמה אז.
+
+ בגיל 18 יצא לארה"ב ובמשך הזמן הגיע לתפקיד קצין-משטרה.
+
+ השתלב בחיים החברתיים כחבר התנועה הציונית ואח במיסדרי בני ברית והבנאים החפשיים (משנת 1906).
+
+ במלחמת-העולם הראשונה, כשיצאה הקריאה להתנדב לגדוד העברי, יעצוהו ידידיו להרגיע את מצפונו
+
+ הציוני בתרומת אלף דולר למגבית ציונית, לשם "פדיון נפש", אך הוא עמד בהחלטתו והתנדב בלב ונפש. ובחנוכה תרע"ח עבר עם הגדוד ממצרים לארץ-ישראל תוך תפילת שחרית וכיוונו את הזמן לומר פרק "בצאת ישראל ממצרים" שב"הלל" בדיון בעת מעבר הגבול, והרושם העז של חוויה זו לא עמם בו ובכל הזדמנות היה חוזר ומספר עליה. אחרי המלחמה נשאר בארץ ונתקבל לשרות ממשלתי ברכבות ובפקידות משרדית.
+
+ ב-1921 נשא לאשת את<persName> פנינה</persName> בת <persName>מנחם מנדל כהנא.</persName> התישב בשכונת ימין משה, שממול לחומת העיר העתיקה של ירושלים, ודבק בה כל ימיו, ובעתות מתיחות הגן עליה במסירות נפש. בשנות המהומות 1938-1936 התנדב כשוטר נוסף והופקד לשרת בשמירת מסילות הברזל, שהפורעים הרבו לחבל בהן, והוא, שהיה עובדרכבת שנים רבות, הכיר בטביעת-עין, שהפועלים ששלח הקבלן הערבי לתיקון המסילה, מצוידים ברשיונות לתנועה חפשית שקיבל ומסר להם, אינם פועלי-רכבת, אלא משתמשים בהסוואה זו למטרה אחרת, ותוך שימת-עין על מעשיהם גילה, שהם-הם מטמיני חמרי הנפץ תחת הפסים. אז ביקש וקיבל רשיון לראיון אישי אצל הגנרל <persName>מונטגומרי,</persName> שהיה המפקד הצבאי וחנה בחיפה, וגילה לו את הדבר. האמצעים שננקטו הפסיקו את החבלות, אבל לטרוריסטים נודע שהוא היה המגלה את תעלוליהם, ומפני החשש לנקמתם הוכרח לעזוב את חיפה.
+
+ בראשית מלחמת השחרור, כשכוחות ההגנה הוציאו מהשכונה את התושבים הבלתי-לוחמים, בגלל היותה
+
+ בחזית האש בקצה הישוב היהודי, סירבו הוא ואשתו לצאת, באשר גם הם לוחמים (והוא אז בן 68 !). ואכן נפצעה היא בכדורי רובה כשהטילה רימון-יד מול האויב המתקיף את השכונה. שניהם היו פעילים ותיקים בהגנה, ואף כשהוצרך למסור את הנשק שברשותו לצעירים ממנו, הוסיף הוא ורעיתו למלא שרותי-עזר צבאיים, באכסנם בביתם את הלוחמים, והיה מביא להם משקה חם לעמדות ומעודדם, וכן נתן מלוא עזרתו לפורצים לעיר העתיקה, ואחרי תום המלחמה לא חדל לייחל לגאולה השלימה, שיוכל שוב ללכת למקום המ
+
+
+ קודש ביותר בעיר העתיקה. הלוחמים כינוהו "הסבא של מונטיפיורי''.
+
+ נפטר בביתו, י"ד אב תשי"ג (26.7.1953).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3956 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3956</bibl><bibl>Volume: #12 ,Page: 3957 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3957</bibl>
+<bibl>Volume: #12 ,Page: 3958 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3958</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

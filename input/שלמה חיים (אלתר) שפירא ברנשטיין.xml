@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 798 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/798</bibl><bibl>Volume: #2 ,Page: 799 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/799</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה חיים (אלתר) שפירא-ברנשטיין</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרמ"ו (1886), לאביו משה ולאמו ויכנה (תחיה).
+
+ התייתם בגיל צעיר מאביו והתחנך אצל אביו חורגו ברוך צבי ברנשטין מעקרון, שאמו נישאה לו אחרי מות אביו (מכאן הוספת השם ברנשטין).
+
+
+ למד שנים אחדות בחדרים ובישיבה קטנה ובעודו נער יצא למושבה עקרון והתמסר לעבודה חקלאית.
+
+ נשא לאשה את <persName>מלכה ביילה</persName> בת <persName>משה קלמנוביץ</persName> , שהיה שמש בית-הכנסת בעקרון, ואשתו <persName>חאשה</persName> שהיתה כעשרים שנה מילדת במושבה.
+
+ היה שומר המושבה והצטיין באומץ ובגבורה, וגנבי הסביבה, שלמדו להכיר את "זרועו של אלתר", השתדלו לחפש פרנסה והכנסות באזורים אחרים ולפסוח על עקרון. כארבע שנים היה גם מוכתר המושבה וכשנתיים שרת כפקיד בכפר אוריה ובחולדה.
+
+ בימי המלחמה העולמית הראשונה עזר בשחרור הרבה יהודים מהנגישות של השלטונות הטורקים והצילם מעבודת הצבא והכפיה ובימי גרוש יפו דאג לסדור הגולים שהגיעו לעקרון בדירות ובאמצעים חמריים.
+
+ נפטר בעקרון, כ"ב תמוז תרפ"ד.
+
+ בניו: <persName>יעקב, יהושע, צבי</persName> ; בנותיו:<persName> שרה</persName> אשת יעקב שטרן (אוסטרליה); <persName>משה</persName> אשת <persName>יצחק מייסטו</persName> (ת"א),<persName> אסתר</persName> אשת יצחק ספקטור (קרית יוסף), <persName>תחיה</persName> אשת מוריס סילבר (אוסטרליה); <persName>שולמית</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 798 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/798</bibl><bibl>Volume: #2 ,Page: 799 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/799</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

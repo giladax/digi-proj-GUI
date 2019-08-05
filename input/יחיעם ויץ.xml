@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1694 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1694</bibl><bibl>Volume: #4 ,Page: 1695 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1695</bibl>
+<bibl>Volume: #4 ,Page: 1696 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1696</bibl>
+<bibl>Volume: #4 ,Page: 1697 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1697</bibl>
+<bibl>Volume: #4 ,Page: 1698 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1698</bibl>
+<bibl>Volume: #4 ,Page: 1699 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1699</bibl>
+<bibl>Volume: #4 ,Page: 1700 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1700</bibl>
+<bibl>Volume: #4 ,Page: 1701 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1701</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יחיעם ויץ</persName>
+
+</head>
+         <div><p> נולד ביבנאל, י"ב תשרי תרע"ט (13.9.1918) (בעת היות אביו מנהל העבודה מטעם "אגודת נטעים" בחות סג'רה ; ובקריאת שם זה לרך הנולד היה הד לקריאות "יחי עם ישראל" שפרצו אז בהתלהבות של כל הישוב לרגל כניסת הצבא הבריטי לגליל וגמירת כיבוש הארץ מידי הטורקים, שעוררה אז אמונה ותקוה בגאולה הקרובה בעזרת האנגלים) לאבי<persName>ו יוסף</persName> (ראה כרך שני, עמוד 858) ולאמו <persName>רוחמה </persName> בת<persName> יצחק</persName> <persName>זאב אלטשילר</persName> מרחובות.
+
+ בשנותיו הראשונות היה עם הוריו בתל-אביב, אח"כ עברו לירושלים. שם למד בבית-הספר העממי בבית הכרם ובגימנסיה העברית וגמר בה את לימודיו בשנת תרצ"ה. עוד בגיל צעיר נתגלו בו ניצני כשרון ספרותי וחוש מוסיקאלי, אך הוא בחר בלימודיו במגמה ריאלית כדי להיות להועיל בבנין הארץ. בחדשי החופש היה יוצא לעבודה ואחרי הסיום בגימנסיה יצא כמדריך חבורת נוער למחנה-עבודה במשמר העמק. התחיל ללמוד באוניברסיטה העברית, שרת בהגנה מאז פרוץ מהומות תרצ"ו, והוסיף להגות בספרות ובמוסיקה. בתרצ"ו הצטרף לפלוגת נוער ארצישראלי שיצר את קיבוץ ג' של השומר הצעיר בראשון לציון, עבד ונאבק עם נטיותיו האינדיבידואליות, אך לא יכול להן ואחרי פחות משנתים עזב את הקיבוץ ונסע ללמוד באוניברסיטת לונדון, ובבחינותיו ביולי 1939 הצטיין בחימיה ובבוטאניקה. שם למד להכיר את האנגלים ואת השקר שבדמוקרטיה ואהבת-הצדק שלהם
+
+
+ ושל עמי אירופה בכלל, ביחוד ביחסם ליהודים ולשאיפת תקומתם, ואת מסקנותיו ניסח במכתבו להוריו מיום 10.4.39 בדברים אלה :
+
+ - דבר אחד מלמדת אותי שהייתי כאן; דבר שלעולם לא הייתי לומד בארץ , דבר שאף אחד מכם אינו משער למדי: העולם הרחב, אירופה עם ממשלותיה ועם המון העם - מהוים מפלצת טורפת, רעבה, צינית, אכזרית, וקרה, ושכחנית, וכפוית-טובה, וחסרת-מצפון. אסור, אסור, אסור להאמין אף לאחד. צריך לרמות עד כמה שאפשר את מי שאפשר, אנו צריכים לנצל בל שיטה, כל דרך, כל אפשרות לטובתנו, להנאתנו. המוסר הגבוה שלנו - צריך להיות מופנה כולו כלפי פנים, אל בתי הספר שלנו, אל "בין אדם לחברו". ואילו כלפי כל העולם אין לנו אלא להיות זאבים, לחשוף שינים, ולעשות הכל לטובתנו. --
+
+ (מכתבים, עמ' 179 - 180). אחרי הבחינות חזר הביתה ונרשם ללמוד חימיה ובוטאניקה באוניברסיטה העברית. אחרי פרוץ מלחמתהעולם, באמצע שנת ת"ש, עזב את לימודיו והתגייס לשרות לאומי בפלמ"ח. התאמן ואימן והדריך כיצירי. גרעין לכח צבאי עברי במולדת, שיהיה מוכן לכשתבוא השעה להלחם בעד שחרור העם והמולדת מהתלות בחסדי "המפלצת הטורפת" שהזכיר במכתבו הנ"ל.
+
+ בחופשה שקיבל מהשרות לשבוע ימים נכנס לחופה ביום י' סיון תש"ב עם חברתו-מנוער, המורה<persName> רמה</persName> בת <persName>אהרן סמסונוב</persName> מחדרה. 
+
+ אחרי סיום מלחמת-העולם קיבל שחרור לשנה וחזר ללימודיו באוניברסיטה ושקד עליהם כדי להשלים מה שהפסיד בשנות השרות ו"לעשות שתי שנים בשנה ורבע".
+
+ פעם בפעם נקרא מלימודיו לזמנים קצרים אל השרות לאימונים והכנות לקראת המשימות ובסיון תש"ו נשלח להשתתף בפעולות החבלה במיתקני התחבורה, בפיצוץ גשרי הכביש והרכבת ליד אכזיב (א-זיב), בדרך אל הלבנון. לפי הפקודה היה צריך לעשות כל מה שאפשר, כדי שפיצוץ הגשרים לא יפגע בחייהם של החיילים האנגלים השומרים על הגשרים או בתושבים הערבים. אך זהירות יתרה זו גזלה רגעים יקרים ממבצעי המשימה ומשכה אליהם את תשומת לבם ונשקם של השומרים. המשימה בוצעה. הגשרים הועפו באויר ונהרסו, אך בכדורי השומרים נפגעו חברים מהפלמ"ח, וגם יחיעם נפצע פצע מות ומת שם, אור ליום י"ה סיון תש"ו (17.6.46).
+
+ נערכה לו תלויה לאומית פומבית רבת משתתפים רשמיים ופרטיים בחיפה, בישובים בדרך לירושלים ובירושלים עד להר הזיתים.
+
+ על שמו נקרא הקיבוץ שהתנחל בגליל המערבי, בנפת מקום נפלו, ליד שריד המצודה הצלבנית חרבת ג'דין בסביבת תרשיחא, וקיבוץ <persName>יחיעם </persName> משמש ביום מרכז לישובים עברים חדשים שהתנחלו בסביבתו בגליל המערבי.
+
+ בתש"ח יצאו מכתביו בספרית "שחרות של הוצאת "עם עובד", "מכתבים" עם הקדמות מאת אביו, <persName>ס. יזהו</persName> וד"ר <persName>א. קצ'לסקי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1694 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1694</bibl><bibl>Volume: #4 ,Page: 1695 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1695</bibl>
+<bibl>Volume: #4 ,Page: 1696 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1696</bibl>
+<bibl>Volume: #4 ,Page: 1697 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1697</bibl>
+<bibl>Volume: #4 ,Page: 1698 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1698</bibl>
+<bibl>Volume: #4 ,Page: 1699 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1699</bibl>
+<bibl>Volume: #4 ,Page: 1700 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1700</bibl>
+<bibl>Volume: #4 ,Page: 1701 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1701</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

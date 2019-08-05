@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 1029 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1029</bibl><bibl>Volume: #2 ,Page: 1030 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1030</bibl>
+<bibl>Volume: #2 ,Page: 1031 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1031</bibl>
+<bibl>Volume: #2 ,Page: 1032 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1032</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זרובבל חביב (לובמן)</persName>
+
+</head>
+         <div><p> נולד בראשון לציון, ראש-השנה תרנ"ה (1894), לאביו<persName> דב</persName> ולאמו<persName> רבקה</persName> בת <persName>שמואל גרונם לובמן,</persName> מראשוני ראשון לציון, שביתם (אז צריפם מחוץ למושבה) היה מרכז לפעילות תרבותית וצבורית ומקום כינוסם של ראשוני הפועלים והמורים.
+
+ למד בגן-הילדים העברי ובבית-הספר העברי של המושבה (הראשונים בעברית בארץ) מפי המורים <persName>יוסף</persName> <persName>ויתקין, ישראל איתן וד''ר </persName> <persName>י. ל. מטמון</persName> . נפגש תכופות בבית הוריו עם עסקני הציונות תושבי. הארץ ואורחים מהגולה. למד בגימנסיה העברית ביפו ואח"כ בתל-אביב, יחד עם<persName> דב הוז, משה שרתוק</persName> ואחרים. כשגמר את הגימנסיה בתרע''ג נסע, לפי צו מ. אוסישקין, ללמוד משפטים באוניברסיטת איסטמבול. (זה היה אז צו לאומי, להכין יודעי-משפט עבריים להגנה יורידית ומדינית לישוב ולמפעל הציוני במסגרת טורקיה ה"מתחדשת"). שם
+
+ למדו אז גם <persName>משה שרתוק, יצחק בן-צבי, דוד בן-גוריון</persName> <persName>וישראל שוחט</persName> , וכן היו אז באיסטמבול הד"ר <persName>נופך,</persName> <persName>ר. ליכטהיים</persName> והד"ר<persName> ו. יעקובזון</persName> כגרעין לנציגות ציונית מדינית.
+
+ כשבא הביתה לפגרת הקיץ בתרע"ד פרצה המלחמה ולא יכול לחזור ללימודיו. ארגן פעולות תרבותיות במושבה ועסק בעניני הבטחון. בעת מכת הארבה נתמנה מטעם <persName>אהרן אהרנסון </persName> למנהל המלחמה בארבה ביריחו ובסביבתה. כשגויס לצבא נשלח, לפי המלצת<persName> אליהו</persName>
+
+<persName>קראוזה</persName> , לעבודה במחלקה החקלאית במדבר הנגב בדרגת קצין ובתפקיד סגן-מנהל, העביד במחלקתו מאות יהודים והצילם בכך מעבודת-פרך בשרותים אחרים תחת יד קצינים ונוגשים טורקיים. אח"כ נשלח לסביבת לוד וניהל גידול ירקות לצרכי הצבא עד להדיפת הטורקים מדרום הארץ.
+
+ משנכנס הצבא הבריטי התנדב לגדוד העברי הארצישראלי ("הראשון ליהודה") שרת בו במצרים ובארץ עד לשחרורו בעת פירוק הגדוד והשתתף ביסוד התזמורת של הגדוד. 
+
+ אחרי המלחמה למד חקלאות באוניברסיטת מונפליה בצרפת, תעשית יין באוניברסיטת דיזיון וגידול עופות בגאמבה, ליד פאריס, וחזר ארצה.
+
+ נשא לאשה את <persName>שולמית </persName> בת<persName> אשר לוין</persName> מראשון לציון. סידר לו משק וניהלו בעבודה עברית. הקדיש מזמנו לעבודה צבורית כחבר פעיל בהתאחדות האכרים, חבר הנהלת הועד הארצי של הקה"ק, חבר הנהלת "הלואה וחסכון'' המקומי ואח"כ גם במרכז הקואופרציה, חבר הועד המקומי לחינוך ואח"כ גם חבר הועד המפקח על בתי-הספר הכלליים בארץ, חבר ברית (אח"כ הסתדרות) הציוניים הכלליים ונבחר ברשימתה לקונגרס הציוני הי"ט, משתתף בעוד מוסדות ומפעלים שונים, מקומיים וארציים. בתרצ"ט נבחר לחבר ולנשיא המועצה המקומית ראשון לציון. כיהן בתפקיד זה עד שנת תש''ו בשנים הקשות של מלחמת-העולם השנית, ולמרות צוק העתים התפתחה המושבה בשנים אלה, מספר תושביה הוכפל ונתרבו מפעלי התעשיה בה. 
+
+
+ מזמן לזמן נואם בצבור וכותב מאמרים בשאלות השעה לפנים ב"הארץ" וב"בוסתנאי" ואח"כ ב"הבוקר". צאצאיו: <persName>רם, אמנון, תרצה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 1029 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1029</bibl><bibl>Volume: #2 ,Page: 1030 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1030</bibl>
+<bibl>Volume: #2 ,Page: 1031 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1031</bibl>
+<bibl>Volume: #2 ,Page: 1032 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1032</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

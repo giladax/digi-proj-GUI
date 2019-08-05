@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2781</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר ליאו אליעזר רוזנבליט</persName>
+
+</head>
+         <div><p> נולד במיסינג ווערק (פרוסיה, גרמניה), ה' אלול תרנ"ג (18.8.1893).
+
+ לאביו <persName>שלום שמואל</persName> ולאמו <persName>פניה</persName> בת <persName>שאול פולפר</persName> <persName>מאכר.</persName>
+
+ קבל חנוך בגמנסיה ובאוניברסיטאות : ברלין, פריבורג, הידלברג וקניקסברג, וקיבל תואר ד"ר מדציני (בעיקר - רופא לילדים).
+
+ היה פעיל בתנועת הנוער הציוני ק.י.פ. וחבר הנשיאות.
+
+ עבד בתור רופא בקליניקות שונות בברלין.
+
+ בשנת 1913 השתתף בקונגרס הציוני הי"א בוינה, וכן היה סדרן בקונגרס הציוני הי"ב בקרלסבד (1921).
+
+ בשנת 1923 עלה לארץ.
+
+ בשנת 1924 נשא לאשה את<persName> אנה </persName> בת <persName>קלמן שטרן.</persName>
+
+ היה רופא בעטלית, ירושלים, נס-ציונה ובראשוןלציון קבע את ישיבתו קבע (זה כ-28 שנה).
+
+ חבר המועצה המקומית בראשון לציון, יו"ר התאחדות עולי-גרמניה במושבה (1933) ועליה חדשה, יו"ר של המפלגה הפרוגרסיבית סניף ראשון-לציון.
+
+ חבר ההסתדרות ואגודת הרופאים.
+
+ היה חבר ועדת הגיוס במלחמה העולמית השניה.
+
+ בניו: <persName>שמואל</persName> (פקיד ב"קול ישראל"),<persName> רפאל</persName> (חבר קבוצת הסוללים-צפורי).
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בראשון-לציון, ז' באייר תשכ"ו (27.4.66) (ראה כרך שביעי, עמוד 2781)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2781</bibl>            <bibl>Volume: #16 ,Page: 5008 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/5008</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

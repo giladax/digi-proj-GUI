@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2308 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2308</bibl><bibl>Volume: #5 ,Page: 2309 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2309</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רבקה (גראף) קורלנד</persName>
+
+</head>
+         <div><p> נולדה בזכרון יעקב, אלול תרנ"א (15.9.1891), לאביה <persName>צבי (הירש) יעקב גראף</persName> (מראשוני מיסדי המושבה זכרון-יעקב, ראה בכרך זה) ולאמה <persName>מלכה</persName> בת <persName>ישראל ניאמצאן - בריל,</persName> מבאקו (רומניה).
+
+ קיבלה חינוך מסורתי וכללי בבית הספר במושבה זכרון יעקב, ממורים פרטיים :<persName> חיים ציפרין, קרלין</persName> <persName>וזכריה שפירא</persName> - למדה עברית, צרפתית וגרמנית. השתלמה בהנהלת חשבונות בבית ספר בפריז.
+
+ עזרה להוריה במשק החקלאי שלהם ובבית המלון.
+
+ היתה פעילה מאד בארגון האחיות הרחמניות והעבודה הסניטרית המתנדבת באגודת "חברה לינה" ועוד.
+
+ משפחתה הקימה את המשק החקלאי והמלון במושבה בלי לקבל כל עזרה כספית ממוסדות ומהבארון רוטשילד.
+
+ בשנת 1913 נסעה לניו-יורק והשתלמה באמנות בבי"ס .Cooper Union בקולומביה אוניברסיטי ובניויורק אוניברסיטי למדה פסכולוגיה לילדים וסוציולוגיה.
+
+ בשנת 1917 נישארה לבן מושכבתה<persName> משה </persName> (מוריס) <persName>קורלנד</persName> , ארכיטקט (ראה את הערך שלו בכרך זה).
+
+ השתלמה בעברית בתלמודי תורה בניו-יורק והיתה אח"כ מהמורים העברים הראשונים שלמדו בניו-יורק עברית-בעברית, והצליחה להחדיר את העברית בבתיהספר בתור שפת לימודים קבועה.
+
+ ביתה הפך להיות בית עברי בניו-יורק.
+
+ מהחברות הראשונות של "הדסה" ומהידידות הקרובות של <persName>הנריטה סולד</persName> ז"ל. היתה פעילה וגזברית של "הסתדרות נשים למען ישיבה אוניברסיטי (הרב יצחק אלחנן)" יותר מ-20 שנה.
+
+ במשך 4 שנים היתה עובדת סוציאלית של המשרד לעזרה דחופה של המחלקה לעזרה של עירית ניו-יורק.
+
+ פעילה בעבודה צבורית ושומרת עד היום על הקשרים עם ישראל, וביתה נחשב לבית עברי - דתי במלוא מובן המלה.
+
+ צאצאיה: <persName>רפאל </persName> (מהנדס אזרחי), <persName>נחמה </persName> (ארכיטקט, קשטן ,)Designer and Decoratorשניהם פעילים מאד בתנועה הציונית בניו-יורק.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2308 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2308</bibl><bibl>Volume: #5 ,Page: 2309 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2309</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

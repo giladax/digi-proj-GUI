@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 682 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/682</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן הלוי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>צ'רניגוב</placeName> (אוקראינה), בשנת תרמ"ז (17.7.87), לאביו<persName> יעקב</persName> , שוחט ממשפחת רבנים. למד ב"חדר" ובבית-ספר תיכון ונתגלו בו כשרון ונטיה לציור.
+
+ בניסן תרס"ו עלה ארצה, למד כחצי שנה בביתהספר לאמנות "בצלאל" בירושלים, ואח"כ היה שומר בסג'רה, במלחמיה וביבנאל בשנות תרס"ז-ע"א.
+
+ בחורף תרע"ב נשא לאשה את <persName>בת-שבע</persName> בת <persName>חיים</persName> <persName>צבי הורביץ</persName> מוילנה. בשנות 1912-14 עבד ב"בצלאל" בתור אמן. ב-1915 עבר למלחמיה ועסק במשך שנה
+
+ בדיג בירדן. ב-1916 עבר לטבריה ונטע שם את הגן העירוני. ב-1916-17 שרת בצבא הטורקי בתפקיד של משרטט תכניות בנינים בסגנון מזרחי בשביל השלטונות אצל המהנדס <persName>גדליהו וילבושביץ</persName> שניהל את עבודות הבנין מטעם מפקדת הצבא בדמשק. שם עסק גם בהכנת ציורים על צמחי ארצנו בשביל<persName> ברוך</persName> <persName>צ'יז'יק</persName> . בסוף 1917 ברח מדמשק לכנרת והמשיך לעבוד בשביל צ'יז'יק. אחרי כניסת הצבא הבריטי לגליל עבר לתל-אביב ועבד יחד עם ברוך צ'יז'יק מטעם ועד הצירים בהדרכת האגרונום<persName> עקיבא אטינגר</persName> בהכנת ציורים מפירות הארץ (הציורים - מקצתם עברו אח"כ לאוסף של האוניברסיטה העברית, ומקצתם ל"בית גורדון" אשר בדגניה).
+
+ ב-1922 הצטרף למיסדי רמת גן, החל לעסוק שם בחקלאות זעירה ובגננות, פיתח זן חדש של תותהגנה, שביחד עם עקיבא אטינגר קראו לו בשם "חלוץ"' ואם כי רבים פקפקו אז אם זן זה יוכל להתקיים בארצנו, כבר אישר הנסיון שהוא גדל בכל המקומות הרבים שזורעים אותו כיום.
+
+ ב-1932 השתתף בהתחרות מטעם עירית תלאביב בהצעת תכנית לגן הצבורי "גן מאיר". תכניתו זכתה בפרס הראשון ולפיה נטעו את הגן.
+
+ תוך עבודתו בחקלאות ובגננות המשיך הוא לעסוק בציור. צייר מאות ציורי נוף ארצישראלי ואי
+
+ לוסטרציות לתנ"ך (אחת מתערוכותיו נפתחה בתל-אביב, 9.4.32, על ידי <persName>ח. נ. ביאליק</persName> ), המפוזרים כיום באספים שונים בארץ ובחו"ל. אלבום מציוריו על נושאים תנ"כיים בשם "ארץ הצבי" יצא בהוצאת "דביר".
+
+ פרסם מאמרים בעניני גננות.
+
+ ממשיך לעסוק בגידול פרחים ובציור ובהכנת תכניות לסידור גני-נוי.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 682 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/682</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

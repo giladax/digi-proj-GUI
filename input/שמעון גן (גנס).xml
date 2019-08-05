@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5149 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5149</bibl><bibl>Volume: #17 ,Page: 5150 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5150</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמעון גן (גנס)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וילנה</placeName> בשנת תרס"ז (1907).
+
+ לאביו <persName>שמעון גנס</persName> ולאמו<persName> חנה.</persName>
+
+ קיבל חינוך מסורתי ואחרי מלחמת העולם הראשונה עבר לקובנה וסיים שם סמינר למורים עברים "תרבות" והמשיך את לימודיו באוניברסיטה בקובנה.
+
+ יחד עם הסופרת <persName>לאה גולדברג </persName> (ראה כרך ד', עמוד 2018), <persName>א. ד. שפירא </persName> ועוד יסדו והוציאו לאור העתון הספרותי ה"אופוזיציוני" בשם "פתח" והקובץ שלו "פעם".
+
+ בשנת תרצ"ה (1935) עלה לארץ.
+
+ השתתף ב"כתובים" ובכתבי עת ספרותיים אחרים. עבד בעתונות "הארץ", "על-המשמר", ובעשר השנים האחרונות ב"דבר".
+
+ היה עורך המדור לעניני תיאטרון ב"אמר" שבעריכתו של ד"ר <persName>צבי רותם.</persName>
+
+ המשיך בחבורת "יחדיו", בשבועונה "טורים", ובצל קורת כת מהפכנים מפכחים מזה וצעירים רודמים מזה, המשיך בקול ענות חלושה יותר, הארץ היתה לו לחיפוש יגע, כבר בתחילתו ואובד סמוך
+
+
+ לתחילתו. אך בפליטונים הספרותיים שלו בעברית היתה משום התרפסות על מרחב - אמנות שבמרחב גדול, והגעגועים על האמנות וממשות החיים הרחיקו מרחב זה עוד יותר. הוא היה מטבע ברייתו אוניברסליסט מאוהב וביישן, מאוהב וביי" שן בחיים ובאהבה ובאמנות, אך נידון בכל התחומים האלה להגבלה טראגית בד' אמות צרות של בדידות מחרישה. הוא היה בעיקרו מן המסוגלים, מן המיועדים, אלא שלא היה בכוחו, או שנשלל ממנו הכוח, לסגל לעצמו את סגולותיו ולהועיד את עצמו ליעודו.
+
+ נפטר בתל-אביב לאחר מחלה ממושכת, אור ליום י"ג באב תשכ"ז (19.8.1967).
+
+ בתו<persName> נעמי</persName> (לאמה <persName>אריקה חייבי)</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5149 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5149</bibl><bibl>Volume: #17 ,Page: 5150 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5150</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

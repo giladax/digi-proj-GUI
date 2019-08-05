@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3863 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3863</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב (ג'ק) מאיר גרי (גרינג)</persName>
+
+</head>
+         <div><p> נולד בעיר שאדי (ליטא) בשנת תרס"א (18.9.1901).
+
+ לאביו<persName> שמואל גרינג.</persName>
+
+ חניך האוניברסיטאות ויטווטרסרנד ויוהנסבורג. קיבל תוארים : ב. א. ו-ל. ל. ב. מוסמך למדעי הרוח, מוסמך למשפטים ובאמנויות.
+
+ שימש כעורך דין בדרום אפריקה במשך כמה שנים.
+
+ בשנת 1932 נסע לאירופה.
+
+ עלה לארץ בשנת 1934.
+
+ עבד כמה חדשים בקטיף בכדי להתוודע לתנאי הארץ.
+
+ שנה אחת עבד כעורך דין בשותפות עם המשרד למשפטים של העו"ד<persName> ברנארד ז'וסף</persName> (דב יוסף) בירושלים.
+
+ בשנת 1935 נתמנה כמזכיר החברה להשקעות "אפריקה א"י", ומאז התחילה עלייתו בחיים המסחריים ובתפקידים מרכזיים ביתר החברות הדרום אפריקניות בארץ.
+
+ בשנות 1935-50 היה שר המסחר והתעשיה במדינת ישראל.
+
+ מנהל חברות: "השקעות אפריקה-א"י בע"מ, יו"ר מועצת המנהלים של "חברת אתא לטכסטיל בע"מ.
+
+ חבר ועד המנהלים של התזמורת הפילהרמונית בישראל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3863 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3863</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

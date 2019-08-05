@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 366 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/366</bibl><bibl>Volume: #1 ,Page: 367 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/367</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד'ר משולם ליבונטין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>מוהילב</placeName> על נהר דניפר, רוסיה הלבנה, בשנת תרמ"ו (1886), לאביו ר' <persName>זלמן דוד</persName> הכהן, מראשוני הפעילים בחיבת ציון ובהסתדרות הציונית, מראשי מיסדיה של המושבה ראשון לציון, מראשוני עסקני הישוב ובוניו, המנהל הכללי הראשון של בנק אנגלו-פלשתינה בארץ-ישראל.
+
+ נתחנך חינוך מסורתי ואח"כ למד בגימנסיה רוסית בריאזאן ונתחנך בבית דודו<persName> יחיאל יוסף ליבונטין</persName> (המהנדס והסופר "חושי הארכי", מראשוני הפעילים בחיבת ציון). משגמר את הגימנסיה בתרס"ד היה מבקר בכל שנה בארץ (הוריו כבר ישבו ישיבת-קבע כאן) ולמד רפואה באוניברסיטאות מוסקבה ומינכן, ואחרי שהוסמך בתואר דוקטור לרפואה השתלם - לצרכי שימוש בארץ-ישראל - במכון לחקר המחלות הטרופיות בהאמבורג.
+
+ בשנת תרע"א השתקע בארץ, ובהיות אז מגפת החולירע נתמנה מטעם הממשלה לרופא צבורי בלוד וברמלה ובאותו זמן היה רופא הקבוצות חולדה ובןשמן מטעם המשרד הארצישראלי של ההסתדרות הציונית. בתרע"ב נתמנה לרופא העדה היהודית בחברון, ובראשית תרע"ד נתמנה מטעם הממשלה ועירית יפו לרופא בית-החולים הממשלתי לחולי דבר ביפו.
+
+ כשפרצה מלחמת-העולם הראשונה בתרע"ד הוכרח לצאת מהארץ בגלל נתינותו הרוסית, ובחורף תרע"ה היה בין המתנדבים הראשונים ל"גדוד נהגי הפרדות" שנוסד ביזמת <persName>יוסף טרומפלדור</persName> , שירת בו כרופא צבאי בחזית גאליפולי, ומשעזב הצבא הבריטי את גאליפולי שירת כרופא צבאי במצרים עד סוף המלחמה.
+
+ בתרע"ה נשא לאשה את<persName> גניה</persName> בת<persName> נתן דונביץ</persName> . מחשובי הקהלת היהודית בעיר <persName>סאראטוב</persName> שברוסיה.
+
+ בסוף המלחמה חזר ארצה, נתקבל לשרות ב"הדסה" והיה עד תרצ"ג מנהל בית-החולים שלה (ואח"כ של העיריה) בתל-אביב, ומאז ואילך מנהל המחלקה למחלות פנימיות אפידמיות בבית-חולים זה.
+
+
+ השתתף בארגון החיילים העברים המשוחררים משתתפי מלחמת העולם הראשונה בגדודים העברים ונבחר לנשיאו.
+
+ יזם ופעל ביסוד "מגן דוד אדום" בתל-אביב ובשנת תר"ץ נבחר לנשיאו. השקיע עבודה רבה בפיתוח רשת של אגודות "מגן דוד אדום" בשאר המקומות בארץ ובליכודן בארגון ארצי ומשנת תרצ"ו ואילך הוא יו"ר הועד הארצי של האגודות העבריות לעזרה ראשונה. כן יזם וארגן תנועה של תורמי-דם מתנדבים. פרסם חוברת תעמולה והסברה על "מגן דוד אדום ותפקידי האשה בו".
+
+ בשנים שקדמו למלחמת-העולם השנית עורר לארגון ההתגוננות האזרחית למקרה שתפרוץ מלחמה, כפי שנעשה הדבר בארצות אירופה, ואף פרסם בתרצ"ח, בהוצאת ארגון החיילים המשוחררים, חוברת על דרכי ההתגוננות נגד התקפות מהאויר, ובשנות המלחמה היה מראשי הפעילים בשרותי ההתגוננות האזרחית.
+
+ צאצאיו:<persName> נתניה ואביגדור</persName> (ויקטור) (עו"ד מתמחה בבאר באנגליה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 366 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/366</bibl><bibl>Volume: #1 ,Page: 367 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/367</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

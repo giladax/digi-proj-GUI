@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4715 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4715</bibl><bibl>Volume: #15 ,Page: 4716 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4716</bibl>
+<bibl>Volume: #15 ,Page: 4717 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4717</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי אביבי (רזניק)</persName>
+
+</head>
+         <div><p> נולד בכסלו, א' דחנוכה, תרנ"ה (23 בדצמבר 1894), ביאנוב, ע"י פינסק, רוסיה הלבנה.
+
+ לאביו <persName>אהרן-אברהם רזניק </persName> ולאמו <persName>פרומה-ציפה</persName> בת <persName>משה שמואל ולודאבסקי</persName> .
+
+ את השכלתו המסורתית והעברית והכללית רכש בחדרים, ב"חדרים מתוקנים" ואצל מורים פרטיים, בעיר-מולדתו יאנוב ואח"כ בפינסק. כאן גם השתלם בתלמוד בבית-מדרשו של הרה"ג ר'<persName> דוד פרידמן.</persName> הושפע במיוחד ממורו, במשך שלוש שנים, ביאנוב - - בבית-ספרו ובאופן פרטי - ר' <persName>הרשל פיסאר</persName> , שהיה פדגוג טוב ובעל ידיעות רחבות בתנ"ך, בדיקדוק ובסיפרות העברית, לתקופותיה השונות. <persName>פיסאר</persName> היה מקרב את הנער ומשאיל לו ספרים מספרייתו העשירה, והשריש בן את החיבה לספר ולסיפרות העברית בפרט.
+
+ גמר קורסים פדגוגיים בווילנא, מיסודה של "תרבות". עבד כמורה בבתי"ס עבריים בערים:
+
+ יאנוב, בריפק דליטא - ביה"ס "התחייה" ובפינסק: בביה"ס לבנות "תל חי" ובגימנסיה העברית "תרבות". זמן מסויים עבד כפקיד במשרד הא"י בוורשה.
+
+ עסק הרבה בפעולה ציונית-סוציאליסטית ותרבותית עברית: בתנועת "צעירי ציון" (אח"כ צ"ס) ובהחלוץ" (יו"ר החלוץ" בבריסק דליטא) ועוד.
+
+ בתרפ"א (1921) נשא לאשה את <persName>אסתר-רחל</persName> בת <persName>אליעזר גלויברמן </persName> (תלמיד חכם).
+
+ בתרפ"ד (1924) עלה עם אשתו לארץ.
+
+ למד באוניברסיטה העברית בירושלים, במכון למדעי היהדות.
+
+ המשיך לעבוד בהוראה, בבתי"ס יסודיים
+
+
+ ותיכוניים ועוד במקומות שונים. לבסוף השתקע בתל-אביב. עתה, בפנסיה.
+
+ מפעולותיו הציבוריות בארץ, בזמנים שונים: יו"ר האיגוד הארצי של מורי "כל ישראל חברים" בא"י (אח"כ ישראל), מרצה בחוגים שונים, שופט במשפט החברים של מפא"י בתל-אביב, מרכז הסניף של החברה לחקר המקרא בקרית שלום, ועוד.
+
+ עבודותיו הסיפרותיות: בחו"ל פרסם רשימות שונות. בארץ פרסם, בעיקר, משלים וסאטירות מקוריים, בחרוזים - גם תרגומים מרוסית ומיידיש לעברית: משירי <persName>פושקין ולרמונטוב</persName> וממשלי<persName> שטינ</persName> <persName>בארג</persName> , וכן רשימות שונות-בכתבי-העת: "דבר", "במעלה", "דבר השבוע", "דבר לילדים", "הפועל הצעיר", "בטרם" "משמר לילדים", ועוד.
+
+ בתשכ"ב (1962) יצא לארו, בהוצאת "ניב", קובץ משלוו בשם "שבעים משל ומשל". משליו לפי ריקעם, ההווי של הדמויות הפועלות בהם, דימוייהן וביטוייהן-חותם יהודי וארצי ישראלי טבועעליהם. עם זה תורם הוא גם אנושי כללי.
+
+ הערכות על ספר משליו: ב"מעריב" (בקצרה) "דבר לילדים'', "הד החינוך", "על המשמר", ועוד.
+
+ בתו: <persName>שילונה</persName> (בוגרת הסמינר ע"ש לווינסקי), אשת<persName> יחזקאל דורון </persName> (רוקח בהדסה, תל-אביב).
+
+ נכדיו:<persName> איל, אמיר, עדי.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, י"א בניסן תשכ"ו (1.4.66) (ראה כרך ט"ו, עמוד 4716)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4715 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4715</bibl><bibl>Volume: #15 ,Page: 4716 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4716</bibl>
+<bibl>Volume: #15 ,Page: 4717 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4717</bibl>
+            <bibl>Volume: #16 ,Page: 5004 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/5004</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

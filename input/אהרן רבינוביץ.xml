@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1352 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1352</bibl><bibl>Volume: #3 ,Page: 1353 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1353</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן רבינוביץ</persName>
+
+</head>
+         <div><p> נולד בסלונים, ט"ו שבט תרע"א (1911), לאביו הרב <persName>שלמה דב</persName> (שו"ב, בן הרב יעקב רבינוביץ מקרטוזברעזע, שהיה ידוע בשם "הצדיק", ולאמו <persName>ליבה</persName> בת <persName>נחום מירסקי</persName> (שו"ב). למד בחדרים ובישיבה בסלונים ובשיבת ה"חפץ חיים" בראדין. אח"כ למד בגימנסיה. בגיל 13 החל כותב שירים באידית ובעברית. שפורסמו בעתונים ובירחונים. הצטרף לתנועת "השומר הצעיר" בסלונים, השתלם באמנות התיאטרון ושיחק בלהקה המקומית.
+
+ ב-1930 עלה לארץ והצטרף לקיבוץ "השומר הצעיר" בחדרה, עבד גם בפרדסי כפר סבא וזמן מה שיחק בלהקת "אהל" בתפקידים שונים והשתתף בהצגות "ירמיהו" ו"דנטון". אח"כ החל לעסוק בציור שלטים אמנותיים וציור פרסומת ויסד את הפירמה "סגנון" בתל-אביב שהוציאה לפועל עבודות אמנותיות בכל חלקי הארץ.
+
+ ב-1939 נשא לאשה את <persName>צפורה</persName> בת<persName> משה פרח</persName> .
+
+
+ ממשיך ביצירתו הפיוטית. פרסם בארץ שירים רבים, שחוברו להם מנגינות ונפוצו בעם על ידי הקומפוזיטורים נחום נרדי, סנדו מרקו, ישראל פוקס, מיכרובסקי וד"ר ואלי. מקצתם נדפסו בקבצי השירים "ניגונים" של
+
+ אברהם מינדלין ובקובץ "שיר מזמור לחייל". הוציא את הספר "לילדים טובים" ובו הרבה שירים עם תוינגינה. שיריו נתחבבו על הקהל וכמה מהם הושמעו ברדיו והוקלטו בשביל "קול ירושלים" ו"קול ישראל".
+
+ צאצאיו: <persName>וילי, שלמה דב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1352 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1352</bibl><bibl>Volume: #3 ,Page: 1353 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1353</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

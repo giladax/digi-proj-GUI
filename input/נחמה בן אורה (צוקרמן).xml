@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4687 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4687</bibl><bibl>Volume: #15 ,Page: 4688 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4688</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחמה בן-אורה (צוקרמן)</persName>
+
+</head>
+         <div><p> נולדה בגדרה בשנת תרנ''א (5.1.1891).
+
+ לאביה<persName> שלמה זלמן צוקרמן-אבינועם</persName> (ראה כרן שני, עמוד 658) ולאמה<persName> רבקה</persName> (ראה כרך שני, עמוד 853) בת<persName> יהודה ליב חנקין</persName> (ראה כרך שני, עמוד 679) שהיו מהבילויים וממיסדי מושבת הבילויים גדרה.
+
+ סיימה את בית הספר דעממי בהנהלתו של המורה <persName>ראם</persName> ז"ל. למדה את השפה הצרפתית על בוריה בשעורי ערב.
+
+ בשנת תר"ע (1910) נסעה לארצות הברית והמשיכה ללמוד באוניברסיטאות שונות במקצעות שונים. התפרנסה מנתינת שעורים בעברית.
+
+ לפני מלחמת העולם השניה חזרה לארץ ולימדה אנגלית ועברית בבית ספר בתל-אביב בהנהלתו של מר <persName>פלר</persName> . אח"כ לימדה בבית הספר העממי שעל שם <persName>פינס</persName> בגדרה. רכשה שיטות לימוד חדשות בארץ על מנת להעבירן לבתי-הספר העברים בארצותהברית, שם השראה על התלמידים מרוח ישראל ומאהבת ישראל.
+
+
+ בכל מקום שלמדה, בארץ ובארצות הברית, המנהלים, חבר המורים והתלמידים אהבוה וכבדו אותה, על נאמנותה ומסירותה לתלמיד בהקדישה להם את כל זמנה.
+
+ אחרי שבקרה שוב לכמה שנים בארצות הברית לשם הפצת השפה העברית, חזרה לארץ בשנת תש"ד (1960) ותכניותיה היו מרובות.
+
+ כעבור חדש ימים, עוד בטרם הסתדרה, התמוטטה ונפטרה בגדרה ביום י"ד כסלו תשכ"א (3.12.1960).
+
+ צאצאיה:<persName> אביבה</persName> אשת<persName> איזיה אש, אבי בן-אורה</persName> (רופא כללי ומנתח עינים בארצות-הברית).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4687 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4687</bibl><bibl>Volume: #15 ,Page: 4688 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4688</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

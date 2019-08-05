@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4234 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4234</bibl><bibl>Volume: #13 ,Page: 4235 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4235</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' זאב לב</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וינה</placeName> (אוסטריה) כ"ז ניסן תרפ''ג (25.4.1922).
+
+ לאביו <persName>נחום לב</persName> (הסבא של <persName>זאב </persName> היה רב בעיר ז'אלקיב ודודו רב בעיר חיראב בפולניה. שם המשפחה שלהם היה <persName>רימלט)</persName> ולאמו <persName>אסתר</persName> בת הרב<persName> צבי רימלט</persName> .
+
+ קיבל חינוך מסורתי וכללי בבית-ספר תיכון "עדת" בברלין.
+
+
+ למד תורה בישיבה באנגליה, סיים חוק לימודיו כסטודנט בתואר מ. א. באוניברסיטה קונס בקנדה, הוסמך כדוקטור בפיסיקה באוניברסיטת קולומביה (ניו-יורק), B.A., Ph.D. ונתמנה למדריך וחבר מחקרשל מעבדת הקרינה בקולומביה.
+
+ מתמחה בפיסיקה של גלים קצרים (ראדר) ותכונות מגנטיות של חומר.
+
+ היה חבר בארגון חלוצי "השומר הדתי".
+
+ בשנת 1948 נשא לאשה את <persName>דבורה</persName> (בקטריולוגית ילידת ניו-יורק) בת <persName>אברהם לדרר </persName> (היתה חברה בארגון "השומר הדתי" בניו-יורק).
+
+ בשנת 1950 עלה לארץ.
+
+ נתמנה מדריך במחלקה לפיסיקה של האוניברסיטה העברית בירושלים.
+
+ כעבור ארבע שנים ביקר באוקספורד וכתוצאה מביקור זה החל להתענין בשטח חדש - תכונות מגנטיות של גבישים בטמפרטורות נמוכות. בשטח זה המשיך את רוב מחקרו עד היום.
+
+ פרסם ספר "תהודה פרגמנטית בגופים מוצקים" (דפוס אקדמאי, ניו-יורק).
+
+ פרופ' באוניברסיטה העברית בירושלים וראש למדור לגלים קצרים.
+
+ יו"ר למחקר ופיתוח של האוניברסיטה העברית.
+
+ חבר הועד הפועל שלה.
+
+ חבר הועד הפועל של בית-הספר "חורב".
+
+ בשנת 1956 קיבל פרס למדעים המדוייקים מטעם האקדמיה בניו-יורק.
+
+ בשנת 1962 קיבל פרס ישראל למדעים מדוייקים.
+
+ בשנת 1963 קיבל פרס גוגנהיים מארצות הברית.
+
+ צאצאיו: <persName>אסתר, נחום, אברהם, חוה, שמעון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4234 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4234</bibl><bibl>Volume: #13 ,Page: 4235 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4235</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

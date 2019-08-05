@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1474 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1474</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שלמה חזן</persName>
+
+</head>
+         <div><p> לאביו הרב <persName>אלעזר</persName> (שהיה רב במשך 40 שנה במארוקו) ולאמו <persName>זוהרה בת שלמה סבאת</persName> . נולד ב<placeName>מראקש</placeName> (מארוקו) בשנת תרט"ו (1855).
+
+ קבל חנוך מסורתי.
+
+ בשנת תרי"ח (1858) עלה ארצה עם הוריו בסירת תורן, שנסעו בה במשך, שלשה חדשים עד אלכסנדריה, ומשם באניה לחוף יפו (אביו הרב אלעזר, נפטר ביפו, י"ג חשון תרכ"ו).
+
+ נשא לאשה את <persName>פרחה </persName> בת הרב <persName>יעקב שמול</persName> (שהיה ראש החברה קדישא לעדת היהודים ביפו במשך 40 שנה).
+
+ עד שנת תרל"ב שימש כאב"ד ביפו. באותה שנה נתמנה ע"י הרב יהודה חי אלקלעי לחבר הועד לישוב ארצנו הקדושה ביפו. עשה רבות למען התפתחות הישוב העברי ביפו ועלית יהודי מרוקו לא"י. עבר לירושלים ושימש שם כאב"ד ואח"כ היה ראב"ד בצפת במשך שש שנים. נסע לבירות ולקושתא בכדי להדפיס שם את ספריו ובדרכו נפטר בצידון, כ"ו אלול תרמ"ו ונקבר שם.
+
+ ספריו: "שלחן הזהב" (חוברת א', נא-אמון, תרס"ג, חוברת ב' בכתב יד); "שלחן הטהור" (דרושים בכתב יד): "שלחן מלכים" (יאיר נתיב דרך עץ החיים לר' חיים ויטאל, בכתב יד).
+
+ צאצאיו: <persName>מרקאדו, אסתר</persName> אשת <persName>משה מאמן </persName> (מצפת), <persName>בת-שבע</persName> אשת <persName>שבתי יעקב מויאל </persName> (ת"א).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1474 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1474</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

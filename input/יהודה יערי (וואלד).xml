@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1883 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1883</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה יערי (וואלד)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>טרנובז'ג</placeName> (גליציה. בפי היהודים נקראה ל שמה העתיק דזיקאב), בראש חודש כסלו תרס"א (23.11.1900), לאביו<persName> חיים יוסף </persName> בן ר'<persName> צבי וואלד </persName> (סוחר, מצאצאי<persName> משה סופר</persName> מפשעווארסק, בעל "אור פני משה"' פירוש לתורה, מתלמידי הבעש"ט), ולאמו <persName>פסיה</persName> בת <persName>אהרן נח כהן</persName> (קאהן) מגלאנוב (גליציה).
+
+ קבל חינוך מסורתי בחדר וכללי בבית הספר העממי.
+
+ עלה ארצה בשנת 1920 עם ראשוני העליה השלישית. עבד בסלילת כבישים בצפון (כביש חיפה-ג'ידה,
+
+ נצרת-עפולה), בהכשרת הקרקע לקרית ענבים, ייבוש ביצות העמק. ממיסדי בית אלפא. היה רועה צאן וחקלאי.
+
+ בשנים 1928-29 למד בארצות הברית את תורת הספרנות ב-Columbia University N.Y. וב-Praff Institute Library School,Brooklyn קבל תואר של ספרן וביבליוגרף מוסמך.
+
+ עבד כספרן בבית הספרים הלאומי והאוניברסיטאי. היום עובד כחבר הנהלת הלשכה הראשית של קרן היסוד בירושלים.
+
+ סופר, מחבר סיפורים ומחזות. רוב הכתבים נתפרסמו תחילה בעתונות, בשבועונים ובירחונים בארץ ותורגמו לכמה שפות.
+
+ נשא לאשה את<persName> עלי </persName> בת <persName>אברהם גרוס.</persName>
+
+ ספריו: כאור יהל (הוצאת ארץ ישראל, תל-אביב, תרצ"ז. הוצאת מסדה, תל-אביב, תש"ה), דרכי איש (הוצאת דבר תל-אביב. ספרון ידיעות אחרונות, תלאביב), באהלים (הוצאת ארץ ישראל, תל-אביב), שלומיאל מצא צל (הוצאת עופר, ירושלים. מהדורה מהודרת בשלוש מאות טפסים ירושלים, ליאון המדפיס), Prisoners of Hope (עשרה סיפורים מתורגמים לאנגלית, הוצאת המחלקה לנוער), ארבעים יום על הים (מחזה בשלש מערכות, הוצאת דרום,ירושלים, תרצ"ח), When The Candle Was Burning )London Gollanz, 1947(.
+
+ בנו: <persName>מנחם אליהו.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1883 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1883</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

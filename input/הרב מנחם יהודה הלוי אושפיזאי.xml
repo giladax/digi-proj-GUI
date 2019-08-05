@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3996 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3996</bibl><bibl>Volume: #12 ,Page: 3997 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3997</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב מנחם יהודה הלוי אושפיזאי</persName>
+
+</head>
+         <div><p> (<persName>קרטשמר)</persName>
+
+ נולד בוואשקי (ליטה) בשנת תרס"ה (1905). לאביו<persName> משה בן-ציון קרטשמר</persName> ולאמו<persName> מרים-מינא</persName> בת <persName>ישראל נחום שמידט.</persName>
+
+ קיבל חינוך מסורתי בישיבות נובהרדוק, רוסטוב, חרקוב וקיוב. וכאשר התבגר נשלח עם כמה צעירים
+
+ מבוגרים ליסד סניפים לישיבות נובהרדוק. יסדו ישיבה לצעירים בעיר פרילוק באוקראינה וברובע קרישצטק בקיוב.
+
+ בניסן תרפ"ה (27.3.1925) עלה לארץ באניה גוריציה, והמשיך להשתלם בלימודי התורה בישיבת הרב קוק בירושלים. היה מטובי תלמידיו גם במחשבת היהדות ובמידות קירוב הלבבות לשם קירוב לתורה ולקדשי ישראל.
+
+ בשנת תרצ"ג (1933) יסד עם עוד חברים ישיבת בית אולפנא לצעירים בשם "תורת ירושלים" על יד ישיבת "מרכז הרב" (קוק) בירושלים.
+
+ בשנת תרפ"ט (1929) נשא לאשה את<persName> חיה</persName> בת הרב <persName>מנחם מרדכי פרנקל-תאומים.</persName>
+
+ נתמנה לרב בשכונת "נחלת גנים" וכשסופחה השכונה לרמת-גן נצטרף גם הוא כחבר הרבנות של רמת-גן וניתן לו להרחיב את פעילותו בעיר כולה למען יסוד בתיכנסת ובתי-מדרש, אירגון שיעורי תורה, יסוד בתי-ספר דתיים, יסוד ישיבה וישיבה תיכונית "אוצר התלמוד". מרכז תורני לנוער ברמת-גן.
+
+ כחבר פעיל במזרחי השתתף בפעילות המפלגה ביסוד מושב בית מאיר ורמת-פנקס ויצא בשליחותה לדרום אפריקה. נבחר ברשימתה לקונגרסים הציוניים הכ"ד והכ"ה. נבחר למ"מ חבר הועד הפועל הציוני והנו גם חבר הועד הפועל של המפלגה הדתית-לאומית וחבר ההנהלה של אגודת הרבנים הכללית בארץ.
+
+ חבר ההנהלה והמזכירות של חבר הרבנים בישראל. כתב ב"היסוד", "שערים", הצופה".
+
+ ספריו: ספר על אגדת חגיגה בבלי וירושלמי חלק ירושלמי, ק"ע עמודים, על ס"ה נושאים (תש"א); הוציא
+
+
+ לאור בשנות תש"ז-תש"ח ניבון ספרותי בשם "עתרת" לבירור הלכות דעות ואמונות, וחקר מיוחד הוקדש לבירור וביאור תורת הרב קוק זצ''ל בבנין בית ישראל בא"י.
+
+ בנו: <persName>משה בן-ציון </persName> (אשתו -<persName> דבורה</persName> בת הרב <persName>דוד ויסנשטרן</persName> . בנם <persName>: מיכאל).</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3996 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3996</bibl><bibl>Volume: #12 ,Page: 3997 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3997</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3400 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3400</bibl><bibl>Volume: #9 ,Page: 3401 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3401</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב וויינר</persName>
+
+</head>
+         <div><p> נולד באוליזרקה, מחוז סרני, גליל ווהלין (פולין), כ"ג שבט תרע"ד (20.2.14).
+
+ לאביו ר'<persName> אשר וויינר</persName> (מורה עברי ומנהל בית ספר "תחכמוני") ולאמו <persName>חיה</persName> בת <persName>שמואל שולנר.</persName>
+
+ קבל חינוך תורני-חסידי בחדרים ובישיבת לוצק, בגמנסיה העברית בקובל, בסימנריון למורים ואוניברסיטה בוארשה.
+
+ עסק שנה בהוראה עברית.
+
+ היה המזכיר הראשי בתנועת "החלוץ הכלל-ציוני" בווהלין, ואח"כ המזכיר הכללי בוארשה.
+
+ ערך עתון בעברית, אידיש ופולנית. פרסם ברובנה חוברת וקונטרסים למדריכי התנועה.
+
+ השקיע עבודה רבה בארגון סניפים ל"החלוץ הכלל ציוני" בפולין ובתעמולה להקהק"ל.
+
+ נודע כנואם. עסק גם בהכשרת נוער לעליה. בשנת 1934 נשא לאשה את <persName>זלדה</persName> בת<persName> שמחה כשר.</persName>
+
+ בשנת 1935 עלה לארץ ונתקבל בתור פקיד בעירית תל-אביב. כיום, מזכיר המחלקה לגביה בעיריה. כל השנים חבר ההגנה.
+
+ שירת בחטיבת גולני במלחמת השחרור. עסקן פעיל בציונות הכללית. חבר מועצתה הארצית וציר בועידותיה.
+
+ כתב מאמרים בכל מיני חוברות וב"שערים" עתון ארגון עובדי העיריה.
+
+ חבר הנהלת סניף הציונים הכלליים ביפו. צאצאיו:<persName> רינה, יאיר, אשר.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3400 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3400</bibl><bibl>Volume: #9 ,Page: 3401 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3401</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

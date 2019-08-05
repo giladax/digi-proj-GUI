@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2159 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2159</bibl><bibl>Volume: #5 ,Page: 2160 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2160</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנימין וילנסקי</persName>
+
+</head>
+         <div><p> נולד בסטרידוב (פלך צ'רניגוב, ברוסיה) בשנת תר"מ (1880) לאביו<persName> יוסף-חיים</persName> ולאמו<persName> חנה.</persName>
+
+ האב, שהיה למדן מופלג בתורת ישראל, לא מנע מעצמו כל עמל למען הכנס גם את בנו לתורה. ואם כי גדלהו באוירה דתית מובהקת ב"חדרים" ובישיבות, נתן לו גם את האפשרות ללמוד שפות זרות.
+
+ קרבת משפחה, עם המשפחות: שלום וילנסקי ממיסדי חדרה, אריה וילנסקי וחוקר הארץ זאב וילנאי (וילנסקי).
+
+ נשא לאשה את <persName>צפורה</persName> בת <persName>נחום חיימוביץ-שפירא,</persName> (אשר קרבת משפחה בינה לבין משפחת יעקב שפירא מנהל היקבים בראשון-לציון).
+
+ בשנת 1901 עלה לארץ. התישב בפתח-תקוה, שמקום מגורים מצא לו שם אצל יעקב ויוסף קרול, והתחיל לעבוד כפועל חקלאי בפרדסי הבארון רוטשילד. לאחר שהתמחה בעבודה זו נתמנה למפקח על פרדסים אלה, ואף גם נטע חלק מאותם פרדסים. בימים ההם עבד במחיצתם של אברהם בריל ממנהלי היק''א, יהושע אברביה ומשה-שמואל קרצמר, ונחשב על המומחים בגדול ההדרים בארץ. 
+
+
+ לכשעלה הארבה על הארץ, בשנת 1914 - נתמנה מפקח על הפועלים אשר עבדו בביעורו. ובאחד הימים, בהיותו יחידי בשדה עם מחנה פועלים ערביים - התנפלו עליו, פגעו בו קשות, וכתוצאה מהמכות שהוכה חלה ומת.
+
+ לאחר מותו נשארה צפורה אשתו, שהיתה אז בת 27 אלמנה מטופלת בשלושה ילדים רכים, הוריה 
+
+ שעשירים היו - הפצירו בה לחזור אליהם לרוסיה, אבל היא לא נענתה להם, כי סרבה לעזוב את הארץ. ותמשיך לעבוד בעצמה במשק שהשאיר בעלה אחריו. היא עבדה עבודת פרך למען תוכל לגדל את ילדיה לתורה, ואת בנה בכורה, את יוסף שלחה פריזה לשם השתלמות במדע החקלאי.
+
+ נפטר בפתח-תקוה, ד' באב תרע"ה. אשתו צפורה נפטרה בפתח-תקוה, י"ט חשון, תש"ט.
+
+ צאצאיהם :<persName> יוסף</persName> (מהנדס אגרונום. ראה את הערך שלו בכרך זה),<persName> חנה </persName> אשת <persName>פילרסדורף חיים</persName> , (פקיד באפ"ק תל-אביב).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2159 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2159</bibl><bibl>Volume: #5 ,Page: 2160 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2160</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

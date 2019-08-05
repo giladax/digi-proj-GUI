@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3992 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3992</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יצחק שמואל כפתורי (קנופף)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פולניה</placeName> בשנת תרמ''ט (1889). לאביו ר' <persName>שלמה מאיר קנופף</persName> ולאמו<persName> לאה</persName> בת ר' <persName>יצחק הכהן.</persName>
+
+ קיבל חינוך מסורתי והוסמך בעיר וערטה (פולניה) לרבנות ע"י ראש הישיבה.
+
+ בגיל 17 נשא לאשה את <persName>פסיה</persName> בת הרב <persName>יצחק טאובה.</persName> עסק במסחר והרבה ללמד תורה בארגוני הנוער ובעיקר בארגוני המקהלות.
+
+ בשנת 1935 עלה לארץ.
+
+ היה פעיל ברמת-גן במוסדות דתיים. נתן לצאצאיו חינוך מסורתי ולאומי. השאיר כתב יד בדברי תורה.
+
+ נפטר ברמת-גן, א' אייר תשכ"א (17.4.1961) והובא לקבורה בזכרון-מאיר בבני-ברק.
+
+ צאצאיו:<persName> משה, מנחם, אלעזר, פנחס, יהושע דוד, בלה</persName> אשת <persName>שלמה פודמסבה, זהבה</persName> אשת<persName> יהודה צדקה, טובה</persName> אשת<persName> מרדכי מושקוביץ.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3992 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3992</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

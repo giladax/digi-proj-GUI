@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4453 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4453</bibl><bibl>Volume: #14 ,Page: 4454 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4454</bibl>
+<bibl>Volume: #14 ,Page: 4455 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4455</bibl>
+<bibl>Volume: #14 ,Page: 4456 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4456</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי ביבי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>בגדאד</placeName> (עיראק) ה' תמוז תרפ''ב (1.7.1922).
+
+ לאביו <persName>שלמה ביבי </persName> ולאמו <persName>לילי</persName> בת<persName> כדורי קוקו.</persName> קיבל חינוך תיכוני ב<placeName>בגדאד</placeName>, בוגר ביה"ס אלא
+
+ עדאדיה (1943), בוגר הפקולטה למשפטים בביתהספר למשפט ולכלכלה בת"א (1956).
+
+ פעילות במחתרת החלוצית מיד לאחר גמר ביה"ס התיכון ועוד לפני כן. כל זמנו היה מוקדש לפעילות זו עד עליתו לארץ.
+
+
+ מראשוני ומיסדי תנועת המחתרת החלוצית בעיראק, ופעילות מרכזית בה בשטחי החינוך, ההגנה וההעפלה.
+
+ בשנת 1945 עלה לארץ.
+
+ חבר בהכשרה בקיבוץ מעוז חיים, פועל בת''א בעבודות שונות, ואח"כ פועל בהדפסת טקסטיל.
+
+ פעילות בקרב העלית הבבלית וכן במפלגת אחדות העבודה.
+
+ בשנות 1949-50 בשליחות המוסד לעליה ב' לארגון צרכי ההעפלה מעיראק - בגבולות עיראקפרס.
+
+ בשנת 1956 נשא לאשה את<persName> רות</persName> בת <persName>יוסף גרייבסקי.</persName>
+
+ חבר מזכירות מפלגת אחדות העבודה-פועלי ציון, חבר בית הדין העליון של ההסתדרות.
+
+ יו"ר מרכז "התאחדות עולי בבל".
+
+ כותב מאמרים בנושאים שונים בעתון המפלגה "למרחב".
+
+ היה כל השנים חבר ההגנה, חייל בצה"ל במלחמת השחרור (השתחרר בדרגת סגן משנה).
+
+ צאצאיו:<persName> אמיר, מיכל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4453 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4453</bibl><bibl>Volume: #14 ,Page: 4454 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4454</bibl>
+<bibl>Volume: #14 ,Page: 4455 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4455</bibl>
+<bibl>Volume: #14 ,Page: 4456 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4456</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

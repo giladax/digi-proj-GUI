@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 480 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/480</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל מאיר חודורובסקי</persName>
+
+</head>
+         <div><p> נולד בקאלוואריה, ליטא, בשנת תרל"ב (1872), לאביו<persName> יחזקאל אריה.</persName> למד בחדרים ובישיבת וולוז'ין. היה חובב ציון מנעוריו והלך בזה בעקבות אביו, שהיה חבר ב"אגודת קובנה" שהשתתפה בקנית אדמת חדרה.
+
+ בכסלו תרנ"א עלה ארצה יחד עם <persName>אליהו זאב לוין</persName> <persName>אפשטיין</persName> , יו"ר אגודת "מנוחה ונחלה" שיסדה את רחובות, בו בזמן שרוב חבריו בחרו בדרך הנוחה יותר ויצאו לאמריקה. התישב בחדרה ועבד כפועל. סבל מפגעי האקלים והקדחת, אך לבני משפחתו כתב רק טובות על הארץ. "בתוך עמי אני יושב", "שמים בהירים, ים של תכלת, ורק יהודים חסרים בארץ..." במשך זמןמה היה מפרסם ב"המגיד" כתבות מהארץ ובאחת מהן תקף את הרבנים והעסקנים העומדים מנגד לישוב הארץ ועתידים ליתן את הדין, וכן היה דורש וחוזר ודורש בכתבותיו לעליה ולבנין הארץ.
+
+ משחלה בקדחת צהובה הוכרח לעזוב את חדרה. עבר ליפו ופתח בית-מלאכה לבורסקאות בשותפות עם ר,<persName> משה בצלאל טודרוסוביץ</persName> . היה חבר פעיל באגודת "אחוה" ביפו והשתתף בפעילות בבנין בית הכנסת
+
+ אורחים (בתרס"ה) וביסוד "החדר המתוקן" בעברית, שהתפתח אח"כ לבית-הספר "תחכמוני". היה חבר בועד הראשון של "אגודת ישראל" שנוסדה ביפו בתרע"ג במגמה ליצור שיתוף-פעולה בין "אגודת ישראל" ובין "המזרחי" למען ישוב ארץ-ישראל ברוח התורה. תוך טרדותיו בעסקיו הפרטיים ובעסקי הצבור היה שוקד על לימוד התורה.
+
+ בפרוץ מלחמת-העולם הראשונה היה חבר פעיל בועד להקלת המשבר בתל-אביב ויפו. בתקופת המלחמה ההיא יסד בית-חרושת לעורות במוצא וקיים בו יחסים טובים עם הפועלים.
+
+ במהומות יפו באביב תרפ"א הריקו השודדים את בית-מסחרו בשוק-אל-דיר, ירד מנכסיו ונשא את יסוריו בדממה.
+
+ אשתו <persName>פאיה</persName> (גיטל) היתה אשת חיל וביתה היה פתוח לאספות ולפגישות עסקנים לפעולות לטובת הצבור, שהשתתפה בהן. נפטרה בתל-אביב, כ"ז אדר תרפ"ד. בעלה שכב חולה בשנותיו האחרונות ואחרי שנתים נפטר גם הוא בתל-אביב, י"ג תמוז תרפ"ו. שניהם נקברו בבית הקברות הישן.
+
+ צאצאיהם:<persName> נחום חודורוב</persName> (בראשון לציון), <persName>פרידה</persName> <persName>ושרה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 480 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/480</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

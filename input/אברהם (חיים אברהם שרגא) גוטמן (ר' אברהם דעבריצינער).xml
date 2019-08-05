@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3829 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3829</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם (חיים אברהם שרגא) גוטמן (ר' אברהם דעבריצינער)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וורשה</placeName> (פולין) בשנת תק"פ (1820).
+
+ לאביו ר' <persName>שמואל.</persName>
+
+ בצעירותו עבר לצוברוצין (הונגריה) ושם הצליח בעסקיו ונתעשר.
+
+ נשא לאשה את<persName> חיה</persName> בת <persName>מנחם </persName> (נפטרה בירושלים, א' תשרי תרנ"א (סוף 1890).
+
+ עלה לארץ בשנת תר"ל (1870).
+
+ היה איש נאמן של חברת גמילות חסדים הכללי ומנהל עדת כולל אונגרין.
+
+ הקים תלמוד תורה מודרני לילדי בני הונגריה בעיר העתיקה. הבוחנים היו הרב<persName> חיים זוננפלד</persName> , הרב <persName>משה נחום וולנשטיין</persName> - והרב <persName>טוביה אריה גולדברגר.</persName>
+
+ נפטר בירושלים (חשוך בנים), י"ז תשרי תרמ"ג (בסוף 1882).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3829 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3829</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

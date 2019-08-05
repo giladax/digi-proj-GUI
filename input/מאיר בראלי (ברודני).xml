@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5127 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5127</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר בראלי (ברודני)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קובנה</placeName> (ליטא) בי"ז אב תרפ"ב (11.8.22).
+
+ לאביו<persName> יצחק </persName> (אייזיק) <persName>ברודני-בראלי </persName> (מנהל בנק הפועלים. ראה כרך שלישי, עמוד 1413) ולאמו ד"ר <persName>חוה </persName> בת <persName>עקיבא יהלום</persName> .
+
+ עלה לארץ עם משפחתו ב-5 במאי 1926.
+
+ קיבל חינוך עברי גן-ילדים, בית-ספר "שלוה" ובגמנסיה העברית הרצליה בתל-אביב. השתלם באוניברסיטאות : קליפורניה, ברקלי, ניו-יורק, יוניברסיטי ואחר-כך באוניברסיטה העברית בירושלים.
+
+ חברות בקיבוץ.
+
+ עריכת "אשנב" (עלון בלתי ליגלי בימי ממשלת המנדט, לאינפורמציה ולתעמולה של ה"הגנה" ו
+
+ "תנועת המרי", שהופיע בדפוס בקביעות תחת חטמה של הבולשת הבריטית המחרחרת אחריו לשווא) בפיקוחו העליון של העורך <persName>אליעזר-ליבנה (לבינשטיין</persName> .
+
+ ראה כרך שלישי, עמודים 1417-18).
+
+ ריכוז המשמרת הצעירה של מפא"י.
+
+ עורך "אשמורת", בטאון הנוער של מפא"י. עתונאי, חבר מערכת "דבר". משנת 1961 חבר מזכירות מערכת "דבר" בתל-אביב.
+
+ כתב וכותב מאמרים רבים ב"דבר", ב"אשמורת", "מלחמתנו", "בטרם", "הפועל הצעיר" ו"מבט חדש" (שבועון).
+
+ כל השנים חבר ההגנה.
+
+ צאצאיו:<persName> נאוה, אבי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5127 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5127</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

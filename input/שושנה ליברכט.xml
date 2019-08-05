@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2659 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2659</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שושנה ליברכט</persName>
+
+</head>
+         <div><p> נולדה בירושלים, בשנת תרל"ח (1.1.1878). לאביה <persName>כתריאל גוטליב</persName> (שהיה רב באיצקונן, פרוסיה המזרחית, ממשפחת רבנים, ביניהם ר' <persName>בנימין וילנר</persName> ור'<persName> זלמן הכהן רובינזון)</persName> ולאמה רחל בת הרב <persName>חיים</persName> הכהן (שו"ב במנסורה, מצרים), דודתה<persName> פייגה לאה,</persName> היתה אשת הרב החוקר ר' <persName>יעקב הלוי ספיר</persName> - "אבן ספיר" (ראה כרך ב', עמוד 559).
+
+ בגיל - שנתים, יצאה עם הוריה לגרמניה ושם קבלה חנוך מסורתי וכללי.
+
+ חזרה לארץ בשנת תרנ"ו (1896).
+
+ נישאה<persName> לעקיבא ליברכט</persName> (ראה כרך ב', עמוד 733). היתה פעילה בעבודה סוציאלית וצבורית במושבה פתח-תקוה.
+
+ נפטרה בפתח-תקוה, ז' חשון תש"ה (24.10.1944).
+
+ צאצאיה: ד"ר<persName> דוד ליברכ</persName> ט (סגן מנהל המדור החישובים במחלקת המדידות הממשלתית בתל-אביב), לאה אשת <persName>יעקב רוזנפלד, אסתר</persName> ז"ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2659 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2659</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

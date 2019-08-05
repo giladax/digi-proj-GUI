@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1257 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1257</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר צבי ברדש</persName>
+
+</head>
+         <div><p> נולד בוינה, בירת אוסטריה, בשנת תרכ"ב (1862). קיבל חינוך יהודי וכללי והוסמך לד"ר לרפואה באוניברסיטת וינה.
+
+ כשהוזמן אביו לרופא בצפת בשביל היהודים נתיני אוסטריה (כוללי גליציה ובוקובינה) ובגלל זקנתו לא יכול לנסוע, שלח אותו במקומו, ואז עלה ארצה בשנת 1886, ומאחר שנתחבב על הקהל לא נתנוהו לחזור וכך נשאר תושב קבוע בארץ.
+
+ בשנת 1888 נשא לאשה את<persName> חנה </persName> בת יעקב <persName>גורו</persName> <persName>חובסקי </persName> שעלה מאודיסה.
+
+ עבד כרופא במושבות הבארון <persName>רוטשילד</persName> בגליל העליון ובזכרון יעקב, ופרסם מזמן לזמן מאמרים כלליים ורפואיים בעתוני וינה.
+
+ במלחמת-העולם הראשונה התמסר לטיפול בחולי טיפוס ויתר המגפות שפשטו אז בישוב, נדבק במחלת הטיפוס בטפלו בחולים בצפת ושם נפטר בשנת תרע"ו (מרס 1916).
+
+ צאצאיו:<persName> יצחק פסח (פיליפ)</persName> (נפטר בתל-אביב, ז' סיון תרצ"ח),<persName> שרה</persName> אשת <persName>אלברט סילבר</persName> (מנהל ביה"ס של כי"ח בבגדאד),<persName> לינה </persName> אשת<persName> ליאו שפיצר</persName> (פקיד ממשלתי בירושלים),<persName> אוגוסטה</persName> (מנהלת בי"ס של כי"ח בפרס)<persName>, ויקטוריה </persName> אלמנת מר <persName>סטיפנזון</persName> כקאהיר), <persName>אדולף</persName> (אופטיקאי, חזר ארצה ממכסיקו), <persName>אול</persName> <persName>גה</persName> אשת <persName>אהרן רוזנפלד</persName> (קונסול בלגיה, סוכן למסחר ולספנות, מראשי החיים הכלכליים בחיפה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1257 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1257</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

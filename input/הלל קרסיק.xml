@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3092 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3092</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הלל קרסיק</persName>
+
+</head>
+         <div><p> נולד ברוסיה, בשנת תרמ"ב (1882).
+
+ לאביו<persName> חיים יואל.</persName>
+
+ קבל חנוך מסורתי וכללי.
+
+ בשנת 1903 עלה לארץ. 
+
+ עבד בתור פועל חקלאי בפתח-תקוה.
+
+ בשנת 1907 נשא לאשה את <persName>רחל</persName> בת<persName> דוד איזראליט.</persName> כל השנים - מנהל הכספים של אגודת "פרדס" בא"י.
+
+ ממיסדי שכונת רמת-השרון ובת-ים.
+
+ היה יו"ר ועד שכונת נוה-צדק, חבר מועצת עירית תל-אביב.
+
+ מפעילי לשכת בני-ברית "שערי ציון" ביפו ותלאביב, היה חבר הועד המפקח של הגמנסיה העברית "הרצליה" בתל-אביב.
+
+ נפטר בתל-אביב, י"ז אדר ב' תש"ו (20.3.1946).
+
+ בניו:<persName> משה, עמנואל, דוד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3092 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3092</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

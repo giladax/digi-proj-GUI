@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1683 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1683</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הניה הלמן</persName>
+
+</head>
+         <div><p> נולדה בסמורגון, רוסיה הלבנה, סיון תר"ס (1900), לאביה <persName>אברהם פרץ אברמוביץ</persName> ולאמה <persName>חסיה </persName> לבית <persName>גלוב</persName> (שני הוריה ממשפחת רבנים ובני-תורה נודעים בוילנה, ביאליסטוק ואגפיהן).
+
+ למדה בבית-הספר העברי הראשון לבנות, "יהודיה", בוילנה ובבית-ספר עממי רוסי. המשיכה ללמוד ובבחינה קיבלה תעודה מורה ברוסית ולימדה עברית.
+
+ בשנות מלחמת-העולם הראשונה עברה עם זרם הפליטים מאזורי הספר ואחר-כך לערי הוולגה ברוסיה הפנימית. לימדה עברית לילדים ולמבוגרים בבתי-ספר ובשיעורי ערב בליזובאיה, בניז'ני נובגורוד, קאזאן, וסילרארסק, איוואנובה, ווזנסנסר ואופה. ארגנה את אגודת "קדימה" ו"החבר" של תלמידי אוניברסיטת קאזאן והיתה חברה פעילה ב"מכבי" בניז'ני נובגורוד.
+
+ ב-1921 נישאה ל<persName>דוד הלמן</persName> (ראה בכרך זה).
+
+ בשובם מרוסיה הפנימית הוסיפה ללמד עברית ולפעול ב"החלוץ" שבמחתרת ברוסיה הלבנה ואח"כ עברה עם בעלה לפולין, פעלה שם ב"החלוץ הצעיר".
+
+ ב-1923 עלו לארץ. עבדה זמן-מה כחלוצת הסטנוגרפיה העברית המקורית בשרות העתונות. השתתפה ביסוד הסתדרות נשים עבריות בתל-אביב והיתה מזכירתה בשנות תרפ"ד-פ"ז, וכן פעלה מטעם הסתדרות זו ביסוד מעון לתינוקות (כעת ברשות ויצ"ו ברחוב בוגרשוב), ואח"כ פעילה בויצ"ו.
+
+ פרסמה מאמרים ב"הארץ" (על תחית הלשון העברית בליטא), ב"ידיעות הדסה" (מן העבר הקרוב) ובספר "ציונות וילנא" של מ. ברוידס (על ביה"ס "יהודיה").
+
+ צאצאיה:<persName> רחל, ראובן</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1683 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1683</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

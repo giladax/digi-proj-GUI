@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3744 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3744</bibl><bibl>Volume: #11 ,Page: 3745 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3745</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק צבי הירש וולובסקי</persName>
+
+</head>
+         <div><p> נולד בסוף אלול תרל"ו (15.9.1876) בשידלובסק שבפולין.
+
+ לאביו <persName>שרגא פייבל וולבסקי </persName> ולאמו<persName> שפרה.</persName>
+
+ למד בחדר ובישיבות והשתלם בהשכלה עברית וכללית בבתי-ספר פרטיים.
+
+ נשא לאשה את<persName> חיה שרה</persName> בת<persName> פנחס ברקוביץ.</persName>
+
+ בשנת תר"ס (1900) היגר לקנדה ופעל בתחילה כסוחר נודד ביינות, ובשנת 1907 יסד את העתון האידי "קענעדער אדלער" במונטריאל, ששימש בטאון ומדריך לצבור היהודי בקנדה, ועמל בהרבה מסירות והקרבה עד שהעמיד את העתון על רגליו וקידם אותו להתפתחות מתמדת. השתתף בעתון גם בכתיבת מאמרים ראשיים וסקירות בעניני השעה ופיתח פעילות פוריה בעסקנות צבורית בעניני הקהילה היהודית ובמוסדות סעד וחסד מקומיים וכלל-יהודיים.
+
+ במלחמת-העולם הראשונה היה מראשי ההנהגה במפעל העזרה לנפגעי המלחמה באירופה ובארץ-ישראל, ובשנת 1919 היה ממיסדיו ומפעיליו של הקונגרס היהודי הקנדאי, והיה חבר האכסקוטיבה של ההסתדרות הציונית בקנדה.
+
+ פעל רבות למען מתן חינוך יהודי לנוער וטיפוח השפה היהודית, וכן לעזרת המהגרים היהודים שבאו לקנדה ולהדרכתם להשתרשות בחיי הארץ.
+
+ מ-1912 הוציא את השבועון "קנדיאן ג'ואיש כרוניקל" באנגלית. ב-1920 הוציא מהדורה אמריקאית חדשה של "ש"ס ווילנא" ב-18 כרכים.
+
+ ספריו (באידית): אירופה וארץ-ישראל אחרי מלחמת העולם (מונטריאל, 1923) ; מהמעין הנצחי (1930): מסע חיי (זכרונות, 1946).
+
+ נפטר במונטריאל, י"ז חשון תש"י (9.11.1949). צאצאיו: <persName>שרגא פייבל</persName> ז''ל,<persName>דניאל, שפרה רחל</persName> אשת עוה"ד <persName>ליאון קריסטל </persName> הבר הפרלמנט הקנדי (ראה בכרך זה),<persName> מאיר, משה, שלום, מרים </persName> אשת ד"ר <persName>אברהם קופרברג.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3744 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3744</bibl><bibl>Volume: #11 ,Page: 3745 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3745</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

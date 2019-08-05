@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3111 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3111</bibl><bibl>Volume: #8 ,Page: 3112 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3112</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד צירקין</persName>
+
+</head>
+         <div><p> נולד בניסן תרנ"ג (1893) בעיירה ויטאקה שליד הומל ברוסיה.
+
+ לאביו<persName> זלמן</persName> ולאמו <persName>פרומה </persName> לבית <persName>הלפרין</persName> . (מצאצאי הרבנים לבתי<persName> הלפרין ושניאורזון.</persName>
+
+ למד בחדר ובגימנסיה היהודית הפרטית <persName>רטנר</persName> בהומל, אח"כ עסק בהוראה והיה פעיל במפלגה ציונית סוציאליסטית.
+
+ עלה לארץ במוצאי סוכות תרס"ג (ספטמבר 1912) והצטרף לקומונה של <persName>יוסף טרומפלדור</persName> , שהתארגנה
+
+
+ לעבודה בחות מגדל שבגליל. משנתפזרה הקבוצה ב1913 המשיך בעבודה כפועל חקלאי בגליל ובשנות מלחמת העולם הראשונה היה חבר מרכז פועלי הגליל, ואח''כ מתנדב בגדוד העברי הארצישראלי.
+
+ נשא לאשה את <persName>שרה נוימן</persName> , ובזיווג שני ב-1938 את<persName> מלכה זיצמן.</persName>
+
+ התנחל בעין-חרוד עם הראשונים. התמחה בשתלנות ובמטעים, ובשנים 1940-1938 השתלם באוניברסיטה העברית בירושלים במדעי הטבע. יצר משתלה בעיןחרוד. אח"כ ארגן את המשתלות של הקיבוץ המאוחד, וב-1945 את הארגון הארצי של המשתלות, ומאז קום המדינה הנו מנהל מדור לשתלנות וגננות במשרד החקלאות ועוסק במחקר משתלות וגינות בתחנת הדגמה לריבוי צמחים בעין-חרוד.
+
+ פרסם עשרות מאמרים ורשימות בעתונות החקלאית בארץ ("השדה" וכו'), חוברות הדרכה למשתלות הקיבוץ המאוחד, ואת הספרים "מדריך למשתלות" (ביחד עם <persName>קרופניק</persName> - יצא ב-1942 ואח"כ בעוד שתי מהדורות) ו"גנות עצי פרי''.
+
+ ב-1952 השתתף מטעם משרד החקלאות בקונגרס בינלאומי לגננות בלונדון.
+
+ צאצאיו: <persName>צפרירה</persName> אשת סגן-אלוף <persName>יונתן דולינסקי,</persName> <persName>נוגה</persName> אשת <persName>אבינועם פניני, ניצה</persName> אשת <persName>בנימין חפץ,</persName> <persName>יהודית</persName> אשת <persName>שרגא ירון, צבי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3111 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3111</bibl><bibl>Volume: #8 ,Page: 3112 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3112</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1233 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1233</bibl><bibl>Volume: #3 ,Page: 1234 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1234</bibl>
+<bibl>Volume: #3 ,Page: 1235 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1235</bibl>
+<bibl>Volume: #3 ,Page: 1236 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1236</bibl>
+<bibl>Volume: #3 ,Page: 1237 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1237</bibl>
+<bibl>Volume: #3 ,Page: 1238 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1238</bibl>
+<bibl>Volume: #3 ,Page: 1239 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1239</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק חבקין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רוסיה</placeName> בשנת תרמ"ה (1885) לאביו <persName>אברהם</persName> <persName>שאול </persName> ולאמו<persName> חיה.</persName> למד ב"חדר" והצטיין בתפיסה מהירה ובחוש הומור.
+
+ בילדותו עלה ארצה עם הוריו ואחיו הבכור <persName>יעקב </persName> והתישבו ביפו. שני הבנים נמסרו ללמוד סנדלרות. למד את המלאכה במהרה, ואחרי שנרצח הסנדלר הראשון של המושבה גדרה,<persName> שלום פישל פרבר</persName> , ירש הוא את מקומו בעודנו צעיר מאד והצליח במלאכתו. השתתף בחיי הנוער ובהגנה על המושבה בלי רתיעה מפני הסכנות. מתוך כך התענין בנשק של ההגנה, שרובו היה עתיק ומקולקל, חקר את הרכב הכלים והמציא את השיטות לתיקונם, וכך נעשה מאליו מומחה לתקון נשק, ואף מכפרי הערבים שבסביבה היו מביאים לו נשק יכלי מתכת לתיקון. או שכר מרתף בחצרו של ר' <persName>בנדיט אורשנסקי</persName> ופתח לו בית מלאכה למסגרות, ולסנדלר במקומו הכיא את אחיו יעקב.
+
+ במשך הזמן נעשה שמו של "חוג'ה איסחק" מפורסם בין הערבים בסביבה כסמל האצילות, הגבורה והפקחות. בכל עת שראה הצופה מרחוק ערבים נקהלים על אדמת המושבה וצלצל בפעמון האזעקה, היו בני הנוער, ויצחק בראשם, יוצאים אל המקום מזוינים;
+
+ ויש שמצאו שם תגרה בין שתי סיעות של ערבים והוכרחו להתערב בריב ובתיווך בין הצדדים, ומתו, פעולות אלה רכש לו יצחק גם שונאים בין הערבים
+
+ פעם הביא לו ערבי אחד, זומם רעתו, לתיקון אקדח מסוג נושן, וכתחבולה מיוחדת הטמין בתוכו אבק שריפה וגרגירי מתכת, באופן שתצא ממנו יריה במפתיע בעת שהאומן ינסה אותו. ואכן פרצה יריה ופצעה קשה ערבי שעבד בחצר, ושני האחים חבקין הוכרחו להסתתר מפני המוני ערבים משלשה כפרים שנקהלו ובאו ל"גאולת הדם". בחורי המושבה ארזו אותו במחצלת ואחד מהם נשא אותו על גבו
+
+ מביתו למקום אחר לעיני הערבים הנקהלים, וביום המחרת התחפש לתייר אנגלי<persName> ומרדכי שכביץ </persName> הסיעו בעגלתו ליפו, וכדי למנוע כל חשד נסעה אתו <persName>בילה</persName> <persName>בנינסון </persName> (אחותה של <persName>לאה הורביץ </persName> וארוסתו של המורה <persName>יעקב ויסמן</persName> ) כבת-לויה של "האדון האינגליזי" ובמרחק הגון מאחריהם רכבו מזוינים למשמר<persName> יעקב</persName> <persName>ויסמן ואמנון הורביץ</persName> . כעבור יום הוברח גם אחיו מהמושבה דרך יבנה וראשון לציון, כי סכנה היתה להעבירו דרך הכפר קטרה, ואותו שמרו בדרך אבי<persName>נועם הורביץ ויעקב ויסמן</persName> .
+
+ הערבי הפצוע הוכנס על חשבון המושבה לביתהחולים היהודי ביפו ואחרי שנרפא ונערך "זבח שלום" במנהג חזרו שני האחים אל המושבה, איש למלאכתו, ויצחק היה למסגר ומכונן מפורסם במושבה ובסביבתה.
+
+ כשנתגרש מאשתו משום שלא ילדה לו נשא את <persName>ליבה</persName> בת שו"ב המושבה ר' <persName>יעקב מאיר הכהן קפלן</persName> . פעם חל קלקול במשאבת הבאר היחידה שהיתה אז במושבה והוא הוזמן לבדוק ולתקן. המשאבה היתה בתחתית הבאר, בעומק 49 מטרים. הוא הורד בכבל שזור מחוטי ברזל, ובהיותו במחצית העומק נותק הכבל והוא נפל למטה ונתרסק והוצא בלי רוח חיים - ביום ג' סיון תרע"ה ונקבר בגדרה.
+
+ צאצאיו: <persName>יוסף, מנחם, יצחק,</persName> (נולד אחרי מות אביו).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1233 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1233</bibl><bibl>Volume: #3 ,Page: 1234 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1234</bibl>
+<bibl>Volume: #3 ,Page: 1235 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1235</bibl>
+<bibl>Volume: #3 ,Page: 1236 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1236</bibl>
+<bibl>Volume: #3 ,Page: 1237 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1237</bibl>
+<bibl>Volume: #3 ,Page: 1238 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1238</bibl>
+<bibl>Volume: #3 ,Page: 1239 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1239</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

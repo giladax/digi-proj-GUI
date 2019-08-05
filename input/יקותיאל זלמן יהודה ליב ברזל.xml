@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3614 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3614</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יקותיאל זלמן יהודה ליב ברזל</persName>
+
+</head>
+         <div><p> לאביו הרב <persName>ישכר דב </persName> (שם המשפחה ברזל: בני ר' זלמן ליב) ולאמו<persName> רבקה</persName> בת הרב <persName>יחזקאל לנדאו </persName> מפרג (בעל "הנודע ביהודה").
+
+ נולד ב<placeName>רוסיה</placeName> בשנת תקכ''ח (1768).
+
+ קיבל חינוך מסורתי.
+
+ נשא לאשה את<persName> שרה</persName> בת ר'<persName> מאיר היער</persName> מבוקובינה.
+
+ עלה לארץ בשנת תקמ"ח (1788) יחד עם אשתו זהתישבו בטבריה יחד עם הרב<persName> אברהם</persName> הכהן<persName> מקליסק.</persName>
+
+ נתמנה ע"י הר<persName>ב ברוך ממזריטש</persName> והרב <persName>מאבטע</persName> למנהל עניני החלוקה בא"י.
+
+ בנו <persName>אפרים צבי </persName> יסד יחד עם<persName> דוד רומן</persName> את ביהח"ר לטבק הרחה.
+
+ נפטר בטבריה ז' כסלו תרי''ג (1853).
+
+ צאצאיו: <persName>אפרים צבי </persName> (נהרג ברעש בצפת בשנת תקצ"ז (1837),<persName> ברוך יוסף, חיים, רבקה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3614 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3614</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5382 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5382</bibl><bibl>Volume: #18 ,Page: 5383 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5383</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי אשל (שניידרמן)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אוזיראן</placeName> (פולין), ב' תשרי תרס"ג (3.10.1902).
+
+ לאביו <persName>יעקב שניידרמן</persName> ולאמו <persName>שושנה</persName> בת<persName> אברהם</persName> <persName>פפר.</persName>
+
+ קיבל חינוך מסורתי.
+
+ בפברואר 1930 עלה לארץ.
+
+ שימש בתור שו"ב (שוחט ובודק) בתל-אביב.
+
+ היה חבר ב"ברית הבריונים" מיסודו של <persName>אבא</persName> <persName>אחימאיר</persName> ז"ל (ראה כרך שני, עמוד 817). נאסר ב-1931 באשמת פעולות נגד ממשלת המנדט נגד המיפקד.
+
+ בשנת 1933 נאשם בין יתר הנאסרים ברצח המנוח ד"ר <persName>חיים ארלוזורוב</persName> ז"ל (ראה כרך חמישי, עמוד 2082).
+
+ ממייסדי אירגון עובדי הצה"ר ובית"ר.
+
+ ממייסדי "הסתדרות העובדים הלאומית בא"י".
+
+ היה ציר בוועידה העולמית של המפלגה הרביזיוניסטית שהתקיימה בשנת 1935 בקרקוב.
+
+ היה חבר אצ"ל ואחרי הפילוג הצטרף ללח"י.
+
+ היה פעיל במחלקת האירגון וההסברה והמחלקה הכספית.
+
+ ישב קרוב לשבע שנים בבתי סוהר שונים בארץ, כולל בגלות אריתריאה, אסמרה וקניה. השתחרר מהמאסר אחר קום המדינה.
+
+ בשנת 1948 נשא לאשה א<persName>ת גאולה </persName> (מורה) בת <persName>בן-ציון ודבורה ידידיה </persName> (ראה את הערך שלו בכרך תשיעי, בעמוד 3297).
+
+ אחרי שחרורו מהמאסר בקניה, גוייס לצה"ל.
+
+ מנהל מ.מ.מ. (מכון להריצת רכב) בחיפה.
+
+ צאצאיו:<persName> נטע, שושנה, דוב.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5382 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5382</bibl><bibl>Volume: #18 ,Page: 5383 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5383</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

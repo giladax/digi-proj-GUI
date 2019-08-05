@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 111 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/111</bibl><bibl>Volume: #1 ,Page: 112 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/112</bibl>
+<bibl>Volume: #1 ,Page: 113 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/113</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צדקה חוצין</persName>
+
+</head>
+         <div><p> בן המשורר משה. נולד ב<placeName>בגדאד</placeName> בח' שבט תרל"ו (1876). דור חמישי להרב צדקה חוצין בעל הספר "צדקה ומשפט", רב ב<placeName>בגדאד</placeName> בשנים תק"ג-תקל"ג. התחנך ב"חדר" ובבית המדרש לרבנים "בית זלכה" ונתפרסם כאחד מטובי חכמי בגדאד. באייר תרס"ד עלה לארץ ישראל יחד עם ר' יחזקאל עזרא ב"ר רחמים ור' יעקב חיים סופר. הם נסעו בשיירה בעגלות רעועות. שלמו סכומי כסף גדולים למען ינוחו בימי השבתות. כעבור 39 יום הגיעו עד יפו בערב חג השבועות. באסרו-חג באו ירושלימה. הוא סבב בערי הארץ והשתטח על קברי הצדיקים בירושלים, חברון, טבריה וצפת. כעבור חודש ימים חזר לבגדאד דרך סוריה, אחרי מסע של ג' חדשים. בשנת תרפ"ד נסע שנית לא"י יחד עם בני ביתו ונשתקע בירושלים. בשנת תרפ"ט בנה בית כנסת פרטי "שמש
+
+ צדקה" בשכונת גאולה (רחמה בת אברהם צדקה עזרה לו בסכום כסף קטן). בית כנסת זה משמש לו גם "ישיבה", בו הוא יושב והוגה בתורה יומם ולילה. לעתים קרובות נערכים שם שעורים בש"ס ובשו"ע. ר' צדקה נחשב לאחד מטובי חכמי ירושלים, חסיד וקדוש ומרביץ תורה ברבים. ההא גם מרבה בצדקות, מוהל מומחה, שמל עשרות ילדים שלא על מנת לקבל פרם.
+
+ חבר שני ספרים בשם "מקיצי נרדמים", ח"א מוסר לר"ה תש"ג (זכה לשתי מהדורות), וח"ב מוסר לר"ה תש"ד. שניהם נדפסו בירושלים, בשנים תש"ג, תש"ד.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 111 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/111</bibl><bibl>Volume: #1 ,Page: 112 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/112</bibl>
+<bibl>Volume: #1 ,Page: 113 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/113</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

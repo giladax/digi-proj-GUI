@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1816 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1816</bibl><bibl>Volume: #4 ,Page: 1817 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1817</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל סברדליק</persName>
+
+</head>
+         <div><p> נולד בבנדר (פלך בסראביה, רוסיה), בשנת תרכ"א (1861), לאביו <persName>יצחק</persName> (שו"ב) ולאמו <persName>סוביל</persName> בת ר'<persName> נחום</persName> <persName>הלוי</persName> . למד בחדרים ובקלויז של חסידי סאדיגורה. נשא לאשה את <persName>נחמה מינדל</persName> בת הרב <persName>שבתי שפטיל</persName> <persName>הלוי הורביץ</persName> (מצאצאי השל"ה). למד שחיטה ונתמנה לשו"ב בבנדר.
+
+ בשנת תרס"ז חלה מחלה אנושה והרופאים נואשו מחייו. אז מסר את חזקת השחיטה <persName>למשה</persName> בנו ועלה לארץ-ישראל בתקוה שכאן יבריא, ואם ח"ו נגזר עליו למות, מוטב להוציא את נשמתו בארץ הקודש ולמצוא מנוחה לעצמותיו באדמתה. לעצת הרופא האנגלי ד"ר טורנץ בטבריה התישב בזכרון יעקב והבריא והאריך ימים. 
+
+
+ בימי מלחמת עולם א' נתמנה לשו"ב בזכרון יעקב ומשעלה בנו משה בתרפ"ג מסר לו את חזקת השחיטה והוא פרש מעבודתו המקצועית לעבודת הבורא בלימוד תורה ובעסקנות בצרכי צבור. היה יו"ר משפט השלום העברי, חבר מועצת גמילות חסדים ובית-הכנסת הגדול "אהל יעקב".
+
+ נפטר בזכרון יעקב, כ"ו אייר תרצ"א (13.5.31). צאצאיו:<persName> יעקב, משה סבר</persName> (שו"ב בזכרון יעקב, ראה בכרך זה),<persName> מאיר, זלדה</persName> אשת <persName>פישל הורביץ </persName> (ריבניצה), <persName>בלומה</persName> אשת <persName>שלמה בלנק</persName> (גבעת עדה),<persName> רבקה</persName> אשת<persName> יצחק סרניק</persName> (מסחה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1816 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1816</bibl><bibl>Volume: #4 ,Page: 1817 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1817</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

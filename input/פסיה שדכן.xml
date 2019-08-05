@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3528 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3528</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פסיה שדכן</persName>
+
+</head>
+         <div><p> נולדה ביאקוביץ (רוסיה) בשנת תר"ס (1900).
+
+ לאביה<persName> אליהו טריטיוק-שליש</persName> (מצאצאי הבעש"ט) ולאמה <persName>אסנת </persName> בת <persName>טוביא ליב בוכבינדר</persName> .
+
+ קבלה חינוך מסורתי. עברית לימד אותה אביה.
+
+ היתה פעילה בתעמולה ציונית ולעליה לארץ.
+
+ בשנת 1920 נישאה <persName>לצבי שדכן.</persName>
+
+ בשנת 1925 עלתה לארץ.
+
+ השתדלה להעלות את שאר בני המשפחה לארץ.
+
+ עבדה ברמת-גן.
+
+ נפטרה בתל-אביב, כ"ג אלול תרפ"ו (2.9.1926).
+
+ בניה : <persName>אליהו שליש</persName> (שירת בבריגדה ובמלחמת השחרור, חבר "דן"), <persName>יעקב שליש</persName> (חניך "בן-שמן וחבר משק שנים רבות. כיום לוטש יהלומים),
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3528 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3528</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

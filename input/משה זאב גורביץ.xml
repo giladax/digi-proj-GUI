@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4932 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4932</bibl><bibl>Volume: #16 ,Page: 4933 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4933</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה זאב גורביץ</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ג תשרי תרפ"א (5.10.1920).
+
+ לאביו ישראל גורביץ (ראה כרך ששי, עמוד 2703) ולאמו <persName>אסתר</persName> בת<persName> אברהם שטיינברג </persName> (ילידת ירושלים. עסקנית בעבודה סוציאלית).
+
+ קיבל חינוך מסורתי, עברי וכללי. בשנות 1936-1947 עסק עם החלוצים בתעשית
+
+ היהלומים. היה מנהל אדמיניסטרטיבי במשך שש שנים בבית החרושת ליהלומים "אלמז" בנתניה.
+
+ כל השנים חבר פעיל בהגגה.
+
+ במלחמת השחרור, היה קצין בצה"ל בכל תקופת השחרור, וקצין מלואים עד היום הזה.
+
+ בשנת 1950 נשא לאשה את<persName> שאולה</persName> בת <persName>משה</persName> <persName>הימלפרב</persName> (ראה כרך שביעי, עמוד 2891).
+
+
+ משנת 1950 עובד במחלקת ההנדסה כמזכיר הועדה המקומית לבניה ותכנון עיר, ומזכיר מחלקת תכנון ובנין עדים במינהל ההנדסה של עירית תל-אביב-יפו. 
+
+ מ-17 ליוני 1958 בונה חופשי בלשכת "ברקאי"מספר 17 בתל-אביב. כיהן בלשכה כמזכיר, גנזך, מפקח שני, חבר ועדת הכספים כיום. 
+
+ חבר התאחדות בעלי הבתים. 
+
+ צאצאיו: <persName>אורנה, יוסף.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4932 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4932</bibl><bibl>Volume: #16 ,Page: 4933 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4933</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

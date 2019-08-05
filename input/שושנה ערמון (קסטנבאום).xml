@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4039 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4039</bibl><bibl>Volume: #12 ,Page: 4040 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4040</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שושנה ערמון (קסטנבאום)</persName>
+
+</head>
+         <div><p> נולדה ביארוסלב (גליציה) בשנת תרנ"ט (1899). לאביה <persName>משה שמואל נרציזנפלד</persName> ולאמה<persName> איטה</persName> בת ר' <persName>מיכאל מאיר שמידט</persName> מיארוסלב שבגליציה.
+
+ קיבלה חינוך מסורתי וכללי.
+
+ מארגנת נערות ציוניות בשם "מרים" ביארוסלב. בברלין התנדבה לעבודה סוציאלית.
+
+ נישאה <persName>לחיים דב ערמון (קסטנבאום)</persName> - ראה כרך ששי, עמוד 2491.
+
+ בשנת 1939 עלתה עם בעלה לארץ.
+
+ יחד יסדו מחסן מרכזי להלבשה, שכעבור שנים הפך למוסד עירוני שליד המחלקה לעבודה סוציאלית של עירית תל-אביב-יפו.
+
+
+ בהיותה עוסקת במחסן, לא הצטמצמה רק בפעולה זו שהביאה ברכה מרובה לנצרכי העיר, אלא עזרה לבעלה גם בפעולות תרבותיות, שאחת מהן זכתה להערכה מיוחדת בציבור הרחב - והיא - יסוד וניהול "חוג הרמב"ם" המקיים שעורים והרצאות מידי שבוע בשבוע לשם התעמקות בכתבי הרמב"ם, והיא היתה מארחת את המשתתפים בכבוד ובכיבוד.
+
+ נפטרה בתל-אביב, כ"ג תמוז תשכ"א (7.7.1961).
+
+ צאצאיה : <persName>עטרה </persName> אשת<persName> זאב פלטאו, מרים רבקה</persName> אשת <persName>אליהו שרגאי</persName> (דובר חברת "שוהם". בנו של ר' <persName>שלמה</persName> <persName>זלמן שרגאי</persName> , ראש מחלקת העלית של הסוכנות היהודית. ראה כרך רביעי עמוד 1796), <persName>צביה </persName> (מורה) אשת ד"ר <persName>יוסף גרוס</persName> (עו"ד, מעורכי "פסקים" ו"הפרקליט").
+
+ לזכרה הוכנס ספר תורה על שמה בחוג הרמב"ם, וכן הוקם קרן למען הלואות ללא כל ריבית, לנצרכים אחרי מחלה לשם הבראה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4039 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4039</bibl><bibl>Volume: #12 ,Page: 4040 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4040</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

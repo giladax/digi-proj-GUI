@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3395 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3395</bibl><bibl>Volume: #9 ,Page: 3396 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3396</bibl>
+<bibl>Volume: #9 ,Page: 3397 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3397</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה כץ</persName>
+
+</head>
+         <div><p> נולד פתח-תקוה, א' אייר תרע"ד (27.4.1914). לאביו<persName> משה</persName> ולאמו <persName>חנה</persName> בת הרב <persName>מנחם נתן אויערבאך</persName> (ראה בכרך זה בעמוד 3277).
+
+ קבל חנוך מסורתי וכללי וקורסים במינהל צבורי של עת"א.
+
+ מפעילי המכבי ומדריך נוער בשיט, קליעה למטרה, התאבקות ופנות (ג'יאו-זיצו).
+
+ בשנת 1939 נשא לאשה את<persName> חסידה אסתר </persName> בת <persName>יעקב</persName> <persName>מנדלסון-חשיין</persName> (דור ששי בארץ).
+
+ חבר ההגנה משנת 1935.
+
+ שירת בצה"ל בתפקיד אחראי.
+
+ פעיל במגן דוד אדום משנת 1940.
+
+ אח בלשכת הבנאים החפשים "הכוכב" והיה בין מיסדי לשכת "בצלאל" ואח פעיל בה.
+
+ מנהל בחברת סוחרי המושבות.
+
+ בניו:<persName> מיכאל אריה, עוזי טוביה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3395 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3395</bibl><bibl>Volume: #9 ,Page: 3396 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3396</bibl>
+<bibl>Volume: #9 ,Page: 3397 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3397</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

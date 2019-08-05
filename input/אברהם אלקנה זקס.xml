@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1633 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1633</bibl><bibl>Volume: #4 ,Page: 1634 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1634</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם אלקנה זקס</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תר"ד (1844), לאביו רב <persName>משה</persName> (מתלמידי החתם סופר, ממיסדי כולל הו"ד) ולאמו<persName> רחל</persName> בת ר' <persName>צדוק הלוי</persName> ממוהילב (שעלה ארצה בשנת תקפ"ב).
+
+ למד בתלמוד-תורה ובישיבה. נשא לאשה את <persName>דובה</persName> בת<persName> יהושע פישל גרבוים </persName> (נכדת ר' <persName>אריה ליב יעבץ</persName> מקולגה, אביו זקנו של ההיסטוריון ר'<persName> זאב יעבץ)</persName> , (היתה עסקנית במושב זקנים הכללי - באגף הזקנות).
+
+ עד שנת תרנ"ד עסק בחלפנות עם האחים<persName> נתן</persName> <persName>צבי (נטע) ופנחס המבורגר</persName> , ואח"כ נתמנה למנהל בית מושב זקנים.
+
+ היה מיקירי ירושלים ומנכבדי העדה האשכנזית. פעל לטובת מוסדות החסד. גבאי בחברה קדישא, במושב זקנים וזקנות. מהמיסדים וגבאי בחברת גמילות חסדים הכללית, ממונה כולל הו"ד (הולנד ודייטשלנד - כולל גרמניה), חבר ועד העיר וממנהלי הועד הכללי כנסת ישראל, מהנאמנים של קרן משה מונטיפיורי, בורר מוסכם בסכסוכים כספיים, ממיסדי שכונת "שערי ירושלים" בשנת תרנ"ד ביחד עם מחותנו ר'<persName> יצחק ליפקין</persName> (ראה כרך ראשון, עמוד 297). היה מחונן בקול נעים והיה חזן ומרצה שיעור בתלמוד בכל ערב בבית-הכנסת "אהבת ציון" של כולל הו"ד, שהתפללו בו לפי מנהג החתם סופר, שנוסד בשנת תרט"ו ברובע היהודים, בחצר שנודעה בכינוי "החוש של ר' צדוק" (ר' צדוק'ס חוש).
+
+ נפטר בירושלים, ה' ניסן תרס"ג.
+
+ צאצאיו :<persName> אהרן יהושע פישל, משה אליהו, דב</persName> <persName>(בר), צפורה</persName> אשת הרב <persName>יוסף הלוי </persName> (ראה כרך שני, עמוד 644), <persName>חיה רישקה</persName> אשת ר' <persName>אליהו אהרן כהנא</persName> (ראה כרך ראשון, עמוד 392), <persName>פרומה</persName> אשת <persName>שמואל</persName> <persName>בנימין</persName> בן הרב<persName> יוסף חיים זוננפלד</persName> ובזיווג שני אשת ר' <persName>דב ימיני</persName> בפתח תקוה (ראה כרך ראשון, עמוד 240).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1633 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1633</bibl><bibl>Volume: #4 ,Page: 1634 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1634</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

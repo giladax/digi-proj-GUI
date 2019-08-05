@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 2005 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2005</bibl><bibl>Volume: #4 ,Page: 2006 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2006</bibl>
+<bibl>Volume: #4 ,Page: 2007 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2007</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים (יהודה) גולדברג</persName>
+
+</head>
+         <div><p> נולד בקישינוב, פלך בסראביה, רוסיה, י"א סיון תר"ל (1870), לאביו<persName> שמואל שלמה</persName> ולאמו <persName>חיה לאה</persName> בת <persName>פרץ</persName> .
+
+ נתחנך בחדרים ובבית הוריו. בשנת תרנ"ה נשא לאשה את<persName> מרים</persName> בת <persName>אברהם קנדלר</persName> ועסק במסחר בפירות ובעסקי יערות.
+
+ בשנת תרס"ג עלה לארץ ופתח חנות מכולת בנוה שלום שביפו. בתרס"ט עבר לרמלה ופתח שם חנות מכולת ובית מלון, בתכלית הכשרות, ברחוב הראשי בדרך לירושלים. סיפק מצרכים לפועלים היהודים בחולדה, בן-שמן וכפר-אוריה, ובמלונו התאכסנו נוס
+
+
+ עים בדיליז'אנסים בדרך יפו - ירושלים (כי לא הכל נסעו ברכבת). ביניהם ראשי תנועת העבודה בזמן ההוא, אישי-צבור, תיירים יהודים ונכרים מחו"ל שבאו לביקור ברמלה; חברי "השומר", אנשי העליה השניה, וכן אנשי מושבות יהודה שבאו לסדר ענינים בשוק ובמשרד שלטון הנפה ברמלה.
+
+ בתרע"ד נפצע קשה בראשו בידי גנבים ערבים שפרצו לביתו, והודות לטיפולו המסור והמוצלח של הד"ר<persName> וייסבורד</persName> מראשון לציון נשאר בחיים.
+
+ בשנות מלחמת-העולם א' היה בעקרון וב-1918 חזר לרמלה וחידש את עסקו בבית ששכר מאת חברת "למען ציון" באמצעות מנהל עניניה בארץ ר'<persName> מרדכי</persName> <persName>אדלמן</persName> (עליו ועל פעולות החברה ראה כרך א', עמוד 151).
+
+ בעת מהומות תרפ"ט. כשגברה התסיסה הערבית ברמלה נגד היהודים, עזב את המקום, יחד עם המשפחות המעטות שנשארו עוד שם בתור קהלה יהודית, ופתח חנות מכולת ברחובות.
+
+ אחרי פטירת רעיתו (י"ג טבת תש"ד) נתקבל, בהשתדלות ידידו ר'<persName> ישראל ברא </persName> תושב רמלה לשעבר, בבית מנוחה לזקנים גלמודים בתל-אביב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 2005 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2005</bibl><bibl>Volume: #4 ,Page: 2006 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2006</bibl>
+<bibl>Volume: #4 ,Page: 2007 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2007</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

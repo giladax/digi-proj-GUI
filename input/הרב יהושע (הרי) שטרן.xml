@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3719 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3719</bibl><bibl>Volume: #11 ,Page: 3721 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3721</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יהושע (הרי) שטרן</persName>
+
+</head>
+         <div><p> נולד בשנת תרנ"ז (24.4.1897) באייראגולה שבליטא.
+
+ לאביו <persName>משה (מוריס) </persName> ולאמו <persName>הינדה</persName> בת <persName>יצחק אייזיק</persName> <persName>מארקזון.</persName>
+
+ אחרי לימודים בחדר יצא עם ההורים בשנת 1908 לארצות הברית, ואחרי לימודים בבתי-ספר צבוריים בע
+
+ יירה שבמדינת אוהאיו נכנס ללמוד בסמינר לרבנים היברו יוניון קוליג' ובאוניברסיטה בסינסונטי. ב-1920 קיבל את התואר ב. א. וב-1922 הוסמך לרבנות, וב-1926 עסק בעבודת-מחקר באוניברסיטת שיקאגו.
+
+ ב-1922 נבחר לרב בהיכל ישראל ביוניונטאון שבפנסילבניה, ומאז 1927 הנו רב ראשי בהיכל עמנו-אל במונטריאל שקנדה.
+
+ נשא לאשה את<persName> סילוויה </persName> בת <persName>אליהו גולדשטיין.</persName>
+
+ מאז 1923 הרבה לנסוע בארצות אירופה והמזרח הקרוב (ביקר 4 פעמים בארץ-ישראל ו-2 פעמים בברית המועצות) לשם לימוד התנאים המדיניים, הסוציאליים והכלכליים.
+
+ במונטריאל הרבה לפעול לקידום הרצון הטוב והידידות בין קבוצות דתיות וגזעיות ולאומיות שונות. בקונגרס היהודי העולמי הראשון (ג'נבה, 1936) נבחר למזכירו ואח"כ לועד הפועל שלו. כן הנו חבר בהסתדרות הציונית, בברית העברית לאמריקה, בחברת-התנ"ך הקנדאית, בועד הפועל של הקונגרס היהודי הקנדאי, במסדר בני ברית והמאסונים, בועד המרכזי של רבני אמריקה, באקדמיה האמריקאית למדעי המדינה והחברה, בחברה המלכותית הקיסרית, במועדון הקנדאי ועוד. היה נשיא ועד שליחי הקהלות לאזור מונטריאל וחבר הועד המנהל של היברו יוניון קוליג' שלמד בו בבחרותו, נואם-מטיף בשרותהשידור העיקריים של ארה"ב וקנדה.
+
+ ב-1937 נתכבד במדאלית-ההכתרה של המלך ג'ורג' הששי. ב-1938 הוענק לו תואר דוקטור-כבוד לתורת החוק והמשפט מאת אוניברסיטת מק-גיל הקנדאית, וב1947 תואר דוקטור כבוי לתיאולוגיה מאת היברו יוניון קוליג'.
+
+ חיבר (באנגלית) את הספרים : "יהודי ונוצרי", "היהדות במלחמת האידיאות", "הרוח היהודית המנצחת", "יסורי קידוש השם והפלא", "עליתי-לרגל לישראל" ומספר רב של מחקרים וחוברות הסברה בנושאים דתיים, והנו עורך-חבר ב"ג'ואיש כרוניקל" הקנדאי.
+
+ בנוותיו: <persName>שמחה </persName> (סטפיני), <persName>אדיל </persName> (ג'וסטין).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3719 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3719</bibl><bibl>Volume: #11 ,Page: 3721 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3721</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

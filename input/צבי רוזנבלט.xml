@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3282 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3282</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי רוזנבלט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>טשרנוביץ</placeName> (רומניה), ד' תשרי תרע"ב (26.9.1911).
+
+ לאביו<persName> יעקב אהרן </persName> ולאמו <persName>עטיל</persName> בת<persName> יצחק קובל.</persName>
+
+ קבל חנוך מסורתי ותיכוני ב<placeName>טשרנוביץ</placeName> (רומניה). היה מפקד קן בית''ר ומנהל הכשרה.
+
+ ב-23 לינואר 1933 עלה לארץ.
+
+ כעבור ששה חדשים, ביולי 1933 נעצר ע''י המשטרה בפלוגת בית"ר בפר-סבא והואשם בהשתתפות ברצח ד"ר <persName>חיים ארלוזורוב </persName> (ראה כרך חמשי, עמוד 2082) ביחד עם אבא אחימאיר (ראה כרך שני, עמוד 817) <persName>ואברהם סטבסקי</persName> (ראה כרך ששי, עמוד 2700).
+
+ אחרי חקירה ממושכת ופולמוס פומבי בצבור היהודי בארץ ובחו"ל, שוחרר הוא פה אחד ע"י בית המשפט המחוזי בירושלים.
+
+ רצוי להעיר, ש<persName>בשאלון </persName> האישי <persName>שצבי רוזנבלט</persName> שלח אלי (בראשית שנת 1957) רשם: ד"ר<persName> חיים ארלוזורוב</persName> <persName>הי"ד</persName> (ה' ינקום דמו). וזה אומר דבר מה...
+
+ בשנת 1937 נשא לאשה את<persName> רינה</persName> בת <persName>אריה זלטקס.</persName> היה חבר הנהלת ההתאחדות הארצישראלית לכדורגל. היה חבר המועצה הארצית של הצ''ח. כתב מאמרים בעתונים - הירדן ומשמר הירדן.
+
+ מנהל חשבונות בעירית תל-אביב-יפו.
+
+ צאצאיו:<persName> ישראל, אירית</persName> .
+
+</p>
+<p>
+
+ תוספות: 
+
+ שינה את שם משפחתו: <persName>בן-יעקב</persName>
+
+ (ראה כרך ט', עמוד 3282)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3282 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3282</bibl>            <bibl>Volume: #11 ,Page: 3879 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3879</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

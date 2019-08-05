@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4349 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4349</bibl><bibl>Volume: #13 ,Page: 4350 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4350</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר סרוקה</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וורשה</placeName> (פולין), ח' תמוז תרע"ג (13.7.1913),
+
+ לאביו הרב <persName>יהושע דוד סרוקה </persName> זצ"ל (ראה כרך זה) ולאמו <persName>שושנה</persName> בת הרב <persName>מרדכי אייזיק גורפינקל</persName> .
+
+
+ קיבל חינוך מסורתי, בי"ס גבוה לרבנים "מתיתבתא" בווארשה (בירת פולין) ולאחר מכן הוסמך לרבנות ע"גדולי הרבנים שם.
+
+ היה פעיל בתנועה הציונית "צעירי המזרחי" בפולין.
+
+ בשנת תרצ"ד (1934) עלה לארץ.
+
+ עבד כפועל בנין.
+
+ בשנת תרצ''ה (1935) נשא לאשה את<persName> אסתר</persName> בת ר' <persName>מרדכי ברנמוב.</persName>
+
+ חבר מרכז המפלגה הליברלית.
+
+ סגן יו"ר ענף המזון וחבר ההנהלה של התאחדות הסוחרים הכללית בישראל.
+
+ סוחר.
+
+ חבר מועצת עיריית תל-אביב (משנת 1955).
+
+ כתב מאמרים ב"הבוקר" ובבטאון הסוחרים.
+
+ כל השנים חבר בהגנה.
+
+ צאצאיו: <persName>נעמי</persName> אשת <persName>יאיר גלבוע, איתן</persName> (חייל בצה"ל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4349 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4349</bibl><bibl>Volume: #13 ,Page: 4350 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4350</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

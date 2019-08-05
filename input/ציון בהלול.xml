@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3521 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3521</bibl><bibl>Volume: #10 ,Page: 3522 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3522</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ציון בהלול</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פקיעין</placeName> ע"י צפת, א' אלול תרנ"ג (1893).
+
+ לאביו הרב<persName> אלעזר בהלול </persName> (ראה בכרך זה) ולאמו <persName>רחל</persName> בת חכם<persName> מאיר</persName> ניניו מתורכיה.
+
+ קבל חנוך מסורתי, בבי''ס האליאנס ולמד אח"כ בישיבה בטבריה.
+
+ בשנת תרע"ב (1912) נשא לאשה את<persName> מזל</persName> בת הרב <persName>שמואל בן-קיקי.</persName>
+
+ היה חבר פעיל בארגון "המכבים הקדמונים" בטבריה.
+
+ עבד בטחנת הקמח של ה"ה<persName> ישראל טויסטר </persName> וחכם <persName>משה הכהן דואיק </persName> בטבריה. אח"כ הקים (1926) טחנת קמח ובית חרושת לקרח, והיה מספק קמח וקרח בטבריה והסביבה.
+
+
+ היה חבר מועצת עירית טבריה.
+
+ היה מהיוזמים להקמת בית מלון ובית כנסת ב"אלחמה" בקרבת צמח.
+
+ היה מפעילי "מגבית ההתגיסות" ו"כופר הישוב" בטבריה.
+
+ עקב קשריו המסועפים עם מנהיגי וערביי העיר והסביבה, עלה בידו לעזור להגנה, ובעיקר ליוסף פיין (ראה כרך ו', עמוד 2644) בהשגת ידיעות וברכישת נשק מהערבים. וכן בקשרים עם אנשי הכנופיות הערביות בטבריה והסביבה.
+
+ צאצאיו:<persName> רבקה </persName> אשת <persName>שלמה חסין</persName> (מנהל סניף הבנק הלאומי לישראל בטבריה),<persName> אלעזר, שמואל, משה, יוסף</persName> (סגן פרקליט המדינה בחיפה. ראה בכרך זה), <persName>אברהם</persName> <persName>בר-אל</persName> (עו"ד, סגן קונסול ישראל בניו-יורק).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3521 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3521</bibl><bibl>Volume: #10 ,Page: 3522 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3522</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

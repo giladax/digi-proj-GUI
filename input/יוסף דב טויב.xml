@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4011 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4011</bibl><bibl>Volume: #12 ,Page: 4012 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4012</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף דב טויב</persName>
+
+</head>
+         <div><p> נולד בזדונסקא-וואלה (פולין) בכסלו תרס"ט (בסוף 1908).
+
+ לאביו ר' <persName>בנימין זאב טויב</persName> (ממשפחת רבנים) מרדומסק ולאמו <persName>פיגה-רבקה</persName> בת<persName> יהודה אריה ליב נוימן.</persName>
+
+ קיבל חינוך מסורתי בחדר, בישיבה מסיבתא בווארשה, בי"ס דתי יסודי התורה. קיבל תואר רב מגדולי הרבנים בפולניה.
+
+ ממיסדי צעירי אגודת ישראל והיה חבר בהנהלה הארצית וחבר בנשיאות צעירי אגודת ישראל בלודז.
+
+ מראשי קיבוץ דתי בהכשרה.
+
+ עלה לארץ בשנת 1935.
+
+ בשנת 1935 נשא לאשת את <persName>מרים</persName> בת ר'<persName> פנחס הכהן</persName> (מחסידי אלכסנדר).
+
+
+ עבד כפועל בנין ואח"כ עבד עשר שנים בבית החרושת לטקסטיל "אתא" בכפר אתא.
+
+ בארץ עבר למזרחי. ממיסדי בני-עקיבא בכפר אתא, בסניף הפועל המזרחי.
+
+ כתב מאמרים: בדגלנו, בעתון "אורטדוקשע יוגעגד בלעטער" ובעתון היומי "יודש-טאג בלאט" בפולניה.
+
+ עבד במפדה האזרחי.
+
+ פעיל בהג"א.
+
+ מזכיר המפלגה הדתית-לאומית מזרחי והפועל המזרחי ברמת-גן.
+
+ חבר מזכירות עובדי הפועל המזרחי, יו"ר המועדון לתרבות בר-אילן ברמת-גן.
+
+ בנותיו: <persName>נילי</persName> אשת <persName>אמנון שלומאי, נורית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4011 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4011</bibl><bibl>Volume: #12 ,Page: 4012 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4012</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

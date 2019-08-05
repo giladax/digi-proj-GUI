@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2449 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2449</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף שולמן</persName>
+
+</head>
+         <div><p> נולד בז' באדר תרכ"ד (1864) בפריסוב שבפלך פולטאבה, אוקראינה.
+
+ לאביו <persName>שאול שמואל</persName> , חוכר אחוזות ומגדל סלקסוכר (ממשפחת הסופר <persName>קלמן שולמן, מאיר שולמן</persName> והרב <persName>אהרן יואל שולמן</persName> מבארזען שבפלך פולטאבה) ולאמו <persName>פייגה אטל </persName> בת<persName> צבי שוסטק.</persName>
+
+ למד תורה וכתב ולשון מפי מורים ומלמדים שהחזיק אביו בביתם שבכפר. משאסר הצאר אלכסנדר השלישי על היהודים לחכור קרקעות עברה המשפחה לגור באודיסה. ואחד ממנהלי בית-החרושת לסוכר של <persName>ברודסקי </persName> (שהיה קונה לפנים את יבולי הסלק מאת האב) הכיר את הנער יוסף ככשרוני, שחבל לו להתנוון בעסקי אויר, ובהשתדלותו נתקבל לבית-הספר הטכנולוגי. שם למד שש שנים כאחד משלשת התלמידים היהודים בין כ-80 גויים. הצטיין בעבודה ובלימודים ובהמלצת הגנרל המפקד באודיסה, שהיה אורח-כבוד בבחינת הגמר, נשלח בסטיפנדיה לאזור הנפט שבבאקו (קאוקאז) להשתלם בקדיחת בארות. והנה פרצה מהפכת 1905 ובעקבותיה הפרעות ביהודים, ואז החליט לפנות עורף לרוסיה ולבקש את עתידו בארץ-ישראל.
+
+ בחנוכה תרס"ו עלה ארצה ונכנס לעבוד בביתהחרושת למיכאניקה של ל. שטיין ביפו, כאן נפגש עם המהנדס <persName>סיניאבר</persName> , שהכירו עוד מאודיסה, וזה סיפר לו על קשייו בקדיחת באר שקיבל לבצע בביר-סאלם (כיום באזור באר יעקב). יוסף הציע את עזרתו, יצא אל המקום, ערך בדיקות על סמך הידיעות שרכש בבאקו והצליח למצוא מים. בעקב הצלחתו הוזמן לבצע קדיחות נוספות והוכר בתור מומחה במקצוע.
+
+ נשא לאשה את <persName>נחמה</persName> בת ר' <persName>יוסף</persName> (ואחרי פטירתה א' חשון תרפ"ב בנס-ציונה נשא בזיווג שני את <persName>חנה</persName> <persName>שקולניק</persName> , ואחרי שנפטרה ב-1936 בנס ציונה נשא את <persName>דבורה</persName> בת <persName>שמריהו בירגר).</persName>
+
+ השתקע בנס ציונה ובנה בה את ביתו ואת בית מלאכתו לעבודות מיכאניקה. קדח בארות בכל רחבי
+
+ השפלה והעמיד דור של תלמידים בעבודות מתכת ובחשיפת מקורות מים בארץ.
+
+ במלחמת העולם הראשונה היה מהנדס להספקת מים בשרות הצבא הטורקי.
+
+ בנותיו (מאשתו הראשונה): <persName>אסתר</persName> אשת<persName> ראובן</persName> <persName>יאבוש</persName> (פקיד בבנק הפועלים בתל-אביב),<persName> צפורה</persName> אשת <persName>אברהם נחמיאס</persName> (מפקח על רכוש האויב), <persName>חוה, חנה</persName> אשת <persName>חיים נחמיאס.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2449 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2449</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

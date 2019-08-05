@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 155 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/155</bibl><bibl>Volume: #1 ,Page: 156 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/156</bibl>
+<bibl>Volume: #1 ,Page: 157 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/157</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יחזקאל רובינזון</persName>
+
+</head>
+         <div><p> נולד בסובאלקי, פולין, בשנת תרמ"א (1881), לאביו דוד. בן שנתים עלה ארצה עם הוריו שהשתקעו בירושלים. כאן למד ב"חדר" ובישיבה עד גיל ברמצוה, ואח"כ יצא לפתח-תקוה להתמסר לעבודת אדמה. החל לעבוד אצל <persName>משה מקלב</persName> ואח"כ עבד בשותפות עם <persName>אריה מקלב</persName> הי"ד (שנרצח במוצא בפרעות תרפ"ט) בפלחה ובגידול ירקות (יש אומרים, ששנים אלה היו
+
+ חלוצי הירקנות בארץ). אז נוסדה בפתח-תקוה הסתדרות הפועלים הראשונה (מיסודם של ר' <persName>קופל ויסוקר</persName> , <persName>מנחם יהווה שטאמפר </persName> ועוד) והוא הצטרף אליה והיה מחבריה הפעילים ביותר. וכשסידרה אגודת "חובבי ציון" התישבות של כמה משפחות בפתח-תקוה בשנת תרס"ג, היה גם הוא בין המתנחלים ונטע כרמי גפנים ושקדים.
+
+ בשנותיו האחרונות עסק יחד עם שותפו בתיווך לרכישת קרקעות מאת ערבים, נזהר מאד לנהל את
+
+
+ מסחרו ביושר ובכנות ובין מכיריו היתה מקובלת הדעה, שהדיבור שלו שוה לחוזה כתוב וחתום, ההן שלו הן והלאו שלו לאו. השתתף בפעולה לגאולת הקרקעות בשביל גבעת השלשה, גן קרמנצקי, כפר סירקין ועוד.
+
+ במעשי חסד יצר לעצמו סגנון מיוחד. לא השיב ריקם פני איש שבא לבקש עזרה או ערבות. ואבי בסף לא מעט הפסיד ב"עסקים" כאלה, אך לא רצה ללמוד לקח ולא הפסיק לתת עוד ועוד אפילו לחייבים שלא שילמו, ויש שהיה "מבריח" לאנשים כאלה עזרה על-ידי אחרים, לבל ידעו ממי קיבלו ולבל יתביישו. בשבתות היה הולך לבקר בבית "חשודים" בזקוקים לעזרה ואח"כ היד, מגיש להם את העזרה בצורה המתאימה.
+
+ מוסדות התורה והחסד שבירושלים ומוסדות צבור הפועלים היו חביבים עליו במדד, שוה ולכולם נתן ביד רחבה, וכן היה משפיע על אחרים שיתנו גם הם. בפוליטיקה ובריב מפלגות לא התערב. בזמני בחידות היה משתדל להעמיד רשימה מיוחדת בשם "רודפי "שלום", אלא שלא היתה הצלחה יתרה למאמציו.
+
+ נפטר בפתח-תקוה א' חשון תרצ"ו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 155 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/155</bibl><bibl>Volume: #1 ,Page: 156 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/156</bibl>
+<bibl>Volume: #1 ,Page: 157 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/157</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

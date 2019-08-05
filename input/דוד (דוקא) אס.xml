@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5435 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5435</bibl><bibl>Volume: #18 ,Page: 5436 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5436</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד (דוקא) אס</persName>
+
+</head>
+         <div><p> נולד בתל-אביב, י"ג אב תרצ"ו (1.8.1936)).
+
+ לאביו <persName>יעקב אס</persName> (ראה את הכרך י"ז, עמוד 5173) ולאמו <persName>שרה</persName> בת <persName>שבתיאל דייטש.</persName>
+
+
+ קיבל חינוך עברי לאומי בבית-ספר עממי לבנים ע"ש אחד העם, בגימנסיה גאולה (4 שנים) ושנתיים בביה"ס הגבוה למשפט וכלכלה בתל-אביב.
+
+ כיום משתלם באוניברסיטת תל-אביב.
+
+ עוזר לאביו בבית החרושת לנקניק ש. אס ובניו בע"מ, ע"י זה שהתמסר בשיווק התוצרת, והוא מנהל את השיווק בהצלחה, והרוח החיה במפעל.
+
+ המפעל נוסד בוילנה בשנת 1900 ובארץ בשנת 1925. מנכ"ל ביהח"ר הוא אביו. במרס 1969 זכה שוב פעם ביהח"ר ב"פרס הנקניק המובחר ביותר בארץ", לאחר משאל העם שנערך ע"י מכון בינלאומי לחקר דעת הקהל.
+
+ בשנת 1957 נשא לאשה את<persName> אילנה </persName> בת <persName>יוסף ושרה</persName> <persName>ויסלפיש.</persName>
+
+ מצמרת שחקני הטניס בישראל וייצג את המדינה בתחרויות הטניס בחו"ל.
+
+ לאחרונה הביאו ציוד מודרני חדיש נוסף לשיפור יתר של עשרות סוגי תוצרתם, שהפכה לשם "הנקניק המשובח בארץ".
+
+ הידע המקצועי והציוד המודרני ובעזרת שני הבנים : <persName>דוד </persName> (הבכור) ו<persName>"ישיק"</persName> (ע"ש יאשיהו ווג'ווד) ו-50 הפועלים - הם סודות הצלחתם.
+
+ צאצאיו:<persName> סיגל, שלמה</persName> (ע"ש סבו ר' שלמה אס ז"ל, מייסדו של המפעל בחו"ל וחלוץ תעשיית הנקניק בישראל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5435 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5435</bibl><bibl>Volume: #18 ,Page: 5436 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5436</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

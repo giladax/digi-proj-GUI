@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 360 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/360</bibl><bibl>Volume: #1 ,Page: 361 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/361</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלתר לוריא</persName>
+
+</head>
+         <div><p> נולד בצפת, בשנת תקצ"ז (1837), לאביו <persName>שלמה זלמן</persName> מצאצאי ר' <persName>יצחק לוריא </persName> (האר"י ז"ל), ולאמו <persName>צפורה. </persName> בן שלשה חדשים היה בעת רעידת האדמה בצפת, בה נספה אביו. אמו עברה אתו לירושלים ונישאה למר <persName>רוזנצווייג,</persName> צורף זהב וכסף.
+
+ למד בתלמוד-תורה ובישיבה ומאביו-חורגו למד את המלאכה וכשגדל עבר ליפו ועסק במלאכתו. הוא היה איפוא אחד מהאשכנזים הראשונים ביפו, בעת שגם הישוב הספרדי היה בה עוד בראשיתו ודל במספרו.
+
+ בשנת תרי''ז (1857) נשא לאשה את<persName> חנה </persName> בת ר' <persName>אברהם שלוש</persName> , שעלה ממארוקו, אבי משפחת <persName>שלוש </persName> בארץ. והיה איפוא אחד מהאשכנזים הראשונים שהתחתן במשפחה ספרדית.
+
+ שנה אחרי נשואיו נפטר חותנו, ובנו<persName> אהרן</persName> (שנשאר יחיד להוריו אחרי ששני אחיו,<persName> יוסף ואליהו,</persName> טבעו בסערת הים בהגיע המשפחה אל החוף בעת עלותה ארצה), למד את המקצוע מגיסו אלתר, שהוטל עליו להיות כעין אפוטרופוס למשפחה המיותמת. אהרן שלוש זה היה אביהם של <persName>אברהם חיים, יוסף אליהו ויעקב שלוש</persName> .
+
+ אלתר לוריא היה מחלוצי יצוא תוצרת הארץ לאירופה בעקב קשרי המסחר שיצר עם אוסטריה בשלחו שמה למכירה תכשיטי-כסף וזהב בסגנון המזרח מיפו, וכך נודע ביפו בכינוי "צורף-הכסף האוסטרי".
+
+ בהיותו אשכנזי מושרש במשפחה ספרדית ובחיי הארץ בכלל ויודע ערבית מילדותו היה לעזר רב לעולים האשכנזים בעצה ובהדרכה וכמתרגם ומקשר ביניהם ובין תושבי העיר, היהודים הספרדים והערבים.
+
+ נפטר בירושלים בשנת תרכ"א (1861).
+
+ נולדו לו ארבעה בנים ומהם הסתעפה המשפחה בארץ ומחוצה לה, ואלה הם:
+
+<persName>אברהם שלמה-זלמן</persName> (נפטר ביפו, כ"ז סיון תרנ"ו). צאצאיו: <persName>צפורה</persName> אשת<persName> דוד שאול, יוסף, ג'מילה </persName> (בלה) אשת <persName>איזידור כהן </persName> (קאהיר), <persName>ישעיהו אבא</persName> (תל-אביב),<persName> רוזה</persName> אשת <persName>מיכאל ברדי </persName> (קפריסין), <persName>רחל </persName> אשת <persName>דוד כהן </persName> (פרדס חנה),<persName> מרדכי </persName> (מרקו) (קפריסין),<persName> סלומון </persName> (טאנגאנייקה).
+
+
+<persName>שמעון</persName> (נפטר ביפו, כ"ט אלול תרנ"ח). צאצאיו: <persName>רחל</persName> אשת<persName> יצחק הורנשטיין, דבורה </persName> אשת<persName> משה נמירובסקי</persName> (רמת יצחק),<persName> דוד חי </persName> (אלכסנדריה).
+
+<persName>אליהו </persName> (נפטר ביפו, י"ד תמוז תרס"ו). צאצאיו:<persName> דוד</persName> (קהיר),<persName> זכי </persName> (מותיקי משטרת תל-אביב), <persName>יעל.</persName>
+
+<persName>מרקאדו ברוך</persName> (נפטר רווק ערירי ביפו, ז' שבט תרמ"ד).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 360 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/360</bibl><bibl>Volume: #1 ,Page: 361 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/361</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1701 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1701</bibl><bibl>Volume: #4 ,Page: 1702 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1702</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בלומה מאירוב</persName>
+
+</head>
+         <div><p> נולדה במזריץ', פולין, ט' חשון תר"ב (1841), לאביה הרב <persName>יהודה ליב אייזנשטיין</persName> (נקרא "ר' לייבלה הקדוש", על שהקדיש את רוב כוחו וזמנו בחייו הקצרים להרבצת תורה ברבים ולמעשי חסד) ולאמה <persName>הנה.</persName> בהיותה בת יחידה השתדל אביה לחנכה בתורה ובמעשים טובים, והגיעה לבקיאות גדולה באגדות התלמוד ובמדרשים, והודות לזכרונה המפליא ידעה להשתמש
+
+
+ בהם בכל הזדמנות בשיחות פרטיות ובהשתדלויות לרתום אחרים עמה למעשי חסד ונצרכים, בהתאם לחינוך שקיבלה מאביה, שלפיו הצדק והחסד ביחסים שבין אדם לחברו הם עיקרי יסוד ביהדות.
+
+ נישאה<persName> לשמריהו </persName> בן הרב <persName>אהרן שאול זליג מאירוב</persName> מדינאבורג (דוונסק) שהיה בשעתו רבו של הרב <persName>א. י. הכהן קוק.</persName>
+
+ חייה היו שרשרת ארוכה של מעשים טובים. בשנות רעב אספה וחילקה מזון לעניים. גידלה הרבה יתומות ויתומים ופעלה למענם כמו אם עד שהכניסתם לחופה. תמיד היו ידה לבה פתוחים לעזרה ולסעד לכושלים.
+
+ לעת זקנה עלתה לארץ אל צאצאיה בשנת תרע"ד. זמן מועט אחרי בואה גדל מאד הצורך בישוב לעזרה לכושלים ולנצרכים בגלל מצוקות המלחמה. ואם כי יכלתה היתה מועטת, השתדלה להשפיע כבל האפשר למען הקלת הסבל והמצוקה.
+
+ נפטרה בתל-אביב, כ"ו אב תרפ"ב.
+
+ צאצאיה: <persName>יהודה ליב</persName> (ראה כרך א', עמוד 138), <persName>שרה עזריהו </persName> (כרך ג', עמוד 1191),<persName> יאכנע</persName> ז"ל, <persName>שאול</persName> ז"ל.
+
+ נכדיה:<persName> שאול אביגור</persName> (מאירוב) סגן שר הבטחון, <persName>צפורה </persName> אשת <persName>משה שרת</persName> (שרתוק).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1701 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1701</bibl><bibl>Volume: #4 ,Page: 1702 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1702</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

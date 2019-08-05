@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3025 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3025</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פאולה בן-גוריון</persName>
+
+</head>
+         <div><p> נולדה במינסק (רוסיה) בשנת תרנ''ב (8.4.1892). לאביה <persName>שלמה מונבז</persName> ולאמה <persName>בדנה.</persName>
+
+ בוגרת גמנסיה ושנה באוניברסיטה - פקולטה לרפואה.
+
+ 3 שנים עבדה בתור אחות מוסמכת בבית החולים היהודי בניו-יורק.
+
+ היתה קרובה לתנועת פועלי ציון באמריקה. נישאה<persName> לדוד בן-גריון</persName> (גרין), ראה כרך ג', עמוד 1097.
+
+ אחרי נשואיה התמסרה לחלוטין להקל על בעלה את
+
+ עול עבודתו הצבורית. לשם כך ויתרה על כל פעולה צבורית עצמאית, למרות זיקתה לכך. היא שחררה את בעלה מדאגה לכל הבעיות היום-יומיות, כדי שבן-גוריון יתמכר כולו לבנין מדינת ישראל וביסוסה. וכך אנו רואים, על אף גילו - הוא כולו תוסס - ושופע אונים ומרץ ויוזמה.
+
+ נדדה אחרי בעלה בכל תחנות חייו הסוערים, כולל - ההליכה לשדה בוקר.
+
+ הולמה - פסוקו של הנביא ירמיהו: "זכרתי לך חסד נעוריך, אהבת כלולותיך, לכתך אחרי במדבר, ארץ לא זרועה"- שנהפכת<persName> לזרועה...</persName>
+
+ צאצאיה :<persName> גאולה </persName> (מורה) אשת <persName>עמנואל בן-אליעזר.</persName> <persName>עמוס</persName> (ראה כרך שביעי, עמוד 2790),<persName> רננה</persName> (ד''ר לגיולוגיה) אשת<persName> דוד לשם.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטרה בבאר-שבע, כ"ח בטבת תשכ"ח (22.1.68) (ראה כרך שמיני, עמוד 3025) 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3025 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3025</bibl>            <bibl>Volume: #17 ,Page: 5246 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5246</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

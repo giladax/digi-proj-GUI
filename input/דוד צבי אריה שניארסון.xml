@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3164 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3164</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד צבי אריה שניארסון</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תר''ל (1870).
+
+ דור רביעי לאדמו"ר הגאון רבי<persName> שניאור זלמן מלאדי</persName> זצ"ל.
+
+ לאביו הרב<persName> שניאור זלמן</persName> (בע"מ ספרי "נמוקי שזבנ"י" (<persName>שניאור זלמן</persName> בן<persName> נחום יוסף</persName> ), "תגיל נפשי" ועוד. עלה לא''י בשנת תר"ד-1840), אחיו של ר'<persName> חיים</persName> <persName>צבי שניארסון </persName> (כרך א', עמוד 38) ולאמו<persName> חנה </persName> בת הרב <persName>צבי אריה </persName> מלודמיר (נפטרה בירושלים, י"ד תשרי תרע"ה).
+
+ קבל חנוך מסורתי.
+
+ עו"ד תלמודי ממולח ומפולפל, בעל הדרת פנים, חריף ועמקן, חסיד ואיש מעשה ובקי בהוית העולם.
+
+ גאל שטחי קרקע רבים בארץ.
+
+ נשא לאשה את <persName>שרה רבקה </persName> בת הרב <persName>דובער</persName> מקאליסק (נפטרה בירושלים, ז' שבט תשי"א-14.1.1951).
+
+ ראה פרטים עליו בספר "תולדות משפחת הרב מלאדי", עמוד 98 (מאת מ. ש. סלונים, הוצאת "זהר" תש"ו).
+
+ נפטר בירושלים, כ"ז אייר תש"ח (5.6.1948), והובא לקבורה בסנהדריה, ירושלים.
+
+ צאצאיו: <persName>שניאור זלמן</persName> (בעדן), <persName>משה יצחק, לנה</persName> אשת <persName>רפאל מלץ, רחל</persName> אשת<persName> הנרי מאירי, מרים</persName> אשת<persName> אליעזר</persName> <persName>לוקסנבורג, צפורה </persName> אשת<persName> שלמה בן שמעון גרף, אסתר</persName> אשת <persName>יצחק בן-דב</persName> (וורימבוד).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3164 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3164</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2199 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2199</bibl><bibl>Volume: #5 ,Page: 2200 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2200</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נפתלי פינגולד</persName>
+
+</head>
+         <div><p> נולד בוארשה, פולין, כ"א תמוז תרס"א (יולי 1901), לאביו<persName> יעקב</persName> (מנכבדי חסידי גור, סוחר אמיד ושותף לבית-חרושת לסיגריות) ולאמו<persName> בילה</persName> בת<persName> יוסף</persName> <persName>פרום</persName> . למד בחדרים ובבית-המדרש וגמר את הסמינר הממשלתי למורי דת ישראל (מיסודו ובהנהלתו של הרב ד"ר <persName>שמואל פוזננסקי</persName> ).
+
+ נשא לאשה את <persName>יהודית</persName> בת <persName>דניאל סירקיס </persName> (ראה כרך ב', עמוד 959).
+
+ הצטרף לתנועה הציונית הדתית והיה פעיל בהנהלה הראשית של תנועת "תורה ועבודה" וחבר המרכז הארצי של המזרחי בפולין. השתתף כציר בקונגרס של המזרחי ותנועת "תורה ועבודה".
+
+
+ בשנת תרצ"ד עלה ארצה והמשיך בפעילותו הצבורית במפלגה כחבר הועד הראשי ובי"ד הכבוד של המזרחי העולמי וחבר המרכז והועדה העליונה לבקורת ולעובדים של הפועל המזרחי בארץ.
+
+ בשנת תש"ט, אחרי שמר <persName>ד.צ.פנקס </persName> התפטר, בעקב הבחרו לכנסת הראשונה, ממשרתו כמנהל "בנק המז
+
+ רחי" בתל-אביב ונבחר ליו"ר ועד ההנהלה המרכזית של הבנק, נתמנה נפתלי פינגולד למנהל הבנק בת"א.
+
+ צאצאיו: <persName>זולה</persName> (מזכירה במרכז לשכות העבודה) אשת <persName>יהושע לאקנר</persName> (קומפוזיטור למוסיקה חדישה), <persName>יוסף אופיר</persName> (עוזר ראשי למנהל המחלקה להדרכה ולבקורת במשרד הפנים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2199 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2199</bibl><bibl>Volume: #5 ,Page: 2200 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2200</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

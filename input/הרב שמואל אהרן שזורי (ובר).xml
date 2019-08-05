@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1224 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1224</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שמואל אהרן שזורי (ובר)</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"א סיון תרמ"ה (1885), לאביו <persName>בן-ציון</persName> (בנקאי, מגזע רבנים גדולים בדורות העבר, ובהם: ר' <persName>ברוך תאומים-פרנקל</persName> , ר'<persName> שמלקי הורביץ</persName> מניקולשבורג, בעל הב"ח, בעל "מגלה עמוקות", רש"י, ועוד).
+
+ למד בחדרים ובישיבות והוסמך לרבנות. בתרס"ד נשא לאשה את <persName>עלקה שרה</persName> בת הרב <persName>משה ישראל</persName> <persName>ברינשטיין</persName> (מצאצאי אבות החסידות בפולין - ר' דוד מללוב ור' יעקב יצחק רבינוביץ, היהודי הקדוש מפרשסתקא, ומצד אמה - מצאצאי ר' אהרן הגדול מקרלין).
+
+ בשנות תרע"א-ע"ה הוציא את העתון החדרי "מוריה" והשתתף בו כחבר המערכת. אח''כ היה עד שנת תרע"ט מזכיר ומנהל כולל גליציה בירושלים, השתתף בפעילות צבורית בין מיסדי הסתדרות "ירושלים" ונבחר כציר לאספת-הנבחרים הראשונה. בשנות תרע"ט-פ"א היה מזכיר משרד הרבנות המקומית בירושלים, מאז עד תש"ה מזכיר כללי של הרבנות הראשית לארץ-ישראל, ומתש"ה ואילך מזכיר ראשי של "בית-דין הגדול" (בית-הדין לערעורים שליד הרבנות הראשית לארץ-ישראל).
+
+ פרסם מאמרים בעתונים בעברית ובגרמנית בשאלות דתיות-צבוריות, חידושי-תורה בכתבי-עת תורניים, ערך והוציא בשנות תר"ץ-תרצ"ה את הירחון הרבני המרכזי "קול תורה".
+
+ בתשרי תש"ט החליף את שם משפחתו לעברית: <persName>שזורי</persName> .
+
+ צאצאיו: <persName>פרידה גיטל</persName> אשת הרב יהודה זונדל האגר, <persName>בן-ציון</persName> (מרבני ישיבת "חיי עולם"), <persName>ברכה</persName> אשת שלמה רוטבלט, <persName>חיה</persName> אשת יצחק גרוביס.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1224 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1224</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

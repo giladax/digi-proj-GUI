@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4347 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4347</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן מזרחי (גבאי)</persName>
+
+</head>
+         <div><p> נולד בירושלים, ב' אלול, תרפ"ט (7.9.1929).
+
+ לאביו<persName> משה מזרחי-גבאי</persName> ולאמו <persName>מרים.</persName>
+
+ עבד במקצוע ציפוי ניקל, כרום וכסף. אחר כך עבר לספנות ועסק בספורט.
+
+ יחד עם כמה חברים משכונת מגוריו יסד קבוצה של המשמרת הצעירה. היה מדריך מעולה וחינך את בני הנעורים ברוח קיבוצית.
+
+ אחרי שנים מספר הצטרף לארגון לח"י. עבר קורסים שונים לנשק והראה את יכולתו בפעולות נועזות. עסק גם בהדרכה.
+
+ עם פרוץ מלחמת השחרור עבר יחד עם אנשי לח"י לשורות צה"ל. צורף לפלוגה באחד מגדודי "שריון ופשיטה" והשתתף בפעולות קומנדו על "יהודיה", "וילהלמה"-, "לוד", "רמלה", "בית-נבאלה,".
+
+ זמן קצר לפני נפילתו החליט להצטרף לחיל הים.
+
+ אהב לשיר ולנגן במפוחית, וגם חיבר שירים. באחד משיריו המוקדש לאמו ונתחבב ביותר על חבריו, כתב: "אמא, אל תבכי נא באשר הלכתי / חובתי לפרוע למולדתי האם".
+
+ בטוח היה כי כדור לא יפגע בו, ואם יפגע - רק אחר שיהיה "בעברו השני של הירדן" - כפי שאמר לחברו הטוב.
+
+ נפל בשדה התעופה בלוד ביום ט' אלול, תש"ח (13.9.1948).
+
+ בו ביום הובא למנוחת עולמים בבית הקברות בנחלת יצחק.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4347 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4347</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

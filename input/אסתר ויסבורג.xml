@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2940 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2940</bibl><bibl>Volume: #7 ,Page: 2941 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2941</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אסתר ויסבורג</persName>
+
+</head>
+         <div><p> נולדה קלוזענבורג (טרנסלבניה) ז' אדר תרנ"ח (1898).
+
+ לאביה <persName>אברהם אילבאום</persName> ולאמה <persName>ליבע</persName> בת <persName>דוד הכהן</persName> <persName>גרין.</persName>
+
+ קבלה חנוך בבית ספר תיכוני.
+
+ מיסדה ויו"ר של "בנות העליה" שבקלוזנבורג, חברה בהנהלה הקלוזנבורגית של ה"ויצ"ו", נשיאתה הארצית של התאחדות "אביבה", חברה בנשיאותה הארצית של התאחדות "אביבה בריסיה'', עורכת המדור העברי של השבועון "נוער''.
+
+ מזכירת ההסתדרות הציונית הארצית שבטרנסילבניה, מזכירת המשרדים המרכזיים הטרנסילבניים; קרן היסוד, קרן קימת לישראל, משרד העליה, קרן הריסטורציה, מזכירת ה"ויצ"ו", פקידה בהנהלה הברלינאית של "העולם".
+
+ צירה בכל הועידות הארציות השנתיות של ההסתדרות הציונית הטרנסילבנית, משנת 1920 ועד 1932.
+
+ יו"ר של הועידות הארציות השנתיות של התאחדות "אביבה". השתתפה בקונגרסים הציונים; הי"ג בקרלסבד (אוגוסט 1923), והי"ד בוינה (1925).
+
+ בשנת 1932 עלתה לארץ.
+
+ הרצאות מרובות ב"קול ישראל לגולה", בתל-אביב, ירושלים, חיפה ונתניה - בהתאחדות עולי הונגריה, ב"בני הרצל", בחוג "קדימה" ועוד.
+
+
+ בשנת 1935 נישאה לד"ר חיים ויסבורג (ראה את הערך שלו בכרך זה).
+
+ חברה במועצת התאחדות עולי הונגריה, חברה בועדת התרבות של "בני-הרצל", חברה בועדת הנשים של הנציגות הישראלית של המגבית המאוחדת של היהודים יוצאי הונגריה שבארצות הברית.
+
+ כתבה מאמרים שונים בשבועון "נוער", בעתון היומי "אוי-קלט" שבקלוזנבורג ובעתון היומי "מזרח חדש" שבתל-אביב, וכו'.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2940 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2940</bibl><bibl>Volume: #7 ,Page: 2941 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2941</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

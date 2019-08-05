@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4783 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4783</bibl><bibl>Volume: #15 ,Page: 4784 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4784</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> פרופ' אריך נסאו</persName>
+
+</head>
+         <div><p> נולד בתרמ''ח (1888 ברייכנברג) בגרמניה. למד רפואה באוניברסיטאות ברלין, פרייבורג, היידלברג. עבד כרופא במכון הפתולוגי בבית-החולים העירוני בדיסלדורף, ואחר כך - כאסיסטנט בקליניקה פדיאטרית של פרופ' שלוסמן. בשנית 1918-1915 רופא צבאי. בשנים 1926-1918 רופא ראשי בבית-החולים לילדים בברלין (בהנהלת פרופ' ל.<persName> פ. מאיר).</persName> רעיתו: <persName>טוני </persName> לבית <persName>שטרן.</persName>
+
+ בין 1926 ו-1933 מנהל בית-החולים העירוני למחלות כרוניות של ילדים בברלין. מ-1933 עד 1937 מנהל הפוליקליניקה הפדי אטרית של הקהלה היהודית בברלין.
+
+ מ-1938 בארץ. מאז ראש מחלקת הילדים בבית החולים בעפולה. משנת 1956 בעל תואר פרופיסור
+
+
+ פרופ' לרפואת ילדים באוניברסיטה העברית. כתב ספר וחיבורים על רפואת הילד.
+
+ זכה ב"פרס כבוד", במסגרת "פרס הילד", של עירית תל-אביב 1960, על פעולתו הפוריה במשך עשרות שנים בשטח הרפואה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4783 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4783</bibl><bibl>Volume: #15 ,Page: 4784 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4784</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

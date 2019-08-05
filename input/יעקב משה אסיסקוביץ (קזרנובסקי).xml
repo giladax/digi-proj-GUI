@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 160 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/160</bibl><bibl>Volume: #1 ,Page: 161 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/161</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב משה אסיסקוביץ (קזרנובסקי)</persName>
+
+</head>
+         <div><p> נולד בליובאוויטש, רוסיה הלבנה, י"ח אלול תרי"ח לאביו ר'<persName> שלום </persName> בן ר' <persName>חיים שלמה קזרנובסקי </persName> ולאמו
+
+<persName>טשרנא רייזא</persName> בת הרב<persName> יעקב (כולי) סלונים,</persName> ממשפחת האדמו"רים שניאורסון מליובאוויטש.
+
+ בתרכ"א עלה אביו עם כל ביתו ארצה לפקודת האדמו"ר<persName> מנחם מנדל,</persName> בעל ה"צמח צדק", להגדלת הישוב החב"די בחברון, וגם הוא היה בין העולים. מאודיסה נסעו ליפו באנית-מפרשים במשך שלשה חדשים, ומיפו נסעו לחברון דרך עזה (כדי שלא לעורר רעש ואיבה בין ערביי ירושלים) במשך שלשה ימים על גבי גמלים ששלח, לקראתם הרב<persName> לוי יצחק</persName> <persName>סלונים,</persName> ראש כולל חב"ד בחברון, והילדים (שלשה בנים ושלש בנות) הובלו בארגזים תלויים משני צדי הגמלים.
+
+ למד ב"חדר" בחברון ואחרי מות אמו למד בירושלים ב"חדר" של ר' <persName>יצחק זאב מיאדלה </persName> (אביו של הדרשן ר'<persName> בנציון יאדלר)</persName> ובישיבת הגאון ר' <persName>מאיר אורבאך</persName> מקאליש, בעל "אמרי בינה".
+
+ בהיותו בחברון התנכלו לו השלטונות הטורקיים
+
+
+ לגרשו מן הארץ, בגלל היותו "עולה בלתי-חוקי". אז השיג פספורט של יהודי נתין אנגליה ששמו אסיסקוביץ, ומאז החליף את שם משפחתו מקזרנובסקי לאסיסקוביץ.
+
+ נשא לאשה את<persName> חיה טשרנא רייזא</persName> בת ר'<persName> יצחק</persName> בן ר' <persName>חיים שמרלינג,</persName> מראשוני הישוב האשכנזי ביפו, וגם הוא ירד לדור ביפו. היה פקיד בבית-המסחר לזכוכית של <persName>מצא</persName> , אח"כ שותף לחותנו בסוכנות לעמילות, סוחר סיטונאי למכולת בשותפות עם<persName> דוב</persName> <persName>ברגר</persName> ואח"כ עם החכמים <persName>קורקידי ואלישר.</persName>
+
+ מחוסר "מנין" אשכנזי ביפו היו השמרלינגים כאנשי חב"ד נוסעים ל"ימים הנוראים" להתפלל בחברון ובשאר ימות השנה התפללו אצל הספרדים. כשהחליטו ליסד בית תפלה אשכנזי נסע עם הסבא של אשתו, ר' <persName>חיים שמרלינג</persName> , לירושלים לאסוף כסף למטרה זו, ותודות למרצו ולתקיפותו הצליחו לקבל מר' <persName>משה</persName> <persName>וינטנברג</persName> 20 נפוליונים ועוד 9 נפוליונים ממקורות אחדים וגם ספר תורה הביאו, ובשובם שכרו בבית <persName>מויאל </persName> דירה לבית-הכנסת האשכנזי הראשון בעיר העתיקה של יפו (בנוסח חב"ד).
+
+ השתתף עם ר' חיים שמרלינג ביסוד הועד המאוחד של קהלת יפו, ביזמת<persName> הרי"מ פינס </persName> והיה דבר הועד מראשיתו. השתתף ביסוד בית-החולים "שער ציון" ויוחד עם ר'<persName> שמעון רוקח, נסים חנוך כהן</persName> וחכם <persName>יוסף משה,</persName> היה מראשוני גבאיו. כן השתתף ביסוד לשכת "אחוה" (בתרנ"ח), בבנין השכונה "שערי אחוה", ביסוד החברה קדישא לאשכנזים והיה יו"ר בה למעלה מ-50 שנה והשקיע עמל ברכישת אדמת בית הקברות בת"א בעת מגפת החולירע בתרס"ג ואח"כ ברכישת אדמת בית הקברות החדש בנחלתיצחק. היה מהמיסדים וחבר הועד הראשון של בית הכנסת אורחים בנוה שלום (בתרס"ה) וממיסדי גמילותחסדים הכללית ביפו.
+
+ היה מלוה כספים בלי רבית לאכרי גדרה ועקרון לזריעה עד הגורן, ובעת הגירוש הכללי מיפו במלחמת העולם הראשונה (ניסן תרע"ז) קיבלוהו אנשי עקרון לגור אצלם בכבוד גדול עד סוף המלחמה.
+
+ היה ידוע כבורר יחיד מקובל על כל הצדדים במקרי סכסוכים וגם הערבים כיבדוהו ושמעו לעצותיו ולהכרעותיו. כן היה עוסק בצדקה ובמתן בסתר למשפחות של נצרכים צנועים ומכובדים וחביב על הישוב הישן ביפו. היה מעניק לילדים פרוטות בשכר ענית "אמן" כדי לחבב עליהם את ההליכה לביתהכנסת.
+
+ צאצאיו:<persName> מאיר זלמן, פרומה מלכה </persName> אשת מנחם מנדל ריבלין; <persName>שלום-, חיים שמואל; ומנוחה רחל </persName> אשת משה כהן.
+
+ נפטר בתל-אביב ז' אדר תש''ז (27.2.47).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 160 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/160</bibl><bibl>Volume: #1 ,Page: 161 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/161</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

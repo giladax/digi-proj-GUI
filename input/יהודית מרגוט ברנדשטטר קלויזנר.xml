@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3861 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3861</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודית מרגוט ברנדשטטר-קלויזנר</persName>
+
+</head>
+         <div><p> נולדה בברלין (גרמניה) ד' חשון תרס''ה (2.11.1905).
+
+ לאביה<persName> יהודה יוליוס קלויזנר</persName> (סוחר).
+
+ חינוך: גמנסיה ואוניברסיטה בברלין.
+
+ עזרה בבית המסחר של אביה בברלין.
+
+ בשנת 1927 יסדה את מזכירות "הבימה" בברלין וסייעה להשתקעות "הבימה" בא"י.
+
+ נישאה <persName>ליהושע בראנדשטטר</persName> .
+
+ בשנות 1929-36 ממנהלי "הבימה" (יחד עם בעלה).
+
+ בשנת 1931 עלתה לארץ (ביקורים קודמים: 1926, 1928).
+
+ עבדה זמן מה בבית אלפא.
+
+ ייסדה בית ההוצאה "מועדים".
+
+ היתה פעילה ביותר בארגון "חוג הבימה" ו"חוג הבימה בנוער" וועדת בנין "הבימה", בארגון תעמולה תיאטרונית עברית וסבובי "הבימה" בחו"ל.
+
+ מנהלת "ישראל מושן פיקצ'ר סטודיוס".
+
+ ממיסדי "במה" ועורכיה.
+
+ חברת "פא"ן קלוב".
+
+ כתבה מאמרים בעניני תיאטרון בגרמניה וב"במה". חיברה סיפורים, דרמות, רומנים, מסות מדעיות.
+
+ חיברה ספר "סופת מיון" המקפל בין דפיו את הביאוגרפיה של ד''ר חיים ארלוזורוב ז"ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3861 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3861</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

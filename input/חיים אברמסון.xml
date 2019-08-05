@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5592 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5592</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים אברמסון</persName>
+
+</head>
+         <div><p> נולד בוישניבה (פולין), כ"ד כסלו תר"ס (3.12.1899).
+
+ לאביו<persName> צבי יצחק</persName> ולאמו<persName> אסתר רייזה</persName> בת <persName>בנימין</persName> <persName>דודמן.</persName>
+
+ קיבל חינוך מסורתי, בחדר, בישיבת לידא, תלמיד הרב <persName>ריינס</persName> והרב<persName> איסר אונטרמן</persName> (רבה הראשי של ישראל. ראה כרך שלישי, עמוד 1510). קורסים פדגוגיים בווילנא.
+
+ היה מורה ומייסד בית הספר "תרבות" בוישניבה. מורה בבית-הספר תרבות באושמינה.
+
+ מייסד הספריה בוישניבה. ממייסדי "צעירי ציון" בווישניבה וכן את החלוץ.
+
+ ניהל הספריה בחרקוב.
+
+ בשנת 1925 נשא לאשה את <persName>רינה</persName> בת<persName> נח מנוסביץ.</persName> במרץ 1926 עלה לארץ.
+
+ עבד כפועל חקלאי בפתח-תקוה, עובד תרבות והספריה במועצת פועלי פתח-תקוה. עובד לשכת המס בפתה-תקוה.
+
+ ממייסדי ותיקי כפר אז"ר. תושב הכפר עד היום. חבר ועד כפר אז"ר.
+
+ כיום ראש המועצה האזורית "אונו".
+
+ פירסם ספר יזכור לקדושי רקוב (1958), פירסם חומר לספר וישניבה, בכתב העת של תנועת המושבים "תלמים" פירסם סיפורים מחיי הכפר.
+
+ כל השנים חבר ה"הגנה".
+
+ חבר מפלגת העבודה הישראלית. חבר ועד אירגון יוצאי וישניבה. חבר ועד אירגון יוצאי רקוב.
+
+ בנותיו: <persName>לאה</persName> אשת<persName> אברהם גריפנר ; תאומה</persName> , אשת <persName>מוזי בארי; תמרה</persName> אשת<persName> זאב וינברגר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5592 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5592</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

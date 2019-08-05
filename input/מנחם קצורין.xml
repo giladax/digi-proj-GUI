@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 875 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/875</bibl><bibl>Volume: #2 ,Page: 876 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/876</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם קצורין</persName>
+
+</head>
+         <div><p> נולד ביפו, א' אב תרנ"ז (5.8.1897), לאביו <persName>אברהם</persName> (יליד ירושלים, ממשפחה שעלתה ארצה מאנגליה בראשית המאה ה-19, והיה חלוץ הטחינה המיכאנית (בכח מנוע-נפט) ביפו) ולאמו<persName> נעשע </persName> בת הדיין<persName> משה יוסף</persName> רוזמן מירושלים. למד ב"חדר", בת"ת "שערי תורה" בבית-הספר של חברת "עזרה" מגרמניה ואח"כ למד רפואה בקולג' האמריקאי בבירות.
+
+ בשנת 1914 נשא לאשה את<persName> שושנה</persName> בת <persName>יהודה</persName> <persName>צבי </persName> רוזמן מירושלים.
+
+ כשחזר הביתה עבד כעוזר לרוקח ביפו, ובעת גירוש היהודים מיפו ותל-אביב במלחמת-העולם הראשונה (ז' ניסן תרע"ז), עבר לקלקיליה ואח"כ לכפר ג'מאל. בהיותו בקלקיליה הגיש עזרה רבה כרוקח וחובש למגורשים המתגוררים בקלקיליה וגם למחנה הגדול של המגורשים שחנו בכפר-סבא. בהיותו נתין ספרדי נהנה ממדה מסוימת של חופש תנועה בארץ ומאפשרות של גישה לאנשי השלטון. ביתרונותיו אלה
+
+
+ השתמש בכל מדת האפשרות להמתיק את יחס אנשי השלטון לאחיו היהודים ולהציל אנשים ממאסר.
+
+ אחרי המלחמה חזר לתל-אביב ונכנס לעבוד בטחנת-הקמח של המשפחה ביפו ונתפרסם כמומחה במקצוע הטחינה.
+
+ כשפרצה מלחמת-העולם השניה נתמנה מטעם הממשלה למפקח על הטחינה, במחוז לוד. בתפקידו זה הדריך את הטחנות השונות בבירור החיטה ובקביעת טיב הקמח, בשכלול העבודה ובהפקת כמות מכסימלית של קמח-סטנדרד (קמח אחיד). כן השגיח על המאפיות שתוציאנה לחם טוב במדת האפשרות לפי ההוראות, בלי תערובות מיותרות ומזיקות. בפעולתו זו עזר למניעת מחסור בקמח ובלחם בשנות-המלחמה הקשות (והנהו בתפקיד זה גם כיום), ואגב השגיח, שחלקו של הישוב העברי לא יקופח בחלוקת הקמח. קיבל מכתבי תודה מהשלטונות בעד העזרה שהגיש במקצועו להזנת הצבור.
+
+ צאצאיו: <persName>אדל</persName> אשת אפרים בן דוד גולדשטיין (מפ"ת), <persName>משה יוסף, יפה, אברהם, לורה, כרמלה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 875 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/875</bibl><bibl>Volume: #2 ,Page: 876 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/876</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1166 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1166</bibl><bibl>Volume: #3 ,Page: 1167 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1167</bibl>
+<bibl>Volume: #3 ,Page: 1168 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1168</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים איש כישור (שפינדלמן)</persName>
+
+</head>
+         <div><p> נולד ד' אב תרכ"ג (20.7.1863) בפונימון (פלך סובלקי). קבל חנוך עברי וכללי, ואת דרכו בחיים התחיל כמורה לעברית במזרח לונדון. שם גם הטיף לחיבת ציון.
+
+ בשנת 1887 השתתף בעריכת העתון "המצפה", שהופיע בלונדון באידית והטיף לרעיון שיבת ציון. בשנת 1891 ערך עתון "די יידישע נאציונלצייטונג", שהטיף לחבת ציון ולישוב ארץ ישראל ולהפצת התרבות העברית. בעיקר ניהל מלחמה נגד תכניות טיריטוריאליסטיות שונות, ובראש וראשונה נגד
+
+ תכניותיו של הברון הירש. אך בעיקר קנה לו שם ונעשה למפורסם עם הופעתו של הרצל. כידוע פנה הרצל בראשית הופעתו על הבמה הציונית ללונדון, ושם עזר לו איש, כישור ביחד עם יעקב די-האז ליסד אגודה ציונית ראשונה. באספה הראשונה שערך הרצל בויטצ'יפל ישב איש-כישור מימינו ויעקב די-האז משמאלו. הרצל מזכיר ביומנו על האספה הנ"ל את
+
+
+ "המורה היהודי-רוסי העני, אשר נאומו הז'רגוני באספה שב"וויסט אנד" נגע מאד אל לבו והלהיב את יתר השומעים". החל מפגישה הראשונה הזו עם המנהיג והמיסד של ההסתדרות הציונית התחיל בפעולה ציונית נמרצת במסגרת הציונות המדינית, והשתתף בקונגרס הציוני הראשון בבזל. באנגליה עבד באופן אקטיבי בכמה מוסדות ציוניים וגם יסד את מסדר ה"מכבים" בשתוף פעולה עם אחרים.
+
+ אך עד מהרה נעשה לו המקום צר בלונדון, הלך כעבור שנים לארצות הברית, ושם המשיך את פעולתו הציונית. אהבתו לנוער לא ידעה גבול, מכיון שראה בו את נושא דגל התחיה. מלבד פעילותו הציונית הכללית התמסר ליסוד חברה לאומית לבטוח "יהודה''. לעת זקנה עבר לארץ-ישראל וכאן חי חיים קשים ומרים מאד, נשכחו לו כל זכויותיו, ובתורת חסד נמסר לו תפקיד. של פקיד נמוך - גובה בחברת "יהודה" - חברה שיסד בארצות הברית. משכורתו לא הספיקה לו אפילו בקושי להוצאותיו. הוא נצטרף לתנועת הצה"ר, ובתנועה זו היה עד יומו האחרון.
+
+ מת זקן ושבע ימים אור לט"ז תשרי תש"ו (23.9.45) ונקבר בירושלים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1166 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1166</bibl><bibl>Volume: #3 ,Page: 1167 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1167</bibl>
+<bibl>Volume: #3 ,Page: 1168 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1168</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

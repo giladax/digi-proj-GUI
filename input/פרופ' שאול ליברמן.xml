@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2317 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2317</bibl><bibl>Volume: #5 ,Page: 2318 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2318</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' שאול ליברמן</persName>
+
+</head>
+         <div><p> נולד במוטל, ע"י פינסק (רוסיה), ז' סיון תרנ"ח (23.5.1898).
+
+ לאביו ר' <persName>משה</persName> (נין של הרב <persName>יצחק</persName> , אב"ד דקרלין. בעל "קרן אורה", ובן אחותו של הרב<persName> מלכיאל טינינבוים</persName> אב"ד דלומז'ה) ולאמו<persName> דינה בדנה</persName> בת הרב <persName>שאול קצענע</persName> <persName>לענבויגין</persName> אב"ד דקוברין (בן הרב ר' מאיר הלוי אפשטיין, אב"ד דשניפישוק ווילנא).
+
+ קבל חינוך בישיבות : מלץ, סלובודקה, גימנסיה בקיוב, אוניברסיטאות : בקיוב ננסי (צרפת) והאוניברסיטה העברית בירושלים.
+
+
+ בשנת תרפ"ב נשא לאשה את הגב' <persName>רחל</persName> בת הרב <persName>אליעזר רבינוביץ</persName> (הרב דמינסק), נפטרה בירושלים, י"ח סיון תרצ"א, ובזיווג שני נשא לאשה בשנת תרצ"ב את הגב'<persName> יהודית</persName> בת הרב <persName>מאיר בר-אילן</persName> (ברלין) (ראה כרך ג', עמודים 2063, 1374),
+
+ בשנת תרפ"ז (1927) עלה לארץ, המשיך להשתלם באוניברסיטה העברית בירושלים, מורה לתלמוד בבית המדרש למורים מזרחי ודיקן במכון לחקר התלמוד מיסודו של הערי פישל בירושלים.
+
+ בשנת 1931 עזב את הארץ לארצות הברית. תוארים : M.A.D.H.L. Professor 
+
+ כיום הוא פרופ' ודיקן של מכון ההשתלמות בביה"מ לרבנים באמריקה. נשיא של האקדמיה למדעי היהדות באמריקה.
+
+ כתב מאמרים בעתונות: תרביץ, קרית ספר, גנזי קדם, אלומה. קונטרסים, ספרי יובל שונים. Jewish Quarterly Revuew, Revue des etudey .Juivey, Journal of Biblical Literature, etc
+
+ ספרים : על ה-רושלמי (ירושלים תרפ"ט), תלמודה של קיסרין (ירושלים, תרצ"א), הירושלמי כפשוטו (ירו
+
+ שלים, תרצ"ה), תוספת ראשונים (כרכים א-ד, ירושלים. תרצ"ח-ת"ש), מדרשי תימן (ירושלים, ת"ש), מדרש דברים רבה (ירושלים, ת"ש), הלכות הירושלמי להרמב"ם (ניו-יורק, תש"ח). ,(1942 Greek in Jewish palestine )New-York, ,Hellenish in Jewish Palestine )New-York . etc(1950
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2317 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2317</bibl><bibl>Volume: #5 ,Page: 2318 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2318</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

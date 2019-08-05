@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1814 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1814</bibl><bibl>Volume: #4 ,Page: 1815 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1815</bibl>
+<bibl>Volume: #4 ,Page: 1816 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1816</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן עמיהוד (קיפניס)</persName>
+
+</head>
+         <div><p> נולד באושומיר, פלך ווהלין (אוקראינה), א' שבט תרמ"ב (1882), לאביו ר' <persName>פסח</persName> (למדן מופלג וחסיד, חזן; נפטר בת"א, כ"ז שבט תרצ"ז; אחיו של העתונאי, הזמר והפולקלוריסט <persName>מנחם קיפניס </persName> מוארשה ואביהם של הסופר לילדים<persName> לוין קיפניס</persName> מת"א <persName>ושאול ירדני-קיפניס,</persName> (מנהל ביה"ס בקרית ביאליק) ולאמו<persName> רחל</persName> בת <persName>חיים</persName> <persName>חייקל ברוזמן.</persName>
+
+ למד בחדרים ובבית-המדרש והיה סוליסט בקול אלט יפה במקהלת אביו ואח"כ למד חזנות מפי הקומפוזיטור<persName> אידלמן מאודיסה</persName> שחינך חזנים לעשרות. בתרס"ב נשא לאשה את <persName>חנה</persName> בת<persName> דוד רוזנזפט.</persName>
+
+ מאותה שנה שימש בחזנות 20 שנים רצופות בביתהכנסת קראסנה ברובנו. עלה לארץ בתרפ"ג ונתקבל לחזן בבית-הכנסת
+
+ של תל-אביב, שהיה אז בצריף התפלה שברחוב יהודה הלוי מימיה הראשונים של שכונת "אחוזת בית". שימש מזכיר ועד הבנין של בית-הכנסת הגדול ומאז הקמת הבנין הנו חזן ומזכיר בבית-הכנסת הגדול ועוזרם ויד ימינם של ראשי ועד הבית ומפקח על סדריו וסידוריו ומנהל כל עניניו.
+
+ בדרך כלל מתפלל הוא כשליח-צבור יחיד, אך כמה פעמים בימים נוראים ובהזדמנויות חגיגיות שונות ערך תפילות מפוארות בלוית מקהלות מפורסמות (של ר'<persName> שלמה זלמן ריבלין</persName> מירושלים, של החזן<persName> שלמה</persName>
+
+
+<persName>רביץ</persName> ושל המקהלה בניצוחו של הפרופ' <persName>אפרים אבילאה</persName> ועוד).
+
+ משרדו בבית-הכנסת הגדול משמש מרכז לחזנות והוא עוזר בהתנדבות לבתי-כנסיות שבעיר ובמושבות להשיג חזנים מתאימים וכן עוזר הוא לחזנים הפונים אליו בהשגת מקומות בשבילם.
+
+ צאצאיו:<persName> רבקה</persName> (מורה), <persName>עטליה</persName> אשת <persName>רפאל הלר</persName> (גבעת ברנר, קצין בצבא ישראל), <persName>אברהם.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1814 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1814</bibl><bibl>Volume: #4 ,Page: 1815 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1815</bibl>
+<bibl>Volume: #4 ,Page: 1816 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1816</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

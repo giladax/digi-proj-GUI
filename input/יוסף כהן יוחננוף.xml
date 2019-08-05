@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2620 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2620</bibl><bibl>Volume: #6 ,Page: 2621 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2621</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף כהן יוחננוף</persName>
+
+</head>
+         <div><p> נולד ביפו, בחדש ניסן תר"ן (18.4.1890). לאביו <persName>שמואל </persName> (ראה בכרך זה) ולאמו<persName> רחל </persName> בת הרב <persName>נסים כהן </persName> (מעסקניה הראשונים של הישוב העברי ביפו).
+
+ קבל חנוך בבי''ס אליאנס ביפו ובירושלים והשתלם במסחר.
+
+ היה מפעילי הנוער ביפו.
+
+ נשא לאשה את <persName>רג'ינה</persName> בת <persName>משה לוי</persName> , מחיפה.
+
+ היה סוכן לבתי חרשת שונים מאירופה.
+
+ ב-1933 ממיסדי החברה "תעשית משי דלפינר בע''מ, ובשנת 1940 הפירמה "דלפינר-יוחננוף בע"מ'' ו"חברת כרמיל בע"מ" - מצבעת טקסטיל, וכן יסד חברת נ. ק. ה. - "תעשית חימיות ופרמסיטיבות למזרח הקרוב בע"מ" בשותפות עם אחיו הצעיר<persName> יהודה, מקס</persName> <persName>דלפינר וראובן חזן.</persName>
+
+ חבר במועצה הדתית, סגן יו"ר לשכת בני ברית '"רבי יהודה הלוי'', חבר בבנאים החפשים - לשכת "אביב".
+
+ צאצאיו: <persName>רחל</persName> אשת<persName> ליאו וייל, ויקטורה </persName> אשת <persName>דוד</persName> <persName>פילוסוף, שמואל, משה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2620 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2620</bibl><bibl>Volume: #6 ,Page: 2621 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2621</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

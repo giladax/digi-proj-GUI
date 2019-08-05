@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4243 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4243</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל-צבי ויינברג</persName>
+
+</head>
+         <div><p> נולד ב' אדר תרפ"ח (פברואר 1928) באולנאו שבפולין.
+
+ לאביו <persName>צדוק </persName> בן<persName> יצחק מנחם </persName> ז"ל (מחסידי בית הרביים <persName>אייגר</persName> הלובליני, זה 30 שנה איש עסקים בטורונטו שבקנדה, פעיל בעניני הציונות והמזרחי, ובענינים יהודיים מקומיים וכלליים) ולאמו<persName> בלה</persName> בת <persName>יהודה-אריה</persName> <persName>קויפמן.</persName>
+
+ בילדותו יצא עם הוריו לקנדה, שם עבר את השלבים היסודי והתיכון בחינוך הכללי והיהודי (בישיבה קטנה) והמשיך בישיבה-אוניברסיטה בניו-יורק. היה חבר בני עקיבא והפועל המזרחי, ראש מחנה-קיץ של בני עקיבא וראש הכשרת חלוצים בקנדה.
+
+ ב-1949 נשא לאשה א<persName>ת גיטל </persName> בת הרבי מטאלנא ר' <persName>יוחנן טברסקי</persName> (דור חמישי ישיר לר'<persName> דודל</persName> מנאלנא, שנים רבות ניהל בית-מדרש ומרכז חסידי בניו-יורק ואח"כ במונטריאל, ומשנת תשט"ו ואילך בבית-הכרם שבירושלים).
+
+ באותה שנה עלה לארץ. היה 4 שנים חבר קיבוץ כפר-דרום, מנהל ישיבת בני עקיבא, מזכיר סגן שר הדתות, סגן מנהל המחלקה לרבנות במשרד הדתות, ובאחרונה סגן המנהל הכללי במשרד הדתות.
+
+ צאצאיו: <persName>רבקה, יצחק-מנחם, יהודה-אריה, שלמה</persName> <persName>זלמן,</persName> חוה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4243 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4243</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

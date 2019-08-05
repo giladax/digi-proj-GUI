@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1205 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1205</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יונה דב בלומברג-הררי</persName>
+
+</head>
+         <div><p> בן יהודה (חסיד חבד"י, תלמיד חכם ואימפורטר של כלי עבודה לגרמניה), נולד בחדש אב תר"י בעיירה סרדניק פלך קובנה.
+
+ נתחנך בחנוך מסורתי ולמד תורה יומם ולילה. משגדל עבר לגור לדבינסק (לטביה), והיה לחסיד חבד"י מובהק. היה בבחינת "חוזר" אצל ר' שניאור זלמן מלאדי (נכדו של בעל ה"תניא") ומחבר דברי חסידות.
+
+ נשא לאשה את מרים בת עקיבא גורדון ממיאדל, פלך וילנה.
+
+ כשהתחילה להתפשט תנועת "חובבי ציון" היה מן הראשונים שהצטרפו לתנועה זו, ונכנס גם לאגודת "בני משה" מיסודו של אחד העם ועמד בראש לשכת דבינסק ביחד עם א. ז. קלמנסון. עם יסוד הציונות המדינית נספח לתנועה הציונית והיה מראשוני "המזרחי". היה מטיף ודורש דרשות נלהבות על חבת ציון בבתי כנסיות ואספות עם בעיר מושבו והסביבה. היה ציר בקונגרס הציוני הששי ומאומרי ה"לאו" בענין אוגנדה.
+
+ בתרנ"ה היה בין המועמדים למנהל ועד חובבי ציון בא"י אחרי מותו של י. ל. בינשטוק.
+
+ את בניו חינך ברוח המסורת וההשכלה ובביתו דיבר עם בניו אלה עברית. פרסם מאמרים וספרים תורניים, ציוניים ובעניני ה"מזרחי" - ב"המליץ" ובעתונות "המזרחי". חיבר ספר גדול בן ששה חלקים,
+
+ בצורת ילקוט. מסודר מכל הספרות התלמודית והמדרשית בשם "ישראל וארץ ישראל". על פרסומי בדפוס דן בשורת מכתבים עם מ. ל. לילינבלום, אך הספר נשאר בכתב-יד ולא ראה אור למרות כל השתדלותיו בענין זה, רק פרקים ממנו ראו אור בשנת תרנ"ח בשם "מצות ישוב ארץ ישראל" בצורת ספר, שהביל 143 עמוד. הספר עשה רושם גדול בקהל החרדים, ועשה נפשות רבות לחבת ציון.
+
+ בשנת 1907 עלה לארץ ישראל, וגר חליפות ביפו וברחובות, בשנת תרע"ד פרסם חוברת על "הדבור העברי" עפ"י מקורי חז"ל.
+
+ הניח אחריו כמה ספרים בכתב-יד, העוסקים בערכו הדתי והלאומי של ישוב ארץ ישראל.
+
+ נפטר <persName>בט"ו סיון תרצ"א</persName> ונקבר בבית העלמין הישן בתל-אביב.
+
+ הניח חמשה בנים;<persName> יצחק אביגדור, ד"ר מנחם</persName> (רופא שנים), <persName>ד"ר חיים הררי, משה אפרים </persName> (נהרג בפרעות תרפ"ט בהגנתו על פועלים יהודים בשכונת אבו-כביר)<persName> ועזרא</persName> (ממתנדבי הגדוד העברי הראשון במלחמת העולם הראשונה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1205 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1205</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

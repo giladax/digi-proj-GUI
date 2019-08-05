@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 334 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/334</bibl><bibl>Volume: #1 ,Page: 335 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/335</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה ליב הורביץ ("ר' ליב לומזר")</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תקצ"ז (1837), לאביו ר' <persName>משה</persName> . בהיותו בן שלושה חדשים מתו אביו ואמו ביום אחד במגפה, ואז לקחו אותו ר'<persName> דוד ילין-טביא</persName> ואשתו<persName> ליבא</persName> (הוא ר' דוד, אבי<persName> יהושע</persName> אבי פרופ'<persName> דוד</persName> <persName>ילין</persName> , שנקרא ר' דוד לומזר על שום שעלה מהעיר לומזה) וגידלוהו כבנם ולכן נקרא גם הוא "לומזר" על שם אביו-מאמצו.
+
+ למד בחדרים ובישיבות ירושלים וזמן-מה היה (יחד עם <persName>יואל משה סלומון</persName> ) בין שבעת הבחורים העילויים, שנתקבלו ללמוד בביתו ובישיבתו הפרטית של הגאון ר'<persName> משה יהודה ליב מקוטנא </persName> בעל "זית רענן" ו"תפארת ירושלים" על המשניות. נשא לאשה את <persName>אסתר</persName> (אלטושה) בת הרב <persName>אליהו יוסף ריבלין</persName> , הרב מדריבין, מהענף החבד"י של משפחת ריבלין, שעלה ארצה והצ
+
+
+ טרף לישוב האשכנזי שבחברון מיסודו של כולל חב"ד. בניסן תרכ"ב הוציא יחד עם חברו יואל משה סלומון בדפוס ליטוגרפי את החוברת "תורת ציון", קובץ לחידושי תורה ושאלות הלכה, שמוציאיה אמרו לעשותה לירחון קבוע.
+
+ בתרכ"ט היה אחד משבעת הראשונים שיסדו את השכונה נחלת שבעה, מחוץ לחומה. האדמה של השכונה נרשמה בספר-האחוזה הממשלתי על שם מרת אלטושה אשת ר' אריה ליב, שכילידת חברון היתה נתינה עותומנית ודיברה ערבית רהוטה, וכך לא יכלו השלטונות למנוע את העברת הקרקע ליהודים בטענה שהם נתינים זרים.
+
+ בתרל"ו השתתף בחברת "פתח תקוה", שאמרה לקנות אדמה ממשלתית ליד יריחו וליסד שם מושבה חקלאית לבני ירושלים, ואחרי שהקניה שם סוכלה יסדה החברה את המושבה פתח תקוה בנחלת בני דן (תרל"ח).
+
+ נפטר בירושלים, כ"ז אייר תרס"ט.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 334 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/334</bibl><bibl>Volume: #1 ,Page: 335 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/335</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

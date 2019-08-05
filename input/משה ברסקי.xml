@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2122</bibl><bibl>Volume: #5 ,Page: 2123 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2123</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה ברסקי</persName>
+
+</head>
+         <div><p> נולד בכפר טרוביבקה, מחוז סקווירה, פלך קיום, אוקראינה, בשנת תרנ"ו (1896), לאביו<persName> נפתלי הרצל</persName> ולאמו <persName>טובה-גיטל</persName> ). (פרטים עליהם ועל משפחתם ראה ערך מיוחד על שם אביו בכרך זה).
+
+ למד בחדרים ומפי מורים לימודי יהדות וכלליים ומשנתבגר עזר לאביו בעבודתו בטחנות. נתחנך ברוח ציונית מנעוריו ומתוך רצון משותף
+
+ של אביו ושל עצמו עלה ארצה בתרע"ג כחלוץ המשפחה שהתעתדה לעלות כולה. באניה נפגש עם <persName>שרה</persName> <persName>מלכין</persName> , המבשלת הנודעת בקומונות של צבור החלוצים בני העליה השניה, והיא יעצה לו: "ישר לדגניה !" וכך עשה.
+
+ בדגניה התמסר לעבודה ולשמירה ונתחבב במהרה על חבריו. היה בחור שקט ומתון בהליכותיו ומסור לתפקידיו במשק. פעם, כשנתפס ערבי שגנב יבול מהשדה ונכלא בחצר עד לבירור, ריחם עליו משה וסיפק לו אוכל, אך עליו לא ריחמו הערבים.
+
+ פעם רכב על פרדה למושבה מלחמיה (כיום מנחמיה) להביא תרופה לחבר חולה בדגניה. בהגיעו למעברות הירדן תקפוהו ערבים שודדים מזוינים ואמרו לגזול את פרדתו. לבל יפול רכוש יהודי בידי השודדים קפץ מעליה ובעט בה שתרוץ משם, והוא נשאר ונאבק בנשקו עם תוקפיו. אותות הדם הרב שנמצאו בקרבת מקום נתנו יסוד להשערה, שהצליח לפגוע באחד מהם. גם התנפלות הרצח כעבור ימים אחדים על<persName> יוסף זלצמן</persName>
+
+
+ הי"ד בדרך בין כנרת לביתניה מעידה, שלערבים הללו היה חשבון של "נקמת דם" עם היהודים על מות אחד מהם בתוצאת התגוננותו המזוינת של משה. כשהגיעה הפרדה לחצר המשק בלי רוכבה יצאו
+
+ החברים בפנסים ובלפידים דרך מלחמיה ואחרי חיפושים במשך כמה שעות מצאו את גופתו מדוקרת בהתעללות ליד מעברות הירדן.
+
+ זה היה בכ"ב בחשון תרע"ג. 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2122</bibl><bibl>Volume: #5 ,Page: 2123 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2123</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

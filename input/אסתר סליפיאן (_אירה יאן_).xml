@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 836 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/836</bibl><bibl>Volume: #2 ,Page: 837 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/837</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אסתר סליפיאן ("אירה יאן")</persName>
+
+</head>
+         <div><p> נולדה בקישינוב, בסארביה, רוסיה, בשנת תרכ"ט (1869), לאביה<persName> יוסף יוסילביץ</persName> , שהיה עורך-דין באודיסה. קיבלה חינוך כללי ברוסית, גילתה את כשרונותיה בציור ובספרות. פרסמה בירחונים רוסיים סיפורים מחיי אמני הציור, ועל עבודותיה בספרות ובציור חתמה בכינוי "אירה יאן".
+
+ אחרי פרעות קישינוב התקרבה לתחיה הלאומית העברית ולציונות. היתה מבאי ביתם של <persName>ח. נ. ביאליק</persName> ויתר אישי הציונות והתרבות העברית באודיסיה. תרגמה לרוסית את "מתי מדבר" <persName>לביאליק</persName> וציירה את העיטורים להוצאה הראשונה של שירי ביאליק ברוסיה (בהוצאת "חובבי השירה העברית").
+
+ בהשפעת <persName>פרופ' ב. שץ</persName> החליטה לעלות ארצה ובהיות בעלה, מר<persName> סליפיאן</persName> , נוטה להתבוללות רוסית עזבה אותו באודיסה ובשנת תרע"ג עלתה ארצה עם בתה היחידה. כאן המשיכה יחסי ידידות עם עסקני הישוב<persName> יהושע ברזילי-אייזנשטאדט</persName> , ד"ר<persName> נפתלי וייץ</persName> , ד"ר<persName> יעקב טהון</persName> ואחרים, וביחוד עם <persName>רחל ינאית ויצחק</persName> <persName>בן-צבי </persName> ועל ידם התקרבה לתנועת העבודה. השתתפה
+
+
+ ביסוד הגימנסיה העברית בירושלים, בה למדה בתה והיא לימדה בה ציור, ואח"כ לימדה ציור בגימנסיה הרצליה בתל-אביב, ותוך כך המשיכה לעסוק בציור
+
+ אמנותי. חלק מיצירותיה בציור פורסמו בירחון ''עבר ועתיד" (בהונגרית) של ד"ר <persName>יוסף פאטאי </persName> בבודאפשט, שבו הוקדש מקום כבוד לגילויי היצירה היהודית בכל הסוגים ובכל הארצות.
+
+ בקיץ תרע"ד יצאה בתה לביקור ברוסיה ובגלל פרוץ מלחמת-העולם הראשונה נשארה תקועה שם, לא חזרה לארץ ועקבותיה לא נודעו.
+
+ בראשית המלחמה ההיא הוגלתה למצרים כנתינת רוסיה, ואחרי כיבוש דרום הארץ בידי הבריטים חזרה ארצה, אך סבלות שנות המלחמה מוטטו את בריאותה.
+
+ בייחוד דיכא את רוחה אבדן מיטב יצירותיה בצבעישמן (ישי ופאון, הילדים ליד הכותל המערבי, ועוד), שבזמן בהלת הגירוש הפתאומי אל האניה הסתירתם בעלית גג ביתו של<persName> אברהם בריל</persName> מנהל יק"א בדרום, ובמשך המלחמה גרו חיילים בבית ההוא, וכשחזרה ממצרים לא מצאה עוד את יצירותיה.
+
+ נפטרה בתל-אביב, ד' ניסן תרע"ט, ונקברה בביתהעלמין הישן.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 836 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/836</bibl><bibl>Volume: #2 ,Page: 837 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/837</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

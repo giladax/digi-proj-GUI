@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3777 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3777</bibl><bibl>Volume: #11 ,Page: 3778 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3778</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד ליפר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רדימנו</placeName> (פולין) בשנת תר"ס (3.4.1900).
+
+ לאביו <persName>יהודה הלוי ליפר</persName> ולאמו<persName> חיה רחל</persName> בת<persName> עקיבא</persName> <persName>באל.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ המשיך בלימודיו בוינה (אוסטריה) בשנת 1914.
+
+ בוינה עסק במסחר עורות.
+
+ בשנת 1939 ירד לקנדה והחל לעסוק בתעשיית גרביים.
+
+ נשא לאשה את <persName>בלה </persName> (ברתה) בת <persName>אנשל אייכנבוים.</persName>
+
+ כל השנים פעל למען המוסדות הציוניים. תרם והתרים לקהק"ל, המגבית המאוחדת, הבונד וכו'.
+
+ רכש שטחי קרקע באשקלון, ומניות בעסקי מדינת ישראל.
+
+ עסקן צבורי בבני-ברית, ההסתדרות הציונית, בית הכנסת "שערי שמים" ועוד.
+
+ בניו:<persName> שלום מרדכי </persName> (פרידריך)<persName> ז"ל, חיים ירחמיאל</persName> (צ'ארלס ראלף),<persName> שמאי יהושע</persName> (ג'והן סטיפאן).
+
+
+</p>
+<p>
+
+ תוספות: 
+
+ (ראה בכרך זה, בעמוד 3777)
+
+
+ הוספות ותיקונים
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3777 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3777</bibl><bibl>Volume: #11 ,Page: 3778 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3778</bibl>
+            <bibl>Volume: #11 ,Page: 3879 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3879</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

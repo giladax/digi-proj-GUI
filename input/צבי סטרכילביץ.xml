@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 339 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/339</bibl><bibl>Volume: #1 ,Page: 340 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/340</bibl>
+<bibl>Volume: #1 ,Page: 341 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/341</bibl>
+<bibl>Volume: #1 ,Page: 342 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/342</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי סטרכילביץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קישינוב</placeName> (בסרביה), בשנת תר"מ (1880), לאביו<persName> מאיר</persName> , וגדל בעיר-הגבול רייני, מול גאלאץ, שמה עברו הוריו לגור. קיבל חינוך יהודי מסורתי ועזר לאביו בעסקי מסחרו. הצטרף לציונות מראשיתה וכשהופיע הספר "מדינת היהודים" והוכרז על הפצת שקלים לקראת כינוס הקונגרס הציוני הראשון עבד יומם ולילה והקנה את השקל הציוני לכל היהודים הבוגרים שבעיר, והוא אז בן 17.
+
+ כשהביעו לו אנשי העיר את צערם, שבגלל גילו הצעיר אינם יכולים לבחור בו כציר לקונגרס, הרגיע אותם לאמר: "עד שיספיקו לעשות משהו למען ציון, כבר אהיה שם בעצמי".
+
+ מיד אחרי הקונגרס הראשון עלה ארצה בתרנ"ז. התמחה בעבודה החקלאית, קיבל כסף מאביו, בנה בית ונטע כרם וגדל טבק במשק המשפחה בנס ציונה ובמשך הזמן משך אחריו ארצה את כל המשפחה. הנהיג במשקם עבודה עברית במאה אחוז
+
+ והשתדל להשפיע על פקידי<persName> הבארון רוטשילד</persName> וחברת יק"א, שינהיגו עבודה עברית גם בפרדסיהם. כשענתה הפקידות, שרק בקבלנות ובשכר נמוך תוכל. למסור את העבודה ליהודים, התנדב עם אחיו ועוד בני-אכרים אחדים לכבוש את העבודה הזאת ליהודים, ובו בזמן שבמשק משפחתו עבדו פועלים יהודים רבים בתנאים טובים, עבד הוא בפרדס הבארון בתנאים הקשים שקבעה הפקידות.
+
+ כשביקר<persName> הרצל</persName> בארץ היה אחד מארבעת חברי המשלחת, שהזמינתו לבקר במושבות יהודה והיה נוכח בפגישתו עם הקיסר וילהלם ליד שער מקוה ישראל.
+
+ בהשפעתו נוסדה בבסרביה אגודה להכנת נחלה. לחברים בפתח-תקוה, שקנתה קרקעות ונטעה כרמים, והוא עבר שמה וניהל את משק החברה כל זמן שנשארה נאמנה לדרישתו לקיים אך ורק עבודה. עברית. נטע פרדס בפתח-תקוה. כחבר ועד המושבה הגן על עניני הפועלים והעבודה העברית. השתתף ביסוד לשכת העבודה ובכל ערב היה מבקר בבתי אכרים להשיג אצלם עבודה לפועלים. השתתף ביסוד הספריה הצבורית ומטבח הפועלים והשיג בשבילו דירה מהועד וכלים מחברת "גמילות חסד''. ביזמתו נוסד בפתח-תקוה יקב קואופרטיבי ומוסד לאשראי הדדי חברת "גאולה".
+
+ במלחמת-העולם הראשונה עבד יומם ולילה בכל הפעולות להקלת המצב, התאזרחות לשם מניעת גירושים מהארץ, עזרה לפליטים ולמגורשים מיפו, השתדלויות בפני השלטון.
+
+ אחרי הכיבוש הבריטי עבר ליפו וגם שם המשיך בפעילות לטובת הציבור. אחרי המלחמה עסק במסחר סיטונאי בחמרי בנין, פעל למען מסירת עבודות ההובלה והשמירה במחסנים ובנמל יפו ליהודים והשפיע על סוחרים אחרים שיעשו כמוהו. השתתף בהרחבת תל-אביב ופיתוחה על-ידי גאולת קרקעות והקמת בנינים. תמך במוסדות ובמפעלי צבור.
+
+
+ נפטר בתל-אביב, כ"א טבת תרצ"ח (25.12.37) ונקבר בבית-העלמין הישן.
+
+ הניח אחריו 5 בנים יושתי בנות:<persName> חנה</persName> , הנשואה <persName>להנרי צימרמן </persName> בחיפה, <persName>ורחל,</persName> הנשואה ל<persName>אבנר </persName> בן <persName>שלום רבינוביץ </persName> ממיסדי חדרה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 339 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/339</bibl><bibl>Volume: #1 ,Page: 340 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/340</bibl>
+<bibl>Volume: #1 ,Page: 341 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/341</bibl>
+<bibl>Volume: #1 ,Page: 342 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/342</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

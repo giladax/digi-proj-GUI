@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4075 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4075</bibl><bibl>Volume: #12 ,Page: 4076 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4076</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>סגן אלוף משה עפר (בלחוטובסקי)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פיוטרקוב</placeName> (פולין) בשנת תרס"ד (15.4.1904).
+
+ לאביו <persName>שלמה בלחטובסקי</persName> ולאמו<persName> חינקה</persName> בת <persName>שלמה</persName> בן הרב <persName>פיבל בראונר.</persName>
+
+ קיבל חינוך מסורתי, בבית ספר גבוה לטכנולוגיה בוינה. קיבל תואר מהנדס.
+
+ מהנדס בוינה (1924) ובתורכיה (1926-35).
+
+ בשנת 1928 נשא לאשה את<persName> פרידריקה</persName> בת<persName> משה</persName> <persName>פרנקל </persName> (נפטרה י' אייר תש''ך-7.5.1960).
+
+ בשנת 1935 עלה לארץ.
+
+ בשנות 1935-40 מעובדי "סולל בונה".
+
+
+ בשנות 1949-51 מנהל מפעלי "נשר"פורטלנד בע"מ.
+
+ מנהל החברה המרכזית לבנין ושיכון ובחברות שונות.
+
+ בעל הפירמה "מ. עפר, הנדסה וקבלנות".
+
+ חבר ההגנה, במלחמת העצמאות (1948) נתמנה לראש שירותי האיכסון בצה"ל ויועץ הנדסי לרמטכ"ל.
+
+ בתו: <persName>דפנה נעמי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4075 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4075</bibl><bibl>Volume: #12 ,Page: 4076 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4076</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

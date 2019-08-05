@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 770 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/770</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים גיסין (ראש משפחת גיסין בארץ)</persName>
+
+</head>
+         <div><p> נולד<persName> בסטארי-ביכוב, פלך מוהילוב</persName> (רוסיה הלבנה), בשנת <persName>תקצ"ה</persName> (1835), לאביו ר' <persName>אברהם זלקינד</persName> . קיבל חינוך מסורתי ותורני והיה ממשכילי דורו, לפי
+
+ הרוח המסורתי. נשא לאשה את <persName>חיה רחל לאה</persName> בת הרב <persName>זאב קרוטקין</persName> מז'ורביצי והיה סוחר ומנכבדי העדה היהודית בסטארי-ביכוב. נודע בכל מחוזות הסביבה כחובב עתיקות ואספן נלהב לחפצי אמנות, מפורסם בעשירותו ובאוסף הגדול שאסף במסעותיו הרבים.
+
+ כשלמד בנו<persName> יעקב דב</persName> משפטים באוניברסיטת מוסקבה הצטרף שם לאגודת "בני ציון", אחת האגודות הראשונות של חובבי ציון ברוסיה, והביא לבית הוריו את הרעיון - שהיה קרוב ללבותיהם מתוך רגש יהודי מסורתי חי - בדבר השיבה לציון ולעבודה חקלאית על אדמת האבות. מאז חיה המשפחה, מקטן ועד גדול, באוירה של התכוננות מתמדת לשיבת ציון.
+
+ בתרנ"א עלו ארצה בניו <persName>משה ושלמה זלמן</persName> , בתרנ"ד - בנו<persName> אריה ליב</persName> ובתו <persName>איידלה </persName> (נישאה אח"כ <persName>למאיר סולץ</persName> ובנם היה<persName> אלכסנדר סולץ </persName> איש השמירה, הרצליה), ובתרנ"ה עלה הוא עצמו עם רעיתו ובנותיהם <persName>מארישה</persName> (נישאה<persName> לאליהו אוסטאשינסקי</persName> מכפרסבא), <persName>איטה</persName> (נישאה <persName>לדוד גולדשטיין</persName> בפתח תקוה)<persName> ואלי</persName> <persName>שבע</persName> (הגננת הראשונה בגן-הילדים העברי הראשון בירושלים. נישאה <persName>למשה אפרתי)</persName> והתישבו בפתח תקוה. כאן הכינו הבנים עוד קודם לכן בכסף ששלח אביהם משק חקלאי ובית גדול מוקף שדרות אילנות בקצה המושבה. בדרך ליפו ועשוהו אכסניה לחלוצים
+
+ ולסתם עוברי-אורח (לא בתשלום, אלא כמנהג אברהם אבינו) ומרכז לפעילות למען קידום המושבה והחדרת העבודה העברית לתוכה. עם בוא ההורים נמשך כל זה כמנהג הבית מקודם, וההורים נתנו יתר תוקףומשקל לכל הפעולות הללו וראו נחת ממשפחתם המסתעפת ומשתרשת בארץ ובחייה.
+
+ נפטר בפתח תקוה, י"א תמוז תרנ"ח. יתר צאצאיו: עוה"ד <persName>יעקב דב</persName> (עלה ארצה בפורים תרפ"א),<persName> יוסף</persName> (מת ברוסיה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 770 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/770</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

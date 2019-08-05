@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5388 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5388</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב דוד דרבקין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>בוברויסק</placeName> (רוסיה) בכסלו תר"ע (נובמבר 1909).
+
+ לאביו הרב<persName> צבי דרבקין</persName> (ראה את הערך שלו בכרך זה) ולאמו הרבנית<persName> שרה לאה</persName> בת הרב<persName> נתן</persName> <persName>רובין </persName> מבוברויסק (היה רבה של חאלוי, שע"י סוויסלוץ).
+
+ קיבל חינוך מסורתי בחדר והשכלה תיכונית באופן פרטי ולמד בישיבת סלובודקה.
+
+ בחשוון תרפ"ה (נובמבר 1924) עלה לארץ.
+
+ המשיך ללמוד בישיבת חברון וגמר במחזור הראשון של "מכון הרי פישל לדרישת התלמוד" בירושלים (שמו: ר'<persName> ישראל אהרן (הרי) פישל</persName> , נדבן ידוע למוסדות דתיים באמריקה ובא"י. ראה את הערך שלו בכרך שביעי, עמודים : 2788-89).
+
+ הוסמך להוראה רבנית מרבני ירושלים ומהגאון <persName>רא"י מלצר</persName> ז"ל מסלוצק.
+
+ בשנת תר"ץ (1930) נשא לאשה את הרבנית <persName>חיה</persName> <persName>בריינה </persName> בת ר' <persName>מרדכי יהושע לזרובסקי.</persName>
+
+ היה חבר מערכת "תבונה", ירחון לתורה ולמוסר ובמשך שנים הוצא כשבועון חרדי.
+
+ משתתף קבוע במערכת "אוצר הפוסקים", תמצית מסקנות האחרונים על שו"ע אבן העזר. בכל עשרת
+
+ הכרכים שהופיעו עד היום בירושלים מופיע שמו בפתח הספר.
+
+ פירסם מאמרים ניקרולוגים ב"דאר היום", "הארץ", <persName>"הצופה", "קול יש</persName> <persName>ראל", "היסוד"</persName> (בעריכת ר' <persName> ישראל</persName> <persName>חבס</persName> , שבועון חרדי שהופיע בתל-אביב), ו"המודיע". היה סופרו המיוחד של א"י בעיתון החרדי "דאס ווארט" בוילנה בשנות תרפ"ח-תר"ץ (1928-30).
+
+ חיבר מאמרי הלכה בירחונים: "שערי ציון", "תורה מציון", "תבונה" בירושלים וב"כנסת ישראל" בקובנה-סלובודקה.
+
+ השתתף במלחמת העצמאות (תש"ח) ב"משמר העם".
+
+ חבר הוועד בשכונת אחווה, חבר הנהלת ישיבת "אוהל תורה" בירושלים.
+
+ עובד תורני במערכת ה"אנציקלופדיה התלמודית" וספרן-ביבליוגרף.
+
+ בנותיו:<persName> דבורה </persName> אשת הרב <persName>אברהם מאיר יעקו</persName> <persName>בוביץ </persName> (מכהן בתור רב מקומי בנחלת יהודה ע"י ראשון-לציון)<persName>; צביה אשת יקותיאל שפירא; הדסה</persName> <persName>אשת יוסף אביאור; שרה</persName> אשת <persName>נחום מינקוביץ</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5388 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5388</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

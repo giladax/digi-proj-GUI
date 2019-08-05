@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3186 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3186</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם קוסקובצקי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סורוקי</placeName> (בסרביה) בשנת תרמ"ב (1882).
+
+ לאביו <persName>דב </persName> ולאמו<persName> חנה </persName> בת <persName>יצחק טפר.</persName>
+
+ גדל והתחנך בווינניצא, פלך פודוליה.
+
+ היה חבר פעיל באגודת בני-ציון.
+
+ פעיל בהגנה בשנת 1905 בימי הפרעות.
+
+ עסק בצרכי צבור באמונה ודאג לעניי העיר.
+
+ היה ציר בקונגרס הציוני השביעי בבזל (אוגוסט 1905).
+
+ כתב בקורת על התיאטרונים ברוסיה וכו'.
+
+ בשנת 1906 ביקר בארץ. הביא אתו את אחיו הצעיר <persName>גרשון</persName> במטרה להשאירו בירושלים אצל הסופר<persName> יהושע</persName> <persName>ברזילי-איזנשטט</persName> , להכינו לסמינר העברי.
+
+ בשנת 1909 השתתף בועידת חובבי ציון באודיסה, בנשיאותו של <persName>מ. מ. אוסישקין,</persName> שדנה בתמיכה לבני ישראל עובדי אדמה ובעלי מלאכה בסוריה ובא"י.
+
+ בשנת 1909 עלה לארץ (ביקר לפני זה כמה פעמים).
+
+ נפגש עם <persName>משה סמילנסקי</persName> מרחובות,<persName> האחים גיסין</persName> פ"ת וכו', וכל אחד מהם יעץ לו לנטוע פרדס במושבתו.
+
+ לבסוף השתקע במטולה בהשפעת <persName>חיים מרגלית-קלווריסקי</persName> ופתח צרכניה בשותפות עם האכרים, והשקיע רוב הונו בעסק זה, שלא הצליחו בו, והפסיד את רוב כספו.
+
+ בשנת 1913 קנה במטולה 250 דונם אדמה עם בית. עבור אחיו <persName>גרשון בן-דב.</persName>
+
+ בשנת 1916 (במלחמה העולמית הראשונה) נאלץ לעזוב את המושבה היות והתורכים הציקו לו.
+
+ ישב כמה חדשים בספריה הלאומית בירושלים ואסף חומר עבור הלקסיקון של<persName> זלמן רייזין.</persName>
+
+ עבד בתור גזבר במשרד הקבלני של סולל בונה במשך שנים.
+
+ נפטר בתל-אביב, ה' טבת תשי''א (14.12.1950).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3186 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3186</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

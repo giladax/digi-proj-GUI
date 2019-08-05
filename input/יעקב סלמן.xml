@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5205 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5205</bibl><bibl>Volume: #17 ,Page: 5206 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5206</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב סלמן</persName>
+
+</head>
+         <div><p> נולד ביאליסטוק (פולין) א' תשרי תרפ"ז (9.9.1926).
+
+ לאביו<persName> אליהו סלמן</persName> ולאמו<persName> רחל </persName> בת <persName>אברהם הרשל</persName> <persName>רוג.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ בשנת 1938 עלה לארץ.
+
+ למד בירושלים בביה"ס "תחכמוני" וגימנסיה ערב "דעת".
+
+ למד באוניברסיטה העברית ולא סיים.
+
+ בוגר מחזור ב' של המכללה לבטחון לאומי. השתלמות בחו"ל.
+
+ כל השנים בשרות ה"הגנה".
+
+
+ בשנת 1944 גמר קורס מכי"ם ב"גבע".
+
+ בשנת 1946 גמר קורס מכי"ם סיירים בגבעתעדה.
+
+ בשנים 1946-47 גמר קורס מ.מ. בג'ואה.
+
+ היה מפקד מחלקת סיירים של החי"ש בירושלים. עם פרוץ מלחמת השחרור היה מפקד פלוגה בחי"ש ירושלים.
+
+ בשנת 1949 נשא לאשה את <persName>עטרה</persName> בת <persName>יוסף</persName> <persName>לשצ'יבר.</persName>
+
+ התגייס לצה"ל ועם השחרור המשיך בשירות צבא הקבע עד שנת 1954. השתחרר בדרגת סגן-אלוף.
+
+ היה מפקד גדוד, קצין מבצעים פקודי. מפקד בנח"ל ומדריך בקורס מג"דים.
+
+ נתקבל כפקיד באוצר ועד שנת 1960 היה סגן נציב מס הכנסה.
+
+ משנת 1960 עד 1966 מנהל אגף מס רכוש ומס שבח מקרקעין באוצר.
+
+ משנת 1966 סגן מנהל כללי משרד האוצר, במדינת ישראל, ירושלים.
+
+ באוגוסט 1968 נתמנה למנהל רשות החברות הממשלתיות.
+
+ יושב בכמה מועצות מנהלים של חברות ממשלתיות.
+
+ צאצאיו: <persName>דיטה, עוזי, אמיר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5205 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5205</bibl><bibl>Volume: #17 ,Page: 5206 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5206</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1962 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1962</bibl><bibl>Volume: #4 ,Page: 1963 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1963</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק גנל</persName>
+
+</head>
+         <div><p> נולד בגולטה, פלך חרסון (אוקראינה), ח' חשון תרמ"ט (1888), לאביו<persName> אליהו</persName> (בר-אורין, סיטונאי מכולת) ולאמו<persName> פרל </persName> בת<persName> יצחק הס</persName> . למד בחדר מתוקן ואח"כ בגימנסיה באודיסה.
+
+ אחרי פרעות אודיסה עלה לארץ בסוף 1905. עבד ברחובות, ביחד עם ותיקי תנועת העבודה ופועלים שהגיעו מאז לצמרת הצבורית, בפרדס מינקוב, בכרמי חברת "מנוחה ונחלה", שמר בכרמים, ועבד גם ביקב ראשון לציון. ב-1907 הצטרף למפלגת "הפועל הצעיר" והיה מפעיליה. נודע כאחד מיחידי סגולה בין הפועלים, שהקדחת לא פגעה בו.
+
+ ב-1909 נסע לבקר ברוסיה וחזר. בתר"ע עבר לתלאביב ולהצעת <persName>מאיר דיזוגוף</persName> נתמנה למזכיר ועד השכונה, השלישי בתפקיד זה (לפניו היו המזכירים <persName>שמואל</persName> <persName>יבנאלי </persName> ואח"כ <persName>אהרן שוחט</persName> ), והתמיד בשרותו עד 1921.
+
+ ב-1914 נשא לאשה את <persName>שרה</persName> בת <persName>עזריאל לנגר</persName> .
+
+ משפרצה מלחמת-העולם ב-1914 הוטל עליו לטפל בכל הפגעים שבאו על השכונה והתאזרח כעותומני לבל יגורש מהארץ. משיצאה כל תל-אביב לגולה בעקב הגירוש הכללי באביב תרע"ז, נדד גם הוא לפתח-תקוה, לטבריה ובסוף לחיפה, ובכל המקומות
+
+
+ המשיך לעבוד בשרות ועד ההגירה. ומשחזרו התושבים מצפון הארץ בסתיו 1918 חזר גם הוא והמשיך לשרת בועד השכונה, שהחלה גדלה ומתפתחת לעיר עברית עצמאית.
+
+ ב-1921 יצא לצרפת ואח"כ לדאנציג ועסק במסחר עצים.
+
+ ב-1938 חזר לארץ ומאז עוסק הוא בקבלנות של סלילת כבישים.
+
+ בנותיו: <persName>מרים</persName> (מזכירה בחברת דרום-אפריקה), <persName>רות</persName> אשת ד"ר <persName>ארנסט שרגנהיים.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1962 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1962</bibl><bibl>Volume: #4 ,Page: 1963 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1963</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

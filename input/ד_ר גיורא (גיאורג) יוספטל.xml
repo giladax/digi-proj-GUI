@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2782 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2782</bibl><bibl>Volume: #7 ,Page: 2783 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2783</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר גיורא (גיאורג) יוספטל</persName>
+
+</head>
+         <div><p> נולד ב<placeName>נירנברג</placeName> (גרמניה), כ"ו אב תרע"ב (9.8.1912).
+
+ לאביו <persName>פאול</persName> ולאמו<persName> אמה </persName> בת <persName>אדולף שנעבל.</persName>
+
+ חינוך: בי"ס תיכוני, אוניברסיטאות : ברלין, היידלברג, מינכן ובזל. קבל תואר: ד"ר למשפטים.
+
+
+ עבד בתור אסיסטנט באוניברסיטה במינכן.
+
+ מזכיר "עלית נוער", מזכיר מרכז החלוץ בגרמניה.
+
+ חבר הנהלת ההסתדרות הציונית והנהלת נציגות יהודה בגרמניה.
+
+ בשנת 1936 נשא לאשה את <persName>סנטה </persName> בת <persName>יעקב פונפוד</persName> (ראה את הערך שלה בכרך זה).
+
+ בשנת 1938 עלה עם אשתו לארץ.
+
+ חבר קבוץ "גלעד" (מקודם - פלוגת עבודה הגרעין "רעננה") מיום יסודו (1945).
+
+ היה מדריך במחנה עולים בעתליט.
+
+ היה חבר פעיל בהגנה מיום עליתו לארץ.
+
+ בשנת 1941 התגייס (לפי צו המוסדות הלאומיים) לצבא הבריטי ושירת בו עד 1945.
+
+ היה ציר בקונגרסים הציוניים : הי"ט בלוצרן (אוגוסט 1935); הכ' בציריך (אוגוסט 1937); והכ''ג בירושלים (1951).
+
+ היה יו"ר הנהלת חברת השלומים, חבר הנהלות: "עמידר", "מקורות", "מלבן", "רסקו''.
+
+ חבר מרכז מפלגת פועלי א"י (מפא"י).
+
+ חבר בועד המייעץ למוסדות השכלה גבוהה ומדע של המדינה.
+
+ במרס 1954 השתתף בארצות הברית בפעולות למען המילווה לפרעון החובות קצרי המועד של המדינה. וכן השתתף בפעולות הרגילות של המגבית המאוחדת. ערך סיור הרצאות ברחבי ארצות הברית.
+
+ עמד בראש משלחת השלומים למו"מ עם ממשלת גרמניה (יחד עם ד"ר <persName>פ. א. שנער).</persName>
+
+ חבר הנהלת הסוכנות היהודית, ראש מחלקת הקליטה וגזברה בירושלים, וחבר הנהלת חברת השילומים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2782 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2782</bibl><bibl>Volume: #7 ,Page: 2783 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2783</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

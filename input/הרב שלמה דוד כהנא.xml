@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4262 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4262</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שלמה דוד כהנא</persName>
+
+</head>
+         <div><p> נולד ב<placeName>יאנוב</placeName> ליד קובנה, בשנת תרכ"ח (1868). לאביו <persName>בן-ציון כהנא.</persName> רבה של וורשה וירושלים העתיקה. חתנו של הרב<persName> ז. קלפפיש</persName> , רבה של וורשה, בן נין לר' <persName>חיים מולוזין).</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבת ולוזין ואצל חותנו ראב"ד וורשה, הרב<persName> זוועלע (שמואל זנוויל קלפפיש)</persName> שנתן את היתר השמיטה לקרקעות א"י.
+
+ נשא לאשה את <persName>אסתר</persName> בת הרב <persName>שמואל זנוויל קלפפיש,</persName> ראב"ד וורשה (נפטרה בירושלים, י"ח אייר, תשכ"ג 12.5.1963).
+
+ היה ראב"ד בוורשה.
+
+ סגן נשיא אגודת רבני פולין.
+
+ היה ראש לשכת העגונות. התיר למעלה ממאה אלף עגונות.
+
+ סגן נשיא רבני פולין בארץ.
+
+ היה רבה של ירושלים העתיקה.
+
+ נשיא רבני פולין בארץ.
+
+ ראש ישיבה בעיר העתיקה והלשכה לענייני עגונות. היה ציר לכינוס הראשון של הסוכנות היהודית לא"י בעת הקמתה.
+
+ כתב מאמרים על שאלות ותשובות בקובצים תורניים שונים.
+
+ נחשב כפוסק רבני.
+
+ היה פועל בקרן הקיימת וקרן היסוד.
+
+ נפטר בירושלים, כ"ז כסלו, תש"ך (24.12.1943) והובא לקבורה בסנהדריה בירושלים.
+
+ צאצאיו:<persName> ישראל כהנא</persName> (עובד במשרד הפנים), ד"ר <persName>שמואל זנוויל כהנא</persName> (מנהל כללי של משרד הדתות במדינת ישראל, ראה כרך י"א, עמוד 3831),<persName> מלכה</persName> אשת ר' <persName>בצלאל מועד </persName> (מאנטוורפן),<persName> גיטה</persName> אשת <persName>דב קוץ</persName> (מחרבין).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4262 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4262</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

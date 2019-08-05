@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5628 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5628</bibl><bibl>Volume: #19 ,Page: 5629 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5629</bibl>
+<bibl>Volume: #19 ,Page: 5630 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5630</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>קופל רוזנברג (רוזן)</persName>
+
+</head>
+         <div><p> נולד בפוסטלניק (פולין), י"ח טבת תרע"ג (28.12.1912).
+
+ לאביו <persName>שלום רוזן </persName> ולאמו <persName>שרה </persName> לבית <persName>פריבס.</persName>
+
+ קיבל חינוך עממי ותיכון.
+
+ בשנת 1933 עלה לארץ.
+
+ עבד כפועל בנמל יפו ואח"כ בבנין.
+
+ בשנים 1934-35 נהג מונית.
+
+ בשנים 1935-36 הסעת נוסעים במוניות מיפו לתל-אביב.
+
+ בשנת 1936 נשא לאשה את <persName>רוזה</persName> בת<persName> שמואל</persName> <persName>ריכנבך.</persName>
+
+ בשנת 1936 קיים בצורה בלעדית הסעת נוסעם ללוד בימי המאורעות.
+
+ משנת 1936 -הסעת תיירים ותיירות.
+
+ בעת התקפת הערבים בלוד - ביצע אישית, בסיכון רב, פינוי התושבים והעובדים היהודים.
+
+ היה חבר ההגנה משנת 1936 עד 1948.
+
+ שירת במטה גדוד הקלט.
+
+ אח במיסדר הבונים החופשיים "ג'ורג' ואשינגטון לודג'".
+
+ כתב מאמרים על הנושא : התיירות.
+
+ נשיא ובעל חברת נסיעות "קופל טורס אנד טראוול בע"מ".
+
+ צאצאיו : <persName>עדינה</persName> אשת <persName>שמואל פילובסקי; שמואל.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5628 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5628</bibl><bibl>Volume: #19 ,Page: 5629 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5629</bibl>
+<bibl>Volume: #19 ,Page: 5630 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5630</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

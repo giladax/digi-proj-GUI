@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 208 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/208</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן בהגר"א</persName>
+
+</head>
+         <div><p> נולד בקובנה, בשנת תרמ"ב לאביו הרב ר' <persName>אברהם תנא"ס שינקר</persName> , ממשפחת רבנים וצדיקים מפורסמים (אחיו, הרב <persName>שמואל שינקר</persName> , חתנו של הרב <persName>יוסף</persName> <persName>חיים זוננפלד</persName> , הוא ראש-ישיבה בירושלים, ואף הרב <persName>צבי פסח פרנק </persName> הראב"ד בירושלים הוא מקרובי משפחתו). קיבל חינוך תורני בחו"ל ובעודנו ילד עלה ארצה בשנת תרנ"ז. למד בישיבת שטרויס בירושלים והצטיין בלימודו, ואח"כ למד בישיבת "שערי תורה" בנוה-שלום שביפו.
+
+ סמוך לאחר שנת תר"ס נשא לאשה את<persName> שרה גיטל</persName> בת<persName> ברוך שמואל לוי</persName> מעסקני הישוב ביפו ועבר לדור ביפו והחל לעסוק במסחר. היתה לו חנות קטנה בין פתחי הבתים במורד רחוב הנמל ביפו, ובחנותו הפעוטה ניהל עסקי מסחר גדולים עם יהודים וערבים
+
+ וכולם כיבדוהו בשל ישרו ונאמנותו, וקשרי מסחרו התפשטו כמועט על כל הערים והמושבות בארץ. באותו זמן היה עסקן פעיל בצרכי צבור בשכונת נוה-שלום, ביחוד בעניני חברה משניות, חברה ש"ס וקופת גמילות חסדים, וחוץ מזה היה עושה צדקה וחסד גם באופן פרטי.
+
+ היה מראשוני החברים בהלואה וחסכון יפו-תלאביב ואחד מהמתענינים בה בפעילות.
+
+ השתתף בבנין שכונת תל-נורדוי (כיום הרחובות אליעזר בן-יהודה, הירקון, פרישמן והסביבה), ביסוד בית-הכנסת "בית-אל" שברחוב פרישמן וביסוד קופת גמילות חסד לסביבה ההיא.
+
+ בראשית מלחמת-העולם השניה יצא לגור בבת-ים, ושם יסד את התלמוד-תורה "עץ חיים" ופעל למען ביסוסו.
+
+ נפטר בתל-אביב ביום כ"א טבת תש"ד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 208 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/208</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

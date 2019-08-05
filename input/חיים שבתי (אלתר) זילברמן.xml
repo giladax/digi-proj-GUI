@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3091 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3091</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים שבתי (אלתר) זילברמן</persName>
+
+</head>
+         <div><p> נולד בשנת תר"ן (1890) בירושלים.
+
+ לאביו ר' <persName>משה</persName> בר<persName>'מוני זילברמן</persName> (ראה כרך ז', עמוד 2936) ולאמו<persName> הניה.</persName>
+
+ למד בת"ת ובישיבה "עץ חיים" ואח"כ נכנס להורות בסניף מזכרת של ת"ת זה, בו היה אבי-אביו ר'<persName> שמואל</persName> <persName>מוני</persName> המלמד הראשון בשנת ת''ר (1840), ואחריו לימד בו אביו, והוא היה איפוא הדור השלישי במשפחתו למרביצי תורה ב"עץ חיים" ונודע כפדגוג מומחה.
+
+ בשנת תרס"ח (1908) נשא לאשה את<persName> אסתר</persName> בת ר' <persName>צבי מנדלזון.</persName>
+
+ בהיותו צפוי לגיוס לצבא התורכי במלחמת העולם הראשונה יצא לארה"ב והיה שוחט עופות ומורה לעברית בניו-יורק. המשיך במסורת הפעילות הצבורית של אבי-אביו (שהיה מראשי הפעילים ב"ועד הכללי - כנסת ישראל" ובישוב הישן בכלל) והשתתף ביסוד אגודת השוחטים בניו-יורק.
+
+ הוא לא הסתפק באגודה זו בפעילות של אגודה מקצועית להגנה על האינטרסים של החברים, אלא השתדל להכניס יסוד ארצישראלי למטרותיה. בהשפעתו התארגנו 45 חברים באגודתו ליסד להם מושבת מטעים
+
+ בארץ, אליה יבואו להתישב כשיגיעו לגיל הפנסיה. ואכן בתרצ"ב (1932) בא עם שנים מחבריו ב"אגודת השובי"ם" (ר' <persName>יעקב בלום </persName> ור'<persName> יוסף רוזמן)</persName> וקנו אלף דונם קרקע לשם יסוד "נחלת השבים" ליד כפר יונה. בחרישה החגיגית הראשונה בראשית חודש מנחם אב תרצ"ב השתתפו מעסקני הישוב ומנכבדיו, ביניהם הראשון לציון רבי<persName> ב"צ חי עוזיאל, ח. נ. ביאליק, ד.</persName> <persName>צ. פנקס</persName> ועוד, והחברים המשיכו להכניס את תשלומיהם ונעשו הכנות לביצוע המפעל. בעקב המהומות ומלחמת
+
+ העולם השניה נפסקה הפעולה ונתפרדה החבורה, בשנים האחרונות עמל לחדש את הארגון, אך לא זכה להגיע לתוצאות.
+
+ נפטר בניו-יורק, י'ז ניסן תש"ב (4.4.1942).
+
+ צאצאיו: הרב<persName> משה, יעקב יצחק</persName> (מנהל בית-ספר עברי בניו-יורק),<persName> הניה רחל</persName> אשת <persName>ג. גודמן, שולמית</persName> אשת. <persName>פ. פוגל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3091 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3091</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

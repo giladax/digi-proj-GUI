@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 736 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/736</bibl><bibl>Volume: #2 ,Page: 737 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/737</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב פרידלנד</persName>
+
+</head>
+         <div><p> נולד בקיוב, רוסיה, בשנת תרכ"א (1861) לאביו <persName>אריה </persName> (ליאון). למד ב"חדר" ומוריו הכירו בו כשרון גדול. בנערותו עזב את בית הוריו, עבד ונתן שיעורים והתכונן לבחינות ועמד בהן בהצלחה. השתלם בעשר שפות. גמר פוליטכניון רוסי והוסמך למהנדס. תיכן וניהל את בנין הנמלים בחרסון ובניקולאייב, וכאן בנה גם את המעליות במחסני התבואה (אליוואטורים) שבנמל. המציא טפוס מוצלח של מטבח נודד, שנתקבל לשימוש בצבא הרוסי במלחמת רוסיה-יאפאן. בעבודתו השיג רכוש ובנה לו חוילה יפה באודיסה.
+
+ עזר למפעלי הצבור היהודי. התקרב לחיבת ציון ולציונות ונמנה על ידידי<persName> מ.אוסישקין וד"ר יוסף</persName> <persName>ספיר</persName> .
+
+ בתרס"ו נדב את חוילתו האודיסאית למוסד עזרת חולים ועלה ארצה. קנה ברחובות 150 דונם קרקע ונטע עצי קיקיון, לשם תעשיה של שמן-קיק ושטני
+
+
+ מרפא. רכש קרקע גם ברפיח שעל גבול מצרים. היה צמחוני וטבעוני והכין לו אוכל מעשבים שאסף, וגם מסרפדים. הביא ארצה מחרשות-קולטיבטורים, והיה הראשון שהכניסן לשימוש בארץ. ברחובות בנה את המדרגות המוליכות לבית-הכנסת הגדול שעל ראש הגבעה. נדב את מנורת-הלוקס לבית-העם ועזר למפעלי צבור שונים. בכל שנה היה נוסע לרוסיה לשם חיסול רכושו ובמסעיו היה מביא נשק בשביל "השומר". בשעות הפנאי היה כותב שירים היתוליים באידית (נשארו בכתב-יד אצל נכדו <persName>מיכאל מוחריק </persName> בת"א).
+
+ היו לו שלשה בנים ושתי בנות. בנו בכורו <persName>אדולף,</persName> יועץ במחלקת העבודות הצבוריות בוינה, ביקר בארץ בשנות 1920/21 ועבד כאן, נספה בידי הנאצים. בנו <persName>מתתיהו</persName> היה בנקאי בפאריס. אחד מבניו מנצח על תזמורת סימפונית בלונדון. בתו <persName>חנה</persName> נישאה למהנדס <persName>סאשה משקביץ</persName> ברוסיה. בתו<persName> פלורה</persName> נישאה לעו"ד <persName>אלכסנדר מוחריק</persName> . עלתה ארצה ב-1912 ונתמנתה למורה לפסנתר בבית-הספר לנגינה "שולמית" בל-אביב.
+
+ כשפרצה מלחמת-העולם הראשונה הוכרח לעזוב את הארץ כנתין בריטי. נסע לרוסיה דרך אנגליה ושוודיה. הצטנן בדרך והגיע חולה לאודיסה, ובעקב שטף-דם במח נפטר שם בחורף תרע"ה ונערכה לו הלויה צבורית מטעם הקהלה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 736 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/736</bibl><bibl>Volume: #2 ,Page: 737 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/737</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

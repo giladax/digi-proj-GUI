@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3724 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3724</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישעיהו יאיר (הרשפינקל)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ווארשא</placeName> (פולין) בשנת תרס"ד (אוקטובר 1902).
+
+ לאביו <persName>זאב הרשפינקל</persName> ולאמו<persName> חנה</persName> לבית לינדנפלד.
+
+ קבל חנוך מסורתי וכללי.
+
+ בשנת 1920 עלה לארץ במסגרת "השומר הצעיר". היה שומר ברחובות.
+
+ משנת 1922 עבד כפקיד אצל ה' <persName>אבטקמן</persName> , חלוץ-יבואן הסרטים במזרח. יחד עמו יסד את חברת "וסטיפילם".
+
+ במשך כמה שנים (לפני עלות היטלר) היה סוכן חברת "אופה" הגרמנית ו"פרמונט" האמריקאית.
+
+ בשנת 1927 נשא לאשה את<persName> צלינה דורה</persName> בת <persName>חנוך אש</persName> . בשנת 1932 יסד את חברת "יאיר פילם" אשר קיים
+
+ מאז ועד היום.
+
+ היה במשך שנים רצופות יו"ר התאחדות מפיצי הסרטים הקונטינגטליים בישראל.
+
+ היה חבר ההגנה.
+
+ נפטר בתל-אביב, כ' חשון תש"ך (21.11.1959).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3724 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3724</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

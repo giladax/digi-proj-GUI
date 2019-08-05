@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 679 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/679</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה מהרש"ק</persName>
+
+</head>
+         <div><p> נולד בט"ו ניסן תר''ו (1846) בויטבסק (רוסיה הלבנה) לאביו <persName>אברהם</persName> ולאמו <persName>חנה</persName> . למד ב"חדר" וב"ישיבה" והוסמך לרבנות. עבר למסחר והיה מהסיטונאים הידועים בעירו, נצטרף לתנועת חובבי-ציון ובסיון תרנ"ח (1898) עלה ארצה עם אשתו <persName>חיה</persName> <persName>מלכה</persName> ובתם חנה ורכש את אחוזתו של האכר פאלק בגדרה ב-50 אלף פרנק זהב. חזר לרוסיה, כדי להסדיר עסקיו שם ולהשיג את הסכום שחסר לו להשלמת קניית האחוזה, אבל אשתו סירבה לשוב, כי נקשרה לארץ בכל לבה. את המשק ניהל בינתיים חתנם צבי דוזובסקי, בעל בתם בת-שבע, שעלה במיוחד ארצה לפי בקשת המשפחה.
+
+ טלטל את עצמו פעמים אחדות הנה ושוב מרוסיה לא"י, כדי להביא כסף נוסף לכיסוי הגרעונות של המשק, עד שהשתקע בגדרה יחד עם משפחתו.
+
+ בעת היותו ברוסיה פנו אליו בני גדרה, ביום ב' טבת תרס"א, במכתב מיוחד בו ביקשוהו להופיע בפני ועד חובבי ציון בעניני המושבה, שהיתה שרויה במשבר, וכן לדאוג למציאת שוק ליינותיהם (על המכתב היו חתומים : דוב ליבוביץ, אליהו סוירדלוב, צבי הורביץ, מרדכי הנקין, יוסף-ליב ליס ויעקב-זאב שמולצנסקי). הוא מילא את בקשתם והצליח בהשתדלותו.
+
+ במשקו השתדל להעמיק עבודה עברית על אף הגרעונות שהעיקו עליו. נאבק עם המשבר, ולבסוף
+
+ נאלץ היה למכור את נחלתו בהפסד רב ועבר לפתחתקוה.
+
+ מת בי"ב תשרי תרצ"א ונקבר בפתח-תקוה,
+
+ אשתו מתה בי"ז חשון תרצ"ב.
+
+ צאצאיהם : <persName>בת-שבע</persName> ז"ל, <persName>חנה</persName> אשת יוסף בן-עמי (אכר בנהלל),<persName> יוסף</persName> (מהנדס בפתח-תקוה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 679 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/679</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1404 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1404</bibl><bibl>Volume: #3 ,Page: 1405 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1405</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דבורה דיין</persName>
+
+</head>
+         <div><p> נולדה בכפר פרוחורובקה, פלך פולטאבה (אוקראינה), תשרי תרנ"ב (23.9.1891), לאביה <persName>יחיאל זאב</persName> <persName>זטולובסקי</persName> (עסקן ציוני וסופר בעברית וברוסית, ראה את הערך שלו בכרך זה), ולאמה <persName>מרים כהן</persName> .
+
+
+ למדה בבית-ספר תיכוני בקרמנצ'וג ובשיעורי אוניברסיטה בקיוב. היתה מורה בבית-ספר-ערב לילדי פועלים בקיוב ועבדה במחלקה הסטטיסטית במשרדי הזמסטבו בקיוב ובפולטאבה.
+
+ הצטרפה לתנועה הציונית הסוציאליסטית. עלתה ארצה ב-1913, וב-1914 נישאה <persName>לשמואל דיין</persName> , אז חבר קבוצת דגניה (א), בתרפ"א עברה אתו לנהלל בראשית יסודה והמשיכה מאז לשאת בעול המשק. עסקה גם בפעילות צבורית מקומית, במזכירות הארצית של מועצת הפועלות, במועצה החקלאית של ההסתדרות, עוזרת לבעלה בהוצאתו ובעריכתו של "תלמים" (בטאון תנועת המושבים). היתה צירה לקונגרס הציוני ה-20.
+
+ פרסמה מאמרים ב"דבר הפועלת", "הפועל הצעיר", "דבר", "תלמים", "פיונרן פרויען" ובעתון הרוסי "אוגוניוק".
+
+ אחרי סיום מלחמת-העולם השנית נסעה בשליחות אל אונרר"א לגרמניה בעניני עזרה וסידורי עליה לשארית הפליטה של יהודי אירופה.
+
+ צאצאיה: ראה להלן בערך של בעלה.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטרה בביה"ח בילינסון, י''ט אב תשט''ז (17.7.56) והובאה לקבורה בנהלל (ראה כרך ג', עמוד 1404)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1404 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1404</bibl><bibl>Volume: #3 ,Page: 1405 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1405</bibl>
+            <bibl>Volume: #8 ,Page: 3190 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3190</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2712 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2712</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה בוקששטר</persName>
+
+</head>
+         <div><p> נולד ברומניה, בשנת תרל''ט (1879).
+
+ לאביו <persName>דוד</persName> ולאמו<persName> הנה </persName> (היתה המילדת הידועה בגליל והסביבה).
+
+ בשנת 1882 עלה לארץ, והוא בן 3 שנים. קבל חנוך מסורתי וכללי בביה"ס בראש פינה,
+
+ היה לאכר ומגדל בקר במושבה.
+
+ נשא לאשה את<persName> מנצי</persName> לבית <persName>הרשקוביץ,</persName> ובזיווג שני נשא לאשה את<persName> רחל.</persName>
+
+ היה ידוע ביושרו ואומץ לבו. השכנים הערבים פחדו ממנו וגם כבדוהו.
+
+ כשהמושבה גדלה נתמנה לראש שומריה.
+
+ האדמות שנקנו בסביבה נמסרו לידיו לשמירה והשכנים הערבים לא העיזו להתקרב אליהם.
+
+ בימי המלחמה העולמית הראשונה נתמנה לשומר במושבה מטעם הצבא התורכי יחד עם שני שומרים ערבים מכפר ג'אוני.
+
+ כשהצבא התורכי חפש בגליל את יוסף לישנסקי מאנשי "נילי", לקחו אותו בתור מורה דרך. בהגיעם לכפר גלעדי החלו לאסור שם מספר חברים מ"השומר" בלי לאמר להם את הסיבה למאסרם. החל הוא להכות את סוסו ולדבר "אליו" בכדי שהנאסרים ידעו על מה הם נאסרים... וכך גלה להם הסוד.
+
+ היה חבר ועד המושבה. חבר וממיסדי הקואופרטיב החקלאי במושבה.
+
+ נפטר בראש פינה, י"ג טבת תשט''ו (10.1.1955).
+
+ צאצאיו: <persName>דוד </persName> ז''ל, <persName>יעקב</persName> (נתניה)<persName> יוסף</persName> (ראש פינה), <persName>הנה </persName> אשת<persName> ציון לוין</persName> (נתניה),<persName> מרים</persName> אשת <persName>יהושע סלמון</persName> (נתניה),<persName> פנינה</persName> אשת<persName> מנחם זילברמן</persName> (נתניה),<persName> אסתר</persName> אשת<persName> יצחק זילברמן</persName> (טבריה),<persName> אהובה בן-עמי</persName> (נתניה), <persName>צבי </persName> (ראש פינה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2712 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2712</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

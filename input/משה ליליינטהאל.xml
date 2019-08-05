@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2570 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2570</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה ליליינטהאל</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת תר"י (1850).
+
+ לאביו <persName>בנימין </persName> (ראה בכרך זה) ולאמו <persName>ביילה געשקעס</persName> .
+
+ קבל חנוך מסורתי בחדר ובישיבה, וזמן מה למד בישיבה גם אחרי הנשואין.
+
+ החל ללמוד עבודת דפוס בבית דפוסו של ר' <persName>ישראל</persName> <persName>ב"ק</persName> , אח"כ קנה ביחד עם ר' <persName>אלחנן טננבוים</persName> את דפוסם של ר' <persName>אליהו ומשה חי ששון</persName> שהביאו אתם מארם צובא (עירק).
+
+ השותפות לא האריכה ימים והוא נשאר לבדו כבעל הדפוס, ונקרא "דפוס משה ליליינטהאל הירושלמי" (המדפיס הירושלמי). שיתף את בנותיו בעבודת הדפוס.
+
+ היה אחד מבני כולל הו"ד (הולנד ודייטשלנד).
+
+ נשא לאשה את <persName>ביילה</persName> בת ר' <persName>אליעזר שו"ב ליפוביץ</persName> . (אחד השו"בים הראשונים של חסידי ירושלים, היה מניצולי הרעש בצפת בשנת תקצ"ז - 1837), נפטרה ב<placeName>ירושלים</placeName> בי"ד אדר תרפ"ד.
+
+ נפטר ב<placeName>ירושלים</placeName> ד' סיון תר''ע (11.6.1910). צאצאיו: <persName>צפורה (פייגה) רחל </persName> אשת ר' <persName>יהודה</persName> (יודא) <persName>אהרן סג"ל ווייס</persName> (ראה בכרך זה), <persName>לאה רבקה</persName> אשת ר' <persName>אברהם שניאור זלמן סלונים, געשקע</persName> אשת ר' <persName>אפרים</persName> <persName>פישל אנגלשטיין, חנה</persName> אשת ר' <persName>מאיר פריימן</persName> (נינו של ר' ישראל משקלוב, בעל "פאת השולחן"), <persName>שרה, בן-ציון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2570 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2570</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

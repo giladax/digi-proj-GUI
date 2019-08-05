@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3099 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3099</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שאול חיים הלוי הורביץ (הרב מדובראבנה)</persName>
+
+</head>
+         <div><p> נולד בשנת תקפ"ח (1828) בוילנא, שבליטא-רוסיה. לאביו הרב <persName>אברהם הלוי</persName> , שהיה מו"צ בוילנא.
+
+ למד בישיבות ובבתי-המדרש בוילנא ונתפרסם עוד בגיל צעיר כגדול בתורה, והגאון רבי<persName> דוד טבלי</persName> ממינסק בחר בו לחתן והשיא לו את בתו.
+
+ המשיך לשקוד על לימוד התורה, ובשנת תרכ"ה
+
+ (1865) נתמנה לרב בעיירה דובראבנה, ובהיות עבודת הרבנות מועטת בעיירה התמסר לעבודה חינוכית. החזיק בביתו בחורים, וכלכלתם על חשבונו, והיה מלמדם ומטפל בהם, כאילו היו בניו, בכל צרכיהם בחומר וברוח. (בנים או בנות משלו לא היו לו כל ימיו).
+
+ בשנת תרמ"ג (1883) עלה לארץ, התישב בשכונת מאה שערים בירושלים והחל משרת בה את הצבור בתור רב השכונה. כאן יסד את התלמוד-תורה "פרי עץ הדר'' והישיבה הגדולה "מאה שערים" וכושר השפעתו כדרשן וכאיש-שיחה רכש נדיבים ועסקנים והשיג אמצעים לבנות ולקיים את הבנין הגדול של היכל הישיבה וביתתבשיל להזנת הלומדים. כן בנה בכספו בית-מדרש לבעלי מלאכה, נתן להם יום-יום שיעורים בתורה בהסברה פשוטה וקלה להבנתם של אנשי עמל, ובשבתות היה מלמדם הלכות שבת, ואילו בישיבה שוטט עם תלמידיו בנתיבי הבקיאות והחריפות בספירות הגבוהות של העיון בש"ס ובפוסקים, וכך היה, בלשון ימינו, "מורה עממי" ו"מורה אקדמאי" כאחד.
+
+ בעסקי צבור של מחלוקת היה גוזר שתיקה על עצמו, אך נתן יד לעסקי צבור של מעשים לטובת הכלל. עמד בראש ועד השחיטה שיסד הרב <persName>משה יהושע ליב</persName> <persName>דיסקין מבריסק</persName> (ראה כרך ב', עמוד 565), עסק בהתקנת מקואות-טהרה, היה אחד מאפוטרופסי חלקת האדמה שליד קבר רחל, שנקנתה על-ידי הרב וחובב-ציון הנודע רבי <persName>צבי קאלישר</persName> מפוזן.
+
+ בתרמ"ט (1889) נסע בראש משלחת מיוחדת למושבה עקרון בדבר ישוב סכסוך השמיטה וסידר את ההסכם בין האכרים ובין פקידי הבארון <persName>רוטשילד.</persName>
+
+ חיבר את הספרים "כלילת שאול'' (כללים בסוגיות הש"ס - וילנא תרל"ט), "מצפה שאול", "יד שאולי", "פרי עץ חיים".
+
+ נפטר בירושלים, ג' טבת תרע"ו (10.12.1915).
+
+ בנים לא היו לו, אך גידל וחינך מגיל עשר והביא אתו לארץ את בן-אחותו<persName> יוסף גרשון</persName> , הוא הרב <persName>יוסף</persName> <persName>גרשון הורביץ</persName> , שירש את מקומו בראש ישיבת מאה שערים (ראה כרך ו', עמוד 2617).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3099 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3099</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3150 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3150</bibl><bibl>Volume: #8 ,Page: 3151 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3151</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>תמר קופ-ז'בוטינסקי</persName>
+
+</head>
+         <div><p> נולדה באודיסה (רוסיה), ה' סיון תרל"ו (16.5.1876).
+
+ לאביה <persName>יונה </persName> (ייבגני) בן<persName> צבי ז'בוטינסקי </persName> (פקיד גבוה ב"החברה הרוסית לספנות ומסחר", ממונה על רכישת החיטים ושילוחם מכל חבר הדנייפר) ולאמה <persName>חוה</persName> בת מאיר זאק (היתה הצעירה ב-12 ילדי אביה, סוחר מצליח מברדיצב, יהודי אדוק, אבל אותה חינך בבית-ספר מודרני. נפטרה בא"י, כ"ו כסלו תרפ"ז-2.12.1926).
+
+ בגיל 10 נתיתמה מאביה. 
+
+ קבלה חנוך תיכוני (7 מחלקות, והשמינית הפדגוגית, בגמנסיה לבנות באודיסה).
+
+ משנת 1892 היתה מורה באודיסה - עד שנת 1920 - לעליתה לארץ.
+
+ בשנת 1899 נישאה לד"ר <persName>פלג </persName> (פדיי) בן<persName> משה קופ</persName> (נפטר באודיסה, ב' אדר תרס"א-8.2.1901).
+
+ ב-1901 יסדה באודיסה גימנסיה לבנות לאומי. שפת ההוראה היתה רוסית, אבל תשומת לב מיוחדת הוקדשה ללימודי העברית ודברי ימי ישראל.
+
+ עד לשנת 1906 כאשר הוענק לבית-הספר מעמד של גימנסימ פרטית מן המניין, מכסה היה אחיה<persName> זאב</persName> <persName>ז'בוטינסקי </persName> (ראה את הערך שלו בכרך זה, בעמוד 3017) מהכנסותיו העתונאיות את הגרעונות שלו, שניכרים היו למדי.
+
+ משנת 1906 נשאה הגימנסיה את עצמה, והיא התקדמה עד 1920.
+
+ דור של נערות יהודיות קיבלו חינוך יהודי טוב למדי במוסד זה.
+
+ בערב ר"ח ניסן תר"פ (18.4.1920) עלתה לארץ.
+
+ מדצמבר 1926 עד לאוגוסט 1953 (עם הפסקות קטנות) עבדה בהתנדבות בלשכה המשפטית של התאחדות נשים לשווי זכויות (עד 1940 בתל-אביב ואח"כ בחיפה).
+
+ בהוראה, כמעט שלא עסקה בארץ, חוץ משעורים שנתנה במשך זמן קצר בבתי-ספר עממיים וזמן מה בשעורים פרטיים לגבירות מבוגרות.
+
+ עסקה בהפצת ספרים, ביניהם האטלס העברי הראשון של אחיה,<persName> זאב ז'בוטינסקי.</persName>
+
+ זמן מה שלחה כרוניקה לשבועון הרביזיוניסטי "רזסויט" בפריז. כתבה כמה מאמרים על החינוך, ושתי ביאוגרפיות פרסמה ב"המשקיף" ו"חרות".
+
+ בנה:<persName> יונה תמיר-קופ </persName> (מהנדס).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3150 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3150</bibl><bibl>Volume: #8 ,Page: 3151 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3151</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

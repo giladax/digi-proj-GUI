@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2359 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2359</bibl><bibl>Volume: #5 ,Page: 2360 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2360</bibl>
+<bibl>Volume: #5 ,Page: 2361 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2361</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם גוטפרוינד</persName>
+
+</head>
+         <div><p> נולד ברזקו (גליציה) ר"ח כסלו תרס"ח (10.10.1907).
+
+ לאביו <persName>חיים</persName> (בעל תעשיה) ולאמו <persName>פייגה </persName> בת אברהם יאסי, מדוברובה.
+
+ קיבל חינוך מסורתי וכללי, בחדר, ובבית מדרש לרבנים בברלין, באוניברסיטה בברלין (כלכלה).
+
+ היה פעיל באגודת המכבי בברלין ובאגודות נוער ציוניים.
+
+ בשנת תרצ''ז (1937) עלה לארץ.
+
+ הקים בתל-אביב בית חרשת לתעשית מעילי גשם מובחרים, והצליח לפתוח שוק בחו"ל.
+
+ כיום הוא מעסיק 150 פועלים ומפיץ את התוצרת שלו ב-14 ארצות בעולם. ומתחרה בתוצרת אנגליה וכו'.
+
+ במיוחד רכש את השוק באמריקה והקים שם משרד להפצת התוצרת.
+
+ בשנה האחרונה, הצליח למכור בחו"ל במטבע זר סחורות בשוה של מיליון דולר.
+
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, כ' חשון תשכ"א (10.11.60)
+
+ (ראה כרך ה', עמוד 2360)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2359 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2359</bibl><bibl>Volume: #5 ,Page: 2360 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2360</bibl>
+<bibl>Volume: #5 ,Page: 2361 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2361</bibl>
+            <bibl>Volume: #11 ,Page: 3882 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3882</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

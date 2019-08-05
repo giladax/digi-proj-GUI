@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4750 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4750</bibl><bibl>Volume: #15 ,Page: 4751 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4751</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוכבד (מריסה) בת-מרים (ז'עלעזניאק)</persName>
+
+</head>
+         <div><p> נולדה בכפר קפליץ (רוסיה הלבנה), י"ד אייר תרס"א (1901).
+
+ לאביה <persName>נחום זעלעזניאק</persName> (חוכר אחוזה), אמה ממשפחת <persName>שניארסון</persName> .
+
+ קיבלה חנוך בחדר, השתלמות עצמית, קורסים פדגוגיים בחרקוב באוניברסיטאות באודיסה ובמוסקבה (רוסיה) (מיסודו של אהרן כהנשטאם).
+
+ שיריה הראשונים נדפסו בתרפ"ג (1923) ב"התקופה".
+
+ בעזבה את ברית המועצות, גרה כמה שנים בצרפת.
+
+ עלתה לארץ בשנת תרפ"ח (1928).
+
+ פרסמה שירים בעיקר בעתון "דבר".
+
+ למן שנת תרצ"ב (1923 פירסמה קבצי שירים: "מרחוק" (1932); "ראיון" (1940); "דמויות מאופק" (1942); :משירי רוסיה" (1942); "ארץ ישראל" (1942); "ארץ ישראל" (1942); "שירים לגיטו" (1943).
+
+ בקובץ "שירים" (הוצאת "ספרית פועלים", רשכ"ג) שזכה בפרס ביאליק תשכ"ד, נקבץ מבחר שיריה. הקובץ מחולק למשורים: א. "מרחוק";
+
+
+ ב. "חמה נושנה"; ג. "חוט שני"; ד. "תפילה": ה. "ארץ-ישראל"; ו. "מדרכה גשומה" ; ז. "רישום" (שירים על אישים); ח. "ראיון"; ט. "דמויות באפק" ; י. "שבכה ברוח": י"א. "צהרי דרך"; יב. "הכרמל"; יג. "חמש ערים", יד. "תל-אביב";
+
+ טו. "בין חול ושמש"; טז. "עגורים מהסף"; יז. "לילה ודין" ; יח ."שירי רוסיה''; יט. "שירי הגטו"; כ. "עקבות בחול"; כא. "בסוגר". הספר מוקדש ל"זוזיק בני - לזכרו". והציורים הנאים המעטרים את הספר הם משל בנה של המשוררת, <persName>זיזיק-נחום</persName> ז"ל (מבעלה לשעבר, הסופר <persName>חיים הזז.</persName> ראה כרך י"ד, עמוד 4483) שנפל במלחמת השחרור, בין הל"ה שיצאו לעזרת "כפר עציון'' (דרומית לירושלים), ונפלו חלל בין הרי ירושלים (נולד בז' חנוכה תרפ"ח - ונפל בכ"ד ניסן תש"ח).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4750 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4750</bibl><bibl>Volume: #15 ,Page: 4751 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4751</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

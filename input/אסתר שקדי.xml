@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3978 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3978</bibl><bibl>Volume: #12 ,Page: 3979 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3979</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אסתר שקדי</persName>
+
+</head>
+         <div><p> נולדה בשנת תרס"ח (2.1.1908) בגרודנה שבפולין. לאביה<persName> יעקב קוליק </persName> ולאמה<persName> גיטל</persName> בת <persName>יצחק שביב.</persName> למדה בבית-ספר תיכון והיתה חברה בהחלוץ-מכבי.
+
+ עלתה לארץ ב-1925 ונתקבלה למשק הפועלות בשכונת בורוכוב והצטרפה לפעילות בארגון ההגנה.
+
+ ב-1927 נישאה למר<persName> יעקב שקדי,</persName> שהיה אז גם הוא מפעילי ההגנה, ובמשך השנים, תוך מילוי חובות רעיה
+
+
+ ואם ועקרת-בית, הוסיפה לתת מזמנה וממרצה לשרות הצבור בעסקנות. השתתפה ביסוד מועדון ויצו ברמת גן ונבחרה כחברה להנהלת ויצו, כנשיאת לשכת בנות ברית "בת עמי" ארגנה ספריה לחיילים בבית החולים בתל-השומר: כחברה בועד למען החייל ברמת גן (כנציגה מארגון חברי ההגנה) ארגנה ספריה מיוחדת לחיילים ; ניהלה מועדון לחיילים ברמת גן ועזרה ליצור בית-חולים שדה בגוש דן בזמן מלחמת הקוממיות ; ניהלה פעולות למען המעפילים שעלו לארץ ולמען העצורים בקפריסין; פעילה כחברה בועד למען היתום מטעם לשכת בנות ברית ליד בית היתומים ברמת גן.
+
+ בניה :<persName> יוסף, יצחק</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3978 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3978</bibl><bibl>Volume: #12 ,Page: 3979 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3979</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

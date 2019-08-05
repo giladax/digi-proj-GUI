@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 215 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/215</bibl><bibl>Volume: #1 ,Page: 216 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/216</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יונה (יוליוס) פרויהליך</persName>
+
+</head>
+         <div><p> נולד במינכן-גלאדבאך (באזור הרהיין) במערבגרמניה. י"ז שבט תרנ"ג (28.1.1893), לאביו ר' <persName>יהודה,</persName>
+
+ רב הקהילה, ולאמו <persName>מרים,</persName> ממשפחת הרב ד"ר מ. <persName>גרונ</persName> <persName>האלד מווינה</persName> . למד בילדותו ראשית לימודי היהדות
+
+
+ בבית הוריו. גמר גימנסיה ממשלתית בהצטיינות. למד רפואה באוניברסיטאות שטראסבורג, היידלברג, ברסלאו, ברלין ופרייבורג. בראשית מלחמת-העולם הראשונה גויס לצבא הגרמני לשרות רפואי בחזיתות, נפצע פעמיים וקיבל אותות-הצטיינות. אחר המלחמה סיים את לימודיו בפרייבורג, הוסמך לדוקטור לרפואה והתישב כרופא פרטי בעיירה אפרינגן בקרבת גבול שווייץ בדרך לבאזל. שם נשא לאשה את ד"ר מרגריתה קאופמאן, שאביה היה מראשוני עוזריו של הרצל.
+
+ עוד בהיותו סטודנט הקשיב פעם לנאום של הפרופ' <persName>היינריך לווה</persName> ומיד נעשה ציוני מסור. השתתף ביסוד חוה להכשרת חלוצים מארקנהוף, יסד קרן יתומי הפרעות מאוקראינה בקייטנות באדן, ארגן וניהל איגוד נוער ציוני בבאזל וערך מסעי תעמולה בגרמניה למען הציונות והשפה העברית, השתתף כציר בועידות השנתיות של ציוני גרמניה ונספח שם לסיעת "הפועל הצעיר".
+
+ באביב תרפ"ה עלה ארצה ולאחר שנה וחצי העלה גם את משפחתו. התישב בתל-אביב, סיגל לו במהרה את השפה הערבית ונמשכו אליו חולים רבים מיפו לבקש עזרתו הרפואית. כששמע לראשונה את<persName> זאב</persName> <persName>ז'בוטינסקי</persName> שוכנע מדבריו, נכנס לתנועתו ונתמנה לנציב בית"ר בארץ-ישראל. סבל בעד הכרתו רדיפות מהצדדים-שכנגד וגם מהשלטונות, היה אסור בעכו וזכה לכינוי "אלוף עכו". השתתף ביסוד קופת-חולים לעובדים לאומיים ונבחר לחבר המרכז ורופא ראשי של קופת-חולים זו והנהיג בה סידורים ושכלולים שונים. עזר ליסוד הסתדרות עובדים לאומית וכיהן כמה פעמים במרכז הצה"ר והצ"ח ובעוד מוסדות וארגונים צבוריים במפלגה ובענינים כלליים.
+
+ הצטרף ב-15.9.25 כאח ללשכת הבנאים החפשים בתל-אביב. בשנות 1928-32 היה נשיאה השלישי של הלשכה "ברקאי".
+
+</p>
+<p>
+
+ תוספות: 
+
+ באדר תש"ט שינה את שם משפחתו: <persName>רון</persName> (ראה כרך א', עמוד 215)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 215 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/215</bibl><bibl>Volume: #1 ,Page: 216 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/216</bibl>
+            <bibl>Volume: #4 ,Page: 2062 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2062</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

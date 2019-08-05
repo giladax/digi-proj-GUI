@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1221 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1221</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי פנחסוביץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פוצ'פ</placeName> פלך צ'רניגוב (אוקראינה), בשנת תרכ"א (1861), לאביו <persName>יוסף</persName> (סוחר יערות, ממשפחת רבנים, מצאצאי ר'<persName> יום-טוב ליפמן הלר</persName> , בעל <persName>תוספות</persName> יום-טוב") ולאמו<persName> רבקה</persName> בת ר' <persName>זלמן מוקרוביץ</persName> . למד בחדרים ובישיבה וגמר גימנסיה ברוסית.
+
+ בשנת תרמ"ד עלה ארצה עם הוריו וכל ביתם והתישבו בפתח תקוה. עזר בבנין הבית והמשק הגדול של הוריו ובפעולות הגנה מפני התקפות הערבים.
+
+ נשא לאשה את <persName>רבקה</persName> בת ר' <persName>זלמן דוד איחילוב</persName> . בתרנ"ו התנחל בראשון לציון ורכש לו שם 72 דונם אדמה.השתתף בחיים הצבוריים של המושבה, והיה בין החותמים על הכתב מכ"ב תמוז תרס"ב, לבטל את כסאות הכבוד בבית-הכנסת בראל"צ המיוחדים בשביל הפקידות.
+
+ היה מנהל בית המרקחת של המושבה
+
+ היה המנהל בפקידות הבארון<persName> בנימין רוטשילד</persName> בעקרון. אח"כ התנחל בראשון לציון והיה שם חבר ועד המושבה ומזכירו בתרס"ז ומנהל-פנקסים ראשי בחברת "כרמל מזרחי" והעמיד תלמידים רבים בניהול פנקסים ובחליפת-מכתבים מסחרית.
+
+ כתב מזמן לזמן ב"החבצלת" וב"השקפה" ורשם
+
+ ביומן את פעולותיו ואת המאורעות שהתרחשו מסביבו בישוב.
+
+ נפטר בפתח תקוה, כ"ז אלול תרפ"ב.
+
+ צאצאיו: <persName>שולמית</persName> אשת שמואל לנדוי (ראשוןלציון), <persName>אברהם, שושנה</persName> (אפריקה הדרומית),<persName> דוד,</persName> <persName>מתתיהו, הימן</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1221 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1221</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

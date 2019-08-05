@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1959 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1959</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דבורה (דריה) סירוט-ברליאבסקי</persName>
+
+</head>
+         <div><p> הצטרפה ברוסיה לתנועת ביל"ו ועלתה בקבוצה הראשונה, של עולי ניקולאייב, בי"ט תמוז תרמ"ב, באניה הרומנית "טטיס".
+
+ היא היתה החלוצה הראשונה במובנו החדיש של השם הזה, אך בתנאים קשים הרבה יותר מאלה שהחלוצות בנות העליה השניה והשלישית נתנסו בהן. בקומונה של הבילויים, שעבדו במקוה ישראל, ניהלה את משק ביתם בדירה ששכרו בבית שבפרדס אנטון איוב. שם, במקום הרחוק מכל ישוב של יהודים או אירופיים, ניהלה משק בית מהפרוטות הדלות שהשתכרו הבחורים בעבודתם, קלטה את תלונותיהם על היחס המעליב והמשפיל מצד המשגיחים הערבים והצרפתים וההנהלה הצרפתית-יהודית, ועודדה אותם להחזיק מעמר ולסבול למען משאת-הנפש וחזון העתיד. על פי רוב בכל זאת לא היתה לבדה בבית, כי כמעט תמיד נשאר שוכב מישהו מהחברים בגלל קדחת, עקיצת עקרב או פגע רע אחר, ונוסף על הכנת אוכל "יש מאין" היה עליה גם לטפל בחולים.
+
+ אחרי פיטורי הבילויים ממקוה ישראל, כשאחדים מהם ניסו לקיים לתנועתם שארית מאורגנת של לומדי מלאכה בשם "שיבת החרש והמסגר" (שה"ו) ועלו להמשיך במשותף את סבלם ומצוקתם בירושלים, עלתה גם היא עמהם. היא התאכסנה בבית<persName> אליעזר בן-יהודה</persName> ויום-יום הלכה לחדר חברי שה"ו בביתו של ר' <persName>ליב</persName> <persName>לומזר </persName> (ראה כרך א', עמוד 334), לסדר את החדר ולבשל להם אוכל.
+
+ אך הנסיון היה קשה מדי, ויחד עם רוב הבחורים לא יכלה גם היא להמשיך בסבל עד לסוף שאינו נראה באופק, - וביום 21.3.1884 יצאה מן הארץ יחד עם <persName>יעקב ברליאבסקי, אפשטיין, בורוכוביץ, מינץ וספקטור</persName> וחזרה לרוסיה.
+
+ ברוסיה נישאה<persName> לברליאבסקי</persName> (ראה את הערך שלו בכרך זה), שגמר את לימודיו הוטרינריים שהפסיקם לפני שנתים לרגל עלותו ארצה. אך הארץ משכה אותם חזרה והם נסעו קודם לאלג'יר, לעבוד ולחסוך כסף לצרכי עליתם בשנית, - ושם חלתה ומתה (תרמ"ה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1959 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1959</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

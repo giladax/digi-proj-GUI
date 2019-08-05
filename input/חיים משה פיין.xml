@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1685 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1685</bibl><bibl>Volume: #4 ,Page: 1686 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1686</bibl>
+<bibl>Volume: #4 ,Page: 1687 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1687</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים משה פיין</persName>
+
+</head>
+         <div><p> נולד בפוניבז', ליטא, ג' תשרי תרל"ד (1874), לאביו <persName>שלום שכנא</persName> (בן תורה, חסיד חב"ד) ולאמו <persName>ביילה רבקה גורדון.</persName>
+
+ למד בחדרים ובישיבה ונמשך לתנועת חיבת ציון.
+
+ בשנת תר"ן עלה לארץ עם אביו והחלו להתאמן בעבודה ביסוד המעלה. האב לא יכול לשאת את קשי העבודה והתקפות הקדחת, ואחרי שמונה חדשי שהותו בארץ חזר לפוניבז', ורק כעבור עשרות שנים, אחרי שנתאלמן מאשתו (נפטרה בפוניבז', א' טבת תר"פ) ואחרי עוד כמה שנים עלה שוב ארצה, לבית בנו במטולה, ושם נפטר בן 88 שנה ביום כ"ב שבט תרצ"ד.
+
+ וחיים משה עבד בפלחה ובמטעי הפרחים של פקידות הבארון ביסוד המעלה בשנותיה הראשונות והצטיין באחד מטובי הפועלים, והחזיק מעמד נגד הקדחת ונגד שידולי בני משפחתו שיחזור לחוץלארץ.
+
+ באביב תרנ''ו נשלח עם המהנדס קאנטור, מפקידות הבארון, למדוד את אדמת מטולה שקנה הבארון מאת בעל אחוזה צידוני בשביל יסוד מושבה על גבול הצפון של הארץ, והמשיכו בעבודתם על אף איומי האריסים הדרוזים תושבי הכפר. אח"כ הוכנס לרשימת המתנחלים, התישב בביתו של השייך הד
+
+ רוזי יוסף אלחג'ר ועל שום כך נקרא בפי הערבים "מוסה אלחג'ר".
+
+ באותו שנה נשא לאשה את<persName> יוכבד</persName> בת ר'<persName> דוד</persName> <persName>אייזנברג</persName> (ממשפחת <persName>נחום סוקולוב</persName> ), ששידך לו ר' <persName>פישל סלומון</persName> מיסוד המעלה, והאשה הצעירה הועלתה למטולה בשיירה של רוכבים חוגגים כמנהג הסביבה.
+
+ התמסר בשקידה לסיקול האדמה ועיבודה יחד עם אשתו ואח"כ עם בניו, ולא פעם קיבל פרסים מפקידי הבארון בעד עבודה חרוצה. השתתף בקרבות נגד הדרוזים ונגד שוסים ותוקפים אחדים והחזיק מעמד בגבורה להגנה על אדמת הגליל. כן עזר והדריך בהקמת ישובים בתל-חי, כפר גלעדי וחמרה. לפני מלחמת העולם הראשונה התנחלה קבוצת יהודים מקרמנצ'וג באדמת תל-חי, והוא ניהל את עבודת הפלחה והדריך אותם, וגם אחרי שהם לא יכלו להסתגל ועזבו את המקום נשאר הוא לעבוד לבדו בנקודה העזובה עד פרוץ המלחמה.
+
+ בזמן המלחמה נלקח לעבודת כפיה באזור חזית הדרום ואשתו וילדיו נשארו בלי משען, עד שחלה במדבר הנגב, ואז בא בנו יהודה ברגל ובסכנת נפשות אל המדבר והחזירו הביתה.
+
+ בעת התמרדות הבידואים נגד הצרפתים בתרע"ט חילק את משפחתו הגדולה (11 בנים ובנות) לשנים: חלק שלח אל חותנו ליסוד המעלה וחלק אל הקרובים לחיפה, והוא ועוד שני אכרים נשארו לשמור על המקום, ורק אחרי שאחד מהם נפצע והלך עם חברו והוא נשאר יחידי וגם אנשי כפר גלעדי עזבו את מקומם, הצטרף אליהם ויצא דרך צידון לחיפה. אך
+
+ כששקטה הארץ חזרו כולם אל האדמה ואל העמל.
+
+ היה מקרב את הפועלים שבאו לעבוד בגליל העליון ועזר להם להסתגל לעבודה. בין העובדים אצלו היו הסופר<persName> ש. צמח </persName> והעסקן <persName>משה קולדני</persName> <persName>(קול)</persName> ועוד.
+
+ במשך שנים רבות היה חבר ועד המושבה ו-15 שנה ניהל את עניני העזרה הרפואית (שהיתה בלתימספקת) והגזברות של המושבה.
+
+ נפטר במטולה, י"ז אדר תש"ו.
+
+
+ צאצאיו: <persName>צבי </persName> (בנהלל), <persName>יהודה </persName> (בנחלת יהודה), <persName>אפרים</persName> (בגבעת עדה),<persName> יוסף </persName> ז"ל (בדגניה א'), <persName>מרדכי</persName> <persName>ובנימין</persName> (שניהם בדרום-אפריקה), <persName>הלל</persName> (בקבוצת השרון, רמת דוד),<persName> חוה</persName> ז"ל אשת<persName> שמעון קרנצר</persName> מכפר אתא (נפטרה מהרעלה בת 28 והשאירה שני בנים), <persName>שרה</persName> אשת <persName>שמעון מונזון</persName> (מורה, מנהל בית-ספר בחיפה), <persName>שלום</persName> (יורש המשק במטולה), <persName>שרגא</persName> (בקרית חיים, קצין בצבא ישראל).
+
+ רבים מנכדיו ומנכדותיו משרתים בצבא ישראל ושנים מהם נפלו בשרות המולדת.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1685 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1685</bibl><bibl>Volume: #4 ,Page: 1686 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1686</bibl>
+<bibl>Volume: #4 ,Page: 1687 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1687</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

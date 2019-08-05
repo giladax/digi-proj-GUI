@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3783 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3783</bibl><bibl>Volume: #11 ,Page: 3784 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3784</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב פלדמן</persName>
+
+</head>
+         <div><p> נולד ברוסיה, בשנת תרנ"ד (1894).
+
+ קיבל חינוך מסורתי.
+
+ עלה לארץ בעליה השניה.
+
+ עבד במלחמיה, וחצי שנה לפני שנהרג, נתקבל בתור שומר ביבנאל (ימה), אח"כ בבית-וגן, הצטיין בשמירה באומץ לב ובמסירות. פעם התנפלו עליו ערבים במכות ורצו להוציא ממנו את נשקו - ולא הצליחו, אף שנפצע.
+
+ בספר "העליה השניה" בעמוד 371 מספר השומר <persName>יעקב מאיר</persName> : בליל חושך ואפלה וגשם שוטף, ישב אצלי בסג'רה השומר <persName>יעקב פלדמן </persName> לפני צאתו לשמירה. שוחחנו על אלה שהיו מטובי החלוצים של העליה הראשונה ועל התנכרותם לצרכי הפועל העברי "השמירה
+
+
+ קשה עכשיו ביותר - אמר<persName> פלדמן</persName> - חוצפת הערבים גדלה והולכת..." לויתי אותו אל המלון שעל יד החצר שלנו, לסעודת ה"הפסקה" עד מחר בצהרים. בעל המלון,<persName> אליעזר נחום,</persName> איש צפת, היה רגיל להיכנס בשיחה לבבית עם השומרים בשעת האכילה. הפעם נתגלגלה השיחה "על שבעונותינו הרבים אין הצעירים שבאו בשנים האחרונות לארץ מקפידים בשמירת השבת". <persName>פלדמן</persName> ענה לו: "מי שעומד שעה אחת מאחורי הקיר
+
+ בליל אופל כלילה הזה - הוא קונה את עולמו", זו היתה שיחתנו האחרונה. כשיצאנו החוצה ופנינו איש לעברו, הוא ל"הקפה" ראשונה ואני לחדרי, אמר : "הלילה אינו שקט... אני מרגיש, שהם כבר מסתובבים כאן''. ונעלם באפילה.
+
+ הרגיש בגנבים מכפר לוביה, שבאו לחנות של חות סג'רה. אחד הגנבים הספיק להכנס לחנות דרך חור שחתר בקיר מתחת לדלת ושקשה היה לו לצאת דרכו. והאחרים עמדו על יד הדלת ושמרו. אילו היו אלה בורחים, כי אז היה הגנב שנמצא בפנים נופל בידי <persName>פלדמן.</persName> הם התחילו לירות על<persName> פלדמן.</persName> ומכיוון שהיה ליל חושך וגשם, לא נזהר וכדור פגע בראשו ויצא דרך העין ומת בו במקום.
+
+ נהרג בשמירת סג'רה, ח' כסלו תרע"ד (7.12.1913).
+
+ אחרי מקרה הרצח, הכריזו חברי השומר והפועלים שביתה ודרשו מהחברה של חות סג'רה - עבודה עברית.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3783 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3783</bibl><bibl>Volume: #11 ,Page: 3784 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3784</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

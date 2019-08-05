@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3522 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3522</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אלעזר בהלול</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קזבלנקה</placeName> (מרוקו) בשנת תר"ט (1849).
+
+ לאביו<persName> משה</persName> ולאמו<persName> זוהרה.</persName>
+
+ קבל חנוך מסורתי בחדר.
+
+ עלה לארץ בגיל צעיר, בשנת תרכ"ב (1862) והתישב בטבריה.
+
+ המשיך ללמוד בישיבה וקיבל סמיכות לרבנות מרבני טבריה.
+
+ נשא לאשה את <persName>רחל</persName> בת חכם<persName> מאיר ניניו.</persName>
+
+ היה חבר הנהלת כולל "מאיר בעל הנס" ונסע פעמיים לחו"ל (לארביסטאן ולמרוקו) בעניני הכולל.
+
+ לקח חלק רב בפיתוח ובנין מוסדות הדת בטבריה
+
+ היה מקובל במוסדות הממשלה התורכית, ועזר ע"י קשריו להתישבות היהודים בטבריה ובגליל.
+
+ נפטר בטבריה, י"א אב תרע"ח (20.7.1918).
+
+ צאצאיו:<persName> נזהה </persName> אשת<persName> שמואל גרבלי, ציון בהלו</persName> (ראה בכרך זה).<persName> לאה,</persName> אשת <persName>רחמים ניניו, נחמן בהלול</persName> <persName>יוסף נסים</persName> ז"ל,<persName> רוזה </persName> ז''ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3522 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3522</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

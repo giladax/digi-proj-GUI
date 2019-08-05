@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4487</bibl><bibl>Volume: #14 ,Page: 4488 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4488</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק הלל</persName>
+
+</head>
+         <div><p> נולד באב תרכ"ו (15.8.1866) בפודול אילווי שליד יאסי, בנסיכות מולדווה (מ-1878 ואילך רומניה).
+
+ לאביו<persName> נפתלי</persName> , ממיסדי ראשון לציון ומראשוני מתנחליה (ראה כרך ה', עמוד 2296) ולאמו <persName>רחל לאה</persName> ב<persName>ת דן.</persName>
+
+ ב-1881 עלה לארץ עם אביו וכל ביתו. המשיך לימודיו בתלמוד תורה ובישיבה בירושלים. אח"כ נכנס לעבודה במשק והתמחה בענפי המטעים. ב-1893 נשא לאשה את <persName>צפורה</persName> בת<persName> משה אברהם</persName>
+
+
+ ויסמן (נולדה ביארוסלאב שבגליציה. עלתה לארץ עם הוריה וכל ביתם ב-1882 והתחננה בבית-ספר בירושלים; נפטרה בראשון לציון ג' חשון תש"ז 28.10.1946).
+
+ פיתח במשקו מטעי גפנים (למאכל וליין) ושקדים והשביח את זניהם. עזר לנוטעים אחרים בעצה ובהדרכה מקצועית, גם ערבים היו פונים אליו מכל הארץ ומשלמים בעד הדרכתו. עבד 18 שנה ביקבי ראשון לציון בטיפוח יצוא היינות. היה ממונהנאמן מטעם הרבנות לפיקוח על הזהירות מהבאת ענבי ערלה ליקב. ניהל יצוא שקדים וצימוקים בהיקף רחב. שימש מעריך מטעם השלטון המנדטורי ליבולי פלחה ומטעים.
+
+ המשיך בדרכי אביו בתור בורר ומשכין שלום בכל מיני סכסוכים, פעיל ומפעיל למעשי צדקה
+
+ וחסד ועזרה למוסדות תורה, עוזר בעצה ובהדרכה בסידורם ובהתנהלותם של עולים חדשים (ביחוד מרומניה), מתמיד בדביקות חסידות באדמו"רים של אביו (מהענף המולדבאי של בית רוז'ין בבוהוש ובאדז'וד, ובארץ האדמו"ר מסאדיגורא), גבאי ביתהכנסת של החסידים בראשון לציון. גם את בניו חינך לידיעת התורה ולדביקות במורשת אבות ולמסירות לפיתוח משק הארץ. וכל עוד איפשרו כוחותיו היה עולה כל שנה לרגל לירושלים, שם זכה לכבוד ולחיבה מצד אנשי התורה והחסידות.
+
+ נפטר בראשון לציון, כ"ג תשרי תשכ"ד (11.10.1963).
+
+ צאצאיו: <persName>פנינה</persName> אשת ר' <persName>שלמה שטאמפר </persName> ז"ל, <persName>חיה-שרה, חנה</persName> ז"ל (גננת),<persName> אסתר, שפרה ברניצקי</persName> (סגנית מנהל סניף ראשון לציון של בנק לאומי לישראל),<persName> נפתלי ומשה </persName> (פרדסנים, ממיסדי חברה ליצוא הדרים).
+
+ השאיר אחריו 7 נכדים ו-6 נינים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4487</bibl><bibl>Volume: #14 ,Page: 4488 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4488</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

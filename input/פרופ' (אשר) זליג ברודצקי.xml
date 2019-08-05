@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2232 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2232</bibl><bibl>Volume: #5 ,Page: 2233 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2233</bibl>
+<bibl>Volume: #5 ,Page: 2234 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2234</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' (אשר) זליג ברודצקי</persName>
+
+</head>
+         <div><p> נולד בכ"ו תמוז תרמ''ח (5.7.1888) באולביופול שבממ
+
+ לכת רוסיה לאביו <persName>עקיבא</persName> ולאמו<persName> אדל</persName> בת הרב<persName> אברהם</persName> <persName>פרובר</persName> . בן 5 יצא עם הוריו ללונדון. למד יהדות בתלמוד תורה ומפי אביו ולימודי חול בבתי ספר עממי ותיכוני ואח"כ בטריניטי קולג' באוניברסיטת קמברידג' ובאוניברסיטת לייפציג במתימטיקה והוסמך לדוקטור. המשיך בעבו
+
+
+ דה מדעית ונתמנה לפרופסור למתימתיקה באוניברסיטת בריסטול ומ-1920 באוניברסיטת לידס שבאנגליה.
+
+ ב-1919 נשא לאשה את<persName> מלכה</persName> בת <persName>פאול ברנבלום.</persName>
+
+ השתתף בתנועה הציונית, בתנועת המכבי ובחיי הצבור היהודי באנגליה. השתתף בכל הקונגרסים הציוניים מ-1921 ואילך וחבר הנהלת ההסתדרות הציונית העולמית וחבר הנהלת הסוכנות היהודית מ-1928 ואילך. היה נשיא הפדרציה הציונית באנגליה ונשיא ועד שליחי הקהלות בשנות 1949-1940, נשיא הסתדרות המכבי העולמית בשנות 1950-1935 ומאז נשיא-כבוד.
+
+ השתתף בהרבה ועידות בינלאומיות למתימטיקה ובועידות בינלאומיות של אוניברסיטאות. פרסם הרבה מאמרים על נושאים מדעיים וציוניים.
+
+ ביקר בארץ ב-1925 לרגל פתיחת האוניברסיטה העברית ועוד תשע פעמים לרגל תפקידיו כחבר הנהלת הסוכנות וכנשיא המכבי, ומשנבחר לנשיא האוניברסיטה העברית עלה ארצה ב-1949 והשתקע בירושלים.
+
+ צאצאיו: בנו <persName>פאול</persName> ובתו <persName>אדל</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2232 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2232</bibl><bibl>Volume: #5 ,Page: 2233 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2233</bibl>
+<bibl>Volume: #5 ,Page: 2234 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2234</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

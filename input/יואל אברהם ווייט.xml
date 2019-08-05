@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2585 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2585</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יואל אברהם ווייט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פולניה</placeName> בשנת תר"ב (1842).
+
+ לאביו <persName>משולם זלמן</persName> ב"ר <persName>יואל אברהם ווייט </persName> (נפטר כ"ב טבת תרנ"ה).
+
+ קבל חנוך מסורתי וכללי. נשא לאשה את <persName>שרה</persName> בת<persName> גדליה אקסלר</persName> , ילידת עכו.
+
+ עלה לארץ מפילדלפיה (ארצות הברית) בשנת תרמ"ג (1883) יחד עם משפחתו והתישבו בירושלים. הביא עמו הון רב ופתח בית מסחר למכירת בגדים מוכנים לגברים ולילדים בירושלים, את הסחורות היה מביא בימים ההם מקונסטנטינופול וגם מוינה.
+
+ בית המסחר התנהל ע"י בנו<persName> יצחק</persName> וחתנו<persName> יצחק ספיר</persName> (בן בנימין זאב, ונכדו של רבי יעקב הלוי ספיר, בעל הספר "אבן ספיר", ראה כרך ב' עמוד 559).
+
+ היה ירא שמים ובעל צדקה גדול. בפי בני ירושלים נודע בתור ''הנדיב מאמריקה". בעיק, הגיש עזרה לתלמידי חכמים נצרכים - במתן בסתר.
+
+ הפריש בקביעות אחוז ניכר מרוחיו ואף מהונו לישיבות ולתלמידי תורה. כשמסר את עסקו לבנו וחתנו הנ"ל, התנה תנאי, כי בית המסחר ישלם 400 פראנק לחדש (סכום גדול למדי באותם הימים) לכמה מוסדות בירושלים. חוץ מזה כלכל 12 תלמידי חכמים חשובים על מנת שיהיו פטורים מעול פרנסה ויתייחדו ללמוד תורה.
+
+ בשנת 1908 עזב את העיר ועבר לכפר, למושבה פתח-תקוה, נטע את אחד הפרדסים הראשונים במושבה, ובמעשהו זה שימש דוגמא, ומופת ליהודים חרדים אחרים שנטשו את חיי העיר ועברו לחיות בכפר ולעבוד את אדמת הארץ. עבד בעצמו במעדר, טיפח והשקה כל עץ ועץ. הקפיד על קיום השמיטה ולא נרתע מכך בגלל הפסד ממון.
+
+ נפטר בירושלים, כ' ניסן תרע"ד (16.4.1914).
+
+ צאצאיו:<persName> בנימין, צבי</persName> (הרי), <persName>אסתר</persName> אשת <persName>יצחק</persName> <persName>ספיר, רחל</persName> אשת <persName>ישראל רובינשטיין, בלומה</persName> אשת <persName>חיים</persName> <persName>קלינסקי, יצחק</persName> (ראה בכרך זה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2585 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2585</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

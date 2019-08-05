@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3518 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3518</bibl><bibl>Volume: #10 ,Page: 3519 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3519</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחמה פייגה וסרמן</persName>
+
+</head>
+         <div><p> נולדה בירושלים בשנת תרל''ח (1878).
+
+ לאביה ר'<persName> חיים סלנט </persName> (בן הרב<persName> אורי שבת דיין</persName> . דיין בבית הדין הראשון של עדת האשכנזים בירושלים,
+
+ מיסודו של גיסו הר' <persName>שמואל סלנט,</persName> רבה של ירושלים. שניהם היו חתניו של הר'<persName> יוסף זונדל סלנט.</persName> ראה כרך א' עמוד 284). ולאמה<persName> באשה </persName> (כרך ז' עמוד 2619) בת <persName>מאיר מנדלמן </persName> מהמתישבים הראשונים מחוץ לחומת ירושלים, לפני מאה שנה בבתי יהודה טורא ב"משכנות" שאננים", מיסודו של משה מונטפיורי. אחות ר' <persName>יחזקאל</persName> <persName>מנדלמן </persName> הרוקח במשגב לדך וממיסדי שכונת בית ישראל. (כרך ז' עמוד 2918).
+
+ היתה נשואה לר'<persName> אליהו צבי וסרמן.</persName> גרו כמה שנים בקהיר. ביתם היה ידוע למקום "הכנסת אורחים" בלי כל תשלום, וכשר אף למהדרין, לבאים מצרימה למען מוסדות ירושלים או נשוכי כלבת לפני היות מכון פסטר בירושלים.
+
+ בשובם לארץ היתה להם חנות מכולת ברחוב יפו בשכונת "אבן ישראל".
+
+ בשנת תרע"ג (1913) נפטרה בגיל צעיר.
+
+ בנה היחיד: <persName>יוסף זונדל וסרמן </persName> (כרך ה' עמוד 1645).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3518 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3518</bibl><bibl>Volume: #10 ,Page: 3519 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3519</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

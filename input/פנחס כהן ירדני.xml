@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1424 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1424</bibl><bibl>Volume: #3 ,Page: 1425 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1425</bibl>
+<bibl>Volume: #3 ,Page: 1426 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1426</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פנחס כהן-ירדני</persName>
+
+</head>
+         <div><p> נולד בזכרון יעקב, ו' תשרי תרמ"ח,(24.9.1887), לאביו <persName>אלעזר</persName> (מראשוני המתנחלים במטולה) ולאמו <persName>בתיה</persName> בת הרב <persName>פנחס שכטר</persName> (רב בזכרון יעקב בשנותיה הראשונות). למד בבית-הספר במטולה, במקוה ישראל, בביה"ס הגבוה לחקלאות בברלין והוסמך לאגרונום ומורה למדעי הטבע.
+
+ ב-1907 יסד בחיפה את בית-הספר העברי "אבטליה", שהתפתח אח"כ לביה"ס הריאלי, וממשיך להורות בו מראשיתו.
+
+ ב-1909 נשא לאשה את <persName>מרים</persName> בת <persName>משה רפאלקס</persName> (אחות העו"ד ד"ר נ. י. רפאלקס-ניר).
+
+ השתתף ביסוד שכונת בת גלים בחיפה, ביסוד תנועת הצופים והמשוטטים בארץ להכרת ידיעת הארץ, וגם "לחיזוק הסדר והמשמעת בין החברים" - הכנה להכשרה צבאית, ששימשה אסכולה לרבים מחברי ההגנה והבטחון בארץ וביניהם גם יעקב דורי (דוסטרובסקי) ראש המטה הכללי של צבא ההגנה לישראל. וביסוד הקייטנה לילדים "בית שרה וילבושביץ" על הר הכרמל (שנוסדה מעזבונו של המהנדס גדליהו ויל
+
+
+ בושביץ על שם אמו שרה). משתתף בעריכת הירחון "הטבע והארץ" ופרסם בו מאמרים מדעים. פרסם מאמרים ורשימות בספרות יפה בעתונים ובכתבי-העת השקפה, דאר היום, העומר, פרחים, בן ארצי, במעלה, הזמן, הארץ, דבר, בוסתנאי, עתידות. פרסם את הספרים "בעלי החיים בטבע ובשביה", "'מורה דרך בארץ
+
+ ישראל" (יחד עם<persName> דוד בנבנישתי)</persName> וספר-לימוד לביאולוגיה בשני כרכים לבתי-הספר התיכוניים.
+
+ חבר הנשיאות של החברה הבוטנית בא"י.
+
+ צאצאיו; <persName>ירדנה </persName> (רקדנית בריקודים תנ"כיים),<persName> גדעון</persName> (אגרונום),<persName> רות </persName> (מורה).
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בחיפה, י''ח תמוז תשט''ז (27.6.56) (ראה כרך ג', עמוד 1425) 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1424 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1424</bibl><bibl>Volume: #3 ,Page: 1425 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1425</bibl>
+<bibl>Volume: #3 ,Page: 1426 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1426</bibl>
+            <bibl>Volume: #8 ,Page: 3190 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3190</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

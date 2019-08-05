@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 2008 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2008</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל שפן</persName>
+
+</head>
+         <div><p> לאביו <persName>דב </persName> ולאמו <persName>לאה</persName> לבית<persName> גרינבלט</persName> . נולד בשנת תרס"ד (4 ביולי 1904) בעיירה קזטין במחוז ברדיצ'ב (רוסיה).
+
+ גמר בית ספר תיכוני ברוסיה, והצטרף לתנועה הציונית עם שחר ילדותו בהשפעת אחותו הבכורה וגיסו <persName>רבקה ויעקב בוקשטין</persName> (ראה כרך ב', עמוד 637).
+
+ הצטרף ל"החלוץ" והיה בין מיסדי גדוד העבודה שהוקם בירצובה (פלך סמולנסק) ובראש הקבוצה הזאת עלה ארצה דרך טורקיה, בה שהו זמן קצר ב"מסילה חדשה" (המושבה היהודית) והגיע ארצה באפריל 1923.
+
+ היה בין בוני עין-חי (כפר-מל"ל). בשנת 1924 היה בין ראשוני "חבורת בנין" בתל-אביב מיסודו של "הפועל הצעיר" שמתוכה יצאו חברים התופסים עמדה בתנועת העבודה.
+
+ ב-1929 יצא להשתלמות בלימודים בחו"ל, גמר את האוניברסיטה בברוסל אשר בבלגיה וקיבל את התואר של מוסמך למדעי כלכלה וכספים ורואה חשבון מוסמך.
+
+ היה בין מיסדי התנועה הצרכנית הקואופרטיבית בארץ ועומד בראש המוסד המרכזי שלה - ברית פקוח לקואופרציה צרכנית בע"מ משנת 1923 עד היום. חבר הנהלת "המשכיר המרכזי". סגן נשיא של אגודת רואי חשבון ומבקרים בישראל.
+
+ נבחר בתור סגן למועצת ההסתדרות מטעם מפא"י.
+
+ ב-1933 נשא לאשה את<persName> צפורה</persName> בת <persName>ראובן ורחל</persName> <persName>קמזון.</persName>
+
+ בנו: <persName>גדעון</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 2008 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2008</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

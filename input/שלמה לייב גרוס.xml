@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3795 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3795</bibl><bibl>Volume: #11 ,Page: 3796 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3796</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה לייב גרוס</persName>
+
+</head>
+         <div><p> נולד בעיר כשנוב (פולין), י"ב אדר תרע"ד (8 במאי 1914).
+
+ לאביו ר'<persName> ישכר-דב</persName> ולאמו<persName> מלכה-פרל </persName> בת הרב<persName> דב</persName> <persName>בריש ויידנפלד</persName> . אביו שהתיחס על בית הרבי מרדומסק, היה סוחר
+
+ ספרי רומ"ל וחנותו היתה בית-ועד לחכמים, שבאו לשם לשמוע מפיו אמרי-שפר ומילי דחכמים. סבו מצד האב,<persName> ר' אפרים הלוי זיידנר-גרוס</persName> , היה בעל בית-דפוס גדול בבנדין והדפיס בו את ספריו של הרבי מרדומסק : "תפארת שלמה", "חסד לאברהם" ו"כנסת יחזקאל" ו
+
+
+ עוד. ואילו סבו מצד האם, ר' אברהם-אבא מנדלבוים, היה סוחר-עצים ידוע וכיהן כראש-הקהל בטשביניה, שרבנים וגדולים היו מתאכסנים בביתו.
+
+ קיבל חינוך יהודי-מסורתי כתלמיד ישיבת הרב<persName> דב</persName> <persName>בריש ויידנפלד</persName> , האדמו"ר מטשביניה (פולין) והשכלה תיכונית כללית.
+
+ היה חבר פעיל בתנועה הציונית בעירו כשנוב ובקרקוב (פולין).
+
+ בשנת 1933 עלה לארץ ומכהן כעובד-מדינה בכיר בתפקיד פקיד שומה למפעלים גדולים (פשמ"ג) תלאביב.
+
+ בעל תוארים: רואה חשבון C.P.A. )Israel(וכן F.E.A.A.
+
+ פרסם מאמרים ורשימות על נושאים כלכליים ופיסקליים וכן קיצור תולדות הכלכלה (בעברית) בתקופת המנדט.
+
+ בשנת תרצ"ט (1939) נשא לאשה את <persName>שושנה </persName> בת ר'<persName> ברוך-אריה שצליסקר</persName> והקים את ביתו בתל-אביב.
+
+ היה פעיל בשעתו ב"הגנה" ובצה"ל. חבר ותיק במיסדר "הבונים החפשים" בו מילא תפקידים חשובים, וכן חבר פעיל במיסדר "בני-ברית" ומכהן בו בתפקיד נשיא הלשכה ע"ש <persName>שמעון רוקח</persName> תל-אביב.
+
+ חבר הועד המרכזי של לשכת רואי-חשבון בישראל וכן חבר המערכת של בטאונם "רואה-החשבון".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3795 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3795</bibl><bibl>Volume: #11 ,Page: 3796 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3796</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

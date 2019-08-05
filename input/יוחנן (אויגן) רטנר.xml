@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2174 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2174</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוחנן (אויגן) רטנר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אודיסה</placeName> (רוסיה) בשנת תרנ"א (14.7.1891) לאביו <persName>חיים </persName> ולאמו<persName> אסתר</persName> בת <persName>נפתלי פרץ.</persName>
+
+ חינוך תיכוני קבל בגימנסיה רוסית ב<placeName>אודיסה</placeName> ובגימנסיה גרמנית במאנהיים. המשיך בבית-הספר הגבוה הטכני בקרלסרוה (גרמניה) ושם קבל את התואר ארכיטקט. בשנת 1923 עלה ארצה ונתקבל כפרופיסור בטכניון
+
+ בחיפה. יחד עם עבודתו בהוראה הוא פעיל בחיים הצבוריים היהודיים. שמש כל השנים כיועץ הסוכנות היהודית להקמת ישובים חקלאיים ולשאלת בטחון. בשנים ה1938-1939 הוא ראש המפקדה הארצית של ההגנה ובשנת 1947 חבר הפיקוד העליון.
+
+ עם הקמת צבא ההגנה לישראל הוא ראש אגף במטה הכללי. אח"כ נספח צבאי ליד הצירות הישראלית בברית המועצות. דרגתו הצבאית: אלוף.
+
+ בין הבנינים אשר הקים: בנייני המסודות הלאומיים בירושלים, מלון "עדן" בירושלים ועוד.
+
+ פרסם מאמרים מקצועיים בעברית, צרפתית, אנגלית.
+
+ בשנת 1933 נשא לאשה את <persName>אורה</persName> בת<persName> דוד ווייל.</persName>
+
+ בניו: <persName>דוד, מיכאל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2174 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2174</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

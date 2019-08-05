@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4237 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4237</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שלום נתן רענן-קוק (פריש-הירשנביין)</persName>
+
+</head>
+         <div><p> נולד בשבלן (ליטא), כ"ו מנחם אב, תר"ס (21.8.1900).
+
+ לאביו הרב <persName>יעקב אלעזר</persName> בהרב<persName> נתן פריש </persName> ולאמו <persName>צסנא </persName> בת ר'<persName> יעקב בני</persName> .
+
+ קיבל חינוך מסורתי בחדרים ובישיבות: שבלי, ויטובסק, פוניבז וסלובודקא.
+
+ בשנת תרפ"ד (1924) עלה לארץ.
+
+ המשיך ללמוד בישיבת מרכז הרב בירושלים.
+
+ כל השנים עזר להרב הראשי, הגאון<persName> אברהם יצחק</persName> <persName>הכהן קוק </persName> זצ"ל.
+
+ בשנת תרפ"ח (1928) נשא לאשה את<persName> בתיה מרים</persName> בת הגאון<persName> א. י. ה. קוק </persName> זצ"ל (ראה כרך א', עמוד 66).
+
+ כיום, ר"מ ומנהל ישיבת רבנו <persName>הראי"ה קוק </persName> בירושלים.
+
+ בשנת תשט"ז (1956) ביקר בארצות הברית וקנדה בעניני הישיבה.
+
+ צאצאיו:<persName> צפורה רחל</persName> אשת הרב <persName>מרדכי יהודה הלוי,</persName> <persName>אברהם יצחק </persName> ז"ל (היה עילוי. נספה כ"ג מנחם אב תשי"ט. לזכרו נדפס ספרו "לחי ראי"), הרב <persName>אליהו שלמה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4237 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4237</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

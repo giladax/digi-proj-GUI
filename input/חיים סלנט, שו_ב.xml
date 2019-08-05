@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3531 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3531</bibl><bibl>Volume: #10 ,Page: 3532 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3532</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים סלנט, שו"ב</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת תרע"ב (1912).
+
+ לאביו ר'<persName> יוסף משה </persName> ולאמו<persName> באשה </persName> בת הרב <persName>אורי</persName> <persName>שבתי דין</persName> מבית דין צדק הראשון ב<placeName>ירושלים</placeName>, חתן הרב <persName>יוסף זינדל סלנטר</persName> , מיסד המוסר (ראה כרך ו', עמוד 261 וכרך א', עמוד 284).
+
+ אבי זקנו ר' <persName>חיים </persName> היה מהמשגיחים הראשונים לכשרות בבית המטבחים מטעם ועד השחיטה ב<placeName>ירושלים</placeName>.
+
+ קיבל חנוך מסורתי בת"ת "עץ-חיים" ובישיבת סלובודקה (בחברון וב<placeName>ירושלים</placeName>).
+
+ בשנת תרפ''ח (1928) הוכתר לשוחט מהבית דין צדק ב<placeName>ירושלים</placeName> בראשותו של הרב הראשי, הרב <persName>הרצוג.</persName>
+
+ השתלם גם בהנהלת פנקסים.
+
+ נשא לאשה את <persName>יפה</persName> בת ר'<persName> יוסף פרומקין</persName> (אחת המשפחות הותיקות בטבריה).
+
+ עבר לגור בטבריה. החל לעסוק במסחר והיה סוכן לבתי חרושת שונים לטבריה והסביבה.
+
+ בשנת תר"ץ (1930) נתקבל בתור שו"ב ומזכיר במושבה "מנחמיה". שימש בתור שוחט גם לנקודות הסמוכות "אשרות יעקב", "נהרים", "בית יוסף" ו"עין גב".
+
+ קיבל מנוי מהרבנות הראשית לארץ-ישראל, לסדר קדושין במנחמיה והסביבה.
+
+ בשנת תרצ"ז (1937) עבר לעבוד בתפקידים הנ"ל ב"גבעת עדה" שע"י בנימינה.
+
+ צאצאיו: <persName>שושנה, בתיה</persName> .
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3531 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3531</bibl><bibl>Volume: #10 ,Page: 3532 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3532</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

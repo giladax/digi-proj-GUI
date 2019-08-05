@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1952 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1952</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גור-אריה טרלו</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רובנה</placeName> (פולין), בשנת תרנ"ג (7.12.1893), לאביו <persName>צבי יצחק</persName> (מתיחס למהר"ל מפראג), ולאמו<persName> לאה</persName> למשפחת<persName> ברלין.</persName>
+
+ גמר גימנסיה והשתלם באוניברסיטאות ג'נף ורוסטוב בתורת המשפטים.
+
+ בשנת 1920 נשא לאשה את <persName>פני </persName> בת <persName>יוסף המר</persName> <persName>חרמוני.</persName>
+
+ היה פעיל בחו"ל במפלגת צ. ס. התאחדות. היה יו"ר מרכז המפלגה בגליציה המערבית ושלזיה. היה שם מנהל קרן היסוד.
+
+ השתתף בחמשה קונגרסים ציוניים.
+
+ בשנים 1925, 1927, 1931 בקר בארץ כתייר ובשליחות המפלגה. בשנת 1935 עלה על מנת להשתקע.
+
+ התישב בירושלים. שימש כמנהל קופת מלוה של הסתדרות העובדים בירושלים. מנהל מחלקת המושבות של מס חירום על יד הועד הלאומי. מנהל מגבית ההתגיסות וההצלה בירושלים.
+
+ בשנים האחרונות היה חבר ועד הקהלה בירושלים. כעת הוא מרכז ההנהלה של המגבית המאוחדת לישראל (הסוכנות, קק"ל, קהי"ס, הבטחון ועליית הנוער).
+
+ בנו: <persName>צבי יצחק.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1952 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1952</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

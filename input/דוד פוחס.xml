@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4313 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4313</bibl><bibl>Volume: #13 ,Page: 4314 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4314</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד פוחס</persName>
+
+</head>
+         <div><p> נולד ביגרליק (רוסיה) בשנת תרנ"א (1891). לאביו <persName>דב פנחס</persName> ולאמו<persName> יונה</persName> בת<persName> זלמן ניאירנר</persName> . קיבל חינוך מסורתי וכללי, בי''ס עממי וגימנסיה, מקומית.
+
+ היה חבר באגודת "צעירי ציון" ופעיל באירגונים ציוניים.
+
+ בשנת 1908 עלה לארץ.
+
+ עבד בחקלאות עם ברל כצנלסון, בן-גוריון ועוד.
+
+ מהמתנדבים הראשונים לגדוד העברי בסוף מלחמת העולם הראשונה.
+
+ כחייל בגדוד העברי עסק ברכש של נשק עבור ההגנה.
+
+
+ הלה חבר ועד המושבה עין-גנים (פתח-תקוה). עסק בחקלאות. נטע פרדסים בפתח-תקוה.
+
+ היה נציג פועלי פתח-תקוה לוועידת היסוד של ההסתדרות הכללית.
+
+ בין מניחי היסוד של קופת-חולים של ההסתדרות.
+
+ ב-5 למאי 1921 היה מפקד קו עין-גנים בהתנפלות הערבים על פתח-תקוה (במאורעות מאי, 1921).
+
+ בכ''ה אב, תרפ''ד (25.8.1924) נשא לאשה את<persName> חיה</persName> בת<persName> בן-ציון גלוזמן.</persName>
+
+ היה חבר ההגנה כל השנים. אחראי על אזור עיןגנים.
+
+ נפטר בבית החולים בילינסון, ט"ז תמוז, תשי"ז (15.7.1957).
+
+ צאצאיו;<persName> יצחק </persName> ז"ל (ראה הערך שלו בכרך זה), <persName>דב </persName> (מורה לספורט, חניך ווינגייט),<persName> צופיה, דליה</persName> אשת <persName>יקר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4313 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4313</bibl><bibl>Volume: #13 ,Page: 4314 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4314</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

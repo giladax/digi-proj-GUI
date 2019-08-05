@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3171 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3171</bibl><bibl>Volume: #8 ,Page: 3172 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3172</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר פרמינגר</persName>
+
+</head>
+         <div><p> נולד בשנת תר"פ (13.4.1920) בוינה בירת אוסטריה, לאביו<persName> הלל </persName> (פקיד) ולאמו <persName>מלכה</persName> בת <persName>אהרן גולדברג</persName> (יהודים שומרי מסורת שבראשית מלחמת העולם הראשונה נמלטו מגליציה לוינה והשתקעו בה).
+
+ למד בבית-ספר עממי יהודי ובגימנסיה בוינה. גדל באוירה מסורתית בבית ההורים, ומחוץ לבית היה מגיל 14 חבר פעיל בנוער הקומוניסטי.
+
+ אחרי גמר לימודיו בגימנסיה עלה לארץ ב-1938 והתחיל ללמוד הנדסה בטכניון בחיפה. היה חבר בהסתדרות העובדים הכללית ובמפלגה הקומוניסטית ועבר במזכירות המרכז של הנוער הקומוניסטי. שירת בהגנה בפלוגת הסטודנטים בחיפה ובנוטרות במשטרת הרכבותי אחרי לימודיו עבד בתור מודד-משרטט.
+
+
+ בעת הפילוג במפלגה ב-1943 יצא הוא עם חבריו לדעה מהמפלגה הקומוניסטית המשותפת לערבים וליהודים, ש"בינלאומיותה" התבטאה בהתנגדות ובאיבה ללאומיות העברית, והתארגנו במפלגה הקומוניסטית העברית, שבשאלות כלכליות דגלה בתורה הקומוניסטית ומבחינה מדינית הזדהתה עם השאיפות והתביעות הלאומיות של יתר היהודים בארץ. היה המזכיר וחבר המרכז של המפלגה החדשה וערך את שבועונה "אחדות".
+
+ ב-1946 נשא לאשה את<persName> מרים</persName> בת<persName> יוסף קורנשטיין.</persName>
+
+ בשנים 1948-1947 יצא פעמים בשליחות המפלגה הקומוניסטית העברית לארצות אירופה המזרחית והמערבית, כדי להסביר לחברים שם את עמדתה החיובית של מפלגתו לגבי הציונות, העליה והמדינה, ועזר במידה ניכרת לרכישת אהדה והבנה לישראל במקומות ובחוגים שנשלח אליהם.
+
+ נבחר לכנסת הראשונה מטעם הרשימה הקומוניסטית, וכשהצטרפו הקומוניסטים העברים למפ"ם (ספטמבר 1949) עבר לסיעת מפ''ם בכנסת, והיה חבר בועדת הכלכלה ובועדת השרותים הצבוריים של הכנסת.
+
+ משהצטרפה מפ"ם לממשלה אחרי הבחירות לכנסת השלישית נתמנה לסגן המנהל הכללי במשרד הפיתוח.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3171 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3171</bibl><bibl>Volume: #8 ,Page: 3172 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3172</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

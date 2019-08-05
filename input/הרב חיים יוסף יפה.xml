@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3626 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3626</bibl><bibl>Volume: #10 ,Page: 3627 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3627</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב חיים יוסף יפה</persName>
+
+</head>
+         <div><p> "המגיד מוועקשנה" נולד בזאג-חדש, פלך קובנה, בשנת תקפ"א (1821). קבל חנוך מסורתי והוסמך לרב.
+
+ היה אחד המטיפים הלאומיים הראשונים של "חובביציון", שנודע בכינוי "המגיד מוועקשנה".
+
+ היה דורש מטעם "חובבי ציון" בווילנה : בבתי תפילה בעיר ובסביבה. עשה נפשות רבות לתנועת חיבת ציון
+
+ בכל רחבי רוסיה ע"י דרשותיו המלהיבות. ביחוד הגדיל לעשות עם אישור "חברת התמיכה לבני ישראל עובדי אדמה ובעלי מלאכה בסוריה ובא"י" (תר"ן-1890).
+
+ נשא לאשה את <persName>מלכה </persName> בת <persName>משה הכהן</persName> (נפטרה בתלאביב, ט' תמוז תרס"ו-2.7.1906).
+
+ בשנת תרנ"ג (1893) עלה לארץ והתישב ברחובות.
+
+
+ היה ממיסדי המזשבה רחובות. קנה כרם ובנה לו בית. כאשר הופיע בפני הקהל, היו גם בני הנעורים והפועלים שבמקום אצים לשמוע את דרשותיו, אשר אמרו עליו, כי פיו מפיק מרגליות.
+
+ נפטר בירושלים, י"ב טבת תרס"ב (22.12.1901). צאצאיו :<persName> רבקה מלכה</persName> אשת <persName>אריה ליב הורביץ</persName> (ראה כרך א', עמוד 446),<persName> יצחק זאב, ישעיהו, אברהם זלקינד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3626 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3626</bibl><bibl>Volume: #10 ,Page: 3627 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3627</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

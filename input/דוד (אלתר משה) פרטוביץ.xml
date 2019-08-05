@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3515 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3515</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד (אלתר משה) פרטוביץ</persName>
+
+</head>
+         <div><p> נולד באייר תרל"ב (1.5.1872) בסובאלק שבפולין.
+
+ לאביו <persName>זאב </persName> (בעל טחנה) ולאמו<persName> איטה הינדה </persName> בת <persName>שמואל</persName> <persName>וינקלר</persName> מאוגוסטוב-סובאלק.
+
+ למד בחדרים ובישיבות והשתלם בלימוד עצמי בהשכלה כללית.
+
+ נשא לאשה את <persName>שרה רבקה</persName> בת<persName> ליב ברוקלה</persName> . (נפטרה כ"ה תשרי תרע"ו - 3.10.1915).
+
+ היה בוארשה קבלן להספקת מזון לצבא הרוסי וחבר פעיל ב"חובבי ציון".
+
+ ב-1911 יצא לקנדה ויסד מכבסה בעיר ויניפג. שם היה פעיל באגודת "תיאודור הרצל" ובאגודות אחרות שפעלו למען ארץ-ישראל ובאגודת-אחים "בני אברהם". עבר לדטרויט שבארה"ב. שם המשיך בעסקיו ובפעילות ציונית, וכן בענינים יהודיים מקומיים באגודת-אחים "בני לוד''.
+
+ צאצאיו: <persName>אהרן ליבוש (לואיס) </persName> (ראה בכרך זה), לאה אשת <persName>מכס מרכס, חיה </persName> אשת<persName> קלייד גולדשטיין.</persName>
+
+ אחיו <persName>יצחק צבי רויזמן</persName> (ראה כרך ח', עמוד 3116).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3515 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3515</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

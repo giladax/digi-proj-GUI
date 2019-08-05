@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3485 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3485</bibl><bibl>Volume: #10 ,Page: 3486 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3486</bibl>
+<bibl>Volume: #10 ,Page: 3487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3487</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם סוקוליק</persName>
+
+</head>
+         <div><p> נולד בחשון תרמ"א (15.11.1880) בעיירה זביניגורודקה שבאוקראינה.
+
+ לאביו ר' <persName>שלמה מיכאל </persName> (ממשפחת "הסבא משפולה") ולאמו<persName> איידל </persName> בת ר' <persName>עזריאל זיידנשנור.</persName>
+
+ נוסף לחינוכו המסורתי שכר לו אביו מורים ללימודי חול, הנחוצים לחיי המעשה. בבחרותו היה מנהל הטחנה של <persName>טוביה מוסייביץ</persName> , שהיה ציר יהודי ב"דומה" הרוסית (הפרלמנט במשטר הצארי ממהפכת 1905 ואילך). אח"כ היה מנהל בפירמה "רוטבאום את קסיה" ונסע בשליחותה בכל רחבי רוסיה, וב-1907 נתמנה למנהל סניפה בווארשה.
+
+ ב-1911 נשא לאשה את <persName>מלכה</persName> בת ר' <persName>אייזיק פלבסקי</persName> מווארשה (מראשוני חובבי ציון וכותב ב"הצפירה" של סוקולוב) ובאמצעות חותנו (שהוריו עלו לארץ בשנת תרע"ב) נתקרב לפעילות בתנועה הציונית ולמען קרנותיה
+
+ והיה ממיסדיו וגבאיו של בית-הכנסת הציוני "שער ציון".
+
+ אחרי מלחמת העולם הראשונה, כשפסקו עסקי הפירמה הרוסית הגדולה ברוסיה בכלל ובווארשה בפרט, פנה ר' <persName>אברהם</persName> לעיסוקים אחרים : תעשית כפפות, מסחר סיטוני בכלי זכוכית, ניהול משרד לנאמנות ולניהול בתים.
+
+ כשקרבו ימי חותנו למות צווה עליו לחסל את עסקיו בווארשה ולעלות עם המשפחה לארץ-ישראל. ומיד אחרי מות החותן, בחורף תרפ"ב (1922), עלה עם בני ביתו וחותנתו האלמנה והשתקעו ביפו, ולעצת ר'<persName> זרח ברנט</persName> ור' <persName>ליב מינדלין </persName> פתח מלון בביתו של <persName>עבד אל-רחמן</persName> <persName>טיבג'י</persName> ביפו.
+
+ בית מלונו שימש אכסניה ראשונה לעולים שהגיעו ליפו, ושהיה מדריכם בעצה טובה, ומקום מפגש לותיקי השומרים עם מכריהם הערבים ולגואלי הקרקעות (ר' <persName>יהושע חנקין, גד מכנס</persName> וכו') עם נכבדי הערבים, בעלי קרקעות וסרסורי קרקעות מיפו וממקומות אחרים, ולא פעם נחתמו במלון הקטן חוזים לגאולת שטחי קרקע גדולים. ובמקרים רבים עזר בקשירת הקשרים וסירב לקבל דמי תיווך כלשהם, כי המצות לגאולת האדמה לא היתה לו סחורה למכירה בכסף.
+
+ כשפרצו מהומות תרפ"ט והיהודים מהאזורים המעורבים ביפו נדרשו לעבור לאזורים יהודיים בגבול תל-אביב, סירב מתוך בטחון בה' ובשער הברזל של הבית שעמד איתן בפני התקפות הפורעים, אך משכלתה רגל יהודית מהסביבה ואורחים יהודים חדלו לבוא לבית מלונו, העביר את דירתו ומלונו לתל-אביב והמשיך לנהלו עד סוף ימיו.
+
+ היה בין ראשוני המיסדים והתומכים במוסדות לתורה ולצדקה וחסד. הירבה במתן בסתר אף למעלה מיכלתו, וב"עסק" הצדקה אף שימש מתווך בין מכריו ומוקיריו ובין משפחות זקוקות לעזרה, שהיה מחזיק את שמותיהן ברשימה מיוחדת, והיה אוסף כספים ומצרכי מזון ומביא להן בסתר והתמיד בכך אף כשכוחותיו נתמעטו והיה נושא את מטענו אף לקומות גבוהות ולדירות-גג של הנצרכים.
+
+
+ היה ממיסדי "היכל התלמוד" וחברת "תהלות ישראל" (והיה גבאי בה עד יומו האחרון) ופעיל בחברות גמילות חסד ועזרה הדדית "יהודה" ו"בנימין" שליד בית-הכנסת הגדול, ועוד.
+
+ נפטר בביתו בתל-אביב, כ"ו אדר תש"ו (20.3.55) ונקבר בקרית שאול.
+
+ צאצאיו: <persName>דוד אלמוג</persName> (בעל משרד לחקירות פרטיות ; ראה כרך ה', עמוד 2112), <persName>צבי אלמוג</persName> (רב-סרן בחיל האויר),<persName> מרים</persName> אשת <persName>שמחה רוזנברג, שרה</persName> אשת <persName>אריה</persName> <persName>סטולרסקי.</persName>
+
+ נכדתו היא העתונאית <persName>עדינה</persName> אשת <persName>אשר פרלמן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3485 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3485</bibl><bibl>Volume: #10 ,Page: 3486 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3486</bibl>
+<bibl>Volume: #10 ,Page: 3487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3487</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

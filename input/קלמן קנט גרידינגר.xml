@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4235 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4235</bibl><bibl>Volume: #13 ,Page: 4236 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4236</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>קלמן קנט גרידינגר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>לונדון</placeName> (אנגליה), כ"ד טבת תרפ"ד (1.1.1924).
+
+ לאביו<persName> משה גרידינגר</persName> (פעל רבות בכל השטחים המסחריים והציבוריים בארץ. ראה כרך א', עמוד 454) ולאמו <persName>רבקה</persName> בת<persName> יחזקאל צ'יזיק.</persName>
+
+ עלה עם משפחתו לארץ בשנת תרפ''ט (1929).
+
+
+ בוגר בית-ספר תיכון. מוסמך אוניברסיטת ויטדוטרסרנד ביוהנסבורג (1944) בכלכלה ומסחר. קיבל מדליות עבור הצטיינות ותואר כבוד של האוניברסיטה.
+
+ מנהל כללי של חברת תיאטראות ישראל בע"מ, תיאטראות חיפה בע"מ, וחברות בת של בתי-קולנוע והפצת סרטים בחיפה ותל-אביב.
+
+ בשנות 1948-49 שירת בצה"ל בדרגת סרן.
+
+ בשנת 1950 נשא לאשה את <persName>צילה שמעונה </persName> בת<persName> מרים</persName> <persName>כץ-רוקח</persName> (ראה כרך שביעי, עמוד 2792, ונכדת העסקן הישובי ר'<persName> שמעון רוקח</persName> , ראה כרך א', עמוד 68) ולאביה <persName>יוסף כץ </persName> (מראשוני עובדי חברת החשמל בארץ ומעוזריהפעילים של<persName> פנחס רוטנברג)</persName> .
+
+ מנהל כללי של החברה הא"י לספנות והספקה בע"מ ומחסני ערובה וקרור בע"מ.
+
+ חבר מועצת המנהלים של שירות נמל מאוחדים בע"מ, נמל חיפה, והחברה הא"י לקרור והספקה בע"מ, תל-אביב.
+
+ בשנות 1950-54 חבר הנהלת התאחדות בעלי בתי קולנוע בישראל ובמשך שנתים סגן יו"ר באותה התאחדות.
+
+ חבר הועד הפועל של אגוד ענף הקולנוע בישראל.
+
+ פעמים היה יו"ר של הועדה המארגנת של "המכביה" בחיפה (1950-54).
+
+ חבר הועד המנהל של אגודה הדדית להספקת מים על הר-הכרמל בחיפה.
+
+ חבר מועדון "רוטרי" בחיפה משנת 1951 ונשיאו בשנות 1960-61.
+
+ נגיד אזור 199 ישראל, "רוטרי" בינלאומי.
+
+ בנובמבר 1958 נתמנה קונסול משנה כבוד של ממשלת נורבגיה, ובמאי 1960 עלה לדרגת קונסול.
+
+ צאצאיו<persName>: משה יוסף, רבקה רחל, ישראל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4235 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4235</bibl><bibl>Volume: #13 ,Page: 4236 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4236</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

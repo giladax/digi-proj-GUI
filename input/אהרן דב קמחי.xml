@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5200 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5200</bibl><bibl>Volume: #17 ,Page: 5201 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5201</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן דב קמחי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פינסק</placeName> (רוסיה), ג' סיון תרפ"ד (5.6.1924). לאביו <persName>יוסף קמחי</persName> ולאמו<persName> דוברושה-טובה</persName> בת <persName>אשר רוזמן.</persName>
+
+ קיבל חינוך מסורתי וכללי. השתלם באוניברסיטה העברית בירושלים, וקיבל תואר מ.א. בכלכלה. תוארו: כלכלן, וכיום מנהל בנק כללי - ראה להלן.
+
+ בשנת 1934 עלה לארץ.
+
+ היה חבר ההגנה.
+
+ במלחמת העולם השניה שירת בצבא הבריטי לפי צו המוסדות הלאומיים.
+
+
+ התגייס לצה"ל במלחמת השחרור.
+
+ בשנת 1950 נשא לאשה את <persName>עליזה</persName> בת <persName>שלום</persName> <persName>שניאורסון.</persName>
+
+ בשנים 1951-59 היה בשירות האוצר בתור סגן הממונה על הכנסות המדינה ובתור סגן המפקח על מטבע-חוץ.
+
+ בשנת 1959 נתמנה למנהל בנק פויכטוונגר בע"מ. היו לו אז שלושה סניפים בלבד, ומאזן הבנק הסתכם ב-12 מיליון לירות.
+
+ כאשר פרש מניהולו של הבנק בראשית 1966 הסתכם מספר סניפי הבנק בעשרה ומאזנו ב-150 מיליון לירות.
+
+ בשנת 1966 נתמנה למנהל כללי של "בנק ישראל לתעשיה בע"מ", שליד התאחדות בעלי התעשיה בישראל (בנק זה נוסד בשנת 1933 ע"י התאחדות בעלי התעשיה בישראל).
+
+ בנותיו: <persName>חנה, אורית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5200 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5200</bibl><bibl>Volume: #17 ,Page: 5201 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5201</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

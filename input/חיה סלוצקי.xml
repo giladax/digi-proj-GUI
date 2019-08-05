@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1894 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1894</bibl><bibl>Volume: #4 ,Page: 1895 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1895</bibl>
+<bibl>Volume: #4 ,Page: 1896 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1896</bibl>
+<bibl>Volume: #4 ,Page: 1897 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1897</bibl>
+<bibl>Volume: #4 ,Page: 1898 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1898</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיה סלוצקי</persName>
+
+</head>
+         <div><p> נולדה בסטרצוב (פלך צ'רניגוב, רוסיה), בתרנ"ו (25.12.1895), לאביה <persName>מאיר</persName> (סוחר, ציוני פעיל), ולאמה <persName>ברכה</persName> בת <persName>שמואל לויטון</persName> .
+
+ בילדותה נתיתמה מאביה ונאלצה בעצמה לדאוג לעתידה. עברית למדה עוד בביתה. יצאה ללמוד בסימינר למורים בחרקוב ובקיוב. הסמינר בחרקוב בהנהלתו של ד"ר <persName>קונשטם</persName> הועבר לשם מגרודנה.
+
+ מנערותה קשורה בתנועה הציונית. חברה פעילה בצעירי ציון, השתתפה בועידה הציונית בפטרוגרד. בימי לימודיה בקיוב היתה חברה בהגנה העצמית.
+
+ אחרי שסיימה את הסמינר בקיוב עסקה בהוראה בחרקוב.
+
+ בשנת 1919 נישאה ל<persName>שמעון סלוצקי.</persName>
+
+ עלתה ארצה בשנת 1920. היתה מורה במרחביה, בכנרת ואחר כך בירושלים. בשנת 1923 עברה לרמתגן, הפסיקה בעבודה המקצועית והתמסרה לחינוך ילדיה.
+
+ בשנת 1940 חזרה לעבודה צבורית. נכנסה לעבוד במועצת הפועלות ומשמשת כמזכירה בתפקיד אחת המרכזות של מחלקת אירגון אמהות עובדות.
+
+ חברת מועצת ההסתדרות ומועצת מפא"י.
+
+ פרסמה מאמרים ב"דבר הפועלת".
+
+ צאצאיה: <persName>מאיר</persName> (חבר קבוץ אלונים, חייל בצה"ל בדרגת רב סרן), <persName>אראלה</persName> אשת <persName>נח קרומר-איתן</persName> (נפל בלטרון 25.5.1948).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1894 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1894</bibl><bibl>Volume: #4 ,Page: 1895 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1895</bibl>
+<bibl>Volume: #4 ,Page: 1896 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1896</bibl>
+<bibl>Volume: #4 ,Page: 1897 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1897</bibl>
+<bibl>Volume: #4 ,Page: 1898 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1898</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

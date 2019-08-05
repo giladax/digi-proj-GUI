@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3330 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3330</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ברוך ויניצקי</persName>
+
+</head>
+         <div><p> נולד ג' ניסן תרע"ח (16.3.1918) בפתח-תקוה.
+
+ לאביו <persName>ליפא</persName> ולאמו <persName>מרים</persName> בת <persName>משה לישבסקי.</persName>
+
+ למד בבית-הספר נצח ישראל בפתח-תקוה ובביתהספר הריאלי תחכמוני בתל-אביב.
+
+ משנת 1932 היה פעיל במוסדות בית"ר והצה"ר ומשנת 1938 היה כתב מקומי קבוע של עתונים יומיים.
+
+ ב-1944 נעצר בחשד השתייכות לארגון טרוריסטי ובמשלוח-הגולים הראשון הוגלה באוקטובר 1944 לאריתריאה, ואח"כ לסודאן ולקניה, ואחרי קום המדינה הוחזר ארצה באוגוסט 1944. ניצל את ישיבתו במחנות המעצר ללימודים במכתבים, השתלם במדעי המסחר ב"לונדון צ'מברס אוף קומרס" וגמר בהצטיינות.
+
+ בתש"א נשא לאשה את<persName> שושנה</persName> בת <persName>אלתר סנדרוב.</persName>
+
+ השתלב בחיים האזרחיים והנו מנהל בנק קופת אשראי וחסכון בע''מ פתח-תקוה.
+
+ חבר הנהלת בנק זרובבל בתל-אביב, חבר מועצת "מרכז" ברית פיקוח של הקואופרציה האשראית בישראל.
+
+ סגן נשיא לשכת בני ברית "חבצלת השרון" בפתחתקוה.
+
+ ממשיך גם בעבודה עתונאית כחבר מערכת "חרות" ו"ידיעות אחרונות" וכותב בהם מאמרים שבועיים ורשימות קבועות על נושאים כלכליים וסוציאליים.
+
+ צאצאיו:<persName> אלחנן, לאה, מרים.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3330 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3330</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

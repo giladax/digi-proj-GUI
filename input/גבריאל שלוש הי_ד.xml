@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 713 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/713</bibl><bibl>Volume: #2 ,Page: 714 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/714</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גבריאל שלוש הי"ד</persName>
+
+</head>
+         <div><p> נולד 17 מרס 1906 ביפו (שכונת נוה צדק) לאביו <persName>יעקב שלוש</persName> . מצד אמו היה נין לרב שלמה ברוך,
+
+ אב בית-הדין בירושלים. את ראשית חינוכו העברי והכללי קיבל בבית-הספר של חברת "עזרה", גמר בית-ספר תיכון באלכסנדריה של מצרים, למד בביתהספר הגבוה לעבודות צבוריות בפאריס, שם גמר את חוק לימודיו וחזר מוסמך בתואר "מהנדס אזרחי".
+
+ עוד בשבתו על ספסל הלימודים בפאריס הגה תכניות להרחבתה ולפיתוחה של תל-אביב, חקר את שאלת הנמל, הביוב ותכנית להקמת מרכז לספורט, ומשחזר ארצה התמסר לעבודת פיתוח ובנין. בנה בתים רבים וניהל סלילת כבישים, תיכן תכניות לשיכון עממי, ותוך עבודת יום-יום היתה נתונה תשומת-לבו גם לתכניות רחבות-מעוף, שהגשמתן צפונה בחיק העתיד, כגון: פיתוח מפרץ חיפה, נמל תל-אביב ופיתוח רחבת שפת הים, וכן לבנין רכבת חשמלית ממפרץ חיפה להר הכרמל ורכבת תחתית בתל-אביב. גם בעתונות פרסם מאמרים בדבר שכלילים בסלילת כבישים ופיתוח הבנין.
+
+ בתכניות פיתוח העיר היה יד ימינו של<persName> מאיר</persName> <persName>דיזנגוף</persName> . שלח לתל-אביב את המכונות הראשונות לניקוי הכבישים והרבצתם.
+
+ כשפרצו המהומות בארץ בשנת 1936 הציעו לו משרות חשובות בצרפת ובטורקיה והוא סירב לקבלן.
+
+ בנסעו ירושלימה לשם ביצוע מפעל גדול של עבודות צבוריות - ביום ה' אלול תרצ"ח (1.9.38) פגע בו כדור מרצח מהמארב ע"י רמלה והוא נפל שדוד.
+
+ לשמו הקדיש הסופר והעסקן מר <persName>אברהם אלמליח</persName> את ספרו "ארץ-ישראל וסוריה בימי מלחמת-העולם" (הראשונה), כי כשהמחבר נאסר בימי הזועה של אותה מלחמה, בתרע"ז, על-ידי השלטון הצבאי ונשלח
+
+ לדמשק כפושע-מלחמה, שם הנער גבריאל את נפשו בכפו והציל בעת הגירוש את כתבי-היד של הספר הזה יחד עם כתבים אחרים של המחבר, ואחרי-כן נשאתם המשפחה עמה בכל נדודיה וטלטוליה בכפרים הערביים, ואחרי המלחמה החזירתם שלמים.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 713 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/713</bibl><bibl>Volume: #2 ,Page: 714 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/714</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

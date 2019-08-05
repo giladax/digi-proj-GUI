@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 95 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/95</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה ליב סלוצקין</persName>
+
+</head>
+         <div><p> נולד בפטרוביץ, פלך מוהילוב, רוסיה, בשנת תר"י (1850) לאביו<persName> אריה </persName> (נולד אחרי מות אביו ונקרא על שמו), קיבל חינוך מסורתי בחדרים ולמד בישיבת נובהרודוק ומיזג בקרבו את תורת המוסר של ישיבה זו עם חסידות חב"ד שדבק בה. נשא לאשה את<persName> פרומה גישה</persName> בת ר' <persName>יחזקאל באייבסקי</persName> , תלמידחכם וסוחר בעיירה קריצ'ב. אשתו ניהלה בית-מסחר סיטוני למנופקטורה והוא עסק בלימוד תורה, בצרכי צבור ובמפעלי צדקה של יהודי העיירה.
+
+ בשנת תרנ"ח עלה ארצה עם משפחתו והתישב ביפו. (כאן מצא את קרוביו, משפחת<persName> אליהו סלוצקין</persName> ממיסדי חדרה, שגרו אז זמנית ביפו בגלל הקדחת שהתגברה בחדרה בעת יבוש הבצות). בנה בית בשכונת נוה שלום ברחוב עין יעקב, יסד את בית-הכנסת לחסידי חב"ד שבשכונה, לימד תורה ברבים ויסד מכספו קופת גמילות-חסדים. ניהל את עסקי הצדקה הרבים לעזרת מוסדות ונצרכים ביפו ובירושלים בכספים ששלח בקביעות בנו בכורו ר' <persName>אלעזר משה</persName> מאוסטרליה והיה בא לבקר בארץ כמעט בכל שנה והשקיע כספים במפעלים לשם עזרה קונסטרוקטיבית לעניים.
+
+ גם אשתו התמסרה לפעולות צדקה וחסד, השתתפה ביסודה ובניהולה של חברת "עזרת נשים", ובזמן מגפת החולירע ביפו שכרה מחסן למצרכים בשביל זקוקים לעזרה, חילקה פחמים ותה לעניים ויחד עם חברותיה עמלה במסירות להצלת הנגועים, ובכלל היה ביתם פתוח לכל נצרך ועזרו ביד נדיבה.
+
+ בעת גירוש היהודים מיפו במלחמת-העולם הראשונה עברו לגור ברחובות, שם בנה בנם אלעזר משה חוילה יפה.
+
+ בתם<persName> לאה </persName> נישאה לר'<persName> שאול חנא קוק</persName> , אחיו של הרב הראשי המנוח הגראי"ה קוק זצ"ל.
+
+ נפטר ברחובות והובא לקבורה בירושלים, י"ג אדר תרע"ד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 95 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/95</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

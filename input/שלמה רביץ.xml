@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1938 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1938</bibl><bibl>Volume: #4 ,Page: 1939 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1939</bibl>
+<bibl>Volume: #4 ,Page: 1940 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1940</bibl>
+<bibl>Volume: #4 ,Page: 1941 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1941</bibl>
+<bibl>Volume: #4 ,Page: 1942 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1942</bibl>
+<bibl>Volume: #4 ,Page: 1943 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1943</bibl>
+<bibl>Volume: #4 ,Page: 1944 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1944</bibl>
+<bibl>Volume: #4 ,Page: 1945 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1945</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה רביץ</persName>
+
+</head>
+         <div><p> נולד בנובוגרודיק (פלך מינסק, רוסיה) באלול תרמ"ה (1885), לאביו <persName>משה</persName> (בר אוריין וחסיד). ולאמו <persName>פייגה</persName> לבית <persName>גרוס</persName> (הסבה <persName>לוי גרוס</persName> עלה ארצה בשנת תרנ"ד לאחר שחסל את כל רכושו בגולה. עלה ירושלימה ונפטר בה).
+
+ אחיו <persName>בנימין רביץ היה</persName> 26 שנה חזן ראשי בקלויזנבורג ונספה באושביץ. אח שני<persName> שמואל</persName> , פרופ' לפסנתר ביקר בארץ ב-1938. נספה בידי הנאצים בריגה.
+
+ קיבל חינוך מסורתי בחדר. כבר בגיל 8 החל להראות כשרונות חזניים. נתפרסם כילד פלא ובהיותו בן 12 כבר חיבר פרקי חזנות.
+
+ בן 15 יצא להשתלם במוסיקה בקיוב ובאודיסה. גמר את לימודיו בבית הספר הגבוה למוסיקה בהצטיינות.
+
+ בן 17 נתמנה לחזן ראשי בקהלת שאבלי. משם הוזמן ללובלין.
+
+ בן 21 יצא לוינה ללמוד עוד ועוד. שמע תורה
+
+ בזמרה מפי גדולי הפדגוגיים המוסיקליים. הוכתר שנית בדיפלומה.
+
+ חזר לרוסיה ושמש בחזנות בקהלות ברדיטשוב, חרקוב, הומל וקרמנטשוב.
+
+ נשא לאשה את <persName>אידה</persName> בת <persName>יהושע מאיר שפטיל</persName> מוורנה.
+
+ לאחר מות החזן המפורסם של ריגה <persName>ברוך לייב</persName> <persName>רוזובסקי</persName> , הוא הוזמן במקומו, דבר שלכבוד גדול ייחשב, כי גדל מאוד שמו של קודמו. שש שנים היה חזן ראשי בבית הכנסת ברחוב גוגול.
+
+ קהלת יוהניסבורג העשירה מזמינה אותו אליה, הוא שוהה בה זמן מה ומתפלל בבית הכנסת הגדול, אבל לבו הציוני הלוהט מצוה עליו לעלות ארצה.
+
+ כתייר ביקר כבר בארץ בשנת 1925 והתפלל בבית. הכנסת הגדול בתל-אביב.
+
+ עלה והשתקע בשנת 1932.
+
+ בשנים תרצ"ד-תש"א כיהן כחזן ראשי בבית הכנסת הגדול בתל-אביב וזכה להערצה רבה. עורך הארץ ד"ר <persName>משה גליקסון</persName> היה מגדולי מעריציו ופרסם מאמרי הערכה חמים עליו. ציינו כאחד מגדולי החזנים בימינו.
+
+ מאז הוא מתמסר במיוחד להדרכה בחזנות וניהול מקהלות. נסיון רב בהדרכה רכש לו בעבר ורבים מגדולי החזנים ואף זמרים חילוניים מתלמידיו הם: הזמר <persName>יצחק גולנד</persName> , בריטון ראשי באופירה הברלינית. החזן <persName>ישראל אלטר</persName> , החזן <persName>קצין</persName> , החזן <persName>שלמה הרשמן</persName> ואחיו <persName>מרדכי הרשמן</persName> . כולם תלמידיו וחניכיו היו.
+
+ גם בארץ הדריך חזנים רבים וניצח על מקהלות.
+
+ מפעל מיוחד במינו ובעל משקל היא מקהלתו וזמירותיו ב"עונג שבת" ב"אהל שם". הוא שגיבש סגנון מיוחד למסיבות אלו והשרה רוח עליהן. הנהיג בהן שירי קודש וחול, יצירות התנ"ך, שירת ימי הביניים ושירת הספרות החדשה. לימד לגשר בין הישן והחדש, בין הקודש לחול. כן הנהיג שבסיום המסיבות עובר נער לפני התיבה בתפלת "מעריב" כש"ץ בלוית מקהלה. קהל רב מכל החוגים והגילים נוהר להשתתף במסיבות אלו. זה 18 שנה הוא מנצח עליהן.
+
+ תפקיד עצום ורב ערך נטל על עצמו בעריכתועיבוד מחדש של יצירות גדולי הקומפוזיטורים בליטורגיה העברית: <persName>לבנדובסקי, זולצר, וינטרויב, נומ</persName> <persName>ברג, גרוביץ, רזובסקי, בירנבוים, נובקובסקי, מינ</persName> <persName>קובסקי, ניסן בלזר, זיידל רובנר, שפירא</persName> ועוד.
+
+ הבעיה העיקרית בעבודה זו היא התאמת היצירות למבטא העברי הנהוג.
+
+ בידו כתבי יד מוכנים לדפוס של רציטטיבים לחזן ומקהלה לכל תפלות השנה.
+
+ הוא משקיע עבודה רבה במכון לחזנות בישראל, אשר מטרתו להקים דור צעיר לחזנים, אשר ישמרו על רוח המסורת וימשיכו את שלשלת היצירה הליטורגית העברית.
+
+ פרסם מאמרים מקצועיים רבים ב"המליץ", "הצפירה" "הזמן" (וילנה), "הארץ", "פרימורגן" (ריגה), "היינט", "מומנט" (ורשה).
+
+
+ צאצאיו:<persName> לוי</persName> (חבר קבוץ אפיקים, מהנדס, מוסיקאי פסנתרן, מנצח על תזמורת סימפונית בעמק הירדן, מארגן ומנצח על מקהלות), <persName>שרה</persName> אשת <persName>שמואל</persName> <persName>סקונדא</persName> (ריגה), <persName>רחל</persName> אשת <persName>יהושע ברחיה</persName> (תל-אביב), <persName>דניאל</persName> (יוהניסבורג).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1938 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1938</bibl><bibl>Volume: #4 ,Page: 1939 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1939</bibl>
+<bibl>Volume: #4 ,Page: 1940 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1940</bibl>
+<bibl>Volume: #4 ,Page: 1941 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1941</bibl>
+<bibl>Volume: #4 ,Page: 1942 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1942</bibl>
+<bibl>Volume: #4 ,Page: 1943 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1943</bibl>
+<bibl>Volume: #4 ,Page: 1944 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1944</bibl>
+<bibl>Volume: #4 ,Page: 1945 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1945</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

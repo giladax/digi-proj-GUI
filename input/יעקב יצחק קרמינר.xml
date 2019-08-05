@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3722 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3722</bibl><bibl>Volume: #11 ,Page: 3723 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3723</bibl>
+<bibl>Volume: #11 ,Page: 3724 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3724</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב יצחק קרמינר</persName>
+
+</head>
+         <div><p> נולד בסוקול (מזרח גרמניה) בשנת תרס"ב (5.5.1901).
+
+ לאביו <persName>שלמה קרמינר</persName> (סוחר מסטניסלב) ולאמו חנה בת ר' <persName>יעקב יצחק נטר.</persName>
+
+ קבל חנוך מסורתי-עברי בחדר ובישיבה.
+
+ עלה למונטריאל (קנדה) בשנת 1920.
+
+ מפעילי המזרחי וממקימי מוסדותיה בקנדה.
+
+ יסד יחד עם שותפו <persName>ירחמיאל זביצקי</persName> את בית החרושת לשקים THE WORKMEN BAY CO. LTD. במונטריאל.
+
+ נשא לאשה את<persName> איטה</persName> בת ר'<persName> נחום לוינקרוין.</persName>
+
+ ממיסדי "ישראל הצעיר", גמילות חסדים, HEBREW FREE LOAN ASSOCIATION
+
+ חבר בהנהלת בית החולים סיני, מרכז איחוד בתי התלמוד תורה, FADERTION OF JEWISH ועוד. PHILANTRORIS
+
+
+ מבקר בקביעות בישראל ותומך בארגוני עולי סיקל - טרטקוב - ורנז בישראל וכן תורם ומתרים לרוב מוסדות ומפעלים בישראל.
+
+ פעיל ברוב מוסדות הצבור והציונות במונטריאל.
+
+ צאצאיו: <persName>בתיה</persName> אשת <persName>אברהם יוסף קוחן, בלה</persName> (בריינה) אשת<persName> קרל רוזן, שלמה</persName> (סלומון), <persName>משה נתן (מרק)</persName> . נכדיו (מבתיה): <persName>שרה מלכה, מרלין, נחום דוד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3722 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3722</bibl><bibl>Volume: #11 ,Page: 3723 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3723</bibl>
+<bibl>Volume: #11 ,Page: 3724 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3724</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

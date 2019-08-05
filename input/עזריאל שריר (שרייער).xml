@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 876 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/876</bibl><bibl>Volume: #2 ,Page: 877 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/877</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עזריאל שריר (שרייער)</persName>
+
+</head>
+         <div><p> נולד בכפר דומאניוב, פלך פודוליה (אוקראינה), ג' אלול תרל"ב (1872), לאביו<persName> פסח</persName> (בעל טחנות) ולאמו <persName>בריינה</persName> בת<persName> משה פאק</persName> מסמוטריץ, פלך פודוליה. קיבל חינוך תורני והתמחה בעסקי אביו.
+
+ נשא לאשה את <persName>דבורה </persName> בת <persName>אליעזר שמואל הכהן.</persName> התישב בקאמיניץ פודולסק, עסק בתעשיה ובטחנות ובקבלנות-אספקה צבאית והיה ממיסדיה ופעיליה של
+
+
+ תנועת תיבת ציון והציונות המדינית בעיר ובמחוז.
+
+ בתרצ"ג עלה ארצה, התישב בתל-אביב ועוסק במסחר קמח וסוכר בסיטונות, ממשיך בפעילות ציונית וצבורית כחבר ועד "אהל שם", לשכת המסחר, התאחדות האימפורטרים, ועוד.
+
+ צאצאיו: <persName>ישראל</persName> (פרופיסור לחירורגיה באוניברסיטת קיוב, שרת במלחמת-העולם השנית בדרגת גנרל-רופא בצבא הרוסי),<persName> משה, יעקב</persName> (בהנהלת חברת הביטוח ''ציון"), <persName>פשה </persName> אשת <persName>חיים טייבר</persName> (עסקנית פעילה בנשיאות ויצ"ו בת"א),<persName> בתיה </persName> (ברינה) אשת המורה והסופר למוסיקה <persName>מנשה רבינא, זויה </persName> אשת<persName> אברהם</persName> <persName>ביילין</persName> .
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, כ"ג אלול תשט"ו (10.9.55) (ראה כרך ב', עמוד 876)
+
+
+ הערכים ה א י ש י י ם
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 876 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/876</bibl><bibl>Volume: #2 ,Page: 877 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/877</bibl>
+            <bibl>Volume: #7 ,Page: 2970 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2970</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

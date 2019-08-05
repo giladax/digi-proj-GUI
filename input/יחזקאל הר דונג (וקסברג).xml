@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4277 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4277</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יחזקאל הר-דונג (וקסברג)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אושביץ</placeName> (פולין), ט"ו שבט, תרנ"ט (24.2.1899).
+
+ לאביו<persName> יעקב יוסף וקסברג</persName> ולאמו<persName> רייזל</persName> בת <persName>ראובן</persName> <persName>גיטריידר</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה.
+
+ היה פעיל בארגוני נוער ציוני.
+
+ עלה לארץ בינואר 1920.
+
+ עבד כפועל חקלאי.
+
+ בשנת 1923 היה מרכז לשכת עבודה בזכרון-יעקב.
+
+ בשנת 1925 נשא לאשה את<persName> שרה</persName> בת<persName> שמעון יוסף</persName> <persName>יעקובוביץ</persName> (נפטרה בכרכור, ביום כ"ב טבת, תשי"ג 9.1.1953) ובשנת תש"ך (1960) נשא בזיווג שני את <persName>חנה</persName> בת<persName> חיים לנדאו.</persName>
+
+ עבד בייבוש ביצת כברה ונהלל.
+
+ עבד כפועל בסלילת כבישים (חיפה-ג'דה, זכרוןיעקב, בנימינה).
+
+ היה חבר בקיבוץ.
+
+ בשנת 1944-46 שירת כנוטר.
+
+ כיום חקלאי בכרכור.
+
+ צאצאיו:<persName> איתן הר-דונג, חגיה</persName> אשת<persName> יוסף בן-ישראל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4277 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4277</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

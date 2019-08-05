@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2115 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2115</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב זודקביץ</persName>
+
+</head>
+         <div><p> נולד בלומז'ה, ג' תשרי תרס"ד, לאביו <persName>אברהם יצחק</persName> ולאמו <persName>טובה</persName> בת <persName>מרדכי ירזונדק.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ היה ממיסדי "החלוץ" בפולניה, יו"ר "החלוץ" ויו"ר אגודת נוער ציוני בלומז'ה.
+
+ נשא לאשה את<persName> לאה </persName> בת <persName>אהרן מאירסון.</persName>
+
+ בטבת תרפ"ב עלה לארץ ועבד במסגרות, הקים בית מלאכה למכניקה. מנהל חברת "מפעלי חדרה בע"מ" וקבלן לעבודות מכניות ובנין.
+
+ היה סגן נשיא המועצה המקומית (תרצ"ד-תש"ה), חבר מועצת פועלי חדרה (תרפ"ג-תרפ"ו) וחבר ועדת התרבות שלה בחדרה.
+
+ ממיסדי ובוני שכונת אגרובנק בחדרה. במשך שנות המלחמה העולמית השניה ארגן בהצלחה את הספקת המזון לתושבי חדרה ולמושבות השרון - מטעם המועצה המקומית וועדי המושבות. חבר המועצה המקומית, "מועצת התושבים" ויו"ר "ארגון בעלי המלאכה" בחדרה.
+
+ היה יו"ר המרכז הארצי של בעלי המלאכה בארץ (1944) ופעיל בעניני בעלי מלאכה בכלל.
+
+ צאצאיו : <persName>מרדכי, אסתר, דוד, נאוה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2115 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2115</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

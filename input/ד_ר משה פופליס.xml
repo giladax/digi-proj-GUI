@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3507 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3507</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר משה פופליס</persName>
+
+</head>
+         <div><p> נולד ג' תמוז תרנ"ה (15.7.1895) בירושלים.
+
+ לאביו <persName>אליעזר</persName> (בן ד"ר <persName>שרגא פופליס,</persName> רופא וד"ר לפילוסופיה בירושלים (ראה כרך ד' עמוד 1706), ולאמו <persName>מלכה</persName> בת הרב<persName> יוסף בורלא </persName> (אב-בית-דין בירושלים). קיבל חינוך מסורתי ותיכוני כללי.
+
+ ב-1912 עבד שנה בחדרה, בשנים 1920-1918 שירת כמתנדב בגדוד העברי הארצישראלי וב-1920 השתתף בהגנת ירושלים בפיקודו של<persName> זאב ז'בוטינסקי. </persName>
+
+ יצא ללמוד בפוליטכניקום בעיר קייטן שבגרמניה, ואחרי שב-1925 הוסמך למהנדס כימאי חזר לארץ ועבד במקצועו.
+
+ ב-1937 נשא לאשה את <persName>ארנה</persName> בת <persName>זיגפריד דרייפוס.</persName>
+
+ תוך עבודה מעשית במקצוע המשיך גם בעבודת מחקר, וב-1953 קיבל מהאוניברסיטה העברית את התואר ד"ר לפילוסופיה (בכימיה).
+
+ בשנים האחרונות הנו מנהל המחלקה לכימיה אנליטית בת"א, המסונפת לתחנה לחקר החקלאות ברחובות, וחבר הועד הפועל של ההסתדרות הכימית, סניף תל-אביב.
+
+ פרסם כ-30 עבודות מחקר (בישראל, בגרמניה, באנגליה ובארה"ב).
+
+ בנו:<persName> אורי</persName> (תלמיד באוניברסיטה העברית).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3507 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3507</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

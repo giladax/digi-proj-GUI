@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4240 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4240</bibl><bibl>Volume: #13 ,Page: 4241 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4241</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנציון רוב</persName>
+
+</head>
+         <div><p> נולד באדר תרס"ה (1905) בלשצ'וב שליד גורליצה, מערב-גליציה.
+
+ לאביו <persName>גרשון </persName> ולאמ<persName>ו רבקה.</persName>
+
+ למד בחדר ואח"כ בבית-המדרש ונתחנך ברוח חסידות צאנז, שהיתה השלטת באותו איזור. נמשך להשתלמות
+
+
+ עצמית בשפה וספרות עברית ולתנועה הציונית הדתית.
+
+ הצטרף לתנועת צעירי המזרחי, עשה בה עבודה למען הקרנות, פעל בהנהגתה הראשית בקראקוב, יצא בשליחותה לתעמולה בעיירות מערב-גליציה, השתתף בועידותיה ובאירגון ההכשרה לחברים המתעתדים לעליה.
+
+ עלה לארץ ב-1935 ועבר את חבלי הקליטה.
+
+ ם-1936 נשא לאשת את<persName> טובה </persName> בת <persName>דוד גרינס</persName> .
+
+ ההישג במושב הדתי כפר גדעון שליד עפולה, בין החברים שנוספו על הראשונים, עולי טרנסילבניה בראשית שנות ה-20, ניהל משק קטן, שענפו העיקרי היה החלב ושימש גם בתור מזכיר הכפר והרוח החיה בו בעניני דת ותרבות, הגנה וכלכלה, וכן היה פעיל במועצה האזורית של הפועל המזרחי לעמק יזרעאל. לאחר זמן עבר
+
+ לתפקיד מינהל במקומות אחרים; בתור מזכיר סניף הפועל המזרחי בפתח-תקוה, מזכיר ישיבת תורה ומלאכה בכפר-אברהם שבתחומה, ובאחרונה מזכיר המועצה הדתית בנתניה; כאן היה פעיל גם בעניני המפלגה בתור יו"ר מועצת הסניף המקומי שלה וחבר בועדות שונות, ממיסדי ישיבת "בני עקיבא" וחבר ועד בית-הספר התיכון הדתי.
+
+ כתב בספר הזכרון לקהילת גורליצה ובעתון "הצופה".
+
+ עם יסוד קרית צאנז בנתניה ניתן לו לחיות מחדש באוירה החסידית בנוסח של ימי ילדותו ונעוריו, ואף דרכו בחיים נסתיימה בדרך הליכתו לקבלת שבת בביתמדרשו של הרבי בקריה זו.
+
+ נפטר ברחוב סמוך לפני כניסת השבת, י"ט חשון תשכ"ג (18.11.1962).
+
+ צאצאיו:<persName> אסתר</persName> אשת<persName> בנציון קוזלובסקי, גאולה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4240 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4240</bibl><bibl>Volume: #13 ,Page: 4241 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4241</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

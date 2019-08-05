@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 346 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/346</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן סמסונוב</persName>
+
+</head>
+         <div><p> נולד בהומל, רוסיה, י' טבת תר"מ (1880), לאביו ר'<persName> אריה ליב</persName> , ממיסדי חדרה. קיבל חינוך מסורתי ב"חדר" בהומל.
+
+ בן אחת-עשרה עלה ארצה עם הוריו ועם חמשת אחיו בתרנ"א והשתכנו ב"חאן" של חדרה. שם למד עוד זמן-מה ב"חדר", שהיה באותו בנין היסטורי, ואח"כ יצא לעבודה במשק של הוריו. גדל עם גידול המושבה ופעל בחייה הצבוריים כל הימים. שנים רבות היה חבר ועד המושבה, השתתף בהקמת מוסדות המושבה והצבור החקלאי, זה שנים רבות יו"ר חברת "החקלאי" חדרה ויו"ר הסתדרות החקלאים בחדרה, חבר הנהלת חברת מיסדי חדרה
+
+ בע"מ, חבר הנהלת "פרדס-חדרה" בע"מ, חבר מרכז התאחדות האכרים בארץ-ישראל, ולמעלה מעשר שנים היה חבר המועצה של הבנק המרכזי למוסדות שתופיים בע"מ.
+
+ ליובל החמשים של חדרה כתב שורת מאמרים על ימי בראשית של המושבה וכן הרצה פעמים רבות על נושא זה לפני הנוער.
+
+<persName>יחיעם בן יוסף וייץ</persName> , שנפל חלל בשעת פעולה לעזרת המעפילים, היה חתנו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 346 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/346</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

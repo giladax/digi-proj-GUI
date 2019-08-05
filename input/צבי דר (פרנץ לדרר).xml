@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5094 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5094</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי דר (פרנץ לדרר)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קרלסבד</placeName> (צ'כיה) בשנת תרנ"ח (31.8.98).
+
+ לאביו <persName>מאיר לדרר</persName> ולאמו<persName> לאופלדין</persName> לבית <persName>שפיגל</persName> .
+
+ קיבל חינוך כללי בבית-ספר גבוה.
+
+ בשנת 1920 עלה לארץ.
+
+ היה בין מקימי קבוצת חפצי-בה. קודם ע"י חדרה, ובשנת 1922 בעמק המזרחי.
+
+ כל השנים היה חבר ועד הגוש ומנהל אגודת המים בגוש חרוד.
+
+ בתקופת ההגנה השתתף בהנהלת "תעשית כלי הנשק שיצרו במחתרת.
+
+ בשנים 1944-50 היה מנהל חברת "כור", חברת חרושת ומלאכה בע"מ.
+
+ ממניחי היסודות לתעשיה הצבאית בארץ, והקים במרצו ובתנופתו את התעשיה "תע"ש" עד הגיעה לממדים גדולים.
+
+ היה מנהל כללי של התעשיה הצבאית (משנת 1950).
+
+ פרש לגימלאות ביום 15 באוקטובר 1967.
+
+ צאצאיו: <persName>חוה </persName> אשת<persName> משה בן-דרור, אמנון דב</persName> (שניהם בקבוצת חפצי-בה).
+
+ ביום 6.6.1968 קיבל פרס בטחון ישראל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5094 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5094</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3974 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3974</bibl><bibl>Volume: #12 ,Page: 3975 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3975</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה פירירא</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"ג אדר תרנ"ו (1896).
+
+ לאביו ר' <persName>חיים אהרן פירירא</persName> (ראה כרך ז', עמוד 2811 ולאמו<persName> אסתר</persName> בת הרב<persName> דוד פיזנטי</persName> .
+
+ קיבל חינוך מסורתי, גמר בהצטיינות את ביה''ס למל וסיים (1916) את בית המדרש למורים מיסוד חברת העזרה בירושלים. השתלם במשפטים במשך שנתיים ב"שעורים למשפט" בירושלים.
+
+ היה מפעילי המכבי ומראשוני ההגנה בירושלים.
+
+ עסק בהוראה בתלמוד תורה ספרדים שבעיר העתיקה בירושלים (1916-24).
+
+ בשנת 1925 נסע לגואטמלה ויסד שם את ההסתדרות הציונית המקומית.
+
+ היה נשיא קהלת הספרדים "מגן דוד" המקומית (1928-30).
+
+ בשנת 1931 נשא לאשה את<persName> תמר </persName> בת<persName> רחל נסים</persName> מירושלים.
+
+ מבוני בית הכנסת הראשון בגואטמלה.
+
+ עסק במסחר ובתעשיה עם אחיו משה.
+
+ בראשית שנת 1961 חזר לארץ.
+
+ נפטר בחיפה, א' תמוז תשכ''א (15.6.1961).
+
+ צאצאיו:<persName> ויקטור, רות</persName> . 
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3974 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3974</bibl><bibl>Volume: #12 ,Page: 3975 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3975</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

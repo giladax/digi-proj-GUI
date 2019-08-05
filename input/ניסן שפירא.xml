@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 162 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/162</bibl><bibl>Volume: #1 ,Page: 163 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/163</bibl>
+<bibl>Volume: #1 ,Page: 164 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/164</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ניסן שפירא</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרמ"ח (1888), לאביו הרב <persName>דב. </persName> למד בחדר ובישיבה. נשא לאשה את <persName>שפרה</persName> בת<persName> יצחק ברוך פולין </persName> מפתח-תקוה, התישב ביפו ופתח בית-מסחר סיטונאי למכולת בשוק-אל-דייר. היה חבר לשכת "אחוה", וסייע ביסוד בית-הספר "תחכמוני". בשנים שלאחר מלחמת העולם השיתתף ביסוד בית-הספר לבנות "תלפיות", שהיה בתחילה מוסד פרטי ואח"כ נתקבל לרשת החינוך הציבורי כבי"ס עירוני בעל כיוון דתי.
+
+ בעת פרעות תרפ"א ביפו זרקו ערבים על פניו חומצה גפריתנית צורבת והשחיתו את עינו האחת. לאחר שנתים שמע על הכנות מצד הערבים לערוך שוב פרעות. כדי למנוע את הפקרת הישוב להשתוללות אויבים נסע לוינה והעביר משם משלוחי נשק לארץ בתוך ארגזי סחורות שונות, לצרכי ההגנה, ומסר לאשתו שתקבל את המשלוחים שיבואו בשביל ביתמסחרו ותדע מה לעשות בהם. כמה תיבות היו חשודות בעיני מבקרי המכס בנמל חיפה וערכו חיפוש יסודי, שכתוצאה ממנו נאסרה אשתו ונפתחה חקירה נגדה, אך הודות לנתינותה האמריקנית הופסקו הפעולות נגדה והענין נשתקע.
+
+ נפטר בתל-אביב, י"ד אייר ת"ש.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 162 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/162</bibl><bibl>Volume: #1 ,Page: 163 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/163</bibl>
+<bibl>Volume: #1 ,Page: 164 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/164</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

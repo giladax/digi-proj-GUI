@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2310 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2310</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלתר פסח גראף</persName>
+
+</head>
+         <div><p> נולד ב<placeName>יאסי</placeName> (רומניה) בשנת תרל''ח (1878) לאביו <persName>צבי </persName> הירש <persName>יעקב</persName> (ראה בכרך זה) ולאמו<persName> מלכה</persName> בת<persName> ישראל ניאמצאן</persName> - <persName>בריל</persName> , מבאקו.
+
+ בן 4 עלה לארץ עם הוריו שהתישנו במושבה זכרון יעקב והיו ממיסדיה.
+
+ קיבל חינוך בביה"ס במושבה והמשיך בביה''ס החקלאי מקוה ישראל. בגמרו את לימודיו נתמנה בתור מפקח חקלאי - מומחה על נטיעות הגפנים במושבות. עבר לנהל משק חקלאי ביסוד המעלה. כעבור 3 שנים חלה במלריה ועבר למושבה החדשה שנוסדה אז כפרסבא והיה מראשוני בוניה.
+
+ היה מהלוחמים נגד פקידי הבארון והתנהגותם והצליח להיות ממשוחררי האפוטרופסות של פקידות הבארון (1900).
+
+ בשנת 1902 נסע לארצות-הברית ואחרי פטירתו של אביו (1905) חזר לזכרון-יעקב והמשיך לנהל את המשק החקלאי ואת בית המלון גראף במושבה.
+
+ בשנת 1910 נשא לאשה את <persName>בלה</persName> בת <persName>אברהם ברקוביץ.</persName> השתתף בעבודה צבורית במושבה.
+
+ נפטר בזכרון יעקב, י"ט אלול תרצ"ג (10.9.33).
+
+ צאצאיו :<persName> כרמלה</persName> אשת<persName> אליהו לב, יהודה, צבי, יוסף.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2310 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2310</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

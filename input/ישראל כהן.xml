@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1207 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1207</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל כהן</persName>
+
+</head>
+         <div><p> נולד בסובאלק, אלול תרמ"א (3.9.1881), לאביו <persName>הלל קפלן</persName> (תלמיד חכם, סוחר) ולאמו <persName>רבקה</persName> בת יוסף.
+
+ אחרי שאביו עלה ארצה בתרמ''ב (לפי עצת ר' <persName>דוד גורדון</persName> , עורך "המגיד" מליק, פרוסיה המזרחית, מקום-מגוריו האחרון בחו"ל) והתיישב בפתח-תקוה, העלה אליו את משפחתו בשנת תרמ"ז.
+
+ ישראל למד שנים אחדות ב"חדר" ובבית-הספר של המושבה ואח"כ החל לעבוד כפועל בפרדסי הבארון רוטשילד, ולאחר זמן נתמנה למשגיח בפרדס מס' 1 במשכורת של 1/2 3 נפוליונים לחודש.
+
+ נשא לאשה את <persName>מאשה</persName> בת משה יוסף סטורדזי. אחרי פטירת אביו בתר"ע קיבל עליו את ניהול משק המשפחה, עסק בפלחה על שטח גדול, אח"כ עבר את מדורי משק הנטיעות (נטיעת גפנים עקירתם, נסיעות פרדסים) וממשיך בענף הפרדסנות עד היום.
+
+ רעיתו עזרה לו בשקידה רבה בכל עבודות המשק, בנטיעות ובפלחה והיתה למופת בזריזותה ובמסירותה בעבודה. בשנות מלחמת-העולם הראשונה, כשבעלה הוכרח להסתתר לבל ילקח בכפייה לצבא הטורקי, נשאה היא בכל עול המשק, ועזרה לעשרות מבני ירושלים שבאו לפתח תקוה, להמלט מהגיוס לצבא.
+
+ צאצאיו: <persName>משה, נחום, אבשלום, הלל, בלה</persName> אשת צבי כץ.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בפתח-תקוה, כ"ג אב תשי"ז (20.8.57)
+
+ (ראה כרך ג', עמוד 1207)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1207 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1207</bibl>            <bibl>Volume: #9 ,Page: 3412 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3412</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

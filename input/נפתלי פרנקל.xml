@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4046 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4046</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נפתלי פרנקל</persName>
+
+</head>
+         <div><p> נולד ב<placeName>הונגריה</placeName> בשנת 1905 למשפחה מיוחסת ואמידה.
+
+ סיים את חוק לימודיו בבית ספר תיכוני למסחר.
+
+ כשפרצה מלחמת העולם הראשונה, התגייס לצבא האוסטרי-הונגרי.
+
+ בשנת 1928 עלה לארץ בניגוד לרצון הוריו.
+
+ התגורר בחדרה ועבד כפועל בפרדסנות.
+
+ במשך זמן מסוים שימש מזכיר ומרכז עבודה של פלוגת בית"ר בחדרה.
+
+ לאחר נשואיו עבר לתל-אביב והשתכר בעמל כפיו.
+
+ בשנת 1938 התקבל לעבודה לעירית תל-אביב. בשנת 1940 עבר לרמת-גן והיה פעיל בסניף "מגן
+
+ דוד אדום" שם וגילה מסירות ובקיאות רבה. במשך שמונה שנים ניהל קורסים לעזרה ראשונה במרפאה המקומית ברמת-גן ונודע כמדריך וחובש מצוין. בתקופה יותר מאוחרת שירת כחובש ב"ארגון הצבאי הלאומי" והגיש עזרה לפצועים תוך חירוף נפש. גם באצ"ל ניהל בהצלחה קורסים לעזרה ראשונה. כשהחל הקרב על יפו, בפסח תש"ח (1948), התמנה כאחראי על בית החולים "פרויד" - אשר שימש בית חולים מרכזי לפצועי "הארגון הצבאי הלאומי". לאחר הקמת המדינה, התגייס יחד עם גדודי האצ"ל לצבא ושימש כחובש גדודי. רבות פעל למען חטיבתו ולא ידע מורא ולאות במילוי תפקידו כחובש ראשי. על כל פגז מתפוצץ ורעם תותח היה חרד לעזרה ולא פעם שם נפשו בכפו כדי להושיט עזרה לפצועים.
+
+ ב-19 באוקטובר 1948 יצא לאסוף פצועים בשדה הקרב ומצא את המות. פגז אויב פגע באמבולנס שבו נהג ושם קץ לחייו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4046 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4046</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

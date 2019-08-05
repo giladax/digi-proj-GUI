@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3503 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3503</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ימימה ליובין (בלקינד)</persName>
+
+</head>
+         <div><p> נולדה ו' ניסן תרנ"א (1891) בגדרה.
+
+ לאביה הבילויי <persName>שמשון בלקינד</persName> (ראה כרך א', עמוד 416) ולאמה <persName>פנינה</persName> בת <persName>אהרן מרדכי פריימן</persName> (דרור) ממיסדי ראשון לציון (ראה כרך ג', עמוד 1435).
+
+ גדלה ונתחנכה בבית-הספר בראשון לציון, בו קיבלה גם הכשרה פדגוגית מאבות החינוך העברי ששימשו בו בימים ההם.
+
+ בהיותה בשנות מלחמת העולם הראשונה עם המגורשים והפליטים מהארץ באלכסנדריה של מצרים, השתתפה ביסוד בית-הספר העברי לילדי המהגרים ושימשה בו בתור מורה ומדריכה לנוער בסידור מקהלה וכו', היתה חברה בועד לסידור המהגרים בעבודה ועסקה בטיפול בילדיהם, וכן השתתפה בהתקנת שרות עזרה ראשונה (מגן דוד אדום) למתנדבים לגדוד העברי של נהגי הפרדות לפני צאתו לחזית גאליפולי.
+
+ ב-1921 נישאה <persName>למשה</persName> בן <persName>שמואל זלמן ליובין</persName> (שניהם מראשוני חדרה ; ראה כרך ב', עמודים 655 ו-730).
+
+ נוסף למילוי חובות אם ועקרת-בית ממשיכה בפעילות צבורית בעניני סעד ותרבות והנה חברה בהנהלת סניף ויצ"ו בלשכת בנות ברית "הגשמה" בחדרה.
+
+ צאצאיה: <persName>שמואל</persName> (קצין בצה"ל), <persName>נעמה</persName> אשת ד"ר <persName>מוריס לוי</persName> בחיפה, <persName>אבשלום</persName> (חקלאי בחדרה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3503 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3503</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

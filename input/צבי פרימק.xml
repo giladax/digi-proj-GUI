@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4565 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4565</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי פרימק</persName>
+
+</head>
+         <div><p> נולד בז'יטומיר, פלך ווליניה (אוקראינה), כ' תמוז תרס"ד (25.6.1904).
+
+ לאביו <persName>אפרים פרימק</persName> (סוחר, מחסידי הרבי מצ'רנובולן ולאמ<persName>ו חיה</persName> בת<persName> צבי מץ </persName> (מחסידי מקרוב).
+
+ קיבל חינוך מסורתי ב"חדר" בי"ס עממי, גימנסיה, ובטכניון בז'יטומיר.
+
+ גורש מרוסיה כחבר חשוד בתנועת הנוער הציוני במחתרת.
+
+ בשנת 1925 עלה לארץ.
+
+ עבד בחקלאות, בשמירה, בהגנה ובפעולות בטחון במחוז חדרה והשומרון.
+
+ ביתו בחדרה שימש מרכז קשר אלחוטי בתקופת ההגנה בזמן המנדט.
+
+ שירת בנוטרות ובצבא.
+
+ בשנת 1929 נשא לאשה את<persName> סימה</persName> בת<persName> אברהם</persName> <persName>ליסקר </persName> (היא פעילה מאד באירגון האמהות העובדות ועסקנית בהנהלת "מגן דוד אדום" בחדרה).
+
+ חבר הנהלת הקואופרטיב של החיילים המשוחררים "היוזם" בע"מ מיום הווסדו והיו"ר שלה.
+
+ פעיל במוסד "אילנשול-פוליו" בשומרון ובחדרה.
+
+ פעיל בסניף מפא"י וההסתדרות בחדרה.
+
+ מנהל מחלקת מסי-עקיפין בעירית חדרה.
+
+ בתו: <persName>איריס</persName> (תלמידה).
+
+ ראה תמונתו בעמוד 4574 בספר זה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4565 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4565</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

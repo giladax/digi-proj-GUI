@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1915 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1915</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם (אדולף) שטארקמאט</persName>
+
+</head>
+         <div><p> נולד באודיסה, רוסיה, בשנת תרל"ח (1878). למד בחדרים ובבי"ס עממי ותיכוני באודיסה עד גיל
+
+ 15. אחרי פרעות 1882 ברוסיה עבר עם הוריו לפאריס. שם המשיך את לימודיו בבי"ס תיכוני וטכני גבוה, גמר בהצטיינות והוסמך למהנדס והוצעה לו משרה טובה בשרות ממשלת צרפת, אך לפני הכנסו לעבודה רצה להיות שנה אחת עם אחיו <persName>יצחק,</persName> שהיה אדמיניסטרטור מטעם הבארון <persName>בנימין רוטשילד</persName> בראשון לציון. ב-1903 בא לארץ ולא חזר עוד לצרפת, כי נתמנה
+
+ למהנדס ראשי מטעם הבארון ויחד עם האדריכל <persName>ווארון</persName> ניצח על הקמת הבנינים של היקב בראשון לציון. אח"כ המשיך בשרות חברת יק"א בניהול ופיקוחו על כל העבודות ההנדסיות במפעלי ההתישבות בבל אזורי הארץ, ומ-1905 היה מושבו הקבוע בראש פנה.
+
+ נשא לאשה את <persName>חנה</persName> בת<persName> יעקב יוסף סגל</persName> (ממיסדי חדרה, ראה כרך א', עמוד 161), שלמדה בסמינריון למורות בפאריס ואח"כ היתה מורה בבית-הספר בראש פנה בהנהלת <persName>שמחה חיים וילקומיץ</persName> .
+
+ בשנת תרע"ב קנה יחד עם <persName>אברהם בריל</persName> (ראה כרך ג', עמוד 1379), כ-3700 דונם אדמה מהכפר בית-דגון, שבצפון ראשון לציון.
+
+ במלחמת-העולם הראשונה מינה אותו המצביא <persName>אחמד ג'מאל פחה </persName> למהנדס ראשי בשרות האזרחי של השלטון הצבאי לארץ-ישראל וסוריה והלבנון, ובקשריו עם גדולי השלטון השתמש להצלת אנשים רבים ממאסר ומרדיפות.
+
+ נדודיו הרבים לרגל שרותו בשנות השלום ובמלחמה מוטטו את בריאותו, והוא המשיך עד שנפל למשכב ולא קם עוד.
+
+ נפטר בבירות, בשנת תרע"ה (יולי 1915).
+
+ צאצאיו: <persName>יוסף</persName> (מנהל עבודות חקלאיות בפתחתקוה),<persName> מרגליה </persName> אשת <persName>יוחנן ראדו </persName> (מהנדס מכונות בירושלים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1915 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1915</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

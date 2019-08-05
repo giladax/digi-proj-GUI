@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3268 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3268</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב באהר</persName>
+
+</head>
+         <div><p> נולד בצפת, כ"ג ניסן תרי"ט (1859). לאביו <persName>יוסף</persName> (בגיל עשר עלה לארץ מעיר באהר שבאוקראינה. שם המשפחה נקראת ע"ש העיר. אביו
+
+ ר' <persName>יעקב </persName> היה בנו של הרב הצדיק ר'<persName> דוד לייקס</persName> ממקורבי הבעל שם-טוב) ולאמו<persName> חסיה </persName> בת ר'<persName> יהושע.</persName>
+
+ היה בן דוד לבני האדמו"ר ר' <persName>מרדכי מצרנובל.</persName> קבל חנוך מסורתי.
+
+ נשא לאשה את <persName>רבקה שינדל</persName> בת <persName>פיבל איפרמן</persName> מרוזוביץ, בוקובינה.
+
+ היה ממונה על כולל רוסיה (וואהלין, זיטומיר) בצפת.
+
+ ביתו היה פתוח לכל דיכפין.
+
+ היה פעיל בעניני צבור ובהתפתחות העיר צפת. נפטר בצפת, ד' אייר תש"ב (21.4.1942).
+
+ צאצאיו :<persName> חיה</persName> אשת <persName>צבי לוברביום </persName> (שו"ב) ; <persName>דוד</persName> (ראה בכרך זה) ;<persName> חנה </persName> אשת <persName>חיים אוברבלום</persName> ; הרב <persName>יצחק</persName> , שו"ב (ראה בכרך זה); <persName>הניה</persName> אשת<persName> פייבל מי</persName> <persName>ברג; פייגה</persName> אשת <persName>משה ברזל ; מרים </persName> אשת<persName> יצחק מרקמן;</persName> <persName>מרדכי; יוסף</persName> (יוהנסבורג).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3268 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3268</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

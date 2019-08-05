@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5214 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5214</bibl><bibl>Volume: #17 ,Page: 5216 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5216</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו (דוד) רפפורט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ביאליסטוק</placeName> (פולין), ערב ראש חודש שבט תרנ"ו (22.12.1896).
+
+ לאביו<persName> אברהם זלמן רפפורט</persName> ולאמו <persName>שרה צביה</persName> בת ר' <persName>יעקב מאיר לרינמן</persName> (מעסקני הישוב הישן. ראה כרך ראשון, עמודים : 462-63). קיבל חינוך מסורתי וכללי.
+
+ היה חבר ב"החלוץ" וב"צעירי ציון" בעירו.
+
+ היה מזכיר הגימנסיה העברית בוילקוביסקי, ליטא.
+
+ ב-7 באוגוסט 1920 עלה לארץ דרך נמל יפו.
+
+ עבד כפועל-חלוץ בכביש חיפה-ג'דה.
+
+ בשנת 1921 היה ממניחי פסי הרכבת מלוד לצריפין (סרפנד).
+
+ באותה שנה במאי, כשפרצו הפרעות, השתתף בהגנת השכונות היהודיות נוה-שלום, נוה צדק ותלאביב.
+
+ אחרי המאורעות היה בין קבוצת הפועלים שכבשו את העבודה העברית בחדרה.
+
+ עבד בכביש בבית שאן, בין טבריה לעפולה.
+
+ בשנת 1924 נשא לאשה את<persName> יוכבד </persName> (בת דודו) בת החוקר והסופר ר' <persName>צבי לרינמן</persName> (ראה את הערך שלו בעמוד 5212 בכרך זה).
+
+ זמן מה עבד בדואר חדרה ועבר אח"כ לעבוד בדואר תל-אביב-יפו. עבד בדואר 25 שנה. אחרי קום המדינה נתקבל לעבוד בתור מזכיר במשרד
+
+
+ מסחר ותעשיה, והיה חבר ועד הפקידים. בשנת 1960 יצא לפנסיה.
+
+ ב"ספר העליה השלישית" (בהוצאת "עם עובד"), בכרך א', בעמודים 260-63 פרסם מזכרונותיו כחלוץ "בכביש המתארך".
+
+ ב"ספר העליה השלישית" בכרך ב', בעמודים: 800-799 פרסם מזכרונותיו כחלוץ "יום במחצבה".
+
+ צאצאיו: <persName>עזריה רפופורט</persName> (ראה את הערך שלו בכרך זה); <persName>לאה</persName> אשת <persName>אברהם צוקרמן.</persName>
+
+ נכדיו מבנו: <persName>חנני, טלי, יעלה.</persName>
+
+ נכדיו מבתו: <persName>תמו, אבה, עדנה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5214 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5214</bibl><bibl>Volume: #17 ,Page: 5216 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5216</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

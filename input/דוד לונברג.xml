@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4104 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4104</bibl><bibl>Volume: #12 ,Page: 4105 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4105</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד לונברג</persName>
+
+</head>
+         <div><p> נולד בראש פינה, ר"ח אייר תרנ"ג (1893).
+
+ לאביו<persName> אליעזר לונברג </persName> (ראה כרך א', עמוד 367). ולאמו<persName> הינדה</persName> בת<persName> אפרים מובסוביץ</persName> (מראשוני כפר סבא).
+
+ קיבל חינוך מסורתי וכללי בבית-הספר במושבה. מוריו היו: ד"ר <persName>יצחק אפשטיין ושמחה חיים וילקומיץ.</persName>
+
+ בגיל צעיר עבד בעבודות פלחה בגליל העליון והתחתון וכן במשק המשפחה ב"מצפה".
+
+ מראשוני המכבי בטבריה.
+
+ בשנת 1910 בא לטפל בנטיעות השקדים שהיו לאביו בכפר סבא והשתקע במושבה.
+
+ בהיותו יליד הארץ ידע את השפה הערבית ומנהגי השכנים הערבים. קשר קשרי ידידות עם נכבדי הכפרים
+
+ השכנים, ע"י קשריו הטובים עם פקידי הממשלה התורכית הביא תועלת רבה למושבה ואח"כ למהגרים פליטי יפו-תל-אביב במלחמת העולם הראשונה, שחלק מהם התרכזו בכפר סבא.
+
+ עם שוב גולי כפר סבא למקום, קיבל על עצמו את השמירה בכפר סבא ובעין חי, והיה לאחד השומרים הנודעים בכל הסביבה.
+
+ את ההגנה שירת כל השנים בנאמנות.
+
+ בשנת 1921 נשא לאשה את<persName> לאה</persName> בת<persName> יוסף סוסנובסקי</persName> (מראשוני כפר סבא). היתה יחד עם<persName> זהבה דרויאן</persName> החובשות והרוקחות הראשונית במושבה. פעילה בויצ"ו ובמוסדות סעד במקום.
+
+ נתמנה ע"י השלטון הבריטי בתור מוכתר המושבה ועזר למושבה ע"י תפקיד זה במשך שנים רבות בימי המאורעות.
+
+
+ הערבים היו בוחרים בו כבורר יחיו בסכסוכיהם וסומכים על פסקי הדין שלו.
+
+ בשנת 1922 יסד את שירות התחבורה "השרון", שהיה ל"השרון המאוחד", שהתאחד לבסוף עם "אגד".
+
+ שנים רבות היה חבר המועצה המקומית בכפר סבא, וחבר המועדון של המוכתרים.
+
+ ונמנה עם האזרחים המתקדמים ופעל שנים רבות בשיתוף עם נציגי הפועלים.
+
+ צאצאיו: <persName>יהודה </persName> (ראה את הערך שלו בכרך זה), <persName>שרה</persName> אשת <persName>שמשון סקיבין.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4104 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4104</bibl><bibl>Volume: #12 ,Page: 4105 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4105</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 874 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/874</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בן-ציון אמזלג</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרכ"ה (1865), לאביו <persName>שלמה</persName> (תלמיד-חכם, מנכבדי העדה הספרדית בירושלים וממנהיגי הכוללות, בן דודו של <persName>חיים אמזלג</persName> , שהיה סגן קונסול בריטניה ביפו) ולאמו <persName>בוליסה</persName> בת<persName> רבנו</persName> <persName>ישראל.</persName>
+
+ קיבל חינוך מסורתי וכללי בשפות ובמדעי המסחר וכו'. נשא לאשה את <persName>לונה בוליסה</persName> בת קרובו <persName>חיים</persName> <persName>אמזלג</persName> סגן קונסול בריטניה ביפו ומגואלי אדמת ראשון לציון ועוזר בהשפעתו להקלת דרכם של מיסדי המושבות הראשונות).
+
+ עבר ליפו ועסק במסחר בבגדים מוכנים, הקים בין הראשונים בנינים בנוה שלום בקרבת חוף הים ועזר להתרחבות הישוב היהודי ולהתפתחותו באזור זה.
+
+ נפטר ביפו, ל' ניסן תרצ"ה, והובא לקבורה בירושלים.
+
+ צאצאיו: <persName>רבקה </persName> אשת <persName>מוריס ברגר, אסתר, רחל</persName>
+
+ אשת <persName>דוד אוליבר, סלומון אדוארד</persName> (רופא בקליפורניה), <persName>משה, ראובן דן</persName> (רבנו),<persName> יעקב</persName> (ג'יימס), <persName>פאולין</persName> אשת <persName>אלעזר אלישר, סימון, סמואל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 874 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/874</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

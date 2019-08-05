@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4109</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהושע פצ'ורניק</persName>
+
+</head>
+         <div><p> נולד בנס-ציונה, בשנת תרנ"ח (1898).
+
+ לאביו <persName>ברוך משה פצ'ורניק,</persName> ולאמו <persName>פנינה </persName> בת<persName> ראובן</persName> <persName>לרר</persName> (מיסד נס-ציונה) (ראה כרך ה', עמוד 2203).
+
+ קיבל חינוך עברי בבית הספר עזרה ביפו.
+
+ מילדותו היה חקלאי. התמסר לפתח את ענף גידול הדבורים.
+
+ בשנת 1924 נשא לאשה את<persName> בלה </persName> בת <persName>אברהם קרימן</persName> מרוסיה, (מצד אמה, ממשפחת <persName>אחד העם.</persName> עלתה לארץ בשנת 1923. עבדה בהתנדבות בנס-ציונה הרבה שנים למען הקהק''ל. בוויצ"ו עבודה סוציאלית ובהנהלת שוחרי האוניברסיטה בנס-ציונה ועוד).
+
+ היה חבר בהנהלת קופת מלוה חסכון, וגבאי בית הכנסת בנס-ציונה.
+
+ היה פעיל בעבודה למען קרן היסוד, מפדה אזרחי ושוחרי האוניברסיטה.
+
+ היה פעיל בהגנה ובהתנדבות בנוטרות בימי המנדט.
+
+ היה אדם נוח לצבור. הגיש עזרה לכל נצרך.
+
+ נפטר בנס-ציונה, כ"א אב תשי"ג (2.8.1953).
+
+ צאצאיו: ד"ר<persName> אברהם פצ'ורניק</persName> (ד"ר לכימיה, דוצנט במכון ויצמן), <persName>ראובן</persName> (חקלאי בראשון-לציון), <persName>שפרה</persName> <persName>אשת גמליאל ליבשיץ </persName> (מהנדס וחקלאי בנס-ציונה).
+
+ בשנת 1959 יסדה רעיתו קופת גמילת חסדים על שמו. ובן נקבע חדר טבע וחקלאות על שמו בבית הספר יסודי א' בנס-ציונה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4109</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2658 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2658</bibl><bibl>Volume: #6 ,Page: 2659 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2659</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי (פייבל) ניומן</persName>
+
+</head>
+         <div><p> נולד בלודז (פולין), בשנת תרנ"ו (10.6.1896). לאביו <persName>אברהם שמעון</persName> ולאמו<persName> רבקה</persName> בת<persName> שמחה בקר</persName> קבל חנוך מסורתי וכללי.
+
+ בשנת 1912 נסע לארצות הברית ועבד בטקסטייל היה נציג איגוד פקידי טקסטייל ב"פאראיניגטע געווערקשאפטן" (מועצת פועלי ניו-יורק), מעסקני התנועה העברית ומעמודי התווך של "אחיעבר" בארה"ב
+
+ מראשוני העסקנים והמתנדבים היהודים לגדוד העברי האמריקאי למען א"י.
+
+ בשנת 1918 עלה לארץ עם הגדוד העברי ושירת בו עד פירוקו בא"י.
+
+ עם שחרורו מהצבא קמו-הוא ושנים מחבריו מהגדוד <persName>(צ'יציק ושרברק)</persName> ופתחו בירושלים בית מסחר ספרים בשם "תרבות" ששימש אז - מרכז לאנשי הרוח בעיר.
+
+ בשנת 1923 נשא לאשה את <persName>רחל </persName> בת <persName>ברלב ליפסון,</persName> מתל-אביב.
+
+ בשנת 1925 ייסדו הוצאת ספרים בשם "מצפה", שהיתה למעשה ההוצאה הפרטית העברית הראשונה בא"י
+
+ ממיסדי כפר "אביחיל" (מושב עובדים בשרון, בעמק חפר. נוסד בשנת 1932 ע"י חיילים משוחררים מהגדודים העברים). היה יו"ר שלה בשנות 1934-38.
+
+ משנת 1944 החלו שלושה שותפי "מצפה" פועלים - כל אחד בפני עצמו, והוא החל בפעולות בהוצאה הנושאת את שמו.
+
+ ממארגני איגוד החילים המשוחררים ממלחמת העולם הראשונה, והיה יו"ר של המרכז שלה. חבר המזכירות הארצית של איגוד החילים המשוחררים ומייצגם בועד "יד ושם" וכו'.
+
+ היה פעיל בהגנה.
+
+ ארגן את חטיבת .J.P.S (ג'ואיש פוליס סערוויס) בשנת 1938.
+
+ ערך באנגלית אנטולוגיה מיומני הרצל, וכן ערך והוציא באנגלית כל מה שהוציאה הוצאת הספרים Scopus בניו-יורק - בשנות מלחמת העולם השניה. 
+
+ היה פעיל בהנהלת בנק קופת עם בע"מ, בתקופה מסויימת היה יו"ר מועצת הבנק,
+
+ חבר ועד השיכון של אגודת הסופרים העברים בתלאביב. גזבר בנין "נוה סופר".
+
+ חבר הנשיאות של התאחדות המו"לים בישראל. פרסם מאמרים שונים בחתימתו ובפסד": מ. פן.
+
+ Marcus Pawlov
+
+ בנותיו: <persName>עדה</persName> אשת<persName> בצלאל צ'ריקובר. מיכל </persName> אשת <persName>פסח טאוב </persName> (משמר העמק).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2658 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2658</bibl><bibl>Volume: #6 ,Page: 2659 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2659</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

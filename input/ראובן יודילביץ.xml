@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 633 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/633</bibl><bibl>Volume: #2 ,Page: 634 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/634</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ראובן יודילביץ</persName>
+
+</head>
+         <div><p> נולד בקרמנצ'וג, רוסיה, בשנת תרכ"ב (1862), לאביו <persName>יהודה</persName> . קיבל חינוך מסורתי ואח"כ החל לעבוד כפקיד בבית-מסחר. כאן נזדמן לו בראשונה להגיע לידי גילוי נדיבות לבו עוד בהיותו בשנתו העשרים. הוא וחברו בעבודה קנו בשותפות שטר-הגרלה במחיר גדול לתשלום בשיעורים. חברו לא יכול להמשיך בתשלומים והודיע לראובן שהוא מוותר על חלקו. קיבל מראובן את תמורת התשלומים שכבר הכניס והשאיר לו להמשיך לבדו בתשלומים עד הסוף. והנה זכה אותו שטר בסכום הגון ואז נתן ראובן לחברו את מחצית הזכיה כאילו לא פסקה השותפות ביניהם.
+
+ בהיות ברשותו סכום כסף הגון החליט לבסס בו את עתידו בארץ-ישראל ובשנת תרמ"ב עזב את משרתו בבית-המסחר ועלה ארצה. באותה אניה נסעה ארצה חבורת בילו"יים בת שנים-עשר איש. כשעברו בנמל איסמירנה נגנב מגזבר החבורה,<persName> ישראל בלקינד,</persName> כל כספם המשותף, בסך 90 דולר, שנועד לסידור ראשזן ולכלכלתם בימים הראשונים לבואם ארצה. הכסף נגנב במהומה הגדולה בשעת פריקה וטעינה וכשהבחין בלקינד אח"כ בהעדר הכסף, כבר נעלמו עקבות הגנב. בהיות הבילו"יים במצב מיואש זה, הלוה להם יודילביץ מאה רובל מכספו וניחמם והרגיע את רוחם.
+
+ בהגיעו ליפו הצטרף לועד "חלוצי יסוד המעלה" שיסדו את ראשון לציון, קנה מאת <persName>צבי ליבונטין</persName> חלקת אדמה והיה מהראשונים שעלו על אדמת "עין הקורא". נטע כרם, בנה בית, נשא לאשה את<persName> בתיה</persName> בת <persName>אברהם ויסל</persName> והיה אכר וכורם וחבר פעיל במושבה ראשון לציון. היה ממונה לפקח על הסדרים
+
+
+ החיצוניים של המושבה, שיפור הרחובות וקיום סדר עירוני של נקיון ונוחות, ואת תפקידו מילא בחיבה ובמסירות ואף בקפדנות. חיבב את המוסיקה וביתו היה מרכז לחובבי שירה וזמרה ונגינה.
+
+ השתתף גם בבנין תל-אביב, ואחרי 45 שנות חיים ועבודה בראשון לציון, מכר את כרמיו ואת ביתו במושבה ועבר לתל-אביב.
+
+ נפטר בתל-אביב, כ"ד אדר תרצ"ג, והובא לקבורה בראשון לציון.
+
+ צאצאיו:<persName> משה</persName> (היה לרופא מפורסם באנגליה בשם <persName>ד"ר יונג;</persName> קיבל שם מהממשלה פרס-מחקר לנסיעה לפאריס לחקירות בקטריולוגיות במגפת הדבר והגיע להישגים חשובים),<persName> יוסף</persName> (באמריקה), אברהם (תלאביב), <persName>יעקב</persName> (ז"ל), <persName>אבשלום</persName> (בקניה), <persName>רחל </persName> (נישאה <persName>לצבי קליינרד), הדסה </persName> (נישאה <persName>להיימן בדורסקי), מרים</persName> (נישאה<persName> לאברהם היימן) ודבורה </persName> (נישאה <persName>לשמואל</persName> <persName>שטאל).</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 633 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/633</bibl><bibl>Volume: #2 ,Page: 634 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/634</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

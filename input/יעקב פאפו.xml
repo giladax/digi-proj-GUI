@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 853 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/853</bibl><bibl>Volume: #2 ,Page: 854 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/854</bibl>
+<bibl>Volume: #2 ,Page: 855 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/855</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב פאפו</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרכ"ד (1864), לאביו מאיר ולאמו מזל בת בכורה ג'יניאו.
+
+ למד בבית-הספר של חברת כי"ח (אליאנס) בירושלים ואח"כ במקוה ישראל, ומשנתגלו בו כשרונות ונטיות לעבודה הנדסית, נשלח לפאריס, למד הנדסה מיכאנית, הוסמך למהנדס-מכונאי וחזר ארצה. נשא לאשה את <persName>לאה</persName> בת <persName>יוסף רוזנטאל</persName> , מוכתר ירושלים.
+
+ עבד בניהול חפירת בארות וסידור משאבות עם התרחבות הישוב העברי, שהחל מוציא מים מן הארץ להרוות את צחיתותיה. בין השאר חפר את הבאר במושבה עקרון. בתר"ן חפר את הבאר בשביל היקב בראשון לציון, שנוסד שנה לפני כן, ובאר זו סיפקה אז מים למחצית המושבה. כשהרחיבו בתרנ"ד את בניני היקב ניהל את כל העבודות של סידור המכו
+
+
+ נות, חפירת הבאר העמוקה וסידור המשאבות בה. את כלי המלאכה והחלקים הכין בארץ, במקום להזמינם מחו"ל, ובזה יצר מקורות לעבודה ולהשתלמות בעבודה מקצועית ל-50 פועלים עברים. יחסו לפועלים היה ידידותי, שקד על טובתם, ובעת חפירת הבאר
+
+ הגדולה ביקב, כנ"ל, וסידור כל המכונות הדריכם בתבונה ובזהירות הדרושה, וכך נסתיימה כל העבודה הכבירה בלי כל תאונות לפועלים - דבר שלא היה רגיל בימים ההם, כשהעבודה המיכאנית במתכת היתה אז בארץ בראשיתה.
+
+ בתרס"ד פתח מסגריה ואח"כ בית-חרושת לתיקוני מנועים ומשאבות בקרבת תחנת הרכבת ביפו, מול בית-החרושת של <persName>ל. שטיין</persName> , ואתו עברו בניו <persName>מאיר</persName> <persName>ויצחק.</persName>
+
+ נפטר בירושלים, כ"א תשרי תרע"ו. בניו: <persName>מאיר (מוריס), יצחק, יהודה </persName> (עורך דין), <persName>יונה</persName> אשת<persName> ראובן פרלמוטר</persName> (מאלכסנדריה),<persName> גבריאל</persName> (ז"ל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 853 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/853</bibl><bibl>Volume: #2 ,Page: 854 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/854</bibl>
+<bibl>Volume: #2 ,Page: 855 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/855</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

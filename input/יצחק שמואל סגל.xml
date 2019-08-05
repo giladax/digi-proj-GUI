@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4115 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4115</bibl><bibl>Volume: #12 ,Page: 4116 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4116</bibl>
+<bibl>Volume: #12 ,Page: 4117 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4117</bibl>
+<bibl>Volume: #12 ,Page: 4118 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4118</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק שמואל סגל</persName>
+
+</head>
+         <div><p> נולד בעיירה קיפין, פלך וואהלין (רוסיה) בשנת תרכ"ט (1869).
+
+ לאביו<persName> יחיאל הלוי סגל.</persName>
+
+ עלה לארץ עם זקנו ר'<persName> ברוך פנחס הלוי </persName> כשהיה בגיל 5 שנים.
+
+ קיבל חינוך מסורתי בחדר ובישיבה בירושלים. השתלם בספרות עברית ועשה חיל בלימודיו.
+
+ נשא לאשה א<persName>ת רבקה</persName> ב<persName>ת יוסף בן-צבי.</persName>
+
+ מירושלים עבר לרמלה בתור מורה, ואח"כ עבר לראשון לציון בתור מורה, ובערבים היה חוזר לרמלה. בהמלצת ידיו המורה <persName>אריה ליב הורביץ</persName> השיגו לו דירה בראשון לציון.
+
+ בשנת תרס"ו (1906) נבחר ע"י ועד המושבה ראשון לציון בחתימת <persName>דב לובמן </persName> (חביב) למנהל הדואר (הפוסתה) בראשון לציון, והמשיך עד 1921.
+
+ היה לו משק קטן.
+
+ היה בעל תרבות עברית ונחשב לאחד המורים העברים הטובים בימים ההם.
+
+ בשנת תרצ"ב (1932) פירסם והוציא לאור חוברת "דברי שיר" (קובץ שירים שאסף על שיבת ישראל לארצו ועל ראשון לציון, מוקדש לכבוד חג היובל להתייסדות המושבה ראשון לציון תרמ"ב-תרצ"ב-1932 -1882).
+
+ בחוברת "הרצל" - כ' תמוז תרס"ד - כ' תמוז תרפ"ט, פירסם שני שירים לחצי יובל שנים להיווסד
+
+
+ ראשון לציון. שיר בשם "ראשון לציון" שחובר ע"י <persName>שליט </persName> והשני "ראשון לציון" ע"י המשורר אימבר.
+
+ היה ידידם וחברם של המורה <persName>אריה ליב הורביץ</persName> (ראה כרך א', עמוד 446) והמורה <persName>ישראל הלוי טלר</persName> (ראה כרך א', עמוד 279).
+
+ נפטר בתל-אביב, כ"ה אב תרצ"ט (10.8.1939) והובא לקבורה בהר הזיתים בירושלים.
+
+ צאצאיו:<persName> יחיאל, הני</persName> אשת<persName> דב הלוי קרינישמן</persName> ז"ל (כיום, אשת<persName> ליאון קורץ), קציעה</persName> אשת<persName> משה שינברג,</persName> <persName>יושבעם, שפרה </persName> ז"ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4115 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4115</bibl><bibl>Volume: #12 ,Page: 4116 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4116</bibl>
+<bibl>Volume: #12 ,Page: 4117 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4117</bibl>
+<bibl>Volume: #12 ,Page: 4118 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4118</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

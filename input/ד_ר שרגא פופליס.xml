@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1706 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1706</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר שרגא פופליס</persName>
+
+</head>
+         <div><p> נולד בקראקוב, פולין (אז גליציה האוסטרית), בשנת תר"ג (1.7.1843), לאביו <persName>מנחם </persName> (חייט).
+
+ למד בישיבה, ותוך סבל ומחסור ומתן שיעורים פרטיים גמר גם את הגימנסיה, ובשנת תרכ"ו נסע,
+
+ מצויד בהמלצה יפה מאת רבני קראקוב, ללמוד בביתהמדרש לרבנים בברסלאו. למד שם גם באוניברסיטה והוסמך לד"ר לפילוסופיה. אח"כ עבר לוינה, למד רפואה והוסמך בה והמשיך לעבוד שנתים בקליניקה האוניברסיטאית למחלות ילדים. נזהר במשך שנות לימודו בכל חוקי היהדות ובשמירת שבת ואפילו בבחינותיו נזהר לבל יחלל שבת וזכה על כך להוקרת הפרופסורים.
+
+ בעודו סטודנט נשא לאשה ב-1868 את רבקה לבית נוספלד.
+
+ ב-1872 עלה לארץ להזמנת חברת התמיכה של יהודי פרנקפורט ואמסטרדם לרפא את עניי היהודים בירושלים, היה מראשוני הרופאים בבית-החולים "שערי צדק" וכמה פעמים מילא את מקום הד"ר <persName>ואלאך בניהול המוסד</persName> . ריפא חולים עניים בחנם ובהרבה מקרים עזר להם ולעניים בריאים - גם בכספו, ולא פעם נשאר הוא עני אחרי חלקו את כל כספו. שמר מצוות כל ימיו. קבע עתים לתורה והוסיף ללמוד בשעות הפנאי. היה זהיר בתפילה בצבור שלש פעמים ביום. בשבתות היה הולך אל חולה עם הרוקח ואומר לו את הרצפט בעל פה לבל יצטרך לכתוב. גם שכר טרחה לא היה נוטל בשבת ואמידים היו מביאים לו משכון. כשאביו עלה אליו לעת זקנתו והיה סמוך על שלחנו, המציא תחבולה שאביו לא ירגיש את עצמו כאוכל לחם חסד, ולשם כך היה מעסיק אותו בעבודה: שישא לפניו פנס בלכתו בלילות האפלים לבקר את החולים.
+
+ פרסם מאמרים בעתונות הרפואית-שבאוסטריה על מחלות ילדים.
+
+ נפטר בירושלים, ה' ניסן תרע"ב (23.3.12).
+
+ צאצאיו: <persName>אליעזר</persName> ז"ל (היה רוקח ובנו<persName> משה</persName> <persName>פופליס,</persName> הוא המהנדס פופליס, מנהל המעבדה לחימיה אנליטית במחלקת החקלאות של מדינת ישראל) <persName>ביילה</persName> אשת <persName>אריה נטקין.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1706 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1706</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

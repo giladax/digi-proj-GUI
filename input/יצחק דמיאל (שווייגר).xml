@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4046 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4046</bibl><bibl>Volume: #12 ,Page: 4047 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4047</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק דמיאל (שווייגר)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רדומישל</placeName> (רוסיה) בשנת תרנ"ב (1892). לאביו ר' <persName>צבי אריה שווייגר</persName> (מגזע המגיד מצרנוביל) ולאמו <persName>נחמה</persName> בת<persName> זליג קסטליכר</persName> (מגזע האדמו"ר מפולנאה).
+
+ קיבל חינוך מסורתי בחדר ובישיבה, וכללי בגמנסיה באודיסה, ופילוסופיה ומשפטים למד באוניברסיטה במוסקבה.
+
+ היה מורה בוורשה, בצנסטכוב ובגמנסיה של פרופ' <persName>באלבן.</persName>
+
+ ניהל קורסים בוורשה מטעם ועד התרבות לגננות ומורים. כן מלא שליחויות במפעלי תרבות וציונות. ערך את העתון "צפרירים" בלודז.
+
+
+ בשנת 1920 עלה לארץ (לפני זה ביקר בארץ). עבד בתור מורה ופועל בגדוד העבודה בכביש טבריה-צמח. אח"כ עבד בחברת החשמל.
+
+ היה ממיסדי וראשוני ההסתדרות וציר לועידת הסתדרות העובדים העברים הכללית בא''י.
+
+ היה ממניחי היסוד לקבוצת "עין-חרוד", והיה חבר בה.
+
+ בשנת 1931 נשא לאשה את<persName> חנה</persName> בת <persName>צבי הירשברג.</persName> מורה בסמינר למורים שע"ש <persName>שיין</persName> מיום הוסדו.
+
+ כתב מאמרים ב"קונטרס", "הפועל הצעיר", "דבר" ועוד.
+
+ חיבר ספרים; "במחנך" (ע"י הוצאת ספרים עבור צעירים, קיוב, רוסיה); "על המפתן"; "סיפורים לילדים" ; "כך סיפרתי לילדתי" ; "ככה סיפרו לי להליכותינו" ; "מפה ומשם"; "אני קורא בתורה" ; "מן הסף ולפנים".
+
+ השתתף בהוצאת "עם-עובד" : "על הסף".
+
+ צאצאיו: <persName>רזי</persName> (פקיד באוניברסיטה בת"א),<persName> רוחמה</persName> אשת<persName> מרדכי קליין, מירה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4046 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4046</bibl><bibl>Volume: #12 ,Page: 4047 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4047</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

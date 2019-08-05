@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3346 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3346</bibl><bibl>Volume: #9 ,Page: 3347 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3347</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים ריבלין</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ב תשרי תר"פ (16.10.1919).
+
+ לאביו<persName> שלמה זלמן</persName> (ראה כרך ד', עמוד 1743) ולאמו<persName> הדסה</persName> בת<persName> שניאור זלמן.</persName>
+
+ קבל חנוך מסורתי, בית מדרש למורים מזרחי ובית ספר למסחר.
+
+ היה מדריך ומארגן נוער, יו"ר סניף מכבי-צעיר ירושלים.
+
+
+ היה מזכיר ארצי של ארגון השומרים העבריים בארץ (45- 1942).
+
+ עסק בהוראה בבתי ספר בירושלים ובנתניה.
+
+ היה יועץ לעניני חנוך הנוער (פ. ס. י.) ליד הפדרציה הציונית בבריטניה.
+
+ מיסד ויו"ר "ישראל הצעירה" - הנוער הציוני הכללי (1954-55).
+
+ היה פעיל באצ"ל ירושלים, מפקד תאי הנוער הלומד הארצי ליד הארגון הצבאי (1940-43).
+
+ בשירות אצ"ל בפריז (1947).
+
+ בשנת 1954 נשא לאשה את <persName>אסתר</persName> בת<persName> אשר בנימיני.</persName> כתב רשימות ומאמרים בעתונות יומית ובבטאונים בבעיות פוליטיות וביחוד בעניני חנוך הנוער.
+
+ ערך וכתב את הספר "חזון ציון" - תולדות עליות תלמידי הגר"י לא"י לפני 145 שנה ואילך, רעיונותיהם המשיחיים ופעולותיהם בבנין ערי הארץ (הוצא בהוצאת הועד לתולדות הישוב הישן, תש"ז).
+
+ חבר בלשכת בני-ברית.
+
+ חבר מרכז מפלגת הציונים הכלליים.
+
+ בעל משרד ליחסי ציבור ופירסום.
+
+ עורך "הפרדסן" - בטאון חדש (מצויר) של "ארגון הפרדסנים בישראל" (בראשו - <persName>סם דובינר)</persName> ,
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3346 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3346</bibl><bibl>Volume: #9 ,Page: 3347 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3347</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

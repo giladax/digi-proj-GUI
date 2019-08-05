@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2953 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2953</bibl><bibl>Volume: #7 ,Page: 2954 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2954</bibl>
+<bibl>Volume: #7 ,Page: 2955 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2955</bibl>
+<bibl>Volume: #7 ,Page: 2956 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2956</bibl>
+<bibl>Volume: #7 ,Page: 2957 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2957</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף משה ברונר</persName>
+
+</head>
+         <div><p> נולד ב-יאס (רומניה), ב' תשרי תרל"ב (18.2.1872).
+
+ לאביו <persName>ישראל מרדכי</persName> ולאמו <persName>אטל</persName> בת<persName> יעקב כהן</persName> .
+
+ בשנת תרל"ז (1877) עלה עם משפחתו לארץ והתישבו בצפת.
+
+ קבל חנוך מסורתי בחדר ובישיבה.
+
+ בשנת תרנ"א (1891) נשא לאשה את <persName>שפרה</persName> בת <persName>מת</persName> <persName>תיהו גרינברג </persName> בצפת.
+
+ ב-1892 עבד זמן מה בזכרון-יעקב.
+
+ עבד כפועל ברחובות וכן בואדי-צ'ראר בהנחת פסי הרכבת יפו-ירושלים.
+
+ היה בין המועמדים להתישב ביריחו (הדבר לא יצא לפועל).
+
+ כש<persName>-דב בר שליפיאן</persName> - דב"ש (ראה כרך א', עמוד 321) יסד במינסק את "אגודת האלף" (תרנ"א) תכנית, שלפיה יוכלו אלף יהודים להתישב בארץ ולעסוק בחקלאות ע"י פעולה מלוכדת, קבל את הצעתו של <persName>יהושע אוסוביצקי </persName> (מנהל הפקידות של הבארון בגליל העליון) להתישב על אדמת עין-זיתים, ע"י צפת (שרכש עבור אגודת המתנחלים שנוסדה ברומניה ביזמתו ובפעולתו של <persName>דוד שוב</persName> , וזה ויתר על האדמה הזאת, היות ויסד במקומה את משמר הירדן ואח"כ את ראש-פינה). אגרונומים מצאו את האדמה מתאימה למטעי גפנים. הוקמו שלשה בתים וניטעו גפנים.<persName> ברונר</persName> נצטרף לראשוני המתישבים, ונחשב אז "כמומחה" ומדריך, אחרי שעבד ברחובות ועוד בחקלאות. המתישבים לא התחשבו עם ההוראות שניתנו על ידו ועל ידי האגרונום <persName>ברגין</persName> וכו', ומאחר ששרשי הגפנים שניטעו באדמה הפוריה הגיעו לשכבת אבן-סיד אשר תחתיה, ומאחר שלא יכלו לינוק לשד - מחיה כפי הצורך, נבלו הגפנים וכספי האגודה - אבדו.
+
+ ברונר חזר לצפת ועבד 1/2 4 שנים אצל ד"ר בלידען, הרופא של העיר. למד רפואה ורוקחות והועבר בתור רוקח וממלא מקום רופא במשמר הירדן.
+
+ בשנת 1902 כשפרצה החולירה בארץ נסע ליבנאל והיה אחראי במשך 5 שנים כרופא ורוקח על כל הסביבה (מסחה, סג'רה וכו').
+
+
+ בשנת 1907 הוזמן ע''י ד"ר<persName> הלל יפה</persName> למושבה<persName> זכרון</persName> <persName>יעקב</persName> . במשך שנים עבד בתור חובש, רוקח וממלא מקום רופא בכל הסביבה. לפי הוראותיו של ד"ר<persName> הלל יפה</persName> , היה עושה במושבה ובסביבה זריקות חינין לחולים חשודים ולחולים בקדחת רגילה נתנו אז מנות גדולות חינין, כדי להרגילם ולהרחיק מהם את סבות קדחת שחור השתן. עבודה רבה ומסוכנת עשה בעטלית, ששם רבו החולים.
+
+ אחרי הכבוש (1918) פתחה "הדסה" בתי חולים ובתי מרקחת בזכרון והסביבה, וכשהם לא הצליחו, מכרו לו את בית המרקחת בזכרון-יעקב, ומאז שימש במושבה ברוקח יחיד וכחובש ובמקרים רבים כרופא.
+
+ היה הראשון שהגיע לבית אהרנסון להגיש עזרה <persName>לשרה אהרנסון</persName> , בשעה שירתה בפיה אחרי הענויים שענו אותה התורכים במטרה להוציא מפיה סודות "אגודת נילי". כששרה ספרה לו בעברית על הענויים, איים עליו הקצין התורכי שהיה האחראי על הענויים: "אל תדבר אתה בשפתכם המלוכלכת"... ודרש שידברו צרפתית, השפה ששלט בה הקצין.
+
+ כ-12 שנה היה נשיא לשכת בני-ברית "אדולף קרוס" במושבה.
+
+ היה חבר ההנהלה של בנק הלואה וחסכון במושבה.
+
+ צאצאיו:<persName> מתתיהו </persName> (חיים זאב),<persName> זרובבל, אמנון, ימי</persName> <persName>מה </persName> אשת <persName>דוד מונדזאק, כרמלי</persName> . (נפטרו:<persName> חנה לאה</persName> , <persName>חיה, זרובבל</persName> ז"ל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2953 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2953</bibl><bibl>Volume: #7 ,Page: 2954 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2954</bibl>
+<bibl>Volume: #7 ,Page: 2955 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2955</bibl>
+<bibl>Volume: #7 ,Page: 2956 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2956</bibl>
+<bibl>Volume: #7 ,Page: 2957 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2957</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

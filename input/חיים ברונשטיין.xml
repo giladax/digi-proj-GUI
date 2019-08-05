@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4017 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4017</bibl><bibl>Volume: #12 ,Page: 4018 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4018</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים ברונשטיין</persName>
+
+</head>
+         <div><p> נולד ברומון (רומניה) בשנת תרל''ד (23.8.1874). לאביו ר' <persName>אברהם </persName> בן 8 שנים נתפס לחינוך הצבא הרוסי של ניקולאי) ולאמו<persName> רבקה.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה
+
+
+ עסק במסחר.
+
+ היה פעיל באירגונים הציוניים ברומניה.
+
+ בעיקר עזר ליתומים ויתומות.
+
+ בשנת 1902 נשא לאשה את<persName> רסל</persName> בת ר'<persName> אהרן מר</persName> <persName>קוביץ.</persName>
+
+ הציל מאות פליטים יהודים ברומניה.
+
+ בשנת 1950 עלה לארץ.
+
+ התיישב ברחובות ועבד בחקלאות.
+
+ נפטר ברחובות, ב' שבט תשכ"ב (7.1.1962).
+
+ צאצאיו: <persName>יצחק, חנוך, חנה</persName> אשת<persName> זאב (וילי), רבקה</persName> (אחות בבית החולים (ליולדות) בילינסון) אשת<persName> אהרן</persName> <persName>קיטאי (קיטיגורודסקי</persName> ).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4017 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4017</bibl><bibl>Volume: #12 ,Page: 4018 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4018</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

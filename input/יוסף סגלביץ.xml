@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 626 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/626</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף סגלביץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פינסק</placeName> (רוסיה הלבנה), בתרכ"ז (1867), לאביו <persName>אהרן-משה</persName> ולאמו <persName>רייזל</persName> . למד ב"חדר" וקיבל חנוך יהודי מסורתי. מפינסק עבר ליקטרינוסלב ושם נצטרף לתנועת חובבי ציון. החליט להיות בין המגשימים ועלה לארץ בתרמ"ה.
+
+ בבואו לארץ נתנסה בגלגולים שונים. תחילה עבד בכרמיהם של פפירמייסטר ואוסטשינסקי בראשון-לציון. עבר ללוד ועבד בבית-הבד של יוסף פינברג. אבל החיים
+
+ בלוד הערבית לא היו לפי רוחו והוא חזר לראשון-לציון ונתקבל לעבודה כמסיק ביקב המקומי. עם הווסד אגודת-הפועלים הראשונה ברחובות החליט לעבור לשם והסתדר כמנהל עבודה אצל משפחת דונדיקוב בכרמים.
+
+ אח"כ שימש במשך שנה משגיח על אחוזת שפרק בגדרה ואחר שקיבל 50 נפוליון זהב פיצויים על פיטוריו לפני המועד הקבוע, פתח חנות-מכולת בגדרה.
+
+ נשא לאשה את <persName>שרה</persName> בת <persName>ישעיהו הנקין </persName> וביתם היה בית-ועד לצעירי המושבה ולאורחים שנזדמנו למקום. הרבה לעסוק בעניני צבור, היה ממפיצי השקל, מעסקני הקק"ל וממפיצי ספרי "תושיה". דובר אמת ומכובד בגלל ישרו ורוחב-לבו.
+
+ מת משבץ-לב בח' ניסן תרצ"ד. הניח בת יחידה, <persName>שושנה</persName> אשת<persName> שרגא אבינדב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 626 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/626</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

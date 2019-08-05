@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 121 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/121</bibl><bibl>Volume: #1 ,Page: 122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/122</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מתתיהו מרדכי וייסמן</persName>
+
+</head>
+         <div><p> נולד בקמנץ-פודולסק, רוסיה, בשנת תרי"ט (1859) לאביו <persName>דוד</persName> , מצאצאי ר' <persName>אברהם דיין</persName> , שהיה רב וראשבית-דין בקהלת אודיסה במשך 40 שנה.
+
+ בשנת תרכ"ו, בשנתו השביעית, עלה ארצה עם דודו <persName>שמשון </persName> ודודתו <persName>טובה וייסמן </persName> (ועל שם-משפחתם נקרא גם הוא וייסמן), שהביאו עמם רכוש גדול בסך 180 אלף רובל.
+
+ נתחנך בירושלים בחדר ובישיבה ובחסידות חב"ד, כמנהג אבותיו, והוסמך לרבנות ולשחיטה.
+
+
+ בן 18 נשא לאשה את חיה בת חיים צבי בק, שהשיאה דודה ר' ניסן בק, העסקן המפורסם של עדת החסידים שבנה את בית-הכנסת הגדול הקרוי על שמו בעיר העתיקה. עסק במסחר, בתעשית טבק-הרחה
+
+ וזמן-מה היה מפקח מטעם חברת "רג'י עותומן" הצרפתית, שהיתה בעלת הזיכיון למכירת טבק ומוצרי-טבק. בירושלים היה גבאי החברה קדישא וממונה של כולל ווהלין.
+
+ עבר ליפו והתישב בנוה שלום ונמנה על נכבדי העדה ונציגיה. פעל רבות למען בית-החולים היהודי מיסודו של ר' שמעון רוקח והתענין בקביעות בנעשה בו, בצרכיו ובמצבו. כן הרבה לעזור לנצרכים, מכניס אורחים, ועוזר לעולים חדשים בהדרכה ובעצה. בכל שבוע היה מקדיש את היום החמישי למתן נדבות לנצרכים, שלא יסבלו מחסור בשבת קודש. מספרים שפעם בא אליו אחד מאלה שבגלל תרמיתם הפסידה דודתו את הונה, וביקש ממנו נדבה הגונה באמרו שאשתו חלתה וזקוקה לרופא ולרפואות. לאחר שנתן לו בעין יפה באו אחרים ואמרו לו, שראו את אשתו של פלוני בריאה ומהלכת בשוק. אמר להם : - למה לכם ללכת רכיל ולהוציא שם רע על יהודי ? אם אינו זקוק לרופא, ודאי זקוק הוא להוצאות לשבת.
+
+ כשנבנתה תל-אביב בנה לו בית בקצה שדרות רוטשילד, כלומר : בפנה שליד צריף-הכבאים לשעבר ועסק במסחר בחלב.
+
+ לעת זקנה פרש מהעסקים והיה שוקד כל ימיו על לימוד התורה. השפיע על אחד מידידיו לתרום תרומה גדולה לבנין בית-כנסת ברחוב מאה שערים בתלאביב והיה גבאי בבית-כנסת זה עד יום מותו.
+
+ שני בניו,<persName> יהודה ויעקב וייסמן</persName> שהתישבו אח"כ בקהיר, מעסקני הציונות במצרים, נשאו לנשים את בנותיו של ר' <persName>יהושע דב בנינסון</persName> מגדרה. אשתו חיה נפטרה בכ"א כסלו תרפ"ג, והוא נפטר ביום י"ז אב תרצ"ד. שניהם נקברו בבית-העלמין הישן בת"א ליד קבר מחותנו בנינסון.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 121 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/121</bibl><bibl>Volume: #1 ,Page: 122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/122</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

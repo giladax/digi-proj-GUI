@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1633 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1633</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק עגן (ניצברג)</persName>
+
+</head>
+         <div><p> נולד בוילנה, י' תמוז תרס"ט (1909) לאביו <persName>יעקב מיכאל </persName> (בן הרב<persName> אליעזר</persName> מחבר הספר "דמשק אליעזר") ולאמו<persName> רחל</persName> לבית<persName> ויינברג</persName> (עלה ארצה עם אשתו ב-1903, בנה את הבית הראשון בשכונת "אחוה" בירושלים והשתתף ביסוד אגודת "ישוב ארץ הקודש" ביזמת חברי לשכת "אחוה"). למד בחדרים ובגימנסיה עברית בוילנה.
+
+ עלה לארץ ב-1929 כתלמיד מקוה ישראל. אחרי ימים אחדים עזב את בית-הספר, נדד בערים ובמושבות, עבד בבנין, בחקלאות ובעבודות אחרות. וזמן קצר היה מזכירו של ד"ר<persName> יהודה יונוביץ </persName> (שהוציא ע"ח ובהפסדים עצומים את ה"ספריה פילוסופית" - ספרי פילוסופיה מתורגמים לעברית). למד בבית-המדרש למורים בירושלים. ב-1932 יצא ללמוד באוניברסיטת וינה ושהה שם כשנה וחצי. היה מעורב בארגון ההגנה העצמית של הסטודנטים היהודים בעת תסיסה אנטישמית באוסטריה, נאסר, ישב שבועות אחדים בכלא, גורש מאוסטריה וחזר ארצה, ומאז הוא עוסק בהוראה ובעבודה ספרותית.
+
+ נשא לאשה את<persName> לאה</persName> בת <persName>מנחם ויטנברג.</persName>
+
+ התחיל לכתוב שירים עברים בגיל רך. שירו הראשון נדפס ב"המשתלה" שבעתון הנוער "הכובב" בעריכת<persName> לובושיצק</persName> י, בן 17 קיבל פרס ממערכת עתון אידי מצויר בוארשה (וועלט שפיגל) על סיפור בשם "מייגע ערשטע ליבע" ("אהבתי הראשונה"). פרסם מאמרים בעתונות האידית בחו"ל ובעברית שירים, רשימות. מאמרי בקורת עליו: ב"גליונות", "מאזנים", "דאר היום", בקבצים השנתיים של אגודת הסופרים, ב"הדואר", "ניב", "מוסף לדבר", "המשקיף", "בצרון", "בדרך" ועוד.
+
+ ב-1940 ערך יחד עם<persName> י. אריכא</persName> את ה"דפדפת" לספרות העברית בשביל תלמידי בתי-הספר.
+
+ ספרי שיריו: בהזדככות (תרצ"ה), בשער הכליה והפלא (תרצ"ט), יש מולדת לאיש (ת"ש), בזעף ליל
+
+ (תש"ז), על גשר הליל (תש"ז) ואנתולוגיה בקרתית של שירת ההשכלה וחיבת ציון בשם "שירה עברית" (תש"ח).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1633 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1633</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

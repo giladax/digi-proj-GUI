@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 88 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/88</bibl><bibl>Volume: #1 ,Page: 89 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/89</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אברהם צבי פינחס</persName>
+
+</head>
+         <div><p> נולד באחוזת אביו נובידבור ליד גרודנה, ח' אדר תרכ"ד (1864), לאביו ר'<persName> יצחק אייזיק,</persName> נינם של ר' <persName>יצחק אייזיק אליאשברג</persName> ושל הרב הצדיק ר'<persName> אברהם</persName> מבאקשט. למד בישיבות גרודנה, רוזינוי, איישישוק ואצל <persName>הנצי"ב</persName> בוולוזין והגאון ר'<persName> חיים מבריסק</persName> . שקד על לימודיו שמונה-עשרה שעות ביום כעשר שנים רצופות. הוסמך לרבנות בגיל צעיר. נשא את<persName> חיה</persName> <persName>גיטל</persName> נכדת הגביר הנדיב ר' <persName>שרגא פייבל קרשט</persName> , פרנס קהלת ביאליסטוק (בת בנו הגאון ר'<persName> יצחק</persName> <persName>משה</persName> שנפטר בגיל צעיר תוך למדו תורה), מגזע רבנים והשל"ה הקדוש (מצאצאיו השתתפו ביסוד פתח-תקוה והישוב העברי ביפו).
+
+ בתרמ"ח נתקבל לרב בעיר קופציובה, בתרס"א נבחר לרב בעיר סערהייא (בה ישב על כסא הרבנות אחיו של הגר"א מוילנה ואף הגר"א עצמו ישב בה
+
+
+ זמן-מה), ובתרס"ט הוזמן לרבנות בקהלה העתיקה טיקטין. בכל מקומות כהונתו נתפרסם כגאון וצדיק וחכם ומומחה בישוב סכסוכים פרטיים וצבוריים. בגלל מסירותו לציון ומאמריו ודרשותיו הנלהבות פסלה הרשות הרוסית את בחירתו לרב בעיר אוסטרולנקה, אך הסינאט הרוסי נענה לערעור הקהלה
+
+ ואישר את הבחירה.
+
+ בעת הפרעות ברוסיה ובעת גירוש היהודים ממחוזות הספר במלחמת-העולם הראשונה פעל והפעיל במרץ ובמסירות ובכח-השפעה אדיר לעזרת הרעבים ולשיכון הפליטים והמנושלים.
+
+ בתרפ"ט עזב את כסא הרבנות ועלה ארצה והגיע בעצם ימי הפרעות, אך לא נואש ואף עודד את מקורביו, כי על אף כל נכלי השטן ומשרתיו קום יקום ישראל לתחיה בארצו. השתקע בתל-אביב, לא קיבל עליו שום משרה, רק התמסר ללימוד תורה ולסידור כתביו בחידושי תורה. בביתו ברחוב הגלבוע החזיק בית-תפלה בשם "אוהל אברהם", ששימש כעין מרכז למוקיריו הרבים מעולי גרודנה והפלך.
+
+ נפטר בת"א, כ"א כסלו תש"ב, והובא לקבורה בהר הזיתים בירושלים.
+
+ ספריתו הרבנית העשירה פתוחה לשימוש תלמידיחכמים במעונו שברחוב הגלבוע בתל-אביב.
+
+ בנו הוא הרב יצחק ליב פינחס (עו"ד רבני ועסקן החרדים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 88 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/88</bibl><bibl>Volume: #1 ,Page: 89 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/89</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

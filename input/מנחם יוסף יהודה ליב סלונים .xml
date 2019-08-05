@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 434 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/434</bibl><bibl>Volume: #1 ,Page: 435 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/435</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם יוסף יהודה ליב סלונים </persName>
+
+</head>
+         <div><p> נולד בחברון, בשנת תרל"ב (1872), לאביו הרב. <persName>מרדכי דובער</persName> (דור רביעי לרבי<persName> שניאור זלמן מלאדי</persName> בעל ה"תניא") ולאמו<persName> שימקא</persName> בת ר'<persName> יוסף יהודה ליב משיוף</persName> .
+
+ קיבל חינוך תורני-חסידי (בנוסח חב"ד) בחדרים. ובישיבה בחברון. נשא לאשה את<persName> מרים דינה</persName> בת ר' נחום<persName> שלמה משביץ</persName> מקיוב (נפטרה ברמת גן, כ' אב תש"ד, והובאה לקבורה בבית-העלמין הישן בת"א). 
+
+ בתרמ"ט עברו ליפו ועסק בחלפנות. באותה שנה רכש לו מגרש בקרבת שכונת נוה שלום, שעמדה להבנות בשנה שלאחריה, ובנה את ביתו בלב השממה. לאחרי זמן פתח לו בית-מסחר למכולת בסיטונות בשוק אל-דיר שביפו (שהיה אז המרכז המסחרי בעיר)
+
+
+ היה מראשוניה ומפעיליה של אגודת "אחוה" ביפו. ממיסדי "לינת הצדק" וחברת גמילות חסדים. ממיסדי העדה החב"דית ביפו.
+
+ בשנותיו האחרונות היה תושב רמת גן והיה מהמיסדים שם את בית-הכנסת החב"די "סוכת שלום".
+
+ נפטר ברמת גן, י"ז אדר תש"ב, והובא לקבורה בבית-העלמין הישן בת"א,
+
+ צאצאיו: <persName>נחום שלמה, יעקב יצחק, לוי משה</persName> (באוסטרליה),<persName> שניאור זלמן, טובה</persName> אלמנת <persName>חיים</persName> בן ר' <persName>זליג</persName> <persName>רבינוביץ, בתיה </persName> אשת<persName> משה מדוב, רבקה</persName> אלמנת<persName> יצחק</persName> <persName>אלעזרי, סימא</persName> אשת<persName> יעקב בן-דרורי, מנוחה רחל</persName> אשת <persName>יעקב קולומצוב</persName> (באוסטרליה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 434 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/434</bibl><bibl>Volume: #1 ,Page: 435 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/435</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

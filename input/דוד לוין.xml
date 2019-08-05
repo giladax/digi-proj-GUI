@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4445 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4445</bibl><bibl>Volume: #14 ,Page: 4446 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4446</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד לוין</persName>
+
+</head>
+         <div><p> נולד בעיר טורקמק ברוסיה בשנת תרל"ב (1872).
+
+ לאביו <persName>שמואל </persName> ולאמו<persName> חיה שרה.</persName>
+
+ בשנת 1892 נשא לאשה את<persName> בינה</persName> בת <persName>יצחק</persName> <persName>ברונשטיין.</persName>
+
+ קבל חנוכו אצל אביו המלמד בחדר שלו, שהכניס בו את החיבה לציון.
+
+ היה מן הציונים הראשונים.
+
+ בשנת תרס"ג (1903) רכש כבר את שקלו. מאז היה קשור עם בנין הארץ.
+
+ בשנת 1920 שלח את בנו הבכור<persName> אהרן</persName> לארץ. כשהיה בן 19 בתור חלוץ.
+
+ שלש שנים אחר כר בשנת 1923 עזב את משרתו הממשלתית בתור פקיד ברכבת ועלה עם כל משפחתו לארץ. הסוכנות שלחה אותו לעקרון ועבד בשתילת הטבק.
+
+ סבל חבלי עליה כיתר החלוצים בימים ההם.
+
+ בשנת 1924 עבר לגור לתל אביב ואז נפטרה עליו אשתו. באותו הזמן נוסדה שכונת מונטפיורי על יד תל אביב. היה מהראשונים לרכוש מגרש בפרדס בשעה שעדין לא היו בה כבישים ומים. בצריפו שהקים חי 23 שנים.
+
+
+ אהב לטפל בירקות ובפרחים שגדלו לתפארת במגרשו. אחרי עלית עוד משפחות על מגרשיהן התחיל להתמסר לעסקנות הצבורית. היה חבר בועדים שנים וגם יו"ר הועד. עזר לולצ"ו בשכונה בהקמת המועדון שלה בשכונה.
+
+ נפטר בתל אביב ביום י"ב אלול תש"ז (28.8.1947).
+
+ צאצאיו: <persName>אהרן</persName> ז"ל (אשתו אידה מורבקין),<persName> שרה</persName> <persName>פינשטין, דינה</persName> אשת<persName> שלמה כהן, שמואל</persName> (אשתו <persName>מטילדה), שושנה</persName> אשת<persName> רפאל פשין.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4445 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4445</bibl><bibl>Volume: #14 ,Page: 4446 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4446</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

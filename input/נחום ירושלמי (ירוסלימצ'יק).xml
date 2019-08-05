@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1977 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1977</bibl><bibl>Volume: #4 ,Page: 1978 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1978</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחום ירושלמי (ירוסלימצ'יק)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ניקולייב</placeName> (רוסיה), ט"ו באב תר"ן (16.8.1890) לאביו<persName> חיים זלמן</persName> (חרש ברזל), ולאמו<persName> חסיה.</persName>
+
+ קבל חינוך בבית הספר העירוני ובגימנסיה המשלתית הרוסית ב<placeName>ניקולייב</placeName>.
+
+ עסק בפעולה ציונית, ייסד את אגודת "צעירי ציון" במקום. השתתף בפעולת "ההגנה העצמית" ב<placeName>ניקולייב</placeName> בימי הפרעות 1905. מיד אחר כך עלה ארצה.
+
+ עם בואו ארצה (1905) המשיך בלימודיו, סיים את בית המדרש למורים בירושלים ואת בית הספר למשפטים של ממשלת המנדט.
+
+
+ השתתף במלחמה לשפת ההוראה העברית נגד חברת "עזרה".
+
+ בשנת 1914 נשא לאשה את<persName> חנה </persName> בת <persName>חכם רבנו</persName> <persName>צרפתי.</persName>
+
+ היה מורה עברי ראשון במחניים בגליל. השתתף עם <persName>שלמה שילר</persName> (ראה את הערך שלו בכרך זה) ייסד את הגימנסיה העברית בירושלים.
+
+ בראשונה חבר הפועל הצעיר. כעת חבר הסתדרות הציונים הכלליים וחבר הועד שלה בירושלים.
+
+ כשלשים שנה מורה בבית הספר העירוני לבנים.
+
+ חבר מערכת "דאר היום" (1932-35).
+
+ ממייסדי השכונה "נחלת צדוק". ביתו הוא בית קיצוני בשכונה, שימש תמיד עמדה נגד המתקיפים הערבים משכונת שייך באדר (בייחוד בימי הפרעות של תרפ"ט). פעיל בהגנת מערב ירושלים. חזית "נחלת צדוק"-"שערי חסד".
+
+ מטעם הקק"ל נשלח לטוניס ופעל שם כשליח ומורה במשך שבע שנים. ייסד שם את "צעירי ציון" והביא את הקבוצה החלוצית הראשונה (1945).
+
+ כתב מאמרים רבים ב"הפועל הצעיר", "הארץ", "דבר", "דאר היום", "הבוקר".
+
+ ספורים ורומנים ב"התלופה", "השלוח".
+
+ הספר "מרקאדו החמר" יצא לאור בהוצאת ראובן מס (1930).
+
+ בהוצאת טברסקי הופיע הרומן "אלמנת הצורף של הביי" (1949).
+
+ בנותיו: <persName>עפרה</persName> (פסנתרנית ומורה לריתמיקה) אשת <persName>יצחק סעידוב</persName> (מהנדס), אהובה (מורה בבית ספר לבנות ג') אשת <persName>אברהם בירמן</persName> (משורר וסופר),<persName> יעל</persName> (אחות ראשית בבית החולים "הדסה'').
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1977 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1977</bibl><bibl>Volume: #4 ,Page: 1978 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1978</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

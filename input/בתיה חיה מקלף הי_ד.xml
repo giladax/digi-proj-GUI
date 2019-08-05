@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 383 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/383</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בתיה חיה מקלף הי"ד</persName>
+
+</head>
+         <div><p> נולדה בירושלים, בשנת תרל"ז (1877), לאביה ר' <persName>יחיאל צ'מרינסקי,</persName> ממיסדי שכונת <persName>מחנה יהודה</persName> בשנת תרמ"ז. וכשיסד אביה יחד עם עסקנים אחרים משכונת <persName>בית יעקב </persName> "חברת לינה" לעזרה רפואית לחולי השכונות הללו, שהיו רחוקות אז ממרכזי השרות הרפואי שב"עיר" (בעיר העתיקה), נרתמה הילדה <persName>בתיה חיה</persName> לעבודת התנדבות בשרות החברה הזאת משנתה ה-11 והלאה.
+
+ בתרנ"ו נישאה <persName>לאריה ליב מקלף,</persName> הלכה אתו למתולה, לפתח-תקוה ואח"כ למוצא, עזרה לו בעבודה החקלאית וביחוד בפיתוח המשק במוצא, ועל הכרם שנטע אביה הוסיפו ענפים חדשים של משק מעורב, שפיתחוהו למשק למופת. בבקיאותה בטיפול בחולים, שרכשה לה עוד בנערותה בירושלים, השתמשה כאן לעזור לחולי המושבה הקטנה ואף לחולים הערבים.
+
+ אך ביום זעם לא זכרו לה הערבים את חסדיה עמם, וכשהתנפלו על המושבה ביום השבת, י"ח אב תרפ"ט, והשמידו את כל הנפשות אשר בביתה, פצעוה קשה בפגיונות ובסכינים ובו ביום מתה מפצעיה בביתהחולים "ביקור חולים" בירושלים, ומשם הובאה לקבורה בהר הזיתים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 383 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/383</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

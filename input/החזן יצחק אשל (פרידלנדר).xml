@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4258 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4258</bibl><bibl>Volume: #13 ,Page: 4259 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4259</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>החזן יצחק אשל (פרידלנדר)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>דברצין</placeName> (הונגריה), ביום כ"א כסלו, תרע"ג (1.12.1912).
+
+ לאביו ר'<persName> משה פרידלנדר</persName> (נכד מהרש"ה לפי ספר "טיל החיים" עד להמלך<persName> דוד)</persName> ולאמו<persName> גיטל</persName> בת <persName>כתריאל</persName> <persName>שוארץ.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבות שונות, ובסוף בישיבת החת"ס סופר בפרסבורג.
+
+ מנעוריו חבר פעיל בתנועה הציונית.
+
+ היה חזן ראשי במינכן (גרמניה), במנצ'סטר (באנגליה) וב<placeName>דברצין</placeName> (הונגריה). במינכן גמר את הקונסרבטוריון למוזיקה. יסד מקהלה מפורסמת של 40 איש, בה לקחו חלק זמרים מפורסמים.
+
+ היה סגן יו"ר של הפועל המזרחי.
+
+ ב-1947 נשא לאשה את <persName>הינדה יעל</persName> בת ר'<persName> חיים ששיל.</persName> בשנת תש"ט (1949) עלה לארץ.
+
+ חזר ראשי בביהכ"נ הגדול ברמת-גן.
+
+ נתמנה לחזן ראשי בבית הכנסת "היכל מאיר" בת"א ויסד שם מקהלה קבועה.
+
+
+ כתב מאמרים בעתון בית כנסת "פועלי צדק" באמריקה. הקליט חזנות בתקליטים.
+
+ השתתף בחזנות במגביות למען מדינת ישראל בארצות הברית שלא על מנת לקבל פרס. שירת בצה"ל. שר לצה"ל מדן ועד אילת.
+
+ צאצאיו:<persName> מלכה, יהודה ישראל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4258 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4258</bibl><bibl>Volume: #13 ,Page: 4259 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4259</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

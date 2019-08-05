@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1492 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1492</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר נתן (נורברט) שפר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>מגנצה</placeName> (מאינץ), גרמניה, ו' טבת תרס"ד (25.12.1903), לאביו <persName>צבי יהודה</persName> (סוחר, יליד העיירה
+
+ ויזניץ, בוקובינה, יצא בבחרותו לגרמניה) ולאמו <persName>רבקה</persName> (רוזה) בת <persName>שלמה הלר </persName> מהעיירה אופנהיים שעל נהר ריין בגרמניה (ממשפחת הגאון ר' <persName>יום-טוב ליפמן</persName> <persName>הלר</persName> בעל "תוספות יום-טוב").
+
+ קיבל חינוך יהודי בבית-הספר של הקהלה, ואחרי גמרו בית-ספר ריאלי ב<placeName>מגנצה</placeName> למד כלכלה מדינית באוניברסיטת פרנקפורט ע"מ והיה שם תלמידו של פרופ'<persName> פרנץ אופנהיימר </persName> (הוגה ומפיץ רעיון ההתישבות השיתופית, שביזמתו ובעקב תעמולה בדעת-הקהל הציונית נוסדה הקואופרציה במרחביה) ובשנת 1924 הוסמך לדוקטור לכלכלה מדינית.
+
+ נשא לאשה את <persName>פריצי</persName> בת <persName>הרמן נוימן.</persName>
+
+ עסק בכתיבת מאמרים כלכליים ומדיניים בכמה שבועונים וירחונים (ביניהם "וולטביהנה") וזמן-מה ניהל את עסקי אביו.
+
+ עלה ארצה ב-1933 ויחד עם הד"ר <persName>פ. ארנסבורג</persName> יסד את הפירמה "פלס" להוצאה ופרסום ואת הירחון הכלכלי "פלניוס". ב-1935 הוציא את השבועון המצויר "החיים הללו", שהיה בשעתו דוגמה לשבועון בעל רמה אירופית. משנת 1938 ואילך היה עורך העלון הגרמני (עתון יומי בגרמנית, בצורה קטנה, לצרכי העולים החדשים), שב-1940 התמזג עם העתון "ידיעות חדשות" (גם הוא בגרמנית).
+
+ מ-1942 התחיל לכתוב מאמרי פרשנות למדיניות וכלכלה בעולם הגדול.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1492 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1492</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

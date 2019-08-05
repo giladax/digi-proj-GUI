@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 108 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/108</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנימין ביינוש סלנט</persName>
+
+</head>
+         <div><p> נולד בעיר סלנט, ליטא, בשנת תקצ"ח (1838), לאביו הרב <persName>שמואל סלנט</persName> , ולאמו<persName> טויבא </persName> בת הרב יוסף זונדל מסלנט.
+
+ כשנתמנה אביו למורה-הוראה בירושלים ועלה ארצה בשנת ת"ר-תר"א (הנסיעה ארכה חדשים אחדים בגלל המלחמה בין מחמד עלי מושל מצרים ובין השולטן, שהפריעה לתנועת הספנות), העלה אתו את אשתו ואת בנו זה. למד בתלמוד-תורה ובישיבת "עץ חיים" ונתחנך על-ידי אביו שהיה רבה של העדה האשכנזית, ואבי אמו, שהיה מגדולי התורה וגדול במעשים טובים ובהתנהגות (מאבות תנועת המוסר). נשא לאשה את בתו של הנגיד ר' יוזיל ליאון, שהוא ובתו זו עלו ארצה באותה אניה, שבה
+
+ בא גם רבי שמואל סלנט ומשפחתו.
+
+ שנים אחדות היה סמוך על שלחן חותנו והמשיך לעסוק בתורה, אך בהתאם לחינוך שקיבל מאביו ומאבי-אמו לא רצה להתפרנס מרבנות ולכן פנה אל המסחר והיד, הראשון במסחר האתרוגים מגידולי הארץ ובמשלוחם ליהודי הגולה, בעיקר לרוסיה. במסחר זה עסק בשותפות עם דודו ר' ליב בר' <persName>זונדל סלנטר</persName> ואח"כ עם ר'<persName> זלמן לוי</persName> (שנקרא <persName>"זלמן ר' נחום'ס"</persName> ). היו קונים את האתרוגים בעודם על העצים מהפרדסים הערבים ובסוף הקיץ היו יושבים ביפו ומסדרים את המשלוחים לחו"ל.
+
+ היה אחד משבעה מיסדי השכונה נחלת שבעה, ואח"כ השתתף ביסוד השכונות אבן ישראל, משכנות ומזכרת משה. השתתף בפעולות ליסוד המושבה החקלאית "פתח תקוה" לפי התכנית הראשונה ליד יריחו ונסע לסייר את הקרקע, וגם אח"כ השתתף בנסיונות ובסיורים לרכישת אדמה ליד יריחו ובסביבת חברון.
+
+ בתרל"ה, כשביקר <persName>משה מונטיפיורי </persName> בפעם השביעית בארץ, היה לו עיכוב בדרך והוכרח להשאר למשך השבת בבאב-אל-ואד. רבני ירושלים רצו לדעת מתי יגיע העירה כדי לקבל את פניו בכבוד הראוי, ולכן יצאו בשליחותם במוצאי שבת אחרי הבדלה ר' <persName>ביינוש </persName> ודודו<persName> ר' ליב,</persName> רוכבים על סוסים ולבושים
+
+ כבידואים ונפגשו עמהם בחצות הלילה בבקעה צרה בין ההרים. בימים ההם היה זה מעשה שדרש אומץלב מיוחד.
+
+ בתו נישאה להרב<persName> יחיאל מיכל טוקצ'ינסקי </persName> מנהלישיבת "עץ חיים".
+
+ נפטר בירושלים, י"ט תשרי תר''ס.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 108 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/108</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

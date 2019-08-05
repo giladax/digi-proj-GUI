@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4704 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4704</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי פונורוב</persName>
+
+</head>
+         <div><p> נולד ביאקטרינוסלב (רוסיה) בשנת תר"ס (17.2.1900).
+
+ לאביו<persName> אליהו</persName> ולאמו<persName> פייגה</persName> בת<persName> מאיר ארש</persName> .
+
+ קיבל חינוך מסורתי וכללי.
+
+ היה חבר ב"צעירי ציון" וב"הגנה" בעירו, תחת פקודו של <persName>ישראל בר-יהודה.</persName>
+
+ בשנת 1910 עלה לארץ ולמד בבית הספר כי"ח (האליאנס) עד 1912 וחזר לרוסיה.
+
+ חזר בשנת 1920 לישיבת קבע.
+
+ עבד כפועל בכביש טבריה-צמח בייבוש ביצות בנהלל, בכביש ראשון-לציון.
+
+ משנת 1923 עד 1965 עבד ב"חברת החשמל בתור מנהל עבודה בבנין רשתות.
+
+ כל השנים חבר "הגנה".
+
+ בתו (מאשתו:<persName> לאה </persName> בת <persName>ליב דוקר); אביבה</persName> אשת <persName>אפרים סגלוביץ.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בביה"ח בילינסון, ג' תמוז תשכ"ח (29.6.68) (ראה כרך ט"ו, עמוד 4704)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4704 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4704</bibl>            <bibl>Volume: #17 ,Page: 5246 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5246</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

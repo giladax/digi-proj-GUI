@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3177 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3177</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל משה גראף</persName>
+
+</head>
+         <div><p> נולד בבריאנסק, פלך גרודנה (רוסיה), ט"ו אלול תרל"ב (1872).
+
+ לאביו <persName>נחמן </persName> ולאמו<persName> פשה </persName> בת<persName> יקותיאל.</persName> קבל חנוך מסורתי.
+
+ בשנת 1892 נשא לאשה את <persName>חיה שרה </persName> בת<persName> שמואל</persName> <persName>אריה </persName> (נפטרה בפתח-תקוה, י''ז אדר תרפ"ו (3.3.1926).
+
+ בכ"ה כסלו תרס"ד (14.12.1903) עלה לארץ. היה חבר לועד המושבה בפ"ת.
+
+ בשנת 1906 נבחר לחבר בהנהלת החברה קדישא. ומאז הוא אחד הפעילים בחברה זו במושבה.
+
+ בביקורו בארצות הברית, יזם להקים התלמוד תורה. "בני ישראל" ובי''ס עברי ע"ש מוריס באנגליבוד.
+
+ בשנת 1911 הצטרף לאגודת "שונה הלכות" ובשנת 1926 - לפי יזמתו ועזרתו הפעילה נבנה ביהכנ"ס
+
+ הגדול "שונה הלכות" בככר חובבי-ציון פינסקר במושבה. (נדב את הגג לבית המדרש וכן נדב מגרש לטובת ביהכנ''ס "שונה הלכות").
+
+ עסק באמונה לטובת מושב זקנים, הכנסת כלה, שופט יתום ומגן אלמנה.
+
+ נפטר בפתח-תקוה, כ' שבט תש"ח (31.1.1948).
+
+ צאצאיו: <persName>נכה </persName> אשת<persName> צבי חלינסקי</persName> (פ"ת),<persName> יקותיאל</persName> <persName>גרף</persName> (ארה"ב), <persName>רחל</persName> אשת<persName> אריה גרינבום </persName> (פ"ת),<persName> יצחק גרף</persName> (ארה''ב),<persName>צבי גרף</persName> (פ"ת), <persName>מרדכי גרף</persName> (פ"ת),<persName> פשה</persName> אשת <persName>אליהו רופמן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3177 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3177</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

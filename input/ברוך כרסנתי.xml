@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2572 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2572</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ברוך כרסנתי</persName>
+
+</head>
+         <div><p> נולד ביפו, כ"ט כסלו תרמ"ב (29.1.1883). לאביו <persName>יהודה</persName> (ראה כרך שני, עמוד 588) ולאמו <persName>חיה </persName> בת <persName>אליהו עמיאל</persName> מירושלים.
+
+ למד בחדר אצל חכם שלמה <persName>בחבוט</persName> ביפו, אח"כ בבית הספר הדתי (עם פנימיה) של חכם<persName> יצחק</persName> (זכי) <persName>כהן</persName> בבירות. המשיך את לימודיו בבית הספר של "כל ישראל חברים" (האליאנס) ביפו והשתלם בשפות ערבית וצרפתית ובהשכלה כללית. בשנות 1898-1901 למד במקוה ישראל.
+
+ כשביקר ד"ר <persName>תיאודור הרצל</persName> במקוה ישראל בשנת 1898 בעת ביקורו בארץ לפגישה עם הקיסר הגרמני <persName>וילהלם</persName> , היה הוא בין התלמידים שנבחנו בפני<persName> הרצל</persName> בחקלאות ובשפה הצרפתית. אחר-כך שוב נפגש עם
+
+ הרצל במרס 1903. כשנזדמן לו להיות במצרים בעת <persName>שהרצל</persName> המתין שם לשוב משלחת החקירה מאל-עריש. ולבקשת הרצל, השיג בשבילו זרעים של פרחי מצרים בשביל בנותיו, ואח"כ שלח לו הרצל לאות תודה את תמונתו בחתימת-הקדשה.
+
+ נשא לאשה את <persName>חיה </persName> לבית <persName>אלקנא</persName> (אלקונין), מראשוני בוני תל-אביב.
+
+ עסק במסחר, בשנת 1907, כשיצא אחיו נסים (ראה כרך א', עמוד 481) להיות מורה באלכסנדריה, יצא גם הוא מצרימה והיה שם סוכן חברת "ואקום אויל" עד שנת 1920.
+
+ השתתף בחיים הצבוריים של העדה היהודית ועזר בעצה והדרכה לבני א"י שנקלעו לרגלי עניניהם למצרים. ביחוד השתתף בשנות מלחמת-העולם הראשונה בפעולות העזרה לפליטים ולמגורשים מא"י.
+
+ ב-1920 חזר לארץ ופתח בחיפה בית מסחר לבגדים מוכנים. גם כאן משתתף בעניני הצבור של העדה הספרדית ובתמיכה במוסדות צדק וחסד.
+
+ אח בלשכת הבונים החופשים "ראובן", ובשנת 1941-42 נבחר לנשיאה.
+
+ צאצאיו: <persName>אריה</persName> (לולו),<persName> ויוי</persName> אשת <persName>אברהם פישבוים.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2572 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2572</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3135 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3135</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם יוסף שמרלינג</persName>
+
+</head>
+         <div><p> נולד ביפו, י' ניסן תרל''ה (אפריל 1875).
+
+ לאביו<persName> יחיאל אביגדור</persName> (ראה כרך ג', עמוד 1290) ולאמו <persName>בת שבע</persName> בת<persName> יוסף וחיה רבקה רוגינסקי</persName> מרוגאצ'וב (ראה כרך ג', עמוד 1231).
+
+ קבל חנוך מסורתי.
+
+ הרחיב את הסוכנות לעבודת המכס ביפו שסבו, ר' <persName>חיים שמרלינג</persName> (כרך א', עמוד 97) החל לעסוק בה עוד בשנת תרכ"ו (1866) .ביסס אותה ביושר ובנאמנות לטובת הלקוחות. היה רצוי ומקובל לחבריו, לקהל הסוחרים ולשלטונות המכס והנמלים.
+
+ נשא לאשה את <persName>צפורה </persName> בת <persName>אברהם דב שרגרודסקי</persName> (כרך ג', עמוד 1432).
+
+ היה מיוצרי המקצוע (סוכן מכס) בארץ. 
+
+ תלמיד חכם, מצניע לכת ובעל מדות נאות.
+
+ נפטר בתל-אביב, ח' כסלו תש"י (29.11.49).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3135 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3135</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

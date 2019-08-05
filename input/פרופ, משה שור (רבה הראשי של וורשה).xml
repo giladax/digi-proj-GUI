@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4663 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4663</bibl><bibl>Volume: #15 ,Page: 4664 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4664</bibl>
+<bibl>Volume: #15 ,Page: 4665 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4665</bibl>
+<bibl>Volume: #15 ,Page: 4666 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4666</bibl>
+<bibl>Volume: #15 ,Page: 4667 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4667</bibl>
+<bibl>Volume: #15 ,Page: 4668 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4668</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ, משה שור (רבה הראשי של וורשה)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פשמישל</placeName> שבגליציה (פולין), בשנת תרל"ד (1874).
+
+ למד בגימנסיה המקומית, השתלם באוניברסיטת ווינה ובבית-המדרש לרבנים.
+
+ את עבודתו המדעית-הספריתית התחיל במחקרו הראשון <persName>על תולדות היהודים בפולין.</persName>
+
+ ב-1896 פירסם את עבודתו על<persName> דון יוסף הנשיא</persName> מהמאה השש-עשרה, שהיה לו השפעה רבה על עניני המדינה בתורכיה.
+
+ לאחר עבודה זו באה הדיסרטאציה שלו<persName> על</persName> <persName>המשטר הארגוני של יהודי פולין מהתקופות הקודמות</persName> <persName>עם חיסול ועד ארבע ארצות</persName> . פרופ ד"ר<persName> מאיר בלבן,</persName> גדול ההיסטוריונים בתולדות יהודי פולין, מעיד שעבודה זו משמשת מקור לכל החוקרים של קורות יהדות פולין.
+
+ ב-1903 חיבר ספר על <persName>תולדת יהודי עיר-הולדתו,</persName> <persName>פשמישל, עד סוף המאה השמונה-עשרה.</persName>
+
+ ב-1909 הופיע ספרו<persName> על זכויות יהודי קרקוב</persName> <persName>משנת 1765.</persName>
+
+ מתמסר לתולדות המזרח העתיק ולחקר אשור ובבל. משתלם בשפות שמיות ומפרסם מחקרים שונים על התרבות והספרות העברית מימים עברו.
+
+ ב-1907-10 הוציא לאור את ספרו ב-3 כרכים <persName>על תעודות משפט בבליות עתיקות</persName> , שעשה רושם גדול בעולם המדע השמי.
+
+ ב-1913 כתב "<persName>תעודות הדיון והמשפט האזרחי</persName> <persName>הבבלי העתיק</persName> " ב-1923 חיבר את ספרו <persName>"לשאלת</persName> <persName>האלמנטים השומרים והשמיים במשפט הבבלי העתיק".</persName>
+
+ כתב ספרים נוספים בעברית, פולנית וגרמנית.
+
+ ב-1899 נתמנה למורה-דת קבוע בסמינריון הממשלתי בלבוב (למברג), בו נלחם על לימוד התנ"ך בלשון העברית -- ומאבקו הוכתר בהצלחה.
+
+ ב-1904 מזמין הוא את כל מורי הדת שבגליציה לועידה ויסד בלבוב יחד עם פרופ בלבן וד"ר <persName>ברנרד האוזנר</persName> (אביו של הקטיגור במשפט<persName> אייכמן.</persName> <persName>גדעון האוזנר</persName> ) את "אגודת המורים בני דת משה של בתי-הספר העממיים והתיכוניים".
+
+ עם קום התנועה הלאומית בגליציה הצטרף אליה, בהתמסרו לרעיון הציוני בכל נפשו. כל ימי חייו נאמן לשפה העברית.
+
+
+ ב-1910 נתמנה לדוצנט לשפות שמיות ולקורות המזרח העתיק באוניברסיטת לבוב, וחמש שנים לאחר-מכן מונה בה כפרופסור.
+
+ ב-1918 נבחר כחבר הועדה המזרחית של האקדמיה הפולנית וב-1928 כחבר האקדמיה.
+
+ ב-1923 הגיע לוורשה, על-מנת לכהן כרבה הראשי לאחר פטירת הרב ד"ר <persName>שמואל אברהם פוזננסקי.</persName> מהיום הראשון התחבב על צאן-מרעיתו וכבש לבבות בהוד קסמו האישי, באצילותו, בנועם הליכותיו, בחכמת-לבו ובחן דבורו.
+
+ עזה היתה מלחמתו מעל במת בית-הכנסת הגדול בוורשה במתבוללים ושונאי ציון למיניהם. הוא היה <persName>הראשון</persName> , שהשמיע מעל במה זו דרשות על בנין ארץ ישראל, בהטיפו לציונות, לקרן-היסוד ולעברית.
+
+ ביזמתו הקים ועד בית-הכנסת בוורשה בית מיוחד בשביל הספריה העברית הגדולה ול"מכון לחכמת ישראל", שבראשו עמד ד"ר<persName> מרדכי ברוידה</persName> (ראה כרך י', עמוד 3632), ופרופ' שור כיהן בו כרקטור (פרשנות המקרא, בלשנות עברית, דקדוק הלשון הארמית).
+
+ תפס גס קתדרה באוניברסיטה הורשאית כפרופסור לשפות שמיות ולתולדות המזרח העתיק.
+
+ ב-1935 נתמנה על-ידי הממשלה הפולנית לחבר ה"סינאט" הפולני, שבו כיהן שלש שנים. מעל הפורום של ה"סינאט" הגן באומץ על האינטרסים היהודיים, הדף את התקפות הריאקציה ותקף את צוררי היהודים, הקוראים לרדיפות, לפרעות, לחרם על המסחר היהודי, לנישול היהודים מעמדותיהם הכלכליות, לצמצום זכויותיהם האזרחיות ולנעילת שערי האוניברסיטאות בשביל סטודנטים יהודים.
+
+ לא היה כמעט מוסד יהודי חשוב בוורשה שלא יעמוד בראשו, או שלא יתן לו מזמנו ומכשרונו. היה חבר הנשיאות של התאחדות הרבנים בעלי השכלה גבוהה, של המיסדר "בני ברית'', יושב ראש הדירקטוריון של קרן היסוד, נשיא אגודת שוחרי האוניברסיטה העברית בירושלים, חבר "אורט", "טאז", עוד ועוד.
+
+ עם פלישת הגרמנים לוורשה (1939) ברח לפולין המזרחית. הרוסים תפסוהו וחבשוהו במאסר על "חטאיו" הציוניים, וטלטלוהו מבית-סוהר אחד למשנהו, ולבסוף הוגלה לאוזבקיסטן ונידון למיתה איטית, בהוציאו נפשו הטהורה, בקיץ 1941.
+
+ כל שנות חייו נשא עיניו לציון ולא זכה לעלות ולהתישב בה. (מ. ה.)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4663 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4663</bibl><bibl>Volume: #15 ,Page: 4664 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4664</bibl>
+<bibl>Volume: #15 ,Page: 4665 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4665</bibl>
+<bibl>Volume: #15 ,Page: 4666 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4666</bibl>
+<bibl>Volume: #15 ,Page: 4667 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4667</bibl>
+<bibl>Volume: #15 ,Page: 4668 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4668</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

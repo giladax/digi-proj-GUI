@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5432 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5432</bibl><bibl>Volume: #18 ,Page: 5433 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5433</bibl>
+<bibl>Volume: #18 ,Page: 5434 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5434</bibl>
+<bibl>Volume: #18 ,Page: 5435 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5435</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ירוחם קליבנוב</persName>
+
+</head>
+         <div><p> נולד בהלופיניץ, פלך מינסק (רוסיה) בי"ד טבת תרנ"ג (בסוף 1892).
+
+ לאביו<persName> ראובן קליבנוב</persName> (מורה עברי ועסקן ציבור) ולאמו <persName>שושנה (ריזה)</persName> בת <persName>יצחק ליפשיץ.</persName>
+
+ בילדותו עברה המשפחה לרומני, פלך פולטבה (אוקראינה).
+
+ בבית אביו (מורה עברי) קיבל חינוך מסורתילאומי.
+
+ בגיל צעיר החל לקחת חלק בעבודה ציונית בעירו.
+
+ בגיל 17, בשנת 1909 עלה לארץ עם חברו<persName> צבי שץ</persName> עבד זמן מה כפועל חקלאי בחדרה ובמגדל.
+
+
+ הצטרף עם הקבוצה הרומנאית למייסדי<persName> דגניה א'</persName> (אום אל-ג'וני, עמק הירדן, בי''ח כסלו תר"ע 1.12.1909). השתתף בבניין המשק ופיתוחו ובעיצוב דמות החקלאית העברית החדישה.
+
+ בעת ובעונה אחת היה פעיל ב"הפועל הצעיר".
+
+ בשנות מלחמת העולם הראשון (ב-1914) נשא את חלקו עם יתר חברי דגניה א' בסבל נגישות השלטון התורכי, ובעזרה לגולים ולאסירים היהודים.
+
+ גוייס לעבודות כפייה של הצבא התורכי.
+
+ זמן מה שמר במושבה רחובות. בשנים 1917-18 היה פועל בבן-שמן, חולדה ובמקוה ישראל.
+
+ בשנת 1918 נשא לאשה את <persName>הדסה</persName> בת<persName> ברוך </persName> (ראה את הערך שלו בכרך זה, בעמוד 5389)<persName> ורחל אוסטרית</persName> מבורך (ראה את הערך שלה בכרך ט"ו, בעמוד 4754) <persName>אוסטרובוסקי-מבורך.</persName>
+
+ עם בוא "ועד הצירים" (הקומיסיה הציונית) בראשות ד"ר<persName> חיים ויצמן</persName> ז"ל לא"י, ביום כ"ב ניסן תרע"ח (4.4.1918) הוטל עליו מטעם "ועד הצירים" לערוך סקר של אדמות צפון הנגב.
+
+ בשנת 1920 בהיותו מזכירו של העסקן הציוני <persName>יצחק ליב גולדברג </persName> (ראה את הערך שלו בכרך ראשון, עמוד 483) יצא בשליחות לרוסיה, וכעבור כמה חדשים נאסר שם ע"י "הצ'יקה". לאחר חקירה ממושכת שוחרר, ולאחר כמה חדשים הצליח לעזוב את רוסיה באופן בלתי ליגלי בחצותו ברגל את הרי קאוקז, בעמדו בראש קבוצת צעירים. בהגיעם לקושטא (תורכיה) עזר להעלותם לארץ.
+
+ בשובו קיבל על עצמו את הנהלת החברה "הבונה" בירושלים. וניהל עבודות בנין בשכונת תלפיות והמוסד "פורת-יוסף" בעיר העתיקה. כאשר התפרקה החברה כעבור שנתיים, המשיר בשטח זה גם בת"א עד אשר נתקבל לחברת החשמל עם ראשית הקמת המפעל על הירדן - נהרים - בשנת 1927. משם הועבר למשרד הראשי לחיפה, ואח"כ לת"א עם הקמת תחנת הכוח "רידינג" (1937-39).
+
+ חזר שוב לחיפה עם הרחבת תחנת הכח בחיפה עד שנת 1949. ושוב הועבר לתל-אביב עם הרחבת תחנת הכוח "רידינג", והמשיד לעבוד שם עד שנת 1957, כשהגיע הזמן לצאת לגימלאות - לאחר 30 שנות עבודה מאומצת מלאות תוכן ועניין.
+
+ בתל-אביב וביחוד בחיפה היה חבר פעיל ב"הסתדדות הציונים הכלליים".
+
+ בתקופה הקצרה עד לפטירתו ערך סקרים במפעלים מטעם משרד הפיתוח ואירגן את בעלי המגרשים בככר המדינה לשם קביעת המדידות (הפרצלציה) של הקרקע.
+
+ נפטר בתל-אביב, בכ"ח אייר תשכ"ד (10.5.1964).
+
+ צאצאיו: (<persName>שושנה</persName> - בתה <persName>רחל נקטר); עמנואל</persName> (חבר קיבוץ "מעגן מיכאל" (רעיתו:<persName> רעננה</persName> בת העו"ד ד"ר<persName> קנר.</persName> בניהם :<persName> יונתן, ענת).</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5432 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5432</bibl><bibl>Volume: #18 ,Page: 5433 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5433</bibl>
+<bibl>Volume: #18 ,Page: 5434 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5434</bibl>
+<bibl>Volume: #18 ,Page: 5435 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5435</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

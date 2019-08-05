@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 590 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/590</bibl><bibl>Volume: #2 ,Page: 591 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/591</bibl>
+<bibl>Volume: #2 ,Page: 592 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/592</bibl>
+<bibl>Volume: #2 ,Page: 593 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/593</bibl>
+<bibl>Volume: #2 ,Page: 594 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/594</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר הכהן לאפין</persName>
+
+</head>
+         <div><p> נולד בגרודנה, רוסיה הלבנה, כ"ג תמוז תרי"ב (1852), לאביו ר'<persName> ישראל משה</persName> , שנקרא גם ר' <persName>משה</persName> <persName>פישל</persName> או בקיצור <persName>פישל</persName> (שהיה מעסקני הישוב הישן
+
+ בירושלים ונודע בכינוי <persName>"ר' פישל נגיד</persName> ") בן ר' <persName>אריה</persName> <persName>ליב</persName> בן ר'<persName> פישל</persName> (שהיה יועץ מלך פולין האחרון לפני כיבוש המדינה וחלוקתה ושם משפחתו היה "לאפעש" ונשתנה אח"כ ל"לאפין"), ולאמו <persName>שרה פראדיל</persName> בת הרב <persName>אברהם גרשון חרל"פ</persName> מסוחו-ווליה בן ראשהישיבה הרב<persName> זאב חרל"פ</persName> בטיקטין, שלפי מגילת יוחסין מוצאו מבית דוד המלך (נפטרה בירושלים, כ"ד אדר שני תרצ"ב).
+
+ התחיל ללמוד ב"חדר" בגרודנה ובהיותו בן עשר עלה ארצה עם הסבא ר' <persName>אריה ליב</persName> ועם הוריו ואחיו <persName>בצלאל ואברהם</persName> . מגרודנה יצאו בסוף חודש אב תרכ"ב, נסעו כארבעה שבועות עד אודיסה, נשארו שם עד אחרי החגים, נסעו ליפו באניה ומשם בר
+
+ כיבה על חמורים ופרדות לירושלים בראשית תרכ"ג, ור' פישל, שבהביאו עמו כ-80.000 רובל היה ה"נגיד" הגדול בירושלים, רכש לו חצר גדולה בעיר העתיקה שנקראת על שמו עד היום "חצר ר' פישל נגיד", החזיק בית-מדרש פרטי בביתו ונתן לבניו את מיטב החינוך היהודי והכללי שהיה אפשרי בעדת האשכנזים בירושלים בימים ההם. אליעזר למד תורה מפי טובי המלמדים הפרטיים; הרב <persName>זבולון חרל"פ</persName> ור'<persName> יהודה</persName> <persName>בלומנפלד</persName> ("ר'<persName> יודל לומזר</persName> "), ובישיבות וממורים פרטיים ששכר לו אביו למד עברית וערבית וידע את השפה הערבית על בוריה בדיבור ובכתב.
+
+ בסוף תרכ"ה נסעו הוריו לרוסיה לסידור ענינים שונים ואז ארסו בשבילו, על-ידי כתיבת "תנאים", את<persName> חנה לאה</persName> בת הרב<persName> יהונתן לוריא</persName> ואשתו<persName> מרים</persName> , שהיתה אחותו של הרב <persName>מרדכי גימפל יפה</persName> מרוזינוי (שהיה בשנותיו האחרונות ראש הישיבה ביהודיה שליד פתח תקוה), ובכסלו תרכ"ז חגגו את החתונה בירושלים.
+
+ כחמש שנים ישב עוד עם אשתו בבית הוריו והמשיך ללמוד בישיבות. אח"כ עבד במשרד "הועד הכללי - כנסת ישראל" כמנהל "מחלקת הגיוס". (עד להנהגת חובת צבא כללית בטורקיה, מעת מהפכת "הטורקים הצעירים", גם על לא-מושלמים, היו בני דתות אלה חייבים לשלם מס מיוחד "אסכריה", לפדיון
+
+
+ שרותם בצבא, והועד הכללי היה משלם מס שנתי זה בעד כל חייבי-הצבא האשכנזים, ואף בעד מי שלא קיבלו "חלוקה", ולניהול מחלקה זו, שהיתה אחראית בפני השלטונות בעד אנשים וכספים, היתה דרושה ידיעת כתיבה בערבית). היה גבאי בתלמוד-תורה "עץ חיים" וב"משגב לדך". נחשב בירושלים בין ראשוני המשכילים, בקי בהויות העולם, ביתו פתוח לרווחה לחובבי תורה וחכמה והיה מקבל כל אדם בסבר פנים יפות.
+
+ כשעבר אחיו, העסקן הידוע<persName> בצלאל הכהן לאפין,</persName> ליפו ועשה בה עסקים גדולים, הזמין גם אותו ליפו והבטיח לו סידור כללי טוב בעסקי המסחר, אך מרוב חבתו לירושלים סירב לעזבה והסתפק בהכנסות המעטות מעבודתו. היה פקיד ראשי בטאבו, כעין נוטריון, ובסוף ימיו התפרנס מעריכת בקשות וכתבים רשמיים בערבית וכמתרגם במשרדי השלטון הטורקי בעניני מסי קרקעות. עסק בצרכי הצבור במאה שערים.
+
+ נפטר בירושלים, י"ח כסלו תרע"ח.
+
+ צאצאיו : הרב <persName>יהונתן מאיר (יונה), אברהם גרשון,</persName> <persName>גדליה דב, חיה מרים, אריה ליב, שינה עלקה ושאול</persName> ,
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 590 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/590</bibl><bibl>Volume: #2 ,Page: 591 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/591</bibl>
+<bibl>Volume: #2 ,Page: 592 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/592</bibl>
+<bibl>Volume: #2 ,Page: 593 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/593</bibl>
+<bibl>Volume: #2 ,Page: 594 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/594</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

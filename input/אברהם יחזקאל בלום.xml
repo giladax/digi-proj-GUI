@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 476 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/476</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם יחזקאל בלום</persName>
+
+</head>
+         <div><p> נולד בטלז, ליטא, בשנת תרכ"ד (1864), לאביו <persName>שרגא פייבל</persName> . החל ללמוד בחדרים בטלז.
+
+ אחרי שנתיתם מאביו עלה ארצה בן עשר עם אמו ואחיו<persName> יצחק</persName> בשנת תרל"ד והתישבו בירושלים. למד בתלמוד-תורה ובישיבת "עץ חיים". בן 15 החל לעבוד כעוזר בבית-מרקחת. אחרי שנים אחדות פתח בית-מסחר לרפואות.
+
+ נשא לאשה את <persName>רחל לאה </persName> בת <persName>טודרוס הלוי,</persName> אחות האחים<persName> יהושע ואליהו ברמן</persName> בעלי מאפית ברמן הגדולה בירושלים. (נפטרה בברלין, ז' ניסן תרפ"ד, והובאה לקבורה בירושלים).
+
+ בתרמ"ד יסד יחד עם גיסו <persName>אריה ליב לוי </persName> בית-מסחר לחמרי בנין וצבעים ברחוב יפו בשם "בלום את לוי", מהראשונים בענף זה בירושלים, וקשר קשרי מסחר עם ארצות-חוץ.
+
+ כחבר פעיל בלשכת "ירושלים" של בני ברית (היה נשיאה בשנות תרס"ה ותרע"ח) השתתף בתרנ"ב ביסוד בית-הספרים "מדרש אברבנאל" (הגרעין של בית-הספרים הלאומי והאוניברסיטאי) ובתרנ"ד ביסוד המושבה מוצא.
+
+ היה מראשוני החברים בשכונת "בית ישראל", חבר בועד השכונה וממארגני השמירה בה.
+
+ בתרס"ב השתתף ביסוד גן-הילדים העברי הראשון בירושלים.
+
+ בתרס"ה השתתף עם <persName>שמעון רוקח</persName> ואחרים ברכישת אדמת "בהריה"' מצפון לפתח תקוה מעבר לירקון, ובנטיעת הפרדס הגדול עליה.
+
+ היה חבר בעירית ירושלים בתקופת השלטון הטורקי ועסקן במוסדות החסד ביקור-חולים הוספיטל, משגב לדך ובית חינוך עוזרים.
+
+ בתרס"ט תמך ביסוד "חדר תורה" ("חדר מתוקן" בעברית) בירושלים (הגרעין לבית-הספר הדתי הכללי "חדר תורה תחכמוני") ובתרע"א נבחר לועד המנהל שלו.
+
+ ביום בי אלול תרע"ד נבחר יחד עם <persName>דוד ילין,</persName> <persName>אלברט ענתבי ויוסף אלישר </persName> לועד המשותף מנכבדי העדות השונות לחלוקת כספי העזרה להקלת המצוקה בראשית מלחמת-העולם הראשונה, שנשלחו מאמריקה בהשתדלות -<persName>הנרי מורגנטאו</persName> , ציר ארה"ב באיסטמבול. בתשרי תרע"ה נתמנה לחבר ועד העזרה לנגועי המלחמה מטעם יהודי גרמניה באמצעותו ובנשיאותו של <persName>אפרים כהן.</persName>
+
+ בתרפ"א השתתף ביסוד שכונת בני ברית, ליד שכונת בית וגן בירושלים.
+
+ נפטר בתל-אביב, ט"ז ניסן תרצ"ו, הובא לקבורה בירושלים.
+
+ צאצאיו: <persName>משה, יהודה, יצחק, הדסה </persName> אשת<persName> אברהם</persName> <persName>מינקס, יהודית</persName> אשת <persName>בנימין אורל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 476 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/476</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

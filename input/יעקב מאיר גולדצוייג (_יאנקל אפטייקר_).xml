@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 883 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/883</bibl><bibl>Volume: #2 ,Page: 884 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/884</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב מאיר גולדצוייג ("יאנקל אפטייקר")</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרי"ז (1857), לאביו <persName>יצחק.</persName> למד בת"ת ובישיבת "עץ חיים", נשא לאשה את חיה בת ר' אליהו יהושע בלוצין.
+
+ למד רוקחות בהתמחות באופן פרטי בביתמרקחת, כמנהג הימים ההם. שרת כרוקה בביתהחולים "משגב לדך", עסק זמן-מה במסחר בטבקהרחה בחנותו בירושלים ברחוב היהודים בעיר העתיקה. כתב לפעמים מאמרים ב"החבצלת". נסע לאיסטמבול והשתדל לקבל תעודת-רוקח באישור ממשלתי, אך לא עלה בידו.
+
+ כשחזר ארצה המשיך בשרותו כרוקח ועוזר לרופא בטיפול בחולים: בעקרון תחת פיקוח הד"ר <persName>מזיא, </persName> ברמלה בשרות הממשלה הטורקית, בחדרה תחת פיקוח הד"ר<persName> הלל יפה</persName> , ובכל המקומות הללו הגדיל לעשות, חוץ מהכנת תרופות לפי הוראות הרופא, בטיפול במחלות עינים, אזנים, מלריה, טיפוס וכו', סבל עם המתישבים הראשונים וריפא אותם, ביחוד בחדרה ומרוב שימוש ליד רופאים למד במשך הזמן לקבוע דיאגנוזה ותרופה כמו רופא מוסמך. משנת תר"ס ואילך עבד במשך 30 שנים רצופות בנוה שלוט שביפו כרוקח ורופא "לשעת הדחק". הרופא הגרמני ד"ר לורד היה שולח אליו רצפטים כמו לרוקח מוסמך ואחראי, ואנשי ההמון, וביחוד הערבים מהעיר ומכפרי הסביבה היו באים לבקש את עזרתו הרפואית בכל המחלות הנ"ל שהתמחה בהן וכיבדוהו כ"רופא פלא".
+
+ לעת זקנה חלה והוכנס לבית-החולים "משגב לדך" בירושלים, שבו התחיל את שרותו הרפואי. ושם נפטר ביום כ"ח שבט תרצ"ד.
+
+
+ צאצאיו:<persName> יצחק מרדכי</persName> (פקיד בבית המרחץ העירוני פינס בת''א),<persName> יוסף </persName> (סוחר בעיר בילטימור בארה"ב),<persName> אליהו</persName> (סוחר בברוקלין),<persName> מנחם</persName> (גר בלונדון) <persName>גנישה </persName> אשת <persName>גרשון גורודנציק.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 883 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/883</bibl><bibl>Volume: #2 ,Page: 884 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/884</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

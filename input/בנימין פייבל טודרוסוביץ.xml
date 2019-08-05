@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2309 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2309</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנימין פייבל טודרוסוביץ</persName>
+
+</head>
+         <div><p> נולד בפרוז'אני, ליד בריסק, פלך גרודנה, בשנת תרכ"ד (1864) לאביו ר' <persName>יצחק אייזיק</persName> (תלמיד חכם) ולאמו <persName>רייזל.</persName>
+
+ למד בחדרים ובישיבות והוסמך להוראה.
+
+ עסק בהוראה בפרוז'אני וגם בתור שוחט.
+
+ נשא לאשה את<persName> דבורה</persName> בת השוחט<persName> משה מנדל.</persName>
+
+ אחיו הצעיר של ר' משה בצלאל טודרוסוביץ ז"ל, מעסקני הישוב הישן (ראה כרך א', עמוד 412).
+
+ היה פעיל באגודת חובבי ציון במחוזו, והכין את בנותיו <persName>יענטע ורבקה</persName> לעלות לירושלים והתכונן לעלות אח"כ עם משפחתו לא"י. הבנות עלו והוא לא זכה.
+
+ נפטר בפרוז'אני, כ"ח אלול תרס"ד.
+
+ צאצאיו; <persName>יענטע </persName> אשת <persName>שמואל ברודר</persName> מירושלים, <persName>רבקה </persName> אשת <persName>זיידל בנדימן</persName> מירושלים, <persName>נישקה</persName> אשת <persName>פנחס</persName>
+
+<persName>נבושציק, אברהם, שלמה, באשה </persName> (בטי)<persName> לאה</persName> אשת <persName>אלכס</persName> <persName>סטאר</persName> (ניו-יורק).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2309 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2309</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

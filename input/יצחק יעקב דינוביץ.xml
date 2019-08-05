@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 752 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/752</bibl><bibl>Volume: #2 ,Page: 753 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/753</bibl>
+<bibl>Volume: #2 ,Page: 754 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/754</bibl>
+<bibl>Volume: #2 ,Page: 755 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/755</bibl>
+<bibl>Volume: #2 ,Page: 756 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/756</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק יעקב דינוביץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פינסק</placeName> (רוסיה הלבנה), בשנת תרל"ב (1872), לאביו<persName> אברהם</persName> . למד בחדרים ובישיבות, וכשבגר עבר לאודיסה והחל לעסוק במסחר.
+
+ בתרנ"ט נשא לאשת את<persName> גיטל ברכה </persName> בת ר' <persName>יוסף</persName> <persName>נחום שלזינגר</persName> , סוחר, מהעיירה טופציב שליד בריאנסק, שעבר משם לאודיסה.
+
+ אחרי הפרעות באודיסה בראשית שנת תרס"ו החליט לעלות עם כל משפחתו לארץ-ישראל, וכאן כבר קדמו לו אחותו <persName>שרה</persName> , שעלתה עם סבא בתרל"ט בהיותה בת י"ג ואח"כ נישאה לר' <persName>יעקב יהודה רייכ</persName> <persName>מן</persName> , שהיה שד"ר של ת"ת וב"ח (תלמוד-תורה וישיבת "עץ חיים" ו"ביקור חולים") והיא היתה בעלת חנות לנייר ולמכשירי כתיבה ברחוב היהודים שבעיר העתיקה בירושלים, ליד בית-הכנסת של "החורבה".
+
+ בחנוכה תרס"ז הגיע ארצה לבדו, בית המסחר באודיסה התנהל בידי אשתו, שהיתה עוזרת על ידו כל הזמן ואז כבר היתה אם לארבעה ילדים. אחרי ששכר דירה וחנות בעיר העתיקה, בקרבת החנות של אחותו ובקרבת המקומות הקדושים, העלה את אמו הזקנה ומשפחתו ויסד בית-מסחר למכולת בסיטונות בעיר העתיקה, המשיך את קשריו עם הפירמות הגדולות ברוסיה ופיתח קשרים גם עם פירמות מארצות אחרות באירופה, הנהיג חידושים ושכלולים
+
+ בשיטת המסחר בענף זה, שהיה קודם לכן בירושלים רק בידי הערבים והתנהל לפי שיטות מזרחיות. אחד החידושים שעשה אז רושם רב היה בכך, שהנהיג את מסירת הסחורות ללקוחות באריזה הגונה, בשקיות-נייר ששם הפירמה שלו מודפס עליהן, וכן הכניס סוגים חדשים של מצרכים, שהעולים מרוסיה זכרו אותם משם, אך לא יכלו לקבלם בירושלים. בירושלים נקרא בקיצור בכינוי "הסוחר האודיסאי", והשכלולים שהנהיג בענף-מסחר זה נתקבלו כדוגמה בנוהג המסחרי בירושלים ואח"כ גם ביפו. הוא ניהל את קשרי החוץ עם הפירמות באירופה ואשתו את הקשרים עם הלקוחות.
+
+ במלחמת-העולם הראשונה היה נותן הלואות גמילות-חסד לסוחרים זעירים ולנצרכים אחרים לפי הוראות ר'<persName> זוול שפיצר</persName> מנהל "גמ"ח הכללי שערי חסד", שקיבל את המשכונות, וכשהורע המצב הכלכלי עוד יותר, צווה להחזיר ללווים את משכונותיהם, וכן היה ביתו פתוח לכל נצרך ובעיקר לבחורי הישיבות.
+
+ בתרע"ו נגזרה עליו גזירת גירוש בגלל נתינותו הרוסית, והמשפחה כבר הובלה ליפו, להשלח באניה מצרימה. אשתו השתדלה במרץ ונתקבלה לראיון
+
+ אף אצל המצביא והשליט העליון ג'מאל פחה ופיזרה מטבעות זהב על ימין ועל שמאל ולבסוף הורשו להתאזרח ולהשאר בארץ. שילם פעמים אחדות את ה"בדל" (מס השחרור מהצבא) ובכל זאת נדרש להתגייס והוכרח להיות "יושב בסתר" בפתח-תקוה בתור "פארר" (משתמט מהצבא). גם בבית-מסחרו פגעו אנשי השלטון והחרימו מכל הבא ביד, אך בהתחשב בצדקה הרבה שנתן נתאפשר לו להסתיר חלק מסחורתו אי-שם בבנין בית-הכנסת "החורבה".
+
+ תלאות המלחמה פגעו קשה בבריאותו ואחרי עבור המלחמה נפל למשכב ונפטר בירושלים, ו' תשרי תר"פ.
+
+ צאצאיו: <persName>יונה</persName> אשת <persName>מיכאל</persName> (בן ר' <persName>דוב ימיני</persName> ממיסדי פתח-תקוה),<persName> שושנה</persName> אשת ד"ר <persName>ישראל בן-זאב</persName> , <persName>אברהם, נתן, בתיה</persName> אשת <persName>צבי בינינסון, מרדכי.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 752 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/752</bibl><bibl>Volume: #2 ,Page: 753 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/753</bibl>
+<bibl>Volume: #2 ,Page: 754 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/754</bibl>
+<bibl>Volume: #2 ,Page: 755 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/755</bibl>
+<bibl>Volume: #2 ,Page: 756 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/756</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

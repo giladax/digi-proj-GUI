@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1862 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1862</bibl><bibl>Volume: #4 ,Page: 1863 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1863</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב בנאי (טונקל)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ברנוביץ</placeName> (פולין), בשנת תר"פ (20.3.1920) לאביו <persName>שרגא</persName> (בן דודו של האב היה יוסף טונקל ההומוריסט היהודי הידוע בכנויו "דער טונקעלער") ולאמו <persName>ברכה</persName> בת <persName>חנן סוקולובסקי.</persName>
+
+ קבל חינוך עברי בבית הספר בעיר מולדתו, ושם גם גמר את הגימנסיה הממשלתית בשנת 1938. שנה אחת למד באוניברסיטה בוילנה.
+
+ היה חבר בית"ר ב<placeName>ברנוביץ</placeName> ומפקד המחוז כולו מטעם הארגון הצבאי הלאומי. בשנת 1937 היה פעיל בארגון העפלה (עד פרוץ המלחמה העולמית השניה). אחרי פרוץ מלחמת העולם הגיע לוילנה ששימשה אז צהר לגבה, דרכו יצאו יהודים רבים מאירופה הבוערת. יחד עם קציני נציבות בית"ר הצליח לעזוב את וילנה למרות היותה כבר בשלטון סובייטי והגיע ארצה דרך תורכיה בשנת 1941.
+
+ עד שנת 1943 היה נוטר בעמק מבלי שמפקדיו או חבריו ידעו שהוא כבר קשור עם המחתרת של לח"י.
+
+
+ באותה תקופה הוכנס לנוטרות גם<persName> דב גרנק</persName> , הידוע בכנויו <persName>"הבלונדיני הגבוה".</persName>
+
+ משנת 1943 הוא נדרש לעבודה מאמצת יותר למחתרת ועזב את הנוטרות, מאז פעיל כחבר המזכירות ע"י המרכז ובחטיבה הלוחמת של לח"י. פעיל בראשונה
+
+ בחיפה אח"כ בתל-אביב כמפקד החטיבה. לאחר בריחתו של <persName>יהשע זטלר</persName> (מאיר) מעכו הוא עובר לעבודה ארגונית וחוזר שוב למחלקת הפעולות לאחר <persName>שזטלר</persName> נשלח כאחראי לירושלים. הוא מתכנן את רוב הפעולות של לח"י ומשתתף ברבות מהן. ביחוד עובדה על ידו שטת מכוניות הנפץ שהופעלה בסי. איי. די. בחיפה, במשטרת שרונה ו"בסארייה" ביפו.
+
+ ב-1945 נשא לאשה את<persName> חנה</persName> בת <persName>שמואל יעקב</persName> <persName>קרוגר.</persName>
+
+ עם התגייסותם של אנשי לח"י לצבא ההגנה לישראל, גוייס ושימש כמקשר בין המטה של האלוף <persName>יצחק שדה</persName> וביחידות של לח"י בדרגת סרן (מ-48 .5 .29 עד 49 .6 .9). במשפט עכו נגד <persName>נתן פרידמן-ילין</persName> הופיע כעד הסניגוריה.
+
+ לאחר שחרורו מהצבא נכנס כחבר באגודה קופרטיבית של חיילים משוחררים "הסלע".
+
+ עם הפילוג בלח"י הצטרף למפלגת הלוחמים והוא חבר המרכז.
+
+ בימי המחתרת היו כנוייו: <persName>אפל, שרגא, יוסף, מזל.</persName>
+
+ בתו:<persName> נילי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1862 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1862</bibl><bibl>Volume: #4 ,Page: 1863 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1863</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

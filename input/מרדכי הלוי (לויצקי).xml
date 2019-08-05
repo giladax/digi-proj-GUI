@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4487</bibl><bibl>Volume: #14 ,Page: 4488 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4488</bibl>
+<bibl>Volume: #14 ,Page: 4489 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4489</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי הלוי (לויצקי)</persName>
+
+</head>
+         <div><p> נולד בקיוב (רוסיה), ט"ו אייר תרנ"א (15.4.1891).
+
+ לאביו <persName>אברהם לויצקי </persName> ולאמו <persName>מאטיל </persName> בת <persName>זאב</persName> פוקרס.
+
+ קיבל חינוך מסורתי בחדר, ביה"מ, ביה"מ למורים בירושלים (1912-14).
+
+ בשנת 1914 גורש מא"י (בפרוץ מלחמת העולם הראשונה) למצרים. התגייס באלכסנדריה לגדוד נהגי הפרדות העברי ונלחם בגליפולי ואח"כ עבר לגדוד העברי ממתגיסי המתנדבים באמריקה.
+
+ בגמר המלחמה עבר לארצות הברית והמשיך ללמוד באוניברסיטאות: קולומביה (ניו-יורק) ודרופסי-קולג' (פילדלפיה) וקיבל התוארים: ב. א. וM.Se בחינוך.
+
+ היה מורה, מנהל ומפקח בחנוך העברי בארצות הברית ובברזיל.
+
+ ממיסדי הסתדרות המורים והסתדרות העברית בארצות הברית ומנהלה.
+
+ בשנת 1918 נשא לאשה את <persName>שושנה </persName> בת הרב משה שטרן (נפטרה בניו-יורק במאי 1928) ובזיווג שני נשא לאשה בשנת 1935 את ד"ר<persName> יהודית</persName> בת <persName>אברהם אפשטיין - ישפה.</persName>
+
+ היה שליח הסוכנות היהודית באמריקה הלטינית.
+
+ בשנים 1934-36 מנהל ומורה ראשי בביה"ס התיכון החקלאי בפרדס חנה.
+
+ היה ציר לקונגרס העברי האחרון, לועידה העברית ב-1947.
+
+ משנת 1956 יושב בקביעות בארץ, פרט לשליחות חנוכית בברזיל וארגונית עברית באמריקה.
+
+ חבר במערכת "שבילי החינוך".
+
+ נציג התנועה העברית בארצות הברית.
+
+ חבר ההנהלה של הברית העברית העולמית.
+
+ פרסם מאמרים רבים בשאלות חינוך ותרבות בעברית, אידית ואנגלית.
+
+ בניו: ד"ר <persName>אמתי הלוי </persName> (פרופ' לכימיה בטכניון בחיפה), ד"ר<persName> נדב הלוי </persName> (מרצה בכלכלה באוניברסיטה העברית).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4487</bibl><bibl>Volume: #14 ,Page: 4488 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4488</bibl>
+<bibl>Volume: #14 ,Page: 4489 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4489</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

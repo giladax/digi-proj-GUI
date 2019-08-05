@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2619 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2619</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>באשה סלאנט</persName>
+
+</head>
+         <div><p> נולדה בפלוגיאן (ליטה) בשנת תר"יג (1853).
+
+ לאביה ר' <persName>מאיר מנדלמן </persName> (תלמיד חכם. עלה עם אשתו, בנו יחזקאל ושתי בנותיו לארץ בשנת תרי"ח-1858 בסירת מפרש קטנה במשך חדשים רבים. התישב בדירה קטנה בחצר החורבה. נתקבל למגיד שעור בבית המדרש "מנחם לציון" בחצר רבי יהודה החסיד. היה מהראשונים שעברו לגור מחוץ לחומה, בבתי יהודה טורא).
+
+ עלתה לארץ עם הוריה והמשפחה בשנת תרי"ח (1858).
+
+ קבלה חנוך מסורתי.
+
+ נישאה לר'<persName> חיים</persName> בן הרב <persName>שבתי ד"ץ</persName> (דיין צדק בבית הדין הראשון בירושלים. חתנו של הרב <persName>יוסף זונדל</persName> <persName>סלנטר</persName> ). בעלה נתמנה למשגיח על הכשרות בבית המטבחים.
+
+ עזרה למשפחה שגדלה במסירות רבה והגישה עזרה לכל נצרך.
+
+ אחיה היה <persName>יחזקאל מנדלמן</persName> (חצקול אפטייקר) הידוע בירושלים.
+
+ נפטרה בירושלים, י"ב ניסן תרפ"ג (29.3.1923).
+
+ צאצאיה: <persName>רבקה</persName> אשת<persName> מנדל שווארץ, אורי שבתי</persName> <persName>סלאנט, נחמה פייגה</persName> אשת <persName>אליהו צבי וסרמן, חיה טובה</persName> אשת<persName> ישראל אפרים</persName> (אלטר) <persName>שפירא, יוסף משה סלאנט</persName> (נעלם במלחמת העולם הראשונה כשנשלח לשרת בצבא התורכי בקושטא).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2619 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2619</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3299 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3299</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד מרקוס</persName>
+
+</head>
+         <div><p> נולד בי"ז כסלו תרס"ח (25.12.1907) בפתח תקוה.
+
+ לאביו <persName>משה </persName> (ראה כרך א', עמוד 474) בן ר'<persName> נחמן</persName> (ראה כרך א', עמוד 418) ולאמו <persName>מרים</persName> בת ר'<persName> שמואל מיליס</persName> (ראה כרך ב', עמוד 583), וכפי שאפשר לראות מתיאור מעשיהם בערכים הנ"ל היה בהם כדי לשמש מופת מחנך לאהבת המולדת ולמסירות למענה מתוך נדיבות עילאית, ובוז למכשולים ולקשיים.
+
+ גמר את בית-הספר הדתי "נצח ישראל" בפתחתקוה והשתלם בלימודי קודש בישיבת מזרחי בירושלים.
+
+ בילדותו היה לו קול ערב וחיבה מיוחדת לזמרה והיה זמר-סוליסט במקהלת בית-הכנסת הגדול "בית יעקב" בהדרכת טובי החזנים שכיהנו בו אז (<persName>גוזמן,</persName> <persName>לויטין, גורדון)</persName> . וכשלמד מדעי המסחר באקדמיה למסחר בוינה, עד שגמר בהצטיינות, הוסיף להשתלם גם במוסיקה, בעזרת הדרכה טובה בתוך המשפחה.
+
+ בוינה נשא לאשה את <persName>בלה </persName> בת עוה"ד<persName> יוסף ורוזה</persName> <persName>וויזר</persName> , שהיתה פרופסורית לפסנתר בקונסרבטוריון הוינאי, והיא שהדריכה אותו בהשתלמותו במוסיקה. בשנת 1927 הוזמנה לקונסרבטוריון "שולמית" בת"א למחלקת הפסנתר. וכן ניהלה את סניף ביה"ס בפ"ת והעמידה תלמידים רבים ביניהם כיום מורות לפסנתר בארץ. עזרה תמיד למחוסרי אמצעים ונגנה עבור מוסדות חסד שלא על מנת לקבל פרס. (נפטרה בפ"ת 29.1.50). בזיווג שני נשא לאשה את <persName>רוז </persName> לבית<persName> וסרמן.</persName>
+
+ גם את בתם <persName>יוספה </persName> חינכו בהצלחה למוסיקה, והקונצרט-סולו בפסנתר, שנתנה בגיל 12 במוזיאון תל-אביב, פרסם אותה לשבח.
+
+ מאז פעיל כל השנים בניהול חשבונות ובבקורת חשבונות במוסדות ובמפעלי-תעשיה בארץ ופעיל גם בעניני צבור. נבחר פעמים לנשיא לשכת בני ברית "חבצלת השרון" בפתח תקוה, חבר הנהלת "אולוס" אגודה לטיפוח מפעלים מוסיקליים, חבר מועדון רוטרי,
+
+ יו"ר המועצה של "אילנשיל-פולין" לעזרת ילדים נגועי שיתוק בפתח תקוה, ועוד.
+
+ בתו (מאשתו הראשונה):<persName> יוספה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3299 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3299</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

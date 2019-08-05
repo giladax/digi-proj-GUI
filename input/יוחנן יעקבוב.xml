@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3369 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3369</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוחנן יעקבוב</persName>
+
+</head>
+         <div><p> נולד כ' אלול תרס"ו (1906) בזוויניגורודקה שבפלך קיוב, אוקראינה.
+
+ לאביו ר' <persName>בן ציון </persName> (רב בבסרביה, מצד אמו ממשפחת <persName>הנתנזונים</persName> בברדיצ'ב, שהיו אזרחי-כבוד ברוסיה הצארית) ולאמו<persName> חסיה</persName> בת הרב <persName>מרדכי אריה ברמשנקה</persName> (רב נזוויניגורדקה, מצאצאי הבעש"ט וצדקים אחרים).
+
+ למד בישיבות מוהילב פודולסק וקאמינץ פודולסק והוסיף להשתלם בש''ס ופוסקים אצל אבי אמו ואצל דודו הרב <persName>ירחמיאל גודלשמיד</persName> בווינוגראד. השתלם בהשכלה כללית ובפדגוגיה והוסמך למורה בסמינר למורים שליד אוניברסיטת חארקוב.
+
+ הצליח לצלוח את הדניסטר ולצאת מברית המועצות לבסראביה, שהיתה אז תחת שלטון רומניה. היה מורה בבתי-ספר עממיים ותיכונים עבריים ובפדגוגיון העברי בבוקארשט. חיבר את ספרי הלימוד "גיל" א' לבתי-ספר עממיים, "גיל ב' לבתי-ספר תיכונים שאושרו על-ידי המיניסטריון הרומני לחינוך ונתקבלו על-ידי מחלקת
+
+ החינוך של קהלת בוקארשט, וספר הלימוד העברי" בשביל בית"ר העולמית, שנתאשר על-ידי<persName> זאב ז'בו</persName> <persName>טינסקי.</persName>
+
+ בשנת 1944 עלה לארץ.
+
+ בשנת 1946 יסד את בית-הספר הראשון בגבעת שמואל שליד בני ברק והיה מנהלו הראשון.
+
+ חיבר ספר לימוד למבוגרים "לעולה ולמעפיל'', שיצא ב-1947 ואח"כ בשלש מהדורות נוספות, ואת ספר הלימוד "עם ושפתו" לבית"ר העולמית. ממשיך בחיבור ספרי לימוד. פרסם מאמרים ב"המשקיף".
+
+ ב-1950 נשא לאשה את <persName>גניה</persName> לבית<persName> רובק.</persName>
+
+ ב-1955 היה יו"ר הועדה היוזמת לארנון סניף לתנועת "חירות" ביפו, וכשנוסד הסניף העצמאי ב-1956 נבחר פה אחד ליושב-ראשו.
+
+ בתו (מאשתו הראשונה <persName>רבקה </persName> בת <persName>יעקב אכטנברג):</persName>
+
+<persName>בתיה</persName> אשת<persName> ג. רוזנפלד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3369 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3369</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

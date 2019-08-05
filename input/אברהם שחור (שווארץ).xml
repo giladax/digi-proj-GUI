@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3311 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3311</bibl><bibl>Volume: #9 ,Page: 3312 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3312</bibl>
+<bibl>Volume: #9 ,Page: 3313 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3313</bibl>
+<bibl>Volume: #9 ,Page: 3314 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3314</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם שחור (שווארץ)</persName>
+
+</head>
+         <div><p> נולד בשנת תרנ"ד (5.10.1893) בוולטושקוב שברוסיה.
+
+ לאביו<persName> יהודה ליב שווארץ</persName> (בעל טחנה) ולאמו ציונה בת <persName>אברהם חכמגי</persName> (קריאת בת בשם זה בימים ההם ברוסיה מעידה על זיקה עמוקה של המשפחה לציון).
+
+ המסורת הציונית של המשפחה וגידולו בחיי הטבע חיזקו בו את הגעגועים לחיי עובד-אדמה בארץ-ישראל, וב-1911 עלה לארץ בגיל 18, החליף מיד את שםמשפחתו <persName>שווארץ לשחור,</persName> והתחיל לעבוד בתור פועל חקלאי במושבות. ב-1914 קבע את מושבו בגדרה, תחילה כפועל חקלאי שכיר ואח"כ כמפקח על אחוזה.
+
+ ב-1917 נשא לאשה את <persName>דבורה</persName> בת <persName>אהרן ובת-שבע</persName> <persName>פלורנקו.</persName>
+
+ במשך הזמן רכש את אחוזתו של אחד מראשוני הקונים אדמה בגדרה אחרי התנחלות הבילויים, פיתח משק חקלאי ועבד בו כל ימיו. בהיות אחת מחלקות אדמתו אדמת טרשים, שאינה ראויה לעיבוד חקלאי, יזם ליסד עליה שכונה חדשה, אף כי באותו זמן נחשב המקום רחוק מהמושבה. הראשון שראה חזון מעשי ביזמה זו היה הד"ר <persName>אריה בן-גפן</persName> (ראה כרך ב', עמוד 897), שבנה שם את ביתו ואת בית-המרפא שלו, ובזמן הראשון נקראה השכונה על שם מיסדה "שכונת שחור". עם העליה מגרמניה נתרחבה המושבה, ובסוף הורחב השטח הבנוי עד לבנינים הראשונים של השכונה ומהם והלאה, וכעת אין זו שבונה מיוחדת, אלא חלק בגדרה המורחבת.
+
+ היה פעיל בחיים הצבוריים של המושבה כחבר הועד, חבר בועד החקלאי, בועד בית-הספר ,בהנהלת הלואה וחסכון, בועד בית הכנסת ובחברה קדישא.
+
+
+ נפטר בגדרה, י"ד ניסן תשי"ז (15.4.57).
+
+ צאצאיו : <persName>אהרן, יהודית</persName> אשת<persName> מנחם חבקין, מרדכי,</persName> <persName>אליעזר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3311 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3311</bibl><bibl>Volume: #9 ,Page: 3312 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3312</bibl>
+<bibl>Volume: #9 ,Page: 3313 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3313</bibl>
+<bibl>Volume: #9 ,Page: 3314 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3314</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

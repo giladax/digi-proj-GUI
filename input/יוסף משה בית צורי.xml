@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 692 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/692</bibl><bibl>Volume: #2 ,Page: 693 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/693</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף משה בית-צורי</persName>
+
+</head>
+         <div><p> נולד בעיירה גורודייה, פלך מינסק, ליד עירהישיבה המפורסמת<persName> מיר</persName> , תר"ן (4.4.1890), לאביו אלעזר<persName> שטיינהויז.</persName> למד בחדר ובבית-ספר עממי רוסי ובשנת 1904 עלה ארצה. (ב-1900 בא אביו עם אחת מבנותיו והשיאה ביפו וחזר לרוסיה ב-1904 באה אמו אתו, השאירתו אצל אחותו וחזרה, וב-1910 עלתה כל המשפחה להשתקע בארץ וההורים נשארו עד סוף ימיהם בירושלים. האם נפטרה בתרע"ג והאב בתרפ"ז). גמר את ביה"ס של כי"ח בירושלים, וכשהוכרזה החוקה הטורקית, שהעניקה שויון לכל התושבים בלי הבדל דת, נכנס ללמוד בביה"ס התיכוני הממשלתי "איעדאדי", אך בגלל קשיים חמריים הוכרת להפסיק את לימודיו ונתקבל כפקיד בביתהמסחר של "כרמל מזרחי" בירושלים.
+
+
+ בפרוץ מלחמת-העולם הראשונה נמלט מהברירה בין גירוש להתעתמנות על-ידי קבלת תעודה זמנית כנתין הולנדי, נשאר בארץ, יצר קשרים טובים עם פקידי השלטון ותודות לכך הצליח להשיג בשביל "כרמל מזרחי" רשיונות להוביל את תוצרתה לסוריה ברכבת, שהיתה אז בניהול צבאי.
+
+ ב-1918 נשא את <persName>אסתר</persName> (סטלה) בת <persName>אברהם ברוך</persName> מירושלים.
+
+ ב-1919 נכנס לעבוד בשרות הדואר ונשלח לעבוד ביפו. בהשתדלותו נכנסו יהודים במספר ניכר לעבוד בדואר. עיסא אל עיסא עורך ה"פלסטין" פתח בהתקפות עליו בעתונו ואף העליל עליו עלילות כוזבות (כפי שהסביר לו הריהו מתיחס אליו באהדה באופן פרטי, אך בגלל היותו יהודי-ציוני הוא רואה חובה להלחם בו), והוא הוכרח לתבוע את המעליל לדין (ביום בירור התביעה נשפט עיסא אל עיסא על אשמה דומה גם נגד הקולונל<persName> קיש</persName> ). חוץ ממקרה זה התיחסו אליו נכבדי יפו באהדה ובכבוד, ומר<persName> קיסר</persName> <persName>ארקטינג'י,</persName> ראש עירית יפו בימים ההם, שהכירו, שלח אליו בפי <persName>פרץ פסקל</persName> הזמנה להצטרף ללשכת הבונים החפשים "ברקאי", שהוא היה אז נשיאה. גם חבריו הנוצרים והמושלמים בשרות הדואר התיחסו אליו בחיבה, וכשפרצו המהומות ב-1 במאי 1921 נגד היהודים ביפו (כפי שנקבע אח"כ על-ידי ועדתחקירה רשמית - פרצו המהומות מתוך התרגזות פתאומית של ההמונים ביפו למראה תהלוכת פועלים יהודים עם דגל אדום לכבוד ה-1 במאי), ידע אחד הפקידים עוד ביום שלפני המעשה להזהירו, שמחר ישאר בביתו ולא יצא החוצה...
+
+ פעמים רבות השתדל<persName> מאיר דיזנגוף</persName> בפני ההנהלה המרכזית של הדואר, שימנו אותו למנהל הדואר בתל-אביב, אך בהיותו סגן מנהל הדואר ביפו והגורם העיקרי לקיום הסדר בעבודה שם, סירבה ההנהלה המרכזית לוותר על שרותו זה ומינתה מנהל אחר לתל-אביב. ב-1932 נתמנה למנהל הדואר בטבריה עד יוני שנת 1936.
+
+ צאצאיו: <persName>אליהו</persName> בנו (נולד ב-1922 בתל-אביב) השתתף בשליחות "לוחמי חרות ישראל" בהמתת <persName>הלורד מוין</persName> , מיניסטר-המדינה הבריטי בקאהיר בתקופת מלחמתהעולם השניה, שניהל לפי דעתם את המזימות להקמת "הליגה הערבית" נגד הציונות. נתפס ונדון למות יחד עם <persName>אליהו חכים</persName> , על-ידי בית-דין צבאי מצרי בקאהיר והוצאו להורג ביום 8.3.1945, <persName>דבורה</persName> אשת איסר היימן, <persName>אביבה, לאה, אלעזר</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 692 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/692</bibl><bibl>Volume: #2 ,Page: 693 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/693</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 1020 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1020</bibl><bibl>Volume: #2 ,Page: 1021 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1021</bibl>
+<bibl>Volume: #2 ,Page: 1022 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1022</bibl>
+<bibl>Volume: #2 ,Page: 1023 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1023</bibl>
+<bibl>Volume: #2 ,Page: 1024 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1024</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ברוך נאה</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אדירנה</placeName> (אדרינאפולי), טורקיה האירופית, ט"ו אדר תר"מ (1880), לאביו <persName>מנחם</persName> . קיבל חינוך תורני בתלמוד-תורה של הקהלה. השתלם בטורקית ובצרפתית, למד בבית-הספר התיכוני הממשלתי שבעיר ואח"כ במחלקה למשפטים של אוניברסיטת איסטמבול, הוסמך בתרס"ח לעורך-דין ועסק במקצועו בעיר הולדתו.
+
+ בתקופת לימודיו באיסטמבול היה מהספרדים הראשונים שהצטרף לאגודת הסטודנטים היהודים. שנוסדה שם. היה לעזר ומדריך בשפה הטורקית ובמשפט הטורקי לשופט <persName>ד"ר יצחק נופך</persName> , שביזמת <persName>מ. אוסיש</persName> <persName>קין</persName> (תכנית להסתננות יהודית לאדמיניסטרציה ולמשפט הטורקיים בארץ-ישראל) בא ללמוד משפטים באיסטמבול ולפעול שם למען הציונות והתרבות העברית, וכן היה לעזר בענין זה <persName>לגד פרומקין</persName> (כעת השופט העליון) שבא מירושלים ללמוד משפט טורקי באיסטמבול.
+
+ נשא לאשה את <persName>שמחה</persName> בת <persName>אהרן סאראנגא</persName> מקושטא.
+
+ עסק בצרכי צבור בעירו. בתרע"ה השתתף ביסוד בית-חולים וכן בית-כנסת לפליטים ממלחמת-הבלקנים. גויס לצבא ושרת כקצין בחיל הרגלי, זמן-מה גם בארץ (במרחביה ובנצרת), ובסוף המלחמה חזר לעירו.
+
+ בראשית תרפ"ד עלה ארצה, התישב בתל-אביב, ואחרי עמדו בבחינה לעורכי-דין זרים הורשה לעסוק במקצועו ובמהרה התמצא בעבודתו הודות לידיעותיו היסודיות בחוק הטורקי, שנשאר כאן בתקפו. גם כאן עסק בצרכי צבור. נבחר לנשיא אגודת יהודי המזרח הקרוב ולסגן יו"ר סניף "התאחדות הספרדים" והשתתף ביסוד בית-הבנסת "שלום וצדקה" (ברחוב מרכולת) ליהודי ארצות הבלקנים.
+
+ תרגם מעברית ללועזית את הספרים "להבה ירוקה" לויסוצקי, "בלי כוכב" ו"אשתו השנואה'' ליהודה בורלא, "זכרונות לבית דוד" לא"ש פרידברג, "המכשפה מקסטיליה" לשלום אש ועוד, וכמה מתרגומיו נדפסו בארץ ובחו"ל.
+
+ בעיקר שקד בשנותיו האחרונות על עבודה ספרותית-מדעית, לתרגם ולפרש את אוסף-החוקים הטורקי "מג'לה" (שמחברו היה לפנים מיניסטר למשפטים בטורקיה ומורו של ב. נאה באוניברסיטה), תרגום שהיה לו ערך מעשי אף בשרות המשפט בארץ. חלק מהתרגום עם ביאוריו יצא בדפוס ויתר החלקים נשארו בכתב-יד, כן תרגם את הספר "חוק מסחרי ימי". שקידתו בעבודה יומם ולילה גרמה שטף-דם במוחו ושיתוק בחצי-גופו השמאלי, בינואר 1940, והוכנס לבית הנכים בת"א. שם נפגע בראשו וברגלו מהפצצת האויב ב-1941 וההדף
+
+
+ הפילו מהקומה השניה לקרקע הרחוב. כשלש שנים רצופות שכב במוסד ובו נפטר ביום ב' אדר א' תש"ג (7.2.43).
+
+ צאצאיו:<persName> רחל </persName> אשת<persName> יצחק בנבנישתי, אהרן</persName> (פקיד בברקליס בנק בת"א),<persName> מנחם</persName> (פקיד בבית החולים הממשלתי "הירקון" בת"א).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 1020 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1020</bibl><bibl>Volume: #2 ,Page: 1021 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1021</bibl>
+<bibl>Volume: #2 ,Page: 1022 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1022</bibl>
+<bibl>Volume: #2 ,Page: 1023 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1023</bibl>
+<bibl>Volume: #2 ,Page: 1024 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1024</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

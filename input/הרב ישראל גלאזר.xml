@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4228 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4228</bibl><bibl>Volume: #13 ,Page: 4229 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4229</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב ישראל גלאזר</persName>
+
+</head>
+         <div><p> נולד י"ג אלול תר"ע (1910) ביארמולינץ שבפלך פודוליה, אוקראינה.
+
+ לאביו הרב ר'<persName> יואל יהודה גלאזר</persName> (אז רב ביארמולינץ, אח"כ באודיסה וכעת בתל-אביב, בשכונת התקוה - מצאצאי הרבי ר' <persName>משה מפשיבורסק</persName> , מאבות החסידות, בעל הספר "אור פני משה") ולאמו <persName>לאה יהודית</persName>
+
+ בת הרב <persName>דוב בר ז'ק</persName> (מורה-הוראה בווישניביץ, מצאצאי הרבי ר' <persName>שלמה</persName> מלוצק, מאבות החסידות, בעל הספר "דברת שלמה").
+
+ קיבל חינוך מסורתי. למד בישיבות חב"ד והוסמך לרב.
+
+ בשנת תרצ"ד (1934) עלה לארץ.
+
+ בשנת תש"א (1941) נשא לאשה את<persName> מרים </persName> בת הרב <persName>נפתלי צבי שמרלר </persName> (היה רב בבית-כנסת של יהודים גליצאים בווינא, מצאצאי רבי<persName> מאיר</persName> מפרמישלאן).
+
+ המשיך ללמוד בישיבת מרכז הרב, גם בשנים תש"התש"ז, כששימש בתפקידי רבנות בירושלים.
+
+ משנוסד ישוב יהודי ברמלה אחרי מלחמת הקוממיות נתמנה לרבם של האשכנזים, ועם גידול הישוב בעיר הנו הרב הראשי ברמלה והסביבה של לשכת הרבנות.
+
+ אירגן את החיים הדתיים בעדתו ובעיר בכלל (כינון בתי כנסיות ושיעורי תורה, מקוה טהרה, שרותי הכשרות ושמירת שבת, טיפוח החינוך הדתי והתורני עוזר בהצלת ילדים מידי המסיון וכו').
+
+ משתתף בירחונים תורניים (קול תורה" ועוד).
+
+ צאצאיו:<persName> חיה </persName> אשת ר' <persName>הלל פרוש, אפרים מרדכי</persName> , <persName>ברכה, יעקב מאיר, דוד, נפתלי צבי, יצחק, יוסף, משה,</persName> <persName>חנה אסתר, דבורה, הדסה, דינה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4228 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4228</bibl><bibl>Volume: #13 ,Page: 4229 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4229</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

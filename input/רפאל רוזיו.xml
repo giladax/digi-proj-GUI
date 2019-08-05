@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 161 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/161</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רפאל רוזיו</persName>
+
+</head>
+         <div><p> נולד ב<placeName>איזמיר</placeName> בשנת תרל"א (1871), לאביו מרדכי. קיבל ראשית חינוכו בתלמוד-תורה ובבית
+
+ הספר של חברת כי"ח. בן 12 עלה ארצה עם הוריד ונתקבל כתלמיד במקוה ישראל. השתלם בצרפת במדעי החקלאות להלכה ולמעשה, וכשחזר הביתה נתמנה מטעם פקידות הבארון ויק"א לנהל נטיעת יערות וחורשות של עצי אקליפטוס בזכרון יעקב, בחדרה ובמחנים. בחדרה נתנסה בכל פגעי הקדחת הצהובה וחלק רב של בריאותו השקיע בנטיעת היערות הגדולים של חדרה. אח"כ עבר לדור בקביעות במחנים ומשם היה נודד לעבודות הנטיעה בשאר המקומות בארץ.
+
+ בשנת 1901 נשלח מטעם פקידות יק"א לקפריסין, יחד עם עוד מתישבים מחניכי מקוה ישראל<persName> (קובו,</persName> <persName>ברגמן, שאול, ירושלמי</persName> ועוד), לפתח את המושבה <persName>מרגושיפליק,</persName> אחת המושבות, שבהן ניסתה יק"א ליצור ישוב יהודי חקלאי. שם היה עד שנת 1925 ובמלחמתהעולם הראשונה שימש בסעד ובהדרכה ליהודים מהארץ ומארצות אחרות, שנקלעו לאי לרגל שרותם או נדודיהם. עם התחסלות הישוב החקלאי היהודי באי עבר לרומניה ובשנת 1934 חזר ארצה זקן ותשוש וחסר-כל.
+
+ כאן ניסה להשתכר ללחמו ברוכלות. אך לא הצליח. נפטר בתל-אביב ונקבר בנחלת יצחק, כ"ה אייר ת"ש (2.6.40).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 161 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/161</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3877 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3877</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ברוך (בנדט) וינר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>מוסקבה</placeName> (רוסיה) בניסן תרמ"ו (1886).
+
+ לאביו<persName> יוסף</persName> (ראה כרך א', עמוד 213)
+
+ עלה לארץ עם הוריו בשנת תרנ"א (1891) ביסוד המושבה רחובות.
+
+ קיבל חינוך מסורתי.
+
+ אביו רכש שטח קרקע ברחובות ועזר לאביו בנטיעת הכרם. עבד כפועל בקרקעות חברת "מנוחה ונחלה" במושבה.
+
+ בן 16 היה (1902), כשהחל לסחור בבקר. עם פרוץ המלחמה העולמית הראשונה (1914) עבר לעסוק במסחר תבואות וקמח.
+
+ בשנת 1913 נאסר באשמת רצח ערבי.
+
+ בשנת 1917 נאסר ונאשם בריגול בקשר עם המאסרים של חברי "נילי".
+
+ היה מוכתר המושבה רחובות בשנים הקשות ב-מ מלחמת העולם הראשונה. הצליח-למנוע גיוס צעירים מהמושבה לצבא התורכי.
+
+ גאל את אדמות הכפר הערבי סומסום (כיום, גברעם)
+
+ גאל שטחים רבים מידי הערבים.
+
+ היה חבר קואופרטיב "אדיר".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3877 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3877</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

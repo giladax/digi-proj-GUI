@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3499 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3499</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרי שומר (צבי אריה (הרש ליב) שמואלביץ)</persName>
+
+</head>
+         <div><p> נולד בשנת תרנ"ז (20.8.1897) בצנסטוכוב שבפולין. לאביו <persName>מרדכי בייניש שמואלביץ</persName> ולאמו <persName>מאטא</persName> בת <persName>זאב גרוס.</persName>
+
+ למד בחדר ומפי מורים פרטיים.
+
+ ב-1913 יצא לארה"ב והתחיל בעבודה והמשיך בעסקי מסחר והצליח בהם.
+
+ ב-1922 נשא לאשה את <persName>מינדל</persName> בת <persName>שמריהו ברקוביץ.</persName> מתוך הרגשת זיקה חיה לארץ-ישראל ולבנינה נתן בתמידות מזמנו ומפעילות ומכספו למטרות ציוניות, ובמיוחד לעזרת צבור החלוצים ולבנין המדינה, כפי שאפשר לראות מהתפקידים הצבוריים שמילא וממלא בעיר מושבו דטרויט שבארה"ב: נשיא הכבוד של מגבית ההסתדרות, נשיא הועד העירוני של איגוד הפועלים היהודים הלאומיים "ארבעטער פערבאנד", נשיא "בית ההסתדרות", נשיא סניף איגוד ארלוזורוב, נשיא מטעם ההסתדרות במגבית המאוחדת.
+
+ בשנים 1951-54 היה נשיא המגבית המאוחדת בדטרויט.
+
+ ביקר בארץ בשנים 1937, 1950, 1958.
+
+ ב-20.5.1958 הונחה אבן היסוד לבנין בית מוסדות ההסתדרות בעכו על שם <persName>צבי שומר</persName> לרגל מלאות לו 60 שנה ולמלאות 30 שנה לפעילותו למען הסתדרות העובדים הכללית בישראל.
+
+ בנו:<persName> זאב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3499 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3499</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

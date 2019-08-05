@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4449 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4449</bibl><bibl>Volume: #14 ,Page: 4450 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4450</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב נפתלי הרץ בוימל</persName>
+
+</head>
+         <div><p> נולד בקראשציענקא (פולין), ט"ז סיון תר"ן (6.4.1890).
+
+ לאביו הרב<persName> נחום בוימל</persName> (אבד"ק קראשציענקא,
+
+
+ נכד הגאון הקדוש מהר"מ מטיקטין זצ"ל) ולאמו <persName>שרה</persName> בת ר'<persName> מאיר רפאל ציגלר.</persName>
+
+ קיבל חינוך מסורתי אצל אביו ואצל מורו הרב הגאון ר' <persName>דוד דוב בעריש</persName> ממזליש אב"ד אוהעל והרב והאדמו"ר ר'<persName> שלום דוד אונגר, </persName> אבד"ק זאבנא.
+
+ נסמך להוראה מהגאונים הנ"ל ומהגאונים ר' <persName>שמואל פיהשער,</persName> אבד"ק קראסנע ור'<persName> אלימלך פרנקל</persName> <persName>תאומים</persName> , אבד"ק ואמראו.
+
+ בשנת תרע"ח (1918) נשא לאשה את <persName>אלטא יהודית</persName> בת ר' <persName>נפתלי ווגשל </persName> (נפטרה בברוקלין, ט' מרחשון תשכ"ג) ובזיווג שני נשא לאשה את<persName> אסתר</persName> בת האדמו"ר ר' <persName>נח מלעכאביץ מאלאוויצקי.</persName>
+
+ היה רב, מורה ודיין בפולניה.
+
+ בשנת תרצ"ח (1938) עלה לארצות הברית ושימש בתור רב בבית הכנסת "עדת בני ישראל" ושומרי שבת בברוקלין.
+
+ בשנת תשי"ח (1958) עלה לארץ (לפני זה ביקר כמה פעמים לשם הכנה להתישבות).
+
+ כתב ספר שו"ת אמר שפר ואמרי בינה, הלכה ואגדה (תשכ"ג, ירושלים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4449 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4449</bibl><bibl>Volume: #14 ,Page: 4450 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4450</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

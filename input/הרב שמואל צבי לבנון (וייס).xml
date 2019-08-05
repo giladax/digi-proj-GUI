@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1687 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1687</bibl><bibl>Volume: #4 ,Page: 1688 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1688</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שמואל צבי לבנון (וייס)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>גריידינג</placeName> ,ליד לבוב (מזרח גליציה), ט"ו טבת תרמ"ו (25.12.1885), לאביו הרב<persName> משה</persName> (דיין
+
+ ודרשן ב<placeName>גריידינג</placeName> )ולאמו <persName>רבקה</persName> בת ר' <persName>משה הלוי</persName> <persName>קורפ</persName> .
+
+ למד בחדרים ובבית-המדרש הגדול של הרב ר' <persName>יוסף קלוגר</persName> הי"ד.
+
+
+ בתרס"ז נשא לאשה את<persName> חיה שרה</persName> בת ר' <persName>צבי</persName> <persName>חיים הלוי מנדיל</persName> (נכדת הרב ר' <persName>אלימלך מליזנסק</persName> , מאבות החסידות בגליציה).
+
+ הצטרף לתנועה הציונית ופעל רבות להחדרת הרעיון והמעשה הציוני לחוגי היהדות החרדית באמצעות "המזרחי".היה דרשן בלבוב ועסק שם בתעמולה ובארגון למען הקה"ק. אח"כ הרחיב את פעולתו זו בכל ערי גליציה ונאם ודרש בהצלחה בבתי-כנסיות ובאספות. נבחר לחבר הועד הפועל של המזרחי בגליציה. כתב בקביעות בשבועון הקראקובי "המצפה" (בעיקר ספורים פולקלוריים מחיי היהודים בכפרים ובעיירות) ב" דאס יודישע טאגבלאס" הלבובי וב"דער פריינד" הפשמישלי. בתקופה מאוחרת יותר היה מארגן נוסע מטעם המזרחי והקה"ק בארצות אירופה המערבית ואמריקה הצפונית, ובעשרות שנות פעולתו ביקר ביותר מאלף קהלות בתפוצות ישראל והיה ציר בכמה ועידות עולמיות של המזרחי.
+
+ בטבת תרצ''ה עלה לארץ עם משפחתו והתישב בירושלים. גם מכאן יצא כמה פעמים לחו"ל בשליחות ההנהלה הציונית והמזרחי. בפעם האחרונה יצא לאמריקה בשליחות המזרחי בתרצ"ט וחזר בטבת תש''ה. בזמן האחרון הוקצבה לו פנסיה מאת הקה"ק והמרכז העולמי של המזרחי והוא עוסק בהוצאת ספרו "פרי לבנון" (דרשות לשבתות ולמועדים) בסיוע "מוסד הרב קוק" והמרכז העולמי של המזרחי.
+
+ צאצאיו: <persName>אסתר</persName> אשת <persName>אברהם פרידלנדר</persName> (פקיד בסולל בונה בחיפה),<persName> דינה</persName> אשת<persName> צבי ציפין </persName> (פקיד בחברת החשמל בחיפה), <persName>רחל</persName> אשת <persName>יוסף דורבון</persName> (מנהל מחלקת החשבונות במשרד לנפגעי המלחמה בקריה),<persName> רבקה</persName> (פקידה בקריה), <persName>משה</persName> (מנהל בי"ס ות"ת בירושלים),
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1687 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1687</bibl><bibl>Volume: #4 ,Page: 1688 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1688</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

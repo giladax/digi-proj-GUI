@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 979 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/979</bibl><bibl>Volume: #2 ,Page: 980 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/980</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהושע גרין</persName>
+
+</head>
+         <div><p> נולד ביפו, 18.3.1890, לאביו <persName>יעקב </persName> (מראשוני הסוחרים בבגדים מוכנים בארץ) ולאמו<persName> טויבה</persName> בת <persName>אלעזר ראב</persName> (אבי משפחת <persName>ראב-בן-עזר</persName> בארץ, מראשוני מיסדי פתח-תקוה). למד בביה"ס של חברת כי"ח בירושלים ומשגמר אותו ב-1905 נשלח מטעם ההנהלה להשתלם בסמינר למורים של החברה בפאריס. ב-1906 עבר לאנגליה והחל לעבוד בענף חמרי רפואה (דרוגרי) ופיתח את מסחרו בענף זה עם ארצות אירופה והמזרח.
+
+ נשא לאשה את <persName>לואיזה דבורה </persName> בת<persName> פישל הורן</persName> (מראשוני זכרון יעקב ומהמורדים בפקידות הבארון), נפטרה בקהיר, ט"ו תשרי תש"ב (6.10.41).
+
+ במוצאי מלחמת-העולם הראשונה התקשר עם אחיו<persName> דב</persName> (ברנרד) <persName>ויצחק </persName> במצרים ויסדו את הפירמה המסחרית <persName>האחים גרין</persName> בקהיר, וב-1921 עלה ארצה עם אשתו ושלשת ילדיו ופתח ביפו את הסניף הארצישראלי של הפירמה. אך משפחתו סבלה בבריאותה מטעמים אקלימיים וב-1923 הוכרח לסגור את הסניף ולהגר לאוסטרליה.
+
+ ב-1926 חזר למצרים ובאותה שנה נפתח מחדש
+
+
+ ביזמת אחיו<persName> יצחק </persName> הסניף הארצישראלי של הפירמה בתל-אביב, להנהלתה הוזמן מר <persName>א. ז. כהן,</persName> ובמשך הזמן הפכה לפירמה ארצישראלית עצמאית בשם <persName>י. גרין ושות' (א"י) בע"מ</persName> ונפתחו לה סניפים בחיפה ובירושלים ונעשתה גורם חשוב בענפי מסחר שונים בארץ. משמת יצחק אחיו ב-1930 החל יהושע גרין להתענין בעסקים בארץ ומאז חידש והגביר את הקשרים עמה.
+
+ ב-1937 מת עליו <persName>דוד </persName> בנו (אחרי גמרו את לימודיו ברפואה) וב-1941 מתה עליו רעיתו בקאהיר. ביזמת<persName> א. ז. כהן </persName> הנ"ל החליט להקים בארץ כמזכרת לבני משפחתו הנעדרים את ביה"ס המקצועי על שם גרין בצפת בהשתתפות התאחדות בני הישוב והסתדרות העובדים הכללית ונותן את מחצית ההוצאות להחזקת המוסד וכן הקים בשותפות עם הנ"ל מפעל תעשיתי בצפת לגומרי המוסד הזה לשם קימומה של צפת בירת הגליל העליון.
+
+ צאצאיו: <persName>דוד</persName> ז"ל,<persName> דניאל </persName> (באנגליה),<persName> רות </persName> (קהיר, מצרים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 979 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/979</bibl><bibl>Volume: #2 ,Page: 980 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/980</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2927 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2927</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ראובן זילברשטיין</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תר"ן (1890).
+
+ לאביו <persName>משה בן-ציון</persName> (ראה בכרך זה) ולאמו <persName>דינה</persName> בת <persName>ישראל ליב וידמן.</persName>
+
+ קבל חנוך מסורתי בחדר ובישיבה. נשא נפשו לאמנות והיה זמן מה תלמיד בבית הספר "בצלאל".
+
+ נשא לאשה את<persName> ארנה </persName> בת <persName>קלמן פרוינד.</persName>
+
+ עוד בשנת תר"ע (1910) נכנס לעבוד בעסק המשפחה, עזר לפתח את בתי המסחר, שנקראו אחר-כך "האחים ר. את ז. זילברשטיין, ברחוב יפו בירושלים, והצליח לפתוח סניפים ביפו-ת"א ובחיפה.
+
+ הצליח יחד עם אחיו <persName>זאב אליהו</persName> לפתח את האימפורט מחו"ל. בעזרתו נוסדו תעשיות לכריכיה ועוד בירושלים.
+
+ יחד עם אחיו <persName>זאב א</persName> . עסקו בגאולת קרקעות מערבים, כל סביבת קטמון, השכונה קרית שמואל ורחביה בירושלים נגאלו בזמנו על ידם.
+
+ סלל כל הדרכים בסביבה שבין קרית שמואל וקטמון בירושלים, בעזרת הכבישים שסלל, היה אח"כ (בימי מלחמת השחרור) יותר קל לכבוש את קטמון הערבית, שקודם לא היתה גישה להשכונה הזאת (רק דרך המושבה הגרמנית).
+
+ עוד בשנת 1925 קנה מערבי 30 דונם קרקע וחלקו למגרשים ומכרם ליהודים (מאחורי שכונת פלורנטין במרכז המסחרי בתל-אביב).
+
+ בניו: <persName>הרברט, יובל</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2927 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2927</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

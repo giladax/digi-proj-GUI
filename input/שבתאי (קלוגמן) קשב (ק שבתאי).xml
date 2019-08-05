@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4775 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4775</bibl><bibl>Volume: #15 ,Page: 4776 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4776</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שבתאי (קלוגמן) קשב (ק. שבתאי)</persName>
+
+</head>
+         <div><p> נולד בתשרי תרנ"ט (ספטמבר 1898) בפינצ'ב, (פולין).
+
+ בהיותו תינוק עברו הוריו לגור בזבריצה, שם גדל ונתחנך עד גיל בר-מצוה.
+
+ אחר כך גלה לכמה מקומות תורה, ולמד אצל רבנים גדולי תורה. וכן למד לימודים כלליים.
+
+ בתרפ"ה (1925) עבר לגור בוורשה, ועבד בלשכה הארצית של הקהק"ל.
+
+ בתרפ"ו התחיל את עבודתו העיתונאית : פירסם ב"היום" פיליטונים בחתימת "שבתאי חכם" (תרגום שם משפחתו "קלוגמן"), וכן ספורים בחתימתו המלאה.
+
+ בשנים 1944-1941 היה עצור בגיטו קובנה, ליטא.
+
+ לאחר המלחמה היה בין מיסדי הועדה ההיסטורית היהודית בפולין, וחיבר כמה עבודות על גורל היהודים בשנות השואה בכמה וכמה ארצות.
+
+ בשנים 1948-1945 שימש כתבה של סוכנות הידיעות "סט"א", וכן של עתונים בעברית ובאידיש במשפט נירנברג.
+
+ מסוף 1948 ועד ראשית 1964 היה חבר מערכת "דבר", ומאז - בפנסיה, אך משתתף בקביעות בעתון.
+
+ מלבד מאמריו המרובים ב"דבר", פירסם מאמ
+
+
+ רים גם בכתבי-עת אחרים, בחתימות שונות: <persName>משה</persName> <persName>שנפלד, טוביה החוטא,</persName> ועוד. כן פירסם שורת חוברות מחברתו "כצאן לטבח ?" הוכנסה על ידי משרד החנוך לתכנית בחינות הבגרות.
+
+ החוברת יצאה לאור בכמה לשונות.
+
+ זכה ב"פרס סוקולוב", תשכ"ד, של עירית תלאביב על מאמריו ורשימותיו שנתפרסמו במשך שנים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4775 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4775</bibl><bibl>Volume: #15 ,Page: 4776 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4776</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

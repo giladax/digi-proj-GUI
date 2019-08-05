@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1483 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1483</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יחיאל זאב זטולובסקי</persName>
+
+</head>
+         <div><p> נולד בגלמיאזוב, פלך פולטבה (אוקראינה), בשנת תרכ"ה (1865), לאביו <persName>עמנואל</persName> ולאמו<persName> מרים</persName> בת<persName> מיכל</persName> <persName>וועלוועל רפלוביץ.</persName>
+
+ קיבל חינוך מסורתי והשתלם בספרות עברית ובהשכלה כללית והצטרף לתנועת חובבי ציון.
+
+ נשא לאשה את<persName> מרים</persName> בת<persName> מאיר נטע כהן.</persName>
+
+ התגורר בכפר פרוחורובקה, פלך פולטבה, ועסק בניהול בתי מסחר לעצי בנין.
+
+ התענין ופעל בתנועת התחיה העברית. פרסם מאמרים ב"המליץ", "הצפירה" בחתימת שמו ובכינוי יז"ז. כתב גם ברוסית בירחון הקיובי "קיעווסקאיה סטארינה". השתתף בהוצאת חרסטומטיה בעברית וחבר ספר "תולדות היהודים בימי חמלניצקי". כשנוסדה ההסתדרות הציונית הצטרף אליה והיה מפעיליה, בעיקר למען הקרן הקיימת לישראל והשתתף כציר בועידות הציוניות במינסק ובייקארינוסלאב.
+
+ עלה ארצה עם משפחתו בתרפ"א, התישב בגבע ואחרי זה בחיפה. את רוב זמנו בילה בספריות השונות בעיר.
+
+ נפטר בחיפה, ד' כסלו תרפ"ט.
+
+ צאצאיו: <persName>יהושע</persName> (ממנהלי "סולל בונה", היה קפטין בצבא הבריטי במלחמת-העולם השנית וחזר לשרות בצבא ההגנה לישראל),<persName> דבורה</persName> (אשת <persName>שמואל</persName> <persName>דיין</persName> בנהלל),<persName> רחל ז"ל (רוזנפלד</persName> בנשואיה, עלתה לארץ עם הוריה ב-1920, נפטרה בקבוצת גבע ב-1930).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1483 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1483</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

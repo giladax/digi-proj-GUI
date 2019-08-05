@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3130 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3130</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי שקולניק</persName>
+
+</head>
+         <div><p> נולד בפבלובה ליד רוזנוי (רוסיה) בשנת תרכ"ה (1865).
+
+ לאביו <persName>מרדכי דב </persName> ולאמו <persName>שרה מרים.</persName>
+
+ קבל חנוך מסורתי
+
+ בן למשפחה חקלאית.
+
+ בשנת תרל"ח (1878) עלה לארץ.
+
+ עבד בהתחלה כפועל בחקלאות. 
+
+ ממיסדי המושבה "מזכרת בתיה" (עקרון). 
+
+ נשא לאשה את<persName> שרה ציפה </persName> בת <persName>אפרים שקולניק </persName> (כרך א', עמוד 406), נפטרה בעקרון, כ' אייר תש"ט (19.5.49). היה מטובי החקלאים במושבה.
+
+ בשנים הקשות ליסוד המושבה היה בין שומרי המושבה.
+
+ היה מסור לעניני המושבה כל ימיו.
+
+ נפטר בעקרון, ו' חשון תש"י (29.10.1949).
+
+ צאצאיו: <persName>רחל</persName> אשת <persName>בורדו </persName> (ארה"ב), <persName>שלומית </persName> אשת <persName>ראובן גלזר</persName> (ארה"ב), <persName>חיינה </persName> אשת <persName>יוסף הרמן</persName> (ת"א), <persName>מנוחה </persName> אשת <persName>מנחם מוניס </persName> (עקרון), <persName>חנה </persName> אשת <persName>מרדכי כהן</persName> (ירושלים), <persName>דינה </persName> אשת <persName>יהודה טופלברג </persName> (ת"א), <persName>מושה</persName> אשת<persName> יוסף גוטמן </persName> (ארה"ב), <persName>נחמה </persName> אשת<persName> דוד פרס </persName> (עקרון), <persName>אפרים נח שקולניק.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3130 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3130</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

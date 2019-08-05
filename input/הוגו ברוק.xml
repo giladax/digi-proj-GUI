@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4497 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4497</bibl><bibl>Volume: #14 ,Page: 4498 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4498</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הוגו ברוק</persName>
+
+</head>
+         <div><p> נולד ב<placeName>יאסי</placeName> (רומניה) בשנת תר"ן (4.8.1890).
+
+ לאביו<persName> נוימן ברוק </persName> ולאמו<persName> סאלי</persName> בת<persName> אוסיאס</persName> מרקוביץ.
+
+ קיבל חינוך כללי בגמנסיה ב<placeName>יאסי</placeName> (רומניה), אקדמיה לאקספורט בוינה (אוסטריה) ובאוניברסיטה לכלכלה בלונדון.
+
+ היה שותף בפירמה שאביו יסד "נ. ברוק ובנו" בבוקרסט, חברה בין-לאומית למשלוח סחורות וסוכנויות לחברות אניות וכו'.
+
+ כלכלן.
+
+ בשנות 1918-23 (אחרי מלחמת העולם הראשונה) הגיש עזרה למשלחת יהודי אמריקה שפנו למשרד
+
+
+ עם רשימה של 28.500 יהודים תושבי רוסיה שיש להוציאם ולהעבירה לארצות הברית. ניהל משאומתן עם <persName>דיניקין וקולצ'אק</persName> באוקראינה לשם קבלת רשיונות ליציאתם של הפליטים היהודים מרוסיה. לשם זה פתח משרד בקישינוב בהנהלתו של אינג' <persName>בייגלמן</persName> לשם ארגון נסיעתם. 16 פקידים ממשרד "נ. ברוק ובנו" נסעו ברכבות ללוות את הנוסעים לנמלי המבורג, אנטוורפן, הובר, שרבורג וליברפול, ומשם הפליגו לארצות הברית.
+
+ בשנת 1923 נשא לאשה את <persName>אריסטיה</persName> בת <persName>מקס</persName> <persName>גאסטר.</persName>
+
+ בשנת 1943 עלה לארץ.
+
+ במלחמת העצמאות הגיש עזרה למשרד הבטחון.
+
+ שותף בפירמה Senior Isramid Company.
+
+ אח במיסדר בני-ברית.
+
+ צאצאיו: <persName>אדריאן, לאה </persName> אשת <persName>פאול לינטון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4497 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4497</bibl><bibl>Volume: #14 ,Page: 4498 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4498</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 52 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/52</bibl><bibl>Volume: #1 ,Page: 53 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/53</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד מזרחי</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרכ"ה (1865), לאביו <persName>שלמה</persName> . קיבל חינוך מסורתי בת"ת של הספרדים.
+
+ נשא לאשה את<persName> רוזה</persName> בת <persName>יוסף אשכנזי,</persName> שהיה בנקאי בעיר ניש אשר בסרביה.
+
+ עסק בקבלנות להספקת צרכי הצבא הטורקי במחוז ירושלים. בשנת תרנ"ט עבר ליפו והמשיך בקב
+
+
+ לנות לצרכי הצבא במחוז יפו ואחרי שנים מספר פתח בית-מסחר למכולת בסיטונות, אך את קשריו האישיים עם ראשי השלטון הצבאי והאזרחי לא הפסיק והשתמש בהם בהשתדלויות לטובת יהודים שנסתבכו בצרות מצד אנשי השלטון.
+
+ הצטרף לחברת "אחוזת בית" והיה מששים הבונים הראשונים ובנה את ביתו בשכונת תל-אביב (מול "בית אחד העם").
+
+ בימי מלחמת-העולם הראשונה הביא תועלת רבה לישוב היהודי בעיר על-ידי קשריו הטובים עם ראשי השלטון האזרחי, הצבאי והמשטרתי. עזר לשחרור אסירים רבים. סיפק ידיעות חשובות לראש-הועד מר <persName>מאיר</persName> <persName>דיזנגוף </persName> על תכניות ומזימות בחוגי השלטון נגד היהודים. בביתו נפגשו עסקנים עם פקידי הממשלה. כן השתמש בקשריו עם נכבדי הערבים לעזור בגאולת קרקעות.
+
+ נפטר בירושלים, י"ט שבט תרצ"ה.
+
+ צאצאיו: <persName>יוסף, אברהם</persName> (אלברט), <persName>שמחה </persName> אשת <persName>יעקב חנון</persName> <persName>, מלכה</persName> אשת<persName> שלום מזרחי, שלמה, ישי</persName> (סגן מפקח במשרד מס ההכנסה), <persName>רחל </persName> אשת <persName>אהרן חסידוב,</persName> <persName>אסתר </persName> אשת <persName>ידידיה בן-ציון, לאה</persName> (ז"ל), <persName>משה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 52 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/52</bibl><bibl>Volume: #1 ,Page: 53 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/53</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

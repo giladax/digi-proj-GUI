@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 713 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/713</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב אלימלך לדרברג</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרל"ו (1876) לאביו ר'<persName> יצחק.</persName> למד בחדרים ובישיבות וכשגדל עבר לפתח
+
+ תקוה והשתתף עם<persName> נחמן פלמן</persName> ואחרים בנטיעת פרדס.
+
+ נשא לאשה את<persName> חוה יוכבד</persName> בת ר' <persName>אברהם אלתר</persName> <persName>צבי </persName> (שנקרא <persName>אלתר צוואי</persName> ) מירושלים.
+
+ עבר ליפו ופתח בשוק-אל-דיר בית-מסחר לכלי זכוכית, וכשנפטר אחיו <persName>יהושע</persName> השתתף עם יורשיו בעסקי המנוח במסחר בכלי זכוכית.
+
+ במלחמת-העולם הראשונה עסק יחד עם ר'<persName> בצל</persName> <persName>אל הכהן לאפין</persName> בפדיון יהודים ממאסר ומחטיפה לצבא הטורקי ובעזרה לאסירים ותמיכה למשפחותיהם.
+
+ נפטר בת"א, ג' אב תרצ"ט, והובא לקבורה בירושלים.
+
+ צאצאיו:<persName> שמואל יצחק, פנינה</persName> אשת <persName>משה חכמוב,</persName> <persName>אברהם, שרה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 713 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/713</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

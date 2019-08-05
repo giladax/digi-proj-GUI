@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1643 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1643</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> נחום בנארי (ברודסקי)</persName>
+
+</head>
+         <div><p> נולד בכפר לבזין, פלך קיוב (אוקראינה), י"ג אדר תרנ"ג (1893), לאביו<persName> אריה ליב</persName> ולאמו<persName> דבורה</persName> בת<persName> אהרן זבניגורודסקי.</persName>
+
+ למד בחדרים, בישיבות שונות ובתוכן בישיבת אודיסה בהנהלת הרב<persName> חיים טשרנוביץ</persName> (רב צעיר).
+
+ השתלם בהשכלה כללית והתכונן לבחינת בגרות ונתן שיעורים פרטיים בעברית ובלימודי יהדות ועוד. היה פעיל בחוגים ציוניים בעיירות אוקראינה ובאודיסה, ממניחי היסוד לירחון "שחרית" שיצא באודיסה ואח"כ בוארשה בעריכת ד"ר <persName>אייזנשטאדט.</persName>
+
+ בסיון תרע"ד עלה ארצה. עבד זמן-מה בקבוצת מרחביה בראשיתה, שנה בדגניה, עד סוף מלחמת העולם בסג'רה, אח"כ בנטיעת יערות אורן על הכרמל, בשנות 1925/40 בעין חרוד, ובשנים האחרונות חבר המרכז לתרבות של הסתדרות העובדים ותושב הקיבוץ העירוני "אפעל" ליד תל-אביב. בינתים פעל מזמן לזמן בעסקנות צבורית, בעבודת עריכה ובפעולת תרבות - במזכירות משק עין חרוד, במזכירות הקיבוץ המאוחד, חבר מערכת "מבפנים", חבר ומזכיר בועד הפועל של "אחדות העבודה", חבר מערכת "קונטרס", מזכיר מועצת פועלי תל-אביב, מזכיר מועצת פועלי ירושלים: פעמים יצא בשליחות להחלוץ בפולין ולמרכז החלוץ העולמי, ובאותו זמן היה עורך "העתיד" של החלוץ העולמי, "להבות" של החלוץ הצעיר, עורך קובץ "החלוץ", חבר מערכת "דאס ווארט" בוארשה. השתתף כציר בקונגרס הציוני הי"ט.
+
+ כותב ב"דבר", "מבפנים", "גזית", "גליונות", "במעלה", ומפעם לפעם בבמות שונות ובקבצים שונים בשאלות חברה, תרבות, ספרות, אמנות, התנועה הציונית, תנועת הפועלים, התנועה הקיבוצית, סיפורים ומחזות. פרסם את החוברות "עין חרוד" (1926), לתולדות הקבוצה והקיבוץ (וארשה, תרפ"ט, בהוצאת החלוץ העולמי; תורגמה והופצה על ידו באידית
+
+ ובכמה שפות לועזיות אחרות, יידיש, גרמנית, אנגלית, צרפתית, רומנית והונגרית), וחוברת באידיש : "זעלבספארוויק ליסונג" (קובץ מאמרים) ועוד כמה חוברות בשאלות א"י והחלוץ.
+
+ צאצאיו (מאשתו הראשונה<persName> סוניה דובנוב): עמליה</persName> אשת<persName> צבי שמאלי</persName> (היתה, מבוני<persName> בית הערבה</persName> כיום ב"עין חרוד"), <persName>יאיר </persName> (חבר בעין חרוד ובפלמ"ח); <persName>(מאשתו</persName> השניה <persName>יהודית מנש) : עמוס.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1643 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1643</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

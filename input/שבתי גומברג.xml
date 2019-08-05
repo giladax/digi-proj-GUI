@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 748 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/748</bibl><bibl>Volume: #2 ,Page: 750 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/750</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שבתי גומברג</persName>
+
+</head>
+         <div><p> נולד בצ'רקאסי, פלך קיוב (אוקראינה), בשנת תרכ"א (1.1.1861), לאביו<persName> מאיר</persName> ולאמו <persName>לאה</persName> . למד בחדרים ובישיבה ואח"כ היה פקיד בחברה למסחר ביינות. גויס לצבא הרוסי, שרת שלשה חדשים ושוחרר.
+
+
+ מן הראשונים לתנועת "חיבת ציון" בעירו, ובקיץ תרמ"ב נשלח ארצה מטעם קבוצת חבריו לחקור את התנאים בדבר האפשרות להתנחל בה על הקרקע. אחרי שהותו כאן חדשיים יצא לרוסיה בהחלטה לחזור ארצה בהקדם. אך מסיבות שונות לא עלה הדבר בידו. וחזרתו נדחתה ל-28 שנה.
+
+ בינתים נשא לאשה את <persName>פרידה</persName> לבית <persName>משקוב</persName> , עסק במסחר והצליח בו, פעל במרץ ובמסירות לטובת חיבת ציון ואח"כ לקרנות ול"אוצר התישבות היהודים". וכו', ואת בניו חינך ברוח של לאומיות עברית.
+
+ סוף-סוף חיסל את ישיבתו ה"זמנית" (כפי שהרגיש כל הזמן) ואת עסקיו בגולה, וביום כ"ו ניסן תר"ע הגיע עם אשתו ובניו לחוף יפו ונשארו זמנית בשכונת "אחוזת בית" (תל-אביב).
+
+ כשנזדמן לו לקנות את נחלת <persName>משה שכטר</persName> מגדרה (בית, 250 דונם קרקע של פלחה ומטעים) שעבר
+
+ לתל-אביב, יצא בתמוז של אותה שנה עם משפחתו להתנחל בגדרה והסתגל במהרה לכל הקשיים והתלאות של אכר וגם בתלאות מלחמת-העולם הראשונה החזיק מעמד ולא רצה בשום פנים לחזור לחיים עירוניים. אך מחלה ממושכת מוטטה את כוחו והוא נפטר ונקבר בגדרה, א' אלול תרפ"א.
+
+ לאחר שנה, כ''א אלול תרפ"ב, נפטרה גם רעיתו בגדרה.
+
+ צאצאיו:<persName> יעקב, לוי, זאב</persName> , ד"ר<persName> רוזה</persName> אשת הד"ר <persName>דובין</persName> (במוסקבה), ד"ר <persName>חנה</persName> אשת המהנדס <persName>לדרמן</persName> ברוסטוב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 748 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/748</bibl><bibl>Volume: #2 ,Page: 750 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/750</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

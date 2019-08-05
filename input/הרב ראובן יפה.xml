@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3340 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3340</bibl><bibl>Volume: #9 ,Page: 3341 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3341</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב ראובן יפה</persName>
+
+</head>
+         <div><p> נולד בכ"ד אדר תר"ז (1847) בפיליקוביץ, שברוסיה.
+
+ לאביו ר'<persName> שמעון דוד</persName> (שהיה מצאצאי הגאון ר' <persName>מרדכי</persName> <persName>יפה, בעל ה"לבושים"</persName> ולאמו <persName>שיינדל)</persName> .
+
+ הוסמך בבחרותו לרבנות, אך לא רצה להתפרנס מהתורה, ועסק במסחר ואח"כ מנהל פנקסים.
+
+ נשא לאשה את <persName>חיי שרה </persName> בת<persName> ליפא הלפרין</persName> (מפראמפול, שבפודוליה, רוסיה).
+
+ היה למדן מופלג בנגלה ובנסתר ועמד במלחמה קשה נגד האורתודוקסים הקיצונים שהתנגדו לציונות. חינך את כל בניו ברוח התורה, ועד גיל 14 לא נתנם ללמוד לימודי-חול.
+
+ בתרע"ב עלה לארץ מיאנואוצי שבבסאראביה (אז
+
+
+ רוסיה); ישב רוב הזמן בתל אביב ונתן לישוב מחכמתו בתור שופט מחוזי של משפט השלום העברי.
+
+ נפטר בי"ח באב תר"פ (2.8.1920) במקורי ישראל ולמחרתו הובא לקבורה בבית העלמין הישן בתל אביב.
+
+ צאצאיו:<persName> רחל</persName> אשת <persName>פרץ הלפרין </persName> (נפטרה בתל אביב): <persName>ישראל אריה</persName> (ליב) (נפטר ברוסיה); <persName>יקותיאל-שמואל</persName> (נפטר ברוסיה<persName>; איידל </persName> אשת <persName>אברהם לרנר</persName> (נפטרה בטבריה);<persName> חנה מלכה </persName> אשת<persName> יחזקאל פרידמן </persName> (נפטרה בניו-יורק);<persName> אליעזר ליפא</persName> (מיוזמי מושבי העובדים וממיסוי נהלל, מיסד "תנובה" ראה כרך א' עמוד 395); <persName>רייזל</persName> אשת<persName> אברהם יפה</persName> ז''ל ;<persName> הינדה (הדסה)</persName> אשת <persName>אלי</persName> <persName>מלך לוי </persName> (נפטרה בנהלל);<persName> שמעון דוד </persName> (עורך "השדה"' ראה כרך ב', עמוד 607).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3340 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3340</bibl><bibl>Volume: #9 ,Page: 3341 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3341</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

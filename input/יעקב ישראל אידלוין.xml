@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1433 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1433</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב ישראל אידלוין</persName>
+
+</head>
+         <div><p> נולד בברדיצ'ב. אוקראינה, בשנת תרי"ט (1859), לאבי<persName>ו יוסף מרדכי</persName> ולאמו<persName> צביה </persName> למד בחדרים ובישיבות ורכש הרבה ידיעות בתורה ובחסידות. עסק במסחר יערות ועצים, קבע עתים לתורה ותמך ביד נדיבה במפעלי תורה וחסד ובנצרכים.
+
+ מתוך חיבה חסידית לארץ הקודש הצטרף לתנועת חיבת ציון ותמך בהקמת ישוב חי נושא את עצמו בארץ. וכשנתבשרו יהודי גולת רוסיה על גאולת אדמת חדרה ועל האפשרות להתנחל בה, רכש לו נחלה במושבה העומדת להווסד, ובשנת תרנ"א השאיר את משפחתו זמנית בברדיצ'ב ועלה ארצה לבדו להתנחל על אדמתו. התישב בין הראשונים ב"חאן" של חדרה והחל לעבוד במשקו. נשא את כל התלאות של הראשונים באהבה ובשמחה ונשא את עיניו לימים הבאים, כאשר יהיה ישוב משגשג במקום השממה
+
+ והוא יתענג בביתו ובחוג משפחתו על החיים בארץ האבות. אך הקדחת הצהובה הכריעתו בשנה השנית לעלותו ארצה. והיה קרבנה השני של המושבה.
+
+ נפטר בחדרה, י' שבט תרנ''ב.
+
+ אחרי מותו עלתה ארצה רעיתו<persName> פסיה חיה </persName> עם שני בניו ובתו להמשיך את עבודתו במושבה. שני הבנים <persName>זאב ואהרן </persName> מתו בשנה אחת, גם הם בקדחת הצהובה, ואחריהם הלכה גם האם לעולמה בדמי ימיה.
+
+ נשארה בחיים רק הבת,<persName> רחל</persName> , שנישאה <persName>לשלמה</persName> <persName>שרגורודסקי,</persName> בן אחות אביה, גם הוא מראשוני חדרה, וזכתה להאריך ימים ולראות בנים ובני-בנים במושבה, שמשפחתה עמלה במסירות-נפש ובהקרבה לגאלה מידי השממה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1433 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1433</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

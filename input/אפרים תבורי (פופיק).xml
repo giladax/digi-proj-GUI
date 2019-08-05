@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5202 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5202</bibl><bibl>Volume: #17 ,Page: 5203 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5203</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים תבורי (פופיק)</persName>
+
+</head>
+         <div><p> נולד בטילצ'ין (אוקראינה), ט"ז באלול תר"ס (10.9.1900).
+
+ לאביו<persName> יצחק פופיק</persName> ולאמו<persName> רבקה.</persName>
+
+ קיבל חינוך מסורתי וכללי. השתלם בפאקולטה לכלכלה.
+
+ היה בין פעילי התנועה הציונית-הסוציאליסטית צ.ס. ואסיר ציון.
+
+ נשא לאשה את <persName>רות</persName> בת <persName>מאיר לונדון</persName> (עבדה בקופת חולים הכללית. כיום בפנסיה).
+
+ בשנת 1924 עלה לארץ.
+
+ עבד בעירית תל-אביב.
+
+
+ בשנת 1927 מזכיר הסניף התל-אביבי של "אחדות העבודה".
+
+ נבחר כחבר הכנסת הראשונה והשניה מטעם מפא"י.
+
+ משנת 1929 חבר מועצת פועלי תל-אביב-יפו.
+
+ בשנים האחרונות היה חבר מזכירות מועצת פועלי תל-אביב-יפו, ממונה על השכונות הותיקות.
+
+ כל השנים היה חבר ההגנה.
+
+ כל השנים פרסם מאמרים ודברי עיון, שכונסו לאחר מותו.
+
+ פירסומים: "פרצופה של השמאלנות בישראל" (תשט"ו) ; "מכתב גלוי לחברי סיעה ב' " (1944) ; "כלליותה של ההסתדרות" (1948); "פרקים של ספר על ברל כצנלסון"; ספר "משער אל שער" (דברי הגות במשנה הציונית הסוציאליסטית, תשי"ט. בראש הספר ילקוט דברי הערכה).
+
+ נפטר בתל-אביב, ו' בניסן תשי"ז (7.4.1957).
+
+ בתו:<persName> אסתר</persName> אשת<persName> יצחק ארדיטי.</persName>
+
+ נכדיו:<persName> רבקה, אביהוא, איתמר.</persName>
+
+ לזכרו הקימה ההסתדרות הכללית בית הנקרא "בית תבורי" ברחוב אסתר המלכה בתל-אביב המשמש לפגישות, הרצאות, מסיבות, ספריה וכו'.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5202 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5202</bibl><bibl>Volume: #17 ,Page: 5203 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5203</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

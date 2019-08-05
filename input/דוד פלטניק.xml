@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 905 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/905</bibl><bibl>Volume: #2 ,Page: 906 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/906</bibl>
+<bibl>Volume: #2 ,Page: 907 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/907</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד פלטניק</persName>
+
+</head>
+         <div><p> נולד בסטאראיה-אושיצה, פלך פודוליה, אוקראינה, בשנת תרכ"ז (1867), לאביו<persName> זאב </persName> (חקלאי בן חקלאים, חוכרי אחוזות של הפריצים בסביבה מדור לדור) ולאמו גיטל בת בייניש ליב. למד בחדרים ואח"כ התמחה ליד אביו בעבודות המשק ושיווק התוצרת החקלאית.
+
+ נשא לאשה את <persName>נחמה </persName> בת <persName>אהרן משה לרנר</persName> , בעל טחנה ומכובד בכל הסביבה.
+
+ חכר לו אחוזה והלך בדרכי אביו ואבות-אבותיו: גידל תבואות, סלק לסוכר, תפוחי-אדמה למשרפות יי"ש, חמניות לעצירת שמן, התמחה גם בגידול טבק, קנה מדי שנה בשנה מבעלי האחוזות את פרי עצי גניהם, שלח לסוחרי פירות בערי רוסיה תפוחים ואגסים טריים ושזיפים מיובשים בכמויות גדולות. לפי החוקים הצאריים אסור היה ליהודי לעסוק בחקלאות, אך הוא ידע להערים על החוק בתכסיסים שונים והמשיך בעבודתו. בשנת 1910 גברה הרשעות של השלטון באזור ההוא ואף תכסיסיו לא הועילו עוד. אז התרו בו מטעם השלטון, שאם לא יעזוב את האחוזה רוז'וק ישלחוהו לסיביר.
+
+ בחקלאי ותיק ומנוסה היו לו אפשרויות להסתדר בארצות דרום-אמריקה וליהנות מכל ההקלות וההנחות שניתנו בהן למהגרים חקלאים, אך הוא בחר לעלות לארץ-ישראל. בסוף-קיץ תרע"א חיסל את עסקיו ועלה ארצה לבדו כדי להכין משק ובית ולהביא את משפחתו.
+
+ באניה מאודיסה ליפו נסעו כמה יהודים ארצה לשם התנחלות על הקרקע כחקלאים פרטיים, והואיל וכמה מהם הכירוהו כחקלאי ותיק ומנוסה הציעו לו עוד באניה לעמוד בראש חברה שהם עומדים ליסד לשם רכישת קרקע ויסוד מושבה. בהגיעם ארצה הכניסו לבנק אפ"ק כסף למטרה זו ובחרו בו יחד עם
+
+
+ עוד שלשה חברים לתור את הארץ ולחפש שטח מתאים. הם שכרו דילז'נס ויהודי מורה-דרך ומתורגמן לערבית ותרו את הארץ מהדרום ועד הצפון ואף לחורן הגיעו. ואכן מצאו שטחים נרחבים שאפשר לרכשם, אך בהיות רוב החברים סוחרים עירוניים ובשמעם שהקרקעות שנבחרו רחוקים מישוב בסביבה פראית, נבהלו וחזרו בהם מהיזמה הזאת, ומאחר שלא נמצא המספר המינימלי הדרוש (50 משפחות) להתישבות, נתבטל הענין. כך הוכרח ללכת בדרך הסלולה וקנה לו פרדס צעיר בפתח תקוה והתישב שם עם משפחתו שבאה אחריו בבית שליד הפרדס, מחוץ למושבה, במלחמת-העולם הראשונה שימש ביתו מקלט למגורשים מיפו ופרדסו מחבוא ומקלט ל"יושבים בסתר" (בני ירושלים ומקומות אחרים שנמלטו להסתתר בפתח תקוה מפני אנשי השלטון שרצו לגייסם לצבא ולעבודתכפיה) וסיפק להם מים ומזון תוך הסתכנות תמידית. השתתף ביסוד קופת מלוה חקלאית וביתר מוסדות הצבור ותמך במוסדות התורה והחסד במושבה ומחוצה לה.
+
+ ביום ט"ז אלול תרפ"ד נפטרה רעיתו בת 55 ונקברה בפתח תקוה, ואחרי שנים אחדות עבר לתל-אביב.
+
+ בנותיו: <persName>אטיל </persName> ז"ל אשת <persName>שלמה גורניק, טובה </persName> אשת <persName>משה קליר, שושנה </persName> אשת <persName>בנציון מלך,</persName> בלה אשת<persName> מרדכי</persName> <persName>סירקיס.</persName> בניו:<persName> טוביה, יעקב, אברהם ויוסף </persName> יצאו ב-1912 לבראזיל, הצליחו במפעלי תעשיה, חקלאות ומטעים ואחרי מלחמת-העולם באו ונשאו נשים מארץ-ישראל והשקיעו כספים במטעי כרמים ופרדסים ובנין, פעלו למען הציונות והחינוך העברי בבראזיל. טוביה בנו חזר עם משפחתו והשתקע בתל-אביב.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, כ"ב טבת תשי"ג (9.1.53) ונקבר בפתח תקוה (ראה כרך ב', עמוד 906)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 905 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/905</bibl><bibl>Volume: #2 ,Page: 906 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/906</bibl>
+<bibl>Volume: #2 ,Page: 907 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/907</bibl>
+            <bibl>Volume: #6 ,Page: 2719 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2719</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

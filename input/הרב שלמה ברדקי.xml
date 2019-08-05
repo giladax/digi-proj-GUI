@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1777 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1777</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שלמה ברדקי</persName>
+
+</head>
+         <div><p> לאביו הרב <persName>ישעיהו ברדקי</persName> (ראה את הערך שלו בכרך זה) ולאמו <persName>שיינדל</persName> בת הרב ר' <persName>ישראל משקלוב</persName> (מחבר הספרים "פאת השולחן" ו"תקלין חדתין", שהיה בתחילה ראש הפרושים בצפת, ואח"כ בירושלים, ראה את הערך שלו בכרך שני, עמוד 557).
+
+ קיבל חינוך מסורתי בישיבת "עץ חיים" וחינוך מוסיקלי ממורה פרטי.
+
+ היה מגדולי התלמידי חכמים בירושלים. שירת כל ימיו בקודש בתור חזן ראשי בבית הכנסת "בית יעקב" שבחורבת ר' יהודה החסיד בירושלים. ידע תוי נגינה וניגן בכינור. וגם חבר מנגינות להרבה תפילות של הימים הנוראים.
+
+ נשא לאשה את <persName>חיה</persName> בת הרב <persName>שמואל סלנט </persName> (ראה כרך א' עמוד 284).
+
+ היה אדם צנוע ויקר המדות. חי בצמצום, ונהנה מיגיע כפו כאחד מסופרי הועד הכללי לצדקת רמבעה"נ. בימיו היה מיחידי הסגולה שכתב עבריתתנ"כית בסגנון מלוטש ועשיר, דבר נדיר בירושלים של הימים ההם.
+
+ בניו: <persName>ישעיהו</persName> (ראה את הערך שלו בכרך זה),
+
+<persName>יוסף זונדל</persName> (ראה כרך ב', עמוד 1052). שניהם מתו עליו בחייו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1777 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1777</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

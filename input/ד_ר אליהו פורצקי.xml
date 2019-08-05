@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1653 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1653</bibl><bibl>Volume: #4 ,Page: 1654 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1654</bibl>
+<bibl>Volume: #4 ,Page: 1655 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1655</bibl>
+<bibl>Volume: #4 ,Page: 1656 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1656</bibl>
+<bibl>Volume: #4 ,Page: 1657 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1657</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אליהו פורצקי</persName>
+
+</head>
+         <div><p> נולד בטלחאני, מחוז ברנוביץ, פולין, י"א שבט תרס"ה (17.1.1905), לאביו <persName>אלחנן </persName> ולאמו<persName> סופיה</persName> בת <persName>עקיבא אברמוביץ</persName> .
+
+ למד בחדרים ובישיבה בוילנה. פרש להשכלה, גמר גימנסיה רוסית בוילנה, יצא ללמוד באוניברסיטת באזל בשווייץ והוסמך לדוקטור לפילוסופיה. בשנות לימודיו שם היה מזכיר ההסתדרות הציונית המקומית
+
+ וחבר הועד של האיגוד האקדימאי היהודי, ועד שנת 1931 השתייך ל"התאחדות" - צ. ס.
+
+ ב-1931 יסד וערך בריגה את עתון-הערב האידי "אוונטפאסט", השתתף ב"צייט" וב"טאג" הוילנאים וב"מאמענט" הוארשאי.
+
+ עלה לארץ ב-1935. יסד את העתון היומי העברי הראשון בחיפה בשם "הכרמל" (יצא אח"כ בשם "הד הכרמל"). יסד וערך את העתונים "חדשות הערב" ו"המדינה" וכותב ב"דבר" וב"הארץ" ומשמש כפרשן מדיני ב"קול ישראל".
+
+ במלחמת-העולם השנית שירת כמתורגמן בצבא הבריטי.
+
+ ב-1944 נשא לאשה את<persName> שרה</persName> בת שלום וולאד.
+
+
+ ספריו עד עתה: "התהוות תנועת הפועלים היהודית" (בגרמנית, הוצאת "יוריסט", ריגה, 1932); "מגיברלטר עד סואץ" (הוצאת "אחיאסף", ירושלים, תש"א).
+
+ מכין לדפוס ספר "ישראל והמזרח התיכון".
+
+</p>
+<p>
+
+ תוספות: 
+
+ שינה את שם משפחתו: <persName>פורת</persName> (ראה כרך ד', עמוד 1656) הלכו לעולמם:
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1653 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1653</bibl><bibl>Volume: #4 ,Page: 1654 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1654</bibl>
+<bibl>Volume: #4 ,Page: 1655 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1655</bibl>
+<bibl>Volume: #4 ,Page: 1656 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1656</bibl>
+<bibl>Volume: #4 ,Page: 1657 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1657</bibl>
+            <bibl>Volume: #8 ,Page: 3189 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3189</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

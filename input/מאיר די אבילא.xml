@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5679 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5679</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר די-אבילא</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת תרל"ח (1878).
+
+ לאביו <persName>מסעוד (בן סעדה ומשה די-אבילה.</persName> מזר"ק הרה"ג רבי<persName> אליעזר די-אבילא</persName> , המפורסם בערי מרוקו, שעשה נסים ונפלאות שם ואנשי צפון אפריקה מזכירים את שמו בחרדת קודש) ולאמו<persName> רבקה </persName> (ראה בכרך זה, עמוד 5735), בת הרב <persName>דוד בן-שמעון,</persName>
+
+ המכונה "צוף דבש", שבנה ביתו ולידו בית כנסת ומקוה טהרה על מגרשו ברחוב ממילה ב<placeName>ירושלים</placeName>, הבית הראשון מחוץ לחומת העיר העתיקה, בשכונה הראשונה שנבנתה בכספי השופט היהודי<persName> יהודה טורא</persName> מניו-פורט, במדינת ראוד איילאנד, בתרומתו בסך 60 אלף לירות סטרלינג שמסר לסיר<persName> משה מונטי</persName> <persName>פיורי </persName> (ראה כרך י"ח, בעמוד 5330) ובשנת תר"כ (1860) נגמרו הבניינים מול "הר ציון" ולשכונה קראו "משכנות שאננים" (בתי-יהודה טורא).
+
+ סבו הרב<persName> דוד בן-שמעון </persName> הנ"ל עלה לארץ בשנת תרי"ד (1854) בראש קבוצת רבנים מארצות המערב (מרוקו) והתיישבו ב<placeName>ירושלים</placeName>. בשנת תרכ"ח (1868) יסד הרב דוד את השכונה השנייה מחוץ לחומות
+
+ העיר העתיקה בשם "מחנה ישראל" לעדת המערבים (המרוקנים) (ראה את הערך של הרב דוד בן שמעון בכרך זה, בעמוד 5611).
+
+<persName>מאיר</persName> קיבל חינוך מסורתי בתלמוד תורה בעיר העתיקה ועבר ללמוד בבית ספר "דורש ציון". אח"כ למד בבית הספר כי"ח (ה"אליאנס").
+
+ כמה שנים עבד בדפוס העתון "החבצלת" שנוסד בכ' אלול תר"ל (1870) על-ידי <persName>ישראל ב"ק, מיכל</persName> <persName>הכהן וישראל דב פרומקין.</persName>
+
+ נשא לאשה א<persName>ת אסתר</persName> לבית<persName> מרקדיס</persName> מיוון.
+
+ נסע למצרים והתאכסן אצל דודו הרב <persName>רפאל אהרן</persName> <persName>בן-שמעון </persName> (ראה בכרך זה, בעמוד 5616) והמציא לו משרת מורה לעברית בבית-ספר במשך 40 שנה. וגם משרת חזן בבית כנסת.
+
+ הרביץ תורה במצרים.
+
+ אחרי שאשתו נפטרה, חזר לארץ ישראל עם ילדיו.
+
+ נפטר בתל-אביב, כ"ב תשרי תשי"ח (17.10.1957) והובא לקבורה בבית העלמין בקרית שאול.
+
+ צאצאיו:<persName> סוזי </persName> אשת <persName>פבדו</persName> <persName>); ז'אן; פורטונה ; אשר</persName> <persName>מסעוד </persName> (פליקס).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5679 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5679</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

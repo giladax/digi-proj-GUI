@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3785 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3785</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק אריה קרלשטדט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וורשה</placeName> (פולניה) בשנת תרס"ג (12.8.1903).
+
+ לאביו <persName>חנוך</persName> ולאמו <persName>זלדה </persName> בת<persName> יוסף יצחק הכהן</persName> מוריס.
+
+ קיבל חינוך מסורתי וכללי. בוגר בי"ס מסחרי.
+
+ עסק כסוכן סחורות שונות.
+
+ ביום 14 למאי 1922 הוא עלה לארץ ע"י<persName> זאב</persName> (וילהלם) <persName>גרוס,</persName> מהסוכנים הראשונים ביפו (ראה כרך א', עמוד 325).
+
+ ניהל את משרדו ואחרי פטירתו של <persName>גרוס </persName> שמר על זכרו, בהמשיכו לנהל עד היום את עסקי החברה בשם ; י. א. קרלשטדט (וילהלם גרוס).
+
+ לארץ הוא מביא מכונות חקלאיות מאוסטריה.
+
+ בשנת 1928 נשא לאשה את <persName>גניה</persName> בת <persName>משה גדליה</persName> <persName>הלוי-בלנק.</persName>
+
+ היה פעיל בהגנה.
+
+ העביר לארץ את כל בני משפחתו מחו''ל.
+
+ בשנת 1929 פתח בארץ את חנויות "באטא" מצ'כוסלובקיה למכירת נעלים.
+
+ בוינה פתח חנויות למכירת תוצרת ישראל, וקבע בהן תערוכה קבועה של תוצרת ישראל. והצליח להחדיר באוסטריה בכמויות גדולות - תוצרת ישראל.
+
+ בניו: <persName>זאב קריאל, בנימין קריאל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3785 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3785</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

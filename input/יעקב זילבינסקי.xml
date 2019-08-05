@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3397 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3397</bibl><bibl>Volume: #9 ,Page: 3398 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3398</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב זילבינסקי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סלונים</placeName> (רוסיה), ט"ו אלול תרנ"ז (1897). לאביו <persName>יוחנן </persName> ולאמו<persName> חנה חיה</persName> בת<persName> יוסף.</persName>
+
+ קבל חנוך מסורתי בחדר ובישיבות : סלונים, שצוצין ולידא.
+
+ היה פעיל בהחלוץ.
+
+ היה ממיסדי ההסתדרות הציונית "הרצליה" ב<placeName>סלונים</placeName>, חבר ועד הקהלה וחבר בועד הפועל שלה.
+
+ היה ציר לועידת צ''ס בוארשה (פולין) ב-1921.
+
+ בשנת תרפ"א (1921) עלה לארץ.
+
+ פועל בנין. עבודתו הראשונה בארץ - חפירות היסודות ויציקת היסודות של בית הכנסת הגדול ברחוב אלנבי ת"א.
+
+
+ היה חבר בועד הראשון של אגודת פועלי המתכת ונבחר גם בועדים לאחרי-כן, חבר בועדת הבנין הראשון למרפאת קופת חולים ברחוב מאז"ה - ובוערת הבנין הראשון למועצת פועלי יפו-ת"א ברחוב הירקון (הבית האדום) בתל-אביב.
+
+ עובד חברת החשמל לא"י.
+
+ מרכז ועדת התרבות של עובדי חברת החשמל, מרכז המפלגה במקום העבודה.
+
+ בשנת 1924 נשא לאשה את <persName>שושנה</persName> בת<persName> שמעון</persName> <persName>ניגר.</persName>
+
+ עורך בטאון עובדי חברת החשמל "מתח".
+
+ נבחר במוסדות הארגון של עובדי חברת החשמל, חבר ועד סניף מועצת פועלי ת"א, חבר במועצת המחוז של מפא"י ובועדות שונות.
+
+ משנת 1921 חבר פעיל בהגנה.
+
+ בשנת 1942 התגייס לצבא הבריטי.
+
+ בנותיו: <persName>רחל</persName> אשת<persName> דוד כץ </persName> (רמת-גן), <persName>צפרירה</persName> אשת <persName>א. שמעוני </persName> (באר-טוביה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3397 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3397</bibl><bibl>Volume: #9 ,Page: 3398 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3398</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

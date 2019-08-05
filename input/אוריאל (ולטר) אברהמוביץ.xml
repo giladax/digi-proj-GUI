@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5228 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5228</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אוריאל (ולטר) אברהמוביץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וינה</placeName> (אוסטריה), כ"א תשרי תרע"ו (29.9.1915).
+
+ לאביו ר' <persName>ראובן אברהמוביץ</persName> ולאמו<persName> פרידריקה ל</persName> <persName>בית קוטוביץ.</persName>
+
+ קיבל חינוך תיכוני, גבוה - שומע חפשי.
+
+ חבר מרכז "החלוץ" באוסטריה, בהנהגת גורדוניה ב<placeName>וינה</placeName>.
+
+ עלה לארץ בסוף 1934.
+
+ ממיסדי וחבר "כפר רופין" בעמק בית-שאן.
+
+ בשנת 1936 נשא לאשה את<persName> קטה</persName> בת<persName> טוביה</persName> <persName>סבובודה.</persName>
+
+ היה מזכיר מפא"י ומועצת הפועלים בפתח-תקוה, ברמת-גן ובגבעתיים.
+
+ היה חבר הועדה המרכזת של ההסתדרות - המחלקה לאיגוד המקצועי.
+
+ חבר הנהלת "סולל בונה" - ראש אגף כוח אדם.
+
+ בשנת 1957 ביקור לימודים בארצות הברית, כאורח הממשלה האמריקאית.
+
+ בשנת 1961 ראש משלחת ההסתדרות לאנגליה.
+
+ כל השנים פעיל בהגנה ובנוטרות. במילואים בצה"ל.
+
+ חבר מזכירות : מפלגת העבודה הישראלית והועד הפועל של ההסתדרות.
+
+ כתב מאמרים ב"דבר", "הפועל הצעיר" ושונים.
+
+ כיום, ממלא מקום ראש עירית רמת-גן.
+
+ צאצאיו:<persName> דניאל, יעל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5228 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5228</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

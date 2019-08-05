@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2332 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2332</bibl><bibl>Volume: #5 ,Page: 2333 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2333</bibl>
+<bibl>Volume: #5 ,Page: 2334 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2334</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר מאיר ואלנשטיין</persName>
+
+</head>
+         <div><p> נולד בירושלים, בט"ז אייר תרס"ג (13.5.1903).
+
+ לאביו הרב <persName>שמעון </persName> בר'<persName> משה נחום </persName> (אב''ד דקהל פרושים בירושלים) ולאמו<persName> שרה בריינה</persName> בת הרב <persName>יצחק איי</persName> <persName>זיק סגל.</persName>
+
+ למד בחדרים ובישיבות ירושלים ואח"כ בביהמ"ד מורים של המזרחי, ומשגמר והוסמך לימד בבתה"ס של המזרחי בעמק יזרעאל ואח"כ בתחכמוני בתל-אביב.
+
+ נשא לאשה את<persName> רחל</persName> בת ר' <persName>פסח מאירי</persName> (ואחרי פטירתה בא' מנ"א תש"א במנצ'סטר נשא בתש"ו את שרה שושנה בת הרב<persName> יוסף רבי).</persName>
+
+ הוזמן לעבודה חינוכית עברית באנגליה וניהל את ביה"ס העברי במנצ'סטר שנוסד על-ידי הרב<persName> י. י. יפה</persName> ו"ל. תוך עבודה המשיך להשתלם באוניברסיטאות מנצ'סטר ולונדון וקיבל את התארים מוסמך למדעי הרוח וד"ר לפילוסופיה, וב-1937 קיבל מאוניברסיטת מנצ'סטר את התואר Hangton Fellowבלוית פרס בסך 600 לי"ש. אח"כ קיבל עבודה מדעית באוניברסיטה זו וכיום הנו בה מרצה לעברית של ימי הביניים ולעברית חדשה וכן בוחן לעברית חדשה מטעם T.M.B. באוניברסיטאות מנצ'סטר, לידז, שפפילד, ליברפול ובירמינגהם, יו"ר "תרבות" וחבר ועד החינוך של הקהלה במנצ'סטר וחבר ועד החינוך של ההנהלה הציונית בלונדון. פרסם מאמרים מדעיים בעתונים ובקבצים שונים.
+
+ האוניברסיטה מוציאה בקביעות את השנתון "מלילה" (קובץ מדעי עברי) שהוא עורך יחד עם הפרופ'<persName> א.</persName> <persName>רוברטסון,</persName> ועד עתה כבר יצאו 4 כרכים.
+
+ בקיץ תש"ו ביקר בארץ באופן פרטי, ובקיץ תש"טביקר שנית על חשבון אוניברסיטת מנצ'סטר לשם עמידה על התפתחותן החדישה של השפה והספרות העברית במדינת ישראל.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2332 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2332</bibl><bibl>Volume: #5 ,Page: 2333 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2333</bibl>
+<bibl>Volume: #5 ,Page: 2334 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2334</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

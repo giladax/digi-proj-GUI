@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1180 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1180</bibl><bibl>Volume: #3 ,Page: 1181 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1181</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם ברוך גורדון</persName>
+
+</head>
+         <div><p> נולד בוילנה, בשנת תרנ"ז (1.6.1897), לאביו <persName>יעקב</persName> <persName>אליהו </persName> (נכדו של ר' <persName>שמואל גורדון</persName> מביאליסטוק שעלה ירלשלימה לפני כ-80 שנה) ולאמו <persName>תמרה</persName> לבית <persName>מיניקיס.</persName> קיבל חינוך מסורתי והשתלם בשפה ובספרות העברית ופעל בארגוני-נוער ציוניים. גמר גימנסיה רוסית והמ
+
+
+ שיך את לימודיו באוניברסיטת אודיסה, שם הוסמך לפיזיקה ולמתימטיקה,
+
+ נשא לאשה את<persName> דבורה</persName> בת<persName> גרשון רוזנטל</persName> בוילנה ועסק שם בהוראה במקצועו בבית-ספר תיכון עברי.
+
+ בראשית תרפ"ו עלה ארצה, יסד יחד עם <persName>שלום</persName> <persName>שטרייט </persName> את הגימנסיה "אחד העם" בפתח תקוה ומאז הוא מנהלה.
+
+ משתתף בחיים הצבוריים כחבר הנהלת האיחוד האזרחי בארץ-ישראל, חבר ההנהלה במרכז הארצי של קופת-חולים עממית ויו"ר סניפה המקומי, חבר ועדת הבריאות העירונית, חבר הנהלת הגוש האזרחי, חבר מרכז המכבי בארץ-ישראל וחבר המועצה הממשלתית ללימודים גבוהים,
+
+ צאצאיו: <persName>מיכאל </persName> (מהמתנדבים לצבא במלחמתהעולם השנית, ממוסמכי האוניברסיטה העברית למדע הרוח),<persName> בנימינה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1180 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1180</bibl><bibl>Volume: #3 ,Page: 1181 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1181</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

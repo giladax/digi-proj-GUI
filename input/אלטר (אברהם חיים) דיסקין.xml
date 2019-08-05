@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3792 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3792</bibl><bibl>Volume: #11 ,Page: 3793 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3793</bibl>
+<bibl>Volume: #11 ,Page: 3794 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3794</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלטר (אברהם חיים) דיסקין</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרמ"ד (1884). לאביו ר' משה<persName> יהושע אנובר-דיסקין</persName> (ממשפחת בעל "משכיל לאיתן". ממיסדי "מאה שערים" בירושלים) ולאמו<persName> שרה</persName> . קיבל חינוך מסורתי בתלמוד תורה "עץ חיים", וחינוך כללי ביה"ס למל בירושלים. נשא לאשה את<persName> פרומה רייזל</persName> (פאני) בת <persName>שמעון</persName> נצלר. עבד אצל חלוץ הקומיסיונרים היהודים בארץ,<persName> זאב</persName>
+
+ (וילהלם)<persName> גרוס</persName> (ראה כרך א'. עמוד 325) ובגמר מלחמת העולם הראשונה יסד יחד עם שני חבריו <persName>(מרדכי</persName> <persName>כספי ושמעון קפלן</persName> ), מפקידי הפירמה<persName> גרוס</persName> , את הפירמה "כספי, דיסקין וקפלן", שהתפתחה לאחת הסוכנויות הגדולות בארץ לאיספורט, אכספורט וביטוח. היה אהוב על השכנים הערבים והביא תועלת רבה בקשריו עמהם, בגאולת קרקעות ובהשקטת הרוחות. נפטר בירושלים, בשנת תרצ"ט (1939). צאצאיו:<persName> שמעון, משה, שרה אשת נחום סנפירי</persName> (ירושלים).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3792 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3792</bibl><bibl>Volume: #11 ,Page: 3793 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3793</bibl>
+<bibl>Volume: #11 ,Page: 3794 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3794</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

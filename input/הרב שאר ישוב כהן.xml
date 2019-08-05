@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2652 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2652</bibl><bibl>Volume: #6 ,Page: 2653 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2653</bibl>
+<bibl>Volume: #6 ,Page: 2654 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2654</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שאר ישוב כהן</persName>
+
+</head>
+         <div><p> נולד בירושלים. ט' חשון תרפ''ח (4.11.1927).
+
+ לאביו הרב<persName> דוד כהן </persName> - "הנזיר" ראש ישיבת הרב קוק בירושלים (ראה את הערך שלו בכרך זה) ולאמו <persName>שרה</persName> בת הרב<persName> חנוך אטקין</persName> (רבה של לוגה).
+
+ קבל חנוך מסורתי בבית ספר -תלמוד תורה גאולה, ישיבת תורת ירושלים, ישיבת הרב קוק, וחנוך כללי קבל בהאוניברסיטה העברית, "מכון הרב פישל" לדרישת התלמוד בירושלים.
+
+ היה חבר ההנהגה הארצית של "ברית החשמונאים", פעיל בהגנה ואחר כך במחתרת וישב בלטרון. נפצע בקרבות בעיר העתיקה בירושלים ונשבה בידי הלגיון העבר ירדני במשך שבעה חדשים. נכה המלחמה.
+
+ בקום המדינה מלא תפקידים שונים בצה.ל. והיה רב צבאי (עד תשי"ד) של מחוז תל-אביב, רב ראשי של חיל האויר הישראלי (רב סרן).
+
+ היה בשליחות למסעי תעמולה למען המגבית היהודית המאוחדת באמריקה מטעם צ.ה.ל. (ב-1949) .
+
+
+ כתב מאמרים, ספורים ושירים רבים ב"הצופה", "החשמונאי" (אותו ערך במשך תקופה קצרה), "למועד", "במישור" ועוד.
+
+ בתשי"ג נשא לאשה את <persName>נעמי</persName> בת הרב <persName>הרברט גולד</persName> <persName>שטיין</persName> מניו-יורק (אמה - היא בת העסקן והנדבן הידוע <persName>הרי פישל</persName> מאמריקה).
+
+ כיום, מנהל מכון הרי פישל לדרישת התלמוד בירושלים
+
+ בתו : <persName> אלירז.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ (ראה בכרך זה, בעמוד 2653)
+
+ נתחנך בדרכי אביו בנזירות עד הגיעו לגיל ט''ו שנה ונודע כעלוי. חנוכו התורני בת''ת גאולה בירושלים, בישיבת תורת ירושלים, ישיבת פתח תקוה, ישיבת הרב קוק ומכון הרי פישל לדרישת התלמוד. נסמך לרבנות ע''י הרב הראשי וגדולי הרבנים בירושלים בהיותו צעיר לימים (בן כ"א). סיים את הפקולטה למשפטים של האוניברסיטה העברית.
+
+ היה פעיל במחתרת ואח"כ בהגנה וישב בלאטרון.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2652 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2652</bibl><bibl>Volume: #6 ,Page: 2653 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2653</bibl>
+<bibl>Volume: #6 ,Page: 2654 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2654</bibl>
+            <bibl>Volume: #6 ,Page: 2716 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2716</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

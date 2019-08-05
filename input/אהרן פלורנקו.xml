@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3115 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3115</bibl><bibl>Volume: #8 ,Page: 3116 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3116</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן פלורנקו</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אודיסה</placeName> (רוסיה) בשנת תרט"ז (1856). לאביו<persName> מרדכי</persName> ולאמו <persName>אביגיל</persName>
+
+ קבל חנוך מסורתי.
+
+ היה חבר באגודת "חובבי-ציון" ב<placeName>אודיסה</placeName>.
+
+ עסק במסחר כלי זכוכית בעירו. היה זגג.
+
+ נשא לאשה את <persName>בת-שבע</persName> בת<persName> אברהם משה ורחל</persName> <persName>הרשנזון </persName> (נפטרה ברחובות, כ"ג טבת תש"ג-31.12.1942). היתה פעילה בחברת לינה ועזרה לבעלה במשק וכו'.
+
+ עלה לארץ בשנת תר"ן (1890) והיה מהמתישבים הראשונים במושבה רחובות, שנוסדה באותה שנה.
+
+
+ רכש קרקע ועבד בחקלאות.
+
+ היה גבאי בתלמוד תורה וחבר במוסדות הדתיים במושבה רחובות.
+
+ ממיסדי חברת לינה במושבה, יחד עם ד''ר <persName>מוסקוביץ</persName> , גב'<persName> יעקבזון </persName> והרב<persName> כהן,</persName> והיה פעיל בה.
+
+ הפליטים שגורשו מיפו-תל-אביב ובאו לרחובות במלחמה העולמית הראשונה, חלו בטיפוס הבהרות, הוא טיפל בהם במסירות רבה, אף שסיכנו במחלתם את ילדיו בביתו.
+
+ עם ילדיו דבר בבית - בעברית. בשבתות היה מקריא לתלמידי בתי הספר את שירי <persName>יהודה ליב גורדון.</persName>
+
+ נפטר ביפו, י"ב סיון תרע"ט (10.6.1919).
+
+ צאצאיו :<persName> אברהם </persName> (רחובות), <persName>דבורה</persName> אשת <persName>אברהם</persName> <persName>שחור</persName> (גדרה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3115 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3115</bibl><bibl>Volume: #8 ,Page: 3116 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3116</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

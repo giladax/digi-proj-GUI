@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4044 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4044</bibl><bibl>Volume: #12 ,Page: 4045 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4045</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בן-ציון גולדצויג</persName>
+
+</head>
+         <div><p> נולד ב<placeName>צפת</placeName> בשנת תרמ"ט (1889).
+
+ לאביו <persName>אפרים גולדצויג.</persName>
+
+ שנות ילדותו עברו עליו בטבריה. למד שם בחדרים ובישיבות. עבר לירושלים ונתחנך בבית יתומים.
+
+ למד מלאכת הדפוס ועבר שנים אחדות כמסדר אותיות מומחה.
+
+ מתוך חיבה ונטירה למקצוע ההוראה וחינוך ילדים, השתלם בבית המדרש למורים של חברת "העזרה".
+
+
+ נתחבב על מוריו בשקדנותו ובמזגו הטוב. אחרי גומרו את חוק לימודיו. נתמנה בתור מורה בבית-הספר "תחכמוני" בירושלים.
+
+ ביוזמתו נרכשה מסדרת אותיות בביה''ס ועם חבר ילדים מהתלמידים סידרו את העתון "חברנו" שיצא לאור ע"י התלמידים (משנת תרפ"א).
+
+ רבים מהתלמידים השתלמו אח"כ במלאכת הסידור וההדפסה, והם עובדים כיום בסדרים וכמכונאים בבתי הדפוס השונים בארץ.
+
+ נפטר בירושלים ל' סיון תש''ג (3.7.1943).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4044 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4044</bibl><bibl>Volume: #12 ,Page: 4045 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4045</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

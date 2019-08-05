@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1218 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1218</bibl><bibl>Volume: #3 ,Page: 1219 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1219</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יוסף מרדכי הלוי</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ח סיון תרל"ח (1878), לאביו <persName>הרב אשר אברהם</persName> (דיין העדה הספרדית ושד"ר מוסדות העדה לחו"ל) ולאמו <persName>אירמוזה</persName> . נתיתם מהוריו בילדותו ונתחנך בהשגחת אפוטרופסו הרב<persName> יוסף רפאל עוזיאל</persName> (ראב"ד ונשיא העדה).
+
+ למד בתלמוד-תורה של העדה הספרדית, בישיבת "תפארת ירושלים" ובישיבתו הפרטית של הראשוןלציון רבי <persName>יעקב שאול אלישר</persName> (היש''א ברכה).
+
+ באלול תרי"ג נשא לאשה את<persName> אסתר</persName> בת הגביר<persName> יצחק</persName> <persName>רפאל יצחקי</persName> , היה סמוך על שלחנו שנים אחדות, המשיך להגות בתורה והוסמך לרבנות. בבן כ"ה החל מפרסם חידושי תורה ותשובות בירחון התורני "המאסף" של הרב <persName>בן-ציון קואינקה,</persName> ויכוחי הלכה עם גדולי הרבנים הספרדים והאשכנזים, הערות והשגות על כמה ענינים בספר "שדי חמד" של הגאון ר' <persName>חיים</persName> <persName>חזקיה מדיני,</persName> ופסקי הלכה מבוססים על בקיאות עצומה ותפיסה נכונה בספרות התלמודית. בתר"ס נתמנה למורה לתלמוד בת"ת הספרדים, אח"ב לחבר וסוכן ההנהלה של קופת תמחוי לתמיכת אלמנות ויתומים ולסופר בבית-הדין של הרב <persName>חיים נסים ברוך </persName> השתתף ביסוד בית-חנוך יתומים הספרדי והיה חבר הנהלתו. בראשית תרס"ד נתמנה למורה לתלמוד והלכה בישיבת "תפארת ירושלים" ואח"כ למורה הלכות בכתות העליונות של בית-היתומים הנ"ל. משנתפנתה משרת מורה לתלמוד והלכות בבית-המדרש לרבנים של חברת "עזרה" הברלינית, עקב הבחרו של הרב <persName>בן-ציון מאיר</persName> <persName>חי עוזיאל</persName> בתרע"ב לרב ראשי ביפו, הזמין המנהל <persName>אפרים כהן</persName> אותו למשרה זו, ואח"כ למנהל ומורה ראשי עד שנת תרע"ו.
+
+ בתרע"ד השתתף בהצלחה במשלחת לממשלה המרכזית באיסטמבול מטעם הועדים הכלליים של הספרדים והאשכנזים, שהשיגה בהשתדלותה צו ממשלתי לשחרור הרבנים מהשרות בצבא ולאישור הישיבות כבתי-אולפנא דתיים בעלי זכויות.
+
+ כמה פעמים נתבקש לצאת לחו"ל בשליחות מוסדות העדה, אך סירב להפסיק את עבודתו בירושלים, וכן דחה כמה הזמנות והפצרות לקבל כהונת רב ראשי בקהלות חשובות בחו"ל, וביניהן אף בבגדאד, כי לא רצה להפרד מהארץ ומירושלים.
+
+ בסוף תרע"ח נבחר ליעד הרבנים בנשיאותו של הראשון-לציון רבי <persName>חיים משה אלישר</persName> , ומאז השתתף בפעילות בחיי הצבור בתנאים החדשים והשקיע הרבה מרץ בהכנסת הצבור הספרדי למסגרת הארגון הכללי של הישוב ב"כנסת ישראל" ובארגון הרבנות הראשית לארץ-ישראל. היה ציר לאספת-הנבחרים הראשונה, חבר
+
+
+ הועד הלאומי, ממנהיגי "המזרחי" וחבר המרכז הארצי שלו, חבר ועד עדת הספרדים ונשיאה בשנות תרפ"ז-פ"ח ופעל רבות למען ביצור מעמדה ושיפור סדריה, חבר בית-הדין ומתרצ"ג ואילך ראב"ד של העדה הספרדית וחבר מועצת היבנות הראשית לארץ-ישראל, חבר ועד בית-התבשיל של הנדיב<persName> נתן שטראוס</persName> חבר פעיל במועצות-רבנים שונות, בהתאחדות העולמית של היהודים הספרדים, מראשוני המיסדים של שכונת בית וגן, מראשוני החברים של שכונת רחביה, חבר הנשיאות של האיחוד העולמי של הקהלות הספרדיות והשתתף בועידתה באמסטרדאם, נשיא בית-החולים "משגב לדך", ועוד, דרשן ונואם מצוין ועסקן מכובד על הכל.
+
+ נפטר בירושלים, ט"ו אלול תש"ז (31.8.47).
+
+ צאצאיו: <persName>אירמוזה</persName> (ז"ל) אשת הרב <persName>אליהו פרדס</persName> . <persName>שרה, אליגרה</persName> אשת הרב אליהו פרדס.<persName> רחל </persName> אשת גד אוחנה, <persName>בת-שבע</persName> אשת אברהם פרנס,<persName> רגינה</persName> אשת משה <persName>גביזון, אשר אברהם, יצחק רפאל אליהו.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1218 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1218</bibl><bibl>Volume: #3 ,Page: 1219 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1219</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

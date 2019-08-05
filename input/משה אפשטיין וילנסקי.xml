@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3280 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3280</bibl><bibl>Volume: #9 ,Page: 3281 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3281</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה אפשטיין-וילנסקי</persName>
+
+</head>
+         <div><p> נולד בשנת תר"כ (1860) בגורודוק שבפלך וילנה, אז ברוסיה.
+
+ לאביו<persName> יוסף </persName> (סוחר עצים עשיר) ולאמו <persName>רוזה לבית</persName> <persName>וילנסקי,</persName> ונקרא בשמות-המשפחה שלשני הוריו.
+
+
+ למד בישיבת וולוז'ין המפורסמת והשתלם בהשכלה כללית בארצות חוץ. הצטרף בין הראשונים לתנועת חיבת ציון מתוך הכרה לאומית עזה, היה פעיל בארגונים לאומיים שונים בוילנה ובערים אחרות ברוסיה, וביחוד התמסר להחיאת השפה העברית, גם זאת מתוך שאיפה לאומית, שעם ישראל לא יפסל מהויה לאומית בגלל העדר שפה עצמית, והיה אז מהמשכילים המעטים ברוסיה, שהפיצו את השפה העברית בנוער בשיטת "עברית בעברית".
+
+ גם על משפחתו גברה השפעתו הלאומית, וב-1885 יצאו עמו אביו ואמו ואחיו<persName> אהרן</persName> לעלות ארצה, ובדרך הצטרפה אליהם גם אשתו<persName> ויקטוריה</persName> בת <persName>ליב וייסמן</persName> שנשא באודיסה לפני ההפלגה באניה (נפטרה ב-1953 בתלאביב). האב והאח מתו מקדחת ביסוד המעלה והאם נפטרה בראש פנה בגיל 92.
+
+ בארץ נתמנה על-ידי פקידות הבארון למורה בראש פנה ואח"כ הועבר לזכרון יעקב. בגלל קדחת צהובה הוכרח לצאת לשנים אחדות לאירופה וגם שם המשיך להפיץ את התרבות העברית. כשהוטב מצב בריאותו חזר ארצה והשתקע בתל-אביב, ובמשך 50 שנות פעולתו החינוכית בארץ ובחו"ל העמיד אלפי תלמידים ותלמידות נאמנים לתחית העם וארצו ושפתו.
+
+ נפטר בתל-אביב, י' חשון תרצ"ח (15.10.1937) ונקבר בנחלת יצחק.
+
+ צאצאיו:<persName> הדסה</persName> (ז''ל), <persName>יהודית</persName> (ז"ל), <persName>נחום וילנסקי</persName> (סופרו הדיפלומטי של "הבוקר", ראה כרך ששי, עמוד 7)261 , <persName>עזובה</persName> אשת<persName> יוסף אוקסנברג </persName> (לשעבר במאי ושחקן "המטאטא" בארץ), <persName>שרה אפשטיין</persName> (מורה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3280 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3280</bibl><bibl>Volume: #9 ,Page: 3281 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3281</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

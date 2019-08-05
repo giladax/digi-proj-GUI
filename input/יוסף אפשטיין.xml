@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4104 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4104</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף אפשטיין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רוסיה</placeName> בשנת תרי"ג (1853).
+
+ לאביו <persName>אברהם שרגא אפשטיין</persName> ולאמו <persName>קיילה דבורה.</persName>
+
+ קיבל חינוך מסורתי.
+
+ בשנת תרמ"ב (1882) עלה לארץ.
+
+ מראשוני המתיישבים בזכרון-יעקב.
+
+ הקים משק חקלאי למופת.
+
+ נשא לאשה את<persName> בת שבע </persName> לבית <persName>צוקרמן.</persName>
+
+ היה חבר הוועד בשנים הראשונות להקמת המושבה.
+
+ כל השנים עמד על משמר המושבה מהתנפלויות השכנים הערבים.
+
+ שירת את המושבה כמוכתר עד פרוץ מלחמת העולם הראשונה (1914).
+
+ העמיד בנים מסורים למושבה ולאדמתה.
+
+ נפטר בזכרון-יעקב, כ"ד אב תרפ"ח (10.8.1928).
+
+ צאצאיו:<persName> חיים יצחק</persName> ז''ל, <persName>אברהם יהודה</persName> ז"ל, <persName>צבי</persName> ז"ל, <persName>דב</persName> ז"ל,<persName> מלכה</persName> ז"ל, <persName>יעקב</persName> (ראה בכרך זה),<persName>ישעיהו</persName> (רוקח).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4104 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4104</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

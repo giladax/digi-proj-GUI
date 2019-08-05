@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 45 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/45</bibl><bibl>Volume: #1 ,Page: 46 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/46</bibl>
+<bibl>Volume: #1 ,Page: 47 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/47</bibl>
+<bibl>Volume: #1 ,Page: 48 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/48</bibl>
+<bibl>Volume: #1 ,Page: 49 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/49</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יהודה הלוי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סאראייבו</placeName> (בוסניה), בשנת תקמ"ג (1783) לאביו ר' מנחם. למד בבחרותו בעיר ראגוזה שבדלמציה (כיום: דוברובניק, עיר-נמל של יוגוסלביה) ובן שמונה-עשרה עלה ארצה והתישב בירושלים. כאן ישב כמה שנים ועסק בתורה כאחד החכמים בעדה הספרדית. פעם נשלח בתור שד"ר מטעם כוללות הספרדים שבירושלים לעורר את נדיבי העם באיסטמבול לתמוך בישובה של ארץ-ישראל ושהה שם שש שנים.
+
+ בשנת תקפ"ה (1825) נתמנה מטעם רבני ירושלים כנציגם בעיר-החוף יפו לקבל את פני העולים, ב"בית העולים" שיסד הבנקאי <persName>ישעיהו אג'ימן </persName> מאיסטמבול, להדריכם ולארגן את נסיעתם בשיירות לירושלים (כי בימים ההם לא היה ישוב יהודי קבוע ביפו והיהודים הבאים ארצה היו זקוקים לחסדי נכרים, ולא פעם סבלו רבות בגלל חוסר עזרה יהודית בראשית דרכם בארץ) וכן לסדר עם העולים העשירים את דבר התחייבותם בתשלומי מסי העדה ועזבונותיהם לטובת מוסדות העדה לפי התקנות. בהיותו מכובד על כל התושבים ונתין השולטן עוד ממקום-הולדתו, הצליח למלא את תפקידו זה לטובת העולים והעדה. מובן מאליו, שישיבתו של רב בבדידות, בעיר שאין בה אף יהודי אחד, ואפילו אם עלה מפעם לפעם לשבת קצת
+
+
+ בירושלים, לא היתה נוחה ונעימה כל עיקר. בשנת תק"ץ נטרפה אנית עולים ממארוקו ליד עכו ו-12 שרידיה טולטלו ליפו, והרב השפיע עליהם שיתישבו כאן. במשך הזמן התלקטו עוד יהודים ליפו ומשנוסדה בה עדה יהודית נתמנה מטעם הראשון-לציון הרב אג"ן (חיים אברהם גאגין), החכם באשי הראשון בארץישראל, לרבה ומנהיגה החל משנת תר"ג. מאז שקד על גידול הישוב ביפו וכשביקר הד"ר<persName> אברהם אלעזר</persName> (לודויג אוגוסט) <persName>פרנקל</persName> בארץ בשנת תרט"ו, אמר לו הרב, שהוא רואה את עצמו כאביה ומיסדה של העדה היהודית ביפו, שיש בה כבר 65 משפחות (מהן שלש אשכנזיות) המונות כ-400 נפש, ביניהם סוחרים, חנונים, סוכנים, בעלי-מלאכה, סבלים, ספנים.
+
+ לעת זקנה זכה לראות את ההתעוררות לישוב ארץ-ישראל, שקמה על-ידי הרבנים<persName> קאלישר, גוטמאכר,</persName> <persName>אלקלעי</persName> וחבריהם. והנה קרה אז אסון לחבורה נוצרית-אמריקאית מיסודו של <persName>אדאמס</persName> , שמתוך נימוקים דתיים עלתה ב-1866 להתישב בארץ, וזמן קצר אחרי בואם מתו אחדים במחלות ויתרם התפזרו. חשש הרב, שכשלון זה יפחיד את היהודים מבוא להתישב בארץ, ולכן פרסם ב"הלבנון", שהופיע אז במאינץ (גרמניה), ביום ב' תמוז תרכ"ז, מכתב על המאורע הזה, בו הוא יוצא נגד ניפוח השמועות על כשלון האמריקאים ומסביר בעצות מעשיות, כיצד יוכלו יהודים להתישב ולחיות על חקלאות. כן זכה לראות את ההתחלה של חקלאות יהודית ב"פרדס מונטיפיורי" (מקום שכונת מונטיפיורי בת"א כיום), ואת ראשית הפעולות ליסוד פתח-תקוה, והוא שעודד את <persName>קארל נטר </persName> ביסוד מקוה ישראל, על אף התנגדות רבני האשכנזים שבירושלים.
+
+ עם גידול הישוב ביפו היה צורך בתלמוד-תורה ואז נסע מצרימה בהיותו כבר כבן תשעים, והשפיע על הבארון דה-מנשה, שיקים בית לתלמוד-תורה ביפו. עוד קודם לכן פרסם ב"המגיד" בשנת 1868 קריאה ליהודים בגולה, שיגישו עזרה ליהודי יפו להקמת מוסדות ובנינים שעדה יהודית זקוקה להם.
+
+ עד יומו האחרון היו כל חושיו ערים ושלמים, ואחרי היותו ראש עדת יהודי יפו במשך 54 שנה נפטר ביפו בשנתו ה-96 ביום י"ז מנחם-אב תרל"ט.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 45 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/45</bibl><bibl>Volume: #1 ,Page: 46 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/46</bibl>
+<bibl>Volume: #1 ,Page: 47 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/47</bibl>
+<bibl>Volume: #1 ,Page: 48 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/48</bibl>
+<bibl>Volume: #1 ,Page: 49 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/49</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

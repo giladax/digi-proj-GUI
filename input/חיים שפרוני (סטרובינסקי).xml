@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3091 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3091</bibl><bibl>Volume: #8 ,Page: 3092 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3092</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים שפרוני (סטרובינסקי)</persName>
+
+</head>
+         <div><p> נולד בכ"ח בתשרי תרנ"ח (בסוף 1897) בפטריקוב שבפלך מינסק, רוסיה הלבנה.
+
+ לאביו <persName>אליעזר סטארובינסקי </persName> ולאמו<persName> שרה </persName> בת<persName> מאיר</persName> <persName>קוזמיץ'.</persName>
+
+ למד בחדר, בישיבות שקלוב וסלבודקה ואח"כ במכון להכשרת מורים באודיסה מטעם "תרבות" והיה חבר ב"צעירי ציון".
+
+ ב-1922 נשא לאשה את<persName> שפרה</persName> בת<persName> שמעון קארלין.</persName>
+
+ באותה שנה עלה לארץ. למד שנתים בבית-מדרש למורים שבהנהלת<persName> דוד ילין</persName> בירושלים. ב-1924 נתמנה למורה בעין חרוד ובמשך הזמן הגיע לכהונת מנהל בית-הספר המשותף לעין-חרוד ותל-יוסף. ב-1929 למד שנה בתכניון בחיפה וב-1946 השתלם שנה באוניברסיטה בירושלים.
+
+ חבר מרכז המורים והמחלקה להשתלמות שעל ידו, חבר ועד החינוך הממשלתי, חבר המועצה הצבורית
+
+
+ לחינוך החקלאי מטעם שר החקלאות, חבר המחלקה לחינוך של "איחוד הקבוצות והקיבוצים", חבר המרכז לתרבות ולחינוך של הסתדרות העובדים.
+
+ פרסם מאמרים ב"דבר" ב"אורים", רבעון המרכז לחינוך, "החינוך" ו"הד החינוך" של הסתדרות המורים, - ואת הספר "תורת הכימיה" חלקים א' וב' לבתיספר תיכונים וחקלאיים (הוצאת הקיבוץ המאוחד, תש"ח).
+
+ צאצאיו: <persName>אראלה </persName> אשת <persName>אריה הררי</persName> (עין החורש), <persName>שמעון.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בקיבוץ עין חרוד (האיחוד) י"ג חשון תשכ"א (3.11.60) (ראה כרך שמיני, עמוד 3091)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3091 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3091</bibl><bibl>Volume: #8 ,Page: 3092 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3092</bibl>
+            <bibl>Volume: #11 ,Page: 3885 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3885</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

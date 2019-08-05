@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3641 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3641</bibl><bibl>Volume: #10 ,Page: 3642 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3642</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חנה צ'רקסקי</persName>
+
+</head>
+         <div><p> נולדה בעיירה מסטילובה, ע"י וולקוביסק, פלך גרודנה (רוסיה הלבנה) בשנת תר"ס (1900).
+
+ לאביה<persName> שלמה אפשטיין </persName> ולאמה <persName>שושנה </persName> (רייזל).
+
+ קבלה חנוך מסורתי וכללי.
+
+ בשנת 1911 עלתה לארץ עם הוריה.
+
+ עבדה בחקלאות בפתח-תקוה, ראש פינה, באילתהשחר בזמן הווסדה (1915), אח"כ חברה בכפר גלעדי.
+
+ השתתפה בהגנת "תל-חי" - כפר גלעדי" יחד עם <persName>יוסף טרומפלדור, </persName> ומראשוני כובשי עמק יזרעאל ב"עין חרוד" ו"תל-יוסף".
+
+ בין סוללי כביש טבריה-צמח, מסילת הברזל "ראשהעין".
+
+ נישאה<persName> למשה ראובן צ'רסקי</persName> (ראה כרך ז', עמוד 2934).
+
+ עזרה לבעלה בעבודתו הצבורית.
+
+ בשנת 1932 היתה יחד עם בעלה בין הראשונים שעלו להתישב ב"כפר-אז"ר''.
+
+ במוסף לשבת ב"דבר" משנת 1929 כתבה זכרונות על מאורעות "תל-חי" ורשימה ב"דבר" מימי כיבוש העמק.
+
+
+<persName>יוסף טרומפלדור </persName> ביומנו מימי מאורעות "תל-חי", מזכיר אותה בין המגינים.
+
+ צאצאיה: <persName>דוד</persName> ("דודו") היה מפקד המחלקה של הפלמ"ח במחלקת הפורצים במצודת "נבי-יושע" (מצודת הכוח) ונפל יחד עם מחלקתו (28 צעירים) ביום ח' אייר תש''ח (17.5.1948) ונקברו בקבר אחים בנבייושע ; <persName>תמר</persName> אשת<persName> יעקב יעקובי</persName> (חברים בכפר אז''ר); <persName>חגי </persName> (בכפר אז"ר).
+
+ בהוצאת "עם עובד" (תשי"ד) יצא לאור ספר "אב ובנו" <persName>(משה ודוד צ'רסקי)</persName> לזכר בעלה ובנה<persName> דוד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3641 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3641</bibl><bibl>Volume: #10 ,Page: 3642 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3642</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

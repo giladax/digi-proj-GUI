@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 394 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/394</bibl><bibl>Volume: #1 ,Page: 396 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/396</bibl>
+<bibl>Volume: #1 ,Page: 397 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/397</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים אליעזר זק"ש</persName>
+
+</head>
+         <div><p> בנו של בן-ציון, מצאצאי הגאון מוילנא מצד אמו. - נולד י"ח ניסן תרי"ח (1858) בעיירה יעלוק, פלך קובנה.
+
+ נתחנך ב"חדר" ובישיבות בוילנה ועוד והיה ידוע בשם "העלוי מיעלוק". היה חריף ובקי בשני השס"ים
+
+ (הבבלי והירושלמי) וידע את רוב התנ"ך בעל פה. נוסף לזה ידע על בורין: רוסית, גרמנית, אנגלית וצרפתית.
+
+ בצעירותו היגר לארצות הברית ורכש לו רכוש והיה בעל בית מסחר סיטונאי למכולת בשיקגו במשך הרבה שנים. היה פעיל גם בעבודה ציונית וחבר הועד של "שוחרי שפת עבר" במשך כמה שנים.
+
+ בשנת תרס"ח עלה ארצה יחד עם אשתו ובתו היחידה, והתישב ברחובות. רכש פרדס והתמסר לפרדסנות.
+
+ עד מהרה רכש לו במושבה את אהדת הצבור ונבחר למועצה המקומית בנשיאה. כן נבחר לנשיא הכבוד של קופת מלוה וחסכון וגם של קופת מלוה וחסכון של התימנים במושבה. במשך שנות נשיאותו במועצה התקין את המשכת הספקת המים במושבה ויסד את הדואר.
+
+ התמסר במיוחד לעניני התימנים וצרכיהם, ועד יומו האחרון טרח בישובה ותקנתה של עדת התימנים, והם
+
+
+ זכרו לו את חסדיו וקראו את שכונתם על שמו "שכונת אפרים". קראו לו "אבי התימנים".
+
+ היה תלמיד חכם ועסק כל ימיו בתורה ובחכמה לשמה. לשם עבודתו המדעית בחקירת התנ''ך ודברי ימי ישראל השתלם גם בשפות העתיקות: סורית, יונית ורומית.
+
+ במשך שנים עסק בחיבור רב הכמות ורב האיכות (כאלף עמוד) מלא וגדוש בקיאות וחריפות בספרות ישראל והעמים שנשאר בכתב יד.
+
+ נפטר ברחובות, ח' אדר תש"ד.
+
+ בתו היחידה טובה היא אשת העסקן טוביה זיסקינד מילר ברחובות.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 394 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/394</bibl><bibl>Volume: #1 ,Page: 396 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/396</bibl>
+<bibl>Volume: #1 ,Page: 397 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/397</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

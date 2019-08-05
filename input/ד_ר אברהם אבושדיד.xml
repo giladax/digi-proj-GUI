@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/470</bibl><bibl>Volume: #1 ,Page: 471 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/471</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אברהם אבושדיד</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרל"ה (1875), לאביו<persName> רח</persName> <persName>מים שלמה </persName> (בן <persName>אברהם</persName> , מראשוני העולים ה"מערביים" -מארצות צפון-אפריקה - ממנהיגי עדת המערביים, שהניח את היסוד לבתי ההקדש שלה ליד שער יפו). למד בבית-הספר של "כל ישראל חברים", בביתהספר התיכוני של הגרמנים, ואח"כ למד רפואה באוניברסיטה באיסטמבול והיה מראשוני ילידי הארץ שהוסמכו בתואר דוקטור לרפואה.
+
+ חזר ירושלימה ונתקבל לרופא בבית-החולים "משגב לדך"' וזמן מה היה רופא גם בבית-החולים הגרמני. בתרס"ט נתמנה לרופא קבוע מטעם חברת "למען ציון". בתרע"ג השתתף ביסוד "אגודת הרופאים מדברי עברית" (ארמ"ע), שנטלה על עצמה להכשיר את הלשון העברית לשימוש מקצועי ברפואה, ונבחר לגזברה (היו"ר היה ד"ר <persName>אריה מזיא</persName> והמזכיר ד"ר<persName> א.</persName> <persName>ל. שמעוני-מקלר</persName> ).
+
+ נשא לאשה את רחל לבית בנימין מארם צובא. בראשית מלחמת-העולם הראשונה הוברח לצאת מהארץ בגלל אזרחותו הצרפתית, ירד מצרימה ופעל שם במסירות בשרות הריפוי ושמירת הבריאות של גולי ארצנו.
+
+ אחרי המלחמה חזר ארצה והתישב ביפו כרופא פרטי. היה רופא-בית אצל כמה מנכבדי הערבים, ובקשריו אלה עשה רבות להשכנת שלום בין הערבים והיהודים ולמניעת התנקשויות ופגיעות ביהודים. עסק
+
+
+ בצרכי צבור כחבר ועד הקהלת של יפו ות"א, במשפט השלום העברי, בהסתדרות הרופאים, ב"בני ברית", ועוד. השתתף ביסוד לשבת הבונים החפשים "מוריה"
+
+ (חסות מצרית) ביפו והיה נשיאה הראשון (31.3.301.4.28).
+
+ נפטר בתל-אביב, ט' אדר תר"ץ (9.3.30) והובא לקבורה בירושלים.
+
+ אחותו <persName>לאה </persName> נישאה להסופר <persName>איתמר בן-אבי</persName> (ז"ל).
+
+ צאצאיו: שתי הבנות:<persName> יולנדה; מפאלדה</persName> ; הבן <persName>זופרו </persName> (בלונדון). 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/470</bibl><bibl>Volume: #1 ,Page: 471 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/471</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

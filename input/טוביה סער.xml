@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5468 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5468</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>טוביה סער</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"א ניסן תרצ"ה (24.4.1935).
+
+ לאביו <persName>דוד נשר</persName> ולאמו <persName>ליזה</persName> בת <persName>אהרן ז'לניץ.</persName>
+
+ בוגר ביה"ס לקציני-ים ליד הטכניון בחיפה, וביתהספר למדעי המדינה בירושלים. למד טלוויזיה בצרפת במילגה של ממשלת צרפת (1965). בשנים 1958-1953 שירת כקצין ימי בחיל-הים. בשנת 1958 היה עורך ראשי לתכניות ב"גליצה"ל". בשנת 1959 עבר ל"קול ישראל" והועסק משך שנים ככתב צבאי, כתב בכיר. בשנת 1965 נשא לאשה את <persName>מרי</persName> בת<persName> נסים יעקב.</persName> במלחמת ששת הימים ערך והגיש את יומני המל
+
+ חמה. ערך והגיש תכניות רדיו שונות שהבולטת בהן
+
+ היתה "חיוג-ישיר". כיום, ראש מערכת של חדשות הטלוויזיה בתלאביב.
+
+ צאצאיו:<persName> גל </persName> (בת); <persName>רן-נילי </persName> (בן).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5468 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5468</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

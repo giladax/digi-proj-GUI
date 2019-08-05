@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2970 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2970</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד רזיאל</persName>
+
+</head>
+         <div><p> עצמותיו הועברו מעירק לקפריסין והובאו לקבורה בבית הקברות היהודי במארגו, ליד ניקוסיה, ביום ג', ה' טבת תשט"ז (20.12.55) (ראה כרך ב', עמוד 976)
+
+</p>
+<p>
+
+ תוספות: 
+
+ א. בטל מספר 2972 בכרך ז'. היות וביום 20.12.55 עמדו להעביר את עצמותיו לארץ לפי הודעה בעתונות.
+
+ ב. עצמותיו הועברו מקפריסין לארץ ביום כ"ז אדר תשכ"א (15.3.61) ונקבר בטכס צבאי למחרתו בהר הרצל בירושלים בחלקת חללי הבריגדה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2970 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2970</bibl>            <bibl>Volume: #11 ,Page: 3879 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3879</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

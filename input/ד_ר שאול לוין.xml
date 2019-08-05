@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2835 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2835</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר שאול לוין</persName>
+
+</head>
+         <div><p> נולד בצרקס (רוסיה) בשנת תרס''ה (31.10.1905).
+
+ לאביו <persName>שמואל</persName> בן <persName>שאול </persName> מקיוב (מצאצאי ר' שאול <persName>קרלינר</persName> מפינסק, מראשי המתנגדים בתחלת המאה הי''ט) ולאמו <persName>סופיה</persName> בת <persName>נחמן קוסטליאנץ, </persName> מלבוי.
+
+ קיבל חינוך בגמנסיה הממשלתית-רוסית בקיוב (4 הכתות הראשונות), חמשית וששית בבית הספר היהודי בלודז' (מיסודו של ברוידה), תעודת בגרות גרמנית בדנציג, פילוסופיה באוניברסיטה בברלין (מקצועות ראשיים: היסטוריה, פילולוגיה).
+
+ היה מורה בבתי ספר שונים.
+
+ היה פעיל במחלקת התעמולה של ההסתדרות הציונית בגרמניה.
+
+ בשנת 1933 נשא לאשה את <persName>מרים</persName> בת <persName>אברהם נכט,</persName> מברלין.
+
+ באותה שנה עלה לארץ.
+
+ מורה בגמנסיות שונות בארץ. מנהל פדגוגי בגמנסיה "שלוה", מנהל המחלקה לחנוך ולתרבות בעירית נתניה.
+
+ היה חבר בהנהגה הארצית של הסתדרות הצופים, מפקד ארצי של "המכבי הצעיר" בארץ ומיסד וראש "שבטי הבונים".
+
+ בשנת תשי"ד נתמנה למנהל המחלקה לחנוך ולתרבות בעירית תל-אביב-יפו.
+
+ חבר נשיאות בבית ציוני אמריקה, חבר הנהלת הקונסרבטוריון הישראלי, חבר נשיאות ועד החנוך של מפלגת הציונים הכלליים, חבר ועד החנוך של המדינה, יו''ר אגוד ארצי של מנהלי מחלקות חנוך בעיריות וברשויות המקומיות.
+
+ בנו;<persName> דן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2835 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2835</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

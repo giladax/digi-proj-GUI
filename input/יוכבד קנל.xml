@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2167 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2167</bibl><bibl>Volume: #5 ,Page: 2168 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2168</bibl>
+<bibl>Volume: #5 ,Page: 2169 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2169</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוכבד קנל</persName>
+
+</head>
+         <div><p> נולדה בצפת, ט"ו אב תרכ"א (1861) לאביה<persName> חיים יצחק</persName> <persName>לובין </persName> (היה סופר סתם וממונה על כולל וואהלין בצפת) ולאמה <persName>תמר</persName> לבית <persName>שטילמן.</persName>
+
+ נישאה לר' <persName>ישראל צבי קנל</persName> בגיל רך מאד (בהיותו בן י"ד בלבד). לאחר ששמע תורה מפיו של הרב מצפת בקלויז הצ'רנובולי היה בעצמו למלמד דרדקי ושו"ב : בצפת, ירושלים, שכם ורמלה (ראה הערך ישראל צבי קנל בכרך זה) ותהי לעזר כנגדו במלוא משמעותו ומובנו של מונח
+
+
+ זה - בנדודיו הרבים מעיר לעיר ולבין ערביים פראיים, בכל התלאות שמצאום והמחסור והמצוקה שסבלום בהיותם עמוסי גידול בנים - כשהם בעצמם עוד עולי ימים היו. ולא רק שהיתה תמיד שמתה בחלקה אלא שאף גם עודדה ועוררה את בעלה, וטפחה וגדלה את צאצאיה באופן שלא ירגישו במחסור.
+
+ בעזרתה יכול היה לנדוד אף גם ליפו הרחוקה, במקום שהיה גם שם מורה גפ"ת בת"ת "שערי תורה" - בימיו של ר' איזיק בן-טובים ומשה בצלאל טודרוסוביץ (אביו של דוד תדהר), ואף גם להרחיק נדוד בתור שד''ר לחו"ל. נפטרה בירושלים בהיותה בת שמונים ותשע שנה, כ"א ניסן התש"י.
+
+ צאצאיה : ראה בערך בעלה בכרך זה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2167 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2167</bibl><bibl>Volume: #5 ,Page: 2168 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2168</bibl>
+<bibl>Volume: #5 ,Page: 2169 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2169</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

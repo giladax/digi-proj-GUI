@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3645 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3645</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה דיסנצ'יק</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ריגה</placeName> (לטביה) י"ט כסלו תשי"ט (13.12.1907).
+
+ לאביו<persName> אברהם מנדל</persName> ולאמו<persName> רוזה </persName> לבית<persName> סברדלין.</persName>
+
+ קיבל חינוך מסורתי (חדר מתוקן) וכללי, אוניברסיטההרטר (ריגה), האוניברסיטה הוינאית ובי"ס הגבוה למסחר עולמי בוינה.
+
+ בגיל צעיר החל בפעולה ציבורית-ציונית. היה בתנועת הצופים, בין מיסדי בית"ר ומראשיה. תחילה ב<placeName>ריגה</placeName> ואח"כ בפאריס כחבר השלטון העולמי של תנועת בית"ר, עוזרו ומזכירו של ראש-בית"ר<persName> זאב ז'בוטינסקי.</persName>
+
+ עמד בראש התנועה במשך שנתיים בנהלו את המשרד העולמי של בית"ר בפאריס. סייר בשם התנועה ברוב ארצות אירופה. היה ציר בקונגרס הציוני ה-18 בפראג (1933).
+
+ עלה לארץ ב-1934.
+
+ היה בין מיסדי ההסתדרות הציונית החדשה בוינה (בספטמבר 1935).
+
+ בישראל הקדיש רוב זמנו לעבודה עתונאית, לאחר שעסק בעתונאות גם ב<placeName>ריגה</placeName> והיה סופרו הפרלמנטרי של העתון "דאס פאלק". היה מזכיר מערכת "הירדן" בשנים 1935/36 ; עורך-חדשות של "הבוקר" וחבר הנהלת העתון בשנים 1936-1942, 1945-1948.
+
+ בשנת 1948 הצטרף אל ד"ר<persName> עזריאל קרליבך </persName> (ראה כרך א' עמוד 392) ונמנה על מייסדי "מעריב" ועובדיו
+
+ מן היום הראשון. היה משנה לעורך הראשי ד"ר<persName> ע.</persName> <persName>קרליבך </persName> ואחד ממנהלי הוצאת "מודיעין" בע"מ. עם מותו של ד"ר<persName> קרליבך</persName> היה לעורך ראשי של "מעריב" והמנהל הכללי של הוצאת "מודיעין" בע"מ.
+
+ משנת 1945 עד 1957 היה בארץ סופרה של סוכנות הידיעות הבינלאומית הגדולה ביותר "אסושיאייטד פרס".
+
+ נשא לאשה את <persName>שולמית</persName> בת ד"ר <persName>יהושע דרליץ' </persName> (ראה כרך ב', עמוד 1012) קרא להלן.
+
+ בניו: <persName>עידו-יוסף </persName> (1940),<persName> אהרן-זאב </persName> (1945).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3645 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3645</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

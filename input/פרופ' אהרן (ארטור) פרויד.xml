@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1887 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1887</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' אהרן (ארטור) פרויד</persName>
+
+</head>
+         <div><p> נולד באוה-ברוד (צ'כוסלובקיה), בשנת תרמ"ג (12.11.1882), לאביו <persName>שמואל,</persName> ולאמו <persName>מינה</persName> בת<persName> דוד מרץ.</persName> למד באוניברסיטה בוינה.
+
+ בשנת 1908 נשא לאשה את<persName> סטפי</persName> בת<persName> ברנרד פלבר.</persName>
+
+ בימי לימודיו באוניברסיטה ערך את הירחון הציוני הראשון בגרמנית בשביל הנוער: Unsere Hofnung (תקוותנו), אשר ד"ר הרצל כתב דברי ברכה לו לגליון ראשון (1904).
+
+ היה פרופסור לספרות לועזית בוינה עד 1919. אח"כ ערך את העתון היומי הציוני "ווינער מורגנצייטונג" ואת השבועון הציוני "אידישע צייטונג".
+
+ עבד כשליח של קרן היסוד.
+
+ בארץ בקר לראשונה ב-1927. עלה ארצה בשנת 1938.
+
+ עוסק בספרות. פרסם מאמרים רבים בעתונות ציויונית וכללית בבעיות א"י והמזרח התיכון. בוינה כתב גם ב"נוייה פריי פרססה".
+
+ תושב ירושלים.
+
+ בניו:<persName> גדעון, עלי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1887 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1887</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

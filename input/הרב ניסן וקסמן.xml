@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5188 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5188</bibl><bibl>Volume: #17 ,Page: 5189 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5189</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב ניסן וקסמן</persName>
+
+</head>
+         <div><p> נולד בסטרובין (רוסיה) בשנת תרנ"ה (1895).
+
+ לאביו ר' <persName>ראובן</persName> בן דוד של פרופסור <persName>מאיר וקס</persName> <persName>מן </persName> (בעל "תולדות הספרות העברית") וקרוב של פרופ' הרב <persName>שמחה אסף</persName> ז"ל (ראה כרך שני, עמוד 769) ולאמו <persName>שינא לאה </persName> בת <persName>דב רובין.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבות סלוצק, מיר וסלובודקה.
+
+ בשנת 1922 עזב את רוסיה והתישב בארצות הברית. שם המשיך ללמוד בישיבת ר' <persName>"יצחק אלח</persName> <persName>נן"</persName> בניו-יורק.
+
+ בשנת 1933 נשא לאשה את<persName> שרה רבקה</persName> בת הרב <persName>אברהם נחמן שוורץ </persName> מבלטימור.
+
+ בשנים 1932-43 היה רב העיר ליקווד ליד ניויורק.
+
+ יסד שם את הישיבה בראשות הרב<persName> אהרן קוטלר</persName> ז"ל.
+
+
+ בשנת 1944 היה מנהל "ישיבת חפץ-חיים" בבלטימור.
+
+ בשנת 1960 מנהל המועצה המרכזית למוסדות התורה והחסד בניו-יורק. חבר הועד הפועל של אגודת הרבנים והסתדרות
+
+ הרבנים בארצות הברית.
+
+ פרסם מאמרים בכתבי עת שונים בעברית, אנגלית ויידיש. וכן הוציא ספרים של אחרים עם הערות ותוספות חדשות, ספרי מעלות התורה לר' <persName>אברהם</persName> אחי הגר"א (1946); תומר דבורה להר"ק (1960) ומעורכי ספר סלוצק (1966).
+
+ עלה לארץ בשנת 1962.
+
+ מזכיר ראשי של בית הדין הרבני בתל-אביביפו.
+
+ צאצאיו: <persName>שולמית </persName> אשת<persName> אברהם יצחק ליבוביץ</persName> (ספרן אטומיק אנערג'י קומיסיון ואשינגטון ד.ס.); <persName>אברהם נחמן וקסמן (</persName> רב ומנהל בית ספר בוויניפג, קנדה);<persName> חיים אייזיק וקסמן </persName> (רב ופרופסור לסוציולוגיה, ניו-הייבן, קאנעקטיקוט, ארצות הברית); <persName>דוד בר </persName> (רב וממשיך במדעי היהדות באוניברסיטה בר-אילן ברמת-גן).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5188 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5188</bibl><bibl>Volume: #17 ,Page: 5189 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5189</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

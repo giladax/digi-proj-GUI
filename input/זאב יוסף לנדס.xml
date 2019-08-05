@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1214 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1214</bibl><bibl>Volume: #3 ,Page: 1215 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1215</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זאב יוסף לנדס</persName>
+
+</head>
+         <div><p> נולד בליפקאני, בסראביה, רוסיה, י"א כסלו תר"מ (1879), לאביו <persName>שלום </persName> (חסיד בלזי נלהב, ששהה רוב ימיו בחצר הרבי והיה מלוהו הקבוע) ולאמו <persName>גיטל</persName> . קיבל חינוך תורני חסידי ומקריביו למד חקלאות ורכיבה ויתר המלאכות של אנשי האדמה. וכשגדל עסק אף הוא בחקלאות, באחוזות חכורות בבסראביה, גידל דגים, טבק, ועוד, והצליח בעבודתו,
+
+ בשנת תרנ"ז נשא לאשה את <persName>העני</persName> בת <persName>אהרן</persName> <persName>לרנר</persName> , מאוקראינה.
+
+ כשנודע לו על יסוד ההסתדרות הציונית החליט, כי עליו להקדיש את כוחו וכושר עבודתו לתחית העם וארץ-ישראל. אביו התנגד בכל תוקף לעליתו ארצה, ואחרי שנפתל שנים אחדות עפ אביו קם ועלה בלי ברכת האב, ולו כבר היו אז אשה ושלשה ילדים קטנים, ותכניתו היתה להמשיך במנהגו בבסראביה ולחכור כמה מאות דסיאטינות של קרקע ולנהל משק. אמנם באודיסה אמר לו <persName>מ. אוסישקין</persName> כי בארץ-ישראל אין תנאים כאלה, אך אחרי שכבר יצא לדרך לא רצה לחזור בו.
+
+
+ בערב פסח, תרס"ט הגיע עם משפחתו ליפו. ואחרי שאזל מעט כספו בימי החג יצא לעבוד כפועל חקלאי בפתח-תקוה. השכר הספיק בקושי לפרנסת משפחה ולא תמיד, היתה עבודה מצויה. אך הוא נשא את סבלו באהבה ובסוף נטל עליו להיות ''בויארג'י" (שומר פרדס ומפקח על כל צרכי העבודה) ויצא עם משפחתו לדור בבית קטן שבפרדס מרוחק מהמושבה. בימים ההם היה מצב הבטחון פרוע בסביבה, ובשמירה עסקו שומרים יהודים וערבים מוגרבים. אנשי-שוד עזינפש, ור' <persName>אברהם שפירא</persName> , ראש השומרים, סירב לקבל אחריות לבטחונה של המשפחה שהתישבה דוקא במקום פרוע ומסוכן כל-כך. אך הוא עמד באומץ על רצונו לחיות בין הנטיעות והשומרים הערבים כיבדו את עוז רוחו ומנעו גם אחרים מפגוע בו.
+
+ כל ימיו התנגד לקבלת תמיכה בכל צורה שהיא, ותוך עבודה קשה ומפרכת חסך מעט כסף ורכש לו שטח קרקע. משהתחילה התישבות עולי תימן בפתח-תקוה התקרב אליהם בחיבה. בראותו אותם באנשי עמל מסורים לארץ ומוותרים על תפנוקים, והדריכם בעבודות הפרדס, השדה והכרם. היה שמח בחלקו ושופע עליזות ואמונה בעתיד.
+
+ נפטר בפתח-תקוה, כ"ב ניסן תרצ"א.
+
+ צאצאיו : <persName>יהושע, רחמה</persName> אשת <persName>שלמה טפרמן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1214 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1214</bibl><bibl>Volume: #3 ,Page: 1215 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1215</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

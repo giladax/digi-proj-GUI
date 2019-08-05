@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3560 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3560</bibl><bibl>Volume: #10 ,Page: 3561 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3561</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק קצנלנבויגן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>לובביץ</placeName> (רוסיה), ב' טבת תרנ"ה (סוף 1894). לאביו <persName>דוד</persName> (בעל טחנות קמח ויערות) ולאמו <persName>אסתר</persName> בת <persName>שניאור זלמן קופרין.</persName>
+
+ קבל חנוך מסורתי, בוגר גמנסיה בריגה. היה פעיל בארגוני הנוער הציוני בעירו.
+
+ שירת בצבא הרוסי.
+
+ בשנת 1913 עלה לארץ.
+
+ עבד כפועל בפרדסים בפתח-תקוה, בפרוץ מלחמת העולם הראשונה, עבד בתור מכונן בבתי המלאכה של הצבא התורכי בראש-העין תחת הנהלתו של המהנדס <persName>ברוך קטינקא</persName> , אח"כ עבד ברכבות בעזה.
+
+ אחרי הכיבוש עבד זמן מה בתור מסגר במחנות הצבא הבריטי, ועבר לעבוד בבית החרשת ס י נ ב ר.
+
+ ב-1918 ביסוד המשטרה הא"י התגייס לפי צו המוסדות הלאומיים.
+
+ במאורעות מאי 1921 נאסר ונאשם שהרג בתפקידו כשוטר שני ערבים במאורעות. הובא למשפט צבאי. הגנו
+
+ עליו עורכי הדין של ועד הצירים (הסוכנות היהודית) ה"ה: <persName>הרי סקר, הריס סמואל ודונקלבלום.</persName>
+
+ יצא זכאי מהמשפט אחרי שישב אסור כחדש ימים.
+
+ בשנת 1924 הוברח ע"י האנגלים לאוסטרליה היות והערבים רצו לנקום בו.
+
+ בשנת 1925 חזר ועבר לשרת במשטרת תל-אביב. משרת במשטרה עד היום.
+
+ צאצאיו:<persName> יהודה, ברוריה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3560 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3560</bibl><bibl>Volume: #10 ,Page: 3561 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3561</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3551 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3551</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרים (מירה) בן-ארי</persName>
+
+</head>
+         <div><p> נולדה בברלין (גרמניה), כ"ג טבת תרפ"ו (9.1.1926). לאביה ד"ר<persName> תיאודור ישראל גלסשייב</persName> (ראה בכרך זה) ולאמה <persName>מרגרטה</persName> בת<persName> מיכאל רבאו.</persName>
+
+ קבלה חנוך לאומי בבית הספר ע"ש הרצל בברלין. בשנת 1933 עלתה לארץ עם משפחתה.
+
+ המשיכה ללמוד בגמנסיה בן-יהודה בתל-אביב.
+
+ בשנת 1943 הצטרפה לקבוצה חקלאית ועליה על קרקע בדרום, שנקראה אח"כ "נצנים".
+
+ היתה פעילה בפלמ"ח, בתור אלחוטאית בעליה ב', ובימי מלחמת השחרור בתור אלחוטאית של צה"ל בקבוץ.
+
+ בשנת 1944 נישאה לחבר הקבוץ <persName>אליקים בן-ארי.</persName>
+
+ ביום כ"ט אייר תש"ח (7.6.1948), למרות הפקודה להוציא את הנשים, נשארה בתור אשה יחידה בקיבוץ ניצנים - ונפלה.
+
+ מדברי דוד בן-גוריון, ראש הממשלה ושר הבטחון לאביה: עד עכשיו היא היתה בתכם בלבד. עכשיו שהקריבה את עצמה למען חופש העם, היא נכנסה לרשות האומה הישראלית והיא מהיום הבת שלנו ושלכם יחד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3551 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3551</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4477 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4477</bibl><bibl>Volume: #14 ,Page: 4478 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4478</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב שריר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קמניץ-פודולסק</placeName> (אוקראינה), כ"ה שבט תרנ"ז (1897).
+
+ לאביו<persName> עזריאל שריר</persName> (ראה כרך שני, עמוד 876) ולאמו<persName> דבורה </persName> בת<persName> אליעזר שמואל הכהן.</persName>
+
+ קיבל חינוך מסורתי וכללי באוניברסיטאות לנינגראד וקיוב.
+
+ היה פעיל בארגוני התנועה הציונית.
+
+ בשנת 1921 נשא לאשה את הסופרת<persName> בתיה</persName> בת <persName>דוד כהנא.</persName>
+
+ בשנת 1921 עלה לארץ.
+
+ בשנות 1922-35 היה מחשב במחלקת המדידות של ממשלת המנדט.
+
+ מנהל חברות הביטוח "ציון ו"יהודה''.
+
+ יו"ר איגוד חברות הביטוח.
+
+ חבר מועצת הביטוח הממשלתית.
+
+ יו"ר הנהלת חברת הביטוח המשנה.
+
+ מייסד וחבר הנשיאות של החבל הימי לישראל.
+
+ חבר הנהלת "אורט" ישראל ו"אורט" העולמי.
+
+ כותב מאמרים על שאלות ביטוח ברוב העתונים בארץ.
+
+ כל השנים היה חבר ההגנה.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4477 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4477</bibl><bibl>Volume: #14 ,Page: 4478 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4478</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

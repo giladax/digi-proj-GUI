@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4221 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4221</bibl><bibl>Volume: #13 ,Page: 4222 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4222</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר ולריה שטארק</persName>
+
+</head>
+         <div><p> נולדה בפרישוב (צ'כוסלובקיה), כ"א אייר תרע"ח (3.5.1918).
+
+ לאביה <persName>ז. שטארק </persName> (המהנדס ומנהלו של חברת החשמל בעיר) ולאמה <persName>דבורה</persName> בת<persName> יצחק לנג'על</persName> (שניהם היו עסקנים בחיי היהדות. אביה יסד בית מלאכה לחברת הג'וינט, אשר בו קיבלו החלוצים את הכשרתם לפני עליתם לא"י. אמה היתה המייסדת של אירגון הנשים הציוניות "דבורה" בעירם).
+
+ גמרה את חוק לימודיה ברפואה באוניברסיטה פראג (צ'כוסלובקיה) וכן ביקרה באקדמיה למוסיקה.
+
+ בשנת 1935 נישאה לעורך דין ד"ר <persName>אוסקר וייס</persName> .
+
+ משנת 1935 היתה פעילה בתנועה הציונית בצ'כוסלובקיה.
+
+ בשנות מלחמת העולם השניה השתתפה בעבודת הצלה בבודפסט.
+
+ גורשה לברגן-בלזן ועבדה כרופאה במחנה. שם הצליחה להציל נפשות ותינוקות שנולדו בעזרתה.
+
+ בשנת 1945 עלתה לארץ.
+
+ עובדת בתל-אביב בפרקטיקה רפואית.
+
+ בשנת 1945 כתבה את ספרה הראשון "אחת מני אלף" (מיומנה של רופאה בברגן-בלזן - הוצאת ניאוגרפיקה, 1951 - עברית. - פרקי זכרונות הכאובים, שהופיע גם בצורת המשכים ב"דבר" בשנות 1946-47).
+
+ בשנת 1952 נשלחה ע"י אירגון הרופאות כנציגת הרופאות הישראליות לארצות-הברית לעבודה רפואית בבית חולים ניו-יורקי.
+
+
+ מאז פירסמה את רשימותיה החינוכיות, חברתיותביקורתיות ובלטריסטיות על דפי העתונים : "דבר", "דבר השבוע", "דבר הפועלת", "הדור", "אורים להורים''.
+
+ כתבה ב"בטרם" וב"ידיעות אחרונות" דאז בעריכת ד"ר <persName>עזריאל קרליבאך</persName> ז"ל וגם בעתונים ההונגרים "אוי-קלט" ו"ההט".
+
+ בשנת 1961 בהוצאת "אוי-קלט" הופיעה ספרה (בהונגרית) "א גפרה לפני טיליש".
+
+ בשנת 1962 הופיע ספרה "והעת כנר נגרעת" (רומן דמיוני-היסטורי על רקע השנים הטרום-מלחמתיות ושנות השואה, בהוצאת "עם הספר").
+
+ במלחמת השחרור ובמבצעי סיני התנדבה לעבודה רפואית מלחמתית.
+
+ בתה: <persName>מיכאלה </persName> (נולדה בארץ).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4221 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4221</bibl><bibl>Volume: #13 ,Page: 4222 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4222</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

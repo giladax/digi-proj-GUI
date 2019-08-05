@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 379 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/379</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה פרץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> ב-19 ביוני 1872 לאביו חיים ולאמו <persName>לוניה.</persName> את חנוכו קיבל בבית הספר של "חברת כל ישראל חברים" ורכש לו ידיעה הגונה בערבית וצרפתית מלבד עברית. אח"כ התמחה במקצוע הנגרות.
+
+ ב-1898 התישב בבאר-טוביה וב-14 בספטמבר 1890 נשא לאשר, את <persName>זהבה </persName> (אורו) בת <persName>שמואל ברוך</persName> (נפטרה בתל-אביב, י"ז אלול תש"ד 5.9.1944). בביתו היפה היו מתאכסנים אורחים חשובים ופקידיממשלה גבוהים שנזדמנו למושבה. תודות לבקיאותו בשפה הערבית ובמנהגי הדת המושלמית קשר קשרים הדוקים וידידותיים עם השכנים והיה מקובל עליהם.
+
+ בימי בולמוס נטיעת הגפנים הפליא לעשות במלאכתההרכבה וכורמי גדרה הזמינוהו תכופות לעבודה זו. אגב עבודתו בגדרה נתחבב עליו המקום והוא רכש שם מגרש ובנה בית לעצמו.
+
+ בימי המלחמה הראשונה נתמנה למוכתר גדרה ובארטוביה גם יחד. פעל רבות למען תושבי שתי המושבות, ביחוד בשחרור הצעירים מעבודת הצבא ובמניעת החרמת הבהמות לעבודת-חנם. כאשר החלד. להתגלות פרשת הריגול הוגלה יחד עם רוב מוכתרי הארץ לדמשק. שם היה כלוא כחצי שנה בבית הסוהר לאסירים פוליטיים. לאחר שחרורו נשאר עוד כחצי שנה בדמשק, עד לכניסת האנגלים לארץ, ובפורים תרע"ח חזר ארצה.
+
+ ב-1919 חיסל את משקו בבאר-טוביה ומכר את ביתו בגדרה ועבר לתל-אביב. כאן יסד יחד עם מר אברהם אלמליח בית-דפוס וחנות-ספרים ביפו. עסק זה היד. קיים עד שנת 1921 כאשר מ. דיזנגוף ז"ל הציע לו לקבל משרה בועד תל-אביב, שהפך אז למועצה מקומית. בשנים הראשונות טיפל בעיקר בגביית מסים ואח"כ נתמנה למנהל מחלקת הרשיונות. במחלקה זו עבד עד אפריל 1946 ולאחר עבודת 25 שנה בעירית ת''א יצא לפנסיה.
+
+ צאצאיו:<persName> רחל </persName> אשת ישראל פרידמן;<persName> מרים</persName> אלמנת יעקב כהן; <persName>חיים; צרויה </persName> אשת משה מדליה; <persName>מרדכי; לבנה</persName> אשת ברוך ברגמן;<persName> אסתר </persName> אשת יוסף נוביצקי;<persName> אלישבע</persName> אשת מנחם ישראלי.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בירושלים, כ"א תשרי תשי"ח (17.10.58) ונקבר בתל-אביב. (ראה כרך א', עמוד 380)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 379 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/379</bibl>            <bibl>Volume: #10 ,Page: 3646 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3646</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

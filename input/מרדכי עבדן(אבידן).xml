@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4206 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4206</bibl><bibl>Volume: #13 ,Page: 4207 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4207</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי עבדן(אבידן)</persName>
+
+</head>
+         <div><p> נולד בחודש טבת תרנ"ה (20.1.1895) בעיירה איוואנקי שליד עיר-המחוז אומאן, אוקראינה.
+
+ לאביו<persName> בן-ציון אבידן</persName> ולאמו<persName> רבקה</persName> בת <persName>אלחנן זופניק</persName> .
+
+ עד גיל 14 למד בחדרים. אח"כ למד מלאכת נפח מיכאני ומסגרות והתקנת דוודים ועבד במקצועו בעיר אומאן. שם הצטרף לתנועת "צעירי ציון".
+
+ ב-1919 נשא לאשה את<persName> חיה </persName> בת <persName>משה צדיקוב.</persName> (נפטרה בחיפה, ב' חשון תשי"ח, וב-1959 נשא את <persName>חנה </persName> בת<persName> משה רוזנטל</persName> ).
+
+ זמן מועט אחרי החתונה פרצו הפרעות האיומות באוקראינה, ובדרך רבת סכנות והרפתקאות נמלט עם אשתו לבסראביה, שהיתה אז תחת שלטון רומניה, ואח"כ הגיעו שמה גם אביו ושרידי בני ביתו, ושם, בבלצי שבבסראביה, נולד ילדו הראשון.
+
+ באביב 10.5.1922 עלה לארץ והחל לעבוד בהתקנת הקונסטרוקציות בבנין בית-החרושת "שמן" בחיפה, ובערבים השתלם בשיעורי-ערב בבית-הספר המקצועי שליד הטכניון בידיעות במתימטיקה וטכנולוגיה ושרטוט הנדסי הדרושות לעבודה משוכללת במקצועו. שם עבד עד שנת 1927. אח"כ עד 1934 עבד בבנין תחנת הכוח על הירדן בנהריים. המשיך אצל חברת החשמל
+
+
+ כמנהל עבודה בבניית תחנת הכוח בחיפה, עד שב-1955 יצא לפנסיה, - ואחרי נשואיו בזיווג שני עבר לדור בגבעתיים.
+
+ צאצאיו מאשתו הראשונה :<persName> יעקב, יפה</persName> אשת<persName> נחמיה</persName> <persName>רינג, חנן</persName> ז"ל (נפל ביום י' אדר ב' תש"ח (21.3.1948) בין השבעה, שהלכו לעזרת צפת הנצורה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4206 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4206</bibl><bibl>Volume: #13 ,Page: 4207 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4207</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4753 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4753</bibl><bibl>Volume: #15 ,Page: 4754 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4754</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אלעזר טראו</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וינה</placeName> (אוסטריה) כ"ח שבט תרפ"ז (31.1.1927).
+
+ שמות הוריו - ראה לעיל. (אביו מחזיקו על ברכיו).
+
+ קיבל חינוך מסורתי בבית אבא.
+
+ בשנת 1933 עלה עם הוריו לארץ.
+
+ בוגר הגמנסיה העברית "הרצליה" בתל-אביב. האוניברסיטה העברית בירושלים והשתלם באוניברסיטת ברקלי שבקליפורניה, בפיסיקה.
+
+ למרות גילו, היה גאון בפיסיקה ופרסם יחד עם הפרופסור שלו עבודה מדעית השובה בשטח זה.
+
+ נהרג בתאונה בברקלי (קליפוריה) כ"ז ניסן תשי"ג (12.4.1953) והובא לנחלת יצחק בגבעתיים לקבורה בחלקה: מורים, סופרים והוגה דעות בישראל.
+
+ לזכרו הותקן לוח זכרון באוניברסיטה העברית י"ם.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4753 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4753</bibl><bibl>Volume: #15 ,Page: 4754 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4754</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

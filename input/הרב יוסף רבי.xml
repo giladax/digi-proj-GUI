@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 281 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/281</bibl><bibl>Volume: #1 ,Page: 282 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/282</bibl>
+<bibl>Volume: #1 ,Page: 283 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/283</bibl>
+<bibl>Volume: #1 ,Page: 284 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/284</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יוסף רבי</persName>
+
+</head>
+         <div><p> נולד בעיירה בירז, פלך קובנה, ליטא, בשנת תרל"ד (1874), לאביו ר' <persName>אליעזר</persName> . עוד מילדותו הצטיין בשקידתו בתורה ובתפיסתו בלימודים. אחרי בר-מצוה למד שמונה שנים רצופות בישיבת פוניבז' אצל הגאון ר' <persName>איצל</persName> , רבה של הקהלה. בן 21 נסע הביתה לעמוד לבדיקה הצבאית, וכששוחרר נסע לדוינסק לקבל הדרכה והשפעה מהרב <persName>אברהם יצחק הכהן קוק</persName> , שהיה כבר אז גאון וצדיק מפורסם. הרב עמד על ערכו בתורה ובמדות ולהצעתו נשא לאשה את אחותו <persName>רוחמה</persName> , בת הרב ר' <persName>שלמה זלמן</persName> , רבה של קהלת גריבה, פלך קורלנד. אף ביום חתונתו, כשהאורחים כבר התאספו לכבודו, ישב בחדרו ולמד, ורק כשהודיעוהו שהגיע הזמן ללכת לחופה, הפסיק את לימודו
+
+ והלך. כן היה נוהג ללמוד אפילו בערב יום-כיפור בין הסעודה המפסקת ובין ההליכה לבית-הכנסת לכל נדרי, ובמוצאי יום-כיפור אחרי ההבדלה חזר מיד ללימודו. הוא נתפרסם בבקיאות בתלמוד בבלי וירושלמי ובפוסקים וביושר שכלי בבירור הלכה למעשה. כשישב זמן-מה בבית חותנו בגריבה, היה מקורבם של גאוני דווינסק המפורסמים ר' <persName>מאיר שמחה הכהן</persName> ור' <persName>יוסף רוזין.</persName> אח"כ נסע לוילנה ונתקבל בין הפרושים גדולי התורה, שלמדו בבית-מדרשו של הגר"א. היה מכובד בעיני רבני וילנה ובראשם הגאון ר'
+
+<persName>חיים עוזר גרודזנסקי</persName> זצ"ל שמינוהו לרב באחד הפרברים החשובים של וילנה. לפי גדולתו בתורה ושאר סגולותיו היה ראוי לכהן ברבנות של קהלה גדולה, אך הוא העדיף משרה צנועה, כדי שיוכל להתמסר בלי הפרעות לשקידה בתורה.
+
+ בשנת תרע"ב הוזמן לנהל את התלמוד-תורה "שערי תורה" בנוה-שלום, יפו. אז עלה ארצה עם משפחתו. כדי שגם אחרים יקבלו את חלקם בתורה, נתן שיעורים בדרגה גבוהה לגומרי המוסד שנפשם חשקה בתורה וגם לקהל בבית-המדרש של המוסד. כן היה במשך כמה שנים חבר ועד הקהלה וחבר הועדה הדתית של הקהלה. החליף מכתבים בשאלות הלכה עם הגאון ר' חיים עוזר מוילנה, פרסם חידושיתורה במאספים תורניים והשאיר אחריו כתבים רבים בחידושי תורה, שיורשיו מטפלים בהכנתם לדפוס. נתחבב על כל מכיריו בשל מדותיו התרומיות.
+
+ נפטר ביפו, ט"ו כסלו תרצ"ב, ונקבר בהר הזיתים בירושלים ליד גיסו הרב אברהם יצחק הכהן קוק.
+
+ הניח אחריו שני בנים: <persName>אליעזר ומנחם</persName> , ושתי בנות: <persName>חנה מארט</persName> בחיפה ושושנה אשת הפרופ' <persName>מאיר</persName> <persName>וואלנשטיין</persName> באוניברסיטת מנצ'סטר באנגליה.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 281 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/281</bibl><bibl>Volume: #1 ,Page: 282 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/282</bibl>
+<bibl>Volume: #1 ,Page: 283 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/283</bibl>
+<bibl>Volume: #1 ,Page: 284 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/284</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

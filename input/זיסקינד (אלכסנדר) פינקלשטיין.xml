@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3967 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3967</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זיסקינד (אלכסנדר) פינקלשטיין</persName>
+
+</head>
+         <div><p> נולד י"ד אייר תרס"ז (1907) בוונגרוב שבפולין.
+
+ לאביו <persName>נתן דב</persName> (סופר סת"ם, שמקצוע זה התקיים מדור לדור במשפחתו) ולאמו<persName> מלכה</persName> בת <persName>ישראל שמואל</persName> <persName>גולדברג.</persName>
+
+ קיבל חינוך תורני ולמד מאביו את מלאכת אבות אבותיו, לכתוב ספרי-תורה, תפילין ומזוזות בתכלית הכשרות והיופי.
+
+ השתוקק לעלות לארץ, והואיל והאפשרות לכך נראתה לו אך ורק אם יעלה בתור חלוץ, הלך להכשרה והתאמן בעבודת-כפיים קשה.
+
+ וכשעלה לארץ ב-1932, הלך למלא את המשימה החלוצית שנטל על עצמו ועבד בפרדסים, בסלילת כבישים ובבנין. סוף-סוף ראה, שגם בארץ זקוקים יהודים לחפציקדושה כתובים על קלף, וחזר לעסוק במקצוע המסורתי של משפחתו.
+
+ ב-1934 נשא לאשה את <persName>פנינה</persName> בת<persName> יחיאל צבי</persName> <persName>גולדפארב,</persName> שהיה ראש הקהילה בוונגרוב, עיר הולדתו.
+
+ שיכלל את הידע המקצועי שלו לרמת אמנות והגיע למומחיות לזהות ולהכיר את כתבם של סופרי סת"ם שונים ולהבחין ביניהם. הוכר בתור יועץ ובר-סמכא מהימן למשרד הדתות בעניני חפצי-קדושה ותיקון ספריתורה שהובאו והגיעו במצבים שונים, ומוסדות ממשלתיים וציבוריים פונים אליו בדבר אספקת מוצרי סת"ם.
+
+ הענף הזה, שנחשב לפנים כענף-ייצור בטלני, מצא בו את גואלו, כי העמידו על בסיס מסחרי רציני, ועוד לפני קום המדינה התחיל לעסוק בהפצת חפצי קדושה, מכתבהיד שלו ושל סופרי סת"ם אחרים שהוא ערב לטיב ולכשרות של עבודתם, בארץ ובחו"ל, ומאז קום המדינה נעשה זה ענף-יצוא לא מבוטל, הנותן תעסוקה ופרנסה למאות משפחות.
+
+ נותן מזמנו גם לצרכי ציבור כיו"ר ועד בית-הכנסת "אור תורה" בתל-אביב, יו"ר קופת גמ"ח לזכר קדושי ונגרוב ועוסק גם באופן פרטי במעשי צדקה וחסד. צאצאיו :<persName> זמירה</persName> אשת <persName>דוד גאון (גרוס), משה, מלכה,</persName> <persName>צבי. </persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3967 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3967</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

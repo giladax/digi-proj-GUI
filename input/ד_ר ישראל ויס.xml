@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3714 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3714</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר ישראל ויס</persName>
+
+</head>
+         <div><p> נולד בפודהאיצה (גליציה), א' סיון תרנ"ז (1897).
+
+ לאביו <persName>ברל</persName> (דב) <persName>ויס </persName> (אביו של פרופ' ד"ר אברהם <persName>ויס </persName> מניו-יורק) ולאמו<persName> שרה</persName> בת<persName> משה מיכאל געללער.</persName>
+
+ קבל חינוך מסורתי, בבית ספר בגליציה, גימנסיה ושנתיים סמינריון של רבנים בוינה ורפואה באוניברסיטה בוינה.
+
+ עסק ברפואה ובתעמולה ציונית בחו"ל. היה רופא ועד הקהילה בדייטשקרייץ-צלם באוסטריה.
+
+ בשנת 1931 נשא אשה את ד"ר<persName> סרפינה</persName> בת <persName>נתן רמר</persName> (נפטרה בוינה 13.6.1936) ובזיווג שני נשא לאשה בשנת 1938 את ד"ר<persName> בלנקה </persName> בת<persName> יצחק חיים פוהוריללה.</persName>
+
+ בשנת 1938 עלה לארץ.
+
+ שירת בתור רופא : בירושלים, כפר ברוך, סג'רה. עקרון, מטולה, צפת.
+
+ נפצע במטולה 16.5.48 בשעה שהגיש עזרה רפואית לחיילי צה"ל.
+
+ במלחמת העצמאות קבל מידי האנגלים את בנין המשטרה והנשק במטולה.
+
+ צאצאיו:<persName> רפאל, מרגלית, יהושע דב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3714 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3714</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

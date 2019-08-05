@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2593 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2593</bibl><bibl>Volume: #6 ,Page: 2594 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2594</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים גלפנד</persName>
+
+</head>
+         <div><p> נולד בזאר, פלך ווהאלין (רוסיה), ד' שבט תרס"ג (1.1.1903).
+
+ לאביו <persName>אליהו יצחק </persName> (סוחר מנופקטורה, נדבן ידוע, גאל אסירים רבים ב-1918/19 בעירו) ולאמו<persName> שרה</persName> בת <persName>חיים מרצבסקי </persName> (סוחר יערות).
+
+ קבל חנוך מסורתי בחדר ובישיבה, וכללי בגמנסיה רוסית.
+
+ היה חבר בפועלי ציון.
+
+ בשנת 1921 עלה לארץ, והוכנס לבית הספר מקוה ישראל ע"י <persName>רחל ינאית-בן צבי,</persName> בת עירו.
+
+ היה ממיסדי וראשוני המושבה הרצליה. הקים שם משק ובנה בית.
+
+ בנה את בנין הקולנוע הראשון "השרון" בהרצליה.
+
+
+ ב-1932 נשא לאשה את <persName>צביה</persName> בת העסקן <persName>מתתיהו</persName> <persName>וינקור</persName> (ראה כרך ב', עמוד 613).
+
+ ב-1932 עבר לתל-אביב ועסק בגאולת קרקעות. גאל מערבים 601 דונם אדמה בחולון (אז - אגרובנק).
+
+ פעל לבנין השכונות של מרכז בעלי מלאכה בכביש תל-ליטוינסקי, וכן עזר להקמת בנין "היכל התלמוד" בתל-אביב.
+
+ מומחה לפרדסים, לגידול עופות ובהמות.
+
+ ב-1936 החל לעסוק כסוכן בפילמים לבתי הקולנוע.
+
+ היה בהגנה ובארגונים שונים.
+
+ צאצאיו: <persName>יגאל</persName> (ספורטאי, מורה להתעמלות),<persName> זהובית,</persName> <persName>אליהו</persName> (ספורטאי במכבי עתיד).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2593 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2593</bibl><bibl>Volume: #6 ,Page: 2594 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2594</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

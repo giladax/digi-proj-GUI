@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1402 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1402</bibl><bibl>Volume: #3 ,Page: 1403 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1403</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי רוזן</persName>
+
+</head>
+         <div><p> נולד בברדיצ'ב, אוקראינה, י"ב טבת תרמ"ט (1889), לאביו <persName>אליעזר חביב </persName> ולאמו <persName>ינטה</persName> בת <persName>שלמה</persName> <persName>חמלניצקי</persName> (ממשפחת עמלים ועובדי אדמה).
+
+ קיבל חינוך מסורתי וכללי ואחרי הפרעות ברוסיה בשנות 1904/05 יצא בשנתו ה-18 לאמריקה והשתקע בשיקאגו. ב-1918 הצטרף שם ל"פועלי ציון", השתתף בפעילות בארגון הפועלים היהודים והיה נציג אגודת פועלות המחט ומזכיר הועד המאוחד של סניפי "פועלי ציון" בשיקאגו.
+
+ ב-1918 התנדב לגדוד העברי האמריקאי, השתתף בפעילות בתעמולת הגיוס, יצא עם המתנדבים למצרים ולארץ-ישראל ושרת בגדוד ה-40 של קלעי המלך. אחרי שחרורו מהצבא באוגוסט 1920 נשאר בארץ ונתקבל לעבודה כפקיד ממשלתי אזרחי בתפקיד מתרגם ראשי
+
+
+ במרכז הבולשת בירושלים, עמד על משמר עניני היהודים והמוסדות היהודיים, עזר לקצינים בהדרכה, ובשנים האחרונות לשרותו, כשהיה האחראי במחלקה לגירושים מהארץ, עשה ככל יכלתו למנוע את הצלחת המחלקה בגירוש יהודים שנכנסו לארץ ב"אורח בלתי חוקי".
+
+ ב-1923 השתתף יחד עם קולונל קיש, שהיה מידידיו הקרובים, ביסוד מועדון "מנורה" של ארגון החיילים המשוחררים בירושלים וניהל אותו במשך כל השנים. נתן את כל מרצו להפיכת מועדון זה
+
+ לפינה חמה לחייל המשוחרר מהגדודים העברים של המלחמה העולמית הראשונה. בפרוץ המלחמה העולמית השניה ואחריה מלחמת ישראל, העמיד את עצמו לשירות החייל הישראלי וקבע את מועדון "מנורה" כמועדון לחיילנו. כחובב אמנות וציור היה עוזר לציירים בסידור תערוכותיהם במועדון. כן השתתף ביסוד ארגון החיילים המשוחררים בארץ והיה פעיל גם בו. היה תלמיד חכם, משכיל, חובב הספר העברי, ואסף בביתו ספריה גדולה.
+
+ ב-1945 יצא לפנסיה אחרי 25 שנות שרות בממשלה. בשנים האחרונות היה מזכיר הועד למען החייל בירושלים.
+
+ נספה באופן טראגי בירושלים, כ"ד תשרי תש"ט (27.10.48).
+
+ חלק מרכושו השאיר לידידיו ואת ספריתו ביקש לחלקה בקבוצים ובישובי חיילים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1402 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1402</bibl><bibl>Volume: #3 ,Page: 1403 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1403</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

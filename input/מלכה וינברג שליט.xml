@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1153 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1153</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מלכה וינברג-שליט</persName>
+
+</head>
+         <div><p> בת אליעזר אלחנן שליט (מראשוני המתנחלים בראשון לציון, ראה כרך א', עמוד 190) ושרה בת משה אהרון אהרונוביץ.
+
+ נולדה בראשון לציון ב-2 נובמבר 1895.
+
+ את חינוכה הראשון קבלה בבית הספר העממי בראשון לציון ואח"כ יצאה ללמוד בחו"ל, מקודם למדה בבי"ס תיכוני בצרפת ואח"כ בגרמניה. נישאה לד"ר יהודה לואיס וינברג, עו"ד, והשתקעה עם בעלה בירושלים ואחר כך בתל אביב. כאן פיתחה פעולה צבורית רבה ונבחרה להנהלת ויצ"ו. בויצ"ו רכשה לה אהדה כללית ונבחרה ליו"ר מחלקת הכשרת האשה, לחברת הועדה לעליה שע"י ויצ"ו, ואח"כ נבחרה אל ההנהלה המצומצמת של "הלשכה למען העולה".
+
+ בשנת 1939 נבחרה כצירה לועידה העולמית של ויצ"ו שהתכנסה בג'יניבה.
+
+ בימי מלחמת העולם השניה התמסרה כליל לעבודה למען ויצ"ו והחי"ל. לתכלית זו נסעה בשליחות צבורית למצרים בימי המלחמה ושם פעלה רבות לטובת המפעלים הנ"ל וייצגה את מועצת ארגוני הנשים במצרים במשך שנתים במאמץ המלחמתי.
+
+ בשנת 1946 יצאה שוב בשליחות ויצ"ו לחו"ל 
+
+ לאוסטרליה, ארצות אמריקה המרכזית והדרומית, אנגליה, בלגיה וצרפת.
+
+ בנותיה:<persName> רחל אביבה</persName> אשת נתנאל מאירוביץ,<persName> חנה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1153 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1153</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

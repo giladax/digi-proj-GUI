@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2115 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2115</bibl><bibl>Volume: #5 ,Page: 2116 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2116</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה ברניק</persName>
+
+</head>
+         <div><p> נולד ברוזניאטוב, גליציה, ביון תרנ"ה (6.6.1895), לאביו<persName> יצחק</persName> (תלמיד-חכם, סוחר) ולאמו <persName>רבקה.</persName>
+
+ למד בחדרים ובישיבה והצטיין בכשרונותיו. פרש להשכלה, גמר בי"ס תיכוני ובית-מדרש לרבנים בוינה והחל את פעולתו בתור מורה עברי.
+
+ נשא לאשה את <persName>פנינה</persName> לבית <persName>בלומנשטיין </persName> (נפטרה בתלאביב, כ"ז אדר א, תש"ח - 8.3.48).
+
+ הצטיין בעבודת ההוראה ובכושר ארגון וניהול ונתמנה למנהל בתי-ספר עבריים שונים בגליציה ואח"כ, ב-1931, למנהל מרכז "תרבות" לגליציה בלבוב ופעל רבות להרחבת רשת החינוך העברי ולשכלולה. יצר מרכז לחינוך העברי, תכניות לימודים, הוצאת ספרי קריאה ולימוד, הסתדרות מורים וכו'. כתב על עניני חינוך ותרבות ב"העולם", "הצפירה", "חווילה" (פולנית), ובארץ ב"הבוקר" וב"הארץ", ובנעוריו פרסם שירים וסיפורים לנוער ולילדים באידית ובעברית.
+
+ כשביקר בארץ ב-1935 לא יכול עוד להפרד ממנה לצמיתות. חזר ללבוב לחסל את עניניו וב-1936 עלה לארץ.
+
+
+ קיבל את הצעת התאחדות בעלי הבתים בתל-אביב להיות לה למזכיר מארגן. יסד וערך בשותפות עם <persName>סעדיה שושני</persName> את הבטאון "הבונים" של ההתאחדות והעלה אותו לרמה פובליציסטית מסוימת, יזם וארגן פעולות שונות להעלאת מעמדם של בעלי הבתים, שהוא ראה אותו ירוד. ניהל גם את המרכז הארצי של הסתדרויות בעלי הבתים בערים ובמושבות. ובפעולותיו אלה נתגלה במזיגה מוצלחת של איש הרוח ואיש המעשה, שעלה בידו לרכוש כבוד למעמד של נותני לחמו ולרכוש אצלם כבוד לתרבות העברית, שנושאה המובהק משרת את עניניהם בהצלחה. תרם יזמה ומעוף גם ל"כופר הישוב", עיבד את פרטי התכנית וארגן את יום ההתנדבות הראשון להתרמת כל הקהל ל"כופר הישוב".
+
+ תוך עבודה מאומצת ואוכלת כוחות נפשיים רבים חלה בלבו ונפטר בתל-אביב, י"ז תמוז תרצ"ט (3.7.39) ונקבר בנחלת יצחק.
+
+ צאצאיו: <persName>יצחק</persName> (חבר קיבוץ תל יצחק של "העובד הציוני", מראשי תנועת "הנוער הציוני"),<persName> רבקה</persName> אשת <persName>אליעזר פוזיס </persName> (היה קצין בצבא ישראל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2115 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2115</bibl><bibl>Volume: #5 ,Page: 2116 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2116</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

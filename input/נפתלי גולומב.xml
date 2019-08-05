@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 228 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/228</bibl><bibl>Volume: #1 ,Page: 229 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/229</bibl>
+<bibl>Volume: #1 ,Page: 230 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/230</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נפתלי גולומב</persName>
+
+</head>
+         <div><p> בן אליהו.- נולד בעיר סוקולקה שברוסיה בשנת תר"ב (1860). נתחנך חנוך מסורתי: למד ב"חדר" לכל דרגותיו וכשגדל למד תורה בישיבת וולוז'ין. אחרי שבנה לו משפחה עסק בהנהלת טחנות קמח ברוסיה עד 1911. היה ציוני, וביתו היה בית ועד לכל הוגי הדעות בעיר ובסביבה, ובו היו מתנהלים וכוחים
+
+ סוערים על שאלות היהדות והציונות.
+
+ את עתידו ראה רק בארץ-ישראל, ולפני שחיסל בעצמו את עסקיו ברוסיה שללו את בנו, אליהו, בשנת 1909 ואת בנו השני, אליעזר בשנת 1910 להתחנך בגימנסיה "הרצליה". בשנים הללו עסק בארגון רכישת קרקעות בארץ-ישראל לשם
+
+
+ התישבות ונשלח ע"י הארגון הנ"ל לא"י בשנת 1911 לשם בדיקת הקרקעות בסביבות רפיח על גבול מצרים. אחרי נסיון שלא הצליח להאחז באדמה, חכר ביפו טחנת קמח והכניס בעסק זה שכלולים רבים: הוסיף מכונות והיה הראשון בארץ שיצר קמח לבן מחיטה מקומית למרות דעת המומחים בעלי הטחנות הותיקים בארץ, כי חיטה מקומית לא תצלח לקמח לבן. אחרי נסיון זה בנה טחנה גדולה והשקיע בה הרבה כספים משלו ומשל אחרים, והצליח להחזיק מעמד הגון ולרכוש לו שם טוב בין סוחרי המקום. מת ביום י"ח אדר תרע"ד ביפו והועבר אח"כ לבית הקברות הישן בתל-אביב. בנו היה אליהו גולומב, מראשי עסקני הסתדרות העובדים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 228 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/228</bibl><bibl>Volume: #1 ,Page: 229 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/229</bibl>
+<bibl>Volume: #1 ,Page: 230 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/230</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

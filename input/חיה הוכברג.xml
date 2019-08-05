@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2896 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2896</bibl><bibl>Volume: #7 ,Page: 2897 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2897</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיה הוכברג</persName>
+
+</head>
+         <div><p> נולדה בשנת תרל"ג (1873) בטולצ'ה שבקצה הצפוני של פלך דוברודזה (אז טורקיה, ומ-1878 ואילך רומניה).
+
+ לאביה<persName> מרדכי ניימן </persName> (מנכבדי קהלת טולצ'ה ואמידיה ואח"כ מותיקי האכרים בעקרון - (ראה כרך א', עמוד 319) ולאמה <persName>שפרה שיינדל</persName> לבית<persName> ברגמן.</persName>
+
+ ליהדות נתחנכה בבית ההורים ובהגיעה לגיל הלימוד כבר היה בית-ספר ני ממלכתי בעיירה. בבית-ספר זה למדה, ולמרות המשטר האנטישמי זכתה ליחס מיוחד בשל היותה התלמידה השקדנית והנבונה ביותר, גמרה בהצטיינות וקיבלה בתור פרס תנ"ך בתרגום רומני וספר היגיינה.
+
+ בשנת תרמ"ה (1885) עלתה לארץ עם הוריה וכל המשפחה, אחרי ששלשה בנים עלו עוד מקודם, והתישבו בעקרון. כאן הצטרפה למאמץ הכללי של המשפחה לשכוח את תפנוקי האמידות מהעיירה שבגולה ולהסתגל לכל עבודה קשה בשדה, במשק ובבית והתמחתה בכל עבודות הרפת והלול ואף בעזרה ב"עונה הבוערת" בשדות.
+
+ בתרנ"ג נישאה <persName>לצבי הוכברג</persName> מנס ציונה (ראה כרך א', עמוד 428), והיתה עזר כנגדו בפעולתו בהתנדבות בתור מורה לילדי המושבה ובמתן עזרה רפואית לילדי
+
+
+ הפועלים, שעבדו בכרמי רחובות והשתכנו ב"נחלת ראובן" בודאי חנין, שהיתה גרעין לפיתוח המושבה נם ציונה, וכן בבנין המשפחה ופיתוח המשק ובעבודה הצבורית והתרבותית של בעלה.
+
+ צאצאיה: <persName>לוי </persName> (פרדסן בנס ציונה),<persName> נתנאל</persName> (אגרונום במקוה ישראל),<persName> עמרם </persName> ז"ל (במלחמת-העולם א' נתפס בתור "פרר", משתמט מהצבא, נלקח לכלא דמשק ושם חלה בטיפוס הבהרות ומת), <persName>אבינועם </persName> (פרדסן בכפר אהרן),<persName> הרצל </persName> (פרדסן בנס ציונה),<persName> רוחמה </persName> אשת <persName>איתמר</persName> <persName>כץ </persName> (בנס ציונה).
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטרה בנס-ציונה, כ"ג טבת תש"ר (20.1.60)
+
+ (ראה כרך ז', עמוד 2896)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2896 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2896</bibl><bibl>Volume: #7 ,Page: 2897 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2897</bibl>
+            <bibl>Volume: #11 ,Page: 3882 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3882</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

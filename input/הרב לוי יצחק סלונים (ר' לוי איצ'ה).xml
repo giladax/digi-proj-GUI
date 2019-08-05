@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 445 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/445</bibl><bibl>Volume: #1 ,Page: 446 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/446</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב לוי יצחק סלונים (ר' לוי-איצ'ה)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>שקלוב</placeName> (רוסיה הלבנה) בשנת תקצ"ג (1833), לאביו הרב <persName>יעקב (כולי) סלונים</persName> ולאמו<persName> מנוחה רחל</persName> בת "האדמו"ר האמצעי" ר'<persName> דובער</persName> בן הרב <persName>שניאור</persName> <persName>זלמן </persName> בעל ה"תניא" מליובאוויטש.
+
+ בשנת תר"ה עלה ארצה עם הוריו שבאו לפי המלצת גיסם הרב <persName>מנחם מנדיל</persName> בעל ה"צמח צדק" מליובאוויטש, בקשר לפעולותיו למען חיזוק הישוב החבד"י בחברון, שנוסד בפקודת "האדמו"ר האמצעי". למד ב"חדר" ובישיבה של חסידי חב"ד.
+
+ בשנת תר"ח נשא לאשה את<persName> טריינא נעכא</persName> בת ר' <persName>משה שמרלינג,</persName> שעלה ארצה לחברון עם הוריו ועם אשתו במלאות שבוע ימים לנשואיהם - בפקודת "האדמו"ר האמצעי", ואחד מבניו של משה היה ר' <persName>חיים שמרלינג</persName> , מחלוצי המסחר ואבות הישוב העברי ביפו.
+
+ עסק והצליח במסחר, אך את רוב זמנו הקדיש ללימוד תורה וחסידות והיה חביב ומכובד על כל
+
+
+ יודעיו, תלמיד-חכם ואיש-מעשה, בעל צורה, בעל תפלה וקורא בתורה בנעימות.
+
+ בתרכ"ה נתמנה למנהל כולל חב"ד ולמנהיג עדת האשכנזים החסידים ונשא בעול הצבור עד יומו האחרון. היה מישב סכסוכים בין אדם לחברו (בענינים כאלה היו פונים אליו גם ערבים וקיבלו ברצון את הכרעותיו המבוססות על שכל ישר וחוש יושר) ובין איש לאשתו. תמיד היתה על שלחנו גמרא, ובין ביקור לביקור של אנשים מהחוץ היה חוזר להגות בה.
+
+ בתרל"ב השתתף כנציג חסידי חב"ד בחתימת ההסכם לאיחוד כוללות האשכנזים פרושים וחסידים שבכל "ארבע הארצות" (ירושלים, חברון, צפת וטבריה) במרכז אחד, שאליו יבואו הכספים בשביל כולם, ונבחר לאחד מארבעת חברי המרכז, בעלי זכות החתימה, ולשם כך היה נוסע פעם בפעם ירושלימה להשתתף בעבודת ההנהלה.
+
+ גאולת קרקעות ובנין בארץ היו בעיניו יסוד גדול לחיזוק עמדת הישוב. לשם כך בנה לו בית בחברון מחוץ לחצר היהודים ויצא לדור בו מיד אחרי שנגמר. רכש שטחים בתוך העיר ומחוצה לה: כ-50 דונם על פסגת ההר "קוב א-ג'אניב" מדרום לעיר, ועליו נטע כרם גפנים ועצי דמונים, תאנים, שזיפים וזיתים; שטח גדול נטוע עצי זית ממזרח לעיר, ליד "חארת אלמשרקה"; חלקת מזרע תבואות מצפון לעיר באדמת המישור שליד "ואדי תופח" וחלקה להעמדת כוורותדבורים ממערב לעיר, בקרבת הכפר דורה (היא אדורים שבתנ"ך) - ובהיותו נתין זר לא הורשה לרשום נכסים אלה על שמו ובמשך שנים רבות היו רשומים על שם אחד ממכיריו המושלמים, עבדול כרים אגה. כן השתתף ביסוד שכונת<persName> אבן ישראל </persName> בירושלים ובנה בה שני "נומרים" (דירות בנות שני חדרים) ובשכונת <persName>נוה-שלום</persName> ביפו בנה שלשה "נומרים".
+
+ נפטר בחברון, ג' ניסן תרנ"ה, ונקבר במערת הקבר של המשפחה, ושעליה הקימו בניו "אוהל" של אבנים הקיים עד היום.
+
+ צאצאיו: <persName>שניאור שלמה זלמן, יעקב חיים יוסף,</persName> <persName>מושקה</persName> אשת הרב<persName> שניאור זלמן סלונים,</persName> שהיה למעלה מח"י שנה רב לעדת החסידים ביפו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 445 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/445</bibl><bibl>Volume: #1 ,Page: 446 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/446</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

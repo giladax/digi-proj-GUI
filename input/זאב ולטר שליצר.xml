@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4576 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4576</bibl><bibl>Volume: #14 ,Page: 4577 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4577</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זאב ולטר שליצר</persName>
+
+</head>
+         <div><p> (ההמשך לערך שלו בכרד ה', עמוד 2190 וכרך י"א, עמוד 3881)
+
+ כיהן כנשיא גדול של בני-ברית בישראל, מפקח הועד הפועל של בני-ברית בישראל, ראש המשלחת הישראלית לועידה העולמית של בני-ברית בושינגטון במאי 1962, בה נבחר לסגן נשיא עולמי של המיסדר. מייסד, נשיא ראשון וכעת נשיא כבוד של "מלדן" אגודת מתווכים לנכסי דלא ניידי, יו''ר מועצת התזמורת הפילהרמונית הישראלית בתל-אביב.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4576 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4576</bibl><bibl>Volume: #14 ,Page: 4577 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4577</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3751 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3751</bibl><bibl>Volume: #11 ,Page: 3752 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3752</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלן ברונפמן</persName>
+
+</head>
+         <div><p> Allan Bronfman, B. A., L. L. B. Born at Brandon, Manitoba. December .189521st,
+
+ Son of Ekiel )Yekhiel Moshe( Bronfman. Mother' Minnie )Haya Mindel( daughter of Haim Elman. Wife: Lucy daughter of Moses Bilsky, Ottawa, Ontario. Children: Edward Maurice Bronfman, Peter Frederick Bronfman, and late daughter Mona married to Doctor Edward Robert Sheckman. Grandchildren: Catherine Zoe Sheckman, Paul Arthur Bronfman, Linda Evelyn Bronfman, Bruce Alexander Bronfman. Educated: Public and Hight Schools, Brandon and Winnipeg, Manitoba, Univer.(1919sity of Manitoba )B. A., 1915; L. L. B, Read Law with J. A. Andrews, Q. G, Winnipeg, Man., Student in-Law, Andrews,
+
+
+ .1915Andrews, Burbridge and Bastedo, Called to the Bar of Manitoba, 1919, Practised general law with Andrews firm as member until 1924, when he went to Montreal, Que., and assumed various executive offices as enumerated. Vice-President, Distilles Corporation-Seagrams Ltd., Montreal, Que.
+
+ Vice-president, Calvert Distillers Ltd., Amherstberg, Ont.
+
+ Director Joseph E. Seagram &amp; Sons, Ltd. Waterloo, Ont.
+
+ Director Royalite Oil Co., Ltd. Vice-President, Seco Investments, Ltd. President, Jewish Orphanage and Children's Aid of Western Canada, Winnipeg, .1921Manitoba,
+
+ .1922Member Winnipeg Budget Board, Member of Execuxtive Committee Federation of Jewish Philanthropies, Montreal, Que. 1925, Vice-Chairman 1927, Chair.1928-31man
+
+ In the fall of 1929, headed Campaign to raise funds for the new Jewish Hospital. Subscriptions obtained being more than double original objective, reaching the sum of </p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3751 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3751</bibl><bibl>Volume: #11 ,Page: 3752 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3752</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

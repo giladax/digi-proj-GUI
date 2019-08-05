@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2124 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2124</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים דב בלינקוב</persName>
+
+</head>
+         <div><p> נולד בהומל, רוסיה הלבנה, בשנת תר"ן (1890), לאביו <persName>יעקב</persName> ולאמו <persName>הניה.</persName>
+
+ קבל חינוך יהודי וכללי, למד גם בגימנסיה רוסית.
+
+ ברח מרוסיה לצרפת ומשם עלה לארץ ב-1910 והחל לעבוד ביקב ראשון לציון. עם התארגנות "השומר", הצטרף אליו והיה אחד מעשרת חברי הגרעין הראשון.
+
+ שרת בשמירה בכל אזורי הארץ. השתתף בפריצת המצור של ערביי הכפר זרנוגה על המושבה רחובות כשאמרו להחריבה אחרי שאחד מהם נהרג בסכסוך קרקעי. באותו קרב אבדה עינו האחת של בלניקוב. קשריו
+
+ עם שרידי "השומר" נשארו קיימים כל ימיו, וכל עוד היה <persName>אלכסנדר זייד </persName> בחיים היו השרידים הללו מתאספים פעם בשנה לפגישת-רעים בבית בלינקוב.
+
+ ב-1914 נשא לאשה את <persName>חיה</persName> בת <persName>שמואל זיינזול ובריינה</persName> צ'יז'יק (נפטרה בתל-אביב, י"ב אלול תש"ז). (ראה עליהם ערכים מיוחדים בכרך ד'). חותנו עבר למנחמיה ומסר לו את המשק במושבה כנרת. אך עבודת המשק לא מנעתהו מהמשכת שרותו ב"השומר".
+
+ במלחמת-עולם א' הצטרף למחתרת "נילי" והיה מפעיליה. נאסר בין יתר החברים בעת שנתגלה הקשר שלהם למוטט את הקיסרות העותומנית ופעולותיהם המוצלחות לטובת ה"אויב".
+
+ קיים קשרים הדוקים עם <persName>אלכסנדר אהרנסון</persName> , ממיסדי "נילי" וראשיה.
+
+ בתרפ"ד היה המתנחל הראשון באזור "בני בנימין" בהרצליה, ומאז עסק רק במשקו ובשמירת זכרונות מפעולותיו רבות הסכנות בעבר למען הישוב והמולדת.
+
+ נפטר בהרצליה, ט"ז ניסן תש"ז.
+
+ בניו: <persName>דוד, יונתן, עמירם</persName> (נהרג בהשתתפותו בתקופת המאבק של ההגנה - בהתקפה על מבצר המשטרה הבריטית בשרונה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2124 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2124</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

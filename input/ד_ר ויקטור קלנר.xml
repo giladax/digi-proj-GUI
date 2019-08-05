@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 2027 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2027</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר ויקטור קלנר</persName>
+
+</head>
+         <div><p> נולד בוטלנו (אוסטריה) בשנת תרמ"ח (27.11.1887), לאביו<persName> היינריך </persName> ולאמו <persName>אדלה</persName> בת<persName> וולף טאוסיג</persName> . קיבל חינוך יהודי וכללי והצטרף לתנועה הציונית מנעוריו.
+
+ אחרי שהוסמך לדוקטור לפילוסופיה באוניברסיטת פראג עלה ארצה ב-1910 ונתמנה למורה בגימנסיה הרצליה בתל-אביב, ומכאן נסע כציר נבחר לקונגרס הציוני בוינה ב-1913.
+
+ כשפרצה מלחמת העולם א' יצא לאוסטריה ואחרי שרתו בצבא בשנות המלחמה השתקע בוינה וב-1919 נתמנה למנהל הגימנסיה של הקהלה היהודית על שם הרב <persName>צבי פרץ חיות</persName> , שהשתתף ביסודה. היה שם עסקן פעיל בתנועה הציונית, חבר לשכת "בני ברית" וחבר פעיל במועדון על שם הרצל. פרסם מסות ומאמרים פדגוגיים ופילוסופיים ותרגם לגרמנית את "דברי הספרות" <persName>לביאליק</persName> ושני כרכים מכתבי<persName> א.ד. גורדון.</persName>
+
+ ב-1920 נשא לאשה את<persName> אמי </persName> בת <persName>קארל הרמן.</persName>
+
+ משנחרבו החיים היהודיים באוסטריה בעקב הסתפחותה מאונס-שברצון לרייך הנאצי עלה שנית ארצה ב-1938. ניהל את ביה''ס בתלפיות שבירושלים
+
+ בשנות 1939/43, את הגימנסיות "בלפור" ו"בן-יהודה'' בת"א בשנות 1943/47, וכיום הנו מורה לתולדות החינוך בביהמ"ד למורים ומורה לתנ"ך בשני בתי-ספר תיכוניים בת"א, נשיא לשכת "ביאליק" של בני ברית (בעיקר דוברי גרמנית) בת"א ויו"ר המועצה האזורית של לשכות בני ברית בת"א והסביבה.
+
+ צאצאיו : <persName>מיכאל</persName> (התגייס לצבא הבריטי ב-1940, נפצע בחזית יון ואחרי ארבע שנות שבי בגרמניה עבר לאנגליה), <persName>שושנה</persName> אשת המשורר<persName> זרובבל גלעד</persName> (חברה בקיבוץ עץ-חרוד).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 2027 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2027</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

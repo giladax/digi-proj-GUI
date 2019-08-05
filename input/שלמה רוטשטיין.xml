@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4275 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4275</bibl><bibl>Volume: #13 ,Page: 4276 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4276</bibl>
+<bibl>Volume: #13 ,Page: 4277 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4277</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה רוטשטיין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>עכו</placeName> (ישראל) בראשית תרמ"ז (16.12.1886).
+
+ לאביו <persName>ליפא רוטשטיין</persName> ולאמו<persName> תהלה</persName> בת<persName> ישעיהו</persName> <persName>בלומנפלד.</persName>
+
+ קיבל חינוך כללי בבית-ספר האליאנס (כי"ח) בחיפה ובזכרון-יעקב.
+
+ בשנת 1902 היה ממייסדי המושב "מנחמיה" בעמק הירדן. כמושבה על אדמות יק"א. נקראה בתחילה "מלחמיה", שמו של המקום בפי הערבים. בשנת 1921 שונה שם המקום ל"מנחמיה", על שם<persName> מנחם,</persName> אביו של הנציב העליון הבריטי הראשון -<persName> הרברט סמואל. </persName> היא היתה המושבה הראשונה בעמק הירדן ואנשיה התנחלו בסביבה רחוקה מכל יישוב עברי, בשכנותם של בידואים שוחרי ביזה ומדון. מפעם לפעם היו אנשי המושבה היהודית מותקפים ובהגנתה נפלו כמה מראשוניה.
+
+ בשנת 1913 נשא לאשה את<persName> חנה</persName> בת<persName> משה שלום</persName> <persName>לאהר</persName> (נפטרה בצפת, י' כסלו, תרפ"ו), ובזיווג שני נשא בשנת 1948 את פנינה.
+
+ כל השנים חקלאי.
+
+ במלחמת העולם הראשונה נאסר ע"י התורכים ונשלח לגלות.
+
+ היה מפקד השמירה במנחמיה לפני ההגנה ובתקופת ההגנה ("השומר") והיה שומר שדות.
+
+ גבאי בית הכנסת במקום.
+
+ יו"ר המועצה הדתית במנחמיה.
+
+ צאצאיו:<persName> חיה</persName> אשת<persName> אברהם לאהר, יגאל, מאיר,</persName> <persName>יפה</persName> אשת <persName>שמואל בן-דור, ישראל.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4275 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4275</bibl><bibl>Volume: #13 ,Page: 4276 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4276</bibl>
+<bibl>Volume: #13 ,Page: 4277 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4277</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

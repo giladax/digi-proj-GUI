@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4196 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4196</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלום יצחק כהן</persName>
+
+</head>
+         <div><p> נולד ח' אלול תר"פ (8.1920 )22.בירושלים.
+
+ לאביו<persName> יהודה אריה</persName> ולאמו<persName> דבורה</persName> בת <persName>שלום פרידגוט.</persName>
+
+ למד בתלמוד-תורה מאה שערים ונתקבל למקהלת "שירת ישראל" בהנהלת החזן ר' <persName>ש. ז. ריבלין</persName> .
+
+ בשנים 1933-1930 היה עם המשפחה בתל-אביב, למד בבית-הספר תחכמוני, ואח''כ בבית-הספר הריאלי, וכמו שהצטיין בירושלים בתור סוליסט במקהלת<persName> רבלין,</persName> כך גם בתל-אביב במקהלת<persName> שלמה רביץ</persName> , כשהיה חזן באהל שם. כאן נתפרסם בזמרתו כ"ילד פלא" ובשבת הבר-מצוה שלו עבר לפני התיבה בבית-הכנסת הגדול בתל-אביב. בגלל התחלפות מיתרי הקול צמצם אח"כ את הופעותיו וגם הפסיקן לגמרי עד שנת 1940. המשיך להשתלם בחלק התיאורטי (סולפג', תורת המוסיקה, תורת החזנות וכו') אצל החזן <persName>רביץ,</persName> קיבל שיעורים בפיתוח הקול אצל טובי המומחים והמשיך לקבל שיעורים בבית
+
+ הספר הגבוה למוסיקה בתל-אביב, ולמימון הוצאות לימודיו עבד שנים אחדות בשרברב בנין.
+
+ בשנות המהומות שירת בנוטרות בישובי ספר.
+
+ ב-1941 נשא לאשה את<persName> מרים</persName> בת <persName>יהושע וורונה</persName> .
+
+ באותה שנה נתמנה לחזן בבית-הכנסת בצפון תלאביב, ומ-1946 חזן ראשי בבית-הכנסת הגדול בנתניה. שם משמש גם מורה למוסיקה בבתי-הספר היסודיים הממלכתיים-דתיים ובבית-הספר התיכון "בר-אילן", והנו אח בלשכת בני ברית "שבי ציון".
+
+ צאצאיו: <persName>אביבה, גדעון, יהושע.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4196 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4196</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

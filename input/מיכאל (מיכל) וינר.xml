@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 320 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/320</bibl><bibl>Volume: #1 ,Page: 321 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/321</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מיכאל (מיכל) וינר</persName>
+
+</head>
+         <div><p> נולד בצפת, בשנת תרכ"ב (25.11.1861), לאביו<persName> ראו</persName> <persName>בן דוד</persName> . למד בחדרים ובישיבה.
+
+ נשא לאשה את הגברת <persName>זיסל </persName> בת<persName> משה דוד גרינ</persName> <persName>ברג</persName> מצפת, שעלה ארצה מרוסיה בגיל 13 שנה מאימת "החוטפים" (שחטפו אפילו נערים למסרם לשרות בצבא הצאר - בזמן שלא היתה חובת-צבא אישית על היהודים, אלא הקהלת היתה חייבת לספק מספר מסוים של חיילים).
+
+ לאחר שנים אחדות,<persName> כשהבארון בנימין (אדמונד)</persName> <persName>רוטשילד</persName> עשה נסיונות במטעים שונים ביסוד המעלה, ירד מיכאל וינר שמה ונתקבל לעבודה כפועל חקלאי. לא פעם חלה בקדחת ותמיד קם והמשיך לעבוד.
+
+ בשנת תרמ"ו נבחר מטעם הפקידות של הבארון להיות בין המתנחלים החלוצים במושבות שהבארון עמד להקים על השטחים הנרחבים בגולן (ממזרח לכנרת ולירדן, בשטח סוריה כיום). יצא לדרך עם אשתו ברכיבה, שבתו יום שבת במערה בדרך, בסביבה רחוקה מכל ישוב. עמלו וקדחו וסבלו ככל חלוצי גולן הראשונים, ללא עזרה רפואית וללא בטחון צבורי, בסביבה פראית ומופקרת.
+
+ כשחוסל הישוב העברי בגולן בגלל גזירות השלטון שבדמשק חזר ארצה ובתרנ"ו נבחר להצטרף למתנחלים במטולה. סבל גם שם את חלקו בעמידה בפני התקפות הדרוזים ובשאר התלאות. עבד בשקידה והיה שנים אחדות חבר ועד המושבה.
+
+ בעת התמרדות הערבים נגד הצרפתים בצפון הארץ באביב תרע"ט שלח את משפחתו לחוה של חברת יק"א בביתניה והוא עצמו החזיק מעמד במטולה, שהיתה אז בקו האש, עד יום י"א אדר ההיסטורי, כשנפלו <persName>יוסף</persName> <persName>טרומפלדור</persName> וחבריו בהגנה על תל-חי. משנעזבו אח"כ
+
+
+ ישובי הגליל העליון ירד גם הוא לביתניה והמשיך לעבוד בחוה, מבלי לחפש לו סידור חדש בעיר, לבל ינתק מעבודת האדמה. וכשבאה הבשורה הראשונה על השקטת הארץ בגליל העליון חזר מיד למטולה והמשיך לעבוד את אדמתה כל ימיו.
+
+ נפטר בחיפה, י"ב שבט תרצ"ז, והובא לקבורה במטולה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 320 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/320</bibl><bibl>Volume: #1 ,Page: 321 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/321</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

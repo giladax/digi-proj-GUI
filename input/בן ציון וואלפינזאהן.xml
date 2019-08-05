@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 307 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/307</bibl><bibl>Volume: #1 ,Page: 308 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/308</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בן-ציון וואלפינזאהן</persName>
+
+</head>
+         <div><p> נולד בירושלים, בחצר ה"חזקה" של אביו בעיר העתיקה ליד בית-המדרש של כולל רייסין, בקרבת. הסראיה הישנה, בשנת תר"ד (1844), לאביו העסקן ר' <persName>זאב</persName> (שנקרא "וועלוויל באבעס") בן<persName> ר' אברהם</persName> <persName>הדיין</persName> משקלוב, מראשוני העולים בתנועת "חזון ציון" של תלמידי הגר''א, ולאמו <persName>באבע רבקה,</persName> שנשארה יחידה אחרי אבדן הוריה וכל משפחתה ברעש בצפת. בשנת תקצ"ז.
+
+ למד בתלמוד-תורה "עץ חיים" שאביו השתתף ביסודו ואח"כ בישיבת "עץ חיים". אך בעודו צעיר, בשנתו הי"ח, בראותו כי אמו עמוסה טרחה רבה בניהול העסקים ואביו בצרכי צבור, עזב את שלות. הלימודים ויצא לעבוד בניהול הטחנה של הוריו ובשעותיו הפנויות היה מוסיף לעסוק בתורה.
+
+ נשא לאשה את ברינא בת הרב יעקב תאומים, גבאי ישיבת "עץ חיים".
+
+ בעוד שאביו יצא עשר פעמים לנסיעות לארצות. קרובות ורחוקות בשליחות הכולל, וגם בהיותו בבית. התמסר לעסקנות צבורית, העדיף הוא את השלוה. שבתורה ובעבודה ואת הישיבה הקבועה בירושלים עיר הקודש. הנקודה הקיצונית מהעיר העתיקה שאליה הגיע היא שכונת מאד. שערים, שהיה אחד מראשוני מיסדיה ובביתו שבנה לו בה, נולדו רוב בנותיו.
+
+
+ בימיו היו - מלחמות ומחלוקות במטרות שונות: "מלחמת העצמאות" לשחרור העדה האשכנזית מאפוטרופסותה של הספרדית, התחרות תרבותית ומחלוקות בין הפורשים והחסידים, בין הכוללים, ועוד ועוד. אך הוא לא השתתף בכל אלה.
+
+ היה מטובי בעלי הדקדוק בירושלים ועזר לאביו בהגהת הספרים, שנדפסו בדפוסו של ר'<persName> ישראל בק.</persName> ביחוד הצטיין בקריאה בתורה ובהפטרות, בשמירה על דקדוק הקריאה והנגינה לפי מסורת שקלוב ומוהילוב שנשתמרה בטהרתה במשך דורות רבים, וכן היה מדקדק בהברת התפילות והקנה את ידיעותיו אלה לרבים. ממנו למדו קריאה בתורה ובנביאים ר' יעקב גולדמן, ר'<persName> ח, מ. מיכלין</persName> ואחרים. בכל יום ו' אחרי הצהרים היה מאסף נערים בבית-המדרש הישן של כולל רייסין בעיר העתיקה, ואח"כ בבית-הכנסת של שכונת מאה שערים, והיה מלמדם טעמי נגינה בקריאה בתורה בדקדוק ההברה והנעימה.
+
+ נפטר בירושלים, בן שלשים ותשע, ט"ז כסלו תרמ"ה, ונקבר בהר הזיתים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 307 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/307</bibl><bibl>Volume: #1 ,Page: 308 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/308</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

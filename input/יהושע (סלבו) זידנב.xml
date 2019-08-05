@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4109</bibl><bibl>Volume: #12 ,Page: 4110 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4110</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהושע (סלבו) זידנב</persName>
+
+</head>
+         <div><p> רג
+
+ נולד ב<placeName>איזמיר</placeName> (תורכיה), ג' אב תרע"ה (14.7.1915).
+
+ לאביו<persName> ראובן זידנברג </persName> ולאמו <persName>רבקה </persName> בת<persName> יוסף</persName> <persName>קפילוטו.</persName>
+
+ קיבל חינוך בבית הספר כי"ח (האליאנס) והליסמע הצרפתי בחלב.
+
+ בשנת 1935 עלה לארץ.
+
+ היה שומר בנוה יעקב, שפיה וטנטורה.
+
+ עבד בתור פועל בנין בפתח-תקוה, נתניה ובנס-ציונה.
+
+ שמר בעטרות ובמעלה החמישה.
+
+ כל השנים חבר פעיל בהגנה.
+
+ בשנת 1942, לפי צו המוסדות הלאומיים התגייס לצבא הבריטי, ושירת במשך 1/2 4 שנה בליביה, טוברוק, בנגזי ועלמין. אח"כ היה בין צבא הכובש באיטליה וכו'. והגיש עזרה רבה לפליטים היהודים בכל מקום שמצא.
+
+ נלחם במלחמת העצמאות ואחרי שחלה עבד ברכוש הנטוש.
+
+ לרגלי מחלתו נאלץ לפי הוראות הרופא לעזוב את הארץ. בפריס הצטרף לאחיו הבכור<persName> ג'ק </persName> ועזר לו לפתח את תעשית חומרי חשמל וכו'.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4109</bibl><bibl>Volume: #12 ,Page: 4110 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4110</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

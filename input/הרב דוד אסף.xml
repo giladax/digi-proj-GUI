@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3873 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3873</bibl><bibl>Volume: #11 ,Page: 3874 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3874</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב דוד אסף</persName>
+
+</head>
+         <div><p> נולד בקאלאשין (פולין), כ"ט אייר תרס"ט (1909).
+
+ לאביו ר' <persName>אברהם אליעזר אסף.</persName>
+
+ קיבל חינוך מסורתי בישיבות.
+
+ היה פעיל בתעמולה לא"י. נאם ודרש בפני קהל רב למען קרנות הארץ, הדתיים והציונים.
+
+ בשנת תרצ"ה עלה לארץ.
+
+ נתמנה כרב ומו"צ בשכונת גאולה בחיפה.
+
+ מגיד שיעור בביהכ"נ רבי עקיבא בכל יום, מגיע שיעור לפני הנוער. ושיעור בפרשת השבוע בבית המדרש המרכז בכל שבת וחגים לפני הקהל.
+
+ רב בית הכנסת של "בעלי מלאכה" בחיפה. פרסם ספרים: "קהלת דוד" (חלק ראשון, תרפ"ח,
+
+ וורשה); "קהלת דוד" (חלק שני ושלישי עם "שביל דוד", "ויאמר דוד" עם הסכמת גדולי רבני פולניה תרפ"ט, וורשה); "תפארת צבי" (תרפ"ט, וורשה) : "ילקוט דת ודין בא"י" (תש"י. עם הסכמות ששת הרבנים הראשיים בארץ.
+
+ בכתב יד: על הלכות ספר "שמחות", ספר על ה"שבת", וספר "ארץ העליונה".
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3873 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3873</bibl><bibl>Volume: #11 ,Page: 3874 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3874</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

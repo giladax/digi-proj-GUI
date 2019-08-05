@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3967 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3967</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יחיאל דויטשמיסטר</persName>
+
+</head>
+         <div><p> נולד באלול תרס"א (15.9.1900) בדרוהוביץ' שבמזרח גליציה (אז אוסטריה).
+
+ לאביו <persName>אליעזר</persName> (בעל מלאכה) ולאמו <persName>ברטה</persName> בת<persName> חיים</persName> <persName>זאב גלאסברג.</persName>
+
+ נתחנך בחדר ובבית-ספר עברי. למד באוניברסיטת זאגרב והוסמך לד''ר לרפואה.
+
+ ב-1932 נשא לאשה את <persName>לאה</persName> בת <persName>גוטמן אשכנזי.</persName> פעל שנים רבות בתור רופא בז'ירז'אניוב שבפולין. פעולתו הציבורית התחילה בנעוריו בתור מדריך של הנוער העובד היהודי בדרוהוביץ'. המשיך בז'ירז'אניוב בתור יו"ר המגביות לקרנות הלאומיות, מנהל הפוליקליניקה של "טאז-אוזה", חבר מרכז מפ"ם בפולין, סגן יו"ר של "אורט" ומזכיר של "טאז" לשלזיה התחתית.
+
+ עלה לארץ ב-1949. ממשיך לפעול בתור רופא בתלאביב והנו חבר מרכז האיגוד המקצועי שליד הועד הפועל של ההסתדרות, חבר מועצת האיגוד הארצי של הרופאים, חבר הועד במחלקה לעובד האקדמאי, שופט בית הדין העליון של ההסתדרות, חבר ועד הספריה על שם י. ל. פרץ, חבר ועד ארגון יוצאי דרוהוביץ' ובוריסלאב. השתתף כציר בועידות קופת חולים ובועידת מפלגת אחדות העבודה-פועלי ציון.
+
+ כתב בעתון "זידוב" בזאגרב, בעתוני הרופאים במוסקבה ובשווייץ, ב"למרחב" וב"פאלקסבלאט" התל-אביבי.
+
+ בתו: <persName>אסיה</persName> אשת ד"ר <persName>אליעזר בר-נתן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3967 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3967</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

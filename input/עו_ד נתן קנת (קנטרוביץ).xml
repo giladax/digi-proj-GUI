@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5142 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5142</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עו"ד נתן קנת (קנטרוביץ)</persName>
+
+</head>
+         <div><p> נולד בירושלים, א' תמוז תרפ"א (17.7.1921). לאביו<persName> חיים קנטרוביץ (</persName> ממשפחה שבאה ממזרח אירופה והמשיכה לשמור את מסורת ישראל) ולאמו חנה בת <persName>הירש יאסקולקה.</persName>
+
+ קיבל חינוך עברי לאומי בבית ספר תחכמוני בירושלים, בית ספר תיכוני למסחר בתל-אביב, שעורי המשפט בירושלים, חקירת פשעים בשיקאגו במכון למדעי הפשע.
+
+ מוסמך למשפטים באוניברסיטת תל-אביב.
+
+ עורך דין.
+
+ בשנת 1945 נשא לאשה את<persName> מרים</persName> בת<persName> אליהו</persName> <persName>חגוסלבסקי.</persName>
+
+ מזכיר בית המשפט המחוזי.
+
+ קצין במשטרת ישראל. סגן פרקליט מחוז תל-אביב. עורך דין עצמאי.
+
+ יועץ משפטי של אירגון השוטרים הבינלאומי בישראל.
+
+ כל השנים חבר ההגנה.
+
+ היה בפלוגה המיוחדת של ההגנה, יחידת קצין המשטר בהגנה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5142 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5142</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

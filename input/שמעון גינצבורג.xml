@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2600 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2600</bibl><bibl>Volume: #6 ,Page: 2601 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2601</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמעון גינצבורג</persName>
+
+</head>
+         <div><p> נולד בו' בכסלו תרנ"א (סוף 1890) בליפניקי שבפלך ווהלין, אוקראינה.
+
+ לאביו<persName> אריה הלל </persName> (מורה עברי, מיסד חדר מתוקן ועסקן) ולאמו<persName> ביילה </persName> בת<persName> אברהם פרידמן</persName> .
+
+ למד בחדר של אביו ובישיבה. נסע למרכז ההשכלה של יהודי ווהלין. לז'יטומיר, והשתלם כאכסטרן בלימודים כלליים ובשנות 1909/12 למד באודיסה, ומשפורסמו שיריו ב"השלוח" (שהקפיד ביותר על איכות הדברים המודפסים בו) הוכר כמשורר עברי כשרוני, נתקבל בחבורת הסופרים העברים באודיסה והיה מבאי בית <persName>ח. נ. ביאליק</persName> .
+
+
+ ב-1912 יצא לאמריקה,עסק בהוראת עברית ולמד בקולג' למורים באוניברסיטת "קולומביה" בניו-יורק, בקנדה ובדרופסי קולג' שבפילאדלפיה. ב-1920 נתמנה למנהל בית-המדרש למורים "תרבות" בניו-יורק, ב1923 למנהל בית-הספר "תפארת הגר"א" בברוקלין, ומ1926 ואילך היה מנהל בית הספר "מחזיקי תלמוד תורה" בבורו-פארק שבברוקלין. השתתף ביסוד הסתדרות המורים העברים באמריקה ונבחר ליושב-ראשה. בשנות שהותו באמריקה עסק גם בשירה ובספרות עברית. לפני מלחמת העולם א' ערך את הירחון "התורן" בניויורק, ב-1919 ערך את לוח "אחיעבר", וב-1930 השתתף בעריכת הירחון "מקלט". כתב שירים ומסות ותרגם דברי שירה מאנגלית לעברית ואת ספריו הדפיס בארץישראל. ביחוד התמסר לגאולת יצירתו הפיוטית של רמח"ל, הוציא את מחזותיו ושיריו במהדורה חדישה ומושלמת ופרסם את אגרותיו מכתב-ידו בשני כרכים בלווי הערות והארות, ואף באנגלית פרסם ספר על רמח"ל ויצירתו (ב-1931). היה חבר הועד של סניף פא"ן קלוב העברי בארצות הברית ונציגן הרשמי של אגודת הסופרים העברים בארץ-ישראל וברית עברית עולמית.
+
+ ב-1933 עלה ארצה והמשיך בעבודה ספרותית. פרסם שירים (בהם השתקפו נוף ילדותו והולם החיים של הכרך האמריקאי וליריקה אנושית מן המובחר), מסות ומאמרי בקורת בשבועונים ובירחונים. בין השאר השתתף ב"מאזנים" של אגודת הסופרים.
+
+ ב-1934 נשא לאשה (בזיווג שני) את <persName>דבורה </persName> בת הרב ד"ר <persName>אברהם (אלברט) לווינטאל </persName> (שהיה רב בקהלות בגרמניה ופרסם בגרמנית את מחקריו על הפילוסופיה העברית בימי הבינים).
+
+ ספריו: <persName>ספר המחזות לרמח"ל </persName> (הוצאת "דביר", תרפ''ז), <persName>ספר השירים של רמח"ל</persName> (הוצאת מוסד ביאליק), <persName>אגרות </persName> <persName>רמח"ל </persName> בשני כרכים (הוצאת "דביר"), <persName>שירים</persName> <persName>ופואמות</persName> (הוצאת "דביר", תרצ"א),<persName> אהבת הושע</persName> (יצירה פיוטית כבירה על רקע מקראי-היסטורי (תל-אביב, תרצ"ו), <persName>במסכת הספרות</persName> , מסות (יצא אחרי מותו בתש"ה בניו-יורק). תרגם מאנגלית מיצירות אדגאר אלן פו, קולרידג', ביירון, תומאס מור, לונגפלו, טניסון ועוד, וחלקי משירי רעיתו מגרמנית.
+
+ סמוך לסוף מלחמת העולם ב' יצא לארה"ב בשליחות אגודת הסופרים העברים וברית עברית עולמית ופעל בהצלחה למען "קרן תרבות" עד שכרע-נפל תחת עומס העבודה.
+
+ נפטר בניו-יורק, ט"ז בטבת תש"ד (12.1.44).
+
+ בנו (מאשתו הראשונה <persName>יונה-יאנינה</persName> לבית <persName>אברמוביץ)</persName> : <persName>דוד</persName> (כימאי במכון וייצמן ברחובות).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2600 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2600</bibl><bibl>Volume: #6 ,Page: 2601 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2601</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

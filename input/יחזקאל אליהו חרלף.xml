@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1221 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1221</bibl><bibl>Volume: #3 ,Page: 1222 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1222</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יחזקאל אליהו חרלף</persName>
+
+</head>
+         <div><p> נולד בבאקלארובה, פלך סובאלק, פולין, ב' אלול תרנ"ז (1897), לאביו <persName>יעקב </persName> (מצאצאי הגר"א מוילנה) ולאמו <persName>פייגה חנה בלאוס</persName> (מצאצאי ר' <persName>ישראל סלנטר,</persName> מיסד שיטת המוסר בליטא). למד בחדרים ובישיבות סובאלק, סלונים, נובהרידוק ולידא בבית-ספר תי
+
+ כוני למסחר בטיפליס ואח"כ היה שם מורה בגימנסיה עברית. היה ראש הסתדרות צעירי ציון בגרוזיה ובטיפליס, חבר הועד הציוני לגרוזיה, חבר הנהלת הועד הלאומי ליהודי טיפליס, ציר לועידה הציונית הכל-רוסית ולועידת צעירי ציון בפטרוגראד 1917.
+
+ עלה ארצה בניסן הרפ"א ועבד כפועל בחקלאות ובבנין.
+
+ בתרפ"ה נשא לאשה את <persName>דבורה</persName> בת <persName>ברוך רו</persName> <persName>בינשטיין</persName> (ממשפחה ציונית ידועה בפינסק ובקיוב).
+
+ היה פעיל בחיי צבור הפועלים בארץ כראש קבוצת קאוקאז-טורקסטאן, ציר לועידות הפועל הצעיר וחבר מועצתו, מזכיר מועצת פועלי חדרה, בא-כח המרכז החקלאי במגדיאל והסביבה, ציר לועידות השניה והשלישית של הסתדרות העובדים הכללית וחבר מועצתה, ממיסדי קואופרטיב התחבורה "חבר" בחיפה ומנהלו, חבר הועד הפועל והמזכירות של מועצת פועלי חיפה, רואה-חשבון וחבר הנהלת ועד קריית חיים. כיום הוא סגן המזכיר הראשי של קהלת חיפה, סגן יו"ר משפט השלום העברי למחוז חיפה וחבר הועד הפועל של המוסד ללשון ולתרבות.
+
+ פרסם מאמרים ב"הפועל הצעיר" וב"דבר".
+
+ צאצאיו: <persName>עמירם, אראלה</persName> .
+
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בחיפה, ה' אדר תש"ט (6.3.49) ראה את הערך בכרך זה, עמוד 1221)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1221 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1221</bibl><bibl>Volume: #3 ,Page: 1222 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1222</bibl>
+            <bibl>Volume: #3 ,Page: 1535 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1535</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

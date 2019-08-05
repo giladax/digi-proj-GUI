@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3481 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3481</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חזי (יחזקאל) לופבן </persName>
+
+</head>
+         <div><p> נולד י"ג אב תרפ"ט (19.8.1929) בתל-אביב.
+
+ לאביו <persName>יצחק לופבן</persName> (עורך "הפועל הצעיר" - ראה כרך ד', עמוד 1604) ולאמו<persName> לאה </persName> בת <persName>יחזקאל רוזנבלט.</persName>
+
+ למד בבית החינוך לילדי עובדים, בבית-הספר תלנורדוי ובבית-ספר תיכון-חדש.
+
+ היה בהכשרה מגוייסת בחקלאות בנוה-אילן ובנוה-ים ובימאות חצי שנה בצי המסחרי. במלחמת העצמאות שירת בחטיבת הנגב של פלמ"ח והשתתף בכיבוש בירעסלוג'.
+
+ ב-1951 נשא לאשה את <persName>רות </persName> בת<persName> רחל ויעקב זעירא.</persName>
+
+ בגיל 21 החל לעבוד כאזרח במערכת השבועון הצבאי "במחנה", כתב את מאמריו הראשיים ותקופה מסויימת היה עורכו. ב-1953 יסד וערך עתון מוצאי-שבת "חצות" כל זמן קיומו. אח"כ ערך אחד מעמודי "מעריב" ופירסם כמה סיפורים ב"הארץ". ב-1954 חזר ל"במחנה" והיה
+
+ עורך בו את הגליונות לחגים. יסד בגלי-צה"ל את המדור השבועי "מחיל-אל-חיל" ושידר בו את המאמרים שכתב בנושאים בטחוניים. מאוגוסט 1956 ערך את השבועון המצויר "רימון" שהשתתף בייסודו. בתו:<persName> לאה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3481 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3481</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3838 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3838</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה יפה</persName>
+
+</head>
+         <div><p> בן העיר חברון.
+
+ היה שליח ארץ-ישראל להודו המזרחית. בימי המהפכות הגדולות באירופה גדלה ההתעניינות בירושלים לחפש אחר עקבות עשרת השבטים כי ראו בזה עקבתא דמשיחא.
+
+ בשובו ממסעו, סיפר ר' <persName>משה יפה </persName> לחוקר א"י ר' <persName>יהוסף שווארץ</persName> על קורות נסיעתו בהודו. <persName>ושווארץ,</persName> שהתעניין מאד בפרשה זו, ביקש ממנו שאם יימצא שוב בהודו יחקור שם על עשרת השבטים. בשנת תר"ז (1847) נשלח בשליחות טבריה להודו ולסין.
+
+ בי"ד אלול תר"ז (1947) כתב אגרת לידידו הנ"ל ובה מסר לו פרטים שקיבל על עשרת השבטים ממושל עדן ומתושבי המקום (נתפרסמה ע"י א' יערי "סיני" ו' ע"מ שנ"ג).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3838 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3838</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

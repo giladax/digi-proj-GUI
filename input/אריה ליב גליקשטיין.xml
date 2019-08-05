@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3135 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3135</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה ליב גליקשטיין</persName>
+
+</head>
+         <div><p> נולד בגרייב (ליטא), בשנת תקצ"ד (1834). לאביו<persName> יעקב.</persName>
+
+ קבל חנוך מסורתי בחדר ובישיבה.
+
+ עסק במסחר בעיר אוגוסטוב.
+
+ נשא לאשה את<persName> חיה </persName> בת ר' <persName>יעקב כץ</persName> (נפטרה בזכרוןיעקב, כ' אייר תרע"ב-22.1.1912).
+
+ עלה לארץ בשנת 1904.
+
+ עסק בצרכי צבור במושבה זכרון-יעקב.
+
+ חתניו - ד"ר <persName>הלל יפה וחיים מרגלית-קלווריסקי</persName> וכן בנו <persName>עקיבא </persName> הסבו לו ספוק רב בעבודתם למען גאולת קרקעות, בנין ורפואה בארץ.
+
+ נפטר בזכרון-יעקב, ג' שבט תרפ"ו (19.1.1926).
+
+ צאצאיו:<persName> אלכסנדר </persName> (סנדר) ז''ל,<persName> משה</persName> ז"ל,<persName> ג'ניה</persName> (שיינה) ז"ל,<persName> אסתר</persName> אשת<persName> חיים מרגלית-קלווריסקי </persName> (ראה כך ב', עמוד 801),<persName> רבקה</persName> אשת ד"ר<persName> הלל יפה (</persName> ראה כרך ג', עמוד 1141),<persName> עקיבא גליקשטיין </persName> (ראה בכרך זה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3135 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3135</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

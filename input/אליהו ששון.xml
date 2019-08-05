@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2281 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2281</bibl><bibl>Volume: #5 ,Page: 2282 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2282</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו ששון</persName>
+
+</head>
+         <div><p> נולד בכ"ה שבט תרס"ב (2.2.1902) בדמשק שבסוריה לאביו<persName> דוד</persName> ולאמו <persName>שרה</persName> בת <persName>שלמה אבו-אל-עפיה.</persName> למד בביה"ס כי"ח בדמשק ואח"כ בקולג' הצרפתי בבירות. היה פעיל במכבי וביקר בארץ ב-1918 וב-1919. ב-1919 החל לערוך בדמשק עתון ערבי-יהודי בשם "אלחייאת" במטרה לגשר בין עם ישראל ועמי ערב.
+
+
+ ב-1920עלה ארצה ועבד תחילה כפקיד בבית-מסחר ואח"כ כעתונאי ומרצה במוסדות שונים על עניני המזרח התיכון.
+
+ ב-1921 נשא לאשה את<persName> ג'וליה (יעל)</persName> בת <persName>אברהם</persName> <persName>זגול-לוי.</persName>
+
+ עוד בשנים הראשונות פעל בשליחות "ועד הצירים" ואח"כ מטעם ההנהלה הציונית ובהמשך מטעם הנהלת הסוכנות היהודית בכוון יצירת יחסי הבנה ושיתוף פעולה בין יהודים וערבים ולצורך זה ביקר פעמים רבות בארצות ערב. פרסם מאות מאמרים בעתונים העבריים "דבר", "הארץ", "דאר היום", "הזמן", "הד המזרח", "הפועל הצעיר" ועוד ובעתונים הערביים "אל-מוקאטאם", "אל-בלאג", "צות אל-אחראר", "אל-ג'א
+
+ מעה אל-איסלאמיה" ועוד. בשנות מלחמת העולם ב' הדריך את התעמולה הבריטית האנטי-נאצית במזרח התיכון ובחורף תש"ח ניהל את החלק הערבי של שידורי ההגנה במחתרת.
+
+ מ-1930 ואילך היה מנהל המחלקה הערבית בהנהלת הסוכנות היהודית ואח"כ מנהל מחלקת המזרח התיכון במשרד החוץ של מדינת ישראל. בתפקידיו אלה השתתף ב-1946 בשיחות לונדון, ב-1947 וב-1948 במשלחת הציונית באו"ם, ב-1948 וב-1949 במשלחות ישראל למשא-ומתן על שביתת הנשק עם מצרים והלבנון, ב-1949 כחבר ואח"כ כראש משלחת ישראל לשיחות לוזאן, ב-1948 ו-1949 ניהל את המשרד המיוחד של משרד החוץ בפאריס לקשר עם ערבים וכיום הנו ציר ישראל בטורקיה.
+
+ צאצאיו:<persName> רינה</persName> אשת<persName> רפאל לוי</persName> (קצין לעניני המיעוטים בירושלים),<persName> משה</persName> (פקיד במשרד החוץ),<persName> מרגלית</persName> <persName>רבקה, אורה</persName> אשת <persName>אביעד יפה</persName> (פקיד במשרד החוץ).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2281 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2281</bibl><bibl>Volume: #5 ,Page: 2282 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2282</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

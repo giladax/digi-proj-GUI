@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1300 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1300</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב ישעיה אורנשטיין</persName>
+
+</head>
+         <div><p> נולד בצפת, בחודש אב תקצ"ו (1836), לאביו הרב <persName>אורי</persName> (שעלה ארצה בן כ"ח בראשית שנת תקצ"ד עם אביו ר'<persName> משה וואלאברניק</persName> , מסלונים ומשפחותיהם והתישבו בצפת ובעת ה"ביזה", הראשונה, מרד הפלחים והבידואים, ח' סיון תקצ"ד, נהרגו ר' משה ושני ילדיו) ולאמו<persName> זיסל</persName> בת הרב ר'<persName> יצחק</persName> מקארלין בעל "קרן אורה", (הרב ר' יצחק מקארלין התנגד לעלית התנו ר' אורי והוסכם שיתן גט לאשתו ויחלקו ביניהם את הילדים, וכשפרצו הילדים בבכי בטלה גזירת הגט וכולם עלו ארצה). בהיותו בן חצי שנה היה הרעש הגדול בצפת, כ"ד טבת תקצ"ז, בו נהרגה אחות אביו, והוא והוריו שכבו ימים אחדים תחת המפולת וניצלו בנס.
+
+ בשנת תר"א עברה המשפחה לחברון ואביו יצא לחו"ל בשליחות כולל חב"ד ובתר"ו חזר והתישבו בירושלים.
+
+ למד בחדרים ובישיבות ומפי הגאון ר' <persName>משה יהו</persName> <persName>דה ליב</persName> מקוטנא בעל "זית רענן", והיה מחסידי חב"ד
+
+ המסורים, אך נוטה לשיתוף ולאחור. עם ה"פרושים" בעניני תורד, ויהדות.
+
+ נשא לאשה את <persName>צפורה (ציפה</persName> ) בת הרב <persName>משה מגיד</persName> בן הרב <persName>הלל ריבלין</persName> משקלוב, תלמיד הגר"א, מראשי הישוב האשכנזי הפרושי בירושלים.
+
+ היה גדול בתורה ובעל מרץ במעשים, פיקח ועליז תמיד וידע לרתק את שומעיו בסיפורי בדיחות ועובדות ממעשי גדולי ישראל. היה מזכיר כולל חב"ד בירושלים, ממקורביו של הרב <persName>משה יהושע יהודה ליב</persName> <persName>דיסקין </persName> מבריסק, ממיסדי שכונת מאה שערים והיה חבר הועד הראשון בו. עסק במסחר באתרוגים וכמה פעמים נסע לרוסיה בענין זה.
+
+ נפטר בירושלים, י"ט חשון תרס"ט.
+
+ צאצאיו: הרב<persName> יעקב </persName> (עזר לאביו בהנהגת כולל חב"ד וישיבת "אהל משה"), <persName>שיינדל,</persName> אשת הרב<persName> יצחק</persName> <persName>שלמה בלוי</persName> מחשובי כולל אונגארן (אבי הרבנים לבית <persName>בלוי </persName> מראשי אגודת ישראל), <persName>שרה נחמה</persName> אשת ר' <persName>משה</persName> <persName>זלמן שו"ב פראנקנטאל, רחל לאה</persName> אשת ר' <persName>חיים דב</persName> <persName>חיימסון</persName> מחברון ואח"כ אשת ר'<persName> זליג צוובנר</persName> בירושלים, <persName>יוכבד</persName> אשת ר' <persName>מרדכי הורוויץ-לאמזער, רבקה</persName> אשת ר' <persName>יוסף חיים שיינברגר, חוה,</persName> אשת ר'<persName> מנחם מרדכי</persName> <persName>פרנקל</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1300 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1300</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

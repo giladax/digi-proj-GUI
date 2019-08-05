@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3828 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3828</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אברהם אזולאי</persName>
+
+</head>
+         <div><p> בנו השני של הרב<persName> חיים יוסף דוד אזולאי</persName> . (חיד''א) מרבני ירושלים (ראה כרך שני, עמוד 555).
+
+ אביו מזכירו לשבח בספרו "שם הגדולים" ערך "חזה התנופה" וכותב עליו "בני ידיד נפשי... הוא החכם השלם והכולל כמהר"ר אברהם נר"ו". בשנת תקמ"ה יצא בשליחות ירושלים לערי צפון-אפריקה ואיטליה. בי"ח ניסן תקמ"ה (1785) הגיע לליוורנו מארגיל. בשנת תקנ"א (1795) היה בליוורנו שנית בשליחות "הכולל" דנ"ל וגם בעד בנין בית-כנסת בירושלים והצליח יפה בשליחותו.
+
+ קיבל 150 פייסוס בשביל הכולל ו-100 בשביל "צדה-לדרך".
+
+ לאנקונה הגיע ב-23 אוגוסט 1791. ונתנו לו 40 סקודי לבד מהוצאות הדרך.
+
+ אביו חיד"א כותב בספרו הנ"ל ערך "העשל" "כה אמר אלי בני ידידי ואור עיני מגן אברהם בעזרו ששמע מפי גדולים בהיותו בשליחות מצוה בק"ק קראקא".
+
+ אולם אין אנו יודעים בבירור אם בשליחותו הראשונה ביקר גם בפולניה או רק בשליחותו השניה.מסתבר שהיה זה בשליחותו האחרונה. הוא ביקר גם בברלין ובעוד כמה ערים באשכנז והולנד. יחד עם רבני ירושלים בשנת תקנ"ט על "כתב-שליחות" בדבר החובות של ירושלים שהגיעו לסך מאתים אלף אריות.
+
+ נפטר בירושלים בחיי אביו - לפני שנת תקס"ה (1805).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3828 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3828</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

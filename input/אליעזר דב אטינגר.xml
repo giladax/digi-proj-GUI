@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2794 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2794</bibl><bibl>Volume: #7 ,Page: 2795 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2795</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר דב אטינגר</persName>
+
+</head>
+         <div><p> נולד בירושלים, ט"ו בתמוז תרס''ד (28.6.1904). לאביו<persName> יוסף אטינגר</persName> ולאמו<persName> אסתר</persName> בת<persName> אברהם וידלר</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבת "חיי-עולם", בבית הספר תחכמוני, בית מדרש למורים המזרחי וחניך ביה"ס "בצלאל" מימי הפרופ' בוריס שץ, בירושלים.
+
+ עסק בציור ובמלאכת אומנות, פרסומת לבתי קולנוע, הנהלה אדמניסטרטיבית של בתי-קולנוע.
+
+ חבר ההגנה משנת 1927. בוגר קורס מדריכים השני בירושלים (1928). במאורעות תרפ"ט (1929) היה פעיל בהגנה על העיר העתיקה.
+
+ בשנות 1930-32 מרכז ומדריך "המכבי-הצעיר" בברלין ובלפציג והכנתו ל"מכביה" הראשונה בא"י.
+
+ משנת 1933 בתפקידי הדרכה ופקוד בערים מטעם ההגנה: ירושלים, תל-אביב וחיפה.
+
+ בשנת 1938 סגן מפקד העיר ירושלים וממארגני ההפגנות בירושלים נגד הספר הלבן.
+
+ בשנת 1940 סגן מפקד מחוז הצפון.
+
+ בשנת 1941 נשא לאשה את <persName>אורה</persName> בת <persName>דב גוברמן</persName> מטבריה.
+
+ במלחמת השחרור היה ממארגני ההגנה בטבריה וממשחרריה.
+
+ שירת בצ.ה.ל. בדרגת סרן ובתפקיד של קצין העיר מרחב נתניה.
+
+
+ יו''ר ארגון בתי הארחה בטבריה, יו''ר ומרכז ארגון חברי ההגנה - נפת טבריה, חבר לאגודת אמני טבריה, מזכיר אגוד כלכלי לקידום העיר טבריה.
+
+ בהנהלת מלון ופנסיון גוברמן בטבריה.
+
+ בנותיו: <persName>ארנונה, תלמה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2794 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2794</bibl><bibl>Volume: #7 ,Page: 2795 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2795</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

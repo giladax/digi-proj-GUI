@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 915 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/915</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אליהו ריינה</persName>
+
+</head>
+         <div><p> נולד בטבריה, כ"א טבת תרכ"ו (1866), לאביו<persName> דוד</persName> (נולד בתר"ה בטבריה, אחי ר' <persName>שם-טוב ריינה</persName> , שהיה רב בטבריה).
+
+ למד בישיבות טבריה והוסמך לרבנות.
+
+ בן שמונה-עשרה נשא לאשה את <persName>מסעודה</persName> בת <persName>יצחק לוי </persName> (ואחרי פטירתה בחיפה לאחר שנים רבות נשא את שרה לבית <persName>בן-קיקי)</persName> .
+
+ עסק במסחר והוסיף לקבוע עתים לתורה ולהרצות לקהל שיעורי תורה בהלכה ובאגדה. אח"כ היה שנים אחדות מורה ללימודי היהדות בבית-הספר שיסד דודו הרב שם-טוב ריינה בבירות. נסע בשליחות ת"ת הספרדים שבטבריה לארצות-הברית וחזר ארצה בעת פרוץ מלחמת-העולם הראשונה.
+
+ בתרפ"ב נבחר לרב ראשי לעדת הספרדים בחיפה. פעל למען איחוד הספרדים עם האשכנזים בקהלת
+
+ כנסת ישראל והיה חבר הרבנות הראשית המאוחדת של הקהלה. היה מכובד על כל התושבים היהודים כתלמיד-חכם, צדיק ועניו, אציל הרוח ובעל מדות תרומיות ופעל למען שכלול השרותים הדתיים ושמירת התורה והמסורת.
+
+ נפטר בחיפה, כ"ז שבט תש"ד.
+
+ צאצאיו מאשתו הראשונה: <persName>רחל </persName> אשת אהרן יפרח. <persName>עליזה</persName> , אשת העו"ד שלמה מאמאן (טבריה),<persName> רוזה,</persName> <persName>אסתר</persName> מוצרי (מורה בביה"ס של חברת כי"ח בטאנג'יר), <persName>דוד, יצחק.</persName>
+
+ מאשתו השניה: <persName>מאיר, ריקה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 915 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/915</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

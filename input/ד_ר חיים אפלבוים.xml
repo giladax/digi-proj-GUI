@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4003 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4003</bibl><bibl>Volume: #12 ,Page: 4004 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4004</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר חיים אפלבוים</persName>
+
+</head>
+         <div><p> (<persName>"חיים בק")</persName>
+
+ נולד י"א טבת תרס"ב (21.12.1901) בזכרון יעקב. לאביו<persName> אביגדור </persName> (ראה כרך י', עמוד 3515) ולאמו <persName>פנינה</persName> בת <persName>חיים קובילביץ</persName> (גם הוא מראשוני זכרון יעקב).
+
+ סיים את המחזור התשיעי בגימנסיה הרצליה בתלאביב. למד באוניברסיטאות באירופה בתורת הווטרנריה
+
+
+ ובאוניברסיטה פנסילבניה בארה''ב. הוסמך לד''ר לווטרינריה.
+
+ השתתף בקונגרסים בינלאומיים במקצועו.
+
+ ב-1929 נשא לאשה את <persName>בתיה</persName> בת<persName> ראובן ואסנת סופר.</persName> באותה שנה הוזמן לתפקיד רופא וטרינרי ראשי בחיל
+
+ הספר של עבר הירדן בדרגת מייג'ור (רב-סרן). קיבל מהאמיר <persName>עבדאללה</persName> שליט עבר-הירדן (אז עדיין לא היה לו התואר "מלך") את התואר "בק" וסוס ערבי אציל במתנה (על סוס זה רכב במיצעד ביום-השנה הראשון לעצמאית ישראל), שמסר אותו במתנה למשטרת ישראל אחרי קום המדינה. במלחמת העולם שירת כקצין וטרינרי ראשי בחיל הפרשים של הצבא הבריטי במזרח הקרוב וקיבל מדליות זהב וכסף מאת מלך בריטניה כאותותהכרה לשרותו המצוין.
+
+ אירגן את חיל הרוכבים בצה"ל ואת שרות הטיפול בבעלי חיים.
+
+ פעל בארצות חוץ בשליחות הסוכנות היהודית כמומחה לרכישת סוסים למשקי החקלאים בארץ.
+
+ במשך שנים רבות פעל כרופא וטרינרי בשרות הציבור בארץ.
+
+ צאצאיו:<persName> דניאל, פנינה</persName> אשת<persName> יצחק רביץ</persName> (סוכן בתיחרושת למזון בחולון).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4003 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4003</bibl><bibl>Volume: #12 ,Page: 4004 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4004</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

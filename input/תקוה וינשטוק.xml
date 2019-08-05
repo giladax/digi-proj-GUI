@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3753 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3753</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>תקוה וינשטוק</persName>
+
+</head>
+         <div><p> נולדה בפריז (צרפת) כ"ה טבת תרפ"ו (11.12.1926). לאביה <persName>יהודה</persName> ולאמה<persName> צלה</persName> בת <persName>אלתר אטינגון.</persName>
+
+ קבלה חינוך בבי"ס עממי וגמנסיה אחד העם פ''ת. ובפקולטה המדעי הרוח באוניברסיטה העברית בירושלים.
+
+ עלתה לארץ בשנת 1926.
+
+ היתה יו"ר ויצ"ו הצעירה.
+
+ החלה לכתוב ב"הבקר", ומשנת 1949 היא כותבת רפורטזות ופיליטונים בעתון הערב "מעריב".
+
+ חברת אגודת העתונים בישראל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3753 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3753</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

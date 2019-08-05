@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4330 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4330</bibl><bibl>Volume: #13 ,Page: 4331 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4331</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנימין שלום</persName>
+
+</head>
+         <div><p> נולד ביום י"ט באייר, תרפ"ד (23.5.1924) בעיר
+
+ העתיקה בירושלים. 
+
+
+ לאביו<persName> יוסף שלום</persName> ולאמו<persName> רחל.</persName>
+
+ גדל בשכונת מחנה דוד.
+
+ גמר את בית-הספר "דורש ציון" ולמד מסגרות ועבד בה.
+
+ הצטרף למחתרת לח"י בכינוי "מיכאל".
+
+ במסגרת חטיבת לח"י בירושלים השתתף בהפצצת המשוריין הבריטי שהגן על "ליפתה", בכיבוש "עיןכרם" ו"קטמון" והפריצה לעיר-העתיקה.
+
+ בקרב זה נפצע קשה בעינו.
+
+ היה עז נפש, חביב על חבריו ונחבא אל הכלים.
+
+ ביום הכרזת המדינה ביום ו' אייר, תש"ח (15.5.1948) השתתף בפריצת הדרך לעיר העתיקה. בפעולה זו נפצע פעמיים ואיבד אחת מעיניו. כשהחלים מפצעיו הקלים חזר לשירות ומאז שימש כנשק במחסן הנשק של לח"י בירושלים.
+
+ נספה בהתפוצצות במחנה לח"י שאירעה ביום י"ח תמוז, תש''ח (25.7.1948). נקבר זמנית בסנהדריה בירושלים, וביום ט' חשון, תשי"ב (8.11.1951) הועברה גופתו למנוחת עולמים להר הרצל בירושלים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4330 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4330</bibl><bibl>Volume: #13 ,Page: 4331 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4331</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

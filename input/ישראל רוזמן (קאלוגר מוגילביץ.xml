@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1923 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1923</bibl><bibl>Volume: #4 ,Page: 1924 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1924</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל רוזמן (קאלוגר-מוגילביץ</persName>
+
+</head>
+         <div><p> נולד בקיוב (אוקראינה), בשנת תרכ"ד (1864).
+
+ בהתקרבו לגיל השרות בצבא, והוא הבכור ולו אחים ואחיות והיה צפוי לגיוס, אימץ אותו אחי אמו, ששם משפחתו<persName> רוזמן,</persName> תושב העיר קאלוגה שבפלך קיוב, והוא חשוך-בנים, ומאז נקרא בשם<persName> רוזמן</persName> ובתור בן יחיד (של דודו) שוחרר מהצבא לפי החוק.
+
+ כשנודע לו, כי אותם הבילויים, שהחזיקו מעמד בארץ-ישראל על אף כל התלאות, זכו להגיע "אל המנוחה ואל הנחלה" במושבתם גדרה ו"הזורעים בדמעה ברנה יקצורו", עלה לארץ בתרמ"ד והלך לעבוד במושבה זו. נתקבל לעבודה קבועה במשק הנרחב והמגוון של משפחת<persName> פיינברג-בלקינד</persName> והיה ממלא את מקומו של<persName> ישראל בלקינד</persName> , שהיה נודד ומשוטט בעניני הכלל.
+
+ נתחבב על כל התושבים, שקראו לו <persName>ישראל קאלוגר</persName> על שם העיר קאלוגה, מושב דודו מאמצו, שממנה בא, וגם בתואר "הבחור בעל לב הזהב".
+
+ אז היתה נהוגה בגדרה שמירה עצמית של האכרים לפי התור, ובהיות הבחור<persName> ישראל קאלוגר</persName> פועל של שתי משפחות, מילא את מקום שני הבעלים בשמירה, וכך היה שומר תמידי כמעט, באשר מעטים היו התושבים.
+
+ באחד הלילות, בשמרו על הגורן הדלה של המושבה, נפגע בבטנו ביריה של גנב שהתקרב בזחילה מצד הכפר הערבי קטרה. לקול היריה בא השומר השני והזעיק את כל התושבים. אך החיפושים אחרי עקבות הגנב הרוצח היו לשוא.
+
+ אחרי שכבו כחודש ימים נפטר ביום כ"ז אב תר"ן ובקברו נחנך בית-העלמין של גדרה.
+
+
+ ארבע-עשרה שנה אחרי מותו, בתרס"ד, עלה מקיוב אחיו <persName>ליובה מוגילוביץ,</persName> שברוסיה היה חבר ס.ר. וכאן נספח ל"פועלי ציון". עבד כפועל חקלאי ברחובות, פועל ביקב ושומר בכרמים בראשון לציון. עבד גם בבית-החרושת <persName>ליאון שטיין</persName> ביפו והשתתף בשביתה הראשונה שאורגנה שם. השתתף כנציג הפועלים הותיקים במסיבת י"ט תמוז תש"ג במקוה ישראל לזכר עלית בני ביל"ו, שאחיו ישראל עבד וסבל עמהם. שני בניו נספו במהומות 39- 1936 והוא ירד אחריהם ביגון שאולה ביום ג' אייר תש"ד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1923 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1923</bibl><bibl>Volume: #4 ,Page: 1924 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1924</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

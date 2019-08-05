@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3876 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3876</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר רענן ויץ</persName>
+
+</head>
+         <div><p> נולד ברחובות, כ"ה סיון תרע"ג 30.6.1913).
+
+ לאביו<persName> יוסף ויץ</persName> (ראה כרך ב', עמוד 858) ולאמו <persName>רוחמה </persName> בת <persName>יצחק זאב אלטשולר </persName> (כרך י', עמוד 3586).
+
+ בוגר הגמנסיה העברית בירושלים. ד"ר למדעי החקלאות (ירושלים, פלורנץ). היה תלמידם של ד''ר <persName>ארתור רופין</persName> (כרך ששי, עמוד 2607) ופרופ'<persName> יצחק</persName> <persName>אביגדור וולקני</persName> אלעזרי (וילקנסקי) - כרך ב', עמוד 933. וקיבל תואר ד"ר לחקלאות.
+
+ נשא לאשה את<persName> רבקה</persName> לבית<persName> שכטמן.</persName>
+
+ שירת בהגנה ובצבא הבריטי (בחיל המודיעין).
+
+ עובד במחלקה להתישבות של הסוכנות היהודית משנת 1937.
+
+ מעצב רעיון "משק השדה" ומתכונת ההתישבות האזורית.
+
+ כתב מאמרים רבים בתורת המשק וההתישבות, "החקלאות וההתישבות בישראל" (חקלאות והשקאה).
+
+ כתב חוברת: פיסיקה וביולוגיה.
+
+ צאצאיו :<persName> יחיעם, רות.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3876 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3876</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

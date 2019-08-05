@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 510 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/510</bibl><bibl>Volume: #1 ,Page: 511 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/511</bibl>
+<bibl>Volume: #1 ,Page: 512 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/512</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנימין דיסקין</persName>
+
+</head>
+         <div><p> נולד בגרודנה, רוסיה הלבנה, בשנת תרכ"ג (1863), לאביו <persName>מרדכי</persName> , בן-תורה וירא-שמים שעסק בגידול ירקות בגנים שבקצה העיר, ולאמו<persName> דינה</persName> למד בחדרים ובישיבות ועזר להוריו מעבודה.
+
+ בשנת תרמ"ב עלה ארצה עם הוריו ועם בני-ביתם (אחותו ואם-אביו הזקנה). האב קנה נחלה בפתח תקוה, שהיתה אז בשממתה, ואחרי תום שנת השמיטה יצא לעבוד את האדמה בבדידות (רק הוא<persName> ומשה סלור</persName> עבדו שם בודדים) והמשפחה התישבה בירושלים בחרדה תמידית לשלום האב, שפעם אף נפצע ברגלו בידי ערבים כשהתנגד לנסיונם לגנוב שק מלא מלפפונים מיבול אדמתו ועבודתו. אח"כ עברה המשפחה לגור בכפר סלמה, להיות קרובה יותר אל האב. פעם, בקיץ תרמ"ג, אחרי הקציר והדיש, הלך בנימין לבקר את אביו במשק, ובאותו יום, שהיה ערב שבת, נודע להם מהתנהגות השומר הערבי, שבלילה יבואו ערבים (וקרוב לודאי שגם השומר יהיה ביניהם) לגנוב או לגזול את התבואה, בתקוה שהיהודים לא יחללו את השבת בהתנגדות להם בפועל. אך ר' מרדכי, שהתנהג בכל לפי הוראות התורה, עשה גם הפעם כהוראת ההלכה, שבהגנה על ישוב ישראל בארץ-ישראל מצוה לחלל את השבת, ובלילה עמדו, הוא ובנו נגד השודדים, ובנימין אף ירה באקדוח שהיה בבית ופצע אחד השודדים פצע מות. מחשש ל"נקמת דם" עזבו אז את המקום. האב והאם התישבו אח"כ בכפר יהודיה, מקום משכנם של מחדשי הישוב בפתח תקוה, והוא חזר לירושלים ובתרמ"ג נשא שם לאשה, את <persName>ציטה</persName> בת ר' ישראל <persName>דב פרומקין,</persName> בעל ה"חבצלת", ועבד בביתהדפוס שלו (נפטרה בפתח תקוה, כ"א סיון תש"ז).
+
+ לאחר שנים אחדות עבר עם משפחתו לפתח תקוה ועבד במשק של אביו. אך המשק לא הספיק לפרנסת שתי משפחות, ולפעמים אף לאחת לא, ולכן פתח חנות מכולת ולאחר זמן הקים בידיו בית-חרושת קטן לתעשית גאזוז ויצר בעצמו את הגאז.
+
+ הקדיש הרבה מזמנו לפעולה לטובת הצבור לשם מצוה, בלי שאיפה לכבוד ולכיבודים. השתתף ביסוד בית-הכנסת הגדול "בית יעקב" ובמשך כמה שנים היה גבאי ראשי בו ובערבים היה מרצה שיעורי תורה לקהל. בבית-הכנסת. נתן לבניו חינוך מסורתי וכללי ושקד על חינוך תורני לילדי המושבה כאחד ממיסדי התלמוד תורה, ולאחר זמן תמך בישיבה הגדולה שעלתה מלומזה לפתח תקוה והיה מהפעילים למען ביסוסה ושגשוגה.
+
+ במלחמת-העולם הראשונה היה חבר ועד המושבה וביחוד הרבה לפעול לטובת מגורשי יפו ותל-אביב שהוגלו בניסן תרע"ז לפתח תקוה, ואח"כ לטובת מגורשי פתח תקוה שהוגלו בפקודת הצבא המשחרר הבריטי בקיץ תרע"ח לתל-אביב.
+
+ בכל שנה היה הוא המאסף והמרכז את תרומות "קמחא דפסחא" לעזרת הנצרכים לחג הפסח, וכן היה עוסק בגמילות חסדים ותמיד החזיק אצלו סכום כסף מוכן למתן הלואה בגמילות חסד בסתר לכשיזדמן נצרך צנוע, ולאחר זמן כשנוסדה קופת מלוה לעזרה עצמית-הדדית בצורה מאורגנת השתתף ביסודה והיה חבר המועצה מראשיתה.
+
+ התענין במצבו של כל אדם מתוך נכונות לעזור כיכלתו, הקדים שלום לכל אדם והכל אהבוהו והוקירוהו.
+
+ נפטר בתל-אביב, כ"ה טבת תש"ה (7.1.45), והובא לקבורה בפתח תקוה. צאצאיו: <persName>משה, יצחק, מינה</persName> אשת המדפיס <persName>דוד</persName> <persName>גולדברג, שרה</persName> אשת <persName>אברהם דיסקין </persName> (מנהל משרד מס ההכנסה בת"א), <persName>אלכסנדר, יוסף, יעקב.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 510 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/510</bibl><bibl>Volume: #1 ,Page: 511 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/511</bibl>
+<bibl>Volume: #1 ,Page: 512 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/512</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1260 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1260</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף יעקבזון</persName>
+
+</head>
+         <div><p> בן <persName>אליעזר,</persName> (מראשוני רחובות והתאחדות האכרים. ראה כרך א', עמוד 954) ולאמו <persName>סוניה</persName> בת יוסף וינשטיין. נולד בירושלים, י"ד חשון תרס"ח (22.10.07).
+
+ קיבל חנוך בביה"ס העממי במושבה רחובות. בוגר הגמנסיה "הרצליה" בתל-אביב. התמסר לחקלאות, בעיקר בפרדסנות.
+
+ בשנת תרצ"א נשא לאשה את <persName>רעיה</persName> בת שמואל חסין מרחובות.
+
+ חבר מרכז המכבי בא"י, הנהלת התאחדות האכרים בא"י ואספת הנבחרים.
+
+ בתש"ז נסע לאמריקה בשליחות התאחדות האכרים בקשר עם עבוד הפרדסים.
+
+ מפעילי "ההגנה בארץ. חבר ועדת הבטחון הישובית.
+
+ בתש"ח, נתמנה לראש ועדת הקניות העליונה של צבא ישראל. ויחד עם מר א. בקר נסע לארצות הברית בסוף תש"ח לשם רכוז הקניות.
+
+ ביום שבועת צבא ישראל (כ"א סיון תש"ח) ע"י ראש הממשלה ושר הבטחון מר דוד בן-גוריון, היה יעקבזון (יחד עם ישראל גלילי ולוי אשכול-שקולניק) בין המלוים את ראש הממשלה.
+
+ צאצאיו:<persName> דב, גאי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1260 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1260</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

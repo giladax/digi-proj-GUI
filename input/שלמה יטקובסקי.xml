@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4313 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4313</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה יטקובסקי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קמניץ</placeName> (רוסיה), בשנת תרמ"א (1881). לאביו<persName> זאב אריה</persName> (חוכר אחוזות וחקלאי מצליח. ראה כרך א', עמוד 93) ולאמו <persName>בתיה.</persName>
+
+ בן שנתיים היה, כשעלה לארץ (1883) עם משפחתו שהתנחלו במושבה פתח-תקוה בסוכת קרשים ומחצלאות.
+
+ קיבל חינוך בביה''ס של הבארון<persName> רוטשילד</persName> בפתחתקוה. מורו היה <persName>אליהו ספיר</persName> ז"ל (ראה כרך ב', עמוד 827).
+
+ למד חקלאות במשק אביו.
+
+ עבד בתור גנן, בגנו של הבארון<persName> רוטשילד</persName> במושבה. היה חבר בחברת "הצעירים" בפתח-תקוה.
+
+ בשנת 1904 נשא לאשה את <persName>אסתר</persName> בת<persName> אהרן רובינזון.</persName> בשותפות עם <persName>ליב גליקמן, הויסדורף, לאפין וזלמן</persName>
+
+<persName>כהן </persName> - גאל מהערבים קרקעות ונטע פרדסים. נתנסה בבל התלאות שעברו על בוני המושבה.
+
+ בנותיו; <persName>חולדה</persName> אשת ח. כ.<persName> יוסף ספיר</persName> (ראה כרך
+
+ ב', עמוד 719), <persName>צפורה</persName> אשת<persName> יוסף כהן, שולמית</persName> אשת <persName>צבי גולדשטיין</persName> (מורה בגימנסיה).
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בפתח-תקוה, א' באלול תשכ"ו (8.6617.) (ראה כרך י"ג, עמוד 4313)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4313 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4313</bibl>            <bibl>Volume: #16 ,Page: 5006 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/5006</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1768 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1768</bibl><bibl>Volume: #4 ,Page: 1769 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1769</bibl>
+<bibl>Volume: #4 ,Page: 1770 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1770</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי בן-יחזקאל (האלפרין)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>גליניאני</placeName> (גליציה), ז' באדר תרמ"ג (1883), לאביו <persName>יחזקאל האלפרין</persName> (מצאצאי בעל "ספר הדורות"), ולאמו<persName> חנה</persName> בת<persName> יעקב קנעלר</persName> . קבל חנוך מסורתי בחדר ובבית המדרש. אחרי
+
+ למודים פרטיים עמד בבחינת -בגרות ויצא להשתלם באוניברסיטאות בברן, ברלין ווינה.
+
+ בשנים 1918--1920 עבד כמורה לעברית בגימנסיה הפולנית-היהודית בלבוב. וב"חוגים" של תלמידים יהודיים שבבתי ספר תיכוניים ממשלתיים.
+
+ בימי הכיבוש הרוסי בימי מלחמת העולם הראשונה היה חבר ועד העזרה ליהודי גליציה.
+
+ בשנת תרפ'א (אוקטובר 1920) עלה ארצה. שנה ראשונה עבד בסמינריון למורות וגננות על שם לוינסקי ביפו תל-אביב.
+
+ בקר שוב בגרמניה וחזר ארצה ב-1924. בשנים תרפ"ד - תש"ד היה מורה בבית המדרש למורים "מזרחי" בירושלים. תרפ"ה-תרפ"ז גם בבית המדרש למורות "מזרחי".
+
+ היה ציר בקונגרס הי''א בוינה.
+
+ סופר עברי משנת 1908. חוקר בחסידות ומעבד ספורי-עם.
+
+ פרסם את מאמריו וספוריו ב"השלוח", "הארץ", "היום" (ורשה) "היום" (ירושלים), "הצופה", "מאזנים", "כנסת" (ספר ששי), "ספר השנה של ארץ ישראל תרצ"ה", "הדואר", "הדים", "ההד", "שי", "למועד", "האשה", "עולם הילדים", "מולדת".
+
+ בשנים תרפ"ו, תרפ"ח, הופיעו ארבעה כרכים של "ספר המעשיות" בהוצאת "דביר".
+
+
+</p>
+<p>
+
+ תוספות: 
+
+ (המשך לערך שלו בכרך ד', עמוד 1769)
+
+ בשנת תשי"ט (1959) הופיעו ששה כרכים במקום 4 הכרכים שהופיעו קודם ל"ספר המעשיות" שלו בהוצאת "דביר".
+
+ בתשכ"א (1961) יצאה סידרת ספריו במהדורה חדשה כפרס ל"הארץ".
+
+ זכה ב"פרס ביאליק" לשנת תשכ"א (1961) של עירית תל-אביב - על "ספר המעשיות" בששה כרכים בהוצאת "דביר".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1768 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1768</bibl><bibl>Volume: #4 ,Page: 1769 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1769</bibl>
+<bibl>Volume: #4 ,Page: 1770 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1770</bibl>
+            <bibl>Volume: #17 ,Page: 5237 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5237</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

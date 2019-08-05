@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 183 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/183</bibl><bibl>Volume: #1 ,Page: 184 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/184</bibl>
+<bibl>Volume: #1 ,Page: 185 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/185</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל צ'רבינסקי</persName>
+
+</head>
+         <div><p> נולד ביום ה' ניסן תרל"ט (1879) בגראייבה פלך לומז'ה, לאביו הרב ר'<persName> יהושע,</persName> שהיה דרשן ונדיב. נתחנך בתלמוד-תורה ואח"כ בישיבות בגרותה, לומז'ה ובישיבת "בעלי המוסר" בסלובודקה, התענין גם בספרי השכלה. עלה ארצה בשנת תרס"א והמשיך ללמוד בישיבת מאה שערים בירושלים. משנשא לאשה את בת העסקן<persName> יהושע ברזילי </persName> (אייזנשטאדט) החל לעסוק במסחר והשתתף בפעולות לפיתוח הישוב. בשנת תרס"ג השפיע על מר<persName> אלברט</persName> <persName>ענתבי, </persName> שימכור קרקע מאחוזת חברת "כל ישראל חברים" במחיר הקרן ושיקציב סכום מסוים להלוואות בלי רבית לשם בנין שבונה על השטח ההוא, את
+
+ שכונת "נחלת צדוק" לזכר הרב<persName> צדוק הכהן</persName> מפאריס. היה חבר ב"המכבים הקדמונים", "אגודת נטעים", "גבעת שאול" ובחברת "המזמין" מיסודו של <persName>מנחם</persName> <persName>שיינקין.</persName> עזר לר' <persName>עקיבא אריה וייס</persName> ברכישת חברים בין סוחרי ירושלים לחברת "אחוזת בית", שיסדה את תל-אביב, פרסם מאמרים בשאלות ישוביות ב"השקפה" של<persName> בן-יהודה,</persName> ב"החבצלת" של <persName>פרומקין,</persName> ב"החרות" של א.<persName> אלמליח </persName> וש. <persName>רפאלי, </persName> בלוח ארץ-ישראל של א. מ. <persName>לונץ</persName> , בקובץ "לפי שעה" של ד.<persName> ילין,</persName> ב"מחזיקי הדת" של הרב שור ועוד. פרסם חוברת
+
+
+ לזכר "שני חובבים" בהוצאה א. מ. לונץ, חיבר ספר "ישועת ישראל" על כל התנ"ך (לעת עתה בכתב-יד). שימש סופר ארצישראלי של "מורגן ז'ורנאל", "דר אמריקאנר" ועוד עתונים יהודיים באמריקה, כתב מאמרים תורניים ופיליטונים רבניים ב"הפוסק" המופיע בתל-אביב.
+
+ במוצאי המלחמה, בשנת תרע"ח, ירד מצרימה בשליחות הרב ב"צ <persName>חי עוזיאל</persName> ועסקנים אחרים והצליח בתעמולתו ליסד אגודות "המזרחי" בקהיר ובאלכסנדריה. אח"כ פעל למען יסוד השכונות "בית וגן" בירושלים וביפו.
+
+ אחרי מלחמת-העולם הראשונה המשיך במסחר סיטוני בירושלים, קיבל נציגות של פירמות גדולות מחו"ל והיה סוכן ראשי להפצת תוצרת הארץ בירושלים והסביבה. נסע חמש פעמים לאמריקה למען גאולת הארץ ובנינה מטעם החברות "קהילית ציון", "בנין הישוב", "מנורה" ועוד. תודות להשפעתו עלו ארצה כמה בעלי הון ובעלי פירמות עם משפחותיהם.
+
+ העלה ארצה בכ"א אדר תרצ"ג את עצמות חותנו ר' יהושע ברזלי (אייזנשטט) שנפטר בשווייץ אחרי שיצא לאירופה לתעמולה ציונית מדינית בראשית מלחמת-העולם הראשונה, - והביאן לקבורה בהר הזיתים.
+
+ יושב ברמת-גן בביתו אשר ברחוב ז'בוטינסקי. יסד קופת גמילות-חסדים בשם "נחמת ציון" לצרכי שבת בשביל חברי "משמרת שבת", השתדל בעד יסוד המנין לתפלה בשבתות ובימים טובים בביתההבראה "החלמה", ועוד.
+
+ בשנים האחרונות פתח בתעמולה להקמת מוסד ובנין מפואר בירושלים בשם "בנין משולש", שישמש מרכז לפעולות למען תורה ועבודה וגמילות-חסדים.
+
+ עליו ועל פעולותיו למען הישוב בתקופת ישיבתו בירושלים נכתב בחוברת "שני בתי אבות" של ר' <persName>פנחס גראיבסקי</persName> ובחוברת "החטיבה" ליובל הששים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 183 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/183</bibl><bibl>Volume: #1 ,Page: 184 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/184</bibl>
+<bibl>Volume: #1 ,Page: 185 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/185</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

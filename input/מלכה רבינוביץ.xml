@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5602 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5602</bibl><bibl>Volume: #19 ,Page: 5603 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5603</bibl>
+<bibl>Volume: #19 ,Page: 5604 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5604</bibl>
+<bibl>Volume: #19 ,Page: 5605 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5605</bibl>
+<bibl>Volume: #19 ,Page: 5606 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5606</bibl>
+<bibl>Volume: #19 ,Page: 5607 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5607</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מלכה רבינוביץ</persName>
+
+</head>
+         <div><p> נולדה בבלטה (רוסיה) ח' בטבת תר"ס (10.12.1899).
+
+ לאביה<persName> יצחק ונטיק</persName> ולאמה<persName> לאה</persName> בת <persName>משה זוברק.</persName>
+
+ עלתה לארץ בסוף שנת 1905.
+
+ קיבלה חינוך בבית ספר לבנות.
+
+ בשנת 1920 נישאה לאליעזר רבינוביץ (ראה את הערך שלו בכרך זה, בעמוד 5602).
+
+ היתה חברה בהנהלת "עזרה ליתומים". אחרי שויצ"ו נוסדה בארץ הצטרפה כחברה, ובשנת 1937 היתה חברה בהנהלת ויצ"ו בסניף ת"א.
+
+ כשש שנים היתה פעילה וחברה בהנהלה הארצית של הויצ"ו.
+
+ מתמסרת מאוד בהגנה לתוצרת הארץ של הויצ"ו הארצי.
+
+ היתה ראש פלוגה במשך 3 שנים במשמר אזרחי (הג"א) בתל-אביב.
+
+ היתה מהפעילות בארגון ותרבות של הויצ"ו.
+
+ בביתה פעלה יחד עם בעלה בהגשת עזרה וייעוץ לעולים שנתקבלו ברצון בביתם.
+
+ בשנת 1924 כשהחלה העליה מפולניה היתה פעילה מאוד בהגשת עזרה.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5602 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5602</bibl><bibl>Volume: #19 ,Page: 5603 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5603</bibl>
+<bibl>Volume: #19 ,Page: 5604 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5604</bibl>
+<bibl>Volume: #19 ,Page: 5605 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5605</bibl>
+<bibl>Volume: #19 ,Page: 5606 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5606</bibl>
+<bibl>Volume: #19 ,Page: 5607 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5607</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

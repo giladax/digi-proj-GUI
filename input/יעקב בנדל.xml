@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1141 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1141</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב בנדל</persName>
+
+</head>
+         <div><p> נולד בבאקאו, רומניה, כ"ב תשרי תר"ם (1879), לאביו <persName>צבי</persName> (בן ר' <persName>יהודה ליב</persName> , שעלה ארצה בשנת תרל"ו, התישב בצפת ושם נפטר) ולאמו <persName>אסתר</persName> .
+
+ בן שנתים עלה ארצה בתרמ"ב עם הוריו וכל ביתם, מאורגנים להתנחלות בארץ מטעם הועד המרכזי של חובבי ציון בגאלאץ, השתתפו ביסוד המושבה ראש פנה והתישבו בה.
+
+ קיבל חינוך מסורתי וכללי בבית-הספר של המושבה ויצא לעבודה במשק הוריו.
+
+ נשא לאשה את <persName>מיכל</persName> לבית <persName>רשקוביץ.</persName>
+
+ עבד כל ימיו בחקלאות, נשא את חלקו בסבלם של הראשונים מילדותו. שרת בצבא הטורקי במלחמתהעולם הראשונה ואחרי המלחמה המשיך בעבודתו ונאבק קשה על הקיום כיתר אכרי המושבה הגלילית.
+
+ השתתף בעניני הצבור ומשנת תר"פ ואילך היה מזכיר ועד המושבה.
+
+ פרסם ב"בוסתנאי" וב"הבוקר" רשימות וסיפורים מתולדות ראשית הישוב החקלאי בגליל העליון, ורשימות רבות על נושאים אלה נשארו אחריו בכתב-יד.
+
+ נפטר בראש פנה, י"ג כסלו תש"ד.
+
+ צאצאיו: <persName>חנה</persName> אשת <persName>יצחק בוקשטטר, אברהם,</persName> <persName>רחל </persName> אשת <persName>משה גולדשטיין, מלכה</persName> אשת <persName>משה טייך,</persName> <persName>מנחם</persName> (מפקח משטרת אבו-כביר).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1141 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1141</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

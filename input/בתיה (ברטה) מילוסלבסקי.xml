@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2158 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2158</bibl><bibl>Volume: #5 ,Page: 2159 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2159</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בתיה (ברטה) מילוסלבסקי</persName>
+
+</head>
+         <div><p> נולדה באלכסנדרובסק (רוסיה), בשנת תרמ"ו (1886. 6.7) לאביה<persName> שלמה יפה</persName> - הבילו"יי (ראה כרך א', עמוד 394) ולאמה <persName>שרה</persName> בת <persName>דב מילוסלבסק, </persName> (ראה כרך ג', עמוד 1426).
+
+ חנוכה היה עברי לאומי בבית הספר העממי בנסציונה ולאחר כך בהיותה במצרים השתלמה בשפות הצרפתית והאנגלית.
+
+
+ לארץ עלתה יחד עם הוריה בשנת 1887, בהיותה בת תשעה חדשים.
+
+ נישאה<persName> לדב </persName> (בוריס) <persName>זבולון מילוסלבסקי </persName> (ראה את הערך שלו בכרך זה).
+
+ בשנת 1906 ירדה עם בעלה למצרים. שם התגוררו בקהיר ובאלכסנדריה, במקום אשר בעלה עסק במסחר.
+
+ בזמן שהותם במצרים, הרבו היא ובעלה בעזרה לעולים ארצה שעברו דרך מצרים. לנזקקים שבהם דאגו לאש"ל, וערכו נשפים שהכנסותיהם שמשו לעזרה לעולים.
+
+ בשנת 1930 חזרו ארצה והתישבו בנס-ציונה, במקום שבעלה התמסר לעבודו של הפרדס, אשר בהעדרם נטע דכ יפה אחיה, - בנו של שלמה יפה.
+
+ בניה: <persName>שלמה </persName> (סלומון, בארצות הברית),<persName> ישראל</persName> (מהנדס בצפת).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2158 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2158</bibl><bibl>Volume: #5 ,Page: 2159 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2159</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

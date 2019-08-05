@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4098 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4098</bibl><bibl>Volume: #12 ,Page: 4099 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4099</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם מנדל קרול</persName>
+
+</head>
+         <div><p> נולד בראדום (פולין) בשנת תרכ"ב (1862).
+
+ לאביו <persName>אבא קרול</persName> ולאמ<persName>ו חנה.</persName>
+
+ קיבל חינוך מסורתי.
+
+ אביו התנגד שבנו יעבור על "לא תעשה לך פסל ומסכה" ע"י למודיו לצייר ולכייר. ירדו לחייו, אך הוא נלחם על שלו.
+
+
+ בעירו עסק בצבעות, צייר שלטים ותפאורות - גם לתיאטראות, קרקסאות וכנסיות. ובן בנה בתים מעץ.
+
+ היה חבר פעיל בהסתדרות חובבי ציון.
+
+ נשא לאשה את <persName>צלה (צירול) </persName> בת<persName> יוסף קרוליק.</persName> ממשפ' כפריה בסביבת ראדומסק. (נפטרה בכפר אביחיל, א' אייר ת"ש (9.5.1940).
+
+ בשנת תרס"ט (1909) עלה עם בני משפחתו לארץ.
+
+ בארץ המשיך לעבוד עם בניו במקצוע.
+
+ ממיסוי אגודה לקנית קרקעות ברפיה, בגבול עזה.
+
+ ממייסדי אגודת מרכז בעלי מלאכה בתל-אביב, ומראשוני מתיישביה של השכונה אז.
+
+ ניהל את בית הכנסת "גאולת ישראל" במרכז בעלי מלאכה. קירב ודאג לעולים מבני עירו - ראדום.
+
+ נפטר באביחיל, ו' חשון תרצ"ט (31.10.1938).
+
+ צאצאיו :<persName> חיים ז"ל</persName> (ראה בכרך זה),<persName> אבא </persName> ז"ל<persName>, יוסף</persName> ז"ל (ראה בכרך ט', עמוד 3357),<persName> יעקב</persName> (ראה בכרך זה), <persName>רבקה</persName> אשת <persName>זימן, צפורה </persName> אשת<persName> בן-דוד (דוידזון). שרה</persName> אשת <persName>דגיאלי (פישל), מלכה</persName> אשת <persName>פוטשניק, לאה</persName> אשת <persName>אנגרט.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4098 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4098</bibl><bibl>Volume: #12 ,Page: 4099 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4099</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

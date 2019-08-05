@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2900 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2900</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק (ז'ואן) דה-ליאון</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רוסצ'וק</placeName> (בולגריה) בשנת תרנ"ט (27.6.1899).
+
+ לאביו <persName>מוני</persName> ולאמו<persName> ז'ולייט</persName> בת <persName>יצחק רוזאניס.</persName>
+
+ בוגר בית ספר גבוה לחקלאות במונטפלייה (צרפת) וקיבל תואר-אינג'ינר חקלאי M.L..
+
+ בשנת 1913 מיסד חברת "מקרא" - הסתדרות לשפה ותרבות עברית ב<placeName>רוסצ'וק</placeName> (בולגריה).
+
+ בשנת 1921 עלה לארץ.
+
+ בשנות 1921-22 מורה לחקלאות בבית הספר החקלאי מקוה ישראל.
+
+ בשנות 1923-28 מנהל תחנת הנסיונות של הסוכנות היהודית בנחלת יהודה.
+
+ בשנת 1929 מסע חקירה לקפריסין, מצרים וסוריה בשם הממשלה המנדטורית.
+
+ בשנת 1929 נשא לאשה את <persName>אלכסנדרה</persName> בת<persName> זנבל לוין.</persName>
+
+ בשנת 1930 ציר בקונגרס למשי בבירות (לבנון) מטעם הממשלה המנדטורית.
+
+ בשנות 1928-39 קצין חקלאי בכיר במחלקת החקלאות בממשלת המנדט (1931-36) ומרצה בבית הספר החקלאי הממשלתי בתול-כרם.
+
+ בשנות 1940-41 מפקח ראשי להלואות לפרדסנים.
+
+ בשנות 1942-45 מפקח יערות בממשלת המנדט.
+
+ בשנת 1946 במחלקה החקלאית של I.C.I.
+
+ בארץ (תעשיות החימיות ישראל).
+
+ בשנות 1947-50 עובד מחקר במכון ויצמן למדע, רחובות.
+
+ בשנת 1951 ציר בקונגרס לחקלאות כל אירופאית בונציה (איטליה).
+
+ בשנות 1951-53 מנהל מחלקת החקלאות בהתאחדות האכרים בישראל.
+
+ בשנות 1953-54 נציג המחלקה הכלכלית של הסוכנות היהודית לישראל בתל-אביב ובמרוקו.
+
+ כתב מאמרים רבים בעתונים מקצועיים בישראל ובחו"ל.
+
+ חבורים: "גידול גפנים בא"י", "נסויים בהחסנת ענבים", "זנים א"י ומזרחיים של ענבים", "רשימות על החקלאות במצרים", "רשימות על החקלאות בברית המועצות", הפצת התות וטיפוחו", "תולעת המשי של התות'', "גידול משי בקפריסין'', "גידול קיקיון בא"י", "שתים עשרה שנה גידול תולעי משי בא"י", "תולעת המשי של הקקיון", "גידול משי בלבנון" וכו'.
+
+ אינג'ינר חקלאי ויועץ חקלאי כלכלי.
+
+ בנו: <persName>גבריאל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2900 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2900</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

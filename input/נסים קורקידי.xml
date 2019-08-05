@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 143 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/143</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נסים קורקידי</persName>
+
+</head>
+         <div><p> נולד בעיר ברגאמה, ליד איזמיר, טורקיה, י"ד אדר תרל"ב (1872), לאביו ר'<persName> אברהם</persName> , רבה של הקהלת ומחבר הספר "ויקח אברהם", בן הרב <persName>משה</persName> , רבה של קהלת ישראל במאגנזיה.
+
+ בתרמ"א עלה ארצה עם הוריו והשתקעו בירושלים. למד בת"ת של הספרדים, בביה"ס "דורש ציון", בבית הרב <persName>שמעון חרוש</persName> , ואח"כ בישיבת "תפארת ירושלים" אצל הרבנים <persName>מנחם בכר יצחק וחזקיה שבתי</persName> . בתרמ"ט נשא אשה ועבר ליפו. עסק בהוראה במשך שלש שנים ואח"כ במסחר עד סוף ימיו. כשעבר ליפו נבחר לועד העיר, עסק בצרכי צבור של העדה הספרדית ופעל למען איחוד העדות הספרדית והאשכנזית הן ביסוד הקהלה המאוחדת ביפו (שהיה חבר הועד שלה במשך שנים רבות) והן בהיקף ארצי. היה חבר ועד בית-החולים היהודי העירוני ביפו, חבר ועד חברה קדישא ועוד. לפני מלחמת-העולם הראשונה היה חבר המועצה של עירית יפו (1910-13) וחבר לשכת המסחר. רבים פנו אליו להיות בורר ביניהם בסכסוכי מסחר ומשפחה והוא הצליח לישב את הסכסוכים לשביעת רצון כל הצדדים. היה אחד מששים החברים הראשונים של אגודת "אחוזת בית" שיסדה את תל-אביב ואחד מחמשת קוני השטח של הגרעין הראשון ליסוד העיר ואח"כ אחד משלשת הבונים הראשונים. תודות ליחסים הטובים שבינו לבין הערבים הצליח במלחמת-העולם הראשונה לקנות מהם חטה להזנת הישוב, ואח"כ כחבר "ועד ההגירה" היה פעיל בעזרה למגורשי העיר.
+
+ השתתף ביסוד בנק קופת עם, שכונת בית וגן (היא בת-ים) ועוד מפעלים צבוריים וישוביים.
+
+ כעסקן בעדה הספרדית פעל למען מינויו של הרב ב"צ<persName> חי עוזיאל</persName> לרב ראשי ואח"כ היה יועצו ועוזרו בענינים רבים בהנהגת העדה.
+
+ מילדותו למד את החזנות בסגנון ספרדי-מזרחי והגיע בכך לדרגה גבוהה. היה חזן ראשי בבית-הכנסת "קהלת יעקב" של הספרדים בנוה שלום, ואח"כ בביתהכנסת הגדול "אהל מועד" בתל-אביב, שפעל רבות למען הקמת בנינו. יסד והדריך את מקהלת "פרחי כהונה" של בית-כנסת זה.
+
+ נפטר בתל-אביב, כ"ה חשון תרצ"ח.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 143 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/143</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

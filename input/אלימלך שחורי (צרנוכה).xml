@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4034 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4034</bibl><bibl>Volume: #12 ,Page: 4035 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4035</bibl>
+<bibl>Volume: #12 ,Page: 4036 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4036</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלימלך שחורי (צרנוכה)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סוסנוביץ</placeName> (פולין), (10.12,1920), כ"ט כסלו תרפ"א.
+
+ לאביו <persName>יוסף יהודה צרנוכה</persName> ולאמו<persName> חיה בלומה</persName> בת <persName>אברהם מרדכי גוטפריד.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה.
+
+ היה חבר הנהגת קן בית"ר בעירו.
+
+ בשנת 1939 עלה לארץ.
+
+ היה חבר פלוגת בית"ר בראש פינה ותל-צור (1939). בשנת 1940 התגייס לגדודים העברים בצבא הבריטי, ושירת בהם עד 1946. היה פעיל במרד החיילים נגד ענידת סמל פלשתינה.
+
+ בשנת 1943 נשא לאשה את <persName>בלהה</persName> בת<persName> יעקב יהושע</persName> <persName>גלעדי.</persName>
+
+ בשנות 1946-47 מזכיר אגוד מקצועי "הסתדרות עובדים לאומית" ברמת-גן.
+
+ היה פעיל באצ"ל.
+
+ שירת בצה"ל.
+
+ כותב לעתים ב"חרות" ובירחונים מקצועיים.
+
+ חבר הועד הפועל של הסתדרות העובדים הלאומית. חבר המועצה הארצית של תנועת החרות. חבר הנהלת סניף תנועת החרות ברמת-גן.
+
+ סגן מנהל המחלקה לתברואה ולפיקוח עירוני בעירית רמת-גן.
+
+ צאצאיו:<persName> מרדכי, מרים.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4034 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4034</bibl><bibl>Volume: #12 ,Page: 4035 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4035</bibl>
+<bibl>Volume: #12 ,Page: 4036 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4036</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

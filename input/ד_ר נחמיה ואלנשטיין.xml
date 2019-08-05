@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2232 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2232</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר נחמיה ואלנשטיין</persName>
+
+</head>
+         <div><p> נולד בכ"ב אב תרס"א (1901) בירושלים לאביו<persName> שמעון</persName> (מעסקני כולל אונגארן ומהפעילים בהקמת "בתי אונגארן" בן הרב<persName> משה נחום ואלנשטיין</persName> , שהיה אב"ד בעדת הפרושים בהנהגתו של הרב <persName>שמואל סלנט</persName> והשתתף ברכישת הקרקע של פתח תקוה) ולאמו <persName>שרה</persName> בת<persName> יצחק אייזיק סגל</persName> (גם היא ילידת ירושלים העתיקה). למד בחדרים פרטיים,
+
+ בת"ת בבתי אונגארן, בת"ת ובישיבה "עץ חיים", בבית המדרש למורים מזרחי. סיים בתרפ"ה ושימש חמש שנים בהוראה בביה"ס תחכמוני בתל-אביב.
+
+ יצא להשתלם בטיצ'רס קולג' שבאוניברסיטת קולומביה בניו-יורק. ב-1937 הוסמך לד"ר לפילוסופיה ולמפקח חינוכי וחזר ארצה. שימש שלש שנים כסגן מנהל ביה"ס תחכמוני, עד סוף תש"ו מנהל ביה"ס "עליה-מזרחי" ואח"כ ארבע שנים כמדריך למורים ברשת פיקוח המזרחי. כיום מפקח על החינוך למבוגרים במחלקת הקליטה התרבותית, באגף התרבות של משרד החינוך והתרבות במדינת ישראל.
+
+ פרסם מאמרים ב"הד החנוך" וב"החנוך".
+
+ אשתו:<persName> אסתר</persName> . בניו: <persName>חגי, אמוץ, אמנון, מרדכי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2232 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2232</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

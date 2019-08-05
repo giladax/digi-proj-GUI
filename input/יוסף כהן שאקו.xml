@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 703 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/703</bibl><bibl>Volume: #2 ,Page: 704 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/704</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף כהן שאקו</persName>
+
+</head>
+         <div><p> בן ר' רפאל כהן שאקו, אחיו של ר' יהודה שאקו. נולד ב<placeName>ירושלים</placeName> בשנת תרנ"ג (1893). התחנך בביה"ס מפראג ב<placeName>ירושלים</placeName> (היום "דורש ציון"), בביה"ס כי"ח ב<placeName>ירושלים</placeName> (1908-1901). נסע לפריז והשתלם
+
+
+ שם בבית המדרש למורים של האליאנס (1912-1909). בשנים 1922-1912 שמש מורה בבית הספר כי"ח בבגדאד. בשנים 1925-1923 הורה בביה"ס של כי"ח בבירות. בשנים 1933-1925 נהל את ביה"ס של כי"ח בהמדאן שבפרס. כאן פעל הרבה לטובת הקהלה היהודית בעיר. בהשפעתו הסכימה הממשלה הפרסית להכיר בבתי הספר של האליאנס ולהתחשב עם תעולות הגמר של הגומרים (דבר שלא היה נהוג לפני כן). עד בואו היו במוסד 6 כתות עממיות. בזמנו נוספו לביה"ס ג' כתות תיכוניות. היה פעיל מאד בועד הקהלה היהודית שבהמדאן.
+
+ בשנת 1925 נשא לאשה את<persName> שרה רומי</persName> , מקושטא.
+
+ בשנת 1933 נסע לעיר אספהאן שבפרס ונהל שם את ביה"ס של חכי"ח עד שנת 1936 . בבואו מצא את ביה"ס שרוי בגטו מיוחד של הרובע היהודי, שנמצאו בו כ-8000 נפש. 4000 יהודים התגוררו מחוץ לגטו. הוא קנה בנין נאה מחוץ לגטו והעביר אליו את ביה''ס. דבר זה גרם ש-3000-2000 יהודים עזבו את הגטו והתגוררו מחוצה לו - דבר שעשה רושם גדול.
+
+ בשנים 1936- 1946 נהל את ביה"ס של חכי"ח בעיר טהראן שבפרס. בהשפעתו ובאמצעות מר <persName>אברהם</persName> <persName>נחום</persName> מבגדאד תרם הנדיב <persName>אליעזר כדורי </persName> סך 2000 לירות שטרלינג להרחבת והגדלת ביה"ס הנ"ל שנקרא בשם "לורה כדורי" (על שם אשת אליעזר כדורי), בנין מפואר זה מכיל 14 כתות, ונבנה בשנת 1938. בזמן מלחמת העולם האחרונה ביטל ריזה-שאח, מלך פרס את כל בתי הספר הזרים במדינה. היה בדעתו לבטל גם את ביה"ס של האליאנס, אך בהשפעתו נתקבלה הטענה שבתי הספר של האליאנס אינם נקראים זרים.
+
+ בשנים 1942- 1945 לא היה כל קשר לביה"ס הנ"ל עם פריז והיה חשש שיסגר. פנה לג'וינט ובהשפעתו נתנה תמיכה של 1000 דולר לחדש בשביל משכרת למורים.
+
+ בשנת 1946 עבר לירושלים, וכיום מנהל ביה"ס של חכי"ח.
+
+ צאצאיו:<persName> שלמה, מזל</persName> אשת קרסטופר, מאנגליה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 703 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/703</bibl><bibl>Volume: #2 ,Page: 704 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/704</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

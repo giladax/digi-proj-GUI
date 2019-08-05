@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 727 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/727</bibl><bibl>Volume: #2 ,Page: 728 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/728</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משיח ברוכוף</persName>
+
+</head>
+         <div><p> בן ברוך בן יהושע ג'יהן. נולד ב<placeName>בוכארה</placeName> בט"ו בתשרי תרל"ו. בשנת תרמ"ב (1882) עלה לארץ ישראל יחד עם הוריו לירושלים. התחנך בת"ת, בביה"ס "דורש ציון" ובביה"ס כי"ח. בשנת תרנ"ד נשא לאשה את רחל בת אחיו אברהם ברוכוף. בשנת תרנ"ה נסע לטאשקנט בטורקסטאן הרוסית. שם עסק עם יתר אחיו בעניני מסחר והתפרסם כעסקן צבורי. בהשתדלותו נבנה בית כנסת מפואר בעיר ונפתח מקוה צבורי. בשנת תרס"ה קנה יחד עם יתר שלשת אחיו בשותפות עם ארבעת האחים יששכרוף מטאשקנט את הקרקע של "בית חנוך יתומים לעדת הספרדים" בירושלים ואף בנו על קרקע זה בנין מפואר שעלה להם ב-140.000 פרנק זהב לערך (מלבד מחיר הקרקע). עד שנת תרע"ה היה נוסע מא"י לערי רוסיה הלוך וחזור לרגלי מסחרו. בשנים תרע"ה-תרע"ט בשנות מלחמת העולם הראשונה נמצא באלכסנדריה יחד עם אחיו אברהם כגולים משום שהיו נתינים זרים (רוסים). בשנת תרע"ט חזרו שניהם ארצה והחלו להתענין במצב בית היתומים
+
+
+ אשר הקימו. בשנת תרפ"ה הקדיש את הבית במשרד הרבנות, בשם משפחות ברוכוף ויששכרוף. משרד הרבנות קבע כי שני אפוטרופסי המוסד צריכים להיות תמיד הרב הראשי לא"י הראש"ל והגדול שבמשפחת ברוכוף. לפי זה שמש כאפוטרופוס ומנהל "בית היתומים" משנת תרפ"ה עד יום מותו. נוסף לכך מלא תפקידים צבוריים רבים. היה חבר ועד עדת
+
+ הספרדים בירושלים, חבר ועד בית העלמין, חבר הסתדרות הספרדים, חבר ועד עדת הבוכארים, אפוטרופוס על הקדשות הבוכארים, חבר ועד העיר ליהודי ירושלים, חבר ההנהלה של ישיבת "פורת יוסף". ציר אספת הנבחרים הראשונה. בשנת תרפ"ט מינתה אותו הרבנות הראשית לחבר הועדה לפקוח על הכותל המערבי. נפטר בירושלים בו, באדר תש"ו (1946).
+
+ הניח אחריו שני בנים - משה ואהרן - ושבע בנות.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 727 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/727</bibl><bibl>Volume: #2 ,Page: 728 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/728</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

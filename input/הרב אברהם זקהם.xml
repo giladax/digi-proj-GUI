@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 772 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/772</bibl><bibl>Volume: #2 ,Page: 773 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/773</bibl>
+<bibl>Volume: #2 ,Page: 774 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/774</bibl>
+<bibl>Volume: #2 ,Page: 775 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/775</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אברהם זקהם</persName>
+
+</head>
+         <div><p> נולד במולודצ'נו, פלך מינסק, רוסיה הלבנה, סמוך לוולוז'ין, י"ח כסלו תרי"ח (1857), לאביו ר' <persName>משה נתן </persName> (ממשפחה מיוחסת, דור ששי לר' <persName>ישראל</persName> הי"ד, מקדושי רוז'ינוי. מוצא המשפחה מגזע גאונים וקדושים מצד אחד, עד רש"י ולמעלה ממנו עד הלל הזקן, ומצד שני - מגזע רב שרירא ורב האי גאון, ומרבנו זרחיה הלוי בעל "המאור" ועוד גאוני ספרד), ולאמו <persName>יענטא</persName> לבית אנצילביץ-גולדברג. למד בישיבות מינסק, וולוז'ין
+
+ וקובנה, ונסמך להוראה ע"י הנצי"ב ור' יצחק אלחנן ספקטור מקובנה. נשא לאשה את <persName>עטרה מלכה</persName> , בת הרב <persName>הלל דוד הכהן טריווש</persName> (רבה של ווילקי, פלך קובנה, מגזע רש"י, מו"ל "הפסגה" ומחבר הספרים "וניגש הכהן", "עבודת הכהן", "עדן גנים", ועוד). היה מו"צ בקובנה, אח"כ רב במושבה לייפון, פלך ווילנה, ובווליה, פלך גרודנה. במלחמת העולם הראשונה, עם פנוי התושבים נמלט לסימפירופול, קרים, ושם היה רב ומטיף, יסד ישיבה מתוקנת ותלמוד תורה שהנהיג בו למודים כלליים ושפת המדינה, בתכנית למודים של בית ספר עממי. בכל מקום שישב נתפרסם כצדיק וחסיד, עד שגם התושבים הנוצרים היו פונים אליו להשפט עפ"י דין תורה, וכמה פעמים גרם ל"קדוש השם". החליף מכתבים עם גדולי ישראל ברוסיה ובגרמניה בחכמת ישראל ובשאלות היהדות, הרבנות, החינוך וכו'. (שלמה בובר, הנצי"ב, ד"ר ברלינר, הרכבי, נחום סוקולוב, הרב יצחק אלחנן ספקטור, י. ל. פרידלנד ועוד). פרסם מאמרים ב"המליץ" ועוד. הציע ב"הפסגה" ט' - י' תכנית לייסוד סמינר לרבנים אורתודוכסיים ולהסדרת הרבנות ומעמדה. חבר את הספר "נטעי איתן" (דרשות וביאורים בתלמוד) בשמונה חלקים. חלק א' יצא בוורשה תרס"א (הוצאה ג' - ווילנה תרס"ד). יתר החלקים יצאו בירושלים בשנות תרפ"ו-צ"ח ; "התורה והמלאכה", ירושלים תרפ"ח, "חזיון העולם", ירושלים תרצ"ג.
+
+ הכין לדפוס ספר "עץ חיים" על תולדות ישיבת וולוז'ין למלאות מאה שנה להווסדה, פתחא דמדרשא על המדרש רבה, "מגן ישראל" (ברוסית). אסף חומר רב מרבנים סופרים, שרובו אבד בטלטולי נדודיו
+
+ במלחמת העולם הראשונה ולוקח ע"י הצנזורה הרוסית. גם אסף חומר רב לתולדות משפחת <persName>זקהם</persName> , שהוכנס לספר "דעת קדושים" ע"י ר'<persName> ישראל טוביה</persName> <persName>אייזנשטאדט</persName> מרוז'ינוי (פטרבורג תרנ"ז/נ"ח). נודע כדרשן מצוין שהטיף לחבת ציון בצורתה הדתית. עם בנו דבר מילדותו עברית עד שהיתה השפה העברית שגורה בפיהם. השתתף עם חותנו, ואח"כ עם גיסו, הרב <persName>קלמן טריווש</persName> (כעת רב בניו-יורק) בהוצאת המאסף הרבני "הפסגה" ואח"כ הוציאו לבדו (הקבצים
+
+
+ ד' - ז' עם חותנו בשנות תרנ"ז/ס"א, קובץ ח', עם גיסו בתרס"ב, קבצים ט' - י' לבדו בשנות תרס"ד/ס"ה).
+
+ שאף כל ימיו לעלות ארצה, וזכה לעלות מן הגולה הרוסית בקרים בקיץ תרפ"ה והתישב בפתח-תקוה. היה אחד הרבנים הראשונים שנאם בבית הכנסת בתלאביב בעברית. בפתח-תקוה היה מורה הוראה ודרשן בבית הכנסת הגדול. עסק בעניני צבור באמונה והיה בתחלתו פעיל בהנהלת "משמרת שבת" ומוסדות תלמוד תורה וישיבות. הצטיין בצדקתו ובחסידותו. בשנותיו האחרונות היה יושב כל היום בטלית ותפילין, ואף בנסיעות לא חלץ אותם ונזהר מאד בכבוד כל אדם ומלשון-הרע. שונא בצע והתיחס בסבלנות לזולת. נפטר בפתח-תקוה, בטו' טבת תרצ"ט (5.1.39).
+
+ צאצאיו: ד"ר <persName>משה ירדני </persName> (זקהם) בתל-אביב (ראה כרך א');<persName> ינטה</persName> וילנקין בדיטרויט, ארצות הברית; ד"ר לרפואה <persName>שרה</persName> זקהם, ירושלים; <persName>לובה</persName> אשת ישראל זילברבלט, ורה-קרוז, מכסיקו (הוציאה ספר שירים באידיש "ליידן", הונה 1935, אחד הספרים המעטים שהופיעו בגלות קובה באותיות עבריות); <persName>ברכה</persName> זקהם, ציירת, ברוסיה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 772 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/772</bibl><bibl>Volume: #2 ,Page: 773 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/773</bibl>
+<bibl>Volume: #2 ,Page: 774 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/774</bibl>
+<bibl>Volume: #2 ,Page: 775 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/775</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

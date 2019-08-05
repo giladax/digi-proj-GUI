@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1784 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1784</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלתר (ברור מיכל) וינקלר</persName>
+
+</head>
+         <div><p> נולד בהוסיאטין, פלך פודוליה, אוקראינה (מול הוסיאטין האוסטרית לשעבר. מעבר לגבול, בגליציה), בשנת תקע"ד (1814), לאביו<persName> משה שלמה</persName> .
+
+ אחרי לימוד תורה בבחרותו נשא לאשה את <persName>לאה</persName> ובזיווג שני את <persName>חיה</persName> בת<persName> יוסף</persName> (נפטרה בפתח תקוה, א' אב תרס"ד). השתקע בעיירה אושטה בגליציה. עסק במסחר זעיר, בגידול ירקות ובכל עבודה.
+
+ בתרכ"ח עלה ארצה עם משפחתו והתישב בירושלים. היה מראשוני המשתכנים בשכונת מאה שערים. סירב לקבל חלוקה והתפרנס ממכירת שטרי-ערך טורקיים. כשפשט האוצר הטורקי את הרגל, אבד לו גל כספו בעסק זה, כ-4000 רובל, ולבל יזדקק לחלוקה פנה לעסוק בעבודה שחורה. בתרל"ז יצא לגליציה, מכר את נחלתו וחזר מיד ארצה.
+
+ אחרי רכישת החלק השני של אדמת פתח-תקוה קנה בה ב-60 נפוליונים שתי חלקות, אחת לו ואחת לאברהם בנו, ויצאו להתנחל על אדמתם שבקרבת הירקון ("בקבוצת הירקונים"). שכנו שנתים באוהל והתגוננו בשני האקדחים שברשותם, וערביי הסביבה, שהרגישו בכוחו של ר' אלתר, התיחסו אליו ביראת הכבוד ולא הצריכו להשתמש נגדם בנשק. הודות לחוסן גופו החזיק מעמד בכל התלאות והמחלות שתקפו את "הירקונים", עד שנתפזר הישוב ההוא. אח"כ הצטרף למחדשי הישוב פתח תקוה. עבד בפלחה וגם בסיוד הבתים שנבנו (על פי רוב בלבנים שעשה <persName>אברהם</persName> בנו), ולכן נקרא "ר' אלתר סייד". בהמלצת. <persName>ק. ז.</persName> <persName>ויסוצקי</persName> קיבל עזרה מ"חובבי ציון" שברוסיה, ובכסף קנה 4 שוורים ו-15 עזים והוא בנו המשיכו בעבודת הפלחה. אח"כ נתקבלו לרשימת ה-28 שהבארון <persName>בנימין</persName> <persName>רוטשילד</persName> פרש עליהם את חסותו. ובעזרתו קבלו כרם נטוע. קנו גם 4 דונמים אדמת בנין (בנפוליון אחד הדונם) במקום מרכזי (כיום רחוב חובבי ציון), בנו את בתיהם ובמשך הזמן הוסיפו עוד בנינים להשכיר. חוסן גופו נשתמר גם בזקנתו המופלגת. בכל- מקרה של התקפה ערבית היה נלחם להגנת המושבה בכח ובאומץ כאחד הצעירים, ובן 80 היה עוד רוכב על הסוס בלי אוכף. נשאר בדעה צלולה עד רגעיו האחרונים, כשנפרד מבני משפחתו ומידידיו, ונשאר יושב עד יציאת נשמתו.
+
+ נפטר בפתח-תקוה, כ"א תשרי (הושענא רבה) תרנ"ח.
+
+ צאצאיו (מאשתו-הראשונה): <persName>אברהם</persName> (ראה את הערך שלו בברך זה), <persName>צ'רנה</persName> אשת<persName> מנשה</persName> (אכר במטולה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1784 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1784</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 962 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/962</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה ברנשטיין</persName>
+
+</head>
+         <div><p> נולד בזכרון יעקב, י"ט אדר תרנ"ט (4.3.1899), לאביו<persName> מרדכי </persName> (מאכרי ראש פנה, טנטורה וזכרון יעקב) ולאמו <persName>חיה רחל</persName> . גמר בית-ספר עממי של חברת כי"ח (אליאנס) ואח"כ ביה"ס הריאלי בחיפה.
+
+ ביום 16.9.1919 נתקבל כפקיד במשרד הדואר של ממשלת הכיבוש הצבאית הבריטית בחיפה. ביום 7.3.1920 נתמנה למנהל משרד הדואר מטעם השלטון האזרחי בזכרון יעקב.
+
+ נשא לאשה את<persName> שולמית בת בנימין בלומנפלד</persName> מזכרון יעקב.
+
+ הצטיין בשרותו ועלה בדרגה והועבר למשרות גבוהות יותר ויותר לפי הרשימה דלהלן: מנהל הדואר בטבריה (מ-15.9.27), סגן מנהל הדואר ביפו (מ-1.11.30), סגן מנהל הדואר בחיפה (מ-1.5.34), מבקר בתי הדואר במחוז הדרום (מ-1.10.35), סגן מנהל הדואר בתל-אביב (מ-1.1.38 ), מנהל הצנזורה על הדואר והמברקים במלחמת-העולם השנית (מ-7.1.40), מנהל הדואר הראשי בחיפה (מ-12.3.44), מנהל הדואר הראשי בת"א (מ-11.2.45), מפקח על בתי הדואר במחוז המערב (מיום 10 לספטמבר 1946).
+
+ פעיל בחיי הצבור כחבר "בני ברית", התאחדות בני הישוב ומועדון רוטארי.
+
+ צאצאיו:<persName> נעם ; לאה ; עדנה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 962 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/962</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

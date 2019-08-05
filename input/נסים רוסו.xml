@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3594 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3594</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נסים רוסו</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ה שבט תרנ"ט (1899).
+
+ לאביו<persName> אהרן</persName> ולאמו פאלומבה (יונה) בת<persName> אברהם כהן.</persName>
+
+ קבל חנוך מסורתי בתלמוד תורה, וכללי בבי"ס "למל" ובבית מדרש למורים "העזרה" ואח"כ בבית מדרש למורים העברי בירושלים.
+
+ התנדב במלחמת העולם הראשונה לגדוד העברי הא"י 40 קלעי המלך, הראשון ליהודה.
+
+ בשנת 1923 נשא לאשה את <persName>יהודית</persName> בת <persName>אברהם משה</persName> <persName>רוטשטיין.</persName>
+
+ מינואר 1921 פקיד בממשלת פלשתינה (א"י) בתפקידים שונים: בנצרת, צפת וחיפה. התפקיד האחרון גזבר משנה בחיפה.
+
+ פקיד חשבונות ראשי בקונסוליה הכללית הבריטית בחיפה לתקופה של שנה אחת מיד עם קום המדינה.
+
+ חבר בועד המחוזי של פקידי המנדט, חיפה.
+
+ חבר בועד ההורים, בית ספר עממי א', חיפה.
+
+ אחת בלשכת בני ברית "הכרמל" חיפה.
+
+ יו"ר ועדת השומה בעירית חיפה.
+
+ חבר בית הדין למס עסקים בעירית חיפה.
+
+ צאצאיו :<persName> תבורה, אהרן, דרור.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3594 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3594</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 750 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/750</bibl><bibl>Volume: #2 ,Page: 751 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/751</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה פרידמן-לבוב</persName>
+
+</head>
+         <div><p> נולד בויטבסק, רוסיה הלבנה, בשנת תרמ"ד (7.2.1884), לאביו <persName>בנימין </persName> (חזן). קיבל חינוך מסורתי וכללי, ספג בבית אביו את שירת ישראל בתפלה בנוסח הדורות והצטיין מנעוריו בקול-זמרה ובתפיסה מוסיקלית. למד בקונסרבטוריון הממלכתי בפטרבורג מפי טובי המחנכים המוסיקליים והיה זמר באופירה הרוסית, השתתף עם<persName> ש. אניסקי</persName> באיסוף מנגינות-עם יהודיות ברוסיה. עיבד הרבה שירים עממיים והפיצם בקהל. באותו הזמן פעלו ברוסיה הקומפוזיטורים היהודים: <persName>קריין, מילנר, אחרון, גנסין, אנגל, רוזובסקי</persName> , שהתמסרו לטיפוח השירה העממית היהודית, והוא היה להם לפה ובהופעתו בקונצרטים לפני הקהל היהודי בכל רחבי רוסיה עזר בקולו לחבב את יצירות המוסיקה היהודית ולהפיצה בקהל, הופיע באספות תעמולה ציונית בשירים עבריים ואידיים שהלהיבו את הקהל למען ציון.
+
+
+ ואף בשנות הפרעות והרעב ומלחמת האזרחים עודד בזמרתו.
+
+ נשא לאשה את<persName> צפורה</persName> בת ר' <persName>אביגדור גרין</persName> מפלונסק, פולין (אחותו של <persName>דוד בן-גוריון </persName> יו"ר הנהלת הסוכנות היהודית).
+
+ ב-1920 עלה ארצה ויחד עם חברו הזמר יהודה הר-מלח הופיע בקונצרטים בערים ובמושבות. מאז המ
+
+ שיך בפעולתו בשרות הזמרה העברית כאמן ומורה למוסיקה בבתי-הספר בחיפה, מדריך זמרה בצבור, מנצח על מקהלה ומשקיע מרץ והתלהבות בכל מפעל אמנותי בחיפה. ממיסדי "המכון למוסיקה" בחיפה וסגן יו"ר הנהלתו, יו"ר אגודת אמנים למוסיקה ויו"ר אגודת המורים לזמרה בחיפה.
+
+ בתו<persName> רות </persName> (פסנתרנית ידועה, גמרה אקדמיה למוסיקה בוינה) היא אשת <persName>ישראל הילמן</persName> , בעל בית-החרושת לכלי אלומיניום "פאלאלום" ברמת-גן.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 750 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/750</bibl><bibl>Volume: #2 ,Page: 751 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/751</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

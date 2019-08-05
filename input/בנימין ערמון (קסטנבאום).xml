@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3718 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3718</bibl><bibl>Volume: #11 ,Page: 3719 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3719</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנימין ערמון (קסטנבאום)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ברלין</placeName> (גרמניה) כ' אב תרע"ח (29.7.1918).
+
+ לאביו ר' <persName>הלל קסטנבאום </persName> (סוחר בעל צדקה וירא שמים) ולאמו <persName>צפורה</persName> בת ר'<persName> יחיאל-מיכל שטינהרט</persName> מטרנובז'ג.
+
+ למד בגמנסיה ריאלית של ''עדת ישראל" של הקהילה האורתודוכסית ב<placeName>ברלין</placeName>, ובישיבת פרנקפורט דמיין.
+
+ בשנת תרצ"ו (1936) עלה לארץ במסגרת עלית הנוער ''בשדה-יעקב", תלמיד ישיבת הישוב החדש בתל-אביב, ממיסדי הקבוץ "עין הנציב" (אמונים).
+
+
+ היה מבין פעילי ההגנה.
+
+ עפ"י צו המוסדות המוסמכים התגייס לנוטרות.
+
+ נשא לאשה את<persName> חנה </persName> בת ר<persName>' משה פנחס רוטשילד,</persName> (סוחר ידוע מפרנקפורט דמיין). היתה מנהלת המוסד לנוער במשך 12 שנה.
+
+ בשנת 1944 יסד מוסד לילדים עולים "בנוה יעקב" סמוך לירושלים.
+
+ בימי מלחמת השחרור העביר תוך פיקוח נפש את המוסד עם הילדים ירושלימה.
+
+ השתתף במלחמת השחרור במערב ירושלים.
+
+ בשנת 1955 נקלטו חניכי המוסד למוסדות עלית הנוער אחרים. עבד כשנתיים כעוזר ראשי של מנהל "יד ושם" בירושלים.
+
+ מנהל וכימאי של התאטרון הירושלמי וכן מארגן כינוסים ועצרות צבוריים, וחוגים דרמטיים בבתי ספר שונים.
+
+ צאצאיו :<persName> שרה-רוחמה, הלל דן, מאיר ישעיהו</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3718 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3718</bibl><bibl>Volume: #11 ,Page: 3719 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3719</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3798 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3798</bibl><bibl>Volume: #11 ,Page: 3799 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3799</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר טרודה וייס-רוזמרין</persName>
+
+</head>
+         <div><p> נולדה בפרנקפורט (גרמניה) י"ח תמוז תרס''ח (17.6.1908).
+
+ לאביה<persName> יעקב </persName> ולאמה<persName> סלסטין</persName> .
+
+ קיבלה חינוך מסורתי וכלל.
+
+ עזבה את גרמניה לארצות הברית בשנת 1931.
+
+ בשנת 1931 קיבלה באוניברסיטה וירצבורג תואר Ph.D.
+
+ משנת 1939 המו"ל ועורכת הירחון The Jewish Spectator.
+
+ ירחון רציני זה אינו מרבה במודעות, והוא חדר לכל בתי הקוראים המשכילים. One of the most widely read Anglo-Jewish Journals. An erudite and prolific Author, her writings range the wide gamut of Jewish life. ''Her philosophical book "Religion of Reson )1936( and her "The Hebrew Moses: An Answer to Sigmund Freud" )1939( have won the acclain of leading scholars. Among her
+
+ books of more topical interests are : "Judaism ,(1943)And Christianity : The Differences'' ,(1950)"Jewish Survival" )1949(, "Jerusalem" and "Jewish Women Through The Ages", .(1940)"Highlights Of Jewish History" She serves on the editorial boards of the American Jewish Congress, B'nai Brith, and the Jewish Agency. Widely travelled and a
+
+
+ irequent sojourner in Israel. She knows personally most of the distinguished leaders and thinkers who make contemporary Jewish History.
+
+ Her popularity as a speaker bar and wide have earned her the title, First Lady of the Jewish lecture platorm.
+
+ Scholar, Author, Editor &amp; Lecturer.
+
+ Contributor to: Encyclopedia Judaica; Encyclopedia of the Social Sciences; Magazines. בנה : <persName>משה רוזמרין</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3798 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3798</bibl><bibl>Volume: #11 ,Page: 3799 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3799</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

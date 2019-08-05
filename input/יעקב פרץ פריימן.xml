@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3295 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3295</bibl><bibl>Volume: #9 ,Page: 3296 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3296</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב פרץ פריימן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וורשא</placeName> (פולין), ה' שבט תרי"א (1851). לאביו<persName> יוסף צבי </persName> ולאמו <persName>צירל </persName> בת <persName>יוסף הירש.</persName>
+
+ קבל חינוך מסורתי וגמר בהצלחה את הגמנסיה הרוסית בוורשה, וכן בית ספר גבוה למסחר.
+
+ עבד כמנהל חשבונות בבית חרשת לצוקר ואח''כ נהיה סוחר לעצמו.
+
+ נשא לאשה את <persName>שפרה</persName> בת <persName>שלמה כהן.</persName>
+
+ בשנת תרמ"ב (1882) עלה לארץ יחד עם אחיו<persName> אהרן</persName> <persName>מרדכי</persName> .
+
+ חבר "ועד חלוצי יסוד המעלה", ואחד מעשרת הראשונים שעלו על אדמת "עין-הקורא" (עין קרע) ויסדו עליה את המושבה ראשון-לציון.
+
+ כעבור חדש וחצי יצא לחו"ל, לחסל שם את עסקיו וחזר לארץ, ועמו אשתו ושלשת ילדיו. וכן אשת אחיו הנ''ל וששת ילדיה.
+
+ קשה היה לו ולמשפחתו להתאקלם בארץ. כעבור שנה עזב את הארץ עם משפחתו - לוורשה.
+
+ בשנת תרנ''א (1891) חזר עם המשפחה ויתישב ביפו. ניהל את המחסן לצרכי רפואות של <persName>אפשטיין.</persName>
+
+
+ כעבור זמן קצר עבר לראשון לציון. אחרי נפתולים רבים נאלץ לעזוב שנית את הארץ, ובשנת תרנ"ד (1894) חזר לוורשה.
+
+ בתו<persName> רבקה</persName> שנישאה שנתים לפני זה להמורה <persName>שלמה</persName> <persName>אבולעפיה</persName> , נשארה בארץ, (ראה כרך א', עמוד 491).
+
+ נפטר ב<placeName>וורשא</placeName>, כ"א אדר הר"פ (11.3.1920).
+
+ בנו <persName>משה</persName> נפטר במושבה.
+
+ בתו <persName>לאה</persName> נפטרה בארץ.
+
+ בנו <persName>אברהם</persName> חזר בשנת תרס"ט (1909) לארץ, ועבד כמזכיר בועד הראשון של "אחוזת בית" (תל-אביב). נפטר י"ז שבט תרע"ה.
+
+ בנו <persName>דוד </persName> ובתו<persName> שרה גולדברג</persName> נהרגו ע''י הנאצים בפולניה .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3295 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3295</bibl><bibl>Volume: #9 ,Page: 3296 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3296</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

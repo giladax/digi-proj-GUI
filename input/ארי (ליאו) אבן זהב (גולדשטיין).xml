@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 383 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/383</bibl><bibl>Volume: #1 ,Page: 384 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/384</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ארי (ליאו) אבן זהב (גולדשטיין)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>גראייבו</placeName> (פולין) בי"ח כסלו תר"ס, לאביו: <persName>שמואל ברוך,</persName> סוחר, ולאמו<persName> חיה</persName> . קיבל חינוך יהודי לאומי, ועוד מילדותי ספג בבית הוריו את החיבה לציון, כי באותה אוירה התכוננה אז סבתו לעלות לארץ-ישראל (לאחר זמן עלתה כל המשפחה). בעודו תלמיד בית-הספר התיכוני התחיל מארגן חוג עברי ובעתון החוג, "הנוער", פרסם את שיריו הראשונים.
+
+ אחרי מלחמת-העולם הראשונה נסע ללמוד באוניברסיטת לייפציג, ובשנת תרפ"ב הפסיק את לימודיו שם, כדי לעלות ארצה, והשתקע בירושלים. כאן נתמנה למזכיר האוניברסיטה העברית בשנת תרפ"ד (שנה לפני פתיחתה) ושימש בתפקיד המזכיר האקדמי שלה עד תש"ו. בתפקיד זה נסע פעמים רבות לארצותחוץ, ובמסעיו נאם והרצה ועשה תעמולה למען ארץישראל ועזר לנוער לעלות ארצה. 
+
+
+ נוסף לעבודה זו שרת את התחיה כסופר ומשורר. שלשה ספרי שיריו הקדיש לירושלים ולהערצתה כעירהנצח של האומה, והם: "בתוככי ירושלים" (תרפ"ז), "בשער עמי ירושלים" (תרפ"ח), "את' ירושלים" (ת"ש) וגם את הדרמה "יום ירושלים" (ביטוי אוראטורי לאבלי ציון ולגעגועיהם בכל הדורות ובכל הגלויות). עוד בלייפציג בשנת תרפ"א כתב את הרומן "מגנזי נשמה" ובתרפ"ה הדפיסו בירושלים. כאן פרסם את הרומן ההיסטורי "ימי דוד", את המחזה הטראגי "הבל" על הרצחנות האנושית מראשיתה ובכל הדורות.
+
+ לבעיות האנושות ולבטיה הקדיש את ספריו "אגדת החיים" ו"המלחמה על הגבול". להקמת מצבת-זכרון להווי יהודי שעבר או עובר מן העולם חיבר טריולוגיה פולקלוריסטית, בשילוב מציאות ודמיון, על שלשה נושאים: "אלה מסעי הזפתים", מחיי היהודים בעיר הולדתו; "ששים שנה ושנה"' מחיי ירושלים ועגלוניה עד שהמנוע הוריש את הסוס מעל דרכי הארץ; ו"בסוד עניי הכותל", מחיי העוני של בני עדות המזרח בירושלים.
+
+ מאורעות הדמים, הדיכוי והמלחמה דובבו את עטו לכתיבת הסיפור האוטופי "שמים מאסו הבונים", הסיפור "בצלו של צלב הקרס" על עינויי היהודים בווינה ובבורגנלנד, והרומן "אדם וספינה" על הטראגדיה היהודית ומקומה באסון האנושות כולה.
+
+ בשביל הנוער כתב את הספרים "אלה מסעי דן" (הרפתקאות נער בישראל בימי מלחמה זו עד הגיעו ארצה) ו"מה מליל" על הגיגי ילדי ישראל לנתונים לטבח בגולה ונושאים את נפשם אל הארץ.
+
+ נגד המגמה האנטישמית שבמחזה "שיילוק" של שכספיר כתב רומן בשם "שיילוק היהודי מויניציה" וגם מחקר על הנושא הזה. כן כתב מחקרים על נושאים אמנותיים אחרים, ביניהם ספר שלם על חמיצר הפסל היהודי.
+
+ כמה משיריו ומסיפוריו הופיעו גם בתרגומים בשפות לועזיות שונות.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 383 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/383</bibl><bibl>Volume: #1 ,Page: 384 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/384</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5462 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5462</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה יעקב גרוס</persName>
+
+</head>
+         <div><p> נולד במאסיב (הונגריה), כ"ד כסלו תרס"ט (16.12.1908).
+
+ לאביו<persName> אברהם עבר גרוס</persName> ולאמו <persName>רבקה</persName> בת <persName>אברהם</persName> <persName>יוסף לקס</persName> (ממשפחת רבנים ובית חסידים).
+
+ קיבל חינוך מסורתי בחדר ובישיבה. למד בבי"ס לעיתונות.
+
+ עסק בעיתונות.
+
+ בשנת תרצ"ו (1936) נשא לאשה את <persName>מרים</persName> בת <persName>מרדכי איינהורן</persName> (נספתה עם שני הילדים באושביץ בשנת תש"ד-1944) ובזיווג שני, נשא לאשה בשנת תש"ז-1947 את <persName>הניה,</persName> אחותה של הזיווג הראשון.
+
+ היה המזכיר הכללי של "אגודת ישראל" בטרנסיל
+
+ בניה. הקמת חוות הכשרה לנוער אגודת ישראל, מוסדות לילדים שרידי השואה.
+
+ בשנת תש"י (1950) עלה לארץ.
+
+ מיוזמי הקמת רשת בתי-ספר מקצועיים של אגודת ישראל, "קרית אגודת ישראל" בבני-ברק, שיכון לעולי הונגריה שעלו לארץ אחרי המהפכה בבודפסט 1956.
+
+ עיתונאי באידיש ובעברית (בעיתון היומי "המודיע" בירושלים.
+
+ חבר הכנסת (ציר מטעם אגודת ישראל).
+
+ כיום, המזכיר הכללי של אגודת ישראל.
+
+ צאצאיו:<persName> רחל</persName> אשת הרב<persName> י. צ. וולגר</persName> (בן הרב <persName>נחום דב</persName> , הרב באשקלון), <persName>אברהם עבר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5462 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5462</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

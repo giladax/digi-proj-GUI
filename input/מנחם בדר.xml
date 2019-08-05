@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1486 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1486</bibl><bibl>Volume: #3 ,Page: 1487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1487</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם בדר</persName>
+
+</head>
+         <div><p> נולד בדוקלה, מערב גליציה, פולין, בשנת תרנ"ו (20.9.1895), לאביו<persName> יוסף אהרן</persName> ולאמו <persName>חוה</persName> בת <persName>שמואל</persName> <persName>יהודה לאנגר.</persName> קיבל חינוך יהודי וכללי, גמר גימנסיה
+
+
+ ולמד משפטים באוניברסיטה והיה פעיל בתנועות נוער ציוניות-סוציאליסטיות.
+
+ עלה לארץ ביום 20.11.1920 והצטרף לארגון ההתישבותי של קיבוץ מזרע ועבר אתו את השלבים של עבודה שכירה והתנחלות על הקרקע.
+
+ ב-1921 נשא לאשה את <persName>דבורה</persName> בת <persName>בן-ציון דוצלזון.</persName>
+
+ עם השתתפותו בעבודה ובחיי המשק של הקיבוץ נדרש יותר ויותר להקדיש מזמנו לשרות הצבור בהסתדרות, בתנועה ובמפלגה. היה חבר המרכז החקלאי, חבר הועד הפועל של ההסתדרות, מרכז כללי של הקיבוץ הארצי השומר הצעיר, מנהל מפעלי תעשיה של הקיבוץ הארצי, יו''ר קרן ביטוח של פועלי בנין, ועוד. וכן היה ציר בשבעה קונגרסים ציוניים ונבחר לסגן-חבר הועד הפועל הציוני, חבר הועד הפועל של הקיבוץ הארצי, חבר מרכז מפלגת הפועלים המאוחדת (מפ"מ), חבר הועדה התקציבית של הסוכנות היהודית וחבר הנהלת חברת השיכון הלאומית.
+
+ יצא לשליחויות הצלה לארצות הכיבוש ההיטלראי ובשליחות ועד ההצלה הישובי נסע לאיסטמבול (תורכיה) במלחמת העולם השניה.
+
+ עם יסוד הממשלה הזמנית של מדינת ישראל נתמנה למנהל כללי של משרד העבודה והבינוי ולראש מינהל כה האדם, שבראשו עומד השר מרדכי בנטוב.
+
+ בכ"ד טבת תש"ט נבחר לציר לאספה המכוננת (הכנסת) מטעם רשימת מפ"מ ועבודתו הופסקה בהתאם לחוקת הבחירות.
+
+ פרסם מאמרים ב"הפועל הצעיר", "דבר", "על המשמר" וכן בעתונות אמריקאית וגרמנית בשאלות חברתיות כלכליות.
+
+ חיבר את המחזות "פועלים במצור", "הנשף", "עליה ב', "חיים" - שפורסמו בהוצאת "השומר הצעיר" ו"ספרית פועלים".
+
+ בתו:<persName> תמר</persName> אשת <persName>זאב אלוני.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1486 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1486</bibl><bibl>Volume: #3 ,Page: 1487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1487</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

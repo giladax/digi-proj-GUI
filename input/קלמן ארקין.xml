@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3147 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3147</bibl><bibl>Volume: #8 ,Page: 3148 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3148</bibl>
+<bibl>Volume: #8 ,Page: 3149 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3149</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>קלמן ארקין</persName>
+
+</head>
+         <div><p> נולד ברוזנוי, פלך גרודנה (פולין) בשנת תרל"ח (1878).
+
+ לאביו צבי (ראה כרך א', עמוד 404) ולאמו<persName> חנה</persName> בת <persName>אברהם שלמה.</persName>
+
+ קבל חנוך מסורתי.
+
+ נשא לאשה את <persName>דבושה</persName> בת <persName>יהודה לובוב </persName> (נפטרה בעקרון, באדר תשי"ג).
+
+ בשנת תרמ"ג עלה (והוא בן חמש שנים) לארץ עם בני משפחתו.
+
+ הוריו היו מראשוני מיסדי המושבה "מזכרת בתיה" (עקרון).
+
+ בגיל צעיר החל לעזור למשק המשפחה, וכל ימיו הוא חקלאי, עובד אדמה מסור.
+
+ בהתחלה עסק בעיקר בפלחה, אח"כ נטע פרדס ועצי פרי.
+
+ צאצאיו:<persName> צביה</persName> אשת<persName> ישראל דננברג, רחל</persName> אשת <persName>נתנאל רודבסקי, שרה </persName> אשת <persName>יוסף סובלמן, מרים</persName> אשת <persName>יהודה שפירא, מנחם, צבי, יוחנן.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3147 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3147</bibl><bibl>Volume: #8 ,Page: 3148 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3148</bibl>
+<bibl>Volume: #8 ,Page: 3149 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3149</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

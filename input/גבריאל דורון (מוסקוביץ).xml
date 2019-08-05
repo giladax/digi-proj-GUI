@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5335 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5335</bibl><bibl>Volume: #18 ,Page: 5336 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5336</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גבריאל דורון (מוסקוביץ)</persName>
+
+</head>
+         <div><p> נולד ברחובות, י"ג שבט תרע"ד (9.2.1914).
+
+ לאביו ד"ר<persName> הרמן מוסקוביץ</persName> (רופא ידוע ברחובות והמושבות. ראה כרך שמיני, עמוד 3132) ולאמו <persName>פרידה</persName> בת <persName>אלברט שטרס.</persName>
+
+ קיבל חינוך עברי בגימנסיה העברית "הרצליה" בתל-אביב.
+
+
+ נשא לאשה את פיי בת קלמן קלונימוס אורגל.
+
+ כל השנים היה חבר ההגנה עד להקמת צה"ל.
+
+ בשנים 1942-46 מפקד פלוגה א"י בחיל הציוד המלכותי בצבא הבריטי.
+
+ בשנת 1947 בשליחות "קרן היסוד" בארצות הברית.
+
+ בשנים 1948-49 רב סרן (רס"ן) בצה"ל.
+
+ בשנים 1949-51 מזכיר ראשון וקונסול באוסטרליה.
+
+ בשנים 1951-53 מנהל מחלקת המנגנון במשרד החוץ.
+
+ בשנים 1953-56 קונסול ישראל בהודו.
+
+ בשנים 1956-59 כיהן כקונסול כללי בברית אפריקה הדרומית וביחוד ברודזיה וניאסלנד.
+
+ בשנים 1960-64 הושאל לשירות השידור כמנהל התוכניות המסחריות של הגל הקל בארץ.
+
+ בשנים 1964-65 היה מנהל לשכת נשיא המדינה בירושלים.
+
+ משנת 1965 עד אוקטובר 1968 היה ציר ישראל בברזיל.
+
+ מאוקטובר 1968 ציר ישראל (מוסמך) בקובה.
+
+ בתו:<persName> אביטל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5335 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5335</bibl><bibl>Volume: #18 ,Page: 5336 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5336</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

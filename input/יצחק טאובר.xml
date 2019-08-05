@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4515 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4515</bibl><bibl>Volume: #14 ,Page: 4516 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4516</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק טאובר</persName>
+
+</head>
+         <div><p> נולד בצרפקויץ (בוקובינה, כיום רומניה) ג' אלול תרס"ז (12.8.1907).
+
+ לאביו <persName>אליעזר</persName> (סוחר ות"ח) ולאמו <persName>לאה</persName> בת <persName>ישעיהו גרוס.</persName>
+
+
+ קיבל חינוך מסורתי וכללי.
+
+ היה חבר פעיל בהסתדרות הציונית והיה בין מיסדי תנועת הפועלים של "הפועל המזרחי" בגוראהומרו (בוקובינה - רומניה)
+
+ היה מרכז התנועה במחתרת במחנה ריכוז טראנסניסטריה ומנהל בית יתומים והדריך את הנוער לעליה והעביר אותם בכל מיני דרכים לארץ.
+
+ נשא לאשה את<persName> שרה</persName> בת הרב<persName> יהושע אידלשטיין.</persName>
+
+ עלה לארץ בשנת 1947.
+
+ עבד כמנהל חשבונות.
+
+ בשנת 1948 נתקבל כפקיד במחלקת העליה של משרד הפנים בת"א.
+
+ בשנת 1961 נתמנה למנהל הלשכה המחוזית לעליה מרשם במשרד הפ1ים בת"א.
+
+ חבר בועדה צבורית ע"י עירית גבעתיים.
+
+ חבר מועצת הסניף של המפלגה הדתית-לאומית.
+
+ בתו: <persName>זהבה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4515 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4515</bibl><bibl>Volume: #14 ,Page: 4516 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4516</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

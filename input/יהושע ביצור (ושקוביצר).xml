@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3119 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3119</bibl><bibl>Volume: #8 ,Page: 3120 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3120</bibl>
+<bibl>Volume: #8 ,Page: 3121 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3121</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהושע ביצור (ושקוביצר)</persName>
+
+</head>
+         <div><p> נולד בכ"ט בטבת תרפ"ו (14.1.1926) בוינה בירת אוסטריה.
+
+ לאביו<persName> יעקב ואשקוביצר</persName> ולאמו<persName> רחל </persName> בת<persName> אברהם</persName> <persName>ואלפיש.</persName>
+
+ אחרי למדו שנים אחדות בבית-הספר היהודי בוינה עלה ארצה (עם המשפחה) (בעלית הנוער) ב-1939. כאן המשיך ללמוד ואחרי גמר לימודיו שירת בנוטרות.
+
+ יצא להשתלמות ולמד באוניברסיטת ניו-יורק.
+
+ חזר לארץ והמשיך את השתלמותו באוניברסיטה העברית בירושלים.
+
+ שירת בחי"ש וצה"ל.
+
+ נתמנה למורה בבית-הספר בראשון לציון ופעל גם בתור כתבו של "מעריב" בדרום, ואח"כ סופרו של "מעריב" בירושלים.
+
+ ב-1952 נשא לאשה את <persName>צביה </persName> בת <persName>משה ורטהיימר.</persName> בנו:<persName> אברהם.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3119 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3119</bibl><bibl>Volume: #8 ,Page: 3120 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3120</bibl>
+<bibl>Volume: #8 ,Page: 3121 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3121</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4693 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4693</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ליב קלימן</persName>
+
+</head>
+         <div><p> נולד בלודז (פולין) בשנת תרנ"ג (24.8.1893). לאביו<persName> משה אהרן קלימן</persName> ולאמו<persName> אסתר</persName> בת <persName>שמואל רייס</persName> . קיבל חינוך מסורתי וכללי.
+
+ היה פעיל ותורם במוסדות צבוריים. בביתו ניהל מרכז התנהגה הציונית את עבודתו.
+
+ יחד עם אחיו <persName>דוד יצחק</persName> (ראה ערכו בעמוד הבא) הגדילו את בית החרשת לטקסטיל <persName>מ. קלימן</persName> שנוסד ע"י האב בלודז. בית החרושת העסיק אלפי פועלים.
+
+ נשא לאשה את <persName>איטה</persName> בת <persName>גבריאל רייבנבאך.</persName>
+
+ ב-2.6.1940 עלה לארץ.
+
+ עוד בשנת 1934 רכש אחיו<persName> דוד יצחק</persName> (בביקורו הראשון בארץ) ברחובות ואח"כ רכשו האחים 3 בתים בת"א ובן מגרשים במקומות שונים.
+
+ בשנת 1943 הקימו בסלמה ליד תל-אביב. בית חרושת לטקסטיל בשם "צלקטקס".
+
+ ידוע כבעל צדקה וגמ"ח.
+
+ צאצאיו : <persName>הניה הינדה</persName> אשת העו"ד <persName>ישראל הייג</persName> (בניהם: <persName>מיכאל גבריאל</persName> ). ד"ר <persName>אברהם מאיר קלימן</persName> (צאצאיו: <persName>דן, יעל).</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4693 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4693</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

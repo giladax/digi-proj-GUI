@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1437 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1437</bibl><bibl>Volume: #3 ,Page: 1438 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1438</bibl>
+<bibl>Volume: #3 ,Page: 1439 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1439</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה שמואל קרצ'מר</persName>
+
+</head>
+         <div><p> נולד בביאליסטוק, פולין, בשנת תרכ"ט (1869), לאביו<persName> אברהם</persName> (סוחר באריגים) ולאמו <persName>לאה.</persName> אחרי למדו בחדרים ובישיבות עלה ארצה בשנת תרמ"ד עם הוריו ושלש אחיותיו. אביו פתח ביפו
+
+ בית-מסחר לאריגים והחל את עסקו בסחורות שהביא עמו מביאליסטוק. כשנתים עזר לאביו במסחרו, ואחרי שאביו עבר לירושלים (בגלל שריפת חנותו ביפו בידי מתנגדים אלמונים, שלא יכלו לסבול את דברי תוכחתו), יצא משה שמואל לעבוד כפועל חקלאי
+
+
+ בפלחה בפתח תקוה ובשעות הפנאי המשיך להשתלם בלימודי תורה ביהודיה אצל הרב: <persName>אהרן אורלאנסקי,</persName> רבה הראשון של פתח תקוה (ראה כרך א', עמוד 185).
+
+ נשא לאשה את <persName>פריידה גיטל </persName> בת<persName> גדליה מיכל</persName> <persName>פיינשטיין</persName> (תלמיד-חכם, מגזע רבנים, מפעילי חובבי ציון בעירו בחו"ל - ראה בערך שלו בכרך זה). ואחרי שנפטרה בפתח-תקוה, כ"ה טבת תר"ס, נשא בזיווג שני את <persName>רחל</persName> בת<persName> נתן בוכואלד</persName> .
+
+ אחרי עבודה כפועל אצל אכרים נתקבל לעבודה קבועה בשדות הפלחה של הבארון בנימין רוטשילד, ואח"כ כפקיד במשרד של פקידות הבארון שעברה אח"כ להנהלת חברת יק"א ואח"כ פיק"א ושירת במשך חמשים שנה כמפקח על רכוש החברה בפתח תקוה, ובאותו הזמן עבד במשקו הפרטי רק בפלחה, ואחרי שיצא לפנסיה נטע פרדס, בהיותו מומחה לפרדסנות עוד מקודם, כשפיקח על פרדסי פיק"א.
+
+ עסק בצרכי צבור כחבר ועד המושבה ובמלחמת העולם הראשונה טיפל בחלוקת החטים שבגליל. מהגבאים הראשונים של גמילות חסדים "זכרון מרדכי" (על שם הרב <persName>מרדכי גימפל יפה</persName> ).
+
+ נפטר בפתח תקוה, כ"ח אדר ב' תש"ו.
+
+ צאצאיו: (מאשתו הראשונה); <persName>גדליה מיכל </persName> ז"ל, <persName>חיה רבקה</persName> אשת <persName>יעקב ואכטנברג, שרגא</persName> (מהפירמה <persName>סלונים את קרצ'מר</persName> בת"א), <persName>דבורה</persName> אשת <persName>יצחק גראף</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1437 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1437</bibl><bibl>Volume: #3 ,Page: 1438 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1438</bibl>
+<bibl>Volume: #3 ,Page: 1439 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1439</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

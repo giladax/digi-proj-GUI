@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2251 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2251</bibl><bibl>Volume: #5 ,Page: 2252 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2252</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק חסקין</persName>
+
+</head>
+         <div><p> נולד בא' תמוז תרס"ה (20.6.1905) בקראקינובה שבליטא לאביו ר' <persName>משה</persName> , רב הקהלה, ולאמו <persName>חנה </persName> בת <persName>יהודה</persName>
+
+<persName>רבינוביץ'</persName> . אחרי הכנה בחדרים ומפי אביו למד בישיבת סלובודקה, ובעת גירוש היהודים ממחוזות הספר בראשית מלחמת העולם א' עבר לפרילוקי שבאוקראינה, שם נתקבל אביו לרב ראשי, והמשיך את לימודיו בישיבת לומז'ה שגלתה לעיר זו. ב-1922 נתקבל אחרי בחינות לפוליטכניקום בקיוב ולמד בו שנתיים, והיה פעיל במחתרת בתנועה המאוחדת של הנוער הציוני. ב"אשמה" זו נאסר והתגלגל קרוב לשנה בבתי-הכלא בפרילוקי, פולטאבה וחארקוב. נדון לגירוש לאוראל הצפוני לשלש שנים, אך ניתנה לו רשות להחליף את העונש בויתור על נתינותו הרוסית ויציאה מרוסיה לצמיתות.
+
+ בברירה זו השתמש בשמחה רבה ובהשתדלות <persName>בנימין</persName> <persName>וסט</persName> , מאסירי ציון שעלה ארצה קודם לכן, קיבל סרטיפיקט וב-1925 עלה ארצה והשתקע ברחובות. התחיל לעבוד כפועל בחבורת "הדרום" והצטרף לקבוצת "השחר" שעיבדה את אדמת רוחמה ב-1926. ב-1927 יסד עם כמה חברים את הארגון להתישבות אינטנסיבית, שהתנחל ב1933 במושב כפר בילו שליד רחובות.
+
+ בשנות עבודתו ברחובות היה מפעילי סניף "הפועל הצעיר" וציר בכל ועידות המפלגה, ציר בועידת היסוד
+
+
+ של מפא"י וביתר ועידותיה וחבר מרכז, ציר בכל ועידות ההסתדרות מהשלישית ואילך, ממיסדי מועצת פועלי רחובות, ב-1940 מזכיר לשכת העבודה ברחובות, מ-1942 מזכיר המחלקה המוניציפלית של ההסתדרות, מ-1944 חבר מזכירות ועדת הבקורת בועה"פ של ההסתדרות, ומ-1949 חבר הועדה המרכזת של ההסתדרות וגזבר הועה"פ של ההסתדרות. חבר ה"הגנה" משנת 1929 ואילך וחבר המפקדה המחוזית לאזור הדרום בשנות 19301940. במלחמת השחרור השתתף בקרבות מבצע "עשר מכות", בסתיו 1948.
+
+ ב-1928 נשא לאשה את <persName>נחמה </persName> בת <persName>יצחק קרבן.</persName>
+
+ פרסם מאמרים ב"דבר'', "הפועל הצעיר" ו"הדור".
+
+ צאצאיו;<persName> יגאל</persName> (פלמ"חאי, ממגיני בית אשל),<persName> חנה,</persName> <persName>אפרים, נורית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2251 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2251</bibl><bibl>Volume: #5 ,Page: 2252 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2252</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1470</bibl><bibl>Volume: #3 ,Page: 1471 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1471</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דן בריל</persName>
+
+</head>
+         <div><p> לאביו<persName> חיים צבי </persName> (שעלה לארץ בשנת תרמ"ב, היה אכר בזכרון יעקב, מומחה לגפנים, נפטר בת"א, ט"ז תמוז תרפ"ו) ולאמו<persName> פסה</persName> בת <persName>מנחם דב</persName> מפריז (נפטרה בפריז, ד' טבת תר"ץ והובאה לקבורה בת"א).
+
+ נולד בקאב (רומניה), בשנת תר"כ (1860). קיבל חינוך מסורתי וכללי.
+
+ עלה לארץ עם הוריו ואחיו אברהם בשנת תרמ"ב (1882), נשלח ע"י הברון רוטשילד לצרפת והשתלם בחקלאות בבית הספר של מונפלייה, ואח"כ חזר לארץ כפקיד היק"א.
+
+ עד שנת תרנ"ו (1896) היה מנהל נטיעת הגפנים בזכרון-יעקב, עבר לראשון לציון במקום יואל (ז'ול) רוזנהק שעבר לזכרון יעקב.
+
+ היה חבר הועד של בית העם (הראשון בארץ) בראשון לציון.
+
+
+ כעבור כמה שנים עבר למתולה, כבא כח היק"א והבארון
+
+ בסוף ימיו עבר לפריז ועסק במסחר.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1470</bibl><bibl>Volume: #3 ,Page: 1471 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1471</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

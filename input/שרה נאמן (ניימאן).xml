@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 517 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/517</bibl><bibl>Volume: #1 ,Page: 518 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/518</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שרה נאמן (ניימאן)</persName>
+
+</head>
+         <div><p> נולדה בירושלים, ט"ו אב תרל"ב (1872), לאביה <persName>זרח (אלתר) מושלי</persName> , ממשפחה ותיקה ומכובדת בארץ (אחיה הוא <persName>יעקב מושלי </persName> שעבד במשך שנים רבות כמהנדס הרכבות בארץ). בגיל שנתים עברה עם הוריה ליפו, שהיו כאן בין ראשוני הישוב האשכנזי ומניחי היסוד לגידול הישוב העברי בעיר החוף, שנועדה להיות "שער ציון".
+
+ נישאה <persName>לאבא נאמן</persName> , מבעלי התעשיה הראשונים ביפו. נטלה על עצמה חלק מעול הפרנסה ויסדה בית-מסחר למנופקטורה וניהלה אותו בהצלחה ובכבוד.
+
+ אולם חוץ מניהול הבית והמשפחה ובית-המסחר טיפלה בעניני צדקה וחסד. היתה פעילה בלשכת "תלאביב" של "בנות ברית" (ובמשך זמן מסוים היתה גם נשיאתה), בארגון "בנות ציון", באגודות להחזקת מוסדות חסד (כגון: האגודה לעזרת חולי-רוח, האגודה להח
+
+
+ זקת בית יתומים ויתומות על שם<persName> בלובשטיין</persName> , וכדומה) וכן בפעולה המיוחדת לעזרת רעבים במלחמת-העולם הראשונה. קשה למצוא מוסד-חסד בתל-אביב או בירושלים, שבפנקסיו לא יהיה רשום איזה אקטיב לזכותה - בתרומה, בהתרמה או באיזו עזרה או השתדלות בפעולתו הרגילה או לספק איזה צורך מיוחד (השלמת בנין, ציוד, המלצה, השתדלות, וכדומה). כך, למשל, כאשר בית-הכנסת בכפר-יחזקאל היה זקוק לתיקונים ולהשלמה השפיעה היא על הגביר
+
+<persName>ששון</persName> מבגדאד שיבקר במושב ויראה במו עיניו את הצורך ויפתח את ידו לעזרה. כן השתתפה ביסודו ובהחזקתו של בית-הספר המקצועי לנשים מיסודה של אגודת נשים עבריות ובפעולות ארגוני נשים להפצת השפה העברית.
+
+ תוך פעילות זו גידלה והשיאה בנים ובנות (בין חתניה: הסופר <persName>משה סטבסקי</persName> , עורך-הדין <persName>יזהר</persName> <persName>הררי</persName> , מפקח החינוך הגופני <persName>יהושע אלוף)</persName> , והשתתפה עם בעלה ביסוד תל-אביב ובפעולות צבוריות וחברתיות.
+
+ כשמלאו לה 70 שנה בשנת תש"ב ערכה לשכת "בנות ברית" מסיבה לכבודה והובעו לה ברכות רבות ממוסדות ומאישים בע"פ ובכתב.
+
+ מטעמי בריאות עזבה אח"כ את תל-אביב, מסרה את בית-מסחרה לבנה<persName> עזרא</persName> ולבתה<persName> יוכבד</persName> ועלתה עם בעלה להתישב בירושלים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 517 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/517</bibl><bibl>Volume: #1 ,Page: 518 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/518</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

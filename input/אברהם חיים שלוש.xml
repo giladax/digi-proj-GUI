@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 504 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/504</bibl><bibl>Volume: #1 ,Page: 505 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/505</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם חיים שלוש</persName>
+
+</head>
+         <div><p> נולד ביפו בשנת תרכ"ז (1867), בן בכור לאביו ר'<persName> אהרן שלוש </persName> (שעלה ארצה מאורן שבאלג'יריה, בן 11 עם אביו ר'<persName> אברהם)</persName> ולאמו <persName>שרה</persName> בת <persName>ברוך</persName> <persName>מצליח</persName> (שעלה מבגדאד והתישב ביפו). שמו נקרא בישראל<persName> אברהם</persName> על שם אבי אביו, ובעת מחלתו בילדותו הוסיפו לו את השם<persName> חיים</persName> .
+
+ למד תורה מפי המלמדים-הרבנים<persName> יעקב בוסקילה</persName> <persName>ושלמה בחבוט</persName> ורכש ראשית השכלה כללית בביתהספר הגרמני ביפו, ובשנת תרמ"ד נסע ללמוד
+
+ בבירות במוסד החינוכי "תפארת ישראל" של חכם <persName>זכי כהן</persName> , בו למדו לימודי יהדות, ערבית וצרפתית והשכלה כללית.
+
+ בתרמ"ח נשא לאשה את <persName>שרה</persName> (שרינה) בת<persName> יצחק</persName> <persName>אלבז.</persName>
+
+ עסק במסחר תבואות, בעיקר בשעורים, ובעונות הקציר והדיש היה יושב בעזה, קונה מבידואי הנגב את יבולם ושולח מטעני שעורים באניות מיוחדות
+
+
+ לאנגליה. אח"כ יסד בשותפות עם אחיו <persName>יוסף אליהו</persName> את הפירמה "האחים שלוש" ביפו למסחר בחמרי בנין ולתעשית מרצפות וחמרי בנין מקומיים בביתהחרושת שהקימו בנוה צדק ועסקו גם בקבלנות בנין. הם בנו את בתי הספר לבנות וכי"ח בין נוה צוק לנוה שלום, את הגימנסיה הרצליה, את הבנינים הראשונים בשכונת "אחוזת בית" (היא תלאביב), וכן עסקו בבנין השכונה הזאת גם בישור החולות ובסלילת כבישים והשתמשו במכשירים שלפני כן לא היו נהוגים בארץ. גאלו קרקעות והקימו בגבול תל-אביב שכונות לתימנים ולמחוסרי אמצעים בתשלומים לזמנים ארוכים.
+
+ היה אדם צנוע ונוח לבריות, בעל קשרים טובים עם נכבדי המושלמים והנוצרים, ולא פעם השתמש בהשפעתו עליהם לטובת הישוב. נפטר בתל-אביב, י' תמוז תרפ"ה, ונקבר בבית
+
+ העלמין הישן.
+
+ צאצאיו: <persName>מרקו, זכי </persName> (אדריכל בתל-אביב), <persName>דוד</persName> (בחיפה), <persName>שמשון</persName> (עו"ד בצרפת), <persName>שמחה</persName> אשת המנוח ד"ר <persName>יוסף פומרוק, רבקה</persName> (ז"ל) אשת <persName>שלמה גוברניק</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 504 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/504</bibl><bibl>Volume: #1 ,Page: 505 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/505</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

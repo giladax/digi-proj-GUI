@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 1050 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1050</bibl><bibl>Volume: #2 ,Page: 1051 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1051</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק פישלזון</persName>
+
+</head>
+         <div><p> נולד באורשה, פלך מוהילב, רוסיה הלבנה, בשנת תרכ"ה (1865), לאביו <persName>יעקב דב</persName> (ממיסדי המושבה ראשון לציון) ולאמו דבורה בת <persName>מרדכי ליבונטין</persName> (אחיו של <persName>יהודה ליב </persName> אבי ר' <persName>זלמן דוד ליבונטין</persName> , ממיסדי
+
+
+ "ועד חלוצי יסוד המעלה" וראשון לציון, המנהל הכללי הראשון של בנק אפ"ק בארץ).
+
+ אחרי קבלו חינוך מסורתי עלה ארצה עם הוריו בשנת תרמ"ב ועזר להם בבנין המשק והבית בראשון לציון.
+
+ נשא לאשה את <persName>שרה </persName> בת <persName>אברהם זלמן איכילוב</persName> מפתח תקוה, שהיתה לו לעזר בסידור המשק כל הימים.
+
+ מראשוני החקלאים בראשון לציון, ממגיני המושבה נגד המתנפלים עליה בשנותיה הראשונות. הערבים בכפרי הסביבה העריצוהו כגבור ונשמעו לתיווכו בסכסוכים שבינם ובין היהודים. נטע את הפרדסים של <persName>מרדכי בן הלל הכהן</persName> ושל קרובו<persName> ז. ד. ליבונטין.</persName> מהראשונים שהנהיג במושבה גידול תפוחי-עץ וגידול ירקות בהשקאה, בשנות מלחמת-העולם הראשונה השתתף בפעילות במלחמה בארבה. ביתו וידו היו פתוחים לנצרכים ונתחבב על כל יודעיו כאיש-רעים בעל הומור טוב.
+
+ בגלל המשבר הקשה הוכרח ב-1921 למכור את משקו ועבר עם אשתו אל בניו למלבורן שבאוסטרליה, ושם הוא ממשיך בפעילות צבורית וציונית.
+
+ שם נפטרה רעיתו, י"ג אב תש"ו (10.8.46), ולזכרה נדבה המשפחה עמוד-תפלה לבית-הכנסת שברחוב מאה שערים בת"א.
+
+ צאצאיו: <persName>מרדכי </persName> (אוסטרליה), <persName>שמואל</persName> (קצין ראשי בשרות הממשלתי לבקורת פרי הדר באזור הפרדסנות העברית),<persName> אברהם </persName> (נתניה),<persName> עזרא </persName> (ת"א),<persName> יהושע</persName> (אוסטרליה), <persName>יעקב</persName> (אוסטרליה), <persName>חנה, רוחמה, חביבה, רחל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 1050 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1050</bibl><bibl>Volume: #2 ,Page: 1051 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1051</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

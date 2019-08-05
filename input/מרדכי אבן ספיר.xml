@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2226 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2226</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי אבן-ספיר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רז'יצה</placeName> (רוסיה), ג' כסלו תרע"ה (21.11.1914), לאביו<persName> יואל ספירשטיין </persName> ולאמו <persName>רחל</persName> בת הרב <persName>מרדכי שץ</persName> מביאליסטוק.
+
+ משפרצה המהפכה ברוסיה עבר עם הוריו לפולין. למד בבית-ספרו של <persName>חיים אהרן קפלן </persName> בוארשה, בגימנסיה "פינקל" ובפקולטה למשפטים באוניברסיטת וארשה, וב-1932 למד מדעי החברה בברלין. בוארשה היה חבר פעיל בתנועת- הנוער "השומר הצעיר". עבר לארגון הנוער הלומד הלאומי "מסדה" וערך ביחד עם פרופ' <persName>הנדלזלץ</persName> וד"ר<persName> זלצמן </persName> עתון עברי לנוער.
+
+ למרות רצון הוריו והמשפחה עלה ארצה בראשית 1933. למד מדעי היהדות באוניברסיטה העברית והשתתף בעתון "דאר היום" בירושלים. כחבר פעיל ב"הגנה" מעת בואו ארצה נאלץ ב-1936 לעזוב את ירושלים ובעת מהומות 1936 גויס לתפקיד פעיל בתל-אביב ושימש בו כמה שנים. המשיך את השתלמותו בביה"ס הגבוה למשפט וכלכלה בת"א, השתתף בעתון "הבוקר" ושלח כתבות לעתוני חו"ל באידית, פולנית, אנגלית וגרמנית. ב-1939 השתתף בעריכת העתון "חדשות" של <persName>בן-ציון כץ.</persName> ב-1940 התנדב לשרות ביחידה עברית בצבא הבריטי, הגיע לדרגת רב-סמל ושרת בתפקידי הדרכה, פיקוד ואח"כ ארגון במפקדה הראשית של הצבא הבריטי במצרים. אחרי שחרורו מהצבא ניהל את מחלקת החיילים המשוחררים שליד המפדה האזרחי והשקיע יזמה ופעילות בהקמת שיכון המפדה האזרחי ליד רמת גן. אח"כ עבד כממלאמקום מזכיר מועצת רמת גן. בראשית מלחמת המולדת גויס לצבא ההגנה ושרת בדרגת סרן בתפקיד ארגוני באגף כח האדם שבמטה הכללי. אחרי שחרורו בסוף 1949 נתמנה למזכיר כללי של אגודת "ישראל-אמריקה" לקשרי ידידות בין ישראל לארה"ב.
+
+ חבר הועד הפועל הארצי של הסתדרות הציונים הכלליים, חבר המזכירות הארצית של מרכז איגוד החיילים המשוחררים, חבר מיסדר "בני ברית" בלשכת "יצחק ילין" בת"א.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2226 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2226</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

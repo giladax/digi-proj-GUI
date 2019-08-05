@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3961 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3961</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נתן שמואלי (כץ)</persName>
+
+</head>
+         <div><p> נולד בלודז (פולין) בשנת תרס"ג (20.4.1903).
+
+ לאביו <persName>שמואל כץ</persName> ולאמו<persName> חוה </persName> בת <persName>פיגה ברגר.</persName>
+
+ קבל חנוך מסורתי ועברי בהגמנסיה העברית בלודז. למד שפות.
+
+ היה חבר בארגון הצופים, חבר השומר הצעיר בלודז. חבר החלוץ בצרנוביץ בהכשרה (1922).
+
+ בשנת 1924 עלה לארץ.
+
+ עבד בשדות הטבק בגליל התחתון, ביבנאל ובמנחמיה. במשק האכר<persName> מילר</persName> במצפה ע''י טבריה.
+
+ עבר לרמת-גן. היה חבר קבוצת "עמל" - שסללה את כביש תל-אביב-פתח-תקוה (1926-27).
+
+ בשנת 1936 נשא לאשה את <persName>שרה</persName> בת<persName> אליהו לנגנס.</persName>
+
+ חבר הגנת משנת 1925.
+
+ חבר הנהלת המפלגה הליברל ת והועד הפועל ברמת-גן
+
+ חבר ועד "יד לבנים" וחבר המרכז הארצי של "יד לבנים" בישראל.
+
+ מנהל המחלקה לגביה בעירית רמת גן.
+
+ אחרי שבנו נפל, התמסר לעבודה צבורית בשטחים שונים.
+
+ צאצאיו:<persName> שמואל</persName> (באוקטובר 1950 שירת כטייס בחיל האויר הישראלי ונפל בזמן מלוי תפקידו), <persName>נילי</persName> אשת ד"ר<persName> דוד מנדס</persName> (ד"ר לרפואה. בוגר האוניברסיטה העברית בירושלים).
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר ברמת-גן, ד' חשון תשכ"ג (1.11.62)
+
+ (ראה כרך י"ב, עמוד 3961)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3961 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3961</bibl>            <bibl>Volume: #13 ,Page: 4357 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4357</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

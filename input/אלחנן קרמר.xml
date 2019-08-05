@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3550 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3550</bibl><bibl>Volume: #10 ,Page: 3551 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3551</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלחנן קרמר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ויטבסק</placeName> (רוסיה) בשנת תרע"ו (16.6.1916). לאביו <persName>שלמה</persName> (סוחר בקורלנד) ולאמו <persName>חנה </persName> בת ר'<persName>יצחק-אלחנן ורוזה לבית קרמר.</persName>
+
+ עם תום מלחמת העולם הראשונה חזרה המשפחה, ללטביה.
+
+ קיבל חנוך מסורתי וכללי בגימנסיה העברית ביריבה.
+
+
+ היה מפעילי בית"ר בלטביה ומחברי הנהגתה.
+
+ בגיל 18 התנדב לצבא הלטבי, כדי להכשיר את עצמו להגנה בארץ-ישראל. עם תום השרות הצבאי עבר הכשרה.
+
+ בשנת 1938 עלה לארץ ושירת בפלוגות הגיוס של בית"ר. היה מפקד הפלוגה בראש פינה.
+
+ השתתף בפעילות אצ"ל ובצה"ל במלחמת השחרור. בשנת 1940 הצטרף למערכת עתון "המשקיף". בשנת 1941 התנדב ליחידות העבריות בצבא הבריטי. לחם עם הבריגדה היהודית בחזית איטליה, ועם תום פעולות האיבה באירופה, צורף למערכת עתון "החיל" בבריסל.
+
+ אחרי המלחמה עבד ב"ידיעות אחרונות" ולאחר מכן בעתון "הבוקר". - שם הוא משמש מזכיר המערכת.
+
+ פרסם מאמרים רבים ובמיוחד בשאלת האנרגיה האטומית.
+
+ תרגם וערך מספר ספרים וקבצים, ביניהם הקובץ על יהדות לטביה.
+
+ בשנת 1943 נשא לאשה את <persName>שרה</persName> בת <persName>יוסף ופסיה</persName> <persName>סטרליץ.</persName>
+
+ צאצאיו: <persName>שלמה, אורית</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3550 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3550</bibl><bibl>Volume: #10 ,Page: 3551 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3551</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

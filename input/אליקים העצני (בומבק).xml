@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3959 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3959</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליקים העצני (בומבק)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קיל</placeName> (גרמניה), י' תמוז תרפ''ו (22.6.1926).
+
+ לאביו <persName>שמאי בומבק</persName> ולאמו<persName> חנה</persName> לבית <persName>פרנקל.</persName>
+
+ בשנת 1938 עלה לארץ.
+
+ קיבל חינוך מסורתי, גמר בהצטיינות את הפקולטה למשפטים באוניברסיטה העברית בירושלים. מוסמך
+
+ לעו''ד (1954), התמחות בבית משפט השלום ואצל העו''ד <persName>מנדל שרף</persName> בירושלים.
+
+ היה פעיל המשמרת הצעירה של מפא''י והסטודנטים של מפא"י בירושלים.
+
+ חבר ההגנה משנת 1943.
+
+ נשא לאשה את <persName>צפורה</persName> בת <persName>ברוך יוסף וייסמן.</persName>
+
+ בשנת 1948 נפצע בהפצצת ירושלים ע"י הירדנים.
+
+ מייסד ומראשיה וממכווניה של "שורת המתנדבים" (1954-58).
+
+ הקדיש כל זמנו למלחמה בשחיתות ועבודה בקליטה העליה.
+
+ כתב במה חוברות: עקרונות שורת המתנדבים על השחיתות - את מי אין שופטים י, סכנה אורבת מבפנים ! שורת המתנדבים תנועה פוליטית ?
+
+ כתב מאמרים ''בטרם", היה חבר מערכת "יצד" שבועון.
+
+ עורך דין.
+
+ בניו:<persName> בועז, נדב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3959 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3959</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

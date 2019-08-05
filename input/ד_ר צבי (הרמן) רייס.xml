@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4083 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4083</bibl><bibl>Volume: #12 ,Page: 4084 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4084</bibl>
+<bibl>Volume: #12 ,Page: 4085 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4085</bibl>
+<bibl>Volume: #12 ,Page: 4086 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4086</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר צבי (הרמן) רייס</persName>
+
+</head>
+         <div><p> נולד בבוליסובו (פולין) בשנת תרס"ו (12.1.1906).
+
+ לאביו<persName> אהרן רייס</persName> ולאמו<persName> גליקל</persName> בת<persName> שמעון ויצנר.</persName>
+
+ קיבל חינוך בבי"ס יסודי יהודי, גמנסיה ריאלית, פקולטה לרפואה בפרנקפורט אן-מיין ואקדמיה לרפואה מעשית בדיסלדורף.
+
+ עבד בבתי חולים ובקליניקות בדיסלדורף, ברלין והונובר.
+
+ עבד בבית חולים ע"ש<persName> הוסן.</persName>
+
+ בשנת 1919 הצטרף לארגון בלוי-וייס בעססן. היה חבר ומדריך הנוער בצעירי מזרחי בהונובר וב
+
+ פרנקפורט אן-מיין (1924).
+
+ עד שנת 1932 היה עסקן בברית החלוצים הדתיים בברלין.
+
+ בשנת 1933 עבד בהכשרה בחוה חקלאית, הכנה לעליה לא"י.
+
+ בשנת 1934 עלה לארץ.
+
+ רופא חלוץ בקיבוץ רודגס ע"י פתח-תקוה, בית החולים בילינסון ובעמק.
+
+ מנהל מעבדת קופת חולים בפתח-תקוה ורופא כללי בקבוצת רודגס (1934-42) ע"י פ"ת.
+
+ בשנת 1937 נשא לאשה את <persName>אסתר </persName> בת <persName>מאיר ונחמה</persName> <persName>נובובולסקי </persName> (ילידת הארץ, גמרה את הסמינר למורות ע"ש לוינסקי בת"א, עבדה בפתח-תקוה ובקיבוץ "בארות יצחק" בדרום (1943-45). ניהלה קיטנה בגדרה. חברה פעילה בויצ"ו, בבנות ברית "בת-עמי" ברמת-גן, עסקנית במועדון קשישים, חברה בהפועל המזרחי. נכדת העסקן הציבורי הידוע בישוב הישן ביפו, ר'<persName> שמחה בונם נובו</persName> <persName>בולסקי </persName> ז"ל, ממיסדי וגבאי התלמוד תורה "שערי תורה" בנוה-שלום (ראה כרך א', עמוד 452).
+
+ במלחמת השחרור היה בעמק בית-שאן, טירת צבי, שדה אליהו ועין הנציב.
+
+ מרצה בתולדות הרפואה במועדון בר-אילן ברמת-גן.
+
+ בגרמניה כתב מאמרים ב"געמיינדע בלאט", ובארץ כתב ב"טבע ובריאות" ו"הרפואה".
+
+ בניו: <persName>אהרן, אהוד, רפאל</persName> .
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4083 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4083</bibl><bibl>Volume: #12 ,Page: 4084 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4084</bibl>
+<bibl>Volume: #12 ,Page: 4085 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4085</bibl>
+<bibl>Volume: #12 ,Page: 4086 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4086</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

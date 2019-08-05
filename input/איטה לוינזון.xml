@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2307 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2307</bibl><bibl>Volume: #5 ,Page: 2308 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2308</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>איטה לוינזון</persName>
+
+</head>
+         <div><p> נולדה בשנת תרכ"א (1861) בנירצ'ינסק שבסיביר לאביה<persName> ברוך מרגולין</persName> ולאמה<persName> דינה רייזה</persName> לבית <persName>פוברז'אנסקי</persName> . נתחנכה בבית הוריה ברוח היהדות ולמדה בגימנסיה ממשלתית והיתה ציונית מנעוריה.
+
+ נישאה <persName>לדוד לוינזון</persName> מברגוזין, שהיה בעל טחנה ועסקים בעיר צ'יטאר, ויחד ניהלו בית יהודי למופת ותרמו בנדיבות למטרות יהודיות וציוניות והתמידו בשאיפת נעוריהם לעלות ארצה.
+
+ משנתערערו סדרי החיים בסיביר בעקב נצחון המהפכה הבולשבית, הצליחו להציל חלק גדול מרכושם ולצאת לדרך. שבוע ימים נסעו ברכבת מזרחה עד לוולאדיבוסטוק ו-65 יום בדרך רבת תלאות והרפתקאות באניות מצרימה, ומשם הגיעו ליפו בקיץ 1921.
+
+ אחרי שבעת ימי שהותם בעיר החליטו להתישב בכפר ויצאו לגדרה וכאן רכשו קרקע, בנו להם בית יפה וניהלו משק למופת.
+
+ ב-1926 נתאלמנה מבעלה והמשיכה לנהל את המשק עד לגיל זקנה מופלגת. בהתאם לרצונו האחרון שהביע בעלה המנוח בעל פה, הקדישה את כל רכושם למטרות צבוריות ולאומיות. את השטח בן 9 דונאמים שליד הבית מסרה למושבה לשם נטיעת גן צבורי על שם בילו, ואת הבית הקדישה לבית מרגוע לסופרים ולאמנים לאחר אריכות ימיה, ואת הקרקע בשטח 135 דונם בתוך אזור הבניה המורחב של המושבה מסרה לקהק"ל. על שטח זה נוסדה בתש''ז שכונת פועלים שנקראה "נוה דוד"
+
+ על שם בעלה והיא נתכבדה בהנחת אבן הפנה לבית הראשון שבשכונה. אח"כ נוסדה על חלק של השטח גם שכונה לעולים חדשים. נפטרה בגדרה, י"ב תשרי תש''ט. 
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2307 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2307</bibl><bibl>Volume: #5 ,Page: 2308 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2308</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

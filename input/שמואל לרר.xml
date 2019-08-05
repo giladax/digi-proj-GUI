@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3967 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3967</bibl><bibl>Volume: #12 ,Page: 3968 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3968</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל לרר</persName>
+
+</head>
+         <div><p> נולד ד' אלול תר"צ (28.8.1930) בירושלים
+
+ לאביו ר'<persName> יוסף אריה לרר</persName> (דור רביעי בארץ מצד אביו ומצד אמו, הזן בבית-הכנסת "אגודת אחים" בירושלים, מצד אם-אביו דור שלישי או רביעי להאדמ"ור ר' <persName>משה</persName> <persName>דב</persName> אחיו של האדמו"ר ר'<persName> אהרן</persName> מקארלין, מחבר הספר "בית אהרן", ומצד אביו ממשיך בשושלת חזנית, כי אביו ר'<persName> אברהם לרר </persName> היה במשך 42 שנה חזן בביתהכנסת "אורנשטיין" בירושלים ובנו של ר' <persName>אהרן נתן</persName>
+
+
+<persName>לרר</persName> , ממשפחה שמוצאה מווילנא, שהיה במשך 40 שנה חזן בבית-הכנסת "תפארת ישראל" ניסן בק בעיר העתיקה בירושלים וחיבר לחני-תפילה בנוסח חסידי-מסורתי) ולאמו <persName>אסתר גיטל </persName> בת<persName> יהושע אברמוביץ</persName> (משפחת סוחרי תבואות ותיקה בארץ, ושני אחי אמו היו גם הם חזנים בלונדון).
+
+ קיבל חינוך מסורתי ותיכוני והשכלה מוסיקלית ופיתוח הקול באקדמיה למוסיקה בירושלים. היה פעיל בהגנה, ובמלחמת הקוממיות היה מפקד חות הלימוד בירושלים, שהיתה אז בניהולה של מרת <persName>רחל בן צבי</persName> , ועל עמידתו האמיצה מסרה לו חוברת על חות הלימוד עם ההקדמה "למזכרת לידידנו<persName> למדן</persName> אשר עמד עמנו בימי המבחן". (מר<persName> בן-צבי</persName> החליף לו את שםהמשפחה "לרר" ל"למדן", אך בגלל התנגדות המשפחה להחלפת השם המושרש בתולדות הישוב במשך דורות, השאיר לעצמו את שם-המשפחה ממורשת האבות).
+
+ ב-1949 נשא לאשה את <persName>חסידה </persName> בת<persName> מרדכי מקובקי</persName> (יצרן החמאה הצמחוינית הראשונה בארץ בשם "השקד", ממשפחה ותיקה בפיתוח הכלכלה בארץ).
+
+ ממשיך מסורת בית אביו בחזנות והנו כיום חזן ראשי בבית-הכנסת הגדול ברמת-גן.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3967 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3967</bibl><bibl>Volume: #12 ,Page: 3968 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3968</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

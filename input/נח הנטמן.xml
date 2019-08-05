@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4507 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4507</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נח הנטמן</persName>
+
+</head>
+         <div><p> נולד ברצ'יצ'ה (רוסיה הלבנה) בשנת תרנ"ו (28.12.1896).
+
+ לאביו<persName> ראובן הנטמן</persName> ולאמו <persName>בלהה</persName> בת <persName>זלמן כהן</persName> (כהנוביץ).
+
+ קיבל חינוך מסורתי, בי"ס עברי - מקביל לבי"ס תיכון.
+
+ שירת בצבא הצאר הרוסי ואח"כ בממשלה הזמנית אחרי פרוץ המהפכה.
+
+ היה חבר החלוץ, חבר ועדת התרבות של מכבי, חבר המפלגה הציונית סוציאליסטית Z.S.
+
+ אחרי פעילות ב"מסילה חדשה" בתורכיה (הכשרה חלוצית חקלאית) עלה בשנת 1923 לארץ.
+
+ עבד בבנין רפתות בכפר מל''ל, היה חבר קבוצת יצרוה, היה חבר פלוגת עין-חרוד פתח-תקוה.
+
+ היה במשך 6 שנים חבר קבוצת עין-חרוד.
+
+ בשנת 1923 נשא לאשה את <persName>יהודית</persName> בת <persName>אהרן</persName> <persName>וולובלסקי.</persName>
+
+ משנת 1928 תושב חקלאי ברמת השרון והיה מראשוני המושבה.
+
+ סגן יו"ר הועדה החקלאית רמת השרון.
+
+ חבר ועד החנוך רמת השרון.
+
+ חבר המועצה המקומית רמת השרון שנים רבות.
+
+ יו"ר ועדת התרבות המשותפת למועצה המקומית ומועצת הפועלים רמת-גן.
+
+ כל השנים חבר ההגנה.
+
+ צאצאיו:<persName> רפאל הנטמן, עודד איתן</persName> (הנטמן),<persName> רינה</persName> אשת <persName>חיים לוי, יחיעם הנטמן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4507 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4507</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

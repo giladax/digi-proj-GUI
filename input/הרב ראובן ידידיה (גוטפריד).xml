@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 327 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/327</bibl><bibl>Volume: #1 ,Page: 328 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/328</bibl>
+<bibl>Volume: #1 ,Page: 329 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/329</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב ראובן ידידיה (גוטפריד)</persName>
+
+</head>
+         <div><p> נולד בעיירה באבינה, מחוז מינסק, רוסיה, בשנת תרכ"ז (1867), לאביו ר'<persName> רפאל</persName> . בן שנתים נתיתם מאביו ובן שמונה גם מאמו ובבית דודו אחי אביו גדל עד גיל בר-מצוה. אז הלך עם חבר לעיר אחרת, למקום תורה. בדרך תקפתם סופת-שלג ואכר הצילם והביאם לאכסניה יהודית. שם הלבישום והכניסום העירה אל הישיבה. לאחר זמן למד ראובן שנים אחדות בסלובודקה בשקידה רבה. כשהגיע לגיל חובת הצבא החליט, שבמקום לשרת את הצאר ילך ללמוד תורה בירושלים. נדד עד לווינה. שם הכירו בגדולתו בתורה ורצו למנותו למרצה עוזר בבית-המדרש לרבנים, וכשהגיד למנהלים את מגמתו עזרו לו בהוצאות הדרך, ובשנת תר"ן הגיע ירושלימה.
+
+
+ כאן קבע את מושבו ביחידות בחדר קטן של עלית-קיר ליד המדרגות המוליכות אל הכיפה של בית-כנסת ה"חורבה" ולמד יומם ולילה. הרב הראשי <persName>רבי שמואל סלנט </persName> היה עולה אליו לפעמיו ברגלים קלות למרות זקנותו ומשתעשע אתו בדברי תורה, ואשתו, הרבנית, היתה שולחת לו את ארוחותיו מהתמחוי ללומדי-תורה.
+
+ הרב לא היה מרוצה, שבחור קשיש כמוהו, בן כ"ג, ישב בגפו, ובכן הזמין אליו במכתב את ר' <persName>יואל משה סלומון</persName> מהמושב יהודיה והציע לו שיקח
+
+ את הבחור הזה לחתן לבתו. אחרי החתונה, בשנת תרנ"א יצא האברך לבית חותנו אל הכפר, שהיה אז מרכז לתורה. שם היתה הישיבה שיסדה אגודת "דגל תורה" הירושלמית. ראש הישיבה היה ר' <persName>מרדכי גימפל יפה</persName> מרוזינוי, ואתו היה שם גיסו ר' <persName>זאב יעבץ</persName> , שהכין אז את החומר לספרו הגדול על תולדות ישראל ונעזר בהרבה בספריה התורנית הגדולה של גיסו ר' מרדכי גימפל ובבקיאותם של זה ושל ר' ראובן בחלק הדן בתקופת התנאים והאמוראים. בישיבה זו היה מרצה את השיעור היומי, הר"מ גימפל היה מרצה פעם בשבוע וגם ר'<persName> נפתלי</persName> <persName>הירץ הלוי</persName> , רבה של קהלת יפו, היה בא לפעמים להרצות בהלכה.
+
+ לאחר פטירת ר' מרדכי גימפל נתפרדה החבילה ורי"מ סלומון חזר לירושלים עם משפחתו' ור' ראובן עמהם.
+
+ באותו הזמן מינהו רבי שמואל סלנט למרצה קבוע בישיבה לבחורים מצטיינים שיסד ליד ישיבת "עץ חיים" (בין גדולי התורה שנתחנכו בישיבה זו: הגאון ר'<persName> יעקב משה חרל"פ,</persName> הרב יוסף הלוי, חתן <persName>הרנ"ה הלוי</persName> מיפו וחבר הרבנות בקהלת יפו-ת"א, הרב<persName> מיכל הורביץ</persName> , דיין ומורה-הוראה בירושלים, הרב<persName> יעקב גוטמן</persName> , רב באמריקה, וכעשרים שנה המשיך בעבודת-קודש זו. אח"כ שלחוהו מנהלי "עץ חיים" לשליחות באמריקה, בעיקר כדי להראות לרבנים שם תלמיד-חכם להתפאר מגידולי ירושלים, שהצטיין
+
+ באופי, במזג טוב, בחכמת חיים, בהדרת-פנים ובדיבור כובש לבבות. שם הוצעה לו משרת רבנות בכמה קהלות, אך הוא סירב ואחרי שהותו שם כארבע שנים חזר לירושלים.
+
+ העמיד משפחה ענפה ונכבדה בארץ ובחו"ל. אחד מבניו יהושע הוא מנהל בית-ספר עברי בניויורק והשני דוד מקודם ספרן ראשי במחלקה העברית של הספריה הממשלתית בסן-פרנציסקו ומאז פרוץ המלחמה העולמית השניה, עובד כמהנדס בשרות ממשלת ארצות-הברית. חתניו: ר' א. <persName>אברמוביץ</persName> , רב בשיקאגו (שני בניו הם פרופסורים באוניברסיטאות באמריקה), עוה"ד<persName> דוד המבורגר </persName> בתל-אביב, <persName>יצחק אלשטיין </persName> מבעלי הפירמה סלומון, לוין ואלשטיין למסחר ברפואות,<persName> נחמיה סלומון,</persName> עו"ד בירושלים, ואליעזר ספקטור מנהל מחלקה בלשכה הראשית של קרן היסוד בירושלים.
+
+ לעת זקנה חלה תשע שנים בסרטן הגרון. פעמים הוליכתו אשתו לפאריס לריפוי בהקרנת ראדיום, אך ללא הועיל, והוא נפטר בירושלים, י"ז טבת תרצ"ה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 327 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/327</bibl><bibl>Volume: #1 ,Page: 328 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/328</bibl>
+<bibl>Volume: #1 ,Page: 329 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/329</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

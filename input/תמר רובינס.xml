@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4771 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4771</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>תמר רובינס</persName>
+
+</head>
+         <div><p> נולדה בשנת תרס"ג (1903) באודיסה (רוסיה).
+
+ את חינוכה והשכלתה קיבלה בבית-הספר לבנות בעיר גולטה, שהיה ידוע בשם "מרגולית", שבין מוריו ומדריכיו היו הרבה סופרים ומורים מן הידועים כיום בארץ.
+
+ בשנת 1920 עברה למוסקבה, ומאז היא חברת "הבימה".
+
+ בעלה מנחם<persName> בנימיני.</persName>
+
+ עלתה לארץ בשנת 1928.
+
+ תפקידיה בהצגות "הבימה" שונים: האשה הבוכה לפני ארון-הקודש ב"הדיבוק", ויולה ואחיה סבסטיאן ב"הלילה ה-12" לשקספיר. כן מילאה
+
+ תפקידים בהצגות <persName>שלום-עליכם</persName> : עטי-מני ב"ענק", <persName>שרה שפירא</persName> ב"קשה להיות יהודי", והבת צייטל ואחר כך האם<persName> גולדה </persName> במחזה "טוביה החולב".
+
+ בהצגות מחזות כלליים מילאה את התפקידים הבאים: המורה, דייר וימר ב"בגרות" <persName>לפודור,</persName>
+
+ האחות ב"הלהבה הקדושה" <persName>לסומרסט מוהם.</persName> "מרד המתים". (חייל בן עשרים), האם ב"בני המיניסטר". שרלוטה ב"גן-הדובדבנים" <persName>לצ'יחוב</persName> , הרוזנת ב"המת החי"<persName> לטולסטוי</persName> , אנה אנדרייבנה (אשת שר העיר) ב"רביזור" לגוגול, מרתה ב"פאוסט" <persName>לגיטה</persName> ועוד במחזות צרפתיים, אנגליים וארצישראליים, כמו: "חדוה ואני" "שש כנפיים" ועד "בידרמן" (מרת בידרמן), ובעונה האחרונה - את מרת גלבואזיה במחזה "מדמואזל".
+
+ זכתה ב"פרס של עירית תל-אביב, 1959, על 40 שנות פעולתה הבימתית על עיצוב מחזות.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4771 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4771</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

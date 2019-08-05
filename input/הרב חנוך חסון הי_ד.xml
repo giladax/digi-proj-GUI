@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 322 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/322</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב חנוך חסון הי"ד</persName>
+
+</head>
+         <div><p> נולד בחברון, י"ז אייר תרכ"ז (1867), לאביו ר' <persName>מרדכי</persName> , סוחר אמיד ואחד מטובי העיר, ולאמו <persName>רבקה</persName> לבית <persName>בנבנישתי</persName> . למד בתלמוד-תורה ובישיבה של הספרדים ובן 15 כבר נתפרסם בבקיאותו בתלמוד ובספרותו.
+
+ בתרמ"ד נשא לאשה את<persName> קלארה</persName> בת הרב<persName> רחמים</persName> <persName>יוסף פרנקו</persName> ואשתו <persName>מזל-טוב</persName> בת הרב<persName> יצחק-ישראל</persName> (נולדה בירושלים בשנת תר"ל ועברה עם הוריה לחברון כשאביה נתמנה שם לאב-בית-דין, והיתה ידועה לשבח בנדיבות רוח, טוב לב ואהבת הבריות).
+
+ לימד שנים אחדות תלמוד בתלמוד-תורה של העדה הספרדית. בשנת תר"ס יצא בשליחות לחו"ל לטובת העדה ומוסדותיה. בינתים נפטר חותנו ובמקומו נתמנה הגאון ר' <persName>חיים חזקיה מדיני</persName> , שעלה מקאראסו-באזאר שבקרים, בעל הספרים "שדי חמד". וכשחזר הרב חסון ממסעו נתמנה לחבר בית-הדין והיה יד ימינו של הגאון מדיני, שמסר לידו את ההגהה וההדפסה של החלקים האחרונים לספרו "שדי חמד", והרב חסון גם כתב הקדמה לחלקים שהופיעו בסידורו ובהגהתו אחרי פטירת המחבר.
+
+ אחרי פטירת הגאון מדיני נתמנה הוא לרב ראשי של העדה הספרדית. פעל רבות לטובת הישוב היהודי בחברון וביצור העדה ומוסדותיה. התענין בקורות העיר חברון ותולדות הישוב העברי בה ואסף תעודות עתיקות בענין זה.
+
+ לעת זקנתו שידלוהו בניו שיעבור לירושלים, אך מרוב חיבתו לעיר האבות סירב, לבל יפחית את הישוב בה. בקיץ תרפ"ט ישבה אשתו חדשים אחדים אצל בניה בירושלים, וכשחזרה בחודש תמוז הוסיפה להפציר בו שיעבור ירושלימה, והוא עמד בסירובו.
+
+ ביום הטבח, בשבת, י"ח אב תרפ"ט נרצחו הוא ואשתו בידי פורעי חברון וגם את כתביו בחידושי תורה ובתולדות חברון שרפו באש.
+
+ צאצאיו:<persName> ד"ר יעקב, חיים, מרדכי פנחס</persName> (מהנהלת אפ''ב, ת"א),<persName> יוסף ורחמים</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 322 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/322</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

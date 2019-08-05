@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1517 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1517</bibl><bibl>Volume: #3 ,Page: 1518 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1518</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יהודה קסטל (קאשטיל)</persName>
+
+</head>
+         <div><p> נולד בחברון, בשנת תרל"א (1871), לאביו ר' <persName>אלעזר </persName> (סוחר, לפי מסורת המשפחה מצאצאי ר' <persName>יהודה הלוי,</persName> ממשפחת מגורשי קסטיליה שבספרד שהתישבה בעזה תיכף אחרי הגירוש ב-1492 וכשכבש נפוליון את עזה ב-1799 עבר חלק מהמשפחה לחברון), ולאמו <persName>שרה.</persName> (אחיו היה הרב <persName>מאיר שמואל קסטל</persName> הי"ד, מחללי פרעות חברון בתרפ"ט, ראה כרך א', עמוד 335).
+
+ למד בתלמוד תורה ובישיבת הרב<persName> אליהו מני</persName> בחברון (ראה כרך א', עמוד 41) והתמחה ברבנות, שחיטה וחזנות והוראה.
+
+ נשא לאשה את <persName>רחל</persName> בת<persName> יוסף אנכונה </persName> (מיוצאי עיר-הנמל אנכונה שבאיטליה).
+
+ אחרי נשואיו היה במשך כמה שנים רב, מורה, חזן ושוחט בקהלה שהתקיימה אז בעזה. חזר לחברון ולהזמנת עדת המערביים (יוצאי מרוקו וצפון אפריקה) עבר ירושלימה והיה מורה בתלמוד-תורה שלהם בעיר העתיקה. (בין תלמידיו מאז נמנה גם הסופר והעמקן <persName>אברהם אלמליח)</persName> . אח"כ יסד חדר תורה פרטי לילדי הספרדים בשכונת נחלת שבעה. השתתף ביסוד השכונות רחובות (שכונת הבוכארים), זכרון משה ורוחמה. בנה לו בית בכל אחת מהן (אחרי שמכר את ביתו הקודם) תחת השגחתי האישית. כשנפתח התלמוד-תורה בשכונת הבוכארים עבר אליו כמורה ראשי ללימודים העבריים. נתחבב גם על התיירים שבאו מבוכארה לבקר בירושלים ולהזמנתם נסע עמהם בשנת תר"ס וניהל במשך כמה שנים בתי תלמוד-תורה בערי טורקסטאן: בוכארה, קוקאנד וסאמארקאנד, ולימד בהם תנ"ך, דקדוק, תלמוד ותולדות ישראל, רכש לו ידיעות בשפות רוסית ובוכארית ובתרע"ג חזר לירושלים.
+
+ משנת תרע"ח ועד סוף ימיו היה אחד המורים הראשיים בבית-המדרש "דורש ציון" בירושלים (בית
+
+
+ ספר ותלמוד-תורה לילדי הספרדים, שהוחזק על-ידי כולל הו"ד - גרמניה והולנד). ולימד בו תנ"ך, דקדוק וחזנות ספרדית. נמנה בין ראשוני המורים בהנהגת שיטת הלימוד עברית בעברית. ביחוד התמסר לזמרה המזרחית. אסף פיוטי חכמים קדמונים ונעימותיהם, חיבר שירים והתאים להם מנגינות משלו (אוסף מיצירותיו אלה הוציא בתרס"ד בספר "קול זמרה"), ארגן והדריך מקהלות להכשרת חזנים. כן הצטיין
+
+ בכתב יפה בכתיבת ספרי-תורה, מזוזות ומגילות וצייר אורנאמנטיקה דתית על מפות משי, פרוכות וכו'. היה מורו הפרטי של הפרופ' <persName>אידלזון,</persName> מחבר הספר הגדול על הזמרה המזרחית שיצא באמריקה, והיה ידידו ויועצו של אליעזר בן-יהודה בעניני לשון ודקדוק.
+
+ נפטר בירושלים, ט"ו תמוז תרצ"ו (5.7.36).
+
+ צאצאיו: <persName>מזל</persName> אשת <persName>שמעון מזרחי, יוסף חיים</persName> (עסקן ,עתונאי ,ראה את הערך שלו בכרך זה),<persName> שרה</persName> אשת <persName>ראובן גורנשטיין, מרים</persName> אשת <persName>אברהם </persName> (אלברט) <persName>בן-רובי, משה אלעזר </persName> (צייר אמן)<persName>, מרגלית</persName> אשת <persName>ארנסט רביץ, שלמה </persName> (קצין בצבא ישראל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1517 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1517</bibl><bibl>Volume: #3 ,Page: 1518 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1518</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

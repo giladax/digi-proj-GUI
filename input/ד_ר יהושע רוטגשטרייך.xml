@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1394 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1394</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יהושע רוטגשטרייך</persName>
+
+</head>
+         <div><p> לאביו<persName> אפרים פישל</persName> (ראה את הערך שלו בכרך זה) ולאמו <persName>מרים </persName> בת <persName>ישראל אייפרמן</persName> .
+
+ נולד ב<placeName>קולומיה</placeName> (גליציה), כ"ו בסלו תרע"א (1910. 27.12).
+
+ קיבל חינוך בבי"ס עברי עממי ובבי"ס עממי ממשלתי בסמבור, גמנסיה ואוניברסיטה בלבוב ובי"ס לעתונות בוארשא. גמר חוק למודיו במשפטים בלבוב בשנת 1932 וקבל תואר של דוקטור למשפטים.
+
+ היה חבר באגודים ציוניים וחבר פעיל בועד הפועל של הסתדרות ציונית במזרח גליציה.
+
+ בשנת 1932 עלה לארץ ובשנת 1933 עבר את הבחינות של עורכי דין זרים בירושלים וקיבל רשות לעסוק כעורך דין בארץ.
+
+ היה כתב מיוחד של עתונים יהודים שהופיעו בפולנית בפולין ("כווילה"; "נובי רז'יננרק", "נובי פשגלונד") וכן כתב מאמרים ב"ירחון לשכת מסחר א"יפולניה", ב"שבועון היהודי" (לודז), מאמרי בקרת כ"למברגר טאגבלאט" ובכתבי עת שונים.
+
+ היה ציר לקונגרס הציוני הי"ז בלוצרן מטעם הציונים הכלליים מגליציה.
+
+ נשא לאשה את <persName>כרמלה</persName> בת <persName>משה פרוסטיג</persName> (העורך הראשון של העתון "דאם טאגבלאט" בלבוב, ציר לסיים הפולני וממנהיגי הציונות בפולין).
+
+ חבר ועד אגודת עורכי הדין, ועדת בקורת אגודת העתונאים, חבר ועד מרכזי יוצאי סמבור בא"י. הבר המועצה המשפטית העליונה מטעם ממשלת ישראל.
+
+ כתב ספר "תולדות התנועה הערבית הלאומית", לודז, 1938.
+
+ בנותיו; <persName>רות, מיכל</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1394 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1394</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

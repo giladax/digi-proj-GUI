@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5456 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5456</bibl><bibl>Volume: #18 ,Page: 5457 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5457</bibl>
+<bibl>Volume: #18 ,Page: 5458 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5458</bibl>
+<bibl>Volume: #18 ,Page: 5459 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5459</bibl>
+<bibl>Volume: #18 ,Page: 5460 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5460</bibl>
+<bibl>Volume: #18 ,Page: 5461 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5461</bibl>
+<bibl>Volume: #18 ,Page: 5462 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5462</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי הנדלסמן</persName>
+
+</head>
+         <div><p> נולד בכפר ואריצ'וב סטרי, ליד העיר לבוב (גליציה), י' חשון תרס"ח (18.10.1907).
+
+
+ לאביו<persName> שמריהו הנדלסמן</persName> ולאמו <persName>שיינדל</persName> בת <persName>שמואל</persName> <persName>פיגר.</persName>
+
+ קיבל חינוך מסורתי וכללי. למד משפטים וקיבל תואר מגיסטר יוריס. היה חבר באירגון חלוצי וגם חבר פעיל באירגון
+
+ סטודנטים "מריאבה".
+
+ ב-31.10.1934 עלה לארץ.
+
+ עבד כפועל בנין בחיפה. בשנת 1935 התגייס למשטרת המנדט בתור שוטר.
+
+ עבר קורס בבית הספר לשוטרים במגרש הרוסים בירושלים עד 1.12.35.
+
+ בשנת 1936 נשא לאשה את<persName> פרידה</persName> בת <persName>שמואל</persName> <persName>מסינג.</persName> שירת במשטרת תל-אביב עד 1.4.1943.
+
+ כל השנים חבר ההגנה.
+
+ עבר בחינות של עורכי דין שגמרו בחו"ל וקיבל רשיון לעבוד כעורך דין בארץ, אחרי שעשה את הסטג' (הכשרה למקצוע עורך-דין) במשרדי עורכי הדין<persName> בן ציון ברקאי, משה ישי וכצנלסון</persName> ז"ל.
+
+ מ-15.7.1945 עד 15.10.1958 היה עורך דין בעיריית תל-אביב.
+
+ ביום 15.10.1958 נתמנה לשופט, ומכהן כיושב ראש של ועדת עררים לצורך חוק נכי רדיפות הנאצים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5456 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5456</bibl><bibl>Volume: #18 ,Page: 5457 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5457</bibl>
+<bibl>Volume: #18 ,Page: 5458 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5458</bibl>
+<bibl>Volume: #18 ,Page: 5459 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5459</bibl>
+<bibl>Volume: #18 ,Page: 5460 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5460</bibl>
+<bibl>Volume: #18 ,Page: 5461 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5461</bibl>
+<bibl>Volume: #18 ,Page: 5462 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5462</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

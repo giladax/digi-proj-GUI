@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 359 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/359</bibl><bibl>Volume: #1 ,Page: 360 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/360</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם נחום סמסונוב</persName>
+
+</head>
+         <div><p> נולד בהומל, רוסיה, בשנת תרכ"ז (1867), לאביו ר'<persName> אריה ליב</persName> , ממיסדי חדרה.
+
+ נתחנך חנוך מסורתי והשתלם בפנקסאות. היה מנהל חשבונות ופקיד בהומל.
+
+ בשנת תר"ן, בהיותו בן 23 שנה, עלה לא"י. שנה אחר כך עלו הוריו וששת אחיו והתישבו ב"חן" הידוע בחדרה. רכשו אדמה והקימו משק.
+
+
+ נשא לאשה את <persName>רבקה </persName> בת <persName>אברהם הלוי הקטין</persName> מהומל (נפטרה בחדרה ב' חשון תרפ"ה).
+
+ כל ימיו התמסר לעבודת האדמה, היה עובד חרוץ ואכר טוב.
+
+ השתתף בהגנת המושבה ולקח חלק פעיל בארגונים השונים במושבה. נפטר בחדרה ח' שבט תרצ"ג.
+
+ בתו רוחמה נולדה בחדרה וקבלה בחגיגת יובל ה-50 של המושבה תעודת "אזרחות החאן". נישאה לאכר צבי אהרנסון בחדרה, ממשפחת אהרנסון מזכרון יעקב. מתה בת"א בשמונה בינואר 1947. בנו ידידיה נפטר אף הוא.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 359 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/359</bibl><bibl>Volume: #1 ,Page: 360 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/360</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

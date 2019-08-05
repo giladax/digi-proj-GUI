@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1898 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1898</bibl><bibl>Volume: #4 ,Page: 1899 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1899</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' שלמה רוזובסקי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ריגה</placeName> (לטביה), שבט תרל"ח (19.2.1878), לאביו <persName>ברוך ליב</persName> (חזן וקומפוזיטור ב<placeName>ריגה</placeName>, ממשפחת חזנים נודעים) ולאמו חסיה.
+
+ למד בחדרים ובגימנסיה. גמר לימודי משפטים באוניברסיטת קיוב והוסמך ב-1902 לד"ר למשפטים ובשנות 1903-10 עסק במקצוע עו"ד בפטרבורג וב<placeName>ריגה</placeName>. למד מוסיקה בקונסרבטוריונים בלייפציג ובפטרבורג, היה תלמידם של רימסקי, קורסאקוב, גלאזונוב וניקיש וב-1911 הוסמך מטעם הקונסרבטוריון המלכותי בתואר "אמן חפשי".
+
+
+ נשא לאשה את <persName>חנה</persName> בת <persName>דוד מייצ'יק</persName> , ואחרי פטידתה בניו-יורק נשא ב-1920 את <persName>ראשל </persName> בת <persName>ברל</persName> <persName>רוסיאנסקי.</persName>
+
+ ב-1908 השתתף ביסוד החברה לחקר המוסיקה העממית היהודית בפטרבורג וכתב בקורת מוסיקלית בעתון היומי "דין" ובעתון מקצועי בפטרבורג. ב-1920 חזר לריגה, יסד וניהל שם את הקונסרבטוריון היהודי וכתב בקורת מוסיקלית בעתון היומי "סיבודניה" (עתון יהודי ברוסית).
+
+ ב-1925 עלה לארץ ויסד וניהל במשך שנתים שיעודים לחזנות בירושלים. השתתף ביסודו ובניהולו של המכון הארצישראלי למוסיקה, ובזמן האחרון מרצה לקונטרפונקט, הרמוניה מודרנית וטעמי המקרא ופרופסור לקומפוזיציה בקוסרבטוריון בירושלים. חיבר קומפוזיציות שונות לכלי-נגינה, לקול ולמקהלה, ביניהן פואמה סימפונית לתזמורת ("חסידים"), מוסיקה להצגות "אמנון ותמר", "משיח בן יוסף", "יעקב ורחל", "האוצר", "כתר דוד", "חלום הגולם" ועוד. ביחוד עוסק בחקר טעמי המקרא בתור יסודות במוסיקה העברית הקדומה, נשא על כך שורת הרצאות באוניברסיטאות שונות בארצות הברית, פרסם שם ספר על נושא זה באנגלית ומאמרים ב"הארץ", "דבר", "תיאטרון ואמנות" ובירחון האידי "צוקונפט" בניויורק, וקיבל על פעולתו זו פרס-כבוד מיוחד מאת עירית תל-אביב ב-1945.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1898 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1898</bibl><bibl>Volume: #4 ,Page: 1899 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1899</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

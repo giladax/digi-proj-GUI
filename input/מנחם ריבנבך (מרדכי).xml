@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4347 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4347</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם ריבנבך (מרדכי)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>תל-אביב</placeName> בשנת תרפ"ז (1927).
+
+ לאביו<persName> טוביה</persName> <persName> ריבנבך </persName> ולאמו <persName>מלכה אסתר </persName> בת<persName> אליהו</persName> <persName>ריבן.</persName>
+
+ גמר בית ספר עממי.
+
+ בעודו צעיר מאוד הלך בדרכי אחיו <persName>חיים</persName> , והצטרף אף הוא לשורות לח"י (לוחמי חרות ישראל), בהאמינו בתום לב כי אין דרך אחרת לשחרור הארץ, וכי צורת המחתרת והמלחמה אשר לח"י נבטה בה - היא היעילה והנותנת את הסיכוי הגדול ביותר.
+
+ אך סיכוי זה פסח עליו אישית.
+
+ צורף למחלקה ו', היא מחלקת הידיעות, עקב היותו נבון, אמיץ לב ובעל מרץ.
+
+ במסגרת זו הספיק, בשנות חייו המועטות, להביא תועלת מרובה ואף להשתתף במספר פעולות. באחת מהן - האחרונה, נפצע.
+
+ ימים מספר פירפר ונלחם במוות ללא תלונה. בגבורה רבה נשא סבל רב וביום י"ב כסלו, תש"ז, נפח נשמתו ב<placeName>תל-אביב</placeName> וחיוך על שפתיו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4347 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4347</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

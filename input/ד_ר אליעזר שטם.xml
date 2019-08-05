@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 992 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/992</bibl><bibl>Volume: #2 ,Page: 993 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/993</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אליעזר שטם</persName>
+
+</head>
+         <div><p> בן משה (ממשפחת סוחרים משכילים בברודי, חובב ספרות וכותב שירים בגרמנית ובאידיש הקדיש הימנון מיוחד לכבוד הרצל) ואמו פרל, מצאצאי הודל הצדקנית, שנשרפה על קידוש השם בלביב לפני כמאה שנה בקשר לעלילת דם.
+
+ נולד ב<placeName>גליניאני</placeName> (גליציה), כ"ג תשרי תר"ן (8.10.1889). קבל חנוך תיכוני בגמנסיה בברודי. בגלל ציונותו הוצא מן הגמנסיה ועבר ללמוד בגימנסיה בסרט (בוקובינה) ביחד עם ברל לוקר. ובהילתו בן 13 נשבע לעלות לארץ-ישראל לכשיגדל. השתלם ברפואה במכללת וינה וקבל שם את התואר ד"ר בשנת 1920. ממיסדי אגודת הסטודנטים היהודים בוינה (Rede und Lesehalle); שימש כנשיא האגודה לפני עליתו ארצה.
+
+ שירת בתור קצין בצבא האוסטרי ארבע שנים בימי המלחמה העולמית הראשונה בחזית האיטלקית והרוסית וניהל בית-חולים למחלות מדבקות.
+
+ עלה ארצה בשנת 1921 והתישב ביפו והיה הרופא הראשון במקצוע מחלות העור ביפו ותלי אביב. בפרוץ המאורעות באותה שנה היה פעיל בשרות העזרה הראשונה וטיפל באופן אישי בסופר ברנר וחבריו ושאר פצועי המאורעות.
+
+
+ מחבריו הותיקים של המכבי ומפעיליו בתלאביב. שימש כל השנים כרופא האגודה ובמשך תקופה מסוימת היה יו"ר המחלקה לכדורגל בת"א. משנת 1923 ועד 1927 שימש כרופא בקופת-חולים תלאביב והיה ממיסדי מחלקת העור שלה.
+
+ נשא לאשה את סופיה בת אליהו ביליג (דודה, הד"ר ע. קוקש, היה מראשוני הציונים בוינה וממקורביו של הד"ר הרצל ; חבר הועד הפועל הציוני הראשון וממיסדי הבנק היהודי הקולוניאלי בלונדון; שמו נזכר פעמים רבות ביומנו של הרצל).
+
+ צאצאיו:<persName> אולגה </persName> (מזכירתו הפרטית של ראש עירית תל-אביב), <persName>אורי </persName> (יליד תל-אביב, בוגר הגמנסיה "הרצליה" ; התגייס לצבא הבריטי לפי צו המוסדות הלאומיים, שירת בחיל המהנדסים המלכותיים ונהרג בתאונת רכבת ליד קהיר בכ"ה אייר תש"ג 29.5.1943, נקבר בבית הקברות הצבאי בהליופוליס).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 992 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/992</bibl><bibl>Volume: #2 ,Page: 993 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/993</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

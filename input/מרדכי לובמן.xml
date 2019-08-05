@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 431 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/431</bibl><bibl>Volume: #1 ,Page: 432 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/432</bibl>
+<bibl>Volume: #1 ,Page: 433 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/433</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי לובמן</persName>
+
+</head>
+         <div><p> נולד בהורי הורקי, פלך מוהילב, רוסיה הלבנה, י' טבת תרי"ח (1858), לאביו <persName>שמואל גרונס</persName> , חסיד חב"ד, חוכר אחוזות וקבלן ממשלתי וצבאי. למד בחדר ואצל הרב המקומי, הצטיין ונחשב ל"עילוי". בן י"ז נמשך להשכלה והשתלם באופן פרטי בשפות ובמדעים. שמע ידיעותיו וכשרונו הגיע לאזני מנהל בית-הספר הממשלתי לחקלאות ולמדידת קרקעות שבאותה עיר והוא הצליח להשפיע על ר' שמואל גרונם שיכניס את - מרדכי בנו ללמוד בבית-ספרו, בתנאי שישוחרר מעבודות שיש בהן חילול שבת. הקנאים שבעיר ראו "חילול השם" בכניסת בנו של חסיד לבי"ס של גויים והשתדלו אצל רשות-החנוך המחוזית לבטל את שחרורו מחילול שבת, כדי שיוכרח להפסיק את לימודיו במוסד- כנגדם גברה השתדלות משכילי מוהילב לקיים את שחרור מרדכי מחילול שבת והוא גמר את לימודיו בהצטיינות והוסמך כמהנדס-מודד. עוד בתקופת לימודו יסד בעזרת אמידי העיר בית-ספר לילדי העניים ולימד בו בהתנדבות.
+
+ אחרי שאביו נרצח במסעו ברכבת מדרום לחארקוב עבר לגור בחארקוב ועבד במדידות בעיר ובסביבה.
+
+ שם נשא לאשה את<persName> גיטל</persName> לבית<persName> יצחקי</persName> . אחרי ה"סופות בנגב" הצטרף בין הראשונים לחיבת ציון ורכש רבים בהשפעתו, וביחוד עשה נפשות לרעיון בין תלמידי האוניברסיטה החארקובית, שביניהם נוצרה תנועת "בילו". בתרמ"ד חיסל את עסקיו ועלה ארצה עם אשתו ואחותו<persName> רבקה</persName> (שנישאה אח"כ <persName>לדוב חביב</persName> <persName>לובמן</persName> ).
+
+ בתהילה עבד בכרמי ראשון-לציון ואחרי זמן קצר נתמנה מטעם פקידות הבארון למודד אדמות המושבות
+
+
+ בראשונות: זכרון-יעקב, ראש-פנה, יסוד-המעלה, קסטינה ועוד, ומושבו היה בראשון לציון. הנדודים והטלטולים בין בצות וסלעי-הרים מוטטו את בריאותו, אך הוא המשיך לעבוד מתוך הרגשת סיפוק שהוא משתתף בבנין הארץ, התרשם ממראה עיניו בארץ ופרסם את רשמיו ומאמרים שונים בעתונים "הצבי", "האור", "המליץ", בקובץ "ממזרח וממערב", בעתון-הילדים הירושלמי "עולם קטן" ובעיתונים יהודיים-רוסיים ברוסית בחתימת שמו ובכינויים "מרדכי היהודי" י"אליפז התימני".
+
+ אחרי שנים אחדות נתמנה למנהל בית-הספר בראשון-לציון מטעם הפקידות. בתרמ"ח נתמנה למפקח על בתי-הספר של הבארון בראשון-לציון, פתח-תקוה, עקרון וקסטינה ובראשון-לציון המשיך ללמד חשבון וידיעות הטבע. בתפקידו זה עשה עבודה חלוצית רבת-ערך בסלילת דרך להוראה בעברית. חיבר רשימות בהעדר ספרי-לימוד לשימוש בשיעורי בית-הספר וחיבר את הספר "שיחות בידיעות הטבע". כן השתתף ביצירת הארגון הראשון של המורים ביהודה, שנקרא אז בשם "אסיפות המורים", עמד בראשו וערך את "זכרון הדברים" של כינוסיו. אף כי הרגיש וידע שמחלת-הריאות מקצרת את ימיו המשיך את עבודתו בהתלהבות ובמסירות עד שנפטר בראשון-לציון ביום ט' טבת תרנ"ו.
+
+ בתו <persName>יהודית</persName> נישאה<persName> לישעיהו קרניאל</persName> מזכרוןיעקב (הוא הסופר שהיה ידוע בשם "עזמות"). בנו <persName>אברהם </persName> יצא ללמוד בצרפת והשתקע בניצה. בנו <persName>יעקב</persName> היה מורה בגימנסיה העברית בקובנה, חזר ארצה והתישב בתל-אביב. אחותו <persName>חוה</persName> היא אם משפחת הרשקוביץ בעקרון.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 431 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/431</bibl><bibl>Volume: #1 ,Page: 432 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/432</bibl>
+<bibl>Volume: #1 ,Page: 433 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/433</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3757 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3757</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גיטה דוניה - ויצמן</persName>
+
+</head>
+         <div><p> נולדה במוטילה ליד פינסק (רוסיה) בשנת תרל"ז (18.7.1887).
+
+ לאביה<persName> עוזר ויצמן</persName> (סוחר יערות, מחסידי סטולין ועסקן) ולאמה<persName> רחל לאה</persName> בת<persName> מיכאל צ'מרינסקי </persName> (ממשפחת תלמידי חכמים נודעים).
+
+ אחותו של פרופ'<persName> חיים ויצמן,</persName> נשיאה הראשון של מדינת ישראל.
+
+ קבלה חנוך מסורתי וכללי. חנוך מוזיקלי קבלה בוארשה ובקיוב. ב-1894 גרה כל המשפחה בפינסק כדי לאפשר את ההשכלה לילדים.
+
+ בשנת 1911 עלתה לארץ.
+
+ בשנת 1918 נישאה למהנדס <persName>טוביה דוניה</persName> (ראה כרך ד, עמוד 1920).
+
+ כל חייה קודש לעבודה צבורית.
+
+ בשנת 1924 היא מיסדת יחד עם<persName> גב קרוגליאקוב</persName> <persName>א. קליין</persName> והזמר <persName>פרידמן-לבוב</persName> את בית הספר למוסיקה. ובשנת 1934 הפך בית הספר ל"מכון למוסיקה", הנקרא על שמה "קונסרבטוריון דוניה-ויצמן" בחיפה.
+
+ חנכה דור שלם של מוסיקאים בארץ.
+
+ בין תלמידיה שהתפרסמו בעולם הרחב, יש לציין את הכנרים :<persName>צבי צייטלון ויצחק גיטליס</persName> . והפסנטרנים : <persName>דוד בר-אילן,יהלי וגמן ועמי אלוני.</persName>
+
+ בנותיה :<persName> רנה </persName> אשת מר<persName> אללראד</persName> (ברודזיה),<persName> מיכל</persName> אשת (שמואל)<persName> מילה ברנר</persName> (רב חובל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3757 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3757</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3997 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3997</bibl><bibl>Volume: #12 ,Page: 3998 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3998</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מיכאל ויס</persName>
+
+</head>
+         <div><p> נולד בתמוז תרס"ב (1902) בחומסק שליד קוברין, פלך פינסק, רוסיה הלבנה.
+
+ לאביו ר' <persName>שלמה</persName> (בן דורות של רבנים) ולאמו<persName> גיטל</persName> (נפטרה בהרצליה, בגיל 90) (הוא אחיהם של <persName>משה צחר,</persName> ראש עירית טבריה - ראה כרך י"א עמוד 3863 והרב<persName> אהרן וייס</persName> ז"ל, שנודע בכינוי "העילוי מחומסק", היה רב ומראשוני הפעילים בתנועת המזרחי בפולין אחרי מלחמת העולם א').
+
+ למד בישיבות נובהרדוק וסלאבודקה והשתלם בשפות עברית, רוסית, ופולנית. פעל 12 שנה בתור מורה לעברית, מהן שנים אחדות גם מורה לדת יהודית בביתספר עממי ממשלתי, בחומסק. מגיל 18 פעיל בתנועה הציונית. השתתף בארגון הפגנת השמחה לרגל פרסום הצהרת בלפור. אח"כ השתתף בכינוס הציוני הראשון בפינסק, בכינוס הארצי הראשון בווארשה למען קרן היסוד, בכינוסי מפלגות "התאחדות" ו"גורדוניה" בווארשה, ויסד להן סניפים במקומות רבים, ובכינוסים אזוריים של "תרבות" בפינסק ובבריסק. כן כתב מאמרים בעניני
+
+ ציונות בעתינות היהודית בפולין, והשתתף בפעולות למען יתומי המלחמה.
+
+ ב-1933 נשא לאשה את <persName>אהובה</persName> בת<persName> ישראל אייזנברג</persName> . באותה שנה עלה לארץ.
+
+ זה כמה שנים יו''ר המועצה הדתית בטבריה, גבאי בית-הכנסת הגדול בקרית שמואל, חבר מועצת מפא"י, עסקן של הקהק"ל וקרן היסוד בגליל התחתון, יו"ר ועדות האיזור של כנרת.
+
+ היה פעיל בהגנה.
+
+ צאצאיו: <persName>שלמה, פועה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3997 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3997</bibl><bibl>Volume: #12 ,Page: 3998 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3998</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

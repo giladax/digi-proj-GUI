@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2855 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2855</bibl><bibl>Volume: #7 ,Page: 2856 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2856</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה שילביץ </persName>
+
+</head>
+         <div><p> נולד בעירת לוצין ע"י ריגה (לטביה), ח' אדר תרמ"א (12.1.1881).
+
+ לאביו <persName>ברוך</persName> בן<persName> דוד אריה שלביץ </persName> ולאמו <persName>שרה רבקה</persName> בת <persName>משה ארייב.</persName>
+
+ קבל חנוך בבית ספר עירוני רוסי.
+
+ במרס 1905 עלה לארץ.
+
+ עבד כפועל חקלאי, ונחשב להאורז הראשון בא"י. בשנת 1906 נשא לאשה את <persName>שרה</persName> בת <persName>גרשון בוברוף</persName> (נפטרה בפתח-תקוה, כ"ג אלול תרע"ד-14.9.1914).
+
+ בשנת 1926 היה ממיסדי "כפר אהרן" - מושבה כפרית, קלומטר אחד מדרום לנס-ציונה.
+
+ עוסק בחקלאות, מפקח על בתי אריזה.
+
+ במלחמה העולמית השניה התגייס לצבא הבריטי, לפי צו המוסדות הלאומיים (והוא בגיל 58), ושירת בתור טוראי במשך 4 שנים.
+
+ כתב מאמרים ב"בוסתנאי" במקצוע אריזת פרי. כתב חוברת בשם: "הכנת פרי הדר למשלוח". בכתב - ספר זכרונות מחיי הארץ.
+
+ בנותיו: <persName>חוה </persName> אשת<persName> אליאב זיצוב</persName> (נס-ציונה), <persName>דינה</persName> אשת <persName>עוזר גרי</persName> (נתניה).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2855 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2855</bibl><bibl>Volume: #7 ,Page: 2856 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2856</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

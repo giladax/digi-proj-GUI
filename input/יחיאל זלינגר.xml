@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3735 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3735</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יחיאל זלינגר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סכודניצה</placeName> (פולין) בשנת תרס''ג (16.4.1903). לאביו <persName>מנחם זלינגר</persName> ולאמו <persName>צילה</persName> בת <persName>דוד קרניאלי.</persName>
+
+ קיבל חנוך מסורתי וכללי.
+
+ היה מדריך בתנועת נוער "החלוץ". עבד בעסק הוריו.
+
+ באוגוסט 1925 עלה לארץ.
+
+ היה חבר קבוצה, פועל חקלאי, מנהל עבודה, מנהל פרדסים, מנהל חברות לעיבוד פרדסים, בית אריזה ושיווק פרי.
+
+ בשנת 1929 נשא לאשה את <persName>שושנה</persName> בת <persName>יעקב שיף.</persName> בין ראשוני מיסדי המושבה אבן-יהודה. חבר רוטרי נתניה. פעיל במוסדות הכלכליים והצבוריים במושבה. מנהל קופת מלוה וחסכון במושבה. כיום, ראש המועצה המקומית אבן-יהודה. מיצג את המועצה במוסדות צבוריים. היה פעיל בהגנה ומלא תפקידים במלחמת השחרור. מנהל חברות שונות.
+
+ בנותיו : <persName>שמחה זלינגר, אילנה</persName> אשת <persName>יהודה רוסו</persName> .
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר באבן-יהודה, כ"ו בטבת תשכ"ג (23.1.63)
+
+ (ראה כרך י"א, עמוד 3735)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3735 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3735</bibl>            <bibl>Volume: #13 ,Page: 4357 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4357</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

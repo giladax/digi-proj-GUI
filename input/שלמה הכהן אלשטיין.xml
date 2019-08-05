@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2143 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2143</bibl><bibl>Volume: #5 ,Page: 2144 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2144</bibl>
+<bibl>Volume: #5 ,Page: 2145 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2145</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה הכהן אלשטיין</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"א סיון תרכ"ח (1868), לאביו ר' <persName>יצחק זאב</persName> (לשעבר יצרן טליתות בפינסק) ולאמו <persName>בת</persName> <persName>שבע</persName> בת ר'<persName> נחמן דב משנה</persName> (מצאצאי האדמו"ר ר' <persName>מרדכי</persName> מקרמניץ וגיסו של האדמו"ר ר' אהרן מקארלין), שעלו ארצה בתרכ"ב עם משפחה שהסתעפה אח"כ בערי הארץ וחלק ממנה יסד את בית <persName>אלשטיין</persName> בבירות, שעסק בקנה מדה גדול במסחר מנופקטורה ובעסקי בנק וקומיסיון, קיים קשרי מסחר עם ערי הארץ וביתו שימש אכסניה לעולים ולאורחים ולשד"רים מהארץ.
+
+ למד מפי טובי המלמדים הפרטיים ובאלול תרמ"ד נשא לאשה את <persName>חנה</persName> בת הרב <persName>זאב רובין</persName> (מצאצאי השל"ה הקדוש והרבה דורות של רבנים וגדולי תורה), שעלתה ארצה בת 6 עם הוריה מהעיר לטיצב שבפלך קיוב.
+
+ במשך עשרות שנים ניהל בירושלים עסקי מסחר, בנקאית. וחליפין בקנה מדה גדול ועסקי צבור באמונה ונודע שרו, וגדולי ירושלים האשכנזים והספרדים הו
+
+
+ ולמען קבלת הויזה השליש ערבון כספי בקונסוליה הבריטית בוארשה שיחזור לפולין. בארץ יעצוהו חבריו במפלגה לחזור לבל יפסיד את ערבונו, והבטיחו להשיג בשבילו רשיון-עליה חוקי ואף לתת לו משרה כבודה
+
+ לכשיבוא. אך בגלל פרוץ מלחמת-העולם ב' לא יכול עוד לבוא ומת ונקבר בגיטו לודז'.
+
+ בתו; <persName>אסתר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2143 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2143</bibl><bibl>Volume: #5 ,Page: 2144 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2144</bibl>
+<bibl>Volume: #5 ,Page: 2145 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2145</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

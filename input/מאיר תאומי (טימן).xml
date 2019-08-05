@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1729 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1729</bibl><bibl>Volume: #4 ,Page: 1730 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1730</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר תאומי (טימן)</persName>
+
+</head>
+         <div><p> נולד בניקולאייב, רוסיה, ט' אב תרנ"ח (15.7.1898), לאביו <persName>שלמה</persName> (סוחר) ולאמו<persName> רוזה</persName> בת <persName>דב סקלובסקי.</persName>
+
+ קיבל חינוך כללי בבי"ס יהודי ובגימנסיה בניקולאייב.
+
+ ב-1913 שלחוהו הוריו להמשיך את לימודיו בגימנסיה הרצליה בתל-אביב. בראשית 1915, במלחמת העולם הראשונה, גורש מן הארץ בגלל נתינותו הרוסית ואחרי טלטולים מרובים הגיע חזרה לבית הוריו. השתתף ביזמה ובפעולה ביסוד מכבי והיה חבר פעיל ב"צעירי ציון" ובחוג הדרמתי שלהם בניקולאייב, נכנס ב-1918 ללמוד משפטים באוניברסיטת קיוב, וב-1919 חזר לארץ באנית-העולים הראשונה "רוסלאן".
+
+ התחיל לשחק בהצגות חובבים ביפו ובסוף 1919 היה מראשוני החברים ב"התיאטרון העברי", היא הבמה המקצועית הראשונה בארץ. שיחק במשך השנים הראשונות למעלה מ-150 תפקידים במחזות מקוריים אחדים והרבה מתורגמים, הצטיין במשחק ובדיבור שוטף בעברית חיה וקלה, דבר שהיה נדיר בימים ההם. השקיע הרבה מרץ גם בעבודות ארגוניות (השגת רפורטואר, ריהוט וציוד לתפאורות, ארגון הצגות בערים ובמושבות, שכירת אולמים, פרסום, הדפסת כרטיסים ומכירתם כלל "העבודה השחורה" של האמנות) שבלעדיהן אין קיום לעבודה האמנותית. כתב מפעם לפעם ב"דאר היום". השתתף בנשפים ובחגיגות כמקריא ומדקלם וקונפרנסייה, וב-1927 ערך סיבוב הופעות בגרמניה, פולין, ליטא ולטביה. ב-1929 היה ממיסדי "הקומדיה הארצישראלית".
+
+ ב-1933 נשא לאשה את<persName> יפה</persName> בת <persName>משה פרלו.</persName> אף שהיה מ"חלוצי התיאטרון" לא נמצא בשבילו
+
+
+ מקום על הבמות התיאטרוניות בארץ, כשהחלה אמנות הבמה לצאת למרחב, והוא הוכרח להסתפק בעבודה הארגונית של האמנות. ב-1935 יסד את המשרד התיאטרוני "ארמון", שעסק במכירת כרטיסים להצגות ובארגון הופעות של אמנים ועשרות שחקנים, זמרים ורקדנים וכו' מצאו עבודה ופרנסה בעזרתו.
+
+ בין השאר ארגן את ההופעות האמנותיות ב"גן הואי" שליד "שבע הטחנות" בירקון, ושם נהרג על הבמה בעת התנפלות שודדים או טרוריסטים ערביים אור ליום כ"ד אב תש"ז (9.8.47).
+
+ בניו:<persName> מתן, עודד.</persName>
+
+ במלאת שינים למותו עומד ארגון האמנים להוציא קובץ לזכרו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1729 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1729</bibl><bibl>Volume: #4 ,Page: 1730 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1730</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

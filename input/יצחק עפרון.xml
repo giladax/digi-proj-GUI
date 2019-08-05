@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2622 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2622</bibl><bibl>Volume: #6 ,Page: 2623 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2623</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק עפרון</persName>
+
+</head>
+         <div><p> נולד בעיירה לונה, פלך גרודנה (רוסיה), כ''ה שבט תרנ''ב (7.2.1892).
+
+ לאביו <persName>מאיר</persName> (סוחר ביערות) ולאמו<persName> גולדה</persName> בת<persName> יצחק</persName> <persName>גולדין.</persName>
+
+ קבל חנוך מסורתי ובי"ס תיכוני רוסי.
+
+ עסק במסחר יערות.
+
+ בשנת 1913 עלה לארץ.
+
+ עבד כפועל בחקלאות במושבה יבנאל, במקוה ישראל ועבר לראש פינה.
+
+ גויס ל"עבודה" (סוחרה) בצבא התורכי.
+
+
+ הקים משק חקלאי בראש פינה והתישב ישיבת קבע במושבה.
+
+ בשנת 1918 נשא לאשה את <persName>דבורה</persName> בת <persName>שמואל</persName> <persName>הורויץ</persName> מראש פינה (ראה את הערך שלו בכרך זה).
+
+ היה במשך שנים יו"ר ועד המושבה ראש פינה ופעיל במוסדות הציבוריים במושבה.
+
+ בשנת 1934 הקים מחצבות בגליל ובשנת 1937 נהיה לקבלן הצבא הבריטי בגליל. סדר חלק מרשת הכבישים בצפון הארץ, ובשנות 1938-44 עבד בקבלנות לצבא בסוריה והלבנון והקים רשת כבישים צבאיים שם.
+
+ בשנת 1947 הקים בפתח-תקוה בית חרשת "עולמית" בע"מ, מפעלי אסבסט -מלט בע"מ והצליח לספק תוצרת לכל הארץ. ובזה הקל על הבנין - בהוצאת מטבע זר, לשם רכישת חומרים מחו"ל.
+
+ נבחר (6.1.55) לנשיא לשכת הבנאים החפשים "הכוכב" בתל-אביב.
+
+ אח פעיל בלשכת בני ברית "יצחק ילין" בתל-אביב. חבר בנשיאות קרן הפעולה של הציונים הכלליים בישראל.
+
+ צאצאיו: <persName>מאירה</persName> אשת <persName>ברוך קליינמן, צבי, שמואל,</persName> <persName>עזרא</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2622 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2622</bibl><bibl>Volume: #6 ,Page: 2623 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2623</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

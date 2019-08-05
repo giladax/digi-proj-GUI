@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1281 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1281</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב מרדכי הומינר</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשכונת מאה שערים, בשנת תרמ"ו (1886), לאביו העסקן ר'<persName> שמואל</persName> (ממיסדי השכונות מאה שערים ובית יעקב ובית היתומים דיסקין, שעלה ארצה בתרל"א, בן הגאון ר' <persName>ישעיהו </persName> מברזין, מצאצאי בעל "באר היטב" על השלחן ערוך) ולאמו<persName> בריינה</persName> <persName>רבקה </persName> בת הרב החסיד ר' <persName>דוד הלוי זילדוביץ</persName> ממינסק (ממשפחת הגבירים האחים <persName>זידלוביץ</persName> שהחזיקו על חשבונם את ישיבת וולוזין ובכספם נבנו "בתי מינסק" בירושלים, מצאצאי רבי<persName> שניאור זלמן מלאדי</persName> בעל ה"תניא"). נתחנך על-ידי אביו ללמד בתלמוד-תורה ובישיבת "עץ חיים" מפי גדולי הדור (הגאון ר' <persName>משה נחמיה כהנוב</persName> , הרב <persName>ראובן גוטפריד-ידידיה</persName> ועוד), הצטיין בעודו נער בבקיאותו ובדיעותו הרבה והרב הראשי ר'<persName> שמואל סלנט</persName> ז"ל היה שומע מפיו בהנאה את חידושיו בתורה.
+
+ נשא לאשה א<persName>ת חיה ראשה </persName> בת הרב<persName> זלמן חיים</persName> <persName>ריבלין </persName> (מנהל ת"ת "עץ חיים", בן הרב<persName> אברהם</persName> <persName>בנימין</persName> , בן הרב<persName> משה </persName> מגיד, בן הרב<persName> הלל ריבלין</persName>
+
+ משקלוב, מראשיו ואבותיו של הישוב האשכנזי בארץ ובירושלים, מעולי תנועת "חזון ציון" של תלמידי הגר"א).
+
+ המשיך ללמוד והוסמך לרבנות על-ידי גדולי ירושלים, ומשנת תר"ע ואילך הוא משגיח ובוחן בסניף מזכרת של תלמוד-תורה "עץ חיים", ובשעות הפנאי הוסיף להגות בתורה יומם ולילה עד שהגיע לבקיאות שלימה בכל תלמוד בבלי וירושלמי ובספרות הש"ס והפוסקים. העלה רבים מחידושיו על הכתב ופרסם מאמרים תורניים ב"החבצלת", "קול ישראל" ו"קול יעקב" וחיבר את הספר הגדול "אבן שמואל" (קרא לו כך לכבוד אביו) בהלכה ובאגדה, שהוכן לדפוס. הסתפק במשרתו הצנועה ובהכנסותו הדלה, כדי שיוכל לעסוק בתורה באין מפריע והתרחק מן הפרסום ומן הכבוד. רק בדרך מקרה נודע לגאוני ירושלים הרב זרח אפשטין, הרב אליהו קלצקין והרב א"י קוק על הגאון המסתתר בקרבתם ופעם בפעם היו מבקשים את חות דעתו בשאלות מסובכות בתורה ובהלכה.
+
+ נפטר בירושלים, ז' תמוז תש"ח (14.7.48).
+
+ בניו: הרב <persName>שמואל</persName> (מחבר "ספר עיקרי דינים'' על "החפץ חיים" באיסורי לשון הרע),<persName> זלמן חיים</persName> (חזן).
+
+ ראה תמונתו ב"הוספות" בסוף הספר.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1281 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1281</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

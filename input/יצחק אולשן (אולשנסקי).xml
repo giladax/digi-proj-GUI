@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1210 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1210</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק אולשן (אולשנסקי)</persName>
+
+</head>
+         <div><p> נולד בקובנה, ליטא, בשנת תרנ"ה ( 19.2.1895 ), לאביו <persName>אשר</persName> (סוחר) ולאמו <persName>ליבה</persName> בת <persName>אפרים לוין.</persName>
+
+ קיבל חינוך מסורתי ועברי ולמד בגימנסיה רוסית, עלה ארצה ב-1912, המשיך את לימודיו בגימנסיה הרצליה וגמר בה במחזור השלישי. התקרב <persName>לאליהו גולומב ודב הוז</persName> והיה מפעילי ה"הגנה" מראשיתה. בעת הגירוש הכללי מיפו ותל-אביב בניסן תרע"ז היה אחד מעשרה הצעירים שנשארו ברשיון השלטון הצבאי הטורקי לשמור על הרכוש בעיר הריקה מתושבים יהודים.
+
+ אחרי הכיבוש הבריטי בדרום הארץ התנדב לגדוד העברי הארצישראלי, שרת בו בשנות 1918/21 ועלה לדרגת סרג'נט. אחרי שחרורו מהצבא היה בשנות 1921/22 ראש ההגנה בת"א ונסע למקומות שונים בארץ בעניני הגנה בשליחות <persName>אליהו גולומב</persName> .
+
+ היה זמן-מה מורה בחדרה. אח"כ יצא ללמוד באוניברסיטת לונדון. הוסמך למדעי המזרח ב-1924 ולמשפטים ב-1927. בלונדון עסק גם בעבודה מדינית כמקשר בין הסתדרות העובדים העברית ובין מנהיגי מפלגת העבודה הבריטית, שהיו אז ידידי הציונות. תרגם לאנגלית ב-1927 את "לקח אוקטובר" של <persName>לי</persName> <persName>און טרוצקי</persName> .
+
+ חזר לארץ, הצטרף למשרדו של עוה"ד <persName>מ. עליאש</persName> בירושלים, עבד כעורך-דין ונתפרסם בהרבה משפטים חשובים.
+
+ נשא לאשה את <persName>שמחה (סימי</persName> ), בתם של אברהם <persName>(אלברט) עמיאל</persName> , יליד קאזאבלאנקה, ואשתו <persName>צפורה</persName> קרישבסקי (ראה כרך ב', עמ' 646).
+
+ ב-22.7.48 נתמנה לחבר בית-הדין העליון של מדינת ישראל.
+
+ בנו;<persName> יורם.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1210 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1210</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

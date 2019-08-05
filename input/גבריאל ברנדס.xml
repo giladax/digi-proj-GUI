@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4681 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4681</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גבריאל ברנדס</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וורשה</placeName> ב-27 ביולי 1902 (תרס"ב).
+
+ לאביו <persName>יעקב דוד</persName> (יהודי לאומי-דתי ומשכיל, שהגשים את חזונו, בעלותו לארץ, אף כי מצבו ההומרי היה איתן).
+
+ לאמו<persName> בלומה</persName> בת<persName> יוסף באונזגולד </persName> (מצאצאי הרב <persName>חיים אליעזר וואקס,</persName> רבה של קהילת קאליש, מהראשונים בציונים הדתיים בפולין).
+
+ קיבל חינוך מסורתי, למד בבית-ספר עברי תיכוני "אסכולה" ב<placeName>וורשה</placeName> ולפני עלייתו לארץ למד בחווה החקלאית בצ'נסטוכוב שבפולין.
+
+ בנעוריו פעיל בהסתדרות הנוער הציוני-הצופי "השומר", שקמה בפולין במלחמת העולם הראשונה.
+
+ עלה לארץ עם חלוצי העליה השלישית בשנת 1920, בהיותו בן 18 שנה.
+
+ בשנותיו הראשונות בארץ התנסה בכל עבודות חלוציות: חקלאות, סלילת פסי-רכבת ובכיבוש עבודה עברית בשטחים רבים.
+
+ בשנת 1923 נסע לגרמניה ללמוד כימיה בטכניון שבויסבאדן ובסיימו חוק-לימודיו חזר לארץ כבעל תואר של כימאי.
+
+ בשנת 1926 נשא לאשה את<persName> חנה</persName> בת<persName> שמואל</persName> <persName>שפירא</persName> (ילידת קובנה שבליטה, אביה מחניכי הישיבה בוולוז'ין).
+
+ השתקע בחיפה. מראשוני החרשתנים במפרץ חיפה, בהקימו שם בית-חרושת למראות ולתוצרת של זכוכית שטוחה, אותה ייצא לארצות המזרחהתיכון. הקפיד על העסקת פועלים עבריים במפעלו.
+
+ מפעילי התאחדות בעלי-התעשיה בחיפה, חבר הנהלתה ורבה זכותו בהקמת "בית התעשיינים" בחיפה; חבר הועדה המייעצת של "תכנית אב'' לתיכנון העיר חיפה ; חבר מועצת סניף מפלגת הציונים הכלליים בחיפה; במלחמת השחרור חבר בועדת הגיוס בחיפה ולאחר-מכן הרשות המוסמכת לטפול בעניני נכי מלחמת הקוממיות מטעם משרד הבטחון.
+
+ איש, שהכל רחשו אליו אימון, בהביאם לפניו תעצמותיהם ועניניהם, כי הצטיין בתבונה, בשיקולדעת ובמידות טובות.
+
+ נפטר בחיפה, ד' תשרי תשט"ו (1.10.54).
+
+ הניח אשה<persName> חנה </persName> וצאצאיו :<persName> יוסף</persName> (מאנשי פלמ"ח, השתתף במלחמת הקוממיות ונפצע בה, כעת רופא בחיפה. אשתו<persName> שרה</persName> לבית <persName>שנקו); חנינא </persName> (עורך-דין בחיפה, אשתו<persName> ג'ני</persName> בת ד"ר <persName>שמשון צ'רטוק</persName> , ממייסדי קופת-חולים לעובדים לאומיים ומנהלה עד יום פטירתו); <persName>ידידה,</persName> אשת<persName> גבריאל כהן.</persName>
+
+ נכדיו: <persName>גבריאלה, אורלי, גיל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4681 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4681</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

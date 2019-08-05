@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 678 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/678</bibl><bibl>Volume: #2 ,Page: 679 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/679</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גדליהו שטוצינר</persName>
+
+</head>
+         <div><p> נולד בפלונסק, פולין, בשנת תרמ"ו (15.1.1886), לאביו<persName> משה מאיר</persName> , סוחר יערות, נכד ר' <persName>ליבוש</persName> <persName>צונץ</persName> . בשנות המהפכה 1905/6 היה חבר בארגון פועלים בוארשה. ב-1907 יצא לאמריקה והיה חבר "פועלי ציון" בניו-יורק. בשנות 1913/14 השתתף בעבודת תעמולה וארגון ביסוד "אחוזה א' ניויורק", במטרה להכין לחברים נחלת-מטעים בארץישראל שימצאו בה את פרנסתם לכשיעלו להתישב בארץ, והיה מזכיר החברה וחבר הנהלתה עד שנת
+
+ 1927. ב-1921 השתתף ברכישת 8000 דונם ליסוד המושבה רעננה ואח"כ גם בנטיעת הפרדסים בשביל החברים.
+
+
+ בשנת 1927 בא ארצה ובסוף אותה שנה חזר לאמריקה והמשיך בתעמולה בין היהודים להגביר את הפעולה לפיתוח הארץ בשיטת הכנת משקים ונחלות-מטעים באופן מאורגן על-ידי הון פרטי בשביל אנשים הממשיכים לעת עתה בעסקיהם בחו"ל, אך מתעתדים לעלות ארצה לכשיהיה המשק מוכן ומוכשר לפרנס את בעליו.
+
+ בשנת 1930 עלה ארצה להשתקע וב-1931 השתתף מטעם החברה ביסוד המושבה גן-יבנה על 6000 דונם, בנטיעת הפרדסים, סלילת הדרכים והכנת המשקים.
+
+ בפעולות אלה רוכז הון קרוב למיליון דולר ומאות משפחות עלו ארצה והשתקעו ברעננה ובגןיבנה.
+
+ היה בין הפעילים לגאולת 3000 דונם מאדמת אל-חרם וארסוף, שעליה הוקמו שפיים ורשפין ליד הרצליה. יסד בתל-אביב את חברת "הכשרה" בע"מ, שבמשך הזמן גאלה קרקעות על הכרמל, במפרץ חיפה, מזרחית לרמת-גן (אחוזת גן), שטח מאדמת ג'ליל בשביל התישבות עירונית להמשך העיר תל-אביב מעבר לירקון, על הר כנען, ועוד. הקים בנינים בתל-אביב, בטבריה ובהרצליה. משתתף בפעילות הציונית בתור חבר הציונים הכלליים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 678 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/678</bibl><bibl>Volume: #2 ,Page: 679 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/679</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

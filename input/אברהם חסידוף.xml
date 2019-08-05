@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2626 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2626</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם חסידוף</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ד ניסן תרנ"ח (14.4.1898).
+
+ לאביו<persName> דניאל</persName> ולאמו<persName> יוכבד</persName> בת <persName>משה מיקה</persName> .
+
+ קבל חנוך מסורתי בחדר וכללי בגמנסיה העברית בירושלים. 
+
+ גויס לצבא התורכי במלחמה העולמית הראשונה. החל במסחר חומרי בנין ובעיקר התמסר בגאולת קרקעות בירושלים, מידי השכנים הערבים.
+
+ הקים חברת בנין שכון עממי חסידוף בע"מ ובנה שכונה בכרם אברהם וכן בשאר חלקי העיר החדשה בירושלים.
+
+ וכן הקים בנינים בחיפה על הר הכרמל.
+
+ נשא לאשה את <persName>גרסיה</persName> בת<persName> יוסף הדיה</persName> (ילידת הארץ).
+
+ ממיסדי החברה למטעי א"י-קפריסין בע"מ וכן בחברת נטיעות הדרום בע"מ (בין נצנים וכפר ורבורג). נטעו עד היום כ-1200 דונם כרמים לצמוקים, פרדסים כ-200 דונם.
+
+ בשנת 1943 נתמנה למנהל בנק א"י-לדיסקונט בע"מ בירושלים, וחבר ההנהלה המרכזית שלה.
+
+ מנהל החברה הישראלית להשקאות בע"מ, שהשקיעו סכומים גדולים בחברות שונות בארץ ועזרו ע"י זה להתפתחותן.
+
+ היה יו"ר הסתדרות בעלי בתים בירושלים.
+
+ היה מהפעילים בהתגיסות והצלה בשעת חרום בארץ.
+
+ נשיא העדה הגורזית בירושלים.
+
+ צאצאיו : <persName>גאולה</persName> אשת <persName>אליעזר שמואלי, שרה</persName> אשת <persName>יגאל ארנון, שמחה, דניאל, יוסף</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2626 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2626</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

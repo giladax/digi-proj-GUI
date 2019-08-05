@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4283 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4283</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחמיה וסרמן</persName>
+
+</head>
+         <div><p> נולד בתל-אביב, ל' חשון, תרפ"ט (13.11.1928).
+
+ לאביו ר'<persName> יוסף זונדל וסרמן</persName> (ראה כרך ד', עמוד 1645), דור ששי ל<persName>הגרי"ז מסלנט</persName> זצ"ל (ראה כרך א', עמוד 284) שעלה לארץ לפני 125 שנה בשנת תקצ"ח (1838) ולאמו חנה בת הרב <persName>אליהו לנדא</persName> ז"ל, נכד הגר"א מווילנא זצ"ל (ראה כרך א' עמוד 116). דור ששי לרבי <persName>אברהם הדיין</persName> משקלוב זצ"ל אבי משפחת <persName>ולפנזון-בן-זאב,</persName>
+
+ מראשוני העולים מתלמידי הגר"א בשנת תק"ע (1810).
+
+ אחרי סיימו לימודיו בביה"ס ביל"ו יצא עם חבריו לעבוד בחקלאות, ואחרי שקיבלו הכשרה במושב "שדה יעקב" עברו לקיבוץ "שדה אליהו" שעל-יד "טירת צבי".
+
+ עם ייסוד "משואות-יצחק" (על שם הגר"י הרצוג זצ"ל) בגוש עציון בהרי חברון. היה מחברי הקיבוץ.
+
+ במלחמת השחרור נלחם יחד עם חבריו בהגנת המקום עד שנלקחו בשבי הלגיון והובאו יחד עם מגיני ירושלים למחנה ב"מפרק" שבעבר הירדן. בימי שהותו בשבי השתלם בשפה הערבית ובספרותה.
+
+ בהשתחררו נתקבל ל"מטה הארצי" של המשטרה בתור סמל במחלקת המיעוטים. בעת כיבוש עזה שימש בה במזכירות המשטרה, בשטח הכיבוש ועלה לדרגת "רב סמל".
+
+ נשא לאשה את<persName> רבקה </persName> בת ה"ר <persName>אריה ארביט,</persName> ממנהלי ישיבת "כרם דיבנה" בדרום.
+
+ צאצאיו:<persName> מרים, אלישבע-טובה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4283 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4283</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

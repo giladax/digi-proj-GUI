@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1658 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1658</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר חנניה פיינשטיין</persName>
+
+</head>
+         <div><p> נולד בבריסק דליטא, י"ב חשון תרמ"ט (1888), לאביו<persName> יעקב ישראל</persName> (ממיסדי "מנוחה ונחלה" בווארשה ומראשוני המתנחלים ברחובות, ראה את הערך על שמו בכרך זה) ולאמו <persName>חינקה רייזל</persName> בת <persName>אליעזר ליפמן</persName> <persName>לדרהנדלר</persName> .
+
+ אחרי למדו שנים אחדות בחדרים ובבית-ספר לקחוהו אביו עמו כשבא לביקורו הראשון בארץ ב-1898 והשאירהו בבית הסבא ר'<persName> יונה צבי</persName> בנוה שלום שביפו. למד בבית-הספר של "אליאנס" ביפו ואח"כ "בביתהמדרש למורים של חברת "עזרה" הברלינית בירוש
+
+ לים. היה פעיל בלהקת הנוער של חובבי הבמה העברית, שיחק בפעם הראשונה בתפקיד "יהודה המכבי" במחזה "החשמונאים" בהצגתו בראשון לציון ואחרי כן בתפקידים ראשיים שונים בהצגות רבות ברחובות. כן היה פעיל בארגון החגיגות העממיות שנערכו בכל שנה בימי חול-המועד פסח ברחובות.
+
+ בתרס"ה היה ממיסדי "חברת ההגנה" ברחובות ועד תר"ע היה מזכירה.
+
+ ב-1910 יצא ללמוד רפואה באוניברסיטת קניגסברג בגרמניה (קאליניגראד כיום). ב-1915 נשלח "כמעט הביתה" לבית-החולים של הצלב האדום הגרמני באיסטמבול ושם עבד בתור רופא ליד הד"ר <persName>תיאודור זלו</persName> <persName>ציסטי.</persName> בנומבר 1918, בעת התמוטטות טורקיה ומעצמות המרכז בעלות בריתה, כאשר כל הארצישראליים שהובאו לאיסטמבול חזרו או התכוננו לחזור ארצה, נשלח הוא לגרמניה ללוות שיירה של פצועים ומבריאים. התמחה בגרמניה ברפואה משפטית וחזר ארצה.
+
+ מ-1922 עבד בתור רופא ברחובות, בשנות 1926/31 בחיפה ומאז שוב ברחובות.
+
+ ב-1924 נשא לאשה את<persName> דבורה</persName> בת<persName> דב אהרונוביץ.</persName> חבר פעיל בהסתדרות הרפואית מאז שובו ארצה ובמשך שנים רבות מזכיר סניף הדרום שלה. אח בלשכת הבונים החפשים "ראובן" בחיפה וחבר בלשכת "הרצל" של בני ברית ברחובות.
+
+ בתו: <persName>רות יעקבה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1658 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1658</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

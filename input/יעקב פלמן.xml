@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3094 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3094</bibl><bibl>Volume: #8 ,Page: 3095 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3095</bibl>
+<bibl>Volume: #8 ,Page: 3096 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3096</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב פלמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>מזריטש</placeName> (פולניה) בשנת תרכ"ט (1869).
+
+ לאביו <persName>דב דוד הלוי פלמן </persName> (ראה כרך שני, עמוד 785) ולאמו<persName> צפורה.</persName>
+
+ קבל חנוך מסורתי בחדר ובישיבה.
+
+ בילדותו נתיתם מאמו.
+
+ אשתו השניה של אביו, <persName>שרה איטה</persName> (ראה כרך שני, עמוד 568) גידלה אותו, את אחיו <persName>אהרן ליב</persName> (ראה כרך שני, עמוד 743) ואחותו<persName> סימה,</persName> כאם טובה ומסורה.
+
+ אחרי שאביו סייר בא"י בראשית תרמ"ג (1883) והכין בית ומשק בכפר סומל (ליד יפו -אז. היום צפון תל-אביב). שקראו לו "אחוזת גינת דוד". האב חזר למזריטש עירו, והכין את משפחתו לעליה לארץ.
+
+ בכסלו תרמ"ד (בסוף 1883) עלה עם המשפחה לארץ.
+
+ למד תורה בביתו שבפרדס מפי הרב<persName> נחמן גדליה</persName> ברודר (ראה כרך א', עמוד 178).
+
+ בן חמש-עשרה היה כשנרתם מיד עם אביו ואחיו הבכור <persName>אהרן ליב</persName> לעבודת המשק המעורב ולנטיעת הפרדס, והגיע למומחיות במקצוע, ואחרי פטירת אביו, בתמוז של אותה שנה, המשיך לעבוד במשנה מרץ ומסירות.
+
+ האלמנה הצעירה <persName>שרה איטה</persName> (אמו החורגת) נטלה על עצמה את העול הכבד של הנהלת המשק וגידול בנים גם יחד. ובעזרת הבנים המבוגרים (החורגים) התפתח המשק.
+
+ נשא לאשה את<persName> חנה פייגה</persName> בת הרב <persName>בנימין סלנטר.</persName>
+
+ החתונה נערכה בפאר רב באחוזה שלהם, שני זוגות פרדות הוצאו מן האחוזה, רתומים לשני קרונות גדולות, והקרונות נעצרו ביפו ובפתח-תקוה על יד כל בית המוזמן לחתונה, עד שאספו את המחותנים, לבושי הדר, וכך הובאו בשמחה ובששון אל מקום החתונה. גם השכנים הערבים והשייך בראשם הוזמנו.
+
+ נפטר בירושלים תש"ו (1946. . .).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3094 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3094</bibl><bibl>Volume: #8 ,Page: 3095 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3095</bibl>
+<bibl>Volume: #8 ,Page: 3096 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3096</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

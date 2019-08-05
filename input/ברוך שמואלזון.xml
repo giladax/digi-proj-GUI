@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 933 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/933</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ברוך שמואלזון</persName>
+
+</head>
+         <div><p> נולד בסמורגון, פלך וילנה, ליטא-רוסיה, בשנת תרי"א (1851), לאביו<persName> מיכאל</persName> ולאמו <persName>שיינה דבורה</persName>
+
+ ממשפחת <persName>שטראשון</persName> מוילנה. קיבל חינוך מסורתי-תורני.
+
+ נשא לאשה את <persName>בתיה</persName> , בת אחיו <persName>אריה ליב שמואלזון.</persName> (בעודה צעירה, התאלמנה מבעלה ברוך ועליה הוטל לגדל ולפרנס את שלושת בניה היתומים במחלות, בצער ובעמל. היא הקימה את בית המלון הראשון בחדרה. עבדה וניהלה אותו בעזרת בתה, ובו בזמן נטעה פרדסים בעזרת בניה והקימה משק יפה במושבה),
+
+ יסד בית-חרושת ובית-מסחר לטבק והיה חבר פעיל באגודת חובבי ציון.
+
+ בסוף שנת תרמ"ט בא לבקר בארץ, וכשרכשה בתר"ן חברת "מנוחה ונחלה" באמצעות<persName> יהושע חנקין</persName>
+
+ את אדמת "דוראן לשם יסוד המושבה <persName>רחובות</persName> , קנה ממנה נחלה בשטח זה וחזר לחו"ל לחסל את עסקיו ולהתכונן לעליה.
+
+ בתרנ"א עלה ארצה עם<persName> מיכאל </persName> בנו ומצא תנועת התישבות על שטח נרחב הרבה יותר: בעזרת <persName>זאב</persName> <persName>טיומקין</persName> (אז ראש הועד הפועל של חובבי ציון מרוסיה ביפו) רכש <persName>יהושע חנקין</persName> 30.000 דונם קרקע ליסוד המושבה<persName> חדרה </persName> והוא מכר אותה לאגודות מאורגנות לפי הערים ("אגודת וילנה", "אגודת קובנה', "אגודת ריגה" וכו') ואף ליחידים. אז מכר את נחלתו ברחובות וקנה 300 דונם בחדרה, השתכן עם בנו ב"חאן" הידוע עם ראשוני המיסדים ואח"כ הביא ארצה את יתר בני משפחתו והיה הראשון שהתחיל לבנות בית במושבה מול ה"חן" ההיסטורי. נשא בדממה את יסורי הקדחת שפקדה אותו ואת בני ביתו, נטע כרם ועבד במשקו ונזהר לבלי להתאונן על ארץ-ישראל.
+
+ בסוף הפילתו הקדחת הצהובה, הובל לרופא בחיפה ושם נפטר ונקבר ביום ד' אללל תרנ"ח.
+
+ צאצאיו:<persName> מיכאל, מתתיהו, חיה לאה</persName> (נישאה לנחמן <persName>רם</persName> וילדה לו את <persName>ברוך וישכר רם</persName> , מעסקני חדרה, ואחרי מותו נישאה<persName> לשלמה מאירסון</persName> , מעסקני חדרה וראש הועד והמועצה שלה במשך הרבה שנים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 933 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/933</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

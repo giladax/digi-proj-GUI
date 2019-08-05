@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 748 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/748</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיה הרכבי</persName>
+
+</head>
+         <div><p> נולדה בפתח-תקוה, י"ז חשון תרנ"ט, לאביה<persName> מנחם</persName> <persName>יהודה </persName> בן<persName> בנימין שטאמפר</persName> (מחלוצי העולים מהונגריה שהשתתפו ביסוד פתח תקוה, תלמיד חכם ועסקן צבורי,
+
+ ממיסדי אגודת הפועלים הראשונה וצירם הנאמן לפני פקידות הבארון רוטשילד ויק"א בפאריס, אחיו של יהושע שטאמפר), ולאמה<persName> לאה</persName> בת ר' <persName>משה</persName> <persName>הומינר-כץ</persName> מירושלים. למדה בבית-הספר העממי בפתחתקוה והשתלטה בהשכלה תיכונית בעזרת מורים פרטיים, במיוחד ע"י הסופר שלום שטרייט. היתה חברה פעילה בחברת "לינת הצדק" בפ"ת לעזרת חולים ובמלחמת-העולם הראשונה היתה פעילה בהגשת עזרה סוציאלית לנגועי המצוקה ולמגורשי יפו ות"א שהתרכזו בפ"ת. אחרי הכיבוש הבריטי היתה עובדת סוציאלית מטעם ועד הצירים בירושלים, בועד הסיוע ליתומי המלחמה שהתנהל בנשיאותה של הגב' עליזה זליגסברג מאמריקה (ראה כרך א' עמוד 505).
+
+ בתר"פ נישאה למר <persName>צדקיה הרכבי</persName> , לפנים מורה בפתח-תקוה, אח"כ שופט-שלום ממשלתי, שופט-רשם בית-הדין המחוזי בתל-אביב (נפטר בת"א, י' תשרי תש"ח).
+
+ חברת הנשיאות של הסתדרות נשים ציוניות ויצ"ו בתל-אביב, יו"ר המחלקה להכשרת האשה בסניף ת"א של ויצ"ו. במלחמת-העולם השנית היתה פעילה בתפקידים שונים בועד למען החייל היהודי, בעיקר בביקורי חיילים עברים בבתי-החולים הצבאיים, טיפלה במסירות אמהית בחיילים חולים ובמשפחותיהם ועוררה את דעת הקהל על הצורך בעזרה על-ידי פרסום רשימות רבות בעתונות על נושאים סוציאליים, מהוי החיילים העברים בבתי-החולים הצבאיים ובעיות החייל המשוחרר וכן פרסמה זכרונות על חיי-המושבות הראשונות ועל תלאות מיסדיהן וחלוציהן.
+
+ ביתם בית ועד לחכמים, לשוחרי דעת ותרבות, לעסקנים צבוריים ומרכז עדוד לכל מפעל צבורי סוציאלי ותרבותי בישוב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 748 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/748</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

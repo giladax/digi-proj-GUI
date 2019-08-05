@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 431 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/431</bibl><bibl>Volume: #1 ,Page: 432 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/432</bibl>
+<bibl>Volume: #1 ,Page: 433 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/433</bibl>
+<bibl>Volume: #1 ,Page: 434 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/434</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף דוד הורביץ</persName>
+
+</head>
+         <div><p> נולד במינסק, רוסיה, י"ח כסלו, תרל"ב, לאביו ר' <persName>אריה ליב</persName> שנקרא ר' "ליב צדיק". למד בחדר ואח"כ בישיבת וולוזין אצל הרב ר'<persName> יוסף דב סולובייצ'יק</persName> והגאון הנצי"ב זצ"ל והגיע לדרגה גבוהה בידיעת התורה ולבקיאות בתלמוד "על חודה של מחט" (זה היה ציון מיוחד לבקיאות, כשנעצו מחט באיזה מקום בגמרא, והנשאל ידע לומר מה כתוב באותו מקום בדפים הבאים, עד 30-20 דף).
+
+ לפי השפעת דודו ר' יהודה הורביץ (שנדב שלשה בתים לת"ת במזכרת משה בירושלים) קבל סמיכות משני רבותיו הנ"ל.
+
+ בן י"ח עלה ארצה (י"א חשון תר"ן) ולאחד שנה נשא לאשה את<persName> שיינה</persName> בת הנדיב והעסקן הנודע ר' <persName>בצלאל </persName> הכהן<persName> לאפין</persName> . זמן קצר לאחר חתונתו הכניסו חותנו לחיי המסחר בעסק העמילות שבנמל יפו, התמצא במהרה בתנאי העבודה הקשים והמסובכים ששררו בנמל יפו בימים ההם, במגע עם סוחרים, ספנים ערבים ופקידי-מכס טורקיים. כן עסק בסחר ההדרים בחברת
+
+ כהנוב-הילמן והשתתף בנטיעת הפרדס הגדול "פרדס סגולה" בפתח-תקוה. אנשי המסחר הוקירוהו בגלל תבונתו וישרו ורבים, יהודים וערבים, פנו אליו שיהיה להם לבורר בסכסוכיהם, ותודות לבקיאותו ולחריפותו בחלק המשפטי שבתלמוד ובהלכה ידע תמיד לפשר או לפסוק דין לשביעת רצונם ולהכרתם של שני הצדדים. שכר טרחה לא לקח בעד שרותים כאלה, אלא לפעמים, כשהטרחה ואבדן הזמן היו גדולים ביותר, היה מטיל על הצדדים לשלם סכומים כפי שקצב עליהם לטובת הקרנות או לטובת איזה מוסד צבורי. הוא לא הסתפק בתמיכה זו למוסדות, מכספי אחרים, אלא הוא עצמו היה תומך בקביעות וביד רחבה בהרבה מוסדות תורה וחסד של הישוב הישן והחדש, וביחוד הרבה לפעול ולתת לטובת הישיבות ומוסדות החסד שבירושלים.
+
+ הוא ואשתו יסדו קרן מיוחדת על שם חותנו ואביה ר'<persName> בצלאל לאפין</persName> . גם מכספו היה עוזר בגמילות חסדים לפונים אליו, ואפילו בסכומים גדולים יותר לצרכי סידור בפרנסה, וכדומה. כן קיבל עליו פעמים רבות את הטורח לטפל בעניני אלמנות ויתומים כאפוטרופוס וממונה מאת אנשים באים-בימים להוציא לפועל את צוואותיהם לאחר פטירתם. עזר לרבים בעצות ובהדרכה לסידורם בפרנסה ולסילוק קשיים מדרך חייהם.
+
+ במלחמת-עולם הראשונה ובתקופת ה"הגירה" של מגורשי יפו- תל-אביב היה חבר פעיל בועד המכולת להספקת צרכי מזון לתושבי העיר היהודים (ואף באופן פרטי עזר לרבים להצילם מרעב) ואח"כ בועד ההגירה, בראשותו של <persName>מאיר זיזנגוף,</persName> לעזרה למגורשים במקומות פזוריהם.
+
+ השתתף ביסוד בנק הלואה וחסכון בתל-אביב והיה פעיל בהנהלתו. בתרפ"ג יזם ייסוד קבוצות בוני בתים ע"י הלואה וחסכון ת"א ורכש בכסף זה חלק מאדמת שכונת "תל-נורדאו". היה חבר ותיק בלשבת המסחר ביפו-תל-אביב וחבר פעיל בועד המפקח של בית
+
+
+ הספר התיכוני למסחר בתל-אביב, חבר משפט השלום העברי.
+
+ נפטר בתל-אביב, י"ד כסלו תרצ"ז, ונקבר בבית הקברות הישן.
+
+ לאות הערכה לפעולתו בגמ"ח הורביץ נוסדה בתש"ו "קרן על שם יוסף דוד ושינה הורביץ".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 431 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/431</bibl><bibl>Volume: #1 ,Page: 432 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/432</bibl>
+<bibl>Volume: #1 ,Page: 433 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/433</bibl>
+<bibl>Volume: #1 ,Page: 434 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/434</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3485 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3485</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מינדול מנדלמן</persName>
+
+</head>
+         <div><p> אשת הרב רבי <persName>מאיר מנדלמן</persName> ילידי העיר פלונגיאן שבליטא.
+
+ בעלה היה גדול בתורה ועסק בקבלה.
+
+ בשנת תרי"ז (1857) בהיותם צעירים לימים עלו לארץ עם שלשת ילדיהם הפעוטים, הבכור<persName> יחזקאל </persName> (כרך ז' עמוד 2918). היה בן 5 והקטנות יותר <persName>באשה ושרה.</persName> הדרכים היו אז משובשות. אניות קיטור לא היו
+
+ עדיין. זמן רב טולטלו בדרך הקשה עד הגיעם ליפו וממנה טולטלו על גבי גמלים עד ירושלים. בעלה היה ממגידי השעור בבית המדרש הישן "מנחם ציון" אשר בחורבת רבי יהודה החסיד. הם היו מהמתישבים הראשונים מחוץ לחומת ירושלים בשכונה הראשונה "משכנות
+
+ שאננים" שמשה מונטפיורי הקים מול הר ציון מעזבון השופט <persName>יהודה טורא </persName> מניו-אורליאנס. צאצאי משפחה זו נמצאים בכל חלקי הארץ וגם בחוץ לארץ. בארץ היו בין המתישבים בשכונת ירושלים ובכפר העברי, בגוש עציון ובדרום ובין הלוחמים במלחמת השחרור ובמבצע סיני.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3485 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3485</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

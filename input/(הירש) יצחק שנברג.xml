@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1719 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1719</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>(הירש) יצחק שנברג</persName>
+
+</head>
+         <div><p> נולד בפרוסקורוב, בשנת תרס"ז (21.2.1907), לאביו <persName>יוסף</persName> ולאמו <persName>חיה</persName> (מצאצאיו של רבי לוי יצחק מברדיצ'ב).
+
+ בתקופת המהפכה והפרעות יצא עם הוריו לפולין. קיבל חינוך כללי בגימנסיה רוסית, וחינוך עברי בבית
+
+ הוריו ובבית המדרש. הצטרף לתנועת החלוץ ובשנת 1924 עלה לארץ. עבד בבנין, בהובלה בנמל יפו, בגמלים ובחמורים. נצטרף למתישבים במרחביה, בשעת יסוד המושב, ועבד שם שנה בחקלאות, לאחר מזה נכנס לשירות ממשלת המאנדאט ושימש פקיד הרכבת בלוד, ברחובות ובתחנה שבדרך למצרים.
+
+ בשנת 1932 יצא לבלגיה וגמר את חוק לימודיו במדעי החברה באוניברסיטה של בריסל. משחזר מחו"ל נשמע לכשרונו הספרותי שתבע את גילויו. התחיל בכתיבת שירים, מהם שירים לעשרות שנהפכו לשירי-עם, והמשיך בכתיבת סיפורים ונובילות, שנתפרסמו בשבועון "מאזנים" "הפועל הצעיר", ובירחונים "גזית" ו"גליונות". ברבות הימים משך ידו מעבודות אחרות ועבר לעסוק בספרות מעשה קבע. תירגם עשרות ספרים משובחים מספרות
+
+ העולם לעברית יפה, גמישה ועשירת ביטוי. וכן פירסם ספרים משלו.
+
+ בשנת 1937 נתמנה מזכירו של מר<persName> זלמן שוקן</persName> לעניני האוניברסיטה העברית בירושלים, בשנת 1942 נתמנה עורך "הוצאת שוקן", והחל משנת תש"ג הוא עורך את "לוח הארץ".
+
+ ספריו המקוריים הם: בשר ודם (הוצאת תרשיש, 1941), מארץ אל ארץ (תרשיש, תש''ג), בין כוכב ודשא (לבני הנעורים, תרשיש, תש"ג); בהוצאת שוקן: ימים ידברו, אחד מאלף, סיפורים מארץ עוץ, מאז ומקדם.
+
+ מתרגומיו הנודעים : סיפורי ליסקוב, "נפשות מתות" של גוגול (בעד שני אלה זכה בשנת תש"ח בפרס טשרניחובסקי של עירית תל אביב לתרגומים מעולים), קובץ מאמרות המוראליסטים הצרפתים (הוצאת תרשיש), "אמריקה" של קאפקה (הוצאת שוקן), "ענבי זעם" של סטיינבק (ספרית פועלים), וכן כתבים של דוסטוייבסקי, באלזאק, מאלרו, ג'יונו, פרוספר מרימה, שניצלר, טראוון, רילקה וכו'.
+
+ בכתובים עמו: "מלכות שבטלה" (רומאן יהודי מתקופת המהפכה הרוסית), קובץ תרגומים משירת העולם, "נוה אחים" (רומן מחיי הארץ), שני מחזות מחיי הארץ, שני כרכים של סיפורים חדשים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1719 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1719</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

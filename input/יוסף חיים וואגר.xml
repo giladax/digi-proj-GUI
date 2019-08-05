@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2496 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2496</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף חיים וואגר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> י' טבת תרנ"ט (1899)
+
+ לאביו ר' <persName>אשר זאב וואגער </persName> מנובוגרודק (ראה בכרך זה) ולאמו <persName>שרה עטיל בת יצחק קמינסקי </persName> מפינסק. למד בביה"ס לבנים "למל" ב<placeName>ירושלים</placeName> בו התרכזו מיטב המחנכים העבריים בזמנו. השתתף בעודו רך בשנים במלחמת השפות שהשאירה רושם עמוק בנפשו. במלחמת העולם הראשונה התנדב בגיל צעיר לשרות
+
+ עזר באניות המשלחת הצבאית לגליפולי. לאחר זה התנדב לצבא הבריטי הסדיר, בתקוה שישתתף בקרבות על ארץ-ישראל. נשלח לאמונים לאנגליה ומשם ישר לחזית פ'לאנדריה. לאשרו הוחזר גדודו לאפריקה המזרחית השתתף בקרבות בערב ונפצע. נשלח אחר כך למזרח הרחוק. במסעיו נפגש עם פליטים יהודים והגיש להם עזרה. עם גמר המלחמה הציע לו הצבא להתישב על אדמת קנדה בעזרת הממשלה הבריטית. הוא דחה את ההצעה ודרש שיחזירוהו למולדתו אשר עבורה נלחם
+
+ במלחמה. השתחרר בקאנטרה ונסע ישר ירושלימה שלא עזבה כל ימיו. עבד במקצועו הטכני והיה אחר כך פקיד בחברת החשמל ב<placeName>ירושלים</placeName>.
+
+ נשא לאשה את <persName>חנה שרלין</persName> מירושלים ונולדו להם שני בנים שהשתתפו במלחמת השחרור. הבכור השתתף בקרבות העיר העתיקה. היה פעיל בהגנת הישוב עד סוף ימיו. היה חבר "ההגנה", חבר לארגון חיילים משוחררים, חבר הסתדרות העובדים הכללית. מאמציו בתקופת מלחמת השחרור ועבודתו התישו כחותיו.
+
+ נפטר ב<placeName>ירושלים</placeName> ביום כ"ד תשרי תשי"א (4.10.50).
+
+ צאצאיו: <persName>מרדכי</persName> (רואה חשבון, ירושלים), זאב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2496 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2496</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

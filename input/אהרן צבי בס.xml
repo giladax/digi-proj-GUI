@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1429 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1429</bibl><bibl>Volume: #3 ,Page: 1430 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1430</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן צבי בס</persName>
+
+</head>
+         <div><p> נולד בשומיאץ, פלך מוהילוב, רוסיה הלבנה, בשנת תרכ"ד (1864), לאביו <persName>משה הלוי</persName> (ממוצא חזנים, יודעי נגן, ומכאן השם "באס") ולאמו<persName> חיה.</persName> קיבל חינוך תורני והצטיין בלימודיו בישיבה הגדולה שבעירו, ובגיל צעיר נטה להשכלה.
+
+
+ נשא לאשה את <persName>מינה </persName> בת <persName>ניסן וצפורה האפט</persName> מפוצ'פ, פלך צ'רניגוב (נפטרה בתל-אביב, א' ניסן תרפ"ו).
+
+ בהשפעת הסופר <persName>אברהם יעקב סלוצקי </persName> (סופר "המליץ"), שהתודע אליו בתרמ"ט, נעשה ציוני נלהב. התמסר להוראה עברית בעברית ובבתי נכבדים לימד עברית ודקדוק גם לבנות. נדד מעיר לעיר ולא מצא מנוח אף באחת מהן, כי לבו משכו לארץ-ישראל, ובראשית תרס"ה עשה את הצעדים האחרונים לעלות לארץ עם משפחתו.
+
+ בהושענא רבה תרס"ה נכנס באודיסה אל הרב <persName>דוד שלמה סלושץ</persName> (אביו של הפרופ' <persName>נחום סלושץ)</persName> לקבל את ברכתו לפני הפלגתו באניה ליפו. הרב הזהירו על קשיי הקיום בארץ ואמר: "גם אני הייתי רוצה לעלות ארצה, אך אינני נוסע כי אינני יודע אם
+
+ אוכל להתקיים שם". ובראותו שדבריו העציבו את ר' אהרן צבי אמר בסוף; "נו, אם כבר החלטת לעלות - יהא השם בעזרך !" כעבור ימים אחדים, בהיותו עם משפחתו באניה בדרך ליפו, פרצו הפרעות באודיסה (17.10.1904), בשלשת ימי הפרעות נהרגו יהודים רבים, והרב סלושץ הוכה בשוטים באכזריות רבה וכעבור שבוע ימים מת.
+
+ בחשון תרס"ה הגיעו ליפו ואחרי ימים מספר נודע לו שמבקשים מורה לעברית לתלמוד-תורה שבראשון לציון. על סמך מכתב שהביא מאת רבה של פוצ'פ, הרב <persName>יהושע נתן גנסין</persName> (אביהם של הסופר<persName> אורי ניסן</persName> ואמן-הבימה<persName> מנחם גנסין) </persName> נתן לו הרב <persName>א. י. קוק,</persName> או רבה של יפו, המלצה אל הרב<persName> זרח בראוורמן</persName> , ראש "משמר תורה" בירושלים, וזה אישר את מינויו למורה במוסד הנ"ל וקצב לו משכורת בסך שלשה נפוליונים לחודש.
+
+ כעבור שנה חלתה בתו בקדחת קשה ולפקודת הרופא הוכרח לצאת מראשון לציון וחזר ליפו. כך הוכרח לעזוב את ההוראה, אחרי שעסק בה שנים רבות בחו"ל ושאף להמשיך בה בארץ עד זקנה ושיבה. את שאיפתו זו הגשים בבנו ובבתו, שאיפשר להם לגמור בתי-מדרש למורים ולעסוק בהוראה, והוא עצמו בחר לפרנסו במקצוע-עזר לבתי-הספר, שהיה
+
+ בו משום חלוציות בתעשית ארצנו: בהיותו מומחה עוד מחו"ל בתעשית דיו, יסד ביפו בית-חרושת קטן לדיו וסיפק את תוצרתו לגימנסיה הרצליה, לביה"ס לבנות, לסנדלריות ולבתי-מסחר שונים.
+
+ בעת הגירוש הכללי מיפו במלחמת-העולם הראשונה (ניסן תרע"ז) נדד עם הגולים לכפר סבא ועד צפת הגיע, ואחרי המלחמה חזר לביתו ולעבודתו.
+
+ במשך שנים היה סופרם היפואי של "החרות" ועתונים אחרים. כבר-אורין לא הניח ספר מידו כל ימיו והגה בתורה וגם בספרות החדשה.
+
+ נפטר בירושלים, ל' תשרי תש"ה (17.10.44).
+
+ צאצאיו: המשורר והמורה <persName>שמואל בס </persName> (ראה את הערך שלו בכרך זה),<persName> מרים </persName> אשת <persName>תנחום לבקוביץ.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1429 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1429</bibl><bibl>Volume: #3 ,Page: 1430 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1430</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

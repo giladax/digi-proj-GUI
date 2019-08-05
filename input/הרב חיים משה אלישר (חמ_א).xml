@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 640 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/640</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב חיים משה אלישר (חמ"א)</persName>
+
+</head>
+         <div><p> נולד בירושלים, ג' שבט תר"ה (1845), לאביו הרב <persName>יעקב שאול אלישר</persName> (ה"ישא ברכה", חכם-באשי וראשון-לציון בירושלים, ממשפחת רבנים עתיקה, שמוצאה ממשפחה אשכנזית בשם "וילנה" והתבוללה בין הספרדים במאה ה-18).
+
+ למד בחדרים ובישיבות וגם מפי אביו.
+
+ בתרי"ט נשא לאשה את<persName> וידה</persName> בת הרב<persName> רפאל</persName> <persName>מאיר פניז'יל,</persName> רב ראשי וראשון-לציון בזמן ההוא. השתלם בשפות ערבית וטורקית והחל לעסוק במסחר, אך הוסיף לקבוע עתים לתורה ונתפרסם כאחד מגדולי הלמדנים.
+
+ כשנתמנה אביו לרב ראשי בתרנ"ג מינה אותו לנציגו ב"מג'ליס אידארה" (מועצת ראשי העדות ליד הפחה מושל הפלך) ואח"כ היה חבר המועצה העממית ("מג'ליס עוממי"), וייצג את עניני היהודים בכבוד ובנאמנות. עסק בהספקת מזון וציוד לצבא הטורקי בארץ, מכובד בעיני שרי השלטון, עשה טובות רבות לפונים אליו, בלי הבדל דת ולאום, בהשתדלות אצל השלטונות, קיבל מהממשלה הטורקית את אות-הכבוד "עוסמניה" דרגה ד'. הקדיש הרבה מזמנו לעניני צבור. השתתף ביסודם ובהנהלתם של כמה מוסדות חסד, ביניהם בתי-חולים "שערי צדק" ו"משגב לדך".
+
+ אחרי מלחמת-העולם הראשונה פעל למען איחוד העדות השונות בירושלים ולמען ארגון אספת הנבחרים. השתתף ביסוד ועד הרבנים המאוחד של עדת הספרדים בשנות תרע"ט-תר"פ, היה ראשון לציון וראש הרבנים לעדת הספרדים והשתתף ביסוד הרבנות הראשית לארץ-ישראל.
+
+ הדפיס אחדים מספרי אביו, בהם שאלות ותשובות ופסקים בשם "שאל האיש" ומצורף אליו "פני חמ"א" (תשובותיו הוא), חיבר והדפיס ספר "משה האיש" (שו"ת על כל חלקי שלחן-ערוך), "כבוד לאיש" (דרושים והספדים ובתוכם חמש דרשות של אביו), ועוד.
+
+ נפטר בירושלים, ד' שבט תרפ"ד.
+
+ בניו:<persName> יוסף שאול, יצחק שמעיה, אליעזר ירוחם</persName> (המכונה <persName>מורנו), יעקב שמואל, מאיר שלום, דוד חזקיה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 640 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/640</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

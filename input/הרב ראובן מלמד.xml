@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3826 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3826</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב ראובן מלמד</persName>
+
+</head>
+         <div><p> נולד ב<placeName>בוכארה</placeName> בשנת תקע"ט (1819).
+
+ היה מנכבדי העדה היהודית שם.
+
+ קרובו של <persName>ר' דוד מלמד חפץ </persName> ושניהם מכונים בשם "מלמד" על שלימדו תלמידים. כארבעים שנה שימש בתור רב, דרשן, חזן ומורה - לגדולים. רבים מנכבדי עדת הבוכארים בירושלים היו תלמידיו ושמעו לקח מפיו. פעם אחת נעשה לו נס ומשום כך כינוהו בשם "ר' ראובן מלמד בעל הנס".
+
+ כל בניו נפטרו ב<placeName>בוכארה</placeName> בהיותם צעירים לימים. בראשית שנת תר"מ (1880) עלה לארץ יחד עם אשתו <persName>מרים</persName> ובתו <persName>ישועה</persName> (בגלל מחלה החליפו שמה בשם "רבקה''), שהיתה בת י"ג שנים.
+
+ בסיון תר"ן (1890) נוסדה בירושלים חברת "רחובות" על ידי כמה בעלי הון בוכארים. חברה זו בנתה את שכונת "רחובות הבובארים". הוא חתום ראשון עם עשרים ושש חתימות אחדות, על ה"קול קורא" הראשון שפרסמו נכבדי הבוכארים בירושלים בו הודיעו שבחרו בועד בן חמשה חברים לעדה הבוכראית ו"נתנו הכח והעוז בידם להשתדל לטובתינו וליסד חברה
+
+ לבנין בתים ובית כנסת, ובתי מדרש וכל דבר הצריך לקהלתנו הרוממה".
+
+ בשכונה זו נבנו בתי כנסיות ובתי מדרשות, תלמודי תורה, בתי מרחץ ציבוריים ומקוואות. כיום נמצאים בשכונה זו כשלושים בתי כנסיות. אחד מהם נבנה בשנת תרנ"ה (1895), על-ידו בחצרו אשר בשכונה.
+
+ נפטר בירושלים, ג' תמוז תרנ''ו (1896).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3826 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3826</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

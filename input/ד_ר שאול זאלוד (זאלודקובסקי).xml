@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4015 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4015</bibl><bibl>Volume: #12 ,Page: 4016 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4016</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר שאול זאלוד (זאלודקובסקי)</persName>
+
+</head>
+         <div><p> נולד ט"ז אלול תרס"ו (25.9.1906) בקאליש שבפולין.
+
+ לאביו ר'<persName> נח זאלודקובסקי</persName> (המכונה רבי<persName> נח לידר,</persName> הזן מפורסם בזמנו בכל רחבי הגולה האשכנזית, הוזמן למקומות רבים ברוסיה ובפולין ואף בארצות המערב, אבל דבק בקאליש וכיהן בה בקודש למעלה מ-40 שנה, - ושלושה מבניו תפסו גם הם מקומות נכבדים בעולם החזנות) ולאמו <persName>רחל</persName> בת<persName> יוסף משה</persName> <persName>מורדכובסקי.</persName>
+
+ נתחנך בבית אביו בלימודי היהדות ובשפה העברית, כי בית אביו שימש מרכז לנוער הלאומי המשכיל והנאמן
+
+
+ למסורת אבות. גם מרוח הזמרה הדתית קלט שם בנערותו וניכרת "האסכולה של ר' נח" כשמזדמן לו לעבור לפני התיבה בתור "חובב". היה פעיל בעבודה הציונית של הנוער וזמן רב שימש מדריך ומחנך בתנועה החינוכית "השומר הצעיר".
+
+ למד באוניברסיטאות: בווארשה, לונדון, פאריס והיידלברג והוסמך לד"ר לרפואה.
+
+ ב-1934 נשא לאשה את<persName> אסתר</persName> בת הרב<persName> ישעיהו</persName> <persName>שפירא.</persName>
+
+ ב-1935 עלה לארץ, התיישב ברמת-גן, והנו רופא ילדים ובבתי-ספר ברמת-גן. היה פעיל בשרות הרפואה של ההגנה ושל צה"ל בעת הקרבות בגוש דן.
+
+ פעיל בחיים החברתיים והציבוריים, אח בלשכת בניברית ונותן יד לכל מפעל ציבורי המשמש לטובת הכלל.
+
+ השתתף בקונגרס הבינלאומי (פאריס 1959), בתור נציג ישראל. בו הרצה על הבריאות בבתי-הספר.
+
+ בספר תולדות יהודי קאליש מאת <persName>ישראל דוד בית</persName> <persName>הלוי</persName> , באה הערכה על משפחת ר' <persName>נח זאלודקובסקי.</persName>
+
+ כתב מאמרים בענייני חינוך ובריאות בעתונות המקצועית בעברית ובצרפתית.
+
+ בנותיו: <persName>איילה</persName> אשת<persName> חיים שוחט, נועה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4015 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4015</bibl><bibl>Volume: #12 ,Page: 4016 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4016</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

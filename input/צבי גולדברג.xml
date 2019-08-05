@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4512 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4512</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי גולדברג</persName>
+
+</head>
+         <div><p> נולד בצ'רנוב (פולין) בשנת תרמ"ו (1886). לאביו <persName>דב גולדברג </persName> ולאמו<persName> טויבה</persName> בת<persName> צבי</persName> <persName>זלטניצקי.</persName>
+
+ קיבל חינוך מסורתי.
+
+ עבד במקצוע הזגגות.
+
+ עבר לגור בברלין ועבד כפקיד בעדת ישראל. היה עסקן בקהילת הילדסהיימר ופעיל בתנועת "המזרחי".
+
+ בשנת 1909 נשא לאשה את <persName>אסתר</persName> בת<persName> יחזקאל</persName> ליסמן (נפטרה ברמת-גן, י' טבת תשכ"ב, 17.12.1961).
+
+ בשנת 1933 עלה לארץ.
+
+ פעיל בהסתדרות המזרחי. 
+
+ פקיד בחברה קדישה בת''א.
+
+ צאצאיו שירתו בצה"ל.
+
+ צאצאיו:<persName> דב </persName> (פקיד ממשלתי),<persName> יצחק</persName> (פועל דפוס),
+
+ דוד (חבר ב"אגד"), <persName>אברהם</persName> (סגן מנהל בסחר חוץ ביפו), <persName>יוכבד רוטהולץ, שרה</persName> אשת<persName> תיאודור רימון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4512 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4512</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

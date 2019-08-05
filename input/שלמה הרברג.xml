@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4781</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה הרברג</persName>
+
+</head>
+         <div><p> נולד בעיירה נונשיודט-שירווינט, פלד סובלאק, בתרמ"ד (1884).
+
+ קיבל חינוך מסורתי - בחדר ובישיבה.
+
+ לאחר הכשרה בהשכלה כללית, למד שנתיים בקורסים הפדגוגיים בגרודנה, והוסמך להוראה, בה עסק אחר כך שנים מספר.
+
+ לארץ עלה בשנת 1920.
+
+ עבד בהוראה בבתי ספר שונים והמשיך את עבודתו- הספרותית.
+
+ פירסם דברי שירה ופרוזה ב"העולם", ב"קול המורה" (בחו"ל), ב"הארץ", ב"דבר", ב"הדים", ב"מאזנים", ב"ספר ביאליק", בספרי כנסת, ב"הפועל הצעיר" ועוד, אך עיקר עבודתו עד היום בעבודתתרגום ועריכה.
+
+ תירגם ספרים בלטריסטים ומדעיים מרוסית, מגרמנית ומאידיש.
+
+ תירגם כארבעים ספר: <persName>בבלטריסטיקה </persName> - מספרי
+
+ טולסטוי, דוסטוייבסקי, גורקי, הרמן הסה, אנדרסן נקסה, ליאוניד ליאונוב ועוד, <persName>במדע</persName> - יסודות עבודת האדמה (ויליאמס), דארווין ותרתו (טימיריזאייב), על היירוביזציה (לינסקו), תורת הכלכלה המדינית (בוגדאנוב) ועוד. בספרות ילדים 
+
+ (דינזון) ועוד. בפילוסופיה - ירושלים של מנדלסון. ורדה ובת פרעה (אברס), הירשלה ושתי אמות
+
+ זכה ב"פרס טשרניחובסקי של עירית תל-אביב על תרגום ספרו של<persName> גורקי</persName> "פומה גורבייב" לבית <persName>ארטומונוקי</persName> ו"עולימים" <persName>לצ'סטוייבסקי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4781</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

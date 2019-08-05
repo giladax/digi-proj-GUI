@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3993 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3993</bibl><bibl>Volume: #12 ,Page: 3994 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3994</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פסח יעקבסון</persName>
+
+</head>
+         <div><p> נולד בשנת תרס"ד (17.4.1904) בפוניבז' שבליטא. לאביו<persName> אברהם יצחק</persName> (סוחר, עסקן ציבורי) ולאמו <persName>פרע</persName> לבית הרב <persName>שאפער.</persName>
+
+ בילדותו קיבל חינוך עברי-לאומי. התחיל ללמוד בגימנסיה רוסית וגמר גימנסיה עברית בפוניבז'. זמןמה למד משפטים באוניברסיטת קובנה והיה חבר הקורפורציה "ירדניה" של הסטודנטים. אח"כ השתלם בתר
+
+ בות הגוף והוסמך מטעם שלטונות החינוך של ממשלת ליטא להוראת ספורט והתעמלות בבתי-ספר ציבוריים. היה מורה בקורסים למורים ואח"כ בגימנסיה העברית במאריאמפול שבליטא, שם היה יו"ר מכבי המקומי, חבר מרכז מכבי ליטא, מנהל הספורט במכבי ליטא וחבר
+
+ מרכז נוער החלוץ של הציונים הכלליים. כתב ב"אידישע שטימע" על חינוך גופני.
+
+ ב-1932 נשא לאשה את<persName> שושנה</persName> בת<persName> יהודה אורלינסקי</persName> (בוגרת הגימנסיה העברית במאריאמפול ובית-ספר לאמנות, מורה לציור במשך 12 שנה בבתי-הספר ברמת-גן, פעילה בויצ"ו ואח"כ בארגון נשים ציוניות כלליות, ובאחרונה חברת ההנהלה ויו"ר של נשים ליברליות ברמת-גן).
+
+ ב-1934 עלה לארץ בסרטיפיקט מיוחד שנשלח לו מאת מכבי ארץ-ישראל, וזה 25 שנה הנו מורה בביתהספר יהלם ברמת-גן, ובשנים האחרונות גם רכז החינוך
+
+ הגופני במחלקה לחינוך של עירית רמת-גן. פעיל גם בספורט ובחיים הציבוריים בתור חבר מרכז מכבי, יו''ר ועדות אתלטיקה קלה של מכבי ושל התאחדות לספורט בישראל ; היה חבר הנהלה בסניף המקומי של הציונים הכלליים ושל איגוד העובדים הציונים הכלליים
+
+
+ ובאחרונה חבר האכסקוטיבה בסניף הליברלים, חבר מועצת הפועלים ויו''ר סניף תנועת העבודה הליברלית. נבחר פעמיים לסגן-ציר לקונגרסים ציוניים והשתתף כציר בועידות מכבי, המפלגה, ההסתדרות וקופת חולים. פעיל בועד השקל מאז בואו לארץ. חיבר חוברות לחינוך גופני.
+
+ בנו: <persName>שמואל (מורה וספורטאי ידוע).</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3993 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3993</bibl><bibl>Volume: #12 ,Page: 3994 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3994</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

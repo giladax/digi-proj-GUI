@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3294 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3294</bibl><bibl>Volume: #9 ,Page: 3295 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3295</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נסים כהן</persName>
+
+</head>
+         <div><p> נולד בצנעה (תימן), ב' טבת תרס"ט (26.12.1908). לאביו <persName>שלום</persName> ולאמו <persName>רחל</persName> בת <persName>יחיא חמדי.</persName>
+
+ קבל חנוך מסורתי וכללי.
+
+ עלה לארץ עם משפחתו בשנת 1910.
+
+ מפקד צופים (1924), אחראי למחלקה בגדוד מגיני השפך, (1925), מפקד בית"ר (1927).
+
+ היה פעיל באצ"ל משנת 1929 נאסר מספר פעמים - ביחד לתקופה של כשש-שנים (ב-1939 לששה חדשים בסרפנד, במרכזיה בירושלים לששה חדשים, ב-1940-41 במזרעה ועכו לארבעה חדשים וב-1944-48 בלטרון והגולה. בקניה שימש כיו"ר הצוה"ר.
+
+ תפקידיו באצ"ל : משנת 1934 מפקד פלוגה, ב-1939 סגן מפקד ת"א, מ-1940 חבר המטה, ב-1942 מנהל ארצי של מס חזית ישראל.
+
+ ציר הקונגרס הראשון של הסתדרות הציונית החדשה (1935).
+
+
+ בשנת 1936 נשא לאשה את<persName> בת-ציון</persName> בת <persName>אברהם</persName> <persName>משאט.</persName>
+
+ ב-1938 חבר ועד הפועל של הסתדרות עובדים לאומית. ב-1940 מנהל עתון "המשקיף" (כ-6 חדשים).
+
+ חבר מרכז קופת חולים לעובדים לאומיים בישראל.
+
+ יו"ר ועדת השקום של הסתדרות עובדים לאומיים, יו"ר מועצת חרות סניף תל-אביב.
+
+ חבר מועצת עירית תל-אביב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3294 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3294</bibl><bibl>Volume: #9 ,Page: 3295 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3295</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 922 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/922</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים סלנט</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"ג תמוז תרס"ח (12.7.1908) לאביו ר'<persName> יוסף</persName> (בן ר' <persName>צבי, </persName> בן ר' <persName>בנימין ביינוש</persName> , בן ר' <persName>שמואל סלנט</persName> רבה הראשי של עדת האשכנזים בירושלים במשך 70 שנה למן עליתו בשנת תר"א) ולאמו <persName>חיה</persName> בת ר' <persName>אפרים אבלובסקי</persName> מסובאלק (פולין).
+
+ קיבל חינוך מסורתי ולמד בגימנסיה העברית בירושלים ואח"כ משפטים באוניברסיטת לונדון ושם הוסמך למשפטים בשנת 1933 ונתקבל לחבר הבאר האנגלי, בעל התוארים L.L.B.Barrister At Law
+
+ ב-1932 נשא לאשה את <persName>לאה בת אליהו הכהן.</persName>
+
+ ביום 4.5.36 נתקבל לשרות במחלקת המשפטים של הממשלה בארץ וכיום הוא עו"ד הממשלה (מ"מ יועץ הכתר) ומרצה בבית-הספר למשפטים של הממשלה.
+
+ חיבר ספר על חוקת האימפריה הבריטית (1934) וספר על הפרוצדורה הפלילית שבארץ-ישראל (1947).
+
+ בנותיו: <persName>אריאלה, דפנה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 922 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/922</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

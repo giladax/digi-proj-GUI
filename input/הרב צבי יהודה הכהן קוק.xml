@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 224 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/224</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב צבי יהודה הכהן קוק</persName>
+
+</head>
+         <div><p> נולד בעיירה זימל, פלך קובנה, ט"ו ניסן תרנ"א (1891), לאביר הרב<persName> אברהם יצחק הכהן קוק</persName> , שהיה אז רב בזימל ואח"כ רב ביפו והמושבות ורב ראשי לארץ-ישראל.
+
+ למד תורה בבית אביו ומפיו, ובשנתו השלשעשרה, כשנבחר אביו לרב ביפו, עלה ארצה עם הוריו והגיעו ביום כ"ח אייר תרס"ד. למד בישיבת "תורת חיים" בירושלים מפי הגאון ר'<persName> זרח אפשטיין</persName> זצ"ל והוסמך לרבנות.
+
+ פעל ליד אביו ביסודה ובארגונה של ישיבת
+
+ "מרכז הרב" בירושלים ושימש בה מרצה לכתבי הקודש ומדריך רוחני.
+
+ בשנת תרע"ג השתתף בעריכת "התרבות הישראלית" (בעריכת<persName> א. ז. רבינוביץ</persName> ובהוצאת ר' <persName>ישראל חבס</persName> ). פרסם מאמרים ומחקרים בענפים שונים של תורה וחכמת ישראל בקובץ הנ"ל, וכן בעיתונים, ירחונים וקבצים דלהלן: "סיני", "הצופה", "היסוד", "הארץ", "במישור", "תבונה", "ההד", "גליונות בית הכנסת" (בהוצאת ועד בית הכנסת הגדול בתל-אביב), "ספר צייטלין" (לזכר הסופר הקדוש ר'<persName> הלל צייטלין</persName> הי"ד).
+
+ עוסק בסידור כתבי אביו והכנתם להוצאה לאור, והם: אגרות ראי"ה, אורות התשובה, אורות התורה. אורות ישראל, נפש הראיה, משפט כהן, דעת כהן, עולת ראיה, ועוד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 224 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/224</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

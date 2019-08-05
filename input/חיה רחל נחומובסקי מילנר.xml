@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 732 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/732</bibl><bibl>Volume: #2 ,Page: 733 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/733</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיה רחל נחומובסקי-מילנר</persName>
+
+</head>
+         <div><p> נולדה בסלובודקה, ליד קובנה, ליטא, בשנת תרל"ב (1872), לאביה ר' <persName>מתתיהו קוטלר</persName> , תלמידחכם מפורסם וסוחר גדול.
+
+ בת 18 נישאה <persName>למנחם מנדל נחומובסקי,</persName> מטובי תלמידי ישיבת וולוזין, מפעילי האגודה "נס ציונה" של בחורי הישיבה, שהצטרף ל"אגודת קובנה" של רוכשי אדמה להתנחלות במושבה חדרה שעמדה להוסד ביזמת<persName> יהושע חנקין </persName> ואחרים ונבחר לנציג החברה בבנין המושבה.
+
+
+ בסיון תר"ן, ששה שבועות אחרי חתונתה, עלתה ארצה עם בעלה ועם אמה. הן התישבו זמנית בראשון לציון, ואח''כ, משטעמו שם את הקדחת, עברו ליפו, והוא עלה מיד לחדרה ועמל בהכשרת הקרקע ובבנין, ואחרי שבנה את ביתו באה גם היא אליו. עזרה לו כעבודת המשק ובפעולתו כמוכתר המושבה, ילדה ילדים וקברה אותם, חללי הקדחת. בשנת תרס"ב הפילה הקדחת גם את בעלה, שנפטר בבית-החולים בזכרון יעקב, והיא המשיכה לנהל את המשק ואת פעולות החסד שעסקה בהן.
+
+ בתר"ע נישאה להסוחר והעסקן היפואי<persName> נח</persName> <persName>מילנר</persName> בן ר'<persName> שלמה הכהן מילנר</persName> , חלוץ תעשית הטחינה בארץ ובונה שכונת "בתי מילנר" בירושלים. (נפטר בת"א, ו' ניסן תרצ"ז, והובא לקבורה בחדרה).
+
+ השתתפה עם<persName> רחל בוטקובסקי, חיה בשה רוטמן</persName> וגב, ד"ר<persName> רפפורט </persName> ביסוד אגודת עזרת נשים בחדרה למתן עזרה ליולדות, הכנסת אורחים, חנות הספקה למתישבים עולי תימן בשכונת נחליאל, וכן בגמילות חסדים ולינת הצדק (עזרה לחולים). בביתה ביקרו עסקני חובבי ציון מחו"ל וראשי הישוב והציונות וגם עוברי אורח נצרכים קיבלו בו מאכל ומקום ללון.
+
+ ביובל החמשים ליסוד המושבה חדרה נתכבדה לספר ברדיו ירושלים זכרונות מימים ראשונים. ממשיכה לנהל את המשק במסירות.
+
+ צאצאיה שנשארו בחיים: מבעלה הראשון <persName>ד"ר מתתיהו נחומי</persName> ; מבעלה השני - <persName>שרה </persName> אשת <persName>יחיאל נוביקוב</persName> .
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטרה בתל-אביב, ה' טבת תש"ח (18.12.47) ונקברה בחדרה.
+
+ (ראה את הערך בעמוד 732, כרך שני)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 732 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/732</bibl><bibl>Volume: #2 ,Page: 733 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/733</bibl>
+            <bibl>Volume: #2 ,Page: 1055 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1055</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

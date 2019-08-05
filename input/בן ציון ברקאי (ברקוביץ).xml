@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1512 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1512</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בן-ציון ברקאי (ברקוביץ)</persName>
+
+</head>
+         <div><p> נולד בנובו אושיצה, פלך פודוליה (אוקראינה), כ"ח כסלו תר"ס (29.11.1899), לאביו<persName> יעקב</persName> ולאמו <persName>רחל</persName> בת<persName> גוטמן לנדה.</persName> (ממשפחת בעל "הנודע ביהודה" - יחזקאל לנדה).
+
+ למד בחדרים, בישיבות קמנץ-פודולסק ובישיבה המודרנית באודיסה בהנהלת "רב צעיר" (פרופ'<persName> חיים</persName> <persName>צ"רנוביץ),</persName> גמר גימנסיה באופן פרטי ועמד בבחינה ולמד בבי"ס למשפט וכלכלה באודיסה. לימד בביתספר עברי ואח"כ היה פעיל בחוד. להכשרה חקלאית של "החלוץ".
+
+ עלה ארצה במרס 1921. עבד בכביש עפולה נצרת, היה חבר בקבוצה החקלאית בשכונת בורוכוב, מזכיר השכונה בשעת יסודה ובראשית בנינה ומראשוני המשתכנים בה, מנהל לשכת העבודה וחבר מועצת פועלי יפו ותל-אביב בשנות 1924/29 אח"כ מנהל חברות ביטוח ומחלקת הביטוח של חברת ללויד ארצישראלי ומצרי בע"מ.
+
+ ב-1921 נשא לאשת את<persName> עליזה</persName> בת <persName>חיים לרנר.</persName>
+
+ בשנת 1935 גמר את בית-הספר למשפטים בירושלים, הוסמך לעורך-דין ומאז עוסק במקצוע זה. חבר הנהלה בבנק שרון לבנין ומסחר ובחברות "אשראי", "נכסים", "מוניטין", חברה מרכנתילית להחסנה ואחרות. חבר בועד אגודת עורכי הדין בתל-אביב, חבר ונשיא לשעבר בלשכות הבונים החפשים "אביב" ו"היכל ארון הברית שרון" (חסות סקוטית). מזכיר לשכת "שער-ציון", בני ברית בתל-אביב.
+
+ פרסם מאמרים בעניני ביטוח ומשפט ב"הארץ", בירחון "התעשיה" ובחוברות שונות ומאמרים בענינים מיוחדים בעתונות הבונים החפשים.
+
+ בנותיו: <persName>רבקה</persName> (גמרה במחלקה למדעי הטבע באוניברסיטת ירושלים, אשת המהנדס<persName> אליעזר גולדברג</persName> בן עוה"ד <persName>פנחס גולדברג), דקלה</persName> (תלמידת ביה"ס הגבוה למשפט וכלכלה בת"א).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1512 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1512</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

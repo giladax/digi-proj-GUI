@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4567 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4567</bibl><bibl>Volume: #14 ,Page: 4568 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4568</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף קוקיא</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת תרע"ה (1915).
+
+ לאביו <persName>בנימין </persName> ולאמו<persName> שושנה</persName> (רוזה) בת הרב נסים אלישר.
+
+
+ קבל חנוך מסורתי בחדר, וכללי בבית ספר לבנים ואח"כ בגמנסיה העברית ברחביה. השתלם באוניברסיטת לונדון במשפטים וקיבל תואר בריסטר אתלאו.
+
+ היה פעיל בתנועת הצופים ואח"כ בהגנה.
+
+ במלחמת העולם השניה היה תלמיד באוניברסיטה בלונדון., התגייס לחיל האויר הבריטי ונלחם באווירונים הנאציים.
+
+ התמחה כעורך דין במשרדו של העורך דין הבריטי הנודע<persName> ג'רולד גארדינר</persName> בלונדון. ותודות לו, הוענקה לו הזכות להופיע בבית הלורדים בבירור ערעור נגד חברת ביטוח ידועה.
+
+ נשא לאשה את <persName>קליר </persName> בת<persName> מאיר שימשילה-שוילי</persName> .
+
+ חזר לארץ ונתקבל כפרקליט בבתי המשפט ב<placeName>ירושלים</placeName>.
+
+ הופיע במשפטים פליליים, הסתננויות ערבים, עבירות על מכס ועוד. נשאר על משמרתו בפרקליטות עד יומו האחרון של השלטון המנדטורי.
+
+ אחרי הכרזת המדינה היה מהראשונים שהמשיכו בעבודתם והופיע כפרקליט מחוז ירושלים במשפטים שונים והתנגד לפסקי דין של "יחס מיוחד". טען: כי אסור במדינת ישראל להנהיג יחס מיוחד לגבי אסירים. רק שלטון עויין מנהיג "יחס מיוחד" בבתי הכלא לגבי "מיוחסים".
+
+ במלחמת העצמאות לחם במלחמת מוסררה ב<placeName>ירושלים</placeName>. 
+
+ בשנת 1952 עם העברת משרד המשפטים מת"א לירושלים נתמנה למנהל הכללי של משרד זה.
+
+ יו"ר הועדה הבוחנת של מבקרי (רואי) חשבונות.
+
+ חבר הדירקטוריון של הטכניון בחיפה. 
+
+ צאצאיו:<persName> ורד, בנימין</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4567 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4567</bibl><bibl>Volume: #14 ,Page: 4568 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4568</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

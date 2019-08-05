@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 462 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/462</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהושע וואלפינזאהן</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרי"א (1851), לאביו הרב ר' <persName>אברהם</persName> , מהעולים בעלית הפרושים של תלמידי הגר"א, שהיה בראשונה הדיין של עדת הפרושים בצפת לפני שעברו לירושלים.
+
+ בן שלש נתיתם מאביו וגדל בבית אחיו ר' <persName>זאב</persName> . למד בתלמוד-תורה ובישיבת "עץ חיים". אחיו ר' זאב התנגד לאכילת לחם חסד מכספי ה"חלוקה" ולכן שלח אותו לבירות ללמוד את מלאכת הרוקחות, וכהכנה לכך נבחן בהשכלה תיכונית כדי להתקבל במחלקת הרוקחות של האוניברסיטה.
+
+ אחרי שלש שנים חזר ירושלימה כרוקח מוסמך, ובכספי אחיו ר' זאב פתח בית-מרקחת ברחוב היהודים שבעיר העתיקה בקרבת חורבת רבי יהודה החסיד. זה היה בית-המרקחת הראשון ליהודים בירושלים, שהתנהל
+
+ על-ידי רוקח מוסמך, ולאחר זמן שימש גם את ביתהחולים והמרפאה של "ביקור חולים". אולם באותו הזמן עדיין רבו המשתמשים ברופאים בלתי-מוסמכים ובתרופות שהוכנו בידיהם או בידי עוזריהם, וכך לא הספיקה לו הכנסת העסק לפרנסה, ולכן עבר למקצוע אחר. בכספי אחיו ר' זאב רכש בשותפות עם ר'<persName> יוסף רוזנטאל</persName> טחנת-רוח על הגבעה ליד שכונת<persName> ימין משה</persName> (שכונת מונטיפיורי הישנה). טחנה זו לא היתה משוכללת במדה הדרושה ולא תמיד הניעו אותה הרוחות בשעת הצורך, ולכן מכרו אותה ויסדו בעיר העתיקה, ליד בנין הסראיה הישנה, טחנה מונעת בכח סוסים.
+
+ אחרי מות האח הגדול ר' זאב בתרמ"ג עבר ר' יהושע ליפו ובנה בשוק אל דייר טחנה, מונעת בכח סוסים גם היא. זאת היתה הטחנה היהודית הראשונה ביפו, בה עבד שנים רבות והתפרנס ממנה.
+
+ נולדו לו ששה בנים וארבע בנות. את כל בניו חינך לתורה ולעבודה גופנית, בהתאם למסורת משפחת ואלפינזאהן. מחמת המשבר הכלכלי היגרו אחדים מבניו לדרום-אפריקה. אחד מהם צבר לו ממון רב וקנה
+
+ פרדס גדול בפתח-תקוה על אדמת ה"חמרה" את הפרדס הזה ניהל ר' יהושע לעת זקנה והתישב בפתחתקוה.
+
+ נפטר בפתח תקוה ו' סיון (חג השבועות) תרפ"ד. צאצאיו:<persName> אברהם זאב, משה </persName> (בדרום אפריקה), <persName>יהודה</persName> (בדרום אפריקה),<persName> מאיר</persName> (בדרום אפריקה),<persName> מרדכי</persName> (פ"ת),<persName> גדליהו</persName> (דרום אפריקה), <persName>מינדל</persName> אשת חיים יוסף ביאלה,<persName> טובה</persName> אשת שלמה איצקוביץ,<persName> שינדל</persName> אשת נתן קריסטל<persName> וברכה</persName> אשת נחמיה ריכטר (דרום אפריקה)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 462 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/462</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

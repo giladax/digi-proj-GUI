@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1522 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1522</bibl><bibl>Volume: #3 ,Page: 1523 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1523</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם קלמן ורשבסקי</persName>
+
+</head>
+         <div><p> בן <persName>שמואל מרדכי </persName> (מוכתר ראשי לעדת האשכנזים ב<placeName>ירושלים</placeName> במשך 68 שנים)<persName> ואסתר פריידל</persName> בת הרב <persName>יצחק גליקין.</persName> (אחות אשת הרב <persName>יוסף מוהליבר)</persName> ,
+
+ נולד ב<placeName>ירושלים</placeName> בשנת תרמ"ב (1882).
+
+ קיבל חנוך מסורתי. נשא לאשה את <persName>שרה </persName> בת <persName>יצחק שוב.</persName>
+
+
+ היה מראשוני הסוחרים הסיטונאים ב<placeName>ירושלים</placeName> לצרכי מכלת.
+
+ היה מהחברים הראשונים באגודת "אחוה" ובלשכת "בני ברית".
+
+ בתקופת שלטון התורכים היה הוא ואחיו טודרוס מופיעים במגלבים בידיהם, בשעת התנפלויות של ערבים על יהודים ומראים להם את זרוע ידם.
+
+ נפטר ב<placeName>ירושלים</placeName>, ט"ו טבת תש"ה.
+
+ צאצאיו:<persName> יצחק </persName> (באמריקה),<persName> פנחס, יעקב, רבקה</persName> (שלשתם ב<placeName>ירושלים</placeName>).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1522 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1522</bibl><bibl>Volume: #3 ,Page: 1523 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1523</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

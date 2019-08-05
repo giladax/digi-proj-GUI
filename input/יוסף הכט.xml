@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1744 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1744</bibl><bibl>Volume: #4 ,Page: 1745 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1745</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף הכט</persName>
+
+</head>
+         <div><p> נולד בביכוב, פלך מוהילב (רוסיה הלבנה, בחורף תרנ"ה (25.12.1894), לאביו <persName>דוד</persName> (סוחר) ולאמו <persName>מאשה</persName> בת<persName> חיים מרגולין </persName> (ממשפחת הקולונל <persName>אליעזר מרגולין).</persName>
+
+ למד בחדרים, בבי"ס עירוני רוסי ובתור אכסטרן באודיסה ועבד כפקיד בבית-חרושת לקופסאות פח. היה פעיל בציונות בין הנוער והשתייך לקבוצת "אם אין אני לי - מי לי ?" באודיסה.
+
+ עלה לארץ בתרע"ד, עבד כפועל חקלאי בראשוןלציון. זמן מה שמר עם חברי "השומר". עבד בכרמים בכפר סבא, שמר בכרמי רחובות ועבד ושמר בחולדה. במלחמת העולם א' - בעזרת החברים <persName>חריט ומתתיהו שטיין</persName> העביר פרדות וסוסים לגליל העליון לשם עזרה בהובלה בין הגליל ויהודה, וכן השתתף ברכישת נשק ותחמושת ובהעברתם לתל-אביב ולמושבות לצרכי הגנה ובטחון ביחד עם אליהו ודב.
+
+ ב-1918 התנדב לגדוד העברי ואחרי שתי שנות
+
+
+ שרות בו (ופעל בתוכו יחד עם אליהו גולומב ודב הוז להגברת כוחו ההגגתי של הישוב) עד לפירוקו ועבד בכפר מל''ל (עין-חי) מהראשונים שהתנחלו במקום.
+
+ ב-1920 בימי המאורעות בירושלים, כשנתקבלו ידיעות על הכנותיהם של ערביי רמלה והסביבה להתנפל על "חולדה", נשלח ע"י ועד הגדוד, בלי ידיעת השלטונות, בתור אחראי להגנתה של חולדה.
+
+ בתקופת מאורעות מאי 1921 עבד במקוה ישראל וארגן את ההגנה במקום. זמן קצר לאחר המאורעות הוזמן ע"י אליהו גולומב מטעם המוסדות הלאומיים
+
+ להשתתף בארגון ההגנה הארצי, ולשנת 1921 עד סוף 1931 עמד בראש ההגנה הארצית. לאחר שרות קבוע של עשר שנים במפקדת ההגנה עבר לחיים פרטיים במשקו ב"גבעתיים" ע"י תל-אביב.
+
+ חבר ההסתדרות מאז היוסדה, חבר אחדות העבודה - ועם האיחוד - במפא"י.
+
+ בשנות 1938/39 היה האחראי על הנוטרים בשמירת "גדר טיגרט" בגבול הצפון.
+
+ רעיתו : <persName>נעמי</persName> בת<persName> חיים גרבליך</persName> , מיארוסלאב.
+
+ צאצאיו: <persName>מרים</persName> אשת<persName> מרדכי בוכואל, דוד</persName> (חבר
+
+ מושב "מכמורת"), <persName>עמוס</persName> (בחיל הים),<persName> יהודית</persName> (בפלמ"ח).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1744 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1744</bibl><bibl>Volume: #4 ,Page: 1745 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1745</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

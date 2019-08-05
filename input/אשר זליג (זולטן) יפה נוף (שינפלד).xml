@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3984 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3984</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אשר זליג (זולטן) יפה-נוף (שינפלד)</persName>
+
+</head>
+         <div><p> נולד בפילעק (הונגריה) בראשית תרע"א (1910).
+
+ לאביו ר' <persName>חיים ברוך שינפלד</persName> (מצאצאי הרבי <persName>צבי</persName> <persName>אלימלך</persName> מדינוב, בעל "בני יששכר") ולאמו<persName> מליה</persName> בת <persName>שלמה ויינברגר.</persName>
+
+ קיבל חינוך מסורתי בהונגריה והשתלם באוניברסיטה העברית בירושלים והוסמך למדעי הטבע ולמטמתיקה M. Sc..
+
+ היה פעיל ומחנך בתנועת הנוער הציוני ובנוער במחתרת בהונגריה.
+
+ בשנת תרצ"ד (1934) עלה לארץ.
+
+ אחרי שגמר את לימודיו באוניברסיטה העברית בירושלים עסק בהוראה.
+
+ כיום, מורה לתלמוד ולמטמתיקה פיסיקה בגמנסיה העירונית "אהל שם" ברמת-גן.
+
+ מרצה וחבר המועדון בר-אילן ברמת-גן.
+
+ בשנת תרצ"ט (1939) נשא לאשה את <persName>לאה</persName> בת ר' <persName>אליקום וייסנשטרן.</persName>
+
+ חבר ועד בית הכנסת "שארית ישראל" ברמת-גן. חיבר ספר לימוד למטמתיקה בשם "פתרונים".
+
+ כתב מאמרים בהד-החינוך, הצופה ובפרסומי הסתדרות המורים העולמית.
+
+ כחבר ההגנה שירת בנוטרות במשמר הרבבות בארץ. השתתף בכינוסים פדגוגיים שונים. שנתיים היה בשליחות חינוכית בארגנטינה.
+
+ צאצאיו: <persName>חיים-ברוך, יהודית, איתן, שמואל-יעקב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3984 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3984</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

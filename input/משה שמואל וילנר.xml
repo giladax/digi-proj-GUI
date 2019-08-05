@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3820 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3820</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה שמואל וילנר</persName>
+
+</head>
+         <div><p> נולד בוילנה, ז' אדר תרכ"ט (1869). לאביו <persName>שמריהו </persName> (ראש ישיבה בעיר זו).
+
+ קיבל חינוך מסורתי בחדר ובישיבת מיר ועמד לקבל סמכות לרבנות בשנת ה-17 לחייו, אולם רגש חיבת ציון שפעם בלבו הטהו מדרכו זו והחליט לעלות לארץ.
+
+ בשנת תרמ"ו (1886) עלה לארץ (דרך אודיסה ואלכסנדריה, על סיפון אניה דלה), והיה אחד משמונת המיסדים והמתישבים הראשונים בשכונה העברית "נוה צדק", צפונית מיפו, שהחלו בבנינה בשנת תרמ"ז (1887) (נוסדה, כ' ניסן תרמ"ז ע"י חברת "עזרת ישראל". הועד הראשון שלה היה מהחברים : <persName>שמעון</persName> <persName>רוקח, אלעזר רוקח</persName> , ד"ר <persName>מנחם שטיין, מאיר המבורגר</persName> <persName>וראובן בלאטנר</persName> ). זכה לראות בגידולה ובשגשוגה של תל-אביב הגדולה.
+
+ נשא לאשת את <persName>אסתר</persName> בת<persName> מרדכי.</persName>
+
+ פתח בית מסחר לרהיטים ביפו.
+
+ כתב זכרונות רבי ענין מראשית התהוות הישוב העברי החדש בארץ, וספר חדושי תורה. פרסם ב"ידיעות עירית תל-אביב" כמה פרקים מזכרונותיו "מראשיתה של שכונת נוה צדק".
+
+ נפטר בתל-אביב, י"ט תמוז תרצ"ח (18.7.1938). צאצאיו: <persName>שרה </persName> אשת <persName>יוסף יודלביץ, רבקה</persName> אשת <persName>שמואל גרשמן, מלכה</persName> אשת ד"ר<persName> יוסף אשרמן, רחל.</persName> <persName>אהרן מ. וילנר</persName> (עורך דין בתל-אביב).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3820 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3820</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

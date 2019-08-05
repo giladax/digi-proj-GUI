@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3748 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3748</bibl><bibl>Volume: #11 ,Page: 3749 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3749</bibl>
+<bibl>Volume: #11 ,Page: 3750 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3750</bibl>
+<bibl>Volume: #11 ,Page: 3751 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3751</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יונה (ז'אן) פישר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קראקוב</placeName> (פולין) בשנת תרל"א (1871). לאביו <persName>אבא</persName> (ממשפחה חסידית) ולאמו<persName> שיינדל</persName> לבית <persName>וינר.</persName>
+
+ קבל חנוך מסורתי וכללי.
+
+ בשנת 1890 עבר לאנטוורפן בבלגיה.
+
+ עסק במסחר יהלומים ופנינים באנטוורפן (בלגיה). בשנת 1907 בקר בא"י.
+
+ היה מתומכיו ועוזריו של ד"ר <persName>הרצל</persName> ונלחם על תורתו מבית ובחוץ. היה חסיד הציונות הפוליטית הטהורה והתנגד אל העבודה הראלית בא"י.
+
+ היה מראשי העסקנים הציונים בבלגיה.
+
+ בימי המלחמה העולמית הראשונה, ממיסדי הלשכה הציונית בהאג ועסקן ראשי של קרן קימת לישראל. שיתף פעולה עם ידידו <persName>נחמיה דה-לימה</persName> בהנהלת הקהק"ל בתקופת החירום של מלחמת העולם הראשונה.
+
+
+ נשא לאשה את <persName>סופי </persName> לבית<persName> לנדי.</persName>
+
+ ב-1907 ביקר בארץ. לימים כתב : "בעד כל הון שבעולם אי אפשר היה לקנות את המושבות היהודיות. הכרח היה לבנותן. הכרח היה לעבד את האדמה הצחיחה בזיעת אפים, להגן על הבונים ולהקריב את חייהם של מיטב אחינו".
+
+ השתתף בכמה קונגרסים ציוניים, וכן בקונפרנציה הלונדונית בשנת 1920.
+
+ היה כמה שנים חבר הועד הפועל הציוני. נשיא ציוני בלגיה.
+
+ בקונגרס הציוני בקרלסבד (ספטמבר 1921) הגן על <persName>נורדאו</persName> נגד <persName>ויצמן.</persName>
+
+ "כפר יונה" נושא את שמו. נוסד לזכרו על ידי אחיו<persName> יהושע </persName> (אוסקר)<persName> פישר</persName> (ראה כרך ח', עמוד 3063) ובנו <persName>משה </persName> (מוריס) <persName>פישר</persName> (ראה בכרך זה). נפטר באנטוורפן (בלגיה) י"א כסלו תר"ץ
+
+ (13.12.1929).
+
+ צאצאיו: <persName>שרלוטה </persName> אשת <persName>ג'ק קפל, מוריס</persName> (ראה בכרך זה),<persName> רחל </persName> אשת <persName>מיקל דויטש.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3748 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3748</bibl><bibl>Volume: #11 ,Page: 3749 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3749</bibl>
+<bibl>Volume: #11 ,Page: 3750 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3750</bibl>
+<bibl>Volume: #11 ,Page: 3751 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3751</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

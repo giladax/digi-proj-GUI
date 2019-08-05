@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4105 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4105</bibl><bibl>Volume: #12 ,Page: 4106 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4106</bibl>
+<bibl>Volume: #12 ,Page: 4107 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4107</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יצחק מאיר חרל"פ</persName>
+
+</head>
+         <div><p> נולד בראשון לציון, י"א תמוז תרצ"א (26.6.1931).
+
+ לאביו הרב <persName>חיים זבולון חרל"פ,</persName> רבה של ראשון לציון (ראה כרך ג', עמוד 1301) ולאמו <persName>רבקה</persName> בת הרב<persName> אברהם דב שקאלל.</persName>
+
+ ראש המשפחה שהגיע לא"י כשנת תר"י )1850( היה הגאון רבי<persName> יצחק זצו"קל חרל''פ</persName> , שהוא הסב של סבו הרב<persName> יעקב משה חרל"פ זצו"קל.</persName> המשפחה מתיחסת לדוד המלך.
+
+ קיבל חינוך מסורתי בחדר ובישיבות "אור-התלמוד" בת"א, פתח-תקוה, חברון ובית-זבול (ירושלים).
+
+ הוסמך לרבנות ע"י הרבנים:<persName> איסר זלמן מלצר</persName> (והוא בן 1/2 17 שנה), ע"י הרב הראשי וראשון לציון <persName>בן-ציון מאיר חי עוזיאל </persName> והרב<persName> אליהו ראם</persName> זצ"ל.
+
+ בשנת תשי''א (1951) נשא לאשה את<persName> מנוחה</persName> בת הרב <persName>יצחק אפשטיין.</persName>
+
+ שימש כרב בית הכנסת ומרצה שעורים לתורה בבית הכנסת "הפועל המזרחי" ובבית הכנסת "תחכמוני" בירושלים. כמו כן, נתן הרצאות תורניות בקבוצים הדתיים בארץ.
+
+ הקים ישיבת ערב לבני העדה הבוכרית בירושלים.
+
+ אושר לרב ביקנעם ע"י הרב הראשי<persName> הרצווג </persName> זצ"ל והרב הראשי ראשון-לציון <persName>נסים </persName> שליט"א.
+
+ נבחר לרב ביקנעם והסביבה, בכ"א טבת תשט"ז (5.1.1956) (בהיותו בן 1/2 24 שנה).
+
+ ביקנעם הקים בית כפר ממ"ד וגן ילדים ממ''ד ובן מועדון לנוער-דתי.
+
+ מרכז ארגון רבני עמק זבולון והסביבה.
+
+ מרצה קבוע בהשתלמויות מורים ובהשתלמויות לגננות מטעם מחלקת החינוך.
+
+ חבר וער ארגון רבני צפון הארץ.
+
+ כותב מאמרים ב"הצופה" ובחוברות תלמודיות מאמרים על בעיות השעה והמדינה.
+
+ בכתב יד (בקרוב ימסר לדפוס): ספר בהלכה, וכן ספר דרוש לבעיות השעה.
+
+ צאצאיו :<persName> יעקב משה, נעמי חיה, אליהו, יונה משה</persName> <persName>רנה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4105 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4105</bibl><bibl>Volume: #12 ,Page: 4106 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4106</bibl>
+<bibl>Volume: #12 ,Page: 4107 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4107</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

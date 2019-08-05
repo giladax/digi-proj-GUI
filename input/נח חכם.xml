@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4960 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4960</bibl><bibl>Volume: #16 ,Page: 4961 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4961</bibl>
+<bibl>Volume: #16 ,Page: 4962 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4962</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נח חכם</persName>
+
+</head>
+         <div><p> נולד בבוטשיטשיה (רומניה), ז' בחשון תרמ"ב (סוף 1881).
+
+ לאביו<persName> יוסף</persName> (שו"ב ומלמד).
+
+ סיים לימודיו באוניברסיטה ובבית המדרש לרבנים בוינה (1912), תלמיד <persName>אדולף שווארץ.</persName> קיבל תואר ד"ר לפילוסופיה.
+
+ בשנת 1913 עלה לארץ.
+
+ היה חבר הפועל המזרחי.
+
+ עסק בהוראה בגימנסיה הירושלמית, ב"ישיבת המשתלמים" בירושלים (מיסודו של בית המדרש למורים מזרחי). היה יחד עם<persName> א. מ. ליפשיץ במייסדי</persName> בית המדרש למורים "מזרחי" בירושלים, שבו הורה תנ"ך ותולדות ישראל, כמעט עד סוף ימיו.
+
+ פירסם חקרי מקרא ולשון ב"התורן", "ההד", "לשוננו", "סיני", ספר הזכרון לבית המדרש לרבנים בוינה, "הצופה" ועוד.
+
+ הוציא סידרת ספרי לימוד להיסטוריה כללית: "תקציר של היסטוריה כללית" (א. עמי הקדם, יון ומוקדון: ב. רומי, תרפ"ז-תרצ"ב ואילך).
+
+ הניח אחריו פירושי מקראות מרובים.
+
+ בנו: <persName>עמוס חכם</persName> אלוף התנ"ך.
+
+
+ יצחק וינטרויב
+
+ נולד בבואשן (רומניה) בשנת תרכ"ח (1868).
+
+ לאביו<persName> אברהם משה וינטרויב</persName> ולאמו<persName> רחל</persName> בת <persName>ברוך.</persName>
+
+ קיבל חינוך מסורתי.
+
+ בשנת תרנ"ו נשא לאשה את <persName>פרל</persName> בת <persName>ברוך</persName> <persName>בייקר</persName> (נפטרה בתל-אביב. ט"ז סיון תש"ז (4.6.1947).
+
+ הטיף לציונות ולעליה לארץ. השתתף בפעולות חובבי-ציון.
+
+ היה קשור בקשרים אמיצים עם הסופר <persName>ישראל</persName> <persName>זנגוויל</persName> (ראה בכרך זה) והיה בין אלה שעזרו בפעולה ציונית בלונדון.
+
+ נפטר בתל-אביב, י' תשרי תרצ"ז (26.9.1936).
+
+ היה מספק בהמות בשווקים ברומניה ובאנגליה.
+
+ אימפורטר של פירות לסיטונות וליחידים.
+
+ בשנת תרפ"ב (1922) עלה לארץ.
+
+ צאצאיו : <persName>לילי</persName> אשת <persName>ישראל בינשטוק; הרי</persName> ((גר<persName> בסידני</persName> - אוסטרליה, סוחר); <persName>דוד (סוחר בניו</persName> יורק) ;<persName> מוריס</persName> (מזכיר המועדון התעשיתי והמסחרי בתל-אביב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4960 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4960</bibl><bibl>Volume: #16 ,Page: 4961 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4961</bibl>
+<bibl>Volume: #16 ,Page: 4962 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4962</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

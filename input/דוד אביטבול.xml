@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 887 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/887</bibl><bibl>Volume: #2 ,Page: 888 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/888</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד אביטבול</persName>
+
+</head>
+         <div><p> נולד ביפו, בשנת תרכ"א (1861), לאביו<persName> אברהם</persName> ולאמו <persName>זהרה.</persName>
+
+ ראש המשפחה <persName>יעקב</persName> ואשתו ושני בניו<persName> שלמה ואברהם</persName> (אביו של<persName> דוד)</persName> ונשיהם ובתו יצאו ממארוקו בתר"כ לגיברלטאר על מנת לעלות לארץ-ישראל. אחרי שהותם כשלשה חדשים בגיברלטאר נסעו לאלכסנדריה, שהו שם כשנה ועסקו במסחר. והנה קמו צעירי המשפחה ודרשו מהאב להמשיך את המסע לארץ הקודש, ואז באו ליפו בתרכ"א. כאן קנו את חומת העיר ובנו עליה בתים ומחסנים ועסקו במסחר. זמן
+
+
+ מועט אחרי כן נפטר ר' <persName>יעקב </persName> ראש המשפחה בירושלים<persName> ואברהם </persName> בנו נשאר ראש המשפחה אחריו. הוא מהראשונים במסחר הטכסטיל ביפו ונפטר כשנת תרנ"ג והובא לקבורה בירושלים.
+
+ נתחנך בתלמוד תורה של העדה הספרדית, נשא לאשה בתרמ"ב את <persName>רוזה</persName> בת הרב מרדכי<persName> חסון</persName> מחברון והשתתף בעסקי המסחר של אביו ואחרי פטירתו המשיך לנהל את העסק.
+
+ היה פעיל בעסק הצבור יחד עם ר'<persName> שמעון</persName> <persName>רוקח, שמעון מויאל</persName> ואחרים בהנחת היסודות לחיי צבור יהודיים ביפו עוד לפני היות הקהלה. השתתף ביסודה ובפעולתה של חברת "עזרת ישראל" ויתר המוסדות (בית-חולים, הכנסת אורחים, קמחא דפסחא - ויתר המפעלים לעזרת נצרכים וחולים הבאים להתרחץ לשם ריפוי בימה של יפו, וכן לעזרת עולים נצרכים).
+
+ משנפטרה אשתו בתרס"א נשא בזיווג שני את <persName>מרים</persName> בת <persName>יצחק מטלון.</persName>
+
+ היה לו בית-כנסת ביפו, הנודע בשם <persName>בית-כנסת</persName> <persName>אביטבול</persName> והתקיים עד שנת תרע"ד.
+
+ נפטר בתל-אביב י"ח סיון תרפ"ד, ונקבר בביתהעלמין הישן.
+
+ צאצאיו: מאשתו הראשונה -<persName> יעקב, יהושע,</persName> <persName>רבקה</persName> אשת <persName>משה גלזר</persName> (אלכסנדריה), <persName>מרדכי ז''ל,</persName> <persName>שמחה</persName> אשת <persName>אברהם אלי </persName> (אמריקה), <persName>אברהם;</persName> מאשתו השניה - <persName>יצחק, שושנה</persName> אשת <persName>מרדכי חסון</persName> (מהנהלת אפ"ק בת"א), <persName>רחל</persName> ז''ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 887 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/887</bibl><bibl>Volume: #2 ,Page: 888 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/888</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

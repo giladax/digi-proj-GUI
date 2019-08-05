@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4107 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4107</bibl><bibl>Volume: #12 ,Page: 4108 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4108</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה יונגמן</persName>
+
+</head>
+         <div><p> נולד בצירש (רומניה), ה' באייר תרע"ג (12.5.1913).
+
+ לאביו <persName>נתן יונגמן</persName> ולאמו <persName>בתיה</persName> בת<persName> אברהם נירנברג.</persName>
+
+ קיבל חינוך מסורתי בחדר, ע"י מורים פרטים וחינוך תיכון.
+
+ חבר נציבות בית"ר ברומניה, חבר מרכז הצה"ר ברומניה.
+
+ הדריך נוער בהכשרה ועבודה.
+
+ בשנת 1940 נשא לאשה את <persName>לובה</persName> בת <persName>דוד ארליך.</persName>
+
+ בשנת תרצ''ד (1934) עלה לארץ.
+
+ עבד כפועל בכפר-סבא, חדרה, בנימינה.
+
+ היה חבר בפלוגות הגיוס של בית''ר.
+
+ היה מזכיר הסתדרות עובדים לאומית בטבריה וחיפה.
+
+ היה חבר ועד הדר הכרמל בחיפה.
+
+ היה פעיל בהאירגון הצבאי הלאומי (אצ''ל) עד קום המדינה.
+
+ חבר מועצת עירית חיפה.
+
+ חבר מרכז תנועת החרות.
+
+ חבר הועד הפועל של הסתדרות עובדים לאומית.
+
+ היה ציר בקונגרס הציוני הכ"ה בירושלים מטעם תנועת חרות.
+
+ כתב ב"המשקיף" ו"חרות".
+
+ יועץ תעסוקה במשרד העבודה.
+
+ צאצאיו:<persName> נתן, אלינוער.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4107 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4107</bibl><bibl>Volume: #12 ,Page: 4108 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4108</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4291 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4291</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מיכה שביט (שטרן)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קולקי</placeName> (רוסיה), בראשית תרע"ב (26.12.1911).
+
+ לאביו<persName> יעקב שטרן </persName> ולאמו <persName>חנה</persName> בת<persName> מיכה זאקן.</persName> קיבל חינוך מסורתי ותיכוני.
+
+ ממארגני החלוץ הצעיר, פרייהייט. היה פעיל במרכז החלוץ.
+
+ היה מנהל הכשרת נוער. בשנת 1933 עלה לארץ. בשנת 1933 נשא לאשה את<persName> חנה</persName> בת <persName>זאב זינגרמן.</persName> היה חבר קיבוץ השדה.
+
+ בתקופת ממשלת המנדט ניהל מאבקים למען עבודה עברית.
+
+ עבד כפועל בנין.
+
+ היה ראש שירותי תעסוקה במושבים.
+
+ ממנהלי מרכז העבודה שע"י הועד הפועל של ההסתדרות.
+
+ חבר מזכירות מרכז הפקידים.
+
+ בשנות 1950-52 היה בשליחות ההסתדרות בצרפת ובבלגיה.
+
+ מנהל מחלקה בארגון במרכז מפא"י. עוסק כיום בעניני ארגון המפלגה בסניפים בארץ. חבר מרכז מפא"י.
+
+ כל השנים היה חבר ההגנה. נסע בשליחות ההגנה לרכוש נשק בחו"ל.
+
+ צאצאיו: <persName>אמציה, אחיה, גיורא, בלהה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4291 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4291</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

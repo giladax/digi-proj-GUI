@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3496 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3496</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ארנסט טורנהיים</persName>
+
+</head>
+         <div><p> נולד בשנת תרנ"ו (1896) בוינה, אוסטריה.
+
+ לאביו <persName>שלמה</persName> (ממשפחת למדנים בגליציה, סוחר עורות בוינה) ולאמו<persName> לאה.</persName> גמר את בית-הספר הטכני הגבוה בוינה והוסמך
+
+ למהנדס כימאי. ניהל מעבדות ובתי-חרושת לגומי באוסטריה ופרסם שם מאמרים בעתונות המקצועית. שירת כקצין במלחמת העולם הראשונה וזכה לאות-הצטיינות גבוה.
+
+ עלה לארץ בפברואר 1934.
+
+ ב-1935 נשא לאשה את <persName>טובה</persName> בת<persName> יוסף ופיגה אלכסנ</persName> <persName>דרוביץ</persName> . (ראה בכרך זה).
+
+ בארץ היה מחלוצי תעשית הגומי. במלחמת העולם השניה עבד במקצועו בשביל מאמץ המלחמה לצרכי הצבא הבריטי, ובמלחמת הקוממיות ייצר מוצרים חיוניים חשובים בשביל מאמץ המלחמה שלנו, וכיום הוא בעל ביתהחרושת לגומי "טוראל" בע"מ.
+
+ אח במיסדר בני ברית.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3496 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3496</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3707 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3707</bibl><bibl>Volume: #11 ,Page: 3708 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3708</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>(שלמה) זלמן גורדון</persName>
+
+</head>
+         <div><p> נולד ג' תמוז תרנ"ב (1892) בטרסטוני, מחוז ביאליסטוק (רוסיה).
+
+ לאביו ר'<persName> יעקב גורדון </persName> (סוחר) ולאמו<persName> מלכה</persName> בת<persName> צבי</persName> <persName>דונסקי</persName> (בעל טחנות רוח ביאשינובסקי שבמחוז ביאליסטוק).
+
+ קיבל חינוך מסורתי ועברי, ובשנת 1907 יצא עם בית אביו לקנדה. אחרי לימודים והכרת תנאי החיים התחיל לעבוד כסוכן, וב-1920 יסד יחד עם<persName> יוסף</persName> אחיו תעשית קונפקציה של בגדי נשים ופיתחו אותה לאחת החשובות בקנדה עד היום, שלתוצרתה מהלכים אף מחוץ לקנדה.
+
+
+ ב-1921 נשא לאשה את<persName> פרנסיס (צפורה</persName> ) בת<persName> יוסף</persName> <persName>מיידניק.</persName>
+
+ בשנותיו הראשונות בקנדה היה פעיל שם בתנועה העברית בראשותו של הסופר <persName>ראובן בריינין,</persName> ומאז הנו ממשיך בפעילות לאומית בחומר וברוח כחבר האכסקוטיבה של ההסתדרות הציונית בקנדה, נשיא מחנות הקיץ של "מסד" בקנדה, הנשיא הארצי של קרן התרבות העברית וסגן נשיא הברית העברית העולמית.
+
+ לרגל ביקורו בישראל נטע פרדס באמצעות חברת מהדרין במושב משמרת שליד כפר הס, רכש מניות בעסקים שונים בארץ ופעיל בתעמולה למען המגבית ואגרות המלווה של ישראל.
+
+ שולט יפה בשפה העברית, וכך חינך את בניו שגם בפיהם חיה השפר, העברית, והספריה העברית שבביתו היא מהגדולות בקנדה.
+
+ בשנת תשי"ט (1959) נטעו על שמו חורשה בת 10,000 עצים ביער קנדה בישראל, לאות הכרת-טובה על עבודתו הפוריה למען הספרות והתרבות העברית בקנדה.
+
+ בניו: <persName>יעקב</persName> (בניו:<persName> בנימין-בארי, ליאון </persName> מלכם), צבי <persName>דב</persName> . שניהם ביקרו בארץ והנם בקנדה מפעילי הציונות והתרבות העברית.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3707 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3707</bibl><bibl>Volume: #11 ,Page: 3708 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3708</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 523 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/523</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישעיהו ליפשיץ</persName>
+
+</head>
+         <div><p> נולד בבוריסוב, פלך מינסק (רוסיה הלבנה), בשנת תרל"ד (8.3.1874), לאביו<persName> זאב.</persName>
+
+ אחרי חינוך מסורתי שקיבל בעירו נסע לאיסטמבול כבן 13, והוא אז יתום מאביו, והשתלם בעבודות בנין, בעיקר במסילות-ברזל, כבישים וגשרים, שבנו אז חברות גרמניות ברחבי טורקיה לפי הזמנת הממשלה הטורקית - והגיע למומחיות בעבודות אלה.
+
+ נשא לאשה את<persName> שרה</persName> בת <persName>זאב זילברשטיין.</persName>
+
+ בתרס"ג עלה ארצה ועסק בהקמת בנינים.
+
+ בשנות 1911/14 עבר בשרות הממשלה הטורקית בעבודות בנין וסלילה בקוי מסילות-הברזל חיפה-דמשק ובקו הרכבת בצפון סוריה-לבגדאד לפי התבנית הגרמנית הגדולה.
+
+ אחרי סיום מלחמת-העולם הראשונה עבד בהקמת תחנות הרכבת בארץ, בסלילת כבישים ובבנין גשרים, וכן בבנין בתים רבים לפיתוחה והרחבתה של עיר תלאביב במרכז בעלי-מלאכה ובמרכז המסחרי, ועוד.
+
+ נפטר בתל-אביב, כ''א מיון תש"ה (3.6.45). צאצאיו:<persName> אברהם, בתיה </persName> אשת<persName> פרץ, זאב </persName> (גיוס, בפאריס), <persName>צבי (הרמן), יוסף.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 523 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/523</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

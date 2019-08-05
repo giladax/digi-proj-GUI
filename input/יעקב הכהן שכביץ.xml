@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 388 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/388</bibl><bibl>Volume: #1 ,Page: 389 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/389</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב הכהן שכביץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>חרקוב</placeName> (אוקראינה), בא' ניסן תר"ד (1844) לאביו ר'<persName> נחום הכהן</persName> . משפחתו מתיחשת לש"ך (שבתי כהן) בעל "שפתי כהן" על "שולחן ערוך". את חניכו קיבל ב"חדר" ואח"כ בישיבת וולוז'ין ואף נודע כ"עילוי מוולוז'ין". בהתבגרו נמשך אחר השכלה כללית ונסע לגרמניה ללמוד שם. היה תלמיד שלא מן המנין באוניברסיטת ברלין, במחלקה לחימיה, ובשובו לעירו יסד בית-חרושת לסבון.
+
+ הצטרף לתנועה הציונית בראשיתה. כאשר נרכשה אדמת קטרה, במקום שנוסדה המושבה הבילויי"ת גדרה, קנה גם הוא חלקת-אדמה שם.
+
+
+ ב-1893 עלה לארץ עם בנו בכורו מרדכי וכעבור זמן קצר הביא אליו את אשתו (רחל, בת ר' צבי הלוי לוי), שלשת ילדיו ואמו. בארכיוני גדרה נזכר שמו עוד לפני עליתו, וכאשר ניתן רשיון ב-1888 להקים בתים במושבה היה שמו ברשימה.
+
+ מיום בואו לגדרה התמסר לתורה ולעבודה גם יחד והיה לדוגמה של תורני איש-האדמה. לא הפסיק ממשנתו גם בטפלו בבהמות ברפת. שאף לשיפור החקלאות ע"י שימוש במכונות. היה מראשוני החולמים על התישבות עברית בנגב הרחוק.
+
+ בשעות הפנאי עסק בחידושי-תורה והערותיו דשומות בשולי ספרים רבים. את ילדיו לא מסר לבית הספר, כי חלק על תכניתו החילונית, ולימדם בעצמו.
+
+ הגה תכנית לרכישת אדמת הכפר הערבי יבנה לשם ייסוד ישיבה גדולה לזכר יבנה וחכמיה ואף לרכישת הכותל המערבי.
+
+ עמל במשך כארבעים שנה בחיבור קונקורדנציה, לתורה שבעל-פה. בא בענין זה בקשרים עם חוקרים, סופרים ונדיבים, ביניהם אחד-העם ואלכסנדר אהרנסון, אך לא זכה לראות את חיבורו בדפוס. חתנו העשיר ר' יעקב רמברג מוורשה כבר הקציב לו סכום ראשון להוצאת משניות, אך לפתע נתערער מצב עסקיו והענין נתבטל.
+
+ בשנותיו האחרונות ישב בחיפה אצל בנו הצעיר חיים עובדיה, ששימש פקיד ראשי בבנק אפ"ק שם.
+
+ נפטר בחיפה בט"ו טבת תרצ"ג והובא לקבורה בגדרה.
+
+ צאצאיו: <persName>שושנה, מרדכי, משה, חיים-עובדיה</persName> (מנהל סניף אפ"ב ברחובות). אתת מנכדותיו היא אשת הסופר ד"ר זאב פון ויזל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 388 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/388</bibl><bibl>Volume: #1 ,Page: 389 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/389</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

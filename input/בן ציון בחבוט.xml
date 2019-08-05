@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2252 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2252</bibl><bibl>Volume: #5 ,Page: 2253 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2253</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בן-ציון בחבוט</persName>
+
+</head>
+         <div><p> נולד בי"ח סיון תרנ"ז (1897) בירושלים לאביו הרב <persName>שבתי בחבוט</persName> (שהיה אח"כ רב ראשי בחלב ובבירות) ולאמו <persName>מזל</persName> בת <persName>עזריה די-בוטון</persName> (ממיסדי שכונות עזרת ישראל ואבן ישראל בירושלים). עד גיל 8 למד בביה"ס למל בירושלים ואח"כ עבר עם הוריו ליפו ולמד בגימנסיה הרצליה. גמר ב-1915, הוגלה לדמשק ואח"כ לחלב, שם התנדב בסוף מלחמת העולם א' לצבא הבריטי ושרת בתור סגן קצין ליד הקצין <persName>אלכסנדר אהרנסון </persName> בשרות המודיעין.
+
+ אחרי שובו ארצה יצא ללמוד כלכלה מדינית ופסיכולוגיה באוניברסיטת מנצ'סטר. שם היד, יו"ר "צעירי ציון" והבר "בני ברית" וב-1925 נבחר מטעם הספרדים לקונגרס הציוני, אך מפאת מחלה לא יכול לנסוע.
+
+ ב-1926 יצא לארגנטינה בתור מומחה לתעשיה ומסחר בטכסטיל ויסד בית-מסחר בבואינוס איירס והנו מנהלו בהצלחה. נכנס לחיים הצבוריים היהודיים והציוניים. השתתף ביסוד לשכת בני-ברית, עורך זה 20 שנה את חוברותיה הספרותיות והגיע בה לדרגת סגן-נשיא, אח בלשכת הבנאים החפשים, חבר הועד הפועל של הפדרציה הציונית בארגנטינה, חבר הועד של המרכז הציוני ושל
+
+
+ לשכת הקהק"ל וההסתדרות העברית בעיר, וחבר ועד אגודת שוחרי האוניברסיטה העברית ומראשי הפעילים בכל תנועה ומפעל למען הציונות ומדינת ישראל.
+
+ ב-1929 נשא לאשה את<persName> עליזה </persName> בת הרב <persName>אליהו דנן.</persName>
+
+ באביב תשי"א בא לבקר בארץ, כדי למלא את צוואת אביו ולהעביר את עצמותיו מבירות לקבורה עם אבותיו
+
+ בירושלים, וכן כדי ללמוד את תנאי הארץ לשם הכנה לעליתו להשתקע.
+
+ אחרי מלחמת העולם א' פרסם מאמרים ב"דאר היום'' ואח"כ בעתונים היהודיים בארגנטינה בעניני יהדות וציונות, וספר קטן (בספרדית) על תולדות המנורה בתור סמל מדינת ישראל.
+
+ צאצאיו: <persName>שבתי</persName> (מרסל), (מזכיר ראשי לתנועת "החלוץ" בארגנטינה, למד אגרונומיה באוניברסיטה שם, נכנם עם אשתו<persName> יהודית</persName> בת <persName>יצחק לאבאטון </persName> להכשרה על מנת לעלות ארצה), נעמי.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בבואינוס-איירס (ארגנטינה), י''ג אדר תשט''ז )25.2.56( (ראה כרך ה', עמוד 2252)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2252 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2252</bibl><bibl>Volume: #5 ,Page: 2253 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2253</bibl>
+            <bibl>Volume: #8 ,Page: 3190 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3190</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

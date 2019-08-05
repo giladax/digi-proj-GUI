@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3731 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3731</bibl><bibl>Volume: #11 ,Page: 3732 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3732</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שניאור זלמן רייכמן</persName>
+
+</head>
+         <div><p> נולד כ"ט כסלו תר"ס (2.12.1899) בעיירה בלוניה שבפלך מינסק, רוסיה הלבנה.
+
+ לאביו הרב <persName>אברהם</persName> הי"ד (בעת מלחמת האזרחים ב1921 ברוסיה נלקח כבן-תערובת על-ידי כנופיה של ה"לבנים", שקיבלה בעדו מהקהלה היהודית סכום גדול לפדיונו, אבל לא החזירהו) ולאמו <persName>ליבא</persName> בת ר'<persName> יוסף</persName> <persName>ארוצקר.</persName>
+
+ בגיל 11 נתקבל לישיבת סלובודקה ואח"כ לישיבת מיר, בה נתפרסם כעילוי.
+
+ ב-1920 עלה לארץ ושירת בשמירה בין הראשונים בעמק יזרעאל.
+
+
+ ב-1922 יצא לארה"ב ונתקבל בישיבת רבי יצחק אלחנן (אח''כ "ישיבה-יוניברסיטי") כתלמיד בשלב עליון ומדריך לימודי לקבוצה נבחרת של תלמידים, וב-1924 הוסמך לרבנות בהצטיינות וקיבל פרס-רוקח בעד בקיאות מיוחדת בפוסקים. מיד אח"כ נתקבל לרב של אגודת הצעירים היהודים בברונקס שבניו-יורק, ובאחרונה מכהן ברבנות בבית הכנסת "טמפל ציון" שבברונקס.
+
+ ב-1926 נשא לאשה את<persName> מרים </persName> בת ר'<persName> פנחס קוטלר</persName> מקולצ'סטר שבמדינת קוניטיקוט.
+
+ כל השנים היה מפעילי העסקנות בצרכי הצבור היהודי בארה"ב ובעניני ארץ-ישראל: ממיסדיה ונשיאה של חברת "שומרי שבת", מראשי הסתדרות הרבנים ובאחרונה סגן נשיא ויו"ר הועד הפועל של אגודת הרבנים בארה"ב וקנדה, ממנהיגי המזרחי ומפעילי המגבית ומיפעל המלוה למען ישראל באמריקה. שנה אחת שירת את הצבור היהודי בתור מו"ל של העתון היומי האידי "מארגען זשורנאל".
+
+ בפעילותו התורנית התמסר במיוחד לחשיפת כתבייד של גדולי הראשונים : פרסם מכתב-יד עתיק את חידושי הרמב"ן למסכת חולין בתוספת מראי-מקומות, הגהות והערות בשם "זר סביב", וכעת מכין להדפסה, מכתב-יד את חידושי הריטב"א למסכת שבת.
+
+ בשנת תשי"ז יסד בירושלים בית-מדרש גבוה לתלמוד, כולל-אברכים "עטרת שלמה'', בו רוכז מספר קטן של כוחות מעולים מבחירי הישיבות בישראל לעבודה עיונית בבירור שיטות הראשונים ואחרונים לקביעת ההלכות. הרב <persName>שניאור זלמן רייכמן</persName> מארגן ומנהל בארה"ב את הצד החמרי להחזקת המוסד, ואילו הניהול הרוחני של עבודת המחקר הקיבוצית הוטל על בנו, הרב <persName>רפאל יצחק רייכמן.</persName>
+
+ בניו: <persName>רפאל יצחק, אפרים-אברהם.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3731 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3731</bibl><bibl>Volume: #11 ,Page: 3732 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3732</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

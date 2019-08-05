@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 746 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/746</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה ויינשטיין</persName>
+
+</head>
+         <div><p> נולד בקרמנצ'וג, אוקראינה, תרמ"א (5.12.1880), לאביו<persName> יצחק</persName> . למד ב"חדר" ואח"כ תלמוד והלכה וחסידות בביית-מדרש של חסידי חב"ד. עבד כפקיד בבית-חרושת לנסירת עצים. היה ציוני פעיל והצטרף לקבוצה בת 10 חברים ציונים מקרמנצ'וג לרכוש קרקע בארץ-ישראל להתישבותם. חברי הקבוצה היו: ד"ר <persName>תבורי </persName> (כיום רופא בחיפה),<persName> משה בירמן, יעקב ויטלין, פלדמן, ברשדסקי</persName> ועוד. הקבוצה באה לידי הסכם עם הנהלת יק"א, שתמכור לה את אדמת תל-חי ליד מטולה, ויעקב ויטלין נשלח ארצה לחתום בשם הקבוצה על החוזה עם פקידות יק"א.
+
+ כשחזר ויטלין עם החוזה החתום שלחה הקבוצה את משה ויינשטיין ארצה להכין ולהכשיר את הקרקע במשך שנים אחדות, כדי שתוכל אח"כ לתת פרנסה לחברים כש
+
+ יעלו ארצה, ובינתים ינהל את העבודה בכספים שהחברים ישלחו לו מרוסיה.
+
+ באמצע תמוז תרע"ד הגיע ארצה עם משפחתו ונגש מיד לעבודה בתל-חי לפי הדרכת מומחים. נטע חורשת עצי אקליפטוס והכין משתלות לנטיעת עצי-פרי שונים. עם פרוץ מלחמת-העולם הראשונה נפסק הקשר עם רוסיה. כספים להוצאות העיבוד לא יכלו לבוא מאת החברים,
+
+ וכך נשאר הוא ומשפחתו ברעב ובמחסור על אדמת תלחי הצחיחה והפועלים שעבדו אצלו עזבוהו. לבסוף הוכרח גם הוא לעזוב את המקום ולהחזיר את הקרקע לרשות חברת יק"א, שמסרה אותה אח"כ לקבוצת פועלים. הוא עבר עם משפחתו למטולה.
+
+ בעת המהומות בצפון הארץ באדר תרע"ט, כשמטולה ותל-חי וכפר-גלעדי נשארו בשטח ההפקר שבין צבאות אנגליה וצרפת, פרצו ערבים למטולה בהתנפלות שוד (ימים אחדים לפני ההתנפלות על תל-חי, בה נפלו <persName>יוסף</persName> <persName>טרומפלדור</persName> וחבריו). אז נפצע בכדור-רובה ושכב כמעט שנה תמימה בבית-חולים עד שהבריא. משנת 1921 עבד כפועל במדידת הקרקע במטולה מטעם הפקידות. בינתים גמר בנו את לימודיו במקוה-ישראל ומ-1923 יש לו משק במטולה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 746 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/746</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

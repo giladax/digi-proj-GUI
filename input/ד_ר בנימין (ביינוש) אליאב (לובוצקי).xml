@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4209 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4209</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר בנימין (ביינוש) אליאב (לובוצקי)</persName>
+
+</head>
+         <div><p> נולד ה' אייר תרס"ט (26.4.1909) בריגה, לטביה.
+
+ לאביו<persName> אליהו </persName> בן <persName>משה הכהן לובוצקי </persName> ולאמו<persName> פייגה</persName> <persName>(פאני) </persName> בת<persName> משה אהרן לוונברג.</persName>
+
+ למד בחדר מתוקן בריגה (1915-19), בגימנסיות בבאד-הומבורג ובברלין (1919-20), בבתי-ספר גרמניים בריגה (1926-25), אח"כ בא כ"עולה זמני לעת-עתה" לגמור את לימודיו התיכונים בבית-הספר הריאלי בחיפה (1925-1926), ושוב בא ב-1927 לעבוד חדשים אחדים בקבוצת "מנורה" (של בית"ר לטביה) בפתח-תקוה. למד באוניברסיטת ברלין (1927-28) ובאוניברסיטת וינה (1929-32), שם עשה צעדים ראשונים בעתונאות, ב"נוייה וולט", בעריכת <persName>רוברט שטריקר</persName> , ושם הוסמך לד"ר לפילוסופיה, ובשנים 1935-1932 היה פעיל בתנועת הצה"ר ובית"ר כמזכיר כללי של שלטון בית"ר בפאריס.
+
+ ב-1934 נשא לאשה את <persName>ברטה</persName> בת<persName> זלמן-אליהו פינ</persName> <persName>קלמן.</persName>
+
+ ב-1935 עלה עם רעיתו להשתקע בארץ ועסק בעבודה עתונאית וספרותית (בין השאר - עריכת כתבי <persName>ז'בוטינסקי</persName> בעברית). היה פעיל בתנועה הרביזיוניסטית, במוסדותיה המרכזיים, בעריכת בטאוניה וכו'. בשנים 1944-1943 בראש "תנועת העם" ונציגה כחבר אסיפת הנבחרים וסגן חבר הועד הלאומי וציר לועידת ההסתדרות מטעם "פועלי העם".
+
+ בשנים 1938-1937 ו-1945-1940 פעל במוסדות הפוליטיים של מחתרת אצ"ל ונלקח שלוש פעמים למאסר (בעכו - ב-1938-1937 ושוב ב-1938, ובלטרון ב-1947).
+
+ פירסם הרבה מאות מאמרים בעתונות הרביזיוניסטית (בעיקר ב"הירדן" ו"המשקיף"), בבטאוני "תנועת העם", ב"דבר", "ידיעות אחרונות", "הדור'', ובעתונות
+
+ היהודית בחו"ל - בה נתפרסמו במאמרים גם שיחותהפרשנות שלו שב"קול ישראל''.
+
+ ספרו <persName>"הצה"ר ובית"ר </persName> הופיע בהוצאת המכון להשכלה ציונית (ירושלים 1946).
+
+ בשנים האחרונות עובד בשרות משרד החוץ (שליחויות בחו"ל, מזכיר ראשון בבואינוס-איירס, קונסול כללי בניו-יורק). כיום במשרד החוץ בירושלים.
+
+ צאצאיו:<persName> יעל</persName> אשת <persName>מוריס סטופי, מרים</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4209 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4209</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

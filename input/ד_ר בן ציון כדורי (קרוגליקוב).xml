@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4076 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4076</bibl><bibl>Volume: #12 ,Page: 4077 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4077</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר בן-ציון כדורי (קרוגליקוב)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>צ'רניגוב</placeName> (רוסיה), ג' חשוון תרס"ה (10.10.1904).
+
+ לאביו <persName>הלל קרוגליקוב-כדורי </persName> (ראה כרך א', עמוד 302) ולאמו <persName>הניה</persName> בת <persName>קלמן שמואלי.</persName>
+
+ עלה לארץ עם משפחתו בשנת 1906.
+
+ בוגר הגמנסיה העברית "הרצליה" בתל-אביב, בית הספר הממלכתי להנדסה בטורינו (איטליה) וקיבל תואר Dr. Eng.
+
+ בשנת 1930 נתקבל בעירית תל-אביב כמהנדס במחלקת ההנדסה.
+
+ בתקופות שונות מילא תפקיד מנהל של מחלקות עירוניות שונות. היה מזכיר העיר (1942), מנהל מפעלי המים ומאור ומנהל מחלקת החינוך והתרבות.
+
+ בשנת 1932 נשא לאשה את<persName> אביגיל</persName> בת <persName>אליעזר מאיר</persName> <persName>ליפשיץ </persName> ז"ל, מנהל סמינר המזרחי בירושלים (ראה כרך ג', עמוד 1275).
+
+ בשנות 1949-50 יועץ צירות ישראל ברומה (איטליה).
+
+ בשנת 1950 היה ראש משלחת ישראל לקונגרס הביןלאומי לטלקומוניקציה.
+
+ היה חבר ועדת הלשון של הסתדרות המהנדסים.
+
+ חבר נשיאות הליגה ישראל-איטליה.
+
+ סגן יו"ר האגודה הישראלית למדיניות חוץ.
+
+ חבר הנהלת קרן התרבות ישראל-אמריקה.
+
+ חבר הנהלת מכון התקנים הישראלי.
+
+ מנהל המחלקה לפיתוח ולנכסים בעירית תל-אביב.
+
+ בנותיו: <persName>דליה </persName> (אדריכלית, בוגרת הטכניון),<persName> אסתר.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4076 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4076</bibl><bibl>Volume: #12 ,Page: 4077 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4077</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

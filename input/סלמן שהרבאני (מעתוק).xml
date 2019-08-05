@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3998 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3998</bibl><bibl>Volume: #12 ,Page: 3999 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3999</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>סלמן שהרבאני (מעתוק)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>בגדד</placeName> (עיראק), א' תשרי תרס''א (24.9.1900). לאביו <persName>עזרא </persName> (ממשפחת גדולי תורה ועסקני ציבור) ולאמו<persName> מרים</persName> בת<persName> צאלח גורי.</persName>
+
+ למד בבית-הספר "אל תעאון" הישראלי וסיים בשנת 1918 את לימודי יהדות ולימודים כלליים ושפות ערבית, אנגלית וקצת טורקית.
+
+ התחיל להתמחות במסחר ליד בני משפחתו, עד שהגיע לבקיאות ולכושר לנהל עסקים ביושר ובאחריות של סוחר עצמאי. בערבים ובשבתות היה ממשיך להשתלם בלימודי תלמוד ופוסקים בבית-המדרש הגבוה "בית זלכה" בהנהגת <persName>יעקב מוספי</persName> (כעת בירושלים), והגיע לרמה
+
+ גבוהה בידיעה תורנית וממשיך מאז כל ימיו לקבוע עתים לתורה.
+
+ ב-1929 נשא לאשה את <persName>נג'יה</persName> בת <persName>נסים נתן</persName> (סוחר, בן-תורה).
+
+ עסק במסחר-טכסטיל ונתן הרבה מזמנו וממרצו לעיסוק, בצרכי ציבור. היה חבר ה"מג'לס" הכללי (מועצת הקהילה) של עדת היהודים, חבר ועד תלמוד-תורה הגדול, חבר הועד להתקנת מקואות-טהרה, יו''ר אגודת "עוזרי דלים" ויו''ר בית-הכנסת<persName> עזרא דוד,</persName> חבר ועד הנישואין.
+
+ פעל והפעיל ותרם לעזרה לנפגעי מרד ראשיד עלי ב-1941 ולנפגעי הפרעות בבגדאד, וכן יחד עם הרב הראשי הצבאי <persName>ברומברג </persName> דאגו להספקת מזון כשר לפסח שנת תש"ב (1942) לאלפי חיילים יהודים מהצבא הפולני, שחנו אז בעיראק בבואם מרוסיה. היה פעיל גם בתנועה,
+
+
+ הציונית ובעזרה לעליה (כל עוד לא נאסרו מטעם השלטונות).
+
+ עלה לארץ בשנת 1953. השתקע ברמת-גן ועוסק בתעשיה ובמסחר בטכסטיל בתור מנהל חברת <persName>אצלאן</persName> <persName>שהרבאני ושות' בע"מ</persName> . עוסק גם כאן בצרכי ציבור בתור חבר עירית רמת-גן, חבר המועצה הדתית, חבר מפלגת הדתיים-הלאומיים, מראשי עדת הבבליים (חילק לבתיהתפילה שלהם ספרי תורה שהביא מבגדאד), ונותן יד למפעלי צדקה וחסד.
+
+ צאצאיו: <persName>עזרא, אברהם, צבי, משה, תקוה</persName> אשת <persName>יוסף פנירי,</persName> (מהנדס),<persName> טובה, כרמלה, עליזה, תמרה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3998 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3998</bibl><bibl>Volume: #12 ,Page: 3999 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3999</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

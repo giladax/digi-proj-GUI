@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3639 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3639</bibl><bibl>Volume: #10 ,Page: 3640 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3640</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה מני</persName>
+
+</head>
+         <div><p> נולד בחברון, בשנת תרל"ב (1872). לאביו הרב <persName>סלימן מנחם מני </persName> (ראה כרך א', עמוד 299), ולאמו <persName>ריינה </persName> בת הרב<persName> משה פרירה.</persName> קיבל חנוך מסורתי בחדר ובישיבה. השתלם בשפה הערבית וספרותה ובידיעות משפטית. נתמנה בימי ממשלת תורכיה לשופט חוקר. נשא לאשה את <persName>לאה</persName> בת<persName> אדוארד אשכנזי.</persName>
+
+
+ עשה רבות בגאולת קרקעות מהערבים, בעיקר עבור חברת פיק"א וחברת הכשרת הישוב.
+
+ אחרי הכיבוש הבריטי עבד עם אחיו העו"ד <persName>אהרן מני</persName> (ראה כרך א', עמוד 473) עבור הכשרת הישוב ומוסדות לאומיים אחרים.
+
+ נפטר בירושלים, כ"ח חשון תשי"ד (24.11.51).
+
+ צאצאיו: <persName>זמירה </persName> אשת השופט צבי (הרי) <persName>בקר </persName> (נשיא תורני של בית המשפט בירושלים, <persName>אליהו מני</persName> (נשיא תורני של בית המשפט המחוזי בירושלים),<persName> ריקה</persName> אשת <persName>פרופ' ד"ר אינו שקי</persName> (רופא שנים),<persName> מלכה</persName> אשת העו"ד <persName>א. מקלב, שולמית, אברהם</persName> (פרופ' לפיסיקה באוניברסיטה העברית).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3639 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3639</bibl><bibl>Volume: #10 ,Page: 3640 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3640</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

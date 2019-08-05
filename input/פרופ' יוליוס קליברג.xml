@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1977 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1977</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' יוליוס קליברג</persName>
+
+</head>
+         <div><p> נולד בזינגפלד (גרמניה), בתרנ"ז (10.7.1897) לאביו <persName>וילהלם</persName> (סוחר) ולאמו<persName> סופיה </persName> בת<persName> מאיר לבנבוים.</persName>
+
+ גמר בי"ס ריאלי בדיסלדורף (גרמניה) ולמד רפואה באוניברסיטאות: היידלברג, מינכן, בון, דיסלדורף, פרנפורט. קבל תואר דוקטור לרפואה (1920).
+
+ היה מרצה לרפואה פנימית באוניברסיטת פרנקפורט דמיין (דוצנט משנת 1929).
+
+ עלה ארצה בינואר 1930.
+
+ עד 1932 היה מנהל המחלקה הפנימית בבית החולים "בקור חולים" בירושלים.
+
+ מ-1932 רופא-מנהל המחלקה הפנימית בביה"ח
+
+ "הדסה" ירושלים.
+
+ נתמנה לפרופיסור במחלקת הרפואה של האוניברסיטה העברית.
+
+ בשנת 1939 נשא לאשה את<persName> אני</persName> בת <persName>יוליוס שינדלר,</persName> מהמבורג.
+
+ פרסם מאמרים מקצועיים בשדה הרפואה הפנימית ומחלות סובטרופיות בעתונות רפואית בארץ ובחו"ל.
+
+ מייסד ועורך העתון הרפואי "פוליה מדיקה אינטרנה אורינטליה" משנת 1932.
+
+ פרסם בגרמנית את הספר: "חמרי מזון מלאכותיים וחלבונים חמוצים" (הוצ' אנקה שטוטגרט, 1930).
+
+ בתו: <persName>שולמית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1977 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1977</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

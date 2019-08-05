@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1455 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1455</bibl><bibl>Volume: #3 ,Page: 1456 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1456</bibl>
+<bibl>Volume: #3 ,Page: 1457 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1457</bibl>
+<bibl>Volume: #3 ,Page: 1458 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1458</bibl>
+<bibl>Volume: #3 ,Page: 1459 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1459</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יוסף קונביץ</persName>
+
+</head>
+         <div><p> נולד בעיירה קשודרי (ליטא), בשנת תרל"א (1871), לאביו ר' <persName>אליהו חיים</persName> ולאמו <persName>שרה צינה פייגא</persName> בת <persName>בן-ציון.</persName> למד בחדרים ובישיבות סלובודקה וסלוצק ובן עשרים הוסמך לרבנות על-ידי גדולי הדור.
+
+ נשא לאשה את <persName>וליה</persName> בת הגאון ר' <persName>יעקב דוד</persName> <persName>וילאבסקי</persName> , הנודע בכינוי הרידב"ז.
+
+ שימש ברבנות בקהלות שאדווא, שאוולי וקורסק.
+
+ בחנוכה תרס"ו עלה ארצה והתישב בצפת, ליד חותנו שעלה והתישב שם בתרס"ד. השתתף עם חותנו ביסוד ישיבת הרידב"ז והרצה בה שיעורים בקביעות, וכן תפס מקום בין רבני העיר וגדוליה כגדול בתורה ועסקן בצרכי צבור.
+
+ בתרע"ה, אחרי פרוץ מלחמת-העולם הראשונה, נאלץ לצאת מהארץ בגלל היותו נתין האויב (רוסי). יצא לארצות הברית ושימש ברבנות בערים אליזבט, טרנטון, ניו-יורק. נבחר לנשיא אגודת הרבנים החר
+
+
+ דיים בארצות הברית וקנדה ופעל לטובת מוסדות התורה והחסד שבארץ.
+
+ נפטר בארצות הברית, ט"ו סיון תש''ד (6.5.44), וארונו הובא לקבורה בצפת ע"י בנו שלמה אריה. השאיר אחריו כתבי יד בהלכה ואגדה.
+
+ צאצאיו :<persName> בן-ציון, שלמה אריה, מלכיאל, פנחס,</persName> <persName>שושנה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1455 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1455</bibl><bibl>Volume: #3 ,Page: 1456 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1456</bibl>
+<bibl>Volume: #3 ,Page: 1457 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1457</bibl>
+<bibl>Volume: #3 ,Page: 1458 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1458</bibl>
+<bibl>Volume: #3 ,Page: 1459 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1459</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3048 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3048</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>קריאל גרדוש ("דוש")</persName>
+
+</head>
+         <div><p> נולד בי''ד בניסן תרפ"א (15.4.1921) בבודאפשט שבהונגריה
+
+ לאביו<persName> אלכסנדר</persName> ולאמו <persName>מרגרית</persName> בת <persName>מנחם שנירמאכר.</persName> למד בבית-ספר תיכון בבודאפשט, באוניברסיטת סגד שבהונגריה ואח''כ בסורבונה בפאריס ועסק בספרות ובעתונאות.
+
+ ב-1945 נשא לאשרו את <persName>שושנה </persName> בת <persName>אהרן רומאן.</persName>
+
+ עלה לארץ בראשית 1948. הצטרף למחתרת לח"י וצייר את הקריקטורות לעתונה הבלתי-ליגלי "המעש". אחרי שחרורו ממעצרו עם אנשי לח"י, שנעצרו אחרי מותו המסתורי של הרוזן ברנאדוט, היה העורך הגרפי של השבועון "העולם הזה" וב-1953 הצטרף כציירקריקטורות למערכת "מעריב" בחתימת כינויו האמנותי "דוש".
+
+ פרסם קובץ ספרותי בהונגריה, סיפורים ב"הארץ", "העולם הזה", "מבואות" ו"אוי קלט" (זה האחרון בהונגרית). פרסם ספר קריקטורות בהוצאת "קרני".
+
+ בתו: <persName>דניאלה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3048 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3048</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

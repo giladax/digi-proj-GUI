@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2162 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2162</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב יפה</persName>
+
+</head>
+         <div><p> נולד בשנת תרנ"ה (10.9.1895) בואדי איל-חנון (שהיתה אחר-כך לנס-ציונה) לאביו<persName> שלמה</persName> ולאמו<persName> שרה</persName> בת <persName>דב מילוסלבסקי.</persName>
+
+ אביו היה מן הבילו''יים (ראה כרך א', עמוד 394) ונשא לאשה את שרה בתה החורגת של גולדה מילוסלבסקי המפורסמת ממיסדי ואדי איל-חנון. (שרה היתה
+
+ בת אשתו הראשונה של בעלה, הוא עלה ארצה בשנת 1886.
+
+ דב קיבל את חנוכו בבית הספר העממי בנס-ציונה ככל ילידי הארץ מהתקופה הטרום-היסטורית ההיא, בזמן שבתי-ספר תיכוניים עוד טרם היו בארץ.
+
+ את חנוכו הלאומי והחקלאי לא היה צריך להרחיק לחפש. אביו, אמו וסבתו היו לו לדוגמא, לא רק מספקת - אלא אף גם נדירה. ואם בכל זאת קרה והם החסירו משהו - מצא את החסר בחומר האנושי יהודי חלוצי של מיסדי ואדי איל-חנון ונס-ציונה.
+
+ דב גדל לחקלאות ולהגנה. בתור חקלאי היה לפרדסן. בעבר היו לו אמנם גם כרמי גפנים ושקדים, אלא - שמכת העקירה שעברה בארץ בשנת 1905 על הגפן בשל משבר היין העולמי שחל בשעתו גם בארץ, ועל השקדים בשל נגע ה"קפנודיס" קפדה וקפחה את גפניו ושקדיו, ורק הדריו בלבדם נשארו לו. היה פעיל במאורעות 1921-29/36, וחבר בועד ההגנה במושבתו. יחד עם זלמן פישר ז"ל ומשה טפר עשה הרבה לרכישת נשק מאת הערביים והאנגלים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2162 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2162</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4434 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4434</bibl><bibl>Volume: #14 ,Page: 4435 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4435</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה סנדלר</persName>
+
+</head>
+         <div><p> נולד בדריס-ויאטיס, פלו קובנה בשנת תרמ"ו (7.7.1886).
+
+ לאביו<persName> דוד סנדלר </persName> ולאמו <persName>מוסיה</persName> בת<persName> צבי.</persName>
+
+ קיבל חנוך מסורתי וכללי.
+
+ מיוזמי ומקימי ובונה הגמנסיה העברית הראשון בקובנה (ב-1925) והיה שנים רבות חבר בועד ההורים שעל יד הגמנסיה.
+
+ פעל בבית החולים "ביקור חולים" בקובנה. היה קבלן לעבודות בנין ומסילות ברזל וילנהורזבלובה, שנקראה קו הרכבת "סרבריה-זדינה".
+
+ נשא לאשה את <persName>גניה</persName> בת <persName>ברוך אלישוב.</persName>
+
+ היה חבר הנהלות מוסדות שונים: "אידישער צענטראל-בנק" (היו לבנק 91 סניפים בליטה), בתי
+
+
+ היתומים ע"ש ''הרב יצחק אלחנן", בנה בית הכנסת "הוסמך.
+
+ היה פעיל באגודה: "כי ימוך אחיך עמך" לתמיכת נצרכים.
+
+ בשנת 1919 בוילנה, יחד עם<persName> א. א. קבק, ויגודסקי</persName> ועוד. פעלו בועד לתמוך בנצרכים ולהוצאת עתון בוילנה.
+
+ תמך בעלית חברי הסתדרות "החלוץ" בליטה. בשנת 1933 עלה לארץ.
+
+ הקים בית חרושת לניר בבני-ברק.
+
+ נטע בעבודה עברית פרדס בראשון לציון.
+
+ יו"ר אגודה "קישון" במפרץ חיפה.
+
+ חבר מיסדר בני-ברית ע"ש "שמעון רוקח" בת"א.
+
+ 19 שנים גבאי מסור ויו"ר מושב זקנים "יבנה" ברחוב אלנבי בת"א.
+
+ בנותיו: <persName>ניוטה </persName> אשת<persName> קורט פייבלמן, שרה</persName> אשת <persName>אהרן דורון </persName> (ארכיטקט).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4434 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4434</bibl><bibl>Volume: #14 ,Page: 4435 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4435</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

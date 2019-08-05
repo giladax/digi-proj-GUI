@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1641 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1641</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן חיים כהן</persName>
+
+</head>
+         <div><p> לאביו<persName> בנימין כהן</persName> (עלה מפרס לא"י בשנת תרמ"א) ולאמו <persName>בכורה</persName> בת הרב <persName>שמעון</persName> אסולין (ילידת הארץ, מוצא משפחתה ממרוקו). נולד בירושלים, ז' תשרי תרס"ז (9.1906 26). בשנים 1919--1913 התחנך ב"דורש ציון". השתלם השתלמות עצמית בהשכלה כללית ובשפה העברית אצל ה"שיכים" שומרי החצר של מסגד עומר, ושומע חפשי באוניברסיטה העברית בקתדרה לידיעת הספרות העברית". בשנים 1919 - 1929 פועל דפוס. מ-1921 חבר מפלגת "אחדות העבודה". ממיסדי ארגון הנער העובד בירושלים וחבר המרכז הארצי שלו. מ-1926 חבר ההגנה. מ-1929 נכנס כפקיד למחלקה הערבית של הסוכנות היהודית. ב-1930 כאשר קם האחוד בין "הפועל הצעיר" ו"אחדות העבודה" עבר למפא"י.
+
+ ב-1931 נשא לאשה את<persName> מלכה</persName> בת <persName>עזרא כהן</persName> מאלכסנדריה. בשנים 1932 - 1939 סייר בארצות המזרח הקרוב : עבר הירדן, סוריה, לבנון, עיראק, מצרים, והדק את קשרי הסוכנות היהודית עם מנהיגי התנועה הערבית. מ-1934 חבר ועד הקהלה העברית לכנסת ישראל. ב-1937 ציר הקונגרס הציוני העשרים והצביע נגד חלוקת א"י בנגוד לדעת רוב חברי מפלגתו. ב-1941 מזכיר כללי של "סולל בונה" בסוריה. ב-1942 עד היום חבר מזכירות המחלקה הערבית של הועד הפועל של ההסתדרות. ב-1947 נבחר לציר אספת הנבחרים השלישית. בדצמבר 1947, עם הקמת צבא ישראל, נתמנה למנהל משרד הבטחון ומרכז הגיוס בירושלים. השתתף בעתונים: דבר, הארץ,
+
+ הפועל הצעיר, ילקוט המזרח התיכון, מערכות, חקיקת אל-עמר, ועוד, בהם כתב על השאלות הערביות של א"י והמזרח התיכון. בשטח המדיני פעל פעולות שעוד טרם הגיע הזמן לפרסמן. נזכר ביומנו של ח. ארלוזורוב שהשתתף אתו בשליחות מדינית
+
+ לעבדאללה מלך עבר הירדן. הרצה הרצאות מדיניות בשפה הערבית המדוברת ברדיו החשאי בסוף ימי שלטון המנדט הבריטי. הרצה בשאלות המזרח התיכון בכל הערים והנקודות בארץ.
+
+ צאצאיו: <persName>ירדנה, ארלוזורה, שולמית, חנה.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בירושלים, כ"ח אייר תשכ"ב (1.6.62) (ראה כרך ד', עמוד 1641)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1641 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1641</bibl>            <bibl>Volume: #12 ,Page: 4122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4122</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 196 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/196</bibl><bibl>Volume: #1 ,Page: 197 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/197</bibl>
+<bibl>Volume: #1 ,Page: 198 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/198</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק אלטאראס</persName>
+
+</head>
+         <div><p> בן שלמה נולד בארם-צובה בשנת ת"ר (1840). היה תלמיד-חכם, משכיל, עשיר גדול ובעל נכסים. היתה
+
+ לו ספריה גדולה מירושת אבותיו. בפי מכיריו וידידיו היה מכונה בשם "סניור". מאהבתו את הארץ הקדושה
+
+
+ עלה לא"י עם בני משפחתו ונשתקע בירושלים (תרס"א). בבואו הביא אתו שני ספרי תורה עתיקים, הנמצאים היום בידי חתנו הראש"ל ר' בן ציון מאיר חי עוזיאל ואחד מהם מנדבת האחים הגבירים שלמה ומשה אלטראס לזכר אחיהם עזרא. ידע כמה שפות: עברית, ערבית, צרפתית, טורקית, איטלקית, וקצת פרסית. שנים אחדות עסק בהוראת שפות. זמן קצר הורה בבית ספר כי"ח בירושלים את השפות ערבית וצרפתית. בזמן מלחמת העולם הראשונה נתמנה לקונסול פרסי בירושלים ובתפקיד זה שימש כשש שנים. במשרתו זאת עזר הרבה ליהודים רבים שפנו לעזרתו ומלא תפקיד בעל משיבות לאומית. נוסף לכך היה נדיב-לב והרבה לתת צדקות. כל ימיו ישב והגה בתורה. נפטר בירושלים ביום ט"ז תשרי תרפ"ד.
+
+ היו לו שני בנים:<persName> רפאל (נפטר</persName> במצרים) <persName>ואליהו</persName> (בקזבלנקה) ושתי בנות: <persName>עליזה </persName> אשת הרב הראשי לא"י בן ציון מאיר חי עוזיאל<persName> וחנה </persName> (גראסיה) באלכסנדריה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 196 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/196</bibl><bibl>Volume: #1 ,Page: 197 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/197</bibl>
+<bibl>Volume: #1 ,Page: 198 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/198</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

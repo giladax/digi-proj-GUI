@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1421 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1421</bibl><bibl>Volume: #3 ,Page: 1422 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1422</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יוסף רפאל בן-נון</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תקפ"א (1821), לאביו <persName>יעקב</persName> ולאמו לאה.
+
+ למד בישיבות הספרדים והצטיין בבקיאות גדולה בש"ס ובפסוקים והוסמך לרבנות.
+
+ נשא לאשה את<persName> שרה </persName> לבית פרסייאדו (נפטרה ביפו, י"ג אלול תרנ"ג).
+
+ היה בעל אופי חזק. לא נשא פנים לאיש, ביחוד בעניני הלכה, ולא חשש להתנגד גם לדעתם של ראשי הרבנים בירושלים. משום כך לא ניתן לו המקום הראוי לו בישיבות ובהנהלת עניני העדה והיה נרדף רוב ימיו.
+
+ בשנותיו האחרונות שימש רב לעדת הספרדים ביפו. הרבה לפעול למען גיבוש העדה וניהל את עניניה בתבונה רבה. ביחוד נתגלתה עמידתו התקיפה
+
+
+ והנבונה כאחת בסכסוך שנתעורר בשנת תרנ"ה בדבר מגרש מונטיפיורי שהוקדש לעדת המערבים ביפו ושהביא להתערבותם של העסקנים <persName>יוסף נייגו, נסים</persName> <persName>בכר, חיים אמזאלג</persName> ועוד.
+
+ חיבר ספר גדול בשם "יאיר מבין" (כללים והגדרות בש"ס ובפוסקים). מאחר שלא היו לו אמצעים
+
+ להדפיסו, נוסדה ועדה להוצאתו וחבריה היו עסקני יפו אלה :<persName> אהרן שלוש,</persName> חכם <persName>יוסף משה,</persName> חכם <persName>יוסף</persName> <persName>שמחון, אל. הלוי הורביץ</persName> וחכם <persName>נסים קורקידי.</persName> אולם אף בעזרת הועדה לא יכול להוציא את הספר בבתאחת, רק חוברות-חוברות, בשנת תרס"ג יצאו ערכי האותיות א-ד. שאר החלקים נשארו בכתב-יד ונרכשו על-ידי האספן הרב<persName> יצחק נסים רחמים</persName> בירושלים. פרסם חידושי תורה ב"המאסף" של הרב <persName>ב"צ קואינקה,</persName> שנה ב'.
+
+ נפטר ביפו, כ"ב אדר תרס"ו.
+
+ צאצאיו: <persName>יעקב </persName> (חלפן נפטר בח"א, כ"א חשון תרפ"ט), <persName>חיים, זינבול</persName> אשת <persName>אברהם מויאל</persName> (ראה בכרך זה, עמוד 1185).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1421 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1421</bibl><bibl>Volume: #3 ,Page: 1422 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1422</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3488 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3488</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים רוטמן</persName>
+
+</head>
+         <div><p> נולד בחודש שבט תר"ס (1900) בהומל שברוסיה.
+
+ לאביו<persName> מרדכי </persName> ולאמו <persName>חוה</persName> בת<persName> יוסף ופייגה רודומובסקי.</persName> זיקת אזרחות לארץ-ישראל היתה לו מיד עם הולדתו, שכן שמונה שנים קודם לכן, ב-1892, עלו לארץ אביאביו ר' <persName>שאול רוטמן </persName> ודודו <persName>חיים רוטמן </persName> ומשפחותיהם והתישבו בחדרה בין ראשוניה.
+
+ ב-1906, בהיותו בן שש, עלה גם הוא עם הוריו וביתם להשתקע בחדרה. עבר בהצלחה את המבחן של אקלים חדרה, והוא ושני אחיו <persName>ניסן ונחמן</persName> נאבקו קשה עם קדחת, אבל יכלו לה, ואילו אחותם <persName>מלכה</persName> מתה מקדחת צהובה בגיל 16.
+
+ אחרי גמרו את לימודיו בבית-הספר המקומי יצא לעבודה במשק אביו, ובמשך הזמן פיתח אף הוא עצמו משק רב-ענפים: כרם, פרדסים, רפת, לול, פלחה וגידולי שלחין.
+
+ השתתף בפעילות בארגון ה"הגנה" ובשמירה המקומית. וכשהתנפלו הערבים על חדרה בתקופת המהומות באביב 1921 והוא וחברו לשמירה<persName> יפת מילנר</persName> ראו את הסכנה המתקרבת, מיהרו בחירוף נפש, תוך יריות הערבים, לתחנת הרכבת שממזרח למושבה, בה היה אז הטלפון היחיד לכל חדרה, והודיעו לועדת ההגנה בחיפה, ובהשתדלות הועדה אצל מושל מחוז נשלחו מטוסי-קרב, שמכונות-היריה שלהם קצרו בפורעים והניסו אותם.
+
+ בל"ג בעומר תרפ"ה (1923) נשא לאשה את <persName>רבקה</persName> בת <persName>אביגדור ופנינה אפלבוים </persName> (ראה בכרך זה), מראשוני זכרון יעקב.
+
+ ממשיך בפעילות חקלאית, כלכלית וצבורית. חבר הסתדרות החקלאים חדרה, חבר אגודת אפא"י לשיווק פרי הדר, חבר אגודת "החקלאי" ופעיל באגודת מכבי חדרה.
+
+ צאצאיו: <persName>מלכה </persName> אשת <persName>יהודה הראל </persName> (כעת שליח הסוכנות היהודית בלונדון), <persName>פנינה</persName> אשת <persName>עקיבא גורן</persName> מהנדס בחברת דשנים וחמרים כימיים בחיפה),<persName> שאול</persName> חקלאי בניהול המשק והפרדסים של אביו, שוער בקבוצת כדורגל של מכבי חדרה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3488 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3488</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

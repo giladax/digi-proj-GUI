@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 255 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/255</bibl><bibl>Volume: #1 ,Page: 256 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/256</bibl>
+<bibl>Volume: #1 ,Page: 257 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/257</bibl>
+<bibl>Volume: #1 ,Page: 258 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/258</bibl>
+<bibl>Volume: #1 ,Page: 259 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/259</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנימין יהלום</persName>
+
+</head>
+         <div><p> איש כפר-גנים, נולד ב<placeName>אנטופול</placeName> שבפלך גרודנה (צפון פולין) בי"א טבת תרל"ב לאביו ר' מאיר יוסף, תלמיד חכם מופלג ומיוחס, שהחזיק בשותפות עם שני
+
+ אחיו בחכירה אחוזה ומשרפות יי"ש של אציל פולני.
+
+ כבן 13 עלה ארצה עם אמו ועם אביו-חורגו (אחרי שנתיתם בילדותו). בחוף יפו טעמו את העלבון והיסודים שבגזירות על העליה היהודית, כשלא הורשו לעלות על החוף, והקברניט של האניה הרוסית סירב לקבלם חזרה אל האניה. אחרי שחרור בערבות מבית-הכלא והשתדלות נמרצת הורשו להשאר בארץ והשתקעו בירושלים. כאן למד בנימין
+
+ בישיבות "תורת חיים" ו"עץ חיים". בתור בן אמידים ונדיבים סירב להרשם לקבלת "חלוקה" ו"דמי ישיבה", וכך היה חסר מעמד קבוע ובטוח בעניני פרנסה, לפי המושגים בירושלים בימים ההם. בן י"ח נשא לאשה את מרת <persName>אלקה</persName> , בת הרב אריה ליב <persName>פרומקין</persName> , שהיה אז מנהל משק-לחמן בפתחתקוה.
+
+ שנים אחדות היה סוחר באריגים ביפו. בינתים נטע לו כרם בפתח-תקוה ואחר-כך השתקע שם והתמסר לעסקנות בצרכי צבור בועד המושבה ובמוסדות-חסד שונים.
+
+ המשבר שבא על ענף הגפנים, עם החלטת הבארון להפחית את התשלומים בעד הענבים המובאים ליקביו, פגע קשה במקור פרנסתו. אז נסע ללונדון לנסות שם את האפשרות להפצת יינות ארץ-ישראל. אחרי שנים אחדות חזר ארצה כאזרח בריטי, משך הון מקרוביו שבפולין ורוסיה להשקעות במטעים בפתח-תקוה ובכפר-סבא, ולשם שיפור תנאי הקיום של בעלי מטעי השקדים יסד וניהל את חברת "השקד" עד מלחמת העולם הראשונה (181914).
+
+ במלחמה ההיא נשאר בארץ, למרות היותו "נתין האויב", המשיך לעמוק בצרכי צבור ובמפעלי חסד, ואפילו העיז לבוא במגע עם אנשי השלטון, כחבר ועד כפר-סבא, למען הסרת העיקול שהושם על יבול השקדים בתור "רכוש האויב".
+
+ אחרי המלחמה, שהחריבה ואת מטעי השקדים בכפר-סבא, עסק שוב שנים אחדות במסחר-אריגים ביפו, נאבק עם מצבים קשים במסחר ושמר על שמו הטוב. ושוב נסע ללונדון ומשך הון של יהודים מאנגליה להשקעות במפעלי פיתוח בארץ והגן על עניניהם בעתות משבר.
+
+ כשחזר מלונדון הגיע המשבר בקנית אדמת כפר-גנים לממדים של שערוריה, וכל הקניה עמדה על סף הביטול. והואיל והוא קנה שם חלקות אדמה לעצמו, לבני משפחתו ולמכיריו מאנגליה, נענה להפצרות חברת קוני האדמה והתמסר להצלת מפעל ההתנחלות ולהבראתו. בעמל שנים אחדות הצליח, תודות למרצו ומסירותו ולקשריו עם אנשי פקידות השלטון, להציל את זכות הבעלות של הקונים היהודים על האדמה ולהשיג את הפיכת הבעלות מ"מושע" ל"מפרוז", וכל קונה קבל "קושאן" על חלקתו המסוימת. לאות תודה רשמוהו מיסדי כפרגנים בספר הזהב של הקה"ק יקראו על שמו את הרחוב הראשון של הכפר.
+
+ בשנים שלפני מלחמת-העולם השנית השתתף גם בהנהלת אגודת הפרדסנים "החקלאי" בפתח-תקוה והשקיע עבודה רבה בשיפור תנאי האשראי לפרדסנים חברי האגודה.
+
+ במשך כל שנות שבתו בפתח-תקוה עסק בצרכי צבור באגודות ובמוסדות שונים. בשנים האחרונות,
+
+
+ מעת שפרש מעסקים, התמסר במיוחד לעזרת בית היתומים לילדים מעולי תימן, המתנהל על-ידי הרב צוויק בכפר-גנים, ובפעולות למען מוסד זה ממשיך הוא עד היום.
+
+ בתמוז תש"ו הופיעה חוברת זכרונותיו.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בפתח-תקוה, ט"ז אלול תשי"ח (1.9.58) (ראה כרך א', עמוד 258)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 255 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/255</bibl><bibl>Volume: #1 ,Page: 256 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/256</bibl>
+<bibl>Volume: #1 ,Page: 257 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/257</bibl>
+<bibl>Volume: #1 ,Page: 258 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/258</bibl>
+<bibl>Volume: #1 ,Page: 259 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/259</bibl>
+            <bibl>Volume: #10 ,Page: 3646 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3646</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

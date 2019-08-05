@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4211 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4211</bibl><bibl>Volume: #13 ,Page: 4212 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4212</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יצחק אפרת</persName>
+
+</head>
+         <div><p> נולד ג' חשון תרנ"ב (4.11.1891) בווארשה, פולין. לאביו<persName> מרדכי</persName> ולאמו <persName>שרה</persName> בת<persName> מאיר משל</persName> .
+
+ למד בחדר, בבית-ספר עממי ובגימנסיה. בשנים 1914-1910 למד רפואה באוניברסיטת מינכן, המשיך
+
+
+ האוניברסיטה<persName> לוצרן</persName> בשוויץ, גמר ב-1916 והוסמך לד''ר לרפואה והוסיף לעבוד בבית-חולים בסאנקט-גאלן שבשווייץ בתור אסיסטנט ואח"כ בתור רופא ראשי במחלקה.
+
+ ב-1919 חזר ושירת שנתיים בתור קצין רפואי בצבא.
+
+ ב-1921 נשא לאשה את<persName> שושנה</persName> בת<persName> אליהו זייציק.</persName>
+
+ השתקע בסלונים בתור רופא, כללי ולנשים. היה פעיל בחיים הציוניים בתור יו"ר ההסתדרות הציונית המקומית במשך שנים רבות, יו''ר קרן היסוד ו"תרבות" ומטובי התורמים לקרנות ולמוסדות. כן היה פעיל ב"טאז", בגימנסיה היהודית ועוד.
+
+ פירסם מאמרים ב"הרפואה".
+
+ בראשית מלחמת-העולם השניה גויס לשרות רפואי בצבא הפולני, נפל בשבי הגרמני, וכשברח חזרה לסלונים, שנכבשה בינתים על ידי הרוסים, נאסר ב"אשמת" עסקנותו הציונית בשנים הקודמות וגם בתור קצין הצבא הפולני ונשלח למחנה-עבודה בצפון הרחוק של רוסיה. לרגל ההסכם בין רוסיה ופולין, אחרי שהגרמנים תקפו גם את רוסיה, שוחרר לעבור לסיביר, שם מצא את משפחתו, שגורשה מסלונים אחרי שנאסר. ב-1946 הורשו לחזור לפולין, ובלודז' עסק במקצועו ובעבודה ציבורית וציונית. חבר הועד המרכזי של "איחוד" וב"טאז".
+
+ ב-1949 עלה לארץ עם משפחתו ונתקבל לעבודה בקופת חולים של ההסתדרות הכללית, והנו חבר הועד המפקח של קופת חולים למחוז דן וחבר הועד המרכזי המורחב של הסתדרות רפואית ישראלית.
+
+ צאצאיו:<persName> בלה</persName> אשת<persName> אליהו לובושיץ, בנימין</persName> (מהנדס).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4211 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4211</bibl><bibl>Volume: #13 ,Page: 4212 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4212</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

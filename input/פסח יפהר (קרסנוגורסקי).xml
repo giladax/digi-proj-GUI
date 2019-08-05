@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4320 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4320</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פסח יפהר (קרסנוגורסקי)</persName>
+
+</head>
+         <div><p> נולד בניזין (רוסיה), ז' ניסן, תרס"ד (1904). לאביו<persName> אברהם קרסנוגורסקי</persName> ולאמו<persName> טובה </persName> בת<persName> שלום</persName>
+
+<persName>חנקין.</persName>
+
+ קיבל חינוך מסורתי בחדר, בישיבה וכללי בבי"ס תיכון.
+
+ היה פעיל בתנועה הציונית - במחתרת.
+
+ אסיר ציון עד 1927.
+
+ בשנת תרפ"ז (1927) עלה לארץ.
+
+ עבד כפועל במושבות : נס-ציונה, רחובות, רוחמה, עמק יזרעאל, חדרה והרצליה.
+
+ היה מזכיר מועצת פועלי הרצליה.
+
+ עבד: במחלקת המושבות והעבודה של הסוכנות היהודית, באגף השלטון המקומי במשרד הפנים, במחלקה המוניציפלית של הוועד הפועל של ההסתדרות.
+
+ בשנת תרצ"ה (1935) נשא לאשה את <persName>יהודית</persName> בת ד"ר <persName>אהרן מרשוב</persName> (ראה את הערך שלו בכרך זה, בעמוד 4286).
+
+ ראש עיריית הרצליה.
+
+ צאצאיו :<persName> רות יפהר-לוי, עמירם יפהר, נילי יפהר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4320 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4320</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

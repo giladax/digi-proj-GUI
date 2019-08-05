@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3038 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3038</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל אברהם ליבר</persName>
+
+</head>
+         <div><p> נולד בשנת תרמ"ג (9.1.1883) ברז'ב שבגליציה.
+
+ לאביו ר'<persName> משה</persName> (סוחר ועסקן) ולאמו <persName>רבקה </persName> לבית <persName>פריינד.</persName>
+
+ נתחנך בבית אביו החסיד על-ידי טובי המלמדים והמורים ואח"כ למד בישיבות בהונגריה.
+
+ בגיל 18 יצא ללייפציג שבגרמניה, התמחה בהליכות החיים הכלכליים, שלח ידו במסחר והצליח ובמשך הזמן נעשה בעל תעשית אריגים והוא ותוצרתו זכו לשם טוב בעולם העסקים.
+
+ נשא לאשה את<persName> צפורה</persName> בת <persName>אלטר.</persName> (היתה יד ימינו במעשי החסד בחו"ל ובארץ).
+
+ בלייפציג המשיך באורח-חיים מסורתי מושלם כחבר נאמן בעדה החרדית וחבר הועד הפועל של "המזרחי", ממיסדי הת''ת והישיבה ותומכם ביד נדיבה, וכן היתה ידו פתוחה למעשי צדקה וחסד מתוך ענווה והצנע לכת.
+
+ ב-1926 חיסל את עסקיו המשגשגים שם ועלה ארצה כששרר כאן משבר כלכלי קשה. רכש את בית-החרושת הקטן לממתקים "רענן" ופיתוח אותו לאחת מהתעשיות הגדולות והחשובות בארץ. היה חבר הועד הפועל של
+
+ התאחדות בעלי תעשיה ושל הבנק לתעשיה. גם כאן המשיך בדרך הענווה והעזרה לזולת. דלתי ביתו ומשרדו היה פתוחים למבקשי עזרה לעצמם או לזולתם או למוסדות
+
+ תורה וחסד והיה מקבלם מתוך יחם אנושי פשוט, בלא שירגישו נחיתות בפניו. גם לעובדי מפעלו היה עוזר במפרעות ובהלואות לשיכון ובהענקות לחגים ולרגל מאורעות משפחתיים, והכל בדרך כבוד למקבלים, ביחוד היה תומך במפעלי תורה ודת, אבל גם בתמיכה בענינים לאומיים וכלליים לא היה בין המפגרים.
+
+ נפטר בתל-אביב, כ"א סיון תשי"ד (22.6.1954).
+
+ צאצאיו: <persName>משה, לאה</persName> אשת ד"ר <persName>נפתלי קירש.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3038 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3038</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

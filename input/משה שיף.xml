@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4070 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4070</bibl><bibl>Volume: #12 ,Page: 4071 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4071</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה שיף</persName>
+
+</head>
+         <div><p> נולד ביפו, כ"א שבט תרס"ו (16.2.1906).
+
+ לאביו<persName> חיים חיקול שיף</persName> ולאמו <persName>שרה טובה</persName> בת<persName> משה</persName> <persName>שמעון לב</persName> (ראה בכרך זה בעמוד 4054).
+
+ קיבל חינוך מסורתי וכללי. השתלם במדעי הטבע ובחקלאות בננסי (צרפת) וקיבל תואר אגרונום ומוסמך לזיאולוגיה שימושית.
+
+ בתקופת הלימודים בחו"ל היה חבר ועד הסטודנטים היהודיים.
+
+ היה פעיל במכבי ובאירגוני הנוער הציוני ביפו. חבר ההגנה כל השנים.
+
+ עם סיום לימודיו בחו"ל חזר לארץ, הוא מתקבל כעובד בממשלת המנדט בתפקידים שונים : בנגרות, אורז פירות, מפקד פירות הדר וממונה משמרת בנמל יפו, מנהל תחנת נסיונות בבעיות שמירת הפרי, החסנת פרי, בחירת כנות לעצי פרי, פיקוח על המזונות במחוז השומרון (המושב בנתניה), מפקח ראשי על הפקחים במחוז השומרון, עוזר למזכיר הראשי של ממשלת המנדט.
+
+ אחרי הקמת המדינה - עובד משרד המסחר והתעשיה, עוזר למנהל אגף התעשיה, מנהל המחלקה ליבוא ציוד תעשייתי.
+
+ כיום, המנהל המחוזי, למחוזות תל-אביב והמרכז משרד המסחר והתעשיה.
+
+ נשא לאשה את<persName> חנה</persName> בת <persName>שלמה אהרן הופזייאר.</persName>
+
+ חבר הסתדרות האגרונומים בארץ.
+
+ בשנת 1942 היה נשיא לשכת "שרון" של הבונים החפשים בתל-אביב.
+
+
+ כתב מאמרים על נושאים חקלאיים - מהם על עבודות מחקר, בעתון "הדר" ו"השדה".
+
+ בניו: <persName>חיים נחמיה</persName> (מאמו <persName>נחמה </persName> ז"ל בת <persName>ירחמיאל</persName> <persName>אמדרורסקי </persName> ז"ל), <persName>טוביה דורון</persName> (מאמו:<persName> חנה </persName> הנ''ל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4070 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4070</bibl><bibl>Volume: #12 ,Page: 4071 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4071</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

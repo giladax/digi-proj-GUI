@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3400 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3400</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב פרגרמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וורשה</placeName> (פולין), כ"ה טבת תרס"ח (5.1.1907).
+
+ לאביו <persName>ראובן</persName> (רכש קרקעות בנחלת יעקב בסביבות חיפה ע''י הרבי <persName>מיבלן)</persName> . ולאמו <persName>שינדל לבית רכטלבן</persName> . קבל חנוך מסורתי ובי''ס מקצועי.
+
+ משנת 1923 ניהל ביח''ר לארנקים ב<placeName>וורשה</placeName>, ומאוחר יותר בבריסל ובפריס.
+
+ בשנת 1925 עלה לארץ ויסד תעשית הארנקים ומוצרי עור בשם "ארנקיה".
+
+ חבר בועד התאחדות הסוחרים מחלקת מוצרי עור, ובהתאחדות בעלי התעשיה בישראל.
+
+ בשנת 1932 נשא לאשה את <persName>צלה</persName> בת<persName> יצחק לוקו</persName> <persName>בייצקי.</persName> עוזרת לבעלה בעבודתו.
+
+ משנת 1932 החל בתעשית ייצוא מוצרי עור מוגמרים למזרח התיכון.
+
+ משנת 1945 ייצוא גם לארצות אירופה ומאוחר יותר לדרום אפריקה, ניגריה ועוד.
+
+ בתקופת המאורעות בארץ הצליח להפיץ את סחורתו בערים הערביות.
+
+ עם הקמת המדינה ואבדן הקשרים עם מדינות ערב במזרח התיכון, מצטמצמת פעולתו בהפצת מוצרי עוד ופלסטיקה בארץ מבית מסחרו "צלה" ברחוב נחלת בנימין 46 בתל-אביב.
+
+ כל השנים חבר ההגנה.
+
+ בניו : <persName>צבי, ירדן</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3400 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3400</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

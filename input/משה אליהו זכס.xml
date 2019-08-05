@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1412 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1412</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה אליהו זכס</persName>
+
+</head>
+         <div><p> לאביו <persName>אברהם אלקנה</persName> (מעסקני הישוב הישן ב<placeName>ירושלים</placeName>) ולאמו <persName>דובה</persName> בת<persName> יהושע פישל גרבום.</persName>
+
+ נולד ב<placeName>ירושלים</placeName> בשנת תרל"ב (1872).
+
+ קיבל חינוך מסורתי ותורני בחדר ובישיבת "עץ חיים" ב<placeName>ירושלים</placeName>.
+
+ נשא לאשה את<persName> חנה</persName> בת <persName>יצחק ליפקין </persName> (ראה כרך ראשון, עמוד 297).
+
+ מהחברים הראשונים של אגודת "אחוה" ב<placeName>ירושלים</placeName> בשנת תרנ"ה.
+
+ היה הראשון שהביא לירושלים את מכונת הצלום, הגרמופון ותקליטים. נסע לגרמניה וסידר קשרי מסחר.
+
+ היה בעל כשרון לציור. צייר את הסמל של אגודת "אחוה" (שתי שבולים ושני ידים משולבות - באמצע עשרת הדברות - והפסוק ו"אהבת לרעך כמוך"). נפטר ב<placeName>ירושלים</placeName>, כ"ח טבת תרס"ט.
+
+ צאצאיו: <persName>שרה</persName> אשת <persName>זלמן מירסקי, אהרן</persName> (פקיד במשרד העבודות הצבוריות בחיפה), <persName>צדוק</persName> (אמריקה), <persName>יונה</persName> אשת <persName>מתתיהו ברוכוב</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1412 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1412</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

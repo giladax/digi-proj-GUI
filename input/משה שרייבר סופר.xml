@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4102 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4102</bibl><bibl>Volume: #12 ,Page: 4104 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4104</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה שרייבר-סופר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>דרוהוביץ</placeName> (פולין), כ' סיון תר"ע (1910. 21.6).
+
+ לאביו הרב <persName>אברהם חיים סופר </persName> זצ"ל (בנו של הגאון הרב <persName>יצחק ליב סופר</persName> , שהיה בנו של הגאון הרב בעל "כתב סופר", בן הגאון רשכבה"ג מרן ה"חתם סופר". מצאצאי רבי עקיבא איגר זצ"ל) ולאמו<persName> צרטל </persName> בת ר' <persName>ישעיה שרמן.</persName>
+
+ קיבל חינוך מסורתי בישיבות הונגריה, ואצל הרב <persName>שמעון סופר,</persName> בנו של ה''כתב סופר''.
+
+ היה בין מייסדי הישיבה הגדולה בעירו, בהנהלתם של האחים הגאונים<persName> קיטיגורודסקי.</persName>
+
+ היה יו"ר קופות רבי מאיר בעל הנס בגליציה.
+
+ היה נציג הכנסיות הגדולות של אגודת ישראל.
+
+ היה בעל מכרות נפט במזררו (גליציה).
+
+ בשנת 1937 נשא לאשה את<persName> שושנה רבקה</persName> ב<persName>ת יוסף</persName> <persName>אברמציק.</persName>
+
+ בשנת 1937 ביקר בארץ וב-1840 עלה עם משפחתו לישיבת קבע.
+
+ חבר הנהלת עיריית בני-ברק ויו"ר הוועדה הרתית מטעם הגוש החרדי ברציפות משנת 1942.
+
+ נהול כולל חבת ירושלים לעדת גליציה.
+
+ ממייסדי חוגי "חתם סופר" בארץ.
+
+ יו"ר הנהלת כולל "חיבת ירושלים".
+
+ עסקן מסור ליהדות החרדית בבני-ברק.
+
+ יבואן חמרים חימיקליים.
+
+ צאצאיו:<persName> בלה </persName> אשת<persName> יהושע דב קלינלרר, אסתר, דוד</persName> <persName>ישעיהו.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4102 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4102</bibl><bibl>Volume: #12 ,Page: 4104 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4104</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

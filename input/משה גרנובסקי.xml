@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 234 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/234</bibl><bibl>Volume: #1 ,Page: 235 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/235</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה גרנובסקי</persName>
+
+</head>
+         <div><p> בן שלמה. אביו של ד"ר א. גרנובסקי, ראש הדירקטוריון של קהק"ל, ויעקב גרנובסקי מיסד ה"מכבי" ברוסיה. - נולד בי"ד תשרי תרכ"ו (1865) בעיר אומן שבאוקראינה.
+
+ נתחנך חנוך מסורתי בחדרים ובישיבות. גר זמן מה בפאלשטי, ואחרי שנולד לו בנו הבכור עבר לאודיסה, לשם הנהלת עסקי מסחר באבנים טובות.
+
+ כשפרסם י. ל. פינסקר את מחברתו נהיה לאחד מראשוני חו"צ. היה ממקורביו של י. ל. לילינבלום.
+
+
+ והיה ממלא אחרי כל ההוראות שלו. היה מן הראשונים שנספח לאגודת הסתרים "בני משה".
+
+ בשנת 1896 נהיה לציוני מדיני, אך השתייך לזרם התרבותי של הציונים, והשתתף בעמלו ובאמצעיו הכספיים בכל ענין שהיה לו קשר לתנועת התחיה הלאומית. ביתו שימש כל שנות מגורו באודיסה לבית ועד לחכמים וסופרים מן החבורה האודיסאית התרבותית. ביתו שימש ג"כ לאספות ציוניות, ומנהיגי היהדות ברוסיה היו מן הנכנסים ובאים בו.
+
+ ניסה לעלות לארץ-ישראל עוד כמה שנים לפני מלחמת העולם הראשונה - בשנת 1907 - עם אשתו ושני בניו (אברהם ויעקב) והשקיע את הונו הגדול בפרדס. אך ישב בארץ רק כעשרה חדשים מכיון שתקפה את אשתו מחלת קדחת קשה, ושב לאודיסה. אולם ברצונו להיות קשור לא"י קשר של קיימא השאיר את שני בניו באופן זמני בגימנסיה "הרצליה" ביפו והראה בזה דרך להורים יהודים אחרים בחוץ לארץ. הפרדס אמנם עלה לו ביוקר ובלע במשך שנות המלחמה ההיא סכומים אדירים, אך הוא לא נרתע והמשיך בדרכים שונות לשלוח כספים לא"י כדי להמשיך בעיבודו, שלא יחרב.
+
+ השתתף בקונגרס הציוני הששי, נלחם בחריפות נגד "אוגנדה" באספות שונות, השתתף גם בקונגרסים השביעי, העשירי והאחד-עשר, נבחר לועד "חובבי ציון" באודיסה, נטה שכם לתמוך ולחזק את "חובבי שפת עבר", "תרבות"' הוצאת ספרים "דביר", היה מגבאיו ומיסדיו של בית הכנסת הציוני באודיסה "יבנה", ותרם 1000 רובל (מאה לירות א"י) לקרן מיוחדת לשם חבור ספר בעברית על החנוך הגופני.
+
+ בשנת 1918 הוכה מכה קשה: מת עליו בנו השני יעקב' מיסד "המכבי" ברוסיה, ועורך הירחון בשם זה בשפה הרוסית.
+
+ בשנת 1922 בא לארץ-ישראל על מנת להשתקע. ובכ' לחודש כסלו תרפ"ח מת ונקבר בתל-אביב בבית הקברות הישן.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 234 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/234</bibl><bibl>Volume: #1 ,Page: 235 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/235</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

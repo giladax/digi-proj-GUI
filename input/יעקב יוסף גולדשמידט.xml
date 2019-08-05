@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1251 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1251</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב יוסף גולדשמידט</persName>
+
+</head>
+         <div><p> לאביו<persName> משה</persName> . נולד באמסטרדאם, הולנד, כסלו תקצ"ד (1833), במשפחה חשובה ומיוחסת. קיבל חינוך תורני-מסורתי וכללי והיה מתלמידיו המובהקים של דודו הרב <persName>עקיבא לעהרין</persName> , ראש הועד האמסטרדאמי לעזרת הישוב בארץ-ישראל ("פקידי ואמרכלי בארץ הקודש"), ונתחנך על-ידו לחיבת הארץ.
+
+ ניהל בית-מסחר גדול, קבע עתים לתורה, נתן ביד נדיבה לישוב בארץ-ישראל ולמוסדות מקומיים לתורה ולצדקה.
+
+ בשנת תרכ"ו עלה ארצה והתישב בירושלים. נשא לאשה את <persName>רחל</persName> בת קרובו <persName>יהודה ליב גולדשמידט</persName> שעלה ארצה לפניו בסוף המאה ששית והיה ב"כ הועד האמסטרדאמי בירושלים.
+
+ בירושלים יסד וניהל בית-מסחר לאריגים והוא ורעיתי, שהצטיינה במדותיה התרומיות, הרבו לעשות צדקה וחסד בממונם ובגופם. הקדיש מזמנו וממרצו גם לשרות הצבור והיה חבר בהנהלת "ביקור חולים".
+
+ בועד "בתי מחסה", בהנהלת כולל הו"ד (הולנד-דייטשלאנד, כלומר: גרמניה) ובבית-המדרש "סוכת שלום''. שהיה אחד משני המרכזים הראשונים לתורה ולתפלה של עדת האשכנזים בירושלים.
+
+ בתרמ"ד יצא להולנד ובתרס"ב חזר ירושלימה והמשיך בפעולותיו לטובת ירושלים ויושביה, בלימוד תורה ובמעשים טובים.
+
+ נפטר בירושלים, ט"ו שבט תרע"א.
+
+ בנו: <persName>אברהם צבי</persName> , בעל המלון "בית גולדשמידט" בירושלים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1251 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1251</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

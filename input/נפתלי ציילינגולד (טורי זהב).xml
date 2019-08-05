@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3470</bibl><bibl>Volume: #10 ,Page: 3471 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3471</bibl>
+<bibl>Volume: #10 ,Page: 3472 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3472</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נפתלי ציילינגולד (טורי זהב)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פינסק</placeName> בשנת תרכ"ח (1868).
+
+ לאביו ר' אשר (מוכר-ספרים), שהיה נוסע בכל ערי פולין בעניני מסחרו. באופן כזה בא בקשרים עם הרבה רבנים ותלמידי חכמים וראשי קהל בערי פולין וליטה) ולאמו<persName> גיטל</persName> לבית<persName> אייזנברג</persName> (ילידת סטולין).
+
+ קבל חנוך מסורתי.
+
+ בצעירותו היה עוזר לאביו בעסקי מסחר ספרים. נשא לאשה את <persName>מרים</persName> בת ר' <persName>בנימין הכהן זילברמינץ</persName> מוורשה.
+
+ התישב בעיר זו והחל לסחור בה, פתח חנות ספרים ברחוב נלבקי 28 וניהל את עסקיו עד שנת 1904. ואח"כ עבר לוילנא, המקור של מסחר והוצאת ספרים באותה
+
+
+ תקופה, וניהל את בית מסחרו הידוע של<persName> קצנלבויגן.</persName>
+
+ ב-1909 חזר לוורשה ויסד מחדש בית מסחר והוצאת ספרים. היה הסוכן הראשי של הוצאות הספרים <persName>ראם,</persName> <persName>מץ ורוזנקרנץ.</persName>
+
+ במשך הזמן הוציא לאור הרבה ספרי קודש וספרי רומ"ל.
+
+ היה מהמיסדים הראשונים של תנועת המזרחי בפולין וליטא, חבר הדירקטוריון של הקרן הקימת לישראל בפולין, השתתף בקונגרס השנים עשר בקרלסבד.
+
+ בשנת 1920 שלח שנים מבניו לארץ להכשיר את הקרקע לעליתו ולהתישבותו בתור אכר. שאיפתו היתה להתמסר לעבודת אדמה בארץ-ישראל.
+
+ מיום עליתו ב-1925 התישב בירושלים ופתח בית מסחר ספרים שחלק גדול מהספרים הביא אתו מבית מסחרו בוורשה.
+
+ בשנת 1927 העביר את בית מסחרו לתל-אביב, בו המשיך עד יום פטירתו.
+
+ נפטר בתל-אביב, כ"ג אלול תשי"א (24.9.1951). בארץ היה בל השנים פעיל בהסתדרות המזרחי והיה ידוע כאחד מהחשובים בין חסידי קרלין-סטולין.
+
+ צאצאיו:<persName> לאה</persName> אשת <persName>יהודה באומרגר</persName> (בת-ים),<persName> חיה</persName> (ת"א), <persName>משה</persName> (מסחר בספרים בלונדון), <persName>שלמה</persName> (חזן, בניויורק),<persName> יעקב </persName> (נתניה),<persName> ראובן</persName> (מהנדס העיר לשירותי הטלפון, דאר ישראל, מאז 1920).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3470</bibl><bibl>Volume: #10 ,Page: 3471 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3471</bibl>
+<bibl>Volume: #10 ,Page: 3472 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3472</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

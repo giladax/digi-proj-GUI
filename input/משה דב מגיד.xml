@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2806 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2806</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה דב מגיד</persName>
+
+</head>
+         <div><p> נולד בי"ד כסלו תרס"ב (15.11.1901) בקראג'א שבליטא.
+
+ לאביו הרב<persName> קלמן מגיד</persName> ולאמו<persName> לאה</persName> בת <persName>צבי דניאלביץ</persName> (מצאצאי הגר"א מוילנא). למד בישיבות טלז וקלם שבליטא.
+
+ ב-1925 נשא לאשה את<persName> יהודית </persName> בת <persName>נתנאל קצין.</persName>
+
+ עסק במסחר וביצוא והיה עסקן פעיל ב"מזרחי" ולמען הקרנות הלאומיות ומוסדות תורה, ובשנת 1929 נבחר לקונגרס הציוני הט''ז בציריך.
+
+ ב-1934 עלה לארץ, התישב בתל-אביב והמשיך את פעילותו הכלכלית במסחר ובתעשית-טכסטיל (יסד את המפעל הראשון בארץ לייצור צמר-גפן רפואי). וכן השקיע יזמה בייסוד שיכונים צבוריים. היה חבר פעיל בהגנה.
+
+ המשיך גם בפעילות צבורית בייסוד מוסדות חינוך תורניים, בפעולות למען ישיבת הרב עמיאל, בתי יתומים וכו', גזבר "רשת החינוך התלמודי" בשעתו (זו היתה קופת-תמיכה מיוחדת שיסד הרב הראשי מ. א. <persName>עמיאל</persName> המנוח (ראה כרך א' עמוד 201) לישיבות ולתלמודי-תורה שבחסותו, בנפרד מהמוסדות המרכזיים לתמיכה בישיבות בארץ), חבר המרכז הארצי של המזרחי, חבר הנהלת קא"י העולמית של המזרחי, סגן יו"ר ועדת הבנין של אוניברסיטת בר-אילן ופעיל בעוד מוסדות, חבר המועצה הדתית לתל-אביב-יפו, אח בלשכת בני ברית "שער ציון". משנת 1953 נבחר למועצת העיריה ונבחר בה ליו"ר ועדת החינוך.
+
+ בשנת 1955 נבחר ליו"ר ומנהל החברה קדישה בתלאביב-יפו.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, כ' כסלו תשכ"ד (6.12.63)
+
+ (ראה כרך שביעי, עמוד 2806)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2806 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2806</bibl>            <bibl>Volume: #14 ,Page: 4577 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4577</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

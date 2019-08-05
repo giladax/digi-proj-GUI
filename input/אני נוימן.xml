@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1822 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1822</bibl><bibl>Volume: #4 ,Page: 1823 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1823</bibl>
+<bibl>Volume: #4 ,Page: 1824 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1824</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אני נוימן</persName>
+
+</head>
+         <div><p> נולדה בקוטבוס, גרמניה, א' אלול תרס"ו (22.8.1906) לאביה <persName>מנדל</persName> ולאמה <persName>שרה</persName> לבית <persName>ויינבלום</persName> . למדה בגימנסיה ובשנות 1924/29 בבית-ספר לאמנות של ריימאן בברלין והגיעה להצלחה באמנות הציור בצבעי שמן, צבעי מים, פאסטל ובגראפיקה. בתערוכה הברלינית הגדולה ב-1932 זכתה בפרס של<persName> אדולף דונאט</persName> ,המבקר
+
+ האמנותי של "ברלינר טאגעבלאט", ולבקורת טובה בעתונות הגרמנית.
+
+ ב-1933 עלתה לארץ והתאקלמה במהרה בתפיסת ההוי והנוף. ציירה מראות ודמויות טפוסיות מהארץ, אילוסטרציות לספרי ילדים ומבוגרים. בין הפורטרטים של אנשי שם שציירה יש להזכיר את תמונות <persName>ברל</persName> <persName>כצנלסון</persName> והגברת <persName>סולד</persName> (תמונה זו נמכרה לאמריקה). כן הצליחה בציוריה העדינים מאד, שהם בבחינת "מועט מחזיק את המרובה" בציורים על נושאים מחיי הפליטים והעקורים.
+
+ בהוצאת ליאון יצא לאור ספר מגילת רות, בכתיב מיוחד ובציורים שלה (תש"ט).
+
+ באוגוסט 1949 הציגה במוזיאון ת"א את מבחר
+
+
+ יצירותיה בתערוכת-יחיד, אחרי שהשתתפה שנים רבות בתערוכות הקיבוציות השונות של אמני ת"א.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטרה בתל-אביב, י"ג תמוז תשט"ו (3.7.1955) (ראה כרך ד', עמוד 1823)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1822 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1822</bibl><bibl>Volume: #4 ,Page: 1823 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1823</bibl>
+<bibl>Volume: #4 ,Page: 1824 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1824</bibl>
+            <bibl>Volume: #7 ,Page: 2970 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2970</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

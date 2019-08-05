@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 846 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/846</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב ואלירו (ראש משפחת ואלירו בא"י)</persName>
+
+</head>
+         <div><p> נולד באיסטמבול, לאביו <persName>משה.</persName> קיבל חינוך תורני וכללי כמנהג הימים ההם.
+
+ עלה ארצה בשנת תקצ"ה והתישב בירושלים. היה במשך שנים רבות שו"ב העדה הספרדית. החל לעסוק במסחר והצליח בו ובשנת תר"ח יסד בנק, הוא הבנק הראשון בירושלים שקיים קשרי מסחר וחשבונות עם ארצות המערב וכל ההמחאות של הבנקים הגדולים בארצות אירופה באו על שמו. כן העבירו דרכו את הכספים לבנין המוסדות של מדינות אירופה ומסילת-הברזל יפו-ירושלים, והבנק הזה שימש כביתאולפנא מעשי ראשון לחינוך חבר פקידי-בנק יהודים בארץ, שעזרו אח"כ בעבודתם בהקמת יתר הבנקים.
+
+ בהשתדלותו נוסד ה"תמחוי", שבו נתמכו עניים למאות בלחם ותבשיל בכל יום ובבשר ויתר צרכי שבת וחג אף לבתיהם והגיש עזרה לעניים בלי הבדל עדה בישראל. השתמש בקשריו המסחריים לאסוף למען
+
+ התמחוי כספים מיהודי הגולה. נודע בתולדות ירושלים כגבאי העניים ואחד מראשי הכוללות וגזבר העדה, והודות לפעולותיו לטובת הצבור ובהיותו גם בן תורה העניקו לו רבני זמנו את התואר "רב" והשתתף גם בהנהגה הרוחנית של העדה.
+
+ נפטר בירושלים, כ"ב כסלו תר"מ.
+
+ בניו: <persName>יוסף משה, חיים אהרן</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 846 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/846</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

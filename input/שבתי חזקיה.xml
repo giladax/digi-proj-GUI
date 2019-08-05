@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1124 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1124</bibl><bibl>Volume: #3 ,Page: 1125 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1125</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שבתי חזקיה</persName>
+
+</head>
+         <div><p> נולד בסופיה, בולגריה, כ"ב תשרי תרכ"ד (1863), לאביו <persName>חזקיה </persName> בן <persName>שמואל </persName> (סוחר בזהב) ולאמו <persName>אסתר</persName> בת <persName>שלמה קאסול.</persName> קיבל חינוך מסורתי ונכנס לעסוק במסחר בעסקי אביו.
+
+ נשא לאשה את <persName>רחל </persName> בת שלמה אשכנזי.
+
+ מתוך חיבת-ציון המסורתית מדורות ובהשפעת הזרמים החדשים למען ציון ביהדות אירופה השתתף ביסוד חברת "אגודת אחים" בסופיה לשם התישבות בארץ-ישראל (יתר המיסדים היו <persName>מנוח פריסיאל, אהרן</persName> <persName>בן עדו, בכור עזריאל לוי </persName> ועוד מסופיה <persName>וחיים אלג'ם</persName> מפאזארג'יק), שכללה כ-30 חבר וכל אחד הכניס לבנק מאה לי"ש לרכישת קרקע בארץ, אך התכנית לא יצאה לפועל. לאחר זמן השתתף ביסוד חברה חדשה למטרה זו ושמה "ישוב ארץ-ישראל'', וחברה זו כבר זכתה להגשים את תכניתה.
+
+ בתרנ"ה הוצע להם למכירה בהר-טוב כ-5000 דונם אדמה ראויה לעיבוד חקלאי יעליה בנין שהכיל 16 חדרים, ובעל הקרקע, המיסיון האנגלי הפרוטסטנטי, דרש מהם 3500 לי"ש (ועוד 500 לי"ש לסרסור). לשם סידור הקניה והעברת הבעלות נסע ללונדון יחד עם<persName> יצחק אריה מירושלים,</persName> הד"ר <persName>שפלין </persName> (רופא בית-החולים של המיסיון בירושלים, שהיה אז בלונדון) הציע להם את הקרקע בחנם, בתנאי שהמתישבים יתנצרו, אך הם היו מעונינים ביסוד מושבה ליהודים ולא לנוצרים. פנו אל הרב <persName>נפתלי צבי (הרמן) אדלר,</persName> ובהמלצתו עזר להם אחיו, עורך-דין ידוע בלונדון, ובמשך 20 יום סידר להם את המכירה וההעברה כחוק.
+
+ המיסיון יעץ להם שבעת צרור וסכסוכים עם השכנים הערביים או עם השלטונות הטורקיים יטענו שהמושבה היא רכוש בריטי ויבקש: את עזרת הקונסול הבריטי בירושלים. אך הם לא רצו לפנות לחסדיה של חבורה המשתדלת לצוד את נפשותיהם לאמונתה במחיר עזרה חמרית. הצרות לא איחרו לבוא. כשעלי כמה חברים מבולגריה והתישבו על הקרקע, פקד עליהם מושל ירושלים לפנות את המקום תוך 15 יום, כי החוק אינו מרשה התנחלות של זרים.
+
+
+ שבתי חזקיה, שהיה אז באיסטמבול בדרכו ארצה, פנה בהמלצת הרב<persName> יעקב מאיר מירושלים </persName> (אח"כ רב ראשי לא"י) אל החכם באשי<persName> משה הלוי,</persName> שהיה אז הרב הראשי ונציג יהודי כל הממלכה בפני השלטון המרכזי, ושניהם ביקרו במיניסטריון והסבירו שיהודי בולגריה נחשבים כנתיני השולטן (אז עוד נחשבה נסיכות בולגריה כשטח-חסות טורקי להלכה), ואז נשלחה פקודה למושל ירושלים שיחדל מהציק לנתיני השולטן בהר-טוב. היו להם גם פגעים אחרים: חוסר מים והכרח להביא מים על גבי חמורים ממרחק 20 ק"מ, חוסר ידיעת שפת השכנים, חוסר בקיאות בחקלאות וגניבות וחבלות מצד השכנים. בהשתדלות <persName>אלברט ענתבי </persName> עזר להם<persName> סלים אל-חוסייני </persName> (אחיו של המנהיג הערבי האנטי-ציוני<persName> מוסת קאזים פחה אל</persName> <persName>חוסייני) </persName> ונקבעו שומרים ערבים לשמור על המושבה, ושבתי חזקיה וחבריו נאבקו גם עפ שאר התלאות ונאחזו באדמתם.
+
+ בתרנ"ו ניהל מו"מ עם <persName>חוסיין חילמי פחה,</persName> מושל עבר הירדן, בדבר רכישת קרקעות שם. וכן ניהל כעבור כמה שנים משא ומתן עם<persName> רפיפאן פחה</persName> <persName>אלמג'אלי ומתקאל פחח אלפאיז</persName> שישפיעו על האמיר <persName>עבד-אללה </persName> שירשה מכירת קרקעות ליהודים בעבר הירדן.
+
+ בתרס"ח מכרו <persName>ליצחק ליב גודלברג, </persName> בעת ביקורו בארץ, 1500 דונם לשם יסוד חוה ומשק חקלאי מעורב.
+
+ בימי הדיונים בסן-רימו אסף כ-360 חתימות מכפרים ערבים בארץ - התומכים בהצהרת בלפור.
+
+ צאצאיו:<persName> יפה</persName> אשת <persName>שלמה גירון </persName> (מוכתר הר-טוב), <persName>רגינה</persName> אשת <persName>שמואל טופורק </persName> (סרן בצבא ההגנה לישראל), <persName>מתילדה</persName> אשת<persName> מאיר אהרנסון, שמואל, גבריאל</persName> ז"ל.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ט"ז חשון תש"ך (17.11.59)
+
+ (כרך ג', עמוד 1124)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1124 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1124</bibl><bibl>Volume: #3 ,Page: 1125 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1125</bibl>
+            <bibl>Volume: #11 ,Page: 3882 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3882</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

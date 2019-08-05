@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4345 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4345</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה קריניצי</persName>
+
+</head>
+         <div><p> נולד בתל-אביב, בשנת תרע"א (1911).
+
+ לאבי<persName>ו אברהם קריניצי</persName> (ראש עירית רמת-גן. ראה כרך שני, עמוד 810) ולאמו<persName> בתיה</persName> בת <persName>אברהם קרסוקוב.</persName>
+
+ קיבל חינוך עברי, חניך הגמגסיה העברית "הרצליה" בתל-אביב.
+
+ מתלמידיו הראשונים של אמיל אבנרי, מיסד הקלוב "בני-לאונרד" לספורט.
+
+ היה פעיל בארגוני הספורט בתל-אביב וברמת-גן.
+
+ השתלם בתעשית העץ והרהיטים.
+
+ כיום, מנהל בית החרושת לנגרות ורהיטים א. קריניצי ברמת-גן.
+
+ במאורעות תרצ"ו היה בין הראשונים שהתנדבו לקבוצת הגפירים למלחמה בכנופיות הערביות.
+
+ לפי צו המוסדות הלאומיים התגייס לצבא הבריטי. השתתף בקרבות של הבריגדה היהודית באיטליה בכל החזיתות.
+
+ נשא לאשה את<persName> יפה</persName> בת <persName>ישראל נליק.</persName>
+
+ היה ציר קופת חולים מכבי בועידה שהתקיימה בתלאביב.
+
+ ב"הבקר" פרסם מאמר על "תערוכת הרהיטים שלאחרי המלחמה", וב"ידיעות אחרונות" על "תערוכת הרהיטים של המחר בארצנו".
+
+ בנותיו<persName>: תמר, ליאורה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4345 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4345</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

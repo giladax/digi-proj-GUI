@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1165 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1165</bibl><bibl>Volume: #3 ,Page: 1166 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1166</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב אהרן לוריא</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרכ"ד (1864), לאביו <persName>נתנאל</persName> (שעלה ארצה בן 5 עם אביו הרב <persName>זאב </persName> ממוהילב וכל ביתו, והרב זאב היה דור תשיעי למהרש''ל ומיוחס לפי מוצאו מרש"י) ולאמו <persName>חנה</persName> בת הרב <persName>ישעיהו ברדקי</persName> (מראשוני מנהיגיו של הישוב האשכנזיהפרושי בירושלים).
+
+ למד בחדרים ובישיבת "עץ חיים", למד שחיטה ובדיקה והוסמך על-ידי גאוני הדור בארץ. בתרמ"ב נשא לאשה את<persName> חנה דבורה</persName> בת ר' <persName>יעקב אליהו פרלקווארט</persName> מירושלים.
+
+ היה במשך שש שנים שוחט בקהלה היהודית בפורט-סעיד שבמצרים והשתתף בפעילות בארגון העדה האשכנזית ומוסדותיה. והיה לעזר לשליחים ממוסדות הישוב בארץ שבאו שמה. אח"כ שרת
+
+
+ בתפקיד זה במשך 37 שנה בקהיר. גם שם היה ביתו פתוח לשליחי ארץ-ישראל ועזר להם בעניניהם, וכן ליהודים שבאו להתישב או לסחור בקאהיר.
+
+ בשנת תר"ץ חזר לירושלים ומאז הוא מקדיש את זמנו ללימוד תורה בביתו אשר בשכונת אבןיהושע.
+
+ נפטר בירושלים, ח' תמוז תש"ח.
+
+ בנו: ישעיהו (עסקן צבורי ונציג "כרמל מזרחי" בפורט סעיד. היום תושב בארצנו).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1165 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1165</bibl><bibl>Volume: #3 ,Page: 1166 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1166</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

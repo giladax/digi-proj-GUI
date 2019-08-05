@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2154 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2154</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף אשר אייזנבוים</persName>
+
+</head>
+         <div><p> נולד בשנת תרמ"ח (1888) במצ'ביץ, פלר שדליץ, פולין, לאביו ר' <persName>צבי דב</persName> ולאמו<persName> חנה לאה</persName> לבית <persName>רוזוביקוויאט.</persName> נתחנך בתורה ובחסידות, ובשנת תרס"ז נשא לאשה את
+
+<persName>רחל </persName> בת ר' <persName>אביגדור בקרמן </persName> מגור. עסק במסחר ביושר והיה מטובי החסידים של שושלת בית קוז'ניץ.
+
+ כשנתעוררו חסידי קוז'ניץ לעלות ארצה בהנהגת רבם הצעיר ואף יסדו להם את מושב העובדים "עבודת ישראל" (שנתמזג אח"כ במושב כפר-חסידים ליד חיפה), נתעוררה גם בו חיבת הארץ לפעולה, חיסל את עסקיו ובפרוס הפסח תרפ"ו עלה ארצה. מושב חפריו החסידים נאבק אז קשה במשבר ובכן פנה לעבודה שכירה. הצטרף להפועל המזרחי, נאבק ביסורי הקליטה ועמד בתור לקבל יום עבודה כפועל שחור בבנין. במשך הזמן חסך פרוטה לפרוטה משכר עמלו, כדי להגיע למעמד של עצמאות והצליח לצאת למרחב. כעת הנהו בעל בית-החרושת לגרבים "עמ"א" בתל-אביב, המעסיק עשרות פועלים, ובנה שני בתים בעיר (רחוב שלמה המלך 35 ורחוב עמק יזרעאל 63).
+
+ בהשתדלותו ובתרומתו נרכשה בבית משותף ברחוב טיומקין 10 דירה ל"בית-חסידים" לתורה ולתפלה בשביל חסידי קוז'ניץ בת"א.
+
+ צאצאיו בארץ: <persName>מנחם מנדל ואברהם חיים,</persName> העסוקים אצלו בבית-החרושת, <persName>וזלדה דבורה</persName> אשת <persName>שרגא וולפזון;</persName> נספו בגולה:<persName> דוד-יעקב, ירחמיאל-משה ובנימין</persName> הי"ד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2154 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2154</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

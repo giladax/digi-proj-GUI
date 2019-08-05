@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4039 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4039</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי (הרולד) וינר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אנגליה</placeName> בשנת תרל"ה (1875).
+
+ חניך האוניברסיטה קמברידג' ב<placeName>אנגליה</placeName>. משנת 1901 עורק דין.
+
+ יוריסטן וחוקר המקרא.
+
+ נחשב בין עוה"ד החשובים ב<placeName>אנגליה</placeName>. התמסר לחקר כה"ק מבחינה משפטית ונתפרסם כאחד מגדולי החוקרים ויריב רב-משקל לשיטת ביקורת המקרא של<persName> ולהוזן.</persName>
+
+ בשנת 1923 עלה לארץ.
+
+ עסק בחקירותיו, פרוש מן הציבור.
+
+ התקרב בידידות למשכילי הערבים, תרם כספים לצרכי תרבות שלהם ועמל לשיפור יחסי היהודים והערבים.
+
+ השתתף לעתים ב"קרית ספר".
+
+ בשנות 1907-1927 פירסם כ-15 ספרים במדע המקרא, באנגלית: אחדים מהם תורגמו לגרמנית.
+
+ במאורעות אוגוסט 1929, נרצח בירושלים בידי ערבים, י"ז אב תרפ''ט (23.8.1929), כשליווה במכוניתו את פועליו לביתם לשם הבטחת חייהם והומת יחד עמם.
+
+ המאורע עשה רושם בעולם המדע.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4039 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4039</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

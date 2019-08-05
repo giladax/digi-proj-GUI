@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4328 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4328</bibl><bibl>Volume: #13 ,Page: 4330 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4330</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אשר ישראלי (בקר)</persName>
+
+</head>
+         <div><p> נולד בשנת תרפ"ה (1925) בעיר לוצק בפולין. לאביו<persName> ישראל בקר</persName> ולאמו <persName>יונה.</persName>
+
+ שם למד בבית-הספר העברי "תרבות". עד כיבוש פולין על ידי הגרמנים ישב בגיטו יחד עם משפחתו, אך חיפש את הדרך אל הפרטיזנים ולבסוף גם מצא דרך זו. ב-8 חדשים הי עם המשפחה שעלתה בידה להימלט מהגיטו בדיר-חזירים של גויים מכרים. בסכנת נפשות היה יוצא בלילות למצוא פת להם בכפרי הסביבה העייינים.
+
+ לבסוף קם והצטרף אל הפרטיזנים. השתתף בפעולות הבלה והתקפות על האויב.
+
+ פעם נפל בידי האוקראינים שדנוהו למתת" אך הצליח להימלט ולחזור לפעולותיו.
+
+
+ עם השחרור, חתר להגיע לארץ ישראל. זמן רב נאלץ להתמהמה ולשהות באיטליה עד אשר זכה והגיע לחוף הארץ באניה פלמ"ח ב-15 במאי, 1946
+
+ אך כאן הותקפה אניתם על ידי הבריטים ותחת מטר כדורים קפץ המימה והגיע לחוף, אך נתפס ונשלח לקפריסין.
+
+ בחזרו לארץ לא היתה דרכו סוגה בשושנים. תחילה עבד כצלם ולאחרונה עבד בבית חרושת למיצי פרי הדר בכפר סבא, תמך גם באמו ובסבתו שהשתכנו בכפר סבא.
+
+ הצטרף למחתרת לח"י, ועם ייסוד צה"ל נספח אל שורותיו.
+
+ השתתף בקרבות "יהודיה", "לוד", "רמלה", ואחר כך בקרבות הנגב. נפל כמקלען בקרב "עיראק-אלמנשיה" ביום י"ג תשרי, תש"ט (16.10.1948). הובא לקבורה זמנית בגת. ביום 29.9.1949 הועברה גופתו למנוחת עולמים בבית הקברות בנחלת יצחק.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4328 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4328</bibl><bibl>Volume: #13 ,Page: 4330 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4330</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

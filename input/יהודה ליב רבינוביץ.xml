@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1225 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1225</bibl><bibl>Volume: #3 ,Page: 1226 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1226</bibl>
+<bibl>Volume: #3 ,Page: 1227 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1227</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה ליב רבינוביץ</persName>
+
+</head>
+         <div><p> נולד בהומל, רוסיה, בשנת תרכ"א (1861), לאביו<persName> יוסף</persName> ולאמו<persName> גיטל</persName> בת <persName>אברהם שמואל</persName> מגומל. קיבל חינוך תורני. נשא לאשה את <persName>צירה פייגה</persName> בת <persName>נתן כהנוביץ</persName> מהומל. היה שם בעל בית-מלון, חבר בחובבי ציון ותומך במוסדות היהודיים המקומיים.
+
+ עלה ארצה עם משפחתו בשנת תר"ס ופתח חנות מכולת ביפו. אך לפי תפיסתו היה פירושה של ההגשמה בחיבת ציון - שיבה אל הקרקע, אל החקלאות, ושאיפתו זו לא באה על סיפוקה בממכר מכולת ביפו. לפיכך רכש לו משק במושבה חדרה, ובשנת תר"ע יצא שמה עם משפחתו והתמסר לעבודה חקלאית.
+
+ היה איש תמים וירא-שמים, חי כל ימיו מיגיע כפיו ותמך במוסדות צבור ובמפעלי תורה וחסד. ביחוד היה פעיל לטובת "המזרחי", שהיה מראשוני חבריו בארץ, ולטובת ישיבת חדרה.
+
+
+ רעיתו נפטרה בחדרה, בת 72 שנה, י"א אדר ב ת"ש (29.3.40), ובהתאם לבקשתה האחרונה הוכנס על שמה ספר תורה לבית-הכנסת הגדול בחדרה.
+
+ בעלה נפטר אף הוא בחדרה, כ"ב אייר תש"ג (27.5.43).
+
+ צאצאיו:<persName> נתן </persName> (בופאלו, ארה"ב), <persName>רחל</persName> אשת <persName>יעקב</persName> <persName>סמסונוב</persName> (חדרה), <persName>שמואל</persName> (חקלאי, מעסקני הבטחון בחדרה),<persName> יהושע, יעקב</persName> (מכסיקו).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1225 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1225</bibl><bibl>Volume: #3 ,Page: 1226 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1226</bibl>
+<bibl>Volume: #3 ,Page: 1227 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1227</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

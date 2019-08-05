@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3582 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3582</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אלכסנדר שור</persName>
+
+</head>
+         <div><p> נולד בעיר דורנה שבבוקובינה, בשנת תרמ"א (4.2.1881).
+
+ לאביו<persName> יעקב שור</persName> (רב בעיר קיטוב, למדן מופלג ומעמיק ומחבר ספרים. נצר למשפחה רבת יחש. מצאצאי השל"ה מצד האם, ומצד אביו - נכדו של בעל "תבואות שור". ממשפחת ר' <persName>שמלקה</persName> מניקלש בורג).
+
+ קבל חנוך יהודי וכללי. למד בישיבות, בבית מדרש לרבנים והיה מוסמך להוראה. אח"כ השתלם בידיעותיו הכלליות ולמד באוניברסיטה הוינאית. הצטיין בידיעותיו המרובות בשפות הקלסיות ובהיסטוריה, ונתפרסם כמתרגם נאמן מן המקורות היוניים והרומיים.
+
+ היה מורה בגימנסיה ממשלתית באוסטריה, ואחרי מלחמת העולם הראשונה כשנספחה בוקובינה לרומניה, נתמנה למנהל הגימנסיה הממשלתית הרומנית.
+
+ בשנת 1926 עלה לארץ ישראל, ובתור "מזרחי" נתקבל למורה בבית המדרש למורות "מזרחי" בירושלים. כעבור שנים אחדות (תרפ"ט) נתמנה למנהל ה"תלמודתורה" של "המזרחי" בירושלים, ובתפקידו זה עמד עד יומו האחרון.
+
+ היה ידוע למתרגם חרוץ ודייקן. תרגם לעברית ספרים מהמקורות היונים והרומים. תרגם את כתבי הירודוטוס, טציטוס ויוסיפוס פלביוס. הספיק בחייו להוציא את הכרך הראשון מ"קדמוניות היהודים" לפלביוס, והוכתר בפרס התרגום המדעי של "מוסד ביאליק" בשנת 1936 (אחרי פטירתו יצא לאור הכרך השני מ"קדמוניות היהודים").
+
+ היה ידוע חולי ומת מיתה חטופה בכ"ט אדר א', תש"ג (6.3.1943) ונקבר בירושלים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3582 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3582</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5441 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5441</bibl><bibl>Volume: #18 ,Page: 5442 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5442</bibl>
+<bibl>Volume: #18 ,Page: 5443 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5443</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נפתלי ריטר</persName>
+
+</head>
+         <div><p> נולד בצ'רנוביץ, בוקובינה (אוסטריה), בשנת תרנ"ד (9.8.1894).
+
+ לאביו<persName> מנחם מנדל ריטר</persName> ולאמו <persName>שרה </persName> בת <persName>יצחק</persName> <persName>שיוביץ.</persName>
+
+ קיבל חינוך מסורתי וכללי. גמר בית-הספר הממלכתי בצ'רנוביץ.
+
+ במלחמת העולם הראשונה שירת בתור קצין בצבא האוסטרי.
+
+ נלקח בשבי ע"י הרוסים ונשלח לסיביר, שם התעסק בפקידות, במישרות גבוהות גם במוסקבה וברלין.
+
+
+ בשנת 1920 נשא לאשה את <persName>רבקה</persName> בת <persName>שמואל</persName> <persName>גודוביץ.</persName>
+
+ עלה לארץ בשנת 1923.
+
+ משנת 1924 עד 1936 פקיד בחברת "פרדס" בע"מ.
+
+ משנת 1937 עד 1948 בעבודות שונות במסחר ובהנהלת האגודה המרכזית למספוא.
+
+ מאז קמה המדינה מנהל הקשר החקלאי ומנהל המחלקה החקלאית במשרד המסחר והתעשיה עד סוף 1957 ועוזר למפקח על המזון.
+
+ חקלאי משנת 1958.
+
+ צאצאיו: <persName>חיה</persName> אשת<persName> יעקב קפלן </persName> (ד"ר לארכיאולוגיה, מנהל מוזיאון הארכיאולוגיה ביפו);<persName> יעל</persName> (מורה), אשת <persName>חיים פלג</persName> (עובד אחראי בספריית הפועלים ת"א); <persName>שולמית</persName> (אחות סוציאלית), אשת <persName>יוסף ארדיטי</persName> (קבלן וחקלאי "כפר מרדכי").
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5441 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5441</bibl><bibl>Volume: #18 ,Page: 5442 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5442</bibl>
+<bibl>Volume: #18 ,Page: 5443 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5443</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

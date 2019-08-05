@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3253 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3253</bibl><bibl>Volume: #9 ,Page: 3254 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3254</bibl>
+<bibl>Volume: #9 ,Page: 3255 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3255</bibl>
+<bibl>Volume: #9 ,Page: 3256 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3256</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב זלמן ליב הלוי לוינטאל</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת תרל"ז (1877).
+
+ לאביו הרב <persName>דובער הלוי</persName> ב''ר <persName>אהרן הלוי</persName> (ידוע בשם: ר' <persName>בעריל שוחט)</persName> ולאמו <persName>לאה</persName> בת הרב<persName> נתן קרנל</persName> , מנכדי התיו"ט (ראשוני המשפחה עלו לארץ. עוד בשנת תק"ס (1800) והתישבו בטבריה ור' <persName>זלמן ליב</persName> היה מצד אביו דור חמישי בארץ ומצד אמו דור רביעי. - מצאצאי ר' נפתלי כץ, ה"חכם צבי" ועוד מגדולי ישראל בדורות העבר).
+
+ למד בישיבות.
+
+ נשא לאשה את <persName>אסתר רחל</persName> בת ר'<persName> יעקב ובר</persName> ובזיווג שני נשא לאשה את <persName>מנוחה</persName> בת ר' <persName>זאב בן-ציון חשין.</persName>
+
+ כל ימיו היתה תורתו אומנותו והיה מורה ומחנך ואח"כ גם ראש בישיבת "חיי עולם" של עדת החסידים ב<placeName>ירושלים</placeName>.
+
+ היה חסיד נלהב לפי נוסח סטולין וקיידאנוב, קנאי לתורה ולמצוה וגם רך ונוח לבריות.
+
+ ביזמתו נוסדה ''משמרת שבת" ב<placeName>ירושלים</placeName> והוא הצטיין בה בפעילותו ובכושרו המיוחד להחזיר חוטאים למוטב בדרכי נועם. כן דאג לשמירת כבוד השבת גם בגשמיות, וביזמתו נאספו חלות ומנות בשר והיה מחלק בסתר בכל ערב שבת לעניים הגונים, שגם הם יוכלו לענג את השבת. ביחוד הגדיל לעשות בעזרה לעניים בתקופת המצוקה והרעב בשנות מלחמת-העולם הראשונה.
+
+ כשביקר הבארון <persName>רוטשילד</persName> בארץ בשנת תרע"ג (1913) התיצב לפניו ר'<persName> זלמן ליב</persName> בראש קבוצת לומדים, שהגישה לנדיב תזכיר שהכיל תכנית מעשית מפורטת להתנחלות בני הישיבות על הקרקע. מתוך אהבת הארץ היה מסייר בישוביה הישנים והחדשים ליהנות למראה גידול בנינה וישובה. בדרכיו היה מתענין בספרים ובכתבי-יד עתיקים, וכך עלה בידו לגלות כתב-יד של
+
+
+ המקובל הגדול רבי <persName>חיים ויטאל</persName> (תלמיד האר"י), שהכיל דרושים וחידושים על דרך הנגלה וגם ביאורים לספרי משלי, איוב, דניאל ודברי הימים ופרסמו בדפוס בשנת תרס"ו בשם "עץ הדעת טוב".
+
+ כן אסף את האגדות מתלמוד ירושלמי בספר אחד בשם "אגדות ירושלמי", דוגמת אגדות הבבלי ב"עין יעקב", והספיק להוציא לאור את החלק של סדר זרעים.
+
+ בשנותיו האחרונות יצא לארה"ב בשליחות מוסדות "חיי עולם". הוצעו לו משרות רבנות בקהלות חשובות בשכר רב, אך דחה אותן באמרו "טוב לי פת חרבה בארצנו מבית מלא כל טוב בנכר" ובהשפעתו האישית פעל למען ישיבתו ולמען חיזוק התורה ב<placeName>ירושלים</placeName>.
+
+ בדרכו לפעולת תעמולה בעיר דטרויט (ארצות הברית) נהרג בתאונת דרכים בערב חג השבועות תש''ב (22.5.1942) והובא לקבורה בהר-הזיתים ב<placeName>ירושלים</placeName> בשנת תש"ז (1947).
+
+ צאצאיו (מאשתו הראשונה): <persName>שימע </persName> אשת <persName>אלטובסקי,</persName> <persName>בנימין ציון.</persName> (מאשתו השניה): <persName>לאה, פייגל, שרה,</persName> חיה רייזל.
+
+</p>
+<p>
+
+ תוספות: 
+
+ (בכרך זה, עמוד 3255)
+
+ צאצאיו (מאשתו הראשונה):<persName> סימע</persName> אשת<persName> מנדל אל</persName> <persName>טובסקי, בנימין-ציון, מאשע ברקמן.</persName>
+
+ (מאשתו השניה): <persName>לאה</persName> אשת <persName>אברהם עשינגר, פייגל</persName> אשת<persName> נתן גולדברג, שרה</persName> אשת<persName> אליעזר ווייס, חיה רייזל</persName> אשת<persName> אברהם נח רכטשפר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3253 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3253</bibl><bibl>Volume: #9 ,Page: 3254 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3254</bibl>
+<bibl>Volume: #9 ,Page: 3255 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3255</bibl>
+<bibl>Volume: #9 ,Page: 3256 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3256</bibl>
+            <bibl>Volume: #9 ,Page: 3411 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3411</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

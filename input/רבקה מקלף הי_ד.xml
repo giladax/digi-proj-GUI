@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 383 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/383</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רבקה מקלף הי"ד</persName>
+
+</head>
+         <div><p> נולדה במוצא, בשנת תר"ע (1910). למדה בירושלים בגן ילדים, בבית-ספר לבנות, גמרה בתרפ"ח את בית-המדרש לגננות בתל-אביב ונתמנתה לגננת לילדי מוצא. עבדה גם במשק ההורים והכניסה רוח תרבות ועליזות בחיי הנוער בכפר הקטן.
+
+ בצהרי יום השבת, י"ח אב תרפ"ט, כשהפורעים הערבים החלו רוגמים את בית הוריה באבנים, יצאה אל הגן לדבר על לב הפורעים ולשדלם שיחדלו ממעשיהם הרעים, ושם נרצחה ביריות.
+
+ גופתה הובאה במכונית משורינת של הצבא בו ביום לירושלים, יחד עם גופות הוריה ואחיה ואחותה, לביתהחולים "ביקור חולים", ומשם לקבורה בהר הזיתים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 383 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/383</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

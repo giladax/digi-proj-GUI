@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1365 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1365</bibl><bibl>Volume: #3 ,Page: 1367 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1367</bibl>
+<bibl>Volume: #3 ,Page: 1368 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1368</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פסח גינזבורג</persName>
+
+</head>
+         <div><p> נולד בכפר ליפניקי, פלך ווהלין, אוקראינה, כ"ב ניסן תרנ"ד (1894), הוא יום אחרון של פסח בגולה ועל כן נקרא שמו <persName>פסח</persName> - לאביו <persName>אריה הלל</persName> (עסקן צבורי, מורה עברי ומיסד חדר מתוקן) ולאמו <persName>ביילה</persName> בת <persName>אברהם פרידמן</persName> . למד בחדר המתוקן של אביו עברית ולימודי היהדות וגם לשונות לועזיות, הוסיף להשתלם בספרות עברית ולועזית והתרשם מיפי הנוף של סביבת כפר הולדתו.
+
+ ב-1912 עבר לאודיסה להשתלם בהשכלה כללית. באמצעות אחיו הגדול ד"ר <persName>שמעון גינצבורג</persName> התקרב לחוג הסופרים העברים שבסביבת<persName> ח. נ. ביאליק</persName> והתחיל לפרסם משיריו ב"השלוח" ובכתבי-עת אחרים. מאחר שה"נומרוס קלאוזוס", שהנהיג השלטון הצארי להגבלת מספר התלמידים היהודים לפי אחוזים, חסם בפניו את הדרך להתקבל לבית-ספר כחפצו, יצא לארצותהברית והמשיך להשתלם בשפה האנגלית ובספרותה.
+
+ ב-1914 חזר לאירופה ובעקב שיבוש הדרכים עם פרוץ מלחמת-העולם הראשונה נתגלגל לשוודיה ולנורבגיה ולמד את השפות והספרות שלהן במקורן.
+
+ ב-1917 עבר ללונדון. נשא לאשה את <persName>חנה</persName> בת <persName>יהושע טפר</persName> . משנתחדשה הופעת "העולם" בלונדון אחרי הכרזת בלפור, בעריכתו של <persName>אברהם אדלסון</persName> , שימש כעורך המדור הספרותי בו.
+
+ ב-1922 עלה ארצה ונכנס לעבוד במערכת "הארץ" בה עבד, בהפסקות קטנות עד יומו האחרון. זמן-מה ערך את החלק הספרותי של השבועון "בוסתנאי". ערך במשך זמן-מה את"דאר היום" (יחד עם <persName>ש. פרלמן)</persName> , "הזמן", "חדשות אחרונות", יסד וערך את הירחון
+
+ "החיים", יסד וערך את "הספריה הקטנה", שהוציאה ספורים קצרים מקוריים ומתורגמים ממיטב הספרות העולמית, במחירים עממיים.
+
+ בכל העבודות הללו הצטיין כסופר וכעורך בעל סגנון וטעם משובחים. כתב שירים ליריים, את המחזה "קנאת גבר", את הפואימות "קרית החול" ו"רגינה אשכנזי". חזיון נעורים בשם "אדומות" ועוד, וכן מאמרי בקורת ומסות קצרות על ענינים ספרותיים.
+
+ ביחוד הרבה לעבוד בתרגומים. היה היחיד שתרגם לעברית מן המקור ממיטב הספרות הסקנדינבית: "אויב העם" לאיבסן, "ויקטוריה", "עבד האהבה", ו"בעלי החלומות" ועוד לקנוט האמסון, "נילס לינה" ליעקבסן. כן הרבה לתרגם מספרות אנגלית ואמריקאית,
+
+ כגון: "מורה דרך לאשה המשכלת אל הסוציאליזם והקפיטליזם" לברנרד שאו, "סטואיקון" לגלסוורתי, "המלכה ויקטוריה" לז. סטרייצ'י, "אור ליום השבת" לי. ב. פריסטלי, "מר בנטינג" לגרינווד, "האדמה הטובה" לפרל בוק, "התאוה לחיים" לא. סטון, "ארבע מעשיות" לר. קופלינג, "לוטש הזכוכית" לי. זנגווייל, "האנגלים האדומים" לאופסטפלדר, "אריאל" ו"ד'יזרעאלי" לאנדרה מורואה, "הבית והעולם" לר. טאגורי ועוד. ערך את "שירת העמל" - אנתולוגיה של השירה העברית על נושא העמל (הוצאת מ. נוימן, תש"ז). השאיר בכתב-יד מחזה לילדים בשם "המבול" ודברי שירה, פרוזה, פיוט ותרגומים.
+
+ נפטר בתל-אביב, כ"ח טבט תש"ז, והובא לקבורה בהר הזיתים בירושלים.
+
+ אחיו: ד"ר <persName>שמעון גינזבורג</persName> (סופר ומורה בארה"ב, נפטר שם י"ז טבת תש"ד),<persName> יקותיאל </persName> (פרופיסור למתימטיקה באוניברסיטת קולומביה בניו-יורק).
+
+ צאצאיו: <persName>אריאל, היללה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1365 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1365</bibl><bibl>Volume: #3 ,Page: 1367 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1367</bibl>
+<bibl>Volume: #3 ,Page: 1368 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1368</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

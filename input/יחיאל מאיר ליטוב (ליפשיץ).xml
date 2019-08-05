@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1844 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1844</bibl><bibl>Volume: #4 ,Page: 1845 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1845</bibl>
+<bibl>Volume: #4 ,Page: 1846 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1846</bibl>
+<bibl>Volume: #4 ,Page: 1847 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1847</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יחיאל מאיר ליטוב (ליפשיץ)</persName>
+
+</head>
+         <div><p> לאביו הר'<persName> מנחם מנדל</persName> (בן הרב מפרושקוב ונכדו של האדמו"ר רבי<persName> יחיאל מאיר גוסטונין.</persName> לפי ספר היוחסין שבידו, מתיחסת משפחתו עד דוד המלך) ולאמו<persName> אסתר </persName> בת <persName>שמואל זילברמן.</persName>
+
+ נולד, ב' בתמוז תרנ"ה (28.6.1895) בעירה בלוניא ליד ורשה (פולין).
+
+ למד בחדר ובישיבות "מגן אברהם" בקאליש ו"חפץ חיים" בראדין.
+
+ מנעוריו הצטרף לתנועת חבת-ציון. מראשוני "צעירי-מזרחי" בוורשא וחבר הועד. שמש מורה לעברית בבתי ספר עממיים בעיירות לוקוב, זליכוב, קזימיר וכו' בפולניה, אליהם נשלח מטעם לשכת החנוך שע"י ההסתדרות הציונית המרכזית בוורשא. בכל עירה יצר חוג להפצת השפה העברית על ידי שעורי-ערב והרצאות, ממיסדי "הפנה העברית ליד מרכז הצעירים בוורשא.
+
+ בשנת תרפ"ג עלה ארצה, והמשיך בהוראה בתלמוד תורה "שערי תורה" ביפו, כארבע-עשרה שנה. בשנת תרצ"ז פתח בשכונת מונטיפיורי ליד ת"א, בית-ספר חרדי "חורב", בעזרת מרכז חנוך התורה בא"י (מחוסר תקציב נסגר לאחר ארבע שנים).
+
+ נשא לאשה את<persName> זהבה</persName> (גולדה סובל) בת ר'<persName> ישראל</persName> <persName>איסר ויסבום</persName> מצפת (נכדת רבי<persName> שמחה נתן סגל </persName> (ראש ישיבת "חתם סופר" ו"רדב"ז", ראה כרך ג', עמוד 1193).
+
+
+ בשנת תש"א עבר להורות בבית-הספר "סיני", ובשנים האחרונות בבית-הספר "שארית ישראל" בפתח תקוה.
+
+ לפני 23 שנה בנה בית בשכונת מונטיפיורי. שמש בתקופה ידועה סגן יו"ר ועד המקום ומזכירו. ממיסדי "בקור-חולים ולינת-הצדק" ו"גמילות חסד אהבת שלום" ומעסקניהם הפעילים בשכונה.
+
+ צאצאיו: <persName>שלמה </persName> (קצין בצבא הגנה לישראל), <persName>משה,</persName> <persName>שמואל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1844 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1844</bibl><bibl>Volume: #4 ,Page: 1845 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1845</bibl>
+<bibl>Volume: #4 ,Page: 1846 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1846</bibl>
+<bibl>Volume: #4 ,Page: 1847 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1847</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

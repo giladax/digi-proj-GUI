@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 955 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/955</bibl><bibl>Volume: #2 ,Page: 956 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/956</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גמליאל שלאנק</persName>
+
+</head>
+         <div><p> נולד בעיירה שלאנקה, פרוסיה המערבית, גרמניה, בשנת תר"ג (1843), לאביו הרב<persName> מרדכי </persName> (רבה של הקהלה באותה עיירה) ולאמו<persName> בריינדל.</persName>
+
+ בתר"י עלה ארצה עם הוריו והתישבו בירושלים ואביו היה חבר בכולל הו"ד (הולנד ודייטשלנד, כלומר : גרמניה), העשיר שבכוללים בזמן ההוא, שהבטיח לחבריו פרנסה בכבוד (לפי תנאי ירושלים), ונקרא בשם-המשפחה "שלאנק" על שם עיר מוצאו.
+
+ למד בחדרים ובישיבות. השתלם בידיעת השפה הגרמנית לכל דקדוקיה ובכתב-יד יפה מאד, מה שנחשב אז, לפני השימוש במכונת-כתיבה, למעלה יתרה בשרות משרדי, וכן השתלם בידיעה רוקחות, רפואה, ומשפטים. 
+
+
+ נשא לאשה את<persName> מרגלית ב</persName> ת ר' משה זקס.
+
+ היה רוקח בבית-הרפואות של כולל הו"ד מטעם "פקידי ואמרכלי ארה"ק באמשטרדם" בחצר ר'<persName> ישעיהו</persName> <persName>ברדקי</persName> , עסק גם בריפוי חולים כרופא שימושי ואח"כ היה הרוקח הראשון של חברת "ביקור חולים" בירושלים. לבושו היה אירופי ותרבוש על ראשו כמנהג האפנדים ויתר העירוניים הנכבדים, ובכל מקרה של משפט בין נתינים גרמנים, שבהתאם למשטר הקאפיטולציות היה מתנהל בפני הקונסול הגרמני, היה הקונסול הגרמני מזמין אותו לישב בחדר השופטים בתור בקי בחוק הגרמני.
+
+ בתר"ן נסע יחד עם <persName>אברהם זאקס </persName> לגרמניה בדבר טענותיהם נגד ר' <persName>משה יצחק גולדשמידט</persName> ראש כולל הו"ד.
+
+ כשהיה הקונסול היפואי של אוסטריה-הונגריה (הארמני מר פאסקאל הידוע) יוצא לחופשה ממושכת, היה מזמין אותו למלא את מקומו כקונסול ובמנהל הדואר האוסטרי. אז היה שוהה כל ימות השבוע ביפו, מתאכסן במלון קמיניץ ועובד בקונסוליה, ולשבתות היה נוסע הביתה לירושלים.
+
+ פעם בהתאכסנות כזאת ביפו נתמלא חדרו סגורהחלונות עשן פחמים שהוכנסו להסקה, נפגע בהרעלת גאז-הפחם ונפטר ביפו, ה' אדר ב' תרנ"ז, והובא לקבורה בירושלים.
+
+ צאצאיו:<persName> מרדכי (ז"ל), בריינדל</persName> אשת <persName>לייב שרהזון,</persName> <persName>חיה </persName> אשת<persName> מוניש אייזנמן, משה יוסף.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 955 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/955</bibl><bibl>Volume: #2 ,Page: 956 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/956</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

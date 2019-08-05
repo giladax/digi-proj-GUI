@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3373 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3373</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי צבי שרגא (בולים)</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תר"ט (1849).
+
+ לאביו<persName> שרגא פייביש </persName> (נולד בירושלים) ב"ר<persName> דב בער</persName> (שעלה לארץ מקמיניץ-פודולסק) ולאמו<persName> בונה.</persName>
+
+ קבל חנוך מסורתי בעיר העתיקה בירושלים.
+
+ נשא לאשה את<persName> חוה </persName> בת <persName>שלמה הכהן </persName> (נפטרה בירושלים, כ"ח כסלו תש"ב-18.12.1941).
+
+ היה חבר ה"גברדיה." הידועה שהגינה על הישוב מהתקפות הערבים.
+
+ היה ממייסדי הישוב היהודי ביריחו.
+
+ במשך 42 שנה היה שוטר עירית ירושלים (בלדיה שאוויש) והיה מלוה את הפחה (מושל העיר) במסעותיו.
+
+ במלחמת העולם הראשונה, נעזרו יהודים רבים על ידו.
+
+ נפטר בירושלים, כ"ז ניסן תרפ"ג (13.4.1923).
+
+ צאצאיו:<persName> בת-שבע</persName> אשת<persName> אהרן שוארץ, שלמה שרגא</persName> (פקיד חברה קדישא בקהלת ירושלים),<persName> חיה פייגה</persName> אשת <persName>יעקב דוד הטקין.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3373 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3373</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

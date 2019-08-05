@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1368 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1368</bibl><bibl>Volume: #3 ,Page: 1369 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1369</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה אפרים הררי (בלומברג)</persName>
+
+</head>
+         <div><p> בן יונה דב (מראשוני חו"צ ו"בני משה", חיבר ספר "מצות ישוב ארץ ישראל" ועוד), נולד ב-10 ליולי 1887 בעיר דבינסק שבלטביה.
+
+ נתחנך בילדותו חינוך לאומי ברוח ציון והציונות, למד גם מדעים כלליים וידע שפות. בשנים 1904--1905 עבד עבודה עיתונאית בעתונים הליברליים הרוסיים "בירזביה וידומוסטי" ו"ריטש" בפטרבורג. השתתף באגודות ומוסדות יהודיים. מתוך זיקה ומשיכה לתיאטרון תרגם לרוסית את הדרמה של ד. פינסקי 
+
+
+ "משפחת צבי", והיא הוצגה על הבמה הרוסית. היה פעיל מאוד בחברה להשגת -שווי זכויות ליהודים ברוסיה, בשנת 1905, בימי פרעות אוקטובר, היה מפעילי ההגנה היהודית. בשנת 1906 - 1915 גר בריגה, ושם פעל רבות בהסתדרות הציונית ובקליב "עבריה". בשנת 1913 ביקר לזמן קצר בארץ וחזר לרוסיה.
+
+ נשא לאשה את <persName>תמר רובינס</persName> , משחקת "הבימה". כשפרצה מלחמת העולם הראשונה היה פעיל ביחוד בועד לעזרה לפליטי המלחמה בנפות הבלטיות. בשנת 1916 חזר לפטרבורג והראה יזמה וכח ארגוני רב בעבודת ההכנה של הועידה הציונית השביעית של ציוני רוסיה וסידור השבוע הארצישראלי. כן היה פעיל בסידור הבחירות לאספה המכוננת של כל יהודי רוסיה.
+
+ כשנוסדה "הבימה" נהיה פעיל בה. בימי הפרעות באוקראינה 1919--1920 פעל בתפקידים שונים ואחראיים בהגנה היהודית והיה שליח החברה "אוזה" לארגון עזרה כלכלית.
+
+ בשנת 1926 יצא מרוסיה, עבר בארצות רבות ופעל בענינים צבוריים רבים באה"ב, וביחוד פעל לטובת התיאטרון העברי והארצישראלי.
+
+ בשנת 1928 עלה לארץ ישראל. בארץ הצטרף ל"הבימה" ועסק בעבוד החומר לתולדות "הבימה", ופרסם מאמרים בעניני תיאטרון ואמנות ב"הארץ" ו"דבר" וגם בעתונים האידיים באה"ב. היה פעיל בארץ בחברה למוסיקה העברית.
+
+ בימי מאורעות אב תרפ"ט ביפו, הצטרף לקבוצת מגינים שנסעו לשכונת "אבו-כביר", כדי להציל פועלים יהודיים, שעבדו שם בבית חרושת ליין שרף, שנמצאו בסכנה. ונרצח ע"י הפורעים יחד עם בנימין גולדברג ואחרים בי"ט אב תרפ"ט והובא לקבורה בקבר אחים ב' עם קדושי תרפ"ט בבית הקברות הישן בתל-אביב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1368 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1368</bibl><bibl>Volume: #3 ,Page: 1369 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1369</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

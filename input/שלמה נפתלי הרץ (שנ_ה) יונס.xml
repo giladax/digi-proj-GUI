@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 230 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/230</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה נפתלי הרץ (שנ"ה) יונס</persName>
+
+</head>
+         <div><p> בן זלמן. -נולד בכ"ה כסלו תרל"ד(1873) בעיר דיסנה פלך וילנה. למד ב"חדר" לכל דרגותיו, ידע היטב
+
+ גפ"ת, והיה בקי בכל הספרות העתיקה, ובהשפעת סבו, משכיל, למד מפי מורים פרטיים לשונות והשכלה כללית.
+
+ כשעבר לגור בהלובוקויה קירב לביתו את אליעזר בן-יהודה ולבסוף נעשה חותנו.
+
+ היה מסופרי "המליץ" ומכובד על עורכי "המליץ": אר"ז, י. ל. גורדון וליאון רבינוביץ. ישב ימים רבים במוסקבה ומשם ערך מכתבים ל"המליץ" ול"המגיד". בשנת 1892 בא ארצה עם בתו השניה (חמדה אשתו השניה של בן-יהודה) והשתקע בארץ. השתתף בעתונו של בן-יהודה: "הצבי", ופרסם בו מאמרים חריפים נגד ה"חסידים" ואנשי ה"חלוקה", והיה בעל המאמר הידוע "מצוות צריכות כוונה", שנדפס בערב חנוכה תרנ"ב ועל פיו הושמו בן-יהודה והמחבר במאסר הטורקים. משפטם יצא להאסר שנה, אך בהשתדלות טובי ירושלים ופקידי הברון רוטשילד נתברר משפטו שנית בבי"ד הגבוה ושם זוכו בדין. מאז לא חדלו קנאי ירושלים לרדוף אותו.
+
+ לפני צאתו לארץ-ישראל יסד יחד עם צ'לינוב, אוסישקין, אידלסון ומזא"ה את אגודת חובבי ציון במוסקבה "בני ציון".
+
+ בארץ-ישראל חי רק ארבע שנים. עבר לגור מירושלים לראשון-לציון, ושם מת ביום י"ג אייר תרנ"ו (1896).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 230 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/230</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

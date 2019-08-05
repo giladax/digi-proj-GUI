@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3610 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3610</bibl><bibl>Volume: #10 ,Page: 3611 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3611</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר טאובקיו</persName>
+
+</head>
+         <div><p> נולד בליבוי (לטביה) בשנת תרנ"ה (15.12.95).
+
+ לאביו<persName> דב</persName> ממשפחת העו"ד <persName>מרדכי אליאש</persName> והעו"ד <persName>מריין,</persName> יועצו של המלך החבשי) ולאמו <persName>צפורה.</persName> קבל חנוך מסורתי, בית ספר עברי, ובית ספר מסחרי בלטביה.
+
+ בדצמבר 1911 עלה לארץ.
+
+ יחד עם אחיו יוסף קנו מערבים שטח קרקע (1911) מחוץ לתל-אביב (בימים ההם. כיום - ברחוב המלך ג'ורג' - מול <persName>גן מאיר)</persName> והקימו בית חרושת לחומרי בנין: מרצפות, מוזאיקה וכו' בשם "דב טאובקין ובניו".
+
+ היו הראשונים במקצוע זה, שהעסיקו רק פועלים יהודים ולמדו אותם את המקצוע.
+
+ לקח חלק רב בבנין העיר תל-אביב.
+
+ בשנת 1918 נשא לאשה את ימימה בת הסופר <persName>אלכ</persName> <persName>סנדר זיסקינד רבינוביץ</persName> (ראה כרך א', עמוד 253).
+
+ כל השנים היה חבר ההגנה.
+
+ היה מהמתנדבים הראשונים במלחמת העולם הראשונה, לגדוד העברי ליהודה (40 קלעי-המלך).
+
+ מראשוני המתישבים באביחיל. חבר משק ופרדסן.
+
+ בנותיו:<persName> רחל</persName> אשת<persName> דוד בן-</persName> <persName>דוד, מרים</persName> אשת <persName>שמואל</persName> <persName>אמיר.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3610 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3610</bibl><bibl>Volume: #10 ,Page: 3611 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3611</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

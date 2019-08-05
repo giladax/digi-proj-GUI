@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4101 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4101</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יחיאל אליאש</persName>
+
+</head>
+         <div><p> נולד בצ'יזב (פולין), ט' אייר תרס''ח (1908).
+
+ לאביו<persName> ברוך יעקב </persName> ולאמו<persName> טובה </persName> בת<persName> עקיבא.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבות לומזה וביאליסטוק בפולין ובישיבת הרב קוק בירושלים. סיים בי''ס תיכון.
+
+ בשנת 1925 עלה לארץ.
+
+ היה חבר קבוצת "בני-עקיבא". היה פועל חקלאי, פקיד, קצין במחוז ת"א.
+
+ לשעבר, חבר המזכירות הארצית של "כופר-הישוב'' וחבר מפקדת ההגנה של מחוז תל-אביב.
+
+ בשנת 1936 נשא לאשה את <persName>מרים</persName> בת <persName>בן-ציון ורובל.</persName>
+
+ יסד את אחרוני "בני-עקיבא" ו"אלי-צור", יחידות דתיות בהגנה "משמרות אלי-צור".
+
+ היה שליח הפועל המזרחי בצ.ס.ר.
+
+ היה ציר בקונגרסים הציונים: הי"ט והכ"א.
+
+ כל השנים פעיל בהגנה.
+
+ מנהל כללי של העתון היומי "הצופה".
+
+ צאצאיו: <persName>בן-ציון, אמוץ, אחיה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4101 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4101</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

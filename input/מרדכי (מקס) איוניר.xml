@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3305 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3305</bibl><bibl>Volume: #9 ,Page: 3306 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3306</bibl>
+<bibl>Volume: #9 ,Page: 3307 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3307</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי (מקס) איוניר</persName>
+
+</head>
+         <div><p> נולד ברומט (בוקובינה) כ"ג סיון תרס"ד (6.6.1904).
+
+ לאביו<persName> דב </persName> ולאמו<persName> שרה </persName> בת<persName> אברהם פליישר.</persName>
+
+ קבל חנוך מסורתי וחינוך בבי"ס גבוה למסחר בצרנוביץ (בוקובינה).
+
+ בשנת 1931 נשא לאשה את<persName> אהובה</persName> בת<persName> יצחק</persName> <persName>ארם.</persName>
+
+ עסק במסחר בגרמניה. עם עליתו של היטלר היה בין הראשונים אשר חיסל את עסקיו ובשנת 1936 עלה עם כל בני משפחתו לארץ. הביא אתו מרץ שלא ידע גבול, טוב לב ורצון לעשות למען הזולת.
+
+ היה חבר בהתאחדות הסוחרים וחבר ועד ארגון הגלנטריה ובמשך זמן רב היו"ר שלה בארץ.
+
+ בשנת 1937 יסד יחד עם אחיו<persName> יוסף </persName> את הפירמה הידועה <persName>איוניר</persName> בארץ.
+
+ היה ידוע כתורם למוסדות הציוניים, ולמוסדות סוציאליים ביד רחבה.
+
+
+ בתקופת המחתרות היה תומך בהם במסירות רבה.
+
+ כל השנים חבר ההגנה.
+
+ נפטר בתל-אביב, כ"א כסלו תשט"ז (5.12.1955).
+
+ בניו :<persName> יצחק, אברהם.</persName>
+
+ ביום השלושים למותו הוחלט ע''י התאחדות הסוחרים להקים קופת גמילות חסדים על שמו.
+
+ היה חבר ועד בית הכנסת "בית-אל" בת"א. לזכרו הקימו קופת גמילות חסדים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3305 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3305</bibl><bibl>Volume: #9 ,Page: 3306 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3306</bibl>
+<bibl>Volume: #9 ,Page: 3307 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3307</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

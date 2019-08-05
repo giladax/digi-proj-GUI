@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5201 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5201</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אליהו ירוחם דרבקין</persName>
+
+</head>
+         <div><p> נולד בברויסק (רוסיה), י"ז כסלו תרס"ז (4.12.1906).
+
+ לאביו הרב הגאון<persName> צבי דרבקין</persName> (קרא עליו בספר בוברויסק) ולאמו <persName>שרה לאה</persName> בת הרב <persName>נתן רובין.</persName>
+
+ קיבל חינוך מסורתי בישיבות "בית-יוסף" בהומל וביאליסטוק ובישיבת קלצק.
+
+ בשנת תרפ"ו (1926) עלה לארץ.
+
+ המשיך ללמוד ב"ישיבת חברון" בחברון ואח"כ (אחרי הפרעות בחברון) בירושלים, בבית מדרש גבוה לתורה "היכל התלמוד" בתל-אביב.
+
+ בשנת תרצ"א נשא לאשה את הגב'<persName> חנה</persName> בת הרב <persName>מרדכי רלבג </persName> (בן הרב הגאון <persName>אליעזר דן</persName> , ראש ישיבה ב"ישיבת עץ חיים" בירושלים וחתנו של הגאון<persName> יוסף שווארץ</persName> , מחבר ספר "תבואת הארץ").
+
+ ממייסדי אגודת הרבנים בארץ בנשיאות הרב הראשי <persName>א. י. אונטרמן</persName> (ראה כרך שלישי, עמוד 1510) והרב הראשי לפתח-תקוה <persName>ראובן כץ</persName> ז"ל (ראה
+
+ כרך שלישי, עמוד 1490). חבר הועד הפועל והועדה המרכזת שלה.
+
+ חבר הועד הפועל של הארגון הארצי למען השבת.
+
+ משנת תרצ"ז (1937) רב דמתא ואב בית-דין של הוד השרון והסביבה.
+
+ הקים בהוד השרון את בית הכנסת המרכזי, את בית הטבילה ויסד שם קופת גמילות חסדים שהוא עומד בראשה.
+
+ בשנת תשכ"ב יצא לאור ספרו "בכורי אליהו" (חידושים וביאורים בענינים שונים בש"ס, רמב"ם, טור ושולחן ערוך). נלוה אל ספרו קונטרס "מזכרת צבי" (כולל חידושי תורה משלושת בניו. מוקדש לזכרו של אביו הרב הגאון ר' <persName>צבי</persName> זצ"ל, רב בבוברויסק, מקדושי חברון תרפ"ט).
+
+ צאצאיו: הרב <persName>צבי דרבקין </persName> (ראש ישיבת בישיבת פוניבז' באשדוד) ; הרב <persName>שמואל דרבקין </persName> (מנהל רוחני בישיבה בבאר-יעקב); הרב <persName>אליעזר דן דרב</persName> קין; <persName>שרה</persName> אשת הרב <persName>ברוך ויסבקר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5201 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5201</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

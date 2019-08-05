@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 495 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/495</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב רוסטובסקי</persName>
+
+</head>
+         <div><p> נולד בבולשוי-טוקמאק (קרים), רוסיה, בשנת תר"כ (28.2.1860), לאביו ר'<persName> יהודה ליב </persName> (שלעת זקנה עלה לירושלים, בנה בה בית-כנסת והיה ידוע בשם ר'<persName> יודא ליב טוקמאקר</persName> , - ונפטר בירושלים) ולאמו <persName>שפרה </persName> לבית<persName> באי.</persName>
+
+ קיבל חינוך יהודי מסורתי ובבחרותו השתלם בהשכלה כללית, בעיר מליטופול, יחד עם גיסו אחי אשתו - לעתיד, שנודע אח"כ בשם המהנדס <persName>זיידנר</persName> , חברו של הרצל בציונות ובן-לויתו בביקורו בארץ, ועם <persName>זאב </persName> (ולאדימיר) <persName>טיומקין,</persName> שהיה אח"כ, בתר"ן, מנהל המשרד של הועד האודיסאי לחובבי ציון ביפו. השתלם במדעי החקלאות ב"מכון לחקלאות וליעור" בפולבה (פולין), יחד עם<persName> מנשה מאירוביץ</persName> ועם הד"ר<persName> א. זוסמן</persName> , שהיו שלשת האגרונומים היהודים הראשונים ברוסיה.
+
+ כחברו מנשה מאירוביץ הצטרף גם הוא לתנועת ביל"ו וב-1883 עלה ארצה מייקאטרינוסלאב, התגורר בקן הבילויים בפרדס אנטון איוב הידוע ועבד עם חבריו במקוה ישראל. עבר עם רוב החברים לראשון לציון וחזר עם החוזרים למקוה ישראל. היה פעיל בחבורת הבילויים בעבודה ובתיכון תכניות ועיבוד תקנות לסידור חייהם בעתיד כחקלאים. עם פיטורי הבילויים ממקוה ישראל גברה בו ההכרה המיאשת, שבהשכלתו החקלאית לא ינתן לו להביא תועלת לישוב, ובו בזמן שאביו עלה ירושלימה חזר הוא לרוסיה ועסק במסחר בסביבת ייקאטרינוסלאב עד שנת 1914 והשתתף בפעולה הציונית.
+
+ ב-1914 הוזמן לבוא ארצה ולהשתתף בניהול ביתחרושת ללבני סיליקאט שאמרו להקים. הוא בא והשתקע בתל-אביב. אך תכנית הקמת המפעל לא יצאה לפועל בזמן ההוא מסבת המלחמה. ב-1920, עם הקמת הסיליקט, עבד בו עד 1923 וחזר לעסוק במסחר, אבל בארץ. מאז היה סוחר ואזרח ציוני מסור כל ימיו.
+
+ נפטר בתל-אביב, תשעה באב תרצ"א, ונקבר בבית הקברות הישן.
+
+ בתו<persName> מרים</persName> היא פקידה במחלקת המדידות הממשלתית ובנו<persName> נפתלי</persName> פקיד בעירית תל-אביב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 495 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/495</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

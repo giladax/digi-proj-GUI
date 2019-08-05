@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2176 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2176</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה שר</persName>
+
+</head>
+         <div><p> נולד באודיסה, רוסיה, בשנת תרנ"ד (25.3.1894), לאביו <persName>גרשון</persName> ולאמו <persName>רבקה </persName> בת <persName>למל לוקשביץ.</persName>
+
+ בן חצי שנה נתיתם מאביו ונתחנך במאמצי אמו והמשפחה.
+
+ משגמר את לימודיו בחוה החקלאית באודיסה, מיסודה של חברת מפיצי השכלה ובניהולו של האגרונום <persName>זוסמן,</persName> נשלח ארצה מטעם "חובבי ציון" יחד עם שלשה תלמי
+
+ דים אחרים :<persName> יצחק צינובר</persName> (נסע אח"כ לאמריקה, חזר עם הגדוד העברי ומת בארץ),<persName> נתן ברזובסקי</persName> (השתקע בטבריה), <persName>שאול קרבל</persName> (השתקע בכפר ויתקין).
+
+ לפי ההוראות היו צריכים לפנות אל <persName>מנחם שיינקין</persName> שהוא יסדר אותם בעבודה חקלאית, אך<persName> ישראל שוחט</persName> שקיבל את פניהם מטעם הנהגת צבור הפועלים ו"השומר" נטל את טורח סידורם על עצמו.
+
+ משה נשלח לשמירה בגליל ושמר במקומות שונים יחד עם ראשוני "השומר" <persName>צבי ניסנוב, ישראל גלעדי, שמואל</persName> <persName>רומרשטיין</persName> (שנהרג בתאונה ב-1913) <persName>ומאיר חזנוביץ.</persName> השתתף ב-1911 בכיבוש אדמת מרחביה ובתגרות עם מערערים, מסיגי גבול ושוסים ערבים.
+
+ במלחמת העולם הראשונה נאסר ביחד עם יתר חברי "השומר" אחרי שנתגלתה המחתרת העברית של "נילי" והובא לכלא דמשק. אחרי שזוכה מאשמת הריגול גויס לצבא הטורקי ושרת בחלב בפלוגת הרכבות.
+
+ ב-1919 חזר ארצה עם המהנדס <persName>גליקשטיין</persName> . השתתף בהגנת תל-חי עם <persName>יוסף טרומפלדור</persName> ועם בן-דודו<persName> אהרן שר</persName> שנפלו שם. אחרי פנוי כפר גלעדי שרת לפי דרישת "השומר" ארבע שנים במשטרה והגיע בה לדרגת סמל.
+
+ נשא לאשה את <persName>שושנה</persName> בת <persName>חיים אוסיה.</persName>
+
+ מ-1924 ואילך היה השומר האחראי לקרקעות שגאל <persName>יהושע חנקין</persName> בעמק : ג'בתה (גבת), א-כניפס (שריד), ירקני (כפר ברוך), תל שמאם (כפר יהושע), ג'דה (בית שערים), קוסקוס-טבעון (טבעון, קרית עמל, אלונים וכו') והיה פעיל בפינוי הערבים לשם שחרור הקרקעות להתישבות יהודית.
+
+ מ-1928 ואילך הנו האחראי לאדמות מפרץ חיפה בתור ראש השומרים ומאנשי ההגנה בעמק זבולון.
+
+ בנו : <persName>חיים</persName> היה חבר ברבדים שבגוש עציון, נלקח בשבי לעבר הירדן ושם נרצח במחנה השבויים על-ידי איש הלגיון הערבי.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2176 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2176</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

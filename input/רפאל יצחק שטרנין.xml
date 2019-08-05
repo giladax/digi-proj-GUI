@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1799 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1799</bibl><bibl>Volume: #4 ,Page: 1800 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1800</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רפאל יצחק שטרנין</persName>
+
+</head>
+         <div><p> נולד בנאורארדעק, פלך מינסק, רוסיה הלבנה, בשנת תר"ח (1848), לאביו ר'<persName> ישראל שמואל </persName> (נכד
+
+ הגאון ר' <persName>שמואל אמדורר</persName> מראקוב) ולאמו לשה. אחרי שנות לימוד בישיבות נשא לאשה את <persName>מרים</persName> <persName>דבורה</persName> בת<persName> צבי פרלמן</persName> ( נפטרה ב"זכרון יעקב" יום כפור תרס"ג). ניהל במשך כמה שנים את בית-החרושת לספירט ובירה ושמרים של הגביר <persName>חנן רייצין </persName> מבוברויסק. אח"כ היה במוסקבה מנהל פנקסים אצל קרובו <persName>אייזיק צייטלין </persName> (סוחר מהדרגה הראשונה). במוסקבה היה מבאי-ביתו של ר' <persName>שרגא פייבל יעקבזון</persName> (כרך ב', עמוד 836), בו היו מתאספים הסטודנטים <persName>מ. אוסישקין,</persName> <persName>צ'לנוב ומזאה</persName> ואחרים לשם שיחות ופעולות בעניני חיבת ציון. באותו בית נוסד ארגון להתנחלות בארץ, אליו הצטרף גם הוא. וכשהצטרף מזא"ה, שנסע ארצה בתר"ן בשליחות הארגון. בו קנה בשבילו את אדמת מחנים, עלה ר' רפאל יצחק ארצה עם <persName>שמואל ישראל</persName> בנו והתאכסנו זמנית בחיפה, מוכנים לעלות על אדמת מחנים. אך קניה זו בשביל יהודי רוסיה נתבטלה, כי הקניה עוד לא היתה קניה, רק התקשרות על תנאי, <persName>ואליהו שייד</persName> הזדרז וקנה את הקרקע הנ"ל קניה ממש בשביל פקידות הבארון רוטשילד להרחבת שטחי המתנחלים בראש פנה. באותו זמן עסק<persName> יהושע חנקין</persName>
+
+
+ בקנית אדמת חדרה והתרוצץ גם בחיפה לשכנע אנשים בדבר הצורך והתועלת שבקניה זו ולהשיג מהם הלואות גמילות-חסד לביצוע העסק. ר' רפאל יצחק מסר לו סכום גדול על מנת לקבל נחלה בשטח הזה, ובתרנ"א עלה על הקרקע עם בנו בין המיסדים הראשונים, ומאז קשורה פרשת חייו עם פרשת חדרה: דירה ב"חן", מאבק עם הקדחת וכל יתר התלאות והאחזות בקרקע על אף הכל תוך אמונה בעתיד.
+
+ בשנות תר"ס-תרס"ט היה המוכתר והמזכיר של המושבה חדרה.
+
+ נפטר בזכרון יעקב, י"ד אייר תרפ"ז (27 16.5) צאצאיו: <persName>שמואל ישראל, אפרים</persName> (שניהם בחדרה), <persName>טוביה</persName> (חיפה), <persName>שטרנה</persName> ז"ל אשת <persName>ליבוש בלום </persName> ז"ל (מראשוני זכרון יעקב), <persName>קילה</persName> אשת <persName>יוסף שטיינברג</persName> (הרצליה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1799 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1799</bibl><bibl>Volume: #4 ,Page: 1800 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1800</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1504 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1504</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב סגל</persName>
+
+</head>
+         <div><p> לאביו<persName> מרדכי יואל</persName> (ראה כרך א', עמוד 168) ולאמו<persName> רבקה</persName> בת <persName>יהודה ליב לובמן</persName> (אחות דב חביבלובמן).
+
+ נולד ביפו, כ"ב כסלו תרס"ד (11.12.1903).
+
+ בילדותו עבר עם משפחתו לראשון לציון, קיבל
+
+ שם חינוך בבית הספר העממי, בגמנסיה "הרצליה" בת"א וגמר במחזור י"א (תרפ"ג), אוניברסיטה בטורינו איטליה (משפטים), בביה"ס הגבוה למשפטים של ממש לת א"י בירושלים ובשנת תרפ"ט קיבל את התואר של עורך דין ומאז הוא עובד כעורך דין בת"א.
+
+ היה פעיל משנת תרע"ט בארגוני נוער: צופים ומכבי. היה יו"ר ביה"ד העליון של הסתדרות המכבי בא"י, חבר מרכזה, חבר הועדה העליונה של התאחדות כדור-רגל בא"י וביה"ד העליון שלה.
+
+ היה חבר פעיל בהגנה ומשנת תש"א חבר המפקדה של מחוז תל-אביב.
+
+ חבר הועד הפועל של התאחדות הציונים הכלליים בא"י וחבר הועד העירוני של ההתאחדות בת"א.
+
+ בשנת תר"ץ נשא לאשה את<persName> עדה</persName> בת משה סימנובסקי (מראשוני המתישבים בחדרה ואח"כ מאכרי ראשון לציון).
+
+ חבר ביה"ד העליון של המכבי העולמי.
+
+ נבחר לנשיא (זה השנה השלישית) לשכת "בצלאל" - של הבנאים החפשים בת"א. חבר בני ברית לשכת "בנימין" בראשון לציון.
+
+ נתמנה בתור מנהל אגף ההפקעות והפצויים במשרד הבטחון של מדינת ישראל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1504 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1504</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

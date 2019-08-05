@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3869 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3869</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב ברגמן</persName>
+
+</head>
+         <div><p> נולד בראש-פינה, בשנת תרנ"ז (3.9.1897).
+
+ לאביו<persName> מנחם</persName> מנדל.
+
+ קיבל חינוך עברי וכללי. חניך הסמינר העברי למורים בירושלים.
+
+ נשא לאשה את<persName> מרים </persName> בת <persName>יוסף בן-יוסף </persName> (יוסילביץ).
+
+ במלחמת העולם הראשונה גויס לצבא התורכי והשתלם בבית ספר לקצינים באיסטנבול. שירת כקצין בתורכיה, סוריה וא"י (1916-1918).
+
+ אחרי הכיבוש התגייס לפי צו המוסדות הלאומיים למשטרה תחת הנהלת צבא הכובש )O.E.T.A.( מ-1918-1920.
+
+ משנת 1920-1926 קצין במשטרה של הממשלה האזרחית של המנדט. בירושלים, ברמלה ועוד.
+
+ ביום 20 לינואר 1926 נתמנה לקצין מחוז בצפת. בתפקיד זה שירת גם בטבריה, בית-שאן, ירושלים וחיפה.
+
+ קיבל מדליה .M.B.E.
+
+ היום ממונה על מחוז חיפה.
+
+ צאצאיו :<persName> צופיה</persName> אשת <persName>אבשלום ברגמן, מנחם</persName> (אחם) נהרג בסיור הפלמ"ח בסביבות עין השופט (28.9.1945).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3869 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3869</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

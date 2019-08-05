@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1522 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1522</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> מרדכי שכביץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>חארקוב</placeName> (אוקראינה), ט"ו אדר תרל"ח (1878) לאביו יעקב הכהן (מראשוני המתנחלים בגדרה, תלמיד חכם שהתייחס למשפחת הרב שבתי כהן (הש"ך) בעל "שפתי כהן" על יורה דעה. ראה כרך א', עמוד 388) ולאמו רחל בת צבי הלוי לוי.
+
+ קיבל חינוך מסורתי מפי אביו ועלה אתו לארץ בסוף תרנ"ג. בגיל 15 החל לעבוד במשק בגדרה וניהל למעשה את כל העבודה המשקית של המשפחה, בהיות האב שקוע ראשו רובו ברוחניות ובצרכי צבור.
+
+ נשא לאשה את<persName> צפורה </persName> בת יהודה לב רמברג.
+
+ רכש נסיון רב ביחסיו הטובים עם השכנים הערבים ועם פקידי הממשלה התורכית, וניצל את קשריו אלה לטובת המושבה. נבחר לועד המושבה ושימש שנים רבות כמוכתר. ביתו היה פתוח לכל אורח ונזקק. בימי המאורעות 1936-39 היה מבקר בסביבות ערביות ולא פגעו בו לרעה. ובאותם הימים המשיך לסדר את עניני המושבה במשרדי הממשלה ברמלה ובתיווך סכסוכי קרקעות בין ערבים ויהודים. נכבדי הערבים כבדוהו ודאגו להכין עבורו מאכלי כשר בזמן בקוריו בכפרים. בסכסוך גבולות בין המושבה
+
+ גדרה והכפר הערבי מסמיה, המפורסם בשרירותו, בא בלוית אחדים מצעירי המושבה לכפר ולאחר הסעודה המסורתית המזרחית, כשהוגשה הקפה, קם והכריז: "אם אתם נכבדי הכפר לא תסכימו מראש להצעת תיווכי בענין הסכסוך, לא אוכל לשתות את הקפה שלכם, ואצטרך לחזור על עקבותי למושבתי". הנכבדים קבלו את הצעתו והסכסוך נפתר לשביעת רצון הדדית.
+
+ נפטר בגדרה, ט"ו תשרי תש"ה (2.10.44).
+
+ בניו: <persName>יהודה הגדרתי </persName> (סופר "הבקר" ו"פלשתין פוסט" בדרום)<persName> אבנר, בן-שך</persName> (מפעילי "המכבי" וממדריכי הנוער בגדרה, היה מדריך הנוער בסוריה מטעם המוסדות, מראשוני המתנדבים לצבא בימי המלחמה העולמית השניה ושירת בבריגדה העברית - חי"ל), <persName>עוזיהו, עמנואל</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1522 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1522</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

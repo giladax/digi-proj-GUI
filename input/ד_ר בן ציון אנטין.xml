@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2465 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2465</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר בן-ציון אנטין</persName>
+
+</head>
+         <div><p> נולד בט'ו בשבט תרנ'א (1891) במינסק שברוסיה הלבנה.
+
+ לאביו <persName>צבי</persName> ולאמו <persName>חנה.</persName> בהתאם לרצון הוריו האדוקים למד בחדר ואח'כ בישיבה, עד שבתרס'ב עלה ארצה עם סבא. הזקן השתקע בירושלים ושם נפטר ונקבר בהר הזיתים, ואילו הוא נתקבל לעבודת פקידות בסניף בנק אפ''ק בבירות, השתלם בשעות הפנאי בהשכלה כללית, חסך לו סכום כסף ויצא להמשיך בלימודיו בפאריס, ומשפרצה מלחמת העולם עבר לשוייץ ושם גמר את לימודיו והוסמך לרופא.
+
+ אחרי מלחמת-העולם א' חזר ארצה ונתקבל לרופא ב"הדסה" בירושלים. אחרי זמן מועט הצטרף למשלחת שיצאה בראשית הד"ר<persName> פייטלוביץ </persName> לחבש, לחקר חיי היהודים הפלשים, ועשה שם כעשרה חדשים. כשחזר ארצה נתקבל לרופא בשרות מחלקת הבריאות הממשלתית ואחרי שרות בארץ נשלח מטעם הממשל הצבאי
+
+ הבריטי, שניהל אז כאן את השלטון, ליסד בית חולים בקנטרה שבמצרים, על שפתה המזרחית של תעלת
+
+ סואץ (שם היתה תחנת המוצא של הרכבת שפעלה תחת הממשל הצבאי ובאה עד חיפה), וב-1920 נתמנה לשרות קבע כרופא נמל יפו.
+
+ ב-1922 נשא לאשה את <persName>שושנה</persName> בת ר' <persName>משה רייס-כהן</persName> מפתח-תקוה.
+
+ ב-1926 התפטר משרותו בממשלה והתישב כרופא פרטי בפתח-תקוה. נתחבב על התושבים וביזמתו הפעיל אותם ליסד שרות "מגן-דוד אדום". ניהל אורח-חיים מסורתי והיה קובע יום-יום עתים לתורה.
+
+ נפטר בפתח תקוה, ג' אלול תרצ"ד (14.8.1934).
+
+ צאצאיו: <persName>ארנון </persName> (רב סרן בצה"ל), <persName>ניצה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2465 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2465</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

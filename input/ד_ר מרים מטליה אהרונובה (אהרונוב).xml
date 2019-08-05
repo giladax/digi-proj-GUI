@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3520 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3520</bibl><bibl>Volume: #10 ,Page: 3521 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3521</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר מרים מטליה אהרונובה (אהרונוב)</persName>
+
+</head>
+         <div><p> נולדה בשנת תרמ"ט (1889) במוהילב שברוסיה הלבנה.
+
+ לאביה ר' <persName>שמואל דוד צודקוב </persName> ולאמה <persName>חיה שרה </persName> בת <persName>אברהם יעקובוביץ.</persName>
+
+ גמרה גימנסיה רוסית בבריאנסק, למדה באוניברסיטאות דורפאט (אסטוניה, אז פלך ברוסיה) ופטרבורג, הוסמכה לד"ר לרפואה והשתלמה כרופאת נשים.
+
+
+ ב-1914 נישאה לד''ר <persName>אברהם יקותיאל אהרונוב</persName> (ראה בכרך זה).
+
+ התחילה לעסוק בפרקטיקה פרטית ומ-1921 ואילך היתה מנהלת בית-החולים ליולדות בבריאנסק.
+
+ בראשית 1929 עלתה לארץ עם בעלה והיתה רופאתנשים בקופת חולים בעין חרוד, עפולה ומ-1930 ואילך בתל-אביב.
+
+ ניהלה תחנת-יעוץ לנשים מטעם קופת חולים, הרצתה בצבור הנשים על ההיגיינה של חיי האשה, וכתבה על נושא זה ספר שיצא בארבע מהדורות, וכן כתבה מאמרים על בעיות בענף רפואי זה בעתונות הכללית והמקצועית.
+
+ הקדישה סכומים ניכרים למוסדות סוציאליים ואחרים, ביניהם לבית היתומים העירוני, ולמרפאה ביד-אליהו לזכר בעלה אחרי פטירתו.
+
+ השתתפה עם בעלה כל השנים בפעולות למען הקהק"ל, ואת ביתם בתל-אביב ביחד עם כ-5000 לירות במזומנים (עוד בזמן שהיו שוים ל-5000 לי"ש) מסרו כעזבון בחיים לקרן הקיימת לישראל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3520 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3520</bibl><bibl>Volume: #10 ,Page: 3521 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3521</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

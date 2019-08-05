@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5679 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5679</bibl><bibl>Volume: #19 ,Page: 5680 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5680</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב קלימקר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קישינוב</placeName> (בסרביה), בשנת תרכ"ה (15.12.1865).
+
+ לאביו: <persName>שמואל זאב קלימקר</persName> (סוחר).
+
+ קיבל חינוך מסורתי בחדר, בישיבה, בי"ס למסחר באודיסה, בי"ס לחימיה, באוניברסיטת סורבון בפריס.
+
+ מוסמך למדעים.
+
+ נשא לאשה את<persName> פנינה</persName> בת<persName> יוסף רוזן </persName> (נפטרה בת"א).
+
+ בשנים 1885-86 היה בין פעילי "חובבי ציון", חבר אגודת "בני-ציון" ומזכיר אגודת יישוב א"י בפריס. בשנת 1901 היה מנהל בית-חרושת חימי.
+
+ בשנים 1897-1903 יו"ר אגודות ציוניות שונות ומועצת אגודת עוזרי המסחר ב<placeName>קישינוב</placeName>.
+
+
+ בשנת 1900 נפגש בוינה עם ד"ר <persName>תיאודור הרצל</persName> , ופרש לפניו את הצעתו ותכניתו להקמת תעשיה וחרושת בא"י. הצעתו הועברה במלואה ע"י ד"ר <persName>הרצל</persName> למערכת "די וועלט" ונדפסה בגליון מספר 43 מיום 26.10.1960, בלווית "קול קורא" מאת המערכת הממליץ מצדו על הצעה מעניינת זו. בשנת 1903 עלה לארץ.
+
+ ייסד ביח"ר לשיורי היין ליד היקב בראשון-לציון - בית החרושת הפרטי הראשון לתעשייה החימית בא"י.
+
+ ייסד ביח"ר לייצור שמן מ"גפת" (שיירי זייתים) בעמק הארזים ליד מוצא, וניהל ביח"ר לשמן ב"בןשמן (הציע את השם "בן-שמן" למקום).
+
+ בשנת 1904 יזם לראשונה תרומת עצי הזית לקהק"ל.
+
+ בשנת 1908 השתתף כציר בקונגרס הציוני בהאג.
+
+ בשנת 1913 חכר והפעיל את בית-החרושת "עתיד" (כיום "שמן") בחיפה.
+
+ בשנת 1918 יו"ר ועד הקהילה בחיפה.
+
+ בשנים 1919-22 יו''ר ועד המהנדסים והחימאים בחיפה.
+
+ בשנים 1920-22 מורה לכימיה בבית-הספר הריאלי בחיפה.
+
+ בשנים 1923-24 היה ציר קרן היסוד במזרח אירופה.
+
+ בשנים 1926-30 יו"ר קרן היסוד במחוז חיפה.
+
+ יצר "מונחים חימיים" רבים בעברית (בהוצאת ועד הלשון בירושלים, בקובץ "שנתנו").
+
+ כתב מאמרים רבים למונחים הימיים ב"עמר", על התעשיה בישראל ובעתונים לועזיים, על מחקרים בשטח התעשיה בכללה והחרושת החימית במיוחד.
+
+ פרסם חוברת: "שיבת ציון - שיבת תרבות".
+
+ נפטר בחיפה, ח' סיון תש"ז (27.5.1947).
+
+ צאצאיו :<persName> רחל </persName> אשת העו"ד <persName>צבי שורץ </persName> (ראה את הערך שלו בכרך שלישי, בע' 1486);<persName> דוד קלימקר;</persName> <persName>דניאל קלימקר.</persName>
+
+ נכדותיו (מבתו <persName>רחל): רות</persName> אשת שר הבטחון <persName>משה דיין </persName> (ראה את הערך שלו בכרך רביעי, בעמוד 1792, ובכרך י"ז, בעמוד 5238); (מבתו רחל): <persName>ראומה </persName> אשת אלוף <persName>עזר ויצמן </persName> (ראה את הערך שלו בכרך י"ז, בעמוד 5096).
+
+ נכדיו (מבנו <persName>דוד): גלעד גלעדי (</persName> שופט באשקלון) ;<persName> יוסף </persName> הי"ד (נפל במלחמת השחרור); <persName>לילי</persName> אשת <persName>מנחם שבל.</persName>
+
+ נכדיו (מבנו דניאל)<persName>: ארי </persName> (מוסמך למדעי הפיסיקה); <persName>אלזה</persName> אשת <persName>חיים ששון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5679 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5679</bibl><bibl>Volume: #19 ,Page: 5680 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5680</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

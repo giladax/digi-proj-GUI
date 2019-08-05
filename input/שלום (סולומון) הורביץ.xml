@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3109</bibl><bibl>Volume: #8 ,Page: 3110 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3110</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלום (סולומון) הורביץ</persName>
+
+</head>
+         <div><p> נולד בשנת תר"מ (6.9.1880). במנצ'סטר שבאנגליה,
+
+ לאביו<persName> יעקב הלוי איש הורביץ, </persName> שהביא אתו מטען עשיר של תרבות יהודית שרשית כשהיגר ממזרח אירופה לאנגליה והוריש ממנה לבנו.
+
+ למד באוניברסיטת קמברידג', בה קיבל בהצטיינות את התואר מוסמך למדעי הרוח בלימודים קלאסיים, ב-1907 השלים את לימודיו במשפטים ועד 1922 עבד כעורך-דין במנצ'סטר.
+
+ ב-1923 עלה לארץ ועבד תחילה בשותפות עם עוה"ד <persName>הארי סאקר</persName> (גם הוא מאנגליה) ואחרי שנים אחדות כראש הפירמה המשפטית <persName>ש. הורוביץ ושו"ת - עו"ד</persName> , ד שפרש מעבודתו המקצעית ב-1951.
+
+ היה היועץ המשפטי של רוב החברות הכלכליות הגדולות בארץ בתקופת שלטון המנדט (חברת החשמל, חברת האשלג ועוד).
+
+
+ בעת מהומות 1929, כשחברי ההנהלה הציונית היו בקונגרס בציריך ובארץ נשארה ועדת-הנהלה זמנית, היה הוא אחד מחבריה והופיע בשמה בפני שלטונות המנדט בקשר למאורעות, ואח"כ הופיע כאחד מהנציגים המשפטיים של הצד היהודי בפני ועדת החקירה בדבר המאורעות וגורמיהם.
+
+ למעלה מ-20 שנה פעל למען האוניברסיטה העברית. היה חבר הנהלתה המצומצמת, חבר חבר-הנאמנים והועד הפועל שלה ויו"ר ועדת החוקה שלה. כן היה אחד מנאמני מכון זיו ברחובות, יו"ר ועד הנאמנים של "מוסד סולד" למען הילד והנוער. במשך שנים היה יו"ר החברה למוסיקה בירושלים, השתתף בפעילות ביסוד התזמורת הישראלית והיה יו"ר בפועל של הקרן למען התזמורת. כן היה פטרון מעודד ותומך לאמני הציור והפיסול והאמנות.
+
+ כשפרש ב-1951 מעבודתו המקצועית ויצא בשליחות האוניברסיטה לחדשים מספר לאמריקה, מסר לקרן היסוד את החוילה הנהדרת שלו, המהודרת גם במיטב היצירות האמנותיות שאסף בימי חייו לפי טעמו המעודן, ומאז היא קרויה "בית שלום" ומשמשת אכסניה נאה למסיבות נכבדות של המוסדות הלאומיים והצבוריים.
+
+ נפטר ערירי בירושלים, ג' אדר תשט"ז (15.2.1956).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3109</bibl><bibl>Volume: #8 ,Page: 3110 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3110</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

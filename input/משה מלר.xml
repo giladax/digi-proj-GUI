@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 405 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/405</bibl><bibl>Volume: #1 ,Page: 406 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/406</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה מלר</persName>
+
+</head>
+         <div><p> נולד ברוזינוי, פלך גרודנה בשנת תר"י (1850), לאביו<persName> שלמה.</persName> קיבל וחינוך מסורתי וכשגדל היה אכר בכפר פאבלובקה.
+
+ נשא לאשה את חנה (נפטרה כ"ז תשרי תרמ"ו בעקרון).
+
+ היה במשך כמה שנים חבר ועד המושבה. עד יומו האחרון היה אכר מסיור לאדמה ולעבודה.
+
+ נפטר בעקרון, כ''א תשרי תרס"ז.
+
+ צאצאיו; <persName>יוסף צבי; יהושע; אסתר</persName> ז"ל אשת שלמה, שקולניק.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 405 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/405</bibl><bibl>Volume: #1 ,Page: 406 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/406</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

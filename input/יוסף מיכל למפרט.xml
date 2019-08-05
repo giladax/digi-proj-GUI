@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1492 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1492</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף מיכל למפרט</persName>
+
+</head>
+         <div><p> נולד באלחוביץ, ליטא-פולין, בשנת תרכ"ח (1868), לאביו<persName> יעקב.</persName>
+
+ קיבל חינוך מסורתי ואח"כ למד את מלאכת הסנדלרות.
+
+ נשא לאשה את <persName>רחל פייגה</persName> בת<persName> יהודה שורניק</persName> (נפטרה בתל-אביב, כ"ה תמוז תרפ"ט). עסק במלאכתו והיה מפעילי חובבי ציון בעירו.
+
+ עלה ארצה בתרס"ה והתישב ביפו. עבד זמן-מה במקצועו ואח"כ פתח חנות מכולת.
+
+ ממיסדיו וראשוני חבריו של מרכז בעלי מלאכה ביפו ובוני שכונתו ליד "דרך סומל" (כיום הרחובות בשטח מצפון לרחוב שיינקין בתל-אביב) ובנה בה את ביתו בין הראשונים. השתתף בפעולות הצבוריות והחברתיות של חבריו בעלי המלאכה. היה חבר נאמן ב"אגודת ישראל".
+
+ נפטר בתל-אביב, כ"א שבט תרע"ז.
+
+ צאצאיו: <persName>דוד, משה, דב</persName> (שלשתם ממיסדי ופעילי המכבי ביפו בתרס"ז), <persName>נתן, יהודית </persName> אשת <persName>אלכסנדר</persName> <persName>בייגלמן, יעקב </persName> ז"ל,<persName> פסח ז"ל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1492 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1492</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

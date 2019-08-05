@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1186 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1186</bibl><bibl>Volume: #3 ,Page: 1187 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1187</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יחזקאל גולדנברג</persName>
+
+</head>
+         <div><p> נולד בסובאלקי, פולין, ג' אלול תרנ"א (1991) לאביו ר'<persName> אליעזר</persName> (סוחר, מנכבדי הקהלה, מפעילי "חובבי ציון", רכש באותה שנה באמצעות "אגודת קובנה" נחלה במושבה חדרה שנוסדה אז על מנת לעלות ולהשתקע בארץ עם כל משפחתו) ולאמו<persName> חיה</persName> <persName>שרה</persName> לבית<persName> נישקובסקי </persName> (ראה כרך א', עמוד 509).
+
+ אחרי שאחיו הבכור<persName> ראובן</persName> עלה ארצה בתרנ"ג להכין את הנחלה למשפחה ובתרנ"ו נפטר בעקב קד
+
+
+ חת צהובה, עלה האב בתרנ"ז עם בתו <persName>פשה</persName> ובניו <persName>שמעון ויחזקאל. </persName> בחיפה לא הרשו להם פקידי השלטון הטורקי לעלות על החוף והוכרחו להשאר באניה החוזרת לבירות ובערב ירדו ממנה בסירה ועלו על היבשה אי-שם בעמק זבולון,הגיעו על גבי חמורים לחיפה ומשם נסעו לחדרה. התגוררו זמן מה ב"חאן" ואח"כ בצריפים שהוקמו על חוף הים (שיכון "קדימה", כפי שנקרא אז) למפלט מפני קדחת הבצות שעשתה שמות בתושבי חדרה, ובסוף בביתם שבנו בחדרה.
+
+ בימות הגשמים למד יחזקאל בבית הספר המקומי, ובעונות הקיץ, כשגברה הקדחת והילדים הועברו למקומות אחרים, למד מחוץ למקום: בתלמוד תורה ביפו, בבית הספר בזכרון יעקב (בינתים עלו ארצה גם אמו, אחיותיו: <persName>רחל, דינה ושושנה </persName> ואחיו <persName>חיים</persName> <persName>ומשה),</persName> בבית הספר למל בירושלים, ואח"כ בבית המדרש למורים של חברת "עזרה" הברלינית בירושלים (היה מתלמידיהם של <persName>דוד ילין, י. מ. פינס</persName> <persName>ויוסף בר"נ מיוחס),</persName> וב-1911 הוסמך למורה ולימד עד 1918 בביה"ס למל, בביה"ס לבנות ובסמינר לגננות ובשנת תרע"ט היה מנהל ביה"ס לבנות ג' בירושלים.
+
+ ב-1914 עמד לצאת להשתלם בחו"ל, אך בגלל פרוץ מלחמת-העולם הראשונה הוכרח לדחות את הדבר עד 1919, ואז יצא ולמד מדעי הטבע ותנ"ך באוניברסיטאות ציריך ובון. משם הובהל לפאריס אל מטת אחיו<persName> חיים,</persName> שבא שמה בשליחות המושבה לסדר את עניני היערות והקרקעות עם פקידות הבארון <persName>רוטשילד</persName> וחברת יק"א, ואחרי שאחיו נפטר בפאריס והוא סידר שם את קבורתו הזמנית, הפסיק את לימודיו שנה לפני גמירתם וחזר ארצה לנהל את משק המשפחה.
+
+ נשא לאשה את<persName> נחמה</persName> בת <persName>אהרן שור מהומל.</persName> עוסק בחקלאות ובפרדסנות ובפעילות צבורית
+
+ כחבר ועד המושבה (ונשיאו בשנת 1925/26) ואח"כ כנציג החקלאים במועצה המקומית, נציג האזור החקלאי בועדת בנין ערים המקומית, חבר הנהלת הס
+
+ תדרות החקלאים המקומית, חבר הנהלת "פרדס-סיני דיקט" בת"א והנהלת "פרדס" חדרה, ואת זיקתו לחינוך ממשיך הוא לקיים כחבר ועדת החינוך המקומית (במשך שנים רבות עמד בראשה), חבר הועד המפקח הארצי על בתי הספר הכלליים, חבר הועדה הפדגוגית של בית הספר התיכוני החקלאי בפרדסחנה וחבר ועד ביה"ס התיכון חדרה.
+
+ צאצאיו:<persName> חיים, מרים, אמנון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1186 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1186</bibl><bibl>Volume: #3 ,Page: 1187 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1187</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

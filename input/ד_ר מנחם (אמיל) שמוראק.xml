@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2327 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2327</bibl><bibl>Volume: #5 ,Page: 2328 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2328</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר מנחם (אמיל) שמוראק</persName>
+
+</head>
+         <div><p> נולד בשנת תרמ"ו (8.6.1886) בשצ'עז'עץ שבמזרח גליציה לאביו <persName>זליג אשר</persName> ולאמו <persName>פרידה </persName> בת <persName>שמואל אגיד.</persName> גמר גימנסיה בעיר סטרי ואת הפקולטה למשפטים ולכלכלה באוניברסיטה וינה והוסמך בה לד"ר ב-1911.
+
+ השתקע בלבוב ועסק בפרקליטות (ובניהול מפעל תעשיה של עצמו.
+
+ ב-1921 נשא לאשה את<persName> סופיה</persName> בת<persName> יוסטין וייץ.</persName>
+
+ היה פעיל בחיים הצבוריים ובציונות כחבר בבניברית, יו"ר מועצת הקהלה היהודית בלבוב ויו"ר הנציגות היהודית הלאומית בעיריה; יו"ר ההסתדרות הציונית לגליציה המזרחית, יו"ר הראשון של "החלוץ" בגליציה המזרחית (מ-1919 ואילך) ושל המשרד הארצישראלי הבינמפלגתי בגליציה ; ציר לקונגרסים הציוניים מהעשירי עד ה-23, ומ-1925 ואילך חבר הועד הפועל הציוני.
+
+ לרגל תפקידיו ביקר בארץ בשנים 1924, 1932, 1933, 1943, 1935, 1936, 1937 לשם השתתפות בישיבות המוסדות הלאומיים שהיה חבר בהם ולשם לימוד המציאות וההתפתחות בארץ. ב-1938 נבחר לחבר הנהלת הסוכנות בתפקיד ראש המחלקה למסחר ותעשיה, ואז עלה ארצה וכיהן בתפקיד זה עד סוף 1946, ומאוקטובר 1947 היה ראש המוסד לבקורת על ניהול הענינים בהנהלות ההסתדרות הציונית והסוכנות היהודית עד סוף 1951.
+
+ התפרסם ע"י הדין וחשבון שלו בקשר עם מעילות שנעשו ע"י פקידים בסוכנות.
+
+ מאז הוא חבר המועצה בבנק לאומי לישראל, יו"ר ההנהלה של המפדה האזרחי והשיכון האזרחי בארץ, חבר המועצה של הסתדרות הציונים הכלליים וחבר ההנ
+
+
+ הלה של קרן למפעלים קונסטרוקטיביים מיסודה של הקונפדרציה העולמית של הציונים הכלליים.
+
+ פרסם מאמרים ב-די וועלט, יודישעס טאגעבלאט (שניהם בגרמנית), נובי דז'נניק, חווילה (שניהם בפולנית), הארץ, הבוקר, אקיונומיק רביו (באנגלית ; ואת הספרים: ההתפתחות הכלכלית של ארץ-ישראל (באידית, 1925), עתידה התעשייתי של ארץ-ישראל (באנגלית, בהוצאת ראובן מס, 1946), על הקמת המוסד לבקורת (1947).
+
+ צאצאיו: <persName>יוסטין</persName> (כימאי), <persName>שושנה</persName> אשת<persName> דב ויינטראוב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2327 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2327</bibl><bibl>Volume: #5 ,Page: 2328 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2328</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

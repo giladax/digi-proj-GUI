@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1968 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1968</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמחה חיים וילקומיץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>נסוויז'</placeName> פלך מינסק, רוסיה הלבנה, ט' תשרי תרל"ב (1871), לאביו<persName> קלמן.</persName>
+
+ למד בחדרים ובבית-המדרש. נטה להשכלה ולחיבת ציון, עבר לוילנה ועסק בהוראה עברית ובהשלמות בהשכלה והצטרף לאגודת "בני משה". למד זמןמה באוניברסיטת לוזאן בשוייץ.
+
+ נשא לאשה את<persName> ליבה </persName> לבית<persName> סגל </persName> מוילנה ועלו לארץ בשנת תרנ"ו. (היתה מורה בבתי-הספר ביחד עם בעלה ואחרי מותו המשיכה בהוראה בצפת ואח"כ בתל-אביב, וכאן היתה פעילה בהסתדרות נשים עבריות ובארגון חוגים ובניהולם להפצת השפה והתרבות העברית).
+
+ מקום שרותם הראשון בארץ היה בביה"ס ברחובות. משכילי המושבה העריכו מאד את עבודתו הפדגוגית המוצלחת ואת מאמציו להעלאת רמת ביה"ס ושיחותיו המקצועיות בפגישות מורי מושבות יהודה תרמו הרבה
+
+ לשיפור ביה"ס והחינוך. אך דרישותיו בנוגע לספרים וציוד לביה"ס ולתלמידיו נראו מוגזמות בעיני האיכרים ומצבו נעשה קשה ברחובות. עבר לראש פנה ושם מצא אפשרויות טובות יותר להגשמת תכניותיו
+
+ בדבר הנהגת עבודות ועבודת גינה בביה"ס בהתאם לצורר המיוחד בבי"ס כפרי. נתפרסם בתור מורה למופת ומורים צעירים היו באים אליו מכל הארץ להאזין לשיעוריו ולשאול בעצתו. כך נהג גם במתולה, שמה עבר להורות במקום חברו ד"ר<persName> יצחק אפשטיין.</persName> היה מראשי הפעילים ליסוד הסתדרות המורים ובאספת היסוד (זכרון יעקב, תרס"ג) הרצה על החינוך בבתיהספר במושבות. החל מפרסם מאמרים בשאלות חינוך ב"המליץ" וב"הצפירה", מאמר ב"השלוח" על הספרות לבני הנעורים (בחתימת "הררי"), ועוד מאמרים בעתונים שונים בחתימת "בן-אדם".
+
+ משהועבר לנהל את ביה"ס לבנות ביפו נתאפשר לו להשפיע על ההוראה והחינוך בכל הארץ, ולמען העמלנות והחינוך לעבודה חקלאית בבתי-הספר פעל במאמרים, בהרצאות ובפגישות מורים.
+
+ משנסגר ביה"ס לבנות ביפו במלחמת-העולם א', נדד ממושבה למושבה, חלה בטיפוס הבהרות, שהפיל אז חללים רבים בארץ, ונפטר בראש פנה, ט"ו ניסן תרע"ח.
+
+ צאצאיו: <persName>עבריה</persName> (מורה ומדריכה) אשת משה כרמי בעין חרוד;<persName> עמיאסף </persName> (מפעילי תנועת המושבים והארגונים בכפר יהושע: חבר המרכז לחינוך).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1968 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1968</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 205 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/205</bibl><bibl>Volume: #1 ,Page: 206 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/206</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי בנדל</persName>
+
+</head>
+         <div><p> נולד בעיר באקאו, רומניה, י"ב אייר תר"ד (1844), לאביו אברהם ליב (מצאצאי דוד המלך לפי מסורת המשפחה). למד בחדר ובבית המדרש. נשא לאשה את<persName> אסתר </persName> לבית <persName>אורן-רובינשטיין</persName> מהעיר זוניץ שברוסיה, מצאצאי ר' <persName>שניאור זלמן מלאדי</persName> בעל ה"תניא", ניהל אחוזות וחי באמידות.
+
+ כשקמה ברומניה התנועה לעלות לארץ-ישראל ולעבוד את אדמתה, הצטרף ר' צבי לרשימת העולים, אך אשתו סירבה לעזוב את חיי הרווחה. אחיה ר' <persName>חיים מיאסי</persName> עזר לבעלה לשדל אותה להסכמה ומסר לה זוג רימוני-כסף לעיטור ספר-תורה, ירושה מדור לדור מאת ר' שניאור זלמן, שתקחם עמה לארץ ישראל, ואף שלח עמה את בנו יחידו<persName> פישל </persName> ואת ארוסתו <persName>מלכה</persName> , שהיא תערוך את חתונתם שם בארץ הקודש, וסוף-סוף הסכימה ובחודש אב תרמ"ב הגיעו ארצה והשתתפו ביסוד המושבה ראש-פנה.
+
+ החיים בהתחלה היו קשים מאד. כשנתרבו המתלוננים והמתחרטים, שצעקו "נתנה ראש ונשובה - -", התאסף כל הקהל בבית-הכנסת, הוציאו מארון הקודש את ספר-התורה היחיד שהביאו מהגולה ור' צבי קישט אותו ברימונים היקרים והקדושים של הצדיק ר' שניאור זלמן וקרא: - יעבור נא כל
+
+
+ אחד לפני ספר התורה הקדושה ויאמר בלב תמים, אם אמנם יש בדעתו לעזוב את האדמה הזאת! שהות ארוכה שתק כל הקהל ובסוף קמה אשתו וקראה: - כל הירא ורך-הלבב ישוב אל הגולה, ואנחנו לא נעזוב את הארץ הקדושה ! - ובזה נסתמו פיות המתלוננים, ורק מתי-מספר עזבו את המקום כמתגנבים. מאז היתה יוצאת עם ילדיה לעזור בסיקול האדמה וניקויה להכשירה לחרישה.
+
+ אך המאמץ היה למעלה מכוחם של המתנחלים והמחסור והחובות סיכנו את קיומה של המושבה. אז יצאו ר'<persName> דוד שוב</persName> והוא באלול תרמ"ג לאירופה לבקש עזרה לביסוס המושבה. בהגיעם בדרכם מצרימה להפליג משם לאירופה נכלאו בהסגר בגלל מגפת החולירע, ובינתים הגיע לראש פנה ר' <persName>אליהו שייד</persName> , שליחו של<persName> הבארון רוטשילד</persName> וקיבל את המושבה לחסות הנדיב וחילץ את המתישבים ממצוקתם, ובכסלו תרמ"ד חזרו שני השליחים ממצרים.
+
+ מאז המשיך הוא ובניו לעבוד ולהתמסר לשכלול משקו והמושבה בכלל. בגיל קשיש יותר היה רוכב בכל ערב ראש-השנה למירון, עמוס צרכי מזון לו ולתלמידי-חכמים עניים למשך עונת החגים, והיה יושב שם בישיבת ר' שמעון בן יוחאי כל חודש תשרי ועוסק בתורה בנגלה ובנסתר ועבר לפני התיבה בביתהמדרש שם. לעליה-לרגל זו היה לובש בגדי-עבודה נקיים חגורים בחבל. וכששאלוהו הילדים, לבוש זה על שום מה, היה עונה להם: - אכר אני, ובלבוש אכר עלי להופיע לפני בוראי, הבה יראה מה צריך לתת לנו: גשם ושמש בעתם, בריאות ומאה שערים ביבול האדמה.
+
+ נפטר בראש-פנה, ט' אלול תרע"ו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 205 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/205</bibl><bibl>Volume: #1 ,Page: 206 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/206</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

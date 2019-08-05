@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 833 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/833</bibl><bibl>Volume: #2 ,Page: 834 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/834</bibl>
+<bibl>Volume: #2 ,Page: 835 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/835</bibl>
+<bibl>Volume: #2 ,Page: 836 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/836</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי יעקבזון</persName>
+
+</head>
+         <div><p> נולד בזאגר, פלך קובנה, בשנת תרי"ג (1853), לאביו ר' <persName>שרגא פייבל</persName> (גדול בתורה ובמעשים טובים, מגדולי הסוחרים במוסקבה, ובשנותיו האחרונות בירושלים) ולאמו <persName>ליבה</persName> בת ר' יוסף. קיבל חינוך תורני
+
+ והשתלם בהשכלה כללית לצרכי חיי המעשה.
+
+ נשא לאשה את <persName>אסנת</persName> (אסנע) בת הרב אליעזר קצנלבויגן, מיאנישעק (בן אחותה הוא הרב אליעזר סילבר מסינסינטי, ראש אגודת הרבנים בארה"ב וקנדה ומראשי אגודת ישראל).
+
+ השתתף בניהול עסקי המסחר הגדולים של אביו, וכמוהו שמר גם הוא בנאמנות את חובתו לקבוע עתים לתורה, לעשות צדקה ולתמוך במפעלי תורה וחסד ובישוב ארץ-ישראל.
+
+ כשביקרו הוריו בארץ בתר"ן ואביו קנה נחלה במושבה רחובות שנוסדה אז, עלה הוא ארצה אח"כ
+
+
+ בתרנ"א לנהל את הנחלה ולהשתתף בחייו ובעבודתו ביסוד המושבה ובפיתוחה. התישב ברחובות בראשיתה, נטע כרמים בשטחים נרחבים, נשא את חלקו בכל התלאות של חיי בראשית בהחיאת שממות הארץ. שקד על בנין המושבה ופיתוח השרותים והחיים הצבוריים בה. השתתף כמה פעמים בועד המושבה ובועד בית הספר, ותוך עבודתו הקשה וטרדותיו הרבות שמר בדייקנות על הזמנים שקבע ללמוד בש"ס ופוסקים והיה פעיל בחיים הדתיים של המושבה (בית-כנסת, תלמוד תורה וכו'). התנהג בענוה, היה מוכן לעזרת הזולת וידו היתה פתוחה לגמילת חסדים ולמתן צדקה בסתר.
+
+ נפטר ברחובות, כ"ו אייר תרפ"ט.
+
+ בניו: ד"ר <persName>דוד </persName> ז"ל (היה רופא בפאריס, עסקן ציוני פעיל וידידם של <persName>מכס נורדוי ואלכסנדר מרמורק)</persName> , <persName>זלמן</persName> (ת"א), <persName>אליעזר</persName> ז"ל (רחובות), <persName>מאיר</persName> (פאריס).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 833 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/833</bibl><bibl>Volume: #2 ,Page: 834 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/834</bibl>
+<bibl>Volume: #2 ,Page: 835 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/835</bibl>
+<bibl>Volume: #2 ,Page: 836 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/836</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

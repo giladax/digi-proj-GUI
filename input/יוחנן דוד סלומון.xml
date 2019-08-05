@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 240 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/240</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוחנן דוד סלומון</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרי"ז (1857), לאביו ר' <persName>יואל משה סלומון</persName> , העסקן המעולה בצבור הירושלמי,
+
+ מעורכי "הלבנון" ועורך "יהודה וירושלים"' ממיסדי נחלת שבעה ופתח-תקוה (נכד ר' <persName>זלמן צורף</persName> גואל ה"חורבה" ובן ר' <persName>מרדכי</persName> , חלוץ החקלאות והתעשיה בארץ, מבוני בית-הכנסת "החורבה", מראשוני הישוב האשכנזי בירושלים), ולאמו<persName> פרומה</persName> בת ר' <persName>אברהם</persName> <persName>רוטנברג</persName> .
+
+ למד ב"חדר" ובישיבת "עץ חיים", הצטיין בלימודיו והמשיך בו בישיבה גם אחרי נשואיו עד גיל עשרים וחמש שנה. אז, בהיות אביו עסוק כל הימים בצרכי צבור, נטל הוא על עצמו לנהל את ביתהדפוס של אביו. משיצא אביו להתישב בפתח-תקוה ואח''כ בכפר יהודיה נבחר למלא את מקום אביי בהנהגת מוסדות הצבור שבירושלים: הועד הכללי לכנסת ישראל, בית החולים "ביקור חולים", ועד חברת "למען ציון" ועוד, ובאביו כך גם הוא שרת את הצבור בלי לקבל כל שכר. בענינים שהיו כרוכים באחריות יתרה ודרשו ישוב-דעת מרובה, היה
+
+ מתיעץ עם אביו במכתבים או נוסע אליו אל הכפר, ולפעמים היה אביו בא ירושלימה להתיעצות. כפי שהבטיח לרבי <persName>שמואל סלנט</persName> לפני צאתו אל הכפר שיעשה כך בכל שעת צורך.
+
+ ר' יוחנן דוד היה בעל גוף חלש עוד מילדותו, ובהיותו כבן חמישים שנה חלה במחלת הקצרת ובכל חורף היה מוכרח לרדת אל השפלה. בתרע"ג, זמן מועט אחרי פטירת אביו, יעצוהו הרופאים לבלות את החורף בקאהיר. בהגיעו שמה תקפה עליו מחלתו וביום המחרת נפטר בקאהיר, ט"ז טבת תרע"ג, ובהשתדלות משפחתו הובא ארונו הביתה ונקבר ליד אביו במעלה הר הזיתים.
+
+ הניח אחריו בנים ובנות הולכים בדרכיו. בניו חקלאים בפתח-תקוה, מורים ומדפיסים בירושלים. וחתניו - האחד בן-ישיבה מצוין לשעבר וכעת בהנהלת בית מסחר הרפואית "סלומון, לוין ואלשטיין", בירושלים, השני מוסמך לרבנות וכעת מנהל בית-ספר בניו-יורק והשלישי רוקח.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 240 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/240</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

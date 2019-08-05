@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 750 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/750</bibl><bibl>Volume: #2 ,Page: 751 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/751</bibl>
+<bibl>Volume: #2 ,Page: 752 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/752</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישעיהו קרניאל ("עזמות")</persName>
+
+</head>
+         <div><p> נולד בברלאד, רומניה, בשנת תרמ"א (18.5.1881), לאביו <persName>מרדכי,</persName> מפעילי התנועה למען ישוב ארץ-ישראל, יחד עם <persName>אלעזר רוקח ודוד שוב</persName> , שעלה ארצה עם משפחתו בתרמ"ב בחבורה של 20 משפחות שנועדו להתישב בראש פנה, ובגלל סיבות שונות עברו הוריו להתנחל בזכרון יעקב.
+
+ למד בבית-ספר של המושבה מפי מוריו ומחנכיו ר' <persName>זאב יעבץ</persName> , ר'<persName> יצחק הורביץ </persName> ור'<persName> חיים ציפרין</persName> ז"ל ויבל"ח ר'<persName> יהודה גור</persName> (גרזובסקי) ורכש ידיעות רבות בתנ"ך בתלמוד ובדברי ימי ישראל. למד בעצמו את השפות ערבית, צרפתית, אנגלית וגרמנית. השתלם בהשכלה כללית בבירות ואח"כ בפאריס. חזר ארצה ונתמנה למורה בבית-הספר בזכרון יעקב.
+
+ בתרס"ג נשא לאשה את <persName>יהודית </persName> בת<persName> מרדכי לובמן</persName> מראשון לציון, שהיה מפקח על בתי-הספר של הבארון <persName>רוטשילד</persName> במושבות יהודה. את מסע-הכלולות ערך הזוג אל הקונגרס הציוני הששי בבאזל ושם נפגש עם <persName>הרצל</persName> .
+
+ בתרס"ו עבר מההוראה לעבוד כפקיד בבנק אפ"ק
+
+ בירושלים. השתתף עם <persName>יהושע ברזילי, איתמר בן-אבי</persName> ואחרים בפעולות ליסוד בית העם. תרגם חלקים מכתבי שלום עליכם מאידית לעברית ותרגומיו פורסמו ב"האור" של בן-יהודה. (עוד בהיותו בן 17 כבר החל לפרסם כתבות מזכרון יעקב ב"הצבי" וב"האור"). מירושלים הועבר לשרות בבנק בחיפה, בהנהלת <persName>נתן קייזרמן,</persName> עלה לדרגת סגן מנהל ואח"כ היה מנהל הסניף בצפת בשנות מלחמת-העולם הראשונה.
+
+ אחרי סיום המלחמה עבר לעבוד במרכז "הדסה" בירושלים כמנהל חשבונות, מפקח על המשק וחבר ההנהלה. משנוסד "דאר היום" בעריכת איתמר בן-אבי נתקבל לחבר עובדיו הקבועים, ובמשך 14 שנה, מראשית 1920 ואילך, היה מפרסם בו בכל שבוע בגליון יום ו' פיליטון סאטירי-הומוריסטי בשם "מבעד למסוה - שעורי הסתכלות" ובחתימת "עזמות". פיליטונים אלה, שבהם היה מגיב על מאורעות השבוע בסאטירה נוקבת, נתחבבו על המוני הקוראים. ערך והוציא גם את העתונים ההיתוליים "חמר-גמל" (הראשון מסוג זה בארץ), "הדרבן" (במשך 10 שנים רצופות) ו"התותח". כן הוציא יחד עם עוה"ד <persName>בנציון בן-אהרן </persName> את השבועון הפוליטי "במערכה".
+
+ היה פעיל בבני ברית ובבניה החפשית נשיא בני ברית בצפת, ממיסדי הלשכה "ירושלים" ב-1925 (יחד עם הד"ר ר. <persName>אופלטקה </persName> וכמה נוצרים), ממיסדי הלשכה העברית הראשונה "הר ציון" ב-1927 ונשיאה ב-1929, ממיסדי לשכת "הכרמל" בחיפה, ממיסדי הלשכה הגדולה של בני ברית ומזכירה במשך שנתים. חיבר את "סדר העבודה" בעברית, תרגם את ספר המדריך של אוהלמן ופרסם מאמרים ב"הבונה החפשי".
+
+ ב-1937 עבר לחיפה וכאן השתתף ביסוד העתונים "הכרמל" ו"הר הכרמל", ובמשך שנתים היה מורה לשפה עברית ולהיסטוריה. שיחות-החולין הפיליטוניות
+
+ שלו נתחבבו על המאזינים והרצאותיו ב"מכבי", ב"ויצו", במועדון הציונים הכלליים ובעיקר ב"אהל שם" שבחיפה, משכו קהל רב.
+
+ בשבת כ"ו כסלו תש"ג (5.12.42) עמד להרצות על אליעזר בן-יהודה באולם "אהל שם" בחיפה, ובהז
+
+
+ כירו את סיסמת בן-יהודה : "דבר עברית - והבראת !" נפל לפתע ולא קם עוד.
+
+ הובא לקבורה בזכרון יעקב.
+
+ צאצאיו: <persName>עליזה</persName> (אחות רחמניה) אשת אריה מירקין (חבר אולפן הרדיו, ירושלים); <persName>תקוה</persName> (חיילת משוחררת); <persName>חגי</persName> (בפקידות היקב בראשון לציון); <persName>מרדכי </persName> (פקיד בברקליס בנק, חיפה); <persName>יפרח</persName> (בפקידות הדאר, חיפה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 750 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/750</bibl><bibl>Volume: #2 ,Page: 751 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/751</bibl>
+<bibl>Volume: #2 ,Page: 752 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/752</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

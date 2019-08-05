@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2243 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2243</bibl><bibl>Volume: #5 ,Page: 2244 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2244</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יהודה לייב שווארץ</persName>
+
+</head>
+         <div><p> נולד בי' תשרי תרמ"ה (1884) בבאלטה שבאוקראינה לאביו<persName> ברוך</persName> (סופר ומורה עברי ועסקן ציוני; ראה
+
+ עליו בכרך זה) ולאמו <persName>איטה</persName> בת<persName> משה וולף מילגרום</persName> . למד בחדר ובבית-הספר העממי של אביו ואח"כ בביה"ס המקצועי היהודי "טרוד" באודיסה. עסק בהוראה ובפעילות
+
+
+ ציונית, מראשי תנועת "הבילויים החדשים" ובועידתה באביב 1907 בייליסאבטגראד נאסר על-ידי השלטון הרוסי וישב חודש ימים בכלא.
+
+ ב-1907 עלה ארצה והיה כאן פועל ומורה, ואח"כ נכנס ללמוד רפואה באוניברסיטה האמריקאית בבירות. בראשית מלחמת-העולם א' גורש כנתין אויב (רוסי), יצא לאמריקה, גמר את לימודיו באוניברסיטה בניו-יורק והוסמך ב-1916 לד"ר לרפואה.
+
+ ב-1917 נשא לאשה את<persName> מלכה (מאניה) ווסליובסקי</persName> . עסק כל ימיו בפעילות ציונית, היה ראש שתי אגו
+
+ דות ציוניות בברונכס שבניו-יורק, ממיסדי "קהלית ציון", מראשי אגודת הרופאים דוברי עברית, מראשי הירחון "הרופא העברי" ומהכותבים בו (כתב גם בעתונות האידית באמריקה), גזבר האגודה המיצגת באמריקה את ההסתדרות הרפואית שבארץ-ישראל, מראשי אגודת "בניציון" וכו'. עזר באמריקה לסופרים, לחכמים ולכל הבאים שמה מהארץ בעניני הישוב, הפיץ אגרות-חוב של ממשלת ישראל בסך 20.000 דולר. ביקר כמה פעמים בארץ. בפעם האחרונה בתשי"א, כציר האגודה המיצגת את ההסתדרות הרפואית הישראלית, לרגל ההכנות לכינוס הקונגרס העברי העולמי באב תשי"א בירושלים.
+
+ נפטר בניו-יורק, ו' סיון תשי"א.
+
+ בתו:<persName> סילביה קרייצבר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2243 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2243</bibl><bibl>Volume: #5 ,Page: 2244 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2244</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4766 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4766</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק פלר (סגל)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סאנוק</placeName> (גלציה), ט"ו שבט תרל"ז (1877).
+
+ לאביו הרב <persName>שמשון יחיאל פלר</persName> (רב"ד דינוב, ומוהר"ר סאנוק. מצאצאי הבש"ט).
+
+ קיבל חינוך מסורתי בחדר ובישיבה. קיבל סמיכות ולא השתמש בתואר זה ולא כיהן ברבנות.
+
+ לאחר מלחמת העולם הראשונה, נסע מאמריקה לאירופה (פולניה וגרמניה) לרגל עסקיו. מצא זמן להקדיש לפעולות ציוניות בקרב היהדות החרדית.
+
+ בעירו נאסר כנאשם בקומוניזם, בשעה שנסע בשבת נאום תעמולה לציוניות, לאחר ש"חסידים" הלשינו עליו.
+
+ היה סוחר ותעשין בארצות הברית.
+
+ היה מזכיר כבוד של הסתדרות "המזרחי" באיזור ניו-יורק.
+
+ מעסקני היהדות החרדית שבפרבר מנהאטאן שבניו-יורק.
+
+ נשא לאשה את <persName>רבקה </persName> לבית<persName> דומיניץ.</persName>
+
+ השתתף ברוב ועידות "המזרחי" באמריקה.
+
+ פרסם מאמרים בעתונות ובחוברות באידיש בניו-יורק על נושאים ציוניים.
+
+ ביקר בא"י בשנות תרפ"ו (1296) ותרפ"ט (1929) במטרה לרכוש אדמות בה.
+
+ בשנת תרצ"ב (1932) עלה עם משפחתו בתור בעל הון עם שנים מ-11 ילדיו, והתישב בירושלים.
+
+ רכש מערבים בתמיכת בגיו, ובפרט מבתו לאה <persName>כץ</persName> ובהשתתפות אחיו ר'<persName> יהודה פלר</persName> (אביו של <persName>אברהם פלר</persName> , היועץ המשפטי במועצת האומות המאוחדות לשעבר) שטח של 1050 דונם קרקע מאדמות הכפרים (הגובלים) "בית נקובא" ו"סובא" שבדרך ירושלים - תל-אביב (בקילומטר ה-12-10 מירושלים), והידוע בשם "נחלת יצחק", על מנת להקים פרבר בסביבות ירושלים, עבור המעמד הבינוני. הבית על המקום שימש בזמנו למועדון בית"ר ואח"כ לתחנה עבור "משטרת הישובים היהודים" שבאיזור "קרית עבנים" - ארזה. שטח
+
+ זה הוקדש לפיתוח (נטיעות, מחצבות, בנין הפרבר וכ"ו).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4766 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4766</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

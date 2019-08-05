@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2886 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2886</bibl><bibl>Volume: #7 ,Page: 2887 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2887</bibl>
+<bibl>Volume: #7 ,Page: 2888 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2888</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה (מאוריצי) רוזנגרט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וורשה</placeName> (פולין) בשנת תרמ"ז (29.8.1887). לאביו <persName>אליעזר</persName> (לייזר). ולאמו<persName> חנה</persName> בת<persName> הרש קובלדו.</persName>
+
+ קבל חנוך מסורתי ובבי"ס למסחר ב<placeName>וורשה</placeName>.
+
+ היה פעיל בארגוני הספורט.
+
+ בשנת 1905 עבר לברלין ועבד בפירמה (זיגמונד דלהיים) שעסקה בעורות, צמר וכו'.
+
+ עבד כמה שנים עבור הפירמה שלו בקופנהגן (דננמרק), בצרפת וכו'.
+
+ בשנת 1907 נסע ליוהנסבורג (אפריקה) בתור סוכן מומחה להנ"ל ואחרי שקיבל שם נתינות בריטית וביסס את מצבו החומרי, חזר לוורשה בשנת 1913.
+
+ בפרוץ מלחמת העולם הראשונה (1914) הקים ב<placeName>וורשה</placeName> בית חרשת לתעשית כדונים לצבא.
+
+ ב-1918 עבר לברלין ועסק שם בסוכנות במכונות לתעשיה ולשם זה עבר את כל אירופה.
+
+ בשנת 1927 ביקר בארץ, מצא שהדיג נמצא רק בידי הערבים, ולפי עצתו של מר <persName>תשבי</persName> מהסוכנות היהודית, החליט לפתח בארץ דיג על ידי דייגים עברים באניות מיוחדות וכו' וחזר לחו"ל.
+
+ בהולנד הזמין כ-5000 לירות סטרלינג אניה מיוחדת לדיג שיכולה להמצא בים בימי סערות. רכש רשתות ובכל הדרוש והעביר אותה לת"א ועליה דייגים מומחים מדניה והולנד.
+
+ סוחרי הדגים-הערבים והיהודים, שהביאו על פי רוב דגים ממצרים ומתורכיה, אימו על מוכרי הדגים הקטנים שיחרימו אותם אם יעיזו לקנות דגים מהמתחרה הגדול...
+
+ לשם מכירת הדגים פתח שתי חנויות מיוחדות בתל-אביב ואחת בירושלים והצליח לספק דגים טריים לצבור במחירים נוחים.
+
+ החזיר ששה מומחים זרים לארצם ובמקומם באו ששה עובדים יהודים שלמדו את המקצוע, והיה אז החלוץ בדיוג באופן מודרני.
+
+ רכש עוד שתי סירות דיג גדולות, אחת העביר לאילת (שם גם הקים ביח"ר קטן לקרח, לשם שמירת הדגים והעברתם לתל-אביב) והשניה בתל-אביב יפו.
+
+ כשפרצו המאורעות (1929) הצליח לחזור מאילת דרך עמן (עבר הירדן) בעזרת שותפו (באילת) הערבינוצרי <persName>שיבלי וואסף בישארא</persName> .
+
+ זכה גם לשביתות ולהפרעות בעבודה. עבר למצרים והפך את תאניה להובלת סחורות.
+
+ בשנת 1936 עבד באל-עריש בדייג. בשובו ב-1938 בנה בת"א (הירקון) ע"י <persName>זלמן כהן </persName> אניה מ-50 טון לשם העברת דגים מהים האדום לסואץ ומשם לקהיר ולתל-אביב.
+
+ בפרוץ המלחמה העולמית השניה הוחרמה האניה ע''י הצי-הבריטי וקנה 2 ספינות מפרשים ועסק בהובלת מצרכי מזון לארץ. אחרי שצוללת הטביעה את האניות חדל לעסוק בדייג, וקנה 100 דונם פרדס בגן-אפרים, ואח"כ בראשון-לציון.
+
+ בשנות 1929-34 ניהל משא ומתן עם ממשלת המנדט לקבלת קונצסיה לדיג בעקבה. והסכימו לתת לו 100 דונם על מנת שיבנה נמל דיג, שדה תעופה לאוירוניתובלה לדגים ומחסנים, וכן הסכימה הממשלה אז, שכל הדיג של עקבה יעמוד לרשותו. תחנת המשטרה שהוקמה באום-רשרש (היום - "אילת") הוקמה אז במיוחד להגנת מפעלו. נתנה לו רשות לקנות אוירונים פרטיים לתובלה.
+
+ הממשלה הבריטית, מסרה לו תכנית סודית של מחקר על מים מתוקים בערבה, טיב המים ועומקם, התכנית נמסרה על ידו בקום המדינה - לממשלת ישראל.
+
+<persName>גימס הורנל</persName> היועץ ומנהל המחלקה לדייג וכו' בממשלת א"י מזכיר את פעולותיו של רוזנגרט בדייג, בספרו Report on the Fisheries of Palestine (21.11,34) בעמודים : 44, 54, 55 ו-59.
+
+ כיום, פעיל הוא בועד להחיאת הר-כנען (צופיה) בצפת.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2886 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2886</bibl><bibl>Volume: #7 ,Page: 2887 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2887</bibl>
+<bibl>Volume: #7 ,Page: 2888 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2888</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

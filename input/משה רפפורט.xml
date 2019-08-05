@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1602 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1602</bibl><bibl>Volume: #4 ,Page: 1603 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1603</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה רפפורט</persName>
+
+</head>
+         <div><p> נולד בצ'נסטוחוב, פולין, י' טבת תרס"ג (9.1.1903), לאביו <persName>מרדכי </persName> (מוסיקאי, שומר מסורת) ולאמו <persName>מרים</persName> לבית<persName> טאובה</persName> מלודז (ממשפחת <persName>מיכאל טאובה וסטא</persName> <persName>ניסלאב טאובה</persName> , תלמידו של הכנר <persName>יואכים)</persName> .
+
+ למד בבית-ספר עברי, אח"כ בגימנסהי פולנית
+
+
+ ומשנתו ה-14 ואילך למד באקדמיה הממלכתית למוסיקה בוינה צ לואצל הפרופ' <persName>פאול גרימר</persName> וקומפוזיציה אצל הפרופ' <persName>יוסזף מארקס</persName> והשתלם גם בלימודים כלליים.
+
+ בשנות 1924/32 פעל בקאטוביץ כסוליסט ראשון לצ'לו באופרה, מורה לצ'לו בקונסרבטוריון וחבר ברביעית - מיתרים של שרות הרדיו. חיבר רביעית מיתרים בסי במול מז'ור ב-4 חלקים ב-1929 ועוד יצירות שנוגנו ברדיו ובקונגרסים וזכו להצלחה.
+
+ ב-1925 נשא לאשה את <persName>רות</persName> בת ר' <persName>צבי זומפר</persName> מצ'נסטוחוב.
+
+ ב-1933 עלה לארץ והשתתף כצ'ליסט בתזמורת הסימפונית שהתארגנה בתל-אביב ב-1934 בניצוחם של <persName>אוסקר פריד</persName> (שמות ברוסיה), <persName>מיכאל טאובה</persName> ;
+
+<persName>יעקבזון ופרידלנדר.</persName>
+
+ ב-1935 עבר לירושלים והיה מורה לצ'לו במכון למוסיקה של<persName> זדרי.</persName> שם חיבר מוסיקה לדרמה "בת יפתח" של המשורר<persName> יצחק כצנלסון </persName> שהוצגה על-ידי הנוער, ל"הבן האובר" (האנוסים) מאת <persName>תמר דול</persName> <persName>ז'נסקי </persName> ולאידיליה "שמחה לאו דוקא" מאת <persName>טשר</persName> <persName>ניחובסקי</persName> , שהוצגה בבימוי<persName> משה ברוזנפט-גורלי.</persName> יצירותיו נוגנו ברדיו ירושלים ומזמן לזמן נוגנו בנשפים בבית ידידיו (בעיקר בבית הד"ר<persName> היימן,</persName> ובסיועו של הפרופ' <persName>נ. ה. טור-סיני טורטשינר</persName> לשעבר) ובקונצרטים פומביים.
+
+ ב-1940 עבר לקיבוץ רמת הכובש. אח"כ עבד זמן-מה בגבעת ברנר והיה חבר רביעית-המיתרים של הקיבוץ. בשנים האחרונות פועל הוא שוב בתלאביב כצ'ליסט ראשי באופרה העממית ואח"כ באופרה הישראלית בהנהלת <persName>מ. גולינקין </persName> והנו מורה לצ'לו בקונסרבטוריון העממי מטעם המרכז לתרבות של הסתדרות העובדים. ספג את רוח המוסיקה העברית ופעל למען פיתוחה.
+
+ בארץ חיבר מנגינות לכ-40 שירים אמנותיים ועממיים מיצירות <persName>ביאליק, טשרניחובסקי, י. פיכמן,</persName> <persName>ש. שלום, א. ברוידס, ח. הנגבי, ק. י. סילמן, שרה</persName>
+
+<persName>לוי, אברהם לוינסון, י. הפטמן, מ. שירצ'יק-וולמן</persName> ועוד. ביחוד נתפרסמה ואף הוקלטה מנגינתו ותיזמורו לשיר "ירושלים" של <persName>אביגדור המאירי </persName> שהקדיש <persName>למנחם אוסישקין, </persName> החובב הגדול של ירושלים, יצירתו "הרפסודיה העברית" הובאה לביצוע בביתן הארצישראלית שבתערוכה העולמית בניו-יורק ב-1938 על-ידי החברה "מאילם" למען מוסיקה עברית באמריקה. המשתפת פעולה עם האוניברסיטה העברית ועם הקונסרבטוריון הירושלמי. מנגינותיו לשני השירים של <persName>ש. שלום</persName> , "אדם כי ימות בעמק יזרעאל" ו"העמק הוא חלום", זכו בפרס בהתחרות מטעם חברת "מאילם". ב-1934 חיבר, בהמרצת הצ'ליסט הנודע הרי-סון אינסטרמנטציה לתזמורת כלי מיתר לקונצרט קלאסי של הקומפוזיטור האיטלקי <persName>ליאונרדו ליאו</persName> מראשית המאה ה-18. כן נודעת יצירותיו "אלגיה" לכלי-מיתר ומנגינתו לשיר "חלמתי" את שירת הזמיר" של<persName> טשרני</persName> <persName>חובסקי </persName> (הוקדשו לפרופ' <persName>טור-סיני </persName> ולרעיתו <persName>מלכה</persName> שחובר לה תיזמור בקונצרט פומבי בת"א.
+
+ בהתחלת אוגוסט 1949 סיים את הפרטיטורה בשביל תזמורת גדולה לקונצרט - צ'לו בשלשה חלקים בלב-מינור.
+
+ בתו:<persName> נעמי </persName> אשת <persName>שמואל קלצקין </persName> (שניהם שרתו בחיל האויר הישראלי). 
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בבית החולים בילינסון בכ"ה חשון תשכ"ט (16.11.68) (ראה כרך רביעי, עמוד 1602)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1602 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1602</bibl><bibl>Volume: #4 ,Page: 1603 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1603</bibl>
+            <bibl>Volume: #18 ,Page: 5491 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5491</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

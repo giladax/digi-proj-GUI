@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/122</bibl><bibl>Volume: #1 ,Page: 123 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/123</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף מנחם אשבל</persName>
+
+</head>
+         <div><p> נולד בליובאוויץ', רוסיה הלבנה, כ"ז אלול תרי"ז (1857), לאביו ר'<persName> משה </persName> הלוי, שהיה דור רביעי לר' <persName>ישכר בר</persName> , מגיד ומורה-הוראה בליובאוויץ' בימי רבי <persName>שניאור זלמן</persName> בעל -"תניא" ומחותנו של ר' <persName>מנדל</persName> <persName>מוויטבסק</persName> , אבי העליה החסידית, והוא שבחר לו את שם-המשפחה <persName>אשבל</persName> מתוך החומש (בראשית מ"א כ"ו,
+
+
+ בן בנימין) בעת שגזרה המלכות על היהודים לבחור שמות-משפחה.
+
+ למד ב"חדר", בישיבה חסידית חב''דית בעירו ואח"כ בישיבת וולוזין אצל<persName> הנצי"ב </persName> וחתנו ר' <persName>רפאל</persName> והוסמך להוראת איסור והיתר. נשא אשה והחל לעסוק בהרבצת תורה בייקאטרינוסלב בתור מורה לבנו יחידו של רב העיר ומורה-הוראה. אח"כ עבר לאודיסה
+
+ והיה שם מורה למבוגרים בשיעורי תורה.
+
+ אחרי שנפטרה אשתו עלה בשנת תרנ"ד לארץישראל, בה כבר היו לו קרובים מבני אחות אביו (אבי אביו עלה ארצה סמוך לשנת תרכ"ה והתישב בין חסידי חב"ד בחברון ואח'"כ בירושלים). כאן נתקבל לכולל חב"ד והיה מבחירי הלומדים בישיבת "עץ חיים" בירושלים.נשא לאשה את<persName> רוחמה</persName> <persName>רם,</persName> קרובתו של ר'<persName> משה ויטנברג</persName> , שעבדה אצלו כקורספונדנטית לרוסית ומנהלת פנקסיו. כדי להקל את עול הפרנסה פתחה ברחוב יפו חנות לכובעים מודרניים, אבל מחוסר ביקוש מספיק לסחורה זו הוכרחה לחסל במהרה את העסק.
+
+ בהמלצת ר'<persName> יואל משה סלומון</persName> שלח אותו<persName> הרי"מ</persName> <persName>פינס </persName> להיות מורה ראשון בגדרה על חשבון ועד חובבי ציון שביפו ובמשך שנתים היה שם גם מורההוראה. אח"כ היה מורה לילדי חדרה בחורף במושבה, ובקיץ, כשהוצאו מהמושבה בגלל הקדחת, בצריפים שעל חוף הים בחדרה, כאן חלתה כל משפחתו בקדחת ועברה ירושלימה להתרפא ב"ביקור חולים". אז מינה אותו<persName> יהושע ברזילי</persName> , ב"כ ועד חובבי ציון, למורה בראשון לציון, אבל בגלל אדיקותו לא התאים לה, ואח''כ מינהו למורה ב"קסטינה", היא באר-טוביה. מכאן הוכרח לברוח משום שבטעות האשימו הערבים אותו במקום האגרונום בראגין בהריגת ערבי שנהרג בעת התנפלות על המושבה. אח"כ הוזמן להורות בביה"ס של יק"א בפתח-תקוה והתאים יפה לסביבה ה"ירושלמית" שבאם המושבות, אך לגבי מודרניותו של בית-הספר נחשב כ"מפגר" ונדחק ממשרתו זו ונתמנה למורה בביה"ס "נצח ישראל" מיסודו של הד"ר משה
+
+<persName>אוירבאך</persName> . בשנתיים הראשונות למלחמת-העולם הראשונה היה מורה בביה"ס של "עזרה" בת"א ואח"כ גורש עם כל תושבי העיר ובשהותו בחדרה עד סוף המלחמה עסק גם שם בהגדת שיעורים לקהל בתלמוד בתקופת שבתו בפתח-תקוה נטע לו פרדס ובנו<persName> משה</persName> , חקלאי מומחה, עזר לו בפיתוחו. לעת זקנה התפטר מההוראה, התפרנס מהכנסות פרדסו והתמסר כליל ללימוד תורה, תחילה בפתח-תקוה ואח"כ בתל-אביב. הגיד שיעורים בבית-הכנסת ועסק במצוות ובגמילותחסדים.
+
+ בתקופת שרותו כמורה בביה"ס יק"א בפ"ת חיבר שלשה ספרי לימוד: א) ידיעות הטבע (תרגום מרוסית), ב) מקור הלכות (אוסף דיני ישראל לתלמידים), ג) התורה, והחיים, ועוד. הניח אחריו בכתביד פירושים על התלמוד, כתבים שונים וכרכים אחדים של שירים.
+
+ בנו<persName> הד"ר דב אשבל</persName> הוא המטאורולוג של האוניברסיטה העברית, בנו <persName>עמינדב </persName> הוא ממנהלי חברת הכשרת הישוב בירושלים,<persName> משה הוא</persName> מנהל חברת "יכין" בפתח-תקוה, ובנותיו הן:<persName> רבקה</persName> (דוקטור לבקטריאולוגיה, אסיסטנטית של הפרופ'<persName> אדלר</persName> באוניברסיטה העברית) <persName>וצביה</persName> .
+
+ בשנתו הפ"ב, שבועים אחרי חגגו בפעם האחרונה את סיום הש"ס, טייל פעם לתור את תל-אביב החדשה, עבר ליד בית-ספר, הופל על-ידי ילדים משחקים לפניו, נחבל קשה בגופו ונפטר ביום י"ט כסלו תרצ"ט.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/122</bibl><bibl>Volume: #1 ,Page: 123 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/123</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

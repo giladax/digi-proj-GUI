@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2172 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2172</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>איידלה גולדין</persName>
+
+</head>
+         <div><p> נולדה בהומל, רוסיה, בשנת תרמ"ה (1885), לאביה <persName>נתן חנין</persName> ולאמה<persName> שיינה.</persName> קיבלה חינוך מסורתי ותיכוני. בשנת 1902 נישאה <persName>לאברהם גולדין</persName> (ראה ערך מיוחד לו בכרך זה) והיתה עזר כנגדו בניהול מסחר טכסטיל בהיקף רחב, ונוסף לכך ניהלה "עסקים" מיוחדים של
+
+ מעשי חסד ועזרה לכושלים ולנדכאים, הן בנתינה במישרין (בעיקר בצורת מתן בסתר, תוך הבנה לנפש הדל ושמירה על רגש כבודו) והן בעסקנות ובנדבנות למוסדות סעד.
+
+ משעלתה ארצה עם משפחתה בראשית שנת 1924 המשיכה בפעילות המסחרית בעסק בעלה ובפעילות הסוציאלית ביד נדיבה ובהתמסרות נפשית ובהבנה וגם הפעילה אחרים להקמת מוסדות סעד ולהחזקתם, וראשון לשותפיה ולעוזריה היה בעלה.
+
+ הודות לנדיבותה ולפעילותה נוסדו ומתקיימים בת"א בית מנוחה לזקנים גלמודים (נקרא על שמה), מטבחעם ובית האינוואלידים. שקדה כל ימיה על טובת המוסדות הללו, ראתה את עצמה אחראית לקיומם כאחריות אם לקיום ילדיה. אף כשפיגר זרם ההכנסות לא הורגש המחסור במוסדותיה, כי ידעה ושקדה להשיג להם הלואות בשעת דחקם משלה ומשל אחרים (חוץ ממה שנתנה משלה), וכשהיתה בריאותה רופפת לא ניכר הדבר במרצה ובפעילותה לטובת המוסדות והזקוקים לעזרה והמשיכה לפעול ללא ליאות כל עוד נשמה באפה.
+
+ נפטרה בתל-אביב, כ"א טבת תרצ"ט (12.1.39).
+
+ בנותיה: <persName>שושנה</persName> אשת<persName> יוסף קירפיצ'ניקוב, נחמה</persName> אשת <persName>פריץ נתנברג, סימה</persName> אשת <persName>ניסן שפירא, רבקה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2172 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2172</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

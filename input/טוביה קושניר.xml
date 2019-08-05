@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2896 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2896</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>טוביה קושניר</persName>
+
+</head>
+         <div><p> נולד בירושלים, ב' חשון תרפ"ד (12.10.23).
+
+ לאביו <persName>שמעון </persName> (ראה בכרך זה, בעמוד 2799) ולאמו <persName>אסתר</persName> בת<persName> יקותיאל קפלן.</persName>
+
+ למד בבית החינוך בכפר יחזקאל, בבית-הספר המחוזי ביגור, בבי"ס תיכון בירושלים ואח"כ באוניברסיטה העברית (טבע וחקלאות). התמסר לחקר צמחית הארץ, השתתף בעבודות חקר של חבר אנשי האוניברסיטה, גילה צמחים שלא היו ידועים, עסק במחקרים גנטיים על האירים, בר-היורה, עכברי-שדה ועוד: פרסם מאמרים ומחקרים ב"השדה" ובקבצים לחקר בוטאני וביאולוגי בארה"ב ובאנגליה, שכונסו יחד עם מחקרים
+
+ נוספים בספרו "מחקרי טבע ומכתבים", שיצא בשנת תש"ט בהוצאת "עם עובד".
+
+ שקידתו והישגיו הבטיחו עתידות גדולות לו ולמדעי הטבע והחקלאות של המולדת, כפי שכתב עליו רבו הפרופ'<persName> ש. אדלר:</persName> "פרי עמל דור שלם בכל ענפי התרבות בארץ. טבע, חקלאות, מסירות ותורה. יליד
+
+ הראשון אשר בקרוב יתפוס מקום חשוב בעולם המדע".
+
+ בשנה האחרונה לסיום לימודיו באוניברסיטה (1947) נשא לאשה את<persName> אביבה </persName> בת<persName> משה גינצבורג.</persName>
+
+ זמן מועט אחרי כן פרצו קרבות מלחמת הקוממיות, והוא התיצב יחד עם חבריו להגנת המולדת בפלוגת חי"ש בירושלים. נשלח במחלקת הל"ה להחיש עזרה לגוש עציון הנתון במצור, ושם נפלו עד אחד בהרי יהודה ביום ה' שבט תש"ח (16.1.48).
+
+ לזכרו הוציא אביו ספר "טוביה קושניר" (בהוצאת "עם עובד"), בו הובאו תולדותיו, דברי הערכה של מורים, חברים וכו' וכמה מחקרים מפרי עבודתו המדעית.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2896 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2896</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

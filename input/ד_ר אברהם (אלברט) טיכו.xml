@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 956 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/956</bibl><bibl>Volume: #2 ,Page: 957 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/957</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אברהם (אלברט) טיכו</persName>
+
+</head>
+         <div><p> נולד בבוסקוביץ, מוראביה, צ'כוסלובקיה, בראשית תרמ"ד (27.10.1883), לאביו <persName>יצחק צבי</persName> (תלמיד-חכם, סוחר, ממשפחה עתיקה של אנשי תורה ומעשים טובים, מושרשת בעיר ההיא למעלה מ-300 שנה) ולאמו<persName> אסתר</persName> בת <persName>אהרן בער</persName> מהולישאו, מוראביה.
+
+ קיבל חינוך יהודי וכללי. גמר את הגימנסיה בברנו
+
+
+ (לפנים: ברין), בירת מוראביה, ולמד רפואה באוניברסיטת וינה ושם הוסמך לדוקטור לרפואה. התמחה ביחוד בריפוי עינים בבית-החולים הממשלתי בוינה, בהדרכת פרופ' ברגמייסטר ואחרים מגדולי הרפואה בענף זה.
+
+ ב-1912 נשא לאשה את <persName>חנה</persName> בת <persName>פנחס וברטה</persName> <persName>בראון</persName> מברנו, אמנית-ציור נודעת, ובאותה שנה עלו שניהם ארצה. מאז ועד 1918 היה ראש ביתהחולים והמרפאה לחולי עינים של החברה "למען
+
+ ציון" (שמרכזה היה בפראנקפורט ע"מ בגרמניה) בירושלים. הודות למוסד זה קיבלו חולי-העינים היהודים בירושלים טיפול רפואי משובח ושוחררו מההכרח לפנות לעזרת בית-החולים המיסיונרי על שם ס"ט ג'ון. כן ניהל הד"ר טיכו את המלחמה בגרענת (טראכומה) בבתי-הספר ובתלמודי-תורה בירושלים בעזרתה הכספית של "הדסה".
+
+ ב-1917 שרת כמומחה למחלות עינים בצבא הטורקיגרמני-אוסטרי בירושלים וקיבל אותות-כבוד צבאיים.
+
+ מ-1919 עד 1921 היה ראש מחלקת העינים בביתהחולים "הדסה" בירושלים ומ-1919 בעליו ומנהלו של בית-חולים פרטי למחלות עינים בירושלים ולא מעטים באים אליו לריפוי ולניתוחים קשים גם מארצות המזרח הקרוב.
+
+ אהוב מאד על נכבדי הערבים בארץ ובחו"ל. פעל רבות להשקטת הרוחות בחוגי השכנים לפני ובימי המאורעות.
+
+ פרסם מאמרים בעתונות המקצועית לריפוי עינים בארצות חוץ (ביחוד בגרמנית ובאנגלית).
+
+ במשך עשרות שנים אסף מנורות וחנוכיות עתיקות והאוסף שלו ידוע כבעל ערך היסטורי-פולקלורי.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בירושלים כ"ד תשרי תשכ"א (15.10.60)
+
+ (ראה כרך שני, עמוד 956)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 956 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/956</bibl><bibl>Volume: #2 ,Page: 957 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/957</bibl>
+            <bibl>Volume: #11 ,Page: 3882 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3882</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

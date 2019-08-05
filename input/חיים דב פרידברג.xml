@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2267 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2267</bibl><bibl>Volume: #5 ,Page: 2269 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2269</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים דב פרידברג</persName>
+
+</head>
+         <div><p> נולד בכ"ו כסלו תרל"ז (13.12.1876) בקראקוב שבפולין (אז בקיסרות האוסטרית) לאביו <persName>אברהם מאיר</persName> ול
+
+ אמו <persName>שיינדל פסיל</persName> בת <persName>משה צבי פיאסצקי.</persName> למד תורה מפי טובי המלמדים ואח"כ מהרב <persName>יקותיאל זלמן דמביצר </persName> (מחבר הספר "יד יקותיאל"). בעודו נער התחיל להתענין בפרטים ביבליוגרפיים על ספרים עבריים ובקורות חייהם
+
+
+ של אנשי-שם ובגיל 14- 15 כבר החליף מכתבים עם גדולי החוקרים אנשי השם בהיסטוריה ובביבליוגרפיה בארצות שונות ופרסם רשימות ומחקרים על נושאים במקצועות אלה בעיתונות היהודית הכללית והמדעית. בגיל 17 פרסם, את חוברתו הראשונה על תולדות רבי יוסף קארו.
+
+ בתרנ"ז נשא לאשה את <persName>רבקה</persName> בת ר' <persName>משה פנחס</persName> <persName>רייזפלד.</persName>
+
+ בתר"ס יצא לפראנקפורט ענ"מ וניהל את בית-מסחר הספרים של קאופמאן ואח"כ פתח במסחר ספרים עצמאי והניח את היסוד לספריתו הפרטית המפוארת, ומתרע"א ואילך ישב באנטוורפן ועסק בסחר יהלומים. אך כל השנים הרבות עשה את מלאכתו טפל ואת תורתו עיקר ואת רוב מרצו וזמנו הקדיש לעבודתו המדעית בחקירה ובכתיבה והמשיך להחליף מכתבים עם גדולי החוקרים והמלומדים במקצועותיו בעולם.
+
+ בשנות השואה במלחמת העולם ב' נשדדו ונחרבו ספריתו ואוסף מכתביו מגדולי שני דורות ונספו בתו <persName>לאה</persName> עם בעלה ושתי בנותיה ובנו <persName>יהודה ליב </persName> הי"ד, והוא נמלט בקושי בשנת ת"ש לוויטאל שבצרפת עד שבאביב תש"ו הצליח לעלות ארצה וממשיך כאן במסחרו ובעבודתו המדעית.
+
+ פרי עבודתו המדעית מנעוריו עד זקנה ושיבה: מחקרים ב"האשכול", "המגיד", "הצפירה", "הקדם", "העברי" (של גרשון רוזנצוייג באמריקה), "ציון" (של ברודי), "נר המערבי", "ציון" (של זופניק), ב"מונאטסשריפט" להיסטוריה ולחכמת ישראל, מאות מאמרים ב"צייטשריפט" לביבליוגרפיה עברית, כמאה ערכים ב"ג'ואיש אנציקלופדיה" ערכים רבים ב"אוצר ישראל" (של אייזנשטיין), ב"אנציקלופדיה יודאיקה" וב"יודישס ארכיוו". וכן הספרים דלהלן: "רבנו יוסף קארו" (דרוהוביץ', תרנ"ה), רבי אברהם ברוידא (שם, תרנ"ו), לוחות זכרוו לתולדות חכמי קראקוב ורבניה (שם, תרנ"ז), קורות הש"ך (שם, תרנ"ח), תולדות בעל "מגלה עמוקות" וצאצאיו (שם, תרנ"ח), תולדות משפחת שור (פרנקפורט, תרס"א), תולדות משפחת גינצבורג (שם, תרס"ז), תולדות משפחת השל"ח (שם, תרס"ט), ספר היחש למשפחת שטיינברג (שם, תרצ"ב), מצבות בבית הקברות היהודי בקראקוב (ברסלוי, תרס"ח), לתולדות הדפוס העברי בקראקוב (קראקוב, תר"ס), לתולדות הדפוס העברי בלובלין (שם, תרס"ו), "בית עקד ספרים" - לכסיקון ביבליוגרפי עברי לשנות רל"ח - תר''ס בשני כרכים (אנטוורפן, תרפ"ח-תרצ"ב) ובזמן האחרון במהדורה חדשה ומורחבת בארבעה כרכים, תולדות בתי הדפוס העבריים בארבעה חלקים, רשימת כל מפרשי הש"ס, ועוד ועוד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2267 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2267</bibl><bibl>Volume: #5 ,Page: 2269 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2269</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

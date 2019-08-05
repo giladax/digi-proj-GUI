@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 671 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/671</bibl><bibl>Volume: #2 ,Page: 672 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/672</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אליהו קלצין (קלצקי)</persName>
+
+</head>
+         <div><p> נולד בפרוז'אני, פלך גרודנה (רוסיה הלבנה', בשנת תרי"א (1851), לאביו ר' <persName>יהושע השיל</persName> , מצאצאי הגאון רבי <persName>אברהם</persName> אחי הגר"א מוילנה. למד בחדרים ובישיבות והוסמך לרבנות.
+
+
+ נשא לאשה את <persName>מרים</persName> בת ר'<persName> גבריאל</persName> . התישב בשפולה, עסק במסחר תבואות וקבע עתים לתורה.
+
+ בשנת תרנ"ה חיסל את עסקיו, עלה ארצה, התישב בנוה שלום שביפו, בנה לו בית קטן לדירה וחנות בין הראשונים, אשתו ניהלה חנות מכולת לפרנסתם והוא ישב ועסק בתורה ובמעשי צדקה וחסד.
+
+ בשנת תרס"ב, כשבנו<persName> דוד דב</persName> ביקר בארץ והתענין בגאולת קרקעות, הצטרף למסע שערך בנו יחד עם ר' <persName>משה בצלאל טודרוסוביץ</persName> ור' <persName>אברהם ישפה</persName> לעבר הירדן לשם סיור קרקעות ונסיון לגאול אותם.
+
+ בשנת תרס"ה מכר את הבית והחנות ביפו, העביר את דירתו לירושלים<persName> בבתי ברוידא</persName> , בדירה שמסר לו הגביר <persName>מנישביץ </persName> מניו-יורק לכל ימי חייו, הצטרף לכולל הורודנא והתמסר לשקידה בתורה ובעניני צבור ומעשי צדקה וחסד. יסד שיעור לעין יעקב והרצה בו כל ימיו בבית-מדרשו "בית-רחל" אשר בשכונת "כנסת" הישנה, ויחד עם רעיתו <persName>מרים</persName> יסד "גמילות חסד" ו"לינת הצדק" לשכונת כנסת וסביבתה ושניהם טיפלו במסירות בעזרה לעניים ולחולים (והיא המשיכה בפעולה זו גם אחרי מותו. עד שנפטרה ביום כ' סיון תרפ''ד).
+
+ נפטר בירושלים, א' סיון תרע"ו.
+
+ צאצאיו: <persName>יענטל לאה</persName> איזנשטט;<persName> דוד דב; חיה</persName> <persName>גולדה</persName> בורנשטיין; <persName>צבי </persName> (הערשיל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 671 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/671</bibl><bibl>Volume: #2 ,Page: 672 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/672</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

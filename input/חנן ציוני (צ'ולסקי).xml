@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5483 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5483</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חנן ציוני (צ'ולסקי)</persName>
+
+</head>
+         <div><p> (כרך ה', עמוד 2154) הוענקו לו הפרסים הבאים: בשנת 1959: פרס שלישי בחידון שנערך בידע ההסתדרות, מטעם מועצת פועלי תל-אביב-יפו. השופטים בחידון היו <persName>שמואל</persName> <persName>יבנאלי ויעקב זרובבל.</persName>
+
+ בשנת 1966 : פרס ראשון בחידון שנערך בידע ההסתדרות והמדינה, מטעם מרכז לתרבות וחינוך, בהנחיתו של הסוציולוג <persName>שבח וייס.</persName>
+
+ בשנת 1968 פרס רביעי בחידון הפרסים הגדול של "דבר".
+
+ בבחירות להסתדרות ולכנסת בשנת 1965 גוייס כמרצה בחוגי בית מטעם המערך לאחדות פועלי ארץ ישראל במחוז תל-אביב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5483 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5483</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

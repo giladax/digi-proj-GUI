@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5214 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5214</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד''ר פיליפ (יהושע) פפר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>לבוב</placeName> (פולין), כ"ה כסלו תרע"ט (9.12.1919). לאביו <persName>פנחס פפר</persName> ולאמו <persName>מינה </persName> בת <persName>נפתלי הלפרן.</persName>
+
+ קיבל חינוך מסורתי בילדותו ועד שנת 1936 בגימנסיה העברית ב<placeName>לבוב</placeName>, אוניברסיטה בפריז-קלרמונט, פרנט (צרפת). קיבל תוארים: ד"ר למדעים, מהנדס חימאי ומהנדס חשמל.
+
+ היה מנהל כללי של ביח"ר פוישה בצרפת.
+
+ בשנת 1949 נשא לאשה את <persName>מרים</persName> בת <persName>מאיר רוגול.</persName>
+
+ בשנת 1961 עלה לארץ.
+
+ הקים תעשיה כימית גדולה המבוססת על צמחי רפואה, גידול של צמחים שונים בארץ.
+
+ מנהל כללי של בית החרושת "פנטקס" בע"מ (כימיקליים) בנתניה.
+
+ כתב מאמרים על פטנטים בתחום הכימיה של חומרי-טבע.
+
+ היה נשיא לשכת בני ברית "תיאודור הרצל" בתלאביב (1966-67).
+
+ נשיא אגודת רוקחים ישראל-צרפת.
+
+ חבר הועד הפועל של שוחרי האוניברסיטה העברית בירושלים.
+
+ צאצאיו: מאיר, רבקה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5214 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5214</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

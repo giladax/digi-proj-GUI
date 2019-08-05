@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1190 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1190</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה שניאור</persName>
+
+</head>
+         <div><p> נולד בבנדין, פולין, בשנת תרמ"ז (1887), לאביו <persName>אברהם</persName> (מצאצאי <persName>דון אברהם סניור,</persName> רב ראשי בספרד בתקופת הגירוש, ובמשך הדורות נשתנה שם-המשפחה מסניור לשניאור) ולאמו<persName> אסתר</persName> בת<persName> חיים נייברג</persName> . למד בחדרים ובישיבה והיה תלמידו של הגאון רבי <persName>אברהם</persName> מסוכאצ'וב. אח"כ למד בגימנסיה העירונית בפרנקפורט דמיין. עלה ארצה ב-1909 ונתקבל כתלמיד לביה"ס
+
+ למלאכת-אמנות "בצלאל" בירושלים ובשנות 1910-12 כבר היה מנהל מחלקה במוסד ומידידיו הקרובים של פרופ' <persName>בוריס שץ.</persName> ב-1910 השתתף ביסוד המכבי בארץ ישראל והיה חבר מרכז המכבי עד שנת 1920. בעת הפרעות בירושלים באביב 1920, היה אחד מחמשת מפקדי ה"הגנה", יחד עם <persName>זאב ז'בוטינסקי.</persName>
+
+ נשא לאשה את<persName> ברכה </persName> בת <persName>זליג מאירוב,</persName> מראשוני המתישבים בעין גנים.
+
+ ב-1924 עבר לחיפה ועוסק מאז במסחר של מכונות וחמרי בנין ובפעילות ציבורית מקומית. היה יו"ר ועד הדר הכרמל בשנות 1926-32 ו- 1938-40, יוזם ומבצע חגיגיות הביכורים בחיפה בשנות 1932-35. השקיע הרבה יזמה ומרץ למען הקמת בנינים צבוריים בהדר הכרמל: שוק תלפיות, בית-הספר "גאולה",
+
+ בית השוטרים, בית-החולים רוטשילד של הקהלה, ועוד. חבר בועדים צבוריים שונים בעיר ויו"ר מחלקת המסים של קהלת חיפה.
+
+ צאצאיו: <persName>אורה, אביב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1190 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1190</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

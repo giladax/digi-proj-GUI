@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2639 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2639</bibl><bibl>Volume: #6 ,Page: 2640 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2640</bibl>
+<bibl>Volume: #6 ,Page: 2641 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2641</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> זכריה פישמן</persName>
+
+</head>
+         <div><p> נולד בעיירה מרקולשטי (בסרביה-רומניה), כ"ג אדר תרנ''א (1891).
+
+ לאביו ר'<persName> אברהם אלימלך</persName> (סופר סתם), בן הרב <persName>מרדכי הכהן</persName> ממשפחת <persName>מימון</persName> (עלה לא"י בתרע"ד ונפטר בתל-אביב, ט"ז אלול תר"ץ) ולאמו <persName>באבה גולדה</persName> בת <persName>אלתר קוצר</persName> . 
+
+ אחי הרב יהודה ליב הכהן מימון - פישמן (ראה כרך ג', עמוד 1155).
+
+ קבל חנוך מסורתי בחדר, אך כשגדל הושפע מזרם ההשכלה שזרם לבסרביה, והתחיל בהשתלמות עצמית.
+
+ בשנת תרע"ג (1913) עלה לארץ.
+
+ המשיך בלמודיו בבית מדרש למורים בירושלים בהיותו בן כ"ב שנה.
+
+ פרסם מאמרים ופיליטונים בעתון "החרות" בירושלים
+
+
+ בשם "מענין לענין" בחתימה מלאה וגם בחתימת: "כהן ונביא", ו"ז.בן-מלך". באותו הזמן התחיל להשתתף במערכת "מולדת" בעריכתו של<persName> יעקב פיכמן</persName> .
+
+ בתרע"ט (1919) עם גמר מלחמת העולם הראשונה, יצא לארצות הברית לשם השתלמות בבית הספר הגבוה לספרנות בניו-יורק.
+
+ שם נכנס לעבוד בתור חבר למערכות ה"מקלט" (של י.ד.ברקוביץ) ו"העברי" (בעריכתו של מ. ליפסון), שבהם פרסם מאמרים מדעיים, ביבליוגרפיים וגם "אגדות מארץישראל" (בחתימת "ז. מימון"). באותו הזמן פרסם ב"לוח אחיעבר'', כרך ב', מאמר מקצועי חשוב בשם "יסודות בית הספרים" (ראשי פרקים בתורת הספרות).
+
+ בשנת תרפ''א (1921) חזר לארץ ונתקבל כספרן בספריה "שער-ציון" בתל-אביב. אז הגה כבר את הרעיון על דבר חבור: "לכסיקון עברי ביוגרפי - ביבליוגרפי - למן תקופת הגאונים עד הזמן הזה". לצערו נוכח, כי אין להשיג בארץ את כל החומר הדרוש (כל העתונות והספרות העברית), ובחדש תמוז תרפ''א חזר לארצות הברית והחל לעבוד במערכת "הדואר". וכן עבד בספריה הגדולה מיסודו של הפרופ' <persName>שכטר</persName> בניו-יורק. השקיע את עצמו כולו בעבודת הלכסיקון הנ''ל.
+
+ כשנתים וחצי שהה בארצות הברית, ובמשך כל הזמן חיטט בעתונים, עלונים, קונטרסים, ספרים וכ''ו, והוסיף אריח על גבי לבנה. פרסם בעתונות העברית דוגמאות מעבודתו הביאו - ביבליוגרפית על: <persName>ח.נ.ביאליק </persName> ("עין הקורא'', חוברת ב-ג, תרפ''ג);<persName> א. בן אביגדור</persName> ("הדואר", שנה שניה, גליונות. 57-49);<persName> מרדכי בן-הלל הכהן</persName> ("מבקר עד ערב'', תרפ''ה); <persName>מ.י. ברדיצבסקי</persName> ("הישוב'', גליון ו', תרפ''ה):<persName> ראובן בריינין</persName> ("הדאר'', שנה שלישית, גליונות 212-213);<persName> ישעיה ברשדסקי </persName> ("התורן'', שנה תשיעית, חוברת ב') ;<persName> א.נ. גנסין</persName> ("התורן'', שנה עשירית, חוברת ז');<persName> י.ל. גורדון</persName> ("עין הקורא", חוברת ב',ג', תרפ''ג); <persName>ש''י איש הורביץ </persName> ("התורן'', שנה ט', תרפ"ב); <persName>ד"ר תיאודור הרצל</persName> (הוצאה מיוחדת מ"התור", תרפ''ד):<persName> ה.נ. ויזל</persName> ("מענית", תרפ''ו); <persName>מיכה יוסף</persName> <persName>לבנזון </persName> ("הדאר", שנה שניה, גליונות 101-102); <persName>פרץ</persName> <persName>סמולנסקין</persName> ("הדאר", שנה ג', גליונות 215-219); <persName>יעקב</persName> <persName>פיכמן</persName> ("כתובים", גליון ו', תרפ''ז) ;<persName> י.ל. פינסקר</persName> ("הדאר", שנה ב', גליונות 65-69);<persName> י.ל. הכהן פישמן</persName> ("ספר היובל החמשים");<persName> א.ש. פרידברג</persName> ("התורן", שנה ט', חוברת ג') ; <persName>דוד פרישמן</persName> ("הדאר", שנה ב', תרפ"ב); הרב<persName> א.י. הכהן קוק</persName> ("התור", תרפ"ד);<persName> וא.ז.</persName> <persName>רבינוביץ</persName> ("ספר הזכרון, תרפ''ד). הערכים הנ"ל משכו אליהם תשומת לב מרובה, ועפ''י המלצתם של הפרופיסורים -<persName> דוד נייטרק ואלכ</persName> <persName>נדר מארכס,</persName> נתקבל לספריה בסנסינטי (ארצות הברית) "לכל ימי חייו", אך הגעגועים לארץ גברו אצלו, והוא החליט לעזוב את הגולה ולשוב לארץ. כאן המשיך לעבוד בלכסיקון שלו, ופרסם גם בא''י ערכים מהלכסיקון כנ"ל.
+
+ חתם בפסבדונים שונים; <persName>ז. מימון, א. כהן, ז.</persName> <persName>בן-מלך, זפר"ן, פ. הכוזרי, ר. זכי, ז. מולכו, פ. אבר</persName> <persName>מוביץ, ז. פרלמן, בן-נון, ז. פניני, ז. מלך</persName> . שמו המפורש -<persName> ז. פישמן</persName> - שמר רק בשביל עבודת חייו העיקרית - בשביל הלכסיקון.
+
+ בתרפ"ו (1926) נפל למשכב וחלה מחלה ממושכת וקשה, ובי"ב אלול תרפ"ו (22.8.1926) נפטר בתל-אביב ונקבר בבית הקברות הישן.
+
+ ספרו "אגדות ארץ הקדושה" הופיע בשנת תרפ"ז (1927).
+
+ במלאות שנה למותו, בהוצאת "ועדת הלכסיקון של הסופרים והספרות העברית", ירושלים, תרפ"ז יצא קובץ דברי חברים לזכרו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2639 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2639</bibl><bibl>Volume: #6 ,Page: 2640 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2640</bibl>
+<bibl>Volume: #6 ,Page: 2641 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2641</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

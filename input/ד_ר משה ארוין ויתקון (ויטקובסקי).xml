@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4520 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4520</bibl><bibl>Volume: #14 ,Page: 4521 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4521</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר משה ארוין ויתקון (ויטקובסקי)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ברלין</placeName> (גרמניה) ט"ז אלול תרס"ד (27.8.1904).
+
+ לאביו <persName>אדולף אברהם</persName> (ויטקובסקי) ולאמו <persName>לונה</persName> לבית <persName>חייס.</persName>
+
+ קיבל חינוך כללי. תואר Ph.D.קיבל באוניברסיטה ב<placeName>ברלין</placeName>.
+
+ התמחה בהשקעות בניירות ערך ובפעולות הבורסה.
+
+ נשא לאשה את <persName>רות</persName> לבית<persName> קאופמן.</persName>
+
+ עד שנת 1936 היה תעשין ב<placeName>ברלין</placeName>.
+
+ עלה לארץ בשנת 1936.
+
+ בשנות 1938-41 במחלקת המסחר והתעשיה של הסוכנות היהודית בת"א ובחיפה.
+
+
+ בשנות 1942-44 סגן המפקח על התעשיות הקלות בממשלת א"י.
+
+ בשנות 1945-49 מנהל ב"אגודה ארצישראלית" בע"מ.
+
+ בשנות 1949-51 יועץ כלכלי לשגרירות ישראל בוושינגטון.
+
+ מנהל כללי של "בנק אגוד לישראל בע"מ" משנת 1951.
+
+ חבר הועדה המיעצת בעניני הבנקאות.
+
+ גילה ענין רב בהתפתחות הבורסה התל-אביבית. היה זה בין השאר ביזמתו, שבנק אגוד פתח לפני כ-13 שנים מחלקה פעילה לניירות ערך. כחבר מועצת המנהלים של "פיא" גילה המנוח בזמן האחרון פעילות רבה עוד יותר בתחום זה.
+
+ היה מחונן במוח חריף ואנאליתי. עודד מחקר מעמיק בתחום ניירות הערך.
+
+ נפטר בתל-אביב, ג' תמוז תשכי"ב (5.7.1962).
+
+ צאצאיו: <persName>מיכאל, ריעה</persName> אשת <persName>מאיר הרניק</persName> (הרנוי).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4520 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4520</bibl><bibl>Volume: #14 ,Page: 4521 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4521</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

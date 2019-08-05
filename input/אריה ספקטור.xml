@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3503 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3503</bibl><bibl>Volume: #10 ,Page: 3504 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3504</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה ספקטור</persName>
+
+</head>
+         <div><p> נולד ב<placeName>האלה</placeName> (גרמניה) י"ט אלול תרס"ט (5.9.1909). לאביו ר'<persName> חיים שמואל ספקטור</persName> (ממשפחות רבנים והגאון ר' יצחק אלחנן <persName>ספקטור </persName> זצ"ל והרבי מז'ינקוב) משושלת בעלי בתי חרושת לסיגריות ובעלי נכסים בברלין ורבנים באוקראינה. ולאמו <persName>פריידה</persName> בת <persName>שלמה ספקטור</persName> (היו דודנים).
+
+ קבל חנוך מסורתי. ולאחר סיום ביה"ס התיכון המקומי השתלם במשפטים (עורך דין) באוניברסיטת ברלין. היה פעיל בועד הסטודנטים היהודיים.
+
+
+ עלה לארץ בשנת 1933.
+
+ היה פקיד בכיר בסולל-בונה וניהל מחלקות כלכליות. זמן מה שימש כסגן מפקח המחירים במשרד המסחר והתעשיה בזמנו של השר<persName> ד"ר יוסף.</persName>
+
+ הרבה שנים היה פעיל בארגון הבחירות הארציות שליד משרד הפנים.
+
+ היה יו''ר ועדת הבחירות של ההסתדרות העובדים הכללית לכנסת השניה וסגן יו"ר ועדת הבודדות לעירית תל-אביב (1955).
+
+ שימש כיו"ר ועדת הערעורים של "יהב מגן".
+
+ עודנו משמש חבר ועדת הבחירות של בנק הלואה וחסכון בע"מ יפו-תל-אביב.
+
+ מפעילי מפא"י במחוז תל-אביב.
+
+ שימש שנים רבות כגזבר "הפועל" בתל-אביב וכיום חבר מזכירות "הפועל" תל-אביב וסקצית ידידי "הפועל".
+
+ בשנת 1934 נשא לאשה את <persName>דבורה </persName> בת <persName>משה שול</persName> <persName>דינר.</persName>
+
+ מנהל ב"ידיעות אחרונות", עתון יומי בתל-אביב.
+
+ בניו:<persName> חיים שמואל</persName> (בצה"ל),<persName> שמחה </persName> (בוגר בי"ס תיכון בתל-אביב).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3503 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3503</bibl><bibl>Volume: #10 ,Page: 3504 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3504</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

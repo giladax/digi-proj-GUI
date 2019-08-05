@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 327 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/327</bibl><bibl>Volume: #1 ,Page: 328 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/328</bibl>
+<bibl>Volume: #1 ,Page: 329 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/329</bibl>
+<bibl>Volume: #1 ,Page: 330 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/330</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו ויינשטיין</persName>
+
+</head>
+         <div><p> נולד בקאמיניץ דליטא, בשנת תר"כ (1860), לאביו ר'<persName> יעקב צמח</persName> , תלמיד-חכם אמיד, מראשוני חובבי ציון במקומו.
+
+ למד ב"חדר" ובישיבה ובעודו נער הצטיין בלימודיו. בהשפעת החוג "בני יעקב" בעירו מכר אביו את נכסיו ובשנת תרל"ג עלה ארצה עם כל בני ביתו, טולטלו בים וביבשה כחדשים בדרך והשתקעו בירושלים. בתר"מ קבל עם עוד שלשה וחברים
+
+ מאגודת "שבת אחים" בפתח תקוה נחלה שנרכשה ע"י סידני מ. סמואל בשעת בקורו בא"י, והצטרף לראשוני החקלאים מחדשי הישוב, אך בגלל הקדחת שפגעה בבני ביתו הוכרח לחזור לירושלים.
+
+ למד בישיבה בירושלים והצטיין בלימודיו. בן ט"ו השיאוהו אשה ממשפחת<persName> וייספיש</persName> הירושלמית והוא המשיך ללמוד בישיבה. למד את מלאכת הש
+
+
+ חיטה והבדיקה ואחרי שהוסמך נתמנה לשוחט בשביל העדה האשכנזית הקטנה שנוסדה ביפו.
+
+ קשים היו חייו בשנים הראשונות. המשכורת היתה קטנה, מספיקה בקושי למחיה, כי העדה היתה קטנה ודלה. גם חייו היו לא פעם בסכנה לרגל עבודתו. כי העדה לא הספיקה לכלכל אטליז מיוחד, והיה צורך להתקשר עם קצבים ערבים שימסרו בהמות לשחיטה ובדיקה בידי יהודי מוסמך (השוחט) ולמכור בשר ליהודים בהשגחה על הכשרות. (כך היה נהוג גם בשאר ערי הארץ, שהתקיים בהן ישוב יהודי קטן). השחיטה נעשתה בפרדסי הערבים, והקצבים הערבים היו עומדים על ר' אליהו בשעת שחיטה ובדיקה וכשפסק על איזו בהמה שהיא טרפה (הפסד כספי קטן לקצב בעל הבהמה!), היו מאיימים עליו בגרזן להרגו. משום כך רצה לוותר על הפרנסה הבטוחה ולחזור לירושלים, אך בסוף נעתר להפצרותיהם של רבי <persName>נפתלי הרץ הלוי,</persName> רבה של הקהלה, ור' <persName>שמעון</persName> <persName>רוקח </persName> ראש הקהלת, התגבר על פחדו והמשיך בשרותו.
+
+ עם גידול הישוב העברי בעיר עלה גם ר' אליהו בדרגה עד שהגיע לדרגת ראש השוחטים בקהלה הגדולה של תל-אביב ויפו וחינך שוחטים צעירים רבים במלאכת הקודש.
+
+ בששים שנות חייו ביפו הצטיין במדותיו התרומיות, שקד לעשות טוב וחסד והכל הוקירוהו וחיבבוהו. היה ממקורבי הרב רנ"ה <persName>הלוי </persName> ואח"כ היה מבאי ביתו, וזמן-מה אף מזכירו של הגראי"ה קוק בעת כהונתו כרבה של יפו. שקד על לימוד התורה ומתן צדקה בצנעא ומצניע לכת. עזר בעדוד ועצה לפונים אליו. השתתף בבנין שכונת נוה שלום.
+
+ זכה לראות בחייו דור של בנים, נכדים ונינים, שמספרם עלה למאה ויותר. אחד מבניו הוא ר' <persName>נחום ויינשטיין</persName> , המוהל הראשון של קהלת תל-אביב.
+
+ נפטר בתל-אביב, י"ז כסלו ת"ש.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 327 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/327</bibl><bibl>Volume: #1 ,Page: 328 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/328</bibl>
+<bibl>Volume: #1 ,Page: 329 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/329</bibl>
+<bibl>Volume: #1 ,Page: 330 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/330</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

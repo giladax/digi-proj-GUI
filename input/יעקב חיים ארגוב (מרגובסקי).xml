@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1986 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1986</bibl><bibl>Volume: #4 ,Page: 1987 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1987</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב חיים ארגוב (מרגובסקי)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סובלק</placeName> (פולין,) כ"ז בתשרי תרל"ה (1874), לאביו הרב<persName> יוסף דב מרגובסקי </persName> חובב ציון נלהב. סוחר עורות, ממייסדיה הראשונים של תעשיית העורות ברמלה, אח"כ בשותפות עם ר'<persName> משה בצלאל טודרסוביץ</persName> (ראה כרך א', עמוד 412), ראש הישיבה בבית היתומים דיסקין בירושלים), ולאמו <persName>לאה בת</persName> צבי<persName> הכהן. </persName>
+
+ קבל חינוך מסורתי ב"חדר" ובישיבה ב<placeName>סובלק</placeName>. עלה ארצה בסיון תרנ"ב (1892) והוא אז בן 16/1/2. עבד כפועל חקלאי ברחובות ובעקרון. אח"כ נתמנה למנהל ולמפקח באדמיניסטרציה של הבארון.
+
+ יחד עם<persName> אפרים חרל"פ, זלמן גיסין ואפרים קומרוב</persName> ייסד את הסתדרות הפועלים החקלאיים והיה ממנהיגיה.
+
+ השתתף בקניית אדמת "בני יהודה" מעבר לכנרת.
+
+ בשנת תרס"א נשא לאשה את<persName> דינה</persName> בת <persName>אליעזר</persName> <persName>ליפה הרשקוביץ</persName> והשתקע בירושלים.
+
+ היה מעסקני אגודת ארץ ישראל יחד עם ד''ר <persName>אליעזר גרינהוט</persName> (ראה כרך א', עמוד 69)<persName> ומ. אזרחי</persName> <persName>קרישבסקי </persName> (ראה כרך ב', עמוד 775).
+
+ בזמן פולמוס אוגנדה היה ממתנגדי ההצעה והביא לייסוד "אגודת ארץ-אבות" (יחד עם<persName> יחיאל מיכל פינס,</persName> <persName>דוד ילין ויהושע ברזילי - איזנשטט</persName> ). ממיסדי המזרחי בירושלים. העורך האחראי של עתון החרדים "מוריה".
+
+ מטעם "אגודת אחוה" שהיה מראשוני חבריה קנה
+
+
+ (יחד עם <persName>זלמן סולובייציק, אלתר וישניצקי ויעקב</persName> <persName>משיוף)</persName> את אדמת שכונת אחוה בשנת תרס"ו, בנה את השכונה ונבחר ליו"ר שלה עם הווסדה ועד היום הוא משמש בתפקיד גבאי בית-הכנסת "משכן יעקב וישראל" בשכונה.
+
+ בשנים תרע"ב-תרע"ט שהה בארצות הברית בשליחות מוסדות הישוב הישן. שם הקים ועדים מבין אנשים ידועי שם ונדיבים, אשר תמכו והצילו בתרומתם מוסדות רבים בירושלים. (מושב הזקנים והזקנות המאוחד ועוד). כמו כן ייסד שם את "הסתדרות בני ארץ ישראל באמריקה" - סניף ל"אגודת אחוה" בניו יורק. בשנת תרע"ה עבד יחד עם <persName>הרב מאיר</persName> <persName>בר-אילן (ברלין)</persName> בביצור "המזרחי" באמריקה. לאחר שובו כיהן בתפקיד מנהל ועד העיר ירושלים (תר"פ). ממייסדי "בית וגן ויו"ר הועד שלה במשך כמה שנים. ממייסדי "בת-ים" על יד תל-אביב. חבר ועד "אוצר החסד" "קרן שמואל". חבר הועד הראשון של שכונת "קרית שמואל" בירושלים. יו"ר ועד השכונות העבריות בירושלים. חבר ועד התאחדות בתי הכנסת. חבר הנהלת התאחדות בעלי הבתים.
+
+ בעתונות היומית ובפריודות פרסם מאמרים ורשימות.
+
+ פרקי זכרונותיו נתפרסמו ב"הד ירושלים" בעריכת <persName>שלום שווארץ.</persName>
+
+ צאצאיו: <persName>אברהם, יחיאל, לאה</persName> אשת <persName>פרידריך וינ</persName> <persName>רייך, אליעזר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1986 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1986</bibl><bibl>Volume: #4 ,Page: 1987 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1987</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

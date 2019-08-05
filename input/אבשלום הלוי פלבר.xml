@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4087 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4087</bibl><bibl>Volume: #12 ,Page: 4088 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4088</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אבשלום הלוי פלבר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>לונדון</placeName> (אנגליה) בשנת תר"ס (2.3.1900).
+
+ לאביו <persName>משה פלבר</persName> ולאמו<persName> צארטל</persName> בת<persName> יעקב יוסף</persName> <persName>הכהן בנד.</persName>
+
+ קיבל חינוך תיכוני ואוניברסיטאי ב<placeName>לונדון</placeName> וקיבל תואר .B. Mus.)London(
+
+ בשנות 1932-35 מנצח מקהלה בבית כנסת קריקלוויד, לונדון.
+
+ במשך כמה שנים עסק במסחר.
+
+ בשנת 1935 עלה לארץ.
+
+
+ באותה שנה נשא לאשה את <persName>הלן דבורה</persName> בת<persName> דוד</persName> <persName>חיים אהרן</persName> (ביקרה בארץ לראשונה בשנת 1932, כאשר נשאה את הדגל הבריטי במכניה הראשונה).
+
+ בשנות 1935-39 ניהל פנקסים, ניגן בכינור בתזמורת (מנגן גם בפסנתר ובעוגב), היה מורה למוסיקה, מורה לאנגלית. בעיקר התעסק במלאכת תרגום מטעם המוסדות הלאומיים והאוניברסיטה העברית. הכין חומר רב (תרגומים) להגשה לוועידות למיניהן שביקרו בא"י.
+
+ בשנות 1939-48 היה פקיד אדמיניסטרטיבי בממשלת המנדט (במשרד הממונה על רכוש האויב).
+
+ מחבר מוסיקה, וכמה מיצירותיו בוצעו ושודרו ב"קול ישראל".
+
+ עוסק במחקר המוסיקה לטעמי המקרא לפי העדות השונות בארץ למיניהן.
+
+ נושא משרה בלשכה הגדולה למדינת ישראל של הבונים החופשים.
+
+ חבר במועצה של בית הנוער בירושלים, חבר באקו"ם, חבר בהפועל המזרחי.
+
+ היה חבר ההגנה, השתתף כמתנדב במלחמת השחרור ובצה"ל.
+
+ עיבד במחלקת ההסברה של הסוכנות היהודית בתור עתונאי במערכת Israel Digestשל הסוכנות היהודית. כותב מאמרים בשביל שרות המאמרים של הסוכנות היהודית (משנת 1948). מאמריו הופיעו בהרבה שפות לועזיות בחו''ל.
+
+ עבד בתרגום או בהכנה של כמה ספרים לעברית או
+
+ לאנגלית, ביניהם : Studies in the Traditions of the Hebrew Language )Prof. Zeev Ben-Hayim.
+
+ תחביבים נוספים : ברידג' ושחמט.
+
+ צאצאיו:<persName> משה מתתיהו, ורדית צלסטיין, מיכאל</persName> <persName>יהודה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4087 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4087</bibl><bibl>Volume: #12 ,Page: 4088 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4088</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1689 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1689</bibl><bibl>Volume: #4 ,Page: 1690 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1690</bibl>
+<bibl>Volume: #4 ,Page: 1691 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1691</bibl>
+<bibl>Volume: #4 ,Page: 1692 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1692</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד אלמגור (קליינמן)</persName>
+
+</head>
+         <div><p> נולד באונגני, בסראביה, י"ד אדר תר"ס (1900), לאביו <persName>חיים</persName> (סוחר) ולאמו <persName>פרומה</persName> בת <persName>קלמן רוזין.</persName>
+
+ קיבל חינוך מסורתי וכללי ובתרע"ג עלה לארץ עם המשפחה. בפרוץ מלחמת-העולם הראשונה בתרע"'ד גורש עם המשפחה מצרימה כנתיני אויב. המשיך ללמוד בבית-הספר העברי של מגורשי הארץ בקאהיר. אח"כ
+
+
+ עבד שם בבית-מסחר והיה פעיל בארגוני צופים והמכבי בתור מעמל וחבר הועד.
+
+ בתרע"ט חזר ארצה. נתמנה למורה להתעמלות במקוה ישראל והצטרף למכבי תל-אביב, ובעיקר התמסר למשיכת הנוער לשורות המכבי והיה ממיסדי המכבי הצעיר בארץ. פעולתו זו נתרחבה עוד יותר משנתקבל לעבודה בעיר, כמורה להתעמלות בביתהספר התיכוני למסחר ברחוב גאולה ובגימנסיה בלפור
+
+ בתל-אביב. נבחר למפקד המכבי הצעיר בת"א, מפקד הצופים הקשישים, חבר הנהלת התאחדות אגודות הספורט לחובבים בארץ-ישראל, חבר מועצת המכבי בארץ.
+
+ גמר קורס להשתלמות מקצועית בבית-ספר גבוה לתרבות הגוף בדניה.
+
+ היה מפקד משלחות ספורטאים לשני כינוסים בינלאומיים וציר לשלשה קונגרסי-ספורט בינלאומיים. היה חבר נשיאות המכבי, חבר הועד הפועל של מכביה א' וב', יוזם ומפקד תהלוכות האורים של תלמידי בתה"ס בת"א בחגי חנוכה ומיסד צופי-ים בארץ. הפליג פעמים בסירות-מפרש ללבנון ולמצרים וחזרה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1689 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1689</bibl><bibl>Volume: #4 ,Page: 1690 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1690</bibl>
+<bibl>Volume: #4 ,Page: 1691 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1691</bibl>
+<bibl>Volume: #4 ,Page: 1692 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1692</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

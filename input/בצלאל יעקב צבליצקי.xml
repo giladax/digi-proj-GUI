@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4510 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4510</bibl><bibl>Volume: #14 ,Page: 4511 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4511</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בצלאל יעקב צבליצקי</persName>
+
+</head>
+         <div><p> נולד בזגר (ליטא), כ"ז כסלו תרל"ג (סוף 1872) לאביו <persName>מנחם מנדל צבליצקי</persName> ולאמו <persName>דבורה גיטל</persName> בת <persName>שמואל.</persName>
+
+ קיבל חינוך מסורתי. חי בראשית ימיו בעיר בויסק בלטביה.
+
+ היה חובב ציון נלהב.
+
+ ניהל בית מרקחת ובית מסחר לרפואות והיה גם תעשייתן.
+
+ בימי מחלה ומגפות היה מחלק תרופות חינם. 
+
+ היה ממקורביו של רב העיר בבויסק, שהיה אז הרב הגאון <persName>אברהם יצחק הכהן קוק</persName> זצ"ל, רבה הראשי על א"י אח"כ (ראה כרך א', עמוד 66).
+
+
+ עבר למוסקבה ועשה עושר רב.
+
+ נשא לאשה את <persName>רוחמה</persName> בת ר' <persName>יהודה דוד</persName> ובזיווג שני נשא לאשה את<persName> דבורה</persName> בת ר' <persName>דוד הלוי</persName> (לוין).
+
+ ברח מהבולשביקים והשאיר אחריו הון רב. גם תחנת רכבת מיוחדת ביערותיו. התישב בריגה וניהל שם בית חרושת לצבעים שסניפיו הסתעפו בליטא, שוועל ואסטוניה.
+
+ בשנת 1925 ביקר בא"י, קנה קרקעות בתל-אביב, רמת-גן ופרדס בחדרה ובמיוחד בחיפה. עד עליתו לארץ ביקר בה כמה פעמים.
+
+ בשנת 1933 עלה לישיבת קבע בארץ והתישב בתל-אביב.
+
+ יסד וניהל ביח"ר פלאניל לצבעים וביח"ר "צד" ברמת-גן. בנה שכונת בתים בהדר הכרמל.
+
+ השתתף בבנית בית הכנסת הגר"א בת"א והיה הרוח החיה בו. יסד ליד בית הכנסת קופות גמ"ח. הצטיין במיוחד גם בארץ בנתינת צדקה בסתר ותמך במוסדות ויחידים.
+
+ נפטר בתל-אביב, ה' שבט תשכ"ג (30.1.1963) והובא לקבורה בחלקת שומרי שבת בקרית שאול.
+
+ צאצאיו מאשתו הראשונה: <persName>עמנואל</persName> (מנחם מנדל) <persName>צי </persName> (צבליצקי),<persName> יצחק ליב</persName> (ליאו) צבליצקי ז"ל הי"ד, <persName>פייגה</persName> (פאני) אשת <persName>ל. אורקין, דוד צבליצקי, שמואל</persName> צבליצקי.
+
+ מאשתו השניה: <persName>גרשון צבליצקי</persName> , הרב<persName> שריה</persName> <persName>צבליצקי, פנינה</persName> אשת <persName>אבשלום קאופמן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4510 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4510</bibl><bibl>Volume: #14 ,Page: 4511 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4511</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

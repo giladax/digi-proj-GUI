@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5348 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5348</bibl><bibl>Volume: #18 ,Page: 5349 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5349</bibl>
+<bibl>Volume: #18 ,Page: 5350 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5350</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אינג' דב קולמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ריגה</placeName> (לטביה), ו' סיון תרנ"ב (15.5.1892). לאביו <persName>יעקב קולמן </persName> ולאמו <persName>פסיה אסתר </persName> לבית <persName>רו</persName> <persName>בינשטיין.</persName>
+
+ קיבל חינוך מסורתי בחדר, וכללי בבי"ס ריאלי וגמר פוליטכניקום וקיבל תואר של מהנדס אזרחי.
+
+ היה בעל מפעל לייצור תנורים לצבא הרוסי. עבד בג'וינט בשיקום הריסות קהילות שנחרבו במלחמה העולמית הראשונה. הגיש עזרה לנזקקים שפנו אליו.
+
+ היה פעיל ב"החבר", אירגון שיירות, והיה המלווה של שיירות מפליטי קורלנד.
+
+ בשנת 1921 עלה לארץ.
+
+ עבד בהתחלה בייבוש ביצות חולדה.
+
+ בארץ קיבל רשיון לעבוד גם בתור שמאי מוסמך.
+
+ היה חבר הנהלת הצה"ר.
+
+ השתתף בוועידת הצה"ר ב-1935.
+
+ חבר מפקדת "המשמר האזרחי" במלחמת העולם השניה.
+
+ נשא לאשה את <persName>מושה</persName> בת <persName>פיביש כהן.</persName>
+
+
+ השתתפות בתכנון שטחים בתל-אביב: השדרות ולב תל-אביב.
+
+ איתור גבולות קרקע שנרכשה מידי ערבים.
+
+ הכין תכניות פרצילציה (חלוקה) של "יפה-נוף", "נתניה".
+
+ שותף בתכנית "ל" בתל-אביב.
+
+ עבד בהערכת רכוש מוסדות וציבור.
+
+ פעל עבור חברת תה"ל להסדרת בעיות הבעלות על תנאי מוביל המים הארצי.
+
+ היה חבר ועדת תכנית הי"ב של עירית תל-אביב.
+
+ ממקימי "איחוד המודדים המוסמכים" ו"איגוד שמאי מקרקעין" בארץ.
+
+ היה חבר הנהלת חברת "גאולה".
+
+ כתב מאמרים בעתונות המקצועית של אגודת השמאים.
+
+ צאצאיו: <persName>נריה</persName> אשת <persName>עזי ציפלינג, זכריה קונו</persName> (מהנדס אזרחי).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5348 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5348</bibl><bibl>Volume: #18 ,Page: 5349 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5349</bibl>
+<bibl>Volume: #18 ,Page: 5350 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5350</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

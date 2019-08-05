@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5137 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5137</bibl><bibl>Volume: #17 ,Page: 5138 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5138</bibl>
+<bibl>Volume: #17 ,Page: 5139 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5139</bibl>
+<bibl>Volume: #17 ,Page: 5140 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5140</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד שחם (שטיינמן)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וורשה</placeName> (פולין), י' בשבט תרפ"ג (27.1.1923).
+
+ לאביו הסופר <persName>אליעזר שטיינמן </persName> (ראה כרך שמיני, עמודים 3033-34) ולאמו <persName>ורדה</persName> בת <persName>אברהם</persName> <persName>בריסמן.</persName>
+
+ עלה לארץ (והוא כבן שנה) עם הוריו בשנת 1924.
+
+ בוגר הגימנסיה העברית "הרצליה" בתל-אביב. למד בבית הספר הגבוה למשפט ולכלכלה בתלאביב. בעל השכלה אקדמאית. קיבל תואר ל.ל.ב.
+
+
+ היה מדריך בתנועת "השומר הצעיר", חבר ההנהלה הראשית שלה ומזכירה.
+
+ היה בהכשרה בקיבוץ "בית-אלפא" וחבר הקיבוץ.
+
+ בשנת 1948 נשא לאשה את רינה בת דוד גולוגורסקי.
+
+ בשנים 1948-51 היה בשליחות "השומר הצעיר" בארצות הברית.
+
+ בשנת 1946 פירסום ראשוני של סיפוריו ב"מחברת לספרות" וב"עתים". ומאז הוא מפרסם סיפורים, וכן היה בעל טור ב"דבר" - והיה חותם: אושפיז.
+
+ ספריו: "יום אחד שהוא הרבה" (1950); "המדרון הארוך" (תשי"ד) ; "הרפתקאות אחותם" (תשט"ו); "שאלה של זמן" (1961); "לאבא בחשבון" (1966); ו"שלום לפתע" (סיפור מדיני, תשכ"ז).
+
+ ערך בטאון השומר הצעיר "על החומה" (1941-45). שירת בצה"ל.
+
+ כיום הוא סופר פרסומאי. בעל משרד פירסום בשם "פרסום שחם, לבינסון, אילון" 14 רחוב הלסינקי בתל-אביב.
+
+ חובב: כנור, טניס.
+
+ צאצאיו:<persName> מולת, דלית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5137 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5137</bibl><bibl>Volume: #17 ,Page: 5138 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5138</bibl>
+<bibl>Volume: #17 ,Page: 5139 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5139</bibl>
+<bibl>Volume: #17 ,Page: 5140 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5140</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

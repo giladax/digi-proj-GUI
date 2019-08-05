@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4303 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4303</bibl><bibl>Volume: #13 ,Page: 4304 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4304</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה שמואל זנדברג (זנדר)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ברסלוי</placeName> (גרמניה) בשנת תרל"ז (1877).
+
+ לאביו<persName> אברהם זנדר</persName> (תלמיד מובהק במשך שבע שנים של ר' עקיבא איגר זצ"ל) ולאמו <persName>טרזיה</persName> (טויבה) בת <persName>אלי</persName> <persName>עזר צבי פרדיס</persName> (דור עשירי מבית יוסף).
+
+ קיבל חינוך מסורתי בחדר, וכללי בגימנסיה בקרוטשין (גרמניה).
+
+ היה פעיל ב"אגודת ישראל" ב<placeName>ברסלוי</placeName>.
+
+ כן היה פעיל בענייני ציבור, פעיל בחברה קדישא ועוד.
+
+ עסק במסחר בעירו.
+
+ בשנת תרס"ז (1907) נשא לאשה את <persName>חוה </persName> לבית <persName>פינ</persName> <persName>שבר</persName> (נפטרה ברמת-גן באלול תרצ"ה) ובזיווג שני נשא לאשה את <persName>אלקה</persName> בת <persName>מנחם דלוגטץ.</persName>
+
+ השתתף ביסוד ה"אגודה" בקטוביץ. כן השתתף בכינוס שנערך בוינה (אוסטריה).
+
+ היה ידידו של ה"חפץ חיים" (הרב ישראל מאיר כהן מראדין, מגדולי הרבנים ובעלי המוסר בזמן האחרון. נודע בשם ספרו המפורסם "חפץ-חיים". נולד בשנת 1838 ונפטר בשנת 1933).
+
+ ביקר בארץ בשנת 1925 ובשנת 1932
+
+ בשנת 1933 עלה לארץ והתישב בה ישיבת קבע.
+
+
+ בארץ עסק בתור קבלן לבנינים, והקים בתים רבים בתל-אביב וברמת-גן.
+
+ צאצאיו:<persName> אליעזר צבי, אברהם</persName> (נעדר במלחמה העולמית השניה), <persName>רות, לאה</persName> ז"ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4303 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4303</bibl><bibl>Volume: #13 ,Page: 4304 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4304</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

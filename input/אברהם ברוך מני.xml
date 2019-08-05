@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 107 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/107</bibl><bibl>Volume: #1 ,Page: 108 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/108</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם ברוך מני</persName>
+
+</head>
+         <div><p> נולד בחברון, בשנת תרט"ו (1855), זמן מועט אחרי שעלו הוריו מבגדאד, בנו השלישי של הרב החסיד המקובל<persName> ר' אליהו מני,</persName> רבה של חברון.
+
+ שקד על התורה יומם ולילה מנעוריו, והיה מסתתר במרתפים אפלים ומעופשים וממשיך להגות בלימודיו, לבל יפריעוהו בקריאות אל השלחן לסעודה. הצטיין בתפיסה ובזכרון להפליא והגיע לבקיאות עצומה בכל חדרי התורה בנגלה ובנסתר, ולמרות גילו הצעיר לא היו נמנעים זקני החכמים לשאול לדעתו בעניני התורה שהתקשו או שהתווכחו בהם, ולפי דעת מביני דבר היה עתיד לעלות בתורה ובחכמה אף על אביו.
+
+ שקידתו העצומה בתנאים הנ"ל חתרה תחת בריאותו ולפקודת הרופאים נסע מצרימה לשם הבראה. שם הכירו הרבנים את מעלותיו ולמרות גילו הצעיר הציעו לו כהונת רבנות במצרים, אך הוא דחה את ההצעות כי לא רצה לעזוב את ארץ-ישראל ואת אביו.
+
+ בהיותו באלכסנדריה הוציא בשנת תר"מ, בדפוס <persName>פרג' חיים מזרחי,</persName> את הספר "גיא חזיון" לר' <persName>אברהם</persName> <persName>יגל,</persName> בצירוף הערות וציון המקורות. בראש הספר הדפיס את הקינה שנשא על מות הראשון-לציון רבי <persName>אברהם אשכנזי</persName> , בה נתגלתה בקיאותו הרבה בכל מכמני השפה העברית.
+
+ השאיר אחריו בכתב-יד ספר חידושי תורה בשם "גולת מים", וקונטרסו "ברוך מבנים" נדפס בתוך הספר "זכרונות אליהו" של אביו. נפטר באלכסנדריה של מצרים, בגיל 27 שנה, ו' אלול תרמ"א.
+
+ באותו זמן היה אביו בדמשק, בהשתדלו לגאול את המצודה שליד מערת המכפלה ולבנות בה בית-כנסת. שום אדם לא מלאו לבו לבשרו את הבשורה הרעה על מות בנו, עד שגדולי היהודים והשרים בדמשק נאספו יחד, נכנסו בדממה לחדרו והתישבו לפניו על הקרקע, ואז הבין את דבר האסון ופרץ בבכי.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 107 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/107</bibl><bibl>Volume: #1 ,Page: 108 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/108</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

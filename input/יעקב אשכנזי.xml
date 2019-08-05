@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3606 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3606</bibl><bibl>Volume: #10 ,Page: 3607 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3607</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב אשכנזי</persName>
+
+</head>
+         <div><p> בן ר'<persName> יהודה שמואל אשכנזי.</persName>
+
+ נולד ב<placeName>טבריה</placeName> בשנת תק"ע (1810).
+
+ למד תורה מאביו, שהרביץ תורה בישיבות העיר.
+
+ בשנת ת"ר-תר"א (1840/41), כשיצא אביו בשליחות טבריה לערי איטליה, נצטרף אליו גם בנו זה ואחיו<persName> אברהם.</persName>
+
+ בליוורנו למד את מלאכת הדפוס ויסד בשנת תר"ג (1843), יחד עם אחיו, בית דפוס עברי חדש, שבו הדפיסו כמה מספריהם של חכמי א"י. בשנת תר"י (1850) נפרדו האחים.<persName> אברהם </persName> הלך לאלכסנדריה של מצרים ונתקבל כמדפים בבית הדפוס החדש של <persName>שלמה</persName> <persName>איטולינגי מ</persName> ליוורנו, שהקים שם בשנת תרכ"ב (1862). אולם בית דפוס זה לא התקיים אלא שנה אחת בלבד.
+
+ בסוף ימיו חזר לא"י ונפטר שם בשנת תרל'ה (1875).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3606 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3606</bibl><bibl>Volume: #10 ,Page: 3607 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3607</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

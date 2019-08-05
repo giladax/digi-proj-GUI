@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 983 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/983</bibl><bibl>Volume: #2 ,Page: 984 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/984</bibl>
+<bibl>Volume: #2 ,Page: 985 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/985</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה מוזס</persName>
+
+</head>
+         <div><p> נולד באחוזת אבי-אמו בכפר רוסאצ'יצה, פלך קאליש, פולין, כ"ד תמוז תרמ"ו (1886), לאביו הרב <persName>זאב </persName> (ראב"ד בקאליש, ממשפחה מיוחסת, עלה ארצה בתרצ"ז) ולאמו<persName> רבקה </persName> בת <persName>ראובן ישראל פרנקל</persName> (בעל האחוזה רוסאצ'יצה, חתנו של ר'<persName> ליב קושמיראק)</persName> . קיבל חינוך מסורתי.
+
+ נשא לאשה את<persName> מרים שרה </persName> בת<persName> שמואל מנחם</persName> <persName>פרנקל </persName> מגראבוב. עסק במסחר יערות ואח"כ יסד בית
+
+ חרושת לרקמה בקאליש. כשפרצה מלחמת-העולם הראשונה ב-1914 והעיר היתה בחזית המלחמה עבר למוסקבה. ב-1918 חזר לפולץ ויסד תעשית אריגה בלודז. השתתף בפעולה הציונית והיה מעסקני קרן היסוד ומחברי הנהלת הגימנסיה העברית "יבנה".
+
+ ב-1923 ביקר בארץ ויחד עם <persName>חיים לאקס וליב</persName> <persName>איטלזון </persName> החליט להשתקע בארץ וליסד בה בית-חרושת לאריגה ועירית תל-אביב העמידה לרשותם למטרה הזו שטח קרקע באדמת מחלול. התכנית של השלשה לא הוגשמה, אך הוא לא ויתר על תכניתו וכינס בביתו ציונים אנשי-תעשיה ויסדו את החברה ''לודזיה" לתעשית גרבים בארץ. בה השתתפו בעלי הפירמה <persName>מאיר דנציגר</persName> את<persName> אליעזר בראון </persName> (שמכרה לחברה את מכונותיה),<persName> י. ל. שיינפרבר, בנימין גוטר ומשה</persName> <persName>ברלינסקי </persName> - ולאחר כמה חדשים עלה ארצה והקים עם שותפיו את בית-החרושת בת"א ברחוב נחמני, במקום שהיה אז בקצה העיר.
+
+ במשך שנת 1925 מכרו שותפיו ואח"כ גם הוא את מניות החברה, והתמסר ליסוד "בנק יהודי בע"מ" (אח"כ נשתנה שמו ל"אוצר יהודי להתנחלות בע"מ") יחד עם <persName>שמשון רוזנבוים ודוד איזמוז'יק.</persName> הבנק עזר בזמנו בנתינת משכנתאות קטנות לאנשי המעמד הבינוני, באשראי ליזמה מסחרית, תעשיתית וחקלאית. במשך שנות המשבר בארץ היה המוסד הזה הראשון בארץ שהמשיך לתת דיבידנדה לבעלי מניותיו בחו"ל.
+
+ ב-1929 קבל מסיר<persName> אלפרד מונד</persName> (הלורד<persName> מלצ'ט)</persName> את הסוכנות הראשית של חברת מטעי א"י בתלמונד וארגן את מכירת הפרדסים ליהודים באירופה.
+
+ יסד יחד עם <persName>משה קרסו ומרדכי מ. כהן</persName> את השותפות "קרסו, מוזס וכהן" לפיתוח קרקעות לשיכון והתישבות ואח"כ יסדו את חברת "נליקו" (חברה לאומית להשקעות קרקעיות בע"מ). בין השטחים שרכשו: שטחים ניכרים (אלפי מגרשים) באזור דרומית-מזרחית ליפו (כיום חולון), שטח למקומות-נופש הרריים מול נחלת יצחק, הר מרגע (בהרי ירושלים,
+
+
+ בין מוצא לקרית ענבים), "מגד" (בין פתח תקוה להדר).
+
+ ב-1939 רכש את עתון הערב "ידיעות אחרונות" וממשיך לפתחו ע"י חברת ידיעות אחרונות בע"מ ומוציא את ה"ספרון" (ספרים קטנים בני גליוןדפוס, אחד לשבוע, ממבחר הספרות העברית והעולמית) בעריכת ד"ר <persName>עזריאל קארליבך,</persName> ואת השבועון "לאשר," בעריכת כלתו עוה"ד חמדה<persName> נופך</persName> <persName>מוזס.</persName>
+
+ בתש"ז יסד יחד עם <persName>צבי לוביאניקר</persName> את החברה לפתוח קרקעות "יסודות" בע"מ, שבה משתתפות החברות "נליקו" ו"שיכון עממי".
+
+ צאצאיו: <persName>ראובן </persName> (עו"ד),<persName> אלכסנדר</persName> (בעל דפוס א. מוזס) <persName>מאיר</persName> (חבר קיבוץ <persName>מעוז חיים), נח </persName> (מנהל "ידיעות אחרונות").
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בת"א, ט' חשון תשי"ז (14.10.56) (ראה כרך ב', עמוד 984)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 983 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/983</bibl><bibl>Volume: #2 ,Page: 984 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/984</bibl>
+<bibl>Volume: #2 ,Page: 985 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/985</bibl>
+            <bibl>Volume: #8 ,Page: 3190 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3190</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

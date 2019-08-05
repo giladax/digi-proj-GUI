@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5191 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5191</bibl><bibl>Volume: #17 ,Page: 5192 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5192</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם אבא סלוצקי</persName>
+
+</head>
+         <div><p> נולד בכפר ע"י סוסניצה (צפון אוקראינה) בתרמ"ד (1884).
+
+ לאביו<persName> צבי שאול סלוצקי </persName> ולאמו<persName> חנה סטיסה</persName> לבית <persName>הורודצקי </persName> (שניהם עלו לארץ בתרפ"ה (1925) והתגוררו שנים רבות אצל בניהם בנהלל ובכפר יהושע).
+
+ קיבל חינוך מסורתי בבית הוריו ולמד בישיבות בעיירות הסמוכות.
+
+ בהיותו כבן י"ח נתפס להשכלה ולציוניות (אחד ממוריו היה <persName>יהושע מרגולין </persName> (ראה בכרך ו', עמוד 2704).
+
+
+ סיים חוק לימודיו ב"קורסים למורים" בגרודנה.
+
+ נשא לאשה את <persName>מוסיה</persName> בת <persName>יהודה לייב צימרינוב</persName> מסנובסק (צפון אוקראינה).
+
+ שימש מורה עברי בעיירות קלינקוביצ'י (רוסיה הלבנה), קאניב (על נהר דניפר) וברוסילוב.
+
+ בעת הפרעות בברוסילוב (1919) נמלט עם משפחתו אל עיר הפלך של ווהלין ז'יטומיר. עם חיסול
+
+ החינוך העברי ברוסיה על ידי המשטר הסובייטי המשיך ללמד עברית בשעורים פרטיים במחתרת, כשהוא ורעייתו מקיימים בית עברי ודוברים ב"שפה הקונטרבולוציונית" עם ילדיהם.
+
+ בתשרי תרפ"ו (1925) עלה לארץ.
+
+ שימש בהוראה בכפר-ילדים (ע"י גבעת המורה) ובכפר-חסידים.
+
+ נפטר בחיפה בי"ד סיון תרפ"ז (14.6.1927).
+
+ רעיתו נפטרה ברמת-גן בכ' אדר א' תשכ"ז (2.3.1967).
+
+ בניו: ד"ר<persName> יהודה </persName> (ראה את הערך שלו בכרך זה); <persName>רוחמה </persName> אשת<persName> אריה קופסיק, אליהו.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5191 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5191</bibl><bibl>Volume: #17 ,Page: 5192 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5192</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

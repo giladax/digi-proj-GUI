@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3372 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3372</bibl><bibl>Volume: #9 ,Page: 3373 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3373</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נח יגורי (פרובר)</persName>
+
+</head>
+         <div><p> נולד כ"ו סיון תר"ס (יוני 1900) בעיירה קריוויהאוזירו, פלך פודוליה באוקראינה.
+
+ לאביו<persName> נחמן פרובר </persName> (ממשפחת פרופ' <persName>ז. ברודצקי)</persName> ולאמו<persName> רות</persName> בת <persName>נח טבצ'ניק.</persName>
+
+ למד בחדר ובבית-ספר עממי והשלים את השכלתו בלימוד עצמי.
+
+ ב-1914 עלה לארץ ונתקבל כתלמיד במקוה ישראל.
+
+ מ-1916 עבד בכיבוש העבודה והשמירה במושבות יהודה והגליל. ב-1918 התנדב לגדוד העברי. במאי 1921 השתתף בהגנת תל-אביב בעת התפרעות ערביי יפו. ב-1922 השתתף בחיפושי מים באדמה הצחיחה של תל-ערד שבנגב, שהשלטון המנדטורי בחר בה להציעה להתישבות משוחררי הגדוד העברי, שיוכל לטעון שהציע להם אדמה להתישבות... בסוף 1922 השתתף בארגון קבוצת עגלונים בירושלים. אח"כ הצטרף לקבוצת "אחוה." בפתח תקוה, שהתארגנה להתישבות חקלאית קיבוצית, ובסוף 1923 הלך עם עוד שבעה מחברי הקבוצה והניחו את היסוד למשק יגור שליד חיפה. ברוב השנים היה פעיל בהנהלת המשק : בגזברות, במזכירות, ובשנים 1948-1925 מוכתר המשק ונציגו האחראי כלפי השלטונות. כן היה פעיל במזכירות הקיבוץ המאוחד ובועדותיה השונות, וציר לכמה ועידות של ההסתדרות הכללית וההסתדרות החקלאית.
+
+ ב-1929 נשא לאשה את<persName> עדה </persName> בת <persName>יצחק רוזנצוויג.</persName>
+
+ היה כל השנים חבר המפקדה האזורית של ההגנה, וב"שבת השחורה" (19.6.46), כשהצבא הבריטי חיפש ומצא מטמוני נשק של ההגנה ביגור, נאסר בתור מוכתר המקום והוחזק חדשיים במבצר עכו.
+
+ לפני שנים אחדות הושאל ל"תנובה" והנו חבר מרכז תנובה וחבר ההנהלה למחוז תל-אביב, חבר מועצת תנובה והנהלתה, חבר הועד הארצי למען הקהק''ל, חבר מזכירות הקיבוץ המאוחד.
+
+ בנו:<persName> אסף</persName> (חבר משק יגור).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3372 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3372</bibl><bibl>Volume: #9 ,Page: 3373 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3373</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

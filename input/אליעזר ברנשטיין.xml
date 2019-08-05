@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2162 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2162</bibl><bibl>Volume: #5 ,Page: 2163 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2163</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר ברנשטיין</persName>
+
+</head>
+         <div><p> נולד בוולודאוה, פלך שדליץ, פולין, י"ד אדר תרל"ה (1875), לאביו <persName>מתתיהו</persName> (כובען) ולאמו <persName>באשה</persName> . קיבל חינוך מסורתי והתאמן ליד אביו במלאכתו.
+
+ ב-1896 יצא לאנגליה, התישב בלונדון, החל לעסוק במלאכת כובענות ובמשך הזמן פיתח את מפעלו לתעשיה גדולה של כובעים ולבד ועשה עושר.
+
+ נשא לאשה את <persName>ביילה בלומה</persName> בת<persName> אריה לייב פלדמן</persName> מוולודאווה.
+
+ בתרפ"ה בא לבקר בארץ לרגל חגיגות פתיחת האוניברסיטה. רכש יחד עם כמה ממכריו למעלה מ-2000 דונם קרקע בין ראשון לציון לסרפנד במטרה להושיב
+
+ שם מבני משפחתו המסועפת בפולין. הצליח להעלות מהם ארצה כ-70 נפש, בנה בשבילם בתים ונטע פרדס גדול, בו הוא מעסיקם עד היום.
+
+ עזר לחקלאים צעירים על-ידי השקעת הון בבנק "בני בנימין".
+
+ מכר לקה"ק 200 דונם מאדמתו בסכום שלמטה ממחיר הקרן.
+
+
+ תומך במפעלים צבוריים ועזר להקים מוסדות לגמילות חסדים ולעזרה בסתר. תומך במפעלי "המזרחי" ובלשכת "בני ברית" בראשון לציון, הקרויה על שמו.
+
+ צאצאיו: <persName>זאב וולף, יעקב שמואל, פייבל</persName> (פיליפ), <persName>אבא</persName> (ארתור), <persName>שרה רבקה</persName> אשת<persName> מרדכי דובגה, באשה</persName> (בסי), <persName>מתילדה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2162 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2162</bibl><bibl>Volume: #5 ,Page: 2163 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2163</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

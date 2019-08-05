@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4926 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4926</bibl><bibl>Volume: #16 ,Page: 4927 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4927</bibl>
+<bibl>Volume: #16 ,Page: 4928 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4928</bibl>
+<bibl>Volume: #16 ,Page: 4929 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4929</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם (מנס) פינשטיין</persName>
+
+</head>
+         <div><p> נולד ביפו, י' אב תרנ"ב (1892).
+
+ לאביו הרב שמואל ולאמו<persName> חוה</persName> בת <persName>יצחק</persName> (איזיק) <persName>פנחס.</persName>
+
+ קבל חנוך מסורתי.
+
+ מגיל 13 עבד כעוזר בדיליג'נס אצל <persName>צבי גרף</persName> ואפרים הלפרין בפתח-תקוה להובלת נוסעים ומשאיות בקו פתח-תקוה-יפו.
+
+ נשא לאשה את <persName>צפורה </persName> בת<persName> נפתלי ויסבלום</persName> (דור חמשי מהרב <persName>אלימלך ויסבלום)</persName> .
+
+ בשנת 1910 היה ממארגני הטיול של תלמידי הגמנסיה הרציה מת"א ע"י עגלות (קרות דרך ג'נין לעפולה.
+
+ בגירוש יפו - פתח-תקוה פתח "חן" (מקום ריכוז לעגלות, סוסים וכו') בפתח-תקוה ששימש למגורשי יפו-ת"א לפגישה ומשם עברו רובם לכפרסבא.
+
+ עבר אצל <persName>אליהו אוסטשינסקי </persName> בהעברת חטה בעגלה מצמח לפתח-תקוה.
+
+ אחרי הכיבוש (1918) קנה דיליג'נס (עם 3 סוסים) והוביל נוסעים מיפו - לירושלים.
+
+ השתתף בהגנת פתח-תקוה.
+
+ יחד עם<persName> יצחק גולדברג ומשה חיים אלינסון</persName> הכניסו את המכונית פורד הראשונה לפתח-תקוה. זה היה היסוד לחברת האוטובוסים "איחוד רגב" ועבד בחברה זו עד שנת 1939.
+
+ במאי 1921 בכפר סבא עבד יחד עם <persName>ליבל</persName> <persName>פילברג</persName> ועזרו להעביר תושבים ורכוש וכו' בימי המאורעות לעין-חי.
+
+ בשנת 1942 קנה טנדר ועבד בצבא הבריטי בגשר אל מג'מה בעבר הירדן בהובלת משא.
+
+ בשנת 1953 עד 1957 עבד בחקלאות (ירקות, קוטנה, סלק וכו'.
+
+ צאצאיו: <persName>יוסף, יצחק ז"ל, לאה, רחל.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4926 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4926</bibl><bibl>Volume: #16 ,Page: 4927 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4927</bibl>
+<bibl>Volume: #16 ,Page: 4928 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4928</bibl>
+<bibl>Volume: #16 ,Page: 4929 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4929</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

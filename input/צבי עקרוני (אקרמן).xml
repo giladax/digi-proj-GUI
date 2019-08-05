@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3741 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3741</bibl><bibl>Volume: #11 ,Page: 3742 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3742</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי עקרוני (אקרמן)</persName>
+
+</head>
+         <div><p> נולד בפלשטי (בסרביה) בשנת תרע"א (19.9.1911). לאביו <persName>חיים אקרמן</persName> ולאמו<persName> מלכה.</persName>
+
+ קבל חנוך תיכוני ותורני.
+
+ עסק כעתונאי. היה מזכיר כללי של ההסתדרות הציונית במחוז בלצי (בסרביה), ומנהל הלשכה האזורית של הקרן הקימת לישראל במחוז הנ"ל, הועד המרכזי של הסתדרות "צעירי-ציון" בבסרביה וברומניה.
+
+ היה חבר הועד המרכזי של "החלוץ" בבסרביה, חבר היה עורך העתון "ערד אוו ארבעט" בקישינוב, חבר המערכת "פרייהייט" בצרנוביץ ו"אונזער צייט" בקישינוב.
+
+ פרסם שירים וסיפורים באידיש בעתונים : "אונזער צייט" ו"ערד און ארבעט" בקישינוב, "פרייהייט" בצרנוביץ, "פארן אידישן קינד" בקישינוב, "אידישער אלמאנאך גרויסרומעניען" בבוקרסט ועוד.
+
+ בשנת 1933 עלה לארץ.
+
+ באותה שנה נשא לאשה את <persName>צפורה </persName> בת<persName> קופל דיין.</persName>
+
+ היה מזכיר ועד השקל הציוני בת"א, מזכיר אירגון יוצאי בסרביה בא"י וחבר הנהלת הבנק "קרדיט הדדי" בת"א.
+
+ חבר מועצת המחוז של מפא"י בת"א, חבר מזכירות סניף ב' של מפא"י בת"א, יו"ר ועד מעונות עובדים ח' בצפון ת"א.
+
+ ציר נבחר לועידת מפא"י.
+
+ היה מפקד עמדה בהגנה משנת 1937.
+
+
+ מנהל מחלקת המושבות של הקרן הקימה לישראל קרן היסוד.
+
+ בנו: <persName>אביב </persName> (מוסמך לספרות עברית והיסטוריה של האוניברסיטה העברית בירושלים, ומורה בגמנסיה "תיכוןחדש" בתל-אביב).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3741 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3741</bibl><bibl>Volume: #11 ,Page: 3742 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3742</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

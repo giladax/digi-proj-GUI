@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 113 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/113</bibl><bibl>Volume: #1 ,Page: 114 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/114</bibl>
+<bibl>Volume: #1 ,Page: 115 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/115</bibl>
+<bibl>Volume: #1 ,Page: 116 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/116</bibl>
+<bibl>Volume: #1 ,Page: 117 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/117</bibl>
+<bibl>Volume: #1 ,Page: 118 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/118</bibl>
+<bibl>Volume: #1 ,Page: 119 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/119</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה (אידל) צלליכין</persName>
+
+</head>
+         <div><p> נולד בשקלוב, פלך מוהילב ע''נ דנייפר, רוסיה, ג' תשרי תרכ"ב לאביו ר'<persName> משה </persName> הדיין, ממשפחת רבנים. למד ב"חדר" ובישיבה. יצא בבחרותו למוסקבה והצטרף לתנועת ביל"ו, וכשהגיע תורו של<persName> מנחם</persName> <persName>אוסישקין </persName> לעלות ארצה לפי הסידור המקובל בתנועה,
+
+ וויתר זמנית על זכותו ויהודה צלליכין עלה במקומו באניה "לזרוב" יחד עם<persName> חיים</persName> (לאחר זמן ד"ר לרפואה) <persName>חיסין </persName> ועוד ארבעה חברים.
+
+ ביום כ"ו אב תרמ"ב הגיע לחוף יפו. ה"תזכרה" (מין נייר טורקי כעין פספורט) שלו לא היתה בסדר. שלח אליו <persName>ישראל בלקינד</persName> בידי שליח מיוחד "נפוס" (תעודת לידה טורקית) ושליח זה לימדהו לענות על כל שאלה של פקידי החוף: "אנא מן הון" (אני מכאן, בן המקום). בהשמעת תשובה מטופשת זו על כל שאלה ושאלה נהדף מאיש לאיש בבקורת החוף עד שנהדף מבית המכס החוצה אל הרחוב, -ומאז דבק בו הכינוי "אנא מן הון" למשך שנים רבות. מיפו יצא מיד לעבודה במקרה ישראל עם חבריו והתגוררו בבית שבפרדס אנטון איוב שליד כביש ירושלים. חלה בשגרון קשה ובהשתדלות חבריו, שהשיגו הלואה להוצאות ריפויו, נשלח להתרפא
+
+ בחמי טבריה, וכשחזר משם כבר היתה חבורתו בראשון לציון והלך להצטרף אליה. בלכתו שמה הביא אתו את זוג-החתולים הראשון אל המושבה החדשה למגן מפני עכברי-שדה ועכברי-בית העלולים לגרום נזקים.
+
+ בגלל חולשתו אחרי המחלה העסיקוהו בטיפול בפרדות של קבוצת הבילויים. פעם, בהשקאת הפרדות ליד הבאר, שסידורי השאיבה ממנה היו פרימיטיביים, התמוטטה מערכת השאיבה ומוט ברזל נפל עליו. בדרך נס לא נפל אל הבאר העמוקה, אך רגלו נשברה, ואחרי שנתרפא אמרה הפקידות של <persName>הבארון רוטשילד</persName> למנותו למורה, אבל הוא סירב להתחמק למקצוע זה ודבק בחקלאות, ובה הצטיין כאחד מטובי האכרים השקדנים והמצליחים ביותר, שמשקן היה למופת.
+
+ בשנת תרמ"ד נשא לאשה את הבילויית <persName>חסיה</persName> <persName>בנינסון</persName> , אחותו של החובב-ציון הנודע<persName> יהושע דב</persName> <persName>בנינסון</persName> ממינסק.
+
+ שניהם עבדו בשקידה בכל ענפי המשק, ואף בזמן בולמוס הגפנים היה בביתם לחם, חלב, ביצים וירקות מתנובת משקם ועמלם. ביתם היה פתוח תמיד לאורחים ולעוברי-דרך, ללינה ולסעודה, במנהג אברהם אבינו בשעתו. גמלו חסדים לא רק בממון, אלא גם בסעד ועצה ובדברים פעוטים המצטרפים לחשבון גדול של מעשי חסד. דוד גדול של מים חמים בביתם סיפק תמיד רותחים לשתית תה לנצרכים בכל הסביבה, ובתנורם הגדול הוטמן החמין לשבת בשביל רבים, ופעמים רבות מצאו המטמינים בכליהם הוספות על מה שהכניסו בהם, כי לפני הכנסת הכלים אל התנור היו ר' יהודה ואשתו בודקים בהם, ואם היו סבורים שארוחתו של אחד ה"לקוחות" תהיה דלה ביותר, היו משלימים לו משלהם בלי ידיעתו בשר, שעועית או תפוחי-אדמה. 
+
+ עוד בזמן הראשון למד לדבר ערבית על בוריה ורכש את. הנתינות העותומנית, ותודות לכך נרשמו על שמל קרקעות רבות, כגון: בן-שמן, רוחמה, נחלתיהודה ועוד. הוא אחד מחמשת הראשונים, שביזמת עצמם הציעו לבארון להתחיל בתשלומי הכספים שקיבלו ממנו לביסוס המשק, בדי שבגמירת התשלומים יהיו בעלים עצמאים למשקיהם. תוך עבודה התמחה בהבחנה בטיב קרקעות, ולפני קנית קרקעות היו רבים מבקשים את עצתו. (גם<persName> יהושע חנקין </persName> שאל לעצתו כשגאל את קרקעות רחובות וחדרה).
+
+ במשך הזמן הצליח בעבודה שקדנית להרחיב את רכושו הקרקעי. היו לו שדות, כרמים ופרדסים בראשון לציון, רחובות וגדרה ואף בתקופת המכוניות היה ממשיך ברכיבה על חמורו מנחלה לנחלה בין המושבות הנ"ל.
+
+ התרחק מן הגבאות והצבוריות, (אם כי במשך זמןמד, נשא מין תואר "רב מטעם" ממונה על-ידי השלטון הטורקי על יהודי המושבה, בהיותו בה הנתין הטורקי היחידי הבא בחשבון), אך לשני מוסדות התמסר ביסודם
+
+
+ ובניהולם כיושב-ראש שלהם, והם: קופה חקלאית בראשון לציון והקופה ההדדית לביטוח בהמות.
+
+ נכדיו ונכדותיו היו מטובי המתנדבים לנוטרות ולצבא במלחמת-העולם השנית. נפטר בראשון לציון, כ"ז אלול תש"א.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 113 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/113</bibl><bibl>Volume: #1 ,Page: 114 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/114</bibl>
+<bibl>Volume: #1 ,Page: 115 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/115</bibl>
+<bibl>Volume: #1 ,Page: 116 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/116</bibl>
+<bibl>Volume: #1 ,Page: 117 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/117</bibl>
+<bibl>Volume: #1 ,Page: 118 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/118</bibl>
+<bibl>Volume: #1 ,Page: 119 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/119</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

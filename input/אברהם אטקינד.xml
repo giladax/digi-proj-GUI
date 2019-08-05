@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3573 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3573</bibl><bibl>Volume: #10 ,Page: 3574 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3574</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם אטקינד</persName>
+
+</head>
+         <div><p> נולד בקריטשב, פלך מוהילוב על הדניפר (רוסיה), ג' חשון תרנ"ה (2.11.1894).
+
+ לאביו<persName> יעקב</persName> ולאמו<persName> נחמה</persName> בת<persName> אברהם הנקין.</persName>
+
+ קבל חנוך מסורתי ובית ספר תיכוני בלודז'.
+
+ בניסן תרע"ג (אפריל 1913) עלה לארץ.
+
+ בשנות 1913-15 עבד במזכירות ועד תל-אביב (כיום - עירית תל-אביב).
+
+ בשנות 1917-18 במזכירות המושל הצבאי הבריטי ביפו.
+
+ בשנות 1916-17 בבית חרושת "אמריקן פלשתין איירון ווארקס" (חרושת ברזל אמריקאית. מקודם בית חרשת ליאון שטיין ביפו. שעבר לידי ה"ה: <persName>גורלסקי, קפלן ושרשבסקי)</persName> שעבדו עבור הצבא התורקי.
+
+ בגירוש יפו-תל-אביב, נשאר לעבוד בבית החרושת והיה בין אלה שנשארו לשמור על הרכוש בעיר.
+
+ היה מפעילי המכבי יפו-תל-אביב והשתתף בכל הפעולות הצבוריות של המכבי.
+
+ בשנות 1919-34 פקיד בבנק הלאומי לישראל (אז - אפ"ק) בע"מ בתל-אביב.
+
+ בשנות 1934-36 ממיסדי "בנק לתועלת אשראי בע"מ" וממנהליו.
+
+ בשנות 1936-55 מנהל סניפים בבנק דיסקונט לישראל בע"מ בתל-אביב.
+
+ בשנת 1848 נשא לאשה את <persName>רוזה</persName> בת<persName> אלכסנדר</persName> <persName>גלשטיין.</persName>
+
+ משנת 1956 מנהל חשבונות בחברה לבטוח "סהר" בע"מ בתל-אביב.
+
+ חבר בלשכת הבנאים החפשים "אביב" בתל-אביב.
+
+ צאצאיו:<persName> רוחמה</persName> אשת <persName>פאול קרינר, אהובה</persName> אשת <persName>מאיר כהנא, יעקב אטקינד</persName> (מאמם:<persName> סוניה </persName> בת <persName>ברוך</persName> <persName>גורלסקי.</persName> ראה בכרך א', עמוד 92).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3573 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3573</bibl><bibl>Volume: #10 ,Page: 3574 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3574</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

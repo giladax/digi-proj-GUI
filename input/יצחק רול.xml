@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4758 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4758</bibl><bibl>Volume: #15 ,Page: 4759 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4759</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק רול</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פולין</placeName> בשנת תרע"א (1911).
+
+ קיבל חינוך מסורתי וכללי.
+
+
+ היה פעיל בארגוני הנוער הציוני בעירו.
+
+ בשנת 1935 עלה לארץ.
+
+ נשא לאשה את<persName> מטה</persName> לבית <persName>מרגלית</persName> .
+
+ היה בין הראשונים שחשב על הצורה החיצונית של נוף הבניה בארץ והקפיד על כך, בתחילה בהר-הכרמל, שם ריכז מפעלי שיכון ובניה, ואח"כ בכל מקום בו שהה.
+
+ ידוע היה כ"איש התערוכות". אירגן את מרבית התערוכות הגדולות בארץ, יזם את מפעלי תערוכות הפרחים, מפעלי המוסיקה והסרטים של חיפה ועוד.
+
+ בשנת העשור למדינה הקים בירושלים את תערוכת העשור, אירגן את תערוכת האריזה, תערוכת "משפחת הקיבוץ", תערוכת אמנות שימושית בינלאומית ועוד.
+
+ בשנת 1960 הוזמן על ידי עירית ת"א-יפו לנהל את חברת, יריד המזרח ואירגן את "יריד המזרח הבינלאומי הראשון בישראל (1962). אך הסתיים היריד של שנת 1962 החל להכין
+
+ את היריד הבינלאומי הבא. ההכנות היו בעיצומן כשתקפה אותו לפתע מחלה קשה.
+
+ נפטר בחיפה, ה' בניסן תשכ"ג (30.3.1963).
+
+ היה איש תקיף. לעלום לא ויתר ולא החניף לאיש, היה ידיד אמת, אדם שדרש הרבה מאלה שעבדו במחיצתו, אבל פחות מאשר מעצמו. היה מחונן בכשרון אמנותי וביכולת ארגונית.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4758 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4758</bibl><bibl>Volume: #15 ,Page: 4759 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4759</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

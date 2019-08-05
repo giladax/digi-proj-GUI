@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3404 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3404</bibl><bibl>Volume: #9 ,Page: 3405 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3405</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אגרונום שמשון קצפירובסקי</persName>
+
+</head>
+         <div><p> נולד בעיר גרייווע (פולין) בשנת תרנ"א (1891).
+
+ לאביו ר' <persName>חיים </persName> ולאמו <persName>שיינה</persName> בת<persName> משה מנדל.</persName> קבל חנוך מסורתי ובנתיב זה נהג כל ימי חייו.
+
+
+ אביו בתור חובב-ציון הפנה אותו להשתלם בגרמניה בחקלאות במטרה לשלחו לא"י כמומחה.
+
+ בשנת 1909 עלה לארץ.
+
+ נשא לאשה את <persName>בתיה</persName> בת <persName>שלום פוה</persName> (ראה בכרך זה). בוגר הסמינר העברי בהדרכתו של <persName>דוד ילין</persName> ז"ל.
+
+ בשנת 1912 נסע לקליפורניה בארצות הברית להשתלם בחקלאות וקבל תואר אגרונום.
+
+ במשך ארבע שנים היה מדריך באוניברסיטה. הוזמן ע"י ד"ר<persName> יצחק אביגדור וילקנסקי </persName> (אלעזרי וולקני) וד"ר <persName>רייכרט</persName> לעבוד בתחנת הנסיונות ברחובות, ובמשך עשר שנים עבד עמהם להתפתחות ענף החקלאות והנטיעות ועשה רבות להדרכת המושבות והמשקים.
+
+ יזם ומשך אנשי חו"ל לנטיעות פרדסים בארץ, בעיקר
+
+ בשרון ובנס-ציונה.
+
+ במלחמת השחרור נהרג מהפצצה אוירית ברחובות כ"א אייר תש"ח (30.5.1948).
+
+ צאצאיו:<persName> שלום</persName> (בעל בית מרקחת בנס-ציונה), <persName>צפורה</persName> אשת ד"ר <persName>אברהם פיטשורניק</persName> (ממכון ויצמן), <persName>מרים.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3404 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3404</bibl><bibl>Volume: #9 ,Page: 3405 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3405</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4248 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4248</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר שאול זימן</persName>
+
+</head>
+         <div><p> נולד בטברוג (ליטא), כ"א סיון תרס"ט (1909).
+
+ לאביו <persName>קלמן זימן</persName> (ראה בכרך זה) ולאמו <persName>לאה</persName> בת <persName>שאול רבינוביץ.</persName>
+
+ קיבל חינוך מסורתי וכללי. גמר אוניברסיטה לרפואה בברלין (גרמניה) וקיבל תואר ד"ר לרפואה.
+
+ היה פעיל בארגוני נוער ציוני. למד בהכשרה ע"י ברלין. העלה מאה ושלושים צעירים מהכשרה לתל-יוסף (בעליית הנוער ע"י גב' <persName>הנריטה סולד).</persName>
+
+ עלה לארץ בשנת תרצ"ה (1935).
+
+ בתרצ"ט (1939) נשא לאשה את <persName>שרה</persName> לבית<persName> וסרמן,</persName> ובשנת 1955 בזיווג שני, נשא לאשה את <persName>מיכאלה</persName> לבית <persName>מונבז.</persName>
+
+ השתתף בכינוסים רפואיים. במלחמת השחרור שימש כמנהל ביה"ח שטראוס בירושלים.
+
+ בתקופת המצור על ירושלים, הוטל עליו לארגן את שירותי הרפואה הציבורית בעיר.
+
+ לאחר מכן שימש כשנתיים רופא מחוזי של משרד הבריאות בירושלים.
+
+ מנהל כללי של משרד הבריאות בישראל משנת 1960. נפטר בג'נבה (שווייץ), כ"ח אייר, תשכ"ג (22.5.1963), והובא לקבורה בסנהדריה בירושלים.
+
+ בתו:<persName> חנה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4248 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4248</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

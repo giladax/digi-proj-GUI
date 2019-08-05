@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1190 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1190</bibl><bibl>Volume: #3 ,Page: 1191 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1191</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף הלמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פוניבז'</placeName> ליטא, כ"ט כסלו תרל"ט (1878), לאביו <persName>יהודה אריה </persName> ולאמו <persName>גיטל. </persName> קיבל חינוך תורני ובעודו נער עלה ארצה והמשיך ללמוד בישיבה בירושלים.
+
+ נשא לאשה את <persName>לוטה</persName> בת ר'<persName> משה רוזין.</persName>
+
+ עבד כמה שנים אצל הקבלן<persName> יעקב מן </persName> בירושלים. עבר ליפו ועסק בשותפות עם<persName> בייניש סלנט</persName> במסחר באתרוגים, אח"כ פתח עסק לעצמו והיה נוסע לרגל מסחרו זה לטריאסט ולגרמניה. כשרכש הבארון<persName> בנימין רוטשילד </persName> קרקעות בחורן
+
+ והחל ליסד שם מושבות, עבד שם יוסף הלמן כשלש שנים תחת הנהלת האגרונום<persName> חיים כהן</persName> ברכישת האספקה ובקיום הקשרים עם הדרוזים. בשנת 1908, כשעקרו את הכרמים במושבות בגלל המשבר המתמיד בשוק היין והפסקת תשלומי היקב בעד הענבים, נטע פרדס במושבה פתח תקוה, בשותפות עם<persName> יוסף</persName> <persName>אלישר ומשה כהן,</persName> השתתף עם<persName> י. ל. גליקמן ויוסף</persName> <persName>דוד הורביץ </persName> במסחר תפוחי-זהב ואח"כ נטע פרדס גדול בשותפות עם י. ל. גליקמן.
+
+ אחרי הכיבוש הבריטי, ב-1918/19, עשה שותפות עם<persName> פייבל כהנוב </persName> למשלוח תפוחי זהב למצרים, ואחרי סיום מלחמת-העולם הראשונה גם לאירופה, ועסקם התקיים 13 שנה. באמצעותם נמכר הפרי של הרבה פרדסנים יהודים וגם ערבים. רכש את אמונם וידידותם של עשירי הערבים, בעלי פרדסים וקרקעות והודות לקשריו אלה עלה בידו לעזור <persName>ליהושע חנקין</persName> ולאחרים בגאולת שטחי-קרקע ניכרים. בנו: <persName>אריה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1190 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1190</bibl><bibl>Volume: #3 ,Page: 1191 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1191</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

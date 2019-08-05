@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/781</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נטע שלמה גרין</persName>
+
+</head>
+         <div><p> נולד בסאנדץ (צאנז, נובי סונץ'), מרכז חסידי ידוע במערב גליציה (עירו של האדמו"ר <persName>חיים האלברשטאם</persName>
+
+ בעל ה"דברי חיים"), בחודש תמוז תרכ"ה (1865), לאביו ר' <persName>משה ליב</persName> , סופר סת"ם, ולאמו<persName> אייגה</persName> לבית <persName>שליסל</persName> . למד בחדרים ובבית-המדרש. עסק במסחר באריגים וקבע עתים לתורה.
+
+ בשנת תרנ"ח עלה ארצה, התישב בירושלים ועסק בתעשית כובעים מעורות כבשים קטנים. היה גבאי ביקור חולים של כולל הונגריה וממונה בכולל זה והתמסר לפעול לטובת אנשי הכולל.
+
+ נשא לאשה את<persName> יוכבד</persName> בת הרב<persName> אהרן חיים</persName> , רב בעיר אדאני (הונגריה). לרגל אדיקותה הקיצונית, נפרדו כעבור כמה חדשים.
+
+ כל ימיו סירב להצטלם, אך כשבנו<persName> משה</persName> היגר לארגנטינה וביקש לקחת אתו את תמונת אביו, כדי שיזכור כי הוא יהודי בנו של יהודי חרדי מירושלים, הסכים להצטלם עטוף בטלית וסידור בידו.
+
+ נפטר בירושלים, כ"ב ניסן תרצ''ח.
+
+ צאצאיו: מאשתו הראשונה :<persName> יעקב דוד בריש</persName> , שהיה מבעלי התעשיה הראשונים בירושלים.
+
+ מאשתו השניה:<persName> אייגה</persName> בת ר' <persName>יעקב רוט, גרשון</persName> מנס (באמריקה), <persName>מירל, יחזקאל, שלום עוזר, יהושע</persName> <persName>העשל ,מרדכי, נחמה, משה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/781</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

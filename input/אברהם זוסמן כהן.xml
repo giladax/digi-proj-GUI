@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 981 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/981</bibl><bibl>Volume: #2 ,Page: 982 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/982</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם זוסמן כהן</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"ח חשון תר"ס (22.10.1899), לאביו <persName>אריה ליב </persName> (מראשי המנקרים בירושלים) ולאמו <persName>אסתר ביילה </persName> בת ר' <persName>חיים משה פרלקווארט </persName> (ראה עמוד 904). למד בתלמוד-תורה "עץ חיים", בביה"ס "נצח ישראל" בפתח תקוה, בבית-המדרש למורים של חברת "עזרה" הברלינית בירושלים ובביה"ס למסחר בתלי אביב.
+
+ בשנת תרפ"ג נשא לאשה א<persName>ת יוכבד </persName> בת <persName>מאיר</persName> <persName>רוזין </persName> (ראה עמוד 962).
+
+ ב-1921 נתמנה למרכז עניני השכונות נוה שלום, נוה צדק ואהל משה, שהיו אז ב"שטח ההפקר" שבין הערים יפו ות"א, טיפל באיחוד השכונות וסיפוחן לת"א, ומשיצא דבר זה לפועל ב-1922 צורף לפקידות המרכזית של עירית ת"א ועבד בה עד סוף 1927.
+
+ בראשית 1928 עבר להנהלת הפירמה המסחרית <persName>האחים גרין </persName> שהפכה מאז לפירמה <persName>י. גרין ושות' </persName> (א"י) <persName>בע"מ </persName> עם סניפים בירושלים ובחיפה, וכן נתמנה למנהל חברת "כמו-אורינט" והחברה לספנות ולמסחר בים התיכון בע"מ ועוד. הוא חבר הועד הפועל של התאחדות האימפורטרים והסיטונאים בא"י מיום הוסדה, חבר ועד לשכת המסחר בת"א-יפו ופעיל בועדותיה השונות, חבר ועד "המרכז לעזרה סוציאלית", יזם את הקמת בית-הספר המקצועי על שם גרין בצפת ובהשפעתו תרם מר<persName> יהושע גרין </persName> סכום ניכר להקמת בית-הספר ואליו הצטרפו התאחדות בני הישוב והסתדרות העובדים הכללית בעזרה ובת
+
+
+ רומות. חבר הועד המנהל של בית הספר הזה ופעיל בהנהלתו. יזם הקמת מפעל תעשיתי בצפת להעסיק
+
+ בו את בוגרי המוסד לשם קימום הישוב היהודי בבירת הגליל העליון משפל מצבה.
+
+ צאצאיו:<persName> בילה, מאיר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 981 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/981</bibl><bibl>Volume: #2 ,Page: 982 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/982</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

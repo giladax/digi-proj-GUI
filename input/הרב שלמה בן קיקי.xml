@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 1035 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1035</bibl><bibl>Volume: #2 ,Page: 1036 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1036</bibl>
+<bibl>Volume: #2 ,Page: 1037 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1037</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שלמה בן-קיקי</persName>
+
+</head>
+         <div><p> נולד בירושלים, בחודש כסלו תרל"ג (1873), לאביו הרב <persName>יעקב</persName> , שעלה ארצה מרבאת שבמארוקו. למד בתלמוד-תורה ובישיבות של עדת המערביים והספרדיים בירושלים.
+
+
+ נשא לאשה את <persName>שמחה</persName> לבית<persName> עבאדי.</persName>
+
+ נמנה על חכמי העדה, נסע בשליחותה כשד"ר לארםנהרים, בוכארה, צפון-אפריקה ועוד, ובכל מקום נתחבב כתלמיד-חכם פיקח ושנון ונואם מחונן והצליח בשליחותו. היה שנים אחדות שו"ב ורב בקהלת טראבלוס שבלבנון, וכעשר שנים לפני מלחמת-העולם הראשונה
+
+ נתמנה לרב בבית-הכנסת שליד בית-הספר "אליאנס" בחיפה ומשנת תרע"ו הוא אף שוחט מטעם קהלת חיפה, ופעל רבות בקרב עדתו למען ארגון קהלת כנסת ישראל בעיר.
+
+ דמותו הרוחנית והצבורית צוירה בפיליטונים "חכם שם-טוב" ב"הצופה" ו"השוחט" ב"הד-המזרח".
+
+ צאצאיו: <persName>מסעודה</persName> אשת <persName>יעקב בן-קיקי, שמעון</persName> (פקיד ב"מחסני ערובה מזרחיים" בחיפה),<persName> רנה </persName> אשת<persName> זלמן</persName> <persName>משיוף.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 1035 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1035</bibl><bibl>Volume: #2 ,Page: 1036 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1036</bibl>
+<bibl>Volume: #2 ,Page: 1037 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1037</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

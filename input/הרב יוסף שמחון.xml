@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 183 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/183</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יוסף שמחון</persName>
+
+</head>
+         <div><p> נולד מעיר פאס, מארוקו, בשנת תרי"ט (1859), לאביו הרב <persName>יעקב,</persName> שהיה גדול בתורה בנגלה ובנסתר.
+
+ בתרכ"ד עלה ארצה עם הוריו בחבורת העולים ממארוקו, שהניחו את היסוד לישוב העברי ביפו. אביו, ר' יעקב היה מיחידי ישיבתו של ר'<persName> אברהם ב"ר</persName> <persName>אהרן שלוש</persName> ולעת זקנה עלה ירושלימה ושם נפטר בשנת תרנ"ד.
+
+ למד תורה בבית אביו ובישיבת הרב <persName>שלמה בחבוט</persName> ביפו (יחד עם רבי<persName> יעקב מאיר, שהיה אח"כ ראשון</persName> לציון ורב ראשי לארץ-ישראל). הגיע לדרגה גבוהה
+
+ בידיעת התורה ובהיותו בן 20 הוצעה לו משרת רב לעדת הספרדים ביפו, אך הוא העדיף לעסוק בחינוך, ויחד עם אחיו הרב<persName> לוי</persName> , השו"ב והמוהל הראשון ביפו, יסד וניהל בית תלמוד-תורה, הראשון בעיר, בו נתחנכו בני כל המשפחות הותיקות, וגם בני ראשוני המתישבים האשכנזים (בכללם בני ר'<persName> שמעון רוקח</persName> ) למדו בו. כן נתפרסם לשבח כחזן בעל קול נעים ומבטא עברי צח, דרשן משפיע וסופר בעל כתב יפה. כשיסדה
+
+ חברת כי"ח את בית-ספרה ביפו נתמנה למורה בו לעברית ולתלמוד והוא המשיך בעבודה זו שלשים שנה. לעת זקנה שרת את בני עדתו גם בפסקי הלכה והוראה. בהשתדלותו נדפס בירושלים החלק הראשון של הספר "יאיר מבין" של הרב<persName> יוסף בן-נון.</persName>
+
+ במלחמת העולם הראשונה גורש עם משפחתו מהארץ כנתין צרפת. יצא לאלכסנדריה, המשיך ללמד שם עברית בביה"ס של כי"ח ורבים היו באים לשמוע את תפלותיו ודרשותיו.
+
+ נפטר באלכסנדריה, י' אדר תרע"ט.
+
+ בתו בלהה נישאה לעסקן <persName>שמואל זלוטניק,</persName> שהיה קצין בגדוד העברי של נהגי הפרדות בגאליפולי, ובתו שרה נישאה לדוד<persName> בנבנישתי</persName> (ז"ל), שהיה חבר מועצת עירית תל-אביב. ארבעת בניו הם: <persName>בן ציון, רפאל</persName> (ז"ל), <persName>שלמה</persName> (ז"ל)<persName> ומרדכי.</persName>
+
+ נכדו אברהם (אלברט) פקיד ראשי בברקליס בנק תל-אביב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 183 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/183</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

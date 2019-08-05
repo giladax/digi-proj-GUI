@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1218 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1218</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף פנחסוביץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פוצ'פ</placeName> פלך צ'רניגוב (אוקראינה) בשנת תר"ד (1844), לאביו ר' מרדכי (ממשפחת רבנים, מצאצאי ר' <persName>יום-טוב ליפמן הלר</persName> , בעל "תוספות יוםטוב'') ולאמו <persName>שרה</persName> . למד בחדרים ובישיבה. נשא לאשת את <persName>רבקה</persName> בת ר' <persName>זלמן מוקרוביץ</persName> . עסק במסחר יערות והגיע לדרגת סוחר ממדרגה ראשונה, בעל זכות מיוחדת לגור בערי רוסיה הפנימית, לאזורים שליהודים היתה אסורה הישיבה בהם.
+
+ אחרי "הסופות בנגב" משקמה תנועת ביל"ו ו"חבת ציוך והעליה לארץ-ישראל, חיסל את עסקיו הגדולים שברוסטוב ע''נ דון ובשנת תרמ"ד עלה ארצה עם כל משפחתו והתישב בפתח תקוה. קנה קרקע, בנה בית ורפת, והוא ובניו יצאו לעבוד את אדמתם. השתתף בעניני הצבור כחבר ותומך בבנין ביתהכנסת, חברת גמילות חסד, חבר ועד המושבה, ממיסדי יקב "כורמי התקוה" וביתר מוסדות המושבה.
+
+ כתב מזמן לזמן ב"הצפירה".
+
+ נפטר בפתח תקוה, ח' אלול תרס"ט. צאצאיו: <persName>מרדכי</persName> (מפעילי הצבור בראשון לציון), <persName>סוניה </persName> אשת אברהם גוטקין (רוסיה), <persName>בוריס</persName> (אפריקה הדרומית), <persName>בתיה</persName> אשת <persName>יהושע שפירא</persName> (זכרון יעקב), <persName>זאב (אפריקה הדרומית), חיה</persName> (ז"ל) אשת<persName> בן-ציון</persName> <persName>וולפברג, פניה </persName> אשת <persName>יצחק רייסקין</persName> (עין-גנים),<persName> אליעזר,</persName> <persName>משה</persName> (היה מוכתר פ"ת ופעיל בגאולת קרקעות), <persName>מאיר</persName> (מפעילי הצבור בפ"ת).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1218 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1218</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

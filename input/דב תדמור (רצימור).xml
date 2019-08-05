@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5661 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5661</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב תדמור (רצימור)</persName>
+
+</head>
+         <div><p> נולד בגלזץ (פולין), י"ד אב תרפ"ט (20.8.1929).
+
+ לאביו נחום<persName> רצימור</persName> ולאמו<persName> הינדה</persName> בת<persName> צבי ליכטר.</persName>
+
+ קיבל חינוך בבית ספר עממי בפולניה, בית-ספר תיכון ברוסיה, בית-ספר גבוה למשפט וכלכלה בתלאביב. וקיבל תואר LL.B.עורך דין. בשנת 1948 עלה לארץ.
+
+ התגייס לצה"ל (צבא הגנה לישראל).
+
+ בשנת 1954 נשא לאשה את <persName>שרה </persName> בת<persName> הלמן וקרמן</persName> .
+
+ כתב וכותב מאמרים בנושאים כלכליים ומשפטיים.
+
+ גזבר אגודת ידידי אוניברסיטת תל-אביב.
+
+ חבר הנהלת מרכז ישראלי לניהול.
+
+ חבר אגודת נאמני מכבי תל-אביב.
+
+ יו"ר אגודת אנשי עסק צעירים.
+
+ חבר ועדת הבניין של מוזיאון תל-אביב.
+
+ חבר המועצה הציבורית של התזמורת הפילהרמונית.
+
+ מנהל "חברה לנכסים ולבניין בע"מ"; חבר בדירקטוריון בפ.א.סי. "חברה להשקעות בישראל"; חברה להשקעות של בנק דיסקונט בע"מ, וחברות רבות אחרות.
+
+ היה מרצה באוניברסיטת תל-אביב.
+
+ צאצאיו: <persName>לוהי</persName> (נולדה 1961);<persName> ערן</persName> (נולד 1964).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5661 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5661</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

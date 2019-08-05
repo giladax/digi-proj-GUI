@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1733 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1733</bibl><bibl>Volume: #4 ,Page: 1734 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1734</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה אריה קלוזנר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אודיסה</placeName> (רוסיה) ה' סיון תר"ע (12 ביוני 1910) לאביו <persName>אלכסנדר זיסקינד</persName> (אחיו של פרופ' יוסף קלוזנר) ולאמו <persName>שלומית</persName> בת<persName> דוד זלמן לוי </persName> מוצא משפחתו מר' אברהם קלוזנר בעל "ס' המינהגים" (מת בשנת 1407) ומר' אלכסנדר זיסקינד מהורודנה בעל ."יסוד ושורש העבודה".
+
+ ראשית למודיו בגן-ילדים עברי ואחר-כך בבית-ספר עברי בעיר מולדתו. הודות לכך הלשון העברית שגורה היתה על פיו משחר-ילדותו. בהתחלת 1921 עזבה כל
+
+
+ משפחתו, ללא רשיון השלטונות ובסתר, את רוסיה ועברה לפולניה. משנת 1921 עד 1933 ישב בווילנה. למד כאן בגימנסיה עברית ואחר-כך, על מנת לאפשר לעצמו את הכניסה לאוניברסיטה, שנתיים בגימנסיה יהודית-פולנית. 1933--1929 למד מדעי-הרוח (ביחוד ספרות כללית
+
+ ופולנית) באוניברסיטה הווילנאית וקיבל בשנת 1933 את התואר B. A.
+
+ בסופה של אותה שנה עבר לארץ-ישראל ונכנס לאוניברסיטה העברית. מקצועו הראשי היה: ספרות עברית. ב-1937 זכה ב"פרס ביאליק" מטעם האוניברסיטה על הצטיינותו במקצוע זה ובמיוחד על מחקרו "בן אבויה ופאוסט" (נדפס "בתרביץ", שנה ט', תרצ"ח). ב-1942 סיים את למודיו באוניברסיטה וקיבל תואר מוסמך למדעי הרוח".
+
+ מ-1936 ספרן בבית-הספרים הלאומי והאוניברסיטאי.
+
+ ב-1938 נשא לאשה את<persName> רבקה</persName> בת <persName>נפתלי הרץ מוסמן.</persName>
+
+ ספריו: "תולדות הספרות הכללית" (הספר הראשון על נושא זה בספרות העברית), כרך א', תש"ד, כרך ב' יופיע בקרוב: "הנובילה בספרות העברית מראשיתה עד סוף תקופת-ההשכלה'', תש"ז (זכה ב"פרס קלוזנר" של עירית תל-אביב).
+
+ מאמרים ב''תרביץ", "מצודה", "גליונות", ועוד. השתתף ב"אנציקלופדיה כללית" וב"אנציקלופדיה לספרות ישראלית וכללית". משתתף ב"האנציקלופדיה. העברית" הגדולה שהכרך הראשון שלה הופיע בתמוז תש"ט.
+
+ בנו: <persName>עמוס</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1733 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1733</bibl><bibl>Volume: #4 ,Page: 1734 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1734</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3294 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3294</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחמן גלמן</persName>
+
+</head>
+         <div><p> נולד בי', אלול תרמ"ג (10.5.1883) במוהילב שברוסיה הלבנה.
+
+ לאביו <persName>אריה ליב </persName> ולאמו <persName>פנינה </persName> בת<persName> אליהו מזי"א וחנה</persName> לבית <persName>שטראשון,</persName> והיה אחותו של ד"ר<persName> אהרן מאיר מזי"א</persName> (ראה כרך ב', עמוד 805).
+
+ אחרי ראשית לימודים בחדר עלה לארץ בשנת 1895,
+
+ כשדודו הד"ר מזי"א כבר היה כאן זה שנים אחדות רופא במושבות יהודה. נכנס למקוה ישראל, גמר את בית-הספר בהצטיינות והמשיך בעבודה חקלאית עד סוף ימיו.
+
+ ב-1913 נשא לאשה את<persName> רחל</persName> בת ד"ר <persName>מנחם שטיין</persName> (מראשוני הבילויים - ראה כרך א', עמוד 115).
+
+ היה מותיקי החקלאים והפרדסנים בארץ, מהראשונים שדקדקו במצות עבודה עברית בפתח תקוה, ובהיותו חקלאי משכיל במקצועו להלכה ולמעשה, היו הפועלים בני העליה השניה מקבלים ממנו ידיעות בחקלאות והעבודה אצלו היתה להם לימוד רב-תועלת. (בין "תלמידיו" מהימים ההם אישים בצמרת הנהגת המדינה כיום, ביניהם גם <persName>דוד בן גוריון,</persName> שהיו אז פועלים בפתח תקוה).
+
+ נתן מזמנו גם לעניני צבור. היה מראשוני חברי ההגנה בפתח תקוה ויו''ר מועצת אגודת "בוסתן".
+
+ נפטר בפתח תקוה, ה' ניסן תשט"ו (28.3.1955).
+
+ צאצאיו: <persName>אריה, רענן, מנחמה</persName> אשת <persName>נחמיה גרף.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3294 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3294</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

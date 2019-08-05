@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3709 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3709</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר הלוי</persName>
+
+</head>
+         <div><p> נולד בולגרד (רומניה) כ"ז אדר ב' תרע"ו (2.3.1916).
+
+ לאביו<persName> אהרן הלוי</persName> ולאמו <persName>צפורה</persName> בת<persName> נחום מרדכי</persName> <persName>קריצמן.</persName>
+
+ קבל חנוך מסורתי וכללי. בוגר האוניברסיטה לכלכלה בבוקרסט ACADEMIE DES HAUTES ECONOMIQUES (רומניה).
+
+ היה פעיל בארגוני הנוער הציוני בעירו.
+
+ בשנת 1937 עלה לארץ.
+
+ היה מנהל חברה מסחרית מיטובה בע"מ משנת 1938 עד 1946.
+
+ בשנת 1939 נשא לאשה את <persName>חסידה</persName> בת <persName>אהרן ימפו</persName> <persName>לסקי.</persName>
+
+ השתתף בארץ בהקמת מפעלי ספנות.
+
+ שירת בהגנה במחתרת ובתפקידים מיוחדים בחו"ל.
+
+ בשנת 1946 עבר לג'נבה (שוייץ).
+
+ סגן יו"ר ההסתדרות הציונית והמגביות בג'נבה (שוייץ).
+
+ מנהל כללי בחברת סומרפון, ג'נבה (שוייץ).
+
+ עושה רבות למען הספנות הישראלית.
+
+ בתו: <persName>דניאלה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3709 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3709</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

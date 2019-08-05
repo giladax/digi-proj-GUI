@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 818 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/818</bibl><bibl>Volume: #2 ,Page: 819 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/819</bibl>
+<bibl>Volume: #2 ,Page: 820 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/820</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף גלעזר (גלאזר)</persName>
+
+</head>
+         <div><p> נולד בוינה, ב' טבת תרנ"א (1890), לאביו<persName> חיים</persName> <persName>גלאזר</persName> , שהיה שם פרופסור לספרות ולפילוסופיה. קיבל חינוך כללי ועברי (מאת סבו <persName>יוסף גלאזר</persName> , שהיה רב ראשי בשלזיה האוסטרית). גמר את הגימנסיה ונכנס למחלקה לספרות באוניברסיטת וינה, שם נספח לאגו
+
+ דת-הסטודנטים הציונית "קדימה", שהרצל בשעתו היה. נשיאה. בשנת תרע"ב בא עם קבוצת סטודנטים לתוך את הארץ והשתקע בה, אף כי רק שני סמסטרים נשאת לו עוד עד לקבלת התואר דוקטור, ואף כי היו לו סיכויים מזהירים למצוא את מקומו בחיים ובחברה בוינה, שכן היתה משפחת אמו מהמקורבים לחצר המלכות.
+
+ התחיל את הקאריירה החדשה כפועל בפתח-תקוה. כשפרץ ריב הלשון בארץ בגלל רצון חברת "עזרה" ("הילפספראיין" מברלין) להנהיג את הגרמנית כשפת
+
+
+ הוראה בתכניון החיפאי, והמורים העברים מרדו בחברת "עזרה" והקימו רשת-חינוך עברית לאומית, הזמינהו ר'<persName> דוד ילין</persName> להורות את השפה הגרמנית וספרותה בבית המדרש למורות בירושלים. באותו זמן התנדב להורות גם בבית-הספר "תחכמוני" בירושלים. אחרי מלחמתהעולם הראשונה נתמנה למזכירו של הד"ר <persName>א. רופין</persName> בועד הצירים ואחר-כך בהנהלה הציונית.
+
+ במשך הזמן התערה בחיים העבריים בארץ, שינה את שם משפחתו הלועזי "גלאזר" לשם העברי גלעזר ונשא לאשה את <persName>מרים בנדל </persName> מראש פנה, בת למשפחה חלוצית בבנין הישוב החקלאי בארץ.
+
+ תוך עבודתו במרכז הפעולה הציונית עמד על הצורך בשיפור דרכי התעמולה לרכישת נפשות למפעל הציוני, שהתעמולה תדבר לא רק במלים, אלא גם במראות ובתמונות. לשם כך יצא לחו"ל להשתלם במלאכת הצילום האמנותי והסרט. משהועברה הלשכה הראשית של קרן היסוד מלונדון לירושלים נכנס לעבוד החל מ-1926 במחלקה לתעמולה של הלשכה הראשית וניהל ופיתח את ארכיון הצילומים של קרן היסוד. כן שכלל את צורות האות העברית בדפוס בסגנונות חדישים עד כדי כך, שמאמריקה שלחו לעשות בארץ את חומר התעמולה בהדרכתו. ביחוד קנו להם שם לוחות-השנה המצויירים של קרן היסוד, שהוא היה מוציאם בכל שנה בטעם אמנותי משובח.
+
+ נפטר בירושלים ביום י' ניסן תש"ה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 818 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/818</bibl><bibl>Volume: #2 ,Page: 819 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/819</bibl>
+<bibl>Volume: #2 ,Page: 820 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/820</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

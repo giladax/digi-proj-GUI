@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3175 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3175</bibl><bibl>Volume: #8 ,Page: 3176 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3176</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>המהנדס יוסף לוי</persName>
+
+</head>
+         <div><p> נולד בשנת תרמ"ה (5.8.1885) בגלייוויץ שבשלזיה, גרמניה.
+
+ לאביו <persName>הרמן </persName> ולאמו<persName> קלארה</persName> לבית <persName>פרל.</persName>
+
+
+ למד מתימטיקה באוניברסיטת ברלין, ובבית-הספר הגבוה לטכנולוגיה בשארלוטנבורג-ברלין, ובאותן שנים היה פעיל באגודת סטודנטים ציונים. אחרי שהוסמך למהנדס-בנין ניהל מחלקות טכניות בחברות גדולות לשיכון ובנין ובמספנות בגרמניה.
+
+ ב-1913 עלה הארץ, להזמנת הד"ר<persName> א. רופין</persName> , ניהל את המחלקה הטכנית של המשרד הארצישראלי (זרוע הביצוע של ההסתדרות הציונית העולמית בארץ), ובו בזמן, על סף מלחמת העולם ואחרי התחלתה, השתדל אצל השלטונות התורכיים המקומיים והמרכזיים בדבר סידורי הגנה לישובים היהודיים בארץ (חומר בענין זה שמור בתיק מס' 280 של הארכיון הציוני בירושלים). משנבצר ממנו להמשיך בפעולתו בעקב הגזירות וההגבלות של השלטון הצבאי יצא לגרמניה ונשאר שם עד סוף המלחמה.
+
+ ב-1918 נשא לאשה את<persName> קלארה </persName> בת <persName>זליג זומרפלד</persName> .
+
+ אחרי המלחמה חזר לארץ ופתח ביפו משרד גדול לתיכנון והנדסה. אח"כ עבר לחיפה והמשיך לעבוד במקצועו. התישב בין הראשונים על הר הכרמל ובשנות העשרים היה חבר הועד להספקת המים על ההר. ממקום שבתו על הכרמל השקיף יום-יום על מרחבי מפרץ חיפה ועמק זבולון והגה את הרעיון לגאול את השטח לשם התקנת נמל גדול, מרכזי תעשיה ושיכונים ומשקי עזר לפועלי התעשיה. עיבד ושירטט תכניות, הציגן לראשי ההנהלה הציונית ותבע מעשים להגשמתן, אך לא מצא אז אזנים קשובות. בסוף הצליח לענין אגודות פרטיות של בעלי הון גדול ובינוני, ואחרי שהניעם ל"קפיצת נחשון", להשקעת כספים ולהתקשרות על רכישת הגוש הגדול של הקרקעות, בשטח 96 אלף דונם, ומשלא הספיקה יכלתם לגמירת המיבצע הגדול, נענו המוסדות הלאומיים וקיבלו את הענין בידם - אמנם בלעדיו ולא לפי תכניותיו, אבל העיקר, שהאדמה נגאלה בעוד מועד והוחל בפיתוחה וביישובה. בשנות השלושים עברו מבטו ויזמתו מהלאה לעכו, וביזמתו והשתתפותו נוסדה המושבה נהריה (ובה "ועדה חקלאית קואופרטיבית בע"מ" למשקים זעירים לפי תכניתו), ששימשה בסיס-גיחה לג
+
+ אולת הגליל המערבי. תוך השקפה למרחוק לא התעלם גם מאדמה קרובה. זמן מה לפני מאורעות 1936 גאל את אדמות יערות הכרמל, ובתרומת 1400 דונם לקהק"ל באותו שטח עזר ביסוד הנקודה בית אורן. אף גזירות "הספר הלבן" לא הרפו את ידיו וב-1940 גאל את אדמת מנשיה ליד עכו.
+
+ היה מפעילי המכבי וההגנה (מיום עליתו לארץ).
+
+ בסוף ימיו זכה לראות את כל שטחי גאולתו - ואף נהריה בכללם - בתוך תחומי מדינת ישראל.
+
+ נפטר בנהריה, כ"ו ניסן תש"ט (25.4.1949).
+
+ בתו<persName> כרמלה</persName> אשת <persName>יוסף מזורסקי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3175 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3175</bibl><bibl>Volume: #8 ,Page: 3176 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3176</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

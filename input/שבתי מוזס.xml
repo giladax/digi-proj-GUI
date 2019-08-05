@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4435 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4435</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שבתי מוזס</persName>
+
+</head>
+         <div><p> נולד בבויסק, פלך ריגה (לטביה), ח' טבת תרכ"ב (1862).
+
+ לאביו <persName>יהודה זינדל </persName> ולאמו <persName>חסיה.</persName>
+
+ קיבל חינוך מסורתי בחדרים ובישיבות: ר' <persName>שלמה</persName> <persName>מהרש''א,</persName> ר'<persName> מרדכי אליאשברג</persName> (לפני שכיהן שם על כסא הרבנות הרה"ג <persName>א. י. הכהן קוק</persName> זצ"ל).
+
+ בשנת תרמ"ד (1884) עלה לארץ והמשיך ללמוד בישיבה בעיר העתיקה בירושלים.
+
+ בשנת תרמ"ז (1887) נשא לאשה את <persName>פשה</persName> בת ר' <persName>אליהו מוניש </persName> (נפטרה בוינה, י"ח טבת תרס"ג7.1.1903) ובזיווג שני נשא לאשה בשנת תרס"ו (1906) את <persName>טובה</persName> בת <persName>זכריה זלץ.</persName>
+
+ בכדי לא להנות מה"חלוקה" שהיתה נהוגה בירושלים, עסק במסחר, והיה אחד מסוחרי ירושלים הותיקים. התהלך בשלום וביושר עם כל בן אדם. נתמזגו בו מדות הענוה והצניעות. היה בקי במשנה על פה. ולא הפסיק מלימודי תורה עד יומו האחרון.
+
+ היה בין הראשונים שרכש מגרש ב"בית וגן" ומגרש בשכונת "שערי חסד" בירושלים.
+
+ נפטר בירושלים, ח' תמוז תשי"ט (14.7.1959).
+
+ צאצאיו: <persName>מרדכי מוטס</persName> (מאשתו הראשונה).
+
+ מאשתו השניה: <persName>יהודה זינדל, משה, יצחק, ראובן,</persName> <persName>יעקב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4435 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4435</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

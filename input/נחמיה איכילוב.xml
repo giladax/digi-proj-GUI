@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5212 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5212</bibl><bibl>Volume: #17 ,Page: 5213 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5213</bibl>
+<bibl>Volume: #17 ,Page: 5214 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5214</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחמיה איכילוב</persName>
+
+</head>
+         <div><p> נולד בפתח-תקוה, כ"ה כסלו תרס"ט (19.12.1908).
+
+ לאביו <persName>יעקב איכילוב</persName> (ראה כרך שני, עמוד 732 בן ר' <persName>אברהם זלמן,</persName> שהיה מראשוני פתח-תקוה. ראה כרך שני, עמוד 780) ולאמו<persName> איטה (יהודית</persName> ) בת הרב <persName>יעקב מדרכי זינגר</persName> (שהיה רב ושו"ב בראשון לציון מיום היווסדה, ראה כרך שני, עמוד 597).
+
+ קיבל חינוך מסורתי, עברי וכללי.
+
+ חייו ופעלו היו קודש לענף ההדרים בארץ במשך 25 שנות חייו האחרונות. היה מנהל העבודה השיתופית של פרדסני פתח-תקוה "בוסתן" בע"מ.
+
+ בשנת 1932 נשא לאשה את <persName>יוכבד בת אהרן ליב</persName> <persName>מכנס</persName> (ראה כרך ראשון, עמוד 467).
+
+ הקים בית אריזה מרכזי לפרי הדר. היה חבר הועד הפועל של "פרדס-סינדיקט" בע"מ. היה חבר מועצת הפיקוח על פרי הדר. היה יו"ר ועדת הסטנדרט וחבר מרכז התאחדות
+
+
+ האיכרים, מועצת החקלאים בפתח-תקוה, חבר הועד החקלאי.
+
+ היה ממייסדי ופעיל נלהב באגודת "מכבי-אבשלום" ומראשוני הכדורגלנים בפתח-תקוה.
+
+ היה חבר מרכז מכבי ישראל.
+
+ נסע פעמים אחדות בשליחות "המועצה לשיווק פרי הדר" ו"פרדס סינדיקט" לסקר השווקים בחו"ל.
+
+ היה נציג הפרדסנים בכל מוסדות הפרדסנות בארץ.
+
+ היה חבר פעיל בהגנה, בנוטרות ובצבא שנים רבות.
+
+ צאצאיו: <persName>אריה, ליהו, שרה</persName> אשת <persName>אבינועם ירון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5212 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5212</bibl><bibl>Volume: #17 ,Page: 5213 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5213</bibl>
+<bibl>Volume: #17 ,Page: 5214 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5214</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

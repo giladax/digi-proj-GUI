@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3539 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3539</bibl><bibl>Volume: #10 ,Page: 3540 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3540</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמשון קרופניק</persName>
+
+</head>
+         <div><p> נולד ט' שבט תרע"ג (16.1.1913) ברוסיה.
+
+ לאביו <persName>יהושע </persName> (דור ששי מצד אמו לר'<persName> לוי יצחק</persName> מברדיצ'ב) ולאמו <persName>בילה</persName> בת<persName> אלימלך ליבנשטיין</persName> .
+
+ בילדותו יצא עם הוריו לארה"ב. למד בבית מדרש לתורה בשיקאגו, במדרשה ללימודי היהדות בשיקאגו (בה הוסמך ב-1933 למורה לעברית), באוניברסיטה די פאול בשיקאגו (בה הוסמך ב-1934 ל"בוגר למדעים )B.S. ובאוניברסיטה של אילינויס (בה הוסמך לרואה חשבונות).
+
+ ב-1935 נשא לאשה את <persName>לאה</persName> בת<persName> אליקום גצל מירנסקי</persName> . עוסק בבקורת חשבונות בשיקאגו ובארגון וניהול השקעות באמריקה ובישראל. פעיל בעסקנות דתית-לאומית. לצרכים מקומיים ובעניני ישראל. היה בתקופות שונות נשיא הפועל המזרחי בשיקאגו, סגן נשיא הפועל המזרחי באמריקה, ראש משלחת הפועל המזרחי לקונגרס הציוני בירושלים (1951) ובאותו זמן חבר משלחת מלוה הפיתוח הישראלי משיקאגו, נשיא בית הכנסת "אגודת אחים'', נשיא איגוד הקהלות החרדיות בשיקאגו, נשיא בית-הספר הכל-יומי "עקיבא", ראש המגבית של הסתדרות עברית. בשיקאגו. תפקידיו הצבוריים כעת : ראש הועד הפועל של המזרחי-הפועל המזרחי באמריקה, של ועד החינוך היהודי בשיקאגו ושל איגוד הקהלות החרדיות בשיקאגו ; ראש הועד השכונתי למגבית לבית מדרש לתורה, ראש ועד החינוך "אגודת אחים" לדרום שיקאגו ושל ביתספר כל-יומי "עקיבא" ; סגן נשיא של הועד המקומי למען הקהק"ל, של ארגון הורים ומורים לבתי-ספר כליומיים באמריקה, של המחלקות לפעולה בבתי-כנסיות. למען המגבית והמלווה לישראל ושל קהלת "אגודת אחים"; חבר הועד הפועל של המפעלים למען האוניברסיטה העברית, הטכניון, אוניברסיטת בר-אילן, קרן ההצלה, הסתדרות עברית, בני ברית, אקדמיה עברית בשיקאגו ; חבר ועדי הנאמנים של "רסקו", "משכנות" (חברה של הפועל המזרחי בישראל לשיכון ובנין) ושל "אמפל" ; נדב לקהק"ל "מיל של עצים" בקרבת באר שבע.
+
+ צאצאיו:<persName> יעקב יוסף, דבורה, אליהו חיים, עליזה</persName> <persName>איטה, רחל חיה</persName> .
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3539 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3539</bibl><bibl>Volume: #10 ,Page: 3540 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3540</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

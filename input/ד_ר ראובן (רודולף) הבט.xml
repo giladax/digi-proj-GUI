@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3885 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3885</bibl><bibl>Volume: #12 ,Page: 3946 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3946</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר ראובן (רודולף) הבט</persName>
+
+</head>
+         <div><p> נולד כ''ח אב תרס''ט (15.8.1909) באנטוורפן שבבלגיה.
+
+ לאביו <persName>יעקב </persName> בן <persName>שמשון הלוי</persName> ולאמו<persName> אלה</persName> בת <persName>שמואל</persName> <persName>מוהר.</persName>
+
+ גדל ולמד בבאזל, נתין שויצרי.
+
+ אביו הוא מייסד ויושב-ראש ההנהלה של קבוצת חברות חשובות לספנות והובלה לאורך נהר ריין. סבו היה מורה ליהדות בגונדלסהיים. דודו <persName>הרמן הכט</persName> היה בזמנו יו"ר של הקונצרן "דגניה''. מתוך שושלת של משפחת<persName> הכט</persName> יוזכרו:<persName> אלעזר</persName> ששמו רשום ברשימת האזרחים של וונקהיים בשנת 1576 ;<persName> אלעזר הלוי</persName> שקיבל תעודה של "Schutzjude"בשנת 1653 ; <persName> שמשון</persName> בן<persName> אלעזר הלוי</persName> שנולד ב-1660 ונקרא "שמשון וונקום''; <persName>אלעזר בן נתן </persName> בחר לו בשנת 1809 את השט<persName> הכט,</persName> שמקורו אולי בראשי תיבות הכ"ת.
+
+ למד באוניברסיטאות מינכן, היידלברג וברלין, השתלם בכלכלה וקיבל תוארים כלכלן מוסמך ו- Dr. rer. pol.. המשיך לעסוק בכלכלה מדינית ובשאלות כלכליות, בספנות, בהובלה בינלאומית, באחסנה (במקצוע זה הוא דור שלישי במשפחתו), וכן בחברות בשווייץ, בחבל הריין ובבלגיה. בו בזמן השתלם בתולדות האמנות ובארכיאולוגיה.
+
+ בנעוריו הצטרף לתנועת-הנוער הציונית "בלאו-ווייס" בבאזל, ובשנות לימודיו באוניברסיטה היה חבר ארגון הסטודנטים הציוניים K.J.V.
+
+ ב-1931 בא לסיור בארץ.
+
+ ב-1936 עלה לארץ על מנת להשתקע והציע לממשלת המנדט להקים ולנהל בית-ממגורות מודרני בנמל חיפה, אך הצעתו נדחתה והוא נשאר בארץ לשרת את תקומת ישראל בכל דרך אחרת שימצא.
+
+ היה חבר הועד הפועל העולמי של הצה"ר והצ"ח, ובארץ היה חבר אצ"ל.
+
+ ב-1939 יצא לאירופה בשליחות מפקד אצ"ל <persName>דוד</persName> <persName>רזיאל</persName> ז''ל (ראה כרך ב', עמוד 976) לשם ארגון עליה ב'. שמו הוכנס לרשימות השחורות של האנגלים, ולכן לא ניתן לו לשוב לארץ כל עוד הם שלטו בה, ופעל למענה מחוצה לה בתור חבר הועד לשחרור לאומי,
+
+ פעיל בעליה הבלתי-ליגאלית ממערב אירופה ומארצות הבלקאן, וכן בוועדי ההצלה.
+
+ ב-1941 נשא בבלגרד לאשה את <persName>עדית </persName> בת <persName>יוסף צילצר</persName> (נרדפים ע"י הגסטפו הצליחו להמלט מיוגוסלביה הכבושה).
+
+ ב-1948 אחרי קום המדינה, נפגש בבאזל עם שר התחבורה הראשון שלה<persName> דוד רמז </persName> ז"ל, וזה הסכים לתכניתו להקמת בתי-ממגורות בנמלי ישראל, וב-1950 קיבל את הזכיון הדרוש לכך, שהיה הראשון לזכיונות שממשלת ישראל החלד. נותנת בסמכותה הריבונית, ותקפו נקבע ל-51 שנה.
+
+ ב-1951 יסד חברת "דגון", שמפעלה בחיפה השיג
+
+
+ בכושר תפוקתו שיאים עולמיים וזכה יחד עם מנהלו בפרס הממלכתי ליעילות - פרס קפלן תש"ך.
+
+ נוסף לעיסוקו הקבוע כיו"ר מועצת המנהלים ומנהלה הכללי של "דגון'" בתי-ממגורות לישראל בע"מ בחיפה, הנו גם מנהל "נפטון" - חברה להובלה וספנות בע"מ, באזל; ממנהלי הקונצרן לספנות "רנניה"! מנהל "נפטון", אנטוורפן, - ומנהל חברות אחרות שונות בארץ ובחוץ-לארץ.
+
+ נותן לצרכי צבור גם מזמנו ומידיעותיו בתור חבר הקוראטוריון של המוסיאונים העירוניים בחיפה ; חבר הוועדה לתיכנון שטרי כסף, מעות ומטבעות זכרון שליד בנק ישראל, חבר המועצה הישראלית של קרן התרבות אמריקה-ישראל, וחבר בעוד ועדות צבוריות שונות.
+
+ ב-1933 יצא ספרו בגרמנית, מחקר בתובלת מטענים בספנות על הריין Die Frachtenbildung in der .1933Rheinschiffahrt. Preistheoretische Studie,
+
+ וכן פרסם מאמרים שונים בכתבי-עת ובעתונים ועורך ספרים.
+
+ צייר חובב ואספן תמונות ודברי ארכיאולוגיה ונומיסמטיקה ישראלית.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3885 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3885</bibl><bibl>Volume: #12 ,Page: 3946 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3946</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

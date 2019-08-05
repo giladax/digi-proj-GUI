@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2621 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2621</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר קופרמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>גאלאץ</placeName> (רומניה), בשנת תר"כ (1860).
+
+ לאביו<persName> אברהם משה.</persName>
+
+ קבל חנוך מסורתי וכללי.
+
+ התגייס לצבא הרומני ושירת בו כמה שנים. בשנת תרמ"ב (1882) עלה לארץ עם קבוצת העולים הראשונה שהתארגנה ע"י חברות "ישוב ארץ-ישראל" ו"חובבי-ציון" ברומניה ויסדו את המושבות: "ראש פינה" ו"זכרון-יעקב".
+
+ מראשוני מתישבי "זכרון-יעקב". הקים בית ומשק והיה לחקלאי כל ימיו.
+
+ נשא לאשה את<persName> פרידה</persName> בת <persName>יצחק פנסי</persName> (בן <persName>משה</persName> <persName>פנסי</persName> , סגן קונסול בריטניה בעכו).
+
+ עמד על משמר המושבה והשתתף בהתפתחותה. בראשית שנת תר"ע (1910) חלה ונסע לוינה לשם ניתוח.
+
+ נפטר שם, ד' חשון תר"ע (19.10.1909).
+
+ צאצאיו: <persName>אברהם משה, מרים</persName> אשת <persName>בן-ציון פדרמן,</persName> <persName>יוסף</persName> (ממונה על מחוז תל-אביב, ראה כרך א' עמוד 85), <persName>דוד, דב, שרה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2621 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2621</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

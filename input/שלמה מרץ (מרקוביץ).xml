@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4197 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4197</bibl><bibl>Volume: #13 ,Page: 4198 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4198</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה מרץ (מרקוביץ)</persName>
+
+</head>
+         <div><p> נולד בשנת תרע''ב (18.10.1911) בצ'נסטוכוב שבפולין.
+
+ לאביו<persName> יעקב </persName> (מורה לעברית בגימנסיה בצ'נסטוכוב) ולאמו<persName> רודה </persName> בת<persName> מנדל שאניק.</persName>
+
+ במוצאי מלחמת-העולם (1919) עברה המשפחה לברלין. שם למד <persName>שלמה </persName> בבית-הספר היהודי ואח"כ בגימנסיה עד לגמר.
+
+ ב-1926 השתתף עם הוריו בביקור בארץ. בנעוריו חיבר שני מחזות, שהוצגו על ירי להקת חובבים בתיאטרון היהודי בברלין. כתב מאמרים ובעתונות הציונית המקומית ובעתון היהודי הווינאי "אידישע שטימא". בציונות הלך בדרך אביו, הצטרף לתנועת הצה"ר והיה ממיסדי קו בית"ר בברלין ומפקדו.
+
+ ב-1935 נשא לאשה את<persName> שושנה</persName> בת<persName> מנדיל לוין </persName> מריגה, שלמדה אז בברלין.
+
+
+ מיד אח"כ עלו שניהם לארץ, ובעקבותיהם באו הוריו ואחותו <persName>הלה</persName> (אלמנת <persName>אברהם טיכמן)</persName> .
+
+ כאן היה פעיל בבית"ר ובתנועה הרביזיוניסטית וכתב בעתוניה.
+
+ ב-1938 נאסר ביפו לרגל פעולה לשבירת ההבלגה. היה פעיל במחתרת אצ"ל מראשיתה, ובמלחמת הקוממיות שירת בצה"ל. המשיך בפעילותו ב"תנועת חרות" ובעבודה במערכת עתונה היומי ''חרות", בו שימש בעשר השנים האחרונות בתור מזכיר המערכת. בעבודתו בעריכת השבועון ''חרות לנוער" הדריך ואימן בעבודה עתונאית כתבים צעירים, שגילו אח"כ כושר בתור עתונאים מק
+
+ צועיים ב"חרות" ובעתונים אחרים. היה אח במיסדר הבונים החפשיים והפעיל את נסיונו משם בייסודו ובניהולו של ''מיסדר ז'בוטינסקי".
+
+ נפטר פתאומית בביתו ברמת-גן, כ"ג אייר תשכ"ג (17.5.1963) ונקבר בקרית שאול.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4197 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4197</bibl><bibl>Volume: #13 ,Page: 4198 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4198</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

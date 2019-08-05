@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3856 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3856</bibl><bibl>Volume: #11 ,Page: 3857 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3857</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אשר למיל הריס</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רוסיה</placeName> בתרכ"א (1861).
+
+ לאביו הרב<persName> אברהם הריס</persName> .
+
+ דודיו היו; הגאון רבי <persName>נחום מקדיש</persName> , שראה בימיו את אליהו הנביא ע"י הכותל המערבי בירושלים, והרב <persName>אברהם קורפול הריס</persName> ממיסדי שכונת ''מאה שערים" בירושלים ומנהלה הראשי.
+
+ נתחנך על ברכי אביו ובישיבות.
+
+ בשנת תרל"ג (1873) עלה עם אביו לארץ, ונכנס ללמוד בישיבת "עץ-חיים", וקיבל תורה מהרב <persName>שמואל סלנט</persName> זצ"ל.
+
+ בהיותו בן 17 נשא לאשה את<persName> חיה </persName> (בת 15) בת הרב העסקן רבי <persName>שמואל הומינר</persName> ז''ל, שהיה אחד ממיסדי השכונות "מאה שערים", "בית יעקב" ואת המוסד "בית היתומים דיסקין".
+
+ נסע לבירות (הלבנון) והשתלם בתור רוקח.
+
+ בשנת תרל"ז (1877) נתמנה לרוקח בשכונת "מאה שערים" בירושלים.
+
+ בשנות 1910-1913 היה הרוקח והרופא במושבה קסטינה (באר-טוביה) גם התושבים מהכפרים כבדוהו מאד. היו מזמינים אותו לחולים בכפרים, והיה נאמן עליהם כשופט בסכסוכים שביניהם.
+
+ בהשפעתו נגאלו שטחי קרקע גדולים בסביבות באר-טוביה.
+
+ בשנת תרע"ו (1916) נסע בשליחות רבני ירושלים לארצות הברית לטובת תלמוד תורה וישיבת "מאה שערים", והצליח להרים את המוסד - למוסד חשוב.
+
+ היה בקי גדול בתלמוד, חכם פיקח וירא שמיב
+
+
+ היה, מושלם בכל המידות הטובות. צנוע ונחבא אל הכלים.
+
+ נפטר בירושלים בשנת תרצ''ז (1937).
+
+ צאצאיו: הרב<persName> מרדכי הריס,</persName> הרב <persName>אברהם הריס,</persName> <persName>אליהו הריס, חיה</persName> אשת <persName>שמעון יוחנן סגל, ריזל</persName> אשת הרב <persName>שלום יעקובסון </persName> ז"ל (מנהל ראשי במפעל התורה בא"י).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3856 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3856</bibl><bibl>Volume: #11 ,Page: 3857 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3857</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

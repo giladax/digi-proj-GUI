@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5613 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5613</bibl><bibl>Volume: #19 ,Page: 5614 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5614</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרבנית דיליסיה קראוז</persName>
+
+</head>
+         <div><p> נולדה בראבאט (מרוקו) בשנת תרי"א (1851).
+
+ לאביה הרב <persName>דוד בן-שמעון,</persName> המכונה "צוף דבש", הרבנית היא אחותו של הרב רפאל אהרן בן-שמעון (ראה את הערך של אביה בכרך זה, בעמוד 5611), ולאמה <persName>רחל.</persName>
+
+ קיבלה חינוך מסורתי.
+
+ בהיותה בת 3 שנים עלתה יחד עם הוריה לארץ.
+
+ בשנת תרל"ה (1875) נישאה להרב<persName> יוסף קראוז,</persName> שהיה מזכיר כולל הונגריה בירושלים. נפטרה בירושלים.
+
+
+ יסדה בירושלים חברת "עזרת נשים" ועמדה בראשה.
+
+ היתה ידועה כעסקנית ציבורית, תומכת בעניים, בייחוד בעניים שישבו בכניסה לכותל המערבי, רובם חרשים, עוורים, פסחים ובעלי מומים. בכל חג סוכות היתה מחלקת לעניים, אלמנות ויתומים - בגדים חדשים. בערבי חג הפסח היתה מחלקת סכומי כסף לעריכת הסדר והחג.
+
+ היתה מקובלת על כל העדות כאשכנזים, מערבים וספרדים. השפעתה היתה גדולה עליהן. רבים מבעלי היכולת הכספית שלחו לה סכומים שונים, כדי לעזור לה במעשיה הטובים. פעמים אחדות נסעה למצרים והתרימה את עשיריה למען תמיכה בעניי ירושלים. עסקה גם במצוות הכנסת כלה. כשנפטרה הכריז הרב רוזנפלד על ביטול מלאכה בשעת הלווייתה. המונים הלכו אחרי ארונה ועניי ירושלים התאבלו עליה, על "אם העניים".
+
+ נפטרה בירושלים, א' אדר תרפ"ד (6.2.1924) והובאה לקבורה בהר הזיתים.
+
+ צאצאיה: לא היו לה ילדים. כשנישאה לרב <persName>יוסף</persName> <persName>קראוז </persName> הנ"ל, שהיה אלמן, מטופל בחמישה ילדים פעוטים, קיבלה עליה להיות להם אם; גידלה וחינכה אותם, כאילו היו ילדיה. כמו כן אימצה לה נכד של בעלה, שאמו מתה עליו בהיותו בן שישה ימים. גידלה, חינכה וחיתנה אותו, את<persName> יצחק קראוז </persName> שהיה ידוע כגואל קרקעות מידי הערבים. כמו כן הדריכה וחינכה את בת אחותה -<persName> רחל עטיה</persName> (ראה את הערך שלה בכרך י"ג, בעמוד 4231) במעשי חסד וצדקה, הידועה כיום בעסקנותה הציבורית בתל-אביב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5613 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5613</bibl><bibl>Volume: #19 ,Page: 5614 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5614</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

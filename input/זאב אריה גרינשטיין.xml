@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 633 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/633</bibl><bibl>Volume: #2 ,Page: 634 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/634</bibl>
+<bibl>Volume: #2 ,Page: 635 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/635</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זאב אריה גרינשטיין</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרי"ג (1853) לאביו ר' <persName>מאיר</persName> <persName>גרינשטיין,</persName> שעלה כעשר שנים לפני כן מעיר ממל (פרוסיה המזרחית), שם היה בעל בית-מסחר לנעלים, וגם בירושלים עסק במסחר ובעבודה וסירב לקבל "חלוקה", ידע לדבר בתשע שפות ובימי מלחמת רוסיה - טורקיה (1877-78) שימש כמתורגמן באיסטמבול.
+
+ נתחנך בתלמוד-תורה שבחורבת ר' יהודה החסיד וגם קנה לו ידיעות בשפות. כשבא <persName>קארל נטר</persName> מטעם "כל ישראל חברים" ליסד את בית-הספר החקלאי, היה אחד מחמשת תלמידיו הראשונים ויד ימינו של המנהל. (הוא שמסר לנטר את רעיונו של ר' <persName>חנן</persName> <persName>חייט,</persName> עובד במוסד בראשיתו, שצץ בו בשעת קריאת הפרשה וההפטרה של בחוקותי, שהמוסד צריך להקרא בשם "מקוה ישראל", ונטר קיבל מיד את ההצעה והגשימה למעשה). בזמן הראשון היו המנהל ותל
+
+ מידיו גרים על חוף הים ביפו ויוצאים בכל בוקר ברגל לעבודה במקוה ישראל.
+
+ אביו חשש, שבמוסד זה תיפגם אדיקותו הדתית ולכן השיאו אשה (את מרת <persName>אסתר </persName> לבית <persName>רבינוביץ,</persName> אחות <persName>יעקב יהושע רבינוביץ</persName> , מאכרי פתח-תקוה), בתקוה שבהתאם לתקנות המוסד, שרק רווקים יכולים ללמוד בו, יגרשו את בנו הביתה. אך תודות לזריזותו ולחריצותו התעלמה ההנהלה מעבירה זו על התקנות והשאירתו ללמוד במוסד אף כי נשוי הוא, וכשגמר את לימודיו נשאר שם כמורה ומזכיר ושם נולד לו בנו בכורו <persName>חיים צבי,</persName> אחד מארבעת גבורי הגנת פתחתקוה בתרפ"א.
+
+ כשהחלו אנשי ירושלים ביסוד המושבה פתחתקוה והקימו את מושבם ליד הירקון, עזב את משרתו השקטה והבטוחה במקוה ישראל והלך שמה עם אשתו ובנו לנהל את משק הפלחה של ר'<persName> משה ריינ</persName> <persName>הרץ.</persName> שם סבלו את כל פגעי המיסדים הראשונים: קדחת מבצות הירקון, דירה בסוכות מחוסר אמצעים ורשיון לבנות בתים, התקפות השכנים הערבים ונגישות אנשי השלטון - והחזיקו מעמד בגבורה. אח"כ עבד זמן-מה בראשון-לציון, כמנהל משק הפלחה ונטיעת כרם ענבים למר<persName> פריימאן,</persName> וכשנתחדש ישוב פתח-תקוה בכפר יהודיה עבר שמה וניהל את הפלחה של מר <persName>שאטיל</persName> (חותנו של<persName> אליהו ספיר)</persName> , וכשנתחדש הישוב על אדמת פתח-תקוה כיום הצטרף אליהם.
+
+ ביהודיה ובפתח-תקוה השתתף בגבורה בתגרות הרבות בהגנת המקום והשדות. ביחוד הצטיינה בגבורה ובאומץ-לב אשתו אסתר, זו "סית אסתר" שהזכרת שמה בלבד הפילה פחד על הערבים, כי היתה פורצת לתוך מערבולת הקרבות והולמת באגרופיה על ימין ועל שמאל, ואף את חוכר מס ה"מעשר", אפנדי נשואפנים, כיבדה בסטירות על פניו כשלא הרפה מנגישותיו, וכן הניסה במכות את השייכים שבאו להפריע את בנין ביתם בלי רשיון, כפי שנצטוו על-ידקצין-המשטרה. באחת התגרות עם שיירה של חתונה בידואית, שרמסה את שדות היהודים, הפילה את הגמל שהכלה הובלה עליו וחטפה לערבון את
+
+
+ התכשיטים מעל הכלה, ובמהומה זאת הצילה את <persName>סנדר</persName> חדד מליהרג בו במקום ואף הכריחה את הערבים לפייס את היהודים ולפצותם על הנזק בזבח-שלום.
+
+ השתתף בבנין המושבה, נטע פרדס, ואחרי מות אשתו הראשונה בעקב תאונה בעת אחד ממעשי הגבורה, נשא את מרת<persName> שרה</persName> בת <persName>יצחק גולדברג</persName> . עיר לידידיו בהלואות ובערבויות ובשעבוד נחלתו במשכנתאות, ורק לעת זקנה שוחרר מסבך החובות והשעבודים, ומאז היה קובע עתים לתורה בבית המדרש והצטיין גם בתור קורא בתורה ובסיפור עובדות ואנקדוטות מחיי העם. (גם הבארון רוטשילד נהנה מסיפוריו כשביקר אצלו פעמים אחדות בפאריס).
+
+ נפטר בז' חשון תרצ"ג בבית-החולים "הדסה" בתל אביב ונקבר בפתח-תקוה.
+
+ צאצאיו; <persName>חיים-צבי</persName> (ז"ל); <persName>צפורה ; אסתר-גולדה ;</persName> <persName>רחל ; שולמית; מיכאל; שושנה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 633 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/633</bibl><bibl>Volume: #2 ,Page: 634 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/634</bibl>
+<bibl>Volume: #2 ,Page: 635 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/635</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

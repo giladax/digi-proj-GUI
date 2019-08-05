@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4349 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4349</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עו"ד עמנואל מטלון</persName>
+
+</head>
+         <div><p> נולד ביפו (א"י) ביום ד' טבת תר"ע (16.12.1909).
+
+ לאביו <persName>משה יצחק מטלון </persName> (מעורכי הדין הראשונים בארץ. גואל קרקעות ועסקן ציבורי. ראה כרך שביעי, עמוד 2941) ולאמו<persName> מלכה רחל</persName> בת הרב <persName>משה יצחק</persName> <persName>הכהן </persName> מירושלים (נפטרה בתל-אביב, ט' אייר תש"ג 14.5.1943).
+
+ קיבל חינוך בביה"ס "תחכמוני", האליאנס (כי"ח) ובוגר הגימנסיה העברית "הרצליה" בתל-אביב. למד משפטים באוניברסיטה בלונדון וקיבל תואר עורך דין LL.B.והוסמך גם לבריסטר אט-לוא.
+
+ היה חבר פעיל ב"מכבי" ירושלים.
+
+ נשא לאשה את<persName> עדינה</persName> בת<persName> בן-ציון מזרחי </persName> (בעל בית דפוס "אחוה" בירושלים).
+
+ בשנים 1935-47 שימש כמפקח מחלקת הקרקעות ובא כוח היועץ המשפטי בענייני קרקעות בממשלת המנדט בירושלים.
+
+ משנת 1948 עד 1953 שופט שלום בתל-אביב.
+
+ חבר נשיאות בית הדין העליון של הסתדרות הספורט הישראלית.
+
+ חבר בית הדין של "המכבי".
+
+ אח בלשכת בני-ברית ובלשכת הבנאים החפשים "חירם" בתל-אביב.
+
+ חבר בית-האבות ע"ש <persName>ליאון רקנאטי</persName> בקרית ממלין.
+
+ חבר ההנהלה של "ידע-עם" לפולקלור בת"א.
+
+ כיום, עובד כעורך דין פרטי.
+
+ צאצאיו: <persName>מלכה</persName> אשת <persName>ד"ר דב גורשיין </persName> (רופא מדיציני), <persName>משה, אביבה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4349 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4349</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

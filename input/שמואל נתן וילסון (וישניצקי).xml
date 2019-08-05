@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 608 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/608</bibl><bibl>Volume: #2 ,Page: 609 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/609</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל נתן וילסון (וישניצקי)</persName>
+
+</head>
+         <div><p> נולד באחוזה פודראיסק, שבין העיירות וולקוביסק ופורזאבה שבפלך גרודנה (פולין), כ"ז כסלו תר"ל (1869), לאביו<persName> יעקב מאיר וישניצקי</persName> , חוכר האחוזה ומשרפות היי"ש שבה. למד בחדר בעיירה פורזאבה הסמוכה ואח"כ בישיבה יחד עם<persName> משה אביגדור עמיאל</persName> (שהיה אח"כ רב ראשי בת"א). באביב תרמ"ו, כשאכלה דליקה את גג בנין המושבה, נסע לביאליסטוק, למד במשך שלש שנים את מלאכת הבנאות, התמחה עוד שנתים, קיבל תעודת אישור משר-הפלך כבנאי אומן. עסק בקבלנות בנין בהצלחה. בגלל המשבר ב-1899 יצא לאמריקה, התישב ב-1900 בהארדפורד שבמדינת קונקטיקט (ארה"ב) והסתדר בזמן קצר בתור קבלן בנאי. במשך הזמן התאזרח שם ושינה את שם-משפחתו לוילסון.
+
+ שם יסד אגודת "בני ציון" וברצותו לתת חינוך עברי לילדיו הצליח להשפיע על האגודה, שתיסד גן-ילדים עברי. הגן הצליח מאד וזכה לתהילה מפי המטיף<persName> צבי מאסליאנסקי</persName> . אח"כ יסד תלמוד-תורה לילדים גדולים יותר בעזרת ר' <persName>משה דוד שוב</persName> מראשפנה, שהיה מנהל המוסד, והבילויי<persName> אריאל דב לי</persName> <persName>בוביץ</persName> מגדרה, שבא אז לאמריקה מפני צוק העתים, היה מורה בו.
+
+ נשא לאשה את<persName> טובה</persName> בת ר' <persName>אברהם שצגלוויצקי</persName> . תוך פעולתו הציונית כיו"ר אגודת "בני ציון" בהארדפורד, כחבר במיסדר "בני ציוך בניו-יורק וכחבר ב"היברו אינסטיטוט", גבר בו הרצון לעלות ארצה. התשובה שקיבל מלשכת המודיעין שבת"א בהנהלת <persName>מנחם שיינקין </persName> לא היתה מעודדת, אך מכתבו של האכר
+
+
+<persName>שמחה חמלניצקי</persName> משפיה המריץ אותו להחיש את העליה ובחשון תר"ע (1909) בא והחל בפעולת בנין תל-אביב והנהיג צורת-בנין אירופית בבנין העיר העברית. מאז המשיך בעבודתו כקבלן-בנין ומילא תפקידים רבים ושונים בשרות הצבור. במשך מלחמתהעולם הראשונה היה חבר ועד הסיוע האמריקאי להקלת המצוקה וכנתין אמריקאי נסע למצרים להביא כסף לסיוע. אחרי המלחמה שימש בתקופות שונות בתפקידי ראש ועדת הבנין בתל-אביב, חבר הועד הפועל של עירית תל-אביב, אחד המיסדים וחבר ההנהלה של מכבי-אש מתנדבים בתל-אביב, חבר ועדת העבודה שליד ההנהלה הציונית, חבר המועצה להת
+
+ ישבות עירונית, מוכתר ת"א לעניני ספירת התושבים ב-1922, חבר ועד בנין בית-הכנסת הגדול בת"א, יו"ר הסתדרות בעלי-המלאכה העברים בארץ-ישראל, חבר הועדה לעיבוד חוקי הבנין, חבר ב"חברה חדשה" שרכשה את הקרקע שעליו נבנה "לב תל-אביב" וחלק של רחוב אלנבי, חבר הועדה המפשרת בסכסוכים שבין בעלי-בתים לשוכרי דירות, ציר בקונגרס הציוני ה-13 בקרלסבאד ברשימת "המזרחי"' מיסד ויו"ר מועדון הספורט "הגבור" בת"א, יו"ר מועדון-השחמס על-שם עקיבא רובינשטיין בת"א. פרסם מאמרים בעתונות בשאלות בנין בתים. היה אפוטרופוס לעזבונות, ליתומים ולאלמנות.
+
+ לפני שנים אחדות השתקע בראשון-לציון.
+
+ צאצאיו: <persName>אברהם </persName> (אבי);<persName> יעקב</persName> ;<persName> עדה</persName> אשת<persName> עשהאל</persName> <persName>פוחצבסקי; שרה</persName> אשת<persName> בוריס ויסבורד</persName> ; <persName>צפורה</persName> אשת <persName>נתן</persName> <persName>ברויטמן;</persName> <persName> יהודית; נחמה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 608 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/608</bibl><bibl>Volume: #2 ,Page: 609 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/609</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

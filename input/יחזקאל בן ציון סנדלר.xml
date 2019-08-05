@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2385 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2385</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יחזקאל בן-ציון סנדלר</persName>
+
+</head>
+         <div><p> נולד במטולה, כ"ט תמוז תרפ''ט (6,8.1929).
+
+ לאביו <persName>חנוך</persName> ולאמו<persName> חיה</persName> בת<persName> אברהם גדול פטרנק.</persName>
+
+ קיבל חינוך בביה"ס במטולה והמשיך בבית הספר המקצועי בחיפה.
+
+ היה פעיל במחנות הנוער, בארגון "נוער צופים", פעיל בהגנה, בעיקר בהעפלה : בהעברת עולים בין ההרים - מסוריה והלבנון לאי".
+
+ כשהוקמה מדינת ישראל, שירת כקצין בצ.ה.ל. והצטיין בחזית מול הפולשים הערבים.
+
+ נהרג בגבולות תרשיחה, ט' תמוז תש''ח (16.7.1948).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2385 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2385</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

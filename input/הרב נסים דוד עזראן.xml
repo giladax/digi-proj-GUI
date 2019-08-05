@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3620 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3620</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב נסים דוד עזראן</persName>
+
+</head>
+         <div><p> נולד ביפו, כ"ח כסלו תרע''א.
+
+ לאביו הרב <persName>שמואל עזראן</persName> (אב בית-דין לעדת המערבים בירושלים) ולאמו<persName> ריקה</persName> בת <persName>יאיר עזרא</persName> (המשפחה עלתה לארץ ממראקש, מרוקו הצרפתית בשנת 1902).
+
+ סבו הרב <persName>מרדכי עזראן </persName> היה חבר בית דין ביפו.
+
+ קיבל חינוך מסורתי בחדר ובישיבת "פורת-יוסף" בעיר העתיקה בירושלים.
+
+ בשנת תרצ"ג (1933) נשא לאשה את <persName>אביגיל</persName> בת הרב<persName> יוסף שלוש </persName> מירושלים.
+
+ היה רב רשמי לעדת הספרדים ועדות המזרח בראשון לציון.
+
+ וכן היה מדריך רוחני ומורה בתלמוד תורה "מקור חיים", בראשון לציון.
+
+ בשנת תש"ח (1948) עבר לחיפה בתור שו"ב, חזן ומוהל.
+
+ צאצאיו : <persName>שלום, צביה-חנה, מלכה, דינה, אורה,</persName> <persName>אסתר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3620 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3620</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

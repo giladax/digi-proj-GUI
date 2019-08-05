@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2823 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2823</bibl><bibl>Volume: #7 ,Page: 2824 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2824</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה אגם-לבן (ליוה בילוזירסקי)</persName>
+
+</head>
+         <div><p> נולד בטשלוק, פלך חרסון (אוקראינה) ל"ג בעומר תרמ"ו (1.5.1886).
+
+ לאביו<persName> מרדכי</persName> ב"ר <persName>שמעון</persName> הצדיק מקמינקא (פלך קיוב) ולאמו<persName> שרה </persName> בת הר'<persName> ברוך (מטשליק, והיה ידוע</persName> בשם "ר' ברוך מכניס אורח").
+
+ קבל חנוך מסורתי בבית הסבא ר' ברוך.
+
+ סוחר, היה מספק ראשי לבתי החולים של הממשלה ברוסיה.
+
+ בשנת תרע"ט (1919) נשא לאשה את<persName> בתיה</persName> בת<persName> לייב</persName> <persName>זוסמן,</persName> מבסרביה (סוחר ובעלי קרקעות ידוע), נכדת הר' <persName>מרדכי-מוטל פלוצקי </persName> מזלטופולי, פלך קיוב. בשנת 1922 עלה לארץ.
+
+ חלוץ הראי-נע וקולנוע בחיפה. ראי-נע "עדן" (1923), קולנוע "עין-דור" (1929) ו"ארמון" (1934).
+
+ הקים והפעיל בתי חרושת שונים.
+
+ הראשון ששבר את "הפרינציפ" של הגרמנים-הנוצרים בחיפה "לא למכור קרקעות ליהודים"... וגאל שטחי קרקע ניכרים מהם ומהשכנים הערבים.
+
+ ליד חיפה הקים כרם וגן פרי לדוגמא, הנקרא "כרם <persName>יאל" </persName> (ראשי תיבות: <persName>יהודה אגם לבן).</persName>
+
+ צאצאיו: <persName>אביבה</persName> (עורכת דין)<persName> אשת זליג זק</persName> (יו''ר המכבי בחיפה), <persName>חגי.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2823 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2823</bibl><bibl>Volume: #7 ,Page: 2824 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2824</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3134 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3134</bibl><bibl>Volume: #8 ,Page: 3135 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3135</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו גלזר</persName>
+
+</head>
+         <div><p> נולד קופישוק, פלך קובנה (ליטא), ניסן תרל"א (אפריל 1871).
+
+ לאביו <persName>מאיר אייזיק</persName> ולאמו <persName>אלקה </persName> לבית<persName> כהן.</persName>
+
+ קבל חנוך מסורתי בחדר ובישיבת וילנה של רמלי"ס.
+
+ היה חבר פעיל בחובבי-ציון בוילנה.
+
+ בשנת תרנ''א (1891) עבר עם אביו ואחיו <persName>ליב</persName> את כל הדרך מקופישוק שבליטא עד א"י ברגל.
+
+ רכש אדמה ברחובות והקים טחנת קמח בכפר הערבי "יבנה".
+
+ במשך השנתיים הראשונות לבואו לארץ היה גר ברמלה, מפאת חוסר הדירות ברחובות, והיה הולך ברגל לרחובות וחזרה.
+
+ במלחמה העולמית הראשונה נאסר ע''י התורכים באשמת ריגול, בעזרת<persName> אברהם שפירא</persName> מפ"ת, ניצל ממאסר ארוך.
+
+ הקיים לו במושבה משק זעיר ורפת.
+
+ עשר שנים היה חבר מועצת רחובות.
+
+ במשך שנים היה מנהל הספריה המקומית ברחובות.
+
+ נזכר ב"מקראות" של <persName>יוסף אהרנוביץ</persName> - "יום ראשון" של עבודתי בארץ".
+
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר ברחובות, ט' שבט תשכ"ט (28.1.69) (ראה כרך ח', עמוד 3134)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3134 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3134</bibl><bibl>Volume: #8 ,Page: 3135 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3135</bibl>
+            <bibl>Volume: #18 ,Page: 5490 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5490</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

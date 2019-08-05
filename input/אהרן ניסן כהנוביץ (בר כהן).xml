@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 235 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/235</bibl><bibl>Volume: #1 ,Page: 236 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/236</bibl>
+<bibl>Volume: #1 ,Page: 237 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/237</bibl>
+<bibl>Volume: #1 ,Page: 238 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/238</bibl>
+<bibl>Volume: #1 ,Page: 239 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/239</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן ניסן כהנוביץ (בר-כהן)</persName>
+
+</head>
+         <div><p> נולד בכפר אזדעלין, במחוז הומל, רוסיה הלבנה, י"א תשרי תרמ"ז (1886), לאביו ר'<persName> מנחם יוסף</persName> , תלמיד-חכם, סוחר וחוכר-אחוזה, ולאמו<persName> שיינה פראדה</persName> לבית <persName>אלטרמן</persName> . קיבל חינוך יהודי וכללי בבית הוריו בכפר ואח"כ למד בחדר בעיירה הורביל שבפלך מינסק. בשנת תר"ס נסע להומל להשתלם בתרבות עברית ולהתכונן לבחינת-בגרות ממשלתית. עשה נסיונות מוצלחים בכתיבה ספרותית ושקד על לימודיו.
+
+ הפרעות בקישינוב באביב תרס"ג ואח"כ בסוף הקיץ אף בהומל המאיסו בעיניו את החיים בגלות ובאדר תרס"ד עלה ארצה.
+
+ מיד נכנס לעבודה בסלילת כביש סג'רה נצרת ולעבודות מפרכות אחרות, וכתב עליהן רשימות ב"השקפה" של<persName> א. בן-יהודה</persName> . ב"העומר" של <persName>ש. בן</persName> <persName>ציון </persName> וב"המעורר" של י. ח. <persName>ברנר</persName> בחתימות "א. נ.". "אנך" ו"צבי כהן". אחרי שנתים עבר לרחובות. ועבד בחקלאות ביום ובשמירה בלילה, ואת רשמי חייו וחיי הפועלים בפרק-זמן זה תיאר בציוריו ב"הפועל הצעיר". עבודה כפולה וקשה זו הפילתו למשכב והוא הוכנס לבית-החולים. גם מבית-החולים שלח הביתה מכתבים משמחים ומעודדים ובהם תיאורים אידיליים על החיים המתהוים בארץ (אחדים ממכתביו אלד, הקריא אחיו <persName>יל"ג כהנוביץ</persName> מעל במת הועידה. הציונית בהלסינגפורס בחורף תרס"ז). בהשפעת מכתביו החליטה משפחתו לקשור את עתידה בארץישראל. אחיו<persName> אברהם </persName> נשלח להכשרה בבי"ס חקלאי של יק"א ליד מינסק ובתרס"ז עלה גם הוא ארצה
+
+ להשתתף בהכנת בסיס לכל המשפחה.
+
+ בעצתו ובעזרתו של<persName> מרדכי בן הלל הכהן</persName> קנר בכספי אביהם נחלה בת 50 דונם ברחובות לנטיעת. כרם שקדים, אך להכשרת הקרקע ולנטיעה היו דרושים. סכומים נוספים, שבארץ לא יכלו להשיגם בהלואה בתנאים רצויים. אהרן ניסן נסע הביתה לזמן קצר לבקש כסף, אך האב לא יכול להוציא מעסקיו את הסכום הדרוש מבלי להרוס את מעמדו שם בטרם יבוסס לו מעמד כלכלי בארץ. חזר ארצה בידים ריקות והמשיך לעבוד כפועל בימים ובתור מורה. לשעות בערבים. אולם גם ההכנסה מהעבודה הכפולה שלו ושל אברהם אחיו (שהיה פועל ביום ושומר בלילה) לא הספיקה להכין את הנחלה למקור פרנסה, וכך החליטו שני האחים לצאת לזמן-מה למדינות הים, כדי לחסוך כסף לפיתוח הנחלה בארץ.
+
+ אברהם יצא לקאליפורניה וחזר במלחמת-העולם הראשונה כמתנדב בגדוד העברי, נשאר בארץ והתישב בבנימינה, ואהרן יצא לאוסטרליה וסר לבית
+
+
+ הורי תלמידתו, בעלי נחלה ברחובות שיצאו לאוסטרליה והשתקעו בעיר פירת. אחר-כך נשא את תלמידתו לאשה והחל משתתף עם חותנו במסחר-פירות. אך מסחר זה לא נתן לו סיפוק והוא נעשה מורה לעברית לילדי ישראל בפירת ואחרי שנים אחדות עבר עם משפחתו למלבורן. כאן התמסר להוראת עברית ולהפצת תרבות ישראל בין התושבים היהודים. במשך הזמן נתחבב מאד על הצבור היהודי וביתו ובית-ספרו היו כעין קונסוליה תרבותית של ארץ-ישראל העברית במרחקים, ולאחר זמן נתקבל בתור מורה ראשי ברשת החינוך הדתי של הקהלה. אולם עבודה זו לא הביאה לו את ההצלחה החמרית הנכספת שלמענה יצא מהארץ.
+
+ פעמים שלח את בני-ביתו ארצה למצוא בסיסקיום גם בשבילו, אך בשתי הפעמים שבו ריקם.
+
+ נפטר במלבורן ביום ט' חשון תרצ"ה.
+
+ אחיו הוא העסקן יל"ג כהנוביץ בתל אביב. הניח אחריו עזבון ספרותי ויומנים בעברית, אידית ואנגלית. מועדון "קדימה" במלבורן רכש את ספריתו למזכרת נצח על שמו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 235 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/235</bibl><bibl>Volume: #1 ,Page: 236 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/236</bibl>
+<bibl>Volume: #1 ,Page: 237 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/237</bibl>
+<bibl>Volume: #1 ,Page: 238 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/238</bibl>
+<bibl>Volume: #1 ,Page: 239 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/239</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

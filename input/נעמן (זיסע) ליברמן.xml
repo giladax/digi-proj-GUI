@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 635 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/635</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נעמן (זיסע) ליברמן</persName>
+
+</head>
+         <div><p> נולד באקרמאן, פלך בסרביה, רוסיה, בשנת תר"ל (1870), לאביו יהושע (סוחר). קיבל חינוך יהודי בחררים וכללי בבית-ספר ממשלתי.
+
+ בתרמ"ט עלה ארצה ונתקבל לעבודה כפועל חקלאי אצל פקידות הבארון רוטשילד בראשון לציון. שם נשא לאשה בתרנ"ו את <persName>חיה טויבה</persName> בת<persName> משה סגל,</persName> מראשוני התושבים במושבה. (נפטרה ביפו, י"ב כסלו תרס"ה, ונקברה בבית-העלמין הישן בתל-אביב. ולאחר זמן נשא את <persName>אטיל</persName> בת יעקב שברלס-שטהן מירושלים).
+
+ היה מספק ליהודי יפו בקר לשחיטה, שקנה מהפלחים והבידואים בארץ, נדד לרגל מסחרו בכל רחבי
+
+ הארץ בתנאי הבטחון הפרוע בימים ההם, כשהחיים היו בסכנה, אך ידע ליצור קשרי ידידות ומסחר עם הערבים ולהתהלך ביניהם בשלום. כשעבר לדור ביפו קנה את ביתו בין הראשונים בשכונת "נוה שלום" שבשטח העיר יפו (שכונת מנשיה) ליד "בתי פיינגולד" בקרבת הים, והודות לקשריו הטובים עם הערבים הצליח למנוע התקפות על השכונה בעת שנבנתה.
+
+ נתן חינוך עברי לאומי לבניו ולבנותיו.
+
+ נפטר בת"א, כ"ה שבט תרצ"ג, ונקבר בנחלת יצחק.
+
+ צאצאיו - מאשתו הראשונה: <persName>פנינה, יוסף</persName> ז"ל (מראשוני המורים בארץ), <persName>חנה</persName> ז"ל (אשת <persName>נתן</persName> <persName>וינקור,</persName> חיפה), <persName>בנימין </persName> (בהנהלת גזברות קרן היסוד בירושלים), <persName>מינה</persName> (אשת עוה"ד<persName> יעקב פלז), יהושע ;</persName> מאשתו השניה : <persName>שולמית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 635 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/635</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

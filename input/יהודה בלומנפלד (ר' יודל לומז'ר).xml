@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 70 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/70</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה בלומנפלד (ר' יודל לומז'ר)</persName>
+
+</head>
+         <div><p> נולד בלומז'ה, פולין, בשנת תק"פ (1820), לאביו <persName>זאב</persName> ולאמו <persName>מרים לאה.</persName> בן 9 נתיתם מאבי'ו והתחנך באמסטרדם אצל האחים <persName>עקיבא וצבי להרין</persName> , מראשי הפקידים והאמרכלים דארץ הקודש שבאמסטרדם ומחשובי היהדות החרדית של מערב-אירופה שתמכו בישוב היהודי בירושלים. שם למד ב"חדר" ובישיבה ונעשה גדול בתורה.
+
+ בן 18 הלך ברגל מאמסטרדם ועד אסטמבול במשך 9 חדשים ומשם באנית-מפרש ליפו ב-3 חדשים. השתקע בירושלים והיה מבחירי תלמידיהם של הגאונים ר' <persName>משה יהודה ליב </persName> מקוטנא (בעל "זית רענן" ו"תפארת ירושלים") ור'<persName> מאיר אוירבאך </persName> מקאליש (בעל "אמרי בינה").
+
+ הצטיין במזג טוב ומדות תרומיות, רחמים ואהבת הבריות/ בחיבה לנקיון, וגם באומץ-לב ובגבורה גופנית. מעולם לא ויתר לפרחחי הערבים על פגיעה בו או ביהודי אחר לעיניו. (פעם הלך עם שני יהודים לקבר רחל. בדרך נטפלו להם ערבים והתגרו בהם, ואז לימדם לקח ביד חזקה, כי היהודים אינם הפקר או "ילדי המות" והערבים הוכרחו לברוח). היה מהראשונים שיצאו לדור בשכונה הראשונה שמחוץ לחומה, "משכנות שאננים", הקא "ימין משה" מיסודו של מונטיפיורי, בעת שרבים מיהודי ירושלים פחדו אפילו ביום לצאת מרחוב היהודים ומשער העיר.
+
+ היה מופלג בתורה ,בעל פלפול וסברא, מגדולי המלמדים הראשונים בתלמוד-תורה של האשכנזים הפרושים בחצר ה"חורבה" (שהתפתח במשך הזמן לת"ת וישיבת "עץ חיים") והוזכר ביומנו של מונטיפיורי ברשמי ביקורו בארץ בתרל"ה כמורה בכתה העליונה, בה לומדים ש"ס ומפרשים ופוסקים, ושכרו 200 פיאסטר לחודש (שכר גבוה ביותר בזמן ההוא). היה גם ממקורביו ומבאי-ביתו של הרב <persName>יהושע משה ליב</persName> <persName>דיסקין</persName> מבריסק. ישב כל ימיו על התורה ועל העבודה, הרביץ תורה בישראל וחנך תלמידים רבים לתורה ולמדות טובות.
+
+ אשתו הראשונה היתה קרובתו<persName> חוה</persName> בת ר'<persName> דוד</persName> <persName>ילין-טביא</persName> מלומז'ה (אבי-אביו של הפרופ' <persName>דוד ילין</persName> ), שילדה לו שתי בנות. אחרי מחלה קשה נסעה לפקודת הרופאים עם בעלה ובנותיה לרוסיה לשם הבראה והחלפת אויר, ושם מתו היא ובנותיה במגפת חולירע. אחר-כך נשא את <persName>פינה</persName> בת ר' <persName>ישראל בק,</persName> הלוץ מלאכת הדפוס בארץ, מיסד כולל ווהלין של
+
+ החסידים ועסקן רב-פעלים. היא היתה אשה חכמה בעלת מדות תרומיות, פעילה בעזרה לנצרכים וסובלים, בעלת מרץ בהגנה על עניני היהודים בפני השליטים המקומיים תודות לבקיאותה בשפה הערבית, בחוקי הערבים ובמנהגיהם. היא ילדה לו חמשה בנים, שהצטיינו באומץ ובגבורה ובהגנה על היהודים, והם: <persName>אליעזר זאב</persName> (חתן משה צבי לוינזון, מראשוני המתישבים בפתחתקוה),<persName> משה </persName> (מעובדי חברת "פרדס" ביפו), <persName>אברהם</persName> (מראשוני השומרים בפתח-תקוה), <persName>דוד ומנחם.</persName>
+
+ לא חלה מימיו ובהיותו בבן תשעים שנה גברה עליו תשישות הזקנה ואז נפטר בירושלים, כ"ג כסלו תרע"א.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 70 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/70</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

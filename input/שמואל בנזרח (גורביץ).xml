@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4448 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4448</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל בנזרח (גורביץ)</persName>
+
+</head>
+         <div><p> נולד ו' תמוז תרנ"ג (8.6.1893). בשווינציאן שבפלך וילנא, ליטא-רוסיה.
+
+ לאביו<persName> זרח </persName> בר'<persName> צבי</persName> (לפי מסורת המשפחה דור שביעי <persName>לירחמיאל גורביץ</persName> , היהודי הראשון שהתישב בשווינציאן בשנת 1560) ולאמו<persName> דבורה</persName> בת <persName>מיכאל</persName> <persName>אלפרוביץ.</persName>
+
+ למד בחדר ובבית-ספר תיכון ברוסית.
+
+ במוצאי מלחמת-יהעולם הראשונה השתתף בייסוד סניף "צעירי ציון" בשווינציאן, פעל בייסוד הכשרה חלוצית בעירו, בה התאמנו בכיבוש הרגל העבודה צעירים ממקומות רבים בפולין, ושימש מזכיר-רכז של קיבוץ ההכשרה.
+
+ ב-1.5.1924 עלה לארץ. עבד עד 1928 במשק עין חרוד, וזמן-מה בין ראשוני הפועלים במגדיאל. עבר לכיבוש עבודה בנס ציונה. אחרי מאורעות תרפ"ט עבד שנה אחת במחנים, וב-1930 נתקבל לעבודת קבע במפעל האשלג שבצפון ים המלח.
+
+ ב-1933 נשא לאשה את<persName> יוכבד</persName> בת<persName> שמואל בוש</persName> <persName>קאניץ.</persName> (נפטרה בירושלים, כ"ב שבט תשכ"א).
+
+ עם קום המדינה נתקבל לעבודה בדואר המרכזי בירושלים עד שיצא לפנסיה ב-1958.
+
+ פעיל במפלגת אחדות העבודה, ומשנת האיחוד 1930 ואילך במפא"י. ב-1947 כתב בהפועל הצעיר מאמד נגד סיעה ב' במפא"י. חבר באגודת יוצאי שווינציאן והסביבה. משתתף ברשימת זכרונות ובפעילות ארגונית להוצאת ספר יזכור לקהילת שווינציאן.
+
+ בנו: <persName>דביר</persName> (פקיד במשרד האוצר).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4448 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4448</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

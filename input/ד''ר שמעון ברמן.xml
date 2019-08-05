@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4962 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4962</bibl><bibl>Volume: #16 ,Page: 4963 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4963</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד''ר שמעון ברמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ביאליסטוק</placeName> (רוסיה הלבנה) בשנת תרנ"ח (1898).
+
+ חינוכו היסודי והתיכוני בבתי הספר בשיקאגו אילינוי (ארצות הברת).
+
+ בתרפ"ב 1922 הוסמך לרפואה באוניברסיטת אילינוי.
+
+ בשנות 1922-23 מתמחה בבית החולים המחוזי בשם קוק בשיקאגו.
+
+ בשנות 1924-25 השתלם בפדיאטריה (אצל פרופ' <persName>ל. מ. מאייר</persName> בברלין, ואצל פרופ'<persName> לינר</persName> בווינהא.
+
+ בשנות 1925-28 מרצה בפדיאטריה בבית הספר לרפואה של אוניברסיטת אילינוי ורופא ראשי במחלקת הילדים בבית החולים האוניברסיטאי, בהדרכת פלופ' <persName>יוליוס ה. הס.</persName>
+
+
+ בשנות 1928-29 השתלם במכון למחלות טרופיות בהמבורג, גרמניה.
+
+ בתרפ"ט (1929) עלה לארץ.
+
+ שימש כרופא-אורח במחלקה לפדיאטריה בבית החולים של האוניברסיטה והדסה בירושלים.
+
+ בהדרכת פריפ'<persName> גרינפלד</persName> ערך - יחד עם פרופ' <persName>קליגלר</persName> וד''ר<persName> אוליצקי </persName> - מחקר על מחלת הדיפ
+
+ טריה בארץ ועל ברוצלוזים בין הפרות.
+
+ בשנות 1931-35 היה מנהל המחלקה לפדיאטריה בבית החולים המרכזי בעמק יזרעאל ומפקח רפואי על ילדי ההתישביות החקלאית בעמק יזרעאל ובעמק הירדן ובגליל העליון.
+
+ בשנת 1936 (אוגוסט-נובמבר) - מנהל מחלקת הילדים בבית החולים העירוני בתל-אביב.
+
+ מנובמבר 1936 עד 1940 מנהל מחלקת הילדים בבית החולים "ביילינסון" בפתח-תקוה.
+
+ בשנות 1940-41 ערך יחד עם פרופ' <persName>שאול</persName> <persName>אדלר</persName> - מחקר בפרזיטולוגיה באוניברסיטה העברית.
+
+ ממאי 1941 מנהל מחלקת הילדים בבית החולים של האוניברסיטה והדסה בירושלים.
+
+ בשנת 1949 נפתחה בהנהלתו, מחלקת הילדים בבית החולים "תל"השומר".
+
+ משנת 1950 מרצה לפדיאטריה בבית הספר לרפואה של האוניברסיטה והדסה בירושלים.
+
+ זכה בפרס "הגרייטה סולד" לשנת תשכ"א (1961) של עירית תל-אביב, על תרומתו החשובה לביסוס הפדיאטריה בארץ וחינוך תלמידים ובעלי מקצוע בשטח זה בבית הספר לרפואה בירושלים
+
+ נפטר ערירי בירושלים ל' ניסן תשכ"ה (2.5.65)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4962 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4962</bibl><bibl>Volume: #16 ,Page: 4963 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4963</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3869 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3869</bibl><bibl>Volume: #11 ,Page: 3870 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3870</bibl>
+<bibl>Volume: #11 ,Page: 3871 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3871</bibl>
+<bibl>Volume: #11 ,Page: 3872 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3872</bibl>
+<bibl>Volume: #11 ,Page: 3873 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3873</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל ארנון (סויצקי)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סלונים</placeName> (רוסיה הלבנה), י"ד בכסלו תרנ"ז (סוף 1896).
+
+ לאביו בנימין<persName> זאב סויצקי </persName> (ראה כרך כרך א', עמוד 527).
+
+ אחרי שאביו לא הצליח אחרי תקופת העלית הגדולה של שנת תר"ן (1890) לרדת מהאניה. בחוף יפו, חזר לרוסיה. בשנת תר"ס (1900) כשהחלה תנועת ההגירה של יהודים מרוסיה להתישבות חקלאית במושבות חברת יק"א בארגנטינה, נסע גם הוא שמה והתישב עם משפחתו במושבה היהודית וירג'יניה (ליד המושבה הגדולה מוזסוויל).
+
+<persName>שמואל</persName> קיבל חינוך מסורתי, וכללי בבי"ס עממי במוז'סויל (ארגנטינה).
+
+ בשנת 1907 עלתה המשפחה על אניה ארגנטינית והצליחו לרדת בנמל יפו בלי הפרעה והתישבו ביפו.
+
+ שמואל המשיך ללמוד בתלמוד תורה "שערי תורה' בנוה שלום, ובשנים תרע"א-תרע"ד (1911-14) למד בישיבת הרב<persName> א. י. הכהן קוק</persName> זצ"ל והשתלם בש"ס, פוסקים ובפילוסופיה הדתית של ימי הביניים.
+
+ היה עסקן בועד הלשון בתל-אביב, חבר הועד של אמוני הלשון העברית בתל-אביב.
+
+
+ היה מזכיר ביה''ס התיכוני למסחר, מזכיר בחברת "פרדס" - עם פרוץ המלחמה העולמית הראשונה (1914).
+
+ עזר לסופר <persName>אלכסנדר זיסקינד רבינוביץ</persName> ז"ל בתרגומי הספרים "אגדות התנאים" ו"אגדות אמוראי א"י" מאת <persName>ב. ז. בכר.</persName>
+
+ פירסם רצנזיות בעתוני אמריקה על ספרים עבריים שיצאו לאור בא"י - ב"דאס אידישע פאלק" וב"דער אידישע ווארט". בפרסומים אלה ראה תפקיד תרבותי כדי לקרב את הקוראים בגולה עם המלה העברית הנדפסת בא"י.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3869 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3869</bibl><bibl>Volume: #11 ,Page: 3870 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3870</bibl>
+<bibl>Volume: #11 ,Page: 3871 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3871</bibl>
+<bibl>Volume: #11 ,Page: 3872 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3872</bibl>
+<bibl>Volume: #11 ,Page: 3873 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3873</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

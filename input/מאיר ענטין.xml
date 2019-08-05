@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3070 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3070</bibl><bibl>Volume: #8 ,Page: 3071 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3071</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר ענטין</persName>
+
+</head>
+         <div><p> נולד בשנת תרמ''ב (1882) בקובל שבפלך ווהלין, רוסיה.
+
+ לאביו<persName> יהושע</persName> (קבלן למסילות-ברזל, בן-תורה ונדבן, מראשי חסידי חב"ד) ולאמו <persName>מרים</persName> לבית <persName>אידלזון.</persName>
+
+ קיבל חינוך יהודי מסורתי, גמר גימנסיה רוסית וניגן יפה בכנור, והיה צפוי לו עתיד מזהיר, לפי תנאי הימים ההם. אך ההתעוררות הציונית, שקסמה לרבים מיהודי קובל, משכה גם אותו לפעילות, והיה חבר הועד הציוני המקומי בראשותו של <persName>פנחס דאשבסקי </persName> (שהתנקש באנטישמי <persName>קרושיוואן</persName> עורך העתון ''בסראבץ", שהסית לפרעות ביהודים).
+
+ היה מחסידיו הנלהבים של הרצל.
+
+ כחודש אחרי ההתנקשות ההיא, בחשון תרס"ד (סתיו 1903), עלה <persName>מאיר ענטין</persName> לארץ (יחד עם <persName>דוד ויינשטיין,</persName> חברו בועד הציוני המקומי), וב"שליחות מצוה" הביאו עמהם את הכסף שאספו בין החברים לרשום את "פנחס נוקם נקמת ישראל" בספר הזהב של הקהק"ל ומסרהו ל"בנק הציוני" (אפ"ק) שנפתח אז ביפו וזאת היתה אחת מעיסקותיו הראשונות.
+
+ רכש בכספו שטחי אדמה נרחבים ברחובות ופיתח משק חקלאי. היה הרוח החיה בנוער המקומי ומטובי המשתתפים בפעולות ובהצגות של להקת החובבים המקומית וביתר ענפי החיים החברתיים והתרבותיים.
+
+ ב-1909 נשא לאשה את <persName>מינה</persName> בת <persName>צבי הורביץ</persName> .
+
+ המשיך בפעילות צבורית כאחד ממיסדי הבנק הראשון ברחובות, חבר ועד המושבה ואח"כ חבר המועצה המקומית במשך שנים, ממיסדי הועד החקלאי ומפעילי חבריו. בשנים שלפני מלחמת-העולם הראשונה היה מראשי הפעילים בארגון ה"חגיגה" בימי חול-המועד פסח (ב-1913 וב-1914) ברחובות, ששימשה אז כעין מפגן ארצי להישגי הישוב החקלאי העברי בנפש וברכוש. שימש גם כשומר רוכב וראש שומרי המושבה במשך כמה שנים, וגם לאחר זמן היה מהפעילים בהגנת המקום והישוב בכלל.
+
+ ענו וצנוע, ביתו הפך למרכז חברתי ותרבותי לנוער מכל הסוגים, אכרים ופועלים מהעליה השניה.
+
+ נפטר ברחובות, י"ג אייר תשט"ז (24.4.1956).
+
+ בנותיו: <persName>אביבה</persName> אשת <persName>מכס לוסטרניק, צפורה</persName> אשת <persName>אפרים אילין, מרים (מרצה</persName> ) אשת <persName>נתן אברמוביץ.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3070 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3070</bibl><bibl>Volume: #8 ,Page: 3071 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3071</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

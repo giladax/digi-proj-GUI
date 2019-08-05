@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3851 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3851</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף גלברט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>מינכן</placeName> (גרמניה) י"ח אדר ב' תרע''ו (23.3.1916).
+
+ לאביו <persName>שלמה</persName> ולאמו <persName>שרה לבית גלברט.</persName>
+
+ קיבל חינוך כללי.
+
+ עלה לארץ בתרצ"ג (1933).
+
+ עבד כפועל בנין בים המלח.
+
+ בשנת 1935 נתקבל למחלקת הנקיון בעת"א ושירת בה 19 שנה.
+
+ שירת בצבא הבריטי 1940-46 לפי הכרזת המוסדות הלאומיים. נלחם ביוון, כרתים, לביה, טריפולי ושווייץ ונפצע.
+
+ היה גפיר בשנת 1936.
+
+ היה פעיל במבבי אש משנת 1936.
+
+ היה חבר בהגנה אחראי בגוש דן בעיקר על התחבורה.
+
+ בשנת 1936 היה אחראי בהגנה בנטעים ובגוש בית חנן.
+
+ היה חבר במשטרה המתנדבת בת"א והיה הסגן במשטרה המתנדבת בגבעתיים.
+
+ לרגלי מחלה נאלץ לצאת מהארץ לכמה זמן.
+
+ בשנת 1939 נשא לאשה את<persName> מרים</persName> בת<persName> יונה</persName> <persName>אברמוביץ.</persName>
+
+ בניו :<persName> עמירם, גדעון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3851 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3851</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

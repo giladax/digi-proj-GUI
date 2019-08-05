@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 330 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/330</bibl><bibl>Volume: #1 ,Page: 331 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/331</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם ישפה</persName>
+
+</head>
+         <div><p> בן ברוך. - נולד בשנת תרכ"ד (1864) בעיר ביאליסטוק.
+
+ קבל חנוך מסורתי ב"חדר" ובישיבת וולוז'ין ונתפרסם כבעל כשרונות. כשנשא אשה התחיל לעסוק במסחר חמרי ברזל באודיסה, ואח"כ העביר את בית מסחרו ליקטרינוסלב, והצליח מאד במסחרו זה. היד משכיל עברי, ידע את הספרות העתיקה והחדישה.
+
+ חובב ציון עוד בלמדו בישיבת וולוז'ין. כשנעשה לאיש אמיד, הלך לבקר את ארץ ישראל, ובשעת בקורו זה רכש לו קרקעות בשכונת ''תלאביב" שבמושבת נס ציונה.
+
+ בשנת 1902 בביקורו הראשון בארץ בקר יחד עם ר' משה בצלאל טודרסוביץ ואליהו קלצין (קלצקי) ובנו בעבר הירדן לשם רכישת קרקעות.
+
+ ב-1905 עלה לארץ ישראל, כדי להשתקע בה. ישב בנס ציונה כמה שנים, הקים טחנת הקמח העברית המודרנית הראשונה ליד ירושלים שנקראה בשם "זרובבל''.
+
+
+ לאחר מלחמת העולם הראשונה עבר לגור לתלאביב ונבחר לסגן יו"ר חברת "פרדס" וגם לבא כח חברה זו במצרים.
+
+ פרדסו הפרטי בנס ציונה היה אחד הפרדסים היפים והגדולים והיה מפעילי מגדלי פרי הדר. יחד עם ש. טולקובסקי יסד את "מרכז פרי הדר" וגם היה ממיסדי קלוב "מגדלי הדר" בתל-אביב. מתפקידיו של המרכז הנ"ל היה להשגיח על טיב הפרי שנשלח לאנגליה, כדי לרומם את קרן פרי ההדר הארצישראלי, שירד לשפל המדרגה בימים ההם, מפני הפרי הלא טרי שהיה נשלח למדינה הנ"ל. אח"כ בנה בית חרושת מיוחד לתיבות אריזה לתפוחי זהב ופעל הרבה לפיתוח שוק ההדרים באנגליה ושפור שרותי הים הישרים.
+
+ כשנוסד המושב הדר עזר הרבה למושל זה בחומר וברוח ונבחר ליו"ר ועד המושב ועל שמו נקרא הבית הצבורי "בית אברהם".
+
+ היה ממיסדי בנק "קופת עם" וחבר המועצה של בנק זה כל הימים.
+
+ כן נבחר לבא-כח יהודי יפו לעירית יפו ובתפקידו זה עמד עד יומו האחרון.
+
+ ביום ח' אב תרצ"ב מת בגיל של 68 שנה ונקבר בתל-אביב בבית הקברות הישן.
+
+ אשתו <persName>פנינה</persName> נפטרה בתל-אביב, ז' תשרי תש"ז (2.10.46).
+
+ צאצאיו:<persName> דוד וצילה</persName> אשת ויקטור אולחובסקי (ארצות הברית).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 330 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/330</bibl><bibl>Volume: #1 ,Page: 331 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/331</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

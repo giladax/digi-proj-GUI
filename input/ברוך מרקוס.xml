@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 522 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/522</bibl><bibl>Volume: #1 ,Page: 523 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/523</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ברוך מרקוס</persName>
+
+</head>
+         <div><p> נולד בפתח-תקוה, י"א תשרי תרס"א (1900), לאביו <persName>משה </persName> ולאמו <persName>מרים </persName> בת<persName> שמואל מילס.</persName>
+
+ למד בבית-הספר העממי ובי"ס חקלאי בפתח-תקוה ובבית-המדרש העברי למורים בירושלים. בתרע"ח התנדב לגדוד העברי הארצישראלי, ואחרי פירוק הגדוד נתקבל בתר"פ כפקיד בבנק אנגלו-מצרי (אח"כ ברקליס בנק) בחיפה ובמשך הזמן עלה בו לדרגת סגן המנהל. ניהל שנים אחדות את סניף הבנק בהדר הכרמל. הגיש עזרה אשראית לבונים בהדר הכרמל, במפרץ ובשכונות העבריות שבסביבה, למשקים שבמחוז ולמפעלי כלכלה רבים, מתוך ידידות ונכונות לעזור בתחום פעולתו לבנין הא
+
+
+ רץ וביסוס הישוב. השתתף ביסוד שכונת נוה שאנן על הכרמל והיה ממתישביה הראשונים.
+
+ נשא לאשה את <persName>דינה </persName> בת<persName> יצחק יוסף מרגליות</persName> מירושלים.
+
+ בתמוז תש"ו הועבר לנהל את בנק בדקלים בתלאביב. בזמנים הקשים העוברים על הישוב הצליח להשיג את הסכמת ההנהלה הראשית שבירושלים לתת הלואות בסכומים גדולים לישובים חקלאיים, לקבוצים ולמפעלי הכלכלה של הישוב לכל ענפיהם.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 522 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/522</bibl><bibl>Volume: #1 ,Page: 523 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/523</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

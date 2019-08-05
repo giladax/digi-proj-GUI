@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 434 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/434</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> שינה הורביץ</persName>
+
+</head>
+         <div><p> נולדה בירושלים, כ' אדר תרל"ד לאביה העסקן הנדיב ר'<persName> בצלאל לאפין</persName> ולאמה צירל בת ר' אברהם מיכל בהרב. גדלה באוירה של נדיבות אצילה ומעשי חסד של אביה ושל אבי-אביה ר'<persName> פישל נגיד</persName> , שביתו בירושלים היה לברכה ולתפארת.
+
+ נישאה <persName>ליוסף דוד הורביץ </persName> בן ר' <persName>אריה ליב</persName> ממינסק, שנקרא "הצדיק". היתה רעיה ועוזרת נאמנה לבעלה במעשי חסד ובפעולות עזרה לכושלים ולנצרכים והמשיכה בכך את המסורת הנאצלה של בית אביה, תחילה בירושלים ואח"כ ביפו ובתל-אביב.
+
+ ביפו לא היה מחסור בזקוקים לעזרה אף בשנים כתיקונן, כי זרם העליה לארץ, שבכח איתנים גרף יהודים מהגולה, מהם רבים בלי אמצעים והמשברים הכלכליים שבאו ונתחזקו בעקב הפרעות וגזירות של שלטון עוין בימי הטורקים ואחריהם, יצרו שכבה מתמדת של נצרכים לעזרה לצרכי קיום ולגמילות-חסד לשם סידור כלכלי או להתגברות על קשיים זמניים. והיא עשתה הרבה להקל על יהודים את הקיום בארץ. ביחוד הגדילה לעשות בתקופת הרעב והמחסור במלחמתהעולם הראשונה, כשחסכה מפיה ושלחה מזון לנצרכים וגם עזרה בהלוואות להצלת נפשות מרעב. תרמה מכספה ואף התרימה את בני המשפחה ואספה קרוב לאלף לא"י ליצירת "קרן בצלאל וצירל לאפין" לזכר אביה ליד קופת גמ"ח הורביץ בתל-אביב.
+
+ גם אחרי פטירת בעלה, בשנת תרצ"ז, ממשיכה היא בכל פעולות החסד ומשתתפת בפעילות במוסדות חסד שונים. 
+
+ משתתפת בפעילות בהנהלת הגמ"ח ע"ש הורביץ ודואגת במיוחד להתפתחות המוסד.
+
+ לאות הערכה לפעולתה בגמ"ח הורביץ נוסדה בתש"ו "קרן על שם יוסף דוד ושינה הורביץ".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 434 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/434</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

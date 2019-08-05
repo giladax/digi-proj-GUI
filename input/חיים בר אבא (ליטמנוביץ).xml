@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3360 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3360</bibl><bibl>Volume: #9 ,Page: 3361 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3361</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים בר-אבא (ליטמנוביץ)</persName>
+
+</head>
+         <div><p> נולד בשנת תרס"ד (14.4.1904) בלודז שבפולין.
+
+ לאביו ר'<persName> שלמה</persName> (נכד הרב ר' <persName>מנדל</persName> מלוסא-פוזן ואח"כ בזדונסקה-וולה, ממקורבי האדמו"ר<persName> מנחם מנדל</persName> מקוצק) ולאמו <persName>אסתר צוטל </persName> בת ר' <persName>יחיאל מאיר סימארודינא </persName> הכהן.
+
+ למד בישיבות פולין ואח"כ רכש השכלה תיכונית במכינה של בית-המדרש לרבנים בוינה.
+
+ עלה לארץ בחדש שבט תרפ"ו (21.1.1926) עבד בתור פועל בנין, אח"כ בתור סוכן להפצת ספרים והיה ממיסדי הקואופרטיב של מפיצי הספר העברי.
+
+ משנת 1936 ניהל קופת מלוה קואופרטיבית "גאולה" ומ-1940 עד 1945 ארגן וניהל את מחלקת המסים המרכזית של הפועל המזרחי, בה הנהיג את המס האחיד, בדומה למס האחיד שבהסתדרות העובדים הכללית.
+
+ פעל שנתים בשליחות תנועתו כמנהל הליגה למען הפועל הדתי בארצות הברית, ובשנים האחרונות הנו
+
+ בהנהלת "משכנות", וממנהלי החברה לשיכון ובנין של הפועל המזרחי, מראשי ארגון הותיקים של המזרחי והפועל המזרחי וחבר המועצה הכלכלית של המפלגה הדתית-הלאומית בישראל, וחבר הנהלת הקרן הקונסטרוקטיבית של המפלגה הדתית הלאומית.
+
+ מאז בואו לארץ היה חבר פעיל ואח"כ גם עסקן בהפועל המזרחי, נבחר כנציג תנועתו לועד הקהלה תל
+
+
+ אביב-יפו ולמועצה הדתית. כנציג ועד הקהלה היד. סגן יו''ר המחלקה לעזרה סוציאלית ונציגה במוסדות סוציאליים שונים. בתוקף תפקידו השתתף בשיפורים בסדרי העבודה הסוציאלית, ביסוד בית הנכים (ובהשפעה אישית רכש תרומת בתים בשבילו) וביסוד בית-ההבראה "שלוה" על שם <persName>יהושע ואולגה חנקין</persName> לחולים בלי אמצעים, והיה יו''ר האגודה המקיימת את המוסד.
+
+ היה יו''ר החזית הדתית לכנסת הראשונה בתל-אביב. נבחר בהסכמה אחידה של חלקי החזית הדתית : המזרחי, הפועל המזרחי, אגודת ישראל, פועלי אגודת ישראל ואיחוד דתי בלתי מפלגתי.
+
+ היה חבר הנהלת "סעד" של הפועל המזרחי ופעל במועצות ובוערות שונות של המפלגה.
+
+ היה חבר הועדה המקבלת בארגון במשך כל תקופת קיומו.
+
+ היה מראשוני המתנדבים והמפקדים בארגון שנקרא "ארגון צבאי אזרחי-לאומי".
+
+ אשתו:<persName> חנה</persName> בת<persName> יוסף גרוכר</persName> מווארשה.
+
+ בתו: <persName>יהודית גוטמן.</persName>
+
+ נכדו : <persName>אהוד גוטמן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3360 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3360</bibl><bibl>Volume: #9 ,Page: 3361 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3361</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

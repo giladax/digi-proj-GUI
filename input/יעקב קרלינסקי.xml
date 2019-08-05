@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3755 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3755</bibl><bibl>Volume: #11 ,Page: 3757 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3757</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב קרלינסקי</persName>
+
+</head>
+         <div><p> נולד בניזין, פלך צ'רניגוב (רוסיה), בשנת תרל"ב (1872).
+
+ לאביו <persName>משה הלוי קרלינסקי </persName> (קרובים למשפחת יחיאל <persName>מיכל פינס.</persName> ראה כרך ב', עמוד 562).
+
+
+ קבל חנוך מסורתי.
+
+ היה מזכיר "חובבי ציון" בניזין יחד עם <persName>א. צ. חרלפ</persName> .
+
+ עלה לארץ בשנת תרנ"א (1891), אחרי שידידו <persName>אפרים</persName> צבי<persName> חרלפ'</persName> עלה לארץ (ראה כרך א', עמוד 96).
+
+ השתתף בגאולת קרקעות ברחובות והיה מפעילי המושבה.
+
+ נהרג בנפלו מסוסו בעצם עבודתו, ביום כ"ז ניסן תרנ"א (אפריל 1891) ונקבר ברחובות (הקבר הראשון במושבה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3755 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3755</bibl><bibl>Volume: #11 ,Page: 3757 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3757</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4062 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4062</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב צבי הכהן מושקוביץ</persName>
+
+</head>
+         <div><p> נולד בפערעציב (הונגריה) בשנת תרמ"ד (1884).
+
+ לאביו ר' <persName>יוסף הכהן מושקוביץ</persName> ולאמו<persName> מרים</persName> בת <persName>בנימין גרוס.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה בברזענא (הונגריה). במונקאץ למד שחיטה וקיבל סמיכה לשחיטה מאת הרב <persName>שלום סופר</persName> . אבל לא עסק בשחיטה.
+
+ בשנת 1904 עלה לארץ. בשנת 1905 נשא לאשה את<persName> מלכה</persName> בת<persName> פנחס הלוי איש</persName>
+
+<persName>הורביץ.</persName> מצפת (ילידת הארץ, דור רביעי. אביה היה ת"ח. קיבל סמיכות לרבנות ולא רצה ברבנות. עסק כמנהל חשבונות. פרסם ספר בשם "נחלה לישראל". היא פעילה בהסתדרות נשי מזרחי ובנות א"י).
+
+ בשנת 1912 עד 1922 נסע 4 פעמים לארצות הברית בשליחות כולל הונגריה.
+
+ היה פעיל באוסף תרומות בארצות הברית עבור ישיבות וכולל הונגריה בירושלים.
+
+ דאג למוסדות דתיים בארץ, בעיקר למוסדות בירושלים.
+
+ נפטר ברמת-גן, כ"ג ניסן תשכ''א (9.4.1961). והובא לקבורה בירושלים.
+
+ צאצאיו: <persName>הרב משה, </persName> עו"ד<persName> מרדכי איזיק, בנימין,</persName> <persName>אברהם, אסתר, יוסף, ישראל זאב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4062 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4062</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

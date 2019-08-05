@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4004 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4004</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גרשון פיפר</persName>
+
+</head>
+         <div><p> נולד בעיר סלוטבנה, מחוז סטניסלבוב (פולין) בשנת תרנ"א (6.12.1891).
+
+ לאביו<persName> יהודה אריה</persName> (מותיקי חסידי קוסוב) ולאמו <persName>רבקה רחל</persName> בת הרב <persName>מנחם מנדל קרן.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבות - בסטניסלבוב ובוצץ.
+
+ היה פעיל בארגונים הדתיים הציונים בעירו. היה סוחר.
+
+ נשא לאשה את <persName>שינצי</persName> בת <persName>מתתיהו ארליך.</persName>
+
+ עבר לטשילה (באמריקה הדרומית) ועסק בקבלנות לבנין בתים יחד עם בנו המהנדס.
+
+ שם היה פעיל בעניני העדה ועשה נפשות לא"י.
+
+ תרם סכומים ניכרים לארץ ולהגנה.
+
+ ביום 11 לדצמבר 1958 עלה לארץ.
+
+ המשיך עם בנו המהנדס בהקמת בנינים בארץ.
+
+ צאצאיו: <persName>מתתיהו </persName> (מהנדס), <persName>יונה</persName> אשת<persName> יצחק זקס </persName> (היא מורה בקיבוץ "רמות מנשה'').
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4004 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4004</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

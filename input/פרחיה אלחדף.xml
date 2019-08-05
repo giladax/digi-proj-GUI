@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 185 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/185</bibl><bibl>Volume: #1 ,Page: 186 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/186</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרחיה אלחדף</persName>
+
+</head>
+         <div><p> נולד ביפו, בחוות הבארון פון אוסטינוב, בשנת תרמ"ה (1885) לאביו האגרונום <persName>נסים בכור אלחדף,</persName> יליד רודוס, ממשפחה אצילה מיוצאי ספרד, שהיה אז גנן אצל הברון הנ"ל, ואח"כ מפקח על עבודות הנטיעה מטעם <persName>הבארון רוטשילד</persName> בפתח-תקוה, בראשון לציון וביסוד המעלה, ולאמו<persName> חנה.</persName>
+
+ גדל ביסוד המעלה וקיבל חינוך אצל המורה <persName>ישראל</persName> <persName>מנדל אלברט,</persName> שהקנה לו ביחוד בקיאות גדולה בתנ"ך. בלימוד עצמי ובקריאה השתלם בספרות יפה ובשירה בעברית ובצרפתית וחי חיים רוחניים שקטים ומסוגרים בסביבה של מאבק ויסורים במלחמת הקיום ובפגעי הטבע. מאביו למד את החקלאות ונפשו התקשרה ביפי הטבע ובהוד הפרא של הנוף ותושביו. הצטיין מבחרותו כפרש, קלעי וצייד, היה בין טובי הרוכבים ב"פנטזיות"
+
+
+ של השייכים והאמידים בסביבה הקרובה והרחוקה עד דמשק, בה נתפרסם בסוסותיו הנהדרות. שמו יצא לתהלה בין הערבים בשל מעשי גבורתו ואומץ-רוחו ויריביו כיבדוהו ופחדו ממנו. ניהל את משקו ביסוד המעלה, ביתו היה פתוח לאורחים ולמבקשי עזרה ועצה.
+
+ כשפרצה מלחמת-העולם הראשונה החרימו השלטונות את בהמות עבודתו בהיותו נתין האויב (נתין צרפת) ומסרו את נחלתו לעיבוד בידי אחרים מטעם המפקח על רכוש האויב, וכך הוכרח לסבול מחסור.
+
+ כאשר הישועה כבר היתה קרובה לו, בהתקרב צבא הכיבוש הבריטי אל הגליל, ועוד מעט ויחדל השלטון הטורקי והוא יחדל מהיות "נתין אויב" מקופח ונרדף, חלה ונפל למשכב, וימים אחדים לפני בוא צבא הכיבוש נפטר ביסוד המעלה, ז' תשרי תרע"ט.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 185 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/185</bibl><bibl>Volume: #1 ,Page: 186 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/186</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

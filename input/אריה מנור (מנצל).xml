@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3745 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3745</bibl><bibl>Volume: #11 ,Page: 3746 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3746</bibl>
+<bibl>Volume: #11 ,Page: 3747 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3747</bibl>
+<bibl>Volume: #11 ,Page: 3748 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3748</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה מנור (מנצל)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וינה</placeName> (אוסטריה), י"ג כסלו תרע"ג (23.11.1912). לאביו <persName>אלפרד מתתיהו מנצל</persName> (מצאצאי הרב <persName>מרדכי</persName> <persName>בנט</persName> מניקלסבורג) ולאמו <persName>גרטה דבורה</persName> בת<persName> משה קורנבליה.</persName>
+
+ קיבל חינוך תיכוני ב<placeName>וינה</placeName> וחנוך גבוה באוניברסיטה טכנית של וינה וברלין, וגמר בתואר של מהנדס לחשמל ולמכונות.
+
+ היה חבר ההנהגה הראשית של הסתדרות "בלאווייס" ואחר כך "השומר הצעיר" ("נצח").
+
+ בשנת 1930 עלה לארץ.
+
+ חבר קבוץ "גבעת חיים". בא כח של המשק, חבר הנהלת בית החרושת "גת", חבר המשרד המשותף אשדגת רמון.
+
+
+ בשנת 1935 נשא לאשה את <persName>מריאנה </persName> בת <persName>גיאורג</persName> <persName>צ'מפין.</persName>
+
+ היה פעיל בהגנה בעמק חפר.
+
+ חבר מרכז החלוץ בארצות הברית. ראש משלחת משרד הבטחון בניו-יורק. ראש משלחת האספקה בניו-יורק. הכניס סדרים למופת.
+
+ ציר לעניני כלכלה של מדינת ישראל בארצות-הברית ציר כלכלי בשגרירות ישראל בקנדה.
+
+ בנותיו : <persName>מיכל, תמר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3745 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3745</bibl><bibl>Volume: #11 ,Page: 3746 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3746</bibl>
+<bibl>Volume: #11 ,Page: 3747 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3747</bibl>
+<bibl>Volume: #11 ,Page: 3748 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3748</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

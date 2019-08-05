@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2478 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2478</bibl><bibl>Volume: #6 ,Page: 2479 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2479</bibl>
+<bibl>Volume: #6 ,Page: 2480 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2480</bibl>
+<bibl>Volume: #6 ,Page: 2481 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2481</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר ברטה (ביילה) לוגדון-ניישטאט</persName>
+
+</head>
+         <div><p> נולדה בשנת תרנ"ד (1894) בראדומישל שבגליציה לאביה <persName>פנחס</persName> ולאמה <persName>אטיל</persName> בת ר' <persName>דוד רימאלט</persName> (ממשפחת רבנים בגליציה).
+
+ גמרה בית-ספר עממי ובמאמץ עצמי התכוננה לבחינות ונתקבלה למחלקה גבוהה בגימנסיה בקראקוב. אח''כ למדה שם שנה באוניברסיטה, המשיכה וגמרה באוניברסיטת ברסלאו, הוסמכה לד"ר לרפואה והתמחתה כרופאת-נשים.
+
+ ב-1923 נישאה למר <persName>ישעיהו לונדון.</persName> המשיכה בפעולתה כרופאה בברסלאו והיתה פעילה בתנועה הציונית, בהתאם למסורת משפחתה. (אחיה הבכור, <persName>אברהם</persName> , עלה ארצה עוד בעליה השניה, ב-1912, והנו כיום חבר המושב נטעים; אחיה <persName>אלימלך נוי </persName> - בשמו הקודם <persName>מלך</persName> <persName>ניישטאט</persName> - היה במשך שנים רבות מאנשי ההנהגה בתנועת-העבודה הציונית בפולין, וכעת מנהל לשכת המס המרכזית של ההסתדרות וסגן-חבר הנהלת הסוכנות היהודית; גם יתר שני אחיה הנם בארץ).
+
+ ב-1935 עלתה ארצה עם משפחתה ונכנסה מיד לעבודה חלקית במקצועה המיוחד בקופת חולים בתל-אביב והמשיכה גם בפרקטיקה פרטית. היתה מסורה לחולים ואף בלילות ובשבתות ובחגים היתה נענית לכל קריאה לעזור ולהקל מכאובים. בפרקטיקה הפרטית עזרה לחולים מחוסרי יכולת בחנם ובמחירים נוחים, ולחולים נצרכים עזרה לא פעם אף בכסף.
+
+ כשנה לפני מותה פקד אותה אסון גדול במות עליה בתה הבכירה שבועות מספר אחרי לידה. בגבורת נפש נשאה את יגונה הגדול והגבירה את התמסרותה למלחמה במחלות ובמות, אך מרוב מאמץ נשבר לבה בקרבה.
+
+ נפטרה בתל-אביב, י"ב אייר תשי"ג (27.4.53).
+
+ בנותיה:<persName> שרה</persName> ז"ל (נישאה לאברהם <persName>בר-אדון</persName> , נפטרה בגיל 24 בראש חודש שבט תשי"ב), <persName>חוה </persName> אשת <persName>אורי ביק.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2478 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2478</bibl><bibl>Volume: #6 ,Page: 2479 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2479</bibl>
+<bibl>Volume: #6 ,Page: 2480 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2480</bibl>
+<bibl>Volume: #6 ,Page: 2481 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2481</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

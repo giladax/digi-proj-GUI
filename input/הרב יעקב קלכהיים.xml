@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4475 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4475</bibl><bibl>Volume: #14 ,Page: 4476 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4476</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יעקב קלכהיים</persName>
+
+</head>
+         <div><p> נולד ב<placeName>יארוסלב</placeName> (גליציה - פולין) בחשון תרמ"ב (סוף 1881).
+
+
+ לאביו ר' <persName>חיים קלכהיים </persName> (סוחר גדול ות"ח. מנאמני ביתו של- ר'<persName> יחזקאה שניאור</persName> בעל "דברי יחזקאל") ולאמו<persName> רייזל</persName> לבית<persName> טייטשטיין</persName> .
+
+ קיבל חינוך מסורתי אצל גדולי המלמדים והרבנים (<persName>יצחק המרלינג</persName> בירוסלב, ר'<persName> יצחק שמעלקים</persName> רב דפשעמישל ועוד).
+
+ נשא לאשה את<persName> שיינדל יהודית</persName> בת ר'<persName> משה</persName> <persName>למפין</persName> .
+
+ בשנת 1914, בפרוץ מלחמת העולם הראשונה
+
+ גויס כרב צבאי. כעבור 3 ימים והמחנה שלו הוקף ע"י הצבא הרוסי ונלקח בשבי ונשלח עם הצבא השבוי לעיר טומין מחוז אומסק בסיביר. ניהל פעולה רוחנית בין השבויים ועודד אותם עד שנודע לראשי הקהילה בעיר זו על גדלותו בתורה והציעו לו שיקבל עליו את עול הרבנות באומסק. הם פנו לראשי הצבא ולמושל הרוסי שירשו לו לשרת ברבנות בעיר, במשך 7 שנים שהה ברוסיה. אחרי שהבולשביקים עלו לשלטון עבר לברלין בגרמניה, שם עסק במסחר
+
+ בשנת 1929 עבר לארצות הברית ונתקבל כרב בקוויבסק-סיטי עד שנת 1935. נתקבל כרב ראשי בוויניפג בקנדה עם חוזה ל-20 שנה. כשעבר דרך טורונטו התיעץ עם הרב<persName> מסטשוב</persName> והחליט לבטל את המינוי בוויניפג והחזיר להם את סכומי הכסף ששלמו לו ע"ח הוצאות הנסיעה וכו'. נתקבל כרב במחוז מיין, ניו ברונסביק והמשיך שם ברבנות עד 1950
+
+ כל השנים היה קרוב ופעיל בציונות הדתית ע''י תעמולה לעליה לארץ והתרמות לקרנות א"י.
+
+ בשנת 1950 עלה לארץ.
+
+ חינך את צאצאיו בדרך התורה ועבודה וחיבה לארץ אבות.
+
+ פאר היהדות ברמת יצחק. מגיד שעור בקביעות בבית הספר.
+
+ צאצאיו: <persName>שלמה דוד, מנחם מנדל, ריה</persName> אשת<persName> אריה</persName> <persName>דוד, רגינה</persName> אשת <persName>שלמה צוף</persName> (סוחר), <persName>שרה</persName> אשת <persName>מרדכי תמר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4475 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4475</bibl><bibl>Volume: #14 ,Page: 4476 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4476</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

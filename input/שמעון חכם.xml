@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1271 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1271</bibl><bibl>Volume: #3 ,Page: 1272 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1272</bibl>
+<bibl>Volume: #3 ,Page: 1273 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1273</bibl>
+<bibl>Volume: #3 ,Page: 1274 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1274</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמעון חכם</persName>
+
+</head>
+         <div><p> נולד בעיר בוכארה, אוזבקיסטאן, בשנת תר''ג (1843), לאביו חכם <persName>אליהו</persName> (שוחט וסופר סת"ם, בא מבגדאד לבוכארא בשליחות, נעתר לראשי העזה ונשאר שם לעזור בהפצת ידיעת היהדות בקרב יהודי בוכארה, שבגלל ריחוקם במשך דורות רבים ממרכזי היהדות פשתה בהם עם-הארצות: כתב 52 ספרי תורה וחי- כ-120 שנה: תוארו "חכם" היה לשם משיפחה לצאצאיו) ולאמו<persName> צפורה</persName> בת <persName>אברהם כהן </persName> מפרס (מצד אמה נכדת הרב <persName>יוסף ממאן,</persName> שנולד בשנת תקל"ג בטיטואן שבמארוקו, עלה ארצה בבחרותו, ובן עשרים הגיע בשליחות כוללות צפת לבוכארה, ובראותו עד כמה ירודים שם היהודים בידיעת התורה ובשמירת המצוות נשאר עמהם והיה להם לרב ולמנהיג, הזמין להם ספרי קודש ממרכזי היהדות האשכנזית שבליטא ורייסין, החזיק ישיבה וחינך הרבה בחורים בני בוכארה לרבנים ומפיצי תורה בעדתם). למד תורה מפי אביו ומחכמים אחרים. נשא לאשר. את <persName>אסתר</persName> בת <persName>משה מלוניוז</persName> מבוכארה. עסק במסחר ויסר תלמודתורה לבני עניים- עשרה בניו ובנותיו מתו בילדותם,
+
+ רק בן אחד ובת אחת נשארו לו בחיים.
+
+ בחודש אלול תר"ן עלה ארצה עם אשתו ובנו והתישב בירושלים. חזר לבוכארה לחסל עסקים ובעודו שם נפטרה אשתו בירושלים ט"ז אב תרנ"א. חזר ארצה וחינך את בנו יחידו <persName>פנחס </persName> בתורה ובחכמה. משמת בנו זמן מועט אחרי חתונתו, ח' כסלו תרנ"ד, התמסר לתרגם ספרי קודש ללשון פרסית-יהודית המדוברת בפי יהודי בוכארה, הדפיסם בעזרת נדיבים בירושלים ושלחם לבוכארה כדי לזכות את הרבים. בין תרגומיו: התנ"ך מבראשית עד אמצע ספר ישעיה, שיר השירים ומדרש פטירת משה רבנו, לקוטי דינים להרב ר'<persName> אברהם אמינוף</persName> , תפלות ופיוטים למועדים, הגדה של פסח, תרגום שני למגלת אסתר, ועוד הרבה ספרי דת ופיוט, וכן הוציא כתבי-יד של יצירות משוררי היהודים בבוכארא וספרי דרוש וחכמה וספרי עם שונים, ומספר תרגומיו ופרסומיו הגיע לעשרות. מקום חשוב בין תרגומיו תופס תרגום "אהבת ציון"
+
+
+ של אברהם מאפו, שהוא, המתרגם, התיחס אליו כמו לספר קדוש,
+
+ עם עליתו לא"י, הצטרף לחברת חובבי-ציון מק"ק בוכארה וסביבותיה, שנוסדה ע"י עסקנים של העדה הבוכארית בירושלים באלול תרמ"ט לשם הקמת בית כנסת, ישיבה ומוסד הכנסת אורחים ליהודי בוכארא ובהמשך לפעולתם נגש ביחד עם מיסדי החברה: יוסף כוג'הין, שלמה מוסא-מוסאיוב, ישראל חיים חפץ, חיים משיח, פייזין משה-מושהיוב, <persName>שמעון חכם</persName> ואליהם צרפו לנשיא וראש את החכם ר' יעקב מאיר שנתחבב עליהם בשעת שליחותו בבוכארה בשנת תרמ"ב, להקמת מפעל ישובי גדול: בנין שכונה מיוחדת ליהודי בוכארה בירושלים בשם "רחובות" ובחדש טבת תרנ"א רכשו נחלה של מאה ושלשה עשר אלפים אמה בקרן צפונית מערבית בירושלים במחיד שלשה גרוש טורקי האמה, הרב יעקב מאיר עודד אותם לבנין השכונה, והוא גם שייעץ אותם לבנותה כדרך ערי אירופה ברחבות-ידים, הנחלה נתחלקה למאה ואחד חלקים ועל כל בעל נומר ליתן בעד חלקו סך 22,5 נפוליון שהם ערך מאה וחמשים רובל.
+
+ לזכר בנו הוציא את הספר "זכר צדיק" (לימודים ותפלות לעילוי נשמות נעדרים ובו רשימות של דברי תורה וחכמה שמצא בעזבון בנו).
+
+ נפטר בירושלים, י' שבט תר"ע.
+
+ בתו<persName> שרה </persName> נישאה להרב <persName>פנחס הכהן רבין</persName> (בן הרב<persName> יצחק חיים,</persName> ונכדי של הרב<persName> פנחס הכהן רבין</persName> הגדול, הרב הראשי ליהודי בוכארה אחרי פטירת הרב יוסף ממאן הנ"ל ולפי צוואתו), רב ונשיא העדה בבוכרה. עלתה ארצה בתרס"ה ואחרי פטירת אביה חזרה בתרע"א לבוכארה. שם נתאלמנה מבעלה בתרפ"א ועלתה ארצה בתרפ"ו. ילדה שבעה בנים ושבע בנות ומהם נשארו בחיים רק שלש בנות, ובהשתדלותה נתאפשר להן לעלות ארצה, והן:<persName> טובה </persName> אשת חנניה מולאקנדוף,<persName> סולטאנה</persName> אשת גבריאל משהיוף (פקיד בעירית פתח תקוה), <persName>שולמית </persName> אשת יצחק חיים תילאיוף. הרבתה לעשות צדקה וחסד ונפטרה בירושלים, ט"ו תמוז תש''ה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1271 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1271</bibl><bibl>Volume: #3 ,Page: 1272 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1272</bibl>
+<bibl>Volume: #3 ,Page: 1273 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1273</bibl>
+<bibl>Volume: #3 ,Page: 1274 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1274</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

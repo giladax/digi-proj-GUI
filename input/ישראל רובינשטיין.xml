@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5628 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5628</bibl><bibl>Volume: #19 ,Page: 5629 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5629</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל רובינשטיין</persName>
+
+</head>
+         <div><p> נולד בסטנוב בקמיניץ פודולסק בשנת תר"ך (1860).
+
+ לאביו <persName>אבא רובינשטיין </persName> (ממשפחת בנקאים. דודתו <persName>מירל רובינשטיין </persName> היתה ידועה בתור בנקאית בכל קמיניץ פודולסק), אמו השתייכה למשפחת <persName>שאול</persName> <persName>ואהל,</persName> שמלך יום אחד בפולין.
+
+ קיבל חינוך מסורתי וכללי.
+
+ בשנת תרמ"ב (1882) עלה יחד עם אביו ואחיו ל
+
+
+ תורכיה וקבעו את מושבם באיזמיר. שם עסק במסחר העורות. רכש קונים ומספקים, שהיו מספקים את העורות לצבא הרוסי .היה נוסע בקביעות לאודיסה עם הסחורה וחוזר לאיזמיר.
+
+ כעבור כמה שנים קיבלו את הנתינות התורכית ועלו בשנת 1884 לארץ והתיישבו בצפת. שם רכש אביו רחוב שלם בצפת העתיקה שנקראה "בתי-אבאלה" (הקיים עד היום הזה). כמו כן רכש אביו אדמה רבה על שפת הכינרת. הממשלה הצרפתית לחצה עליו לוותר על המקום והוקם שם המנזר הצרפתי הידוע. בגלל הוויתור על האדמה הממשלה התורכית נתנה להם את הזכיין לדיג בכינרת אשר נמצא ברשות המשפחה כמה שנים ואשר הוצא מידיהם ע"י פחה חדש.
+
+ באותו זמן נסע לארצות הברית, הנסיעה ארכה כשישה חודשים. אחרי שראה את העוני באיסטסייד בניו-יורק חזר לארץ דרך אפריקה. במשך שנה היה במרוקו, אלג'יריה, טוניסיה ומצרים.
+
+ בחוזר לארץ נשא לאשה את <persName>רבקה</persName> בת<persName> חיים הלוי</persName> שעלו מווילנה ואשר אחיותיה היו נשואות<persName> לליפא</persName> <persName>קמיניץ</persName> מירושלים,<persName> לברנשטיין </persName> מעקרון, <persName>לאהרון ליפא</persName> <persName>מנדלבוים </persName> מפתח-תקוה,<persName> ללוי </persName> ממצרים <persName>ולזליג רבינו</persName> <persName>ביץ </persName> מיפו.
+
+ אחרי החתונה התיישבו בעזה ושם נולדה בתם הבכירה.
+
+ למד מכונאות ועבד בטחנת קמח בפלוגות ואחרי כמה שנים עבר ליפו ועבד בטחנת הקמח של וילף בנוה שלום.
+
+ אחרי שנפצע בזרועו מחגורת המכונה עזב את העבודה ונכנס לעבוד בחברת "זינגר" בתור מכונאי.
+
+ ב-1914 מונה בתור מנהל חברת "זינגר" (מכונות תפירה) בסניף פתח-תקוה והמשפחה עברה לגור שם.
+
+ בשנת 1917 גורשו מפתח-תקוה ונדדו לכפר סבא, חדרה, זכרון-יעקב וחיפה.
+
+ ב-1918 חזרו ליפו. כתוצאה מהסבל והנדודים לא חזר יותר לעבוד במכונאות ופתח חנות למכירת פחמי עץ.
+
+ נפטר בכ"ט סיון תרפ"ה (21.6.1925) והובא לקבורה בהר-הזיתים.
+
+ צאצאיו: <persName>מרים </persName> אשת<persName> יהושע כספין; חיים רובינ</persName> <persName>שטיין </persName> (מנהל ובעל משרד "חיים רובינשטיין ובנו" סוכנות לביטוח בע"מ בת"א); <persName>שושנה</persName> אשת <persName>מנחם</persName> <persName>סלונים ; רחל</persName> אשת <persName>יעקב גולדמן</persName> ז"ל (ראה את הערך שלו בכרך זה, בעמוד 5630).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5628 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5628</bibl><bibl>Volume: #19 ,Page: 5629 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5629</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4701 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4701</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זבולון כספי</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ח תשרי תרס"א (21.10.1900).
+
+ לאביו <persName>אברהם חיים זילברמן</persName> (ראה כרך ב', עמוד 417) ולאמו <persName>נחמה רבקה</persName> בת <persName>ר' משה יהושע</persName> <persName>יאנובר</persName> (ממיסוי שכונת מאה שערים בירושלים).
+
+ קיבל חינוך מסורתי וכללי ולמסחר.
+
+ חבר ההגנה משנת תר"פ (1920).
+
+ בשנת תרפ"ד (1924) נשא לאשה את <persName>גיטה</persName> בת <persName>יהודה ליב שכטר</persName> (בעל דפוס "הספר העברי").
+
+ ממיסדי שכונת "קרית שמואל" (מונטיפיורי). מיד לאחר הפרעות של שנת תרפ"ט (1929) היה מהראשונים שהחל לבנות את ביתו בשכונה.
+
+ אח בבני-ברית "לשכת ירושלים".
+
+ נשיא לשעבר של לשכת" אלומה" מספר 140 של הבונים החופשים. נגיד זרובבל היכל ארון הברית "העיר הקדוש" מספר 623 ירושלים. נושא דגל ראשון גדול כבוד של ההיכל הגדול העליון של סקוטלנדה. בא כח הלשכה הגדולה של פלורידה ליד הלשכה הגדולה למדינת ישראל.
+
+ גויס לצה"ל והשתתף בהגנת ירושלים הנצורה ונלחם במלחמת השחרור.
+
+ משנת 1949 בשרות המדינה, מנהל אגף הייבוא סחר חוץ. במשרר המסחר והתעשיה.
+
+ בנותיו: <persName>עפרה </persName> אשת העו"ד <persName>זאב תמיר</persName> (טרינין) ; <persName>חולדה </persName> אשת רב סרן<persName> גבריאל רוזנטל</persName> ; <persName>אילנה ברכה</persName> אשת <persName>יעקב אבן-עזרא</persName> .
+
+ נכדיו: <persName>אורנה וטליה תמיר</persName> (טרינין): <persName>יורם חי</persName> <persName>ואמיר רוזנטל; אורלי וטליה אבן-עזרא</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4701 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4701</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4472 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4472</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נח יעקבסון (יעקובובסקי)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>לומזה</placeName> (פולין) בשנת תרנ"ד (7.3.1894).
+
+ לאביו <persName>זאב אריה יעקובובסקי</persName> ולאמו <persName>חיה היטקה</persName> בת <persName>נפתלי גרנטוביץ</persName> .
+
+ קיבל חינוך מסורתי בחדר ובישיבת לומזה.
+
+ היה פעיל במוסדות צבור דתיים בעירו.
+
+ עסק במסחר הירקות.
+
+ בשנת 1917 נשא לאשה את<persName> נטי</persName> בת <persName>דב גרנטוביץ</persName> .
+
+ בשנת 1920 עלה לארץ.
+
+ בשנת 1922 היה בין 10 האנשים שהחליטו להקים מושבה חקלאית כשלושה קילומטר מהרצליה. רכשו קרקע וקראו למושבה "עיר שלום" ואח"כ החליפו את שמה ל"רמת השרון". הוא רכש 30 דונם לנטיעת פרדס. נבחר לחבר הועד הראשון במושבה בשנת 1923.
+
+ סבל מאד בחבלי הקליטה, מחוסר אמצעים, מהשכנים הערבים וכו', ובספטמבר 1923 נסע לארצות הברית, אך לא ניתק את הקשר עם הארץ ושלח כספים שהרויח שם לנטיעת פרדס על אדמתו.
+
+ בשנת 1932 חזר לארץ עם משפחתו והמשיך לעבד את פרדסו, הקים גם משק חקלאי ובנה בתי מגורים לו ולבנותיו. חינך את בנותיו לחיי עבודה וחקלאות.
+
+ ישיבתו ברמת השרון והקמת משקו היו כרוכים במאמצים מרובים וסבל כיתר התושבים הראשונים.
+
+ נסע שוב לארצות הברית להיטיב את מצבו הכספי, משפחתו השאיר בארץ וכשחזר בפעם השלישית בשנת 1948 מארצות הברית הקים בית להשכרה ולול גדול.
+
+ השקיע מרץ רב לבנין בית הכנסת במושבה. ע"י אוסף תרומות מהמתישבים ובעזרת ועד המושבה הוקם בית הכנסת. לזכר בנו<persName> בנימין אברהם</persName> ז"ל שנפטר (1954) הקדישו, רעיתו והוא את ארון הקודש לבית הכנסת. והיה החזן הראשון בו.
+
+ ממיסדי קופת גמילות חסדים ומנהלו. מתרים בערב פסח למעות חיטים וכו'.
+
+ צאצאיו: <persName>טובה</persName> אשת<persName> יצחק זלצמן, בנימין אברהם</persName> ז"ל,<persName> ישראל</persName> ז"ל,<persName> שרה רחל</persName> אשת<persName> זלמן גינצבורג</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4472 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4472</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

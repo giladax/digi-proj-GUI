@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4695 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4695</bibl><bibl>Volume: #15 ,Page: 4696 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4696</bibl>
+<bibl>Volume: #15 ,Page: 4697 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4697</bibl>
+<bibl>Volume: #15 ,Page: 4698 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4698</bibl>
+<bibl>Volume: #15 ,Page: 4699 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4699</bibl>
+<bibl>Volume: #15 ,Page: 4700 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4700</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב ישראל יצחק זילברמן</persName>
+
+</head>
+         <div><p> נולד בירושלים, ג' כסלו תרמ''ט (סוף 1888).
+
+ לאביו הרב <persName>יעקב מרדכי זילברמן</persName> , מהשו"בים (שוחט ובודק) הראשיים בבית המטבחיים העירוני בירושלים (ראה ערכו בכרך זה), שהיה בן הרב <persName>שמואל מוני,</persName> ממנהיגי הישוב האשכנזי, שעלה
+
+ לארץ בילדותו בשנת תקצ"ג (1833) ולאמו <persName>שטיסע</persName> <persName>פעשע</persName> בת ר' <persName>טודרוס לוין.</persName>
+
+ קיבל חינוכו המסורתי בתלמוד תורה "עץ חיים" וב"ישיבת תורת חייט''. היה לומד בצוותא עם ראש הישיבה הרב <persName>זרח אפשטיין</persName> (ראה כרך תשיעי. עמוד 3318).
+
+ בשנת תר"ע (1910) נשא לאשה את <persName>העניא</persName> בת ר' <persName>שמואל הלוי רוהלד</persName> (בן הרב<persName> נפתלי יצחק הלוי</persName> <persName>רוהלד</persName> , שעלה לארץ בילדותו, בשנת תקצ"ג - 1833 (ראה כרך א', עמוד 121).
+
+ אחיה היה ר' <persName>שלמה רוהלד</persName> , מזכיר הרבנות הראשית בתל-אביב (ראה כרד ה', עמוד 2431).
+
+ פרסם הרבה חידושי תורה בחוברות התורניות "שערי ציון", "ועד לחכמים" ועוד.
+
+ בכתובים השאיר חידושי תורה על הש"ס. השנה הופיע הכרך הראשון בשם "קרן ישי".
+
+ נפטר בירושלים, ר"ח מנחם אב תשט"ז (9.7.1956) והובא לקברות בהר המנוחות בחלקת הרבנים.
+
+ צאצאיו: <persName>שטיסע פעשע דרור; שמואל זילברמן;</persName> <persName>חנניה זילברמן; חנה לאה אשת יצחק סטרולוביץ ;</persName> <persName>שמעון מוני זילברמן; צפורה</persName> אשת<persName> אברהם ברקוביץ.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4695 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4695</bibl><bibl>Volume: #15 ,Page: 4696 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4696</bibl>
+<bibl>Volume: #15 ,Page: 4697 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4697</bibl>
+<bibl>Volume: #15 ,Page: 4698 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4698</bibl>
+<bibl>Volume: #15 ,Page: 4699 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4699</bibl>
+<bibl>Volume: #15 ,Page: 4700 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4700</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

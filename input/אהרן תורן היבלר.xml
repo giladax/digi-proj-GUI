@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 986 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/986</bibl><bibl>Volume: #2 ,Page: 987 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/987</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן תורן-היבלר</persName>
+
+</head>
+         <div><p> נולד בצפת, ג' תשרי תרנ"ב (1891), לאביו<persName> ישראל</persName> <persName>צבי </persName> (מראשוני בעלי תעשית ספירט במירון ע"י צפת, עלה ארצה בתרל"ו) ולאמו <persName>לאה בילה </persName> בת הרב <persName>יששכר</persName> <persName>יצחק הוכמן </persName> מליפקאן שבבסראביה.
+
+ למד בחדרים ובישיבת הרידב"ז בצפת. השתלם בבית-ספר למסחר בציריך שבשווייץ, חזר ארצה והחל עוסק במסחר ובעסקי ביטוח.
+
+ נשא לאשה את חנה בת ר'<persName> מאיר טויבנהויז </persName> (מעסקני צפת).
+
+ במלחמת-העולם הראשונה היה קבלן להספקת קמח ולחם לצבא הטורקי וחבר הועד למען "הסהר האדום" וקיבל אות-כבוד מלחמתי "מדליה חרביה". השתדל יחד עם ר'<persName> נפתלי חנה'לס </persName> לשחרור יהודים מהצבא. לפי החוק שוחררו שלשה משמשים-בקודש (רב, חזן ושמש) לכל בית-כנסת הרשום בממשלה המרכזית, ולכל צפת היה רשום שם רק בית-הכנסת על שם האר"י. בהשתדלותו במפקדה העליונה בדמשק הוכר באופן עיקרוני, שבצפת יש מקום ליותר מבית-כנסת אחד ועל המג'לס אידארה (המועצה המחוזית) הוטל לקבוע את בתי-הכנסיות בעלי הזכות לשחרור משמשיהם. את בירור הדבר הטיל המג'לס על ועדה מיוחדת (הקאימקם, הקאדי, נציג העדה המושלמית
+
+
+ והוא כנציג העדה היהודית), והודות לפעולתו בועדה זו הוכר מספר גדול של בתי כנסיות ולכל אחד שוחררו מחובת הגיוס שלשה אנשים לכהונות הנ"ל. כן ריכז אז בצפת את עבודת ועדת הסיוע האמריקאית.
+
+ ב-1920 עבר לחיפה ובמשך שלש שנים היה מנהל כללי לסניף החיפאי של החברה הלונדונית למסחר באפריקה ובמזרח (אפריקן-איסטרן טרייד קורפוריישן) וכמה פעמים היה ממלא מקום המנהל של החברה לסוריה. משחוסלו עסקי החברה בארץ עבר לנהל עסק פרטי למסחר ולביטוח ומשמש כמומחה להערכת סחורות ולבירור חוקי הביטוח ומנהגיו בבתי-המשפט.
+
+ מתרצ"ז ואילך נבחר ליו"ר מועצת בית-העלמין שליד ועד קהלת חיפה. הקדיש זמן ומרץ לשכלול הסדרים בחברה קדישא ובבית-העלמין ובסדרי הקבורה. עבודה קשה ורבת אחריות הוטלה עליו בתפקיד זה בעת אסון האנייה "פטריה", שעמדה להוציא מאות מעפילים לגירוש למאוריציוס ונתפוצצה בנמל ונספו בה למעלה מ-220 נפש והיה עליו לזהות את רוב החללים ולסדר את קבורתם בכבוד הראוי לחללי מלחמת העם על ארצו.
+
+ כותב מזמן לזמן מאמרים בעניני כלכלה ושאלות השעה ב"הארץ", "הבוקר", "הצופה" ו"דבר". בהיותו בן 14 כתב ב"החבצלת" ידיעות מצפת.
+
+ צאצאיו :<persName> יוכבד</persName> אשת <persName>מכס רפפורט, שמשון </persName> ז"ל (טבע בנחל קורדאני שבמפרץ חיפה, י"ג כסלו תש"ב), <persName>יגאל </persName> (פקיד ראשי בבתי הזיקוק בחיפה),<persName> אורה </persName> אשת <persName>אליהו שפריר</persName> (זילברמייסטר).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 986 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/986</bibl><bibl>Volume: #2 ,Page: 987 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/987</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

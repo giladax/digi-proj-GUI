@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5664 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5664</bibl><bibl>Volume: #19 ,Page: 5665 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5665</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רות דיין</persName>
+
+</head>
+         <div><p> נולדה במרחביה (ישראל), י"ב אדר תרע"ז (6.3.1917).
+
+ לאביה העו"ד<persName> צבי שורץ </persName> (ראה את הערך שלו בכרך שלישי", בעמוד 1486) ולאמה <persName>רחל</persName> בת<persName> דב קל</persName> י<persName>מקר </persName> (עסקן ציבורי, בעל תעשיה. ראה את הערך שלו בספר זה, י"ט, בעמוד 5679).
+
+ קיבלה חינוך עברי. בשנים 1950-53 עברה קורס מיוחד לאריגה בקרפטס, לונדון.
+
+ היתה תושבת נהלל בשנים 1934-48.
+
+ נישאה לרב-אלוף (כיום שר הבטחון) <persName>משה דיין</persName> (ראה את הערך שלו בכרך רביעי, בעמוד 1792 ובכרך י"ז, בעמוד 5238).
+
+ משנת 1954 מנהלת "חברת משכית בע"מ", חברה לפיתוח מלאכת מחשבת.
+
+ היתה נציגת מדינת ישראל ב- World Craft Council.
+
+ משתתפת בכנסים כיועצת ל I.L.D.-כמומחית לאירגון מלאכת מחשבת.
+
+ נשיאת "ברית בני-שם", אגודה להבנה בין יהודים וערבים.
+
+
+ נשיאת חוג ידידות בית החולים "תל-השומר".
+
+ חברה במועצה לעידוד השכלה גבוהה בקרב העדה הדרוזית.
+
+ צאצאיה:<persName> יעל</persName> אשת<persName> דב שיאון</persName> (נספח צבאי בפאריס); <persName>אהוד</persName> (רעייתו:<persName> טליה</persName> לבית <persName>קירשנר</persName> ); <persName>אסף</persName> (רעייתו: <persName>אהרונה </persName> לבית<persName> מלקינד)</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5664 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5664</bibl><bibl>Volume: #19 ,Page: 5665 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5665</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

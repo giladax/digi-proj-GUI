@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4226 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4226</bibl><bibl>Volume: #13 ,Page: 4227 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4227</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עו"ד אלישע שינבוים</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ורשה</placeName> (פולין), כ"ד סיון תרפ"ב (20.6.1922).
+
+ לאביו<persName> אברהם חיים הכהן </persName> ולאמו<persName> טובה רחל</persName> בת ר' <persName>אלישע שינלנד</persName> .
+
+ קיבל חינוך מסורתי וכללי בבי"ס תחכמוני ב<placeName>ורשה</placeName>.
+
+ בשנת תרצ"ו (1936) עלה לארץ.
+
+ המשיך בישיבת תל-אביב, בישיבת הישוב החדש (של הרב עמיאל זצ"ל) וישיבת חברון והוסמך לרבנות.
+
+ למד משפטים בביה"ס הגבוה למשפט וכלכלה וכן בהאוניברסיטה העברית בירושלים וקיבל תואר של עורךדין.
+
+ עסק בהוראה. היה מזכיר החזית הדתית המאוחדת בכנסת הראשונה.
+
+ בשנת 1946 נשא לאשה את <persName>פנינה</persName> בת הרב <persName>אביגדור</persName> <persName>ראובן שור.</persName>
+
+ חבר מרכז הפועל המזרחי, ועדת הביקורת המרכזי, ועדת המנגנון, בהנהלת בנק הפועל המזרחי.
+
+ חבר ועד לשכת עורכי הדין למחוז תל-אביב-יפו.
+
+ חבר נשיאות מועצת ועד ההורים המרכזי.
+
+
+ חבר ועד למחוז תל-אביב-יפו.
+
+ חבר ועד האקדמאים הדתיים.
+
+ חבר הועדה לתחיקת עבודה שליד האיגוד המקצועי ועוד.
+
+ כותב בעתונות מאמרים בשאלות אקטואליות, בעניני חוק ומשפט ובעניני המשפט העברי.
+
+ ערך ליקוטים מדעיים.
+
+ ספר: בדיני אישים, משפחה וירושה (בשלוחה התל-אביבית של האוניברסיטה העברית בירושלים).
+
+ צאצאיו:<persName> חוה, יעקב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4226 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4226</bibl><bibl>Volume: #13 ,Page: 4227 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4227</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

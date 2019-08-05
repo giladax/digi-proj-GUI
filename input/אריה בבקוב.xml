@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1694 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1694</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה בבקוב</persName>
+
+</head>
+         <div><p> נולד בגאצ'ינה, פלך פטרבורג, רוסיה, כ''ח חשון תרמ"ב (1881), לאביו <persName>זלמן דוד </persName> (חייט).
+
+ למד בחדרים, בישיבת סלובודקה, התיצב לבחינה וקיבל תעודת בגרות רוסית. הצטרף לתנועה הציונית בראשיתה, ב-1896, והיה מיד מפעיליה השתתף כציר בועידות ציוני רוסיה במינסק ובהלסינגפורם ובקונגרסים הציוניים ה-7, 11, 12 ו-17. למד באוניברסיטת פטרבורג בשנות 1900/08, ובו בזמן לימד עברית והשתדל להשפיע על טובי הציונים דוברי רוסית שיהיו עברים גם בדיבורם.
+
+ ב-1907 נשא לאשה את <persName>רוזה </persName> בת<persName> נח דוברינר.</persName>
+
+ היה מהפעילים והמפעילים בקהל הסטודנטים ואנשי האינטלגינציה הציונית בפטבורג, בחבורה שהתרכזה מסביב <persName>לזאב ז'בוטינסקי, אברהם אידלזון</persName> וחבריהם במערכת ''ראזסווייט", כתב מאמרים פובליציסטיים בע
+
+ תון זה ברוסית וב"הזמן" בעברית. אחרי לימודיי באוניברסיטה הפך לאיש-מעשה : חרשתן מ-1909 ועד 1918 ואח"כ פקיד עד 1921, אך לציונות המשיר להתמסר כמו סטודנט צעיר ונלהב.
+
+ עלה לארץ באוקטובר 1921. היה במשך שנה מנהל עבודה בבית-החרושת ללבני סיליקט ואח"כ עבד כמנהל פנקסים במחנות הגדולות בחיפה, בחברת "רענניה" בתל-אביב וישנותיו האחרונות במפלגת הצה"ר.
+
+ היה הראשון בתל-אביב שהיה לו מקלט-רדיו שבנה בעצמו, ואח"כ ניהל את שרות הרדיו העברי הראשון שהוקם בשטח התערוכה, עוד לפני היות שרות שידור בארץ.
+
+ גם בארץ היה מטובי הפעילים למען הציונות. הצטרף בין הראשונים לתנועה הרביזיוניסטית. משנתפלגה הצטרף למפלגת המדינה העברית ובשנת 1933 ערך את שבעונה "המטרה". אח"כ חזר להצה"ר וב-1535 היה ציר וחבר הנשיאות בקונגרס היסוד של ההסתדרות הציונית החדשה. כתב מאמרים בעתוני המפלגה והופיע כנואם ומרצה באספותיה ובועדותיה, אך בשנותיו האחרונות הוכרח לצמצם את פעילותו בגלל חולשת גופו.
+
+ נפטר בתל-אביב, י"ד תשרי תש"ט (20.10.48).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1694 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1694</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

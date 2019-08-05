@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1258 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1258</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל זלקינד</persName>
+
+</head>
+         <div><p> נולד בשקלוב, פלך מוהילב, רוסיה הלבנה, בשנת תקצ"א (1831), לאביו <persName>יעקב הלוי זלקינד</persName> (שהיה מראשי העיר שקלוב, פרנס ועסקן צבורי). קיבל חנוך תורני וכללי.
+
+ התישב במוסקבה והיה שם במשך 30 שנה קומיסיונר לסידור הקניות של סוחרי מנופקטורה בערים שונות ברוסיה. עסק בצרכי צבור, היה גבאי ראשי בבית-הכנסת הגדול, מכובד אף בעיני שרי השלטון ופעל רבות לטובת יהודים מ"תחום המושב" ששהו במוסקבה בלי "זכות ישיבה''.
+
+ בתרנ"ו פרש מהעסקים, עלה ארצה עם אשתו והתישבו בירושלים, בדירה שאחותו<persName> חאשה</persName> ובעלה ר' <persName>משה ויטנברג</persName> הכינו לו קריה נאמנה בשכונת בתי ניסן בק.
+
+ היה דודו של הסוחר יצחק שריון מירושלים (ראה כרך שני, עמוד 715).
+
+ הקדיש את זמנו לפעילות לטובת מוסדות התורה והחסד בירושלים ונתמנה לגבאי-כבוד של ישיבת "תורת חיים" (מיסודו ובראשותו של הגאון רבי<persName> יצ</persName> <persName>חק וינוגראד)</persName> , וכן היה עוזר ומיטיב גם לנצרכים פרטיים.
+
+ נפטר בירושלים, בתרס"ד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1258 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1258</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2920 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2920</bibl><bibl>Volume: #7 ,Page: 2921 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2921</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלוף משנה צבי הורביץ</persName>
+
+</head>
+         <div><p> נולד בוברויסק (רוסיה), כ"ט אדר ב' תרע''ט (19.3.1919).
+
+ לאביו<persName> חיים מאיר</persName> ולאמו <persName>פרומה</persName> בת <persName>אלטר רבינוביץ.</persName> בילדותו, בשנת 1923 עלה לארץ.
+
+ קבל חנוך עממי בביה"ס פיק"א ותיכוני בגמנסיה
+
+ אחד-העם בפתח-תקוה. 3 שנים השתלם בטכניון בחיפה (1945-49) והפסיק את למודיו ב 1948 היות וגוייס ע"י מנגנון ההגנה, עקב ההכנות למלחמת השחרור.
+
+ חבר ההגנה משנת 1933.
+
+ משנת 1938 עד 1946 מטעם ההגנה בפו"ש גזר-חיל בצפון, יחידת פו"ש גליל עליון.
+
+ מדריך ראשי בקורסי קציני ההגנה.
+
+
+ היה סגן ההדרכה של צ.ה.ל.
+
+ מפקד גדוד ותפקידים פיקודיים שונים, אחרי מלחמת השחרור.
+
+ בשנת 1949 נשא לאשה את <persName>חנה</persName> בת <persName>פישל ורבר.</persName> מ"מ אלוף פיקוד הדרום בצ.ה.ל.
+
+ צאצאיו:<persName> אברהם, מאירה, עמית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2920 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2920</bibl><bibl>Volume: #7 ,Page: 2921 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2921</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

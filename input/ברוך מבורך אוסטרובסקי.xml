@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5388 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5388</bibl><bibl>Volume: #18 ,Page: 5389 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5389</bibl>
+<bibl>Volume: #18 ,Page: 5390 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5390</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ברוך מבורך-אוסטרובסקי</persName>
+
+</head>
+         <div><p> נולד ביעליסבטגרד (רוסיה) בחנוכה תרכ"ו (1865).
+
+ לאביו <persName>משה אוסטרובסקי</persName> (משפחה חסידית).
+
+ קיבל חינוך מסורתי בהתאם לרוח החסידות. במשך השנים למד בכוחות עצמו וקנה דעת בערכי היהדות ובהשכלה כללית.
+
+ נשא לאשה את<persName> רחל</persName> בת <persName>ישראל ורייזע קלוצוק</persName> שנולדה בקלרש (בסרביה). קיבלה חינוך עברי לאומי בקשינוב. משכה בעט סופרים ובימי הפרעות בקישינוב, שימשה כסופרת של העתון האידי "דער פריינד" ואח"כ כשעלו לארץ פרסמה מזמן לזמן רשימות ומאמרים. ביתם בקישינוב היה בית ועד לחכמים וסופרים (ראה את הערך שלה בכרך ט"ו, בעמוד 4754). נפטרה בתל-אביב, א' ניסן תש"ז (22.3.47).
+
+ בקישינוב היה לבעל בית מסחר לספרים וספריה.
+
+ היה פעיל בענייני הציונות והקהילה בקישינוב.
+
+ בשנת תרנ"א (1891) התכונן לעלות לארץ. נסיונו זה הופר ע"י האיסור שהוצא מטעם השולטן התורכי על הכניסה לא"י.
+
+
+ רק בשנת תרס"ז (1907) הגשים את חלומו ועלה בעליה השניה לארץ.
+
+ צעדיו הראשונים עשה בבית החרושת לשמנים שהוקם ע"י הבארון <persName>אדמונד רוטשילד</persName> במוצא ליד ירושלים. בית החרושת לא האריך ימים ונסגר. אז נתקבל למזכיר בית הספר "בצלאל" בהנהלת פרופ'
+
+<persName>בוריס שץ </persName> (ראה כרך חמישי, עמוד 2336), אולם נאלץ בגלל קדחת המלאריה, שמוטטה את בריאותו, להחליף את ירושלים בתל-אביב (שנוסדה בשנת 1909).
+
+ נתקבל בתור פקיד ב"אנגלו פלשתינה בנק בע"מ" (כיום הבנק הלאומי לישראל בע"מ) שביפו וזכה להיות בין בוניה ועסקניה הראשונים של חברת "אחוזת-בית" - היא תל-אביב.
+
+ ביתו בתל-אביב שימש כמו בקישינוב ובירושלים בית ועד לעסקנים, מורים וסופרים.
+
+ נפטר בתל-אביב, כ"ח ניסן תש"י (23.4.1950), והובא לקבורה בנחלת יצחק.
+
+ צאצאיו :<persName> משה; עמנואל ; הדסה </persName> אשת <persName>ירוחם</persName> <persName>קליבנוב</persName> (ראה את הערך שלו בכרך זה); <persName>יהודית </persName> ז"ל אשת פרופ' <persName>נתן פינברג</persName> (ראה כרך ח', עמוד 3042).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5388 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5388</bibl><bibl>Volume: #18 ,Page: 5389 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5389</bibl>
+<bibl>Volume: #18 ,Page: 5390 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5390</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3877 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3877</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק נמירובסקי</persName>
+
+</head>
+         <div><p> נולד באומן (אוקראינה), כ"ה סיון תרנ"ו (1896).
+
+ לאביו <persName>יוסף נמירובסקי </persName> (סוחר) ולאמו <persName>לובה</persName> בת <persName>אברהם גבאי.</persName>
+
+ קיבל חינוך מסורתי בחדר, בי"ס עממי באומן ובי"ס למסחר.
+
+ היה חבר פעיל בארגוני הנוער הציוני בעירו.
+
+ ב-2 לינואר 1914 עלה לארץ.
+
+ בשנת 1918 נשא לאשה את <persName>פנינה </persName> בת דב<persName> אריאל</persName> (ליבוביץ) מגדרה.
+
+ עד שנת 1925 עבד בחקלאות בתפקידים שונים.
+
+ משנת 1925 איכר בגבעת עדה.
+
+ בגבעת עדה פעיל בכל עניני הציבור, המושבה ומוסדותיו.
+
+ היה יו"ר הועד בגבעת עדה בשנים 1928-31.
+
+ עוסק במשלוח פרי הדר לחו"ל.
+
+ כתב מאמרים בבוסתנאי בעניני פרי הדר וחקלאות. צאצאיו:<persName> רבקה</persName> (מורה) אשת <persName>משה זלנפרוינד,</persName> <persName>עזי </persName> (8 שנים פעיל בפלמ"ח), <persName>רעננה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3877 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3877</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4966 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4966</bibl><bibl>Volume: #16 ,Page: 4967 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4967</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק אבי-משה (רבר)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פלשטין</placeName> (רוסיה), ו' אדר תר"ס (1900).
+
+ לאביו <persName>משה רבר</persName> (יהודי דתי וחסיד מובהק. היה מחסידי רוז'ין) ולאמו<persName> עדה</persName> בת<persName> יצחק רבר.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה, וכללי ע"י קורסים מיוחדים לפי בי"ס תיכון.
+
+ אביו בגיל 55 החל בשנת 1911 לחסל את הגולה במטרה לבנות חיי עבודה חדשים בא"י. ביים ג' תמוז תרע"ב (18.6.1912) עלתה המשפחה לארץ. התאכסנו במלון הידוע לעליה השניה של <persName>חיים ברוך</persName> בנוה שלום ביפו.
+
+ התישב בעין-גנים ע"י פתח תקוה. הכין לבנים לבנין בית. מחציתו לרפת לפרות וחדר (לארבע נפשות) לגור בו.
+
+ האב עבד בפרדסי פתח-תקוה, לשביעת רצונם
+
+
+ של המעבידים. הם העדיפו אותו על פועל צעיר, ביודעם את המסירות שלו לעבודה.
+
+ בשנת 1923 נשא לאשה את <persName>חיה רחל</persName> בת חנה ור' <persName>שלמה כהן-ויסברג </persName> (ראה כרך ט"ו, עמוד 4688). נולדה במזכרת בתיה (עקרון). למדה והתחננה בבית הספר במושבה. היתה מראשוני "המכבי" בצעירותה. רבים מאנשי העליה השניה נהנו בביתה מהכנסת אורחים, ובעקב זה הצטרפה באהדה לתנועת העבודה.
+
+ עבד בחקלאות אח''כ בבנין במקומות שונים בארץ (חולדה בן-שמן, כרכור, ירושלים, תל-אביב, עין גנים, פתח-תקוה, רחובות, במחנות הצבא בימי ממשלת המנדט וכו').
+
+ חבר בועדי העובדים. פעילות לעבודה עברית בשנים שלפני קום המדינה.
+
+ שופט בחבר השופטים של הסתדרות העובדים ברחובות. מפעילי ההסתדרות במקום.
+
+ כיום, קופאי בבית המרקחת בקופת חולים ברחובות.
+
+ צאצאיו:<persName> עדינה</persName> אשת <persName>אברהם אשל</persName> (ילדיהם: <persName>נצה, גד, ניר); ציונה; משה</persName> (אשתו<persName> דליה</persName> בת <persName>אהרן מדיני</persName> (ילדיהם: <persName>יפתח, גלעד, נמרוד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4966 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4966</bibl><bibl>Volume: #16 ,Page: 4967 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4967</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

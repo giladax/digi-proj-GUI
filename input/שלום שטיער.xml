@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1164 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1164</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלום שטיער</persName>
+
+</head>
+         <div><p> נולד בבנדין, פולין, בשנת תרמ"ו (1886), לאביו <persName>צבי </persName> (בעל תעשית סוכריות) ולאמו<persName> אהובה</persName> בת<persName> דוד</persName> <persName>מרקוביץ</persName> מקראקוב. קיבל חינוך יהודי וכללי בבית
+
+ ספר עממי ויצא לעבודה בתעשיה של אביו והצטרף ל"פועלי ציון" שבעיר.
+
+ אחרי שרתו שנה בצבא הרוסי באלכסנדרופול שבקאוקאז עלה ארצה ב-1908. עבד בישור החולות בשכונת "אחוזת בית" (היא תל-אביב) בהוסדה. בהשפעת <persName>ישראל גלעדי </persName> הצטרף ל"השומר". שמר במשך שנה ביבנאל, חלה בקדחת וסבל כמה חדשים. יצא מ"השומר" והלך לשמור באופן עצמאי בראש פינה, ואח"כ בבורג' (אדמת בנימינה לפני הוסדה) ובזכרון יעקב. כשהקדחת חזרה להציק לו עבר לתל-אביב ועבד בבנין עד הגירוש הכללי בניסן תרע"ז. יצא עם הגולים לכפר סבא ועזר להקים צריפים לשיכון המוני המהגרים מיפו ות"א, טיפל בחולים והתמסר לכל עזרה לטובת המהגרים והפליטים בהבאת צרכי מזון וכדומה. משגורשו המהגרים גם מכפר סבא, עבר לטול כרם ועבד בשרותים אצל הצבא הגרמני ותוך כך הרבה לעזור לחיילים ולמהגרים היהודים שעברו שם.
+
+ נשא לאשה את <persName>אהובה</persName> בת <persName>צבי מיאס</persName> .
+
+ אחרי המלחמה התישב בחדרה ועבד בבנין ובצבעות, ומשהתגברה עליו הקדחת עבר לעבוד במקצועות אלה בחיפה ואח"כ בירושלים, ובעקב מחלה זו שחזרה ופקדה אותו גם שם הסתדר בשנים האחרונות כתושב ועובד בשני מקומות בכל שנה, בהתאמת העונה והאקלים לדרישות בריאותו: בקיץ בצפת ובחורף בטבריה.
+
+ צאצאיו: <persName>שמשון, אריה, לאה, רחל, משה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1164 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1164</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

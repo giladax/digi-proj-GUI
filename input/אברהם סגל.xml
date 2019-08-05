@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2787 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2787</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם סגל</persName>
+
+</head>
+         <div><p> נולד צפת, ה' חשון תרס''א (28.10.1900).
+
+ לאביו <persName>צבי </persName> ולאמו <persName>בתיה </persName> בת<persName> נתן פינקלשטיין.</persName>
+
+ למד בבי''ס למל בירושלים.
+
+ עבד בתור פועל בחקלאות במסחה וביבנאל.
+
+ עבד בתחנת הנסיונות לחקלאות של<persName> אהרן אהרנסון</persName> (ראה כרך ה', עמוד 2073) בעתלית.
+
+ בשנת 1915 ביסוד "נילי" הצטרף לארגון זה ושימש בתפקיד עגלון - בהעברת חומר ריגול ממקום למקום.
+
+ בשנת 1921 נשא לאשה את <persName>שושנה </persName> בת<persName> יוסף פוזנר.</persName>
+
+ שירת במשך שנתים וחצי בתור שוטר במשטרת חיפה וזכרון-יעקב.
+
+ עבד ביבוש בצות כברה של הפיק"א ע"י זכרון-יעקב.
+
+ בשנת 1932 התישב כחקלאי במושבה אבן-יהודה.
+
+ בנותיו: <persName>רבקה </persName> אשת <persName>יעקב גוטר, תמר</persName> אשת <persName>מאיר</persName> <persName>בינשטוק, נדיבה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2787 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2787</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2385 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2385</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם אלתר ברונשטיין</persName>
+
+</head>
+         <div><p> נולד בירושלים. בשנת תר"מ (1880).
+
+ לאביו<persName> שמואל</persName> ולאמו <persName>שרה</persName> .
+
+ קיבל חינוך מסורתי בחדר ובביה"ס האליאנס בצפת.
+
+ בשנת 1904 נשא לאשה את<persName> פרומה</persName> בת <persName>משה ויסמן</persName> . נתקבל כפקיד מטעם הבארון רוטשילד בראש פינה,
+
+ נשלח מטעם היק"א לעבוד בסג'רה, אח"כ כחקלאי ל"ביתוגן" ליד יבניאל, ואח"כ במסחה (כפר-תבור).
+
+ משנת 1909 בחיפה. נמנה עם ראשוני המייסדים
+
+ של השכונה נוה שאנן בחיפה (על "ההר האדום").
+
+ בתקופת המלחמה העולמית הראשונה, שירת בצבא התורכי בדרגת קצין.
+
+ עם הכיבוש הבריטי נתמנה בתור מפקח יהודי ראשון על עבודות הכבישים מטעם המחלקה לעבודות צבוריות.
+
+ כבר בגיל צעיר לקח חלק בעבודת ההתישבות של המושבה ראש פינה, ואחרי כן במושבות שנוסדו בגליל התחתון.
+
+ תקופה מסוימת נמנה עם ראשוני השומרים העברים בסג'רה.
+
+ נפטר בירושלים, כ"ט סיון תרצ"ב (3.7.1932)
+
+ צאצאיו:<persName> חנה </persName> (חיפה),<persName> רחל</persName> (אוסטרליה),<persName> משה</persName> (חיפה), <persName>יהודה</persName> (חיפה),<persName> שושנה </persName> אשת<persName> עזרא הוכברג </persName> (חיפה), <persName>שולמית</persName> אשת <persName>אריה סמסונוב</persName> (ראה בכרך זה ע' 2356) בזכרון-יעקב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2385 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2385</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

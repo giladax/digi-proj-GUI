@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3382 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3382</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יונה ניימאן</persName>
+
+</head>
+         <div><p> נולד בעקרון בשנת תרנ"א (1891). לאביו <persName>צבי </persName> (ראה כרך ח', עמוד 3105) ולאמו<persName> מינה</persName> <persName>(מינצה</persName> ) בת <persName>יונה קינדלר.</persName>
+
+ קבל חנוך מסורתי וכללי.
+
+ מאביו ירש את הקול הערב ואת שמחת החיים. יצאו לו מוניטין בשירו ובעוררו את קהל שומעיו לשמחה.
+
+ אביו נפטר עליו בילדותו, והוא קבל עליו את עול פרנסת המשפחה בהנהלת חנות המכלת אשר הוריש אביו. ניהל את העסק בשכל וביושר בהדרכת זקנו ובעזרתו של ר'<persName> יחזקאל דנין</persName> מיפו - תל-אביב (ראה כרך
+
+ א,'עמוד 480). נשא לאשה את<persName> זלדה</persName> בת <persName>שמואל ומיכלה פרס</persName> (מבוני המושבה עקרון).
+
+ בקבלו חלקת אדמה מסבו, התמסר לחקלאות בכל מרצו, וכהמשך לקודמיו במשפחה נסה גם הוא כל מיני נסיונות בחקלאות בימים ההם ולא הצליח.
+
+ עבר לירושלים והתערה מהר בחיי העיר והצטרף לכובשי העבודה העברית בעירית ירושלים המעורבת (רובם ערבים) ונבחר לחבר ועד עובדי ירושלים והתמסר לעבודה.
+
+ נפטר בירושלים, ט' שבט תשי"ב (5.2.1952).
+
+ בנו:<persName> צבי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3382 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3382</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

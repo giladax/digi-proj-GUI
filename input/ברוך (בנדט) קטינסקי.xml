@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1186 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1186</bibl><bibl>Volume: #3 ,Page: 1187 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1187</bibl>
+<bibl>Volume: #3 ,Page: 1188 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1188</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ברוך (בנדט) קטינסקי</persName>
+
+</head>
+         <div><p> נולד ברדזלובה, פלך לומזה, פולין, כ"ה אדר א' תרל"ה (1875), לאביו <persName>יהודה מרדכי ליב</persName> (מצאצאי רבי <persName>מנשה בן ישראל </persName> מאמסטרדם) ולאמו <persName>צפורה</persName> בת <persName>משה צבי קרולבצקי.</persName>
+
+ למד בחדרים ובישיבות לומזה, וולוזין וסלבודקה ואחר יצא לחיי המעשה. במשך שלש שנים למד בלודז' את תעשית האריגה ואח"כ עסק במסחר עצים ויערות בסביבת פינסק והיה פעיל באגודה הציונית בפינסק.
+
+ בתרס"ד נשא לאשה את <persName>טובה</persName> בת <persName>יהודה ליב</persName> <persName>שרתוק </persName> (אחות הבילויי <persName>יעקב שרתוק)</persName> , ובזמן חתונתם נשבעו שניהם להקים דור רק בארץ-ישראל.
+
+ בתרס"ו עלו ארצה יחד עם שני אחיה<persName> יעקב וזאב</persName> ומשפחותיהם והתישבו בכפר הערבי עין-סיניה, בהרי אפרים, בדרך ירושלים-שכם. ועסקו בחקלאות, בט
+
+ חינה ובגידול צאן באחוזה שחכרו ממשפחות החוסיינים, ובהיותם רחוקים מכל ישוב יהודי למד הוא ביפו שחיטת עופות להלכה ולמעשה וקיבל "קבלה" (כתב סמיכות) על כך מהרב <persName>אברהם יצחק הכהן קוק</persName> , שהיה אז רבה של יפו, ושלש המשפחות שבכפר אכלו בשר כשר משחיטתו. בתרס"ז עבר עם אשתו לירושלים ועסק במסחר בחמרי בנין ובתרס"ח עבר ליפו והמשיך במסחר בעצים ובחמרי בנין, ובשנים האחרונות הצטרף לתעשית אריגים.
+
+ בשנים הראשונות היה מאוהדי "הפועל הצעיר". השתתף בבנין שכונת "נחלת בנימין" (שכונה נוספת
+
+
+ כהמשך לשכונת "אחוזת בית'",היא תל-אביב בראשיתה, וכיום<persName> רחוב</persName> נחלת בנימין) והיה חבר הנהלתה. חבר במשפט השלום העברי, חבר בועדה המשפטית של התאחדות בעלי תעשיה, חבר בהנהלת "אוצר למלאכה", (לפנים בנק למלאכה בע"מ").
+
+ בנותיו:<persName> ציונה</persName> אשת ד"ר <persName>ארווין רבאו</persName> (בוגרת הגימנסיה הרצליה, למדה תורת הזנה באוניברסיטה לונדון. עסקנית ויצ"ו), <persName>ידידה</persName> (מורה למוסיקה) אשת <persName>אריה מילשטיין, צפורה</persName> (מורה) אשת <persName>יהושע בלום.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1186 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1186</bibl><bibl>Volume: #3 ,Page: 1187 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1187</bibl>
+<bibl>Volume: #3 ,Page: 1188 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1188</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

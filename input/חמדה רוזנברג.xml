@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 96 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/96</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חמדה רוזנברג</persName>
+
+</head>
+         <div><p> נולדה במושבה פתח-תקוה, בשנת תרמ"ט (14.9.1889) לאביה ר'<persName> זאב ברנדי</persName> , מראשוני המתישבים ביהודיה ובפתח-תקוה, מקבוצת "הביאליסטוקאים", ולאמה <persName>הניה</persName> . קיבלה חינוך דתי בבית ההורים ולמדה בביתהספר המקומי מפי המורים <persName>מ. צ. זפרן,</persName> אליהו<persName> ספיר</persName> ואריה ליב <persName>גורדון</persName> . כבת 16 השתתפה ביסודה ובפעולותיה של "חברת לינה", שתפקידה היה לטפל בחולים עניים, ללון אצלם בלילות לשם שמירה וטיפול, לעזור ברופא וברפואות, והד"ר<persName> כהן-ברנשטיין,</persName> שהיה אז רופא במושבה, נתן לחברות הצעירות שיעורים בעזרה ראשונה, באנטומיה, בהיגיינה וכו'. תוך הפעולה לעזרת חולים היה עליהן לעמוד בפני הזקנים השמרנים במושבה שהתנגדו להתעסקות צעירות בענינים אלה, וכן ניהלו מלחמת תעמולה מיגעת למען יסוד בית-חולים, אך לשוא. בשנת 1909 נישאה למר דוד<persName> רוזנברג.</persName> אחרי הכיבוש הבריטי השתתפה במשלחת לועד הסיוע
+
+ לקבל הקצבה לעזרת עניי פתח-תקוה. ב-1920 השתתפה ביסוד חברת "העבריה", שמטרתה היתה להפיץ את השפה העברית. ב-1925 היתה הראשונה בין נשי פתחתקוה במלחמה לשווי-זכויות, לזכות בחירה למוסדות
+
+ המושבה ולמוסדות הארציים, היתה צירה מטעם נשי פתח-תקוה באספת הנבחרים הראשונה וכן בכינוסים ארציים ובועידות רבות של התאחדות נשים לשווי-זכויות. פעילה בהנהלת גמילות-חסד של חברת "בנות התקוה" ובהנהלת מושב זקנים וזקנות בפתח-תקוה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 96 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/96</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

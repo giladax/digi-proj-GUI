@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4341 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4341</bibl><bibl>Volume: #13 ,Page: 4342 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4342</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים ריבנבר (פתחיה)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סקרנביץ</placeName> (פולין) בניסן תרפ"ד (1924).
+
+ לאביו <persName>טוביה ריבנבך </persName> ולאמו<persName> מלכה אסתר</persName> בת <persName>אליהו</persName> <persName>ריבן.</persName>
+
+
+ הובא לארץ בעודו תינוק.
+
+ גמר בי"ס תחכמוני.
+
+ בשנת 1941 הוא מצטרף כנוטר במשרת היישובים.
+
+ שנתיים לאחר מכן מצטרף לשורות לח"י. מאז ועד יום מותו לוחם אמיץ וחסר פניות במלחמה נגד הכובש הבריטי. משתתף ברוב פעולות הקרב של המחתרת.
+
+ משוכנע שכל פעולה, מקרבת את שחרור הארץ. על כן שש אלי קרב. מעז ללא רתע.
+
+ הפעולה האחרונה בה השתתף ובה מצא את מותו, היתה על בתי המלאכה של הרכבות בחיפה, ביום י"ט סיון, תש"ו (17.6.46).
+
+ פעולה זו, שהיתה מן הסדרה של פגיעה בעורקי התחבורה של האויב, היתה בקנה מידה גדול יותר והשתתפו בה יותר מאלה שביצעה המחתרת עד כה.
+
+ היה בחוליית הפורצים. כדרכו פורץ הוא ראשון, ומיד לאחר זאת שומעים חבריו קריאה "נפגעתי !" הוא נפגע ע"י מארב נסתר מאחורי אחד הקרונות.
+
+ אם באים אנו לספר אודות מלחמת השחרור לא ייפקד מקומו של <persName>חיים ריבנבך</persName> בין מחולליה. כי בדמו ודם חבריו מושתתת מדינת ישראל.
+
+ נשא לאשה ב-1945 את<persName> רחל</persName> בת<persName> יוסף ולאה כהן,</persName> מוותיקי תושבי טבריה.
+
+ בנו: <persName>אליהו</persName> (נולד כ"ב טבת, תש"ו).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4341 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4341</bibl><bibl>Volume: #13 ,Page: 4342 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4342</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

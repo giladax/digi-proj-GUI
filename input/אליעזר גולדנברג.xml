@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 509 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/509</bibl><bibl>Volume: #1 ,Page: 510 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/510</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר גולדנברג</persName>
+
+</head>
+         <div><p> נולד בסובאלק, פולין, בשנת תר"ט (1849), לאביו <persName>יחזקאל</persName> . קיבל חינוך תורני מסורתי.
+
+ ב-תרנ"א רכש באמצעות "אגודת קובנה" 250 דונם אדמה בחדרה, ובשנת תרנ"ג שלח ארצה את בנו בכורו <persName>ראובן </persName> להכין את המשק.
+
+ משנפטר ראובן בבית-החולים ביפו בעקב הקדחת בשנת תרנ"ו, עלה הוא עצמו ארצה בשנת תרנ"ז עם בתו<persName> פשה</persName> (שנישאה<persName> לאריה הירשנזון </persName> מחיפה) ושני בניו:<persName> שמעון ויחזקאל</persName> , והמשיך לעבוד בפלחה וכעבור שנים נטע בעזרת בניו גם פרדסים. נשא בסבל התלאות והפגעים, קדחת צהובה ועוד מחלות וצרות, סבל את הכל באהבה ולא נרתע. היה מסור למושבה ונשא בעול עסקי הצבור שלה כחבר הועד ובמוסדות-חסד שונים. היה ירא שמים וקבע עתים לתורה.
+
+ בתרס"א באו אחריו אשתו<persName> חיה שרה</persName> ובניהם<persName> חיים</persName> <persName>ומשה </persName> ובנותיהם <persName>רחל</persName> (אשת <persName>יצחק יעקב הירשנזון), דינה</persName> (אשת<persName> יצחק צבי הרשלר) ושושנה</persName> (אשת <persName>נפתלי ברונר,</persName> מנהל בנק אפ"ק בטבריה).
+
+ נפטר ביבנאל, ט' תמוז תרע"ט. 
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 509 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/509</bibl><bibl>Volume: #1 ,Page: 510 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/510</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

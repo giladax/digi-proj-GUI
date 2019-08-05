@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3581 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3581</bibl><bibl>Volume: #10 ,Page: 3582 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3582</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רינה ניקובה (גוזלט)</persName>
+
+</head>
+         <div><p> נולדה ברוסיה בשנת תר"ס (23.6.1900).
+
+ לאביה ליאו רובינוביץ (בעל ביח"ר) ולאמה <persName>אסתר</persName> בת<persName> יעקב כץ</persName> .
+
+ בוגרת הקונסרבטוריון במוסקבה. למדה אצל <persName>מנדס</persName> <persName>ולגט מהתיאטרון</persName> הגדול במוסקבה, ואצל<persName> אדוארדובה</persName> בברלין.
+
+ מורה לריקוד, כוריאוגרף.
+
+ לימדה והופיעה בחו"ל.
+
+ בשנת 1925 עלתה לארץ.
+
+ יסדה את ביה"ס הראשון לבלט בא"י. ניהלה סטודיה וערכה בלטים באופרה הא"י בהנהלתו של<persName> מרדכי גו</persName> <persName>לינקין.</persName>
+
+ בשנת 1929 יצאה לסיור גדול לאמריקה ואירופה.
+
+ בשנת 1933 יסדה בי"ס לאמנות.
+
+ בשנות 1937-39 יצאה לסיור בכל אירופה עם הבלט "תנכי תימני", בחסותו של הבארון <persName>מוריס דה-רוטשילד</persName> .
+
+ מיסדת ומנהלת האולפן הירושלמי לבלט תנכי וקלסי, ונותנת הופעות.
+
+ בשנת 1935 הופיעה עם הבלט הנ"ל באוניברסיטת בירות (לבנון).
+
+ במלחמת השחרור השתתפה עם הבלט שלה בהצגות למען צה"ל - בירושלים ובכל חלקי הארץ.
+
+ כתבה מאמרים במקצועה - בג'ואיש אובסרבר ועוד.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3581 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3581</bibl><bibl>Volume: #10 ,Page: 3582 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3582</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

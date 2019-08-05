@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2639 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2639</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יהודה ליב ספקטור</persName>
+
+</head>
+         <div><p> נולד ב<placeName>שאוולי</placeName> (ליטא), בשנת תרל"ג (1873), לאביו הרב<persName> דב בייניש</persName> , שהיה אחיו של הצדיק הנודע בשם ר' <persName>ליבל חסיד</persName> מקלם.
+
+ נודע כעילוי מילדותו ובן 14 עלה ארצה ונתקבל לישיבת "עץ חיים" בירושלים, ומאז נשאר בה, מקודם כתלמיד ואח"כ כאחד מטובי למדניה עד יומו האחרון ונודע בכל המעלות שהאדירו את קדושתה של ירושלים. היה גדול בתורה ובקי בפסקי הלכה, התנהג בענותנות קיצונית ומעולם לא רצה אף לראות את עצמו כ"גדול".
+
+ עד כמה שעבודת הקודש השאירה לו פנאי היה גם מעורב בין הבריות.
+
+ נטל על עצמו ניהול קרן גמילות חסדים שליד הישיבה וחלוקת ההלואות ואת עבודתו זו עשה בהתמסרות לקיום מצוה, בהסברת פנים וביחס לבבי לפונים אליו. אך על "צרכי" עצמו לא ויתר. היה מאריך בתפילה ויושב רוב שעות היום ולומד בטלית ותפילין' ובשבתות ובמועדים ובחודש אלול וימי התשובה לא פתח את פיו לדיבור של חולין.
+
+ מאגרותיו מתגלה, שהיה בעל סגנון עברי עסיסי בתערובת של חן ישן וחדש.
+
+ בחדשיו האחרונים היה משותק בלשונו ולא יכול להוציא מלה מפיו. אך באורח פלא סר השיתוק ממנו לצרכי תפילה. את תפילתו הביע בחיתוך-דיבור שלם ולדיבורי חולין לא היה מסוגל.
+
+ על אף היותו חולה מסוכן, לא ציית לפקודת הרופאים והמשיך ללכת להתפלל בצבור. כשהחמיר מצבו ולא יכול עוד לשבת וללמוד, המשיך לאמר פרקי תהלים בניע שפתים עד נשימתו האחרונה.
+
+ נפטר בירושלים, ד' טבת תש"ב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2639 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2639</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

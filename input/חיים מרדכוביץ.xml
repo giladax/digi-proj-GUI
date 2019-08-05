@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2823 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2823</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים מרדכוביץ</persName>
+
+</head>
+         <div><p> נולד בשנת תרמ"א (1881) בטיראספול שברוסיה.
+
+ לאביו<persName> דוד</persName> ולאמו<persName> חוה.</persName>
+
+ למד בחדר ואח"כ למד מלאכת כריכת ספרים ועבד בה והצטרף בבחרותו למפלגת פועלי ציון והיה מפעיליה.
+
+ ב-1908 עלה לארץ.
+
+ השתקע בחיפה, שישובה העברי היה קטן בימים ההם, המשיך במלאכתו ובפעילותו בצבור הפועלים, שימש כתובת ראשונה (בתפקיד "מחלקת העליה" של הסוכנות ושלטונות העליה של ממשלת ישראל, אבל בהתנדבות גמורה) לאנשי העליה השניה שנכנסו לארץ דרך נמל חיפה, מצא מקום במעונו לאיכסון הזקוקים לכך ומצא שהות (אף על חשבון עמלו וזמנו הדרוש לפרנסתו) לסדרם בעבודה, וכן שימש לשכת קשר ומודיעין לחלוצים הפזורים בשומרון ובגליל וביניהם ובין חברי הצמרת שנסעו לחו"ל, והכל ידעו, שמשימה שהוטלה על<persName> החבר</persName> <persName>חיים</persName> (וכל-שכן כשנטלה מאליו ביזמת עצמו), ודאי תתמלא במלוא המסירות והדייקנות, וכל גדולי העליה
+
+ השניה, שהגיעו ברבות הימים לעמדות עליונות בהנהגת ההסתדרות והסוכנות והמדינה, קירבו אותו כאח וכחבר טוב, באשר ידעו להעריך את טיב עבודתו ושרותיו לטובת היחידים והכלל. יסד את מטבח הפועלים בחיפה, שנעשה ל"בית הפועלים" במלוא מובן המלה, ניהל את כל עניניו ויעץ והדריך את החברים במלחמת-קיומם הקשה, עזר ב"כיבוש עבודה" ובשמירה על הכיבושים וכן בהשתדלות תקיפה לשיפור תנאי השכר והקיום של הפועלים העברים, ואף ניסה בימים ההם להביא את שתי מפלגות הפועלים (פועלי ציון והפועל הצעיר) לידי איחוד, ורק אחרי מלחמת העולם הראשונה (בסוף 1920) זכה להיות משתתף צנוע בועידת היסוד של הסתדרות העובדים הכללית בחיפה. כן היה ממיסדי שכונת בורוכוב ודפוס "אחדות".
+
+ ב-1913 נשא לאשה את<persName> אסתר</persName> בת <persName>נסים יצחק בעלול</persName> (היתה מקודם גננת בחדרה ובתל-אביב). בעשרות השנים שאחרי מלחמת העולם א' גדלו המשימות הצבוריות מהיקף יכלתו, והוא המשיך בעבודתו הצנועה, חינך את בניו למילוי חובה ולמסירות וראה בקורת-רוח את גידול הישוב ואת גדודי הפעילים שהרחיבו לדרך-המלך את שביל העסקנות, שהוא דרך אותו בראשונה בשדות הקוצים והטרשיים של מה שהיה אחר-כך לחיפה העברית ולחיפה הפועלית.
+
+ נפטר בחיפה, ד' כסלו תשי"א (13.11.50).
+
+ צאצאיו: <persName>אסף, מנחם, מאירה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2823 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2823</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

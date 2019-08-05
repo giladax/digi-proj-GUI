@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 437 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/437</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר אריסון</persName>
+
+</head>
+         <div><p> נולד בזכרון יעקב, בשנת תרנ"ה (18.12.1894), לאביו האכר <persName>משה</persName> , מראשוני המושבה, ולאמו<persName> שרה </persName> בת<persName> מתתיהו</persName> <persName>תמשס </persName> (ממיסדי המושבה זכרון יעקב וראש הועד בה במשך הרבה שנים).
+
+ למד בבית-הספר של המושבה ואח"כ בביה"ס למסחר באיסטמבול. בראשית מלחמת-העולם הראשונה ב1914 גויס לצבא הטורקי, גמר את ביה"ס לקצינים ושרת בצבא בדרגת לויטננט. השתמש ביכלתו כקצין לעזור <persName>למאיר דיזנגוף</persName> בהבאת עזרה למגורשי תל-אביב ויפו שהוגלו למושבות השומרון ויצר קשר "לפי השיטה הטורקית" בין ראשי המושבה זכרון יעקב ובין הקצין המפקד שם בעת המצור והמשטר הצבאי אחרי גילוי קשר המחתרת "נילי" והצליח להביא לידי הקלה בחומרות המצור.
+
+ כששוחרר מהצבא אחרי המלחמה הזמינו מ. דיזנגוף לנהל את משרדו לעמילות, יצוא ויבוא, סוכנות ספנות וביטוח, ובמשך הזמן נעשה שותף בפירמה "מ. דיזנגוף ושותפיו", והודות לידיעתו בשפות עברית, ערבית, טורקית, צרפתית ואנגלית ולכשרונותיו המעשיים פיתח את עסקי הפירמה ואת הכלכלה העברית בכללה.
+
+ נשא לאשה את<persName> ורה</persName> בת <persName>אברהם אברוטין</persName> .
+
+ השתתף בחיים הכלכליים והצבוריים כמיסד אגודת הקומיסיונרים (ב-1929) ונשיאה עד יומו האחרון, סגן יו"ר ועד סוכני האניות, חבר פעיל בועד לשכת המסחר בת"א, חבר הקורטוריון של מוזיאון תל-אביב מיסודו של מ. דיזנגוף (ואף חובב אמנות באופן פרטי), חבר הועדה המשותפת של הממשלה והעיריה לערעורים על החרמת
+
+ דירות, חבר מועדון "רוטארי", חבר ואח"כ נשיא בלשכת הבונים החפשים "חירם" (1945), ממיסדיו ופעיליו של המועדון המסחרי והתעשיתי בת"א, ועוד.
+
+ על שרותיו המועילים בפיתוח קשרי מסחר עם ארצות-חוץ נתכבד באותות-הצטיינות דלהלן: מבלגיה "אביר מיסדר הכתר הבלגי"; מצרפת - "קצין האקדמיה הצרפתית"; מרומניה - "בעד זכויות במסחר ובתעשיה", מחלקה א'.
+
+ נפטר בתל-אביב, כ' כסלו תש"ו (25.11.45), ונקבר בנחלת יצחק.
+
+ צאצאיו:<persName> תיאודור</persName> (שירת בבריגדה העברית במלחמת-העולם השנית);<persName> אביבה; רנה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 437 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/437</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

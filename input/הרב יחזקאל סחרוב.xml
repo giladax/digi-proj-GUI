@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 302 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/302</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יחזקאל סחרוב</persName>
+
+</head>
+         <div><p> נולד בעיר מאלטש, פלך גיוונה (רוסיה הלבנה), בשנת תקצ"א (1831), לאביו ר'<persName> ישראל</persName> . למד בישיבות והגיע לדרגת גדול בתורה, במדות תרומיות וביראת שמים, מנאמני בית-מדרשו של הגר"א מוילנה והמשיך ללמוד וללמד עפ"י שיטתו שקיבל מאת תלמיויו הגאונים שהיו רבותיו.
+
+ נשא לאשה את <persName>חיה אסתר (עטיל)</persName> בת ר' <persName>שמואל</persName> <persName>צבי גרשטיין</persName> , מצאצאי הגאון בעל "תוספות יום-טוב'', התישב באנטופול, פלך גרודנה, עסק במסחר יערות ותבואות ובצרכי צבור, אך בעיקר עסק בתורה והעמיד תלמידים רבים, ביניהם: הרידב"ז (הרב <persName>יעקב דוד בן</persName> <persName>זאב וילרסקי,</persName> שיסד בתרס"ד ישיבה בצפת שנודעה בשם ישיבת הרידב"ז) והרב <persName>מרדכי רוזנבלט </persName> (העילוי מאנטופול), שהיה רב באושמיאני ובסלונים. היה חבר וידיד להרב <persName>פנחס מיכאל גרוסלייט.</persName>
+
+ בחנוכה תרס"ב עלה ארצה עם אשתו ובנו יצחק מרדכי, התישב בירושלים ושקד על לימוד התורה בקביעות בבית המדרש "בית יעקב" ובבית-המדרש של כולל הורודנא.
+
+ היה מבאי ביתם של הרבנים הראשיים רבי<persName> שמואל</persName> <persName>סלנט</persName> והרב <persName>אליהו דוד רבינוביץ-תאומים </persName> (האדר"ת).
+
+ נפטר בירושלים, כ"ז חשון תרס"ז.
+
+ צאצאיו:<persName> שרה רבקה</persName> אשת דוו גרשטין, <persName>מרים ציטול</persName> אשת הרב אברהם יהווה מרגולית, <persName>אהרן דב, עקיבא</persName> <persName>ירוחם, אליהו, גיטל </persName> אשת שלמה גרשטין, <persName>ברכה</persName> אשת שמעון גרינמן,<persName> יצחק מרדכי </persName> (העסקן והסוחר היווע בתל-אביב<persName>) וישראל.</persName>
+
+ בין נכדיו: <persName>יחזקאל סחרוב</persName> (שהיה מזכירו של ד"ר<persName> חיים ויצמן </persName> ואח"כ מיג'ור בצבא הבריטי במלחמתהעולם השנית), <persName>אליהו </persName> (שנשפט לכלא ב"אשמת" רכישת נשק בשביל ה"הגנה"), <persName>ישראל </persName> (מעסקני המכבי, לשכת. המסחר וכו')<persName>, ישראל מרגלית</persName> (מגדולי סוחרי הנפט בת"א).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 302 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/302</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3059 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3059</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ז'ן יונה קרנון (קזרנובסקי)</persName>
+
+</head>
+         <div><p> נולד בשנת תרס"ג (6.11.1902) בחארקוב שבאוקראינה.
+
+ לאביו <persName>מיכאל</persName> (מנחם מנדל)<persName> קזרנובסקי</persName> ולאמו <persName>רבקה</persName> בת<persName> מרדכי צבי ברקמן</persName> מסמורגון.
+
+ למד בגימנסיה ובאוניברסיטה רוסית, וב-1921 יצא לדאנציג, המשיך את לימודיו באוניברסיטאות גרמניה, צרפת ובלגיה והוסמך למדעי הכלכלה ופיננסים. היה ציוני פעיל מנעוריו, ובדאנציג הצטרף בין הראשונים לתנועה הרביזיוניסטית ב-1923.
+
+ ב-1926 עבר לבלגיה וניהל בבריסל חברה המסונפת לקונצרן "יוהאן קרמנצקי" מוינה. יסד בבלגיה את התנועה הרביזיוניסטית והיה יושב-ראשה, בשנת 1932 עזב את התנועה וחזר לציונות הכללית והיה חבר הנהלת הפדרציה הציונית בבלגיה.
+
+ נשא לאשה את<persName> מרים </persName> בת <persName>יהושע (אוסקאר) פישר</persName> (ראה הערך שלו בכרך זה).
+
+ כשעלה לארץ ב-1935 כבר היה מעמדו כאן מבוסס בתור פרדסן, באשר עוד מקודם השתתף עם חותנו בהשקעת הון במטעים בארץ, אך הפעיל את כשרו וידיעותיו הכלכליים גם במשק הארץ ויסד את הפירמה "ניר איסט טרייד אג'נסי" - סוכנות מסחרית למזרח הקרוב" לייצוג מפעלי-תעשיה גדולים מצרפת ומבלגיה.
+
+ פעיל בחיים הצבוריים והכלכליים כחבר הנהלת התאחדות האכרים בישראל, חבר מועצת לשכת המסחר תל-אביב-יפו, גזבר-כבוד של לשכת המסחר ישראלצרפת, חבר מועצת המוסד לביטוח לאומי ואיגודים רבים
+
+ אחרים.
+
+ צאצאיו:<persName> מיכאל, איתמר, רנה-נעמי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3059 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3059</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

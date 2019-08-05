@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4528 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4528</bibl><bibl>Volume: #14 ,Page: 4529 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4529</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד מקלב</persName>
+
+</head>
+         <div><p> נולד בריינסק (פולין), ט"ו אדר ב' תר"ס (16.3.1900).
+
+ לאביו ר' <persName>מרדכי מקלב</persName> (ראה כרך ששי, עמוד 2584) ולאמו <persName>רחל</persName> (רייכל) בת ר' <persName>דוד אש</persName> (סוחר ידוע בחומרי בנין וברזל מעיר סימיאטיץ. נפטרה בפתח-תקוה, ט"ו אלול תרפ"ג - 27.8.1923).
+
+ בן שנתיים היה (תרס"ב-1902) כשהוריו עלו עם המשפחה לארץ.
+
+
+ קיבל חינוך מסורתי בתלמוד תורה "נצח ישראל" בפתח-תקוה, בישיבת המשתלמים (שנה אחת) בירושלים וגמר בהצלחה קורס של הנהלת חשבונות.
+
+ בשנת תרפ"ד (1924) נשא לאשיו את <persName>רבקה</persName> בת ר'<persName> אורי ליפשיץ.</persName>
+
+ שנתים עבד בתור קופאי בבנק הלואה וחסכון פ"ת. 3 שנים מזכיר בת"ת "נצח-ישראל" בפתח-תקוה. גבאי וקורא ותיק בבית הכנסת "נצח ישראל". מנהל החשבונות של ביהכ"נ.
+
+ חבר ועדת הבקורת של עובדי עירית פתח-תקוה. מזכיר ועדת המשפחות השכולות בפתח-תקוה. מנהל החשבונות של קפת גמ"ח "יד לבנים". כל השנים חבר ההגנה.
+
+ משנת תרפ"ז (1927) פקיד במחלקת החשבונות בעירית (קודם - ועד המושבה, המועצה) פתחתקוה: סדור מאזנים חדשים ושנתיים, פירוט הוצאות והכנסות רגילים ובלתי רגילים לפי סעיפי התקציב.
+
+ צאצאיו:<persName> נעמי</persName> אשת הרב <persName>שמואל סלאנט, רחל</persName> אשת<persName> דוד הרשלר, מרדכי שלמה, אורי</persName> הי"ד (נפל על כיבוש יהוד ע"י פתח-תקוה ביום כ"ה ניסן תש"ח, 4.5.1948).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4528 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4528</bibl><bibl>Volume: #14 ,Page: 4529 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4529</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

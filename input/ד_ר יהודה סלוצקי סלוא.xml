@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5108 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5108</bibl><bibl>Volume: #17 ,Page: 5109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5109</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יהודה סלוצקי-סלוא</persName>
+
+</head>
+         <div><p> נולד בסנובסק, פלך צרניגוב (אוקראינה), ג' בכסלו תרע"ו (10.11.1915).
+
+ לאביו <persName>אברהם אבא</persName> ולאמו <persName>מוסיה</persName> בת<persName> יהודה ליב</persName> <persName>צימירינוב</persName> - ראה את הערך שלהם בכרך זה).
+
+ הועלה עם הוראו לארץ בשנת 1925.
+
+ למד בכפר ילדים, כפר חסידים ובתל-אביב. סיים את לימודיו בבית המדרש למורים בבית-הכרם בירושלים (1934) ובאוניברסיטה העברית בירושלים בתואר ד"ר (1961).
+
+
+ משנת תרצ"ה (1935) בהוראה בדגניה, רמת רחל, אילת השחר, קרית-ענבים ובן-שמן - עד שנת תש"י (1950).
+
+ בעבודת המערכת בהכנת ובהדפסת "ספרי תולדות ההגנה" שהחל יוצא בשנת 1954 בהם השקיע ומשקיע מרץ באוסף החומר ההיסטורי בישוב העברי המבוסס על תעודות מוסמכות ועדויות בדוקות את כל "פרשת תולדותיה של התגוננות ישראל בארצו, של הגנתו על היאחזותו המחודשת בה, של היאבקותו על בנינה, על שיבת העם אליה", עד למלחמתו על חירותו ועצמאותו בה. נעזר הרבה <persName>בשאול אבי</persName> <persName>גור</persName> מפעילי וראשי ההגנה בארץ ועוד. עד היום הופיעו 5 כרכים (א, אב, ב (חלק ראשון). ב (חלק שני). ב (חלק שלישי). כתב את השליש של הכרך הראשון (כולו נערך על ידו) ואילו כל שאר החלקים נכתבו על ידו לבדו (כרך ב. חלקים א-ג. 19591963. בתדפיס יצא: "ראשונים לשמירה ולהגנה").
+
+ החל בפירסום סיפורי ילדים ובתחום זה ספריוסיפוריו לילדים ולנוער: "מעמק זבולון עד ים כנרת" (1942 ואילך); "סית מרים" (1950); "אש בהרים" (1959) ; "המורה הארוך" ואוסף סיפורים לילדים "חלומו של דרור" (1965. על כמה ספרים אלה חתום:<persName> סלוא</persName> ) ; "בהיאבקות על צבא יהודי" (1945. חתום: <persName>יהודה בן-אברהם</persName> ).
+
+ בשנים האחרונות העורך של כה"ע לחקר יהדות רוסיה ואוקראינה "העבר" וכן חיבר את החלק של הפירסומים העבריים בברית המועצות בשנים 19171960 בספר "פירסומים יהודיים בברית המועצות" (תשכ"א). ערך 2 כרכים של ספר בוברויסק (1967).
+
+ בשנת 1947 נשא לאשה את <persName>לאה</persName> בת<persName> יצחק בלי</persName> <persName>זובסקי</persName> .
+
+ מרצה ב"אוניברסיטת תל-אביב" על תולדות תנועת העבודה הישראלית.
+
+ בנותיו:<persName> נהורה</persName> אשת<persName> מרדכי גבאי (</persName> קיבוץ נחשולים) ; עפרה אשת<persName> עודד דייגי</persName> (קיבוץ "משאבי שדה" בנגב),<persName> חנה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5108 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5108</bibl><bibl>Volume: #17 ,Page: 5109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5109</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

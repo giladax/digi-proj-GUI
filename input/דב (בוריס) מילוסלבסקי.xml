@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2203 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2203</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב (בוריס) מילוסלבסקי</persName>
+
+</head>
+         <div><p> נולד באלכסנדרובסק (רוסיה) ביום צום-כפור שנת התרמ"ז, לאביו <persName>זבולון</persName> (סוחר בתבואות) ולאמו <persName>לובה</persName> (אהובה) לבית דובינסקי.
+
+ בשנת 1894, בהיותו בן שבע, הועלה ארצה ע"י אמו ואחיותיו.
+
+ בנס-ציונה (היא ואדי איל חנין), קבל חנוך עברי לאומי בבית-הספר העממי שם. השתלם במקוה-ישראל בחקלאות, והצטיין בלמודיו.
+
+ נשא לאשה את בתיה בתו של הבילויי<persName> שלמה יפה</persName> , ממיסדי ואדי-איל-חנין (ראה כרך א', עמוד 394).
+
+ בעת יסוד בית-הספר ליתומי קישינוב בשפיה - ע"י
+
+ הבילויי<persName> ישראל בלקינד</persName> , הוזמן ע"י המיסד ונתמנה על ידו להיות למדריך חקלאי בבית-הספר. ובתור שכזה כיהן שם עד להתפרקותו של המוסד.
+
+ בשנת 1906 ירד לרגל המצב החמרי הקשה אז בארץ עם רעיתו מצרימה למצוא בה שבר. התגורר בקהיר ואלכסנדריה ויעסוק שם במסחר. בשנת 1930 חזר עם בני משפחתו ארצה, השתקע בנס
+
+ ציונה והתמסר לעבודו של הפרדס בן 40 הדונמים שניטע בזמן העדרם מן הארץ ע"י גיסו דב בן שלמה יפה.
+
+ בניו: <persName>שלמה </persName> (סלומון - בארצות הברית),<persName> ישראל</persName> (מהנדס בצפת).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2203 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2203</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

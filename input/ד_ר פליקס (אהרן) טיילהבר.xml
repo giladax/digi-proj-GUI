@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3755 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3755</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר פליקס (אהרן) טיילהבר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>במברג</placeName> (גרמניה) בשנת תרנ"ד (5.9.1884).
+
+ לאביו <persName>ד"ר אדולף טיילהבר </persName> (רופא נשים. חוקר ורופא חצר "הופרט" למלך לודביג השני של בבאריה) ולאמו <persName>תרזה.</persName>
+
+ קבל חנוך מסורתי וכללי. בוגר האוניברסיטאות : מינכן וברלין.
+
+ בשנת 1908 גמר רפואה.
+
+ במינכן יסד את המכבי. בין מיסדי "יורדניה" הסתדרות הסטודנטים הציונים בגרמניה. היה יו"ר אגודת הרפורמה המינית בגרמניה.
+
+ הוציא כתב עת בשם "פלשתינה".
+
+ בשנת 1914 נשא לאשה את <persName>שטפה </persName> לבית<persName> צ'פלינסקה.</persName> (נפטרה בתל אביב, ב' שבט תש"ט (1.2.1949). ובזיווג שני נשא בשנת 1953 לאשה את <persName>עדית</persName> לבי<persName>ת מנדלסון.</persName>
+
+ עלה לארץ בנובמבר 1935 (ביקור לחצי שנה ב-1906 ועבד כרופא, וכן ביקור שני בשנת 1924).
+
+ בשנת-1940 יסד את קופת חולים "מכבי" (בחירת
+
+ רופא חופשית ע"י החברים). עד יום פטירתו היה הרופא הראשי שלה.
+
+ חיבר "אטלס היסטורי של עם ישראל" (אחרי פטירטו ממשיך ה' שפירא בהוצאת האטלס).
+
+ ספריו: Beim roten Halmond vor Tripolis Der Untergang der deutschem; Juden, Eine Valkswirtschaftliche studie; Herzl Theodor - Herzl - worte
+
+ (יחד עם ד"ר א. ביין) ;
+
+ בשנת 1959 הקימו בנין ברחוב בלפור 10 ת"א על שמו: "בית טיילהבר" ובו קופת חולים "מכבי".
+
+ נפטר בתל-אביב, י"ג שבט תשט"ז (26.1.1956).
+
+ בניו:<persName> תולע טיילהבר </persName> (מהנדס, פריז),<persName> עדין טלבר</persName> לשעבר קונסול ישראל במונטריאל, קנדה. עבר לאוצר).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3755 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3755</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

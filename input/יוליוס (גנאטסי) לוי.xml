@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3785 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3785</bibl><bibl>Volume: #11 ,Page: 3786 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3786</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוליוס (גנאטסי) לוי</persName>
+
+</head>
+         <div><p> נולד בטריעש ליד איגלאו (מורבריה.) בשנת תרמ"א (6.1.1881).
+
+ לאביו <persName>לייאופולד לוי </persName> ולאמו<persName> סיציליה</persName> לבית <persName>ווייס.</persName>
+
+ נשא לאשה את <persName>יעני</persName> בת <persName>עמנואל האוזר.</persName>
+
+ בשנת 1891 השתתף בקונגרס הציוני הראשון.
+
+ בשנת 1899 יחד עם <persName>קרל רעזעק</persName> ביסוד הסתדרות הציונית בביימן.
+
+ בשנת 1903 ממיסדי ארגון הסטודנטים "בריסיא" בפרג.
+
+ בשנת 1905 ממיסדי השבועון Selbstwehrבפרג.
+
+ בשנת 1908 עורך העתון היומי "פרגער-טאגעבלאט".
+
+
+ בשנות 1908-09 עורך ראשי לעתון "דער וועלט" בקהלן (גרמניה).
+
+ בשנות 1910-19 הקורספודנט מוינה לעתון "פרגער טאגעבלאט''.
+
+ בשנת 1919-27 עורך ראשי של העתון היומי היהודי ווינער-מארגענצייטונג".
+
+ בשנת 1927 עורך העתון "נויע-וועלט".
+
+ בשנות 1933-38 היה (אינקוניטו) עורך ראשי של "השטימע".
+
+ בשנת 1938 עורך ראשי דער "זיוניסט רונדשאו''.
+
+ משנת 1943 מעורכי "דבר" ו"הגה" בתל-אביב.
+
+ היה עד ראשי במשפט "שטריקר-בטואר" (איומים בבזל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3785 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3785</bibl><bibl>Volume: #11 ,Page: 3786 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3786</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

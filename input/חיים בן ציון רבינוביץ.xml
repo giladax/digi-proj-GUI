@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4045 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4045</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים בן-ציון רבינוביץ</persName>
+
+</head>
+         <div><p> נולד בקיוב (רוסיה) בשנת תרמ"ז (1887). לאביו <persName>זאב רבינוביץ</persName> ולאמו <persName>ברכה</persName> בת<persName> יעקב פרבראצקי.</persName>
+
+ קיבל חינוך מסורתי. למד חזנות.
+
+ בשנת 1910 נשא לאשה את <persName>בילה</persName> בת<persName> ר' דוד יעקב</persName> <persName>גרבר</persName> (הושמדה במחנה נאצים ב-1943) ובשנת 1947 נשא בזיווג שני לאשה את<persName> רוזה</persName> בת ר'<persName> אברהם יצחק</persName> <persName>אנגלסברג.</persName>
+
+ בשנות 1910-1915 היה חזן ראשי בבית הכנסת "שומרי הדת" בבלגיה (בנשיאותו של הרב עמיאל זצ"ל).
+
+ בשנות 1915-27 היה חזן ראשי באודעסה (ברוסיה) בבית הכנסת של<persName> הבראדאים</persName> אחרי החזן הידוע<persName> פנחס</persName> <persName>מנקובסקי.</persName>
+
+ משנת משנת 1942 עד 1945 היה במחנה השמדה. נשאר בחיים עם בנו. רעיתו <persName>בילה</persName> ובתו <persName>שרה</persName> הושמדו ב-1943 במחנה וולסברג (בין מינכן ונירנברג).
+
+ בשנת 1951 עלה לארץ.
+
+ בהתחלה עסק במסחר וליטוש יהלומים בנחלת גנים. יסד בית חרושת לקרמיק, מפעלי קרמיקה טכנית בע''מ, באיזור התעשיה במושבה נס-ציונה. מעסיק כ-80 פועלים.
+
+ לומד שיעורי תורה בציבור.
+
+ צאצאיו (מאשתו הראשונה):<persName> שרה, מאיר, דינה</persName> אשת <persName>שמעון גניחובסקי, אסתר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4045 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4045</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1920 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1920</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גרשון מינץ</persName>
+
+</head>
+         <div><p> אחד הענפים שנשברו מעל עץ ביל"ו, אך הקים לו שם וזכר במושבתם.
+
+ כל הידוע לנו על תולדותיו הוא, שהיה אחיו של ד"ר <persName>משה מינץ</persName> מפעילי תנועת ביל"ו וממנהיגיה (ראה כרך ב', עמוד 712), ושגם הוא עלה ארצה והתענה בבל אשר התענו יתר חבריו בעבודה במקוה ישראל ובחיי דלות בקומונה שבפרדס אנטון איוב.
+
+ כן ידוע, שאחרי המהלומה הקטלנית שהונחתה על החבורה בפקודת הפיטורין והגירוש ממקוה ישראל היה הוא בין המנסים להשאר בארץ למרות הכל. בזכרונותיו של <persName>דוד יודילוביץ</persName> נזכר שמו בין החברים שהיו מתאספים בבית פטרונם <persName>הרי"מ פינס </persName> בירושלים וממכסים עצה על עתיתת תנועתם. שם מסופר, שבשיחות ההזיה ובדמיונות העתיד המזהיר היה<persName> גרשון</persName> מבטיח <persName>לשרה רחל</persName> בת <persName>הרי"מ פינס</persName> (שהיתה בת-חיל בציד וברכיבה), שלעתיד תתמנה למפקד גדוד ביל"ו של קלעי מלך ישראל: וכדי לפצות את אחותה <persName>איטה</persName> (שנמשכה יותר לענינים רוחניים ולפעילות צבורית) היה <persName>עוזר דב ליפשיץ</persName> מבטיח לה, שהיא תשא את דגל ביל"ו בראש צבא מלכות ישראל...
+
+ תאריך צאתו מהארץ לא נרשם לזכרון. רק לאחר זמן רב נודע, שיצא לארה"ב והצליח שם בעסקיו. וכשחזר אחיו הד''ר <persName>משה</persName> מאמריקה להשתקע בגדרה שלח גרשון בידי אחיו סכום גדול לבנין בית עם במושבת הבילויים גדרה לזכר אמם.
+
+ פרטי טכס הנחת אבן הפנה של בית העם, בכ"ג שבט תרפ"ד, מסופרים בערך של הד"ר<persName> משה מינץ</persName> הנ"ל.
+
+ אלה הן הידיעות האחרונות שבידנו על הבילויי <persName>גרשון מינץ.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1920 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1920</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3867 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3867</bibl><bibl>Volume: #11 ,Page: 3868 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3868</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמחה גפני (וינברג)</persName>
+
+</head>
+         <div><p> נולד ביפו. כ"ה טבת תרס"ז (11.1.1907).
+
+ לאביו, <persName>משה יצחק וינברג </persName> (ממייסדי "המזרחי". ראה בספר זה) ולאמו<persName> זלטה </persName> בת<persName> משה ברניקר.</persName>
+
+ קיבל חינוך מסורתי בתלמוד תורה - שערי תורה ביפו, בתחכמוני בירושלים, בוגר בית ספר תיכון למסחר בת''א.
+
+ החל בשנת 1925 לעבוד כפקיד בבית המכס ביפו. החל ''בבודק מכס" והתקדם דרך השלבים השונים: מעריך, מחסנאי, גובה וסגן מנהל.
+
+ נשא לאשה את <persName>שושנה</persName> בת<persName> אהרן ליפשיץ.</persName>
+
+ אחת עשרה שנה עבד בנמל יפו, ועם פרוץ מאורעות תרצ"ו (1936) כשהונח היסוד לנמל תל-אביב, נתמנה להיות המחסנאי של הנמל החדש מטעם המכס.
+
+ במלחמת העולם השניה עבר לבית המכס בראש הניקרה (גבול א"י - לבנון), משם הוא מועבר לבית המכס בחיפה.
+
+
+ אחרי הקמת המדינה היה מהפקידים המעטים של המנדט בדרגה גבוהה שלא נמצא בו פסול, נתמנה לסגנו של ד"ר <persName>מנדלסון,</persName> והוא בענייני מס מותרות,
+
+ אחרי התפטרותו של ד"ר <persName>מנדלסון </persName> (בסוף 1952), נתמנה ל"מנהל בפועל", ל"מכס ובלו''.
+
+ בנו; <persName>ארנון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3867 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3867</bibl><bibl>Volume: #11 ,Page: 3868 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3868</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

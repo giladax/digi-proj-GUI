@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 941 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/941</bibl><bibl>Volume: #2 ,Page: 942 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/942</bibl>
+<bibl>Volume: #2 ,Page: 943 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/943</bibl>
+<bibl>Volume: #2 ,Page: 944 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/944</bibl>
+<bibl>Volume: #2 ,Page: 945 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/945</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יעקב הר-אבן (שטיינברג)</persName>
+
+</head>
+         <div><p> נולד בסגוריני, בסרביה, בט"ו תשרי תר"ס (15.10.1899) לאביו שלום (אחי הסופר יהודה שטיינברג) ולאמו <persName>הניה</persName> בת חיים קופרמן. קבל חנוך מסורתי בחדר ואח"כ למד בבית ספר עממי. באייר תרע"ד עלה ארצה ללמוד בגמנסיה "הרצליה" בתלאביב. נתקבל למחלקה החמישית ובשנת תרע"ט גמר (עם המחזור חששי). עבר לירושלים ועבד כמזכיר בועד-הלשון-העברי. בפסח תר"פ לקח חלק פעיל בהגנת ירושלים בימי הפרעות.
+
+ בשלהי תר"פ נסע לבית הוריו ומשם לפראג, במקום שסיים את לימודיו באוניברסיטה הגרמנית (בפקולטה לרפואה) במשך 5 שנים, ומשם עבר לרומא, במקום שסיים את לימודיו והוסמך בתואר רופא. בפרג היה בין המייסדים והפעילים ביותר של אגודת הסטודנטים העבריים "עבריה" ששמה לה למטרה את הפצת התרבות העברית והרעיון הציוני בקרב יהדות צ'כוסלובקיה. בשנת תרצ"ב חזר לא"י. חבר תנועת הצה"ר מאז הוסדה. לקח חלק פעיל בשטח התעמולה והארגון.
+
+ חבר אגודת-הסופרים, הסתדרות הרופאים.
+
+ סיפורו הראשון "פרכוסים", שכתב בעודנו תלמיד הגמנסיה, נתפרסם ב"הפועל-הצעיר" בהמשכים בשנת תרע"ט וזכה להערכה חמה מאת הסופר י. ח. ברנר. פירסם ספורים ב"האדמה", ב"העולם", ב"הד-ליטא", ב"מאזנים" (השבועי והירחון) וב"גליונות". חלק מספוריו כונסו בספר "בתמורה" שיצא בתל-אביב בשנת תש"א. כתב מאמרים ורשימות. תרגם ספרים מלשונות שונות, ביניהם ספור מבאלזאק. כן ערך ספרים שתורגמו ע"י אחרים.
+
+ בשנת תר"ץ נשא לאשה את<persName> חנה</persName> בת <persName>קהת</persName> <persName>בלומנפלד </persName> מבוטושאני (רומניה).
+
+ בנותיו:<persName> זיוה, יוספה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 941 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/941</bibl><bibl>Volume: #2 ,Page: 942 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/942</bibl>
+<bibl>Volume: #2 ,Page: 943 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/943</bibl>
+<bibl>Volume: #2 ,Page: 944 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/944</bibl>
+<bibl>Volume: #2 ,Page: 945 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/945</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

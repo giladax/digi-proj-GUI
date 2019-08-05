@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 666 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/666</bibl><bibl>Volume: #2 ,Page: 667 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/667</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד פרחי</persName>
+
+</head>
+         <div><p> נולד בקארליבו, ליד פלובדיב, בולגריה, בשנת תרי"ט (1859), לאביו <persName>אברהם</persName> . בילדותו נשלח ארצה ולמד תורה שנים אחדות בירושלים מפי דודו אחי-אמו רבי <persName>רחמים</persName> <persName>פיאדי.</persName>
+
+ בשנת תרכ"ט חזר אל הוריו לבולגריה בעודנו ילד, אך התורה הארצישראלית ואהבת הארץ שספג כאן נשארו מובלעים בדמו לכל ימי חייו. המשיך ללמוד ולהתמחות במסחר. נשא לאשה את<persName> שרה</persName> בת אחיו <persName>אשר.</persName> התישב בעיר פלובדיב, שהיתה בירת רומליה המזרחית (החלק הדרומי של בולגריה). פתח בית-מסחר, שהיה כמעט היחידי בעיר שהיה סגור בשבתות ובחגי ישראל ואפילו בימי חול-המועד, וכשבנה לו בית בשנת תר"ן קבע על שערו לוח שיש ועליו הכתובת בעברית: "שנת בונה ירושלים, שמחתו כפלים, ופה נשב עד יחיינו מיומים", ובזה פרסם כלפי חוץ, שהוא רואה את ישיבתו כאן כזמנית עד שישוב לארץ-ישראל. עשה תעמולה בין יהודי העיר למען ציון. בתרנ"ג ביקר בארץ ורכש לו קרקע בשכונת "זכרון טוביה" בירושלים, ובשובו הגביר את תעמולתו הציונית.
+
+ בשבת פרשת בהר בשנת תרנ"ד, בהיותו בבית-הכנסת "שבת אחים" בפלובדיב, הגה בפסוקי פרשת השבוע המדברים על גאולת הארץ והגיע במחשבתו למסקנה, שהיהודים בארצות פזוריהם חייבים להתאגד לשם גאולת ארצם, ותוך הרהוריו קבע סימן לעצמו, שאם יקראוהו לעלות לתורה בפרשה המדברת בגאולת הארץ, אות הוא מן השמים, שעליו לגשת לפעולה. ואכן בא האות ונקרא לעלות לתורה כפי שחשב, ואז הכריז אחרי הקריאה על רעיונו והודיע ברבים שהוא יגאל בכספו חמשה דונמים
+
+
+ מאדמת הקודש. אחרי השבת ערך בביתו אספה חגיגית ובטקס מפואר הקדיש את מאת הפרנקים למטרה זו. גם על שער הבית השני שבנה בתרנ"ה קבע כתובת ציונית : "שנת הבונה בירושלים שמחתו בכפלים, ופה נשב עד יחיינו מיומיים", וליד ברז ההשקאה שבגן ביתו קבע
+
+ כתובת: "שנת כשיצאו מים חיים בירושלים אז וימתקו המים" , ואף את סוכת-החג שבביתו קישט בדגל ציוני ובסמלים עבריים.
+
+ השתתף בפעילות בחברה שנוסדה בין יהודי בולגריה ליסוד המושבה הר-טוב, השתתף בה בכספו ושיתף בה את קרוביו וידידיו. היה חבר בועד המיסדים והשתדל להכין לעצמו משק בהר-טוב, ואת בנו בכורו אברהם שלח בהיותו בן 14, בתרנ"ט, ללמוד במקוה ישראל ואח"כ שלח ארצה גם את בנו הקטן יצחק.
+
+ בתרס"ח קיבל יחד עם אברהם בנו יפוי-כח מנשיאי חברת הרטוב, ר'<persName> יוסף קובו ואליהו סידי</persName> , לבוא ארצה ולסדר את עניני המושבה והטבת מצב האכרים, ואחרי שבאו בדברים עם <persName>מנחם שיינקין ומאיר דיזנגוף</persName> מכרו חלק מאדמת המושבה <persName>לי. ל. גולדברג</persName> , ואז קנה הוא יחד עם בנו נחלה בפתח-תקוה ובנו השתקע שם ונטע כרמי גפנים ושקדים והתמסר למשק בכל מרצו.
+
+ ר' דוד חזר לבולגריה על מנת לחסל את עסקיו ולעלות ולהתישב בארץ, והנה תקפה אותו מחלה והוא נפטר בפלובדיב, י"ט אדר תרע"א. לפני מותו צוה את שני בניו,<persName> יוסף ואריה</persName> , שנשארו אתו, שיעלו את עצמותיו לקבורה בהר הזיתים, ואת צוואתו זו קיימו צאצאיו בשנת תרפ"ז.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 666 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/666</bibl><bibl>Volume: #2 ,Page: 667 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/667</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

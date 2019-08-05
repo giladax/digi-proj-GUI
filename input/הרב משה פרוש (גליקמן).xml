@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4477 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4477</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב משה פרוש (גליקמן)</persName>
+
+</head>
+         <div><p> נולד בירושלים, ב' חשון תרנ"ד (סוף 1893). לאביו הרב <persName>נפתלי צבי</persName> ולאמו<persName> מרים יוכבד שפרה</persName> בת ר'<persName> משה ריבלין</persName> (ראה כרך ב', עמוד 762).
+
+ קיבל חינוך מסורתי בתלמוד תורה ובישיבת "עץ חיים" בירושלים.
+
+ בשנת תרע"ג (1913) נשא לאשה את <persName>שפרה</persName> בת ר' <persName>מנחם משה ריבלין</persName> (נפטרה ביבנאל, כ"ו תשרי תרע"ט - 2.10.1918) ובזיווג שני נשא לאשה בשנת תרע"ט (1919) את<persName> פייגא טויבא</persName> בת ר'<persName> נח חיימסון</persName> .
+
+ יסד בתי חינוך ביבנאל, בירושלים וביתר חלקי הארץ.
+
+ השתתף בקביעות בעתון "קול ישראל" והיום ב"המודיע".
+
+ חבר הנהלת ביקור חולים בירושלים.
+
+ חבר המרכז הארצי וחבר ההנהלה של "אגודת ישראל" העולמית.
+
+ חבר הנהלת החינוך העצמאי.
+
+ חבר הנאמנים של "מפעל הפיס".
+
+ מנהל מרכז "אגודת ישראל בארץ.
+
+ סגן ראש עירית ירושלים.
+
+ צאצאיו : תמר אשת הרב<persName> ז. ז. הייזלר</persName> , הרב <persName>מנחם</persName> <persName>פרוש </persName> (חבר הכנסת, ראה עמוד 4464).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4477 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4477</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 962 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/962</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר רוזין</persName>
+
+</head>
+         <div><p> נולד בויטבסק, רוסיה הלבנה, בשנת תרל"ו (1876), לאביו<persName> שמואל </persName> (יצרן ספירט, מהראשונים במקצוע זה בירושלים, נהרג במקרה-אסון) ולאמו<persName> חיה</persName> <persName>פרידה</persName> .
+
+ אחרי למדו שנים אחדות בחדרים עלה ארצה עם הוריו בשנת תרנ"א והתישבו בירושלים.
+
+ החל לעסוק בציור שלטים לבעלי עסקים ואח"כ שלח ידו בעבודה אמנותית בציור ובפיסול והשתלם בה בלימוד עצמי.
+
+ נשא לאשה את<persName> פייגה</persName> בת <persName>אליהו פישלזון.</persName>
+
+ עשה תבניות גבס בקנה-מדה מדויק של בנינים עתיקים ושל בניני היהודים בדורות האחרונים (קבר רחל, בית המקדש, בית-הכנסת של חורבת ר' יהודה החסיד, ''בתי אונגרן", חורבות עתיקות ממקומות שונים בארץ, תבניות ותמונות של המושבות העבריות, - ובתרע"ג הניח יסוד למוזיאון קטן להצגת היצירות הללו, ואורחים ותיירים רבים, ביניהם סופרים וחוקרים מכל העדות ואנשי-שם מישראל באו לבקר את האיש ואת יצירותיו ורשמו את התפעלותם והוקרתם בספר הביקורים.
+
+ בחול-המועד סוכות תרע"ה היה בין שבעת מיסדי הארגון של אומנים ובעלי-מלאכות בירושלים, שריכז כמאה חברים. יתר ששת המיסדים היו: <persName>יחיאל</persName> <persName>צבי צימרינסקי, שלמה אלפרט, שלמה ליכטשיין, יוסף</persName> <persName>קוואטינסקי, אברהם עפלמאן ויונה בונה.</persName>
+
+ נפטר בירושלים, י"ח אייר תרע"ז.
+
+ צאצאיו:<persName> יוכבד</persName> אשת<persName> אברהם ז. כהן</persName> (מנהל חברת י. גרין ושות'),<persName> יהודית</persName> אשת<persName> מרדכי גולדנברג</persName> (מהפקידים האחראים בחברת ספינס בחיפה),<persName> חיה</persName> אשת <persName>פסח פיינגרש</persName> (ירושלים),<persName> אסתר</persName> אשת המהנדס <persName>יעקב גרין</persName> (חיפה), <persName>עליזה </persName> אשת<persName> נתנאל ואלאך, בת-שבע</persName>
+
+ אשת <persName>אפרים פאליק, אליהו</persName> ז"ל (מכונאי ראשי באניה העברית "עמנואל", נספה בשנת ת"ש עם אבדן האניה על כל עובדיה בין חופי אנגליה וא"י).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 962 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/962</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

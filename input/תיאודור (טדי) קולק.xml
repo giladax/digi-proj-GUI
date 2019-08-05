@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4923 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4923</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>תיאודור (טדי) קולק</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וינה</placeName> (אוסטריה), כ"ט אייר תרע"א (27.5.1911).
+
+ לאביו<persName> אלפרד קולק ולאמו רחל</persName> בת <persName>שמעון</persName> <persName>פליישר.</persName>
+
+ בשנת 1921-22 היה פעיל בתנועת הנוער "תכלת-לבן" ב<placeName>וינה</placeName> ובצכוסלובקיה.
+
+ בשנות 1931-34 עבד ב"החלוץ" בצ'כוסלובקיה ,בגרמניה ובאנגליה.
+
+ בשנת 1934 עלה לארץ.
+
+ בשנת 1937 הצטרף לקבוצת "עין-גב".
+
+ נשא לאשה את <persName>תמר אנה</persName> בת <persName>זכריה שוארץ.</persName>
+
+ בשנות 1938-39 בשליחות "החלוץ" באנגליה.
+
+ בשנת 1942 עבד במחלקה המדינית של הסוכנות היהודית בקושטא ובירושלים. בשנת 1947 ראש משלחת ה"הגנה" לארצות הברית.
+
+ בשנות 1950-52 ציר ישראל בוושינגטון.
+
+ היה כמה שנים מנהל כללי של משרד ראש הממשלה (משנת 1952) ויושב ראש החברה הממשלתית לתירות.
+
+ ממיסדי מוזיאון ישראל ומנהלו הכללי.
+
+ ראש עירית ירושלים משנת תשכ"ה (1965). בחדש סיון תשכ"ז אחרי כיבוש ירושלים העתיקה נתמנה לראש עירית ירושלים השלמה.
+
+ חבר תנועת רפ"י מאז היווסדה.
+
+ צאצאיו: <persName>עמוס, אסנת.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4923 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4923</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

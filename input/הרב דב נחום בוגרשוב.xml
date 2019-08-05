@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 698 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/698</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב דב נחום בוגרשוב</persName>
+
+</head>
+         <div><p> נולד בעיר ויטבסק, רוסיה הלבנה, בשנת תקצ"ד (1834) לאביו<persName> מרדכי.</persName> קיבל חינוך תורני והגיע לדרגת תלמיד-חכם מופלג. למד שחיטה ובדיקה והוסמך לעבודה זו.
+
+ בן שמונה-עשרה נתמנה לרב ושוחט (וגם רב מטעם הממשלה) לקהלת האברים היהודים בכפר צ'רניגובקה, ליד ברדיאנסק, פלך טאווריה (קרים). זה היה אחד מאותם הישובים הכפריים, שבהם ניסתה הממשלה הרוסית לפתור את שאלת היהודים על-ידי העברתם לחקלאות והעניקה למתישבים זכויות מיוחדות ושחרור מהשרות בצבא.
+
+ נשא לאשה את <persName>מוסיה בילה</persName> בת <persName>חיים קובלנוב</persName> . למעלה מחמשים שנה שרת את עדתו במסירות, הנהיג בה סדרים מתוקנים ועסק בכל צרכי הצבור באמונה. אנשי השלטון כיבדוהו וחיבבוהו ולא פעם הצליח בהשפעתו עליהם להמתיק ולבטל גזירות שגזרו על היהודים.
+
+ פעם היה מעשה בחנוונית יהודית שמכרה בטעות לאכר נוצרי את הרעל המסוכן זרניב (ארסניק) במקום מצרך להכנת מאכלים. כשנודעה לה טעותה, הזעיקה את המשטרה שתזהיר את האכר על הסכנה שבחומר שקנה ממנה. אך שונאי ישראל שבכפר התעלמו מאזהרה זו, נאחזו רק בעובדה של המכירה והעלילו על כל היהודים שזממו להרעיל את התושבים הנוצרים, ושלטון הפלך החליט לגרש את היהודים מהכפר. הלך הרב בוגרשוב אל שר-הפלך ובהשתדלות מרובה וקשה הצליח להוכיח לו את האמת ושר הפלך ביטל את פקודת הגירוש.
+
+ היה חובב ציון ושאיפת חייו להתישב בארץישראל נתמלאה לעת זקנתו, כשעלה ארצה באדר תרס"ה עם שני בניו<persName> מנחם וד"ר חיים</persName> , והתיישב בפתח-תקוה בקרבת בית-הכנסת והיה שוקד על התורה יחד עם זקני המקום.
+
+ כשהתישב מנחם בנו במושב עין-גנים הסמוך, עבר גם הוא שמה וגר בשכנותו של<persName> אהרן דוד</persName> <persName>גורדון,</persName> שעבד אז בפתח-תקוה. התפתחו ביניהם קשרי ידידות ובשעות הפנאי של גורדון היו לומדים יחד ומחליפים דעות בשאלות העם והארץ.
+
+ נפטר בפתח-תקוה-עין-גנים, כ''ד אייר תרע"א. צאצאיו :<persName> לאה</persName> אשת <persName>שאול צ'רטקוב</persName> (עלו ארצה בתרפ"א, בראשית העליה השלישית); <persName>מנחם מנדיל</persName> , ממיסדי מושב-העובדים עין גנים ליד פתח-תקוה ; העסקן ד''ר <persName>חיים בוגרשוב</persName> , ממיסדי הגימנסיה העברית "הרצליה" ומנהלה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 698 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/698</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

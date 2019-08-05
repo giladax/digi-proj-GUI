@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 284 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/284</bibl><bibl>Volume: #1 ,Page: 285 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/285</bibl>
+<bibl>Volume: #1 ,Page: 286 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/286</bibl>
+<bibl>Volume: #1 ,Page: 287 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/287</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב מרדכי דוב בער (דובער) סלונים</persName>
+
+</head>
+         <div><p> נולד ברוסיה, בשנת ת"ר (1840), לאביו הרב יעקב (כולי) <persName>סלונים</persName> , שהיה מפורסם בתורה ובחסידות, ולאמו הרבנית <persName>מנוחה רחל</persName> בת "האדמור האמצעי" מליובאוויטש ונכדת רבי <persName>שניאור זלמן</persName> בעל ה"תניא''.
+
+ בהיותו כבן ארבע, בשנת תר"ד (1844) עלה ארצה עם הוריו והתישבו בחברון, בה היה אז הישוב המרכזי של חסידי חב"ד בארץ. למד בביתהמדרש של כולל חב"ד והגיע לדרגה גבוהה בתורה ובחסידות, הן בידיעות והן במדות ובהתנהגות בעבודת הבורא וביחסים שבין אדם לחברו. היה נודע כאיש חביב על הבריות ואוהב את הבריות. תמים דרך, בעל מדות תרומיות.
+
+
+ נשא לאשה את מרת <persName>סימקה</persName> בת הרב <persName>יוסף יהודה</persName> <persName>ליב משיוף,</persName> (שנקרא "יושע החברוני") בן הרב <persName>חיים</persName> <persName>שו"ב, </persName> השו"ב הראשון לעדת האשכנזים בירושלים. המשיך לעסוק בתורה ובחסידות ומעת פטירת אחיו הרב <persName>לוי יצחק,</persName> שהיה מנהל הכולל, נטל הוא על עצמו את השרות הזה. פעל רבות למען החזקתו וחיזוקו של הישוב בחברון והגיש עזרה להקמת הישוב של חסידי חב"ד בירושלים.
+
+ אחד מבניו, הרב <persName>שניאור זלמן סלונים</persName> , היה הרב לעדת החסידים וחבר משרד הרבנות של קהלת יפו ותל-אביב.
+
+ נפטר בחברון, ה' טבת תרע"ו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 284 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/284</bibl><bibl>Volume: #1 ,Page: 285 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/285</bibl>
+<bibl>Volume: #1 ,Page: 286 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/286</bibl>
+<bibl>Volume: #1 ,Page: 287 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/287</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

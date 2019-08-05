@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1455 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1455</bibl><bibl>Volume: #3 ,Page: 1456 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1456</bibl>
+<bibl>Volume: #3 ,Page: 1457 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1457</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהושע השיל יואל בסאן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת ת"ר (1940) לאביו ר' <persName>אליהו שלמה זלמן בסאן</persName> (תולדותיו - בערך מיוחד בכרך זה.) ולאמו <persName>אסתר</persName> .
+
+ למד בחדרים ובישיבות והיה מתלמידיו של הגאון הרב משה יהודה ליב רינג מקוטנא (מחבר הספר "זית רענן" ועוד). הצטיין בבקיאותו ובהגיונו בלימוד ובחיים והיה הוגה גם במחקר ובחכמת התכונה ועשה כדור אסטרונומי שנשאר בידי צדוק בנו.
+
+ נשא לאשה את <persName>חיה גיטל</persName> בת <persName>שמואל פסח</persName> ב"ר <persName>יעקב ליאון</persName> (שמואל פסח היה מעסקני ירושלים, נקרא ר' שמואל "גיסר" על שם המלאכה שעסק בה. הוא היה המנהל הראשון ביציקת האותיות בבית דפוסו של ר'<persName> ישראל בק</persName> , המדפיס הראשון ב<placeName>ירושלים</placeName>, תולדות חיה גיטל - בערך מייחד בכרך זה).
+
+ אשתו נטלה על עצמה את עול הפרנסה בחנותמכולת קטנה שהחזיקה, כדי לשחרר אותו ללימוד תורה, בה עסק כל ימיו. הקדיש מזמנו ומכספו גם
+
+
+ ליסוד הישוב החדש. היה מהחברים הראשונים שהשתתפו בקנית אדמת פתח תקוה בשנת תרל"ח וערך בשביל החברים הראשונים את כתב ההתקשרות בנוסח דלהלן:
+
+ לשם יחוד קוב''ה ושכינתי', הנני נותן כסף השדה שזכיתי לקנות חלק באדמת הקודש, לקיים דברי אלקים חיים ע"י נביאיו כמ"ש שדות בכסף יקנו וכדברי חז"ל כי מצוה גדולה וזכות
+
+ נעלה מאד להפקיע קרקע בא"י מידי נכרים,
+
+ כן יזכני ה' מעוז צור ישועתי לעבדה ולשמרה ולקיים מצוות התלויות באה''ק כמצווה עלינו בתורת ה'.
+
+ זמן רב היה פעיל בביסוס החברה ועריכת תכניותיה ורישומיה וניהול חשבונותיה, ובארכיונו נצטבר חומר רב לתולדות הישוב.
+
+ נפטר ב<placeName>ירושלים</placeName>, י' חשון תרע"ז.
+
+ צאצאיו: <persName>יעקב, משה, מרדכי</persName> (ד"ר לפילולוגיה בבלטימור שבארה"ב), <persName>אסתר אשת משה זכרין, חנה</persName> <persName>שרה</persName> אשת <persName>מנחם מנדיל הכהן, מרים (מירל)</persName> אשת לפקוביץ (בשיקאגו), צדוק (צלם ב<placeName>ירושלים</placeName>).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1455 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1455</bibl><bibl>Volume: #3 ,Page: 1456 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1456</bibl>
+<bibl>Volume: #3 ,Page: 1457 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1457</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

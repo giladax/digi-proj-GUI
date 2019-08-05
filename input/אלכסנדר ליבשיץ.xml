@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4058 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4058</bibl><bibl>Volume: #12 ,Page: 4059 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4059</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלכסנדר ליבשיץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>בוברויסק</placeName> (רוסיה), ד' תשרי תרמ''ט (10.9.1888).
+
+ לאביו <persName>משה בן-זאב ליבשיץ</persName> (ממשפחת וולפסון) ולאמו<persName> חוה</persName> בת <persName>יצחק פלוטקין.</persName>
+
+ קיבל חינוך מסורתי בחדר, בוגר בית ספר לחקלאות ברוסיה והשתלם באוניברסיטה בקליפורניה. קיבל תואר - אגרונום.
+
+ היה חבר פעיל בס. ר.
+
+ בשנת 1913 עלה לארץ.
+
+ היה חבר הקואופרציה במרחביה בשנת 1913 וחבר הקומונה בנס-ציונה בשנת 1914.
+
+ בשנת 1915 נשא לאשה את<persName> חוה </persName> בת <persName>משה לרר,</persName> ממיסדי נס-ציונה (נפטרה בתל-אביב, כ"א חשון תשי"ב 20.11.1951) ובזיווג שני נשא לאשה בשנת 1954 את <persName>אינסטינה</persName> בת <persName>משה רדל</persName> , מבסרביה.
+
+ בשנות 1915-19 מורה במקוה ישראל.
+
+
+ בשנות 1921-23 מדריך לגידול עופות ודבורים מטעם ההנהלה הציונית.
+
+ בשנות 1923-44 קצין ראשי במחלקה החקלאית בממשלת המנדט בא"י.
+
+ סידר קורסים לגידול עופות ודבורים.
+
+ מיסד תחנות נסיון לגידול עופות ודבורים בעכו. צריפין ועוד.
+
+ בשנות 1936-39 היה שוטר מיוחד.
+
+ עוסק בשעה זו - בחקירה ונסיונות בהקמת מפעלים להכנת קומפוסט (דשן אורגני) מאשפה עירונית.
+
+ משנת 1928 חבר ועד האגודה העולמית למגדלי עופות מדעיים.
+
+ חבר ועד האגודה העולמית לקומפוסטציה.
+
+ כתב מאמרים בארץ וחו"ל - בגידול עופות, דבורים והכנת קומפוסט מאשפה עירונית.
+
+ צאצאיו (מאשתו הראשונה):<persName> ראובן, רחל</persName> אשת<persName> סונין</persName> <persName>לוזנר, גמליאל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4058 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4058</bibl><bibl>Volume: #12 ,Page: 4059 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4059</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

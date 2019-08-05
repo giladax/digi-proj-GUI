@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3374 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3374</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ר' אהרן סגל</persName>
+
+</head>
+         <div><p> נולד בירושלים, ו' טבת תרנ"ד (סוף 1893).
+
+ לאביו הר' <persName>שלמה ליב סגל</persName> ז"ל (ממשפחת ר'<persName> מנדל</persName> מוויטבסק זללה) ולאמו<persName> רחל</persName> (רייכל) בת ר'<persName> זאב רובין</persName> ז"ל (מצאצאי השל"ה הקדוש ז"ל, אחותו של ר'<persName> ישראל</persName> <persName>רובין </persName> שו"ב מחסידי ביאן, גבאי ומנהל "חיי עולם" ועה''כ, כולל וואהלין עוד).
+
+ קבל חנוך מסורתי בישיבת "תורת חיים'" בירושלים. בשנת תרע"ג (1913) נשא לאשת את <persName>אסתר</persName> בת ר' <persName>יוסף רבינוביץ</persName> (נפטרה בירושלים, ז' אלול תשי"ד5.9.1954).
+
+ היה חבר מהראשונים במזרחי הצעיר, ופעיל במזרחי לפני כמה שנים, אף שימש יו''ר סניף המזרחי עזרא ונחמיה בירושלים.
+
+ חבר הנהלת גחש"א של קהלת ירושלים.
+
+ מיסד שכונת "נחלה וגן" בירושלים וגואל הקרקע שלה.
+
+ היה שד"ר, ואח"כ מנהל משרד המוסד תלמוד תורה וישיבת "חיי-עולם". ביוזמתו נבנה הבנין הגדול והחדש של ישיבת חיי-עולם ברחוב גאולה בירושלים. ביסס את המוסד ע"י יצירת מקורות הכנסה בטוחות.
+
+ צאצאיו: <persName>מלכה</persName> אשת <persName>אברהם ריבלין, יפה</persName> אשת <persName>פנחס שור, שלמה, שורה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3374 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3374</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

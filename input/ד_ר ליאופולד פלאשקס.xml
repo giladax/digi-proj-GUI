@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2121 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2121</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר ליאופולד פלאשקס</persName>
+
+</head>
+         <div><p> נולד בסנקט-פלטן (אוסטריה) בשנת תרמ"ד (13.3.1884), לאביו<persName> צבי </persName> (מידידיו של <persName>הרצל</persName> . נציג "סיעת היהודים הלאומיים" בעיריית וינה עוד לפני הרצל) ולאמו <persName>שושנה (רוזה</persName> ) בת <persName>שלמה טוך.</persName>
+
+ קיבל חינוך תיכוני בוינה ושם סיים את האוניברסיטה בפאקולטה למשפטים, בקבלו תואר ד"ר למשפט וכלכלה בינלאומית.
+
+ בפעולה צבורית לאומית החל עוד מנעוריו. בסטודנט היה יו"ר "חוג לויכוחים והשתלמות ציונית" נאבק להגשמת סיסמתו של הרצל "כיבוש הקהילות" והפך את קהילת וינה למכשיר עממי של המדיניות היהודית והציונית. כל דאגתו היתה נתונה תמיד לשכבות העממיות. כאשר לאחר מלחמת העולם הראשונה צפויה היתה סכנה של גירוש רבבות יהודים מגליציה שהגיעו לוינה בימי המלחמה, הטיל את עצמו בכל המרץ למניעת הגזירה ואף הצליח. אחרי המלחמה נבחר לעיריית וינה וכהן בה עד 1927. ה ה נשיא הסתדרות הציונים הכלליים הרדיקאליים באוסטריה ונציג הציונים בבית הנבחרים האוסטרי.
+
+ היה יחד עם <persName>ד"ר קלבר, רוברט שטריקר</persName> וד"ר <persName>פרידמן </persName> בין מארגני ה"הגנה" בוינה בימי האיום בפרעות אחרי מלחמת העולם הראשונה.
+
+ השתתף בקונגרסים הציונים החל מהקונגרס ה-10. עם כניסת הנאצים לאוסטריה חלה קשה והודות לכך ניצל. ליד מיטתו היו מקיימים התיעצויות ציוניות. בארץ ביקר לראשונה בשנת 1919 לשם קניית קרקעות. בשנת 1933 בא כנציג הממשלה האוסטרית למבביה. עלה ארצה והשתקע בה, בראשונה בבת גלים ואח"כ בתל-אביב בשנת 1938.
+
+ כאן לא חזר עוד למקצוע עו''ד. נכנס לעבודה צבורית בהתאחדות הציונים הכלליים, בנשיאות "ברית ראשונים", בנשיאות "הסתדרות עולי-מרכז אירופה" ובמפעל "המפדה האזרחי".
+
+ יסד וערך את העתון היהודי-גרמני "דער אידישער וועג". כמו כן פרסם שני ספרים במקצוע החוק 
+
+ האוסטרי: "חוק השטרות והמסחר" (1911) ו"חוקי ממכר הבהמות" (1920).
+
+ בשנת 1923 נשא לאשה את <persName>שרלוטה</persName> בת<persName> יצחק</persName> <persName>טראוטמן.</persName>
+
+ נפטר בתל-אביב, י"ז באייר תש"ב (4.5.1942).
+
+ בניו:<persName> מיכאל, ראובן.</persName>
+
+ ב-1943 הופיעה חוברת בגרמנית - תולדות חייו, כתובה ע"י ד"ר אריה זהבי - גולדהמר, בהוצאת "מרכז עולי מרכז אירופה".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2121 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2121</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

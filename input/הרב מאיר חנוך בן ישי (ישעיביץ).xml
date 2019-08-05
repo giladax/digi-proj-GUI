@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1937 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1937</bibl><bibl>Volume: #4 ,Page: 1938 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1938</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב מאיר חנוך בן-ישי (ישעיביץ)</persName>
+
+</head>
+         <div><p> נולד בשינסק, פלך פלוצק (פולין), כ"א אלול תרל"ג (1873), לאביו<persName> פסח</persName> ולאמו <persName>אסתר.</persName>
+
+ למד בחדרים, בישיבות ובבית-המדרש. ובשנת תרנ"א הוסמך לרבנות. השתלם בהשכלה כללית בדרגה גבוהה ולפי החוק הרוסי היה מוסמך להיות גם "רב מטעם" (החוק הרוסי לא הכיר ברבנים על סמך ידיעותיהם בתורה, וכלפי השלטונות הוכרחה הקהלה להחזיק "רב מטעם" שנדרשו ממנו שני דברים: שייכות לדת ישראל, בלי חובה לחיות על פיה, והשכלה תיכונית : וחוץ מזה היתה הקהלה מחזיקה רב בן תורה ויראת-שמים לניהול עניניה הדתיים), וכך היה מוכשר
+
+ למלא את התפקיד הכפול של רב: כלפי היהודים והשלטונות כאחד.
+
+ בתרנ"ג נשא לאשה את <persName>שרה</persName> בת <persName>שמואל יוסף אש</persName> .
+
+ אחרי חתונתו פתח בית-דפוס שהוציא לוחות שנה. בתרנ"ה נבחר לרב בטורצ'ין ליד וארשה, בתרנ"ב בפרבר ווליה שליד וארשה ומתרס"ג ואילך היה ראש בית-דין בקהלת צ'נסטוכוב. יסד וניהל שלש ישיבות ונודע לשבח כנואם, עסקן צבורי ובורר מובהק והיה פעיל בציונות הדתית ("מזרחי").
+
+ בתרפ"ה עזב את משרתו הטובה ואת מעמדו המכובד בקהלתו, עלה לארץ והשתקע בתל-אביב, בשכונת נוה שאנן בראשיתה. פעל רבות למען פתוח השכונה והחיים הצבוריים בה, עזרה לנצרכים, עצה וסעד לתושבים הזקוקים וכו'. כמה שנים שימש כרב השכונה וקהל רב שאב עונג רוחני מדרשותיו. ביזמתו ובהרבה מרץ ועמל שהשקיע נוסדו בשכונה תלמודתורה "בית-אולפנא" שגדל אח"כ לבי"ס עירוני ברשת פיקוח "המזרחי" ומקוה טהרה. מראשוני העסקנים בהתאחדות עולי פולין ובתקופת היותו חבר מועצת עירית תל-אביב השתתף בעבודה העירונית כאדם בעל ותק ורב-נסיון בפעילות צבורית רבת-ממדים. ידע לעמוד בתוקף על דעותיו, אך במגע ידידותי של אהבת האדם הצליח לרכוש אהדה והוקרה גם מצד יריבים.
+
+ חיבר את הספרים "אור חדש" (ביאור על מדרש רבה; יצא בתרע"ב), "מאור חדש" (בחכמת התכונה ; יצא בתרס"ב) ולוח לאלף שנה. בכתב יד השאיר חיבור גדול על מסכת עירובין.
+
+ נפטר בתל-אביב ביום ט"ו אייר ת"ש (25.5.40).
+
+ צאצאיו:<persName> צבי</persName> (סוחר ובעל תעשיה בניו-יורק), <persName>משה </persName> (עו"ד, ציר מדינת ישראל ביוגוסלביה),<persName> ישעיהו</persName> (סוחר בפאריס), <persName>יצחק</persName> (עו"ד בתל-אביב), <persName>אליהו</persName> (מהנדס
+
+ בתל-אביב), <persName>בלומה</persName> אשת <persName>דוד אש</persName> (ברעננה), <persName>טובה</persName> (בניו-יורק), <persName>צפורה ושושנה</persName> (שתיהן ב"מדינה היהודית" בירו-בידז'אן שבברית המועצות).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1937 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1937</bibl><bibl>Volume: #4 ,Page: 1938 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1938</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

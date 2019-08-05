@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5381 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5381</bibl><bibl>Volume: #18 ,Page: 5382 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5382</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב שיפרין</persName>
+
+</head>
+         <div><p> נולד בדריבין (רוסיה) בשנת תשרנ"ד (24.7.1894).
+
+ לאביו <persName>בצלאל שיפרין</persName> ולאמו <persName>רבקה </persName> בת <persName>פרדה ודן</persName> <persName>הורביץ.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+
+ עסק במסחר פרוות בסיטונות.
+
+ נשא לאשה את <persName>דינה</persName> בת <persName>בן-ציון סירקין.</persName>
+
+ בשנת 1915 עזב את רוסיה והתיישב בסן-פרנציסקו (בארצות הברית), שם עסק בכל מיני עבודות: כפועל פשוט, את השפה האנגלית לא ידע.
+
+ בקרספילד, קליפורניה, נתקבל כאח במיסדר בניברית.
+
+ בסוף 1917 עבר ליפן ושם עסק במסחר - יבואן של קמח ממנצוריה.
+
+ בשנת 1920 עבר לגור בחרבין (סין) וב-1923 פתח שם בית מסחר בסיטונות בטקסטיל, פרוות וגלנטריה.
+
+ בשנת 1932 חיסל עסקיו בחרבין ועלה לארץ עם משפחתו.
+
+ קנה פרדס והפך להיות פרדסן.
+
+ בתל-אביב נתקבל כאח בלשכת הבנאים החפשים "מוריה" וכעבור זמן, נבחר לנשיא הלשכה.
+
+ בניו:<persName> הלל שיפרין </persName> (אופטומטריסט) ; <persName>משה שיפ</persName> <persName>רין</persName> (פרופ' משנה באוניברסיטה אוף קליפורניה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5381 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5381</bibl><bibl>Volume: #18 ,Page: 5382 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5382</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

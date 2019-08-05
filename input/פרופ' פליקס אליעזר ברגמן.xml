@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2933 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2933</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' פליקס אליעזר ברגמן</persName>
+
+</head>
+         <div><p> נולד פרנקפורט ע"נ אודר (גרמניה), כ' אב תרס"ח (17.8.1908).
+
+ לאביו הרב ד"ר <persName>יהודה ברגמן </persName> (ראה בכרך זה) ולאמו <persName>הדויג </persName> בת אהרן <persName>רוזנצוייג</persName> (ממשפחת רבנים).
+
+ קבל חנוך מסורתי, בגמנסיה הומניסטית בברלין. למד רפואה וכימיה באוניברסיטה של ברלין. הוסמך כד"ר לרפואה וכד"ר לפילוסופיה (1933).
+
+ פרופסור לפרמקולוגיה.
+
+ היה חבר פעיל בתנועת נוער ובהסתדרות הסטודנטים הציונית בגרמניה.
+
+ בשנת 1934 עלה לארץ.
+
+ עשה עבודת מחקר במכון זיו, רחובות.
+
+ בשנת 1938 נשא לאשה את<persName> סוניה</persName> (שרה) בת<persName> נחמן</persName> <persName>סולסקי.</persName>
+
+ ציר ישראל בקונגרס הבין-לאומי לכימיה בארצות הברית (1951).
+
+ עשה יותר ממאה עבודות מחקר מקוריות בשדה הכימיה האורגנית, ביאוכימיה, אנזימולוגיה ופרמקולוגיה.
+
+ מיום עליתו לארץ חבר פעיל בהגנה. הקים שני מפעלים לייצור חמרי נפץ בשביל ההגנה וצ.ה.ל.
+
+ מנהל המחלקה הפרמקולוגית בבית הספר לרפואה באוניברסיטה העברית בירושלים.
+
+ צאצאיו:<persName> דוד יונתן, חנה גבריאלה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2933 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2933</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

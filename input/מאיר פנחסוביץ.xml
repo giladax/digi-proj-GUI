@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1689 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1689</bibl><bibl>Volume: #4 ,Page: 1690 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1690</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר פנחסוביץ</persName>
+
+</head>
+         <div><p> נולד בפתח תקוה, כ"ב אייר תרנ"ד (1894), לאביו <persName>יוסף</persName> (סוחר יערות ברוסיה ומשנת תרמ"ד ואילך ממתנחלי פתח תקוה ופעיליה, ממשפחת רבנים, מצאצאי ר'
+
+
+<persName>יום-טוב ליפמן הלר, בעל "תוספות יום-טוב"</persName> ) ולאמו <persName>רבקה</persName> בת ר' <persName>זלמן מוקרוביץ.</persName>
+
+ למד בבית-הספר המקומי ובבית-ספר תיכוני בירושלים. עבד במשק הוריו והיה הולך מאכר לאכר לבקש עבודה לפועלים עברים. היה חבר הועד בחברת לינה (לעזרת חולים) וממיסדי המכבי ובזמן מלחמת-העולם
+
+ הראשונה פתח וניהל ביתן לחלוקת טה בחנם לעניים. אחרי המלחמה היה פעיל במגבית של "קרן הגאולה", חבר הנהלתה ושליחה לכל מושבות יהודה לארגון הפעולה ולפיקוח עליה. אח"כ היה מזכיר הועד המקומי של הקה"ק וצירו בועידות הארציות בירושלים ובת"א. במשך שש שנים חבר מועצת המושבה בפ"ת. ממיסדי וחבר הנהלת בנק הוח"ס בפ"ת.
+
+ ב-1928 נשא לאשה את <persName>מינה </persName> בת ר' <persName>יעקב דוד</persName> <persName>שוארץ.</persName>
+
+ פרסם מזמן לזמן ידיעות מפ"ת ב"הצבי" וב"הארץ".
+
+ צאצאיו ;<persName> רבקה, יעקב דוד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1689 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1689</bibl><bibl>Volume: #4 ,Page: 1690 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1690</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

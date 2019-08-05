@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3999 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3999</bibl><bibl>Volume: #12 ,Page: 4000 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4000</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל רוטרמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וולודבה</placeName> (פולין) כ"א אב תרפ"א (7.8.1921).
+
+ לאביו<persName> חייו יוסף </persName> (שו''ב ומוהל) בן ר' <persName>שמעון מנחם</persName> <persName>מנדל</persName> (שו"ב ומוהל, מחשובי חסידי ביאלה אצל האדמ"ור ר'<persName> יצחק יעקב מביאלה </persName> זצ"ל) ולאמו <persName>צביה</persName> בת <persName>משה</persName> <persName>מרדכי רייז.</persName>
+
+ קיבל חינוך מסורתי בתלמוד תורה ובישיבת "בית יוסף" ב<placeName>וולודבה</placeName> ואח"כ בבריסק דליטא. במלחמת העולם השניה נתגלגל לסיביר יחד עם האדמו"ר רבי<persName> יחיאל יהושע רבינוביץ</persName> (כיום בירושלים)
+
+
+ ופעל יחד עמו בעניני הדת: יסדו מנין, מאפית מצות, עזרה סוציאלית וכו' והביאו עזרה לנצרכים רבים.
+
+ בגמר המלחמה, חזרו לפולין. נתמנה ע"י ועד הקהלות הקדושות בוארשה בתור מוהל בפולין בדזרזוניוב ועל כל איזור שלזיה התחתית, המקום היחידי בו התרכזו אז פליטי השואה. שם נדד מעיר לעיר יומם ולילה והצליח למול אלפי ילדי ישראל 
+
+ קטנים וגדולים שחזרו מרוסיה, מהמחנות וגם אלה שהצליחו להצילם מהמגזרים וכו' שלא זכו בזמנם לבוא בבריתו של אברהם אבינו.
+
+ היה בין מיסדי קיבוץ דתי וישיבה לילדים מוכשרים. רובם עלו אח"כ לארץ דרך צרפת.
+
+ בשנת 1946 נשא לאשה את <persName>שרה רבקה</persName> בת ר'<persName> יהושע</persName> <persName>ליברמן.</persName>
+
+ בשנת 1950 עלה לארץ.
+
+ בשנת 1953 נבחר ע"י מיכרז ארצי לשמש כמוהל ראשי בבית החולים "בילינסון".
+
+ צאצאיו:<persName> אברהם פנחס, חיה יוספה, משה מרדכי.</persName> <persName>מרים פנינה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3999 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3999</bibl><bibl>Volume: #12 ,Page: 4000 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4000</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

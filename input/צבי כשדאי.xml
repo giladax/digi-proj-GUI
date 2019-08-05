@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3358 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3358</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי כשדאי</persName>
+
+</head>
+         <div><p> נולד בחשון תרכ"ג (1862) בדובובה שבאוקראינה.
+
+ לאביו<persName> דוד חיים </persName> (סוחר).
+
+ למד בחדר והוסיף להשתלם בלימוד עצמי בתורה ובידיעות כלליות.
+
+ פנה למסחר והיה סוכן-נוסע של חברות גדולות ברוסיה (תה ויסוצקי ועוד), ולרגל עיסוקו זה הרבה לנדוד בארצות הרחוקות והנדחות של מלכות רוסיה (קאוקאז, סיביר), המזרח הקרוב והתיכון והמזרח הרחוק (מונגוליה, סין, יאפאן). בכל ארצות נדודיו חקר את אורח חייהם ומנהגיהם של השבטים היהודים האכזוטיים, וביחוד כתות המתיהדים מבני הנכר למיניהם, ואת הידיעות שרכש ובירר וליבן במחקריו פרסם במאמרים בכתביעת עבריים ובספרים מיוחדים. לרגל מסעיו במזרח הקרוב בשנים 1913 ו-1914 ביקר גם בארצנו, ובביקורו השני יצא ברכיבה על גמל להר סיני ואח"כ תיאר מסעו זה בספר מיוחד.
+
+ היה פעיל מנעוריו בתנועת חיבת ציון ובמוסדות לאומיים ותרבותים רבים.
+
+ בתרפ"ג (1923) עלה לארץ והיה מוכר-ספרים בחיפה.
+
+ ספריו:<persName> ממלכות אררט</persName> (רשמי מסעיו בקאוקאז, אסיה התיכונה וכו', אודיסה תר"ע); <persName>מירכתי תבל </persName>
+
+ (שני חלקים ממסעיו בסיביר ובארצות המזרח הרחוק, ירושלים תרע"ד); <persName>המתיהדים</persName> (תרפ"ו, הוצאה שניה, תר"ץ)<persName>; שבטי יעקב ונצורי ישראל </persName> (בדבר תעלומת עשרת השבטים, תרפ"ח); <persName>להר סיני </persName> (תר"ץ, נסיעתו להר סיני, ניסן תרע"ד); <persName>בן גרני ; משא דומה</persName> (כתוב בארמית בסגנון ספר הזוהר.
+
+ נפטר בחיפה, ח' אלול תרצ"ז (15.8.1937).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3358 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3358</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 305 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/305</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה זלמן נתנזון</persName>
+
+</head>
+         <div><p> נולד בירושלים, י' אייר תרמ"ט (1889), לאביו הרב <persName>נחום </persName> (ממיסדי שכונת זכרון משה, בית חנוך עוורים, ואח"כ רב בניו-יורק) ולאמו <persName>רייזה</persName> בת <persName>בן-צי</persName> <persName>ון זיל</persName> <persName>ברשטיין </persName> (מחלוצי המסחר בירושלים, אביהם של בעלי הפירמה הידועה "האחים זילברשטיין").
+
+ למד בתלמוד-תורה ובישיבת "עץ חיים", בבית-הספר למל ובבית-המדרש למורים בירושלים.
+
+ בתרס"ה נתקבל לעבודה כפקיד בבנק אנגלו-פלשתינה בירושלים ובמשך הזמן עלה בדרגה. השתתף בפעולות צבוריות בארגונים שונים.
+
+ נשא לאשה את <persName>דינה</persName> בת<persName> שמעון פרידמן</persName> .
+
+ אחרי מלחמת-העולם הראשונה השתקע בחיפה והחל תופס מקום בחיים הכלכליים והצבוריים בעיר. בתרפ"א השתתף ביסוד לשכת המסחר והתעשיה העברית לחיפה והמחוז ונבחר לחבר הועד שלה עד שנבחר לנשיאה משנת תרפ"ח ואילך, היא השנה בה נתמנה למנהל בנק אנגלו-פלשתינה בחיפה. סגן יו"ר הקורטוריון של בית הספר הריאלי בחיפה וחבר ההנהלה של בית-הספר התיכון החקלאי בפרדם חנה. יו"ר מגבית ההתגייסות וההצלה וחבר ועדי מפעלים צבוריים שונים. קונסול שוודיה לחיפה ולצפון הארץ משנת תרצ"ז. בעל אות-הכבוד "האריה הלבן" שקיבל מאת ממשלת צ'כוסלובקיה. חבר מועדון רוטרי בחיפה.
+
+ כתב מאמרים על נושאים כלכליים.
+
+ צאצאיו: <persName>אהודה </persName> אשת <persName>ישראל צליוק, כרמלה </persName> אשת <persName>אליהו ברנשטיין.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בחיפה, ח' אלול תשכ"ג (28.8.63)
+
+ (ראה כרך א', עמוד 305)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 305 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/305</bibl>            <bibl>Volume: #13 ,Page: 4357 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4357</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

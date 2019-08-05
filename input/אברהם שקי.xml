@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3180 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3180</bibl><bibl>Volume: #8 ,Page: 3181 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3181</bibl>
+<bibl>Volume: #8 ,Page: 3182 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3182</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם שקי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סלוניקי</placeName> (יון), ט' תשרי תר"ס (13.9.1899). לאביו<persName> יוסף </persName> ולאמו<persName> רינה</persName> בת <persName>אברהם ביז'ה.</persName> קיבל חינוך עממי ותיכוני, בגימנסיה האיטלקית "אומברטו הראשון" ב<placeName>סלוניקי</placeName>.
+
+ היה חבר מכבי מ-1912, חבר מיסד תנועת הצופים העברים ב<placeName>סלוניקי</placeName> (1916), מזכיר אגודת "תאודור הרצל" וגזבר ועדת השקל המרכזית ביוון, מזכיר כבוד המשרד
+
+
+ הארץ - ישראלי ביוון, חבר ועדת בית חולים "הירש" (ע''ש הבארון הירש), מזכיר כבוד של 3 שכונות עבריות של ועד הקהלת ב<placeName>סלוניקי</placeName> ומפקד גדודי צופי "מכבי" ביוון.
+
+ בשנת 1931 ביקר בתור ראש משלחת מכבי סלוניקי ב"מכביה הראשונה" בתל-אביב.
+
+ בשנת 1934 נשא לאשה את<persName> אסתר</persName> בת <persName>שמואל אפיאס</persName> (נפטרה בתל-אביב, י"ז תמוז תשי"ד-18.7.1954).
+
+ עלה לארץ לישיבת קבע בשנת 1934.
+
+ בשנת 1942 הצטרף ללשכת הבנאים החפשים "ברקאי" בתל-אביב (בונה חופשי משנת 1924).
+
+ מפקד מחלקה במשמר האזרחי.
+
+ אח בלשכת בני-ברית "שער-ציון", חבר מועדון "קדימה", מטבח זול לניצרכים ובית אבות על שם "ליאון רקנאטי".
+
+ סוחר לסחורות ברזל.
+
+ בתו:<persName> רינה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3180 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3180</bibl><bibl>Volume: #8 ,Page: 3181 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3181</bibl>
+<bibl>Volume: #8 ,Page: 3182 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3182</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1506 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1506</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רזיאל רוזנטל</persName>
+
+</head>
+         <div><p> נולד בתל-אביב, י"ד סיון תרפ"ט (22.6.29), לאביו <persName>יצחק רזיאל (רוזנטל),</persName> בעל העסק "שח"ם" בת"א ומפעילי ה"הגנה" בארץ. ראה את הערך שלו בכרך זה, עמוד 1403) ולאמו<persName> טובה</persName> בת <persName>שמעון לוסקי </persName> מסובאלק, פולין.
+
+ ביום ה"ברית" שלו הגישו מפקדת ה"הגנה" ומפקדיה שי לאביו: הבטחה והתחייבות כתובה וחתומה על מגילת קלף, שבהגיעו לבר מצוה יקבלו גם אותו לשורות ההגנה (אף כי אז לא נתקבלו נערים למטה מגיל 19). ואכן בהיותו בן 13, תלמיד הגימנסיה הרצליה, הודיע לאביו שנתקבל והבטיח להיות נאמן ליעודו ולהקריב אף את חייו למען העם והמולדת.
+
+ תוך לימוד בשקידה המשיך באימונים, וכשפרצה המלחמה בגבולות תל-אביב מיד אחרי הכרזת ה-29 בנובמבר1949, יצא להגנה על הגבול בשכונת התקוה, עמד בגבורה נגד התוקפים הערבים ועוזריהם השוטרים הבריטיים. מכדורי השוטרים נפל חברו<persName> יעקב שיף,</persName> והוא ויתר חבריו נאסרו אל נשקם והובאו למשפט צבאי. כשנדרש להעיד בשבועה מתא העדים, סירב ואמר: "אני מצהיר בזה בהן-צדק של חייל ההגנה, כי כל אשר אעיד יהיו דברי אמת. אינני יכול להעיד בשבועה מתא העדים, פן אצטרך לגלות מסודות ההגנה". הוא וחבריו נשפטו ל-5 שנות מאסר והועברו לכלא עתליט. כששוחררה הארץ מהשלטון הבריטי עם
+
+ תום המנדט, שוחררו (6.12.47). הוצע לו תפקיד צבאי בעיר, אך הוא סירב ודרש תפקיד קרבי בחזית. נשלח לחזית הנגב, נלחם בגבורה, הפליא את חבריו
+
+ בעוז רוחו ובשליטה העצמית שגילה עד הרגע האחרון והצליח לשתק במה טנקים מצריים לפני שנפל על עמדתו.
+
+ נפל בקרב במשלט איבדיס, במבואות נגבה, ג' תמוז תש"ח (10.7.48), ונקבר בבאר טוביה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1506 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1506</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

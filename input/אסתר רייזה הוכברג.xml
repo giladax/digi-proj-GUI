@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2889 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2889</bibl><bibl>Volume: #7 ,Page: 2890 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2890</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אסתר רייזה הוכברג</persName>
+
+</head>
+         <div><p> נולדה בשנת ת"ר (1840) בטולצ'ין שבפלך פודוליה (רוסיה) להוריה <persName>אברהם וחיה ויינשטיין</persName> .
+
+ קבלה חנוך מסורתי.
+
+ כשהשתדל הצאר ניקולאי הראשון למשוך יהודים לעבודת האדמה והקצה קרקעות לכך והבטיח שחרור מהצבא לבני המשפחות המתישבות על הקרקע, עבר <persName>אברהם ויינשטיין</persName> עם משפחתו למושבה היהודית דומברובני שבפלך בסראביה.
+
+ שם נישאה <persName>למרדכי הוכברג</persName> (ראה כרך א', עמוד 410) בן<persName> נתנאל הוכברג</persName> ממדז'יבוז', שגם הוא וביתו התישנו מהטעם האמור בדומברובני (שבניו יהיו פטורים מהצבא).
+
+
+ בעלה עסק בגידול טבק ובחכירת אחוזות והגיע לאמידות והיא שקדה על עשית טוב וחסד. ביתה היה בית הכנסת אורחים לעוברי דרך ולפועלים יהודים שבאו ממרחקים לעבודות עונתיות, ובנסעה כל שבוע לעיירה הסמוכה היתר. לוקחת עמה מכל טוב המשק לחלק לעניים ואף כספים לגמילות חסדים.
+
+ שנים מהבנים עלו לארץ <persName>(שמואל וצבי)</persName> והתערו באדמתה ושמואל הבכור נשלח מטעם<persName> יהושע חנקין</persName> לבסראביה לרכוש קונים ומתנחלים לאדמת רחובות, הביא אתו בשובו לארץ בתרנ"א את הוריו ויתר בני
+
+ ביתם. תחילה שכרו דירה בראשון לציון, אך בגלל המשטר החמור של <persName>בלוך</persName> פקיד הבארון, שהגביל את זכות הישיבה של "זרים" במושבה, הוכרחה לעבור ל"נחלת ראובן" שנוסדה אז על אדמת "ואדי חנין" ולדור בצפיפות בחדר שבמרתף, ואח"כ להתנסות בגיל קשיש בכל התלאות של חלוצי נס ציונה בימים ההם. <persName>אסתר רייזה</persName> מצאה לה כאן רצון ויכולת להיטיב לזולת, בעיקר למשפחות הפועלים העניים ולעוברי אורח, בהכנסת אורחים וגמילות חסדים. זכתה לראות את בניה בין מיסדי המושבה נס ציונה ועמלים לשגשוגה, ואת כל משפחתה משתרשת בארץ ופעילה בבנין הישוב והמשיכה במעשי צדקה וחסד עד זקנה ושיבה.
+
+ נפטרה בנס ציונה, ח' חשון תרפ"א (20.10.1920).
+
+ צאצאיה:<persName> פרץ, שמואל, צבי, ינטה </persName> אשת<persName> אפרים</persName> <persName>קומרוב, ביילה</persName> אשת האגרונום יעקב ברגמן, לאה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2889 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2889</bibl><bibl>Volume: #7 ,Page: 2890 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2890</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

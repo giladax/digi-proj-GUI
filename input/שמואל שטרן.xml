@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4476 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4476</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל שטרן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סיגט</placeName> (רומניה) י"ז סיון תרע"ב (2.6.1912)
+
+ לאביו<persName> בצלאל שטרן</persName> ולאמו <persName>ראכיל סלאווע</persName> בת <persName>צבי שטרן</persName> (הוריו נספו בשואה בשנת 1944 במחנה אושביץ).
+
+ קבל חנוך מסורתי (תלמיד הרב <persName>דושינסקי</persName> שהיה אח"כ הרב הראשי של עדת החרדים - אגודת ישראל בירושלים). וחילוני למד בגמנסיה ושנתים באוני
+
+ ברסיטה (משפטים) בפרנקפורט-מיין בגרמניה.
+
+ בשנת 1945 נשא לאשה את<persName> רחל</persName> בת <persName>מנחם</persName> ברקוביץ.
+
+ היה חבר הועד המרכזי של תנועת ה"איחוד" בטרנסילבניה ונציג התנועה הנ"ל בועד הציוני המרכזי בטרנסילבניה (1945-47).
+
+ בשנת 1948 עלה לארץ.
+
+ בשנות 1948-56 עובד משרד הבטחון.
+
+ היה חבר מזכירות מפא"י יפו-ת"א (1950-54).
+
+ מזכיר מפא"י מחוז רמת-גן-גבעתיים (1956-60).
+
+ חבר מועצת ההסתדרות הכללית של העובדים העברים בישראל.
+
+ שליחות מטעם המגבית המאוחדת בדרום אמריקה (1960).
+
+ במלחמת הקוממיות פעילות באזור נתניה.
+
+ עובד מועצת פועלי רמת-גן וגבעתיים.
+
+ כתב ב"הדור" ו"בעבודה" - בטאון מועצת פועלי רמת גן וגבעתיים.
+
+ בנו: מנחם.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4476 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4476</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

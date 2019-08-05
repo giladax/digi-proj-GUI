@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1400 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1400</bibl><bibl>Volume: #3 ,Page: 1401 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1401</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם סיני רוגצבסקי</persName>
+
+</head>
+         <div><p> לאביו <persName>שמואל רוגצבסקי</persName> ולאמו <persName>שרה</persName> בת <persName>אברהם</persName> <persName>סיני קריצבסקי</persName> .
+
+ נולד ב<placeName>גלוחוב</placeName> (אוקראינה) בשנת תרל"ב (20.1.1872). קיבל חינוך מסורתי בתלמוד תורה.
+
+
+ למד מקצוע - סנדלרות, ועבד בה כל ימי שבתו בחו"ל.
+
+ מפעילי "פועלי ציון" בבאקו.
+
+ בשנת 1908 נשא לאשה את <persName>שרה</persName> בת אלתר יחזקאל הלוי קמיניץ.
+
+ בשנת תרס"ד (1904) עלה לארץ והתישב באלוניה (סג'רה) והתמסר לחקלאות.
+
+ צאצאיו: <persName>שמואל, יצחק, יהושע</persName> (נפל בהגנת סג'רה, בשנת תש"ח), <persName>דוד, שמחה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1400 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1400</bibl><bibl>Volume: #3 ,Page: 1401 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1401</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

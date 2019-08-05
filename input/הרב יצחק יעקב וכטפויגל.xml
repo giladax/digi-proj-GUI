@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1526 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1526</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יצחק יעקב וכטפויגל</persName>
+
+</head>
+         <div><p> נולד במזריץ', פלך שדליץ, י"ז אלול תרמ"ז (1887), לאביו הרב <persName>בנימין ברוך </persName> (מצאצאי <persName>מהר"ל </persName> מפראג ולאמו
+
+<persName>יפה</persName> בת ר'<persName> יעקב</persName> . למד בישיבות טלז, סלובודקה, וולוז'ין מפי הרבנים הגר"א <persName>גורדון, הגר"ש שקופ</persName> <persName>והגרי"ל בלוך</persName> , נודע בכינוי " העילוי ממזריץ'" והוסמך לרבנות.
+
+ עלה ארצה בתרס"ט, נשא לאשה את <persName>בלומה רחל</persName> בת הרב <persName>זרח בראוורמאן</persName> , מגדולי הרבנים בירושלים.
+
+ לפני מלחמת-העולם הראשונה יצא לפולין ונשאר תקוע שם בגלל המלחמה. יסד ישיבה במזריץ' והשתתף ביסוד "המזרחי" בפולין בתרע"ה, ואחרי המלחמה חזר ארצה.
+
+ השתתף ביסוד השכונה נוה יעקב (מיסודה של חברת "הכפר העברי") מצפון לירושלים בדרך לשכם בתרפ"ב ובתרפ"ד השתתף ביסוד החברה לשיכון ולבנין "תפארת ירושלים".
+
+ בשנת תרפ"ו נתמנה לרב בנוה יעקב ומתרפ"ט ואילך ר"מ ומנהל הישיבה הגדולה מאה שערים בירושלים. יו''ר ועד שכונת מאה שערים ויו"ר "מפעל התורה למען הישיבות", האוסף כספים בארץ לתמיכה מרוכזת בחלק ניכר של הישיבות בארצנו.
+
+ הכין בכתב-יד ביאורים וחידושים בהלכה.
+
+ צאצאיו:<persName> דוד </persName> (רב בפילאדלפיה. ארה"ב), <persName>פלטיאל</persName> (סוחר בתל-אביב),<persName> נחמה</persName> אשת עוה"ד ד"ר <persName>אשר רוזנ</persName> <persName>בלום</persName> (מנהל המחלקה לעזרה ושיקום לנפגעי-רכוש בעקב המלחמה, במשרד לנפגעי המלחמה של מדינת ישראל), <persName>נחום אליהו, שמואל</persName> (נעדר בכיבוש יפו באביב תש"ח,<persName> יפה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1526 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1526</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

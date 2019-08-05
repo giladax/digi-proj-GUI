@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5192 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5192</bibl><bibl>Volume: #17 ,Page: 5193 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5193</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל דב שפניר (מייזלס)</persName>
+
+</head>
+         <div><p> נולד בפושטין (רוסיה), י' בטבת תרס"ב (18.1.1902).
+
+ לאביו <persName>פנחס מייזלס</persName> (ממשפחת רבנים) ולאמו <persName>בתיה בריינה</persName> בת <persName>משה שפאל</persName> (שפאלר זיידע הוא סבא של סבא, לפי יחוס עד חכם צבי ורש"י וכו').
+
+ בשנת 1903 בהיותו בן שנה עברה משפחתו לקלן שבגרמניה.
+
+ קיבל חינוך מסורתי. גימנסיה ובית ספר גבוה למשפט וכלכלה בקלן.
+
+ היה מנהל בית חרושת ובתי מסחר.
+
+ היה ציר נבחר בועד הקהילה וחבר ועד התאחדות הציונים בקלן.
+
+ חבר ועד העליה של הסוכנות היהודית ופעילות למען הקרן הקיימת.
+
+ היה יו"ר המזרחי ואחד המיסדים של צעירי מזרחי בגרמניה ומדריכם בקלן. אחריו נתמנה למדריך פרופ' ד"ר<persName> ישעיהו לייבוביץ </persName> (כיום, פרופ' ומרצה באוניברסיטה העברית בירושלים). בשנת 1934 עלה לארץ.
+
+ באותה שנה נשא לאשה את<persName> רחל בינה</persName> בת <persName>יש</persName> <persName>ראל בנימיו בוקשפאן-קלר</persName> (ממשפחת תלמידי חכמים. דודה הוא הרב אהרן קלר, הרב מנהריה).
+
+ היה חבר ועדת הביקורת באירגון עובדי עירית
+
+
+ תל-אביב ובקופת התגמולים של עובדי עירית תלאביב, כנבחר מטעם ועד ת"א של הפועל המזרחי בעירית תל-אביב.
+
+ עד שיצא בשנים האחרונות לפנסיה, היה מנהל מדור במחלקת הגביה בעירית תל-אביב. כיום, הוא חבר ועדת הביקורת של אירגון הפנסיונרים של עירית תל-אביב-יפו.
+
+ במלחמת העולם השניה ובמלחמת השחרור היה מ"כ במשמר האזרחי.
+
+ גזבר לשכת בני ברית ע"ש "יצחק ילין" בתלאביב.
+
+ יו"ר כבוד של בית הכנסת "נחלת יצחק" ברחוב חברון בתל-אביב.
+
+ צאצאיו: <persName>פנחס מעוז </persName> (עורך דין עצמאי בת"א) ; <persName>אסתר</persName> אשת הרב<persName> אליהו גלופלקין</persName> ; <persName>בנימין-זאב </persName> (תלמיד ישיבת ב"ע ומרכז הרב (קוק) בירושלים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5192 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5192</bibl><bibl>Volume: #17 ,Page: 5193 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5193</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

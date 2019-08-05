@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1388 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1388</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר נחמן פריי</persName>
+
+</head>
+         <div><p> לאביו <persName>יוסף </persName> (סוחר, נשיא "המזרחי" בוינה) ולאמו <persName>רחל</persName> בת <persName>ישראל ויסברד</persName> מבולכוב.
+
+ נולד בולכוב (גליציה המזרחית) בשנת תרנ"ב (16.2.1892).
+
+ קיבל חינוך מסורתי בחדר, וכללי בגמנסיה בפשמישלוב ואוניברסיטה בוינה. גמר שב את הפקולטה לרפואה בשנת תרע"ט, ועבד בקליניקה של <persName>פרופ'</persName> <persName>אורטנר</persName> באוניברסיטה של וינה עד שנת תרפ"ד. עבד כרופא פנימי בבית החולים רוטשילד בוינה מתרפ"ה עד תרצ"ח.
+
+ הצטרף לתנועה הציונית כהיותו תלמיד. היה פעיל בהתאחדות הציונים הכלליים. משנת תרפ"ב עד תרצ"ח היה נשיא ההתאחדות הנ"ל במחוז פראטר בוינה. היה חבר ועד הקהלה של וינה מתרצ"ד עד תרצ"ח, חבר הנהלת בית החולים של רוטשילד בוינה, נשיא בית הכנסת במחוז פראטר, חבר ההנהלה של המשרד הא"י בוינה. מטעם הציונים הכלליים נבחר לציר הקונגרס הציוני ה-19 בלוצרן בשנת 1935 ובקונגרס הציוני ה-20 בציריך ב-1937.
+
+ נשא לאשה את <persName>מלכה </persName> בת<persName> אנג'יל רייס מסטרו</persName> . בתרצ"ח עלה לארץ, התישב בתל-אביב כרופא פרטי למחלות פנימיות וכרופא בביה"ח "אסותא". חבר המועצה הארצית של הציונים הכלליים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1388 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1388</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

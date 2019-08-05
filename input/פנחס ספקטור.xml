@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4315 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4315</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פנחס ספקטור</persName>
+
+</head>
+         <div><p> נולד בדובוסר (רוסיה) בשנת תרמ"ח (1888). לאביו<persName> אהרן ספקטור</persName> ולאמו <persName>פרידה</persName> בת<persName> צבי יוסף</persName> <persName>חוורסטייאן.</persName>
+
+ קיבל חינוך מסורתי בחדר ובית-ספר יהודי, ואקסטרני.
+
+ היה חבר פעיל באגודת "צעירי-ציון" ובארגונים ציויים אחרים.
+
+ בשנת תרס"ז (1907) עלה לארץ.
+
+ עבד כפועל בפתח-תקוה.
+
+ בשנת תרע"ג (1913) נשא לאשת את <persName>רבקה</persName> בת <persName>צבי</persName> <persName>הכהן שצקי-כהן</persName> (אחות <persName>ישראל שצקי-כהן</persName> ז"ל שעלה לארץ בשנת תרמ''ט-1889 ויסד בצידון טחנת קמח ושקד על פיתוח היישוב היהודי שם, בגבולה של א"י, ואח"כ מראשוני הסוחרים ביפו שהוציאו את המונופול המסחרי
+
+ מידי השכנים הערבים. ראה כרך ב', עמוד 649).
+
+ התיישב במושב "עין-גנים" ליד פתח-תקוה, שימש כמוכתר המושב.
+
+ בשנות 1918-19 היה בין מייסדי ארגון השוטרים היהודים במשטרת המנדט.
+
+ משנת 1926 היה בא-כוח חברת "פרדס" בפרדסי עין
+
+ גנים, ממשיך עדיין כבא-כוחם בוועדת הביקורת שלה.
+
+ היה נוטר רשמי בתחנת עין-גנים.
+
+ צאצאיו:<persName> צבי </persName> (חקלאי),<persName> אהרן </persName> (מהנדס בביהח"ר קייזרפרייזר),<persName> הלל</persName> (טייס), <persName>יעל </persName> אשת<persName> זאב ציטר, עדה</persName> אשת <persName>זאב ייבין </persName> (ארכיאולוג).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4315 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4315</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

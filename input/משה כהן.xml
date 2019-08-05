@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3505 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3505</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה כהן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת תרמ"ב (19.2.1882).
+
+ לאביו <persName>צבי הירש הכהן </persName> מוולקוביסק ולאמו<persName> חיה טויבה.</persName>
+
+ קבל חנוך מסורתי בחדר ובישיבת עץ-חיים.
+
+ בצעירותו עבר עם משפחתו ליפו.
+
+ אביו יסד בחומת העיר העתיקה ביפו את בית המלון הראשון שנקרא "מלון אשל''. אח"כ העביר <persName>משה</persName> הבן
+
+ את המלון לרחוב סיקסיק ביפו, ומלונו היה ידוע בשם "מלון משה כהן". בית מלונו הפך להיות למרכז פגישות בין העולים בימים ההם עם בני המושבות והישוב הישן מירושלים וכו'.
+
+ היה בין הראשונים שעסק בהורדת יהודים והצלתם מידי בעלי הסירות ("הבאכרים") שהיו רגילים לשדוד את העולים, וכן הקל עליהם את הכניסה לארץ בלי "הפתקא האדומה" שהנהיגו התורכים בימים ההם...
+
+ נשא לאשה את<persName> חסיה</persName> (משה) בת <persName>יהודה ליב ינקילביץ</persName> (נפטרה בתל-אביב, ד' כסלו תשי''ז - 8.11.56).
+
+ היה בין הלוחמים נגד המסיון ביפו.
+
+ היה מה-60 הראשונים שיסדו את אחוזת בית (היא תל-אביב) והקים את ביתו ברחוב לילנבלום.
+
+ נפטר ב<placeName>ירושלים</placeName>, כ"א אדר תרפ"ו (17.3.1926).
+
+ צאצאיו;<persName> צבי, אהרן ליב, דבורה</persName> אשת <persName>מרדכי </persName> (מקס) <persName>רובינס, בת-שבע</persName> אשת<persName> אלכסנדר בשקביץ, יהוידע, חסידה</persName> אשת<persName> משה הלפמן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3505 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3505</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

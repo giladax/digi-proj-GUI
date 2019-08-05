@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2163 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2163</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי מליניאק</persName>
+
+</head>
+         <div><p> נולד בסימיטיץ', פולין, כ"ח תשרי תרמ"ב (1881), לאביו ר' <persName>ישראל</persName> (ת"ח וסוחר נכבד) ולאמו <persName>גליקה בת ר'</persName>
+
+<persName>נתן נטע טננבוים</persName> . למד בחדרים ובישיבה והתמחה במסחר ליד אביו.
+
+ בתרס''ד נשא לאשה את<persName> חיה </persName> בת ר' <persName>שלום מליניאק,</persName> התישב בוארשה, עסק במסחר עצים ויסד וניהל שני בתי-חרושת לדיקטים בסימיטיץ, ובכפר ביאליגון שליד קילץ. הצליח בעסקיו ותרם ביד נדיבה למוסדות ולעזרת נצרכים, ולצאצאיו נתן חינוך דתי-לאומי ותרבותי כללי.
+
+ בזרם העליה הרביעית נישא גם הוא לארצנו. בא בתרפ"ד בתור תייר, רכש לו 139 דונם אדמה ליד גבעת ברנר באזור רחובות, קיבל את הקושאנים וחזר לפולין לחסל את עסקיו כדי לעלות. העסקים ריתקוהו שמה, אך ב-1931 התגבר עליהם ועלה ארצה עם כל המשפחה. נטע פרדס בן 70 דונם על אדמתו והוא ובני ביתו עבדו בו מעלות השחר עד צאת הכוכבים. כשהפרדס החל להניב פרי למשלוח, שוב התיצב עם בני ביתו לעבודה ובנו את בית האריזה במו ידיהם.
+
+ במהומות תרצ"ו - צ"ח כרתו הערבים את כל עצי הפרדס והחריבו את כל עמלו, ואז נאלץ למכור את אדמתו והתישב בתל-אביב.
+
+ בשנות המהומה שרתו הוא ובניו בשמירה (חברי "עין שמר") ואף בהשקטת רוחות הערבים בכפרים שבהם היתה להם השפעה עליהם.
+
+ נפטר בתל-אביב, ז' שבט תשי"א (14.1.51).
+
+ צאצאיו : <persName>זאב דוד</persName> הי"ד (נספה בשואת הגולה בהולנד), <persName>פרידה </persName> אשת <persName>יעקב גבר, דב </persName> (מזכיר בבית ברנר בת"א), <persName>יהושע</persName> (לשעבר שרת בבריגדה העברית, וכעת פנקסן בחב
+
+ רת "שלב"),<persName> אהרן</persName> (בנאי בחברת החשמל), <persName>רוזה </persName> (פקידת במחלקת הציוד של "סולל בונה"), <persName>מרדכי</persName> (חבר קיבוץ אילון, לשעבר חייל בבריגדה העברית), <persName>ישראל</persName> (לשעבר קצין בבריגדה העברית ; כעת עובד בחברת החשמל), <persName>מנחם</persName> (קיבוץ "להבות הבשן").
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2163 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2163</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

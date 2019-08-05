@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1784 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1784</bibl><bibl>Volume: #4 ,Page: 1785 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1785</bibl>
+<bibl>Volume: #4 ,Page: 1786 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1786</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה-ליב ניידרמן</persName>
+
+</head>
+         <div><p> נולד בבוטשון (רומניה), בשנת תר"ו (1946), לאביו <persName>יצחק צבי</persName> .
+
+ קיבל חינוך יהודי בחדרים והתמחה ליד אביו במסחר בראילה.
+
+ נשא לאשה את <persName>שרה</persName> בת <persName>חיים גרינברג</persName> . עסק במסחר ואח"כ בקבלנות ממשלתית להספקת בשר לצבא והצליח בעסקיו, אך העדיף להיות אכר פשוט בארץ-ישראל מאשר סוחר עשיר בגלות, הצטרף למתארגנים להתנחלות בארץ ועוד ברומניה שילם את מחיר נחלתו בזכרון יעקב.
+
+ בתרמ"ב עלה לארץ עם חלוצי זכרון יעקב. נשא את חלקו בסבלם של הראשונים, וגם בבוא ימי הטובה נשאר נאמן למשאת נפשו, עסק בהתנדבות בצרכי הצבור, היה גבאי של הכנסת אורחים ועזר לרבים בסתר ובהצנע-לכת. השכים והעריב בכל יום לביתהכנסת וזמנו היה קודש משעה 4 לפנות בוקר לתורה ולתפילה.
+
+ נפטר בזכרון יעקב, ד' אדר תרס"ט.
+
+ צאצאיו: <persName>ישראל יהודה</persName> ז"ל (המשיך לעבוד במשק אביו ונודע במושבה ומחוצה לה כעסקן רב-פעלים באגודת הכורמים וביתר עניני הצבור),<persName> דבורה (אהובה)</persName> אשת <persName>אפרים רוזנפלד, מרים</persName> אשת<persName> זלמן סמסונוב</persName> ז"ל, <persName>טובה</persName> אשת <persName>בנימין אלבגלי</persName> ז"ל.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1784 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1784</bibl><bibl>Volume: #4 ,Page: 1785 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1785</bibl>
+<bibl>Volume: #4 ,Page: 1786 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1786</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

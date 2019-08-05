@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3326 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3326</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי יהושע גורדון</persName>
+
+</head>
+         <div><p> נולד בשנת תרמ"ח (4.9.1888) באוזדה שבפלך פינסק, רוסיה הלבנה.
+
+ לאביו <persName>גבריאל</persName> ולאמו <persName>בלומה</persName> בת הרב <persName>ר' אליהו מרדכי.</persName>
+
+ למד עד גיל 18 בישיבת סלוצק בראשות הגאון ר' <persName>איסר זלמן מלצר.</persName> אח"כ היה מורה בבית-הספר העברי של הציונים בקרמנצ'וג שבאוקראינה, עד לגיוסו לצבא הרוסי.
+
+ ב-1913 נשא לאשה את<persName> חיה שרה</persName> בת<persName> אברהם יצחק</persName> <persName>ניפומנישצי,</persName> ובסוף אותה שנה עלה עמה לארץ ונתקבל לחזן בבית-הכנסת הגדול "בית יעקב" בפתח תקוה והיה גם מנצח על מקהלת בית-הכנסת.
+
+ ב-1927 נתקבל לחזן בבית הכנסת "בית שלמה" בשכונת מאה שערים שבתל-אביב, ובשנות שרותו בתלאביב היה גם כותב בקביעות רשימות וכתבות בעתונים "דאר היום", "הארץ" ו"קונטרס".
+
+ חזר לפתח תקוה ושנה אחת לימד תורה ומשנה, ותלמיד בגימנסיה "אחד העם", ואחר-כך עבד 27 שנים רצופות בשרות המועצה המקומית (אח"כ העיריה) בתור מזכיר לשכת הרבנות, וזמן מה גם בגזברות, עד שיצא לפנסיה.
+
+ היה חבר ועד כפר גנים בשנות המלחמה הצבורית והמשפטית על הצלת האדמה לבעלות יהודית בשביל המתארגנים להשתכן עליה.
+
+ גם בשנות שרותו בעיריה ואף אח"כ לא זנח לגמרי את החזנות והנו ממשיך לעבור לפני התיבה בחגים.
+
+ בניו: <persName>יהושפט, משה גבריאל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3326 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3326</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

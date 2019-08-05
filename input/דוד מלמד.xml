@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3825 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3825</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד מלמד</persName>
+
+</head>
+         <div><p> לאביו <persName>חפץ מלמד.</persName>
+
+ עלה לירושלים מבוכארה בשנת תרל"א (1871) ועמו באו אשתו וילדיו.
+
+ נסיעתו היתה, לדבריו, ארוכה וקשה "מהלך ששה חדשים" והוא מתפאר שהיה הוא "הראשון מארץ בוכארה הבא לשכון כבוד באה"ק הוא וביתו" כנראה שהיה איש אמיד שמלבד שלושת בניו, ישראל, יחיאל
+
+<persName>ועמנואל </persName> העלה עמו את משרתו <persName>יוסף </persName> ב"ר<persName> יעקב</persName> שוחט סמרכנד.
+
+ בבואו לירושלים השתדל לגלות את עקבותיהם של שני עולי-רגל שיצאו מבוכארה בשנת תרי"ח (1858) ולא הגיעו לארץ-ישראל.
+
+ לזכר המאורע של העליה הביא לבית הדפוס בירושלים בשנת תרל"א (1871) ספר "ברכת האילנות" בצירוף ספר "פרכוס האברים".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3825 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3825</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

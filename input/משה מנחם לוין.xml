@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1781</bibl><bibl>Volume: #4 ,Page: 1782 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1782</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה מנחם לוין</persName>
+
+</head>
+         <div><p> נולד בליבאו. לטביה, ט' אייר תרמ"ב (1882), לאביו. <persName>ישעיהו</persName> (ממשפחת הרב <persName>יעקב ליפשיץ</persName> מקובנה) ולאמו <persName>שרה </persName> לבית <persName>קיבלביץ</persName> . בן 4 עבר עם הוריו לאנגליה ושם קיבל חינוך יהודי וכללי.
+
+ בתר"ס עלה ארצה והיה פקיד בבנק אפ"ק ביפו עד פרוץ מלחמת-העולם הראשונה. בתרס"ד נשא לאשה את חסיה בת ישעיהו הירשזון מירושלים. בתרס"ג יסד ביפו יחד עם <persName>חיים צרור</persName> בית-ספר עברי-לאומי "המכבי".
+
+
+ בראשית מלחמת-העולם הראשונה גורש מיפו לאלכסנדריה של מצרים בגלל נתינותו הבריטית. בתרע"ז חזר ארצה כפקיד במפקדת צבא הכיבוש הבריטי. אח"כ השתתף במערכת השבועון "פלסטיין ויקלי" והיה כתבם הארצישראלי הקבוע של כמה עתונים באנגליה, ארצות הברית, קנדה ודרום אפריקה ופעיל בהסתדרות המזרחי. בשנות תרפ"ג - תר"ץ נסע פעמים אחדות בשליחות צבורית לארצות הברית. היה זמן מה המזכיר הכללי של הסתדרות המזרחי לארצות הברית וקנדה וארגן את מסעה של משלחת הרבנים (הרב הראשי מירושלים, הרב ר' <persName>משה מרדכי</persName> <persName>אפשטיין</persName> מישיבת סלבודקה-חברון והרב הראשי <persName>שפי</persName> <persName>רא</persName> מקובנה) למען ישיבות ארץ-ישראל ומזרח-אירופה.
+
+ אח"כ ישב שנים אחדות בלונדון ועסק בספרות ובעתונות ומשנת תש''ו ואילך הנו שוב תושב ירושלים ופעיל במועצה המרכזית של המזרחי, מזכיר בבית חנוך לעיורים בירושלים.
+
+ ספריו: "הסוציאליזם הממשי בתורת משה" (באנ
+
+ גלית, בתרצ"ט יצא בירושלים בתרגומו העברי של <persName>דוד יוסיפון)</persName> , "שמות עבריים" (באנגלית), "השב את עמי" (באנגלית, קריאה לאומות העולם, 1946).
+
+ צאצאיו: <persName>פנינה</persName> אשת <persName>בנימין היינריך, ידידיה,</persName> <persName>מרדכי, אליפלט, רוחמה, עמנואל, שולמית</persName> אשת<persName> רוברט</persName> <persName>לאו, ישעיה, תקוה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1781</bibl><bibl>Volume: #4 ,Page: 1782 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1782</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

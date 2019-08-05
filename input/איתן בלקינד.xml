@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3951 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3951</bibl><bibl>Volume: #12 ,Page: 3952 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3952</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>איתן בלקינד</persName>
+
+</head>
+         <div><p> נולד במושבת הבילויים גדרה, ט"ו תשרי תרנ''ח (15.10.1897).
+
+ לאביו<persName> שמשון</persName> (בנו של חלוץ החינוך העברי בגולה <persName>מאיר בלקינד</persName> (ראה כרך ג', עמוד 1159) ואחיו של <persName>ישראל בלקינד,</persName> מראשי המיסדים של תנועת הסטודנטים לשוב אל הלאומיות היהודית ולא"י - שנקראה "דאביו" - "דבר אל בני ישראל ויסעו" - ואח"כ "ביל"ו" "בית יעקב לכו ונלכה" (ראה כרך ג', עמוד 1295) -ובן אחיהן של בנות ביל"ו הגברות ד"ר <persName>אלכסנדרה</persName> (סוגיה) <persName>בלקינד </persName> (ראה כרך ב', עמוד 680), <persName>אולגה</persName> אשת <persName>יהושע חנקין </persName> (ראה כרך ב', עמוד 752) <persName>ופאני</persName> אשת ישראל (לוליק) פיינברג (ראה כרך א', עמוד 418 וכרך ה', עמוד 2338) ולאמו<persName> פנינה </persName> (פניה) בת אהרן<persName> מרדכי</persName> <persName>פריימן</persName> (דרור) ממיסדי ראשון-לציון (ראה כרך ה' עמוד 2305 וכרך ג' עמוד 1435).
+
+ למד בבית הספר בראשון לציון, בוגר הגמנסיה העברית הרצליה, מחזור ג' בתל-אביב והאקדמיה הצבאית התורכית בקושטא.
+
+ בשירותו כקצין בצבא התורכי בימי מלחמת העולם הראשונה הצטרף למחתרת "נילי" (נצח ישראל לא ישקר) ואחרי שהתורכים גילו את המחתרת נאסר גם הוא, אחרי שאחיו <persName>נעמן </persName> (ראה כרך ה', עמודים 2288-90) ועוד נאסרו.
+
+ נידון למוות ע"י התורכים בדמשק והצליח לברוח.
+
+ בשנת 1925 נשא לאשה את <persName>נחמה</persName> בת<persName> מרדכי יואל</persName> <persName>סגל </persName> (ראה כרך א', עמוד 168).
+
+ היה סגן ראש עירית ראשון לציון ומ"מ, חבר ויו"ר הנהלת מתאחדות בתי הקולנוע בישראל, נציג ישראל בענף הקולנוע בהתאחדות הבין-לאומית.
+
+ היה מפעילי המחתרת אצ"ל.
+
+ היה ציר הקונגרס הציוני האחרון בירושלים מטעם "תנועת חרות".
+
+ כיום, חבר עירית ראשון לציון, חבר מרכז תנועת החרות, יו"ר סניף תנועת החרות בראשון לציון.
+
+ חבר הנהלת יבואני הסרטים.
+
+
+ בית הקולנוע בראשון לציון קרא על שם אחיו <persName>נעמן </persName> ז"ל הנ"ל.
+
+ צאצאיו : <persName>אולגה</persName> אשת<persName> פנחס אלראי, נעמן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3951 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3951</bibl><bibl>Volume: #12 ,Page: 3952 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3952</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

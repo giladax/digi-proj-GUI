@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3784 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3784</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר פקטורובסקי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אודיסה</placeName> (רוסיה) בשנת תרנ"ז (6.1.1897).
+
+ נתחנך חינוך מסורתי וכללי. לציונות נמשך עוד מילדותו, ובשנת 1911 עלה לארץ ונכנס לגמנסיה "הרצליה" כתלמיד.
+
+ עם הכיבוש הבריטי התנדב לגדוד היהודי, ובהיותו בגדוד חלה את חליו, שממנו מת כעבור שנים מספר. היה חבר נאמן לתנועת העבודה, השתתף ב"קונטרס" של "אחדות העבודה", וניהל את המדור של הפוליטיקה החצונית בשבועון הנ"ל.
+
+ את שבע שנות חייו האחרונות הקדיש לחקר הצמ
+
+ חיה בארץ בשיתוף פעולה עם חברו <persName>פרופ' אלכסנדר</persName> <persName>אייג</persName> (ראה כרך ה', עמוד 2353). בית הקברות הישן בתל-אביב שימש להם לסיור ראשון אל צמחי החולות, והיתה אפילו תקופה שהם רצו להציע לפני עירית תל-אביב לסגור את בית הקברות ולשמר בו את הצמחים המענינים אותם.
+
+ יחד עם <persName>פרופ' א. אייג </persName> חיבר את המגדיר הראשון למשפחות צמחים בשם "לוחות להגדרה" ופרסם יחד עמו רשימות בוטניות ב"השדה" ו"בקונטרס" ובהן באו חידושים רבים בידיעת הצמחים.
+
+ בל' ניסן תרפ"ו (14.4.1926) נפטר והובא לקבורה בבית הקברות הישן בתל-אביב.
+
+ אחרי פטירתו נכתבו עליו מאמרים ורשימות רבים.
+
+ הפרופ'<persName> אוטו ורבורג,</persName> מי שהיה נשיא ההסתדרות הציונית העולמית כתב עליו מאמר הערכה, והמשוררת <persName>רחל </persName> הקדישה לזכרו שיר מיוחד בשם "כאלה באביב ימותו".
+
+ את המצבה על קברו הקים הפרופ'<persName> אלכסנדר אייג,</persName> וגם הקדיש כמה עבודות לזכרו וקרא על שמו מחשובי הצמחים אשר המנוח גילה בארץ.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3784 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3784</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

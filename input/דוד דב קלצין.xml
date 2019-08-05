@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 650 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/650</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד דב קלצין</persName>
+
+</head>
+         <div><p> נולד בפרוז'אני, פלך גרודנה, (רוסיה-הלבנה), בשנת תרל"א, לאביו הרב אליהו (תלמיד-חכם גדול, סוחר בתבואות, מצאצאי הגאון רבי<persName> אברהם</persName> אחי הגר"א מוילנה) ולאמו <persName>מרים.</persName>
+
+ בילדותו עבר עם הוריו לשפולה, למד בחדרים ובישיבות והוסמך לרבנות.
+
+ נשא לאשה את <persName>ליובה</persName> בת<persName> נחמן ימפולסקי </persName> ממשפחת הגבירים החרשתנים מקיוב. עסק במסחר תבואות והיה ספק ראשי לשעורים מרוסיה בשביל בית-חרושת לבירה בפילזן (צ'כיה). עסק בצרכי צבור ובפעילות ציונית בשפולה כמורשה הועד האודיסאי של חובבי ציון, מזכיר הועד הציוני המקומי, חבר הועד המפקח של התלמוד-תורה, ציר לועידת חובבי ציון ברוסיה, חבר של "אגודת שפולה" לרכישת קרקע בארץ-ישראל ולהקמת שכונה לבני שפולה לפי הצעתו ויזמתו של <persName>מנחם שיינקין.</persName>
+
+ בתרס"ב בא עם משפחתו לבקר את הוריו ביפו, התענין ברכישת קרקעות בעבר הירדן ונסע שמה לסיור להתענינות בקרקעות יחד עם אביו ועם ר'<persName> משה</persName> <persName>בצלאל טודרוסוביץ</persName> ור' <persName>אברהם ישפה</persName> , וגם בפתח-תקוה התענין אז בדבר נטיעת פרדסים.
+
+ בתרס"ה שוב ביקר בארץ כנציג הטחנות הגדולות של בית ברודסקי מקיוב קרובי אשתו.
+
+ בשנת תרס"ז שלח את בנו משה להתחנך בגימנסיה "הרצליה" ביפו.
+
+ בשנת תרפ"ז עלה ארצה עם משפחתו, התישב בקביעות בת"א, ניהל את בית ממכר תוצרת הביסקוויטים של מפעל ל. <persName>פרומין ובניו</persName> ואח"כ עבר למסחר במכולת. היה חבר ברית הציונים הכלליים, השתתף בגאולת קרקעות בת"א ובהר כנען ליד צפת, ורעיתו היתה פעילה בועד ההנהלה של הקייטנות לילדים, ב"בית צעירות מזרחי", בבתי יתומים, בגמילות חסדים מיסודה של הרבנית <persName>דבורה. אהרנסון,</persName> ועוד.
+
+ נפטר בירושלים, כ"ב חשון תש"ך.
+
+ צאצאיו;<persName> רחל</persName> איזנשטט ; <persName>משה ; רבקה ; דבורה :</persName> <persName>יעקב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 650 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/650</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

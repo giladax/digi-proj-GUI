@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1860 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1860</bibl><bibl>Volume: #4 ,Page: 1861 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1861</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זאכי אלחדיף</persName>
+
+</head>
+         <div><p> נולד ב<placeName>טבריה</placeName> בשנת תר"ן (189025.12.), לאביו הרב <persName>חיים</persName> (ראש ישיבת ר' מאיר בעל הנס, בנו של ר'
+
+<persName>אהרן</persName> , רב ראשי וחכם באשי ב<placeName>טבריה</placeName>) ולאמו <persName>שמחה</persName> בת <persName>שמואל אלחדיף </persName> (משפחה ספרדית רבת יוחסין ואצילה).
+
+ למד בחדר ובישיבה (שאביו עמד בראשה). לימודים כלליים בבית ספר כי"ח ואצל מורים פרטיים.
+
+ ב-1911 החל לעסוק במסחר. יצא לבית שאן לארבע שנים לרגלי מסחרו. היה שם ראש ועד עדת היהודים למרות גילו הצעיר, כי נתגלו כשרונותיו הארגוניים, מרצו וישרו.
+
+ נשא לאשה את <persName>אסתר</persName> בת החכם<persName> יהודה כהן.</persName>
+
+ בימי מלחמת העולם התייצב בראש העזרה למגורשי איזור הדרום ב<placeName>טבריה</placeName> אשר הוגלו על ידי ג'מאל פחה מיהודה והשפלה. בשנת תר"פ נתמנה לחבר העיריה ב<placeName>טבריה</placeName>, לאחר שראש העיריה הערבי נתפש במעשה מעילה. בשנת תרפ"ג היה לראש העיריה ב<placeName>טבריה</placeName> במשך חמש עשרה שנה עד ליום הרצחו בידי פורעים ערביים.
+
+ מבוני טבריה החדשה. העיר היתה מוזנחת מאד ולא עמדו לה לא נופה הנהדר על שפת הכנרת, לא היותה עיר מעבר בדרך לגליל, לא עברה הקדוש ולא אוצרותיה "חמי טבריה". עד שבא <persName>זאכי</persName> ומוסר לה את כשרונותיו, אהבתו ומרצו. בראשותו סללה העיריה את כבישיה הפנימיים הראשונים. נמסר הזכיון ל"חמי טבריה" לחברה יהודית. נבנו שכונות שלמות ובעיקר
+
+
+ שכונת הפאר של העיר "קרית שמואל". דאג לתנאי ההיגינה בעיר שהיו עד כה איומים. הספקת מים וחשמל שינו את פני העיר. נבנו בתי מלון גדולים, אשר פתחו את הדרך לתיירות.
+
+ פרשה לחוד הם יחסיו עם האנשים. ידע להתהלך עם יהודים יוצאי כל הגלויות וכל המעמדות. מזג טוב, יושר ועקביות עוררו גם חבה וגם כבוד ודרך ארץ. סייע לסוכנות היהודית בכל אשר נדרש ועמד בקשרים טובים עם כל נציגי השלטון המנדטורי החל ממושל המחוז וסיים בנציבים העליונים שהיו מוקירים אותו מאד. נתכבד בתואר הכבוד הבריטי מ. ב. אי. היה נשיא לשכת "בני ברית" ב<placeName>טבריה</placeName>.
+
+ בדאגתו הרבה לפיתוח טבריה העברית (הזכיון, הבאת מאות פועלים עבריים לעיר והעסקתם) לא שיבש את יחסיו לתושבים הערביים. חתם על הכרוז המשותף שהוציאו היהודים והערבים בעיר טבריה בשנת הדמים תרפ"ט - להשלטת הרוחות. המופתי הזקן של טבריה אהבו מאד. כראש עיריה ראה לפניו רק תושבי עיר ללא הבדל זית וגזע ודאג לכולם. על כן כה הדהים את הכל מעשה הרצח. למרות האיומים הרבים אשר נשלחו אליו לא רצה ללכת בלווי שומרי ראש כי סמך על יחס הידידות שלו כלפי הערבים ונפל קרבן תומו, ביום ב' חשון תרצ"ט (27.10.38) ונקבר ב<placeName>טבריה</placeName>.
+
+ צאצאיו: <persName>חיים</persName> (חייל בצה"ל),<persName> אלגרה</persName> אשת <persName>אברהם</persName> <persName>צרנוב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1860 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1860</bibl><bibl>Volume: #4 ,Page: 1861 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1861</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

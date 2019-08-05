@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 695 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/695</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> תנחום חנקין</persName>
+
+</head>
+         <div><p> נולד בקרמנצ'וג, פלך פולטבה (אוקראינה), בשנת תרל"ה (1875), לאביו <persName>יהודה ליב</persName> (מעשרת מיסדי ראשון
+
+ לציון). קיבל חינוך מסורתי וכללי ומשעלה ארצה עם משפחתו למד בבית-הספר העברי הראשון ביפו ואח"כ למד חקלאות במקוה ישראל.
+
+ בתרנ"ב הצטרף למיסדי חדרה, התגורר ב"חאן" ההיסטורי, מקום משכנם של המיסדים, קדח ועבד ונשא את חלקו בסבל הראשונים.
+
+ נשא לאשה את<persName> פרומה</persName> (פאניה) בת <persName>אברהם גורדון</persName> מיקטרינוסלב שעלה ארצה בשנת התשעים והתישב על אדמת חורן, שנקנתה ע''י אגודת "חובבי ציון" מעירו ונמסרה לבארון.
+
+ נטע את הפרדס הראשון במושבה וממשיך לעבוד בה בפלחה ובנטיעות מראשיתה ועד עתה. היה החלוץ והמומחה בפרדסנות במושבות השומרון והקים דור של פרדסנים מומחים וחרוצים. חבר בהנהלת אגודת "מיסדי חדרה" ובמועצת "פרדס" בחדרה, פעיל בהסתדרות החקלאים והיה חבר במועצתה.
+
+ עזר לאחיו <persName>מנדל ויהושע</persName> בפעולות של גאולת אדמה.
+
+ צאצאיו: <persName>אברהם ; יהודית</persName> אשת <persName>מיכאל בודצקי</persName> ; שרה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 695 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/695</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4770 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4770</bibl><bibl>Volume: #15 ,Page: 4771 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4771</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר חיים דרין - דרבקין</persName>
+
+</head>
+         <div><p> נולד בתרס"ח (1908) בוורשה (פולין). ילדותו עברה עליו במוהילוב שע"נ דניפר (רוסיה הלבנה), עיר מולדת אביו.
+
+ בתרע"ט (1919) חזר עם משפחתו לוורשה, וסיים שם את בית-הספר התיכון וכן התחיל (1926) את לימודיו במדעי החברה באוניברסיטת וורשה.
+
+ ב-1929 המשיך לימודיו האוניברסיטאיים בצרפת, וב-1932 סיים את חוק לימודיו במדעי הכלכלה והחברה באוניברסיטת ליאון, ושם הוסמך בתואר "דוקטור למשפטים''.
+
+ עלה לארץ בתרצ"ד (1934).
+
+ עד שנת 1939 עבד בעירית תל-אביב. תחיליה כפועל עבודות ציבוריות, ואחר כך (1948-1939) במחלקה לכלכלה וסטטיסטיקה.
+
+ עם קום המדינה נתמנה למנהל מחלקת איגוד שיתופי, ובתפקיד זה עבד עד 1952, משנה זו מילא תפקידים שונים במשרד העבודה, ומשנת 1962 המשיך לעבוד במשרד השיכון. שם הוא משמש כיום מנהל מחקר כלכלי-חברתי.
+
+ מעבודות המחקר שפירסם,
+
+ שיעורים בכלכלה מדינית, מחקר בשיתוף עם <persName>ז. אברמוביץ </persName> - 1939 ; עצמאות ופדרציה (בעברית
+
+
+ ואנגלית) - 1947; "שיכון וקליטה" (עברית) 1955 ; "שיכון בישראל" (אנגלית) - 1937 ; "השיכון הצבורי בישראל" (עברית אנגלית וצרפתית) 1959: "צורות החקלאות השיתופית בישראל" (אנגלית ספרדית) - 1962: "החברה האחרת"
+
+ (הוצאת ספרית פועלים) - 1961. ספר זה - שבעדו זכה ב"פרס פרץ נפתלי", תשכ"ד (1964), יצא בשתי מהדורות, בתרגום אנגלי, בהוצאת ויקטיר גולנץ, לונדון, וכן יצא התרגום האנגלי גם בניויורק.
+
+ בהדרכתו פרסמו מחקרים על בעיות כלכליות וחברתיות של שכון ותכנון ערים. משמש כמרצה בנושאי מדעי החברה והכלכלה, ובין השאר בבית-הספר הגבוה לקואופרציה באוניברסיטת פאריס - סורבונה (על הנושא "החקלאות הקואופרטיבית"). כן הרצה במוסדות אוניברסיטאיים במקומות הבאים בחוץ-לארץ: בוורשה, בליסבון, באבדן-ניגריה, בלאופולדוויל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4770 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4770</bibl><bibl>Volume: #15 ,Page: 4771 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4771</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2836 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2836</bibl><bibl>Volume: #7 ,Page: 2837 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2837</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' יוסף ברויר (ברויאר)</persName>
+
+</head>
+         <div><p> נולד בי"ח אדר תרמ"ב (9.3.1882) בקומארום שבהונגריה וכיום קומארנו שבצ'כוסלובקיה).
+
+ לאביו<persName> אהרן צבי </persName> ולאמו<persName> פראדל לאה </persName> בת<persName> אהרון חיים</persName> <persName>ויינברגר.</persName>
+
+ למד בבית-הספר של הקהלה ובפרו-גימנסיה מקומית, גמר את בית-הספר התיכון במכינה של הסמינר לרבנים בבודאפשט, למד בפוליטכניון הבודאפשטי, שנודע בזמן ההוא כאחד מהמשובחים במרכז-אירופה, והוסמך למהנדס. עבד כמהנדס עצמאי וכקבלן בהונגריה ואח"כ בצ'כוסלובקיה בייבוש בצות, ניצול מי-שופכין להשקאה, הספקת-מים, עבודות גיאודטיות, סלילת מסלות-ברזל וכבישים, בניני בטון-מזוין.
+
+ ב-1912 נשא לאשה את <persName>אולגה</persName> בת <persName>אברהם אנגל.</persName>
+
+ ב-1921 עלה ארצה ועסק בתכנון ייבוש בצות, הס
+
+
+ פקת-מים, השקאה, ביוב, ובשנות 1923-1922 היה יו"ר אגודת המהנדסים והאדריכלים בארץ. בתרפ"ז נתמנה למרצה להידרוליקה ועבודות הידרוליות בטכניון בחיפה. בשנים תר''צ-צ"א היה מנהל הטכניון. בתרצ''ט הועלה לדרגת פרופסור ומאותה שנה ועד תש''א היה דקן המחלקה למהנדסות בנאית. בשנים תש"ד-תש"ו היה יו"ר מועצת הפרופסורים (ובאותן שנים גם יו"ר הסקציה למים באגודת המהנדסים והאדריכלים). בשנים תשי"א-תשי"ד היה חבר הסינאט של הטכניון.
+
+ יצא לפנסיה וממשיך לעסוק בתכנון ובחות-דעת בעבודות הידרוליות. כותב את הערכים במקצוע זה בשביל האנציקלופדיה העברית. תורם מידיעותיו לשרות הצבור כחבר הועד לתכנון מפעל-המים הארצי, חבר הועדה העליונה לניקוז, ייבוש והגנה מפני שטפונות וחבר הועדה לייבוש החולה.
+
+ פרסם מאמרים בשאלות ייבוש בצות, הספקת-מים, ביוב וגידול דגים בעתון אגודת המהנדסים והאדריכלים בארץ (1934, 1942) ב"שדה הטכניקה" (1942), ב"השדה" (1941, 1943), ב"ספר נהלל" (1947), ב"הרשות המקומית" (1954).
+
+ בתו;<persName> צפורה</persName> (ז"ל) אשת המהנדס <persName>אלכסנדר ינאי</persName> (נפלה בירושלים בעת המצור ב-1948; נשארו אחריה בנה <persName>גיורא </persName> ובתה<persName> תרצה).</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2836 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2836</bibl><bibl>Volume: #7 ,Page: 2837 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2837</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

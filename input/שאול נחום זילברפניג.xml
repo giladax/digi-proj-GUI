@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1780 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1780</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שאול נחום זילברפניג</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פינסק</placeName> (רוסיה הלבנה), בשנת תר"ל (1870),. לאביו ר' <persName>אריה ליב</persName> (גדול בתורה ובמעשים טובים, בעל מטויה לצמר, רבני העיר שיתפוהו בבירור הל
+
+ כות) ולאמו<persName> צפורה</persName> בת ר'<persName> אברהם הכהן נימצוביץ.</persName> בן תשע נתיתם מאביו. למד בישיבות ובבית-המדרש והצטיין בתורה.
+
+ נשא לאשה את<persName> ביילה</persName> בת <persName>מאיר נחמן אוסטרובסקי</persName> (אחות הרב <persName>משה המאירי-אוסטרובסקי</persName> ז''ל).
+
+ עסק במסחר בספרים ובמכשירי כתיבה, קבע עתים לתורה ועל-פי רוב הפר את קביעת העתים ועסק בתורה גם תוך ישיבתו בבית-המסחר. היה פעיל בעניני צבור וצדקה וחסד. היה קורא בתורה בבית-הכנסת, ולתקנת יהודים המאחרים לבוא לקבלת שבת לביתהכנסת ועלולים להפסיד את התפילה הנהיג מנין שני לקבלת שבת.
+
+ אחרי שחלק ממשפחתו עלה לארץ עלה גם הוא עם שארית משפחתו בשנת תרפ"ז והתישב בתל-אביב. גם כאן עסק במסחר בעזרת בני ביתו, הקדיש הרבה מזמנו לתורה ותפילה ולמעשים טובים, והוא ורעיתו היו מקדישים מזמנם לאיסוף כספים לעזרת תלמידיחכמים עניים בגי טובים, וביחוד הרבה לפעול לטובת ישיבת מרכז הרב שבירושלים.
+
+ נפטר בתל-אביב, ט"ז אדר תש"ג.
+
+ צאצאיו:<persName> לאה</persName> אשת<persName> שרגא קרצ'מר, איטה </persName> אשת <persName>ליב לובצקי, אריה</persName> (סוחר לכלי זכוכית בת"א), <persName>גיטל</persName> אשת <persName>אליעזר זאקס, שושנה</persName> אשת <persName>שלום דיאמנד</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1780 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1780</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

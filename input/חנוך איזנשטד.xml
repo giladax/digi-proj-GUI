@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4338 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4338</bibl><bibl>Volume: #13 ,Page: 4339 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4339</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חנוך איזנשטד</persName>
+
+</head>
+         <div><p> נולד ב<placeName>גרייבו</placeName> (פולין) בשנת תרמ"ג (1883).
+
+ לאביו <persName>יעקב אריה איזנשטד</persName> ולאמו <persName>חיה ליבה.</persName>
+
+
+ קיבל חינוך מסורתי.
+
+ היה פעיל בין הנוער החרדי "מזרחי" וכן היה פעיל במועדון "מגן דוד אדום".
+
+ בין מייסדי תנועת המזרחי בפולין.
+
+ היה ראש הקהילה בלומזה (פולין), ונבחר ליו"ר המזרחי בלומזה.
+
+ עסק במסחר.
+
+ מיוזמי בניין מושב זקנים ותלמוד תורה בלומזה.
+
+ ממייסדי חברת "השומר הדתי" בלומזה.
+
+ בשנת 1909 נשא לאשת את<persName> חיה</persName> בת <persName>אסתר רחל</persName> <persName>ואברהם יצחק רבינוביץ</persName> (ילידת סמיטיץ, מחוז גרודנה. נולדה בשנת 1883.
+
+ הכניס סדרים בחברה קדישה. ובן בענייני שחיטה דאז שהקצבים לא יטילו חמתם על השוחטים.
+
+ הקים בית שחיטה מודרני לעופות.
+
+ ביזמתו נפתחה קופת חולים לעניים.
+
+ לא פעם התייצב לפני המיניסטריון לענייני פנים בוורשה בענייני חסות ושמירה על חיי היהודים ורכושם.
+
+ עשה רבות לעזרת "החלוץ" ודאג שהקהילה תקבע תקציב עזרה לקיבוצי ההכשרה.
+
+ ב-20 לנובמבר 1935 עלה לארץ.
+
+ היה חבר הוועד הארצי של הסתדרות המזרחי בישראל.
+
+ היה חבר המועצה הארצית של קרן היסוד והסוכנות.
+
+ נבחר לכמה קונגרסים ציוניים בתור ציר הסתדרות המזרחי.
+
+ עבד בהסתדרות המזרחי בישראל.
+
+ יסד מוסדות גמ"ח.
+
+ נפטר בתל-אביב, ו' אלול, תשי"ח (22.8.1958) והובא לקבורה בקרית שאול.
+
+ צאצאיו: <persName>ליובה</persName> אשת <persName>נח מזי"א </persName> (אגרונום),<persName> יפה זיר</persName> <persName>ביצקי, אברהם אש</persName> (מורה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4338 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4338</bibl><bibl>Volume: #13 ,Page: 4339 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4339</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

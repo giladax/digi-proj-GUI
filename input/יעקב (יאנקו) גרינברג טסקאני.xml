@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3534 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3534</bibl><bibl>Volume: #10 ,Page: 3535 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3535</bibl>
+<bibl>Volume: #10 ,Page: 3536 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3536</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב (יאנקו) גרינברג-טסקאני</persName>
+
+</head>
+         <div><p> נולד בשנת תרל"ט (1879) בכפר טסקאני שליד מוינשט במולדבה שברומניה (היא העיר שמשם עלו ב-1882 מיסדי ראש פנה בהנהגת <persName>דוד שוב</persName> וממיסדי זכרון יעקב).
+
+ לאביו <persName>דוד (משכיל</persName> , חבר "בני ברית", שהוא ואביו <persName>דב </persName> היו בזה אחר זה בתפקיד מנהל טכני בבית-חרושת גדול לספירט של משפחת בעלי-האחוזה רוזטי) ולאמו <persName>באבי-לאה</persName> בת<persName> ישראל</persName> .
+
+ בגיל 10 שלח אותו אביו ללמוד בגימנסיה בצ'רוביץ, שהשכלתו תהיה גרמנית, ובסתיו 1899 נתקבל ללמוד כימיה בטכניון שבברלין-שארלוטנבורג. שם היה פעיל בארגון הותיק של הסטודנטים הציונים, ששימש גרעין
+
+ ראשון לברית האגודות הציוניות של הסטודנטים היהודים בגרמניה (ק. י. פ.) והעמיד אישים פעילים ומנהיגים לתנועה הציונית.
+
+ בעקב מות אביו ב-1904 הוזמן לרשת את מקומו כמנהל טכני של בית-החרושת, דור שלישי של המשפחה, שמילאה תפקיד זה למעלה מ-53 שנים רצופות עד לסגירת המפעל.
+
+ במשך הזמן השלים את לימודיו, וב-1910 היה הראשון שהוסמך בשארלוטנבורג למהנדס כימאי לתעשית כוהל, אחרי שמקצוע זה הונהג שם בטכניון.
+
+ נשא לאשה את <persName>רבקה</persName> לבית <persName>רוזנפלד</persName> .
+
+ השתמש במעמדו החברתי המכובד למשיכת האינטליגנציה היהודית מדרך ההתבוללות וההתיאשות הלאומית, ובעקבותיה גם המונים בעם, להכרה עצמית יהודית ולציונות ורב חלקו ביצירתה ובהרחבתה של התנועה הציונית בערי מולדבה.
+
+ נבחר מטעם הציונים בעיר באקאו ציר לקונגרסים ב-1907 וב-1911, בו היה גם חבר הועדה המתמדת, ובאותה שנה נרשם על ידי אגודת "תקות ציון" בבאקאו בספר הזהב של הקהק"ל. משנסגר בית-החרושת בטסקאני הוזמן למנהל טכני בבית-חרושת לספירט של חברת "ריפיצ'ני" במחוז בוטושאני, שהחזיקה שם גם בית-חרושת לסוכר, וביזמתו יסדו שם גם בית-חרושת גדול לחומצה פחמנית, וגם מפעל זה נמסר לניהולו הטכני, ואחרי זמן מועט נתמנה גם לאחד ממנהלי החברה. ב-20 שנות פעולתו שם הרחיב גם את פעילותו הציונית במחוז, ובקראו לחמשת ילדיו שמות עבריים בלבד היה למופת גם כלפי חוץ בנאמנותו לצביון הלאומי היהודי.
+
+ לאות הכרה לפעולותיו לטובת המשק הלאומי של רומניה אישר לו הפרלמנט בחוק מיוחד זכות אזרח (עד סוף מלחמת העולם הראשונה נחשבו היהודים ברומניה כ"נתינים" בעלי זכויות מוגבלות ולא אזרחים, וכשיהודי נמצא ראוי לאזרחות, היה הפרלמנט צריך לאשר זאת בחוק מיוחד). מיד אחר-כך עבר את הקורס הצבאי לקציני מילואים, וב-1913 גמר אותו בהצטיינות במקום הראשון. וכשהצטרפה רומניה למעצמות ה"הסכמה" (צרפת, אנ
+
+
+ נפטר בראשון לציון, כ"א חשון תש"ב (11.11.1941).
+
+ צאצאיו:<persName> יהודית</persName> אשת ד"ר<persName> אברהם שילוני, שפרה</persName> אשת<persName> הרי צבי דייקן, בלהה</persName> אשת<persName> ליאון מולר, אבשלום</persName> (עו"ד) - אשתו <persName>שרה ניגר</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3534 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3534</bibl><bibl>Volume: #10 ,Page: 3535 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3535</bibl>
+<bibl>Volume: #10 ,Page: 3536 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3536</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

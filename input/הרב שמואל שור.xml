@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4467 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4467</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שמואל שור</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ידיניץ</placeName> (בסרביה) כ"ב ניסן תרע"ב (1912).
+
+ לאביו<persName> מנחם מנדל שור</persName> (נכד התבואות שור)
+
+ ולאמו<persName> זלאטה</persName> בת<persName> נפתלי הרמן.</persName>
+
+ קיבל חנוך מסורתי בישיבת קישינוב. גמר בי"ס תיכון וגמנסיה. כמה שנים למד בביהמ"ד של הרב הצדיק משטפנשטל זצ"ל. למד שם שו"ב ומילה והתמחה בבריתות בבית יולדות ביאסי (רומניה).
+
+ בשנת 1930 נשא לאשה את<persName> רחל </persName> בת הרה"צ <persName>חיים</persName> <persName>רבינזון</persName> זצ"ל (הושמדה ע"י הנאצים בטרנסניסטריה) ובשנת 1960 נשא בזיווג שני את <persName>חיה שרה</persName> בת <persName>דוד</persName> <persName>ליב קוזלובסקי</persName> .
+
+ בשנות 1944-47 עזר למשפחות רבות לעלות לא"י.
+
+ היה פעיל בציונות ועסקן צבורי ברומניה ובאיטליה. בשנת 1947 ארגן יחד עם<persName> ברוך דובדבני</persName> בתי ספר בעברית.
+
+ בשנת 1948 עלה לארץ.
+
+ עבד כמנהל חשבונות במטה הארצי של המשטרה במחלקת התשלומים בת"א.
+
+ היה פעיל ומזכיר סניף הפועל המזרחי בסלמה ת"א.
+
+ שו"ב ומוהל בגבעתים. מוהל קבוע בבית היולדות "הדסה" בת"א.
+
+ מגיד שעור בביהכנ"ס של האדמו"ר מסדיגורה בת"א.
+
+ היה פעיל במשמר האזרחי.
+
+ צאצאיו (מאשתו הראשונה):<persName> יהודית, יוסף אהרן</persName> , <persName>אברהם מתתיהו וחיים</persName> ז"ל (הושמדו יחד עם אמם ע"י הנאצים בשנת 1942).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4467 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4467</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

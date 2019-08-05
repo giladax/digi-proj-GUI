@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 466 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/466</bibl><bibl>Volume: #1 ,Page: 467 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/467</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זאב חזין</persName>
+
+</head>
+         <div><p> נולד בדונאייביץ, פלך פודוליה, רוסיה, י"ח סיון תרל"ח (1878), לאביו <persName>חיים</persName> . קיבל חינוך תורני וכשיצא לחיי המעשה התישב באודיסה ועסק במסחר בצמר בהיקף רחב. כאן הצטרף לפעילי הציונות והתרבות העברית ותמך ביד נדיבה בקרנות הציוניות, במפעלים לאומיים ותרבותיים, במפעלי צדקה וחסד וביתו ולבו וידו היו פתוחים גם ליהודי פשוט זקוק לעזרה. ביקר פעמים אחדות בארץ לפני מלחמת-העולם הראשונה.
+
+ אחרי המהפכה הבולשבית נאסר ורוב הונו ניטל ממנו, אך הצליח להציל חלק מהונו ולעלות ארצה בשנת תר"פ עם אשתו, שלשה בנים ושתי בנות. התישב בתל-אביב והשתתף בבנינה, כשהחלה אז לחרוג מהתחום הצר של שכונה יפואית לעיר עברית עצמאית מתרחבת והולכת. כאן חידש את פעולתו המסחרית, אך
+
+
+ לא יכול להגיע בעסקיו לאותו היקף רחב כפי שהיה לו באודיסה. השלים עם המציאות המצומצמת כמו שהיא והיה מאושר לחיות כאזרח בארץ ובעיר העברית,
+
+ המשיך גם בדרכי נדיבות לבו וידו ונתחבב על כל מכיריו. השתתף ביסוד בנק "אשראי" והיה חבר במפעלים שונים.
+
+ נפטר בתל-אביב, ה' אב תש"ה (15.7.45).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 466 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/466</bibl><bibl>Volume: #1 ,Page: 467 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/467</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

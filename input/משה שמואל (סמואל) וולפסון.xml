@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 364 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/364</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה שמואל (סמואל) וולפסון</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ליברפול</placeName> (אנגליה) בשנת תרנ"א (26.1.1891), לאביו ר' <persName>בנימין יהודה ליב</persName> , ראש השוחטים ב<placeName>ליברפול</placeName> ולאמו <persName>צפורה רבקה</persName> בת אברהם יעקב קונינסקי.
+
+ למד בבית-ספר עממי יהודי, בבית-הספר התיכוני "אולטון" ובאוניברסיטת ליברפול (פילוסופיה, היסטוריה ותורת החינוך) וקיבל תואר B.A. . נתקבל למורה בבית-ספר תיכוני בלונדון, ובמלחמת-העולם הראשונה, ב-1915, התגייס לצבא הבריטי, ל- . R.F.A שרת בחזיתות צרפת ובלגיה עד ששוחרר ב-1919.
+
+ נשא לאשה את<persName> קלארה </persName> בת<persName> אהרן הכהן רוסקין</persName> מאנגליה.
+
+ ב-1923 עלה ארצה ונתקבל למורה לאנגלית בגימנסיה "הרצליה" בתל-אביב.
+
+ ב-1 בפברואר 1927 נתקבל לפקיד במחלקת העליה הממשלתית ושירת בה ביפו, תל-אביב, חיפה וקנטרה. החל מ-5 באוגוסט 1932 בקביעות בתל-אביב, ומשנת 1940 מנהל מחלקת העליה בתל-אביב.
+
+ השתתף בפעילות חברתית וספורטיבית כיו"ר מועדון הבוקס "באני ליאונרד" בתל-אביב.
+
+ במלחמת-העולם השנית, כשהעבודה במחלקת העליה צומצמה, שירת גם בתפקידים שונים בשטחי-פעולה אחרים. היה עוזר ראשי למפקח על כוחות האדם, יועץ ויו"ר בועד הצבאי-האזרחי המשותף לבעיות כוחות האדם במחוז תל-אביב ויפו (הנקרא "מחוז לוד"). עם שחרור המתנדבים הארצישראליים מהצבא בסוף המלחמה היה המנהל האחראי לחינוך מקצועי לחיילים המשוחררים.
+
+ נפטר בתל-אביב, כ"ז אייר תש"ז (17.5.47) ונקבר בנחלת-יצחק.
+
+ צאצאיו: <persName>בנימין יהודה </persName> (שירת בצבא),<persName> יונה-רות.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 364 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/364</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

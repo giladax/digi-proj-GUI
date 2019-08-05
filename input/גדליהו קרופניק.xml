@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4259 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4259</bibl><bibl>Volume: #13 ,Page: 4260 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4260</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גדליהו קרופניק</persName>
+
+</head>
+         <div><p> נולד בזכרון-יעקב, י"ג שבט, תרס"א (2.2.1901). לאביו<persName> טוביא קרופניק</persName> (מראשוני וממייסדי המושבה זכרון-יעקב) ולאמו<persName> חסיה</persName> בת <persName>גולדה ויעקב בן-צבי</persName> (מראשוני ומייסדי המושבה זכרון-יעקב).
+
+ סיים בי"ס עממי במושבה.
+
+ מילדותו עזר לאביו בניהול משקו החקלאי (כרמים
+
+ וגידולי מספוא בגבעת עדה - ליד זכרון-יעקב. התחלפו באדמת ברייקה שליד המושבה באדמת גבעת עדה).
+
+ כעבור שנים הקימו משק חקלאי מסועף במושבה (כרמים, עצי פרי וכו').
+
+
+ סגן יו"ר בוועד החקלאי, חבר המועצה המקומית (מטעם סיעת הליברלים).
+
+ בשנת 1923 נשא לאשה את <persName>צפורה</persName> בת<persName> סימה ויצחק</persName> <persName>אליהו לובאנוב</persName> (מרוסיה. קרובי משפחה לסופר <persName>י. ח.</persName> <persName>ברנר </persName> ז"ל).
+
+ הצטיין במיוחד (יחד עם גיסו <persName>דב לייטנר</persName> ) בגילוי 3 החטופים מתושבי "גבעת עדה" ע"י ערביי סינדיאני שהעבירו אותם בהרי ג'נין.
+
+ היה פעיל בהגנה ובענייני השמירה והבטחון במושבה.
+
+ בניו:<persName> טוביה (</persName> חקלאי). ילדיו: <persName>אורנה, עדי, גדליהו.</persName> <persName>חיים</persName> (חקלאי). ילדיו: <persName>עידית, בנימין.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4259 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4259</bibl><bibl>Volume: #13 ,Page: 4260 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4260</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

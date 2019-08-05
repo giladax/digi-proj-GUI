@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2509 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2509</bibl><bibl>Volume: #6 ,Page: 2510 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2510</bibl>
+<bibl>Volume: #6 ,Page: 2511 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2511</bibl>
+<bibl>Volume: #6 ,Page: 2512 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2512</bibl>
+<bibl>Volume: #6 ,Page: 2513 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2513</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שושנה גניס (ליטבק)</persName>
+
+</head>
+         <div><p> נולדה בשנת תרנ"ז (25.10.1897) בעיר ייליסאבטגראד שבאוקראינה.
+
+ לאביה <persName>יצחק ליטבק</persName> (בר-אוריין, סוחר גדול ביצוא שמנים) ולאמה<persName> עדה.</persName>
+
+ גדלה באוירה ציונית ששררה בין יהודי העיר בעקבות הפעולה שלד"ר<persName> זאב ולאדימיר טיומקין</persName> וחבריו. גמרה 8 מחלקות גימנסיה ממשלתית לבנות והתחילה ללמוד בקורס למורות.
+
+ משנהרגה אמה בתאונה ניתקו שרשי נפשה לבית ההורים והרגישה את עצמה חפשית ללכת בדרך-לבה : היינו להמשיך להשתלם בהוראה ובחינוך, אבל לא ברוסית לשם עבודה ברוסיה, אלא בעברית בארץישראל, וב-1914 עלתה לארץ במטרה ללמוד בסמינר למורות ולגננות על שם לוינסקי, שהיה אז בשכונת נוה-צדק שבין יפו לתל-אביב. כבר מצאה לה מורה והחלה ללמוד עברית בשקידה להתכונן לבחינת הקבלה לסמינר, והנה נזדמנה למטבח הפועלים של "הפועל
+
+
+ הצעיר" בנוה צדק ונדבקה מהאוירה החלוצית בשאיפה לחדול מהלמדנות ומהמלמדות ולהצטרף בפועל למחנה החלוצים המגשימים את האידיאל הציוני בעבודת כפים ובזיעת אפים. השאיפה הסתמית התגלמה לפניה בהוראת-דרך ממשית כשהציע לה בחור יודע רוסית מהמושבה באר יעקב, שצצה זה עתה מתוך אדמת השממה, שתצא לעבוד אצלו במטעי השקדים, והיא הסכימה. בהתאם למדובר בינה ובין המזמין,<persName> זאב גניס</persName> , נסעה באחד הימים בדיליז'נס לפונדק <persName>גולדברג </persName> אשר ברמלה, ושם היה צריך גניס לחכות לה ולהוליכה לבאר יעקב. משלי חיכה לה שם שלחוה הגולדברגים ברכיבה על חמור לבאר יעקב בלווית ערבי נאמן, ושם מצאה את גניס עסוק בתיקונים בבאר בתור מומחה חיוני שאין לו תחליף בכפר, וכשהתנצל שבגלל הצורך הדחוף בתיקונים לא יכול ללכת לקראתה כפי שהבטיח, לא יכלה לא להאמין לו, באשר ראתה במו עיניה כי כן הדבר, ובימים ההם עוד הבינה חלוצה אמתית, כי תיקון באר במושבה חשוב יותר מכל וקודם אפילו לקיום הבטחה.
+
+ חדשים אחדים עבדה כפועלת שכירה במשק של זאב גניס, ובסוף קיבלה את הצעתו להיות לו שותפת במשק ובחיים לאורך ימים וחגגו את החתונה בבן-שמן.
+
+ נוסף לתפקידה כאכרה עסקה גם בפעולות ועדת התרבות של המושבה במשך כל השנים, וכן המשיכה בפעולה חינוכית מיוחדת, בקבלה לביתה ילדים מפגרים וקשי חינוך שנשלחו אליה מטעם מוסדות סוציאליים מירושלים והצליחה להביאם להתפתחות נאותה מבחינת השכל והאופי, וכשחזרו העירה היו כבר ילדים נורמליים ומוכשרים ללימודים סדירים.
+
+ על פרשת הסבל במושבה, שגם היא נטלה את חלקה בו, וכן על צאצאיה, ראה בערך על שם בעלה<persName> זאב</persName> <persName>גניס </persName> בכרך זה.
+
+ במלחמת הקוממיות החזיקה מעמד עם בעלה ועם עוד שלוש משפחות במושבה המופגזת והקרובה לקו האש, ואחרי שקוט הארץ ובוא זרם העליה הגדולה חזרה לעבודה חינוכית כגננת ומחנכת במחנה העולים בבאר יעקב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2509 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2509</bibl><bibl>Volume: #6 ,Page: 2510 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2510</bibl>
+<bibl>Volume: #6 ,Page: 2511 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2511</bibl>
+<bibl>Volume: #6 ,Page: 2512 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2512</bibl>
+<bibl>Volume: #6 ,Page: 2513 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2513</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

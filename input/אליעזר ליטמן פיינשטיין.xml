@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2245 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2245</bibl><bibl>Volume: #5 ,Page: 2246 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2246</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר ליטמן פיינשטיין</persName>
+
+</head>
+         <div><p> נולד בח' אדר תרל"ט (1879) בבריסק-דליטא שבפולין לאביו<persName> יעקב ישראל </persName> (סוחר, חובב ציון ותיק) ולאמו<persName> חינקה</persName>
+
+<persName>רייזל</persName> בת<persName> אליעזר ליטמן לדרהנדלר.</persName> התחיל ללמוד בחדר בבריסק ובהיותו בן תשע שלח אותו אביו להוריו שגרו בצאריצין (כיום סטאלינגראד), שילמד שם אצל המורה הזקן, שלימד לפנים את אביו.
+
+ בן 16 עלה ארצה בתרנ"ה ונכנס מיד ללמוד במקוהישראל, להתכונן לניהול משק הנחלה שרכש אביו ברחובות. אחרי שלש וחצי שנות לימוד, בעת השביתה הגדולה במקוה ישראל, ב-1899, עזב את ביה"ס יחד עם כל תלמידי שתי הכתות העליונות והתישב ברחובות לנהל את מטעי הגפנים והשקדים של אביו.
+
+ ב-1901 נענה להזמנת אביו ונסע לבריסק להתיצב לצבא (ולהשתחרר) ולעזור לאביו במסחרו שגדל. בעת פרעות 1905 היה פעיל בהגנה העצמית היהודית בבריסק. בראשית 1906 בא לרחובות לבנות בית ולהכין את האדמה והבאר לנטיעת פרדס, על מנת שבסוף השנה תבוא אחריו כל המשפחה. אך בסוף השנה הזמינהו אביו טלגרפית לחזור לבריסק, באשר אינו יודע כמה כספים
+
+
+ יאכל הפרדס עד שישא פרי, ולבן נתן את הברירה להשאר בבית ולנהל את העסקים, כדי להרויח להוצאות פיתוח הפרדס בארץ בידי מנהל שכיר, או לחזור ארצה אבל המשפחה לא תבוא עד שהפרדס יתן פרי. הוא החליט להשאר, כדי לעלות עם כל המשפחה.
+
+ ב-1908 נשא לאשה את <persName>רחל </persName> בת<persName> גרשון דובינבוים</persName> , ניהל את עסקי אביו, השתתף בפעולה הציונית והיה ממיסדי קופת מלוה וחסכון של הציונים בבריסק וממנהליה. במלחמת העולם א' טולטל עם משפחתו לרוסיה הפנימית ובכ"ו אב תרע"ח מתה אשתו במוסקבה והשאירה אחריה שתי בנות קטנות.
+
+ ב-1922 הצליח לצאת עם בנותיו מרוסיה וחזר אל ביתו ואל משקו ופרדסו ברחובות וב-1926 נשא לאשה את <persName>חנה</persName> בת <persName>יעקב מאיר לרינמן</persName> . היה פעיל כל השנים בעניני צבור ברחובות. היה חבר במשפט השלום העברי מתרצ"ד עד לחיסולו אחרי קום המדינה, והנו גבאי בית הכנסת הגדול, פעיל בועד לשכת הרצל של בני-ברית וחבר ועדת הבקורת באגודת גמילות חסד "הרצל".
+
+ בנותיו;<persName> אסתר</persName> אשת <persName>ברוך שפירא, דבורה</persName> אשת <persName>מרדכי עירוני.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2245 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2245</bibl><bibl>Volume: #5 ,Page: 2246 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2246</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

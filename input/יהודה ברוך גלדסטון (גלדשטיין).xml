@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3557 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3557</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה ברוך גלדסטון (גלדשטיין)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ניו-יורק</placeName> (ארצות הברית בש' תר"מ (1.4.1880). לאביו <persName>יצחק מרדכי</persName> ולאמו <persName>חנה רבקה </persName> לבית <persName>זליקוביץ</persName> (שהיגרו לארצות הברית מטיקטין שבפלך לומז'ה רוסיה הלבנה).
+
+ הסבא <persName>ר' מרדכי </persName> עלה לארץ לעת זקנה, ובשנת 1897 עלו גם ההורים מארצות הברית, ועמם בנם <persName>דוד צבי</persName> <persName>גלדסטון</persName> (ראה כרך ח' עמוד 3178) והשתקעו בצפת.
+
+ קבל חנוך כללי בארצות הברית.
+
+ בשנת תר"ס (1900) עלה לארץ.
+
+ בשנת 1902 נשא לאשה את <persName>יוכבד </persName> בת<persName> ישראל</persName> <persName>גולדצוייג</persName> (נפטרה ברחובות, ד' אייר תשט"ז-15.4.1956).
+
+ היה מורה לאנגלית ובמשך שנים מזכיר ראשי במשרדי המחוז בצפת בממשלת המנדט.
+
+ במלחמת העולם הראשונה (1914-1918) סיפק ביחד עם הגב' <persName>פורד</persName> (אמריקאית, שהתגוררה בצפת), את הצרכים הסוציאליים לנתיני ארצות הברית ועזר גם בסיוע לנצרכים - נפגעי המלחמה מטעם קרנות הסעד האמריקאים.
+
+ צאצאיו: <persName>ישראל </persName> (פקיד במשרד החקלאות),<persName> יצחק</persName> ז"ל, <persName>פנינה</persName> אשת<persName> חיים פיסטר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3557 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3557</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

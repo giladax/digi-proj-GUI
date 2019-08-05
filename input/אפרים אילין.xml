@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3713 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3713</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים אילין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>חרקוב</placeName> (רוסיה) בשנת תרע"ב (20.2.1912).
+
+ לאביו <persName>יוסף אילין</persName> ולאמו<persName> אסתר </persName> לבית<persName> קוניקוב.</persName>
+
+ קיבל חנוך מסורתי.
+
+ בשנת 1920 עלה לארץ ולמד בגימנסיה הרצליה בתל-אביב, ואח"כ בבי"ס מסחרי בלידז.
+
+ בשנים 1932-35 עסק בעסקי פרי הדר. באותה תקופה היה מנהל כללי של "קולוניזישן אנד סטלמנט".
+
+ בשנת תרצ"ד (1934) נשא לאשה את<persName> צפורה</persName> בת <persName>מאיר אנטין</persName> (ראה כרך ח', עמוד 3070).
+
+ בשנות 1946-49 מנהל חברת "פלבריק".
+
+ בשנת 1950 הניח את היסוד לתעשיה אוטומטיבית בישראל. במשך 10 שנים יצרה התעשיה יותר מ-27 אלף כלי רכב. למעלה מ-17 אלף מהם נמכרו לעשרות ארצות בעולם תמורת ארבעים מיליוני דולרים. התעשיה הוסיפה מיליוני כוחות סוס לאפשרויות התנועה הפרטית, המסחרית, החקלאית והבטחונית בישראל. במשך השנים הללו הקימו מפעלי עזר רבים. חנכו כבישה ופתחו ביצור מכונות, כלים ומבלטים באשקלון. נתנו תנופה לעשרות מפעלים של ספקי משנה. קידמו תעשית חלקי החילוף בארץ ואימנו וחנכו צוות פועלים ומהנדסים בן מאות רבות, המסוגל כיום לייצר את המשופרת שבמכוניות, וכל זה בעזרת השותפים האמריקאים חברת "ויליס מוטורז אינקורפורייטד" הקשורה עב קונצרן תעשייתי רב ממדים של חברת חברת "קייזר תעשיות בע"מ". חתמו עם שותף זה על הסכם שותפות מורחב לגבי ייצור ויצוא מלאים ומקיפים של רכב העבודה למינהו בישראל - כולל כל דגמי הג'יפ, סטיישן וואגון, טנדרים ומכוניות מסחריות.
+
+ אחרי שחברת "רנו" הצרפתית נכנעה לחרם הערבי נשאר אצלם חלל ריק מבחינת ייצור רכב נוסעים פרטי, הצליחו לחתום על הסכם מתאים לזמן ארוך עם חברה אמריקאית, חברת "סטודיבקר-פאקארד", ליצור רכבה, לשווק המקומי וליצוא גם יחד, אם המכונית "לארק" וכן את משאיות "סטודיבקר" בתנאים נוחים.
+
+ יו"ר מועצת המנהלים והמנהל הכללי של חברת "קייזר-פרייזר" בע"מ בארץ, קייזר אילין תעשיות בע"מ אשקלון, זחל בע"מ רמת-גן וחברות בת.
+
+ תעשיין.
+
+ בניו : <persName>ארנון, רם.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3713 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3713</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

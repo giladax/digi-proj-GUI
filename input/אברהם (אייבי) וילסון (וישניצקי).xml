@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2286 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2286</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם (אייבי) וילסון (וישניצקי)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ביאליסטוק</placeName> שבפולין בתר"ס (4.1.1900) לאביו <persName>שמואל נתן</persName> (עסקן ציוני באמריקה ואח"כ קבלן בנין בארץ, מבוני תל-אביב ; ראה כרך ב', עמוד 608) ולאמו <persName>טובה</persName> בת <persName>אברהם שצ'גלוויצקי.</persName>
+
+ בגיל 4 יצא עם הוריו לארה"ב, להארטפורד שליד ניו-יורק. שם למד בביה"ס ובת''ת עברי שיסד אביו, כאחד מראשי אגודת "בני ציון", בעזרת <persName>משה דוד שוב</persName> ז"ל שהיה אז באמריקה, ובמשך זמן-מה היה הבילויי <persName>אריאל דב ליבוביץ</persName> ז"ל מורה בת"ת זה. שם התאזרחה המשפחה והחליפה את שמה מווישניצקי לווילסון.
+
+ ב-1910 עלה ארצה עם המשפחה, למד בגימנסיה הרצליה והיה מטובי הספורטאים בין התלמידים בהנהגת המורה להתעמלות <persName>צבי נשרי.</persName> בראשית 1918 התנדב לגדוד העברי הארצישראלי, גמר בית-ספר צבאי במצרים, עלה לדרגת קורפורל ואימן את הטירונים ברובה ובכידון. בעת התסיסה הערבית לפרעות 1921 שמר על גבולות נוה שלום בנשק נגד הפורעים, ומאותה שנה ואילך היה חבר ב"הגנה". באותה שנה שוחרר מהגדוד, עזר לאביו בעבודות קבלנות-בנין, הצטרף למכבי ת''א ולקבוצה הראשונה לכדור -רגל שנוסדה באגודה. היה קפיטן הקבוצה, שיחק בה כחלוץ מרכזי והשתתף עמה במסע התחרויות לאירופה ב-1926, והיה דואג אף לתלבושת לחברי קבוצתו.
+
+ נשא לאשה את <persName>אילנה</persName> בת <persName>חיים הברפלד.</persName>
+
+ בשנות 1932-1928 היה באמריקה, גם שם שיחק בכדור-רגל בקבוצה ממדרגה ראשונה, חזר ארצה עם המשלחת למכביה וחזר לחברותו הפעילה; במשחקים במכבי תל-אביב ולעבודתו עם אביו בקבלנות-בנין.
+
+ ב-1935 עבר עם אביו וכל ביתו לדור בראשון לציון וגם שם ממשיך בפעילות ובעסקנות במכבי. בשנות מלחמת העולם שימש כמקשר חברתי בין הצבור המקומי ובין קציני הצבא הבריטי.
+
+ ממשיך בקבלנות-בנין ועוסק בהקמת שיכונים ברא
+
+ שון לציון בתשלומים לשנים רבות בשיתוף בעלי הון מאנגליה בשם הפירמה <persName>"וילסון את דורפגר</persName> ".
+
+ צאצאיו:<persName> דניאל</persName> (גזבר בבנק הלאומי לישראל בראל"צ), <persName>מיכאל, רות.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2286 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2286</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

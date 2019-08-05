@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3317 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3317</bibl><bibl>Volume: #9 ,Page: 3318 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3318</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>סגן אלוף אשר דרומי (פופובסקי)</persName>
+
+</head>
+         <div><p> נולד בכ''ח שבט תרפ"ז (15.2.1927) בשדלץ שבפולין.
+
+ לאביו<persName> פישל</persName> (מעסקני הציונות בפולין ובישראל ראה ערכו בכרך זה) ולאמו <persName>עטרה </persName> בת<persName> חיים זילברברנ.</persName>
+
+ עלה לארץ עם הוריו ב-1933. למר בבית-הספר תלנורדאו ובבית-הספר התיכון למסחר בתל-אביב.
+
+ בגיל 14 הצטרף לגדנ"ע. עבר לחי"ש של ההגנה. מילא תפקידים אחראים רבים בכושר ובמסירות. בתקופת המאבק והמרי אחרי מלחמת העולם השתתף בפעולות מסוכנות רבות נגד הבריטים, וביניהן ב"ליל וינגייט''. נדרש לעזוב את עבודתו ב"סולל בונה" ולעבור למנגנון הקבע של ההגנה, בו מילא תפקידים חשובים במינהל ובפיקוד ובהדרכה.
+
+ במלחמת השחרור השתתף בקרבות אבו-כביר ויאזור (כיום אזור) במסגרת חי"ש תל-אביב. עבר לאחד הגדודים המפורסמים של חטיבת גבעתי ושירת כמפקד פלוגת בקרבות המרים ביותר של החטיבה ונפצע בקרבות ליד נגבה. אחרי המלחמה נתמנה מפקד גדוד בחטיבתו.
+
+ לחם בהצלחה בגבעה 105 בה השתתף מצד האויב <persName>עבד אל-נאצר </persName> (כיום דיקטטור של מצרים).
+
+ ב-1952 נשא לאשה את<persName> שרה</persName> בת <persName>בן-ציון גרבר.</persName>
+
+ המשיך בשרותו בצה"ל בתפקידי-מטה שונים ואח''כ כמפקד אחד מבסיסי האימונים של צה"ל. גמר את לימודיו בבית-הספר לפיקוד ומטה, בקורס הגבוה ביותר למפקדי צה"ל והגיע לדרגת סגן-אלוף.
+
+
+ השתתף במטה הקרבי של מערכת סיני. אחרי הקרבות טס הביתה לביקור יחד עם אלוף-הפיקוד <persName>אסף שמחוני</persName> (ראה כרך ח', עמוד 3025) וסמל המשטרה <persName>בנימין</persName> <persName>גורדון.</persName> הסערה הטתה את מטוסם מזרחה ונפל ונתרסק מעבר לקו המזרחי של שביתת הנשק ושלשת נוסעיו נהרגו ביום ג' כסלו תשי"ז (7.11.1956) ואחרי ארבעה ימים הובאו לקבורה בחלקה הצבאית בקרית שאול.
+
+ בנו: <persName>אלון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3317 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3317</bibl><bibl>Volume: #9 ,Page: 3318 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3318</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

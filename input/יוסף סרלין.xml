@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1193 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1193</bibl><bibl>Volume: #3 ,Page: 1194 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1194</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף סרלין</persName>
+
+</head>
+         <div><p> נולד בביאליסטוק, כ"ט שבט תרפ"ו (24.2.1906), לאביו<persName> יעקב זרח</persName> ולאמו <persName>פסיה </persName> לבית <persName>לשצינסקי</persName> . קיבל
+
+ חינוך יהודי-לאומי וכללי. חניך הגימנסיה העברית בביאליסטוק. למד משפטים באוניברסיטת וארשה והוסמך למאגיסטר למשפטים ולמדעי המדינה ולעורך-דין.
+
+
+ נשא לאשה את <persName>דינה</persName> בת <persName>זכריה בסביץ</persName> מפינסק, התישב שם ועסק במקצועו.
+
+ היה פעיל בתנועה הציונית מנעוריו בביאליסטוק ואח"כ בוארשה (שם היה יו"ר מרכז האקדמאים הציונים "ירדניה" ומזכירו הפרטי של <persName>נחום סוקולוב</persName> ) ובפינסק. פרסם מאמרים בעתונות בעניני ציוניות בביאליסטוק, פינסק, לבוב, וארשה. 
+
+ עלה ארצה באביב 1933, השתקע בתל אביב והמשיך לעסוק במקצועו ובפעילות צבורית בהתאחדות הציונים הכלליים ומאז איחוד שני פלגי הציונים הכלליים בהסתדרותם המאוחדת. השתתף כציר בקונגרסים הציוניים כ"א וכ"ב והנו מראשי הציונות הכללית, חבר הועד הפועל הציוני, סגן יו"ר הקונפדרציה העולמית של הציונים הכלליים, חבר המרכז העולמי של הציונים הכלליים, חבר הנהלת "המפדה האזרחי", נלחם לשמירת אחדותה של הסת' הצ' הכלליים נגד מגמות חדשות לפילוג, ובתקופת המלחמה לשחרור המולדת נבחר לחבר נשיאות בית הדין העליון של מרכז המפקד לשרות העם. מ"מ במועצת מדינת ישראל.
+
+ בניו: <persName>עמרי, איתמר</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1193 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1193</bibl><bibl>Volume: #3 ,Page: 1194 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1194</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

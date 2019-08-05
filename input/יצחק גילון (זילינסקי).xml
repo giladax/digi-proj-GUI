@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3502 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3502</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק גילון (זילינסקי)</persName>
+
+</head>
+         <div><p> נולד ט"ו בשבט תר"ן (5.2.1890) בוארשה, פולין. לאביו <persName>חיים</persName> ולאמו <persName>מרים</persName> בת <persName>מאיר בורנשטיין.</persName> למד בסורבונה בפריז והוסמך למדעי הטבע, גמר
+
+ את לימודיו במחלקה לכימיה בפוליטכניון בנאנסי שבצרפת והוסמך למהנדס כימאי.
+
+ עבד ככימאי במפעלי משי מלאכותי בפולין.
+
+ ב-1917 נשא לאשה את <persName>תיאודורה</persName> בת<persName> דב פצנובסקי.</persName> מ-1917 היה מנהל גימנסיה עברית בפאביאניץ ובקלץ. בפאביאניץ היה חבר המועצה העירונית ומנהל המחלקה לחינוך ותרבות. בקלץ היה סגן יו"ר הקהלת ויו"ר הועד לעליה לארץ-ישראל ויו"ר הועדים המקומיים לקהק"ל ולקרן היסוד. נבחר כציר לקונגרסים הציוניים ה-10, ה-11 וה-12.
+
+ ב-1927 עלה לארץ.
+
+ עבד שנים אחדות אצל חברת סימנס-שוקרט ובעבודה פרטית, ומ-1937 ואילך בהתאחדות בעלי תעשיה בתלאביב כמזכיר אגף הכימיה, ובאחרונה גם מנהל מרכז אספקת חמרי גלם לתעשיה כימית בע"מ.
+
+ חבר הועד הפועל של ההסתדרות הכימית בישראל, חבר הועדה המיעצת לכימיקלים שליד אגף המכס והבלו, חבר הועדה המרכזית לכימיקלים שליד מכון התקנים, חבר החברה הבינלאומית לתעשיה כימית, חבר ועדת ארגון העבודה הבינלאומי, המחלקה לכימיה. חבר החברה לחקר המקרא.
+
+ מ-1945 ואילך השתתף כציר בכל הקונגרסים הבינלאומיים לכימיה תעשיתית.
+
+ פירסם מאמרים ב"הבוקר''.
+
+ בניו: ד"ר<persName> בנימין זאב זילינסקי</persName> , ד"ר<persName> אלכסנדר</persName> <persName>אליהו גילון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3502 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3502</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

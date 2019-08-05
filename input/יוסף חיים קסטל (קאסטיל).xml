@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1447 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1447</bibl><bibl>Volume: #3 ,Page: 1448 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1448</bibl>
+<bibl>Volume: #3 ,Page: 1449 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1449</bibl>
+<bibl>Volume: #3 ,Page: 1450 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1450</bibl>
+<bibl>Volume: #3 ,Page: 1451 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1451</bibl>
+<bibl>Volume: #3 ,Page: 1452 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1452</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף חיים קסטל (קאסטיל)</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"ט ניסן תרנ"ט (30 מרץ 1899), לאביו <persName>הרב יהודה קסטל (קאסטיל)</persName> (ראה את הערך שלו בכרך זה) ולאמו <persName>רחל </persName> בת<persName> יוסף אנכונה</persName> (מיוצאי עיר החוף אנכונה באיטליה). אבותיו הם צאצאי הפייטנים בארץ, מיוצאי קאסטיליה שבספרד, והתישבו בארץ לפני 450 שנה, עוד משנת גרוש ספרד (1492), בראשונה בעזה, אח"כ בחברון ובירושלים. אחד מאבות אבותיו היה ראש הקהילה היהודית בעזה בימי מלחמת נפוליון בחוף ים זה ולפי המסורת המשפחתית הוא התיר לבני הקהלה ביום הכפויים להשתתף במלחמת הערבים שכניהם נגד נפוליון כדי להגן על העיר.
+
+ קבל את חנוכו הראשון בתלמוד-תורה שתחת הנהלת אביו. גמר את חוק למוריו בהצטיינות בביה"ס של "אליאנס" בירושלים, אח"כ בגמנסיה העברית בירושלים ובגמנסיה "הרצליה" בתל-אביב (1917). שמע הרצאות באוניברסיטה בפאריס.
+
+ בסוף המלחמה העולמית הראשונה (1917- 1918) התנדב לצבא התורכי ועבד שנר. אחת כמתורגמן, סגן-קצין, מזכירו הפרטי של מפקד המחנה המדברי בבאר-שבע. אחד המיסדים של הסתדרות "חלוצי המזרח", חובבי "הבמה העברית" (אחד השחקנים הראשיים בה) ואגודת "שפתנו" בנשיאותו של אליעזר
+
+<persName>בן-יהודה</persName> (1919- 1921). מזכיר בית-המדרש למורים בהנהלתו של<persName> דוד ילין</persName> ז"ל (1920), מנהל לשכת העתונות של ההנהלה הציונית בא"י ומזכיר המחלקה המדינית בהנהלתם של <persName>הד"ר מ. ד. אידר </persName> וקולונל <persName>פ. ה. קיש</persName> (1921- 1924), - מזכירו של המשורר <persName>ח. נ. ביאליק</persName> במערכת "דביר" תל- אביב (1925), בא-כחה של ההנהלה הציונית העולמית הלונדונית בצרפת ומארגן התנועה הציונית בפאריס (1925- 1928), מיסדה ומזכירה של לשכת המסחר צרפת - ארץישראל בפאריס (בנשיאותו של הסנטור והמיניסטר לשעבר מר<persName> ז'וסטין גודארד,</persName> 1927- 1928), מיסדה ומנהלה הראשון של החברה לתיירות "פלסטין אנד אורינט לויד'י בלונדון ועורך שבועון יהודי באנגלית <persName>וורלד-ז'ורי</persName> בעיר זו. (1928-1936), מרצה ומנהל תעמולה מטעם ההסתדרות הציונית בערי אנגליה (19291935), מנהל משרדי וחבר ההנהלה של "שמשון", חברה לתעשית מלט בתל-אביב (1936-1938), מיסדה ומנהלה של סוכנות בינלאומית לעתונות וספרות "מסילות" (1939- 1948).
+
+ עתונאי וסופר, אחד החברים הראשונים של "אגודת הסופרים העברים" בא"י, אחד מחברי המערכת הראשונים של העתון היומי "הארץ", תל-אביב, פרסם מאמרים רבים על בעיות מדיניות ובעיקר על בעיות הערבים והמזרח, וכן ספורים מחיי הארץ ותרגומים מהשירה הערבית החדשה בעתונים יומיים, שבועיים וחדשיים בארץ ובחו"ל ובעיקר בעתונים: "הארץ", "דאר היום", "הבוקר", "דבר", "העולם", "הדאר" בניויורק ועוד. יש בידו כתבי-יד שונים : ספורים, שירים ורומנים וכן תרגומים מהשירה הצרפתית. השתתף בתור עתונאי בכמה קונגרסים ציוניים וכן בכמה ועידות עולמיות. זכה לידידותם של אישים ידועים מכל החוגים בעניני הצבור ובעניני ספרות ואמנות.
+
+ חבר הועד הפועל של העדה הספרדית, חבר הועד הפועל הארצי וסגן היו"ר של "התאחדות בני הישוב" בת"א, יו"ר האגודה למען אמנות וספרות "אלאסף" וראש המועדון "אמנות" ועוד.
+
+
+ היה מנהל התעמולה הראשון של קרן-היסוד בארץ ואחד ממנהלי התעמולה הראשונים למען תוצרתהארץ. פעל הרבה לטובת האמנים, בימי המצוקה של מלחמת העולם השניה, וארגן נשפים רבים לספרות ואמנות.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1447 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1447</bibl><bibl>Volume: #3 ,Page: 1448 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1448</bibl>
+<bibl>Volume: #3 ,Page: 1449 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1449</bibl>
+<bibl>Volume: #3 ,Page: 1450 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1450</bibl>
+<bibl>Volume: #3 ,Page: 1451 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1451</bibl>
+<bibl>Volume: #3 ,Page: 1452 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1452</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

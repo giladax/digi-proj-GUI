@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 267 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/267</bibl><bibl>Volume: #1 ,Page: 268 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/268</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלכסנדר (סנדר) כהן</persName>
+
+</head>
+         <div><p> נולד בירושלים, בחודש אב תרל"א (1871), לאביו ר' <persName>דוד הכהן</persName> מוילנה (מחבר הספרים "סוכת דוד" על הלכות סוכה, "עיר דוד" על הלכות פסח, "עיר דוד" על תרי"ג מצוות, והצטיין בהמצאת "פרטים" של גימטריאות לתאריכי השנים ונקרא משום כך "בעל הפרטים") ולאמו רבקה נכדת ר' <persName>דוד ילין-טביא</persName> שעלה מלומזה (אבי אביו של הפרופ'<persName> דוד ילין</persName> ). למד אצל מלמדים פרטיים בירושלים, כדרך בני טובים, ואח"כ בישיבת "עץ חיים" מפי הרב <persName>משה נחמיה כהנוב</persName> והרב <persName>יהושע בצלאל </persName> ממאלטש.
+
+
+ בתרמ"ט יצא לארגנטינה והתישב במושבה "קרית משה" של חברת יק"א, שנקראה על שם<persName> סיר משה</persName> <persName>מונטיפיורי</persName> . לא יכול לשאת את יחס הפקידים לאברים ובתרנ"ה חזר ארצה. ישב כשנה ביפו ובתרנ"ו התישב בבאר טוביה, שנוסדה מחדש על-ידי "חובבי ציון" (אחרי שנוסדה בתרמ"ז ונעזבה מיושביה). עסק בחקלאות ואף פתח שם חנות מכולת. באותו
+
+ הזמן פרץ שם סכסוך גבולות עם הערבים, ואחד הערבים נהרג בתגרה. הוא הצליח, יחד עם האגרונום <persName>נתן קייזרמן</persName> שחש אל המקום, לחסל בשלום את הסכסוך הכללי בדבר הגבול האף את הריב המיוחד בגלל ההרוג.
+
+ למרות חיבתו לחקלאות הוכרח לעזוב את המקום בגלל חוסר מחיה, חזר בתרנ"ח ליפו ועבד בביתמסחרו של<persName> יחזקאל דנין,</persName> ואח"כ התבסס בחיי המסחר בעיר.
+
+ היה אחד מ-60 החברים הראשונים של "אחוזת בית" ואחד הראשונים בין בוני תל-אביב, ובנה את ביתו ברחוב יהודה הלוי. השתתף ביסוד "הלואה וחסכון" והמרכז המסחרי בתל-אביב.
+
+ היה אדם צנוע וירא-שמים ועסק בצרכי צבור בהצנע-לכת.
+
+ נפטר בתל-אביב, ד' אלול תש"ג. הניח שבעה בנים ובנות.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 267 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/267</bibl><bibl>Volume: #1 ,Page: 268 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/268</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

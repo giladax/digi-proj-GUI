@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2359 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2359</bibl><bibl>Volume: #5 ,Page: 2360 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2360</bibl>
+<bibl>Volume: #5 ,Page: 2361 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2361</bibl>
+<bibl>Volume: #5 ,Page: 2362 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2362</bibl>
+<bibl>Volume: #5 ,Page: 2363 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2363</bibl>
+<bibl>Volume: #5 ,Page: 2364 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2364</bibl>
+<bibl>Volume: #5 ,Page: 2365 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2365</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר תיאודור (טודרוס) זלוצ'יסטי</persName>
+
+</head>
+         <div><p> נולד בל' שבט תרל"ד (1874) בעיירה בורחסטרובה שליד דאנציג בפרוסיה המזרחית (אז בגרמניה) לאביו ר' <persName>זאב</persName> , שוחט מליטא שהיגר לגרמניה ושימש בעיירה זו בתור שו"ב ורב. ספג בבית אביו מסורת יהודית שרשית והיה קרוב בילדותו לשפה היהודית-אשכנזית הקרויה אידית ולהוי היהודי. גמר גימנסיה, למד באוניברסיטת ברלין וב-1900 הוסמך בה לד"ר לרפואה, ומאז פעל בתור רופא בברלין.
+
+ נשא לאשה את<persName> חולדה</persName> לבית טומשבסקי (ציר לקונגרס הציוני הראשון ב-1897 בבזל. בשנים 1903-07 היתה מזכירתו של<persName> ז. ד. ליבונטין</persName> , בהנהלת "חברת אנגליה פלשתינא בע"מ" (כיום, בנק לאומי לישראל בע"מ). תרגמה מאמרי<persName> משה הס </persName> מצרפתית. נפטרה בתל-אביב בשנת 1946).
+
+ עוד בהיותו סטודנט באוניברסיטה השתתף ביסוד אגודה ראשונה של סטודנטים יהודים על בסיס לאומי ב-1895 יחד עם כמה מעסקני הציונות ומנהיגיה לעתיד <persName>(היינריך לווה, שמריהו לוין</persName> , ליאו מוצקין ואחרים). הצטרף לתנועה הציונית המדינית בראשיתה והיה ציר בקונגרס הראשון ובכמה קונגרסים אחריו. ב-1913 ביקר בארץ. במלחמת העולם א' עמד בראש משלחת הצלב האדום הגרמני ובית-החולים הצבאי שלו באיסטנבול והשתמש בקשריו עם קציני המפקדה הגרמנית להשפיע על השלטון הצבאי הטורקי לריכוך פגיעותיו ביהודי ארץ-ישראל, וכן עזר בכל יכלתו לפליטים ולמגורשים מהארץ שנקלעו לאיסטנבול, וביחוד לאותם המגויסים מאונס שהצליחו להגיע לטיפול רפואי בעיר הבירה. סמוך לפרסום הצהרת-בלפור החליטו מעצמות המרכז להתחרות עם מעצמות הברית על האהדה של היהדות העולמית, ולשם כך הזמינו את הד"ר זלוצ'יסטי ועוד שני עסקנים ציונים מגרמניה למשרד החוץ הגרמני ושם נמסרה להם הצהרה על אהדת גרמניה ובעלות בריתה לשאיפות העם היהודי בארץ ישראל ("הצהרת בלפור"
+
+ הגרמנית), והד"ר זלוצ'יסטי נתבקש לעשות להצהרה זו פרסום רחב בעתונות העולמית. אך הציונים שמחוץ לגרמניה ואוסטריה העריכו יותר את סיכויי מעצמות הברית במלחמת העולם ואת הסיכוי לציונות מצדן. הפרסום לא נעשה ו"ההצהרה הציונית" הגרמנית עברה בלי הד בעולם.
+
+ בארכיונו מצא הד"ר יעקב וינשל את התעודות והמכתבים בקשר עם חיי "מרקו ברוך" - שחלם לכבוש את א''י עם צבא עברי. ראה את ספרו של וינשל "מרקו ברוך" - נביא מלחמת השחרור.
+
+ אחרי המלחמה חזר לברלין וב-1921 עלה ארצה, התישב בתל-אביב ובנה לו בית, נבחר לועד תל-אביב ואח"כ למועצת העיריה וגם להנהלתה. אחרי שנים אחדות עבר לחיפה והיה מראשוני המשתכנים ב"אחוזת שמואל" שעל הכרמל. בשתי הערים עסק ברפואה. ונמנה בין טובי הרופאים בארץ. עסק גם בעבודה רפואית צבורית : בתל-אביב ב"טפת חלב" ובחיפה כרופא בביתההבראה "כרמל" וכמפקח היגייני בחברת ספיניס.
+
+ חיבר שירים בגרמנית ופרסמם בשני ספרים: מן הדרך הביתה (1903), ליד שער הערב (1910). תרגם שירים מאידית לגרמנית, ביניהם משירי<persName> מוריס רזנפלד</persName> . ביחוד התמסר לחקר תולדותיו ועזבונו הספרותי של <persName>משה הס</persName> , ממבשרי הלאומיות היהודית והציונות בגרמניה. חיבר והוציא ספר תולדות הס בשתי מהדורות, מקיפה ומקוצרת (1905, 1920). המקוצרת יצאה גם בעברית בהוצאת "אמנות". כן הוציא "כתבים יהודיים" ו"מאמרים סוציאליסטיים של הס". בשנתו האחרונה שוב חיבר ספר על משה הס בשביל ספרית "שרשים" של מחלקת הנוער של ההסתדרות הציונית. אך לא זכה עוד לראות את הספר המודפס, כי 
+
+ נפטר בתל-אביב בכ"ז כסלו תש"ד (24.12.43) ונקבר בבית-העלמין הישן.
+
+ בתו: <persName>מרים</persName> .
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2359 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2359</bibl><bibl>Volume: #5 ,Page: 2360 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2360</bibl>
+<bibl>Volume: #5 ,Page: 2361 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2361</bibl>
+<bibl>Volume: #5 ,Page: 2362 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2362</bibl>
+<bibl>Volume: #5 ,Page: 2363 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2363</bibl>
+<bibl>Volume: #5 ,Page: 2364 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2364</bibl>
+<bibl>Volume: #5 ,Page: 2365 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2365</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

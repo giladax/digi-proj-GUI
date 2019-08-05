@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1931 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1931</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה קפלן</persName>
+
+</head>
+         <div><p> נולד בביאליסטוק, פולין (רוסיה הלבנה), בשנת תרס"ט (16.3.1909), לאביו <persName>גרשון</persName> (חזן ברוז'ינוי) ולאמו <persName>ציפה </persName> בת<persName> אברהם גליק.</persName>
+
+ למד בחדרים, בבי"ס עממי ותיכוני, ומוסיקה התחיל ללמוד מהמנצח <persName>ברמן.</persName> הצטרף ל"החלוץ הצעיר" וארגן והדריך בו מקהלה.
+
+ ב-1926 עלה לארץ והתחיל את הקאריירה שלו כפועל חקלאי בנס ציונה ובערבים התמסר לארגון מקהלה והדרכתה. פעם נזדמן שמה הקומפוזיטור יואל <persName>אנגל </persName> וראה אותו בעבודתו, והגיע למסקנה שבחור זה כדאי להשתלם במוסיקה לתועלת הרבים. בהמלצת אנגל נתקבל להמשכת לימודיו בביה"ס של הפרופ' דוד<persName> שור</persName> ומפי <persName>מנשה רבינא</persName> .
+
+ אחרי גמרו את לימודיו יסד את המקהלה המאוחדת של פועלי פתח תקוה, שהתאחרה אח"כ עם מקהלות מושבות השרון ונקראת מאז מקהלת השרון. העלה את המקהלה לרמה אמנותית גבוהה, לאחת מהמעולות בארץ בביצוע משירי הגולה והארץ, שירים אמנותיים ואוראטוריות - בפניי קהל, בתקליטים ובשידורים. שיתף את המקהלה בהופעות האורטוריה הארצישראלית ובביצוע החלק הקולי בסימפוניה התשיעית לבטהובן עם הפילהרמונית הישראלית וביובל העשור שלה, ועוד בהרבה הופעות שנחשבו כמאורעות מוסיקליים בארץ. ארגן להקת זמרים בשם "הניגון" לביצוע תכניות במוסיקה קלאסית וליטורגית בשיתרי ישראל. משמש מפקח ומדריך למקהלות מטעם המרכז לתרבות של הסתדרות העובדים הכללית ויועץ מוסיקאלי לחברת ההקלטה "מזמרת הארץ". היה מנצח ראשי של "מקהלת האלף" (הכינוס הגדול של המקהלות בעין חרוד). משמש גם כמנצחה של מקהלת האופרה הישראלית. במשך 12 שנים רצופות ניצח על מקהלת ביתהכנסת הגדול בפתח תקוה ליד החזן <persName>אברהם ביכובסקי</persName> ובתפילות-אורח של גדולי החזנים שביקרו בארץ <persName>(יוסף</persName> <persName>רוזנבלט, מרדכי הרשמן, משה קוסוביצקי</persName> ), ובמשך 4
+
+ שנים בבית-הכנסת הגדול בת"א ליד החזן <persName>יהושע דלין,</persName>
+
+ נשא לאשה את <persName>רחל </persName> בת<persName> א. קנטרוביץ </persName> (מותיקי המתישבים בפתח תקוה).
+
+ צאצאיו: <persName>אברהם, צפורה, יעל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1931 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1931</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

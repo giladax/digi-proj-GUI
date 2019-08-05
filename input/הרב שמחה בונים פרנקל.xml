@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4008 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4008</bibl><bibl>Volume: #12 ,Page: 4009 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4009</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שמחה בונים פרנקל</persName>
+
+</head>
+         <div><p> נולד בורטה מחוז לודז (פולין) בשנת תרל"א (1871).
+
+ לאביו ר'<persName> שמעון זאב</persName> (מצאצאי ר' <persName>שמחה בונים</persName> מפשיסחה) ולאמו <persName>חנה</persName> לבית<persName> קירשטיין.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה.
+
+ עסק כחרשתן במוצרי ניר וקרטון.
+
+ היה חבר פעיל בארגונים דתיים בעירו.
+
+ בשנת 1895 נשא לאשה את <persName>הדסה</persName> בת<persName> יצחק שרגא</persName> (נפטרה בתל-אביב, ח' סיון תשי"ט).
+
+ בשנת 1933 עלה לארץ.
+
+ בשנת 1936 עבר לרמת-גן.
+
+ הקים בית חרושת במוצרי ניר וקרטון.
+
+ בנה בית והקדיש חדר לתפילה ולתורה.
+
+ ממיסדי בית הכנסת "עץ חיים" ברמת-גן.
+
+ היה מקורב לחסידי אישינוב.
+
+ נפטר בתל-אביב, כ''ג שבט תש"ד (17.2.44) והובא לקבורה בהר הזיתים בירושלים.
+
+ צאצאיו : <persName>צבי אריה</persName> ז"ל,<persName> גיטל</persName> (גניה) אשת<persName> שאול המר </persName> (שניהם הושמדו בתאי הגזים יחד עם בניהם <persName>-יחזקאל</persName> <persName>וישראל), אשר</persName> (ראה כרך ה', עמוד 2368), <persName>שמעון זאב</persName> (ורעיתו - הושמדו ע"י הנאצים).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4008 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4008</bibl><bibl>Volume: #12 ,Page: 4009 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4009</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

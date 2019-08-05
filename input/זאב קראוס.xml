@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3490 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3490</bibl><bibl>Volume: #10 ,Page: 3491 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3491</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זאב קראוס</persName>
+
+</head>
+         <div><p> נולד בשנת תרנ"ב (29.6.1892) בכפר ג'ולוש שבטרנסילבניה (אז הונגריה ואח"כ רומניה).
+
+ לאביו <persName>מרדכי </persName> (בעל משק חקלאי גדול) ולאמו<persName> פרחיה</persName> בת <persName>אהרן פורקוש</persName> (בעל אחוזה, חניך ישיבות וידען גדול בתורה).
+
+ קיבל חינוך יהודי מסורתי וגמר בית-ספר תיכון ובית-ספר גבוה לחקלאות. אחרי ארבע שנות שרות בצבא בדרגת קצין במלחמת העולם הראשונה השתמש בידיעותיו בניהול משק אביו והיה פעיל בתנועה הציונית שקמה בטרנסילבניה.
+
+ ב-1923 נשא לאשה את<persName> זהבה</persName> בת<persName> זאב ופרל שארפ</persName> <persName>שטיין</persName> (מגדולי הסוחרים בטרנסילבניה).
+
+ ב-1925 עלה לארץ וכונן משק חקלאי בכפר-אתא. אחרי מאורעות תרפ"ט יסד את המשק החקלאי הממוכן הראשון בארץ על אדמת הקה"ק בעמק זבולון והביא לארץ את הקומביין הראשון.
+
+ ב-1932 התנחל בחדרה, נטע פרדסים ופיתח ענפימשק שונים, ביניהם גידול סייפנים (גלאדיולות) בממדים נרחבים לשם יצוא (בעיקר לאנגליה), ובכל חידושיו ושכלוליו שימש סולל-דרך ומורה-דרך לרבים שהלכו בעקבותיו.
+
+ פעיל גם בעניני צבור כחבר הסתדרות החקלאים בחדרה והתאחדות האכרים, סגן נשיא לשכת "השרון'' של בני ברית בחדרה ואח בלשכות הבנאים החפשים "קדימה" בחדרה ו"לבנון" בחיפה.
+
+ צאצאיו:<persName> עדה </persName> אשת<persName> יהודה (לאיוש) פרידמן </persName> (מבעלי בית-החרושת ש. פרידמן ושות', ירושלים), <persName>עמוס</persName> (לומד כעת חקלאות באוניברסיטה בארה"ב).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3490 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3490</bibl><bibl>Volume: #10 ,Page: 3491 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3491</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

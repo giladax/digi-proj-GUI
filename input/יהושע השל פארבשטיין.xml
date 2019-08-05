@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 255 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/255</bibl><bibl>Volume: #1 ,Page: 256 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/256</bibl>
+<bibl>Volume: #1 ,Page: 257 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/257</bibl>
+<bibl>Volume: #1 ,Page: 258 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/258</bibl>
+<bibl>Volume: #1 ,Page: 259 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/259</bibl>
+<bibl>Volume: #1 ,Page: 260 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/260</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהושע השל פארבשטיין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ווארשה</placeName> 20.2.1870, לאביו ר' <persName>שמואל זאב</persName> , בן-תורה וסוחר אמיד ממשפחה מיוחסת ב<placeName>ווארשה</placeName>, ולאמו<persName> גננזיל עלקא</persName> מגזע רבנים וגאונים ופרנסים (לפי ספר היוחסין של משפחתה היא מצאצאי<persName> ר' שאול</persName> <persName>וואהל</persName> מלך פולין, רש"י, גאונים ואמוראים בבבל, תנאים, ולמעלה עד דוד המלך). למד ב"חדר" ובביתמדרש ולימודי-חול בבית-הספר של <persName>דיקשטיין </persName> ואח"כ
+
+ גמר את בית-הספר הגבוה למסחר מיסודו של <persName>קרוננברג</persName> .
+
+ בעודו סטודנט ארגן חוג של חובבי ציון, ואח"כ היה לעסקן פעיל בין חובבי ציון ונתן מחילו לציונות המדינית מראשיתה. השתתף בקונגרסים הציוניים החל מהראשון. השתתף במשלחת שדרשה מהרצל בימי הקונגרס הראשון יחס חיובי של ההסתדרות הציונית כלפי הדת. היה נשיא ההסתדרות הציונית בפולין בשנות 1908-15 השתתף ביסוד "המזרחי" והיה עסקן פעיל בו מראשיתו. בתקופת מלחמת-העולם הראשונה כבר היה מנכבדי וארשה כאיש-עסקים גדול ועסקן צבורי. היה חבר עירית וארשה משנת 1916 במשך 10 שנים, ובזמן מלחמת-העולם הראשונה נסע בשליחות עירית וארשה לשווייץ ולדניה בדבר סידורים להשיג אספקת-מזון לתושבי העיר ולהסיר במו"מ דיפלומטי את המעצורים בגלל ההסגר על ארצות-האויב (ואושה היתה אז כלולה בשטח הכיבוש הגרמני) והצליח בשליחותו תודות לקשריו עם אישים רמי-מעלה בעולם הגדול, ואף הצליח להבטיח שלא יקופח חלקם של יהודי וארשה במזון שהשיג. כן פעל רבות לעזרת היהודים הפליטים והמגורשים מערי השדה במלחמה וניהל את
+
+ חלוקת הסיוע של הג'וינט בפולין בזמן המלחמה ולאחריה. לקח חלק פעיל מאד בחיים הצבוריים והלאומיים בתקופה שאחרי המלחמה, כשגדלו אפשרויות הפעולה בפולין העצמאית. היה במשך כמה שנים יו"ר אגודת הסוחרים היהודים בפולין. נשיא "המזרחי" בפולין משנת תרע"ח ואילך, ציר הסיים הפולני משנת 1919, חבר הועד הפועל הציוני וסגן נשיאו משנת תר"פ, חבר המרכז העולמי של המזרחי משנת תרפ"א עד תרצ"ה, נשיא קרן היסוד בפולין משנת תרפ"ז, נשיא קהלת וארשה (הקהלת הדמוקרטית הראשונה, מעת שהמוני העם השיגו את הזכות לבחור בפרנסים הנאמנים עליהם) משנת תרפ"ו, מיסד ביהמ"ד לרבנים "תחכמוני" ונשיא הועד המנהל שלו. כציר הסיים ועסקן צבורי נלחם לטובת מעמד היהודים בפולין בכלל ולטובת זקוקים לעזרה ולהגנה מפני גזירות וקיפוחים בפרט. בהשתדלותו נתנה ממשלת פולין בשעתה הקלות לתיירים בעלי-הון, שנסעו לארץישראל על מנת להשתקע בה, אם ימצאו את התנאים מתאימים להם, ונלחם בהצלחה נגד הפרעות מצד חוגים ציוניים רשמיים לרסן עליה "בלתי מאורגנת" זו, ותודות לכך נתעשר הישוב באנשים בעלי יזמה ואלפי יהודים נצלו, הם ורכושם, מנפול בידי האויב. כן יזם ליסד חברת-בת לחברת "לויד טריאסטינו" שתטפל במיוחד בהסעת עולים לארץ בסידורים מתאימים לצרכי היהודים ולהפקת טובת-הנאה ללאום מהעסק, אך מאמציו אלה הוכשלו.
+
+ בשנת תרצ"א נבחר לחבר הנהלת הסוכנות היהודית לארץ-ישראל ועלה ארצה עם משפחתו. כאן היה במשך שנתיים מנהל מחלקת המסחר והתעשיה של הנהלת הסוכנות ויחד עם <persName>עמנואל ניומן</persName> חתם עם האמיר עבדאללה על הסכם בדבר החכרת שטחים גדולים בעבר-הירדן להתישבות יהודית, אך "הפוליטיקה הגבוהה" של ההתנגדות הרשמית הגלויה-למחצה למפעל הציוני הכשילה את ההסכם.
+
+ אחרי צאתו מהנהלת הסוכנות התמסר להבראת המצב הכספי והכללי של בית-החולים "ביקור חולים", כיהן במשך שנים אחדות כראש קהלת ירושלים ושיפר את הסדרים בה ובשנת תש"ה נבחר פה אחד לנשיא הכבוד של קהלת ירושלים. משתתף במוסדות צבוריים שונים, פעיל כיו"ר ועד ההנהלה של בנק המזרחי מראשיתו ועד עתה. ובזמן האחרון פתח ביזמה לארגון ארכיון הקהלות הגדולות שבאירופה על-יד קהלת ירושלים.
+
+ למלאות לו 75 שנד. החליטו מוקיריו להקים מפעל לכבודו לפי בחירתו, והוא הציע שהמפעל יהיה בתי דירות בתנאים נוחים בעיר העתיקה לטובת יהודים תלמידי-חכמים ושומרי-תורה. לכבודו הופיע קבץ "עסקן למופת".
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 255 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/255</bibl><bibl>Volume: #1 ,Page: 256 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/256</bibl>
+<bibl>Volume: #1 ,Page: 257 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/257</bibl>
+<bibl>Volume: #1 ,Page: 258 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/258</bibl>
+<bibl>Volume: #1 ,Page: 259 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/259</bibl>
+<bibl>Volume: #1 ,Page: 260 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/260</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

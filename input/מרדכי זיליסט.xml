@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2234 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2234</bibl><bibl>Volume: #5 ,Page: 2235 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2235</bibl>
+<bibl>Volume: #5 ,Page: 2236 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2236</bibl>
+<bibl>Volume: #5 ,Page: 2237 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2237</bibl>
+<bibl>Volume: #5 ,Page: 2238 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2238</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי זיליסט</persName>
+
+</head>
+         <div><p> נולד בי"ח ניסן תרנ"ז (26.4.1897) בז'יטומיר שבאוקראינה לאביו <persName>דב-בר </persName> (למדן, סוחר, ציוני ותיק, למד את התנ"ך ביחד עם ידידו<persName> ביאליק</persName> , וידע אותו בעל פה) ולאמו <persName>טניה </persName> בת <persName>אשר שליפושניק.</persName> למד בחדר פשוט ואח"כ ב"חדר מתוקן" של הציונים, בו למד עברית מפי <persName>יעקב</persName> <persName>קאפלאן</persName> שהוציא את הספר "כנור ציון". למד בגימנסיה ממשלתית רוסית והוא <persName>ודוד ליבשיץ</persName> (ממנהיגי מפ''ם לשעבר) היו שני התלמידים היהודים בין 60 נוצרים. למד באוניברסיטת קיוב תחילה רפואה ואח"כ משפטים ובסוף
+
+ במכון הגבוה למסחר וכלכלה וגמר אותו, ובשנות לימודיו התפרנס ממתן שיעורים בעברית.
+
+ בלמדו במחלקה ו' של הגימנסיה השתתף ביסוד קבוצת "צעירי ציון" לתלמידי בתיה"ס התיכוניים. ב-1916 היה סגן יו"ר של סניף "החבר" בקיוב. ב-1917 הצטרף עם קבוצת "צעירי ציון" להסתדרות "דרור" והיה בה חבר המרכז. בארגונים הללו ארגן שיעורי ערב לעברית לחברים, שרבים מהם חיים כיום בארץ. היה ציר לועידה הציונית בקיוב ולועידה הציונית הכל-רוסית בפטרוגראד. בשנות המלחמה היה חבר ועד העזרה לפליטים ואח"כ מראשי ארגון-העזרה "יעקופו" לפלך ווהלין. עסק בארגון ההגנה העצמית היהודית בז'יטומיר ובימי פטליורה עמד עם <persName>נחמן ליוברסקי </persName> (אח"כ גנרל בצבא האדום) ועם<persName> נתן</persName> <persName>כץ </persName> (כעת באמריקה) בראש "הרזרבה של המיליציה" שהי
+
+ תה מורכבת כולה מיהודים ומילאה תפקיד מכריע בהגנה על חיי היהודים ורכושם.
+
+ ב-1922 נשא לאשה את<persName> טניה</persName> בת <persName>פנחס טרויאן</persName> .
+
+ עבד בפקידות סוביטית והמשיך בפעולה ציונית במחתרת ביחד עם אחיו הצעיר<persName> פנחס</persName> (שנאסר ב"אשמה'' זו ב-1927, גורש לאוראל הצפוני ומ-1938 נעלמו עקבותיו) וגיסו<persName> יעקב גראפמאן</persName> .
+
+ ב-1926 נאסר במוסקבה ביחד עם ציונים אחרים (ביניהם<persName> שמחה סברדלו</persName> <persName>ב, יצחק רבינוביץ, ד"ר אריה אלוטין</persName> , <persName>גבריאל גברמן, יצחק נורמן</persName> , שעלו אח"כ ארצה), ישב ב"לוביאנקה" וגורש לאוראל הצפוני עם<persName> מרדכי ויניצקי</persName> <persName>וחוה כהן</persName> ואשתו נלותה אליו מרצון. אחרי חדשים אחדים שוחרר בתנאי שיעזוב את רוסיה לצמיתות ובנובמבר 1926 עלה ארצה עם אשתו.
+
+ התחיל בתור פועל פשוט ב"עבודות סיוע" (עקירת יבלית) בשכונת בורוכוב. יסד קבוצת "חזיז" לסלילת כבישים ועבודות צבוריות, עבד בסלילת הכביש מואדי מוסררה לפתח-תקוה, בהקמת לולים ורפתות בכפר חסידים (ביחד עם <persName>זלמן ארן-אהרונוביץ, משה טסמן ואריה</persName> <persName>אופיר)</persName> ובסלילת כבישים בתל-אביב. בסוף 1928 נבחר כחבר למועצת פועלי ת"א ויפו, עבד כמזכיר אגודות מקצועיות, מזכיר ועדת הקואופרציה וועדת השיכון, ניהל את לשכת העבודה של מ. פ. ת"א. היה ציר בכמה ועידות ההסתדרות ונבחר כחבר למועצת ההסתדרות. מאז
+
+
+ בואו ארצה היה חבר במפלגת "אחדות העבודה" וציר בועידותיה ומאז איחוד המפלגות המשיך בכך במפא''י והיה כמה פעמים חבר ועד סניף ת''א של המפלגה.
+
+ ב-1934 נתמנה למנהל "המשרד לביטוח כללי של העובדים ונכסיהם", ב-1936 למזכיר כללי של חברת הביטוח "הסנה" וחבר ההנהלה, ואחרי פטירת המנהל הכללי ד''ר<persName> צבי לופט</persName> נתמנה הוא במקומו. היה פעיל באיגוד הארצישראלי של חברות הביטוח ושימש במשך שנים כיושב-ראשו, ומשנוסד האיגוד הישראלי של חברות הביטוח אחרי קום המדינה נבחר ליושב-ראשו הראשון. ביקר כמה פעמים בחו"ל לקשירת קשרים עם חברות ביטוח. השתתף בועידת הקונגרס הקואופרטיבי בפראג. ב-1948 נתמנה מטעם משרד האוצר למיעץ למפקח על הביטוח ולחבר למועצת הביטוח.
+
+ מאז 1933 הנו פעיל בהתאגדות "הפועל" וחבר מזכירותה הארצית. מתענין במיוחד בפעולה הימית ב"הפועל" ובאגודות אחרות. ב-1948 נסע עם קבוצת כדורגל של "הפועל'' לארה''ב. ממיסדיה וחבריה של הועדה המרכזית להכשרה והדרכה ימית בהנהלת הסוכנות היהודית. ממיסדי החבל הימי לישראל, חבר נשיאותו ובשנים האחרונות סגן יושב-ראשו. מ-1949 חבר הנהלת חברת השיט "צים''.
+
+ צאצאיו:<persName> עמוס</persName> (חבר קיבוץ מעין ברוך), <persName>אילנה</persName> .
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בת''א, י"ט אדר ב' תשכ"ב (2.5.62) (ראה כרך ה', עמוד 2237)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2234 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2234</bibl><bibl>Volume: #5 ,Page: 2235 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2235</bibl>
+<bibl>Volume: #5 ,Page: 2236 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2236</bibl>
+<bibl>Volume: #5 ,Page: 2237 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2237</bibl>
+<bibl>Volume: #5 ,Page: 2238 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2238</bibl>
+            <bibl>Volume: #12 ,Page: 4122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4122</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

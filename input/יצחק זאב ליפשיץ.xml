@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3596 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3596</bibl><bibl>Volume: #10 ,Page: 3597 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3597</bibl>
+<bibl>Volume: #10 ,Page: 3598 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3598</bibl>
+<bibl>Volume: #10 ,Page: 3599 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3599</bibl>
+<bibl>Volume: #10 ,Page: 3600 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3600</bibl>
+<bibl>Volume: #10 ,Page: 3601 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3601</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק זאב ליפשיץ</persName>
+
+</head>
+         <div><p> נולד בירושלים, די סיון תרנ"ב (2.5.1892).
+
+ לאביו <persName>אברהם הרץ ליפשיץ</persName> (בן דודו של הרב ר' <persName>נפתלי הרץ הלוי,</persName> רבה האשכנזי הראשון של יפו. ראה כרך א', עמוד 102) ולאמו<persName> חיה רחל</persName> בת<persName> זאב בינקלר</persName> (אשר סיפק הלבשה למושלים התורכים בירושלים בימים ההם).
+
+ קיבל חינוך מסורתי וכללי. למד שפות שונות.
+
+ היה בקשרים עם "ועד חובבי ציון" ביפו בהנהלת <persName>מ. שינקין.</persName> אח"כ עם הסוכנות היהודית, בהורדת עולים בלתי ליגליים ביפו (1910-1914).
+
+ בשנת תרס"ט (1909) נשא לאשה את<persName> פסיה</persName> בת <persName>צבי גולדברג </persName> (ממשפחת רבנים וראשי ישיבה בהונגריה וצ'כוסלובקיה).
+
+ מראשוני ופעילי אגודת אחוה ביפו-תל-אביב.
+
+ מראשוני בעלי בית מלון ביפו.
+
+ ניהל את הסניף של חברת האניות הצרפתיות "פאבר-ליין" בתל-אביב.
+
+ מראשוני עמילי-מכס ביפו-תל-אביב.
+
+ היה ממייסדי חברת "חברה חדשה" בהנהלתו של <persName>מ. שינקין.</persName>
+
+ ביום, פקיד בועד הקהלה ביפו-תל-אביב.
+
+ צאצאיו:<persName> יעקב, מלכה</persName> אשת <persName>גלילי, הרצליה</persName> אשת <persName>ליבר.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3596 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3596</bibl><bibl>Volume: #10 ,Page: 3597 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3597</bibl>
+<bibl>Volume: #10 ,Page: 3598 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3598</bibl>
+<bibl>Volume: #10 ,Page: 3599 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3599</bibl>
+<bibl>Volume: #10 ,Page: 3600 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3600</bibl>
+<bibl>Volume: #10 ,Page: 3601 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3601</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

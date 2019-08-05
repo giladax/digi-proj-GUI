@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4013 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4013</bibl><bibl>Volume: #12 ,Page: 4014 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4014</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יוסף משה שטרית</persName>
+
+</head>
+         <div><p> נולד בטבריה, י"א תשרי תרס''ט (6.10.1908). לאביו הרב <persName>מכלוף שטרית</persName> (דיין במשרד הרבנות בטבריה. נשיא כוללות רמב''ה במשך 40 שנה) ולאמו <persName>מרים</persName> בת <persName>מסעוד דהאן.</persName>
+
+ קיבל חינוך מסורתי בתלמוד תורה הכללי, בישיבות ובישיבת רבי מאיר בעל הנס בטבריה.
+
+ הוסמך לרב ע"י הרבנות בטבריה והרבנות הראשית לישראל.
+
+ בשנת תרצ"ד (1934) נשא לאשה את <persName>מסעודה</persName> בת הרב <persName>אהליאב אוחנה.</persName>
+
+ היה הממונה הראשי על הפרשת תרומות ומעשרות, כשרות ועירובין. ר"מ לתלמוד בישיבה בטבריה.
+
+ היה חבר במועצה הדתית, ממייסדי ארגון "המאור", לימוד והרצאות תורניות בראשותו של הרב <persName>יעקב מ.</persName> <persName>טולידאנו </persName> זצ''ל בטבריה.
+
+ למעלה מ-20 שנה ניהל את בית הכנסת "מימוניה" שע''י קבר הרמב"ם, היה רב בית הכנסת וביהמ"ד "אוהל יעקב ולאה" בקרית-שמואל בטבריה.
+
+ כיום, חבר מועצת עירית טבריה, חבר בועדת הפטור לשכת הגיוס המחוזית של טבריה במשרד הבטחון, חבר ועדת בקורת של הת"ק, חבר ועד החינוך הממ"ד ותיכון דתי, אחד משלושת האפוטרופסים החוקיים שנתמנו לפי צוואתו של הרה''ג<persName> יעקב חי זריהן</persName> זצ"ל על בית מדרשי "אוהל יעקב ולאה" בקרית שמואל בטבריה. סגן חבר המרכז של הפועל המזרחי, וציר בועדת היסוד של המפד"ל.
+
+ כתב מאמרים ב"הצופה". ברשותו כתב יד בחידושי תורה ודרשות וכן כתב יד - שאלות ותשובות בהלכה.
+
+ היה חבר ההגנה, בצהל (מלואים).
+
+ כיום, המזכיר הראשי בבית הדין הרבני בטבריה.
+
+ צאצאיו : <persName>עמנואל, מאיר יגאל, אבינועם, גד מכלוף,</persName> <persName>שולמית, רות, יעקב חי ירון.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4013 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4013</bibl><bibl>Volume: #12 ,Page: 4014 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4014</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

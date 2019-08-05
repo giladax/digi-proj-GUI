@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3103 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3103</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם קליר</persName>
+
+</head>
+         <div><p> נולד ברדאוץ, בוקובינה (רומניה), י"ג תמוז תרס"ג (8.7.1903).
+
+ לאביו <persName>ישראל </persName> ולאמו<persName> טויבה</persName> (יונה) בת<persName> מנדל יצחק</persName> <persName>רוזנשטריך.</persName>
+
+ קבל חנוך בגימנסיה קלסית (הומניסטית) ברדאוץ עיר הולדתו, באוניברסיטה בטולוז (צרפת) וקיבל תואר - מהנדס חימאי.
+
+ נשא לאשה את<persName> נעומה </persName> בת <persName>שמעון הלברכט.</persName> היה מנהל מפעלי צביעה בצרנוביץ, בוקובינה (רומניה).
+
+ בשנת 1934 עלה לארץ (ביקור ראשון בשנת 1932),
+
+ בשנת בקורו בארץ 1932 יסד יחד עם מר <persName>סם זקס</persName> (ראה כרך א', עמוד 202). את בית החרשת מצבעה "ארגמן" ברמת-גן.
+
+ חבר המפלגה הפרוגרסיבית בישראל.
+
+ חבר מועצת עירית רמת גן (1952-53) מטעם המפלגה הפרוגרסיבית.
+
+ חבר הועד של אגודת שוחרי האוניברסיטה העברית בירושלים.
+
+ חבר נשיאות התאחדות בעלי התעשיה בישראל.
+
+ היה מנהל מחלקת הטקסטיל, התעשיה הקלה (1953). חבר הועד הצבורי למען "שורת המתנדבים''. היה חבר במנהלת חברת האשלג (1955).
+
+ מנהל ומיסד בית החרשת "ארגמן", מפעלים לצביעת טקסטיל בע"מ, בני-ברק.
+
+ בניו: <persName>צבי </persName> ז"ל (נפל בשורות הפלמית בקרב אשדוד 3.6.1948), <persName>שמעון</persName> (סגן משנה בצ.ה.ל.).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3103 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3103</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

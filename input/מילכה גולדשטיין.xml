@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4357 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4357</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מילכה גולדשטיין</persName>
+
+</head>
+         <div><p> (המשך כרך י"א, עמוד 3849, בערך של בעלה המנוח ר' <persName>משה מנחם גולדשטיין</persName> ז"ל)
+
+ נפטרה בגבעתים, כ"ח אב תשכ"ג (18.8.63) והובאה לקבורה בבית הקברות בנחלת יצחק.
+
+ צאצאיה:<persName> שלמה</persName> (כרך י"ב, עמוד 4086), <persName>אהרן</persName> (כרך י"ב, עמוד 4034),<persName> נחמה </persName> ז"ל,<persName> ציונה, חינה</persName> ז"ל, <persName>זלישה</persName> ז"ל, <persName>נפתלי, מאיר</persName> ז"ל.
+
+ בשכונת בורוכוב קראו לה: האם והסבתא של השכונה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4357 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4357</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

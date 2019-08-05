@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5661 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5661</bibl><bibl>Volume: #19 ,Page: 5663 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5663</bibl>
+<bibl>Volume: #19 ,Page: 5664 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5664</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנדל זינגר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ברודי</placeName> (גליציה האוסטרית) בי"ב תמוז תר"ן (30.6.1890).
+
+ לאביו <persName>יעקב מרדכי</persName> (מוידל)<persName> זינגר </persName> ולאמו <persName>חיה פיי</persName> <persName>גה</persName> לבית<persName> נוימן</persName> .
+
+ בילדותו נתחנך חינוך מסורתי, וכן למד לימודים כלליים אצל מורים פרטיים.
+
+ בגיל צעיר (בן 17) הצטרף לחוג הנוער של תנועת "פועלי ציון" שהיתה פעילה מאד בימים ההם בגליציה.
+
+ היה חבר האירגון "פועלים חלוצים" והשתתף בחיבור עיקרו של הכרוז שקרא לנוער לעלות לארץישראל, בחתימתו של<persName> משה אוקין</persName> , והוא עצמו היה בין הראשונים שנענו לקריאה זו.
+
+ עלה לארץ בשנת תרס"ט (1909). באותה אניה עלה לארץ גם הסופר <persName>יוסף -חיים ברנר</persName> , הי"ד, שגר כידוע כמה שנים כפליט מרוסיה - בגליציה.
+
+ השתקע בירושלים ולמד שנתיים בבית-המדרש למורים מיסודו של הברת "עזרה" (חבריו לספסל
+
+ הלימודים היו אישים ידועים שנתפרסמו אחר-כך כמורים וסופרים:<persName> יהודה בורלא, דוב קמחי, יצחק</persName> <persName>יציב, אביעזר ילין, וולמן,</persName> ועוד).
+
+ לאחר שתי שנות שהותו בארץ, חזר לווינה, מטעמים משפחתיים ובריאותיים, ונשאר שם, עד שנת 1934.
+
+ בכל שנות מגוריו בווינה, היה פעיל בתנועת "פועלי ציון" ובין עורכי עתונותה ביידיש וכן עסק בעתונות ובמו"לות. פירסם בעתונות אידיש ויהודיתגרמנית מאמרים פובליציסטיים רבים.
+
+ אחרי מלחמת העולם הראשונה היה בין מקימי הוצאת הספרים ביידיש בווינה, שהוציאה מבחר כתביהם של סופרי יידיש שמתו בשנות המלחמה.
+
+ בשנת 1934 נאסר בזמן ההפיכה הימנית הפשיסטית באוסטריה, ולאחר שחרורו עלה לארץ בשלהי תרצ"ד (1934).
+
+ הפעם השתקע בחיפה, ובשנים 1955-1935 היה סופרו הקבוע של "דבר" בחיפה.
+
+ פירסם מאות כתבות ומאמרים על חיי העיר, אף השתתף בחיים הציבוריים של העיר כחבר ועדות עירוניות ועוד.
+
+ מאז עלותו לארץ, פירסם מלבד מאמרים על נושאים אקטואליים - דברי מחקר על תולדותיה של תנועת הפועלים היהודית, וכן ספרים וקונטרסים על אישים ועל מאורעות ביידיש ובגרמנית. ערך גם ספרי זכרון לקהילות-ישראל שנכחדו בשנות השואה במזרח-אירופה.
+
+ נשא לאשה את <persName>טונקה בת מאיר הירש</persName> מויזניץ ולאמה <persName>צילה</persName> לבית <persName>ברוצ'ינר</persName> מברודי, ובזיווג שני נשא לאשה את <persName>מריה</persName> (מניה) בת <persName>אריה וילנר</persName> ולאמה <persName>צילה ארליך.</persName>
+
+ מן הספרים שפירסם: "לאן מועדות פני רוסיה הסובייטית" (תרצ"ט - 1939); "לזכר חללי יערות הכרמל" (תרצ"ט - 1939); "בין מלחמה ושלום" (מחשבות ומעשים בימים טרופים, תש"א - 1941); "פליטי הטרף הנאצי מספרים" (תש"ג - 1943); "נסיון שנכשל" (פרק מאורעות באוסטריה בסוף מלחמת-העולם הראשונה, תש"ד - 1944); "על האהבה" (לקט שירי-עם יהודיים, במקורם באידיש ובתרגום עברי של <persName>ש. מלצר.</persName> הוצאת מ. זינגר, תש"א - 1941); "בראשית הציונות הסוציאליסטית" (תשי"ח - 1958; ערך את הקובץ לזכרו של <persName>דוד</persName> <persName>פינסקי</persName> , תש"ך וספר הזכרון לקהילות ברסטצ'קה, ברמליה והסביבה; "היתה עיירה" (תשכ"א); "215 יום ששינו פני מולדתנו" (מעין יומן של מאבקי גבורה, שקדמו למלחמת-השיחרור ונמשכו מיד לאחר הכרזת המדינה, ועד לשביתת הנשק עם המדינות השכנות, הוצאת אגודת העתונאים בחיפה, בשיתוף עם המחלקה לתרבות והחינוך ליד מועצת פועלי חיפה, תשי"א - 1951).
+
+ פירסם כמה מסות בקבצי "כרמלית", היוצאים לאור בהוצאת עיריית חיפה.
+
+
+ בין השאר פירסם מאמר חשוב על המשורר הנודע באידיש <persName>מוריס רוזנפלד,</persName> במלאות 100 שנה להולדתו.
+
+ בנו מאשתו הראשונה: <persName>אורי זמרי</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5661 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5661</bibl><bibl>Volume: #19 ,Page: 5663 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5663</bibl>
+<bibl>Volume: #19 ,Page: 5664 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5664</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

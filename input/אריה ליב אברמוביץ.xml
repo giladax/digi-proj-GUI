@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4004 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4004</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה ליב אברמוביץ</persName>
+
+</head>
+         <div><p> נולד בראשון לציון, בשנת תרנ''ד (1894).
+
+ לאביו <persName>צבי גרשון</persName> ולאמו <persName>בתיה.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ בעודו נער נחלץ אל עבודת המשק ונתן הרבה משלו לביסוס משק המשפחה והרחבתו.
+
+ נשא לאשה את<persName> לאה</persName> בת ר'<persName> יעקב מרדכי זינגר</persName> (ראה כרך ב', עמוד 597).
+
+ היה מפעילי צעירי מושבתו ופעיל בהגנתה.
+
+ כשנשתחררה הארץ מידי התורכים היה הספק הראשי של הצבא הבריטי ובתום מלחמת העולם הראשונה והשניה, קנה כמויות עצומות של סחורות מהמכירות הכלליות של הצבא הבריטי.
+
+ גאל מהערבים שטחי קרקע שונים, בעיקר בצפון תל-אביב.
+
+ נפטר בלונדון,כ' שבט תש"ט (19.2.1949), והובא לקבורה בראשון לציון, א' ניסן תש''ט (31.3.49).
+
+ צאצאיו:<persName> צבי, רות</persName> אשת<persName> אלברט ויתוני.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4004 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4004</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

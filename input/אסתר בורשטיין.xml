@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5630 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5630</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אסתר בורשטיין</persName>
+
+</head>
+         <div><p> נולדה בדינק (רוסיה), בט"ו כסלו תרס"ג (15.12.1902).
+
+ לאביה <persName>שלמה חיים בורשטיין</persName> (ראה את הערך שלו בכרך זה) ולאמה <persName>שרה</persName> בת <persName>ישעיהו וינר.</persName>
+
+ קיבלה חינוך כללי בגימנסיה ברוסיה, למדה נגינה בפסנתר והפסיקה בימי המהפכה ברוסיה. שרה במקהלה וסולו.
+
+ עבדה בבית מרקחת, בציור, כתיבה ומלאכת מחשבת.
+
+ היתה פעילה למען הקק"ל ועוד.
+
+ בשנת 1932 עלתה לארץ.
+
+ עבדה בתור מורה, מטפלת, פקידה בכרטיסי מזון, בבתי חרושת לעץ (פוליטורה), בבית חרושת לסוללות לפנסים, שטיפת כלים במסעדה, כפועלת בפרדס, עבדה הרבה במלאכת מחשבת עבור החנות של ויצ"ו ומפעלים פרטיים.
+
+ כתבה לפעמים בעניינים שונים (כמו "ילד שטעה בגלל זה שאיימו לזרוק אותו החוצה" ועוד).
+
+ כתבה בשפות אידיש ורוסית.
+
+ מקדישה זמן לא מועט שלא על מנת לקבל פרס לעזרת נזקקים, הן באופן חומרי והן בחינוך.
+
+ היתה פעילה בהקמת "נחת" (נימוס, חינוך, תיאום בחינוך ובנימוסין ע"י בתי-הספר. הורים וטלוויזיה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5630 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5630</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

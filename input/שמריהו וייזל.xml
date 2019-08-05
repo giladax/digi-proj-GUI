@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2499 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2499</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמריהו וייזל</persName>
+
+</head>
+         <div><p> לאביו<persName> ברוך</persName> ולאמו <persName>שיינדול</persName> בת <persName>שמריהו הרצנשטיין.</persName>
+
+ נולד ב<placeName>אלכסנדריה</placeName> (מצרים) בשנת תרנ''ט (5.8.1899).
+
+ השכלה : בית ספר עממי "כל ישראל חברים'', בית ספר תיכוני "ליסע פרנסיי" בקהיר ובגלזגו (אנגליה) .School of Acountancy
+
+ ממיסדי הסתדרות המכבי בקהיר, נציג קרן קימת לישראל במצרים (1919-20). פעיל במוסדות צבור שונים.
+
+ בשנת 1921 עלה לארץ.
+
+ נכנס לשירות הממשלה בשנת 1921, מנהל חשבונות אחראי (סניור) במשרד החשב הכללי (1945-48).
+
+ נשא לאשה את<persName> לאה</persName> בת<persName> ראובן סיני.</persName>
+
+ ממיסדי התאחדות פקידי הממשלה ויושב ראש ההתאחדות במחוז תל-אביב (1938-45), חבר הועדה הפריסטית הממשלתית לעניני הפקידות הממשלתי (1945-47).
+
+ נבחר בתור המזכיר הגדול של הלשכה הגדולה של הבונים החפשים בא''י (1943-48) ופעל רבות להתפתחות הבנאות החפשית בא"י.
+
+ נשיא לשעבר : לשכות "חירם" תל-אביב, "אחידן" ברמת-גן.
+
+ הכין וערך את התקנון לעניני כספים ומשק (תכ"ם) של האוצר במדינת ישראל.
+
+ בתפקידו הנוכחי באוצר - משנת 1948.
+
+ צאצאיו : <persName>תמר</persName> אשת<persName> מרדכי גולדמן, רות </persName> אשת <persName>יצחק רטביצר, יואב.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בזכרון-יעקב, כ"ו סיון תשט"ו (16.6.55) (ראה כרך ו', עמוד 2499)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2499 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2499</bibl>            <bibl>Volume: #7 ,Page: 2970 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2970</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

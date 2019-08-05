@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1467 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1467</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף אמזלק</persName>
+
+</head>
+         <div><p> נולד ביפו, בשנת תר"כ (1860), לאביו<persName> חיים,</persName> סגן-קונסול בריטי ביפו ועוזר למיסדי ראשון לציון
+
+ ואחרים בגאולת הקרקע (ראה כרך ב', עמוד 816) ולאמו <persName>אסתר</persName> בת<persName> נסים לוי</persName> מחברון.
+
+ קיבל חינוך מסורתי וכללי והתמחה ליד אביו בניהול עסקי מסחר עם העולם הגדול. נשא לאשה את <persName>אורה</persName> בת<persName> יהודה אסיאו</persName> .
+
+ בראשית תרמ"ב יצא בשליחות אביו ללוות ול הדריך משלחת-חקירה בריטית שבאה לסייר את הנגב ומדבר סיני, ולאות תודה קיבל אח"כ סיכת-זהב מאת ממשלת בריטניה - דבר שהיה לו אז ערך ישובי כללי, שכן בהיות גדולה השפעת הקונסולים של המעצמות הגדולות על השלטון הטורקי בארץ, הרי כל קשר בין יהודי ובין מעצמות זרות היה בו כדי לרומם את מעמד היהודים בכלל ולרסן במדת-מה את שרירות פקידי השלטון כלפיהם. באותה שנה ביקרו בארץ הנסיך ג'ורג' יורש-העצר הבריטי - אח"כ המלך ג'ורג' החמישי ואחיו הנסיך אלברט, והוא קידם את פניהם בשם אביו והדריכם בסיורם ביפו ובסביבה, ואף במקוה, ישראל. לאחר עשר שנים, כשטבעה אניה אנגלית ליד יפו פעל בתוקף למען העזרה וההצלה, והודות לפעולתו נצלו הרבה מלחים ממות. גם אז קיבל מאת הממשלה הבריטית מנחה ומכתב תודה והוקרה.
+
+ בתרס"ב הביע את הרעיון בדבר יצירת קשרי מסחר מהודקים עם ארצות חוץ שלא בתיווך נכרים, ורעיון זה לבש אח"כ צורה מעשית גם בסחר פריההדר, שקודם לכן היה כולו בידי נכרים, והיהודים היו מוכרים את יבולם לסוחרים ערבים "על העץ" במחירים זולים ובתנאים ירודים.
+
+ היה מאמידי הסוחרים היהודים ביפו, סוכן ראשי לחברת הביטוח ללויד לונדון, אחרי מות אביו שהיה הסוכן לפניו, וקרוב למפעלי החסד שבעיר.
+
+ נפטר בתל-אביב, י"ז שבט תש"ד (11.2.44) והובא לקבורה בירושלים.
+
+ צאצאיו : <persName>מאיר </persName> (הנרי), <persName>ליאון, שמעון</persName> (סימון), <persName>אליהו, נעמי</persName> אשת <persName>אלברט אלישר</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1467 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1467</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

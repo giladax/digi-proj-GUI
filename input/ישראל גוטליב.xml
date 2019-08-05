@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4209 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4209</bibl><bibl>Volume: #13 ,Page: 4210 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4210</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל גוטליב</persName>
+
+</head>
+         <div><p> נולד כ"א כסלו תרע"ח (6.12.1917) במונקאץ' (הונגריה - קרפטיה הרוסית הצ'כוסלובקית - אוקראינה הקרפטית).
+
+ לאביו הרב<persName> משה</persName> (ממשפחת רבנים נודעים בהונגריה, מרביץ תורה ברבים בבית-המדרש הגדול בעיר, נרדף על ידי הרב וקהילתו בשל היותו ציוני ונשיא המזרחי בעיר; גם בארץ היה פעיל בהפועל המזרחי, חי מיגיע כפיו ובערבים מרביץ תורה ברבים, ובשנותיו האחרונים מפקח ראשי על הכשרות בבתי העולים של הסוכנות) ולאמו<persName> אסתר</persName> בת <persName>אהרן אויסלנדר</persName> .
+
+ למד בבית-הספר העברי במונקאץ', בתלמוד-תורה ובישיבה. בסוף 1935 עלה לארץ עם אביו וכל ביתו ונכנס
+
+ לפעולה בתנועת "בני עקיבא", בתור רכז הסניפים בבניברק, כפר-סבא, רעננה ומגדיאל ובהדרכה. פעיל בועדות שונות של סניפי תל-אביב ובני-ברק ובועדות מרכזיות. עלה מהעבודה בתנועת-הנוער לעבודה בפועל המזרחי המבוגר כמזכיר האיגוד המקצועי בסניפו התל-אביב וחבר מועצת הסניף, עובד בכיר במרכז העבודה, חבר המחלקה לאיגוד מקצועי ורכז איגודים ארציים בה.
+
+ ב-1943 נשא לאשה את<persName> חנה</persName> בת<persName> דניאל כהנא</persName> .
+
+ נבחר ליו"ר המזכירות והועדה המונציפלית בסניף המפלגה הדתית-לאומית בבני-ברק, חבר הועד הפועל של המפלגה, חבר הנהלת "הצופה", חבר מרכז ועד עובדי הפועהמ"ז והמפד"ל, חבר הנהלת קרן הפנסיה "גלעד", חבר ועדת-ערר עליונה שליד מרכז שרות התעסוקה, חבר הנהלת קרן התעסוקה שליד הועד הפועל
+
+
+ של ההסתדרות, חבר הוועד המפקח של קופת-חולים הכללית, חבר המרכז וראש המחלקה לאיגוד מקצועי של הפועל המזרחי.
+
+ ב-1938 שירת כנוטר מתנדב בעין השופט. היה חבר פעיל בהגנה.
+
+ פעל בצ'כוסלובקיה ובצרפת בשליחות מטעם מחלקת העליה של הסוכנות.
+
+ צאצאיו; <persName>זהבה, משה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4209 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4209</bibl><bibl>Volume: #13 ,Page: 4210 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4210</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

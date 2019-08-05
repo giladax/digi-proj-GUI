@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 406 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/406</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה חיים פרס</persName>
+
+</head>
+         <div><p> נולד בפבלובקה, פלך גרודנה, בשנת תרט"ז (1856), לאביו<persName> יואל דב </persName> ולאמו <persName>עלקה</persName> . קיבל חינוך מסורתי וכשגדל עבד בבית חרושת לאריגה בפאבלובקה.
+
+ נשא לאשה את חנה בת שלמה בוכהלטר מסלץ ע"י פרוזני, פלך גרודנה.
+
+ סידר את משקו וגם אטליז, מכר לאכרים בשר בהקפה לכבוד שבת, ומזמן לזמן היה הבארון משלם לו במקום האברים שלא השיגה ידם לשלם.
+
+ בעת ריב השמיטה בתרמ"ט נשלח יחד עם<persName> יעקב</persName> <persName>ארקין</persName> לבקש תמיכה מיהודי רוסיה לאכרים הנתונים במצוקה בגלל שמירת שבת הארץ. כאמור בפרשה הכללית של ראשוני עקרון לא הצליח במסעו זה. אך מעשה אחר שעשה למען כבוד חבריו הוכתר ביתר הצלחה.
+
+<persName>בלוך</persName> , פקידו של הבארון, רצה לשבור את רוח אכרי עקרון לבל יתקוממו נגד עריצותו. לשם כך היה מעכב להם את התמיכה, שירגישו עד כמה הם תלויים בו. והנה הגיעה עונת הזריעה וחטים לזרע אין ובלוך מתמהמה ואינו נותן. הלך אל ערבי אחד ברמלה וקנה ממנו בהקפה 100 שקים חטה במחיר 250 נפוליונים, וחילק זרע לאכרים. בראות בלוך את הנעשה לא היתה לו ברירה אחרת והוכרח לשלם את מחיר החטים.
+
+ הוא זכה לאריכות ימים אחרי יתר חבריו מאחד-עשר הראשונים במושבה.
+
+ צאצאיו:<persName> הניה</persName> אשת יצחק לוין;<persName> יעקב; פרידה </persName> אשת זלמן כהן (ירושלים); <persName>מלכה </persName> אשת משה גוטמן;<persName> רחל </persName> ז"ל.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בעקרון, כ"ד כסלו תש"ט (26.12.48) (ראה את הערך בעמוד 406, כרך ב')
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 406 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/406</bibl>            <bibl>Volume: #3 ,Page: 1535 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1535</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

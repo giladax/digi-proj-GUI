@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2933 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2933</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד יוסף חכמי</persName>
+
+</head>
+         <div><p> נולד בירושלים, ז' אלול תרע"ט (2.9.1919).
+
+ לאביו <persName>יוסף חכמי-חכמישוילי</persName> (ראה כרך א', עמוד 87) ולאמו<persName> ונציה</persName> בת<persName> שמואל בכר</persName> מירושלים.
+
+ קבל חנוך מסורתי, בי"ס למשפטים בירושלים (1945).
+
+ היה חבר המכבי בירושלים.
+
+ בשנת 1940 נשא לאשה את <persName>בלה </persName> בת<persName> משה קרסו</persName> (ראה את הערך שלו בכרך זה, בעמוד 2928).
+
+ משנת 1942 סוכן כללי של חברות הביטוח "פניקס"
+
+ (לונדון), "לונדון גאראנטי ואקסידענט" ו"יוניון מארין אנד ג'נראל''.
+
+ משנת 1945 מנהל החברה "חכמי בע"מ''.
+
+ חבר ההגנה כל השנים.
+
+ אח בלשכת בני-ברית ובלשכת הבנאים החפשים "ברקאי'' בתל-אביב.
+
+ משנת 1949 המנהל הראשי של "הפניקס הישראלי, חברה לביטוח בע"מ".
+
+ בנו:<persName> יוסף.</persName> 878.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2933 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2933</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

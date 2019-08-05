@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3828 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3828</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרץ (פריץ) קורנברג</persName>
+
+</head>
+         <div><p> נולד בהולצהוזן - פירמונט (גרמניה) בשנת תר"ן (14.1.1890).
+
+ לאביו <persName>ברנארד קורנברג</persName> (סוחר).
+
+ חנוך: גמנסיה, מכון טכני ברלין (1910), בי"ס טכני גבוה ובית מדרש לבנין ערים ברלין.
+
+ אדריכל ובנאי מדופלם משנת 1910. מהנדס מוסמך משנת 1919.
+
+ אדריכל בברלין עד 1914. בשנות 1914-18 שירת בצבא הגרמני. בשנות 1918-19 חבר מרכז הפועל הצעיר בברלין. בשנת 1920 עלה לארץ. חבר ועד אגודת המהנדסים והאדריכלים בירושלים,
+
+ בשנת 1928 יו"ר אגודת המהנדסים והאדריכלים בירושלים.
+
+ בנה את המעבדה החימית והאמפיתיאטרון באוניברסיטה העברית, הגמנסיה בירושלים, בניני דירה וחרושת.
+
+ חיבר תכניות לשכונות וקבוצות ולבנין ערים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3828 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3828</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

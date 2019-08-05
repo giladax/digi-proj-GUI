@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3845 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3845</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב סעדיה (המכונה רבינו) בנבנישתי (ן'וינישטי)</persName>
+
+</head>
+         <div><p> בן ר' <persName>שניאור ן' וינישטי.</persName>
+
+ נולד ב<placeName>ירושלים</placeName> בשנת תקל"ה (1775).
+
+ נקרא על-שם זקנו<persName> ר' סעדיה מרזוק</persName> שהיה מגדולי חכמי ירושלים בזמנו.
+
+ תלמיד חכם גדול בתורה ועסקן צבורי. גדולי חכמי ירושלים, ר' <persName>משה אהרן הלוי</persName> ור'<persName> משה סוזין</persName> (שהיה אח"כ חכם באשי) כותבים עליו בשנת תקע''ב (1812): "אחד מאיר זך בלי שמרים גבר חכם ונהיר... החכם השלם, הדיין המצויין סמוך ומופלא הר"ר כמהר"ר <persName>סעדיה </persName> המכונה רבינו <persName>דון ן' וינישטי".</persName>
+
+ בשנה הנ"ל נבחר להקים ישיבה שעשירה אחת מקושטא, בשם<persName> רבקה</persName> אשת <persName>יהודה אשכנזי,</persName> החליטה לייסד ב<placeName>ירושלים</placeName>. הוא נתמנה למנהלה.
+
+ המקדישה הניחה בקושטא נכסי דלא ניידי שפירותיהם יהיו נועדים לכלכלת הישיבה. היא מינתה עליהם את העשיר הנודע כב' השר סי'<persName> יצחק בכור קרמונה.</persName>
+
+ סמוך לפטירתה בשנת תק"פ (1820) חל עיכוב במשלוח הכספים. <persName>ר' סעדיה</persName> נסע לקושטא וקיבל פסק מבית-הדין שם למסור לו את הכסף בקביעות. מצבו הכלכלי היה טוב שכן בתעודה אחת משנת תקע"ז (1817) אנו קוראים על חוב של שלש מאות אריות שהיה לו על "דיר האמלקים" (הארמנים) ב<placeName>ירושלים</placeName>. היה לו גם הקדש מיוחד באיזמיר והקהילה שם היתה שולחת לו מידי שנה בשנה את ההכנסות. בשנת תקצ"ו (1836) היה בין ראשי הקהילה שבחרו בר' <persName>יונה משה</persName> <persName>נבון</persName> ל"ראשון לציון". הוא מילא גם תפקיד של ראש-משמרה של בית-העלמין ועל אף מעמדו הציבורי הנכבד לא התבייש לעסוק גם ב"שמירת הרחיים של חיטי דפסחא".
+
+ לר' <persName>סעדיה</persName> היו שני בנים <persName>משה ויעקב</persName> ; לפי מסורת קדומה של המשפחה נפטר ב<placeName>ירושלים</placeName> כ"א בניסן ת''ר (1840).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3845 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3845</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

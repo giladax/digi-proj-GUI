@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2352 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2352</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ברוך מרדכי הורביץ</persName>
+
+</head>
+         <div><p> נולד נסוויזי, פלך מינסק (רוסיה הלבנה), ט''ו תמוז תרמ"ח (1888).
+
+ לאביו הרב<persName> דב בער הלוי איש הורוביץ</persName> (חבר בית הדין בנסוויז, בביאליסטוק. בשנת תש"ח הופיע בת"א ספרו "נחלת הלויים" והלכה ע"י בנו ברוך מרדכי הנ"ל), ולאמו<persName> רחל</persName> בת<persName> אברהם אלבסקי</persName> .
+
+ קיבל חינוך מסורתי בחדר ובישיבה.
+
+ בגיל 8 עבר עם משפחתו לביאליסטוק, וכשגדל עבר לעבוד בבית המסחר למנופקטורה בפירמה "זילברדריק את שולמן''.
+
+ בשנת 1909 נשא לאשה את <persName>שיינה</persName> בת ר' <persName>משה דוד</persName> <persName>גלט.</persName>
+
+ ביחד עם<persName> יהודה גולדברג</persName> יסד את הפירמה "גולדברג את הורביץ" למסחר במנופקטורה.
+
+ היה מפעילי הסתדרות הנוער "בחורי ציון", שהצטרפו אח"כ להמזרחי. היה פעיל אח"כ בתנועת המזרחי.
+
+ בשנת 1934 עלה לארץ ונתקבל לעבודה בבית מסחר "משי-זקס" כמומחה ופקיד ראשי.
+
+ פעיל ב"קרן התורה" ובבית הכנסת ירושלים.
+
+ עשה רבות במגבית לתמיכה ברבנים שעלו מחוסרי כל - לארץ.
+
+ צאצאיו:<persName> שמואל, ירחמיאל</persName> ז''ל,<persName> דב, אברהם, יעקב.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ט"ז אדר תשט"ו (10.3.55) (ראה כרך ה', עמוד 2352)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2352 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2352</bibl>            <bibl>Volume: #7 ,Page: 2970 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2970</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

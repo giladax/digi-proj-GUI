@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5162 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5162</bibl><bibl>Volume: #17 ,Page: 5163 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5163</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם רביקוב</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סקידל</placeName> (פלך גרודנה, רוסיה), בשנת תרנ"ז (7.2.1897).
+
+ לאביו<persName> משה יעקב</persName> ולאמו <persName>רבקה לאה </persName> בת <persName>מנחם</persName> <persName>לאם</persName> (ראה כרך י', עמוד 3484).
+
+ עלה לארץ בתרע"ב (1912), כבן הבכור, כחלוץ לפני המשפחה.
+
+
+ עבד כפועל חקלאי, וחלה בקדחת.
+
+ כשבאה המשפחה לארץ בתרע"ג (1913), מצאה אותו בבית החולים ביפו לאחר מלאריה קשה.
+
+ עבד אחר כך כפועל בנין בתל-אביב, והשתתף בבנינו של בית החולים הראשון בתל-אביב, ברחוב בלפור, תחת הנהלתו של<persName> מאיר רוגוב.</persName>
+
+ עם גרוש נתיני רוסיה בשנת 1914, בכניסתה של טורקיה למלחמה, גורש למצרים והיה בין הנוטרים בגבארי, שהיוו לאחר מכן את הגרעין לגדוד נהגי הפרדות.
+
+ הוחזר לארץ עוד לפני שביתת הנשק כחולה אנוש.
+
+ נפטר בתל-אביב בי"א טבת תר"פ (2.1.1920) ונקבר בבית הקברות הישן בתל-אביב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5162 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5162</bibl><bibl>Volume: #17 ,Page: 5163 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5163</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

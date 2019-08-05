@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4306 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4306</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה בן ציון ספיר</persName>
+
+</head>
+         <div><p> נולד בפוסקורוב (רוסיה), כ"ד תשרי תרנ"ד (1893).
+
+ לאביו <persName>בן-ציון ספיר</persName> ולאמו <persName>בת-שבע.</persName>
+
+ קיבל חינוך מסורתי וכללי בגימנסיה.
+
+ בן 13 היה כשעלה עם הוריו לארץ (1907) בעליה השניה.
+
+ עבד בביצות הסחנה בנקודה חקלאית "ביתניה" שע"י דגניה ב'. לאחר מכן השתתף בנטיעות "יער הרצל" בבן-שמן. משם עבר לעבוד בבנין חולדה ונטיעת יערותיה, וכן בהקמת "כפר-אוריה" ועיבוד אדמותיה.
+
+ בפרוץ מלחמת העולם הראשונה (1914) נשאר בארץ ועבר את סבל תושביה בכל תלאותיה.
+
+ בתום המלחמה עבר למושבה פתח-תקוה (1917).
+
+ ב-1917 נשא לאשה את <persName>דבורה</persName> בת <persName>יעקב ויסוקר.</persName>
+
+ ב-1918/19 השתתף עם <persName>אברהם ליפשיץ</persName> (ראה כרך ו', עמוד 2580) ברכישת ספינה ממונעת שנקראה "החלוץ". כשנה הפליגה עם מטעני סחורות בין נמלי המזרחהתיכון, עד שהתרסקה ליד חוף יפו. הם היו אז הראשונים להקמת הספנות העברית - לראשונה בים התיכון.
+
+ מנתיבי הים - אל היבשה, ושוב בראש מפעל חלוצי, תחבורת מכוניות משא בין כל חלקי הארץ. יחד עם <persName>האחים בלום, אברהם כהן ואלתר מורגנשטרן</persName> - יסדו "חברת המשא". ובהמשך הזמן ארכו הקווים והגיעו אל מעבר לגבולות הארץ - אל הלבנון, סוריה ועיראק. בענף כלכלי זה, שהשתכלל והתפתח במרוצת השנים, עסק עד יומו האחרון.
+
+ היה פעיל ב"בני-ברית" ובלשכת "חירם" של הבנאים החפשים בתל-אביב.
+
+ היה יו"ר בית הכנסת "נחלת אבות" בת"א והיה ממיסדי קופת גמילות חסדים.
+
+ כן היה פעיל באגודות ציבוריות ועשה הכל בענווה ובצנעה.
+
+ נפטר בתל-אביב, י"א תשרי תשט"ז (27.9.1955) והובא לקבורה בקרית שאול.
+
+ צאצאיו :<persName> הדסה</persName> אשת<persName> חיים רזניק, יעקב, שולמית</persName> אשת<persName> יוסף מירביס, אבינועם, שלמה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4306 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4306</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

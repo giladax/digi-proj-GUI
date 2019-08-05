@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1793 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1793</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב שטיינברג (פייבושק-פאייוואושעק)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>דבינסק</placeName> (רוסיה), כ"ז כסלו תרנ"ה (סוף דצמבר 1894), לאביו<persName> מאיר</persName> והיה מהנדס צבאי בקאוקאז, התפטר מסיבית דתיות, אח''כ היה במשך 40 שנה רב-מטעם בוילקומיר שבליטא - והיה בידו ספר יוחסין של המשפחה מ-400 השנים האחרונות) ולאמו <persName>חיה</persName> לבית <persName>פראכטמאן </persName> מרוסטוב שעל הדון (ידעה שש שפות על בורין).
+
+ למד בחדרים ובישיבה ואח"כ הצטרף לנוער של "פועלי ציון".
+
+ עלה לארץ ב-1909 ונכנס ללמוד במקוה ישראל, אך לא יכול להסתגל לחינוך הצרפתי. יצא. מבית-הספר והצטרף לקבוצת פועלים שעבדו בישור החולות לבנין
+
+ שכונת "אחוזת בית" (היא תל-אביב). השתתף בעליתכיבוש על הקרקע ברוחמה ובכפר אוריה. ב-1913 קיבל ביחד עם <persName>נטע הרפז</persName> ואחרים בקבלנות את עיבוד הכרמים של "חברת חדשה" בדרך תל-אביב-פתח תקוה ולשם כך יסדו את הקבוצה הקבלנית "אחוה" לעבודות חקלאיות בפתח תקוה.
+
+ ב-1919 נשא לאשה את <persName>זלדה</persName> בת <persName>משה זפרובסקי</persName> . עלה עם המתנחלים הראשונים על הקרקע בתלעדשים ומאז הוא חבר המושב ועובד במשקו.
+
+ מתענין במדעי חקירת הארץ והנו חבר בחברה העברית לחקירת ארץ-ישראל ועתיקותיה.
+
+ פרסם מאמרים ורשימות ב"דבר", "מוסף לדבר", "קונטרס" וב"ספר העלית השניה". כתב סקירה על <persName>מיכאל הלפרין</persName> וביחד עם חומר אחר לתולדות הישוב. מסר אותה לארכיון של תנועת העבודה.
+
+ בנו משה נספה עם חבריו באניה צבאית שטבעה בים התיכון בדרכה למלטה ביום י"ח אייר תש"ה (1.5.45). 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1793 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1793</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

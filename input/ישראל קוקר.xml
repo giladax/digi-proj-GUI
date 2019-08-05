@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 666 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/666</bibl><bibl>Volume: #2 ,Page: 667 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/667</bibl>
+<bibl>Volume: #2 ,Page: 668 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/668</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל קוקר</persName>
+
+</head>
+         <div><p> נולד בדלאטין, מזרח-גליציה, בשנת תרכ''ו (1866), לאביו<persName> אברהם צבי,</persName> חייט.
+
+ אחרי שהתחיל ללמוד ב"חדר" בעיר הולדתו עלה ארצה עם הוריו בראשית שנת תרל"ד, בהיותו בן שמונה, והמשיך ללמוד בירושלים בתלמוד-תורה ואצל מלמדים פרטיים עד גיל בר-מצוה, ואביו עסק בחייטות והתפרנס
+
+ בצמצום, וכשלא היתה עבודה מספיקה בירושלים נסע מצרימה, עבד שם בשנה ובסס את מצבו החמרי.
+
+ כשהגיע ישראל לבר-מצוה יצא לדלאטין והיה במשך חמש שנים מורה-מלמד בבתי יהודים בודדים בכפרים שבסביבה.
+
+ בשנת תרל"ד, בהיותו בן 18, חזר ירושלימה, נשא לאשה את<persName> חנה</persName> בת<persName> זאב חפץ מסלוצק</persName> והיה סמוך על שלחן אביו במשך שנה אחת. אח"כ החל לסחור במכירת גבינה מצפת ודגים מטבריה. בהיותו בן עשרים נסע מצרימה, למד את מלאכת המברשות, חזר ירושלימה ומשנת תרמ"ז ואילך עסק במלאכה זו והתפרנס בצמצום. הדרישה למברשות-נעלים לא היתה גדולה, כי אנשי ירושלים היו נועלים בעיקר מיני סנדלים מעוטי-עור, שלא היו זקוקים לצחצוח מרובה. עם גידול תנועת הבנין בערי הארץ החל ליצר גם מברשות לסיוד והיה מחזר בערים ובמושבות למכור את תוצרתו.
+
+ בתרנ"ז שכר חנות ובית-מלאכה מחוץ לשער יפו, הגדיל את היקף התעשיה והעסיק עד עשרה נערים שעבדו אצלו, ועם גידול הישוב גדל ממכר תוצרתו ליפו ולמושבות והצליח בעסקיו. במכונות לא רצה להשתמש, כי המחזור היה קטן מדי בשביל השקעה גדולה כזו,
+
+ ואח"כ החלו מביאים גם מברשות מוגמרות מצ'כוסלובקיה ומיאפאן, - רק לנקיבת החורים בחלקי העץ של המברשות היה משתמש במכונות קטנות ועיקר העבודה נעשה בידים, וכך המציא פרנסה לעובדים שכירים.
+
+ כשנוסדה בתר"ע אגודת בעלי-מלאכה בירושלים בשם "אגודת אחים" נבחר לראש הועד שלה ובהשתדלותו נוסדה קופת מלוה משותפת של האגודה לפי הסכם מיוחד עם הנהלת בנק אפ"ק, שהוסיפה משלה חלק לקרן ההל
+
+
+ ואות של האגודה ומסרה חלק מהרבית לרשות האגודה, וחלק זד. שימש קרן מיוחדת להלואות גמילות חסד לחברים בלי רבית.
+
+ השלטון הטורקי העמיס עליו את התואר "מוכתר" והטיל עליו חובות שונות כמקשר בין התושבים ובין השלטון, ואף את החובה להמציא אנשים למלחמה בארבה.
+
+ אחרי מלחמת-העולם הראשונה גדל מחזור עסקיו, בעקב גידול הדרישה למברשות מצד התושבים והצבא. בתרפ"ד פתח שני בתי-מלאכה ביפו בשביל בניו שהתמחו במקצועו, האחד בחנויות מוסטקים, בו עבד ומכר בנו הגדול <persName>חיים</persName> , והשני ליד ה"סראיה" לבנו <persName>אליהו</persName> , והוא עצמו המשיך לעבוד בירושלים. היה גבאי בבית-הכנסת "שערי חסד" וגם בעל-תפלה ואף יסד בית-תפלה מיוחד הקיים עד היום ונקרא בשם "המנין של ישראל קוקר". במשך שמונה שנים היה חבר במשפט השלום העברי בירושלים.
+
+ סמוך לשנתו השמונים פרש מהעבודה ועבר לפתח תקוה, אל בתו וחתנו<persName> אילה ומתתיהו</persName> בן ר'<persName> זליג רבי</persName> <persName>נוביץ</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 666 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/666</bibl><bibl>Volume: #2 ,Page: 667 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/667</bibl>
+<bibl>Volume: #2 ,Page: 668 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/668</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

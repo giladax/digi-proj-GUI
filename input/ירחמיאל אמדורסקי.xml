@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 136 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/136</bibl><bibl>Volume: #1 ,Page: 137 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/137</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ירחמיאל אמדורסקי</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"ב אב תרל"ו לאביו ד'<persName> יוסף</persName> , שעלה ארצה בן שלש שנים עם הוריו (אביו ר' <persName>שמואל</persName> מגזע ר' יום טוב הלר בעל ה"תוספות יום טוב" על משניות ואמו<persName> רחל</persName> ) מהעיירה אמדור שליד מוהילוב, ונקראו על כן בשם הכינוי <persName>אמדור, אמדורר, אמ</persName> <persName>דורסקי </persName> וגם<persName> מוהליבר</persName> , - ולאמו <persName>פייגה לאה </persName> בת הרב <persName>יצחק גליקין</persName> ממשפחת עולי שקלוב שהשתתפו ביסוד הישוב האשכנזי בירושלים.
+
+ למד אצל מלמדים פרטיים ואח"כ בכתות הגבוהות של ת"ת "עץ חיים" ובישיבת הבחורים של הגאון ר' <persName>יצחק וינוגראד</persName> . מבחרותו נרתם לעזור להוריו בניהול ובשרות בבית-האוכל (ואח"כ גם המלון) שיסד אביו בעיר העתיקה לפי הצעת הרב הראשי ר' <persName>שמואל</persName> <persName>סלנט</persName> , כדי לספק מזון טוב בזול לאורחים ולעולים חדשים.
+
+ משנפטר אביו בשנת תרנ"ה המשיך את ניהול המלון והמסעדה ובמשך הזמן פיתח ושיפר אותם ברהיטים וכלים נאים וחדישים ועבר לדירה נאה ומרווחת ליד מגדל דוד ושם היה המלון אמדורסקי
+
+
+ מרכז לתיירים חשובים ואף לשרי הממשלה ולאורחים נכבדים מארצות-חוץ.
+
+ אחרי שהשיא את אחותו<persName> רחל</persName> למר<persName> מרדכי נובוג</persName> <persName>רודסקי</persName> נשא לאשה את<persName> טובה</persName> בת ר' <persName>אלכסנדר סנדר</persName> <persName>הלוי אפשטיין</persName> , מחשובי חסידי חב"ד בחברון. (החופה נערכה בהידור בלתי-מצוי בזמן ההוא בירושלים: תהלוכה של קונסולים, ראשי הפקידות העירונית והממשלתית, שתי שורות של "קאוואסים", ובסידור
+
+ הקידושין פעלו שלשה רבנים ראשיים: ר' <persName>שמואל</persName> <persName>סלנט </persName> מעדת האשכנזים הפרושים, ר'<persName> שלמה זלמן</persName> <persName>לאדייר</persName> מעדת החסידים ור' <persName>יעקב שאול אלישר</persName> , ה"ישא ברכה", מעדת הספרדים). מאז היתה לו לעזר כנגדו בגידול הבנים והבנות ובחינוכם, בניהול העסק הגדל והולך, במעשי חסד ועזרה, חוץ מפעילותה באגודת "עזר יולדות", שהשתתפה ביסודה.
+
+ תודות לחיבה ולהוקרה שרכש מצד אורחי ביתמלונו, ובכללם אנשי השלטון רמי המעלה, הצליח פעמים רבות להשפיע עליהם לטובת יהודים, לביטול גזירות ונגישות. ביחוד הגדיל לעשות בתקופת מלחמתהעולם הראשונה, לשחרורם של יהודים שנחטפו ושנאסרו לשם סחיבה לשרות בצבא ובגדודי העבודה או בנגישות וברדיפות אחרות. ולא פעם אף סיכן את נפשו בהתיצבו בפני שרים ומפקדים שהתאכסנו בבית מלונו לבקש מהם בעד אחיו היהודים.
+
+ גם אחרי המלחמה ניסה להמשיך בדרכו זו, וכשנאמרו בחוהמ"ם תר"פ ז'בוטינסקי וחבריו בשל הפרעה לפרעות שערכו הערבים ביהודי העיר העתיקה בירושלים שלא למורת-רוחם של ראשי השלטון, ניסה לשחררם בערבותו הפרטית, כמו שהצליח פעמים רבות לשחרר נאסרים יהודים בימי השלטון הצבאי הטורקי. אך הפעם לא הצליח.
+
+ עם גידול העליה והתיירות גדל גם בית מלונו, ולבסוף העביר אותו מהעיר העתיקה לבית גדול שברחוב בן-יהודה. בהשפעתו על אורחים ותיירים נכבדים ובעלי-יכולת רכש את אהדתם ועזרתם למוסדות תורה וחסד בירושלים, וגם מכספו נתן ביד רחבה לעזרת נצרכים ומוסדות.
+
+ כחבר "המזרחי" השתתף בארגון הקהלה של כנסת ישראל ומשמש חבר ועד חברה קדישא של הקהלה, חבר ועד גמ"ח "קרן נחמיה", נשיא ארגון בעלי בתי מלון ומסעדות (הוא הותיק במקצוע זה, כי עסקו קיים זה קרוב לששים שנה, והוא עצמו מנהלו זה למעלה מחמשים שנה), חבר מועצת קופת עם בירושלים, גבאי ביהכ"נ הגדול בית יעקב שב"חורבה".
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בירושלים, כ"ד אב תשט''ז (1.8.56) (ראה כרך א', עמוד 136)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 136 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/136</bibl><bibl>Volume: #1 ,Page: 137 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/137</bibl>
+            <bibl>Volume: #8 ,Page: 3189 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3189</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

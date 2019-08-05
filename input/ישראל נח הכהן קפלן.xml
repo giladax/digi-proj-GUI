@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 790 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/790</bibl><bibl>Volume: #2 ,Page: 791 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/791</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל נח הכהן קפלן</persName>
+
+</head>
+         <div><p> נולד בצ'רניגוב, אוקראינה, כ"ה אב תרמ"ד (3.8.1884), לאביו ר' <persName>צבי</persName> (חסיד חב"ד, למדן גדול, שהיה גומר את הש"ס פעם בכל שנה) ולאמו<persName> איטה</persName> . למד בחדרים ובישיבות והשתלם בהשכלה כללית באופן פרטי.
+
+ בתרס"ו נשא לאשה את<persName> חנה</persName> בת הרב <persName>אברהם</persName> <persName>אהרן חן</persName> בן הרב <persName>ר' פרץ חן</persName> , מראשי החסידות החב"דית.
+
+ עסק במסחר ובעבודה צבורית ולאומית בצ'רניגוב כמורשה הועד האודיסאי של "חובבי ציון", חבר הועד של "חובבי שפת עבר", יו"ר ההסתדרות הציונית המקומית, יו"ר "הלואה וחסכון", יו"ר החברה "תמיכת לעניים" שריכזה סביבה את עניני הצבור בתקופת המשטר הצארי שלא הרשה ליסד קהלה רשמית, ציר בועידות ציוניות שונות, חבר פעיל במוסדות
+
+
+ שונים לצדקה וחסד, גזבר ועד העזרה לפליטים היהודים במלחמת-העולם הראשונה וגבאי בית-הכנסת "פועלי צדק". אחרי מהפכת פברואר 1917, משבטלו ההגבלות והגזירות לדיכוי היהודים, נבחר ליו"ר הקהלה הרשמית שנוסדה בעיר ולחבר הדומה העירונית והנהלת העירית כנציג היהודים. משניצחה המהפכה הבולשבית הוכרח להסתלק מפעולה יהודית לאומית בגלוי, בגלל האיסור מטעם השלטון, ולשרת את הצבור כמנהל מחלקת האספקה הממשלתית במחלקת החינוך הפלכית, ולהמשיך בפעולה ציונית יהודית-לאומית רק במחתרת, ובגלל זה נאסר בשנת 1922, בעת מאסרי הציונים באוקראינה.
+
+ בסוף 1923 הורשה לעזוב את רוסיה וביום י"ז כסלו תרפ"ד הגיע ארצה עם משפחתו והתישבו בחיפה. התמסר לפעולה צבורית כיו"ר מועצת "הלואה וחסכון" וסגן יו"ר מועצת "מרכז" ברית הפיקוח על האגודות ההדדיות לאשראי וחסכון בא"י (עד שנת 1932), ונוסף לתפקידו העיקרי כמזכיר ראשי של ועד הקהלה והרבנות הראשית בחיפה הריהו יו"ר מועצת המזרח/י בחיפה וסגן יו"ר המועצה הארצית של המזרחי, חבר ועד בנין בית-הכנסת המרכזי בחיפה, חבר מועצת הישיבה "תפארת ישראל", חבר בועדות שונות של הקהלה ובאגודות ובמוסדות שונים לעניני תרבות, צדקה וחסד.
+
+ מפרסם מאמרים בעתונות בעניני צבור. בתו: מרים (מורה) אשת ד"ר בנימין קירזון (מרצה בחימיה באוניברסיטה העברית בירושלים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 790 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/790</bibl><bibl>Volume: #2 ,Page: 791 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/791</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

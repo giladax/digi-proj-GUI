@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3809 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3809</bibl><bibl>Volume: #11 ,Page: 3810 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3810</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ר' יוסף פלדמן</persName>
+
+</head>
+         <div><p> נולד בביטשקוב (רומניה) בשנת תרמ"ט (18.12.1888). לאביו הרב <persName>אפרים פישל פלדמן</persName> (בעל מחבר ספרים, "ידות אפרים" ו"מגל אפרים". היה 50 שנה רב בכיטשקוב בלי לקבל פרס. היה סוחר יין גדול, עשיר ובעל צדקה וגמילת חסדים) ולאמו<persName> חוה ייטא</persName> בת הרב <persName>יהודה אברהם רוזנברג </persName> (מייסד קהילת ביטשקוב. נשיא הקהילה האורטודוקסית בביטשקוב וסוחר עצים ידוע. ת"ח ובעל צדקה).
+
+ קיבל חינוך מסורתי בחדר ובישיבה.
+
+ מגדולי סוחרי חוטי צמר גפן בטרנסלואנה. (רומניה). נשא לאשה את <persName>מינקא</persName> בת הרב <persName>יעקב פרגר</persName> , רב בק"ק אגא (הונגריה).
+
+ בחודש מאי 1940 עלה עם משפחתו לארץ. ממייסדי תעשיית היהלומים בארץ (1940).
+
+ הקים בתי חרושת ליהלומים בנתניה, תל-אביב וירושלים, המעסיקות כ-500 פועלים ומנהלים, רובם דתיים, הממשיכים אחרי העבודה ללמוד שעור בגמרא. המגיד בשיעורים הוא אחד מבניו. רוב העובדים הקימו
+
+ להם בתים, נשאו נשים ומתקיימים עד היום מתעשיית היהלומים.
+
+ צאצאיו: <persName>אפרים פישל, משה, מרדכי, יהודה אברהם,</persName> <persName>יעקב, חוה יוטא</persName> אשת הרב <persName>אהרן שקויצקי</persName> (בן הרב בנימין שקויצקי, מגיד ממינסק), <persName>ברוריה</persName> אשת<persName> ירוחם</persName> <persName>פישל פפר, אסתר</persName> אשת <persName>חיים אריה שפיץ, טובה</persName> אשת <persName>זבולון בורנשטיין</persName> , צפורה אשת הרב <persName>אברהם יעקב</persName> <persName>פרידמן, אגוזה</persName> אשת <persName>יששכר דב ריכמן.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3809 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3809</bibl><bibl>Volume: #11 ,Page: 3810 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3810</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

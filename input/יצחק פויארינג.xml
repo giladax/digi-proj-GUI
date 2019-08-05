@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4756 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4756</bibl><bibl>Volume: #15 ,Page: 4757 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4757</bibl>
+<bibl>Volume: #15 ,Page: 4758 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4758</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק פויארינג</persName>
+
+</head>
+         <div><p> נולד ב<placeName>גליציה</placeName> בשנת תרמ"ט (1889).
+
+ קיבל חינוך מסורתי וכללי.
+
+ בצעירותו עבר להלברשטט שבגרמניה.
+
+ שם קיבל חינוך מסורתי בבית המדרש של זקנו ר' <persName>שלמה כהן</persName> (אחד מגדולי הדור, אותו כינה הרב<persName> מרדכי הורוביץ</persName> , האבד"ק פראנקפורט, בעל "מטה לוי" "העמקן הנפלא". באוירה זו של תורה ואהבת ישראל נתחנך<persName> יצחק</persName> וגדל בידיעות רבות בתורה. השתלם גם בחכמות חיצוניות.
+
+ נכנס לעולם המסחר והצליח בעסקיו. לא פנה עורף לרוחניות ולעניני עמו.
+
+ היה בין הפעילים ביותר בתנועה הציונית ולא חדל מלהתענין בכל דבר שבתרבות. מעטים הסוחרים שרכשו להם השכלה כה רחבה כאשר עשה <persName>יצחק.</persName>
+
+ את לימודיו הקדיש תמיד לעברית ולספרות עברית. למד רמב"ם ונכנס גם לפרד"ס.
+
+
+ נמנה על החוג המצומצם והנבחר של מנהיגי ההסתדרות הציונית בגרמניה.
+
+ כציר בכמה קונגרסים ציוניים הצטיין בועדה הכספית, שפעמים אחדות ישב ראש בה.
+
+ קולו נשמע לא רק בציונות בגרמניה, כי אם בציונות העולמית.
+
+ חושו הבריא בכל השאלות המדיניות וידיעותיו הרחבות הרחיבו את מומחיותו בתוך מחנהו. היה רחוק מכל חד-צדדיות. התענין מאד בא"י ובמציאותה. ביקר כמה פעמים בארץ, עשה בה זמן ממושך כדי לתהות על קנקנה.
+
+ בביתו בברלין היה כעין מרכז לפגישות עסקנים ציונים ושליחים מא"י. עלה לארץ בשנת 1935.
+
+ בביתו הנאה בירושלים המשיך באוירה הטהורה והנעימה לפגישת עסקנים ועולים מגרמניה, שעזר להם בעצה להסתדר.
+
+ היה חבר בהנהלת חברת "הכשרת הישוב".
+
+ בקונגרס הלוצרני היה ראש ועדת התקציב. הרצה בקונגרס על התקציב והעבירוהו בהצלחה.
+
+ נפטר בירושלים בסוף דצמבר 1937.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4756 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4756</bibl><bibl>Volume: #15 ,Page: 4757 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4757</bibl>
+<bibl>Volume: #15 ,Page: 4758 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4758</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

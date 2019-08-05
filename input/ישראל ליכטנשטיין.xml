@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 299 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/299</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל ליכטנשטיין</persName>
+
+</head>
+         <div><p> נולד בגודלבה, פלך סובאלק, בשנת תרל"ד (1874), לאביו<persName> אריה ליב</persName> , תלמיד-חכם וסוחר אמיד, ממשפחת תלמידי-חכמים, נינו של ר'<persName> נח פרנקל</persName> שנקרא "הקדוש".
+
+ למד בחדרים, למד את כל הש"ס ומפרשיו בעזרת מורים נודעים, ובו בזמן התכונן באופן סרטי ועמד בבחינת בגרות בבי"ס תיכוני רוסי, כדי להשיג את הזכות לשרת רק שנה אחת בצבא. השתלם בריפוי שיים והוסמך לכך באוניברסיטת קיוב, וקבל דיפלומה אוניברסיטאית, שבעזרתה הורשה לו למרות יהדותו לנסוע ולדור בכל רחבי רוסיה, גם מחוץ ל"תחום המושב".
+
+ נשא לאשה את<persName> נחמה</persName> בת <persName>מרדכי וירשופסקי</persName> מוילנה.
+
+ בוילנה ניהל עסקי אכספורט גדולים בעצים לנייר ולגפרורים. יסד וניהל בתי-חרושת לגפרורים, מסמרים, ועוד, והפקידים הרבים במפעליו היו כולם יהודים. חינך את בניו ברוח הציונות, תרם בעין יפה לקרנות הלאומיות ולצרכי צבור וצדקה, אך לא התבלט בעסקנות.
+
+ בתרפ"ג השתתף בגאולת שטח אדמה כ-2000 דונם באזור הקישון ליד חיפה יחד עם עוד כ-300 בעלי-הון יהודים מליטא, רכש מגרש לבנין בתל-אביב, שטח אדמה לתעשיה ליד פתח-תקוה (קרית אריה) ואדמה לנטיעה ליד כפר-סבא. ביקר פעמים אחדות בארץ ובתרצ"ב חיסל את עסקיו ועלה ארצה עם משפחתו. בנה את ביתו בתל-אביב, הקים את בית-החרושת למסמרים "ברזלית" (הראשון בארץ) על אדמתו בקרית אריה ליד פתחתקוה, השתתף ביסוד בית-חרושת לחוטי חשמל בחיפה והנו חבר הנהלתו, השתתף בהון ובניהול בבית-החרושת
+
+ לשמנים "יצהר" ובהרחבתו והנו יו"ר הנהלתו. נטע פרדס על האדמה שרכש ליד כפר-סבא.
+
+ משתתף בפעילות בעניני צבור כלכליים, כלליים ותרבותיים. חבר נשיאות, התאחדות בעלי התעשיה בארץ-ישראל, חבר מועצת ההנהלה של הבנק הארצישראלי לתעשיה ואחד מששת החברים בעלי זכות ההכרעה במועצה של הבנק בתוך מחצית הדעות שיש לבנק זה באותה מועצה, יו"ר חברת "קישון" לפיתוח הקרקע הנ"ל לתעשיה בשותפות עם הקרן הקיימת לישראל, סגן יו"ר של אגודת שוחרי האוניברסיטה בתל-אביב, נציג התאחדות בעלי התעשיה בנשיאות ועד ההצלה של הסוכנות היהודית, חבר הועד המנהל של העתון "הבוקר" מראשיתו.
+
+ בניו:<persName> מרדכי, מהנדס</persName> , מנהל בית החרושת "ברזלית"; <persName>ד"ר נח</persName> , חימאי, מנהל המחלקה לביאו-חימיה באוניברסיטה העברית;<persName> אריה</persName> , עו"ד בתואר "באריסטר" ונוטריון (התנדב לשרות צבורי ממשלתי ועבד במשך 5 שנות מלחמת-העולם השנית כעוזרו של המנוח<persName> יעקב יוליוס</persName> <persName>ג'ייקובס</persName> במזכירות הראשית של הממשלה ושקד לעזור בסידורים ממשלתיים לטובת התעשיה והמסחר והמשק העברי בכלל), כיום חבר הנהלת בית החרושת "יצהר".
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, י''ז אדר תש''ט (18.3.49) (ראה כרך א', עמוד 299)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 299 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/299</bibl>            <bibl>Volume: #4 ,Page: 2062 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2062</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

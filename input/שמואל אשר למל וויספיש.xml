@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4511 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4511</bibl><bibl>Volume: #14 ,Page: 4512 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4512</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל אשר למל וויספיש</persName>
+
+</head>
+         <div><p> נולד בירושלים, ב' שבט תרפ"ח (24.1.1928) דור שביעי בארץ.
+
+ לאביו הרב <persName>צבי ווייספיש</persName> זצ"ל (נכד הרב ר' <persName>נחום</persName> משאדיק מבוני הישוב בארץ ומתלמידי הגר"א) ולאמו <persName>מילכה</persName> בת ר' <persName>שמואל מוזס.</persName>
+
+ קיבל חינוך מסורתי בת"ת ואח"כ בוגר ישיבת "עץ-חיים".
+
+ כידוע בנה הרב הגאון ר' <persName>זלמן ר' נחומס</persName> (כך כינוהו) בנו של ר'<persName> נחום משאדיק)</persName> זצ"ל אחיו של סבו הרב ר' <persName>אשל למל</persName> זצ"ל את שכונת מאה שערים בירושלים והיה ממיסדי בית החולים "בקור חולים" בירושלים, והיה עסקן ופעיל בחייה הצבוריים בירושלים בחוץ לחומות.
+
+ בספרו של הסופר<persName> יעקב גליס</persName> "דמויות בירושלים" כותב ארוכות אודות הגאון <persName>ר' זלמן ר' נחומס</persName> בפרק <persName>האחים לעווי </persName> (כי לעווי זה וויספיש). בשנת 1953 נשא לאשה את <persName>מינה </persName> בת ר' <persName>שלמה</persName> <persName>יחיאל מינץ.</persName>
+
+ בחודש אייר תשכ"ב (1962), בחודש אלול תשכ"ג ובחודש אדר תשכ"ד יצא לחוץ לארץ (לאירופה) בשליחות המוסדות הלאומיים בעניני העליה והבאת עולים לישראל.
+
+ מתכונן לצאת לחו''ל שוב בעניני עליה.
+
+
+ מנהל חשבונות במחלקה לחנוך בעירית ירושלים. שירת בהגנה ובצה"ל.
+
+ צאצאיו: <persName>מילכה פרידה</persName> אשת <persName>יוסף מאיר, שרה</persName> <persName>איטה, צבי סנדר, שלמה יחיאל, יוסף מאיר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4511 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4511</bibl><bibl>Volume: #14 ,Page: 4512 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4512</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4229 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4229</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עו"ד יוסף מנור (שפינדל)</persName>
+
+</head>
+         <div><p> נולד בקלוש (גליציה-אוסטריה), י''ט אדר תרע"א (19.3.1911).
+
+ לאביו העו"ד<persName> דוד מנור-שפינדל</persName> (ראה כרך ח', עמוד 3073) ולאמו <persName>שרה</persName> בת<persName> זליג מילשטיין.</persName>
+
+ קיבל חינוך מסורתי וכללי. למד בוינה (אוסטריה), פולין, ישראל ובאנגליה גמר משפטים באוניברסיטת לונדון .B.LL.
+
+ חבר לשכת עורכי הדין באנגליה Barrister at Law
+
+ עלה לארץ בשנת תרפ"ו (1926).
+
+ היה חבר משפט החברים של הסתדרות עורכי הדין בארץ.
+
+ חבר ועד לשכת בני-ברית ע"ש "שמעון רוקח" בתלאביב.
+
+ חבר הגנה משנת 1929. היה שוטר במשטרה המיוחדת. שירת ביחידת מתנדבים בצבא הבריטי.
+
+ בשנת 1944 נשא לאשה את <persName>תמר</persName> בת <persName>צבי ז'רקובסקי</persName> .
+
+ בשנות 1948-49 בצה"ל.
+
+ בנותיו:<persName> יעל, דעה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4229 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4229</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

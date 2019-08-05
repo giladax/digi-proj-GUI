@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3739 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3739</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהושע פורר</persName>
+
+</head>
+         <div><p> נולד בריזינאוי (רוסיה). לאביו<persName> יהודה ליב</persName> פורר ולאמו<persName> צלה.</persName> קבל חנוך מסורתי בחדר ובישיבה. עסק בחו"ל בנכסי דלא ניידי.
+
+ היה פעיל ב"חובבי ציון" והיה חבר אגודת "מנוחה ונחלה".
+
+ נשא לאשה את <persName>שרה.</persName>
+
+ בשנת 1893 אחרי שהמושבה רחובות נוסדה, שלח את שני בניו:<persName> יעקב ועזרא</persName> לא"י.
+
+ בשנת 1903 עלה לארץ עם שאר בני המשפחה. התישב במושבה רחובות. בנה בה בית ורכש נחלה. היה חבר ועד המושבה, גבאי בית הכנסת וועד התלמוד תורה במושבה.
+
+ נפטר ברחובות, י"א כסלו תר"פ (3.12.1919) והובל לקבורה בהר הזיתים בירושלים.
+
+ צאצאיו: <persName>יצחק, יוסף, יעקב, אברהם, עזרא, אליעזר,</persName> <persName>משה, אסתר</persName> ז"ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3739 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3739</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

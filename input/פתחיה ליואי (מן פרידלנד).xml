@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3173 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3173</bibl><bibl>Volume: #8 ,Page: 3174 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3174</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פתחיה ליואי (מן-פרידלנד)</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ז חשון תרכ"ג (סוף 1862). לאביו<persName> משה ליב מן-פרידלנד</persName> , מדוינסק ולאמו <persName>הינה</persName> <persName>לאה </persName> בת ר' <persName>יוסף</persName> בר' <persName>עזריאל אולשואנג, מפלונגיא</persName> ן (ראה כרך ג', עמוד 1106) בן ר' <persName>יונה מן-פוטאשנא</persName> (ראה כרך ב'. עמוד 928) שעלו לארץ בחשון תרי"ט (1859) והקימו משרפות סיד בירושלים.
+
+ קבל חנוך מסורתי.
+
+ נשא לאשה את <persName>חיה שרה</persName> בת ר' <persName>זאב הלוי סופר</persName> (היה סופרו של הרבי מליסקא - הונגריה). הוריה מתו עליה בילדותה. כבת ארבע שנים הובאה לירושלים ע"י
+
+
+ משפחת הויזמן מחברון. גדלה בבית <persName>אברהם גוטמן,</persName> ממונה כולל אונגרין. נפטרה בתל-אביב, י"ז ניסן תרפ"ג (3.4.1923).
+
+ מהבונים הראשונים של שכונת "משכנות ישראל" בירושלים.
+
+ היה מכונן, בנה טחנות בירושלים, בחברון (טחנת קיטור ראשונה) וביפו.
+
+ היה איש עבודה שקבע גם עתים לתורה.
+
+ המציא מכונה לתיתת חיטית (לפי אליעזר בן-יהודה "מלתתות).
+
+ נפטר בתל-אביב, י"ב טבת תרפ"ד (20.12.1923) והובא לקבורה בבית העלמין הישן בתל-אביב.
+
+ צאצאין: <persName>אברהם </persName> (ראה ערכו בכרך זה), <persName>זאב, יוסף</persName> <persName>חיים, משה יהודה, שמעון דניאל, הניה לאה</persName> אשת <persName>הרצל</persName> <persName>זליבנסקי, מרים</persName> אשת <persName>חיים ליפשיץ, רחל</persName> אשת<persName> נתן</persName> <persName>דינרי </persName> (כפר סבא), <persName>שושנה</persName> אשת <persName>ישראל רודינסקי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3173 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3173</bibl><bibl>Volume: #8 ,Page: 3174 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3174</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

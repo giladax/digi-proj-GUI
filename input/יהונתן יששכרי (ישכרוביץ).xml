@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4055 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4055</bibl><bibl>Volume: #12 ,Page: 4056 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4056</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהונתן יששכרי (ישכרוביץ)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ליבאו</placeName> (לטביה), בתמוז תרס"ה (17.7.1905).
+
+ לאביו <persName>יהודה דוד ליב ישכרוביץ </persName> (קרוב משפחה : לר' <persName>שמואל סלנטר</persName> , לר' <persName>אליה קריטינגר - לוינסון)</persName> ולאמו <persName>מרים</persName> בת <persName>יעקב משה קליבנסקי,</persName> מסלאנט.
+
+ קיבל חינוך מסורתי, יסודי-תיכון ואקדימאי, בגמנסיה גרמנית, אוניברסיטה בקאן (צרפת) ובבי"ס לעבודות צבוריות. קיבל תואר: מהנדס אזרחי ומודד מוסמך.
+
+ היה חבר ועד אגודת "התחיה" - להפצת תרבות עברית בגולה.
+
+ בשנת 1924 עלה לארץ.
+
+ בהתחלה עבד כפועל חקלאי וכפועל בנין. ועבר לעבוד במקצוע כמודד מוסמך ומהנדס לבנינים וכבישים.
+
+ נלחם בכיבוש עבודה עברית. בין בוני המרכז המסחרי בתל-אביב, מראשוני עבודות-פיתוח בחולון, בפתחתקוה, בגדרה ובשומרון.
+
+ פיתות מחצבות לאבני שיש ותעשיית מוצרי אבן ומרצפות.
+
+ בשנת 1934 נשא לאשה את <persName>תמימה </persName> (פרומה) בת <persName>משה ועטה רייזה מרכוס</persName> (נולדה בסיאד -ליטא בתרס"ח. היתה גננת בבית היתומים ע"ש ר' <persName>יצחק אלחנן ספקטור</persName> זצ"ל בקובנה. עלתה לארץ בשנת 1932. משנת 1932 עובדת בתור גננת מדופלמת בשדה החינוך העברי. יו"ר ועד ארגון גני-ילדים פרטיים ברמת-גן).
+
+ כל השנים חבר ההגנה. והשתתף בפועל בהגנה במאורעות 1936 ו-1939. במלחמת השחרור היה מקלען בהגנת שדה-דב, הנמל ועוד. כן השתתף בכיבוש סלמה, במצור על רמלה ועוד.
+
+ אח בארגון הבנאים החפשים ברמת-גן.
+
+ צאצאיו: <persName>עדנה</persName> אשת <persName>אליעזר אנגל, דוד אלנקם.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4055 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4055</bibl><bibl>Volume: #12 ,Page: 4056 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4056</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3968 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3968</bibl><bibl>Volume: #12 ,Page: 3969 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3969</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים ציוני (לבוצ'ניק)</persName>
+
+</head>
+         <div><p> נולד בראשית שנת תרס"ח (10.10.1907) בפטרובקה שבפלך בסראביה (אז ברוסיה).
+
+ לאביו <persName>בן-ציון לבוצ'ניק</persName> ולאמו<persName> פרומה</persName> בת הרב <persName>יצחק מלר </persName> (רב בבולגראד שבבסראביה, מחבר הפירוש על אבן עזרא בשם "עזרה להבין").
+
+ למד בבית-ספר עברי ואח"כ בגימנסיה רוסית, ועם כניסת השלטון הרומני ב-1919 גמר בבחינה אכסטרנית ברומנית. היה חבר התנועה החלוצית מכבי הצעיר, המשיך בהכשרה חלוצית ושימש בה מדריך ומורה לעברית בהתנדבות.
+
+ בשנת 1926 עלה לארץ. הצטרף לקבוצת בוסל בחדרה והיה גזברה ופעיל במושבה. ב-1929 עבר עם חלק מהקבוצה לרחובות, וכשהתפרקה ב-1930 עבר לקבוצת ל"ג בכפר סבא. ב-1932 עבר עם חלק ממנה לקבוצת חפצי-בה שליד בית-אלפא. ב-1933 עבר לקבוצה קבלנית לבנין ברמת-גן, שם עבר אח"כ לעבודה בלשכת המסים של ההסתדרות.
+
+ ב-1933 נשא לאשה את<persName> גניה</persName> בת ר'<persName> צבי ירושביץ</persName> (שוחט).
+
+ משנוסדה ב-1937 לשכת המס המקומית ברמת-גן
+
+
+ נתמנה למנהלה, וממשיך לנהלה משהורחבה ללשכת מס מחוזית לגוש דן. השתכן בשכונת נורוכוב יהיה חבר הנהלתה ומועצתה. ממיסדי קופת מלוה וחסכון של העובדים ברמת-גן וחבר הנהלתה, ומאז מיזוגה עם בנק הפועלים חבר הנהלת בנק זה ברמת-גן, חבר המזכירות והגזבר של מפא"י למחוז רמת-גן, חבר ועדות שונות של מועצת הפועלים, ציר לועידות ההסתדרות ומפא"י, יו"ר ועד ההורים לבית-הספר בורוכוב ו-ועד ההורים המרכזי 18 שנה.
+
+ היה חבר ההגנה ברחובות וברמת-גן, נוטר מושבע מתנדב בשנות המהומות, שליש גדודי של ההגנה ברמתגן עד להקמת צה"ל.
+
+ צאצאיו:<persName> דן</persName> (חבר קיבוץ נוה אור בעמק בית שאן), <persName>אורי</persName> (חקלאי בגליל),<persName> שרה </persName> (תלמידה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3968 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3968</bibl><bibl>Volume: #12 ,Page: 3969 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3969</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

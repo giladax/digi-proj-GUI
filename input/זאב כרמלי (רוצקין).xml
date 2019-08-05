@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 330 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/330</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זאב כרמלי (רוצקין)</persName>
+
+</head>
+         <div><p> נולד בהומל, רוסיה, בשנת תרל"ז (1877), לאביו דב רוצקין. קיבל חינוך יהודי מסורתי, למד את מלאכת הסנדלרות ועבד במקצועו. היה פעיל בתנועת הפועלים היהודים והצטרף ל"פועלי ציון".
+
+ בראשית העלית השניה עלה ארצה עם רעיתו בתיה ועם שני ילדיהם, בשנת תרס"ד, מיד אחרי הפרעות בהומל. בבואו ארצה עזב את מקצועו, שהיה יכול להתפרנס בו גם כאן, ופנה לעבודה חקלאית, בתחילה בפרדסו של הד"ר<persName> א. מזיא</persName> , שמנהלו מר <persName>גלמן</persName> קיבל ברצון עולים חלוצים לעבודה, ואח"כ בפרדסו של <persName>יעקב קרול</persName> . ההכנסה משכר-העבודה לא הספיקה לפרנסת המשפחה ורעיתו עזרה לפרנסה בבישול ובכביסה לראשוני הפועלים וביתם היה קן-משפחה לפועלים הבודדים, שבעת מחלה או חוסר עבודה היו מקבלים בו עזרה ואשראי "לזמן ארוך" ביחס חברי חם. כאן
+
+ הגו את רעיון יסוד "הפועל הצעיר", שגם הוא היה אחד מראשוניו.
+
+ בתרס"ו-ס"ח השתתף עם פועלים יוזמים אחדים בארגון כשלושים חבר ליסוד מושב-פועלים על חלקות אדמה קטנות ליד המושבה, כדי שיוכלו לנהל משקי-עזר ולהתקיים בארץ גם בזמנים של משבר בשוק העבודה השכירה, ובעזרת הועד האודיסאי של "חובבי ציון"
+
+ יסדו את המושב<persName> עין גנים</persName> .
+
+ אכסן בביתו את א. ד. גורדון אחרי מחלתו וטפל בו בלבביות רבה וחלק אתו את פרוסת לחמם הדלה.
+
+ המשיך בעבודה ובנטיעה ואחרי מות רעיתו בתיה נולדו לו עוד ארבעה ילדים מאשתו השניה. השתתף בכל הפעולות לביסוס המושב ובשמירה ובהגנה.
+
+ נפטר בפתח-תקוה, א' טבת תש"ו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 330 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/330</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3780 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3780</bibl><bibl>Volume: #11 ,Page: 3781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3781</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה יוסף כהן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>יאנינה</placeName> (יון) בשנת תר"ל (1870).
+
+ לאביו<persName> יוסף כהן.</persName>
+
+ קיבל חינוך מסורתי.
+
+ התיתם בילדותו. בן שש-עשרה עלה לארץ (1886) והתישב בירושלים.
+
+ עבד אצל גיסו <persName>יעקב מראש. </persName> בי''מ למנופקטורה.
+
+ כעבור כמה שנים עבר ליפו ועבד אצל חכם <persName>יוסף</persName> <persName>בכר-משה</persName> (ראה כרך א', עמוד 162) בחלפנות.
+
+ בשנת תרנ"א (1891) נשא לאשה את <persName>מרים</persName> בת <persName>מרדכי לארידו.</persName>
+
+ ביפו היה פעיל במלחמה נגד המסיון. פעיל בענין העדה.
+
+ בשנת 1919 עבר לעבוד כמחסנאי בחברת "פרדס" ביפו ועבד שם עד 1924.
+
+ נפטר בתל-אביב, ה' טבת תש"ב (25.12.1941) ונקבר בנחלת יצחק.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3780 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3780</bibl><bibl>Volume: #11 ,Page: 3781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3781</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

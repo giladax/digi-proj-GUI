@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4781</bibl><bibl>Volume: #15 ,Page: 4782 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4782</bibl>
+<bibl>Volume: #15 ,Page: 4783 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4783</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר שמעון גיטר (ראה תמונתו בתמונה הכללית)</persName>
+
+</head>
+         <div><p> נולד בתרע"ה (1915) בהאג, הולנד.
+
+ קיבל חנוך תיכוני ואוניברסיטאי באמשטרדם, לאחר גמר לימודיו בפאקולטה לרפואה, בשנת 1940, התחיל בעבודות-מחקר אצל פרופ' ב.ס.פ. ינסן על נושא תיאמינה.
+
+ באמצע 1942 ברח מהולאנד והגיע לארגנטינה, שם עבד במעבדת הפרופ' <persName>ב.א. הוסאי</persName> . שטח עבודתו שם: אנדוקרינולוגיה ניסויית של הלבלב ויתרת המוח. מאז עלותו לארץ בשנת 1950, עוסק בעבודות מחקר, בשטח הפרמקולוגיה והטוקסיקולוגיה במכון למחקר ביולוגי בישראל.
+
+ לאחר תקופת השתלמות במחלקה הביוכימית של אוניברסיטת אוקספורד, נתמנה בשנת 1955 למנהל
+
+ יושבים משמאל לימין: פרופ' <persName>א. דה-פריס </persName> (חתן הפרס), פרופ'<persName> א. נסאו</persName> (חתן הפרס),<persName> י. חלד</persName> (סגן ראש העיריה וראש שרותי הרפואה העירוניים), ד"ר <persName>מ. לבקוביץ </persName> (חתן הפרס), פרופ' <persName>ש. ג. צונדק</persName> (שופט הפרס).
+
+ עומדים מימין לשמאל: ד"ר <persName>שמעון גיטר </persName> (חתן הפרס), <persName>א. ז. בן-ישי</persName> (מנהל פרסי העיריה),<persName> ד"ר י.</persName> <persName>סיני</persName> (נשיא הסתדרות הרופאים בישראל), ד"ר<persName> י.</persName> <persName>שתקאי</persName> ז"ל (מנהל בית החולים "ביילינסון"), ד"ר <persName>א. אברמוביץ</persName> (מנהל בית החולים העירוני) בתלאביב), ד"ר<persName> י. קריגר </persName> (שופט הפרס).
+
+
+ המעבדה לפיזיולוגיה ניסויית של מכון- רוגוף למחקר רפואי בבית-החולים ביילינסון.
+
+ חבר הנהלת האיגוד לקדום המדע בישראל, מאז הקמתו בשנת 1955, וגזבר האגודה הישראלית לקרנות-מחקר. זכה ב"פרס סולד" ב-1960 של עירית ת"א, יחד עם פרופ' <persName>דה-פריס</persName> על עבודות מחקר בארסי נחשים בישראל.
+
+ נתמנה כחבר באקדמיה למדעים של ניו-יורק ובאיגוד ההמטולוגי הבינלאומי.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4781</bibl><bibl>Volume: #15 ,Page: 4782 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4782</bibl>
+<bibl>Volume: #15 ,Page: 4783 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4783</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5164 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5164</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה (ליאון) פראג</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וורשה</placeName> (פולין), י"ג סיון תרע"ד (7.6.1914).
+
+ לאביו<persName> ישראל אשר פראג </persName> (בן-דודו של הרב <persName>יצחק פראג,</persName> שעל שמו נקרא רחוב בירושלים) ולאמו <persName>צביה</persName> בת <persName>משה סמולז'.</persName>
+
+ קיבל חינוך מסורתי וכללי, באוניברסיטה וורשה ובביה"ס למדעי המדינה.
+
+ היה חבר קואופורציה של סטודנטים "זל ציה" ב<placeName>וורשה</placeName>.
+
+ בשנת 1934 עלה לארץ.
+
+ כל השנים היה חבר פעיל ב"הגנה".
+
+ בשנים 1936-44 שירת במשטרת המנדט בארץ.
+
+ בשנים 1946-48 היה מזכיר כללי של האגודה "לאסירינו", אגודה כל-ארצית של הועד הלאומי ליהודי א"י, לעזרת אסירים פוליטיים מכל הזרמים.
+
+ משנת 1948 במשטרת ישראל.
+
+ בשנת 1955 נשא לאשה את <persName>שילה</persName> בת <persName>יוחנן קוק.</persName>
+
+ בשנים 1957-59 היה מפקד בית הספר לקצינים במשטרת ישראל.
+
+ כיום, ניצב - ראש אגף המשטרה וההדרכה במטה הארצי של משטרת ישראל.
+
+ כתב מאמרים על נושאים מקצועיים.
+
+ בניו: <persName>אלכסנדר, רפאל, דוד-רם.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ (המשך לערך שלו בכרך י"ז, בעמוד 5164)
+
+ בראשון לאפריל 1969 מונה לתפקיד מפקד מחוז תל-אביב של המשטרה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5164 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5164</bibl>            <bibl>Volume: #18 ,Page: 5483 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5483</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

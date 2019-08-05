@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 485 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/485</bibl><bibl>Volume: #1 ,Page: 486 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/486</bibl>
+<bibl>Volume: #1 ,Page: 487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/487</bibl>
+<bibl>Volume: #1 ,Page: 488 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/488</bibl>
+<bibl>Volume: #1 ,Page: 489 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/489</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם שמואל סלונים</persName>
+
+</head>
+         <div><p> נולד בחברון, י"ז טבת תרמ"ג (27.12.1882), לאביו ר' <persName>שניאור שלמה זלמן,</persName> מצאצאי <persName>רבי שניאור זלמן</persName> <persName>מלאדי</persName> , בעל ה"תניא", ולאמו<persName> שרה גרוניה </persName> בת <persName>ראובן</persName> <persName>הרץ יעקבסון </persName> מוילנה ואחות עוה"ד <persName>בנימין זאב יעקב</persName> <persName>סון</persName> , שהיה ציר הדומה הראשונה ברוסיה ונתפרסם בנאומו הידוע על הפרעות בביאליסטוק ב-1906. למד אצל הרב ר' <persName>מנדל נאה</persName> ובבית-מדרשו של הגאון<persName> חיים</persName> <persName>חזקיהו מדיני</persName> בעל הספרים "שדי חמד''.
+
+ בתרס''א נשא לאשה את<persName> רבקה</persName> בת ר'<persName> ישראל</persName> <persName>מורגנשטרן</persName> מירושלים ולמד שם שנים אחדות בישיבת "אהל משה" ושמע את שיעורי הרב <persName>יעקב אורנשטיין.</persName> אח"כ חזר לחברון ויסד שם חברת ביקור הולים ולינת הצדק.
+
+ כשפתח בנק אפ''ק בתרס''ז סניף בחברון נתמנה למנהלו ופעל למען גידול הישוב היהודי בחברון ובסביבתה, ולשם כך היה נותן עזרת אשראי מקרן מיוחדת לבעלי מלאכה יהודים שבאו לעבוד בעיר ובכפרי הסביבה, בעיקר במקצועות חדשים, שבהם לא עסקו שם יהודים לפניהם.
+
+ כשפרצה מלחמת-העולם הראשונה והבנק נסגר כרכוש האויב, עבר מ. ש. וסלונים עם משפחתו לירושלים וכאן נתמנה מטעם הד"ר<persName> א. רופין</persName> , ראש המשרד הא"י, בהמלצת מר<persName> א. ז. הופיין,</persName> לנהל את מסירת הכספים הבאים ע"י המשרד הא"י מאמריקה למוסדות וליחידים לשם סיוע. זו היתה עבודה שאנשי השלטון הביטו עליה בעין רעה ואף הטרידוהו בגללה פעמים רבות בחקירות קפדניות ובחיפושים. אחרי שהד"ר רופין הוגלה לאיסטמבול היה מוסיף לשלות לו בדרכים סודיות צרורות של מטבעות-זהב לצרכים הנ"ל, להצלת הישוב ממיתת רעב, ואז כבר הוכרח לעשות את העבודה במחתרת
+
+
+ ממש, בהסתר במרתף, כי הנתפס בפעולות כספיות כאלה היה דינו לתליה. זמן מה נתן לו הקונסול האמריקאי גלזבורק שני חדרים בבית הקונסוליה לעבודה הזאת תחת חסותו, וגם כך היה בסכנה תמידית מצד השלטון ופעם אף הוכרח להמלט בלילה ברגל מירושלים בדרך מלאה הרפתקאות וסכנות עד פתח-תקוה.
+
+ אחרי המלחמה חזר לעבודתו בבנק אפ"ק בירושלים כסגן-מנהל וזמן-מה כגזבר ראשי. השתתף ביסוד ועד העיר ליהודי ירושלים והיה מראשוני חבריו, שופט במשפט השלום העברי, ציר באספת-הנבחרים הראשונה מעדת חברון וחבר ועדת הישיבות ותלמודי-תורה מטעם ועד הצירים, - ובאביב תרפ"ד התפטר משרותו בבנק ופתח משרד פרטי לקרקעות.
+
+ בירושלים יסד את השכונות "רוממה", "רוחמה" ו"גפן אדרת" (בזו נרכשו ממנו קרקעות למוסדות שונים). כן נגאלו בעזרתו השטחים שעליהם נבנו השכונות "קרית שמואל" (על-ידי אוצר החסד "קרן שמואל"), "שכונת אלישר", קרקע ברובע קטמון ואדמות בית צפפה ומלחה בקרבת "מקור חיים".
+
+ במהומות תרפ"ט בזזו הפורעים את ביתו בתלפיות ואז עבר עם משפחתו לתל-אביב וגם כאן המשיך בעסקי גאולת קרקעות. עבד יחד עם<persName> דב שפק-לובזובסקי, אלעזר</persName> <persName>אלישר, חי אלישר,</persName> ואח"כ עם <persName>ישראל טיבר</persName> , רכשו קרקעות מאדמות הכפר שייך, מואניס, בנו גשר חדש על הירקון וארגנו וביצעו בהשתתפות המושבות המעונינות את סלילת הכביש החדש מתל-אביב להרצליה. בצפון תלאביב גאל יחד עם חי אלישר קרקעות מאת גרמנים משרונה, שעליהם נבנו בית-העולים החדש, מעונות עובדים ובתי מגורים ובשטח זה נבנו הרחובות שלמה המלך, פילון, שפינוזה, ריינס (את הקטע של רחוב זה שעבר בחלקם סללו על חשבונם) וגוטליב.
+
+ ב-1931 פתח משרד לקרקעות בשם מ. ש. סלונים ובנו (הוא בנו<persName> לוי יצחק</persName> , שהיה קודם לכן פקיד בממשלה) וממשיכים בגאולת קרקעות. מהקרקעות שגאלו מעבר לירקון נרכשו מהם שטחים לצרכי מפעלי תעשיה, בתי מגורים לקבוצת "הדר יוסף'' ולפרטים ולקבוצת נהגים "יד המעביר". כן גאלו והכשירו וחילקו לשיכון קרקעות נוספים בצפון תל-אביב, ברמת יצחק, ליד שכונת "אגרובנק", בחולות מעבר לירקון, באדמות ג'ליל, בפתח-תקוה ובטבריה.
+
+ בשנת תש"ו הוציא את הספר "תולדות משפחת הרב מלאדי" (ר' שניאור זלמן בעל ה"תניא"), הכולל את מגילת היוחסין של צאצאיו ב-8 דורות במשך קרוב למאתים שנה, ובהם מניחי היסוד לישוב של חסידי חב"ד בחברון ובירושלים וחלוצי הישוב האשכנזי בכלל.
+
+ צאצאיו: <persName>לוי יצחק, ברכה</persName> אשת<persName> ד"ר ראובן (רודולף)</persName> <persName>קובץ </persName> (ברזיליה),<persName> מנוחה</persName> אשת <persName>אברהם אפשטין, בתיה</persName> אשת <persName>יעקב טיל, שולמית</persName> אשת <persName>פנחס דובובסקי ויהודית</persName> אשת<persName> יצחק אלנברג.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ז' טבת תשט"ו (1.1.55) (ראה כרך א'. עמוד 488)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 485 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/485</bibl><bibl>Volume: #1 ,Page: 486 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/486</bibl>
+<bibl>Volume: #1 ,Page: 487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/487</bibl>
+<bibl>Volume: #1 ,Page: 488 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/488</bibl>
+<bibl>Volume: #1 ,Page: 489 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/489</bibl>
+            <bibl>Volume: #6 ,Page: 2716 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2716</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

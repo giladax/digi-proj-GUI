@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2636 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2636</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל כהן יוחננוף</persName>
+
+</head>
+         <div><p> נולד בית בוכרה (בוכרה), בשנת תרכ"ז (1867). לאביו <persName>יוחנן </persName> ולאמו<persName> רחל.</persName>
+
+ קבל חנוך מסורתי בירושלים סוחר וחרשתן.
+
+ בן שבע היה כשעלה עם משפחתו לארץ(בשנת 1874). נשא לאשה את<persName> רחל</persName> בת הרב <persName>נסים כהן </persName> (מעסקניה הראשונים של הישוב העברי ביפו).
+
+ לקח חלק פעיל בעלית היהודים הבוכרים לירושלים והיה ממיסדי השכונה "רחובות" (שכונת הבוכרים) בירושלים. בערבותו נכנסו לארץ עולים רבים.
+
+ היה אחד מ-60 הבונים הראשונים של העיר תל-אביב. ממיסדי בית הכנסת "אוהל מועד" בתל-אביב וגבאי עד יום פטירתו.
+
+ היה חבר ועד הקהלה והמועצה הדתית ביפו-תל-אביב. חבר חברה קדישא.
+
+ נפטר בתל-אביב, כ"ז אלול תשי"ב (17.9.1952). צאצאיו: <persName>יוסף </persName> (ראה בכרך זה), <persName>שרה</persName> אשת<persName> ידידיה</persName> <persName>ברוך, יהודה</persName> (ראה בכרך זה), <persName>דבורה</persName> אשת<persName> הרברט</persName> <persName>ישקוביץ.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2636 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2636</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

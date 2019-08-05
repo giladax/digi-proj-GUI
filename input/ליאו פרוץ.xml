@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4559 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4559</bibl><bibl>Volume: #14 ,Page: 4560 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4560</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ליאו פרוץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פראג</placeName> (צ'כוסלובקיה) בשנת תרמ''ב (1882).
+
+ לאביו <persName>בנדיקט פרוץ </persName> (סוחר ובעל תעשיה) ולאמו <persName>אמה</persName> בת <persName>שמעון אוסטרייכר.</persName>
+
+ אחיו של העסקן והנדבן הידוע, בעל תעשיות בארץ, הנס פרוץ (ראה כרך ג', עמוד 1475).
+
+ בן 16 היה כשעבר לוינה (אוסטריה), סיים לימודיו באוניברסיטה במקצוע המתמטיקה.
+
+ רוב שנותיו בילה בוינה. בה רכש לו עמדה מכובדת בין סופרי אוסטריה.
+
+ נשא לאשה את <persName>גריפה</persName> לבית<persName> המבורגר.</persName>
+
+ עסק בעניני ביטוח כמומחה לעניני סטטיסטיקה וחישוב, אד לפתע נטש את מקצועו והתחיל לכתוב. ספרו הראשון (בהיותו בן 29) "הכדור השלישי",
+
+ על כיבוש מכסיקו זכה בהצלחה. הופיע בעשר מהדורות (בהוצאה המפורסמת של <persName>אלברט לאנגה)</persName> ; ספרו השני "בין תשע לתשע" - על רגשותיו והרהוריו של מתאבד, המרחף בין שמים וארץ. תורגם לתשע שפות. לעברית תורגם ע"י <persName>לאה גולדברג</persName> ונדפס ב"דבר" בהמשכים: ספרו השלישי ה"מרקיזה דהבוביבאר" - המתאר את מלחמת הספרדים בנפוליון. תורגם לתשע שפות ואף הוסרט; "לאן אתה מתגלגל, תפוח?" - רומן מימי המהפכה הרוסית (הופיע גם
+
+
+ בהמשכים לפני מלחמת העולם השניה בעתון "ברלינער אילוסטריכטע); "הפרש השבדי" (נדפס בימי עלות היטלר לשלטון, ולפי דעתו של פרוץ, זהו ספרו הטוב ביותר שלא קבל פרסום ראוי); "בעל המשפט האחרון" רומן בשם "טורלופון" (מעשה בסופר צעיר המכשיל את מלחמת רישליה במונרכיה מבלי לדעת על הדבר); "שר אחרית הימים" (סיפור מרתק בלי בלשים); "נס על המאנגו" (כתב ממש בחפירות בימי המלחמה).
+
+ כתב שני מחזות: "יום המחר הוא יום חג" ו"הנסיעה לפרסבורג''. המחזה השני הוצג ע"י <persName>ריינ</persName> הארדט בוינה ב"תיאטר און דער יוזפס שטאדט".
+
+ בשנת 1938 עלה לארץ.
+
+ בארץ חיבר שני ספרים, ולשניהם קשר עם היהדות. הספר הראשון "לילה מתחת לגשר האבן" - המתאר את תקופתו של המהר"ל מפראג. חמש שנים התעמק בלימודי התלמוד והקבלה כדי להחיות לעצמו את הווי הגיטו הישן ב<placeName>פראג</placeName>. "כשכתבתי את הספר הזה, עמדתי תחת הרושם המזעזע של השמדת ששת מליונים מבני עמי" - מספר <persName>פרוץ</persName> ; ספר שני שהשלים ועליו עמל עשר שנים "יהודה איש קריות של הסעודה". הרקע - הצייר ליאונרדו דה-ווינצ'י, מחפש ברחובות מילאנו באיטליה את האדם המושחת ביותר בעולם, כדי שישמש לו "דוגמן" לדמות <persName>יהודה</persName> <persName>איש קריות</persName> ליצירתו "הסעודה האחרונה''. הוא מוצא אותו לבסוף בדמות סוחר גרמני.
+
+ ספריו הופיעו ע"י הוצאות ספרים מפורסמות: "לנגן" ו"סולנאי" בגרמניה. שלשה מספריו הוסרטו, אחד נרכש להסרטה ע"י חברת טלביזיה וכמה ממחזותיו הוצגו בתיאטרונים שונים.
+
+ בברית המועצות תורגמו כמה מספריו.
+
+ הכין מחרוזת סיפורים, כ-15 סיפורים, שיהוו רומן שלם בשם "אוצר מייזלס''. הרקע - פראג של ימי הגולם, תקופת רודולף השני.
+
+ היה סופר צנוע ונחבא אל הכלים. מתיחד עם עצמו ועם יצירתו. כל רעש, כל מהומה ספרותית, זרה היתה לרוחו. העיקר אצלו היה: הכתיבה והיצירה. לא אהב לדבר על עצמו. חזר על עקרונו היסודי: הסופר אינו חשוב, יצירתו חשובה, היא המכרעת - היא בלבד.
+
+ נפטר באישל (אוסטריה), כ"ח אב תשי"ז (25.8.1957).
+
+ צאצאיו: <persName>פליקס, מיכאלה, לורה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4559 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4559</bibl><bibl>Volume: #14 ,Page: 4560 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4560</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

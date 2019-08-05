@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 701 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/701</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים זלמן וייסברג</persName>
+
+</head>
+         <div><p> נולד במיהאלביץ, הונגריה וכיום סלובקיה, כ"ה תשרי תרכ"ז (1866), לאביו<persName> יוסף דוד</persName> סופר סת"ם. למד בחדרים ובישיבות אצל דודו הרב מנחם זאב ויסברג בעיר טרקני (הונגריה) ובשנת תרמ"ו עלה ארצה עם הוריו והתישבו בירושלים.
+
+ בכסלו תרמ"ח נשא לאשה את <persName>חנה</persName> בת<persName> עקיבא</persName> <persName>צורף</persName> (ניפלד).
+
+ בשנת תרנ"ד הקים בירושלים את בית-החרושת הראשון לגזוז בעזרת הלואה בסך ששים נפוליונים מבנק<persName> המבורגר</persName> בירושלים. שכר מרתף בעיר העתיקה אך מחוסר אמצעים לקנות מוטור שיניע את המכונה השתמש בחמור שיסובב את גלגל המכונה, וכך עבד זמן מה בתעשיה זו עד שהחמור כרע תחת עבודתו ונפח את נפשו. גם מלאי הבקבוקים פחת והלך בגלל שבירה והתפקעות וההכנסה הדלה של העסק לא הספיקה למלא את החסר, עד שבסוף הפסיד את ההון המושקע והעסק נתחסל.
+
+ בתרע"ב עסק במסחר לולבים מעבר הירדן והיה מהראשונים ששלחו לולבים מגידולי עבר הירדן לחוץ לארץ.
+
+ נסע כמה פעמים בשליחות כולל הונגריה לאמריקה בשנות: תרס"ה, תרס"ז ותר"ע. לעת זקנה פרש מהעסקים ועסק רק בתורה ובתפילה.
+
+ תשעה ימים אחרי מות אשתו (א' אדר תש"ז), בשנתו השמונים נפטר גם הוא בירושלים, י' אדר תש"ז.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 701 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/701</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

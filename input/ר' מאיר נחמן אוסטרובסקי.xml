@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1136 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1136</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ר' מאיר נחמן אוסטרובסקי</persName>
+
+</head>
+         <div><p> לאביו <persName>יוסף ברוך</persName> (ת"ח) ולאמו <persName>איטל</persName> . נולד ב<placeName>סלוצק</placeName> בשנת תקצ"ח (1838).
+
+ קיבל חינוך בחדר ובישיבות.
+
+ נשא לאשה את <persName>חיה</persName> בת <persName>מרדכי מונבז</persName> , ממינסק.
+
+ עבר מסלוצק לעיר קרלין-פינסק ועסק שם במסחר העצים ובחורשות והצליח בעסקיו.
+
+ התקרב לתנועת חיבת ציון שנתעוררה באותן השנים. תרם ביד רחבה לכל המוסדות, ובעיקר תמך בידי השד"רים שבאו לרוסיה מא"י למען מוסדות התורה והחסד. ביתו היה בית ועד לחכמים ולמשכילים שבעיר קרלין.
+
+ הבית היה לו אופי חרדי גמור בתוספת השכלה עברית ורוסית. הבנים והבנות התחנכו בחדרים פרטיים אצל מורים מומחים שהתאמצו להתאים להם השכלה של בית ספר תיכוני בתוספת השכלה עברית מסורתית.
+
+ בסוף שנת תרנ"ז עלה עם בני משפחתו לארץ. הכניס את בניו לישיבת "תורת חיים" שהיתה ישיבת טפוחיו ממסד ועד הטפחות בעזרו להרב יצחק וינוגרד, ראש הישיבה - ביסוד הישיבה ובהמשכת קיומה.
+
+ נפטר בירושלים, בער"ח אייר תרס''ו.
+
+ צאצאיו:<persName> יוסף ברוך</persName> ז"ל, <persName>עקיבה</persName> ז''ל,<persName> בילה</persName> אשת ר' <persName>שאול זילברפנינג, יצחק </persName> ז"ל, <persName>סיכלה</persName> אשת <persName>זליג טיר,</persName> הרב מרדכי (ראה את הערך שלו בכרך זה), הרב<persName> משה המאירי </persName> (ראה כרך א', עמוד 182).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1136 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1136</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

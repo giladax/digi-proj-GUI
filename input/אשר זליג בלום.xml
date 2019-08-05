@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 230 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/230</bibl><bibl>Volume: #1 ,Page: 231 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/231</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אשר זליג בלום</persName>
+
+</head>
+         <div><p> נולד בנובידבור, ליד וארשה, בשנת תר"ח (1848), לאביו החסיד ר'<persName> זאב וולף</persName> . קיבל חינוך תורני חסידי ובעודו נער כבר נסע פעמים אחדות עם אביו אל הרבי. בהיותו בן 15 השיאו לו הוריו לאשה את בתו של חסיד עשיר. בן 17 יצא עם אשתו לאנגליה, כדי שאחיו הבכור ישאר בן יחיד וישוחרר מחובת השרות בצבא. התלבט באנגליה בקשיים בדבר פרנסה, ולאחר שנה יצא לאמריקה, בהיותו בן י"ח ואב לבנו הבכור, והתישב בשיקאגו. לאחר שנתים עבר לסינסינטי ויחד עם שותף יהודי פתח לו בית-מסחר גדול לבגדים והצליח בו. פעם נודע לו, שהשותף מנהל את המסחר גם בשבת ואינו מוכן לחדול, יצא מהשותפות והלך לעבוד כפועל שכיר במפעלו של יהודי שומר שבת, הצטיין בעבודה והוגדל שכרו ושוב חסך כסף ופתח לו בית-מסחר בלי שותפים.
+
+ בינתים עלה מספר הילדים לחמשה והוא ואשתו דאגו כיצד לחנכם ליהודים שומרי תורה באוירה האמריקאית, והגיעו למסקנה שאין אפשרות לכך אלא בארץ-ישראל, - וב-1878 מכר בלום את עסקו ועלה ארצה עם משפחתו.
+
+ בירושלים מצא את מיסדי פתח-תקוה בעצם פעולתם לקנית חלקת-הקרקע השנית להרחבת הנחלה היהודית, הצטרף אליהם בקניה ויצא להתישב על נחלתו. עסק בעשית תכנית לחלוקת הקרקע והשגיח על המדידה. ביתו נבנה בידי קבלן רמאי והתמוטט בגשם הראשון. הקים לו צריף והתעקש להשאר במושבה על אף הקדחת ושאר הפגעים, אך ילדיו כבר היו בסכנה מהקרחת והמקום נתרוקן כמעט כליל, ואז עלה ירושלימה והתישב במאה שערים. בהוודע לו, שערבים גונבים את חמרי הבנין וחלקי הברזל מהריסות ביתו, ירד והביא את החמרים על גבי גמלים ונדב אותם לבנין הקומה השניה של ביתהכנסת הגדול בשכונת מאה שערים. יצא בשליחות מיסדי פתח-תקוה עם עוד איש אחד לעורר את נדיבי ישראל במערב-אירופה, וביחוד א<persName>ת הבארון בנימין</persName> <persName>רוטשילד</persName> , שיעזרו לחידוש הישוב והחיים במושבה שנעזבה. שליחותו לא נשאה פרי והוא יצא לאמריקה להשתכר ולצבור כסף לביסוס עתידו במושבה. לאחר שנתים רצה להביא אליו שמה גם את אשתו וילדיו, כי קשה היה לו לנהל את העסק לבדו. אז השיאה אשתו את בתם<persName> חיה שרה</persName> בת ה-14 <persName>לאהרן</persName>
+
+
+<persName>ליב מכנס</persName> , נתנה לזוג חלק מהנחלה והשאירה אצלם את שני בניה הקטנים, והיא עם שתי בנותיה יצאה אל בעלה לאמריקה.
+
+ אחרי שבע שנות עבודה מפרכת חזרו ארצה והוא אמר לחזור לחיי אכר במושבה, אך בגלל מחלת אשתו הוכרח להתישב בירושלים, כאן הפסיד כסף רב בעסקי בתים, אשתו מתה, ולאחר זמן נשא את <persName>רחל</persName> בת <persName>משה צבי לוינזון,</persName> גם הוא מהראשונים במיסדי פתח-תקוה, וכשאמר לצאת ולהתישב על נחלתו נודע לו, כי אדמתו נמכרה לאיש אחר ואין אפשרות לגלות את האשם בכך ואין ממי לתבוע תיקון המעוות ותשלום הנזק.
+
+ יצא שוב לאמריקה כדי לעבוד ולחסוך כסף להוצאות משפטים להשיב לו את נחלתו, אך הפעם לא הצליח עוד בעסקיו, ותקותו לחזור ארצה לא נתמלאה.
+
+ הוא נפטר בשיקאגו, ט' ניסן תרפ"ה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 230 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/230</bibl><bibl>Volume: #1 ,Page: 231 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/231</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

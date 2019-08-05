@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4292 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4292</bibl><bibl>Volume: #13 ,Page: 4293 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4293</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה יפה</persName>
+
+</head>
+         <div><p> נולד בוובלוניק (ליטה), י"ג אדר א' תרמ"ו (1886). לאביו <persName>שמריהו יפה</persName> (מצאצאי הרב מרדכי יפה בעל
+
+ ה"לבושים'') ולאמו<persName> רבקה</persName> בת<persName> שמואל דוד.</persName> קיבל חינוך מסורתי בחדר.
+
+ בשנת תרנ"א (1891) עלה לארץ.
+
+ המשיך ללמוד בירושלים בישיבת "עץ-חיים" ו"תורת חיים".
+
+ היה מורה עברי.
+
+ כ-15 שנה היה חבר מרכז הסתדרות המורים בארץ. יו"ר ועד סניף הסתדרות המורים בתל-אביב.
+
+ בשנת תרס"ה (1905) נשא לאשה את <persName>בבה</persName> בת ר' <persName>פנחס סקולוביץ</persName> (נפטרה בטבעון, כ"ב שבט תשי"ח 12.2.1958).
+
+ היה שופט בבית משפט השלום העברי בתקופת המנדט. היה שופט במשפט החברים של הסתדרות העובדים הכללית.
+
+
+ כתב מאמרים מקצועיים ב"הד-החינוך", "אורים'', ''דבר". "הפועל הצעיר" ו"גליונות לעבודה" בתנ"ך. פרסם ספרים (יחד עם חבר): "ירמיהו", "עמוס", "לשוני". (דקדוק לתלמידים, בהוצאת "מסדה", תשי"ב). כיום, בפנסיה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4292 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4292</bibl><bibl>Volume: #13 ,Page: 4293 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4293</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

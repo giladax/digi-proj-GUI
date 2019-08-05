@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2547 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2547</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר אליהו הירשפלד</persName>
+
+</head>
+         <div><p> נולד בראשון-לציון, ט"ו חשון תרס"ח (23.10.1907). לאביו<persName> צבי</persName> (ראה כרך ג', עמוד 1459) ולאמו <persName>ברכה</persName> בת<persName> יעקב חיים קריצבסקי </persName> (ראה כרך ג', עמוד 1464).
+
+ קיבל חינוך בביה"ס בראשון-לציון ובוגר "מקוה ישראל".
+
+ עבד 5 שנים במשק, עבר לפקידות במוסדות שונים.
+
+ היה פעיל ומפקד בהגנה.
+
+ בשנת 1929 נשא לאשה את <persName>רלקה</persName> בת <persName>הלל הלל</persName> מראשון-לציון.
+
+ גאל שטחי קרקע רבים מידי הערבים. היה ממונה על עניני הבטחון.
+
+ יו"ר הועד למען משפחת החייל, ממיסדי מגן דוד אדום ומכבי-אש במושבה.
+
+ בשנות המלחמה היה מפקד המשמר האזרחי.
+
+ במלחמת השחרור נשלח לנגב בתפקידים מיוחדים, הודות להכרתו את הנגב (עוד מילדותו. אביו היה ממיסדי "רוחמה" שנוסדה ב-1912, וביחד אתו עשה בנגב 1912-17).
+
+ בנותיו: <persName>דליה, רות.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2547 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2547</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

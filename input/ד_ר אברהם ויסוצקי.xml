@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1725 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1725</bibl><bibl>Volume: #4 ,Page: 1726 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1726</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אברהם ויסוצקי</persName>
+
+</head>
+         <div><p> נולד בז'ורנישץ', פלך קיוב, אוקראינה, חשון תרמ''ד (2.11.1883), לאביו ר'<persName> לייב</persName> (רופא ועסקן) ולאמו חוה. בילדותו קיבל חינוך יהודי מסורתי. אח"כ גמר גימנסיה בנימירוב ולמד ריפוי שינים וחירורגיה של הפה באוניברסיטאות שיקאגו (בארה''ב) ורוסיה והוסמך לד"ר לרפואה.
+
+ ב-1905 נשא לאשה את <persName>הדסה</persName> בת <persName>ישראל ויניצקי.</persName> זמן-מה עסק במקצועו באוקראינה ואח"כ עבר לביסק שבסיביר, ושם נתפרסם ברופא-שינים ומנתח. היה יו"ר ההסתדרות הציונית ואחרי המהפכה הרוסית ב-1917 חבר מועצת הפועלים בביסק. נתפרסם לשבח כסופר ברוסית<persName> ומכסים גורקי </persName> קירבו ועודדו.
+
+ ב-1920 עלה לארץ עם משפחתו והשתקע בתל-אביב. זמן-מה אחרי בואו יסד מרפאת-שינים לילדים וכ-1924 נבחר ליו"ר אגודת רופאי השינים. הנהיג חידוש מפליא במקצועו (היה עוקר שינים כדי לנתח את עצמות הפנים ושותל אח"כ חזרה את השינים במקומן והן נקלטו והמשיכו לחיות), וב-1935 גילה תרופה למחלת-החניכים "פיאוריה" והרצה עליה בקונגרסים בינלאומיים של רופאים. פרסם מאמרים מדעיים במקצועו ובזמן האחרון ערך את הירחון "רפואת שינים" של אגודתו. המשיך
+
+ בעבודתו הספרותית ברוסית גם על רקע עברי ארצישראלי (דיבר, כתב וקרא עברית, אך ליצור בלשון ספרותית יפה ועשירה ידע רק ברוסית). חיבר סיפורים רומאנים ודרמות ברוסית מחיי היהודים וא"י ("תל-אביב" ו"הלהבה הירוקה" תורגמו לעברית). כתב רומן היסטורי בשם "סאראגוסה" מתקופת האינקוויזיציה וקטעים ממנו פורסמו בתרגום עברי בירחון "גליונות".
+
+ נפטר בתל אביב ד' אייר תש"ט (5.3.49).
+
+ צאצאיו :<persName> אלכסנדר (</persName> ז"ל)<persName>, אסתר</persName> אשת ד"ר<persName> משה</persName> <persName>מישורי</persName> (רופא שנים).<persName> יהודית </persName> אשת ד"ר<persName> אריה רוזנפלד.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1725 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1725</bibl><bibl>Volume: #4 ,Page: 1726 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1726</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

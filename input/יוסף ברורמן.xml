@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3054 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3054</bibl><bibl>Volume: #8 ,Page: 3055 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3055</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף ברורמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סקורני</placeName> (בסרביה) א" תשרי תרנ"ו (סוף 1895).
+
+ לאביו<persName> שמחה </persName> (ראה כרך ג', עמוד 1169) ולאמו<persName> מרים</persName> בת <persName>קרפל מורגנשטרן.</persName>
+
+ קבל חנוך מסורתי ובשנת תרע"א (1911) עלה לארץ וגמר את הגמנסיה העברית הרצליה במחזור השלישי. ואח"כ את האוניברסיטה הארווארד בארצות הברית. קבל תואר אינג'ינר כימאי (1921) וד"ר למדעים בסורבונה (פריז).
+
+ נשא לאשה את<persName> שרה </persName> בת <persName>שמואל דוד קרוסרסקי</persName> (ראה כרך ג', עמוד 1494).
+
+ היה בין יוזמי התערוכות הראשונות בתל-אביב (בשנות 1923-25) ומזכיר ראשון ללשכת המסחר בתלאביב (בשנות 1922-23).
+
+ בשנת 1926 מיסד ועורך ירחון "בנין וחרושת''.
+
+ היה עורך ומיסד "הדר", עתון לעניני ההדרים בא"י ביחד עם מר<persName> יצחק רוקח</persName> (משנות 1941-1928).
+
+ חלוץ במקצוע עבוד פרי הדר לתוצרת לואי שונות משנת 1922.
+
+ חוקר כבוד במדור לטכנולוגיה של מזון, אוניברסיטה קליפורניה (1950).
+
+ בשנת 1946 היה נשיא אגודת האינג'ינרים והארכיטקטים בא"י.
+
+
+ בעל פטנטים אחדים בתוצרת פרי הדר.
+
+ במשך 25 שנה (1955-1930) היה מנהל הטכני של בית החרושת "יפ-אורה" בע''מ ברחובות. מיסד יפ-אורה בע''מ (1930),
+
+ החל מ-1953 פרופסור בטכניון העברי בחיפה, לטכנולוגיה של מזון וביוכימיה.
+
+ כתב מאמרים רבים בעתונות המקצועית.
+
+ חיבר ספר על הכימיה והטכנולוגיה של תוצרת הדר Citrus Productsבשפה האנגלית - הוצאת . Interseionce Publish Coבניו-יורק 1949. (הספר תורגם גם לספרדית ונדפס במדריד 1952).
+
+ נספח מדעי לשגרירות ישראל בלונדון (1951-53).
+
+ צאצאיו: בנו <persName>עמיאל</persName> (גם הוא כימאי למזון).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3054 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3054</bibl><bibl>Volume: #8 ,Page: 3055 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3055</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

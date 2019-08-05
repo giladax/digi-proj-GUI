@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 144 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/144</bibl><bibl>Volume: #1 ,Page: 145 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/145</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהושע צ'דבינסקי</persName>
+
+</head>
+         <div><p> נולד בשנת תרט"ו (1855) בעיר גראייבה (בפולין על גבול פרוסיה) לאביו <persName>יוסף.</persName> נתחנך בישיבות. היה מגיד שיעורים ודרשן בגראייבה ואח"כ היה שו"ב ורב בעיר חורזי'לה. פעל בדרשותיו בווהלין, כבסרביה ובאודיסה למען ישוב ארץ-ישראל ולטובת מוסדות התורה והחסד בארץ.
+
+ בפעם הראשונה ביקר בארץ עם אשתו בשנת תרנ"ט. בפעם השניה בא לחתונת בנו ישראל בשנת תרס"ב ובשנת תרס"ו בא עם בני ביתו להשתקע בירושלים.
+
+ כאן המשיך להרביץ תורה ולדרוש ברבים וגם חינך את המוכשרים שבתלמידיו לדרשנות וכמה מהם היו לתפארת לרבם בארץ ובחו"ל. כן התמסר לפעולות צדקה וגמילות-חסדים, לחיזוקה ולביסוסה של ישיבת מאה שערים. בתרס"ז בנה על שטח שומם בקרן
+
+
+ רחוב מאה שערים ושכונת בית ישראל את הבית היפה והחדיש ביותר בימים ההם. אח"כ הרחיב והגדיל את הבנין (אחרי פטירתו בנתה אשתו בקומה השלישית את בית המדרש "ישועת ישראל" והקדישתו לחסידי אלכסנדר). יחד עם אחרים יזם וטרח בגאולה
+
+ "אחוזת קלישר" שליד קבר רחל.
+
+ הוא ואשתו הניחו עזבונות מהכנסות הבית והחנויות שבמבוא שכונת "בית ישראל" לתמיכה בתלמידיחכמים ולמתן פרסים לתלמידים המצטיינים שבתלמודתורה מאה שערים ודירה להכנסת אורחים תלמידי חכמים. חיבר ספר דרוש ופירושי אגדות התלמוד בשם "תשואות חן". חלקו הראשון יצא לאור בשנת תרפ"ד בירושלים והחלק השני בשנת תרפ"ז, אחרי פטירתו, ועוד נשארו אחריו אצל בנו דברי דרוש וחידושי תורה בכתב-יד.
+
+ נפטר בירושלים ביום ב' אייר תרפ"ז.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 144 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/144</bibl><bibl>Volume: #1 ,Page: 145 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/145</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

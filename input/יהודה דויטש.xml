@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4269 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4269</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה דויטש</persName>
+
+</head>
+         <div><p> נולד בטרנובו (צ'כוסלובקיה), ביום ז' תמוז תרס"ה (9.7.1905).
+
+ לאביו<persName> יוסף </persName> (אחיו של הרב<persName> יהודה יואל דויטש,</persName> הגאון מגניף, צ'כוסלובקיה) ולאמו <persName>פרימלט</persName> בת<persName> זישא קסירר.</persName>
+
+ קיבל חינוך מסורתי וכללי תיכוני.
+
+ רואה חשבון. היה מבקר החשבונות של המוסדות הכלכליים של הפועל המזרחי.
+
+ היה חבר הוועד הפועל המורחב של הסתדרות המזרחי והפועל המזרחי בצ'כוסלובקיה.
+
+ המנהל המחוזי של צעירי והחלוץ המזרחי ברוסיה הקרפטית. מייסד למעלה מ-30 סניפים של המזרחי בצ'כוסלובקיה.
+
+ בשנת 1928 נשא לאשה את<persName> זלדה</persName> בת <persName>יצחק אייזיק</persName> כץ.
+
+ בשנת 1934 עלה לארץ.
+
+ היה מנהל החשבונות הראשי של "אוצר לאשראי של הפועל המזרחי בע"מ" בתל-אביב.
+
+ היה ציר אספת הנבחרים.
+
+ היה ציר הקונגרס הציוני ה-18 מטעם המזרחי בצ'כוסלובקיה בפרג (1933).
+
+ חבר המשמר האזרחי והג"א.
+
+ בנותיו: <persName>חסידה</persName> אשת <persName>אליהו מונד, אסתר</persName> אשת <persName>צבי</persName> <persName>שליפקוביץ, שושנה</persName> אשת<persName> דוד שפירא.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4269 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4269</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

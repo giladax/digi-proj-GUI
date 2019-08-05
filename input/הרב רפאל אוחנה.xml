@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3606 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3606</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב רפאל אוחנה</persName>
+
+</head>
+         <div><p> נולד ב<placeName>מכנאס</placeName> (מרוקו) בשנת תר"י (1850).
+
+ בשנת תרכ"ה (1865) עלה לארץ עם אביו-זקנו ר' <persName>יהודה אוחנא</persName> והתיישב בטבריה.
+
+ בשנת תרמ"א (1881) יצא בשליחות כולל טבריה לבוכארה והוא היה הראשון שקבע שם קופות<persName> ר' מאיר</persName> <persName>בעל הנס </persName> לטובת ישובה של טבריה.
+
+ על שליחותו זאת הוא כותב בהקדמה לספרו "טובת מראה": "הלכתי בארץ מדבר שמם על הגמלים טו"ב ימים ולילות בסכנה עצומה ונדרתי שאם הקב"ה יצילני וישיב את שבותי חי ובריא לעיה"ק טבריה ת"ו חובה עלי לחבר ספר המדבר בשם עיה"ק הנז'".
+
+ אחר-כך יצא בשליחות-טבריה פעמים אחדות, לצפוןאפריקה (תרנ"ז), סוריה, בגדאד והודו (תרנ"ד).
+
+ חיבר ספרים עממיים שונים: "שיר חדש" (ירושלים תרמ"ט); "ישוב מערבי" (שם תרנ"ו), "טובת מראה" (הנ"ל שם תרנ"ז); "מראה הילדים", (שם תר"ס); "ראה מעשה" (שם תרס"ב); "נזכר הלכה", (שם תרס"ו). 
+
+ נפטר בצפת כ"ז אב תרס''ב (1902).30.8).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3606 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3606</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

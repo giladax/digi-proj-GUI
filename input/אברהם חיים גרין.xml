@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1647 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1647</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם חיים גרין</persName>
+
+</head>
+         <div><p><persName>(אבי משפחת גרין בארץ)</persName>
+
+ נולד בברודי, גליציה המזרחית, בשנת תק"פ (1820), לאביו <persName>יצחק</persName> (ממשפחת חסידים ידועה).
+
+ אחרי למדו תורה בבחרותו החליט לעלות לארץ. בימים ההם עוד לא היו מסילות-ברזל, ולנסוע בדרך
+
+ היבשה עד לנמל האוסטרי של טריאסט היה מרחק עצום מדי בשביל בחור מברודי. לכן בחר את הדרך הקצרה לאודיסה, נמל העליה של יהודי רוסיה. שם נשא לאשה בשנת תר"א את<persName> סלובה</persName> ממשפחה יהודית מקומית. מכאן המשיך את מסעו בשני חלקים. מקודם עבד שנים אחדות באיסטמבול וחסך לו כסף, ואח"כ עלה ארצה בשנת תר"ח דרך נמל בירות ואחרי ביקור בצפת (במירון) עלה ירושלימה, השתקע שם ועסק במסחר, ובניו המשיכו ללכת בעקבותיו ופיתחו בראשונה בארץ את המסחר בבגדים מוכנים שהובאו מחו"ל ובהתקנת בגדים וגיהוצם לפי צרכי הלקוחות, ושנים מהם היו מחלוצי הישוב והמסחר בשתי ערי החוף של הארץ.
+
+ נפטר בירושלים, בשנת תרנ"ה (1895).
+
+ בניו:<persName> יחזקאל </persName> (אבי המשפחה ביפו), <persName>משה</persName> (נשאר בירושלים),<persName> יעקב</persName> (אבי המשפחה בחיפה, ראה כרך שני, עמוד 967).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1647 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1647</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

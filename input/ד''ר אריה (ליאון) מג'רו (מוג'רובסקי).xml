@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4227 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4227</bibl><bibl>Volume: #13 ,Page: 4228 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4228</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד''ר אריה (ליאון) מג'רו (מוג'רובסקי)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אודסה</placeName> (רוסיה), כ"א כסלו תרנ"ג (10.12.82).
+
+ לאביו<persName> שמעון מוג'רובסקי</persName> (עורך דין, מנהל אדמיניסטרטיבי של העתון "אודסקויה נובוסטי" ובעל בית מסחר ספרים ב<placeName>אודסה</placeName>) ולאמו<persName> אנא</persName> בת הרב <persName>פיבל</persName> <persName>בלומנפלד </persName> (הרב מטעם הממשלה בחרסון. דודו<persName> הרמן</persName> <persName>בלומנפלד</persName> היה עו"ד ידוע ברוסיה וסנטור בזמן שלטונו של קרנסקי).
+
+ קיבל חינוך מסורתי וכללי. רופא מוסמך בפקולטה לרפואה ב<placeName>אודסה</placeName> (1918).
+
+ בפברואר 1919 עלה לארץ באניה "ארג'נספלד". טיפל בנוסעים - חיילים משוחררים ערבים ונדבק מהם בטיפוס הבהרות. ירד מהאניה ישר לבית החולים שערציון בנוה שלום, יפו (שנוסד ע"י העסקן המנוח שמעון רוקח ז"ל. ראה כרך א', עמוד 68).
+
+ בשנות 1920-1919 עבד כרופא בלוד.
+
+ בשנת 1920 נשא לאשה את<persName> חנה</persName> בת העסקן<persName> שמעון</persName> <persName>רוקח </persName> ז"ל הנ"ל. בשנות 1922-1920 שירת כרופא במחלקת הבריאות
+
+ בא"י, בבית החולים למחלות מדבקות בחיפה ובתור רופא קרנטינה בקנטרה.
+
+ משנת 1922 עד 1927 גר עם אשתו בעיר העתיקה בירושלים. שם פתח קליניקה פרטית.
+
+ משנת 1925 עד 1958 שירת בתור רופא של בית החולים "בקור חולים" הישן (בית החולים לחולים
+
+
+ כרוניים - בי"ח למתנונים. עד עזיבת העיר העתיקה היה שם בית החולים ואח"כ בעיר החדשה ליד זכרון משה).
+
+ כתב מאמרים ב"הבקר": "כך נרכש שטח בית העלמין ברחוב טרומפלדור לפני 60 שנה" ו"סנגוריה על מנדל בייליס".
+
+ צאצאיו: <persName>לאה</persName> (עו"ד וציירת) אשת עו"ד <persName>יצחק</persName> <persName>מינץ, שמעון</persName> (עו"ד - בריסטר LL.B.נשוי לגב' <persName>המלה</persName> LL.B.בת <persName>הרי צבי כהן-מילס</persName> מאנגליה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4227 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4227</bibl><bibl>Volume: #13 ,Page: 4228 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4228</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

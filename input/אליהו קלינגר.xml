@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1171 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1171</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו קלינגר</persName>
+
+</head>
+         <div><p> נולד בצפת, י"ח שבט תרל"ז (1877). לאביו ר' <persName>חיים שמשון זיידע</persName> (מזכיר כולל ויז'ניץ) ולאמו <persName>שיינדל</persName> בת <persName>פאליק וייסברג </persName> (קובושנה) מקישינוב.
+
+ למד בחדרים ובישיבות צפת ונשא לאשה את <persName>חנה</persName> בת <persName>מרדכי אשכנזי </persName> מטבריה.
+
+ עבד כפקיד בבנק המקומי <persName>ברזל את ברשד</persName> ולאחר <persName>זמן</persName> הצטרף כשותף אליהם והבנק נקרא על שם שלשתם. משנפתח סניף בנק אפ"ק בצפת ור'<persName> יואל ברשד</persName> הוזמן לנהלו ויצא מהבנק המקומי, נשאר הבנק בשותפות<persName> ברזל את קלינגר</persName> , ומשנפטר ר' <persName>צבי ברזל </persName> וקלינגר שילם את חלקו של שותפו המיוח ליורשיו נשאר הבנק בשם אליהו קלינגר.
+
+ עזר בהלואות ובהעברות כספים לטובת אנשים פרטיים ומוסדות הישוב הישן בעיר והשתתף גם בפעולות כספיות וצבוריות לפיתוחה ולבנינה של צפת והסביבה. כסוכן מחוזי של חברת "של" ניהל עסקי הספקת דלק עם היהודים והערבים בעיר ובכל הסביבה. גם לערבים עזר בהלואות, אך זה לא מנע אותם משרוף את ביתו ומחסן-הדלק בעת מהומות תרפ"ט ומרצוח את בנו במהומות תרצ"ח.
+
+ כראש העדה החרדית של "אגודת ישראל" (מחוץ ל"כנסת ישראל") שיתף פעולה עם ראשי קהלת כנסת ישראל בצפת בכל עניני העדה והחזקת השרותים הצבוריים והדתיים ובייצוגה כלפי חוץ.
+
+ צאצאיו: <persName>יהושע, מרים</persName> אשת <persName>אברהם פראנקנטאל</persName> (צפת), <persName>לאה</persName> אשת<persName> אליקום סימקוביץ</persName> (חיפה), <persName>מרדכי</persName> (צפת),<persName> יעקב </persName> (עורך-דין, נרצח במהומות תרצ"ח). 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1171 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1171</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 739 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/739</bibl><bibl>Volume: #2 ,Page: 740 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/740</bibl>
+<bibl>Volume: #2 ,Page: 741 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/741</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב ויסמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> ביום ח' סיון תרמ"ו (1886), לאביו <persName>מתתיהו-מרדכי </persName> (ממשפחה חב"דית מיוחסת, מצאצאי משפחת רומן שהיתה ממיסדי הישוב החסידי בצפת), ולאמו חיה בת חיים צבי בק (בת אח של ניסן בק, בונה ביהכ"נ בק ב<placeName>ירושלים</placeName>).
+
+ קיבל חנוך מסורתי בביתו ולאחר שהוריו עברו ליפו למד שם בבית-הספר של חובבי-ציון.
+
+ בן 15 נכנם ללמוד חקלאות במקוה ישראל, אולם כעבור שלש שנים הפסיק את למודיו מטעמי בריאות.
+
+ כעבור זמן קצר הוזמן לשמש מורה בבית הספר בגדרה ולימד שם את מדעי הטבע. הנהיג למודי חקלאות למעשה וקבע שעות לעבודה בגן. הכניס לבית
+
+ הספר ולמושבה בכלל את הדיבור העברי במבטא הס
+
+ פרדי, כי עד אז דיברו שם במבטא האשכנזי.
+
+ נשא לאשה את <persName>בילה</persName> בת<persName> יהושע דב בנינסון</persName> (מראשוני חובבי ציון, ביתו שימש מרכז לתנועת חבת ציון במינסק ובסביבה).
+
+ ב-1905 עבר למצרים ונתקבל כפקיד בקהיר ב"בנק הגרמני המזרחי" ("דויטשה אוריינט בנק"). עלה בדרגה ונתמנה למנהל סניף הבנק במיניה (במצרים העילית). אח"כ יסד יחד עם ד"ר שויצר בנק פרטי בשם "שויצר ויסמן את קא." אחר מלחמת העולם הקודמת היה מנהל חברת הנפט "בלפטרול" והוא שנתן לה את סמלה (דוב).
+
+ ב-1920 עבר לאלכסנדריה ועסק בחקלאות יחד עם אחיו יהודה ויסמן וקרובו אמנון הורביץ (היתה להם אחוזה בשם "עיזבת פרעון" - "כפר פרעה"). עבר לקהיר ופתח משרד ל"בלפטרול" ועסק גם בעסקיקומיסיון שונים.
+
+ בעת ועונה אחת לא חדל מלהתעניין במתרחש בארץ ואף קנה מגרשים ובנה בתים בתל-אביב ועל הר הכרמל.
+
+ ב-1936 יסד יחד עם המהנדס אברמסקי את "החברה הא"י לגז בית" (של "בוטגז") והוא משמש מנהלה של חברה זו בארץ-ישראל ובמצרים עד היום הזה.
+
+ ב-1937 היה ציר מצרים לקונגרס הציוני ה-20 בציריך וכן שימש שנים רבות כמורשה של הקרן הקימת
+
+ לישראל וכסגן נשיא הלשכה הגדולה של "בני ברית" במצרים. כיום הוא נשיא הועה"פ של ההסתדרות הציונית בקהיר, חבר ועד הקהילה האשכנזית בקהיר ונשיא לשכת בני ברית "בן-מימון".
+
+ יסד ביחד עם אשתו בעזרת עסקנים נוספים בימי המלחמה האחרונה את "קלוב החיילים העבריים" והתמסר לו בכל לב ונפש. גם ביתו היה אכסניה לכל חייל עברי מהארץ והיה נשיא הועד למען החייל העברי בקהיר.
+
+ צאצאיו:<persName> יגאל </persName> (היה בא"י בזמן המלחמה ושירת בחיל הנהגים),<persName> גוריון</persName> (בשעת פרוץ המלחמה למד בתכניון בחיפה, התגייס לחיל-התותחנים ועבר לפלוגת צנחנים, נשבה בשעת פעולה נועזת בטריפוליטניה והיה בשבי באיטליה וגרמניה כשלש שנים), <persName>אביבה </persName> (מנהלת מחלקה לילדים קשי-הבנה בליציאון הצרפתי בקהיר, אשת עו"ד אמיל נאג'אר העומד בראש הנוער הציוני במצרים).
+
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בת''א, אור ליום י"ב ניסן תשט''ז (24.3.56) (ראה כרך ב', עמוד 740)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 739 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/739</bibl><bibl>Volume: #2 ,Page: 740 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/740</bibl>
+<bibl>Volume: #2 ,Page: 741 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/741</bibl>
+            <bibl>Volume: #8 ,Page: 3190 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3190</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

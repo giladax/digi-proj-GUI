@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3381 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3381</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם ניימאן</persName>
+
+</head>
+         <div><p> נולד בטולצ'ה, דוברודז'ה (רומניה) בשנת תרכ"ד (1864).
+
+ לאביו <persName>מרדכי</persName> (ראה כרך א', עמוד 319) ולאמו <persName>שפרה</persName> <persName>שיינדל </persName> לבית <persName>ברגמן.</persName>
+
+ קבל חנוך מסורתי ולאומי.
+
+ היה איש משכיל, שולט בשפות שונות.
+
+ כשהחל אביו בתעמולה לעליה לא''י, נרשם הוא כחבר ל"חברת כל ישראל חברים" והיה מקבל את פרסומיהם (חוברות) בצרפתית והושפע מתעמולתם לעבודת האדמה בא''י ובעיקר, בית הספר "מקוה ישראל" שנפתח בארץ.
+
+ בשנת תרמ"ג (1883) עלה לארץ עם אחיו<persName> דב </persName> (ראה כרך ב', עמוד 1028). את אשתו וילדתו עזב בחו''ל.
+
+ אדמת הפלחה השחורה שהשקה אותה בזעת אפו לא נתנה את יבולה בעקרון.
+
+ כעבור שנה כשכל המשפחה וההורים עלו לארץ (1884) חלה ונפטר ביפו. אשתו ובתו נשארו בחו''ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3381 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3381</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

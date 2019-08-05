@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3484 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3484</bibl><bibl>Volume: #10 ,Page: 3485 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3485</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ראובן ינאי (ינואר)</persName>
+
+</head>
+         <div><p> נולד בשנת תרפ"ב (8.3.1922) בליפנו שבפולין. לאביו <persName>שלמה</persName> ולאמו <persName>איטה</persName> בת <persName>ראובן סגל.</persName> למד בגימנסיה עברית "תרבות" עד גיל 13.
+
+ ב-1935 עלה לארץ עם הוריו והשתקעו בתל-אביב. המשיך ללמוד בבית-הספר העממי "הכרמל" ובבית הספר התיכון "גאולה" ואח"כ באוניברסיטה העברית בירושלים (ספרות עברית, מקרא והיסטוריה עברית).
+
+ שירת שלש שנים ב"הגנה" וארבע שנים בבריגדה העברית במלחמת העולם.
+
+ ב-1949 נשא לאשה את <persName>אביגיל </persName> בת<persName> נח ורטהיים.</persName>
+
+
+ בשמונה שנות שרותו בצה"ל בשרות קבע יסד וערך את העתון "במחנה גדנע". אחר כך יצא לחיי אזרח והנו עורך "מעריב לנוער".
+
+ פרסם סיפורים קצרים ברוב עתוני הארץ וערך את הספרים "באהלי גדנע", "מי חכם וידע".
+
+ צאצאיו: <persName>אורנה, איל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3484 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3484</bibl><bibl>Volume: #10 ,Page: 3485 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3485</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

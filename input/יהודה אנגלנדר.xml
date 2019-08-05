@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3986 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3986</bibl><bibl>Volume: #12 ,Page: 3987 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3987</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה אנגלנדר</persName>
+
+</head>
+         <div><p> נולד בשנת תרל"ד (1874) באופולי שבמחוז לובלין, בפולין.
+
+ לאביו<persName> יצחק</persName> (סוחר) ולאמו<persName> מרים.</persName>
+
+ למד בחדר ובישיבה.
+
+ נשא לאשה את <persName>צפורה</persName> בת <persName>יוסף גולדשר.</persName>
+
+ עסק בייצור כפתורים ופירנס את משפחתו. כשמספר ילדיו הגיע לשבעה והפרנסה לא הספיקה, ניסה את מזלו בבראזיל, בארה"ב, ובאחרונה בלונדון וניהל שם ביח"ר לכפתורים בהצלחה. אך כחובב-ציון ותיק לא ראה את עתידו שם. כשצבר לו מעט הון, הפקיד חלק ניכר של כספו בידי ידיד, בתנאי מפורש שלא ישלחנו אליו לארץישראל, אלא אם כן יקבל ממנו הודעה, שהכסף נועד לקניית קרקע. במשפחה ובחוגי ידידים ניסו להניאו מ"הרפתקה" זו, וכדי להימנע מויכוחי-סרק, לקח עמו את בנו בכורו<persName> מאיר</persName> ונעלמו מהבית בלי פרידה.
+
+ ב-1920 עלו לארץ אחרי שהחליף מכתבים עם מ. מ. אוסישקין.
+
+ עבדו בזיפזיף, בפרדסים ובכבישים, ולדיור נטו להם אוהל על גבול הישוב והשממה, במקום שהוא כיום בפגישת הרחובות אלנבי ונחלת בנימין. קנה בעיר-גנים
+
+
+ (ראשיתה של רמת-גן) שלוש חלקות בשטח כולל של 15 דונם, ובט"ו בשבט תרפ"ב (1922) עלו האב ובנו על הקרקע והחלו לגדל ירקות והיו הראשונים לגידול תותשדה, והיו מאושרים לנוח על נחלתם אחרי 16 שעות עמל ביממה. אח"כ באה המשפחה מלונדון, ועם גידול המקום ופיתוחו נשתפרו תנאי החיים, ולעת זקנה נודע ר' <persName>יהודה אנגלנדר</persName> כאחד מראשוני העיר רמת-גן, תומך בכל מפעל לאומי וציבורי, משתתף בשיעורי תורה, ומאושר בגידול עירו.
+
+ נפטר ברמת-גן, כ"ח חשון תשי"א (8.11.1950).
+
+ צאצאיו:<persName> מאיר, נחמן, אליעזר, מרדכי, רחל</persName> אשת <persName>תנחום הרשמן, קילה</persName> אשת <persName>מנחם שפרלינג, שפרינצה</persName> אשת <persName>שלמה וסרמן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3986 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3986</bibl><bibl>Volume: #12 ,Page: 3987 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3987</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1211 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1211</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> שמואל ליפשיץ-הכהן</persName>
+
+</head>
+         <div><p> נולד בביאליסטוק, פולין, בשנת תרל"ב (1872), לאביו <persName> דניאל</persName> (סוחר-ספרים ואח"כ מראשוני המתנחלים והבונים ביהודיה ובפתח תקוה) ולאמו <persName>רחל </persName> בת<persName> דב</persName> <persName>גוטפארב</persName>
+
+ אחרי ראשית לימודיו בחדרים עלה ארצה בשנתו ה-11, בראשית תרמ"ג, עם אביו לפני יתר בני המשפחה. בזמן הראשון, כשאביו היה עסוק בסידור המשק ובבנין הבית ביהודיה למד הוא ב"חדר" ביפו, ואח"כ המשיך ללמוד בבית-הספר של המושבה ולמד עברית וערבית מפי המורה והחוקר הנודע <persName>אליהו ספיר</persName> (שהיה אח"כ ממנהלי בנק אפ''ק). למד במקוה ישראל, השתלם בכל ענפי החקלאות ואח"כ עבד במשק הוריו וביחוד התמסר לגידול דבורים ותולעי משי. הדריך בענפים אלה את יתר האכרים והרצה עליהם בשיעורי-ערב שערך. המציא מכונה לנקות מהר את הפקעיות, עזרה חשובה לגידול דבורים, הפיץ אותה במושבה וקיבל בעדה פרס מאת <persName>יוסף ניגו</persName> מנהל מקוה ישראל ומאת <persName>אברהם בריל</persName> מנהל פקידות יק"א ביהודיה. פרסם ספר על "הזבלים החימיים" וספר על "גידול ירקות". הכין
+
+ בכתב-יד ספר בשני חלקים על גידול דבורים הלכה למעשה. פרסם מאמרים על חקלאות בכלל וגידול דבורים בפרט ב"דאר היום , ב"החקלאי" של <persName>ד"ר מ. זגורודסקי</persName> וב"השדה" של <persName>אליעזר יפה</persName> .
+
+ נשא לאשה את<persName> חנה</persName> בת <persName>אהרן חיים בלייברג</persName> .
+
+ המשיך כל ימיו בעבודה חקלאית ולעת זקנה עוסק הוא במשק מעורב קטן (גידול ירקות ופרחים ועופות) ליד ביתו.
+
+ צאצאיו: <persName>יוחנן, יעקב</persName> (פקיד אפ"ב בת"א),<persName> הדסה</persName> אשת<persName> יהודה סמואל, עליזה</persName> אשת<persName> אליהו שנברג.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1211 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1211</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

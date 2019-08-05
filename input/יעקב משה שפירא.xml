@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5411 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5411</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב משה שפירא</persName>
+
+</head>
+         <div><p> נולד בנימנצון (פולין) בשנת תרכ"ג (1863).
+
+ לאביו<persName> אליעזר דב שפירא</persName> ולאמו <persName>מלכה.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה.
+
+ עסק בחייטות.
+
+ היה חבר בחובבי-ציון בעירו.
+
+ עבר לביאליסטוק ובשנת תרמ"ט 1889 <persName>נשא לאשה</persName> את <persName>קילה בת ר' אליעזר יצחק קאופמן.</persName>
+
+ בשנת 1906 עבר לחנדייחדזע, עיירה במנדז'וריה.
+
+ בשנת 1913 ביקר בארץ.
+
+ בשנת 1914, בפרוץ המלחמה העולמית הראשונה, חזר למנדז'וריה. נדד לחרבין ושנחאי (סין).
+
+ בשנת 1920 עלה לארץ והתישב בה בקביעות.
+
+ יסד בית-ספר חרדי לבנים בשם "בית-יעקב" שנקרא לאחר פטירתו "אוהל יעקב" בשכונת נורדיה (רחוב המליץ 3) בתל-אביב.
+
+ יסד את האגודה "תמיכת אביונים" בנוה שלום.
+
+ נפטר בתל-אביב, ט' כסלו תרפ"ח (3.12.1927) והובא לקבורה בבית העלמין הישן ברחוב טרומפלדור.
+
+ רעיתו נפטרה בתל-אביב, כ"ד טבת תשי"ג (11.1.1953).
+
+ צאצאיו : <persName>דוד; שמעון</persName> (שניהם בסידני אוסטרליה); <persName>רחל </persName> אשת <persName>לואי פלינטר: אליעזר</persName> (בת"א); <persName>שלמה</persName> (בת"א);<persName> יהודית </persName> אשת <persName>מאיר רובננקו</persName> (ראה את הערך שלו בכרך זה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5411 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5411</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

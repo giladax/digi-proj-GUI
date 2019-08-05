@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3625 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3625</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ראובן גרוס</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סלוצק</placeName> (רוסיה) בשנת תרנ"ח (1898). לאביו <persName>זאב גרוס</persName> ולאמו <persName>חיה</persName> בת <persName>זרח גרויסוך </persName> (נפטרה בתל אביב, ח' אלול תרפ"ח). קבל חנוך מסורתי וכללי).
+
+ למד תורת הצלום בוינה ועבד בצלום בגרמניה.
+
+ היה מפעילי "צעירי ציון" ופעיל בארגוני הנוער הציוני.
+
+ נשא לאשה את <persName>מרים</persName> בת <persName>ראובן בלקינד.</persName> עלה לארץ בשנת 1921.
+
+ הכין את הצלומים עבור האגרונום אהרוני מרחובות.
+
+ בשנות 1923-31 היה מוכר בתור צלם רשמי בצבא הבריטי בסרפנד.
+
+ ארגוני המחתרת נעזרו על ידו בצלומים שונים שהיו דרושים מהצבא.
+
+ היה פעיל בהסתדרות הציונים הכלליים. ממארגני סקצית הצלמים בהתאחדות הסוחרים בארץ. נפטר בתל-אביב, ג' כסלו תשי"ט (15.11.1958).
+
+ בניו: <persName>נחמן, חיים.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3625 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3625</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

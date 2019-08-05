@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3326 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3326</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עדית רוזנפלד</persName>
+
+</head>
+         <div><p> נולדה בוינה (אוסטריה), כ"ז אדר ב' תרפ"א (6.4.1921).
+
+ לאביה<persName> יוסף גולדשטיין</persName> ולאמה<persName> עכסה.</persName>
+
+ קבלה חנוך בבי"ס תיכון בוינה.
+
+ היתה פעילה בבית"ר.
+
+ בשנת 1938 עלתה לארץ במסגרת תנועת-העפלה של בית"ר.
+
+ שרתה בכמה פלוגות בית"ר, מרבית הזמן בראשפינה.
+
+ בשנת 1940 נאסרה ע"י המשטרה הבריטית וישבה בבית-הכלא ביפו.
+
+ בשנת 1942 נישאה לעתונאי <persName>שלום רוזנפלד</persName> (ראה כרך ששי, עמוד 2502).
+
+ ב-1948 השתתפה במערכה על כיבוש יפו, היתה חיילת באצ"ל.
+
+ ציירת-חובבת (תלמידת "בצלאל" ירושלים).
+
+ באביב 1957 הוצגו 2 תמונותיה בתערוכה השנתית הארצית של אמני ישראל.
+
+ נפטרה בירושלים, ט"ז סיון תשי"ז (15.6.57).
+
+ צאצאיה : <persName>יורם, תמר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3326 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3326</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

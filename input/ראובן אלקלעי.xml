@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3053 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3053</bibl><bibl>Volume: #8 ,Page: 3054 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3054</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ראובן אלקלעי</persName>
+
+</head>
+         <div><p> נולד י"א תמוז תרס"ז (23 יוני 1907) בירושלים.
+
+ לאביו <persName>אברהם </persName> ולאמו <persName>רחל</persName> בת <persName>יעקב ספורטה.</persName>
+
+ קיבל חינוך מסורתי וגמר את בית-המדרש למורים בירושלים, ואח"כ נתקבל לעבודה בשרות השלטון המנדטורי.
+
+ נשא לאשה את<persName> שרה </persName> בת<persName> אליהו פרדס פארידיש</persName> (ראה כרך א', עמוד 374).
+
+ בשנות מלחמת העולם ב' היה עורך החדשות ב"קול ירושלים" (זה היה אז הכינוי הרשמי של שרות השידור הארצישראלי), ואח"כ היה מנהל לשכת העתונות מטעם הממשלה בתל-אביב-יפו. בתפקידיו אלה חידש חידושילשון רבים, ביחוד בלשון העתונות. מאז קום מדינת ישראל הנו עורך-פרסומים ראשי במשרד ראש הממשלה.
+
+ חיבר מלון אנגלי-עברי בן ארבע כרכים (הוצאת "מסדה"). ערך אלבום ישראל, תשי"ב. עורך שנתוני הממשלה, משנת תשי"ב ואילך. חיבר "תיקוני לשון" הוצאת ועד הלשון, תשי"ב. תרגם לעברית כמה ספרים מהספרות האנגלית והאמריקאית, ביניהם: "מחרוזת" (מבחר הסיפור האנגלי, הוצאת ליינמן), סיפורי סומרסט מוהאם, "על כנפי נשרים" לש. ברר, "חיל הקומנדו" (שלשתם בהוצאת "מסדה''). וכן תרגם כמה ספרי-יסוד בתורת המינהל הצבורי, ביניהם : "דרכים חדשות בהדרכת עובדים" ו"תורת פישוט העבודה" (בהוצאת המדפיס הממשלתי).
+
+
+ משתתף בקביעות במוסף הספרותי של "הארץ", ביחוד בעניני לשון וספרות.
+
+ בתו:<persName> יפה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3053 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3053</bibl><bibl>Volume: #8 ,Page: 3054 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3054</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

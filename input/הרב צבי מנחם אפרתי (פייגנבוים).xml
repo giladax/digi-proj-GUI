@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4210 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4210</bibl><bibl>Volume: #13 ,Page: 4211 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4211</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב צבי מנחם אפרתי (פייגנבוים)</persName>
+
+</head>
+         <div><p> נולד ה' טבת תרס"ד (24.12.1903) בווירז'בניק שבפולין.
+
+ לאביו<persName> משה ברוך</persName> (מחסידי וורקה) ולאמו <persName>אסתר</persName> בת <persName>דוד-יהושע ברוטבקר.</persName>
+
+ למד בחדרים ובישיבה והשתלם בלימוד עצמי בהשכלה כללית, הוסמך והתמחה בתור שו"ב ומוהל, המקצוע שעסק בו כ-15 שנה בחו"ל.
+
+ בשנת תרפ"ה (1925) נשא לאשה את<persName> רחל</persName> בת ר' <persName>יצחק-מאיר קניגסברג</persName> (שו"ב). (נספתה עם שבעת ילדיהם בכבשן טרבלינקה, י"ז חשון תש"ב, ובשנת תש"ז נשא את<persName> בתיה</persName> בת <persName>יהודה-ליב פשפיורקה)</persName> .
+
+ תוך עבודתו המקצועית בווירז'בניק היה פעיל בעניני החינוך היהודי.
+
+ בראשית מלחמת העולם השניה כלאוהו הכובשים הנאציים כבן-ערובה. לאחר זמן נלקח למחנה עבודה
+
+ וברח ממנו. פעמיים נתפס והובל לטבלינקה, קפץ מהרכבת וברח. הסתתר זמן-מה ביערות בין פרטיזנים, ושוב נתפס והובל לאושוויץ ומשם לבוכנוואלד. משם הוצא בסוף ב"מצעד המוות", אך בשארית כוחותיו הצליח להתחמק מהמסע ולהסתתר יממה אחת עד שהגיע הצבא האמריקאי.
+
+ אחרי השחרור היה מנהל המועצה הדתית וסגן יו"ר בית-הדין היהודי במחנה-העקורים צילסהיים שליד פרנפורט ע"מ.
+
+ עלה לארץ בשנת תש"ט (1949). עסק בעבודת פקידות, במסחר, בחרושת, ובאחרונה שוב בפקידות. מצא לו עיסוק גם בצרכי ציבור בתור יו"ר הנהלת ביתהכנסת ''זכרון הקדושים" ברמת-גן.
+
+ בשנת תשי"ד (1954) ערך משאל סוציולוגי-דמוגרפי בין מאה הפקידים שעבדו אתו במשרד גדול, וכשקבע ירידה תלולה בריבוי הטבעי, נתן את דעתו לפעול בתעמולה למען עידוד הילודה בישראל. שלח תזכיר
+
+
+ לראשי המדינה והמוסדות, פעל שבע שנים בפעולות האגודה "קרן התולדה", אח"כ יזם יסוד אגודת "אפרת" לעידוד הילודה בעם היהודי בישראל ובתפוצות (יו"ר העו"ד ישעיהו פבזנר, סגן יו"ר ד"ר ראובן בן-שם, מזכיר - יצחק איזיק נבנצאל ועוד). יסד ביטאון בשם זה, שהופיע בראשונה בחשון תשכ"ג, וכן כתב מאמרים בענין זה (בחתימת "מנחם אפרתי") בעתונים היומיים "הצופה" ו"שערים" ושבועון "פנים אל פנים".
+
+ צאצאיו: <persName>חוה</persName> אשת<persName> יונה שרגא.</persName> היא הבת הבכירה, שניצלה פעמיים בקפיצות מהרכבת בדרך למחנה-המוות טרבלינקה. ואלה שמות יתר שבעת ילדיו הי''ד, לפי סדר גילם, שנספו עם אמם באותו מחנה: <persName>פייגה-רבקה</persName> <persName>משה-ברוך, חנה-מאטל, יצחק-מאיר-ישראל, צפורה, ליבה,</persName> <persName>שרה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4210 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4210</bibl><bibl>Volume: #13 ,Page: 4211 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4211</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

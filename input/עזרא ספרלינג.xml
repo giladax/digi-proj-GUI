@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 509 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/509</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עזרא ספרלינג</persName>
+
+</head>
+         <div><p> נולד בסלוצק, פלך מינסק (רוסיה הלבנה), בשנת תרמ''ט (13.10.1889), לאביו<persName> יהודה</persName> . קיבל חינוך מסורתי וכללי.
+
+ בן 18 יצא לאמריקה, גמר גימנסיה ועבד כרפורטר בעתונים "דער טאג" ו"אמריקן חיברו'', היה פעיל בארגוני הנוער הציוני וחבר "פועלי ציון".
+
+ ב-1917 התנדב לגדוד העברי האמריקאי, נתקבל לגדוד ה-40 של קלעי המלך ועלה לדרגת סרג'נט. ב-1918 בא ארצה עם הגדוד, וכששוחרר בעת פירוק
+
+ הגדוד ב-1920 נשאר בארץ ונתקבל לעבודה כפקיד במזכירות הראשית של הממשלה בירושלים.
+
+ נשא לאשה את<persName> שרה</persName> בת <persName>זלמן פיקסמן</persName> .
+
+ תוך שרותו בממשלה השתתף שנים רבות כעתונאי ב"פלסטין פוסט" ובמדור ההומוריסטי של "פלסטין אילוסטרייטד ניוס".
+
+ שירת את הצבור באמונה, היה נוח לבריות וחביב על הבאים אתו במגע ונאמן לעמו ולארצו.
+
+ עמד לצאת לפנסיה אחרי שנות השרות הרבות. בעת פיצוץ בנין "המלך דוד" בירושלים (מקום משרדי המזכירות הראשית ומפקדת הצבא) נהרג ביום כ"ג תמוז תש"ו (22.7.46) ונקבר בהר הזיתים בירושלים.
+
+ צאצאיו:<persName> יוסף, אביבה, עליזה, בן-עמי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 509 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/509</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3860 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3860</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן זליג קרינקין</persName>
+
+</head>
+         <div><p> נולד בדרויא (רוסיה) בשנת תרי"ח (1858).
+
+ לאביו <persName>אברהם קרינקין</persName> .
+
+ קיבל חינוך מסורתי בחדר ובישיבות.
+
+ היה פעיל אגודת חובבי-ציון ואח"כ בתנועה הציונית.
+
+ היה ממיסדי "אגודת האלף" ברוסיה והמושבה "עין-זיתים" ליד צפת.
+
+ ממיסדי חברת "עתיד" בחיפה וממנהליה הראשונים.
+
+ סחר בנפט ודגים והתעשר.
+
+ עלה לארץ בשנת תרע"א (1911).
+
+ משנת תרע"ט (1919) ניהל את בית המרקחת של בנו המנוח אברהם.
+
+ נפטר בתל-אביב, כ"ב כסלו תרצ"ד (10.12.1933),
+
+ צאצאיו<persName>:אברהם</persName> (ראה בכרך זה),<persName> דוד </persName> (ד"ר למשפטים ועתונאי),<persName> גרונה, חיה, סוניה שטרן</persName> ז"ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3860 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3860</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

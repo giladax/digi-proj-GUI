@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4296 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4296</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם יהודה גולדראט</persName>
+
+</head>
+         <div><p> נולד בקיעלץ (פולין), ד' סיון תרע"ב (20.5.1912). לאביו הרב<persName> יששכר דב גולדראט</persName> זצ"ל (מחבר הספר
+
+ "מנחת ישכר", בנו של הרב ר' <persName>מרדכי </persName> זצ"ל, ראש בית דין בקיעלץ) ולאמו <persName>אסתר חנה</persName> בת הרב <persName>ישראל ראובן</persName> זצ"ל, דיין בקיעלץ.
+
+ קיבל חינוך מסורתי והשכלה גבוהה. הוסמך להוראה ע"י גאוני פולין: הרב מקיעלץ, הרב<persName> רפפורט </persName> הרב מביאלה והרב <persName>מיכלזוהן</persName> מוורשה.
+
+ עתונאי ומשתתף ב"יידישע טאגבלאט" בוורשה. מראשי תנועת "צאט".
+
+ בשנת 1933 עלה לארץ.
+
+ בשנת 1941 נשא לאשה את <persName>שרה</persName> בת ר'<persName> חיים מרדכי</persName> <persName>גורנוסטינסקי.</persName>
+
+ היה עורך "היסוד", מזכיר כללי של פועלי אגודת ישראל.
+
+ היה חבר הכנסת הראשונה.
+
+ עורך ראשון של "שערים".
+
+ ממיסדי איחוד דתי בלתי מפלגתי בשנת תש"ג (1943).
+
+ משתתף קבוע ב"הצופה" ועורך "גוילין".
+
+ מעורכי "ישראל הדתית".
+
+ חבר הנהלת המפד"ל (מפלגה דתית לאומית). וראש מחלקת התרבות וההסברה.
+
+ בניו.<persName> יששכר-דב, משה אליהו.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4296 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4296</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

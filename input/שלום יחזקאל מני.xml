@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 909 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/909</bibl><bibl>Volume: #2 ,Page: 910 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/910</bibl>
+<bibl>Volume: #2 ,Page: 911 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/911</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלום יחזקאל מני</persName>
+
+</head>
+         <div><p> נולד בבגדאד, בשנת תרי"ד (1854), בנו השני של הרב החסיד המקובל ר'<persName> אליהו מני</persName> . (נקרא <persName>שלום</persName> על שם הרב המקובל ר' <persName>שלום שרעבי,</persName> שלפי המסורת נראה לאביו בחלומו וביקש ממנו לקרוא אחד מבניו על שמו, <persName>ויחזקאל</persName> על שם אבי המשפחה).
+
+ בעודו תינוק פעוט הועלה ארצה עם הוריו ואחיו, כשאביו נתמנה לרב העדה הספרדית בחברון. למד בתלמוד תורה ובישיבה והגיע לידיעה רבה בש"ס ופוסקים.
+
+ נשא לאשה את <persName>בוליסה</persName> בת <persName>אברהם בצראוי</persName> , מעולי בצרה שבעיראק.
+
+ ניסה לבקש את פרנסתו במסחר, אך למרות כשרו הטבעי לכך לא הצליח בו. גם משרה צבורית לא רצה לקבל, לבל יוכרח לרדוף אחרי הכבוד בניגוד לנטיתו לענותנות ולהחניף לבריות. לכן הוכרח לפרוש מן המסחר והתמסר ללימוד תורה בחבורת ה"חכמים" שלא נשאו משרות רבנות. שקד על התורה ועל עבודת
+
+
+ הבורא וחי בדרכי החסידים הראשונים ותוך כך שקד לחנך את בניו שילמדו מדעים שימצאו בהם את פרנסתם בעבודה ושלא יצטרכו לבריות.
+
+ העתיק בכתב-יד נקי את החיבור של אביו "זכרונות אליהו" (חידושי הלכות) ולפי כתב-יד זה הוציא אח"כ העוה"ד <persName>אהרן מני</persName> את הספר בדפוס.
+
+ היה נמנה בין לומדי הישיבות "בית יעקב", "מזל צומח", "בית גדליה", "מגן דוד", ועוד.
+
+ נפטר בירושלים, ו' אייר ת"ש (12.6.40).
+
+ צאצאיו: <persName>אברהם</persName> (בקנדה),<persName> משה</persName> (היה רופאו של שולטן מארוקו), ד"ר <persName>ישראל</persName> (שופט ביה"ד המחוזי בת"א), <persName>בכורה</persName> אשת <persName>דוד חסון, מרים</persName> אשת הרב <persName>אברהם קסטל </persName> (רב קהל ישראל בליסאבון), <persName>שרה </persName> אשת <persName>חנינא מזרחי </persName> (מנהל ת"ת הספרדים של מחלקת החינוך בעיר העתיקה בירושלים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 909 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/909</bibl><bibl>Volume: #2 ,Page: 910 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/910</bibl>
+<bibl>Volume: #2 ,Page: 911 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/911</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

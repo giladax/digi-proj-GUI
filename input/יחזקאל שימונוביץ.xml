@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2581 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2581</bibl><bibl>Volume: #6 ,Page: 2582 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2582</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יחזקאל שימונוביץ</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרל"א (1871). לאביו<persName> יוסף בנימין </persName> (שעלה לארץ מפרסבורג (בראטיסלאבא) בשנת תרל"ב-1872, בגיל עשרים. נתמנה אח"כ כראש השוחטים בירושלים. נפטר בירושלים בחדש סיון תרפ"ז-1927)
+
+ קבל חנוך בישיבה של כולל אונגרן. שאביו שימש בה כראש ישיבה.
+
+
+ אהב לעבור לפני התיבה ובקולו הערב היטיב למשוך קהל לבית הכנסת שבשכונת ''אחוה" ואח"כ לבית הכנסת הגדול של זכרון משה.
+
+ נשא לאשה את<persName> ריקה</persName> בת ר' <persName>פנחס כהן </persName> מפרסבורג. עסק במסחר האתרוגים בשותפות עם אחיו הגדול ממנו ר' <persName>יהודה שימונוביץ</persName> .
+
+ ייסד וניהל יחד עם אחיו את מאפית המצות הראשונה בארץ שיצרה המצות במכונות.
+
+ עסק בצרכי צבור באמונה.
+
+ הוזמן בתור רב לארצות הברית והרביץ תורה ברבים.
+
+ נפטר בטרנטון (ניו-ג'רסי, ארצות הברית), ט"ו טבת תרצ"ו (10.1.1936) והובא לקבורה בירושלים. צאצאיו:<persName> משה, שמעון</persName> (מהנדס), <persName>שרה</persName> אשת <persName>זלמן</persName> <persName>חייט</persName> (ראה בכרך זה), <persName>רחל</persName> אשת<persName> אברהם לבל.</persName> <persName>לבל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2581 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2581</bibl><bibl>Volume: #6 ,Page: 2582 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2582</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

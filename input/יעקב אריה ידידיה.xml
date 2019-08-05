@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4049 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4049</bibl><bibl>Volume: #12 ,Page: 4050 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4050</bibl>
+<bibl>Volume: #12 ,Page: 4051 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4051</bibl>
+<bibl>Volume: #12 ,Page: 4052 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4052</bibl>
+<bibl>Volume: #12 ,Page: 4053 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4053</bibl>
+<bibl>Volume: #12 ,Page: 4054 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4054</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב אריה ידידיה</persName>
+
+</head>
+         <div><p> נולד ב<placeName>לבוב</placeName> (פולין) בשנת תרנ''ב (11.9.1892).
+
+ לאביו<persName> שלמה ידידיה</persName> ולאמו <persName>מלכה.</persName>
+
+ קיבל חינוך מסורתי ואקדימאי.
+
+ היה חבר הועד הפועל של "צעירי ציון", הועד הפועל של ההתאחדות, חבר בחוג הנוער "השחר", באגודת האקדמאים "העתיד".
+
+ היה חבר מערכת "מוריה", נווי דזיניק וחוילה.
+
+
+ עלה לארץ ב-28 לאוקטובר 1925.
+
+ היה חבר מיסד קבוצת שילר.
+
+ היה מזכיר המרכז החקלאי, מזכיר המרכז לחינוך, במזכירות חבר הקבוצות, חבר ועדת הערעורים של הועד הפועל והממשלה.
+
+ בשנת 1941 נשא לאשה את <persName>רחל</persName> בת <persName>חיים שטרן.</persName>
+
+ חבר מזכירות מפא"י ברחובות, ומרכז בית הדין של עירית רחובות.
+
+ היה ציר הקונגרסים הציונים בוינה ובקרלסבד.
+
+ עבודתו הקבועה היתה: במזכירות ועדת הביקורת המרכזית בועד הפועל של הסתדרות העובדים הכללית.
+
+ נפטר ברחובות, י"ד אדר ב' תשכ"ב (20.3.62) והובא לקבורה בגן-שלמה - קבוצת שילר.
+
+ בתו: <persName>מלכה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4049 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4049</bibl><bibl>Volume: #12 ,Page: 4050 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4050</bibl>
+<bibl>Volume: #12 ,Page: 4051 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4051</bibl>
+<bibl>Volume: #12 ,Page: 4052 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4052</bibl>
+<bibl>Volume: #12 ,Page: 4053 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4053</bibl>
+<bibl>Volume: #12 ,Page: 4054 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4054</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

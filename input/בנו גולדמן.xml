@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5145 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5145</bibl><bibl>Volume: #17 ,Page: 5146 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5146</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנו גולדמן</persName>
+
+</head>
+         <div><p> נולד בטוקום שבלטביה, י"ט תשרי תרס"ה (28.9.1904).
+
+ לאביו ר' <persName>יעקב צבי גולדמן</persName> (רב ומורה לעברית) ולאמו <persName>יפה חסיה</persName> בת<persName> ברוך ברנדט.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ ב-1918 עבר לגרמניה ולמד בבית הספר הגבוה לגננות הגנהיים (ע"י שטוטגרט).
+
+ ב-1920 הצטרף לתנועת הנוער "החלוץ" בגרמניה והיה ציר "החלוץ" בועידות ציוניות.
+
+ בשנים 1923-1920 היה חבר הכשרה במארקנהוף בחוות דודו - הנדבן הציוני הידוע - קונרד גולדמן.
+
+ ב-1923 עלה לארץ.
+
+ עבד כחלוץ ביבוש ביצות בבית-אלפא, בכפר חסידים ובנימינה.
+
+ מ-1925 ואילך עובד כספרן בבית הספרים הלאו
+
+
+ מי והאוניברסיטאי ומ-1962 מנהל מחלקת ההשאלה שם.
+
+ ב-1932 נשא לאשה את <persName>ברטה </persName> בת <persName>חיים ברטל.</persName> מיום עלותו לארץ חבר ה"הגנה" ואף שירת באו
+
+ פן פעיל בנוטר בשנים 1939-1936.
+
+ צאצאיו: <persName>אביבה</persName> אשת <persName>מנחם רבינוביץ</persName> (בנו של ד"ר <persName>אלחנן רבינוביץ</persName> , ראה בכרך י', עמוד 3491), <persName>רפאל (כלכלן בבנק</persName> ). כולם בירושלים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5145 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5145</bibl><bibl>Volume: #17 ,Page: 5146 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5146</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

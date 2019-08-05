@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3098 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3098</bibl><bibl>Volume: #8 ,Page: 3099 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3099</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב נפתלי צבי פרוש (פלדמן)</persName>
+
+</head>
+         <div><p> נולד בשנת תקפ"ג (1823) בבוברויסק שברוסיה הלבנה.
+
+ לאביו ר' <persName>אליעזר ליפמן פלדמן</persName> (גיסו של הרב <persName>יעקב</persName> <persName>ברלין</persName> , אבי הגאון ר' <persName>נפתלי צבי יהודה ברלין </persName> ראש ישיבת וולוז'ין, שנקרא בראשי תיבות הנצי"ב, והיה אביו של הרב <persName>מאיר בר-אילן </persName> - ראה כרך ג', עמוד 1374).
+
+ שם-המשפחה היה פלדמן, וצאצאיה בדורות מאוחרים בארץ קראו לעצמם<persName> גליקמן-פרוש</persName> (השם<persName> גליקמן</persName>
+
+
+ קבלו לשם נתינות אמריקאית במלחמה העולמית הראשונה בשלטון התורכים). צירוף השם המקורי של המשפחה והתואר <persName>פרוש</persName> , שנעשה כינוי מיוחד לר' <persName>נפתלי</persName> <persName>צבי</persName> , בשל חסידותו (לפי שיטת הגר"א מוילנא, שנקרא גם הוא "החסיד") ופרישותו מהבלי העולם הזה כדי להתמסר בשלמות לעיסוק בתורה ובעבודת הבורא, ולפי מסורת המשפחה נקרא "הפרוש הווילקומירי", אולי משום שבהיותו כבר אברך נשוי ישב תקופת-מה בביתהמדרש בעיר וילקומיר שבליטא ולמד בו יומם ולילה, ולומד כזה נקרא אז בפי העם בכינוי "פרוש", וכן נשאר הכינוי "פרושים" למתנהגים בחסידות לפי שיטת הגר"א, להבחנה בינם ובין החסידים לפי שיטת הבעש"ט, שהגר"א וההולכים בעקבותיו פסלו את החסידות ההיא ובשל התנגדותם לה נקראו גם "מתנגדים". ובאחרונה ויתרו בני המשפחה על השם <persName>גליקמן </persName> והחזיקו בשם העברי <persName>פרוש</persName> (במבטא האשכנזי<persName> פורוש)</persName> בלבד. לפי מסורת המשפחה ערך גלות במשך שלש שנים והכשיר את עצמו לעלות לארץ הקודש בקדושה ובטהרה, ובאותו זמן ניהלה את החנות וכלכלה את הילדים אשתו <persName>לאה</persName> בת ר' <persName>אליהו הכהן</persName> (נכדת ר' <persName>עקיבא</persName> מסלוצק).
+
+ בשנת תרט"ו (1855) עלה לארץ עם אשתו ושני ילדיהם בטלטולי-דרך קשים ביבשה ובים, לרגל מלחמת קרים, ומיפו לירושלים עלו ברכיבה על גבי פרדות באשר כביש לעגלות עוד לא היה אז בארץ.
+
+ נפטר בירושלים, ח' חשון תרכ"ו (1865).
+
+ צאצאיו : <persName>שלמה זלמן, גרשון</persName> (ראה את הערך שלו בכרך זה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3098 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3098</bibl><bibl>Volume: #8 ,Page: 3099 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3099</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

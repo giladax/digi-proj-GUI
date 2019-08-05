@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4302 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4302</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שרגא כהנא</persName>
+
+</head>
+         <div><p> נולד במונקץ-רוסויגוף (צכוסלובקיה), ט"ו סיון תרע"ה (28.5.1915).
+
+ לאביו <persName>מרדכי </persName> בן הרב <persName>נחמן כהנא</persName> (הרב מספינקא, בעל "אורחות חיים") ולאמו<persName> חוה</persName> בת הרב <persName>אהרן וויס</persName> (ראב"ד במינקאץ).
+
+ קיבל חינוך מסורתי וכללי בבית ספר יסודי ולמד בישיבות ספינקא וסרדנה.
+
+ ביקר בארץ בשיירת עולי רגל בשנת תר"ס (1900). עסק במסחר.
+
+ פעיל בהנהלת צעירי מזרחי בנובי-זמקי בצכוסלובקיה. בינואר 1940 עלה לארץ. ב-1947 נשא לאשה את<persName> חנה</persName> בת <persName>שלמה דב שטינמטץ.</persName> בהתחלה עסק במסחר. היה חבר ההגנה ושירת בצה"ל.
+
+ עוסק בייבוא וייצוא יהלומים.
+
+ סגן נשיא בורסת היהלומים בישראל.
+
+ צאצאיו: <persName>חוה, מרדכי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4302 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4302</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

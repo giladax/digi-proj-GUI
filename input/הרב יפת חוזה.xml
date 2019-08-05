@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4218 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4218</bibl><bibl>Volume: #13 ,Page: 4219 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4219</bibl>
+<bibl>Volume: #13 ,Page: 4220 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4220</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יפת חוזה</persName>
+
+</head>
+         <div><p> נולד בדנבתון (תימן), ה' תמוז תרנ"ג (1893).
+
+ לאביו הרב<persName> רצון </persName> אדמו"ר <persName>ישועה</persName> (היה ראש ואב"ד במחוז תעז ואגפיה) ולאמו <persName>שמחה</persName> בת <persName>אהרן שמחי</persName> . למד בחדר אצל אביו. אחרי פטירת אביו (והוא בן
+
+ שמונה שנים) המשיך בלימודיו אצל הרב <persName>אברהם</persName> בן <persName>יוסף אלשיך</persName> .
+
+ סירב להסמך לא לשחיטה ולא לרבנות למרות שהיו משתפים אותו חכמי דורו בכל מיני הוראה. הוכרח ע"י חכמי הסביבה לקבל עליו לפחות סמיכה לשחיטה (בי' אדר תרע"ח) ולהנהגת העם בעיר מנזל שובכני.
+
+ בכ"ז טבת תרפ"ז (1927) הוסמך לרבנות והטילו עליו כל צרכי הציבור.
+
+ בביתו היה לו ספריה גדולה לכל מקצועות התורה. ביתו היה ידוע כבית "כלבא שבוע".
+
+ בשנת תרע"א נשא לאשה את<persName> חנה </persName> בת הרה"ג<persName> חסן</persName> <persName>יעקוב גרנעי </persName> (נפטרה במנזל שבכני, כ"ג טבת תר"פ) ובזיווג שני נשא לאשה בח' אייר תרפ"ב את<persName> זהבה</persName> בת ר' <persName>מחפוד בני חסן </persName> (נפטרה בח' אייר תשכ"ב).
+
+ עשה רבות לעלית יהודי תימן על חשבונו לארץ, ע"י מתן שוחד לפקידים בתימן שארבו בדרכים שיהודים לא יברחו מתימן. כמה פעמים נקנס ע"י הממשלה עבור העולים.
+
+ חוץ מהרבנות עסק כצורף כסף וזהב, במסחר בשעוה בסיטונות ובבדים.
+
+ באותו זמן עסק בצרכי ציבור, דאג ליתומים ואלמנות.
+
+ עסק בגמילת חסד מכספו ליהודים ולערבים בלי רבית וע"י זה קידש שם ישראל בפי הגויים.
+
+ בשנת תש"ט (1949) עלה עם משפחתו לארץ במרבד הקסמים. ועזר לרבים מבני העדה העניים לעזוב את תימן.
+
+ בארץ ממשיך הוא להתענין באחיו שעלו מתימן ועוזר להם להסתדר בארץ.
+
+ עזר ל-9 ילדים להסתדר בארץ.
+
+ צאצאיו: <persName>תמר</persName> אשת <persName>חיים דרהם</persName> , <persName>רחל</persName> אשת ר'<persName> יפת</persName> <persName>משולם</persName> , הרב<persName> סעדיה חוזה</persName> (רב ברמת-גן), <persName>חנה</persName> אשת <persName>יעקב גטר, מרים </persName> אשת<persName> יפת מעודד, יוסף, בנימין, מאיר,</persName> <persName>ציון.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4218 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4218</bibl><bibl>Volume: #13 ,Page: 4219 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4219</bibl>
+<bibl>Volume: #13 ,Page: 4220 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4220</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

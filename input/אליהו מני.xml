@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5127 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5127</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו מני</persName>
+
+</head>
+         <div><p> נולד בחברון, בשנת תרס"ז (1907).
+
+ לאביו <persName>משה מני </persName> (ראה כרך עשירי, עמוד 3639) ולאמו <persName>לאה</persName> בת <persName>אדוארד אשכנזי.</persName>
+
+ קיבל חינוך מסורתי וכללי בבית המדרש למורים העברי בירושלים, ובאוניברסיטת ליברפול ל.ל.ב. בשנת 1932 הוסמך כעו"ד באנגליה (עו"ד ונוטריון ציבורי).
+
+ בשנת 1940 נשא לאשה את <persName>לאה </persName> בת <persName>ירחמיאל</persName> <persName>גמזו.</persName>
+
+ היה מרצה למשפט אנגלי ומדריך בבית-הספר למשפטים בירושלים.
+
+ בשנות 1942-48 קונסול בפועל של מכסיקו.
+
+ היה נשיא תורן בית המשפט המחוזי בירושלים. משנת 1962 חבר בית המשפט העליון בישראל.
+
+ חבר ועד הקונסרברטוריון למוסיקה בירושלים.
+
+ בנותיו:<persName> רעיה, מוסיה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5127 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5127</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

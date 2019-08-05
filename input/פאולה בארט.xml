@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1394 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1394</bibl><bibl>Volume: #3 ,Page: 1395 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1395</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פאולה בארט</persName>
+
+</head>
+         <div><p> נולדה בברסלאו, גרמניה (כיום: וורוצלאו, פולין), כ"ו אב תרנ"ד (26.8.1894), לאביה <persName>יהודה (לודוויג) ויטנ</persName> <persName>ברג </persName> ולאמה <persName>חוה אסתר (ג'ני</persName> ) בת<persName> מרדכי כהן.</persName> נתחנכה בבית-ספר פרטי בברסלאו והיתה פעילה מנעוריה בתנועת "המזרחי".
+
+ נישאה לד"ר<persName> אהרן בארט</persName> (ראה כרך א', עמוד 371). היתה פעילה בברלין בעבודה סוציאלית יהודית והשתתפה ביסודו, בארגונו ובהזנתו של המוסד לילדים ולנוער "אהבה", שהוקם אח"כ מחדש בארץ, בקריה ביאליק שליד חיפה.
+
+ עלתה ארצה עם בעלה וילדיה ביוני 1933 והתישבו בחיפה. המשיכה בפעילות צבורית וסוציאלית ויסדה בחיפה את ארגון נשים דתיות ועמדה בראשו, את בית החלוצות של המזרחי ואת מפעל "הכלל לכלל" לחלוקת חבילות מזון לנצרכים. לבקשת הגברת <persName>הנריטה סולד</persName> ז"ל ארגנה את שתי הקבוצות העירוניות של עלית הנוער הדתי "רמבם" ו"אמונים". סידרה עם האדריכל <persName>ראטנר </persName> את התיכנון של מוסד הנוער והילדים "אהבה" בקרית ביאליק ופיקחה על בניתו וציודו.
+
+ כשעברה בשנת תרצ"ח לתל-אביב ארגנה גם כאן את מפעל "הכלל לכלל" מטעם המחלקה הסוציאלית של העיריה ומנהלת אותו עד היום, קיבלה לידיה את הארגון "שרות נשים סוציאלי" ופיתחה אותו למוסד המקיים מטבחים צבוריים לנצרכים ולו סניפים מיוחדים לעזרת נצרכי המעמד הבינוני ופעולות עזרה בצורות שונות
+
+ לעולים שהשתייכו בחו"ל למעמד הבינוני והגיעו ארצה בלי אמצעים מספיקים. ביזמתה ובפעילותה נבנו 3 בתים בשביל כ-130 עולים מסוג זה ("בית שלום") ברחוב צבי גרץ ומתחילה לבנות בתים נוספים מסוג זה
+
+
+ ("בית ברכה") בשכונת יד אליהו. ארגנה את המחסן המרכזי להלבשה, שנעשה אח"כ מוסד עירוני ברשת מפעלי המחלקה הסוציאלית.
+
+ צאצאיה :<persName> תמר</persName> אשת<persName> דב רייכמן, יעקב, יהודה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1394 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1394</bibl><bibl>Volume: #3 ,Page: 1395 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1395</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

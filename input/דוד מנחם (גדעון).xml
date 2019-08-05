@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4338 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4338</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד מנחם (גדעון)</persName>
+
+</head>
+         <div><p> נולד בשנת תר''פ (1920) בפורט-סעיד אשר במצרים.
+
+ לאביו <persName>יוסף מנחם</persName> ולאמו<persName> ברכה.</persName>
+
+ בגיל 14 הגיע לארץ ב-20.12.1934 והשלים את לימודיו בבית המסר התיכוני "נורדיה" בתל-אביב ובבית הספר
+
+ הגבוה למשפט ולכלכלה בתל-אביב, בו למד שנה אחת נוספת.
+
+ במסגרת המנגנון האדמיניסטרטיבי של ממשלת המנדט התקבל כפקיד במחלקה המשפטית של הפיקוח על המזוזות והואיל וידע יפה את שלוש השפות הרשמיות (עברית,
+
+ אנגלית וערבית) עסק בתרגומים. אחר כך כשאחיו הידוע בשם "יוקי" פתח את התיאטרון שלו, עבד אצלו כאדמיניסטרטור.
+
+ חבר תנועת ה"מכבי" ומאורגן במחתרת לח''י. אחר כך התגייס עם כל אנשי ארגונו לצה"ל. צורף לגדוד "שריון ופשיטה". סיים בהצלחה יתירה קורס לאלחוטאות (בו השתלם חמישה ימים בלבד!), השתתף בכיבוש לוד, ובפעולה זו נפל ביום ג' תמוז, תש"ח (10.7.1948) והובא למנוחת עולמים בבית הקברות בנחלת יצחק.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4338 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4338</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

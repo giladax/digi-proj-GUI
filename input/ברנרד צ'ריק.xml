@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3730 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3730</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ברנרד צ'ריק</persName>
+
+</head>
+         <div><p> נולד דובלין (אירלנד) כ"ה חשון תרע"ה (14.11.1914). לאבין <persName>מאיר צ'ריק.</persName>
+
+ קבל חנוך מסורתי. למד באוניבסיטאות מנצ'סטר ולונדון - מ. א. היה תלמיד מחקר לסוציולוגיה בביה"ס לכלכלה בלונדון.
+
+ כיהן כרב בלונדון. בימי מלחמת העולם השניה שירת כרב צבאי.
+
+ בשנות 1942-47 מנהל הקרן הקיימת לישראל וקרן היסוד באנגליה.
+
+ בין מייסדי המגבית המאוחדת באנגליה.
+
+ בשנת 1947 עלה לארץ.
+
+ מרצה בקורסים חיצוניים של האוניברסיטה העברית בירושלים.
+
+ חבר המכון המלכותי לעיניני חוץ. <persName>בת שבע בורגר גבעת שמואל, רח' וויצמן 8.</persName> חבר החברה לחקר המקרא.
+
+ מנהל מחלקת האירגון והפרסום של האוניברסיטה העברית בירושלים.
+
+ סגן יו"ר אקסגוליבי של חבר הנאמנים של האוניברסיטה העברית.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3730 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3730</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

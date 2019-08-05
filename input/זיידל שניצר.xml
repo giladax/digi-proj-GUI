@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3582 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3582</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זיידל שניצר</persName>
+
+</head>
+         <div><p> נולד בשנת תרכ"ח (1868) בירושלים. לאביו<persName> שרגא פייבל שלמה</persName> בן ר'<persName> מרדכי</persName> (ראה ערכיהם בכרך שמיני) ולאמו<persName> רבקה יהודית</persName> בת ר' <persName>מוניש באר</persName> מצפת.
+
+ למד בת"ת ובישיבת "עץ חיים".
+
+ ירש את כהונת אביו ושירת שנים רבות בתור מוכתר של רובע היהודים בעיר העתיקה בירושלים. בימיו כבר גדל הישוב בעיר ונתרבו אף החוקים והתקנות של השלטונות הממלכתיים והעירוניים, שהצריכו יותר ויותר את המגע בין התושבים ובין השלטונות, וכך היתה לו עבודה רבה בייצוג עניני הצבור וענינים פרטיים של היהודים, והוא עשה כמיטב יכלתו לעזור לכל אחד בענינו ולסייע בכך להתבצרות הישוב היהודי בעיר הקודש. וכן הרבה לפעול בישוב להפסקת החיכוכים בין התושבים האשכנזים ובני עדות המזרח, שנתחבב עליהם.
+
+ נפטר בירושלים, ט"ז אב תש"ג (17.8.1943).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3582 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3582</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

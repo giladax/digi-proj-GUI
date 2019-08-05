@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 633 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/633</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר נסים בראון</persName>
+
+</head>
+         <div><p> נולד בעכו, בשנת תרל"ז (1877), לאביו<persName> ראובן</persName> ולאמו <persName>רחל</persName> לבית<persName> ישבי</persName> .
+
+ בעודו נער עבר עם הוריו לבירות. שם למד בביה"ס של כי"ח (אליאנס) ואח"כ באוניברסיטה הצרפתית בבירות
+
+ ובאוניברסיטה הטורקית באיסטמבול והוסמך לרופא-שינים.
+
+ התישב ביפו והיה מראשוני רופאי-השינים בעיר. רוב הפונים לעזרתו היו ערבים, וכך נוצרו יחסי ידידות בינו וביניהם, ובימי מתיחות שירת את הישוב היהודי בפעולות להשקטת הרוחות בין הערבים.
+
+ נשא לאשה את<persName> חוה</persName> בת <persName>יעקב ארקין</persName> (מ-11 הראשונים מיסדי המושבה עקרון).
+
+ היה אח בלשכת הבונים החפשים "היכל שלמה" ביפו, וביום 16.5.33 היה בין 16 אחי לשכה זו שיסדו את לשכת "הכוכב" והיה נשיאה בשנות 1933/34.
+
+ השתתף ביסוד אגודת רופאי-השינים בארץ והיה חבר בועד שלה.
+
+ היה אדם נוח לבריות, חביב על כל מכיריו. עזר למחוסרי אמצעים הן בריפוי חנם והן בדרכים אחרות.
+
+ נפטר בתל-אביב, כ"ב תשרי תרצ"ו (19.10.35) ונקבר בבית-העלמין הישן.
+
+ צאצאיו:<persName> חנה</persName> אשת נסים עוזיאל;<persName> אליעזר</persName> ; <persName>נעמי</persName> אשת רוברט ברנט: <persName>אברהם ; ראובן</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 633 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/633</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

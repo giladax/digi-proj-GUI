@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5246 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5246</bibl><bibl>Volume: #18 ,Page: 5320 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5320</bibl>
+<bibl>Volume: #18 ,Page: 5321 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5321</bibl>
+<bibl>Volume: #18 ,Page: 5322 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5322</bibl>
+<bibl>Volume: #18 ,Page: 5323 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5323</bibl>
+<bibl>Volume: #18 ,Page: 5324 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5324</bibl>
+<bibl>Volume: #18 ,Page: 5325 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5325</bibl>
+<bibl>Volume: #18 ,Page: 5326 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5326</bibl>
+<bibl>Volume: #18 ,Page: 5327 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5327</bibl>
+<bibl>Volume: #18 ,Page: 5328 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5328</bibl>
+<bibl>Volume: #18 ,Page: 5329 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5329</bibl>
+<bibl>Volume: #18 ,Page: 5330 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5330</bibl>
+<bibl>Volume: #18 ,Page: 5331 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5331</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה טורא (טורו)</persName>
+
+</head>
+         <div><p> נולד בעיר ניו-פורט, במדינת ראוד איילאנד, בשנת תקל"ה (16.7.1775).
+
+ לאביו ר'<persName> יצחק טורא </persName> (שהיה חזן לעדת הספרדים בי'אמייקא, אח"כ בקינגקסון. נפטר שם בשנת תקמ"ג (1783).
+
+<persName>יהודה </persName> גדל בבית אחי אמו <persName>משה מיכאל</persName> (האיס) סוחר ידוע בבוסטון ושם קיבל חינוך מסורתי וכללי.
+
+ בהיותו בן 21 נעשה לסוחר והצליח במעשיו.
+
+ בשנת 1803 התיישב בניו-אורליאנס במדינת לואיזאנה ועשה חיל ועושר רב במסחרו.
+
+ השתתף בשנת 1812 בצבא ארצות הברית תחת הנשיא<persName> י'עקסון</persName> להגן על העיר ניו-אורליאנס ונפצע במלחמה ביום 1.1.1815.
+
+ נדב עשרת אלפים דולר להשלמת מצבת "בונקרהיל" לזכרון מלחמת החופש בבוסטון. המצבה נחנכה ביום 17 ביוני 1843.
+
+ למד משפטים ונתמנה לשופט בעירו.
+
+ סכומים גדולים תרם להחזקת בית הכנסת ובית הקברות בעיר מולדתו ניו-פורט ועיר מגוריו ניואורליאנס.
+
+ תמך בנצרכים במידה נפרזה.
+
+ נפטר בניו-אורליאנס ביום 13 יאנואר 1834.
+
+ הניח כחצי מיליון דולר לצדקות שונות בעירו, ו-50,000 דולר למושב עניים, זקנים בירושלים (בשנים ההן היה סכום זה גדול).
+
+ לאפוטרופסים על העזבון הזה מנה את השר סיר <persName>משה מונטיפיורי </persName> (ראה בכרך זה) ואת ה'<persName> גרשון</persName> <persName>קורשייד. מונטיפיורי</persName> הסכים לתרום בכל שנה 145 לי"ש לטובת הקרן הזאת.
+
+ בשנת תרט"ו (13.5.1855) יצאו מונטיפיורי ורעיתו עם בני לוויתם: סיר <persName>יוסף סעבאג-מונטיפיור</persName> <persName>י (מונ</persName> <persName>טיפיורי </persName> היה דודו), הד"ר <persName>אליעזר הלוי </persName> (מזכירו), <persName>חיים גדליה </persName> (אחיה של אשתו<persName> יהודית)</persName> ורעיתו<persName> וגרשון</persName> <persName>קורשיד </persName> לדרכם לא"י. בקושטא (תורכיה) נודע להם, כי השולטן<persName> עבדול מאג'יד</persName> (נולד 1839 ונפטר 1861) מוכן לקבל את<persName> מונטיפיורי </persName> לראיון פרטי, ובמועצת המיניסטרים הוחלט לכבדו באות הכבוד "מג'ידיה". הראיון התקיים ביום 28.6.1855. על בקשותיו של מונטיפיורי ענה השולטן התורכי, כי "הוא חושב לנפשו לאושר ולחובה לעשות כל מה שביכולתו לטובת נתיניו היהודים בא"י, וימלא את כל משאלותיו, ויקבל
+
+
+ גם פירמן לרכוש קרקע בא"י ולבנות בית חולים.
+
+ ב-18.7.1855 הגיעו האפוטרופסים על תרומת השופט <persName>יהודה טורא </persName> כנ"ל לירושלים <persName>(בירושלים </persName> ישבו בימים ההם 5700 יהודים - 4000 מהם ספרדים ו-1700 אשכנזים.<persName> בצפת</persName> ; 2100 (800 ספרדים ו-1300 אשכנזים. <persName>בטבריה</persName> : 1514 יהודים, 633 ספרדים ו-881 אשכנזים. <persName>ביפו:</persName> 400 (400 נפשות).<persName> בחיפה</persName> 100 וישובים קטנים היו בחברון, בפקיעין ובשפרעם.
+
+ בעזרת הוועדה הנ"ל התיישבו 15 משפחות בכפר הותיק פקיעין. כמו כן נתנו לשלושים משפחות מטבריה האמצעים הדרושים לעבודת האדמה.
+
+ בירושלים שכר בית לשלוש שנים, שנחנך בחודש אלול תרט"ו (1855) למוסד שבו למדו 84 תלמידות תפירה, תפילות, כתיבה וחשבון. מספר המורות עלה ל-5.
+
+ מקום נכבד בתכניותיו תפסה הפצת מלאכת יד בין יהודי א"י (בנאים, סתתים, נגרים, מסגרים, נפחים, סנדלרים, צבעים וכו' וכו').
+
+ בירושלים קנו מגרש שהכיל 66,225 אמות מרובעות במחיר אלף לירות שטרלינג מול "הר ציון" בירושלים.
+
+ ביום ב' אלול תרט"ו (1855) ירו את אבן היסוד למבני שני הבתים הראשונים מזרחית-דרומית של החלקה אשר שם החלו לבנות. השר סיר<persName> משה מונטי</persName> <persName>פיורי</persName> הניח באבן היסוד העתק שטר המקנה ומר <persName>קורסיט </persName> הניח בו את טבעת<persName> יהודה טורא.</persName> שני הבתים כללו 20 דירות. מחציתם לעדת הספרדים ומחציתם לעדת האשכנזים. הבניינים נגמרו בשנת תר"כ (1860) והיתה השכונה הראשונה בירושלים מחוץ לחומת העיר העתיקה, מול "הר ציון".
+
+ לשכונה קראו "משכנות שאננים" (בתי יהודה טורא).
+
+ בשנת תרכ"ה (1868) יסד הרב <persName>דוד בן-שמעון</persName> (דב"ש) את השכונה השניה מחוץ לחומה בשם "מחנה ישראל" עבור עדת המרוקנים.
+
+ בשנת תרכ"ט (1869) ייסדו את השכונה השלישית מחוץ לחומה בשם "נחלת שבעה" ע"י ה"ה<persName> אריה ליב</persName> <persName>הורביץ</persName> (לומזר)<persName>; מיכל הכהן; חיים הלוי</persName> (קובנר); <persName>יהושע ילין; יואל משה סלומון; בינוש סלאנט ויו</persName> <persName>סף ריבלין.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5246 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5246</bibl><bibl>Volume: #18 ,Page: 5320 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5320</bibl>
+<bibl>Volume: #18 ,Page: 5321 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5321</bibl>
+<bibl>Volume: #18 ,Page: 5322 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5322</bibl>
+<bibl>Volume: #18 ,Page: 5323 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5323</bibl>
+<bibl>Volume: #18 ,Page: 5324 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5324</bibl>
+<bibl>Volume: #18 ,Page: 5325 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5325</bibl>
+<bibl>Volume: #18 ,Page: 5326 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5326</bibl>
+<bibl>Volume: #18 ,Page: 5327 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5327</bibl>
+<bibl>Volume: #18 ,Page: 5328 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5328</bibl>
+<bibl>Volume: #18 ,Page: 5329 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5329</bibl>
+<bibl>Volume: #18 ,Page: 5330 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5330</bibl>
+<bibl>Volume: #18 ,Page: 5331 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5331</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

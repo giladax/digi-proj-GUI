@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 456 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/456</bibl><bibl>Volume: #1 ,Page: 457 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/457</bibl>
+<bibl>Volume: #1 ,Page: 458 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/458</bibl>
+<bibl>Volume: #1 ,Page: 459 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/459</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים אליעזר רמון (גראנאט)</persName>
+
+</head>
+         <div><p> נולד בעיירה ביזון, פלך פלוצק, בפולין, ביום י' טבת תרכ"ט (1869), לאביו הרב ר' <persName>יוסף צבי</persName> ולאמו <persName>חנה חיה </persName> (הוא היה הבן השנים-עשר להוריו ואמו היתה בת 55 בלדתה אותו). נתחנך מילדותו על ברכי התורה והחסידות.
+
+ מבחרותו נמשך לשיבת ציון. הצטרף בין הראשונים לתנועת "המזרחי" מיסודו של הגאון ר' <persName>יצחק יעקב</persName>
+
+<persName>ריינס</persName> . פרסם מאמר "על הציונות ועל החסידות" בירחון "המזרח" של ר' <persName>זאב יעבץ</persName> כדי למשוך את החסידים לרעיון גאולת העם והארץ. היה פעיל בעירו ובסביבתה למען ישוב ארץ-ישראל ועסקן במצוות: יסד חברה לגמילות חסדים, עשה תעמולה למען אתרוגי ארץ-ישראל והמריץ את ידידיו ומכיריו ללימוד תורה בחברות ש"ס ומשניות. בהיותו מורה לתלמוד בדובז'ין היה שם גם מנהל ספריה עברית. בשנת תרס"ו התגבר על הקשיים החמריים ועלה ארצה עם כל בני-ביתו והתישב
+
+ ביפו. כאן עסק במסחר ואשתו<persName> אסתר חוה</persName> בת יחיאל בונים אלשטיין עזרה על ידו.
+
+ בנוה-שלום יסד בית-מדרש לחסידים עולי פולין, הקיים עד היום בשם "קהל חסידים" ברחוב בעל שם טוב. בהיותו נוח לבריות ומדבר בהשכל ודעת נתחבב לא רק על חבריו החסידים, אלא גם על ה"פרושים" ואפילו על החפשים ורבים נהנו מעצותיו הטובות ונעזרו בהן.
+
+ היה בקי גם בספרות החדשה ופרסם כמה מאמרים ורשימות ב"מוריה" וב"החרות", יזם ביפו יסוד אגודה לרכישת קרקעות להרחבת הישוב על בסיס של עזרה הדדית ופרסם כרוז נלהב בענין זה.
+
+ חיבר ארבעה ספרים: א) <persName>פלח הרמון </persName> - ביאורים על מקומות שונים במקרא, במשנה ובגמרא; ב)<persName> הדת</persName> <persName>והדעת</persName> - שאלות ותשובות בין אב לבנו בעניני אמונה ודת; ג)<persName> מכתבי צעיר שנזדקן </persName> - רעיונות והגיונות על תחית ישראל והיהדות ; ד)<persName> נחלת אפרים</persName> - אוסף מאמרים בענין הדת והאמונה.
+
+ כשפרצה מלחמת-העולם בשנת תרע"ד היה צפוי יחד עם משפחתו לגירוש מן הארץ בתור "נתין אויב", אך הוא קיבל עליו את כל יסורי המלחמה ונאחז בארץ בצפרניו ובלבד שלא ינותק ממנה. התענה עם בני-ביתו ביסורי הגירוש מיפו, סבל כמה חדשים במחנה המגורשים בכפר-סבא, ושם חיבר את ספרו "נחלת אפרים". בהמשך הגירוש אל השומרון נפטרה רעיתו ביום א' ניסן תרע"ח ונקברה בזכרון יעקב (לזכרה הקדיש את הספר "מכתבי צעיר שנזדקן"). וכשחזר מהגירוש ליפו נפל למשכב מרוב התלאות ונפטר ביום ב' אדר ב' תרע"ט ונקבר בבית הקברות הישן בתל-אביב.
+
+
+ אחרי מותו הופיע ספרו "נחלת אפרים" בהוצאת ר' פנחס גראייבסקי, ושאר ספריו עודם בכתב-יד.
+
+ צאצאיו:<persName> חנה חיה</persName> אשת משה יעקב קאצ'ר (ארצות הברית); המשורר <persName>יוסף צבי ; יחיאל בונים</persName> <persName>רפאל</persName> ; המשורר<persName> יעקב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 456 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/456</bibl><bibl>Volume: #1 ,Page: 457 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/457</bibl>
+<bibl>Volume: #1 ,Page: 458 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/458</bibl>
+<bibl>Volume: #1 ,Page: 459 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/459</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

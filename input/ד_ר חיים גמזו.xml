@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3052 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3052</bibl><bibl>Volume: #8 ,Page: 3053 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3053</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר חיים גמזו</persName>
+
+</head>
+         <div><p> נולד בשנת תר"ע (18.5.1910) בצרניגוב (רוסיה).
+
+ לאביו<persName> ירחמיאל בן ר' יעקב גמזו </persName> מפינסק, ולאמו <persName>מוסיה</persName> בת <persName>חיים חוטורצקי.</persName>
+
+ אחרי ראשית לימודים בבית-ספר עברי עלה ארצה. עם כל בית אביו ב-1923 והמשיך את לימודיו עד הגמר בגימנסיה הרצליה בתל-אביב.
+
+ למד ספרות, אמנות ופילוסופיה בסורבונה ובמכון לאמנות בפאריס ובפקולטה לפילוסופיה באוניברסיטת ויגה והוסמך לד"ר לפילוסופיה.
+
+ ב-1938 נשא לאשה את<persName> גרטה</persName> בת<persName> פרידריך היים</persName> מוינה. ואחרי פטירתה בתל-אביב 2 בנובמבר 1943 נשא ב1948 את<persName> חוה </persName> בת<persName> יוסף שווארץ</persName> מתל-אביב.
+
+
+ היה זמן-מה מנהל מוזיאון תל-אביב. עוסק בהרצאות ובכתיבת בקורת בעניני תיאטרון ואמנות (מאז 1940 בקביעות ב"הארץ").
+
+ השתתף בקונגרס בינלאומי למנהלי-מוזיאונים, פאריס
+
+ 1948. ייצג את מדינתנו בכינוס בינלאומי למבקרי אמנות מטעם אונסק"ו באיסטמבול, ספטמבר 1954, ובתערוכה בינלאומית לאמנות מודרנית בסאן-פאולו שבבראזיל, 1955.
+
+ ספריו: "שירת הקיצל" (רשמי מסע באמריקה המרכזית), "חנה אורלוף", "ציור ופיסול בישראל", "הפסל זאב בן-צבי''.
+
+ צאצאיו: (מאשתו הראשונה)<persName> יוסף,</persName> (ומאשתו השניה) <persName>מיכל, רפאל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3052 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3052</bibl><bibl>Volume: #8 ,Page: 3053 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3053</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

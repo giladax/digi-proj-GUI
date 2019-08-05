@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3330 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3330</bibl><bibl>Volume: #9 ,Page: 3331 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3331</bibl>
+<bibl>Volume: #9 ,Page: 3332 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3332</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה (יהודה ליב, ליבוש) זלצמן</persName>
+
+</head>
+         <div><p> נולד בשנת תרנ"ד (17.12.1893) בברזניצה (רוסיה).
+
+ לאביו<persName> פנחס </persName> (ממשפחת רביים ותלמידי חכמים) ולאמו <persName>איטה </persName> בת <persName>אשר גייר</persName> (מצאצאי ר'<persName> לייב שרה'ס,</persName> מתלמידי הבעש"ט).
+
+ למד בחדר ובבית המדרש והשתלם בלימוד עצמי בשפה ובספרות עברית ובהשכלה כללית. היה בבחרותי מורה לעברית ומטיף למען השפה העברית ברחבי בסראביה.
+
+ בשנת תרע"ט נשא לאשה את <persName>רחל</persName> בת <persName>אברהם אליעזר</persName> <persName>בליזובסקי.</persName>
+
+ עסק במסחר ובעבודה ציונית והיה עסקן במשרד הארצישראלי האזורי בפינסק.
+
+ עלה לארץ ב-1925 ויסד משק חקלאי ומשק חלב ברמת גן. יסד ארגון מחלק חלב עברי, בתקופת ההתחרות הקשה עם החלב ממשקי הגרמנים והערבים, וביזמתו הטילו הרבנים הראשיים לתל-אביב<persName> (אהרנסון ועוזיאל</persName> זצ"ל) איסור בלתי-רשמי על חלב של נכרים. משהתפתחה רמת גן לישוב עירוני עבר לעסוק בפיתוח עירוני
+
+ של אדמתו ולעיסוק בעניני צבור, והנו יו"ר ומנהל בפועל של התאחדות בעלי הבתים סניף רמת גן וחבר הנהלת מרכזה הארצי, יו"ר מועצת הסניף של הסתדרות הציונים הכלליים וציר בועידותיה הארצית, חבר הנהלת מגן-דוד אדום לגוש דן, חבר בית הדין להפקעת שערים, היה כעשר שנים חבר הנהלת המועצה המקומית ואח"כ העיריה של רמת גן, וכיום חבר בכמה ועדות עירוניות.
+
+ פרסם מאמרים ב"הבוקר", "הארץ" ,"הזמן", "ידיעות רמת גן" וכו'.
+
+ צאצאיו:<persName> פנחס, שרה </persName> אשת ש"י <persName>(שאר-ישוב) כרמלי.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3330 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3330</bibl><bibl>Volume: #9 ,Page: 3331 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3331</bibl>
+<bibl>Volume: #9 ,Page: 3332 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3332</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

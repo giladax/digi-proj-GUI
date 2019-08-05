@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 606 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/606</bibl><bibl>Volume: #2 ,Page: 607 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/607</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פסח אליהו שולמן</persName>
+
+</head>
+         <div><p> נולד במינסק, רוסיה הלבנה, בשנת תרכ"ד (1864), לאביו ר' <persName>שמואל </persName> ולאמו <persName>שרה</persName> . למד בחדרים ובישיבות, ובהיותו בן 16 עלה ארצה עם הוריו ובני-ביתם בשנת תר"מ והתישבו בירושלים.
+
+ המשיך ללמוד בישיבת "עץ חיים" ובשעות
+
+ הפנאי היה אביו מלמדו עבודת <persName>עץ </persName> לצרכי <persName>החיים,</persName> את מלאכת הנגרות, שלמד אותה בחו"ל לפני בואו ארצה לבל יזדקק כאן לקבל "חלוקה". היה מראשוני הנגרים היהודים בירושלים והיתה לו עבודה רבה בבנין השכונות החדשות מחוץ לחומת העיר העתיקה.
+
+ כשידע את המלאכה על בוריה יצא לעבוד בנגרות בבניני מקוה ישראל. אח"כ עבר לעבוד בראשון לציון (כאן השתתף כחבר פעיל בתזמורת הראשונה של בני המושבה) ובהקמת הבנינים במושבת הבילויים גדרה.
+
+ נשא לאשה את<persName> פשה דובה</persName> בת <persName>אריה ליב בקר</persName> . השתקע ביפו ומצא עבודה לרוב בבניני היהודים שנתרבו והלכו בעיר. היה מראשוני המתישבים והבונים בנוה צדק (כאן הקים את הבמה של להקת תיאטרון החובבים). השתתף בסיון תר"ס עם <persName>משה</persName> <persName>(מוריץ) שיינברג</persName> ואחרים ביסוד אגודת "פעולה" למלאכה ואומנות, הוא הקואופרטיב הראשון של בעליהמלאכה ביפו.
+
+ נוסף למלאכתו עסק גם במסחר במטות ברזל, צבעים, פאנרים וצרכי פירזול לרהיטים ולבנינים שהביא מאוסטריה ומגרמניה, בו בזמן שיבוא מצרכים אלה היה כעין מונופולין בידי הסוחרים הגרמנים ביפו, ובזה עשה מעשה-כיבוש חלוצי בחזית המסחר העברי.
+
+ נפטר בירושלים, כ"ה אלול תרס"ב.
+
+ צאצאיו: <persName>רחל</persName> אשת <persName>משה פיינזילבר</persName> (ירושלים), ד''ר <persName>אריה (ליאון)</persName> (מעסקני התאחדות בני הישוב, ממנהלי גימנסיה בלפור בת"א),<persName> חיה</persName> אשת<persName> שמואל בקר</persName> , ד"ר <persName>יצחק</persName> (ז"ל) (רופא ובעל בית-חולים פרטי בפאריס, שם נפטר ביום ח' אדר תש"ז),<persName> דבורה </persName> אשת <persName>מכס</persName> <persName>אורפירר, אסתר</persName> (ז"ל) אשת<persName> יקותיאל חינסקי </persName> (אמו של <persName>אליהו חינסקי-כהן</persName> הי"ד, שנהרג בשנת תש"ו בעת חושו להגנת רשפון ושפים כשהושם עליהן מצור צבאי בגלל נכונות הישוב לעזור לקליטת המעפילים וי;צלתם מגירוש).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 606 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/606</bibl><bibl>Volume: #2 ,Page: 607 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/607</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

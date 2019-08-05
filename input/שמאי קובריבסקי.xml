@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3046 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3046</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמאי קובריבסקי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וולקוביסק</placeName> (רוסיה) בשנת תר"מ (1880).
+
+ לאביו <persName>נפתלי</persName> ולאמו<persName> מרים</persName> בת הרב גרינברג מגרודנאפערשטאט.
+
+ קבל חנוך מסורתי וכללי.
+
+ בסלונים היה בעל בית מסחר לבגדי הלבשה.
+
+ היה חבר פעיל בתנועת חובבי-ציון.
+
+ ב-19 לינואר 1908 נשא לאשה את<persName> רחל </persName> בת <persName>יוסף</persName> <persName>סלוצקי.</persName>
+
+ משנת 1914 קבלן להלבשה - לצבא.
+
+ בשנת 1922 עבר לפולין - לביאליסטוק עסק שם בתעשיה.
+
+ בשנת 1924 עלה לארץ.
+
+ עסק בתעשית חומרי בנין. ואח"כ סוכן בחברת הביטוח "ריוניונה אדריאטיקה די-סיקורטה".
+
+ היה פעיל בהסתדרות הציונים הכלליים. היה פעיל בבני-ברית.
+
+ נשיא (1935-36) ומיסד (16.5.33) לשכת הבנאים החפשים "הכוכב", בתל-אביב.
+
+ נפטר בתל-אביב, ז' שבט תש"ג (13.1.1943).
+
+ צאצאיו:<persName> מרדכי בן-ארצי,</persName> אלוף <persName>אפרים בן-ארצי,</persName> <persName>דבורה </persName> אשת <persName>יצחק זיו-אב</persName> (ראה כרך ב', עמוד 741),<persName> יונה</persName> אשת<persName> יונה אושפיז.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3046 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3046</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

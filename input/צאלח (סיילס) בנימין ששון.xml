@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1828 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1828</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צאלח (סיילס) בנימין ששון</persName>
+
+</head>
+         <div><p> נולד בבגדאד, ח' טבת תרס"ג (7.1.1903), לאביו <persName>שלמה מאיר עזרא</persName> (שהתיחס למשפחת "שיך" <persName>ששון</persName> המפורסמת), ולאמו <persName>עזיזה</persName> בת <persName>שמחה בת הרב טבדאללה</persName> <persName>סומך</persName> (גדול רבני בבל בדורות האחרונים).
+
+ בשנת 1918 נסע להודו ולמד בבית הספר בכלכותה. ב-1920 נסע לאנגליה כדי להשתלם בלמודיו. בשנים 1927-1923 למד באוניברסיטה של אוקספורד וקבל שם את תואר ההצטיינות הגבוה ביותר בתורת המשפטים B. C. L. נוסף לתואר M A. החל משנת 1929 התחיל לעבוד כעורך דין ונוטריון צבורי בלונדון.
+
+ בשנת 1931 עלה לארץ והתישב בתל-אביב, והמשיך לעבוד כעורך-דין ונוטריון צבורי. ידוע כעסקן צבורי שמלא כמה תפקידים צבוריים חשובים: נשיא העדה
+
+ הבבלית בתל-אביב, סגן יו"ר ועד העדה הספרדית, שופט עירוני וחבר בית המשפט למניעת ספסרות בת"א. ב- 1939-40 היה מזכיר תנועת ה"רוטרי" במזרח הקרוב, ממיסדי הרוטרי יפו-ת"א ונשיאה בשנות 1945-46. לפי בקשת הסוכנות היהודית והעדה הספרדית בארץ הופיע בשנת 1947 בפני ועדת או"מ יחד עם הרב הראשי לא"י <persName>בן-ציון מאיר חי עוזיאל, אליהו</persName> <persName>אלישר ואברהם אלמאליח.</persName>
+
+ בטבת 1949 היה מועמד לציר "הכנסת הראשונה" של מדינת ישראל מטעם הרשימה המאוחדת של הספרדים ובני עדות המזרח, מהראשונים ברשימה זו.
+
+ ב-1931 נשא לאשה את<persName> זלדה</persName> ממשפחת <persName>הריס</persName> מליברפול.
+
+ בנו: <persName>מאיר דוד,</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1828 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1828</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

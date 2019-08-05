@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1300 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1300</bibl><bibl>Volume: #3 ,Page: 1301 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1301</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר טוביה פורטר</persName>
+
+</head>
+         <div><p> נולד ביפו, כ"ט סיון תר"ס (26.6.1900), לאביו <persName>משה מרדכי הלוי</persName> (מראשוני חובבי ציון באוקראינה, עלה עם משפחתו סמוך לשנת תר"מ, היה בין המתנחלים על אדמות הבארון <persName>בנימין רוטשילד</persName> בגולן, במחוז דמשק, ואחרי חיסול ההתישבות העברית שם בשל התנכלויות הבידואים והשליטים שבדמשק עבר להתנחלות ביבנאל ובסוף עבד כ-25 שנה כנאמן ביקבי זכרון יעקב ונפטר ט' חשון תרצ"ה) ולאמו <persName>רחל </persName> לבית <persName>ברנר</persName> מאודיסה (נפטרה ב' תמוז תרע"ו).
+
+ למד בבית הספר העברי ביפו ואח"כ בגימנסיה הצרפתית בבירות, היה פעיל בחוגי הנוער לתרבות
+
+
+ ולעבודה לאומית גם ביפו וגם בבירות, ושם היה פעיל גם בחוג הכללי של התלמידים להרצאות ולכתיבה.
+
+ מ-1916 עד סוף מלחמת העולם הראשונה שרת בצבא הטורקי במחלקה סניטרית בראשותם של הרופ<persName>אים ד"ר אברהם אבושדיד,</persName> ד"ר <persName>יהושע שאמי</persName> וד"ר <persName>סוואביני</persName> .
+
+ ב-1920 יצא ללמוד רפואה באוניברסיטת לוזאן, שווייץ, והוסמך לד"ר לרפואה. גם שם היה פעיל למען הציונות והתרבות העברית הן כסטודנט והן בהשארו שם אח"כ כרופא מוסמך. היה חבר הסתדרות הסטודנטים העברים בשווייץ בשני כינוסים של התאחדות בינלאומית של הסטודנטים, נשיא הסתדרות הציונים בלוזאן ובשווייץ הצרפתית, חבר הועד המרכזי של ציוני שוייץ וציר בועידות הארציות בציריך, באזל וג'נבה, חבר ועדי הקה"ק וקרן היסוד לשוייץ ועוזר פעיל לשליחי הלשכות המרכזיות של הקרנות שבאו לשוייץ, חבר ועדת התרבות של הציונים בלוזאן ובכל שוייץ הצרפתית ונציגם בועדת התרבות המרכזית של ציוני שוייץ. פרסם מאמרים בעתונות הישראלית והכללית שבשוייץ בצרפתית ובגרמנית, וב-1942 פרסם בצרפתית מחקר על הגרענת מתקופת התנ"ך ועד ימינו.
+
+ ב-1924 נשא לאשה את<persName> צלה</persName> לבית<persName> איזיקוביץ</persName> . במלחמת העולם השניה השתתף ביסודה ובפעולתה של ועדה יהודית-נוצרית בראשיות פרופסורים, רופאים, כהני-דת, סופרים ואנשי-שם אחרים לעזרת הפליטים היהודים שנמלטו לשוייץ ולהצלת חיי הרבה אלפים ילדים ומבוגרים, בראש הועד פעל יחד עם פרופ<persName> טייאן</persName> , ד"ר <persName>אקשקה</persName> , הכהן הפרוטסטנטי<persName> גרון </persName> ומרת<persName> דרייפוס</persName> (ממשפחת הקפיטן דרייפוס הנודע שנרדף על יהדותו במשפט צבאי בנוי על מערכת כזבים וזיופים), השיגו הרבה עזרה ורצון טוב מאנשי הממשלה הפדרלית של שוייץ ובמקרים חמורים עשו למען הצלת נפשות אף מחוץ לתחומי החוק והסכמת השלטונות.
+
+ ב-1945 חזר ארצה כרופא ראשי ל-365 פליטים שהועלו ארצה באניה הפורטוגזית "לימה" והתישב בשכונת אגרובנק בחולון. בניו: <persName>דב, בן-עמי</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1300 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1300</bibl><bibl>Volume: #3 ,Page: 1301 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1301</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

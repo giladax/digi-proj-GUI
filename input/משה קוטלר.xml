@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2793 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2793</bibl><bibl>Volume: #7 ,Page: 2794 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2794</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה קוטלר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וילנה</placeName> (ליטא) בשנת תרל"ה (1875).
+
+ לאביו <persName>אליעזר (אחיו, הרב </persName> ישעיה יעקב קוטלר רב ב<placeName>וילנה</placeName>) ולאמו <persName>רחל.</persName>
+
+ קבל חנוך מסורתי.
+
+ עבד בתור פקיד בבית מסחר לניר של פקטורסקי, הציוני הידוע ב<placeName>וילנה</placeName>.
+
+ חבר בחובבי-ציון בעירו.
+
+ בשנת תרנ"ו עלה לארץ והתישב בחדרה.
+
+ בט"ז שבט תרנ"ט (1899) נשא לאשה את <persName>חיה רחל</persName> <persName>לאה</persName> בת ר' <persName>ישראל גראזנסקי</persName> - גאזער - ראה כרך ד', עמוד 1906).
+
+ היה מטובי המתישבים בחדרה.
+
+ הקדחת הצהובה תקפה גם אותו ונאלץ כעבור 3
+
+
+ שנים לעזוב את המושבה. עבר ליפו. אבל המחלה לא עזבה אותו.
+
+ נפטר ביפו, י', טבת תרס"ב (20.12.1901).
+
+ בנו:<persName> חיים-יצחק.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2793 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2793</bibl><bibl>Volume: #7 ,Page: 2794 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2794</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

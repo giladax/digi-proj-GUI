@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 139 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/139</bibl><bibl>Volume: #1 ,Page: 140 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/140</bibl>
+<bibl>Volume: #1 ,Page: 141 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/141</bibl>
+<bibl>Volume: #1 ,Page: 142 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/142</bibl>
+<bibl>Volume: #1 ,Page: 143 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/143</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישעיהו (חיים זלקינד) גבור</persName>
+
+</head>
+         <div><p> נולד בעיירה שאד, ליד קובנה, ליטא, בשנת תרכ"ג (1863), לאביו הרב <persName>יחיאל מיכל</persName> מזאמוט, תלמיד-חכם וחובב-ציון נלהב. למד בישיבות שונות בליטא, ובעיקר בישיבת הגאון ר' <persName>שמחה זיסל </persName> מקלם, למד מאביו את מלאכת ניקור הבהמות.
+
+ תיכף אחרי חתונתו, עם תום שבעת ימי המשתה, עלה ארצה עם אשתו והוריו בשנת תרמ"ה והתישבו בירושלים. כאן קירבוהו הרב הראשי ר' <persName>שמואל סלאנט</persName> והרב ר' <persName>יהושע לייב דיסקין</persName> מבריסק והוא נתמנה למנקר מטעם העדה האשכנזית, זה היה כאשר עם גידול הישוב העברי גדל הצורך בבשר כשר והיה צורך להכשיר גם ואת החלק האחורי של הבהמות, ולא כמו שנהגו קודם לכן למכור חלק זה לקצבים ערבים במחירים מוזלים. בירושלים קבע את דירתו בשכונת "ימין משה" (מיסודו של <persName>מונטיפיורי</persName> ), בעת שרבים עדיין פחדו לצאת מהעיר העתיקה.
+
+ עם גידול הישוב העברי ביפו הוזמן ובא לכאן בשנת תרנ"ט לשרת את הקהלה כמנקר (בירושלים כבר לימד את המלאכה לאנשים אחרים, שעבדו לפי הוראותיו), ועם ריבוי המנקרים בעיר העברית הגדלה והולכת היה הוא המנקר הראשי.
+
+ היה ממקורביו של הרב <persName>א. י. קוק </persName> זצ"ל בעת כהונתו ביפו. עסקן בצרכי צבור, ממיסדיה הראשונים של חברת "שומרי שבת", הפריש בקביעות חמישית מהכנסתו לצדקה, תמך בסתר בעניים צנועים, שקד
+
+ על גמילות חסדים בגופו ובממונו, וביחוד התמסר לספק את צרכי המחיה של אברכים גדולי תורה, כדי שיוכלו להמשיך בלימודם בלי טרדות פרנסה. והללו השתלמו והגיעו למשרות רבניות חשובות.
+
+ התנהג בענווה ושקד על התורה והתפילה בצבור במנין "ותיקין" אף לעת זקנה וחולשה.
+
+ ביום י"א אב תרפ"ה הכין לעצמו קבר בהר הזיתים בירושלים ליד קבר אביו, ולאחר 17 שנה בדיוק מיום ליום נפטר בשכונת נוה-שלום בתל-אביב ביום השבת, י"א אב תש"ב, וממחרת הובל לקבורה להר הזיתים.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 139 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/139</bibl><bibl>Volume: #1 ,Page: 140 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/140</bibl>
+<bibl>Volume: #1 ,Page: 141 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/141</bibl>
+<bibl>Volume: #1 ,Page: 142 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/142</bibl>
+<bibl>Volume: #1 ,Page: 143 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/143</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

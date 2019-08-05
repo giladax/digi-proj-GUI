@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3846 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3846</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה גינזבורג</persName>
+
+</head>
+         <div><p> נולד ב<placeName>מוסקבה</placeName> (רוסיה), אלול תרמ"ה (1885).
+
+ לאביו <persName>אהרן ליב גינזבורג</persName> (ראה כרך ב', עמוד 821) ולאמו <persName>גישה</persName> בת<persName> אברהם ליב פרדקין,</persName> משקלוב.
+
+ עלה לארץ בשנת תר"ן (1890).
+
+ קיבל חינוך מסורתי, וכללי בביה"ס אליאנס (כל ישראל חברים) וחובבי ציון ביפו. במשך 3 שנים בבית הספר החקלאי במקוה ישראל (עד אוקטובר 1904).
+
+ אחר גמר הלימודים במקוה ישראל עבד בתור פועל חקלאי במשך 6 חדשים בחווה "סג'רה" תחת הנהלתו של<persName> אליהו קרוזה</persName> (ראה כרך ששי, עמוד 2603).
+
+ במרץ 1905 נתמנה לסגן מנהל. מנהל חשבונות ומטפל בענייני חקלאות בחברת יק"א, באדמותיה בחורן. במשך 7 שנים גר בכפר ג'ילין שבחורן.
+
+ בשנת 1912 הועבר למשרד יק"א ביפו ואח"כ בתל-אביב להנהלת החשבונות.
+
+ בשנת 1916 נשא לאשה את <persName>זהבה </persName> בת ר' <persName>יצחק</persName> <persName>אייזיק בן-טובים</persName> (ראה כרך ב', עמוד 595).
+
+ בשנת 1933 נתמנה למנהל חשבונות ראשי במשרד פיק"א בחיפה, ושם נשאר עד סוף 1940, תאריך יציאתו לפנסיה.
+
+ חבר ועד הביקורת ב"אוהל שם" וב"אגודה לגמילות חסדים יפו-ת"א''.
+
+ צאצאיו : <persName>שפרה</persName> אשת ד"ר <persName>משה לנצט</persName> (גינקולג בבית החולים "קפלן ע"י רחובות"), <persName>יצחק</persName> (ד"ר לבקטריולוגיה ופילוסופיה, עובד במחקר באוניברסיטה העברית בירושלים).
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ב' ניסן תשכ''ו (23.3.66) (ראה כרד י"א, עמוד 3846)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3846 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3846</bibl>            <bibl>Volume: #16 ,Page: 5005 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/5005</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

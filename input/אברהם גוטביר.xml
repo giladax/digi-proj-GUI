@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4065 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4065</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם גוטביר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>לודמיר</placeName> (ווהלין) בשנת תר"מ (1880).
+
+ לאביו <persName>יהודה גוטביר</persName> (היה עסקן צבורי. חבר מועצת העיר. בעל ביח"ר ליצירת מכונות טכסטיל ברוסיה) ולאמו<persName> שרה.</persName>
+
+ קיבל חינוך מסורתי.
+
+ היה בעל בית חרושת לטקסטיל בעירו.
+
+ נשא לאשה את <persName>רבקה </persName> בת<persName> איזיק ורוזה ווערניק.</persName>
+
+ בשנות 1906-1910 בארצות הברית.
+
+ בשנות 1911-1912 ביאפן וחזר לרוסיה.
+
+ בשנת 1926 עלה עם משפחתו לארץ.
+
+ בנה ביח"ר לטקסטיל בג'רה ע"י נהלל.
+
+ בשנת 1930 עבר לרמת-גן ויסד בית חרושת לתעשית מנועים.
+
+ כל השנים היה יחד עם בניו - פעיל בהגנה.
+
+ נפטר ברמת-גן, י"א אדר ב' תש"ג (18.3.1943) והובא לקבורה בנחלת יצחק.
+
+ צאצאיו :<persName> יהודה, משה, מרדכי, ברכה</persName> אשת <persName>שמואל</persName> <persName>מרגושילסקי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4065 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4065</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

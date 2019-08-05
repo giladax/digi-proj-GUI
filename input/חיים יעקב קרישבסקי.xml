@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 881 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/881</bibl><bibl>Volume: #2 ,Page: 882 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/882</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים-יעקב קרישבסקי</persName>
+
+</head>
+         <div><p> נולד בכפר קוטובקה, פלך יקטרינוסלאב (אוקראינה), בכ' כסלו תקצ"ט לאביו<persName> מרדכי</persName> (חסיד חבד"י, מנהל פנקסים אצל העשיר הידוע פורטוגלובי, ממוצא יהודיספרדי, ממשפחת דה-לאטס) ולאמו <persName>איטה </persName> לבית אמציסלבסקי. קבל חנוך מסורתי ולמד בחדר ובישיבה
+
+ וכן הקנה לו אביו את שפת המדינה.
+
+ נשא לאשה את <persName>רחל-לאה</persName> בת ר' גרשון וחנה-חסיה <persName>טפלינסקי</persName> (נפטרה בט' באב תרמ"ד). עסק בחכירת משרפות-יין.
+
+ בתרמ"ח חיסל את עסקיו מתוך החלטה לעלות
+
+
+ לארץ ישראל. אשתו השניה סירבה לעזוב את רוסיה ולאחר שלא הצליח להשפיע עליה בשידוליו נתן לה גט ועלה לבדו בסוף תרמ"ח.
+
+ התישב בראשון-לציון ושימש מפקח על השדות והכרמים של משפחת אמו. נתרשם מאד מן החיים החלוציים של ראשוני הבונים ואעפ"י שהיה חסיד אדוק מצא לשון משותפת עם צעירי המייסדים בראשוןלציון ועם הבילויים מבני גדרה. הצעירים השיבו לו חבה ובמוצאי-שבתות היו באים אליו לשמוע זמירותיו והיו משתתפים יחד אתו ברקודי-חסידים.
+
+ השתדל להשפיע על בנו מרדכי שיחיש את עליתו לארץ והיה כותב לו מכתבים מלאי-התפעלות על החיים במושבה הבילויית. באחד המכתבים סיפר בין השאר את העובדה הבאה: כאשר הוזמן יוסף-מנחם אשבל לשמש מורה בגדרה, הביא אתו ספרי-למוד של גרזובסקי, וספרים אחרים ברוח התקופה החדישה, מאחר שאכרי גדרה היו מוחזקים כ"חפשים". והנה נכנס חזנוב לבית-הספר ובראותו את ספר-הלמוד התרגז ואמר: "רצוננו ללמד את בנינו תורת ד' כפי שניתנה לנו ע"י משה רבנו. וספרי גרזובסקי וכדומה להם לא יזכרו ולא יפקדו".
+
+ השתתף עם בני משפחתו אפטקמן והד"ר ד'ארבלה בקניית אדמת סג'רה והתישב במקום. נשאר יחיד בסג'רה לאחר שהכל עזבוה מחמת הבדידות, מחלות העינים והקדחת, וישב באהל-יריעות. הערבים תושבי המקום חשבוהו לקדוש ולא זו בלבד שלא נגעו בו לרעה בעצמם, אלא שאף שמרו עליו מפגיעתם של גנבים ושודדים. מרוב מחלות נתדלדלה בריאותו ותשרש הועבר ע"י בני משפחתו לראשון לציון.
+
+ בארץ נשא אשה שלישית בשם <persName>טיליה,</persName> בת יוסף דב וטובה ורשבסקי ממשפחה חסידית מצפת.
+
+ חלה במחלת הסרטן ונפטר בירושלים י"א כסלו תר"ע ונקבר בהר הזיתים ליד קברו של הרב שניאור זלמן לדייר הגאון מלובלין.
+
+<persName>צאצאיו:</persName> מאשתו הראשונה - מרדכי (מורה ועסקן ידוע, בבואו לארץ שינה את שם-משפחתו ל"אזרחי"); דר. <persName>גרשון-יצחק</persName> (היה רופא בפתח-תקוה, מת ר"ח ניסן תרע"ו כתוצאה ממחלת טיפוס הבהרות שלקה בה בהיותו בצבא התורכי); דר. <persName>משה </persName> (היה רופא, מת בקהיר ב-1904) ; <persName>צפורה </persName> אשת אברהם <persName>עמיאל</persName> בירושלים: <persName>אסתר ברליאנד</persName> בראשון לציון;<persName> ברכה</persName> אשת צבי <persName>הירשפלד </persName> בראשון לציון ; מאשתו השלישית - <persName>יהודית איטה</persName> אשת יונתן <persName>בנארי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 881 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/881</bibl><bibl>Volume: #2 ,Page: 882 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/882</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

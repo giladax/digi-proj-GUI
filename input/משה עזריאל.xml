@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 1054 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1054</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה עזריאל</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרמ"א (1881), לאביו הרב <persName>אברהם</persName> (מגבאי ישיבת "שבת אחים" בירושלים, ממשפחה מושרשת בארץ זה כמה דורות של רבנים ומקובלים, נכד הרב <persName>אהרן</persName> מחבר הספרים "כפי אהרן" ועוד, מצאצאי הרב <persName>אביגדור </persName> שהיה מתלמידי הרב
+
+ המקובל הגדול ר'<persName> שלום מזרחי שרעבי</persName> והשתתף אתו ביסוד קהל החסידים-המקובלים "בית אל" בירושלים) ולאמו<persName> בת-שבע </persName> בת הראב"ד ר' <persName>יוסף יהושע קאריו.</persName>
+
+ למד בתלמוד-תורה ואח"כ בביה"ס של חברת כי"ח ואחרי גמרו את לימודיו למד מלאכת סידור אותיות בדפוס.
+
+ בשנת תר"ס נשא לאשה את<persName> סולטאנה (מלכה)</persName> בת הרב<persName> חיים דוד (פריסיאדו) סורנאגה</persName> , מגדולי הרבנים וראב"ד לעדת הספרדים בירושלים.
+
+ אחרי חתונתו יסד בית-דפוס קטן, שבמשך הזמן התפתח והיה לאחד מבתי-הדפוס הגדולים בירושלים ואח"כ (בידי בניו) גם בתל-אביב. הוציא הרבה קובצים וקונטרסים, ירחונים ושבועונים וספרי מקרא בשפה האשפניולית, שעזרו להפצת דעת ותבונה בקרב בני העדה הספרדית ובנותיה, שדיברו וקראו בשפה זו. בין השאר הוציא את המאסף הספרותי "טריזורו די ירושלים", את הלוח הספרותי-השימושי "קאלינדאריו די ירושלים" ואת העתון "איל ליביראל", שהפך אח"כ לעתון יומי עברי "החרות" בעריכתו של<persName> אברהם</persName> <persName>אלמליח</persName> ואח"כ בעריכתו של<persName> חיים בן עטר</persName> ומילא תפקיד חשוב בחיים הצבוריים והתרבותיים של ירושלים והארץ בכלל.
+
+ בישרו ובמדותיו התרומיות בעסקים ובמגע אישי זכה לחיבה ולהוקרה של כל יודעיו.
+
+ נפגע במגפת טיפוס הבהרות במלחמת-העולם הראשונה ונפטר בירושלים, י"א ניסן תרע"ו.
+
+ צאצאיו : <persName>יוסף, יהושע (סאלוואטור)</persName> (בעלי דפוס עזריאל בת"א), <persName>שרה</persName> אשת <persName>חיים רשאל, יעקב, דוד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 1054 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1054</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

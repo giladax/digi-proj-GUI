@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3525 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3525</bibl><bibl>Volume: #10 ,Page: 3526 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3526</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אורי אורנשטיין</persName>
+
+</head>
+         <div><p> (<persName>אבי משפחת אורנשטיין בירושלים)</persName> נולד בשנת תקס"ו (1806) בזיטאל שליד סלונים, רוסיה.
+
+ לאביו ר'<persName> משה</persName> בר'<persName> מרדכי וולאברינק</persName> .
+
+ נודע בילדותו כעילוי ורכש בקיאות גם בכלכלה ובהויות העולם, ובן י"ג לקח אותו הגאון ר' <persName>יצחק</persName> אב"ד דקארלין לחתן ונתן לו את בתו <persName>זיסל</persName> לאשה.
+
+ אחרי חתונתו נכנס לעבוד בבנק, הצליח בכשרונו לקדם את עסקי הבנק ובמהרה נתמנה לסגן מנהל הבנק בסלונים. נמשך לחסידות חב"ד ונסע לליובאוויטש לקבל תורה מפי האדמו''ר האמצעי ר' <persName>מנחם מנדיל</persName> בעל ה"צמח צדק". בראותו שהעיסוק בבנק מפריע אותו מהעיסוק בתורה ובעבודת ה', החליט לעזוב את בית אבותיו ואת מעמדו הטוב. למען יוכל לחיות בפרישות ובחסידות. רבו וחותנו ואחיו הגאון ר'<persName> יעקב</persName> בעל "משכנות יעקב" התנגדו לכך, אך הוא היה תקיף באופיו, ומשהחליט לעלות לא"י, לא זז מדעתו. הוא לקח את אשתו ושלוש בנותיו, שהגדולה שבהן היתה אז בת תשע, ואת אביו הזקן, ויצא עמהם לדרך רבת התלאות (בתנאי הנסיעה בימים ההם, במסע בעגלה בכל רחבה של רוסיה) לאודיסה, להפליג משם באניה ליפו. בברדיצ'ב השיג אותם רץ שלוח מאת חותנו להחזירם. אשתו נטתה לחזור, לפקודת אביה, והוא סירב לחזור והסכים לפטור אותה בגט ולתת לה את שתי הבנות הקטנות ולקחת עמו את הגדולה. הגדולה בת התשע התיפחה בבכי ואיימה בבריחה אם ההורים יתפרדו, ובכך ריככה את האם, שהסכימה לעלות עם בעלה.
+
+ בשנת תקצ"א (סוף 1830) הגיע לארץ עם המשפחה והתישב בצפת ולמד תורה וחסידות מפי הגאון הצדיק ר' <persName>אברהם מאוריטש</persName> בעל "בת עין". נולדו לו עוד בנים ובנות, וכמה מהם מתו בדבר.
+
+ אחרי שעלה לארץ שינה את שם משפחתו: מ<persName>וולברינק</persName> ל-<persName>אורנשטיין</persName> .
+
+ בעת מרד הדרוזים והתנפלותם על צפת בשנת תקצ"ד
+
+
+ (1834) (שנת הביזה של ה"פלשתים", כפי שקראו להם אז סופרי הקורות) נהרגו אביו ושנים מילדיו.
+
+ ברעש הגדול בשנת תקצ"ז (1837) נהרגה בתו הבכירה <persName>צפורה</persName> (זו שהצילה בבכיה את שלימות המשפחה בדרך בברדיצ'ב), ואשתו<persName> וישעיה</persName> בנו, שהיה אז בן חמשה חדשים, שכבו ימים אחדים בבית קבור תחת המפולת ונצלו בדרך נס, ושוב פשטו הדרוזים על העיר ההרוסה ושדדו את כל אשר לו.
+
+ בשנת תר"א (1841) התישב בירושלים, ולהפצרת ראשי עדת חב"ד נסע לחו"ל ופעל חמש שנים לטובת כולל חב"ד, ובאותו זמן גרה משפחתו בחברון, וכשחזר לארץ בשנת תר"ו (1846) חזרה המשפחה לירושלים. נעתר לקבל את המינוי למנהל עניני הכולל בארץ, ואחרי שנים מספר שוב עשה שבע שנים בחו"ל לטובת הכולל.
+
+ היה גדול בנגלה ובנסתר ועמקן בתורת חסידות חב"ד, תקיף במלחמה נגד נסיונות לערער יסודות מסורת האבות ואף נגד פשרנות ואדישות כלפי מגמות כאלה, ובמלחמתו זו לא נרתע גם מפני גדולים. גם בביתו ובמשפחתו השריש מדות תרומיות של קדושה וטהרה בעבודת הבורא וביחס לבריות.
+
+ במעלותיו הרוחניות ובהדרת פניו היה מכובד על כל יודעיו וגדולי ירושלים ראו כבוד לעצמם להשתדך עמו. הניגודים החריפים שבין תלמידי הגר''א (הפרושים) ובין החסידים (וביחוד חסידי חב"ד) עוד לא שככו בימיו, ואף על פי כן נתן רבי <persName>משה מגיד ריבלין </persName> (מראשי עדת הפרושים, ראה כרך ב', עמוד 757) את בתו <persName>צפורה</persName> לאשה לר' <persName>ישעיה </persName> בן ר'<persName> אורי אורנשטיין</persName> איש חב"ד, והרב<persName> יעקב</persName> <persName>לייב,</persName> ראב"ד בירושלים ומנהיג לעדת פולין, לקח לבנו הרב<persName> אהרן </persName> את<persName> אלטה</persName> בת ר'<persName> אורי </persName> לאשה. (שני אלה, הבן והבת נשארו לר' <persName>אורי </persName> בחיים מכל צאצאיו, ויתרם נספו באסונות בחיי הוריהם, כמסופר למעלה).
+
+ נפטר בירושלים, י"ז אדר תרל"ט (1879).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3525 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3525</bibl><bibl>Volume: #10 ,Page: 3526 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3526</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

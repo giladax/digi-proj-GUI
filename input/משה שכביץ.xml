@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 698 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/698</bibl><bibl>Volume: #2 ,Page: 699 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/699</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה שכביץ</persName>
+
+</head>
+         <div><p> נולד בחרקוב, אוקראינה, בר"ח ניסן תרמ"ד (1884), לאביו <persName>יעקב</persName> ולאמו<persName> רחל</persName> .
+
+ הבית היה ספוג אוירה דתית ולאומית והילדים נתחנכו ברוח זו. ב-1893 עלה האב ארצה עם בנו בכורו מרדכי, וב-1896 חזר לרוסיה והעלה את שאר בני-משפחתו, ביניהם משה.
+
+ בבואו לגדרה לא למד בבית-הספר, כי אביו לא היה מרוצה מתכנית-הלמודים החילונית והרביץ בעצמו תורה לבניו.
+
+ נכנס בגיל צעיר לעבודה חקלאית והתמחה בטיפול בגפנים ובשקדים. למד גם מלאכות אחרות והיה בנאי-מומחה. ניצל את כשרונו לכל תפקיד מועיל. ידע לייצר כדורי-רובה לצרכי ההגנה בימי התורכים. היה חובב מוסיקה והקסים את בני מושבתו בנגינתו על כנור.
+
+ ידע לטפח יחסי-שכנות טובים עם הערבים והיבקי במנהגיהם ונמוסיהם. עם זה היה תקיף כלפי העבריינים שבהם והגן בלי רתיעה על רכושו וכבודו מפני פגיעותיהם. פעם, ב-1908, זמם ערבי לפגוע בארוסתו והוא שלף את אקדחו כדי לאיים עליו. באותו רגע נבהל סוסו ובהתרוממו דחף בידו ובלי משים נפלט כדור ופגע בצלעו של הערבי. אותו ערבי מת אח"כ מדלקת-ריאות, אבל היה חשש של נקמת דם ולכן נאלץ היה לעזוב את הארץ.
+
+ עבר ל"אור יהודה" שבתורכיה, ליד סמירנה, במקום שהיה קיים בית ספר חקלאי של חברת '"כל ישראל חברים'' בהנהלת גיסו בנימין צוקרמן. לפני צאתו לגלותו נשא לאשה את<persName> אסתר-לאה מדליה</persName> .
+
+
+ ב-1920 חזר לארץ והתמסר שוב לעבודה החקלאית. עמל קשה ונשא בשקט בעול.
+
+ נפטר בתל-אביב, כ''ח כסלו תש''ו (3 בדצמבר 1945) והובא לקבורה בגדרה.
+
+ צאצאיו: <persName>מרדכי</persName> (פקיד בקרן הקימת לישראל), <persName>רחביה</persName> (עוסק במסחר בגדרה, היה נוטר).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 698 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/698</bibl><bibl>Volume: #2 ,Page: 699 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/699</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

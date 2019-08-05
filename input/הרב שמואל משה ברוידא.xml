@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3608 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3608</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שמואל משה ברוידא</persName>
+
+</head>
+         <div><p> נולד בוולה, בשנת תר"ג (1843) .
+
+ לאביו ר'<persName> מתתיהו ליברמן.</persName>
+
+ קבל חינוך מסורתי בחדר ובישיבה והוסמך לרב.
+
+ במשך 22 שנה היה רב ודיין בדרוזקניק (פולין).
+
+ עסקן פעיל וחבר ב"חובבי ציון".
+
+ עמד בראש הנהלת בית החולים היהודי בדרוזקניק.
+
+ נשא לאשה את <persName>זלדה רחל.</persName>
+
+ בשנת תרס"ד (1904) עלה לארץ.
+
+ היה חבר בית הדין של הרב<persName> א. י. הכהן קוק</persName> זצ"ל ביפו.
+
+ נפטר בתל-אביב, כ"ה תמוז תרע"ו (26.7.1916) והובה לקבורה בבית הקברות הישן בתל-אביב.
+
+ צאצאיו: <persName>יחיאל ברוידא, ישעיהו ברוידא </persName> (רואה חשבון מוסמך בירושלים), <persName>חיה </persName> אלמנת<persName> י. ח. ברנר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3608 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3608</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

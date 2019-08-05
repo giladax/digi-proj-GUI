@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1495 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1495</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן ליטוין</persName>
+
+</head>
+         <div><p> לאביו<persName> שמואל </persName> ולאמו<persName> אלה.</persName>
+
+ נולד באורשה, פלך מוהילוב, בשנת תרמ"ז (1887). קיבל חינוך מסורתי וכללי. היה מנהל טחנת קמח בחרקוב.
+
+ מפעילי חובבי ציון בחרקוב.
+
+ בשנת 1914 נשא לאשה את<persName> חנה</persName> בת <persName>ישראל ז'ר</persName> <persName> נובסקי</persName> .
+
+ עלה לארץ בשנת 1925 ועסק כאימפורטר לצרכי מזון ביפו. אחרי מאורעות תרפ"ט היה מהיוזמים להקמת מרכז מסחרי לסיטונאים בתל-אביב במקום שוק אל-דיר ביפו. והקימו אז את רחוב הגשר בת"א. היה בין מארגני הקבוצה שבנו את שכונת שלמה (רחובות שלמה המלך, גורדון ועוד) בת"א.
+
+ היה חבר הנהלת בנק קופת עם בע"מ, בנק קרדיט מסחרי בע"מ, ועד לשכת המסחר בתל-אביב, חבר חברת "לידה" - לגאולת קרקעות בערים הקדושות בארץ.
+
+ ב-1939 היה ספק של מזון ל"הגנה" והעביר להם טרנסקציה גדולה של מזון.
+
+ בימיו האחרונים התעסק בשאלת בנית השוק המסחרי החדש בהמשך רחוב החשמונאים בת"א. היה מעורה בחייה הכלכליים של הארץ. נפטר בתל-אביב, ב' תשרי תש"ט (5.10.48).
+
+ בנותיו:<persName> אסתר</persName> אשת <persName>קרל הייליג, שולמית </persName> אשת <persName>ישראל רובינשטיין</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1495 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1495</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

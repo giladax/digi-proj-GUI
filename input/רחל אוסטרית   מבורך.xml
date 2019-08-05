@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4754 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4754</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רחל אוסטרית - מבורך</persName>
+
+</head>
+         <div><p> נולדה בקלרש (בסרביה) בחנוכה תר"ל (1870).
+
+ לאביה<persName> ישראל</persName> .
+
+ קיבלה חינוך עברי לאומי בקישינוב.
+
+ משכה בעט סופרים ובימי הפרעות בקישינוב. שימשה כסופרת של העתון האידי "דער פריינד", וגם בא"י פרסמה מזמן לזמן רשימות ומאמרים".
+
+ נישאה<persName> לברוך מבורך-אוסטרובסקי </persName> (מראשוני פקידי אפ"ק (הבנק הלאומי לישראל בע"מ בתלאביב).
+
+ ביתה בקישינוב היה בית ועד לחכמים וסופרים.
+
+ עלתה לארץ בשנת 1907.
+
+ ממיסדות: "הסתדרות נשים ציוניות": "הסתדרות למלחמה לשווי זכויות לנשים" ומוסדות צדקה וחינוך שונים.
+
+ ביזמתה נוצרה "קרן הילד" והיא שנתנה גם את הכנוי הזה לקרן.
+
+ הכל הוקירו את פעולותיה הצבוריות החשובה והאחראית וצרפוה ברצון בעבודה. כשם שהיתה אחראית ורצינית בעבודתה, כן ידעה לדרוש דבר זה גם מאחרים ואחרות.
+
+ נפטרה בתל-אביב, א' ניסן תש"ז (22.3.1947).
+
+ צאצאיה:<persName> משה ; עמנואל; הדסה</persName> אשת <persName>ירוחם</persName> <persName>קליבנוב; יהודית</persName> אשת פרופ'<persName> נתן פינברג</persName> .
+
+ (ראה כרך ח', עמוד 3042).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4754 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4754</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1688 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1688</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב ישראל פיינשטיין</persName>
+
+</head>
+         <div><p> נולד בבריסק דליטא, פולין. בשנת תרכ"א (1861). לאביו<persName> יונה צבי הירש</persName> (תלמיד-חכם, סוחר, מראשוני חובבי ציון וממתישביה הראשונים של ראשון לציון, ואחרי מרד האכרים גורש מהמושבה על-ידי פקידות הבארון <persName>בנימין רוטשילד</persName> והתישב ביפו) ולאמו <persName>בלומה</persName> בת <persName>זאב (וולוויל) מילכיקר</persName> , קיבל חינוך תורני והתמחה במסחר.
+
+ ב- 1877 נשא לאשה את <persName>חינקה רייזל</persName> בת<persName> אליעזר</persName> <persName>ליפמן לדרהנדלר</persName> (נפטרה ברחובות, כ"ד אב תרצ"ח), התישב בווארשה, עסק במסחר והיה פעיל בין חובבי ציון.
+
+ השתתף ביסוד חברת "מנוחה ונחלה" בווארשה ורכש באמצעותה נחלה ברחובות בראשיתה ואת עיבודה מסר בידי האחים<persName> יעקב ועזרא</persName> בני ר' <persName>יהושע</persName> <persName>פורר</persName> , בהשגחת גיסו<persName> מיכל פוחצ'בסקי</persName> (בעל אחותו <persName>נחמה</persName> ) מראשון לציון.
+
+ ב-1898 ביקר בפעם הראשונה בארץ, הביא אתו את בנו חנניה והשאירו אצל אביו בנוה שלום שביפו.
+
+ בביקורו השני ב-1904 הביא אתו את בתו<persName> נעמי</persName> ב-1906 עלה ארצה עם משפחתו, והתישב ברחובות ונטע פרדס בין הראשונים. אופיני ליחסים ששררו אז בישוב: באחד הימים זכה ל"חלוציות" מסוג מיוחד בחלקו נפל, ששביתת-הפועלים הראשונה ברחובות תוכרז בפרושו אך דבר זה לא מנע את הפועלים מהשתתף בנשף שערכה בתו נעמי באותו ערב בביתו
+
+ היה פעיל בעניני צבור, בשנים הראשונות כגבאי בית-הכנסת, במשך שנים רבות חבר בועד המושבה, חבר מועצת אגודת הכורמים של יקב- ראשון לציון וזכרון יעקב, חבר ועד החינוך המקומי.
+
+ נפטר ברחובות, כ"ט כסלו תרפ''ט (11.12.28).
+
+ צאצאיו: <persName>אליעזר ליפמן</persName> , ד"ר <persName>חנניה</persName> (רופא), <persName>נעמי</persName> אשת<persName> יצחק לדיז'נסקי </persName> (בית-הכרם-ירושלים), <persName>שלומית</persName> אשת<persName> יעקב אהרונוביץ</persName> (רחובות), <persName>עמינדב</persName> (ז"ל), <persName>רחביה, נתנאל</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1688 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1688</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

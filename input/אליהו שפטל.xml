@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2473 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2473</bibl><bibl>Volume: #6 ,Page: 2474 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2474</bibl>
+<bibl>Volume: #6 ,Page: 2475 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2475</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו שפטל</persName>
+
+</head>
+         <div><p> נולד י"ח תשרי תרע"א (21.10,1910). באינטוריק (ליטא).
+
+ לאביו<persName> יעקב</persName> ולאמו<persName> הינדא</persName> בת <persName>אליהו שפיז.</persName> קיבל חינוך מסורתי ב"חדר" ובישיבות וילקומיר וסלבודקה. הצטיין בילדותו בתפיסה עמוקה ושקידה עצומה ובגיל 12 החל ללמוד בעצמו תלמוד ומפרשיו. בישיבת סלבודקה - בהשפעת הגאון הצדיק ר' אברהם גרודזינסקי הייה התעמק גם כן בשיטת המוסד של ר' ישראל סלנטר (ישיבת סלבודקה נקראה על שמו "כנסת ישראל"). ולמד לדעת את ספרי המוסר הקלסיים
+
+ כמו "שערי תשובה" לר' יונה, "תמר דבורה" להר"מ קורדובירו "מסילת ישרים" לרמח"ל ועוד.
+
+ במשך הזמן "הציץ - ונפגע", יצא את הישיבה והתמסר באותה השקידה למדעים הכלליים וביחוד המקצועות ההומוניסטיים, כמו ספרות ושפות זרות. את השפה הליטאית שנחשבה לשפה קשה בגלל דקדוקה המסורבל למד על בוריה, תרגם מליטאית לעברית סיפורי-עם, וחוקרי-לשון העלו על נס את שליטתו המלאה בניבי השפה השונים.
+
+ עוד מילדותו נכרה בו אהבה בוערת לספרים ובאמצעים דלים רכש לו אוסף הגון של ספרים בביבליוגרפיה ותולדות חכמת ישראל, חקר הלשון ועוד. ייסד ספריה צבורית בעיירתו ושמש בה ספרן עד עלותו ארצה.
+
+ בקיץ תרצ"ו, בימי מאורעות הדמים, עלה ארצה והתיסר בכל יסורי הקליטה של הימים ההם. אך אהבתו הבוערת לספרים ו"עלים בלים" מצאה את תקונה בפתחו לעצמו ב"מ לספרים עברים ולועזיים במדעי היהדות (הבראיקה ויודאיקה), וביחוד ספרים עתיקים וספרים שנדפסו בחוץ-לארץ. הצליח במשך הזמן לקשור קשרים מסחריים ותרבותיים עם הרבה מוסדות מדע באירופה ואמריקה, וגם עם פירמות מסחריות בעלות שם עולמי עד שרכז בב''מ את מיטב הספרות - בעברית ולועזית - בחקר תולדות עם ישראל וספרותו, כמו המזרח העתיק ביחסו לעם העברי, חקר התנ"ך, הספרים החיצונים והגנוזים, ספרות התלמודים והמדרשים, הפילוסופיה והשירה העבריים של ימי הביניים ועוד. נתמנה כב''כ של מוסדות-מדע בחו"ל, כמו ההסתדרות העברית באמריקה, ייווא - יידישער וויסענשאפטליכער אינסטיטוט, מועצת הספר היהודי
+
+ באמריקה ועוד. על לקוחותיו נמנים ראש הממשלה ה' ד' בן-גוריון, שר החינוך והתרבות פרופ' דינור, חברי כנסת, אישי האוניברסיטה העברית, חוקרים וסופרים בארץ ובחוץ-לארץ.
+
+ ריכז בבית מסחרו (ב"מ ספרים "זוהר" בתל-אביב) אוסף גדול של עתונים וקבצים, החל מתקופת ההשכלה עד ימינו, ביניהם קומפלקסים שלמים של עתונים נדירים, כמו "השלח", "השחר", "האדמה" בעריכת ברנר,
+
+
+ "בכורי העתים" ועוד, והרבה ספריות השלימו על ידו את אוספיהם בפריודיקה.
+
+ עזר לחכי ישראל שונים בהמציאו להם - שלא על מנת לקבל פרס - ספרים יקרי מציאות או מקורות ביבליוגרפיים, שהיו דרושים להם לעבודותיהם המדעיות.
+
+ בשנת תש"ט נשא לאשה את <persName>אהובה</persName> בת <persName>שלמה</persName> <persName>אלבה</persName> .
+
+ בתו :<persName> מינה-אילה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2473 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2473</bibl><bibl>Volume: #6 ,Page: 2474 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2474</bibl>
+<bibl>Volume: #6 ,Page: 2475 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2475</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

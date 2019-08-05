@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3540 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3540</bibl><bibl>Volume: #10 ,Page: 3541 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3541</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב וגמיסטר</persName>
+
+</head>
+         <div><p> נולד בשנת תרנ"ט (13 לאוקטובר 1899) בוורשה, (פולין).
+
+ לאביו ר'<persName> מנדיל</persName> (היה עסקן צבורי נודע בוורשה) וסבו ר'<persName> יואל וגמיסטר</persName> , היה פרנס הקהילה בוורשה, יו"ר של הרבה מוסדות צדקה, ציר הסיים הפולני (הפרלמנט) וחבר המועצה הממלכתית הראשונה בפולין וגם מיושבי ראשונה בחצר האדמו"ר מגור. ולאמו <persName>אסתר</persName> בת <persName>ישעיה</persName> <persName>וישליצקי</persName> .
+
+ ראשית השכלתו קיבל בבית הוריו מפי מלמדים ומורים פרטיים. בגיל 12 נתקבל לישיבה של האדמו"ר מגור לכיתה הגבוהה ביותר וכעבור שנתיים עבר ללמוד אצל רבנים למדנים גפ"ת וקיבל "היתר הוראה".
+
+ בהיותו בן 16 נתקבל לקורס גבוה ללימודי היהדות בהנהלתו של המלומד <persName>ד"ר א. פוזננסקי.</persName> באותו זמן הקדיש מזמנו גם ללימודי חול והתכונן לבחינות, ובשנת 1916 נבחן ונתקבל לכיתה ה-7 בגימנסיה של האינג' <persName>י. פינקל</persName> . כעבור שנתיים סיים את לימודיו ונכנס ללמוד הסטוריה ופדגוגיה בבית הספר הגבוה (במשך 3 שנים).
+
+ בתקופה זו התחיל לעבוד בתור מורה ומנהל של
+
+ בתי-ספר "תרבות" בסביבות וורשה (סקרנוביץ, מינסקמזוביצקי ואוסטרוב מזוביצקי" והיה פעיל בתנועה הציונית - בקבוצה על המשמר בראשותה של <persName>יצחק</persName> <persName>גרינבוים</persName> .
+
+ בשנת 1925 נשא לאשה את ד"ר <persName>גיטל </persName> בת <persName>אברהם</persName> <persName>הורוביץ</persName> , ובזיווג שני, נשא לאשה את <persName>שרה ליברמן </persName> בת <persName>שמואל למפל</persName> .
+
+ היה פעיל בתנועה הציונית בפולין. ממיסדי "השחר" בווארשה (ארגון ציוני תרבותי) וחבר המרכז. היה מארגן ומרצה בערי השדה.
+
+ בשנת 1923 נתקבל כמורה ללימודי היהדות והיסטוריה בגימנסיה היהודית בזמישץ. בגימנסיה זו עבד 5 שנים וגם עסק בעבודה תרבותית-צבורית. (ארגן אוניברסיטה עממית, שעורי ערב לעברית וכו').
+
+ בשנת 1926 ניבחן ע"י ועדה ממלכתית בראשותה של הפרופ'<persName> ד"ר משה שור</persName> , שליד בית הספר הגבוה ללימודי היהדות בוורשה וקיבל תעודת מורה מוסמך לעברית וללימודי היהדות לבתי ספר תיכוניים וסימינריונים למורים.
+
+ בשנת 1927 עבר לעבוד כמורה בבתי ספר תיכוניים בטומשוב ובלודז' מיסודם של<persName> ד"ר ברוידה</persName> (בהם הוקדשו 10 שעות בשבוע ללימודי היהדות והתלמידים היו מחוייבים לגשת לבחינות בגרות של לימודי היהדות לפני גישתם לבחינות בגרות כלליות). בתקופה זו היה מרצה בלודז' והסביבה על נושאים ספרותיים ותרבותיים.
+
+ בפרוץ מלחמת העולם השניה ב-1939 ברח ביחד עם משפחתו לביאליסטוק (לשטח הכיבוש הרוסי). בתור
+
+ עסקן ציוני הוגלה לרוסיה ומשפחתו נשארה בביאליסטוק, אשתו (רופאה) ושני ילדיו נרצחו ע"י הנאצים.
+
+ בשנת 1942 עלה לארץ עם הצבא הפולני מרוסיה. במשך מספר חדשים עבד כמורה ומדריך נוער בקבוצה "משמר השרון" ואחר כך נקרא לכהן כמזכיר "התאחדות הציונים הכלליים" (חלק הרדיקאלי-פרוגרסיבי של התנועה הכלל-ציונית) בראשותו של <persName>יצחק גרינבוים</persName> .
+
+ בשנת 1949 התחיל לעבוד במחלקת הקליטה של הסוכנות היהודית ועם היווסדה של חברת "עמידר" עבר לעבוד בחברה זו וממלא בה תפקידים שונים.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3540 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3540</bibl><bibl>Volume: #10 ,Page: 3541 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3541</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

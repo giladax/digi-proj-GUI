@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1701 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1701</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי בן-ציון</persName>
+
+</head>
+         <div><p> נולד בירושלים, ט' סיון תר"ל (1870), לאביו <persName>משה</persName> <persName>אלתר</persName> (יליד ירושלים, ממיסדי שכונת מאה שערים ופעיל בעניני צבור ומוסדות תורה וחסד) ולאמו <persName>פרומה.</persName>
+
+ למד בישיבות ירושלים והוסמך לרבנות על-ידי הרב הראשי ר' <persName>שמואל סלנט </persName> זצ"ל. בתרמ"ט נשא לאשת את <persName>שרה </persName> בת ר'<persName> יהושע שטאמפר </persName> (ממיסדי פתח תקוה, ראה כרך א', עמוד 50).
+
+ יצא לארה"ב, עסק במשך שנים רבות בתעשית בגדים בעיר פרובידנס שבמדינת ראוד איילנד והיד. שם יו"ר בית-הכנסת וההסתדרות הציונית המקומית ומהפעילים והמפעילים לטובת מוסדות התורה והחסר בארץ-ישראל.
+
+ ב-1922 חזר לארץ ויסד בתל-אביב בנק אמריקהא"י. אח"כ עבר להשתקע בחיפה, שם יסד ובנה שכונות ויסד את בית-הכנסת "בוני ציון" על הר הכרמל.
+
+ נפטר בחיפה, י"ט אדר א' תש"ו (19.2.46).
+
+ צאצאיו: ד"ר <persName>שמואל שמעון </persName> (ראה עליו ערך מיוחד בכרך זה), <persName>שושנה בן-ציון הראלי</persName> (מנהלת ארגין אמהות עובדות בחיפה ושליחת ההסתדרות לאמריקה לטובת מוסדותיה בארץ). ו
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1701 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1701</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3494 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3494</bibl><bibl>Volume: #10 ,Page: 3495 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3495</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הדסה רחל בירמן</persName>
+
+</head>
+         <div><p> נולדה ג' כסלו תרל"ו (סוף 1875) בכפר ליד יקאטרינוסלאב, אוקראינה.
+
+ לאביה <persName>אשר יצחק וולפוביץ</persName> ולאמה<persName> מייטה </persName> בת <persName>אליהו</persName> <persName>צבי חיטרין.</persName>
+
+ נתחנכה בבית ההורים. למדה תקופה קצרה אצל <persName>חיים</persName> <persName>יהושע שפירא </persName> (מורה ומנהל ב"חדר מתוקן" בייקאטרינוסלאב - ראה בכרך זה) והוסיפה להשתלם בלימוד עצמי בתנ"ך ובמקורות התרבות העברית.
+
+ בשנת תר"ס (1900) נישאה <persName>ליוסף בירמן </persName> (נפטר ברחובות, ג' טבת תש"ב) וניהלו בית ציוני-עברי בייקאטרינוסלאב.
+
+ היתרו פעילה בתנועה הציונית, ביסוד קורסים ללי
+
+
+ מוד השפה העברית, באיסוף כספים לקהק"ל וכו' והיתה חברה בועד הציוני העירוני. אחרי המהפכה הבולשבית המשיכה בעזרה לתנועות-נוער ציוניות בלתי-לגאליות בעריכת קורסים לעברית, ולתנ"ך וכו', ובתה ובנה, שפעלו ברוח שנתחנכו בה על-ידי אבא ואמא, נאסרו ב"עוון" ציונות ונדונו לגירוש לסיביר, אך העונש הוחלף להם ב"גירוש" לארץ-ישראל, ואז עלו גם ההורים עמהם.
+
+ עלתה לארץ עם המשפחה בחודש ניסן תרצ"ב (1932) והשתקעו ברחובות.
+
+ פעילה כל השנים בועד יוצאי ייקאטרינוסלאב (כיום נקראת העיר דניפרופטרובסק), בעזרה לסידור העולים מהעיר ומהסביבה ובהנצחת זכר האישים והתנועה הציונית והישוב היהודי מהעיר ההיא.
+
+ רושמת כל השנים זכרונות מתנועת חיבת ציון והציונות והפעילות הציונית והעברית מהימים ההם ועד עתה.
+
+ במלאת לה 70 שנה נרשמה בספר הזהב של הקהק"ל על-ידי יוצאי ייקאטרינוסלאב, הזוכרים ופוקדים אותה בחיבה ובהוקרה.
+
+ צאצאיה: <persName>מרים</persName> אשת<persName> משה ליפקין</persName> (רחובות),<persName> יהודה</persName> (רחובות), <persName>רלי</persName> הי"ד<persName> גרינברג </persName> (היתה מורה לעברית בגימנסיה "תרבות" בלודז ונספתה עם בעלה ושני ילדיה בגטו וארשה), <persName>אברהם</persName> (מהנדס מכרות, נשאר ברוסיה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3494 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3494</bibl><bibl>Volume: #10 ,Page: 3495 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3495</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

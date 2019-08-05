@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3150 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3150</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עזרא פורר </persName>
+
+</head>
+         <div><p> נולד בבריסק (רוסיה) בשנת תרמ"א (1881). לאביו <persName>יהושע</persName> ולאמו <persName>שרה.</persName>
+
+ בשנת תרנ"ג (1893) עלה יחד עם אחיו <persName>יעקב</persName> לארץ.
+
+ קבל חנוך מסורתי וכללי.
+
+ יחד עם אחיו יעקב נטעו כרם בנחלה שאביהם רכש (האב עלה לארץ כעבור 10 שנים).
+
+ נשא לאשה את <persName>עלקה דבורה </persName> בת ר' <persName>יצחק אייזיק</persName> <persName>בן-טובים,</persName> מעסקני ירושלים ויפו (ראה כרך ב', עמוד 595). נפטרה בתל-אביב, ט"ו תשרי תש"י (8.10.1949).
+
+ עבר לתל-אביב ופתח בית מסחר לרהיטים.
+
+ ממיסדי המרכז המסחרי בתל-אביב (גאולת הפרדס הידוע בשם "פרדס שייך עלי").
+
+ היה פעיל בהסתדרות הסוחרים.
+
+ היה אח בלשכת "אחוה".
+
+ נפטר בתל-אביב, ה' כסלו תש"א (5.12.1940) ונקבר בבית הקברות הישן בתל-אביב.
+
+ צאצאיו: <persName>שרה</persName> אשת <persName>אנדרה גוט, יהושע.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3150 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3150</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

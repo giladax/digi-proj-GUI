@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3090 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3090</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רפאל רקנאטי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סלוניקי</placeName> (יון), ה' כסלו תרפ"ה (2.12.1924).
+
+ לאביו<persName> יהודה</persName> (ליאון) רקנאטי (מיסד בנק א"י לדיסקונט בע"מ, עסקן צבורי. ראה את הערך שלו
+
+ בכרך הראשון, בעמוד 174) ולאמו <persName>מתילדה </persName> בת <persName>דניאל</persName> <persName>ספורטה.</persName>
+
+ בשנת תרצ"ה (1935) עלה עם משפחתו לארץ.
+
+ חניך בית הספר למסחר בתל-אביב.
+
+ משנת 1939 חבר בהגנה.
+
+ בשנות 1942-47 שליחות מטעם המוסדות הלאומיים (לפני קום המדינה) לחו"ל.
+
+ בשנת 1946 נשא לאשה את <persName>דיאנה </persName> בת<persName> אברהם הטנה.</persName>
+
+ היה ממיסדי ומנהל חברת אניות "אמריקן ישראל ליין" בניו-יורק ועוד חברות מסחריות.
+
+ מנהל חברת אניות משא "אל-ים" בע"מ.
+
+ ראה הערכים של אחיו<persName>-הרי ודניאל רקנאטי </persName> בכרך השביעי, עמוד 2962.
+
+ בנו: <persName>יהודה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3090 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3090</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

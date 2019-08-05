@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3973 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3973</bibl><bibl>Volume: #12 ,Page: 3974 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3974</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שניאור גניחוביץ</persName>
+
+</head>
+         <div><p> נולד כ"ח ניסן תרס"ג (1903) בקמנקה (רוסיה).
+
+ לאביו<persName> ישעיה </persName> ולאמו <persName>איידל</persName> בת ר'<persName> נחמן כהן</persName> .
+
+ נתחנך בלימודים עבריים וגמר בית-ספר תיכון ברוסית. למד בבית-המדרש למורים עברים (ה"'פדאגוגיון" מיסודו ובניהולו של ד"ר <persName>צבי פרץ חיות</persName> ) בווינה והוסמך להוראה. עבד בתור מורה באורהייב שבפלך בסראביה (אז תחת
+
+
+ שלטון רומניה) והיה פעיל שם בעבודה ציונית בתור חבר קבוצה ציונית "בני ישראלי", מיסד תנועת "גורדוניה" בעיר ובמחוז וחבר הנהגתה הארצית.
+
+ נשא לאשה את<persName> חסיה</persName> בת<persName> בנימין פרידלנדר.</persName> עלה לארץ ב-1932 והמשיך לעבוד בתור מורה
+
+ בבתי-ספר של זרם העובדים, הגיע לכהונת מנהל בביתספר כזה, שהנו כיום בית-ספר ממלכתי, בנחלת גנים שברמת-גן, וממשיך לנהלו. נבחר ליו"ר סניף הסתדרות המורים לגוש דן, והנו גם חבר מועצת הסתדרות המורים וחבר ועדת החינוך העירונית ברמת-גן.
+
+ היה חבר ההגנה בגוש דן.
+
+ בנו:<persName> חגי</persName> ושם משפחתו <persName>גור</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3973 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3973</bibl><bibl>Volume: #12 ,Page: 3974 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3974</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

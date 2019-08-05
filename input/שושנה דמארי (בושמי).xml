@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3082 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3082</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שושנה דמארי (בושמי)</persName>
+
+</head>
+         <div><p> נולדה דמאר (תימן) בשנת תרפ"ג (1923).
+
+ לאביה <persName>זכריה</persName> ולאמה <persName>אילה.</persName>
+
+ בשנת 1925 עלתה (והיא בת שנתים) עם משפחתה לארץ והשתקעו בראשון לציון.
+
+ קבלה חנוך תיאטרלי ומוסיקאלי בארץ.
+
+ הופעתה הראשונה בגיל 13.
+
+ בשנת 1940 נישאה <persName>לשלמה בושמי.</persName>
+
+ השתתפה בהופעות שירה בפני ארגוני ההגנה והמחתרת בהתנדבות.
+
+ בשנות 1947 הופעות מיוחדות בפני העולים במחנות קפריסין.
+
+ רבים משיריה הוקלטו בתקליטים בארץ ובחו''ל.
+
+ הופעות שונות ובקונצרטים בארץ ובחו"ל (ארצות הברית, קנדה, ברזיל, צרפת ואפריקה הדרומית) בשירה עברית.
+
+ הופיעה בארצות הברית בקשר למגבית המאוחדת. 
+
+ זמרת ושחקנית בסרטים שונים בעניני ישראל.
+
+ בתה : <persName>נעוה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3082 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3082</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

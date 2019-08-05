@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3392 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3392</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרים ונציה</persName>
+
+</head>
+         <div><p> נולדה ז' סיון תרנ"ז (7.6.1897) בסאלוניקי (יון, אז טורקיה).
+
+ לאביה<persName> יהודה מטרסו</persName> ולאמה<persName> פרלה</persName> בת <persName>משה זכאי</persName> (ממשפחת רבנים ומורים, בבית ציוני, שכל בניו השתרשו בארץ).
+
+ למדה בבית-הספר העממי וכתות ההמשך של "אליאנס" ובבית-הספר העברי בהנהלת ד"ר <persName>יצחק אפשטיין.</persName>
+
+ היתה פעילה בהתעמלות ובעבודה תרבותית וציונית במכבי, ממיסדות המחלקה לבנות במכבי. רצתה לבוא וללמוד בסמינר למורות בארץ, אך נבצר ממנה בגלל פרוץ מלחמת העולם.
+
+ עבדה שנתים בתור גננת ומורה להתעמלות בביתהספר של אליאנס, ומשהתנגד המנהל לפעולתה בהחדרת עברית וציונות ללבות חניכי המוסד, ויתרה על המשרה ולא על דרכה בחינוך. מאז הגבירה את פעולתה במכבי, בלהקה הדרמתית, בועד המחלקה לבנות, בועד הראשון של אגודת "בנות ציון", בעבודה למען הקה''ק וכו'.
+
+ ב-1917 נישאה <persName>לשלמה ונציה </persName> (ראה ערכו בכרך זה) וב-1920 עלו לארץ והשתקעו בתל-אביב.
+
+ היתה לעזר לבעלה בפעולותיו למען עולי יון והיתה מארחת אותם בנדיבות יד ולב. הצליחה להרגיעם מהמרירות שבגלל קשיי ההתערות הכלכלית בארץ, ומשפחות רבות, שאמרו לחזור ליון, ביחוד בשל קשיי האשה
+
+ להסתגל לעמל החיים. כאן, נשארו בארץ הודות להשפעתם. השתתפה ביסוד אגודת עולות יון לעזרת חולים. אח"כ התנדבה לפעילות-סעד ישובית כללית.
+
+ פעילה בויצ"ו מ-1928 ואילך. נבחרה ב-1933 יחד עם <persName>פסיה טייבר </persName> (ז"ל) לנציגות ויצ"ו בועד המקומי של הקה"ק בתל-אביב וב-1944 נבחרה ליו"ר הועדה של ויצ"ו למען הקה''ק ולחברה במועצה ובנשיאות של הועד הארצי למען הקה''ק. יסדה מעון לילדים (המקבל 50 ילדים של אמהות עובדות) על שם <persName>שם-טוב, רחל ואיריס</persName> <persName>שאלתיאל</persName> ברחוב עמק יזרעאל בתל-אביב. עורכת בכל שנה מסיבה מסורתית עם ארוחת ערב ותכנית אמנותית: לקרן הילד של ויצ"ו למען עזרה לאם ולילד בישובי הספר.
+
+ צאצאיה : <persName>בנימין, יהודה, זהבה</persName> אשת <persName>יעקב אבי-נתן</persName> <persName>(בלושטיין).</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3392 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3392</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

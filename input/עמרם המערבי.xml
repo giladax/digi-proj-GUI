@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3842 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3842</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עמרם המערבי</persName>
+
+</head>
+         <div><p> תושב צפת. שהיו לו קשרים מרובים עם שבטי ערב. כנראה שעסק בחקלאות. הוא ידע יפה את שפתם של בני המדבר והיה בקי בקוראן ובספרות האסלאם. בשל ידיעותיו אלו ואומץ רוחו וגבורתו נשלח עלידי חבר-אנשים, שבראשם עמר ר'<persName> יהוסף שווארץ,</persName> לתימן לבקש את יהודי חיבר במדבריות ערב. הוא התחפש בלבוש של עולי-רגל ערביים ויצא מצפת בחודש אלול תר"ו (1844).
+
+ בין עדן למכה נשדד בידי שבט ערבי ועל כן חזר לעדן ושהה שם זמן מה, אז קיבל ידיעה שלמזרחה של עדן שוכן שבט ערבי-יהודי גדול הקרוא "שבט בנימין" והוא התכונן לבקר שם.
+
+ מעדן נסע לצנעא ומשם פנה לחאבאן ושאר מקו- מות בערב, כדי להתחקות על מקומם של עשרת השבטים.
+
+ ר' <persName>יעקב ספיר</persName> כותב עליו בספר מסעותיו שר' <persName>עמרם </persName> התחפש כישמעאל ביודעו היטב לשון ערבי (לשון אמו) וגם קריאתם והקוראן שלהם ותפילותיהם והיה נחשב אצלם למלומד ולא הכירוהו. ושם חקר ודרש על בני הרכבים (יהוד אל חבר) ולא מצא ומשם בא לארץ התימן ולפה ק"ק צנעא וסבב כמעט בכל הארץ הזאת... עד עיר חיידאן אבל לא חרף נפשו לצאת אל המדבר הגדול והנורא ההוא וחזר לביתו", בשנת תרי"ד (1854).
+
+ עיין קובץ בסער "מאמרו של בן צבי.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3842 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3842</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

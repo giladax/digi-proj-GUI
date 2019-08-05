@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 437 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/437</bibl><bibl>Volume: #1 ,Page: 438 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/438</bibl>
+<bibl>Volume: #1 ,Page: 439 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/439</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד מטלון</persName>
+
+</head>
+         <div><p> נולד ביפו, בשנת תר"ל (1870), לאביו<persName> אברהם </persName> (סוחר בתבואות ופרדסן, בן<persName> מאיר</persName> , שעלה מבגדאד בשנת תקע"ח, היה בין הראשונים לחידוש ישוב יהודי ביפו, ובהש
+
+ תדלותו נרכשה "חצר היהודים", "דיר אל-יהוד", בעיר העתיקה ביפו בתרומת הבנקאי<persName> ישעיה אג'ימן </persName> מאיסטמבול).
+
+ למד בתלמוד-תורה שיסדה העדה הספרדית הקטנה ביפו, מפי הרב<persName> יוסף שמחון</persName> , ואח"כ השתלם בהשכלה כללית באוניברסיטה הצרפתית בבירות. משחזר ארצה עסק בחלפנות וביצוא תפוחי-זהב לחו"ל מפרדסי המשפחה שניהל אותם וגם מפרדסים אחרים.
+
+ נשא לאשה את<persName> ויקטוריה </persName> בת <persName>חיים שומלא.</persName>
+
+ לרגל עסקיו עשה כמה שנים בארצות אמריקה
+
+ הדרומית ובזאנזיבאר שבמזרח-אפריקה.
+
+ נבחר לסגן ראש עירית יפו ועמד על המשמר לרסן את מזימות ראש-העיר עומר אל-ביטאר נגד היהודים.
+
+ נתקבל לשרות הממשלה הטורקית במחלקת-הכספים המחוזית ביפו. הודות לתפקידו זה הושאר בעיר בשרות הממשלה בעת הגירוש הכללי מיפו ומתל-אביב במלחמתהעולם הראשונה, באביב תרע"ז, ובשנות המלחמה השתמש בקשריו עם אנשי השלטון לרכך את גזירותיו על היהודים ולהביא הקלות לנאסרים על "עבירות פוליטיות" והפרת חומרות-מלחמה מטורפות, וכן למגויסים לצבא ולעבודת-כפיה.
+
+ כשהקיפה פלוגת צבא טורקי את בית-הכנסת הגדול בפתח-תקוה במלחמה ההיא, לחפש "פרארים" (עריקים ומשתמטים) ולצוד יהודים למלא את השורות המתרוקנות של הצבא, עלה בידו לשחד את הקצין מפקד הפלוגה שיסתלק עם אנשיו מבלי לבצע את ציד היהודים.
+
+ אחרי המלחמה המשיך לשרת כמפקח במחלקת הכספים המחוזית תחת השלטון הבריטי.
+
+ נפטר בתל-אביב, ט' אב תרפ"ה, ונקבר בבית-העלמין הישן.
+
+ צאצאיו:<persName> אברהם</persName> (אלברט);<persName> יצחק; יעקב; יוסף; בנימין</persName> (בעלי הפירמה "אחים מטלון");<persName> אסתר</persName> אשת<persName> שמעון</persName> <persName>בוזגלו; רנה </persName> אשת <persName>סובחי כבזו</persName> .
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 437 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/437</bibl><bibl>Volume: #1 ,Page: 438 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/438</bibl>
+<bibl>Volume: #1 ,Page: 439 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/439</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

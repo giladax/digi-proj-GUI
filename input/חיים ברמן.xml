@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 996 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/996</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים ברמן</persName>
+
+</head>
+         <div><p> נולד בקובנה, ליטא, בשנת תר"כ (1860), לאביו <persName>דב בר</persName> ולאמו <persName>דבורה.</persName> למד בחדרים ובישיבות ובאחרונה למד בישיבה שניהל רבי <persName>ישראל סלנטר</persName> בממל והוסמך לשחיטה.
+
+ בשנת תרל"ו עלה ארצה והתישב בירושלים.
+
+ נשא לאשה את <persName>חיה שרה</persName> בת ר' <persName>יצחק חשין.</persName> נתמנה לשוחט ולמוהל בעדת האשכנזים בעיר העתיקה, היה מכובד כתלמיד-חכם וירא-שמים וראשי הרבנים רבי <persName>שמואל סלנט</persName> ורבי <persName>אליהו דוד רבינוביץ</persName> <persName>תאומים</persName> (האדר"ת) העדיפו לאכול משחיטתו.
+
+ כשהזקין פרש מהעבודה וכדי שלא יזדקק לקבל חלוקה פתח חנות מכולת בשכונת מזכרת והיה חי מיגיע כפיו, ואשתו עזרה לו לנהל את העסק, והקדיש הרבה מזמנו ללימוד תורה. נתן לבניו חינוך מסורתיתורני וגם מעשי. לא נרתע מהגיד את דעתו אף לגדולים ותקיפים.
+
+ לפני מלחמת-העולם הראשונה ביקר כמה פעמים באמריקה ובדרום-אפריקה.
+
+ נפטר בירושלים, כ"ה חשון תש"ו.
+
+ צאצאיו:<persName> יצחק </persName> (באמריקה), <persName>נחמיה </persName> (חבר הפירמה <persName>מן וברמן, משה</persName> (בירושלים),<persName> אסתר</persName> אשת <persName>שמואל זאב</persName> <persName>גראטש, דוד </persName> (סוכן-ביטוח בירושלים),<persName> צבי </persName> (הרי, באמריקה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 996 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/996</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

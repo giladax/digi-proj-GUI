@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3374 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3374</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עטרה גליקסון-הרץ</persName>
+
+</head>
+         <div><p> נולדה וילקובישקי (ליטה) בשנת תרס"ד (1904).
+
+ לאביה<persName> מרדכי </persName> ולאמה<persName> בתיה</persName> בת <persName>מאיר ומינדה אלבם.</persName>
+
+ קבלה חנוך מוסיקלי בחו"ל, בארץ אצל ה'<persName> משה</persName> הופנקו מנהל ביה"ס למוסיקה "שולמית" ובלייפציג אצל <persName>הנרי מרטו</persName> , מגדולי הפדגוגיים של אמנות הכנור.
+
+ בשנת 1924 נשאה<persName> ליעקב הרץ</persName> (ראה בכרך זה, עמוד 3325).
+
+ בשנת 1922 עלתה לארץ.
+
+ תרמה רבות להכנסת הטעם המוסיקלי המעודן בתקופה הראשונה של הישוב העברי הגדל בשנים שלאחר מלחמת העולם הראשונה.
+
+ כנרית ידועה, מופיעה מזמן לזמן בקונצרטים.
+
+ צאצאיה:<persName> יעלה </persName> (כנרית מפורסמת) אשת ד"ר<persName> נתן</persName> <persName>ברגסון </persName> (קנדה),<persName> טלמון</persName> (מוזיקאי, מנצח).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3374 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3374</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

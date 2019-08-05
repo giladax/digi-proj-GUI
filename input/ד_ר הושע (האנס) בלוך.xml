@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1777 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1777</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר הושע (האנס) בלוך</persName>
+
+</head>
+         <div><p> נולד בברלין, ניסן תרנ"א (24.4.1891), לאביו <persName>לואי</persName> (סוחר בבורסת ברלין) ולאמו<persName> ז'ני</persName> לבית <persName>מאירוביץ</persName> , במשפחה שהתרחקה לגמרי מהיהדות. בעודו נער נמשך לתנועה הציונית ובלמדו בגימנסיה על שם וילהלם בברלין, ארגן את תלמידיה היהודים באגודה ציונית. למד באוניברסיטת ברלין והוסמך לדוקטור לרפואה ובשנות לימודיו היה חבר בקורפורציה "חשמונאים" של הסטודנטים הציונים, נלחם לא פעם בדו-קרב על כבוד עמו ומאז נשארו צלקות על פניו. ייצג את הקורפורציה כציר בקונגרס הציוני בהאמבורג ב-1909. שירת כרופא במלחמת-העולם השניה.
+
+ ב-1918 נשא לאשה את <persName>חנה (ארנה</persName> ) בת <persName>אברהם</persName> <persName>גרונספאך</persName> .
+
+ עסק במקצועו כרופא פרטי בברלין במשך כמה שנים והיה פעיל בתנועה הציונית. אח"כ הקדיש את כל זמנו לעבודה ציונית. הצטרף בין הראשונים לתנו-עה הרביזיוניסטית והיה מראשי פעיליה. השתתף בועידות ציוניות מקומיות וארציות, בועידת הצה"ר בקאטוביץ ובקונגרס הצה"ר בפראג.
+
+ עם השתלטות הנאצים על גרמניה ב-1933, נמלט עם משפחתו לפאריס. שם ניהל, ביזמת מרכז הצה"ר, את תנועת החרם הכלכלי נגד גרמניה הנאצית.
+
+ בסוף 1933 עלה לארץ, החליף את שמו הפרטי האריי <persName>האנס</persName> בשם העברי<persName> הושע</persName> , למד עברית והתאמץ לשכלל את ידיעותיו בה עד שהגיע לדיבור ולכתיבה
+
+ בסגנון עברי יפה. עבד קשה כרופא בקופת-חולים לעובדים לאומיים, המשיך בפעילותו בתנועת הצה"ר. כתב בקביעות ב"המשקיף", בעיקר בגליונות יום ו', על נושאים של מדיניות-חוץ, וחיבורים על נושאים פילוסופיים ומדיניים. חיבר ספר על "הפילוסופיה הרומנטית".
+
+ בשנותיו האחרונות חלה כמה פעמים, אך המשיך לעמול במסירות לריפוי חוליו ולריפוי מחלת עמו, עד שנפל למשכב.
+
+ נפטר ביום י"א חשון תש"ד (9.11.43).
+
+ צאצאיו: <persName>יוחנן</persName> (עו''ד בתל-אביב), <persName>רחל</persName> אשת <persName>אפרים ריבלין</persName> (לוס אנג'לס, ארה"ב).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1777 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1777</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

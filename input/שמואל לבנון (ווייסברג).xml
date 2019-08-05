@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2156 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2156</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל לבנון (ווייסברג)</persName>
+
+</head>
+         <div><p> נולד בעקרון כ"ז בטבת תרס"ג (26.1.1903), לאביו <persName>שלמה</persName> ולאמו <persName>חנה </persName> בת<persName> פנחס גוטמן.</persName>
+
+ סיים את בית המדרש למורים העברי בירושלים.
+
+ בשנות לימודיו היה פעיל בארגוני הנוער בירושלים כגון מכבי ואחרים.
+
+ בשנת 1926 נשא לאשה את<persName> שושנה </persName> בת <persName>אהרן צ'רקוב.</persName> היה מראשוני המייסדים של בתי קולנוע בשביל
+
+ הצבא הבריטי בימי מלחמת העולם השניה.
+
+ גאל שטחי קרקעות רבים מידי ערבים. שמש כחבר עירית נתניה בשנים 1940-1950, משמש יו"ר הבנק "הלואה וחסכון" נתניה משנת 1939.
+
+ כיום מנהל חברות ביטוח "מנורה", "שומרון" ונציג חברות ביטוח מחו"ל.
+
+ צאצאיו :<persName> הרצל, רנה</persName> אשת <persName>אהרן גרינברג.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2156 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2156</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3481 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3481</bibl><bibl>Volume: #10 ,Page: 3482 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3482</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים מקובקי</persName>
+
+</head>
+         <div><p> נולד ט"ו בשבט תרל"ג (1873) בירושלים.
+
+ לאביו <persName>גדליה דוד</persName> ולאמו<persName> טויבה לאה.</persName>
+
+ למד בתלמוד תורה ובישיבה בירושלים.
+
+ בשנת תרנ"ב נשא לאשה את<persName> חיה שושנה</persName> בת ר' <persName>יוסף ציפריס.</persName>
+
+ התחיל ביחד עם שותפים ביסוד מפעל לחיתוך האבן הירושלמית לטבלאות וליטושן למרצפות נאות. גילה בעצמו כשרונות במכאניקה והכניס שכלולים בבתיהחרושת למצות בירושלים.
+
+ במלחמת העולם הראשונה פיתח את תעשית העמילן, הראשונה בארץ, שמוצריה הוצגו לראווה אף בשנים
+
+
+ שלאחר המלחמה בתערוכת תוצרת הארץ מטעם ההנהלה הציונית.
+
+ רכש עדר כבשים והחל לעבד את החלב לתוצרת (שמנת, חמאה וגבינה), שכלל את עבודת הייצור עד לעיבוד החלב לגבינות קשות, מבשילות, וקיבל עליהן גביע כסף ודיפלומה בתערוכה חקלאית מטעם השלטון
+
+ המנדטורי, שנערכה ביפו. הטיף להכנסת ענף הכבשים להתישבות החדשה, ומומחי המחלקה להתישבות של ההנהלה הציונית התחשבו בנסיונו ובידיעותיו בענף החלב ותוצרתו. יזם ויסד מפעל לייצור חמאת שקדים, שנמכרה בכל הארץ ונשתכחה בטיבה ובקיום טריותה אף להזנה בבתי החולים. התחיל גם ביבוא חמאה של חלב פרות מארצות אירופה והיה מהראשונים לאריזתה בחבילות במשקל אחיד ובעטיפות מודפסות.
+
+ השתתף ביסוד שכונת רחביה והיה מעשרה ראשוניה.
+
+ נפטר בירושלים, ז' שבט תשי"ח (28.1.1958) ונקבר בהר המנוחות.
+
+ צאצאיו: <persName>משה, יונה, זאב</persName> ז"ל (נפטר בירושלים, טבת תש"ה),<persName> מרדכי, לאה </persName> אשת <persName>אליהו אפשטיין, רחל</persName> אשת<persName> פנחס וינוגראד, יפה</persName> אלמנת<persName> שמעון שור</persName> ז"ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3481 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3481</bibl><bibl>Volume: #10 ,Page: 3482 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3482</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

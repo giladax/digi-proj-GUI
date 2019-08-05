@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2147 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2147</bibl><bibl>Volume: #5 ,Page: 2148 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2148</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר קוזלובסקי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קישינוב</placeName> בשנת 1891 לאביו<persName> אפרים</persName> (למדן מופלג). למד בישיבה וקיבל סמיכות לשחיטה. אולם הוא
+
+ עוזב את הלימודים ועובר לשורת "הלוחמים בקיסר".
+
+ בהשפעת חברים מקורבים מצטרף לאגודה הציונית "נסציונה" ושם הוא ממשיך עד עליתו לארץ ישראל. אין יהודי נקרא ציוני, אומר קוזלובסקי, אם נשאר בגולה. גם ב<placeName>קישינוב</placeName> עיר מולדתו, בעבודתו הציונית התבלט קוזלובסקי בפשטותו ובמעשיותו. היה מכונה בפי חבריו "נפתלי אילה שלוחה" כי לא היה בין החברים
+
+
+ שליח זריז ונאמן יותר ממנו. שומר היה בחוץ למען לא יאונה כל רע לנאספים מצד משרתי הקיסר.
+
+ איש העליה השניה . עלה ארצה בשנת 1911. מראשוני "השומר", פעיל בהגנה על המולדת עד יומו האחרון, איש אשר לא ידע ליאות וחי כל ימיו על יגיע כפיו.
+
+ מצניע לכת , מתרחק מן הפרסומת, צייתן, המוציא לפועל כל תפקיד שהוטל עליו מאת המוסדות העליונים בלי להעמיק חקר מה קשה התפקיד, שתקן מטבעו, שונא ויכוחים.
+
+ שלושים ושבע שנים הקדיש לבנין המולדת. למן העבודה הראשונה במגדל, דרך כפר תבור, יבנאל, מנחמיה, תל-עדשים ומרחביה, כפר גלעדי וההגנה על כפר גלעדי ותל-חי, המאסר בדמשק, שיך אבריק היא גבעות זייד, עטרות, שכונת בורוכוב, ולאחרונה גבעת קוזלובסקי. בכל המקומות האלה הקדיש את מרצו, את מסירותו, את אהבתו ונאמנותו למולדת.
+
+ שומר היה ב<placeName>קישינוב</placeName>, מהראשונים ב"השומר" בארץ, ועד יומו האחרון לא עזב את השמירה, את התצפית על יד גבעת קוזלובסקי. כמה שמח מאיר לכבוש סלמה, הכפר אשר מרר את החיים לו ולמקורבים לגבעה.
+
+ פעמים רבות נפגש במות בשמירה, במאסר, במקומות הכיבוש: גם נפצע פעם. ומכל הסכנות האלה יצא בשלום.
+
+ נדקר דקירה כל שהיא באצבע והדבר גרם להרעלה ולמותו. לא עזר הטיפול המיוחד שטפלה בו חברת נעוריו, וביום ט''ו סיון תש''ח נפטר, ונקבר לפי בקשתו בגבעות זייד בין קברות השומרים.
+
+ אשתו<persName> אסתר בקר</persName> , אחות קילה גלעדי וצפורה זייד.
+
+ צאצאיו: <persName>אפרים, הדסה, מנחם</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2147 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2147</bibl><bibl>Volume: #5 ,Page: 2148 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2148</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3782 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3782</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר משה קרישבסקי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פולטבה</placeName> בשנת תרכ"ו (1866).
+
+ לאביו <persName>חיים יעקב קרישבסקי</persName> (ראה כרך ב', עמוד 881), ולאמו<persName> רחל לאה</persName> בת<persName> גרשון וחנה חסיה טפלינסקי</persName> (עסק בחכירת משרפות יין, וחסיד אדוק).
+
+ קיבל חינוך מסורתי וכללי. גמר אוניברסיטה לרפואה וקיבל תואר של רופא.
+
+ היה פעיל בארגוני הסטודנטים הציונים.
+
+ נשא לאשה את<persName> פאני</persName> בת <persName>ד"ר איזה </persName> (רופא יהודי מגרמניה. אשתו היתה אחותו של הררי פשה, מנהל הבנק לחקלאות במצרים).
+
+ בשנת תרמ"ט (1889) עלה לארץ יחד עם אחיו ד"ר <persName>גרשון יצחק קרישבסקי</persName> (כרך ב', עמוד 884).
+
+ כעבור כמה שנים חזר לברלין.
+
+ הוזמן בתור רופא בבית החולים רוטשילד בירושלים.
+
+ בשנת 1901 הוזמן לקהיר (מצרים) בתור רופא בהי הסוהר שם.
+
+ נפטר בקהיר בשנת 1904.
+
+ צאצאיו: <persName>ראול קרישבסקי-עמי</persName> (נשוי<persName> ליהודית</persName> <persName>עמיאל</persName> מירושלים), <persName>אנדרה קרישבסקי </persName> (באוסטרליה), <persName>הנרי קרישבסקי</persName> (מנהל בנק בג'נבה, מקודם מנהל בנק משפחות : מוצרי-קיריאל בקהיר).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3782 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3782</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

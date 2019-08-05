@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2855 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2855</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אנדה פינקרפלד-עמיר</persName>
+
+</head>
+         <div><p> נולדה בשנת תרס''ב (26.6.1902) בז'שוב (ריישא בפי היהודים) שבמערב גליציה.
+
+ לאביה <persName>יואל פינקרפלד</persName> (אדריכל) ולאמה <persName>חדוה</persName> בת יעקב מינדרר.
+
+ גמרה גימנסיה ולמדה מדעי הטבע באוניברסיטאות לבוב ולייפציג. הצטרפה לתנועה החלוצית וב-1920 באה ארצה לביקור ממושך ועבדה בייבוש בצות ובקיבוץ ע"י בנימינה של השומר הצעיר. משחזרה החלה כותבת שירים בפולנית, שעשו רושם בחוגי הספרות, ואף הוציאה אותם בכרך מיוחד.
+
+ ב-1922 נישאה <persName>לאריה (קרמפנר) עמיר</persName> (אדריכל). ב-1923 עלתה עם בעלה לארץ להשתקעות-קבע. היו חברים בקיבוץ בקרית ענבים, אח"כ עסקה בעבודה מדעית במיקרוביאולוגיה עד שנת 1929 ואף פרסמה שני מחקרים במדע זה, ואף אחרי פרישתה לחיים פרטיים התמידה בזיקתה לצבור העובדים על-ידי חברות פעילה בהסתדרות ובמפא"י. תרומתה העיקרית ליצירת היש הישראלי היא בשירתה העברית, וביחוד בשירים לילדים בשירתה העברית יצרה לעצמה סגנון מיוחד, רב חן וכח הבעה, וסללה לעצמה דרך ראיה וחזון משלה. שיריה לילדים נסוכים טל-ילדות טבעי, אמתי, שהילדים מרגישים בו ונהנים ממנו.
+
+ ספריה: "שירי החיים" (בפולנית, 1921) ו "ימים דובבים" (1929) ; "יובל" (1933) ; "גישה ליאן טאנג שרה" (1935) ; שירים לילדים (1935 , וב-1936 קיבלה בעדו פרס ביאליק של עירית תל-אביב); "גתית" (1935) ; "אחת" (פואימה, הוצאת "דביר" ; קיבלה בעדה את פרס-רופין של עירית חיפה, בשנת 1954) :"בחייהם" (סיפורי מלחמת השחרור, הוצאת עמיחי) ; מבחר שירים בקובץ "גדיש" (הוצאת "דביר", 1949); חוץ משיריה הרבים בעתונים ובכתבי-עת.
+
+ ערכה את הספרים "ל''ה", "בנתיבים נעלמים", "מפלמ"ח עד צה"ל".
+
+ בשנות 1947-1946 פעלה בשליחות הסוכנות היהודית במחנות הפליטים בגרמניה להחיאת רוח נדכאים והתרשמותה מגורל שימשה לה מקור השראה ליצירה.
+
+ ממלחמת השחרור ועד 1951 עבדה בארכיון משרד הבטחון באוסף החומר לזכר חללי המלחמה, ששימש יסוד לחיבור ספרי "גוילי אש" ו"יזכור".
+
+ היתה חברה במשלחת מפא"י ליוגוסלביה ב-1954.
+
+ צאצאיה : <persName>צפור</persName> אשת<persName> עקיבא כרמי</persName> (כפר יחזקאל), <persName>עמוס עמיר</persName> (קיבוץ סער).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2855 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2855</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

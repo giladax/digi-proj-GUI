@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4111 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4111</bibl><bibl>Volume: #12 ,Page: 4112 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4112</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב רז</persName>
+
+</head>
+         <div><p> נולד בהיראט (אפגניסטאן) בשנת תרע"ח (1918).
+
+ לאביו<persName> שמעון רז </persName> (בן למשפחה עניה).
+
+ בהיותו בגיל 4 נפטרה עליו אמו. בשנת 1928, בהיותו בגיל עשר עולה המשפחה ארצה-ישראל ומשתקעת בירושלים. כאן הוא מצטרף לבית"ר, ובה הוא מוצא את ייעודו. בתקופת מאורעות תרצ"ו (1936) הוא מצטרף לשורות אצ"ל (הארגון הצבאי הלאומי). הערבים שדדו, ורצחו ללא מגיב עד שהארגון הצבאי הלאומי קם לנקום במרצחי ערב. פצצות תופת הוטלו בשווקים הערביים בערים המרכזיות בארץ, מאות מחללי האויב נפלו ואז טעמו הערבים את טעמה של הנקמה העברית. הוטל עליו התפקיד להניח פצצת תופת באחד המקומות המרכזיים של העיר העתיקה בירושלים, המאוכלסת בערבים. המוקש היה טמון בתוך סל ירקות והיא הונחה בשוק האבטיחים. לאחר שמילא את תפקידו והחל לחזור, הרגישו בו הערביים ודקרוהו בסכינים, נפצע קשה והובל לבית החולים כשלידו שומר שוטר מזויין. היה מוקף חוקרים מהבולשת אשר רצו לחקרו. הם לא נתנו ל.מנוחה, חקרוהו, שאלוהו, רצו לדעת, אך הוא לא פצה פה.
+
+ כששכב בבית החולים פצוע, באה אחותו לבקרו. אחרי הפצרות רבות הרשו לה להכנס אליו. אחותו. בראותה אותו - התעלפה. כשהתעוררה, הרגיע אותה ואמר לה : "אין דבר, תגידי לחברים שלא אגיד" ולא
+
+
+ יכול היה להוסיף עוד אם כי ניסה ואימץ את כל כוחותיו כדי לדבר. כולו היה תערובת של דם ותחבושות. אחותו מספרת שלא ידעה להבדיל בין גופו לראשו ורגליו. את העיניים אי-אפשר היה לראות.
+
+ היה ירא, שמא תוך הקדחת שהיתה תוקפת אותו, עלול היה לספר ולגלות מסודות הארגון, היה מוריד את התחבושת, מגרד את פצעיו בכדי לקרב את המוות הגואל, ובלבד שלא לספר. החוקרים עמלו וטרחו, אך לא העלו מאומה ואת סודו הוריד עמו לקבר.
+
+ נפטר בירושלים, י"א אב תרצ"ח (8.8.38).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4111 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4111</bibl><bibl>Volume: #12 ,Page: 4112 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4112</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

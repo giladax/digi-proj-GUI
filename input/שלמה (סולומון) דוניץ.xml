@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4567 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4567</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה (סולומון) דוניץ</persName>
+
+</head>
+         <div><p> נולד בליפקני, בסרביה (רוסיה), כ"ד כסלו תרנ"ח (28.11.1898).
+
+ לאביו <persName>מנשה דוניץ</persName> (ראה בכרך זה), ולאמו<persName> רייזל</persName> בת משה ווייסמן.
+
+ קיבל חינוך מסורתי בחדר ובבי"ס עירוני בעירו.
+
+ היה חקלאי וסוחר בתבואות בבסרביה (רומניה), כאשר המרכז היה בממלוגה, מחוז חוטין ובצ'רנוביץ שבבוקובינה.
+
+ תמר ברוב הארגונים והמפעלים הציונים.
+
+ העסיק חלוצים רבים שהיו בדרכים לארץ, וזה בשיתוף פעולה עם מחלקת העליה של הסוכנות.
+
+ ב-4.4.1944 עלה לארץ כפליט באניה "מילקה", אחרי שהשתחרר מגיטו צ'רנוביץ.
+
+ תעשיין וסוחר בדי ציור בתל-אביב.
+
+ תמך בארגוני המחתרות.
+
+ בניו: <persName>ישראל דוני </persName> (ראה כרך ח', עמוד 3177) <persName>משה</persName> ז"ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4567 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4567</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

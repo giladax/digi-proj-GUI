@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1517 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1517</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>(אלתר) שמואל מרדכי ורשבסקי</persName>
+
+</head>
+         <div><p> נולד בבידיטשב, בשנת תקצ"ז (1837). לאביו <persName>טודרוס </persName> ולאמו<persName> ביילה</persName> (מצפת).
+
+ קיבל חינוך מסורתי. נשא לאשה את <persName>אסתר פריידל </persName> בת הרב<persName> יצחק גליקין</persName> (אחות אשת הרב <persName>יוסף מוהליבר)</persName> .
+
+ עלה לא"י בשנת ת"ר (1840) כשהיה בן 3 שנים יחד עם הוריו ואחיו<persName> יוסף בער.</persName> עבד בהתחלה בדפוס של <persName>ניסן ב"ק </persName> וכן נתמנה לשמש בית הכנסת של ניסן
+
+ בק ואח"כ לשמש כולל וואהלין וחברה קדישה ואחרי שהכיר ע"י זה את תושבי העיר, נתמנה למוכתר ושימש בתפקיד זה במשך 68 שנים כמוכתר ראשי לעדת האשכנזים בירושלים. עם תעודותיו שהיה חותם היתה הממשלה התורכית מתחשבת. הציל רבים מעבודת הצבא, ממאסרים. בעיקר עשה רבות למען העו
+
+ לים עם "הפתקא האדומה" והשאיר אותם בארץ. בתור שתדלן אצל ראשי הממשלה התורכית בירושלים הצליח עפ"י רוב להקל על גזירות רעות וכוי. הוציא בערבותו אסירים. ע"י הכוללים סדר את תשלומי "הראש" (עבור כל מגויס היו משלמים כופר. מס גולגולת) לשחרור מהצבא. משכורתו מועד הכוללים היה 40 פרנק לחדש.
+
+ היה שותף עם יצחק רוקח ואח"כ עם בנו שמעון רוקח (אבי ראש עירית ת"א) בקבלנות הממשלה התורכית לגבות מסי הדרכים ("בית אל-קארוסא") ביפו, "באב אל-ואד" וירושלים.
+
+ היה אהוב אצל השכנים הערבים והצליח אצלם לרכוש קרקעות וכו'. היה ידיד טוב לראש העיריה סלים אפנדי ופעל אצלו רבות.
+
+ היה בן בית אצל הרב<persName> שמואל סלנט</persName> <persName>, ישראל וניסן</persName> <persName>בק, יוסף ריבלין </persName> ועוד.
+
+ נפטר בירושלים, ט' חשון תרפ"ט.
+
+ צאצאיו: <persName>יצחק, רייזל</persName> אשת הרב <persName>שבתי טרכטנברג,</persName> <persName>אברהם קלמן, טודרוס.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1517 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1517</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

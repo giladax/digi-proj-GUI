@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 785 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/785</bibl><bibl>Volume: #2 ,Page: 786 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/786</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב דוד הלוי פלמן</persName>
+
+</head>
+         <div><p> נולד במזריץ, פלך שדליץ' (פולין), בשנת תר"ב (1842) לאביו<persName> אברהם הלוי</persName> , בר-אורין וסוחר אמיד ומכובד, ולאמו <persName>רבקה</persName> . קיבל חינוך תורני, עסק ביצוא
+
+
+ זיפים לתעשית מברשות מפולין לגרמניה, קבע עתים לתורה ועשה צדקה וחסד. בעודו צעיר כבן שלשים נבחר לפרנס הקהלה והיה מכובד על אנשי השלטון ועל כל יודעיו היהודים והנכרים.
+
+ כשהחלה בתרמ"ב התנועה הגדולה לחיבת ציון ברוסיה ובפולין, ובמזריץ' נוסדה אגודה להתנחלות בפועל בארץ-ישראל, היה בין המיסדים הראשונים. הוא החליף מכתבים עם <persName>הרי"מ פינס</persName> בבקשת עצה והדרכה בדבר התנחלותו בארץ, וכששלחה האגודה המזריצ'ית בראשית תרמ"ג את ר'<persName> ליב רובין</persName> לתור ולרכוש לה נחלה בארץ נסע אתו על חשבון עצמו לבחור לו בעצמו את המקום להתנחלות.
+
+ בירושלים הפקיד את צרור כספו (10.000 רובל) בידי דודו ר' <persName>יעקב רויז בירושלים</persName> , סייר בארץ יחד עם ר' רובין ואחר כך לבדו, ובראותו את המצב הקשה במושבות הראשונות, שאשתו וילדיו הקטנים לא יוכלו להתקיים בו, ולחכות בגולה עד שיתפתחו הישובים הללו לא רצה, החליט שמוטב לו להתנחל מיד בישוב הקיים מכבר, ואף אם יהיה זה ישוב ערבי. אחרי סיורים רבים עם סרסורים במקומות שונים בארץ קנה לו 40 דונם קרקע ליד הכפר סומל, המובלע כיום בתוך העיר תלאביב, ואילו אז היה במרחק רב ללא דרך סלולה מהעיר יפו המכווצת בין חומותיה ההרוסות ובקרבתן וישובה העברי קטן בראשיתו. ולמען יוכל לרשום מיד את הנחלה על שמו קיבל את הנתינות הטורקית, ואחרי שעזר לר' ליב רובין בגמירת הקניה של אדמת יסוד המעלה הכין בית ערבי לדירה, רכש כמה פרות, חרש וזרע חטים ושעורים ומסר את המשק לטיפול בידי ערבי מקומי נאמן, ואח"כ חזר למזריץ' כאזרח עותומני להעלות אתו את בני משפחתו.
+
+ אחרי חיסול עסקיו במזריץ' יצא משם בכסלו תרמ"ד עם אמו הזקנה<persName> רבקה</persName> , שני בניו מאשתו הראשונה צפורה: <persName>אהרן ליב</persName> (בן 17) <persName>ויעקב</persName> (בן 15); אשתו <persName>שרה איטה</persName> וילדיהם: <persName>חיים</persName> (בן 10), <persName>נחמן</persName> (בן 7), <persName>ברכה</persName> (בת 4),<persName> חיה</persName> (בת 2) <persName>ואלקה</persName> (בת שנה), ואתו ר' <persName>מאיר</persName> רוזנבלום, חובב-ציון וגדול בתורה, שהזמינו להיות בביתו שוחט ומורה לילדיו (אח"כ היה מנהל המושבה יסוד המעלה). באודיסה קנה לו ספר לימוד הלשון הערבית המדוברת ובאניה שינן לעצמו ולבניביתו את המלים הערביות הנחוצות במגע יום-יום עם אנשי הכפר.
+
+ כשהגיעו ארצה הפך לחקלאי. הוא נרתם עם שני בניו הגדולים לעבודת המשק, לנטיעת פרדס ולבנות אגף נוסף לביתו. יום-יום היה רוכב על חמורו ליפו, אחרי תפלה בהשכמה ולימוד פרק משניות, למכור חלב וירקות ממשקו, ואח"כ המשיך בעבודה וסיים את סדר יומו בתפלה ובלימוד גמרא. נתחבב על ערביי הכפר והיו עוזרים לו בעבודה ובהדרכה ולפעמים נזדמנו גם אורחים יהודים אל ביתו. לחוותו קרא בשם עברי מיוחד, "גנת דוד", ובחזונו ראה אותה כגרעין לישוב חקלאי יהודי שיקום בקר
+
+ בתה. במכתביו לידידיו בחו"ל היה מטשטש את הסבל והתלאות ומפליג בתיאור האושר של יהודי החי על אדמת האבות.
+
+ אך לא זכה להאריך ימים, נפגע במכת-שמש, קיבל טיפול רפואי מוטעה ונפטר בביתו ביום ח' תמוז תרמ"ד ונקבר ביפו.
+
+ אך מפעלו לא נעזב, כי אלמנתו וצאצאיו המשיכו לטפח אותו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 785 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/785</bibl><bibl>Volume: #2 ,Page: 786 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/786</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

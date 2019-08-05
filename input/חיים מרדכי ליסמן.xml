@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2138 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2138</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים מרדכי ליסמן</persName>
+
+</head>
+         <div><p> נולד בלודז', פולין, ח' שבט תרנ"ב (1892), לאביו <persName>שלמה אליהו</persName> ולאמו <persName>שיינדל</persName> בת<persName> אברהם יצחק טאראדיי</persName>
+
+<persName>קה.</persName> בנעוריו נתפרסם כעילוי והוסמך לרבנות. השתלם בלימודים כלליים ובעיקר בטכניקה ובחשמלאות וקיבל פאטנטים על השכלולים, שהמציא במכונות-חישוב חשמליות.
+
+ בתרע''א נשא לאשה את <persName>חיה שרה</persName> בת <persName>דב אריה קומפל</persName> מלודז'.
+
+ הקדיש מזמנו לפעילות צבורית לאומית. יסד וארגן בלודז' תנועה ציונית דתית בשם "כנסת ישראל". אך הצטרף יחד עם חברי תנועתו אל "המזרחי", ובמשך הזמן פעל למען המפלגה הזאת, רכש לה חברים וארגנם בסניפים במיכאלובצה ובקושיצה שבסלובקיה. עבר לברלין, המשיך בעבודתו המקצועית ויסד וארגן שם קבוצה תורנית וערך והוציא ירחון תורני רבני בשם "המאור''.
+
+ בשנת תרצ''ג עלה ארצה, השתקע בתל-אביב ועסק בטכניקה חשמלית וביצור אפרטים חשמליים וכעת עובד הוא כטכנאי במחלקת הטלפונים בדואר ת"א. המשיך בפעילות צבורית בכוון דתי-לאומי במסגרת הסתדרות המזרחי, ניהל מלחמת תעמולה והסברה לחידוש פני התנועה לפי השקפותיו בכוון לאומי אמתי, בלי תלות בחישובם של מבקשי משרות וכסאות במוסדות העליונים של הישוב והתנועה הציונית. לשם כך אף יצר וארגן סיעה בשם "המזרחי המקורי", (תנועה לאומית-רביזיוניס-טית בתוך המזרחי). משראה שאין סיכוי למפנה כרצונו במזרחי פנה לאגף הדתי שבתוך התנועה הרביזיוניסטית, הנקרא "אחדות ישראל", והוציא וערך את פרסומיה התורניים והפובליציסטיים, את ירחונה "ישורון" וכו'. המשיך זמן-מה בהוצאת הירחון התורני "המאור"
+
+ שהוציא קודם לכן בברלין. עורך הוצאות תורניות-מדיניות של מוסד ת"ג (תורה גאולה) ואת השבועון "עונג-שבת" (אמרות, פנינים ושנינות על פרשת השבוע). פרסם מאמרים פובליציסטיים-מדיניים ואמרות תורניות ב"הבוקר", "הארץ", "הצופה'', "היסוד", "הירדן", "המשקיף", "חרות" ועוד.
+
+ צאצאיו : <persName>סוניה, מתתיהו</persName> (מהנדס בחיל התעופה הישראלי), <persName>צפורה </persName> אשת<persName> שלום מכנס, אליצור </persName> (רב סרן בצבא ישראל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2138 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2138</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

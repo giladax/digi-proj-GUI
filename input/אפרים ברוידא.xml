@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4784 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4784</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים ברוידא</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ביאליסטוק</placeName> בשנת תרע"ב (1912).
+
+ לאביו<persName> נח ברוידא</persName> (איש סלונים), ולאמו <persName>בתיה</persName> ילידת קרינקי.
+
+ בשנים 1918-1915 עם הוריו במוסקבה.
+
+ בשנים 1924-1919 תלמיד בגמנסיה העברית ב<placeName>ביאליסטוק</placeName>.
+
+ ב-1925 בארץ. לאחר סיום הגימנסיה "הרצליה" בתל-אביב, למד באוניברסיטאות של ברלין ולונדון.
+
+ בשנים 1934-1933 היה חבר מרכז "החלוץ" בברלין.
+
+ במסגרת עבודתו זו ערך מקראה עברית ("נתיב)" ואנתולוגיה גרמנית על זיקת ישראל לארצו ("ישראל, פאלק אונד לאנד"), וחיבר מילון עבריגרמני.
+
+ משנת 1935 - חבר מערכת "דבר" (עריכת המדור המדיני והפובליציסטי ועוד). בשנות מלחמת
+
+ העולם השניה היה סופר "דבר" באנגליה, וכן השתתף שם בעתונות הציונית (באנגליה) אף ניהל את מדור הפירסומים וקשרי העתונות במחלקה המדינית של הסוכנות בלונדון. באפריל 1948 יסד את "מולד" (ירחון ספרותי ומדיני), שהוא עורכו כל השנים.
+
+ בשנת 1954 יצא בהוצאת שוקן תרגומו
+
+ ל"מקבת" של שקספיר (עד היום - 4 מהדורות).
+
+ בשנים 1965-1964 יצאו בהוצאת מוסד-ביאליק בתרגומו ארבע קומדיות של שקספיר: "סופה", "חלום ליל קיץ", "רוב עסק על לא דבר", ו"קומדיה של טעויות", שבעדם זכה ב"פרס טשרניחובסקי'' של עירית תל-אביב-יפו, תשכ"ו.
+
+ מתרגומיו האחרים של א. ברוידא: "המלך פחם"<persName> לסינקלר;</persName> "השושנה הלבנה" <persName>לטראוון;</persName> "פאביאן" <persName>לקסטנר</persName> ; "חכמת המלחמה" <persName>לסון טסו;</persName> "החייל הטוב"<persName> לווייוול.</persName>
+
+ נערכו על ידו: "משנת גאולים" למל"ל (עם מבוא מקיף); ילקוט "חירות" בהוצאת המרכז לנוער; "תכנון חברתי וחירות האדם" (הוצאת "עם עובד'').
+
+ מחבוריו באנגלית: "שאול טשרניחובסקי" ו"יהודים, ערבים והמזרח התיכון" (הוצאת הפדרציה הציונית באנגליה), שתי אנתולוגיות לנוער יהודי; מבוא ל"הלכה ואגדה" לביאליק.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4784 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4784</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

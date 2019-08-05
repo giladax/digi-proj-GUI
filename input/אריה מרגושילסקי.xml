@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5199 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5199</bibl><bibl>Volume: #17 ,Page: 5200 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5200</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה מרגושילסקי</persName>
+
+</head>
+         <div><p> נולד במרימפול (ליטא), י"ב כסלו תרע"ד (12.12.1914).
+
+ לאביו <persName>ברוך מרגושילסקי </persName> ולאמו <persName>מינה</persName> בת<persName> צבי</persName> <persName>שולינסקי.</persName>
+
+ קיבל חינוך מסורתי וכללי. בגימנסיה העברית במרימפול ובאקדמיה לאמנות הפלאסטית בליטא.
+
+
+ עסק בציור והיה מורה באוניברסיטה הממלכתית בוילנה (ליטא).
+
+ היה יו"ר הסקציה לציירים של אגודת הציירים ויושב ראש הועדה לאמנות שע"י הפונד (קרן) של ציירי ליטא.
+
+ בשנת 1945 נשא לאשה את<persName> בתיה</persName> בת <persName>זאב רודניק.</persName> ביום 27 לדצמבר 1957 עלה לארץ.
+
+ היה מורה לציור בבית הספר "בצלאל" בירושלים. מייסד המכון לאמנות הפלאסטית בבת-ים. היה מנהל המכון הנ"ל ומנהל המחלקה לציור במשך 5 שנים (עד 1965).
+
+ כיום, מורה לציור. מנהל בית ספר גבוה לציור בתל-אביב.
+
+ בניו:<persName> זאב, ברוך.</persName>
+
+ ראה את תמונתו בעמוד 5248.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5199 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5199</bibl><bibl>Volume: #17 ,Page: 5200 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5200</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

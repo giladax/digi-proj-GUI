@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1453 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1453</bibl><bibl>Volume: #3 ,Page: 1454 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1454</bibl>
+<bibl>Volume: #3 ,Page: 1455 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1455</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צדוק בסאן</persName>
+
+</head>
+         <div><p> נולד בירושלים, א' אלול תרמ"ב (1882), לאביו ר' <persName>יהושע השיל יואל</persName> (דור רביעי לר' <persName>צדוק בסאן</persName> , ממשפחה שנתגלגלה לפני כמה דורות מאמסטרדם לוילנה ושמוצאה אולי מפליטי ספרד האנוסים, שהיגרו להולנד מפני רדיפות האינקויזיציה; הוא היה מתל
+
+ מידי הגר"א וחברי תנועת "חזון ציון", שעלו ארצה סמוך לראש שנת תק"ע. על נכדו ר' <persName>אליהו שלמה</persName> <persName>זלמן</persName> ועל נינו ר' <persName>יהושע השיל יואל </persName> - אביו של צדוק - וכן על <persName>חיה גיטל</persName> - אמו של צדוק - ראה ערכים מיוחדים בכרך הזה).
+
+ למד אצל טובי המלמדים, בהשתדלות אביו ואמו שלא חסכו כל עמל וקרבן לתת לבניהם חינוך טוב
+
+ בתורה ובדעת. ירש מאביו את הכשרון לציור, ובעודו צעיר ניסה את יכולתו - בהצלחה - בציור פרוטרטים ומראות-נוף ירושלמיים בצבעי מים. משבא לירושלים הצלם<persName> י. אדלשטיין </persName> ושהה בה כשנה, למד ממנו את מלאכת הצילום ומאז עוסק הוא במלאכה
+
+
+ זו - כדרך אבותיו שצירפו מלאכה לתורה - והיה הצלם היהודי הראשון בירושלים, כי לפניו עסקו בכך רק בעלי-מקצוע יונים וארמנים.
+
+ בשנת תרס"א נשא לאשה את <persName>לאה שרה</persName> בת ר' <persName>אפרים ניסן זאקס </persName> ילידת העיר העתיקה בירושלים.
+
+ עקב בתשומת-לב אחרי כל החידושים והשכלולים שהונהגו במקצועו במשך הזמן והנהיג אותם אצלו. שירת את מוסדות התורה והחסד בצילומי אישים, בנינים, מקומות היסטוריים, קברי צדיקים ותמונות רבות מההווי הירושלמי רב-הגונים, ובמשך עשרות שנות עבודתו נצטברו אצלו הרבה רבבות העתקים של צילומים בעלי ערך דוקומנטרי והיסטורי. הנציב העליון הראשון ליהודה, סיר<persName> הרברט סמואל</persName> , היה פונה אליו בכל מקרה שנזקק לעדות מהימנית שנשתמרה בצילום בעניני הארץ והעליק לו תעודת-כבוד על שרותו זה.
+
+ בעת מושב הועדה הבינלאומית לבירור הזכויות והתביעות על הכותל המערבי הסתייע הצד היהודי לפני הועדה בצילום שנמצא באוסף שלו, שנראים בו יהודים קשישים יושבים על ספסל מול הכותל וקוראים תהלים. צילום זה אישר, שהיתה ליהודים זכות "חזקה" להעמיד ספסלים ברחבת הכותל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1453 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1453</bibl><bibl>Volume: #3 ,Page: 1454 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1454</bibl>
+<bibl>Volume: #3 ,Page: 1455 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1455</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

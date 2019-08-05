@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4025 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4025</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף ברגר</persName>
+
+</head>
+         <div><p> נולד ביפו בשנת תרמ"ה (1885).
+
+ לאביו <persName>דב (ברל) ברגר</persName> ממייסדי תל-אביב (ראה כרך א', עמוד 51) ולאמו<persName> דבורה</persName> בת <persName>נחמן רפפורט</persName> ממייסדי זכרון-יעקב.
+
+ קיבל חינוך מסורתי וכללי בבי''ס כי"ח. מוריו היו: <persName>יהודה גור ושמואל ליב גורדון</persName> . השתלם בבי''ס גבוה למסחר בקושטא (1906).
+
+ עבד בפיננסים בכורסא בקונסטנטינופול.
+
+ היה פקיד ראשון בבנק עותומן במחלקת האחריות עד 1924.
+
+ בשנת 1925 חזר לארץ.
+
+ קיבל סוכנות של חברה שוויצרית לאחריות למתן הלוואות לבניין שנונות בת"א: שכונת הפועלים על אדמת הקהק"ל ועוד.
+
+ גאל שטחי קרקע ידועים מידי הערבים.
+
+ נשא לאשה את <persName>אסתר</persName> בת <persName>יהודה גולדברט</persName> (נפטרה בתל-אביב, כ"א חשון תש''ו (15.11.46).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4025 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4025</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

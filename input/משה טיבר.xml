@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5176 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5176</bibl><bibl>Volume: #17 ,Page: 5177 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5177</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה טיבר</persName>
+
+</head>
+         <div><p> נולד בדנאוויץ (רוסיה) אב תרס"ה (אוגוסט 1905).
+
+ לאביו <persName>אברהם טיבר</persName> ולאמו <persName>לאה</persName> בת<persName> לוי פוגסמן.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ בשנת 1921 עלה לארץ.
+
+ בוגר בית הספר הריאלי בחיפה. למד באוניברסיטאות : לונדון ושיקגו. קיבל תואר B-Sc. ,Dl.C. מהנדס.
+
+ היה חבר המרכז של אגודת האינג'נרים והארכיטקטים.
+
+ חבר במרכז של בוגרי בית הספר הריאלי.
+
+ חבר המרכז של ה"מכבי".
+
+ חבר ההנהגה הראשית של הסתדרות הצופים בישראל.
+
+ בשנת 1937 נשא לאשה את <persName>שושנה</persName> בת<persName> שבתאי</persName> <persName>אהרנסון.</persName>
+
+ כל השנים חבר ההגנה. מיסד הנוטרות בגבעתיים (גבעת רמב"ם).
+
+ גאל מידי הערבים שטחי קרקעות בצפון ובסביבת תל-אביב.
+
+
+ הקמת שכונים בסביבות: תל-אביב, חיפה וטבריה.
+
+ תעשיות: בית חרושת לנייר "גול" וביח"ר "חוט-בר" לחמרי ברזל.
+
+ מחוץ לשותפויות בחברות תעשייתיות וכלכליות גדולות בארץ.
+
+ מייסד ונשיאה של לשכות בני-ברית: "דיזנגוף", "גבעתיים" ו"רמב"ם".
+
+ פעל והקים את בנין "בני-ברית" בתל-אביב לתפארת. השקיע בבנין זה זמן, מרץ וכשרונות, לא על מנת לקבל פרס.
+
+ בנו: <persName>שבתאי טיבר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5176 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5176</bibl><bibl>Volume: #17 ,Page: 5177 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5177</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

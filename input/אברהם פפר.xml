@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3051 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3051</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם פפר</persName>
+
+</head>
+         <div><p> נולד בז' באייר תרנ"ו (1896) בחרסון שבאוקראינה.
+
+ לאביו <persName>אליעזר</persName> (מראשוני המורים העברים ברוסיה ואח"כ בארץ; ראה כרך ג', עמוד 1243) ולאמו <persName>שרה</persName> בת <persName>נחום סברדלוב </persName> (רב ושוחט במושבה החקלאית היהודית לבובה באוקראינה). 
+
+ התחיל ללמוד בבית-הספר של אביו וב-1904 עלה לארץ עם המשפחה, כשאביו נתמנה מטעם הועד האודיסאי של חובבי ציון למורה בין הראשונים בבית-הספר לבנות, שהועד פתח אז ביפו. כאן המשיך את לימודיו בגימנסיה הרצליה וסיים מחזור ד'.
+
+ ב-1920 נשא לאשה את<persName> בלהה</persName> בת<persName> משה שור.</persName>
+
+ אחרי מלחמת העולם הראשונה (1918) עסק בהוראת עברית לעולים חדשים ואח"כ יצא להשתלמות בארה"ב. למד הנדסה ואדריכלות במכון הטכנולוגי של אוניברסיטת בוסטון והוסמך ב-1926 בתואר "בוגר למדעים".
+
+ עבד בתור מהנדס פרטי ואח"כ כמהנדס של מועצת הרצליה, ובשנות 1946-1936 במרכז עבודות הצבא הבריטי מטעם מחלקת העבודה של הסוכנות היהודית וסולל-בונה.
+
+ בשנים האחרונות הנו מנהל מפעל קישון בחיפה מטעם משרד התחבורה.
+
+ בנותיו:<persName> אורה</persName> אשת רב-אלוף <persName>מרדכי מקלף</persName> (ראה כרך ו', עמוד 2597),<persName> רחלה </persName> (פעילה בנח"ל מטעם תנועת הצופים בעין-גב).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3051 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3051</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3350 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3350</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם פיטשון</persName>
+
+</head>
+         <div><p> נולד בכסלו תרנ"ט (15.12.1898) באזמיר שבטורקיה. לאביו<persName> יהושע</persName> ולאמו<persName> רבקה</persName> בת<persName> יוסף ישורון</persName> ,
+
+ למד בבית-הספר של אליאנס ובקולג' האנגלי למסחר. ב-1918 יצא לאנגליה ויסד בית-מסחר ליצוא אריגים.
+
+ חזר ב-1921 לאיזמיר והמשיך במסחרו.
+
+ נשא לאשה את <persName>רג'ינה </persName> בת <persName>רבנו קוריאל</persName> (נפטרה) ובזיווג שני נשא לאשה את<persName> דינה</persName> בת <persName>ניסים כהן</persName> .
+
+ ב-1923 עלה לארץ ויסד בית-מסחר לאריגים בתלאביב, ובמשך הזמן נכנם גם לעסקי תעשיה בענף זה.
+
+ ב-1926 הצטרף לבנאות החפשית בלשכת "אל-דודג'ה" ביפו. השתתף ביסוד לשבת "מוריה" וב-1936 היה נשיאה. כן היה פעיל בעניני צבור כסגן נשיא מועצת הספרדים בתל-אביב, סגן יו"ר ועדת העזרה של יבואנים וסיטונאים, חבר הועדה למוסד הצדקה על שם <persName>יוסף שאלתיאל</persName> , סגן יו"ר הועד הארצי למען החייל בשנת מלחמת השחרור וכו'.
+
+ ב-1940 נבחר למועצת העיר תל-אביב. בשנים 19431946 היה ראש מפעל המים והמאור של העיריה, ובשנים האחרונות חבר הנהלת העיריה וראש מחלקת התנועה העירונית לתל-אביב-יפו.
+
+ צאצאיו (מאשתו הראשונה): <persName>יהושע, יפה </persName> אשת<persName> שלום</persName> <persName>מחרז, רפאל</persName> (מהנדס לטכסטיל),<persName> רבקה</persName> אשת <persName>מוני לולו</persName> .
+
+ (מאשתו השניה):<persName> יגאל, יהודית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3350 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3350</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

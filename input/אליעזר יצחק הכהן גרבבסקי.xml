@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3149 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3149</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר יצחק הכהן גרבבסקי</persName>
+
+</head>
+         <div><p> נולד וולוזין, פלך וילנה, כ"ב אדר תרי"ט (1859).
+
+ לאביו <persName>אברהם שבתי</persName> (ממשפחת ר'<persName> חיים מוולוזין</persName> ור' <persName>חיים סולובייציק)</persName> ולאמו<persName> מאשה רחל</persName> לבית<persName> ויסבורד.</persName>
+
+ קבל חנוך מסורתי. השתלם ברוקחות.
+
+ היה רוקח בפינסק.
+
+ היה חבר ועד חובב-ציון בפינסק יחד עם העסקן <persName>אהרן איזנברג</persName> (ראה כרך ב', עמוד 982).
+
+ נשא לאשה את <persName>חשה</persName> בת<persName> קלמן גינצבורג</persName> (נפטרה ברחובות, ל' חשון תרצ"ח-4.11.1937).
+
+ בשנת תר"ן (1890) הוזמן ע"י<persName> אהרן איזנברג </persName> ועלה לארץ בתור רוקח בבית המרקחת בראשון לציון.
+
+ באותה שנה נוסדה רחובות והוא רכש לו שטח קרקע.
+
+ כעבר שנתים, נדרש לעבוד בתור חובש ורוקח בבית החולים היהודי "שער ציון" ביפו שנוסד באותה שנה ע"י <persName>שמעון רוקח</persName> ועוד.
+
+ אח"כ עבר למושבה רחובות בתור רוקח המושבה.
+
+ יסד בית חולים במושבה לפועלים.
+
+ ממיסדי התלמוד תורה במושבה.
+
+ נפטר ברחובות, ו' כסלו תש"ח (19.11.1947).
+
+ צאצאיו:<persName> חיה</persName> אשת<persName> יצחק דוד מן</persName> (כרך ב', עמוד 988), <persName>מרדכי עשבי, חיים עשבי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3149 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3149</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

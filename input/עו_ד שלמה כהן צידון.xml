@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4486 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4486</bibl><bibl>Volume: #14 ,Page: 4487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4487</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עו"ד שלמה כהן-צידון</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אלכסנדריה</placeName> (מצרים), כ"ט שבט תרפ"ג (15.2.1923).
+
+ לאביו<persName> ראובן כהן</persName> ולאמו<persName> פרידה </persName> בת <persName>משה מורנו</persName> (הוריו ילידי ותושבי צידון (לבנון), ונאמר על המשפחה שלא זזה מהמקום הנחשב כארץ הקודש מימי בית שני).
+
+ קבל חינוך יסודי תיכון וגבוה (כלכלה ופיננסים במצרים בבי"ס צרפתי), 2 פקולטות בת"א (משפטים ומדעי מדינה).
+
+ קיבל תואר של עורך דין B. A. Pol. Sei(מדעי מדינה). 
+
+ היה חבר פעיל בבני-ברית "לשכת אליהו הנביא", פעיל בפדרציה הציונית ומנהל בי"ס יהודי-צרפתי ב<placeName>אלכסנדריה</placeName> (מצרים).
+
+ בשנת 1944 נשא לאשה את<persName> לאה </persName> בת <persName>יוסף גבאי.</persName>
+
+ בשנת 1949 עלה לארץ.
+
+ ממשיך בארץ במקצועו כעורך דין.
+
+ משך שבע שנים סגן יו"ר ההנהלה הארצית של התאחדות עולי מצרים בארץ.
+
+ חבר ההנהלה המצומצמת של המפלגה הליברלית.
+
+ נשיא לשכת בני-ברית יהודה הלוי בת"א.
+
+ חבר הועד של לשכת עורכי הדין.
+
+ כתב מאמרים על עניני המזרח התיכון, משפטים ועל יחסי עדות המזרח "בטרם", "אל המזרח" ועוד.
+
+ ספרים וחוברות: היסטוריה (בכתב), ייצוג העדות בכנסת ובמוסדות החקיקה להגנת משפחות מרובות ילדים, איפה יוסלה? (פרשת המאבק הצבורי והמשפטי של חטיפות הנער יוסלה ב-1963).
+
+ בתוקף תפקידו כסניגור ניהל המשפט לדוגמא לפיצויים עבור נפגעי הרדיפות ואונס יהודיות במצרים. המשפט שהביא לזיכוי ראש עירית אופקים מאשמות שהוטלו עליו. ניהל את המאבק המשפטי והצבורי אשר גרם להחזרת הילד יוסל'ה שנחטף מהוריו.
+
+ צאצאיו :<persName> מרגלית </persName> (סטודנטית למשפטים)<persName>, ראובן</persName> (תלמיד),<persName> יוסף </persName> (תלמיד).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4486 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4486</bibl><bibl>Volume: #14 ,Page: 4487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4487</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

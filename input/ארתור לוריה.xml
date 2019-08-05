@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2309 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2309</bibl><bibl>Volume: #5 ,Page: 2310 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2310</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ארתור לוריה</persName>
+
+</head>
+         <div><p> נולד ב<placeName>יוהנסבורג</placeName> (דרום אפריקה), י"א אדר תרס"ג ((10.3.1903) לאביו<persName> הרי לוריא</persName> (עסקן צבורי ומפעילי הציונים בדרום אפריקה. תורם ידוע למוסדות הישוב) ולאמו<persName> רגינה</persName> לבית <persName>מילר.</persName>
+
+ קיבל חינוך בבית ספר למשפטים בדרום אפריקה, אוקספורד והרוארד.
+
+ נשא לאשה את ג''ינט לבית ליבל.
+
+ מרצה חוק ביוהאנסבורג (1929-1933), נשיא ההסתדרות הציונית ביוהאנסבורג (1932), מזכיר פוליטי בסוכנות היהודית בלונדון (1933-1939), מזכר המשלחת
+
+ היהודית לועידה ישראלית-ערבית בלונדון (1939), מזכיר אקזקוטיבי במועצה הציונית האמריקאית לשעת חרום (1946-1940), מייצג הסוכנות היהודית בועידת סן-פרנציסקו (1945), קצין קשר מטעם הסוכנות היהודית
+
+
+ לועדת החקירה האנגלו-אמריקנית בירושלים (1946), מנהל משרד האו"ם של הסוכנות היהודית בניו-יורק (1946-1948), קונסול כללי של מדינת ישראל בניו-יורק משנת 1948, מונה לציר מוסמך בשנת 1950, סגן יושב ראש משלחת ישראל לאו"ם בשנת 1950.
+
+ צאצאיו:<persName> דניאל, ברוריה</persName> (מאשתו הראשונה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2309 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2309</bibl><bibl>Volume: #5 ,Page: 2310 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2310</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

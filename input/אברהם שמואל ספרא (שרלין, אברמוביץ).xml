@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4250 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4250</bibl><bibl>Volume: #13 ,Page: 4251 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4251</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם-שמואל ספרא (שרלין, אברמוביץ)</persName>
+
+</head>
+         <div><p> נולד בתוך חומות ירושלים, בחודש אב, תרל"ג (1873). לאביו <persName>חיים-מנחם-מנדל </persName> (מצאצאי תלמידי הגר"א, שיסדו את היישוב האשכנזי-הפרושי בירושלים) ולאמו <persName>שרה.</persName> (בנוגע לשלושת שמות-המשפחה שלו אומרת מסורת
+
+ המשפחה, שבעקב סכנות מצד השלטון הטורקי, בשל דביקותו הקיצונית בירושלים, הוכרח מפעם לפעם להחליף
+
+
+ את שם משפחתו. אך הדבר אינו מתיישב על רקע המציאות בזמנו - מסתבר יותר, שאביו והוא נקראו <persName>ספרא</persName> על שם מלאכתם: האב היה "ספרא ודייני", סופר ביתהדין של העדה, והוא מלמד-תינוקות, וגם מקצוע זה נקרא "ספרא" בארמית הבבלית של התלמוד. וייתכן שבאמצעות אבות ואמהות שבדורות האחרונים התייחסו על שתי המשפחות, <persName>שרלין ואברמוביץ</persName> , שתיהן ותיקות ביישוב האשכנזי משלב ראשיתא, ולא דקדקו להחזיק בשמה של אחת מהן בלבד).
+
+ למד בת"ת ובישיבת "עץ חיים".
+
+ בשנת תרנ"א (1891), נשא לאשה את <persName>פרל </persName> בת הרב <persName>משה נחום וואלנשטיין</persName> (ראב"ד בבית-דינו הפרטי של הרב מבריסק - ראה כרך י"א, עמוד 3864). ומשנפטרה אחרי שנתיים והשאירה לו שני יתומים פעוטים, נשא בתרנ"ג את <persName>חיה פרל</persName> בת ר' <persName>חיים לאבל.</persName> ומשנפטרה גם היא בתרע"ז, נשא את <persName>אסתר מלכה</persName> בת ר' <persName>משה-זלמן</persName> <persName>ושרה-נחמה פראנקנטאל.</persName>
+
+ קרוב ל-60 שנה היה מלמד בת"ת "עץ חיים" הצטיין בכשרון דידאקטי בלתי-מצוי, ורבים ממורי הת"ת היו באים לשיעוריו, כדי ללמוד את שיטתו ודרכיו בהוראה. היה נותן יום-יום שיעורי תורה בבית-המדרש גם למבוגרים, שנהנו מהסברותיו מאירות-העיניים.
+
+ מספרים נפלאות על דביקותו העצומה בכותל המערבי ובירושלים העתיקה בכלל, שגם בזמני-חירום קשים סירב לצאת ממנה. ואחרי שהוכרח לצאת ממנה בעקב נפילתה בידי הלגיון הערבי, היה מתמיד בדברי תרעומת על כוחות ישראל, שלא חזרו לכבוש אותה, ולא פעם היה עולה על בניינים גבוהים בעיר החדשה, צופה כלפי העיר העתיקה ומקומותיה הקדושים ומתפלל לעומתם בדמעות שליש, כמו ב"תיקון חצות" שהיה עורך כל לילה.
+
+ נפטר בירושלים, י"ב אדר א', תשי"ט (20.2.1959).
+
+ צאצאיו: <persName>אלכסנדר זיסקינד אברמוביץ</persName> (בעת מלחמת ירושלים נקרא בפי אנשי אצ"ל "הסיקריק הזקן"), ד"ר <persName>משה יוסף אברמי</persName> (ראה כרך ו', עמוד 2522), <persName>יצחק-ליב</persName> <persName>ספרא, שרה-נחמה</persName> אשת אריה <persName>רלב"ג, ישעיהו ספרא,</persName> <persName>מנחם-מנדל ספרא.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4250 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4250</bibl><bibl>Volume: #13 ,Page: 4251 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4251</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

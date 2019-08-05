@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/109</bibl><bibl>Volume: #1 ,Page: 110 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/110</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רחל רוקח</persName>
+
+</head>
+         <div><p> נולדה בבריסק-דליטא, פלך גרודנה (רוסיה הלבנה), בשנת תרכ"ג (1863) לאביה ר' מנחם (מנכין) שוסטקובסקי, תלמיד-חכם, נדיב וסוחר עשיר, ולאמה
+
+
+ לאה בת הגביר הצדיק ר'<persName> משה פיזיצר,</persName> שהתישב בירושלים.
+
+ בהמלצת אבי-אמה הנ"ל נישאה בת 16 להבחור <persName>שמעון </persName> בן ר' <persName>יצחק רוקח </persName> מנכבדי עדת החסידים בירושלים, שבא לבריסק כדי לשאתה לאשה ואחרי החתונה עלתה עמו ירושלימה.
+
+ בתרמ"ד עברה עם בעלה ליפו והיו מראשוני המתישבים האשכנזים בעיר העתיקה. עזרה לבעלה בפעולותיו הרבות לטובת הצבור, וביחוד לטובת בית-החולים היהודי הראשון ביפו שיסד בעלה. כן השתתפה בפעילות במוסדות העזרה והחסד של יפו. וכשיסד בעלה את השכונה "נוה צדק" נטלה על עצמה את הטיפול בעניני השמירה, המאור והנקיון של השכונה. ביתה היה פתוח כאכסניה לעולים חדשים ואף לקבלת אורחים חשובים מישראל ואחרים, שבאו לראות את הארץ, לפעול לטובת הישוב, או שהיה צורך בעזרתם וברצונם הטוב למען הצבור והישוב.
+
+ בשנות מלחמת העולם הראשונה הרבתה לעזור למגורשי יפו ותל-אביב ולנפגעי תלאות המלחמה בכלל.
+
+ אחרי פטירת בעלה התמסרה ביחוד לעזרת ביתהחולים "ביקור חולים" בירושלים והחזיקה בו מטות אחדות על חשבונה. הרבתה לעשות צדקה וחסד אף בעילום-שם. כמו כן התענינה בשכלול המוסד "בית מחסה לנכים" (בית האינבלידים) בתל-אביב.
+
+ אחרי היות בעלה בחייו ראש קהלת יפו זכתה לראות את בנה<persName> ישראל </persName> כראש עירית תל-אביב וראש קהלת יפו-תל-אביב ואת בניה <persName>יוסף ויצחק </persName> פעילים בחיי הצבור והכלכלה.
+
+ נפטרה בתל-אביב, כ"ו כסלו תש"ו (1.12.45).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/109</bibl><bibl>Volume: #1 ,Page: 110 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/110</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

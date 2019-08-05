@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1973 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1973</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף ראובן יוספזון</persName>
+
+</head>
+         <div><p> נולד בברלד (רומניה), בשנת תרכ"ו (פברואר 1866), לאביו<persName> יעקב יהודה</persName> ולאמו<persName> נסיה.</persName>
+
+ קבל חינוך מסורתי.
+
+ בשנת 1890 נשא לאשה את<persName> חיה</persName> בת <persName>שמעון ריביץ</persName> (ממשפחת <persName>משה גסטר</persName> מאנגליה), נפטרה בפתח תקוה, ט"ז אדר תש"ו. בעלת מרץ, הגישה עזרה לנצרכים בעצותיה ונסיונותיה בחיים ודאגה לעניים.
+
+ היה בעל רכוש בחוץ לארץ, אך הוא ואשתו עמו שאפו לעלות ארצה. בשנת תרנ"ז (1897) בא ארצה, בראשונה לבדו. קנה אדמה בפתח תקוה. נטע פרדס וכרם. אח"כ שב לרומניה להביא את משפחתו. העלה קודם רבים מבני משפחתו (שתי אחיות של אמו, הוריו הזקנים של גיסו<persName> ב. שאינפלד</persName> ). סיים את כל עסקיו בגולה ועלה עם משפחתו.
+
+ מכיון שהחקלאות לא פרנסה עדיין את בעליה, בנה לו יקב והתחיל בעצמו, מהראשונים במושבה, לייצר יין. כמו כן הקים ברכה בפרדסו וגידל דגים למכירה בשוק. שמש דוגמה בחריצותו ויחד עם בני משפחתו יסד חבורה לאריזת תפוחי זהב. גם למסחר שלח ידו. הקים בתי מסחר בפתח תקוה ובראשון לציון. מנפקטורה. איטליז בפתח תקוה. טחנת קמח ומרצפות.
+
+ היה חבר באיגוד "פרדס" ונשלח מספר פעמים לקושטא בענייני שיווק פרי ההדר.
+
+ בימי המחסור בכספים היה הראשון שהוציא פתקאות כסף תמורת סחורה. לפתקאותיו היו מהלכין בשוק בשווי המלא בשם "כסף יוספזון".
+
+ בימי הגירוש מפתח תקוה היה פעיל בהגשת עזרה למגורשים בזכרון יעקב. היה הראשון שחזר לפתח תקוה עוד בימי הקרבות והביא דרישות שלום למשפחות שהופרדו בגלל הגירוש.
+
+ בימים הקשים למתישבים הראשונים היה מקור לעידוד. לא הרשה לאיש לקטרג על הישוב והארץ בגלל המצב החמור. חרוץ ובעל יזמה, בעל מזג טוב ובדיחות דעת.
+
+ נפטר בפתח תקוה, י"ב בניסן תש"א (9.4.1941).
+
+ צאצאיו:<persName> נסיה (עבריה) </persName> אשת <persName>אוריה זילברמן-כהן,</persName>
+
+<persName>חוה</persName> אשת <persName>צבי לוריה, שמעון</persName> (אכר, מראשוני שכונת "יובל" בפ"ת).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1973 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1973</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

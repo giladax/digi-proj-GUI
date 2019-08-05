@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4120 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4120</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גאונה כהן (ברזילי)</persName>
+
+</head>
+         <div><p> ראה (כרך חמישי, עמוד 2358)
+
+ חניכת סמינריון "תרבות" בוילנה.
+
+ הוציאה לאור גם ספר "הגיונות" (תשי"ז), המכיל אטיקה של החיים בפרקים: בין אדם לאדם, עבודה, אשר, אמת, דאגה למולדת, חיים, ספרות, יצירה, מחשבה וחינוך למבוגר, אמונה בכח האדם. הספר זכה לביקורת לשבח בארץ ובחוץ-לארץ.
+
+ עבדה כעתונאים ב"עם וספר" בעריכתו של<persName> עבר</persName> <persName>הדני</persName> . פירסמה בירחון זה - של הברית העברית העולמית, מאמרים במדור האשה בספרות. נשלחה כעתונאית מירחון זה לקונגרס הציוני.
+
+ בהוצאת הד החינוך חוברת כללי כתיב של האותיות הגרוניות והמסופקות שחובר על ידה עם הכתבות לכל כלל.
+
+ שינו שמותיהם:
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4120 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4120</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

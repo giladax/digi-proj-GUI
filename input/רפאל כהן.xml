@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4895 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4895</bibl><bibl>Volume: #16 ,Page: 4896 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4896</bibl>
+<bibl>Volume: #16 ,Page: 4897 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4897</bibl>
+<bibl>Volume: #16 ,Page: 4898 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4898</bibl>
+<bibl>Volume: #16 ,Page: 4899 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4899</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רפאל כהן</persName>
+
+</head>
+         <div><p> נולד בעיירה שובץ (לימה, פלך קובנה), בחודש ניסן תר"ס (1900).
+
+ לאביו<persName> נח</persName> (מצאצאי רבנים וחדור הכרה לאומית) ולאמו<persName> דינה </persName> בת <persName>שלום יאחילוביץ </persName> (חוכר ויועץ כלכלי לבעלי-אחוזות.).
+
+ קיבל חינוך מסורתי. בכוחות עצמאיים רכש השכלה כללית. בחוץ-לארץ עסק בחקלאות ובמסחר.
+
+ במלחמת העולם הראשונה, כאשר הגרמנים נכנסו לעיירת-הולדתו, שימש כמתורגמן מגרמנית לליטאית.
+
+ ב-1917 הצטרף לתנועת "החלוץ"ויצא להכשרה חקלאות, שם היה שנתיים.
+
+ פעיל ב"החלוץ" ובקרנות הציוניות.
+
+ ב-1921 עלה לארץ. בתחילה עבד בבנין בתלאביב.
+
+ ב-1922 הלך לקיבוץ עין-חרוד, בעלותו על הקרקע על-יד המעין. עבד בהכשרת המקום להתישבות.
+
+ ב-1923 התחבר עם "גדוד העבודה על שם יוסף טרומפלדור" ונשלח לתל-יוסף. עסק בעיקר בייבוש ביצות. כאשר חלה בקדחת הועבר לכפר הערבי קומי בתור שומר על רכוש הקיבוץ.
+
+ ב-1925 נשא לאשה את <persName>מלכה</persName> בת<persName> יצחק הלל</persName> <persName>הכהן </persName> (ראה ערכם בכרך הזה). לאחר הנשואין עבר לחיפה. עבד בבנין ובחיצוב סלעים.
+
+ ב-1928, בעת הפילוג בגדוד-העבודה, עזב אותו והחל לעבוד בועד הדר-הכרמל בתור חוצב.
+
+ ב-1930 עבר לעתלית ועבד במחצבות.
+
+ ב-1932 התישב במושב-העובדים עין-ורד (גוש תל-מונד) והיה מראשוני המקום.
+
+ ב-1936 עבר לתל-אביב. כל השנים, עד היום הזה, עוסק במסחר זרעים ובגידולם.
+
+ איש ההגנה והג"א לשעבר.
+
+ ילדיו ונכדיו: ראה בערך רעייתו בכרך זה.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4895 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4895</bibl><bibl>Volume: #16 ,Page: 4896 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4896</bibl>
+<bibl>Volume: #16 ,Page: 4897 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4897</bibl>
+<bibl>Volume: #16 ,Page: 4898 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4898</bibl>
+<bibl>Volume: #16 ,Page: 4899 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4899</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

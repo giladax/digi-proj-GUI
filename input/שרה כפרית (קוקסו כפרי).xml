@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2859 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2859</bibl><bibl>Volume: #7 ,Page: 2860 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2860</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שרה כפרית (קוקסו-כפרי)</persName>
+
+</head>
+         <div><p> נולדה במינסק (רוסיה), י''א אב תר"ס (28.7.1900). לאביה<persName> מאיר קפלן </persName> (ממשפחה ציונית נודעת) ולאמה <persName>פרומה</persName> בת <persName>אברהם שפירא.</persName>
+
+ אחיה אליעזר קפלן, היה שר האוצר הראשון במדינת ישראל.
+
+ קבלה חנוך עברי, גמנסיה עם תעודת בגרות. חברה במפלגת צעירי ציון בעירה. בשנת 1920 עלתה לארץ. השתלמה בסמינר לגננות בתל-אביב.
+
+ נישאה <persName>למיכאל קוקסו-כפרי</persName> (נפטר בכפר יהושע, י"ז סיון תשי"ב-10.6.1952).
+
+ היתה הגננת הראשונה בנהלל (מיום היסוד - 1921). היא ובעלה - ממיסדי כפר יהושע (1927). מורה וחקלאית בכפר זה.
+
+ השתתפה בשליחות התנועה לארצות הברית (1945). צירת הקונגרסים הציונים: כ' בציריך (1937) וכ"א בג'ניבה (1939).
+
+
+ חברת מרכז מפא"י, מזכירות תנועת המושבים, מועצת הפועלים.
+
+ חברת הכנסת השניה והשלישית.
+
+ צאצאיה: <persName>דתיה</persName> אשת <persName>יוסף קרני (חוה חקלאית</persName> ) ; <persName>אברהם כפרי</persName> נשוי<persName> לעמליה נהרי</persName> (מושב בית לחם גלילית); <persName>מרים</persName> אשת<persName> עמוס בן-צבי</persName> (בכפר יהושע) : <persName>רות</persName> אשת <persName>גדעון צור</persName> (באר-טוביה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2859 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2859</bibl><bibl>Volume: #7 ,Page: 2860 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2860</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

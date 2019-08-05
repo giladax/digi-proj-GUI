@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4203 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4203</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה-ליב מרגלית (מרגליות)</persName>
+
+</head>
+         <div><p> נולד כ"ב סיון תרנ"א (3.6.1891) באוסטרוב-מאזוביצק שבפלך לומז'ה, בפולין.
+
+ לאביו ר' <persName>שמואל יוסף מרגליות </persName> (לפי מסורת משפחתית מוצאו ממשפחה של מגורשי ספרד, שנתגלגלה לפולין לפני מאות שנים. היה עסקן פעיל בצרכי ציבור כל ימיו) ולאמו <persName>רחל-לאה</persName> בת <persName>שמואל-בונים רובינשטיין.</persName>
+
+ למד בחדרים ואח"כ בישיבות בווארשה.
+
+ ב-1910 נשא לאשה את <persName>חנה-גיטל</persName> בת ר' <persName>יעקב-דוד</persName> <persName>וואסרפיש</persName> , רב בפיגה, פרבר של ווארשה.
+
+ בעיר-הולדתו עסק במסחר וממוצאי מלחמת העולם הראשונה ואילך היה מראשי הפעילים בכל ענפי העבודה הציונית והלאומית בתור חבר מועצת העיר, ועד הקהילה היהודית, יו"ר ההסתדרות הציונית המקומית, יו"ר סניף "תרבות" והנהלת בית-הספר שלו, מורשה הקהק"ל ויו"ר ועד קרן היסוד ופעיל במוסדות ציבוריים שונים.
+
+ משעלה לארץ בראשית שנת תרצ"ו (נובמבר 1935) עבד בהועד הארצי של הקהק"ל באותה מסירות, כמו לפנים בחו"ל בתור עסקן מתנדב, עד שהגיע לגיל הפנסיה.
+
+ השתתף ביסוד ארגון הציונים הוותיקים בארץ-ישראל ונבחר ליו"ר ארגון יוצאי אוסטוב-מאזוביצק בישראל. בתפקיד זה פעל לעזרת אנשי שארית הפליטה מעירו שהגיעו לארץ.
+
+ מחבר ספר יזכור לקהילת עירו (בעברית ובאידית. מכיל 656 עמודים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4203 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4203</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

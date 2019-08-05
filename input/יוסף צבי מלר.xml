@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1271 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1271</bibl><bibl>Volume: #3 ,Page: 1272 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1272</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף צבי מלר</persName>
+
+</head>
+         <div><p> נולד בכפר פבלבה שליד רוז'ינוי, פלך גרודנה בשנת תרכ"ז, לאביו <persName>משה</persName> ולאמו <persName>חנה </persName> (היו חקלאים ברוסיה והועלו ארצה בתרמ"ג עם קבוצת "אחת עשרה העביות" המפורסמת ע"י יחיאל בריל, עורך
+
+
+ "הלבנון" בירושלים ואח"כ באירופה. עבדו במקוה ישראל ועלו על הקרקע בעקרון בתרמ"ד, ראה כדך א', עמוד 404). קיבל חנוך מסורתי ועוד בצעירותו נכנס לעבודת האדמה.
+
+ בן 16 עלה עם הוריו לארץ. נשא לאשה את <persName>צפורה </persName> בת אברהם-מרדכי<persName> לוין</persName> (מן העולים הראשונים, אחי יחזקאל לוין, שהיה מקבוצת "אחת עשרה העביות").
+
+ בתרס"ב (1902) פנה ליק"א יחד עם אחדים מצעירי עקרון שתינתן להם קרקע להתישבות, כי אדמת המושבה לא הספיקה לדור החדש. הוא קיבל אז בגדרה חלק מאחוזת בורים אוסובצקי (היה היינן הראשון ביקבי הבארון בראשון לציון, ועזב את עבודתו ביקב ואת הארץ בניגוד לרצונו). בואו לגדרה זכור יפה לבני המקום משום שהביא עמו צריףמגורים מוכן שהתקינו בעקרון, ומסע הצריף על פני שתי עגלות , זוגיות קשורות זו לזו עשה רושם רב על תושבי הכפרים הערביים שעבר דרכם.
+
+ התמסר לפלחה, שהיתה אז בשפל המדרגה, ובנסיונו החקלאי הצליח לשפר את מצבה ואף השפיע על שאר בני המושבה שברובם היו נתונים לבולמוס הגפנים.
+
+ מת ממחלת אולקוס בביה"ח "הדסה" בת"א והובל לקבורה בעקרון ביום ה' חשון תרפ"א.
+
+ צאצאיו: <persName>חנה </persName> אשת אליהו לוין,<persName> מרדכי, חסידה</persName> אשת שלמה שקולניק,<persName> שושנה</persName> אשת אברהם קורציק, רחל אשת אברהם קפלן,<persName> צדק, לאה</persName> אשת ראובן סילסני (גלקין).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1271 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1271</bibl><bibl>Volume: #3 ,Page: 1272 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1272</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

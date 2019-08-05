@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1173 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1173</bibl><bibl>Volume: #3 ,Page: 1174 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1174</bibl>
+<bibl>Volume: #3 ,Page: 1175 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1175</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>לוי יצחק ויניקוב</persName>
+
+</head>
+         <div><p> נולד בסורז', פלך צ'רניגוב (אוקראינה), י' טבת תרל"ו (1876), לאביו <persName>שלמה זלמן</persName> ולאמו <persName>שיינה לאה</persName> לבית <persName>קוטליקוב</persName> . קיבל חינוך תורני בחדרים ובישיבות ובשנת תרנ"ז נשא לאשה את <persName>פרומה גיטל</persName> בת <persName>זלמן טננ</persName> <persName>בוים</persName> מבריסק דליטא והשתקע שם. עסק במסתר ובתעשיה וניהל בנק קואופרטיבי יהודי. הקדיש הרבה מזמנו וממרצו לפעולה ציונית וצבורית מקומית. היה יו"ר ההסתדרות הציונית בבריסק במשך 25 שנה, ציר לקונגרס הציוני ה-11 בוינה, יו"ר קרן היסוד בבריסק מראשיתה עד עלותו ארצה, חבר הועד המרכזי של ההסתדרות הציונית בפולין וציר לרעידותיה הארציות, יו"ר ועד "תרבות" לבריסק והגליל, חבר שלטון הקהלה ומועצת העיר, יו"ר מקומי לועדי "ג'וינט", "היאס", "טאז" ובתפקידיו אלה פעל בשטחי סיוע כללי לנצרכים, הלואות קונסטרוקטיביות, עזרה לעולים ולמהגרים ולשמירת הבריאות בין היהודים, יו"ר בית היתומים, ועוד.
+
+ בגלל פעולותיו הציוניות נאסר ב-1920 על ידי הבולשביקים בזמן בבוש העיר, ואח"כ ב-1932 על ידי השלטון הפולני.
+
+ ביקר בארץ בתרע"ג ושהה בה שלשה חדשים ובשושן פורים תרצ"ה הגיע ארצה עם אשתו ובתו, אחרי ששני בניו עלו לפניו כחלוצים ועבדו כפועלים בעיר ובכפר.
+
+ התמסר לפעולה ציונית וצבורית. ביזמתו נתארגנה פעולה קבועה מטעם ההנהלה הציונית לטובת הציונים הותיקים בארץ והוא נתמנה למנהל לשכת העבודה התל אביבית של ארגון עסקנים ציונים ותיקים "ברית ראשונים", חבר הועד הפועל העירוני והמועצה הארצית של הסתדרות הציונים הכלליים,
+
+
+ חבר נשיאות ועדת השקל, יו"ר ארגון עולי בריסק דליטא, ועוד.
+
+ צאצאיו: <persName>דב </persName> (פקיד במועצה המקומית בחולון), <persName>שלמה</persName> (סוחר בחולון), <persName>רחל</persName> אשת עוה"ד <persName>יוסף קרטוני</persName> (עובדת במגבית ההתגייסות).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1173 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1173</bibl><bibl>Volume: #3 ,Page: 1174 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1174</bibl>
+<bibl>Volume: #3 ,Page: 1175 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1175</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

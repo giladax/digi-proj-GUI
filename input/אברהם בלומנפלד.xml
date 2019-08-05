@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 928 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/928</bibl><bibl>Volume: #2 ,Page: 929 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/929</bibl>
+<bibl>Volume: #2 ,Page: 930 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/930</bibl>
+<bibl>Volume: #2 ,Page: 931 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/931</bibl>
+<bibl>Volume: #2 ,Page: 932 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/932</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם בלומנפלד</persName>
+
+</head>
+         <div><p> נולד בירושלים, ח' חשון תר"ל (1869), לאביו הרב <persName>יהודה</persName> (שנקרא בירושלים<persName> ר' יודל לומזר</persName> , שעלה לא"י בספינת-מפרשים, במסע שארך כחצי שנה, ת''ח ומופלג בתורה, מגדולי המלמדים הראשונים בת"ת של האשכנזים הפרושים בחצר החורבה. ראה עמוד 70) ולאמו <persName>פינה</persName> בת ר'<persName> ישראל בק </persName> (חלוץ מלאכת הדפוס בארץ, חלוץ החקלאות העברית בגליל העליון, ממיסדיה וראשיה של עדת החסידים בירושלים).
+
+ למד בחדרים ובישיבות אצל הרב<persName> יעקב הרכבי</persName> (נובהרדוקר) והרב <persName>יצחק מתמיד (וינוגראד),</persName> מיסדה וראשה של ישיבת "תורת חיים". בן 14 נתקבל לעבודת פקידות בבנק ברגהיים ובטחנה ואח"כ נעשה שותף לטחנה הגדולה שליד שער שכם.
+
+ בתר"ן נשא לאשה את<persName> גיטל</persName> בת ר'<persName> נחום (מגיד)</persName> <persName>קפלן.</persName> נתקבל לעבודה כפקיד ראשי אצל ר' <persName>יצחק</persName> <persName>רוקח</persName> (אבי משפחת רוקח בארץ, אביו של<persName> שמעון רוקח</persName> איש יפו ואבי-אביו של<persName> ישראל רוקח </persName> ראש עירית תלאביב) בעסק חכירת מס הדרכים, שחכר מאת הממשלה הטורקית והיה גובה אותו מכל הבאים בעגלה בכביש
+
+ יפו-ירושלים. הצטיין באומץ-לב ובגבורה והיה מטיל את אימתו על הערבים שניסו להשתמט מתשלום המס או לפגוע ביהודים. פעם, כשפרצה דליקה באחת משכונות ירושלים סיכן את נפשו והציל שני ילדים מתוך חדר שהיה מוקף להבות ואח"כ עלה על הגג הבוער, שיבר את הקורות שחיברו את הבנין לבנין אחר ומנע את התפשטות הדליקה אליו. וכשנבחר כציר מירושלים לכנסיה הראשונה של יהודי ארץ-ישראל (זכרון יעקב, תרס"ג) ונסע בעגלה אל הועידה עם חבריו, נאחזו גלגלי העגלה בחריצים שבין האבנים ליד גשר טחנות אבו-רבח על הירקון מצפון לפתח תקוה, והיתה סכנה שהעגלה על כל נוסעיה תתהפך לתוך המים. אז קפץ המימה ובכוחו הרב הטה את העגלה כלפי מעלה ועזר להסיעה מהמקום המסוכן. כן הקדיש את כוחו לשרות שמירה בפתח תקוה במשך כמה שנים.
+
+ בתרנ"ה יסד בירושלים יחד עם הרב <persName>ישעיהו</persName> <persName>רפאלוביץ, אליהו אהרן כהנא </persName> ואחרים מאברכי ירושלים את האגודה החשאית "אחוה", שבשעתה פעלה רבות להבראת החיים הצבוריים והכלליים בישוב הישן ויזמה וביצעה פעולות רבות שרישומיהן ניכרים עד היום. לקח חלק פעיל בגאולת 80.000 דונם קרקע ביהודה, בשומרון ובגליל.
+
+ צאצאיו:<persName> חיה אשת משה גרינהוט</persName> (מנהל קופת מלוד, וחסכון, רחובות), <persName>יהונתן </persName> (רושם הקואופרטיבים מטעם הממשלה, ירושלים), <persName>ישראל מסדה</persName> (מראשוני "בני בנימין", כעת בלונדון), <persName>שולמית, אביעזר, פנינה</persName> (ז"ל) אשת עוה"ד ד"ר<persName> דוד פיינברג </persName> בחיפה, <persName>רוחמה</persName> אשת<persName> יהודה ליב (יוליאן) מלצר </persName> (סופר "ניריורק טיימס" בירושלים), <persName>יהודה</persName> (מזכיר מועצת בת-ים).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 928 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/928</bibl><bibl>Volume: #2 ,Page: 929 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/929</bibl>
+<bibl>Volume: #2 ,Page: 930 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/930</bibl>
+<bibl>Volume: #2 ,Page: 931 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/931</bibl>
+<bibl>Volume: #2 ,Page: 932 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/932</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

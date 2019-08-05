@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2501 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2501</bibl><bibl>Volume: #6 ,Page: 2502 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2502</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה ולדמן</persName>
+
+</head>
+         <div><p> נולד בשנת תרמ''ו (15.3.1886) בבוריסלאב שבמזרח גליציה.
+
+ לאביו <persName>יצחק </persName> (מכונאי במפעל של בארות נפט בעירו ממשפחת בעלי מלאכה בעבודות מתכת) ולאמו<persName> שרה</persName> בת <persName>יצחק בלאנק.</persName>
+
+ למד בחדרים ובבית-ספר עממי של הבארון<persName> הירש</persName> (הבארון יסד והחזיק בערי גליציה בתי-ספר לילדי היהודים לפי תכנית ממשלתית, כדי לשפר את מצבם הכלכלי והאזרחי של יהודי גליציה על-ידי העלאת רמת השכלתם), ומגיל 13 ואילך עבד בבתי-מלאכה המיכאנים של מפעלי מקורות הנפט בבוריסלאב והתמחה יפה במקצועות. בהגיעו לגיל הגיוס שירת בצבא האוסטרי בחיל התותחנים, ואח"כ שירת שוב בתפקיד זה במלחמת-העולם א' בחיל המצב שבמבצר פשמישל ובעת נפילת המבצר, בסוף חורף 1915, נפל גם בשבי הרוסי עם כל חיל המצב. אחרי פרוץ המהפכה ברוסיה השתחרר והגיע הביתה ב-1918, ושוב התיצב לשרות בצבא ונשלח לחזית האיטלקית, ועם התמוטטות החזית האוסטרית שוב נפל בשבי והועבר לצרפת, ובתור אזרח בשטח שסופח לפולין שקמה אז לתחיה גויס
+
+
+ לצבא הפולני ושרת בו כחצי שנה. אח"כ יצא לגרמניה, קיבל עבודה טובה ואחראית כמכונאי ממדרגה ראשונה.
+
+ נשא לאשה את<persName> שושנה</persName> בת <persName>נחום צבי לינהרט.</persName>
+
+ שמעו של בעל-המקצוע היהודי הנודע לשבח הניע לאזני <persName>פנחס רוטנברג </persName> בעת שהיה זקוק לבעלי-מקצוע טובים בראשית צעדיו למימוש הזכיון לחישמול הארץ - להקמת תחנת-החשמל הראשונה בתל-אביב. להזמנתו עזב ואלדמאן ב-1922 את מקומו בגרמניה ועלה ארצה. ביצע עבודות קשות ואחראיות בהתקנת תחנת-הכח והרכבתה ולאחר זמן ביצוע עבודות כאלה בממדים נרחבים ביותר בהקמת תחנת-הכח בנהרים, ומאז עובד הוא בקביעות כחשמלאי ראשי בתחנת-הכח בתל-אביב. אימן וחינך הרבה פועלים לעבודה בחשמלאות כבדה בתחנה וזמן-מה היה מורה לחשמלאות בבית-הספר המקצועי מכס פיין בתל-אביב ובהוראתו ובהדרכתו הוסיף הרבה עובדי חשמל מומחים לשרות המפעל והצבור בארץ.
+
+ בנותיו:<persName> בתיה </persName> אשת<persName> צבי רוך </persName> (חשמלאי בשרות חברת החשמל), <persName>שרה </persName> אשת <persName>לסלי בלום</persName> (סוחר ברודסיה הדרומית).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2501 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2501</bibl><bibl>Volume: #6 ,Page: 2502 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2502</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

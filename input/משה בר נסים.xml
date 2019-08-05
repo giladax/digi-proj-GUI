@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2356 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2356</bibl><bibl>Volume: #5 ,Page: 2357 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2357</bibl>
+<bibl>Volume: #5 ,Page: 2358 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2358</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה בר-נסים</persName>
+
+</head>
+         <div><p> נולד בי' אדר תרמ"ב (1882) בירושלים לאביו <persName>יעקב</persName> <persName>חי נסים </persName> (המכונה <persName>בכור</persName> <persName> נסים,</persName> בן הרב <persName>שמואל נסים,</persName> ראב"ד בעדה הספרדית) ולאמו <persName>מזל</persName> .
+
+ למד בחדרים ובישיבות ורבותיו, ביניהם הראב"ד ר' <persName>בן ציון קואינקה</persName> , ציינו לשבח את בקיאותו וחריפותו. רצה ללמוד בבית-ספר חילוני ולהשתלם בו בלימודים כלליים, ובגלל התנגדות הוריו לכך ויתר על העזרה הנוחה של מורים ובמאמץ עצמי למד והגיע לידיעה ניכרת בשפות אירופיות ובערבית.
+
+ נשא לאשה את<persName> תמר</persName> בת<persName> חנוך טרבולוס</persName> . מתוך יחס רציני לחובתו של בעל-משפחה התחיל לעסוק במסחר.
+
+ אך לא הצליח בו ופנה לעבודה רוחנית שהתמחה בה מילדותו ואילך. נכנס לעבוד כעוזרו ומזכירו של<persName> אליעזר</persName> <persName>בן-יהודה</persName> בהכנת המלון העברי ותוך עבודה הוסיף להשתלם בכל המקצועות הדרושים למפעל ספרותי-מדעי כזה : המשנה, התלמוד והמדרשים והמפרשים והפוסקים הראשונים והאחרונים, הספרות הפילוסופית והפיוטית מימי הבינים ומהעת החדשה והספרות החדישה, הצטיין בבקיאות ובזכרון להפליא בכל פרט ופרט, וכל עבודה שעשה יצאה מושלמת מתחת ידו. עבד עם בן-יהודה בהכנת חמשת הכרכים, שהחמישי נסתיים עם מות בן-יהודה בערך "נפש", המשיך בהכנת שני כרכים נוספים, תוך סבל והסתפקות במועט בנכסים חמריים, ובסיימו את הערב "סבל", נפטר בירושלים, ט"ז טבת תרפ"ז (21.12.1926).
+
+ צאצאיו :<persName> ויקטוריה, אהוד, פנינה</persName> אשת<persName> יוסף אבולעפיה</persName> , <persName>חנוך, אבשלום, שמואל, שושנה</persName> אשת <persName>אלברט שמחון.</persName> <persName>אליעזר, עמנואל</persName> .
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2356 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2356</bibl><bibl>Volume: #5 ,Page: 2357 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2357</bibl>
+<bibl>Volume: #5 ,Page: 2358 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2358</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

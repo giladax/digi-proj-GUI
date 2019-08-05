@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1860 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1860</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בן ציון בן-אהרן</persName>
+
+</head>
+         <div><p> נולד בוואזנעסענסק (רוסיה), ה' באייר תרמ"ז (1887), לאביו <persName>אהרן</persName> ולאמו <persName>רחל</persName> בת<persName> זאב.</persName>
+
+ חינוכו הראשון הוא מסורתי. למד בחדרים ובישיבות עד שקבל סמיכות לרבנות. אך אין הוא מסתפק בזה, ונגש לבחינת הבגרות בגימנסיה אנז'ייב (רוסיה).
+
+ מנעוריו פעיל בעבודת לאומית. בשנות 19081905 לאחר פרוץ הפרעות עמד בראש ההגנה העצמית בבוהופול והיה אחראי לכל פלך פודול ולחלק מפלך חרסון.
+
+ עלה ארצה בתרס"ח. היה מנהל סניף "בצלאל" בבן-שמן בשנים תרע"א-תרע"ד. מתרע"ד חבר בועד תל-אביב.
+
+ בתרס"ח נשא לאשה את <persName>שושנה</persName> בת <persName>בנציון.</persName>
+
+ למד משפטים בבית הספר למשפטים (מהתלמידים הראשונים) אשר בירושלים והוסמך בשנת 1926 כעורךדין. מאז עובד במקצועו בירושלים.
+
+ ממייסדי סניף ברית הצה"ר בירושלים ואת ההסתדרות האזרחית "התושב" (1930).
+
+ כתב מאמרים רבים על נושאים משפטיים בעתונות הכללית ובירחון "המשפט". בשנים תר"ץ-תרצ"ד הוציא את השבועון "במערכה".
+
+ פרסם שני ספרים : "יסוד וסמכות בתי הדין הדתיים היהודיים (תרפ"ז) ובימי מלחמת המחתרת העברית
+
+ בשלטון הבריטי הוא מוציא את הספר "המחתרת העברית בתקופת התלמוד" עפ"י <persName>וולמן</persName> (תש"ח).
+
+ וכשם שהוא נאה דורש, הוא גם נאה מקיים. למרות גילו המבוגר הוא משתתף בפועל בהגנת ירושלים <persName>כצלף</persName> , כמ"מ ובמחלקת המודיעין של צ.ה.ל. הצטיין כצלף מומחה ממדרגה ראשונה ופגע ברבים מצלפי האויב שלא זכו להמשיך בעבודתם...
+
+ בנו: <persName>אהוד</persName> (פקיד במשרד הבטחון).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1860 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1860</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3262 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3262</bibl><bibl>Volume: #9 ,Page: 3263 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3263</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יחזקאל גלילי (הנרי, היינריך) (סטולינסקי)</persName>
+
+</head>
+         <div><p> נולד בי"ד סיון תרנ"ב (1892 יוני) בלודז שבפולין. לאביו<persName> אברהם יצחק</persName> ולאמו <persName>דבורה</persName> בת <persName>יוסף פרנבאך</persName> (לפי מגילת יוחסין שהיה בידי ראש המשפחה ונעלם בידי הנאצים היתה המשפחה מצאצאי דון <persName>יצחק אברבנאל).</persName>
+
+ ב-1910 השתתף ביסוד אגודת הספורט היהודית. הראשונה בלודז והיה יושב-ראשה במשך שנתים, כן היה חבר ועד חובבי שפת עבר וחבר "הזמיר" בלודז.
+
+ למד באוניברסיטת וינה והוסמך לד"ר למשפטים. וכלכלה, ובשנות לימודיו שם היה חבר "הכח" וינה ואח"כ חבר הועד שלו ופעיל במחלקות להתעמלות ולספורט-מים, חבר ועד אגודת הסטודנטים היהודים "יודיאה" וחבר ועד אגודת הסטודנטים היהודים למשפטים, ציר לקונגרס הציוני ה-11 (וינה 1913).
+
+ ב-1912 בא לארץ ליסד יחד עם <persName>עמנואל זכס</persName> חברה לתיירות יהודית. אחרי מלחמת העולם הראשונה היה יוזם ומנהל בחברת "מעבירים" בוינה, מנהל בחברת שנקר ושות' בוינה להובלה בין-ארצית, מנהל בחברת הביטוח "אדריאטיקה" בוינה ובעל בתי-מלון בקארלסבאד שבצ'כוסלובקיה. כתב מאמרים בעניני כלכלה ב"וינר מורגנצייטונג" וב"ברלינר טאגבלאט".
+
+
+ ב-1919 עלה לארץ וניהל את החברה "אכספרס ארץישראלי בע"מ" (כעת "פלתורס") ביפו.
+
+ ב-1920 יזם את הוצאת ספר המדריך לתיירים בארץ מאת <persName>ישעיהו פרס.</persName>
+
+ מ-1922 היה מנהל ראשי של החברה וסוכן ראשי של חברת הביטוח "אדריאטיקה" לארץ-ישראל ועבר הירדן ואחר-כך לכל המזרח הקרוב.
+
+ בעת מהומות 1929 שימש שוטר מתנדב, מורשה לשאת נשק, והשתתף בהצלת היהודים מחברון אחרי הטבח.
+
+ ב-1934 הצטרף למכבי תל-אביב והיה עד 1939 חבר הועד מטעם מחלקת הקשישים. השתתף בכל המכביות שנערכו מ-1934 ואילך, וכן היה פעיל בהגנה. היה חבר ועד התאחדות בעלי בתים וחבר הועדה הכלכלית של הציונים הכלליים.
+
+ בשנים האחרונות פעיל בתור יועץ כלכלי ומנהל חברות בענפי ביטוח, פיננסים ורכוש מקרקעין.
+
+ בתו: <persName>שרה</persName> אשת <persName>צבי אורן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3262 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3262</bibl><bibl>Volume: #9 ,Page: 3263 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3263</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

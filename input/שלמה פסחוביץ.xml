@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2186 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2186</bibl><bibl>Volume: #5 ,Page: 2187 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2187</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה פסחוביץ</persName>
+
+</head>
+         <div><p> נולד ביפו, ט"ו ניסן תרס"ה (20.4.1905) לאביו<persName> יהושע</persName> (ראה כרך א', עמוד 338) ולאמו<persName> יוכבד</persName> לבית <persName>פידלמן.</persName>
+
+ קיבל חינוך מסורתי בתלמוד תורה ובבי"ס תחכמוני.
+
+ בפרץ מלחמת העולם הראשונה (1914) גורש עם משפחתו לאלכסנדריה - מצרים (בתור נתינים רו
+
+
+ סיים) ושם המשיך ללמוד בביה"ס של הקהילה. בגיל 14 החל לעבוד במשרדי בי"מ ציקורל בקהיר והמשיך את לימודיו בבית ספר למסחר בקהיר וגמר אותו ב-1922.
+
+ ב-1928 נסע לצרפת ונתקבל בבי"ס גבוה להנדסה. לרגל מחלה נאלץ להפסיק את הלימודים וחזר למצרים.
+
+ היה שם פעיל בארגוני הנוער (הצופים והמכבי) ובתנועת "העברי הצעיר".
+
+ ב-1934 חזר לארץ ועבד כמנהל חשבונות ראשי בבנק קופת עם בע"מ בתל-אביב.
+
+ באותה שנה נשא לאשה את <persName>לואיזה</persName> בת<persName> מאיר גריגו.</persName> השתלם בהנהלת חשבונות ועבר את הבחינות של האגודה הלונדונית A.I.A. לרואה חשבון ובשנת 1947 עבר את הבחינות של האגודה הלונדונית A.C.C.A. הוסמך כרואה חשבון ומבקר (1952).
+
+ מזכיר "התאחדות בני הישוב", אח ב"לשכת יצחק ילין" (בני-ברית) בתל-אביב.
+
+ בנותיו:<persName> מאירה, ניצה, אודיה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2186 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2186</bibl><bibl>Volume: #5 ,Page: 2187 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2187</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

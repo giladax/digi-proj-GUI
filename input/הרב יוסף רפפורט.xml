@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4225 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4225</bibl><bibl>Volume: #13 ,Page: 4226 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4226</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יוסף רפפורט</persName>
+
+</head>
+         <div><p> נולד בעיר טלנשטי (בסרביה) בשנת תרמ"ד (14.2.1984).
+
+ לאביו הרב<persName> ישראל רפפורט</persName> (הרבי מצ'ורטקוב) ולאמו <persName>שיינדל </persName> בת הרב <persName>צבי רפפורט </persName> (משושלת היוחסין של הבעש''ט והאדמו"ר ר'<persName> ישראל</persName> מריז'ין זצ"ל).
+
+ קיבל חינוך מסורתי בחדר ובישיבות אצל גדולי התורה והוסמך לרב בישראל. מיאן לקבל משרת רב.
+
+ נשא לאשה את<persName> שיינדל </persName> בת הרב<persName> צבי ורבקה רפפורט</persName> (בתו של בת אחיו).
+
+ עבר לוינה (אוסטריה). ניהל עסקים גדולים. היה מנהל חברת הביטוח "פניקס" ומנהל הבנק המסחרי היהודי.
+
+ עבר לבלגיה וניהל חברות שונות.
+
+
+ היה האמרגן (אימפרסיו) הקבוע של החזן <persName>יוסלה</persName> <persName>רוזנבלט </persName> באירופה.
+
+ במלחמת העולם הראשונה השניה השתתף בליאון
+
+ (צרפת) במחתרת שנלחמה בנאצים.
+
+ הציל הרבה יהודים מן השואה הנאצית ועזר להם לעלות לארץ.
+
+ בשנת 1950 עלה עם משפחתו לארץ והתישב בנתניה.
+
+ בנתניה נבחר ליו"ר פועלי אגודת ישראל.
+
+ השתתף במוסדות צדקה וחסד והגיש עזרה לנצרכים.
+
+ נפטר בנתניה, כ' סיון תשי"ט (26.6.1959).
+
+ צאצאיו: <persName>גולדה </persName> אלמנת<persName> אריה דכיגנר</persName> ז"ל (בארה"ב), <persName>יוכבד</persName> אשת<persName> יצחק שיף</persName> (בלגיה),<persName> זלטה, רות</persName> (שתיהן ניספו ע"י הנאצים באירופה),<persName> מאיר</persName> (פקיד בכיר בצירות ארה"ב, תל-אביב),<persName> אברהם יעקב</persName> (אדם וילי) (ראה בכרך י"ב, עמוד 4010),<persName> שלום </persName> הי"ד (נספה ע"י הנאצים).
+
+ בנו<persName> אדם-וילי </persName> הקים על שמו ולזכרו ב"בית זאב" בנתניה, את בית הכנסת המפואר ''פורת יוסף".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4225 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4225</bibl><bibl>Volume: #13 ,Page: 4226 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4226</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

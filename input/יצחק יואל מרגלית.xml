@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1397 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1397</bibl><bibl>Volume: #3 ,Page: 1398 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1398</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק יואל מרגלית</persName>
+
+</head>
+         <div><p> נולד באומאן, אוקראינה, א' אב תרמ"ה (1885) לאביו <persName>ישראל יוסף</persName> ולאמו <persName>חוה</persName> בת<persName> אברהם</persName> (מצאצאי רבי <persName>פנחס מקוריץ</persName> , מאבות החסידות, והאדמו"רים
+
+ המדפיסים לבית <persName>שפירא</persName> מסלאוויטא). למד בחדרים ובישיבות ונתפרסם כעילוי ורכש לו גם ידיעות כלליות.
+
+ עלה ארצה בתרס"ד והתישב בירושלים.
+
+ נשא לאשה את <persName>מרים</persName> בת <persName>משה זילברמן</persName> מצפת (שנקרא ר' משה מחלק" על שום היותו ממונה מטעם כולל ווהלין לחלוקת כספי התמיכה והתמסר ביחוד להגיש עזרה ליתומים ולאלמנות ולמוסדותתורה וחסד).
+
+ נתמנה למנהל בכולל ווהלין בירושלים ומטעם ועד הסיוע כמנהל במושב זקנים וזקנות המאוחד. הרבה לעזור לתלמידי חכמים, קירב אליו את בני המושבות שלמדו בבתי-המדרש למורים בירושלים והתקרב לתנועת הפועלים העברים. היה מעורב בחיים החברתיים בירושלים ורכש לו ידידים גם בין התושבים הלא-יהודים.
+
+ בתרס"ח היה בין המשפיעים בעצה ובהדרכה על הגביר ר' <persName>דב הכהן הורנשטיין</persName> מאוקראינה שבכסף שהקדיש למפעל מועיל ובר-קיימא בירושלים יקים בתים לשיכון לומדי תורה עניים, כך נוסדה שכונת "בתי הורנשטיין ליד זכרון משה.
+
+ נפטר בירושלים, כ"ג אדר ב' תש"ח (3.4.48).
+
+ צאצאיו :<persName> רבקה</persName> אשת <persName>אליעזר קארפ </persName> (באמריקה), <persName>דינה</persName> אשת<persName> ברוך מרכוס </persName> (מנהל ברקליס בנק בתלאביב; ראה כרך א' עמוד 522), <persName>בלה </persName> אשת <persName>יונה</persName> <persName>גרוניס, אהרן, חיה</persName> אשת <persName>קארל רייך, צפורה</persName> אשת <persName>בנימין בינשטוק, חוה</persName> (מורה בבי"ס של המזרחי).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1397 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1397</bibl><bibl>Volume: #3 ,Page: 1398 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1398</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

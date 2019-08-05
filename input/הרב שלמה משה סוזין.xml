@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3832 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3832</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שלמה משה סוזין</persName>
+
+</head>
+         <div><p> רבה הראשי של ירושלים.
+
+ על-פי פנקסו שנשאר בכתב-יד בספריה הלאומית והאוניברסיטאית בירושלים יוצא שהיה בצעירותו בחברון. אפשר גם שנולד בה. הרבה שנים לפני שעלה על כסא הרבנות, עוד בזמנו של ר' <persName>יום טוב אלגאזי,</persName> שימש בדיינות. בשנת תקס"ח (1808) יצא בשליחות "כולל" ירושלים לערי צפון-אפריקה. באותו זמן יסד בכספי נדיב בעילום-השם ישיבה בשם "בני-משה", שנקראה על שמו.
+
+ היה ידידו הנאמן של ר' <persName>מנחם מנדל</persName> מתלמידי הגר"א. על פעולותיו הרבות למען יישוב הארץ היו מספרים בני העיר אפילו בימיו של <persName>פרומקין,</persName> אולם אף הוא לא רשם מה היו פעולותיו. בפנקס הנ"ל אנו מוצאים חשבונות שונים על חלוקת כספי הקדשות ושמות המקבלים. משם נודע על פעולותיו בזמן התנפלות הפלחים על היישוב הירושלמי.
+
+ בשנת תקצ"ו (1836) עמד בקשרים עם פקיד א"י באמשטרדם, ר'<persName> צבי הירש לעהרין,</persName> ובהשפעתו נשלחו ע''י סכומים הגונים להקל מעל הנפגעים.
+
+ כתב הרבה תשובות. חלק קטן מהן נדפסו בספריהם של חכמי הדור ("חקרי לב"; "חוקי חיים" וכו') ורובן נשארו בכת"י בספרייתו של הרב <persName>יצחק באדהב</persName> (ראה כרך ב', עמוד 622).
+
+ פרומקין כותב שהיה לו חיבור גדול בכתובים ואינו מציין את תוכנו. בראש הספר תקנות ירושלים נדפסה תשובתו, התשובה על תקנת העזבונות ושם הוא מרבה לספר בשבח ירושלים וחכמיה. הסכים על ספרים רבים... כבר בשנת תקמ"ח (1788) אנו מוצאים הסכמה ממנו על ספר "עבודת התמיד".
+
+ בשנת תקפ"ד (1824) נבחר ל"ראשון לציון" במקומו של הרב <persName>יום טוב דאנון</persName> . ישב על כסא הרבנות על יום מותו בכ"ח כסלו תקצ"ו (1836).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3832 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3832</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

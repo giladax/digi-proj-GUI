@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4198 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4198</bibl><bibl>Volume: #13 ,Page: 4199 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4199</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר שמואל (זיגפריד) זולקיס</persName>
+
+</head>
+         <div><p> נולד ביום י"ב תשרי תרנ"ו (30.9.1895) בברלין (גרמניה).
+
+ לאביו <persName>רודולף זולקיס </persName> ולאמו<persName> רוזה </persName> לבית<persName> וולף.</persName>
+
+ למד מגיל 14 בביה"ס העירוני לאמנות בברלין, אח"כ באוניברסיטה ע"ש <persName>פרידריך ווילהלם </persName> רפואה ופילוסופיה, פדגוגיה ותולדות האמנות, בין היתר אצל הפרופסורים<persName> פרידלנדר, וולפלין, וולף וו. פון בודה</persName> <persName>וגולדשמידט</persName> . את לימודיו התיאורטיים באומנות השלים בבית-הספר הגבוה לאומנות יוצרת Hochschule fur( .)bildende Kiinste בשנת 1923 נשא לאשה את <persName>הדסה </persName> לבית <persName>בירנבאום.</persName>
+
+ עלו לארץ בשנת 1933 והשתקעו בתל-אביב, בפותחו בשדרות רוטשילד באוקטובר 1933 פרקטיקה לרפואת שיניים.
+
+
+ לבו משך אותו לאומנות ובשותפות עם הציירת וינאית<persName> אלישבע הרמן </persName> יסד בשנת 1944 אולפן לציון בו לימד ציור, תיאוריה ותולדות האמנות. מדי עונה
+
+ בעונה הרצה באולפנו שורת הרצאות על היצירה הארמנותית בעבר ובהווה ועל בעיות תרבות בכלל.
+
+ את עבודתו כרופא הגביל, וויתר על הפרקטיקה בביתו והסתפק בעבודות חירורגיות בבתי החולים, וכעבור זמן מה הפסיק אף זאת, כדי להתמסר אך ורק לציור.
+
+ ביקר פעמים אחדות בחו"ל, ארגן בארץ תערוכות תמונותיו בשנים 1949,1952 ,1958 ו-1960. בשנת 1953 בשבדיה וב-1956 בוינה והשתתף בתערוכות משותפות במוזיאון תל-אביב (1951),בגלריה לאומנות בת זמננו מחו"ל בניו-יורק (1954 ואח"כ שוב בשנת 1955).
+
+ מהגישה הנטורליסטית-האקספרסיוניסטית עבר במרוצת השנים לסגנון קוביסטי, אך לא עזב אפילו בעבור נסיון קצר את ההבעה המובנת לכל משקיף, ז"א הוא לא הרגיש שום נטיה לאבסטרקציה המודרניסטית. רבות מתמונותיו מתארות את נוף הארץ ורחובות עריה, דמויות מן הישוב ובני העליות השונות.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4198 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4198</bibl><bibl>Volume: #13 ,Page: 4199 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4199</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

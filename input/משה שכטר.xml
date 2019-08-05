@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 453 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/453</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה שכטר</persName>
+
+</head>
+         <div><p> נולד בחרסון, דרום-רוסיה, בשנת תרל"ג (12.8.1873) לאביו <persName>יעקב</persName> ולאמו<persName> שרה</persName> . קיבל חינוך יהודי מסורתי ולמד גם בבית-ספר למסחר. הצטרף לתנועת חיבתציון ולציונות.
+
+ בשנת תרנ"ה נשא לאשה את<persName> גולדה</persName> בת אהרן וחוה לובושיץ. התישב באודיסה ועסק בסחר-תבואות.
+
+ בתרס"ו חיסל את עסקו ורכושו, עלה ארצה ביום י"ג ניסן תרס"ו עם אשתו ובנותיו הקטנות, התישב בגדרה. שם קנה את משק טרטקובסקי, הכניס בו שכלולים, העסיק בו פועלים עברים והדריך בעבודה החקלאית שהתמצא בה במהרה מתוך חיבה וכשרון.
+
+ בגלל סיבות משפחתיות הוכרח לעזוב את גדרה לאחר ארבע שנים, מכר את משקו לבומברג ועבר לתל-אביב, שהיתה אז בראשית בנינה. הצטרף לאגודת "אחוזת בית" ובנה בתל-אביב את הבית הראשון בן 2 קומות (ברחוב יהודה הלוי 15) והשתתף בפעילות בעניני הצבור ושכלול החיים בעיר החדשה. כאן עסק מאז בקבלנות-בנין והיה מראשוני הקבלנים בעיר. בנה בתים רבים בשכונת נוה צדק ובתל-אביב, העסיק פועלים עברים והדריכם והכניסם לכל ענפי עבודת הבנין. אחד הבנינים החשובים שהקים הוא בית-המדרש למורות ולגננות.
+
+ בתקופת מלחמת-העולם הראשונה היה גם הוא ומשפחתו בין המגורשים מהעיר, אך במקום לנדוד צפונה עלו לירושלים, וכך הצליחו להיות בין הראשונים שחזרו לתל-אביב תיכף לאחר כיבוש החלק הדרומי של הארץ.
+
+ השתתף ביסוד "הלואה וחסכון" ובנק אשראי.
+
+ נפטר בתל-אביב ונקבר בבית-העלמין הישן, ט"ו טבת תרצ"ח.
+
+ צאצאיו:<persName> מרים </persName> אשת הבקטריולוג התל-אביבי <persName>ד"ר</persName> <persName>אריה גולדברג; צלה</persName> (מנהלת גן-ילדים פרטי בתלאביב) ; <persName>יונה</persName> אשת<persName> ד"ר אברהם צליוק</persName> מחיפה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 453 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/453</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

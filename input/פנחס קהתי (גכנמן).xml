@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5419 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5419</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פנחס קהתי (גכנמן)</persName>
+
+</head>
+         <div><p> נולד בז' אלול תר"ע (14.9.1910) בכפר סמוך לרובנה, ווהלין.
+
+ לאביו<persName> קהת גרטמן</persName> ולאמו <persName>מלכה</persName> בת <persName>ישראל יצחק</persName> <persName>ווינוחיץ.</persName>
+
+ בתרצ"ב סיים חוק לימודיו בבית-מדרש לרבנים "תחכמוני" בוורשה, וקיבל גם היתר הוראה.
+
+ בתרצ"ב-תרצ"ו היה חבר ההנהלה הארצית של "השומר הדתי" בפולין, הדריך בסמינריונים למדריכים.
+
+ כן עבד כשנתיים במחלקת ההכשרה והעליה של מרכז "החלוץ המזרחי" בפולין.
+
+ עלה לארץ בתרצ"ו (1936).
+
+ למד שנה אחת באוניברסיטה בירושלים, במקצועות מתמטיקה, פיסיקה, פילוסופיה דתית וקבלה.
+
+ נשא לאשה את<persName> רחל</persName> בת <persName>ישראל דן.</persName>
+
+ היה פעיל בתנועת הנוער הדתי "בני עקיבא", והוציא חוברות להדרכה.
+
+ בתשי"ג נבחר לועד הפועל של "הפועל המזרחי", ועמד בראש המחלקה לנוער.
+
+ במסגרת תפקידו זה התחיל בתשט"ז בהוצאת הקונטרסים ללימוד המשנה היומית וההלכה היומית.
+
+ בשנים תשי"ח-תשכ"ד עבד בהכנת ה"קונטרס" של המשנה היומית ב"היכל שלמה" בירושלים, עד סיום המחזור. עם סיום המפעל, חזר לעבודתו בבנק הפועל המזרחי בתל-אביב, כמבקר פנימי של הסניפים.
+
+ פירסם מאמרים בבטאונים שונים וכן בחוברות של המדור הדתי במחלקה לנוער והחלוץ של הסוכנות היהודית בירושלים.
+
+ זכה ב"פרס הרב קוק" של עירית תל-אביב-יפו בשנת תשכ"ז (1967) על פירושו לכל ששה סדרי משנה, שיצא לאור בהוצאת "היכל שלמה" בירושלים.
+
+ בנותיו;<persName> ליביה</persName> אשת<persName> הרב יצחק אורי כהן</persName> (בנו של מהנדס עירית בני ברק, אלכסנדר כהן. ילדיה: <persName>ירוחם דן; יועזר; ברוריה,; תמר</persName> אשת <persName>יצחק מאיר</persName> <persName>רוזנברק </persName> (בנה: <persName>קהת).</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5419 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5419</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

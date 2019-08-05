@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2470</bibl><bibl>Volume: #6 ,Page: 2471 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2471</bibl>
+<bibl>Volume: #6 ,Page: 2472 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2472</bibl>
+<bibl>Volume: #6 ,Page: 2473 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2473</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן (מורחי) לוי</persName>
+
+</head>
+         <div><p> נולד בצנעה (תימן) בשנת תרנ''ח (אוגוסט 1898). לאביו <persName>יוסף</persName> ולאמו <persName>רומיה </persName> בת <persName>יעיש קנדיל.</persName>
+
+ קבל חנוך מסורתי בתימן, ובבית ספר איטלקי במצרים.
+
+ בשנת 1911 עזב את תימן והתישב במצרים ועבד שם בתור מסגר עד שנת 1922.
+
+ ב-1914 התגייס באלכסנדריה לגדוד העברי של גליפולי ושירת בגדוד במשך שנתים.
+
+ בשנת 1922 נסע בשליחות להעברת היתומים מתימן לא"י.
+
+ מראשי התאחדות התימנים בא"י משנת 1922. עבד בארץ בתור מסגר.
+
+ הקים בית בשכונת מונטיפיורי בתל-אביב.
+
+ בשנת 1923 נשא לאשה את<persName> חנה</persName> בת <persName>זכריה הלל</persName> (קובאטלי) ממחנה יהודה שע"י פתח-תקוה.
+
+ בסוף 1926 נסע לארצות הברית ופתח שם ביתמלאכה לצורפי זהב. בין לקוחותיו - מלכי ערב.
+
+
+ רכש קרקעות בהרצליה ע"י קהלת ציון האמריקנית. פעיל ומראשי העדה התימנית בארצות הברית. צאצאיו :<persName> אלכסנדר, לאה, שושנה, נעמי, עזריאל,</persName> <persName>נתן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2470</bibl><bibl>Volume: #6 ,Page: 2471 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2471</bibl>
+<bibl>Volume: #6 ,Page: 2472 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2472</bibl>
+<bibl>Volume: #6 ,Page: 2473 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2473</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

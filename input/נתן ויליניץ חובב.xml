@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3301 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3301</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נתן ויליניץ-חובב</persName>
+
+</head>
+         <div><p> נולד בשנת תרנ"ז (30.1.1897) בז'יטומיר שבפלך ווהלין, אוקריאנה.
+
+ לאביו <persName>שלמה</persName> (סופר ומורה, למד בישיבת וולוז'ין עם<persName> ח. נ. ביאליק</persName> (ראה כרך שלישי, עמוד 1257), ולאמו <persName>פני </persName> בת<persName> מאיר מרגלית.</persName>
+
+ למד בבית-ספר עברי של <persName>ל. נ. ברודסקי </persName> בקיוב ואח"כ גמר שם בית-ספר למסחר.
+
+ אחרי גמר משפט-בייליס עזבה כל המשפחה ב-1913 את ממלכת הצאר הרוסי ועלתה לארץ.
+
+ עבד כפועל חקלאי בפרדסו של<persName> אשר לוין</persName> בראשון לציון וביקב. אחרי כניסת הצבא הבריטי לדרום הארץ בסתיו 1917 נתקבל לעבודת פקידות בממשל הצבאי, והיה אחד מעשרה היהודים הראשונים שנכנסו לשרת במשטרה לפי דרישת ראשי הישוב. שימש בתפקיד קציןהתשלומים למשטרה בכל הארץ, אך מששמע ביטויים פוגעים בכבוד השוטרים היהודים מפי הקצין הבריטי הממונה עליו, התפטר ונכנס לעבוד כמנהל חשבונות בבנק אפ"ק והמשיך בכך 30 שנה.
+
+ ב-1919 נשא לאשה את<persName> חיה</persName> בת<persName> נחמיה דננברג.</persName>
+
+ מאז פרישתו מהעבודה בבנק הנו מנהל המשרד של חתנו <persName>אהרן ולד,</persName> מהפירמה א. ולד ושות', מסחר ונאמנות, תל-אביב.
+
+ פעיל זה שנים רבות לטובת מושב זקנים שברחוב אלנבי והנו חבר הנהלתו וגזברו.
+
+ בנותיו:<persName> שרה</persName> אשת <persName>אהרן ולד, אביבה </persName> אשת <persName>אפרים</persName> <persName>רון </persName> (מהנדס).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3301 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3301</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

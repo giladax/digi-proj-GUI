@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3096 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3096</bibl><bibl>Volume: #8 ,Page: 3097 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3097</bibl>
+<bibl>Volume: #8 ,Page: 3098 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3098</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב (בר) שינברג</persName>
+
+</head>
+         <div><p> נולד ביאסי, רומניה, בשנת תר"ג (1843).
+
+ לאביו<persName> יעקב יוסף</persName> , שהיה קבלן להקמת בנינים בשביל השלטונות, קיבל חינוך מסורתי בחדרים ובבית-המדרש.
+
+ בהיותו בן 14 השיאו לו לאשה את <persName>הניה</persName> בת הרב <persName>אפוטייקר</persName> , מהעיר פיאטרה שברומניה.
+
+ לאחר שנים אחדות של לימוד תורה החל לעסוק בקבלנות, וזמן-מה היה בריב עם משפחת חותנו הרב, משום שלא התנהג באדיקות כרצון חותנו, וגם את אשתו הפרידו ממנו, אבל לאחר זמן השלימו.
+
+ בשנת 1877 נספח לצבא הרומני בעת השתתפו במלחמת רוסיה-טורקיה כקבלן שסיפק לו מצרכים שונים בחזית בולגריה, וגם הוא נפצע בחזית.
+
+ בשנת תרמ"ב (1882) הושפע מתעמולתו הציונית של סיר <persName>לורנס אוליפנט</persName> בעת ביקורו ברומניה, לקח אתו את בנו <persName>משה</persName> , שהיה אז (בן 22) נסע אתו מצרימה והשאירו שם והוא עצמו בא ארצה לראות במה יוכל לבסס כאן את קיומו.
+
+ למראה המושבה הגרמנית שרונה, שראה אז בפריחתה, החליט לבסס לו משק חקלאי כדוגמת משקי הגרמנים. קנה מהערבים הנוצרים דמיטרי סליבא וסטיפן טורק מיפו שטח בן 33 דונם ליד כפר סומל (בקרבת מקום גן החיות כיום), ועליו מטעי גפנים ועצי רמונים, תפוזים וכו' מוזנחים, וכל אלה יחד עם בריכת מים נמכרו לו ב-300 לירות זהב. חזר לרומניה והביא אתו את אשתו והוריו לאלכסנדריה השאיר שם את הנשים והוא ואביו ובנו משה באו ליפו ובעזרת הגרמני ויינמן משרונה החלו לנקות את האדמה מהקוצים ולחרוש ולזרוע חטים ושעורים ועדשים ושאר ירקות. זמן מועט אחרי בואם אל המשק חלה האב בגלל אכילת ענבי בוסר ושתית מי הירקון ונפטר ביפו, ט' אב תרמ"ג, נקבר בבית-העלמין בשכונת עג'מי ולאחר כמה שנים העביר נכדו משה את עצמותיו לבית-העלמין הישן בתל-אביב. הנשארים בחיים חלו בקדחת בגלל קרבת בצות הירקון, עבדו וסבלו. הכסף שהביא אתו מרומניה אזל ובנו משה החל לעבוד ביפו כצורף זהב (את המקצוע למד עוד ברומניה) ובשכרו עזר להקל על המשפחה את עול המצוקה, וכשלא הספיקה הכנסתו מהעבודה ביפו למשפחה הנפגעת מהקדחת ומכשלונות משקיים ודב הוכרח למשכן את המשק כדי לקבל הלואה, נסע בנו משה
+
+
+ למצרים והשתכר שם יותר בעבודתו כצורף זהב, שלח כסף לתמיכה במשפחה ונתרפא שם מהקרחת, ואביו המשיך לעבוד במשק.
+
+ בקיץ תרמ"ד לקה בשעת עבודתו במכת-שמש חזקה, חלה ונפל למשכב, וביום י''ט חשון תרמ"ה (7.11.1884) נפטר ביפו ונקבר בבית-העלמין בשכונת עג'מי, ולאחר כמה שנים הועברו עצמותיו לבית-העלמין הישן של תל-אביב.
+
+ בנו:<persName> משה שינברג </persName> (ראה כרך א', עמוד 421).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3096 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3096</bibl><bibl>Volume: #8 ,Page: 3097 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3097</bibl>
+<bibl>Volume: #8 ,Page: 3098 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3098</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

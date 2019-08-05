@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1627 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1627</bibl><bibl>Volume: #4 ,Page: 1628 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1628</bibl>
+<bibl>Volume: #4 ,Page: 1629 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1629</bibl>
+<bibl>Volume: #4 ,Page: 1630 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1630</bibl>
+<bibl>Volume: #4 ,Page: 1631 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1631</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל ליב פלסר</persName>
+
+</head>
+         <div><p> נולד במז'יבוש (עיר הבעש"ט), פלך פודוליה, אוקראינה, י"ז תשרי תרמ"ח (3.9.1888) לאביו ר' <persName>שניאור זלמן </persName> (ראה כרך א', עמוד 280) ולאמו<persName> רבקה</persName> בת ר' <persName>פסח גרינפלד</persName> ממז'יבוש.
+
+ למד בחדרים ובישיבת נובהרדוק ואח"כ החל לעזור לאביו במסחרו (הספקת תבואות בסיטונות לממשלת רוסיה).
+
+ נטה לתנועת חיבת ציון מנעוריו ואחרי פרעות 1905 עלה ארצה בתרס"ו ועבד כפועל בפרדסים ובכרמים של<persName> פרץ פסקל</persName> ואחרים בפתח תקוה. עבד גם בהקמת הבתים הראשונים בחות חולדה. סבל וקדח ועבד עד שהמחלה הפילתו מעל רגליו, ובינתים הגיעו ארצה גם הוריו, פנה למסחר וקיבל מהפירמה היפואית הגדולה למסחר עצים <persName>האחים שרתוק את איזמוז'יק</persName> את סניפה בנוה שלום.
+
+ בתרע"א נשא לאשה את<persName> מרים</persName> בת <persName>שמאי גורו</persName> <persName>דנצ'יק</persName> מנוה צדק.
+
+ בראשית מלחמת-העולם, ב-1915, גורש עם משפחתו בתוך יתר נתיני רוסיה למצרים. שם סירב לקבל מהצבא הבריטי עבודות שהיו כרוכות בחילול שבת, אף כי הוא ובני ביתו רעבו ללחם.
+
+ ב-1919 חזר ארצה וחידש ביפו את מסחרו בעצים.
+
+ בתר"פ נתן יד למיסדי "המזרחי הצעיר" ונבחר ליו"ר סניף יפו ותל-אביב ואח"כ ליו"ר לשכת העבודה המשותפת של "הפועל המזרחי" ו"המזרח הצעיר", שקיבלו את הקמת הבנינים של הרבי מגור על הקרקע שרכש ביפו.
+
+ בתרפ"א נבחר לועד העיר ליהודי יפו ות"א ומילא בו תפקידי חבר הועד הפועל וסגן יו"ר. בעת מהומות מאי 1921, כשהיתה סכנה לסוחרים היהודים לעסוק במסחרם ביפו, השתתף פלסר במשלחת מטעם ועד העיר והועד הלאומי אל הנציב העליון סיר <persName>הרברט</persName> <persName>סמואל </persName> לדרוש הגנה ליהודים, שיוכלו להמשיך באורח
+
+ חייהם בלי אימת פרעות והפרעות. הנציב הבטיח כל טוב, אך "האיש במקום", הקולונל <persName>סטירלינג</persName> , מושל המחוז ביפו, שגילה יחס עוין ליהודים ולא הוכח שלא היה בעצה אחת עם מארגני הפרעות בסתר, לא הזדרזו להבטיח את שלום היהודים. אז מסרו הסוחרים לפלסר את מפתחות חנויותיהם והוא נסע ליפו בסכנת נפשות ומסר למושל את המפתחות, אגב הודעה, שהוא מתפטר מחברותו בועד העיר היהודי באשר השלטון אינו נותן הגנה לסוחרים היהודים. המושל סירב לקבל את ההתפטרות והעדיף למלא את חובתו בשמירת הסדר.
+
+ במשך שנות פעולתו כחבר ועד הקהלת פעל רבות בשטחים שונים, וביחוד בעזרה סוציאלית ובחיזוק שרותי השחיטה והכשרות. היה גם חבר המועצה א', ב' וג' של עירית תל-אביב ופעיל בועדותיה; חבר אספת הנבחרים השניה וחבר הועד הלאומי שנים אחדות; ציר מסעם המזרחי לקונגרסים הציוניים י"ג י"ד, ט"ו וי"ז. כשנסע לקונגרס הי"ג לקארלסבאד הוטלה עליו השליחות מטעם ועד הקהלה למסור אישית להרב <persName>שלמה הכהן אהרנסון </persName> (אז רב ליהודי
+
+ רוסיה בברלין) את דבר הבחרו לרב ראשי לקהלת ת"א ויפו ולהביאו עמו ארצה. השתתף ביצירת בנק המזרחי ונסע בשליחותו להפצת מניותיו באירופה, ארה"ב ודרום אפריקה.
+
+ כיו"ר ''המזרחי הצעיר" בת"א טיפל בשעתו, עם חבריו בועד, בביצוע מפעל השיכון של החברים. הוצעה להם אדמה בלב תל-אביב, אך בהכרעתו הוחלט להצטרף לשכונת מונטיפיורי, כדי להרחיב את שטח הישוב העירוני מחוץ לתחומו הצר ולתקוע יתד לישוב יהודי במבוא העיר, מעבר לכפר הגרמני שרונה. נבחר ליו"ר מועצת השכונה ופעל למען בנין בית-הכנסת המרכזי ויתר מוסדות הצבור בה, כן יצג את השכונה כלפי השלטונות בתור מוכתר, ובסוף היה לפעולתו חלק גדול בסיפוח השכונה לעיר תל-אביב.
+
+ במשך שנים רבות עסק ביבוא חמאה מהארצות הבלטיות, היה חבר לשכת המסחר מראשית וחבר אגודת האימפורטים.
+
+
+ אחרי התחסלות תנועת "המזרחי הצעיר" הקדיש את פעילותו הצבורית ל"המזרחי" והיה חבר מרכזו הארצי ויו"ר סניפו בשכונת מונטיפיורי.
+
+ נפטר בתל-אביב, א' טבת תש"י (21.12.49).
+
+ צאצאיו: <persName>פסיה</persName> אשת <persName>יקותיאל מלינוביץ, צפורה</persName> אשת<persName> צבי גולדשטיין, אברהם, פסח</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1627 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1627</bibl><bibl>Volume: #4 ,Page: 1628 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1628</bibl>
+<bibl>Volume: #4 ,Page: 1629 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1629</bibl>
+<bibl>Volume: #4 ,Page: 1630 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1630</bibl>
+<bibl>Volume: #4 ,Page: 1631 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1631</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

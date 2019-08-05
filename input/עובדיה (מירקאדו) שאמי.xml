@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 208 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/208</bibl><bibl>Volume: #1 ,Page: 209 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/209</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עובדיה (מירקאדו) שאמי</persName>
+
+</head>
+         <div><p> נולד באיסטמבול, ז' אדר תר"ד (1844), לאביו <persName>ג'יליבי ישועה,</persName> ממשפחה עתיקה מגולי ספרד, שאחד
+
+ מבניה היה משורר ידוע לפני למעלה מ-400 שנה, ולאמו<persName> וידה (חיה) </persName> אחות הנדיב<persName> רפאל נפתלי הלוי </persName> מירו
+
+
+ שלים. קיבל חינוך תורני בבית הוריו ובן ט"ו עלה ירושלימה (בשנת תרי"ט), ישב בבית דודו הנ"ל, שנקרא בפי העם<persName> ג'יליבי </persName> רפאל, למד בישיבות הספרדים בירושלים והגיע לידיעה רבה בתורה. נשא לאשה את <persName>בונו</persName> (טובה) בת הרב<persName> רפאל יוחנן עדו</persName> שעלה עם כל ביתו בשנת תר"כ מאיסטמבול לירושלים. עסק במסחר והצטיין בידיעת חשבון ובנגינה בכנור והיה מנגן שירי קודש ושירי-עם בטורקית, אך מעת שמת עליו בנו רפאל בן 8 באלול תרמ"ג הפסיק לנגן. בידיעותיו בקריאה בטורקית ובערבית היה עוזר לזקוקים בעניני כתבים ותעודות מהשלטונות, וכן עזר לנצרכים בנתינה ובעצה טובה. עם היותו עסוק במסחר היה קובע עתים לתורה. אחד מבניו היה הד"ר<persName> יהושע</persName> <persName>חיים בן-ציון שאמי</persName> , הראשון לרופאים מבני הספרדים ילידי ירושלים ורופא ממשלתי בארץ במשך 35 שנה. לעת זקנה עבר לתל-אביב.
+
+ רעיתו נפטרה ביום ו' ניסן תרפ"ב ונקברה בבית העלמין הישן בתל-אביב, ומאז לא טעם עוד בשר מחשש שהמבשלות הזרות אינן משגיחות כל הצורך על הכשרות, וגם משתית יין התנזר בחמש השנים האחרונות לחייו.
+
+ נפטר ביום א' דר"ח אדר תרפ"ז ונקבר בביתהעלמין הישן בתל-אביב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 208 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/208</bibl><bibl>Volume: #1 ,Page: 209 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/209</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

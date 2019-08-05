@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3047 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3047</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל שגב (סבאג)</persName>
+
+</head>
+         <div><p> נולד ב' אייר תרפ"ו (16.4.1926) בטבריה.
+
+ לאביו <persName>משה סבאג </persName> ולאמו <persName>רבקה</persName> בת הרב <persName>שמואל בן</persName> <persName>קיקי,</persName> שהיה ראב"ד בקהלת טבריה.
+
+ למד בבית-הספר התיכון מונטיפיורי בתל-אביב וכלכלה בבית-הספר הגבוה למשפט ולכלכלה בתל-אביב.
+
+ שירת בהגנה ואח"כ בצה"ל בדרגת סרן ונפצע במלחמת העצמאות. אח"כ שירת בחיל המודיעין וביחידת הקשר לעתונות. שימש כתב "במחנה" לענינים ערביים.
+
+ חיבר מחקרים ותרגם מסמכים וספרים של האויב על מלחמת העצמאות. מהם יצאו עד עתה בהוצאת "מערכות" ; "בעיני אויב'' (1954), "מאחורי הפרגוד" (1955),
+
+ ב-1952 נשא לאשה את<persName> מרים</persName> בת<persName> זיגפריד רוזנטל.</persName>
+
+ ממונה במערכת "מעריב'' על המדור לעניני ארצות ערב והמיעוטים בישראל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3047 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3047</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4463 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4463</bibl><bibl>Volume: #14 ,Page: 4464 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4464</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה שטרן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ראווה-רוסקה</placeName> (גליציה), ה' אייר תרנ"ט (1899).
+
+ לאביו ר'<persName> אליעזר</persName> (מנכבדי העדה בעירו ומחסידי בלז) ולאמו<persName> גולדה</persName> בת ר'<persName> שלום מילר</persName> (מנכבדי הקהלה).
+
+ קיבל חינוך מסורתי בחדר, בית ספר כללי מיסודו של חברון <persName>הירש</persName> בברלין. גמר בית ספר תיכון. השתלם במפעלי מתכת בברלין, בברסלאו ובמגדבורג במקצוע המסחר במתכת ובמקצועות בשטה זה.
+
+ עבר הכשרה לעליה.
+
+
+ היה מפעילי קרן קימת וקרן היסוד בגרמניה.
+
+ בשנת 1925 נשא לאשה את <persName>צפורה-פייגה</persName> בת ר' <persName>יעקב וויינשטוק למדן</persName> (מחסידי גור, מתלמידיו של בעל "שפת אמת").
+
+ באדר תרפ"ה (מרס 1925) עלה לארץ.
+
+ הנהלת הקהק"ל בירושלים הציעה לו משרה בזכות פעולותיו למען הקהק"ל בחו"ל, אך העדיף להתפרנס מיגיע כפיו.
+
+ עבד כפועל יומי בבניו בית הספר תחכמוני בת"א, אח''כ עבד כפקיד אצל הפירמה מילר ושות' חברה להנדסה בע"מ בחיפה ואח"כ כשותף בעסק זה שהיה מומחה לעסקיה.
+
+ בשנת 1930 נהיה לעצמאי במסחר מכונות ראה להלן.
+
+ כל השנים חבר ההגנה.
+
+ אח בלשכת "חירם" של הבנאים החפשים בת"א ובלשכת בני-ציון. תומך ברבנים ותלמידי חכמים, במוסדות צדקה רבים.
+
+ בעל בית מסחר למכונות לתעשיה. בעל סוכנות שבדית S.K.F..
+
+ צאצאיו:<persName> יוסף </persName> (מפעילי ההגנה, בעיקר בעליה ב' נפצע קשה בירושלים),<persName> רחל </persName> (מפעילות בהגנה ומדריכת "גדנ"ע") אשת <persName>צבי צור</persName> (הרמט"כל לשעבר. ראה כרך י"א, עמוד 3746),<persName> זהבה</persName> אשת ד"ר <persName>הדר</persName> <persName>כספי</persName> (הגיניקולוג בבית החולים "אסף הרופא").
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4463 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4463</bibl><bibl>Volume: #14 ,Page: 4464 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4464</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

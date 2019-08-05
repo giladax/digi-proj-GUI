@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4352 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4352</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>לוי אשכול (שקולניק)</persName>
+
+</head>
+         <div><p> (כרך ד', עמוד 2022)
+
+ ממקימי ומנהלי החברות: "ניר", "מקורות", "שיכון" ו"עמידר".
+
+ עם קום המדינה נתמנה למנהל משרד הבטחון.
+
+ מ-8 לאוקטובר 1951 היה שר החקלאות.
+
+ מ-25 ליוני 1952 עד 26.6.1963 שר האוצר.
+
+ כמה פעמים ראש הממשלה בפועל.
+
+ יו"ר ועדת השרים לענייני כלכלה.
+
+ ביום 26.6.1963 אושר בכנסת כראש הממשלה (השלישי) ושר הבטחון.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בירושלים, ח' אדר תשכ"ט (26.2.69) והובא לקבורה בהר-הרצל בחלקת גדולי האומה בין הקברים של יוסף שפרינצק (כרך רביעי, עמוד 1597
+
+ ואליעזר קפלן (כרך ג', עמוד 1116) (ראה כרך רביעי, עמוד 2022 והמשך בכרך י"ג עמוד 4355)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4352 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4352</bibl>            <bibl>Volume: #18 ,Page: 5490 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5490</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

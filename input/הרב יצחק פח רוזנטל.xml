@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2824 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2824</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יצחק פח-רוזנטל</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת תקמ"ט (1789).
+
+ לאביו ר'<persName> שלמה רוזנטל</persName>
+
+ קבל חנוך מסורתי. ידע את שפת הארץ וחוקיה ועמד בשער נגד הערבים שהציקו ליהודים.
+
+ היה יד ימינו ונאמן ביתו של ישעיהו ברדקי (ראה כרך ד', עמוד 1583) שמינה אותו למתורגמן, בידעו את השפה הערבית, ויהי לו לפה לפני הממשלה.
+
+ נשא לאשה את<persName> בריינה</persName> ואח"כ את<persName> מרים.</persName>
+
+ חכמי העדה ורבניה ובראשם הרב <persName>שלמה סוזין,</persName> ראש הרבנים ב<placeName>ירושלים</placeName>, כבדוהו והוקירוהו. היה בא כחו של השר<persName> משה מונטיפיורי </persName> בבנין שכונת "משכנות שאננים" - בתי יהודה טורא.
+
+ הצטיין בנקיון מלבושיו ובהדרת פניו. היה נהנה מיגיע כפיו.
+
+ החזיק כמו אביו בחצר "אור החיים" ושמר עליה מכל משמר להכשירה לתורה ולתפילה. בביתו זה נרצחה אשתו הראשונה ע"י שודדים שהתנפלו על ביתו לשדוד אבנים טובות ושאר חפצי ערך לפתוחי-חותם.
+
+ נפטר ב<placeName>ירושלים</placeName>, ח' שבט תרמ''ו (1886).
+
+ צאצאיו: <persName>שלמה, יוסף, אברהם, משה, זונדל, חיה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2824 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2824</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1768 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1768</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד טמס</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ברדיצ'ב</placeName> (רוסיה), י"ח בתמוז תרמ"ב (1882), לאביו <persName>אריה</persName> ולאמו <persName>ביילה</persName> לבית <persName>ז'ק.</persName>
+
+ קיבל חינוך מסורתי בחדר. אח"כ למד ב"קלויז'' גפ"ת. יצא לחו"ל וקבל השכלה כללית באוניברסיטת ברן (שווייץ) משנת 1913--1905 . הוסמך למורה בבתי ספר תיכוניים.
+
+ בשנת 1909 נשא לאשה את <persName>הליני</persName> בת <persName>ישראל</persName> <persName>בילוף</persName> (מצ'רנוביץ). עסקה כל ימיה בצרכי צבור. עוד בחו"ל חברה פעילה בויצ''ו. התמסרה בירושלים לעבודה סוציאלית בשכונות העוני של עדות המזרח. במשך שנים רבות פעלה רבות למען גן הילדים בגבעת שאול שיסדה אותו ודאגה לקיומו.
+
+ בשנת 1913 עלה ארצה.
+
+ בהוראה התחיל לעסוק עוד בגיל צעיר ב<placeName>ברדיצ'ב</placeName> בקורס פרטי ובבית ספר לבנות "בנות ישורון". גם בברן לימד ב"תלמוד תורה".
+
+ עם בואו ארצה החל להורות בבית הספר החקלאי בפתח תקוה. במשך חמש שנים לימד שם היסטוריה, גיאוגרפיה, אגגלית, צרפתית, תנ"ך, עברית.
+
+ עבר לירושלים ועבד בבית הספר לגננות (בהנהלת הגב. פינסוד-סוקניק). לימד עברית, תנ"ך והיסטוריה. בסמינר לימד עברית והיסטוריה ובגמנסיה בעיקר היסטוריה.
+
+ היה מראשוני בוניה של שכונת בית הכרם (אז נקראה "בוני-בית").
+
+ בעבודה צבורית עסק עוד ב<placeName>ברדיצ'ב</placeName> בהיותו חבר באגודה "שפה ברורה" (דוברי עברית), ובאגודה הציונית "בני ציון". בברן היה חבר האגודה הציונית האקדמית וב"חבר", אגודה עולמית של הסטודנטים היהודים.
+
+ פרסם ספר למוד סטנוגרפיה עברית, הראשונה
+
+ בשטה הגרפית (שטה המבוססת על האלף-בית ולא על צורות גיאומטריות). הספר הופיע בשנת תרפ"א. הספר השני "היסטוריה כללית" שהופיע בשתי מהדורות (תרפ"ה ; תרפ"ט). דברי הערכה על הסטינוגרפיה פרסם ד"ר <persName>פיקהולץ</persName> (כעת ד"ר חניאל. באותו זמן שימש כמנהל בית הספר החקלאי בפתח תקוה), על ספר ההיסטוריה כתבו ד"ר <persName>זקהיים</persName> , ד"ר<persName> קבק</persName> ואחרים. כמו כן נכתבו רצנזיות ב"הארץ", "אידישע טאגעבלאט", "נתיבות", "היום" ועוד.
+
+ צאצאיו :<persName> נצה</persName> (מורה בבית הספר העממי ברמת-גן) אשת מר<persName> שלמה זיידמן, אריאל</persName> (אחד מהכ"ג שיצאו בשנת 1941 לפעולה בסוריה ולא שבו. היה בן 21).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1768 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1768</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

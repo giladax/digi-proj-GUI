@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 131 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/131</bibl><bibl>Volume: #1 ,Page: 132 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/132</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מוהליבר</persName>
+
+</head>
+         <div><p> על שם העיר הגדולה מוהילוב שבקרבתה היתה העיירה אמדור.
+
+
+ שני הבנים למדו בחדר ובישיבה. בנימין נסע בבחרותו למזריץ', נשא אשה ממשפחה חב"דית ובשובו ירושלימה היה מחלוצי הישוב החב"די בעיר הקודש; ור' יוסף נשאר "פרושי" ונשא לאשה את<persName> פייגה לאה</persName> בת הרב<persName> יצחק גליקין</persName> , ממשפחה של ראשוני הישוב האשכנזי בירושלים.
+
+ ר' יוסף היה אדם פקח וזריז, ישר ונאמן, רוח החיים והשמחה בחבורה. ידע עברית וערבית צחה בסגנון יפה מאד, היה מכובד על גדולי הערבים ולא פעם רב עמהם את ריב עמו. תודות לקשריו הצליח לסייע להרחבת שטח הישוב העברי בירושלים העתיקה והחדשה. בעזרתו נקנו חצרות של הקדשות בעיר העתיקה ומגרשים שונים מחוץ לחומה, ביניהם המגרש של בית-החולים רוטשילד (הדסה) שברחוב הנביאים. כן עסק בצרכי צבור לטובת מוסדות ובנינים בלי לקבל שכר.
+
+ הצטיין בזמרה ובתפלה חמה ומלהיבה כשליחצבור. 15 שנה התפלל בתפקיד זה, ובלי קבלת תשלום, בבית-המדרש "אור החיים" ואח"כ בבית-המדרש "סוכת שלום" שבחצר רבי<persName> ישעיהו ברדקי</persName> . היה מבאי ביתם של ראשי הרבנים האשכנזים והספרדים ר' <persName>מאיר אוירבאך</persName> , ר' <persName>אברהם אשכנזי</persName> , ר' <persName>שמואל סלנט</persName> ור'<persName> מ. פאניג'ל</persName> .
+
+ בשנת תרמ"ד עמד הרב שמואל סלנט על הצורך להכין בירושלים מקום, שבו יוכלו אורחים ועולים חדשים לקבל אוכל בשכר, בלי להזדקק לחסדי מכניסי אורחים לשם מצוה - מין דבר שבימינו קוראים לו "מסעדה". להצעת הרב נטל עליו ר' יוסף מוהליבראמדורר את השרות הזה, ופתח בחצר ה"חזקה" שלו אשר ליד חצר "אור החיים" בית אוכל כזה. את העסק ניהל על בסיס מסחרי, בלי כל תמיכה ממוסדות או מנדיבים, אך הסתפק ברווח פעוט וכך היה יכול להאכיל רעבים בזול וביתו היה הומה במשך שש שעות ביום מרוב סועדים: בני ישיבות, בעלי מלאכה וסוחרים שהחלו לכבוש מקום למסחר היהודי מחוץ לרחוב היהודים והיו זקוקים לאכול מחוץ לבתיהם, וגם אכרים ופועלים מהמושבות היו סרים לסעוד אצלו בבואם לירושלים, ובמשך הזמן התפתח העסק גם למלון. מהרווח הקטן של העסק השכיל להפריש חלק גם ללומדי-תורה עניים.
+
+ נפטר בירושלים, י"ז כסלו תרנ"ה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 131 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/131</bibl><bibl>Volume: #1 ,Page: 132 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/132</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

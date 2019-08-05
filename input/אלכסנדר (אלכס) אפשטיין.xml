@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 512 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/512</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלכסנדר (אלכס) אפשטיין</persName>
+
+</head>
+         <div><p> נולד בליברפול, אנגליה, בשנת תרמ"ו (7.5.1886), לאביו<persName> אליהו</persName> , ממשפחה נאמנה למסורת.
+
+ למד בתלמוד-תורה של הקהלה, בבית-ספר אנגלי ובאוניברסיטה, והיה קרוב לציונות ולעניני ארץישראל.
+
+ ב-1919 עלה ארצה עם ועד הצירים וארגן את המחלקה למסחר ותעשיה של ועד הצירים בירושלים. ב-1 בספטמבר 1920 נתקבל לשרות בממשלה כסגן מפקח המחלקה למסחר ותעשיה.
+
+ ב-1 באוקטובר 1923 נתמנה לסגן קצין מחוז בשלטון מחוז הדרום (יפו-ירושלים) ומ-1925 ואילך היה קצין מחוז לתל-אביב בשלטון מחוז יפו (שנקרא
+
+ אח"כ מחוז "לוד") ושירת בתפקיד זה עד שיצא לפנסיה בסוף שנת 1945.
+
+ נשא לאשה את<persName> שרה</persName> בת ר' <persName>בנימין יהלום</persName> , נכדת הרב <persName>אריה ליב פרומקין</persName> , מחלוצי החקלאות והבנין בפתח-תקוה, מחבר "תולדות חכמי ירושלים" וספרים אחרים, והיא פעילה כעסקנית בויצו.
+
+ בשנות שרותו היה חבר ועדת התמיד לעניני עבודה ועוד ועדות ממשלתיות והרבה לפעול לטובת העיר תל-אביב. מיוזמיו ועסקניו של "המרכז לעזרה סוציאלית", שארגן מאות תורמים לתת בסכום גדול אחד את תרומותיהם השנתיות לטובת המוסדות הסוציאליים.
+
+ מעת פרישתו מהשרות הממשלתי נתמנה לשמאי מטעם חברות ביטוח
+
+ צאצאיו: מרגלית.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 512 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/512</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

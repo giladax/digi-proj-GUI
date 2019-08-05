@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2578 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2578</bibl><bibl>Volume: #6 ,Page: 2579 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2579</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה קלמן</persName>
+
+</head>
+         <div><p> נולד בעיירה לאדיזיניק (אוקראינה רוסיה) י' חשון תרנ"ט (1898).
+
+ לאביו <persName>חיים שלמה</persName> (סוחר תבואות נכבד בעיירתו שהיה עובר לפני התיבה כש"ץ שלא על מנת לקבל פרס) ולאמו <persName>שרה בת לוי יצחק טרובניק.</persName>
+
+ קיבל חנוך מסורתי בחדר ובישיבות. בגיל 8 יצא שמו לתהילה בתור ילד פלא ''אידעלה" שהיה עובר בעירות ומשמיע תפלות בתור ש"ץ. החל ללמוד חזנות אצל החזן הנודע <persName>אברהם בורקין</persName> (מאומן). בגיל 9 שנים לקח אותו החזן <persName>דוד רויטמן (אז בפטרבורג</persName> ) בתור משורר סלוסטן במקהלתו, ובפטרבורג למד בקונסרבטוריון והשתלם שם בתיאוריה ובתורת הקומפוזיציה אצל הקומפוזיטור הרוסי הנודע<persName> רימסקי קורסקוב</persName> , וכן היה משורר בפטרבורג אצל החזן <persName>זבולון קוורטין</persName> .
+
+ משרתו הראשונה בחזנות היתה בבית הכנסת המרכזי באודסה (ערש החזנות שיצאו לה מוניטין במיטב הכוחות, כגון: הש"ץ <persName>פנחס מינקובסקי</persName> , המנצח <persName>דוד</persName> <persName>נובקובסקי</persName> , החזן <persName>בחמן, פיצי אברס, שלמה רזומני</persName> וכו') במקום החזן<persName> דוד רויטמן</persName> שיצא לחו"ל. חמש שנים כיהן במשרה זו, ומשם נתקבל כחזן ראשי בקהלת חארקוב, ולבסוף נתמנה כחזן ראשי בבית הכנסת הגדול במוסקבה במקום שכיהן במשרה נכבדה זו 8 שנים ויצאו לו מוניטין עד למרחקים. במוסקבה התפלל
+
+<persName>בניצוחו של קוסטלבסקי</persName> . אך כציוני נלהב גמר אומר להשתקע בארץ אבות ולהרביץ חזנות נאה ואמנותית בישראל, ואחרי מאמצים רבים עלה לארץ בשנת 1936.
+
+ הופעותיו הראשונות בארץ השאירו רושם בל ימחה. בשבת הראשונה שר במסיבות "עונג שבת" באהל שם בת"א, ותפילתו בימים הנוראים באולם "מוגרבי" בת"א בניצוחו של המנצח <persName>ליאו ליוב</persName> , בלוית מקהלה גדולה, הפכה לסנסציה וקנה לו מעריצים רבים.
+
+
+ נשא לאשה את <persName>חיה בת אשר שוורצמן.</persName>
+
+ נתקבל כחזן ראשי בבית הכנסת "גאולת ישראל" בת"א במקום שכיהן במשך 11 שנה ברציפות, וחובבי החזנות האמנותית נהרו בשבתות ובימים נוראים להאזין לרינתו.
+
+ נסע לשנה לארצות הברית והתפלל שם במקומות מרכזיים.
+
+ בשנת תשי"ג נתקבל לחזן ראשי בבית הכנסת הגדול בת"א (אחרי שהחזן הראשי <persName>אפרים פישל רוזנברג</persName> עזב את הארץ ונתקבל בתור ש"ץ בלונדון) אחרי שנעשו נסיונות רבים למצוא חזן ראשי מתאים לבית הכנסת המרכזי בת"א, ואחרי בחירות קפדניות רבות וקונקורס זכה הוא להבחר כחזן ראשי שמתפלל בלוית מקהלה גדולה בניצוחו של<persName> ישראל פוקס</persName> . ה"רפרטואר" החזני חודש ביזמתו והקהל העצום התפעל מן הקומפוזיציות ממיטב הרפרטואר החזנותי (הוא עצמו כתב הרבה קומפוזיציות ומקהלות רבות בארץ ובחו"ל משתמשות בהן).
+
+ הופיע בשידורי "רדיו ירושלים" וב"קול ישראל".
+
+ צאצאיו <persName>לאה</persName> , אשת<persName> פנחס בקרינג, אליהו.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2578 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2578</bibl><bibl>Volume: #6 ,Page: 2579 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2579</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

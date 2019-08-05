@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2096 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2096</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> שלום מויאל</persName>
+
+</head>
+         <div><p> נולד לאביו <persName>אהרן</persName> (ראה כרך ג' עמוד 1314) ולאמו <persName>סעדה</persName> לבית<persName> עמיאל</persName> ברבת (מרוקו) בשנת תר"ו (1846). קיבל חינוך מסורתי.
+
+ בשנת תר"כ (1860) עלה עם משפחתו לארץ והתישבו בחיפה וכעבור שלוש שנים עבדו ליפו.
+
+ היה בין בוני העיר יפו, נטע פרדסים וקשר קשרים טובים עם השכנים והביא תועלת ביחסים עם הערבים, נשא לאשה את<persName> מזל</persName> בת<persName> מרדכי גאזז</persName> (מעולי תורכיה הראשונים ביפו).
+
+ עזר לעולים הראשונים ממרוקו להקלט בארץ ובביתו החזיק בית כנסת. תמך בנצרכים.
+
+ נפטר בתל-אביב, ט' תשרי תרפ"ז.
+
+ צאצאיו:<persName> דונא</persName> אשת <persName>אברהם בן שמעון</persName> (בן הרב אהרן שמעון שהיה רב ראשי באלכסנדריה), <persName>אסתר</persName> אשת יוסף חיים, מסוחרי יפו (בנו של הרב שלמה בחבוט, מעולי מארוקו הראשונים וממיסדי התלמוד תורה הראשון לספרדים ביפו), <persName>שבתי יעקב</persName> (מעסקני הספרדים בת"א),
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2096 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2096</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

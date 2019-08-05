@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3482 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3482</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן טרישלינג (פרישלינג)</persName>
+
+</head>
+         <div><p> נולד בהורודנקו (רוסיה), י"ח אדר תרנ"ה (14.3.1895).
+
+ לאביו<persName> שמואל צבי פרישלינג</persName> ולאמו <persName>סופיה </persName> בת<persName> ברצי</persName> <persName>רייס.</persName>
+
+ קיבל חינוך מסורתי תיכוני והשלים את השכלתו בבית הספר הגבוה לטכנולוגיה בדרזדן (גרמניה) ובאוניברסיטה סורבון (פריז).
+
+ בהיותו מהנדס מדופלם לבנין בבטון מזויין הגיש עבודה לדוקטוראט, אשר עוכבה בפרוס המלחמה.
+
+ בשנת 1920 נשא לאשה את <persName>דבורה</persName> בת<persName> מאיר וסופיה</persName> <persName>ליברמן</persName> (מלומדת בתורה ותלמוד וגם בהשכלה כללית).
+
+ הקים מפעלי בנין בפולין, בצ'כוסלובקיה ובשווייץ והשתתף במפעלים שונים במסגרת חברה להשקעות רעננית, ציריך, בה הוא שימש יו"ר.
+
+ השתתף בשנת 1930 בקונגרס למהנדסי בטון מזויין בליאג' (בלגיה) כנציג פולין.
+
+ כתב בקביעות מאמרים בירחונים פולניים ושווייצריים בשטח הבטון המזויין ופיתח שיטות שונות בייצור בטון קל בעזרת סיד. כן חיבר מדריך לבטון מזויין, אשר הוצא בשנת 1936 בפולין, ורכש פטנטים בינלאומיים הרשומים בשווייץ, למקלטים ועניני בניה אחרים.
+
+ כיהודי דתי ולאומי חיפש אפשרות לקשור את חייו ואת יזמתו וכושר הארגון שלו במפעל תקומת העם. לראשונה ביקר בארץ בשנת 1950 על מנת לנסות להקים גם כאן מפעל תעשייתי, עשה נסיונות עם חמרים שונים מכל הסוגים.
+
+ בשנת 1951 הקים בית חרושת לעיבוד שעם בשם "ברקורק" ישראל בע"מ בעכו. את המפעל השאיר בחוזרו לשווייץ בניהולו של בנו-בכורו <persName>ברצי-דב.</persName> יחד עם בנו תיכנן את הקמתו של בית חרושת נוסף בקרבת הראשון, לחמרי בידוד מפלסטיקה, "קל-קר" ישראל בע"מ, מסועף ל"מפעלים סינטטיים שווייץ-ישראל", אשר נוסד בשנת 1955, אך הוא עצמו לא זכה לפתיחתו של בית החרושת, שהתקיימה בסוף 1957, כי ביום ז' אדר א' תשי"ז (8.2.1957) נפטר בחיפה.
+
+ בין התכניות אשר לא בוצעו בגלל מותו הפתאומי היתה גם התכנית לנטוע ולגדל אלוני-שעם בארץ בכדי להפיק את חומר הגלם לבית החרושת "ברקורק" בארץ וגם ליצוא.
+
+ צאצאיו: המהנדס<persName> ברצי-דב רענני</persName> (מנהל של בתי החרושת "ברקורק" ו"קל-קר" בעכו),<persName> פריבה</persName> אשת <persName>יששכר בן-יעקב</persName> (ראש המדור הקונסולרי במשלחת ישראל בקלן, גרמניה), <persName>אברהם, שמעון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3482 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3482</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

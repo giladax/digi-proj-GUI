@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4766 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4766</bibl><bibl>Volume: #15 ,Page: 4767 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4767</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד''ר פסח חברוני</persName>
+
+</head>
+         <div><p> נולד בי"ח אדר תרמ"ח (1888) בירושלים.
+
+ דור שני לילידי הארץ. הורי אביו עלו לארץ לפני כמאה שנה, וכאן החליפו שם-משפחתם הקודם ל"חברוני".
+
+ עד גיל 19 למד בישיבה. הספר "שביל דרקיע" שנזדמן לידו עורר בו ענין ללימוד עצמי של מדע המתמטיקה ולהמצאת מכונות. בין השאר המציא מכונת חשבון, בלי שידע כי כבר קדמוהו
+
+ אחרים בהמצאה זו.
+
+ גמר את בית-המדרש למורים בירושלים, ובתעודתו צויין "חונן בכשרונות נעלים במתימטיקה
+
+
+ ובפיסיקה". היה<persName> הראשון</persName> שנתקבל - מתוך היסוסים ברמת המוסד שממנו בא, ולאחר בחינות שהצליחו - לאוניברסיטה בציריך על יסוד תעודת הגמר שלו בביהמ"ד הנזכר. שלש שנות לימוד הוכתר בתואר "דוקטור למתימטיקה," ונתקבל כמורה בביתהמדרש העברי למורים בירושלים, מיסודו של <persName>דוד</persName> <persName>ילין </persName> ז"ל.
+
+ בשנת 1914 התחיל בחקירת המשוואות האינטרגרו-דינפרנציאליות בשיטה מיוחדת.
+
+ בשנת 1922 יסד, עם הד"ר<persName> ז. חיות</persName> , את ה"קלוב למתימטיקה", בין חברי הקלוב היו: פרופ'<persName> ריינר,</persName> פרופ' <persName>הוגו ברגמן, ד"ר י. טהון</persName> ועוד. היה מן המרצים הראשונים בו.
+
+ נפגש עם הפרופ' <persName>אלברט איינשטיין,</persName> בזמן ביקורו בארץ בשנת 1923, וכתוצאה משיחתו אתו יצא להשתלמות בחו"ל. בזמן שהותו, כארבע שנים, בויינה, חיבר ספר שבו הרצה על שיטתו, פרי מחקריו, שרק קטעים ממנו נתפרסמו עד היום בעתונות המדעית.
+
+ בשובו מווינה, בשנת 1928, חידש עבודתו כמורה בבית-המדרש העברי למורים בירושלים, אף הרצה זמן מסויים - כמרצה שלא מן המנין באוניברסיטה העברית על נושאים שונים (משוואות דיפרנציאליות, משוואות אינטרגליות, תורת הסיכויים ותורת מדידת הקולקטיבים).
+
+ בהגיעו לגיל 65, פרש מהוראה והמשיך בחקירות בנושאים שונים הלקוחים מן האלגברה, האנאליזה, תורת החוגים בעלי נורמה, החוגים הדיפרנציאליים ותורת המשוואות האינטגרו-דיפרנציאליות.
+
+ מאמריו נתפרסמו בכתבי-עת מדעיים בארץ, וכן באוסטריה, באמריקה, ביאפן, בהולאנד ובצרפת.
+
+ זכה ב"פרס ויצמן לשנת תשכ"ג (1963) של עירית תל-אביב.
+
+ נפטר בתל-אביב, כ"ד ניסן תשכ"ג (18.4.1963).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4766 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4766</bibl><bibl>Volume: #15 ,Page: 4767 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4767</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

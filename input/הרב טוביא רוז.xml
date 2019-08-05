@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2194 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2194</bibl><bibl>Volume: #5 ,Page: 2195 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2195</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב טוביא רוז</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בכ"ט טבת תרל"ו, לאביו ר' יעקב <persName>נגיד</persName> ממזריץ פולין ולאמו <persName>רבקה</persName> מבית<persName> הרבי מצאנז</persName> , גודל וחונך על ברכי התורה, בית אבא היה בית ועד ללמדנים ועסקנים השוחרים לבנין הארץ ולעבודת האדמה. ר' יעקב המכונה הרבני הנגיד השתתף בבנין השכונות "מאה-שערים" ו"משכנות ישראל" מחוץ לחומה, היה מראשוני הבנקאים, איש עצות ובעל תבונה, אתו נועצו אנשי מזריץ שעלו והתנחלו לבסוף ב"יסוד המעלה". גם ש"ב ב. ד. פלמן חלוץ הפרדסנות סייר אתו בארץ בטרם התנחל בכפר סומיל על גדות הירקון.
+
+ כאביו כן ר' טובי' היה בעל כשרונות נעלים, בקי חריף ומחודד, בתור אברך הצטיין בשקדנותו ובבקיאותו במקרא ובגפ"ת, כח ההסבר שלו היה למעלה מן הרגיל בצבור הלמדנים ומומחיותו בהסברת סוגיות חמורות ופסוקין דחוקין זכתה לפרסום בשערים המצוינים בהלכה ובאגדה. היה חביב ומקובל על רבי יצחק מתמיד ראש ישיבת "תורת-חיים" ב<placeName>ירושלים</placeName> שמסר לו להוראה מן המעולים שבתלמידים.
+
+ היה ראש ישיבת מנישביץ שבה התכנסו מבחר למדני העיר הקדושה, הרביץ תורה בת"ת "מאה-שערים" כשל
+
+
+ שים שנה, העמיד תלמידים רבים הנפוצים בארץ ובחוצה לארץ, היה מתעניין בעניני דעלמא והיה גבאי בי"הכנ "בית אברהם" במשכנות למעלה מארבעים שנה. גם היה ממיסדי השכונות "קרית שמואל" ו"בית וגן''. היה איש חמודות ומנקיי הדעת שב<placeName>ירושלים</placeName>, אהוב וחביב על הבריות ולעתים קרובות היה נענה שלא על מנת לקבל פרס להיות בורר ופוסק בדיני ממונות ובסכסוכים בינו לבינה. היה איש ירושלים שלם ומושלם.
+
+ נשא לאשה את <persName>ר. לאה</persName> בת הסוחר התורני מר <persName>ליפמן</persName> <persName>דב בייוער.</persName>
+
+ נפטר ב<placeName>ירושלים</placeName> ביום ח' סיון תש"ט (5.6.49). צאצאיו : <persName>יעקב </persName> (מנהל חברות לבטוח ולתירות, אשתו
+
+ אסתר בת ר' מנדל כהן. בתם :<persName> הני </persName> אשת <persName>דב מיל</persName> <persName>שטין</persName> , ילדיהם<persName> רם ושרה)</persName> ,<persName> אריה שושן</persName> (רופא וטרינרי ממשלתי, אשתו <persName>נטי</persName> בת ר' <persName>חיים ריזברג</persName> . בניהם : <persName>עמוס,</persName> <persName>אדיר וחיים-יאיר). בתיה </persName> אשת<persName> אפרים </persName> בן <persName>יחזקאל כהן </persName> (מראשוני מתישבי פתח-תקוה, סוחר ובעל בתי קולנוע. ילדיהם: <persName>שרה, אמנון ודבורה). רבקה</persName> אשת <persName>אשר </persName> בן <persName>אורי צוב</persName> <persName>נר</persName> , ממשפחת הרב <persName>שאג,</persName> מותיקי הפקידים של הסוכנות, ילדיהם : <persName>חדוה ואורי). נחום</persName> . אשתו <persName>דינה בת יוסף דיסקין</persName> מפתח-תקוה (עתה בחיפה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2194 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2194</bibl><bibl>Volume: #5 ,Page: 2195 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2195</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

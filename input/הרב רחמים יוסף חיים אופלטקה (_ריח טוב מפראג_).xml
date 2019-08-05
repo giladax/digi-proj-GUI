@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 748 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/748</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב רחמים יוסף חיים אופלטקה ("ריח טוב מפראג")</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תר"ז (1847), לאביו ר' <persName>יצחק פראג</persName> (יליד פראג, תלמיד ה"חתם סופר", עלה ארצה בתקצ"ח, התבולל בין הספרדים, מיסדו וראשו של בית-המדרש "דורש ציון"), ולאמו <persName>וידה חנה</persName> בת הרב הראשי וראשון-לציון רבי<persName> יעקב משה עייאש.</persName> למד תורה מפי אביו ובישיבות הספרדים והוסמך לרבנות.
+
+ נשא לאשה את <persName>בטי פלור</persName> בת הרב <persName>אשר אנשיל</persName> <persName>ניימאן</persName> , רב ראשי בעיר ווייסן (הונגריה). (נולדה תר"ז ונפטרה בירושלים בשנת תרצ"ב).
+
+ היה מורה ראשי ב"דורש-ציון" ואחרי פטירת אביו היה מנהל המוסד ושקד על שכלולו. הרבה להגות בתורה, כתב מאמרים בחקר סתומות במקרא ובחקר ארץ-ישראל בעתוני ירושלים ובלוח ירושלים של א. <persName>מ. לונץ</persName> בחתימת "רי"ח טוב" (רי"ח - ראשי תיבות של שמו) והיו מכנים אותו בשם "ריח טוב מפראג". פרסם ספר על מסעותיו מירושלים למירון בשם "מסעי הירח באה"ק תובב"א", ירושלים, תרל"ו. נפטר בירושלים ד' אייר תרס"ז.
+
+ צאצאיו: <persName>יהודה, נסים, בכורה אסתר</persName> אשת<persName> בכור</persName> <persName>שם-טוב אלחסיד, רחל שרה</persName> אשת <persName>רפאל אלישר, רבקה</persName> <persName>לאה </persName> אשת <persName>דניאל אלקלעי, הדסה חנה</persName> (ז"ל) אשת <persName>יצחק</persName> <persName>שיריזלי, צפורה בת-שבע</persName> אשת <persName>ישראל פריד</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 748 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/748</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

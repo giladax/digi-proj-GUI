@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4549 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4549</bibl><bibl>Volume: #14 ,Page: 4551 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4551</bibl>
+<bibl>Volume: #14 ,Page: 4552 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4552</bibl>
+<bibl>Volume: #14 ,Page: 4553 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4553</bibl>
+<bibl>Volume: #14 ,Page: 4554 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4554</bibl>
+<bibl>Volume: #14 ,Page: 4555 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4555</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרים רחל רמבר</persName>
+
+</head>
+         <div><p> נולדה בעיר העתיקה בירושלים (בבית בו נולד האר"י הקדוש) בשנת תרכ''ה (1865).
+
+ לאביה <persName>משה ברורמן</persName> ולאמה גיטל ממשפחת הרב <persName>יעקב משה חרל"פ</persName> (ראה כרך ג', עמוד 1303) רבה של ירושלים, בעלת שושלת היוחסין עד דוד המלך.
+
+ בכל שנה ביום הולדת האר"י היו מתאספים המקובלים להתפלל בבית זה ולהתיחד עם זכרו (המקובלים היו מראים על החלון הרחב, עליו עמדה עריסת האר"י).
+
+ נישאה בירושלים<persName> לחיים בן-ציון רמבך</persName> , יליד ירושלים.
+
+ בשנת תר"ן (1890) עברו לגור ביפו העתיקה והיו הראשונים שבנו את ביתם בנוה שלום על גבעות החול (כיום מול בי"ס אליאנס).
+
+ היתה פעילה בעזרה סוציאלית ובמתן בסתר.
+
+
+ נפטרה בתל-אביב כ' שבט תש"ו (1946).
+
+ צאצאיה: <persName>משה רם</persName> (מנהל הדאר ביפו)<persName>, מושקה.</persName> <persName>חסיה, חיה, דבורה, מלכה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4549 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4549</bibl><bibl>Volume: #14 ,Page: 4551 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4551</bibl>
+<bibl>Volume: #14 ,Page: 4552 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4552</bibl>
+<bibl>Volume: #14 ,Page: 4553 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4553</bibl>
+<bibl>Volume: #14 ,Page: 4554 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4554</bibl>
+<bibl>Volume: #14 ,Page: 4555 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4555</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

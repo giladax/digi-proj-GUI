@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2121 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2121</bibl><bibl>Volume: #5 ,Page: 2122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2122</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם גולדין</persName>
+
+</head>
+         <div><p> נולד בהומל, רוסיה, בשנת תרמ"ב (1882), לאביו ר' <persName>שמואל </persName> (שו"ב) ולאמו <persName>נחמה</persName> בת <persName>שמעון זוואהלסקי.</persName> קיבל חינוך תורני בחדרים ובישיבה ובשנת תרס"ב נשא לאשה את <persName>איידלה </persName> בת ר' <persName>נתן חנין </persName> (ראה ערך מיוחד לה בכרך זה). עסק במסחר סיטונאי בטכסטיל והיה ציוני פעיל ותומך במוסדות צבור ותורה וחסד.
+
+ ב-1924 עלה ארצה עם משפחתו ופתח בית-מסחר גדול לטכסטיל בתל-אביב, ובמשך הזמן גדל היקף עסקיו עד כדי פתיחת סניפים בירושלים ובחיפה.
+
+
+ המשיר בפעילותו הצבורית במוסדות כלכליים וסוציאליים ובתמיכה נדיבה במפעלים, במוסדות ובנצרכים פרטיים. יסד יחד עם רעיתו את "בית מנוחה לזקנים גלמודים" בת"א (אחרי פטירתה, כ"א טבת תרצ"ט, נקרא המוסד על שמה), מטבח-עם ובית האינוואלידים בת"א. נבחר ליו"ר בית הזקנים הנ"ל, נשיא
+
+ הנהלת מטבח-עם, יו"ר קופת גמילות חסדים "מעוז" וחבר מועצת בנק מסחרי בת"א.
+
+ בנותיו : <persName>שושנה</persName> אשת<persName> יוסף קירפיצניקוב, נחמה</persName> אשת <persName>פריץ נתנברג, סימה</persName> אשת<persName> ניסן שפירא, רבקה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2121 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2121</bibl><bibl>Volume: #5 ,Page: 2122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2122</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

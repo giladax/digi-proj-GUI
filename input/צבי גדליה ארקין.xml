@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1251 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1251</bibl><bibl>Volume: #3 ,Page: 1252 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1252</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי גדליה ארקין</persName>
+
+</head>
+         <div><p> נולד בכפר פבלבה שליד רוז'ינוי, פלך גרודנה, בכ"ה אלול תר"מ (1880) לאביו<persName> יעקב</persName> (ממייסדי עקרון, ראה כרך א' עמוד 404) ולאמו<persName> מלכה</persName> , מסלונים.
+
+ בן חמש בא לארץ ישראל ונצטרף אל משפחתו בעקרון. קיבל חנוך מסירתי וכללי ולמד בבית-הספר אצל המורים יהודה גור (גרזובסקי) ואריה-ליב הורביץ. התמסר לחקלאות עוד בילדותו ואהב את עבודת האדמה בכל ישותו.
+
+ נשא לאשה את <persName>חנה</persName> בת יצחק הירשנזון (חוקר במדעי היהדות, ראש ישיבה בעירו ובעל דפוס ב' ירושלים, בעל הרשיון לעתון "הצבי" של אליעזר בןיהודה)<persName> ולאה</persName> בת שמעון שולמן.
+
+ בהיותו בן עשרים וחמש השתדל אצל יק"א יחד עם אחרים מבני האכרים בעקרון, שתינתן להם קרקע להתישבות, כי אדמת המושבה לא הספיקה לדור החדש. הוא קיבל אז בגדרה חלק מאחוזת בוריס אוסובצקי (שהיה היינן הראשון ביקבי הבארון בראשון לציון). היו לו הצעות אחרות, אבל העדיף להתנחל במושבת הביל"ויים והתישב בה באב תרס"ב.
+
+ מיום שהשתקע בגדרה עברו עליו שנים קשות (עקירת גפנים, חורבן באר ומכון-מים בשנות המאורעות) אך הוא דבק במקומו ובמשקו וגם לעת זקנה עודנו עובד בשדה.
+
+
+ השתתף בפעילות בחיים הצבוריים של המושבה, שימש זמן רב כמוכתר המקום, היה חבר בועד המושבה והנהו עד היום גבאי בבית הכנסת.
+
+ בתו: <persName>מלכה</persName> אשת שלום סוורדלוב (בן הביל"ויי אליהו סוורדלוב).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1251 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1251</bibl><bibl>Volume: #3 ,Page: 1252 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1252</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

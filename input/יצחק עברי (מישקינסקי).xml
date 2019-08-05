@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 2017 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2017</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק עברי (מישקינסקי)</persName>
+
+</head>
+         <div><p> נולד בביאליסטוק, בכ' בכסליו תרס"ט (12.11.1908), לאביו הרב<persName> חיים יעקב מישקינסקי</persName> (רבה של סביסלוץ, קנישין שטאבין) ולאמו <persName>חיה </persName> בת<persName> הרב דויד פאיאנס</persName> (רבה של ביאליסטוק) והרבנית <persName>מרים</persName> , נכדת הרב רפאל <persName>רו"ט ליפמן היילפרין</persName> (מחבר "עונג יו'"ט").
+
+ קיבל חינוך מסורתי בבי''ס ובישיבות ביאליסטוק וגרודנה: המשיך בבימ"ד ללימודי היהדות בוארשה (1929-1925) ובאוניברסיטאות ברלין ובזל (1933-1929).
+
+ בשנת 1933 עלה לארץ ומכאן ואילך עבד בשדה העתונות והספרות. משנת 1936 - חבר מערכת "דבר".
+
+ בשנת 1936 נשא לאשה את <persName>אלה </persName> בת<persName> הרב אליהו</persName> <persName>שפירא </persName> מליטא.
+
+ עורכו ומחברו של המדור המדיני הקבוע ''היום" ב"דבר", משנת 1939. משתתף בקביעות ב"הפועל הצעיר'', בכינוי "פוליטיקום'', ב"דבר השבוע" - במדור מאורעות השבוע בעולם, בחתימת י. סוקר, וכן גם ב"קול ישראל", ובתקופת המנדט ב"קול ירושלים". כמו כן פרסם מאמרים בכתבי עת ובקבצים שונים : בשנתוני "דבר", ובקבצים "קמה", "לאחדות העבודה", בספרי השנה של אגודת העתונאים. ב"דורות", ב"עתידות" ועוד בחתימתו ובכינויים:<persName> י. מעיין, י. בן-יעקב</persName> ועוד. ערך כתבי עת, ספרים וקבצים שונים. ואלה תרגומיו : "הפצועים לא זעקו", <persName>לריינולדס</persName> ; "הרכבת האחרונה מברלין", <persName>לסמית;</persName> "מחזית לחזית", לא. קירי ; מסעי הנס אורין <persName>לטנצר;</persName> הקומדיה האנושית ומבחר סיפורים<persName> לויליאם סארויאן;</persName> "יד שמאל היא החולמת"<persName> לנ. וילסון-רוס;</persName> "בשחר חיים" <persName>לש. ברלינסקי</persName> ; מותו של סוכן (מחזה) <persName>לארתור מילר,</persName> ועוד.
+
+ בנו :<persName> יוסף-דויד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 2017 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2017</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

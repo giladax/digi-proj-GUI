@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3040 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3040</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה שקולניק</persName>
+
+</head>
+         <div><p> נולד במושבה עקרון י"ב ניסן תרמ''ח (אפריל 1888).
+
+ לאביו <persName>שמואל</persName> (כרך ג', עמוד 1163) ולאמו<persName> שרה</persName> בת <persName>אריה אליהו.</persName>
+
+ קבל חנוך מסורתי.
+
+ מגיל צעיר החל לעבוד בחקלאות, במשק המשפחה.
+
+ מלא תפקידי שמירה בזמנים קשים למושבה.
+
+ בשנת תרס"ח (1908) נשא לאשה את <persName>אסתר</persName> בת <persName>משה מלר</persName> (נפטרה בעקרון, י"ד אלול תרעד-5.9.1914) ובשנת תרע"ה (1915) נשא בזיווג שני את <persName>חסידה </persName> בת <persName>יוסף צבי מלר.</persName>
+
+ במלחמה העולמית הראשונה, שירת בצבא התורכי. במשך תקופה מסוימת היה מוכתר המושבה, וכן היה ראש ועד המושבה.
+
+ חבר ועד המחלבה והבנק המקומי.
+
+ כל חייו - אכר במושבה.
+
+ צאצאיו:<persName> משה, מלכה</persName> אשת <persName>בצלאל גורדון</persName> (מנהל
+
+ תחנת הרכבת בירושלים), <persName>יהודית</persName> אשת <persName>יהושע זגרנסקי</persName> (מתישב בעין-ורד), <persName>אפרים, עמירם</persName> (חבר קבוץ כברי).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3040 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3040</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

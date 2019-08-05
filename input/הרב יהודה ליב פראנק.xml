@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 510 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/510</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יהודה ליב פראנק</persName>
+
+</head>
+         <div><p> נולד בקאלוואריה, פלך סובאלק (פולין),בשנת תרי"ב (1852), לאביו הרב <persName>צבי פסח </persName> ולאמו <persName>מינה</persName> לבית <persName>טורצקי.</persName> למד בחדרים ובישיבות והוסמך לרבנות.
+
+ נשא לאשה, את <persName>מלכה</persName> בת ר' <persName>תנחום שילמן</persName> והתישב בקובנה
+
+ כשנוסדה בקובנה האגודה להתנחלות בארץ-ישראל ולרכישת קרקע בחדרה, הצטרף אליה ונבחר למזכירה.
+
+ בתרנ"ב עלה ארצה עם משפחתו והשתכנו ב"חאן" וסבלו את פגעי הקדחת הצהובה ושאר התלאות של הראשונים.
+
+ כנציג "אגודת קובנה" השתתף בניהול עניני הצבור כחבר הועד, עם חבריו <persName>דוד יהודה בוטקובסקי ומנחם</persName> <persName>מנדל נחומובסקי</persName> וזמן מה היה גם ראש ועד המושבה.
+
+ כן שימש כרב המושבה, בין התקפת-קדחת אחת לשניהיה עובד במשקו, אך בסוף גברה הקדחת עליו ועל אשתו. היא לקחה חלק פעיל בבנין חדרה והתאמצה להחזיק מעמד נגד הקדחת הצהובה, אך בסוף כרעה ונפלה, ונפטרה בירושלים, ח' טבת תרצ"ה. לאחר כמה שנים גברה הקדחת גם עליו. הוכרח
+
+ לעזוב את המקום ועלה ירושליימה לעסוק בתורה. אך הקדחת חזרה אליו גם שם והפילתו למשכב, ונפטר בירושלים, ג' אב תרע"ג.
+
+ צאצאיו; הרב<persName> צבי פסח</persName> (אב"ד ברבנות של קהלת. כנסת ישראל בירושלים), הרב <persName>זאב, תנחום</persName> (חקלאי בחדרה), <persName>פשה</persName> אשת <persName>יצחק גבריאלוביץ, צפורה</persName> (ציפה) אשת<persName> חיים טיקולסקי </persName> (בארצות הברית), <persName>יענטה</persName> אשת. הרב <persName>אברהם יעקב אורלנסקי</persName> , רבה של זכרון יעקב (נרצחו שניהם בחברון בעת מהומות תרפ"ט, הי"ד).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 510 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/510</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

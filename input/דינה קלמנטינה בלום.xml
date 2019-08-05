@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1894 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1894</bibl><bibl>Volume: #4 ,Page: 1895 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1895</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דינה-קלמנטינה בלום</persName>
+
+</head>
+         <div><p> נולדה בבד-קרויצנק (פרוסיה, גרמניה), בשנת תרמ"ח (28.8.1888), לאביה <persName>אדולף מאיר</persName> ולאמה <persName>קלרה</persName> למשפחת <persName>ליבמן</persName> .
+
+ גמרה גימנסיה לבנות בבד-קרויצנק, למדה באוניברסיטה ובבית מדרש לגננות בפנקפורט דמיין.
+
+ במאי 1914 נשלחה מסעם חברת "עזרה" ליהודי גרמניה, לנהל את בית המדרש לגננות ואת גני הילדים בירושלים. בתפקידים אלה שימשה עד 1916.
+
+ בשנת 1917 (אח"כ שוב ב-1920) היתה בפולין ובגרמניה במסע תעמולה ציונית.
+
+ בשנת 1918 היתה מורה בבית ספר לבנים בירושלים. 1918-1924 ייסדה וניהלה גני ילדים רבים.
+
+ ב-1924 נישאה לצייר <persName>לודוויג בלום</persName> (ראה את הערך שלו בכרך זה).
+
+ כל השנים פעילה בעבודה צבורית. ב-1918 היתה חברה בועד המתנדבות לגדוד העברי, בועד העזרה ליתומים. פעילה במרכז הגננות.
+
+
+ חברה בועד "בת ציון" של "בני ברית", חברת הועד של ויצ"ו, עובדת סוציאלית, בועד למען האסיר, בועד למען החייל והעולה החדש.
+
+ פעילה ב"משמר העם'' (בעלת "אות שרות"). פרסמה מאמרים בעתונות הציונית בגרמניה על החינוך בארץ. כמו כן בעתונות של הגננות בארץ.
+
+ צאצאיה: <persName>דבורה-קלרה</persName> אשת רב סרן <persName>שלום חרמון</persName> (היתה 3 שנים בפלמ"ח), <persName>אליהו (פיליפ-אדולף</persName> ) חבר פלמ"ח, נפל בהתקפה על גשר א-זיב בי"ז סיון תש"ז (נולד ה' תשרי תרפ"ז).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1894 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1894</bibl><bibl>Volume: #4 ,Page: 1895 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1895</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

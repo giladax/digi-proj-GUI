@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1257 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1257</bibl><bibl>Volume: #3 ,Page: 1258 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1258</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהושע הורביץ</persName>
+
+</head>
+         <div><p> נולד בהורודוק, פלך וילנה, בשנת תרכ"ד (1864) לאביו<persName> נחום.</persName>
+
+ קיבל חנוך מסורתי, למד ב"חדר" ובישיבת וולוז'ין, שקד על למודי-חול, השתלם במתמטיקה ובשפות רוסית, גרמנית ואנגלית.
+
+
+ בן 26 נשא את <persName>שרה לאה </persName> בת ישראל ממינסק (נפטרה בתל-אביב, י"ב אדר תרפ''ב, ונקברה בבית הקברות הישן). עסק זמן קצר יחד עם אביו בסחרפשתים, אח"כ עבר למינסק ושם נצטרף לתנועת חבת ציון. החליט לעלות ארצה ולהתישב על הקרקע.
+
+ יצא לסיור בארץ כדי לברר אפשרויות התנחלות כאכר. נזדמן לגדרה ובזמן בקורו במושבה נזקקו שם למורה. מכיוון שהיה אתו מכתב המלצה מאת יהושע דוב בנינסון, נתקבל למורה בבית הספר. שהה בארץ קרוב לשנה ואח"כ נסע לאפריקה הדרומית לקרובים העשירים להשפיע עליהם שירכשו קרקע בארץ ישראל, אך לא הצליח וחזר למינסק, שם השקיע את כל מאמציו לחסוך סכום כסף לשם התנחלות בארץ. עוד במינסק השליט בביתו את הדיבור העברי בהברה הספרדית.
+
+ בסוף 1913 שלח ארצה את אשתו ושתי בנותיו ובידם סכום כסף על חשבון קניית הנחלה. הוא עצמו ואתו בתו השלישית נשארו במינסק לחיסול העסקים. בינתיים פרצה המלחמה העולמית הראשונה ונתעכב ברוסיה. בינתיים רכשה אשתו בארץ, בעצת מאיר דיזנגוף, מגרש בתל-אביב.
+
+ ב-1919 הצליח להגיע ארצה.
+
+ ב-1924 מכר את המגרש שרכשה אשתו בת"א ובתמורה קנה חלקת-אדמה ובית בעין גנים שליד פתח-תקוה. נטע פרדס ומטע בננות.
+
+ עוד ברוסיה, בהיותו מושפע מתורת טולסטוי, פרש מאכילת בשר ודגים. ובהיותו בארץ החל לטפל ב-1933 בהוצאת "ספר הטבעונות" שהשקיע בו הרבה מרץ ועמל.
+
+ נפטר בתל-אביב, בערב פסח תרצ"ח ונקבר בבית הקברות בנחלת-יצחק.
+
+ צאצאיו: <persName>ישראל</persName> ז"ל,<persName>דבורה</persName> ז"ל, <persName>שושנה</persName> אשת איסר קוסובסקי,<persName> יהודית</persName> אשת ברוך אפרתי.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1257 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1257</bibl><bibl>Volume: #3 ,Page: 1258 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1258</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

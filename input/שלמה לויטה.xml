@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4102 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4102</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה לויטה</persName>
+
+</head>
+         <div><p> נולד בליטה, בשנת תרכ"ב (1862).
+
+ לאביו<persName> אהרן זליג לויטה </persName> (ראה בכרך זה) ולאמו <persName>חנה </persName> לבית<persName> כהן.</persName>
+
+ קיבל חינוך מסורתי.
+
+ למד נגרות בעירו.
+
+ עלה עם אביו לארץ בשנת תרמ"ג (1883).
+
+ גנבו את הגבול מליטה לאוסטריה. עברו עליהם הרבה תלאות וסכנות עד שהגיעו לאלכסנדריה (מצרים) ומשם ליפו ועברו למקוה ישראל.
+
+ יחד עם אביו והמשפחה היו מהמתיישבים הראשונים במושבה עקרון.
+
+ נשא לאשת את<persName> בלומה לאה </persName> בת<persName> מרדכי קלינסקי </persName> (מחלוצי ביאליסטוק ביהודיה (פ"ת). סבלה את כל התלאות ביסוד המושבה פתח-תקוה. נפטרה בפתח-תקוה, כ"ג אדר תרפ"ט -1929).
+
+ במקצוע היה נגר, ועבד עם אביו בבנין בתים במקוה ישראל, בנמל יפו, טחנת הקמח בנוה שלום ביפו ועוד.
+
+ במקוה ישראל ישב כ-20 שנה ועסק בבניינים. אחר כך עבר לפתח-תקוה, בנה שם את הנגרות של בית הכנסת הגדול יחד ע<persName>ם דוד נוביק </persName> (ראה כרך ב', עמוד 580).
+
+ במושבה פתח-תקוה הקים לו משק.
+
+ היה פעיל בעניינים הדתיים במושבה.
+
+ נפטר בפתח-תקוה, אדר תש"ב (1942).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4102 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4102</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

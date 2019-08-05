@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2548 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2548</bibl><bibl>Volume: #6 ,Page: 2549 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2549</bibl>
+<bibl>Volume: #6 ,Page: 2550 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2550</bibl>
+<bibl>Volume: #6 ,Page: 2551 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2551</bibl>
+<bibl>Volume: #6 ,Page: 2552 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2552</bibl>
+<bibl>Volume: #6 ,Page: 2553 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2553</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר שמעון מרכוס</persName>
+
+</head>
+         <div><p> נולד בשנת תרנ"ח (1898) בלוז' שבפולין. לאביו<persName> צבי הירש</persName> ולאמו <persName>איטה רחל</persName> בת <persName>משה</persName> <persName>האונימאן.</persName>
+
+ אחרי למדו בגמנסיה פולנית שלחוהו הוריו בגיל 14 שנה להשתלם בחינוך עברי בארץ-ישראל. למד בגימנסיה העברית בירושלים (בהנהלת <persName>שלמה שילר</persName> ) וגמר בגימנסיה הרצליה בתל-אביב, ויחד עם יתר בני מחזורו גויס לצבא העותומני בראשית מלחמת העולם הראשונה ונשלח לבית-ספר לקצינים באיסטנבול ושרת בצבא בתפקידים שונים.
+
+ אחרי המלחמה למד באוניברסיטה הגרמנית בפראג והוסמך לד"ר לפילוסופיה (הדיסרטציה היתה על "הענן בשפה הערבית"). שימש בהוראה בגימנסיה העברית "יבנה" בלודז', בבתי-הספר העבריים ובקורסים הפדגו
+
+ גיים בבולגריה ובבית-המדרש לרבנים ברודוס, בהנהלת הפרופ' <persName>זאנה</persName> . פעל למען "הברית העברית העולמית" ברודוס ובסופיה והיה נשיא המועדון העברי בסופיה. חיבר מקראה לשנות-הלימודים הששית והשביעית בפרוגימנסיות היהודיות בבולגריה. עבד במחיצתו של ר' <persName>שלמה רוזאניס</persName> , ההיסטוריון של יהודי המזרח, ואף הוא עצמו העשיר ענף מדעי זה בהרבה מחקרים משלו. כתב הרבה מאמרים פובליציסטיים בעתונים בגרמנית, בולגארית ואיספניולית, וכן בעברית את הספר "תולדות הרבנים למשפחת ישראל ברודוס" ובבולגרית את הספרים "פירוש מדעי על שיר השירים" ו"המרד בגיטו וארשה", ומאמרים מדעיים בעברית ב"מזרח ומערב" (בעריכת<persName> אברהם אלמליח),</persName> "קרית ספר", הירחון "סיני" ובקבצים: "מחברת" ו"ירושלים". נושאי מאמריו המדעיים: לתולדות החינוך העברי בבולגריה (מזרח ומערב, כרך ד'), קורות שלשלת הרבנים למשפחת כמוהר"ר (כרך ה'), תולדות הרבנים למשפחת גירון מאדריאנופולי (סיני, שנה י"א, חוב' ז'-ח'), על אשכנזים-ספרדים ועל אשכנזים-סתם בבולגריה (י"ג, ג'-ד'), לתולדות היהודים באדריאנופולי (י"ד, ז'-ח', וכרך כ"ט), מילואים
+
+
+ והשגות על מאמרו של יצחק מולכו "קהילת סאלוניקי בדורות הראשונים" (י"ז, א'-ב'), השפה והספרות היהודית-הספרדית בבולגריה (מחברת, בעריכת א. אלמליח, שנה א'), פנקס שלוחי א"י מרודוס (ירושלים, שנה ד'), ועוד. ממאמריו בלועזית (בעיקר בכתבי-עת יהודיים בבולגריה): הסטטיסטיקה של יהודי קושטא, מכתבים פרטיים באידית מבולגריה משנת 1533, שלשה מסמכים חדשים לתולדות יהודי בולגריה, יששכר אבולעפיה, הסטטיסטיקה של יהודי בולגריה, על שיתוף-פעולה יהודי-בולגרי, הקבלה, קיריל ומתודיוס, היהודים בבולגריה, שמעון דובנוב, ירמיהו, שלמה רוזאניס, ועוד.
+
+ אשתו:<persName> שארלוטה</persName> בת <persName>משה אדלר.</persName>
+
+ במלחמת-העולם השניה הוגלה עם כל יהודי סופיה לעיר רוסה (רושצ'נק) ואחרי המלחמה עבד כמזכיר "המכון המדעי היהודי", בסופיה מיסודו של הג'וינט.
+
+ חזר לארץ ב-1949 ונתקבל למורה בביה"ס התיכון החקלאי בפרדס-חנה ואח''כ למפקח על בתי-ספר מטעם משרד החינוך והתרבות.
+
+ בניו: <persName>צבי, עמנואל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2548 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2548</bibl><bibl>Volume: #6 ,Page: 2549 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2549</bibl>
+<bibl>Volume: #6 ,Page: 2550 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2550</bibl>
+<bibl>Volume: #6 ,Page: 2551 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2551</bibl>
+<bibl>Volume: #6 ,Page: 2552 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2552</bibl>
+<bibl>Volume: #6 ,Page: 2553 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2553</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

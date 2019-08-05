@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 465 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/465</bibl><bibl>Volume: #1 ,Page: 466 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/466</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רפאל קאפילוטו</persName>
+
+</head>
+         <div><p> נולד ברודוס, בשנת תרל"ד (1874), לאביו<persName> יעקב</persName> . נתחנך חינוך מסורתי ואחר-כך החל לעסוק במסחר. נשא לאשה את <persName>חנה</persName> בת<persName> רחמים ישראל</persName> , ממשפחת הרבנים "ישראל" הידועים בין יהודי המזרח, וביניהם הרב<persName> רפאל יצחק ישראל</persName> , מחבר הספר "בית היין", חתנו של הרב<persName> יעקב ענתבי</persName> , מהמעונים בעלילת הדם בדמשק בשנת ת"ר.
+
+ בשנת תרנ"ח עלה ארצה עם משפחתו, התישב בחברון ועסק במסחר זעיר ולאחר שנים אחדות פתח חנות לסחורות סדקית בקצה רחוב היהודים. בית-מסחרו היה מקום פגישה וכינוס לחכמים ולעסקני הצבור. נתחבב גם על הערבים תושבי חברון ולא פעם היו פונים אליו להיות בורר ביניהם בסכסוכים והיו סומכים על הכרעותיו.
+
+ עסק בצרכי צבור באמונה. היה חבר ועד העדה הספרדית ובזמן מלחמת-העולם הראשונה נתמנה על-ידי
+
+
+<persName>דוד ילין</persName> לחבר ועד העזרה ליהודי חברון ועבד במסירות להקלת המצוקה וגם מכספו תמך בכמה משפחות, שנותקו ממקורות העזרה, לרגל המלחמה.
+
+ אשתו חנה היתה נבונה ומשכלת ועשתה רבות לעזרת הנצרכים. נפטרה בירושלים, י"א סיון תרע"ד. לרגל מסחרו היה נוסע לעתים קרובות לירושלים ולערי סוריה, ובאחד ממסעיו הצטנן בדרך ונפל למשכב, שממנו לא קם עוד.
+
+ נפטר בירושלים, י"ד כסלו תרע"ט. צאצאיו :<persName> בן-ציון, אסתר </persName> (אשת<persName> מאיר בנגיאט</persName> ), <persName>מרים, רבקה</persName> (אשת<persName> דוד תדהר</persName> ),<persName> רחל</persName> (אשת<persName> מיכאל</persName> <persName>אביוב)</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 465 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/465</bibl><bibl>Volume: #1 ,Page: 466 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/466</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

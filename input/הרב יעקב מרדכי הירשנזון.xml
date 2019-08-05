@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1623 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1623</bibl><bibl>Volume: #4 ,Page: 1624 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1624</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יעקב מרדכי הירשנזון</persName>
+
+</head>
+         <div><p> נולד בפינסק, רוסיה הלבנה, תקפ"א (1821), לאביו ר'<persName> צבי</persName> , למד בישיבות ליטא ורייסין והוסמך לרבנות על-ידי גדולי הדור.
+
+
+ נשא לאשה את <persName>שרה</persName> ביילה בת ר'<persName> יהודה ליב</persName> . כיהן ברבנות נקהלות שונות, השיב לשואליו בכתב בדברי הלכה ונודע כגדול בתורה.
+
+ בשנת תר"ח עלה לארץ עם משפחתו. ישב 11 שנה בצפת והחזיק ישיבה שגדולי הלמדנים התרכזו בה. בתרי"ט עבר לירושלים וגם כאן יסד וניהל ישיבה, שנקראה לפי מסורת המשפחה "סוכת שלום" ולפי הכתובת שעל מצבת קברו נקראה "שנות אליהו". תמך בתנועת "ישוב ארץ ישראל" מיסודם של הרבנים<persName> צבי קאלישר</persName> מטורן<persName> ואליהו</persName> <persName>גוטמאכר</persName> מגריידיץ שבפרוסיה וקיים עמהם קשרי ידידות ומכתבים .כן היה אח"כ מידידי הישוב החקלאי החדש שנוצר בשנותיו הראשונות והגן עליו מפני ההתקפות של קנאי האשכנזים בירושלים. הגה את הרעיון בדבר יסוד בית-מדרש מרכזי לתורה בירושלים, שמורי הוראה ורבנים בכל תפוצות ישראל יצטרכו לקבל בו סמיכה, ובא בקשרים בענין זה עם אנשי שם ובעלי השפעה בישראל ובעמים.
+
+ חיבר את הספרים "דבר השמיטה", "קדושת ארץ-ישראל", ביאורי "עינות מים", ו"מי באר" על "שלחן-ערוך אורח חיים" וקונטרסי "כבוד התורה", "אבן שלמה", "חקור דבר" ו"נר מצוה", ועוד השאיר בכתב-יד הרבה חידושי תורה בהלכה ובאגדה. נפטר בירושלים, י"ז תשרי תרמ"ט.
+
+ בניו:<persName> יצחק, חיים </persName> (על שניהם ערכים מיוחדים בכרך זה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1623 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1623</bibl><bibl>Volume: #4 ,Page: 1624 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1624</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

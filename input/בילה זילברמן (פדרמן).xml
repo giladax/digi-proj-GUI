@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3369 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3369</bibl><bibl>Volume: #9 ,Page: 3370 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3370</bibl>
+<bibl>Volume: #9 ,Page: 3371 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3371</bibl>
+<bibl>Volume: #9 ,Page: 3372 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3372</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בילה זילברמן (פדרמן)</persName>
+
+</head>
+         <div><p> נולדה בפינסק (רוסיה) בשנת תרכ"ט (1869).
+
+ לאביה ר' <persName>אברהם פדרמן</persName> (ר'<persName> אברה'מל סופר</persName> . ראה כרך א', עמוד 465) ולאמה <persName>מרים </persName> בת אחיו של הגאון רבי <persName>יצחק אלחנן ספקטור,</persName> רבה של קובנה.
+
+ עלתה בילדותה עם משפחתה לארץ בשנת תרל"ז (1877).
+
+
+ קבלה חנוך מסורתי.
+
+ נישאה לר' <persName>אלתר ביגר</persName> ובזיווג שני נישאה לר' <persName>משה</persName> ברב<persName> מוני זילברמן</persName> , המכונה ר'<persName> משה מוניס</persName> (ראה בכרך ז', עמוד 2936).
+
+ כל ימיה שקדה לעזור לזולת ע"י גמילות חסדים (מסכום שהסבה מתמיכת ילדיה).
+
+ עסקה בצרכי צבור באמונה והעמידה דור של בנים ובנות, וצאצאיהם מעורים בחיי הארץ והעבודה.
+
+ נפטרה בירושלים, ז' אייר תשי"ז (8.5.1957).
+
+ צאצאיה (מבעלה הראשון):<persName> דוד ביגר, משה ביגר,</persName> <persName>יונה. ביגר.</persName>
+
+ מבעלה השני): <persName>שרה</persName> אשת <persName>חיים שפירא </persName> (ראה כרך ששי, עמוד 2618),<persName> מאשה </persName> אשת<persName> ברוך כהן</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3369 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3369</bibl><bibl>Volume: #9 ,Page: 3370 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3370</bibl>
+<bibl>Volume: #9 ,Page: 3371 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3371</bibl>
+<bibl>Volume: #9 ,Page: 3372 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3372</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

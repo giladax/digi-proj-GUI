@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4012 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4012</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם שפדל</persName>
+
+</head>
+         <div><p> נולד בסוקולוב פודל, (פולין), בשבט תרס"ח (2.2.1908).
+
+ לאביו<persName> חיים יעקב שפדל</persName> ולאמו<persName> רבקה </persName> בת <persName>אברהם</persName> <persName>רייזמן.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה של הרב<persName> יצחק</persName> <persName>זליג מורגנשטרן</persName> בסוקטוב - פודלסק.
+
+ היה פעיל בארגוני נוער יהודים שונים. עסקן קק"ל וקרן היסוד בעירו.
+
+ סוחר עצים ויערות.
+
+ בשנת 1931 נשא לאשה את<persName> חוה</persName> בת <persName>משה וחינקה</persName> <persName>רוזנצויג.</persName>
+
+ כתב והיה חבר המערכת בעתון "אונטרוועגס" בגרמניה.
+
+ בשנת 1949 עלה לארץ.
+
+ חבר המועצה ע"י המרכז של שארית הפליטה בגרמניה. קבלן לבנינים ברמת-גן.
+
+ פעיל ותומך במוסדות שונים.
+
+ חבר בארגון הקבלנים והבונים.
+
+ הקים שיכונים שונים ברמת-גן, בני-ברק, הרצליה ופתח-תקוה.
+
+ בתו:<persName> חינקה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4012 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4012</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

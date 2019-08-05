@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 865 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/865</bibl><bibl>Volume: #2 ,Page: 866 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/866</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ר' יום טוב דאנון</persName>
+
+</head>
+         <div><p> מגדולי חכמי אזמיר. עלה לפני שנת תקע"ד לירושלים. פה נבחר לראש-בית-דין וכהן במשרתו זאת עד שנת תקפ"א. בשנה הנ"ל נפטר ה"חכם באשיר' יוסף רפאל חזן והוא נבחר לשבת על כסאו. בהקדמה לספרו "כבוד יום טוב" נאמר עליו שהצטיין "בכל מדות טובות", היה מטיף גדול "ודבריו נשמעים כמסמרות נטועים", וכוחו בתורה היה גדול והיה "בקי בטיב גיטין וקידושין". חבר ספר על הרמב"ם בשם "כבוד יום טוב" (שאלוניקי תר"ו). שאר חבוריו נשרפו בתבערה הגדולה שפרצה באז
+
+
+ מיר בשנת תר"ה. עליתו לא"י היתה על מנת להקבר בה, ובשביל כך כרה לעצמו קבר וחרת עליו מצבה זו: "זאת מנוחתי, עד ישקיף וירא ה' משמים, זאת המצבה אשר כריתי לי בעיה"ק ירושלים, זאת מאתי איש צעיר אשר ישא את שמי יום טוב דאנון ס"ט, דיין ממתא אזמיר ובחר עוד בירושלים". רק שתי שנים ישב על כסא הרבנות בירושלים. הוא נפטר בחודש תמוז תקפ"ג. המסורת אומרת כי היתה מחלוקת בינו ובין ר' אליעזר חזן בנו של ר' יוסף חזן הנ"ל על ענין בלתי ידוע "והם אמרו כי אחרי שאין מי שיכול לדונם למטה, מסרו דינם לשמים, ומתו שניהם ביום אחד".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 865 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/865</bibl><bibl>Volume: #2 ,Page: 866 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/866</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

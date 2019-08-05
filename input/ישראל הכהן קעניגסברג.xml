@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2473 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2473</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל הכהן קעניגסברג</persName>
+
+</head>
+         <div><p> נולד<persName> בשיניאווע</persName> (גליציה), ט' טבת תר''כ (1860). לאביו <persName>שמואל משה</persName> (שוחט) ולאמו <persName>הדסה.</persName> קיבל חינוך מסורתי.
+
+ עבר למסחר.
+
+ נשא לאשה את<persName> אסתר פייגל</persName> בת <persName>יששכר דב</persName> <persName>אפטרגוט.</persName>
+
+ בשנת תרמ"ח (1888) נסע לאמריקה וכעבור שנה הביא את אשתו, בנו יששכר דב ובתו והתישב בניויורק. שם עסק במסחר הבשר.
+
+ יסד את "ישיניאווער חברת אנשי ספרד" בניו-יורק (1889). ממיסדי "ישיבת ר' שלמה קלוגר" בניו-יורק ואחר כך את ה"תלמוד תורה" דמורד העיר.
+
+ היה גבאי וגזבר "כולל חבת ירושלים" עד יום פטירתו.
+
+ בשנת תרפ"ד עלה לארץ ועזר בסכומי כסף ניכרים לגמור את הדרך (הכביש) מצפת למירון. לכן נקרא הדרך על שמו עד היום (דרך ישראל). פעולה זו עשה אחרי שראה בעיניו את סכנות הנפשות הכרוכה בנסיעה למירון. בערב ל"ג בעומר בשנת תרפ"ה נפתחה רשמית הדרך בהשתתפות ראשי הצבור ובאי כח הממשלה. חילק סכומי כסף רבים למוסדות ולנצרכים.
+
+ נפטר בניו-יורק, ב' אייר תרצ''ד (17.4.1934).
+
+ צאצאיו:<persName> יששכר דב</persName> (ברל) <persName>הכהן </persName> (עו"ד בניו-יורק), <persName>חנה </persName> אשת<persName> ר' צבי בודק </persName> (ילדיו בישראל), <persName>גיטל</persName> אשת <persName>ר' אליקום גצל דייטש, חיים</persName> (הרמן) (עו"ד בניו-יורק), <persName>יצחק</persName> (מפקח הכשרות במחוז עירית ניו-יורק),<persName> יהושע</persName> <persName>זליג </persName> (עורך דין בניו-יורק).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2473 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2473</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

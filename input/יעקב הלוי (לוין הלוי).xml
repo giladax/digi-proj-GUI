@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3473 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3473</bibl><bibl>Volume: #10 ,Page: 3474 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3474</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב הלוי (לוין-הלוי)</persName>
+
+</head>
+         <div><p> נולד בראשון לציון, ט"ו באב תרנ"ח (3.8.1898). לאביו<persName> ישעיהו לוין-הלוי </persName> (מחבר ספר הערות והארות ל"שיר השירים") ולאמו<persName> שולמית </persName> בת<persName> אהרן רוכלין.</persName>
+
+ בגיל שנתיים וחצי יצא עם הוריו לחו"ל. בגיל 13
+
+
+ חזר עמהם וגמר את לימודיו בגימנסיה הרצליה. במלחמת העולם הראשונה התנדב לגדוד העברי הארצישראלי (ממייסדי הגדוד) ושירת בו עד לשחרורו ב-1920.
+
+ ב-1920 נשא לאשה את <persName>"אסתר </persName> בת<persName> ברוך גורלסקי</persName> (ראה כרך א', עמוד 92).
+
+ אחרי שחרורו מהגדוד העברי יצא להשתלם באוניברסיטת מנצ'םטר שבאנגליה, גמר והוסמך למגיסטר למדעים. נשאר באנגליה ויסד בברייטון את בית-האולפנא "וויטינגהים קולג'" למתן השכלה בריטית ועברית ביחד, והנו מנהלו עד היום.
+
+ כאחד מטובי בני הארץ משרת הוא את העם והמולדת גם בנכר בפעילות ציונית וצבורית יהודית בתור סגן נשיא ההסתדרות הציונית בבריטניה וציר לקונגרסים ציוניים רבים, יושב ראש הקונגרס היהודי העולמי בבריטניה.
+
+ יו"ר מפעל "שנת שרות" באירופה, יו"ר ועדת המערכת של השבועון' "דז'ואיש אובזרוור", ועוד.
+
+ מחבר מחקרים בשותפות עם פרופ'<persName> צ'אלנדז'ר</persName> , שפורסמו בעתונות המדעית באנגליה.
+
+ צאצאיו:<persName> שי</persName> (מפקד פלוגת טנקים בחזית איטליה בצבא הבריטי - ונהרג בגיל 24), <persName>רות-שולמית, בלפור</persName> <persName>(עורך-דין</persName> , בוגר אוניברסיטאות לונדון וניו-אורליאנס שבארה''ב).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3473 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3473</bibl><bibl>Volume: #10 ,Page: 3474 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3474</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

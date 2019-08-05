@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4037 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4037</bibl><bibl>Volume: #12 ,Page: 4038 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4038</bibl>
+<bibl>Volume: #12 ,Page: 4039 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4039</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר אורבן (בראנד)</persName>
+
+</head>
+         <div><p> נולד י"א אב תרע"ג (1911) בקולו שבפולין.
+
+ לאביו<persName> נתן</persName> ולאמו<persName> אסתר</persName> בת <persName>מרדכי בלום.</persName>
+
+ למד בחדר, בגימנסיה עברית ובאוניברסיטאות בגרמניה ובצרפת והוסמך לאגרונום ומהנדס. היה פעיל ב"מכבי", בארגוני-נוער ציוניים, למען הקהק"ל ובהסתדרות הציונית החדשה, ובאחרונה פעל בתור מחנך.
+
+ ב-1938 נשא לאשה את <persName>חיה</persName> בת<persName> יעקב פצנובסקי.</persName>
+
+ ביקר בארץ בשנים 1935, 1936, 1937, 1938 בענייני ארגון עלייה של מעפילים, וב-1939 נשאר להשתקע בארץ ולעבוד בהוראה, וכיום הנו מורה ומנהל ביתספר ברמת-גן.
+
+ פעל באירגונם ובניהולם של תאי-מורים רבים, מקודם בסניף ירושלים, חבר המרכז וההנהלה של הסתדרות המורים משנת 1948 ואילך, ובשנים 1952-56 היה חבר ועד החינוך שליד משרד החינוך והתרבות, יו"ר "המורים
+
+ הלאומיים", מארגן ויו"ר של סניף המורים ברמת-גן. פעילות ב"מכבי", בנוער הציוני בקהק"ל ועוד.
+
+ שירת את המולדת בהגנה, במחתרת ואח"כ בצה"ל, בהגנת ירושלים בתקופת מלחמת הקוממיות.
+
+ ייצג את מורי ישראל בקונגרסים של מורים מטעם אונסק"ו באנטוורפן ובפאריס.
+
+ כתב ב"הבוקר" וב"הארץ".
+
+ צאצאיו: <persName>נתן, מרדכי, פלאית.</persName>
+
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בנתניה, ח' סיון תשכ"ג (31.5.63)
+
+ (ראה כרך י"ב, עמוד 4038)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4037 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4037</bibl><bibl>Volume: #12 ,Page: 4038 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4038</bibl>
+<bibl>Volume: #12 ,Page: 4039 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4039</bibl>
+            <bibl>Volume: #13 ,Page: 4356 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4356</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

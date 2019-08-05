@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2210 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2210</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלום שכנא רות (ראטה)</persName>
+
+</head>
+         <div><p> נולד בצעשאנאו (גליציה) בשנת תרכ"ו (יולי 1866) לאביו <persName>זאב יקותיאל</persName> (ת"ח וסוחר) ולאמו <persName>בינה רחל</persName> בת ר' מרדכי ואלף.
+
+ קבל חנוך מסורתי בחדר ובישיבות.
+
+ היה פעיל בועדי תרבות ובחברות כלכליות. עסק בחקלאות.
+
+ בשנת תרמ"ו (1886) נשא לאשה את<persName> אסתר</persName> בת<persName> יוסף</persName> <persName>דאנציגר</persName> מבוסק (גליציה), נפטרת בתל-אביב, כ"ח חשו תש"ב (18.11.41).
+
+ בשנת תרצ"ט (1939) עלה לארץ.
+
+ כאן התמסר ללמודי התורה, עסק בצרכי צבור באמ נה והיה ידוע כנדבן בסתר. נפטר בתל-אביב ג' תשרי תש''ה (20.9.44). צאצאיו:<persName> זאב יקותיאל</persName> (ויליאם רות, ת"ח, חובב ת מידי חכמים ונדבן גדול, גר בניו-יורק),<persName> מרדכי, אברהם</persName> <persName>יעקב, שיינדל</persName> אשת<persName> שלמה אונטרברג, נחום דב, בינה</persName> אשת <persName>עמנואל צוקרמן</persName> (לודז).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2210 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2210</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

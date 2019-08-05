@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1271 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1271</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יצחק (בראוור) ברור</persName>
+
+</head>
+         <div><p> נולד בדיאקובצה, מחוז קולומיאה, מזרח-גליציה, י"א תשרי תרנ"ח (10.10.1897) לאביו ר'<persName> מיכאל הכהן</persName> <persName>בראוור</persName> , סופר וחוקר, עלה לארץ עם אשתו ב-1925 והתישב בפתח-תקוה ונטע פרדס- (נכדו של ר' <persName>מיכ</persName> <persName>אל בראוור</persName> שעלה ארצה לפני כ-90 שנה מקאלוש שבגליציה ומנוחתו בצפת) ולאמו <persName>לאה </persName> בת ר' אברהם
+
+ ציימער. קיבל חינוך תורני, גמר גימנסיה, למד בביתהמדרש לרבנים ובאוניברסיטה בוינה והוסמך לד"ר לפילוסופיה ובמשך שנה אחת היה מורד, בבית-ספר תיכוני יהודי בקילץ שבפולין.
+
+ עלה ארצה בספטמבר 1920 ומאז הוא מורה לגיאוגרפיה והיסטוריה בבית-הספר הריאלי בחיפה.
+
+ מהפעילים ומבין אלה שעצבו את דמותה הרוחנית של חיפה בכ"ח השנים האחרונות
+
+ נשא לאשה את <persName>סגולה</persName> בת<persName> גרשון נוסבאום.</persName>
+
+ פעיל בעבודה צבורית ותרבותית כחבר ועד סניף המורים בחיפה, חבר הועד הארצי של ארגון מורים תיכוניים, ממייסדי הפעולה למען הקה"ק בחיפה וממנהליה בשנות 1920/25, מיסד "אהל שם" בחיפה ופעיל בו בשנות 1931/35, מיסד "תנ"ך לעם" בחיפה ופעיל בו בשנות 1938/43.
+
+ השתתף בקונגרס בינלאומי לגיאוגרפים, קמברידג' 1928. כתב מאמרי בקורת על ספרי גיאוגרפיה ארצישראליים בירחון הגרמני הראשון במעלה במקצוע זה, "פטרמאנס מיטטיילונגן". חיבר את ספרהלימוד תולדות הזמן הקדום (מהדורה ראשונה חיפה תרצ"ד-ת"ש, מהדורה שניה בהוצאת "יבנה" תש"ו).
+
+ צאצאיו: <persName>איתן</persName> (היה בין אסירי כ"ג כובשי שממות ביריה התגייס לצבא ההגנה לישראל, נפצע ונעדר מפעולה בט' תמוז תש"ח בהגנה על המשלט "ירדה" שע"י משמר הירדן. בקרב פנים אל פנים עם הסורים הראה אומץ לב וקור רוח בהחזירו בקרב 2 רמוני יד לפני שהתפוצצו - חזרה לאויב), <persName>אראלה </persName> ז"ל, <persName>נחמיה, שלומית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1271 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1271</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

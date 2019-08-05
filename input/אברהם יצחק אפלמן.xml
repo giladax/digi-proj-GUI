@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2288 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2288</bibl><bibl>Volume: #5 ,Page: 2289 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2289</bibl>
+<bibl>Volume: #5 ,Page: 2290 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2290</bibl>
+<bibl>Volume: #5 ,Page: 2291 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2291</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם יצחק אפלמן</persName>
+
+</head>
+         <div><p> נולד בשנת תרל"ז (1877) בטלז שבליטא לאביו ר' <persName>ישראל</persName> ולאמו<persName> רחל</persName> בת <persName>שלמה קופל</persName> . בתרמ"ג לקחו ההורים אותו ואת אחיו <persName>אהרן </persName> ועלו ארצה. בגלל ההגבלות החמורות של השלטון הטורקי בחופי הארץ על עלית יהודים מרוסיה עלו לחוף בבירות, שם התחפשו בלבוש ערבי ובעזרת מבריחים הגיעו רכובים על פרדות לצפת
+
+ ואח"כ השתקעו בירושלים. כאן למד אברהם יצחק בחדרים ובישיבות והשתלם באופן פרטי ובסתר בשפות אנגלית וגרמנית ועוד ובהשכלה כללית.
+
+ בעודו נער התחיל לעזור לאביו במלאכתו, כריכת ספרים, השתלם יפה במקצוע, ולאחר זמן, כשירש את הכריכה מאביו שכלל אותה במכונות ובמכשירים חדישים שהזמין מגרמניה והעלה אותה לרמת הכריכיה המודרנית ביותר בכל הארץ בימים ההם וכל המוסדות ובתי
+
+ הדפוס של יהודים ונכרים היו מוסרים לו את פרסומיהם לכריכה. אף האלבום האמנותי, שעדת היהודים בירושלים מסרה שי לקיסר הגרמני וילהלם בעת ביקורו בארץ, הוכן בבית מלאכתו.
+
+ נשא לאשה את<persName> שרה בילה</persName> בת ר' <persName>אברהם מאיר ליפ</persName> <persName>שיץ-ויגיסר</persName> , שעלה ארצה בילדותו עם הוריו מהונגריה והתישבו בין הראשונים ב"רחוב חברון" שבעיר העתיקה (כך קראו אז לרחוב המוליך משער שכם לרחוב שער השלשלת - הדרך של יהודי מאה שערים ואגפיה אל הכותל המערבי), ומחוסר "מנין" שלם לתפילה בבית הכנסת של האשכנזים, "שומרי החומות" של כולל אונגארן, היה הנער אברהם מאור משלים למנין בצירוף ספר תורה.
+
+ ר' אברהם יצחק, כאדם עצמאי המתפרנס בכבוד מיגיע כפיו, נמנה בין ראשוני האברכים המשכילים של הישוב הישן שפעלו בסתר ובגלוי למען הבראת חיי הצבור היהודי בעיר הקודש, שיפור סדריו והנהגתו ופריצת התחומים שבין עדותיו וגזעיו. הוא חי כל ימיו לפי התורה והמסורת, ודוקא משום כך התמסר לריפוי מומי הצבור שגם התורה פוסלת אותם, אף על פי שנשתרשו בישוב האשכנזי השמרני. הצטרף בין הראשונים לחברת "אחוה", שפעלה בראשיתה כמיסדר חשאי לטיהור והבראה בחיי הישוב ושימש בה כמזכיר, השתתף ביסוד מיסדר "המכבים הקדמונים", וכשהגיע בנו <persName>מאיר בנציון</persName> לגיל הלימוד, יסד יחד עם ר' <persName>פישל לוי</persName> הרוקח<persName> ומנחם</persName> <persName>גרובר</persName> את "חדר-תורה תחכמוני", שהנו עד היום בית-ספר מסורתי בלתי-מפלגתי בעל רמה גבוהה, וגם לבנותיו נתן חינוך עברי לאומי מסורתי.
+
+ כתב שירים ומאמרים בשאלות הזמן, אך מתוך ענוה סירב לעצות ידידיו ולא מסרם לפרסום בעתונים, והנם שמורים כמזכרות-קודש בבתי צאצאיו. אך בפעילות ישובית וצבורית השתתף בגלוי. אהב את ירושלים וחקר בעתיקותיה. עזר בגאולת קרקעות מידי הערבים וביסוד השכונות "בית וגן" ו"קרית משה", בה בנה את ביתו ונטע סביבו גן יפה במו ידיו ובמשך שנים רבות עד יומו האחרון היה חבר הועד והמוכתר של השכונה. ביתו היה בית ועד לחכמים ולעסקנים ובסדרי ליל פסח שלו היה מסובים לשלחנו מלומדים וחוקרי עתיקות הארץ מישראל ומהנכרים. בחול המועד סוכות תרע"ה יסד יחד עם <persName>מאיר רוזין, צבי צימרינסקי, שלמה אלפרט,</persName> <persName>שלמה ליכטנשטיין, יוסף קוואטינסקי ויונה בונה</persName> אגודת אומנים ובעלי מלאכה, שריכזה אז כמאה חברים בירושלים, לשם פעילות צבורית ועזרה לנזקקים בצוק העתים של מלחמת העולם.
+
+ נפטר בירושלים, ט' באב תר"ץ.
+
+ צאצאיו: <persName>מאיר בנציון</persName> (מורה לחינוך וללימודי יהדות ועברית בביה"ס הגבוה רמ"ז ומרצה בביהמ"ד למורות בניו-יורק. - ראה עליו ערך מיוחד בכרך זה); <persName>רבקה</persName> אשת <persName>שמואל רדובילסקי, יונה</persName> אשת האדריכל <persName>דוד כרמלי, חנה</persName> אשת <persName>בנימין פיינשטיין, חיה</persName> אשת<persName> נחמן</persName> <persName>פרידמן, אסתר</persName> אשת<persName> בנימין טיומקין. </persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2288 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2288</bibl><bibl>Volume: #5 ,Page: 2289 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2289</bibl>
+<bibl>Volume: #5 ,Page: 2290 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2290</bibl>
+<bibl>Volume: #5 ,Page: 2291 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2291</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2579 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2579</bibl><bibl>Volume: #6 ,Page: 2580 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2580</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנשימול</persName>
+
+</head>
+         <div><p> היה הפקיד השני הממונה על ראשון לציון והמושבות הקרובות לה, קודם לכן היה מורה ב"מקוה ישראל", ונחשב לאדם בעל הגיון ישר. בתור פקיד היה נאמן ומסור לתפקידו ולשולחו. הוא היה תמיד מוציא לפועל את כל מה שהוטל עליו לטובת המתישבים, כפי שצוו לו נאמני הברון, ובעיקר היה מציית למנהל מקוה ישראל <persName>שמואל הירש,</persName> שהיה אחד מהפקידים הראשיים והנאמנים של הברון בנוגע להתישבות.
+
+ היה אהוב על כולם, גם על הפקידים וגם על המתישבים אך למזלו הרע קרה לו שבשעה שנתמנה למנהל ראשון במקום דיגור המפוטר, הגיע מברק מהברון כי עליו לגרש אחד מהאכרים, שהתחצף בשעתו נגד הפקיד דיגור ושעליו התאונן הלה בפני הברון. האכר הזה היה<persName> ישראל בלקינד</persName> מראשוני ביל"ו, שכתב את התלונה נגד פקידות הברון.
+
+
+<persName>ישראל בלקינד</persName> לא רצה שבגללו ימשוך הברון את ידיו מעבודת ישובה של הארץ (כמו שאיים במברק הנ"ל) וגם לא יכול לראות בצערם של בני המושבה, שפקידי הברון מנעו מהם כל זמן שלא יוציאו מקרבם את בלקינד. בלקינד הלך לבנשימול והודיע: "אני עוזב מרצון עצמי את המושבה, למען לא יבולע לשום אדם אחר".
+
+ בנשימול ענה לו: "מכיון שאתה בעצמך עושה ג'סטה יפה של הקרבה עצמית כזאת, הריני מבטיחך כי אחיך ואחיותיך לא יסבלו בגללך". ואמנם הוא קיים את הבטחתו, ולא רק אחיו ואחותו נשארו בראל"צ והסתדרו כמו כל האכרים, אלא הוא הרשה לבלקינד כעבור זמן מה לשוב לראל"צ.
+
+ הברון אהב מאוד את בנשימול, וכשחלה טלגרף <persName>ארלנגר</persName> בשם הברון<persName> לשמואל הירש</persName> ביום 20.10.1884 טלגרמה כזו בעברית: ...היוכל בנשימול לילך לראש פינה ? האויר טוב. (ברון רוטשילד) מאמין בו ויניחהו בלי קונטרולה, לא כן באחרים".
+
+ ואמנם כעבור זמן קצר יצא בנשימול מראשון לציון ויותר לא שב אליה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2579 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2579</bibl><bibl>Volume: #6 ,Page: 2580 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2580</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

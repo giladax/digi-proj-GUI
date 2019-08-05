@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1220 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1220</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר בנימין הרצל ברגר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>מינסק</placeName> בי"ט אב תרס"ד לאביו<persName> יצחק יוסף</persName> , עסקן יהודי וציוני פעיל, ממייסדי "פועלי ציון" ברוסיה ולאמו <persName>מרים</persName> (משה) בת זאב גולדשטיין, עסקנית ציונית. קיבל חינוך עברי-ציוני. למד בבית הספר הראלי ב<placeName>מינסק</placeName>. מילדותו ספג בבית הוריו את אוירת הציונות המעשית. בשנת 1919-21 חבר תנועת הנוער הבלתי ליגלית ברוסיה הסובייטית "השומר הצעיר" ו"החבר". בראשית שנת 1021 עבר לביאליסטוק (פולין) והצטרף למפלגת "פועלי ציון" ימין. משם עבר לגרמניה, עבד כפועל דפוס, אחר-כך למר באוניברסיטת ינה והוסמך לכלכלה וד"ר למשפטים. (את הדוקטורט קיבל על יסוד דיסרטציה על נושא יהודי, "ועד ליטא"). בשנים 31-1930 היה מזכיר הועד המרכזי של "פועלי ציון" בגרמניה.
+
+ בשנת 1932 עבר לפולין והיה חבר הועד המרכזי של פועלי ציון צ. ס. בפולין (בשנים 1933-34) וכן חבר מערכת "דאס ווארט", העתון היומי של תנועת ארץ-ישראל העובדת.
+
+ בשנת 1934 עלה לארץ-ישראל ונכנס לעבודה במערכת "דבר", כחבר המערכת. כן משתתף בכתבי-עת שונים של תנועת הפועלים.
+
+ בשנת 1934 נשא לאשה את <persName>רחל</persName> בת שמואל קרונזון רופאה במקצועה.
+
+ צאצאיו;<persName> חיה, שמואל, יצחק.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, כ"ח באב תשכ"ב (28.8.62)
+
+ (ראה כרך ג', עמוד 1220)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1220 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1220</bibl>            <bibl>Volume: #13 ,Page: 4356 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4356</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

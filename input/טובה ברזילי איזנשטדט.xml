@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3631 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3631</bibl><bibl>Volume: #10 ,Page: 3632 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3632</bibl>
+<bibl>Volume: #10 ,Page: 3633 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3633</bibl>
+<bibl>Volume: #10 ,Page: 3634 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3634</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>טובה ברזילי-איזנשטדט</persName>
+
+</head>
+         <div><p> נולדה בזעטיל (רוסיה) בשנת תרט"ה (1855). לאביה ר' <persName>אליעזר פריידקס.</persName>
+
+ קבלה חנוך מסורתי ולאומי.
+
+ בגיל צעיר נישאה <persName>ליהושע ברזילי-אייונשטט</persName> (הסופר וחובב ציון פעיל ועסקן ישובי נודע (ראה כרך א', עמוד 150).
+
+ בביתה, ברוסיה, היו נפגשים עסקנים ציונים שפעלו אז למען הציונות. אך כשפרצו ברוסיה הפרעות, החליטו לחסל את עסקיהם ובכ"ב סיון תרמ"ז (1887) עלו לארץ.
+
+ ישבו כחצי שנה באוהל בנס-ציונה והתנסו בחיים הקשים בארץ בימים ההם. והיא קבלה הכל באהבה.
+
+ אחרי שבעלה נתמנה למנהל הועד הפועל של משרד "חובבי ציון" ביפו, ורוב העבודה הציונית התרכזה בביתם, פתחה את הבית לרווחה לעולים חדשים ולעסקני הישוב בימים ההם.
+
+ כשבעלה עבר בשנת 1905 לירושלים ליסד ולנהל את סניף הבנק אפ"ק (הבנק הלאומי לישראל) והרחיב שם את עבודתו הצבורית, עמדה לעזרתו במסירות וביתה בירושלים היה ידוע - כבית לפגישות עסקנים ותלמידי חכמים.
+
+
+ נפטרה בירושלים, ט' באב תרצ"ג (1.8.1933).
+
+ צאצאיה: <persName>מתקה-שפרה</persName> אשת ר'<persName> ישראל צוברא</persName> <persName>צרבינסקי</persName> (ראה כרך א', עמוד 184), <persName>הניה-מלכה</persName> אשת ר' <persName>יצחק הנקין, מרים</persName> אשת<persName> ליאון חנוכה, משה אייזנ</persName> <persName>שטט</persName> (ממנהלי הבנק הלאומי לישראל, לשעבר).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3631 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3631</bibl><bibl>Volume: #10 ,Page: 3632 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3632</bibl>
+<bibl>Volume: #10 ,Page: 3633 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3633</bibl>
+<bibl>Volume: #10 ,Page: 3634 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3634</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

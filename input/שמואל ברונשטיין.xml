@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3267 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3267</bibl><bibl>Volume: #9 ,Page: 3268 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3268</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל ברונשטיין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אודיסה</placeName> (רוסיה) בשנת תקצ"ז (1837). לאביו <persName>אשר</persName> ולאמו <persName>חנה</persName> בת<persName> שמעון ברסלר.</persName> קבל חנוך מסורתי.
+
+ בשנת תרי"ג (1853) עלה לארץ והשתקע בצפת. בשנת תרט"ו (1855) נשא לאשה את<persName> שרה</persName> בת<persName> בנימין</persName> <persName>פינקלשטיין.</persName>
+
+ היה סוחר שמנים בצפת ובסביבה. רכוב על חמור
+
+
+ היה עובר יחידי בכפרי הנוצרים והדרוזים בג'יש ורמה ומקיים את מסחרו.
+
+ היה ידוע כאיש חזק ולא פעם מנע התקפות שודדים בסביבה.
+
+ יהודי מסורתי, מעורב עם הבריות, בעל בינה וחכמת החיים וחביב על כל יודעיו.
+
+ נפטר בחיפה, א' ניסן תרצ"ב (7.4.1932).
+
+ צאצאיו:<persName> אברהם אלתר</persName> (חיפה),<persName> אשר</persName> (במצרים), <persName>אסתר, פייגה</persName> (נשואות בארצות הברית), <persName>גולדה</persName> (נשואה באוסטרליה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3267 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3267</bibl><bibl>Volume: #9 ,Page: 3268 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3268</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

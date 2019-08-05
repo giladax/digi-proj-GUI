@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4099 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4099</bibl><bibl>Volume: #12 ,Page: 4100 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4100</bibl>
+<bibl>Volume: #12 ,Page: 4101 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4101</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ראובן טריפון</persName>
+
+</head>
+         <div><p> נולד בגריגורבקה, פלך צ'רניגוב (רוסיה) בשנת תרנ"ד (1894).
+
+ לאביו<persName> יצחק טריפון </persName> (מוותיקי האכרים במצפה, (ראה בכרך ד', עמוד 1712) ולאמו<persName> חיה</persName> בת <persName>אלכסנדר צרבינסקי</persName> מבוברויסק.
+
+ קיבל חינוך מסורתי, בבי"ס עממי.
+
+ היה פעיל בארגוני הנוער הציוני בעירו.
+
+ בשנת 1907 עלו לארץ שניים מאחיו:<persName> מיכאל טריפון</persName> (ראה כרך ד', עמוד 1620)<persName> וחיים טריפון</persName> , ובשנת 1908 עלה הוא עם הוריו ושאר בני המשפחה לארץ והשתקעו ב"מצפה" ע"י טבריה, בתור חקלאים מטעם יק"א, ובכסף שהביאו עזר להם בביסוס משקיהם על שטח של כ-500 דונם, חי, על פלחה ומשק מעורב.
+
+ אחרי שנתיים של עבודה נשלח לירושלים ללמוד באליאס (כי"ח).
+
+ בפרוץ המלחמה העולמית הראשונה, התגייס לצבא התורכי במחלקת האספקה בטבריה, ואח"כ הועבר לאנטוליה בפנים תורכיה, שם היו אז יהודים מא"י עצורים. שהה שם כל שנות המלחמה (במשך 4.5 שנה).
+
+ אחרי הכיבוש הבריטי חזר לארץ ונתקבל בתור פקיד בפיק"א. קודם גר במטולה ואח"כ בראש-פינה. אח''כ הועבר למשרד הראשי של פיק"א בחיפה. שם היה ממונה על מחלקת רכישת הקרקעות והצליח לגאול שטחי אדמה גדילים לפיק"א.
+
+ נשא לאשה את<persName> יונה </persName> בת <persName>זלמן ברזל</persName> מצפת (ראה כרך א', עמוד 127).
+
+ בשנת 1944 עזב את הפיק"א ועבר לעבוד במשרדי הקהק"ל בגאולת קרקעות.
+
+ כיום, במונטריאל (קנדה).
+
+ צאצאיו:<persName> חיים, חרמונה, יצחק.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4099 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4099</bibl><bibl>Volume: #12 ,Page: 4100 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4100</bibl>
+<bibl>Volume: #12 ,Page: 4101 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4101</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

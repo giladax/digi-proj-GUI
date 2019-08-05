@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1621 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1621</bibl><bibl>Volume: #4 ,Page: 1622 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1622</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי ארקין</persName>
+
+</head>
+         <div><p> נולד בגדרה, כ"ב טבת תרס"ז (8.1.1907), לאביו <persName>צבי גדליה</persName> (ראה כרך ג', עמוד 1251) ולאמו <persName>חנה</persName> בת הרב <persName>יצחק הירשנזון </persName> מירושלים (עליהם ראה בכרך זה).
+
+ למד בבית הספר בגדרה ואח"כ בגימנסיה הרצליה בתל-אביב. הצטיין במתימטיקה, בפיסיקה, בשרטוט ובכריכת ספרים ובזריזות כללית בטכניקה. בן 10 כבר ידע לפרק ולהרכיב חזרה שעונים, מכונותתפירה וכו'. היה מהפעילים במכבי, בהגנה, במשטרה המיוחדת ובמשמר האזרחי. בשעות הפנאי חיבר שירים והשאיר כדי קובץ שלם בכתב-יד. עסק בסידור כתבי-היד בהלכה ובאגדה ובעניני הישוב מעזבון
+
+
+ אבי אמו הרב <persName>יצחק </persName> ואביו של זה, הרב<persName> יעקב מרדכי</persName> <persName>הירשנזון</persName> . היה במשך תשע שנים מנהל מחסני תיבות אריזה לפרי הדר אצל האחים רוקח ושות' ובמשך שנתים מנהל מחסני חמרי אריזה של חברת פרדס סינדיקט בשרון ובחדרה, ובשנים האחרונות מנהל מחלקת האינוונטר, המכבסה והמכונות בבית החולים הדסה על הר הצופים בירושלים והרבה להיטיב ולעזור לבני המושבות בכל הענינים שהזדקקו להם בבית-החולים, וכל הזמן לא ויתר על שאיפתו,
+
+ שהביע אותה גם בשיריו להשתחרר מהתפקידים העירוניים ולחזור לעבודת האדמה.
+
+ בשנת תש"ג נשא לאשה את<persName> דבורה</persName> בת אברהם <persName>יצחק הויזמן</persName> .
+
+ משפרצה מלחמת הערבים בישראל והאנגלים מסרו בידי הערבים את הדרך מירושלים להר הצופים, שירת מרדכי בשמירה מזוינת על מרכז התרבות והריפוי של עם ישראל, המבודד והמנותק מיתר הישוב.
+
+ בשרותו זה נפגע בכדור אויב בעמדו על המשמר על גג בית החולים הדסה ונהרג ביום כ"ד אדר ב תש"ח (7.4.48).
+
+ צאצאיו: <persName>שמעון, מיכיה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1621 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1621</bibl><bibl>Volume: #4 ,Page: 1622 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1622</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

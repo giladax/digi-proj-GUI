@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 323 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/323</bibl><bibl>Volume: #1 ,Page: 324 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/324</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נתן בריל</persName>
+
+</head>
+         <div><p> נולד ביאסי, רומניה, בשנת תרנ"א (15.3.1891), לאביו<persName> דב.</persName> קיבל חינוך מסורתי וגמר בית-ספר גבוה למסחר בצ'רנוביץ. אחרי שרותו בצבא הרומני נתמנה למנהל בחברת נפט בפלואשטי. היה פעיל בתנועה, הציונית מנעוריו בארגוני נוער ואח"כ באגודה ציונית למבוגרים.
+
+
+ עלה ארצה בשנת 1919. עבד כפועל חקלאי במרחביה וב-1920 נתקבל כפקיד בסניף החיפאי של הבנק האנגלו-מצרי, שהפך אח"כ לברקליס בנק. עלה בדרגה למנהל-חשבונות ראשי וב-1936 למנהל הסניף של הבנק בהדר הכרמל.
+
+ ב-1921 נשא לאשה את<persName> בתיה</persName> בת<persName> משה מרקוס</persName> מפתח-תקוה, גם הוא מעולי רומניה.
+
+ היה פעיל בתעמולה לעלית יהודי רומניה ובעזרה לסידורם בארץ. השתתף ביסוד השכונה נוה שאנן בחייפה ופעל רבות למען התפתחות העיר חיפה והסביבה.
+
+ נפטר בחיפה, ט"ו ניסן תש"ה (29.3.45).
+
+ צאצאיו:<persName> שמואל</persName> (שירת בצי במלחמת-העולם השניה),<persName> חננאל </persName> (גמר בית-ספר ימי ומשרת בצי המסחרי העברי),<persName> זיוה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 323 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/323</bibl><bibl>Volume: #1 ,Page: 324 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/324</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

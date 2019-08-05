@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1184 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1184</bibl><bibl>Volume: #3 ,Page: 1185 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1185</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישעיהו שטרייט</persName>
+
+</head>
+         <div><p> לאביו יעקב ולאמו <persName>צביה</persName> בת <persName>שמואל הבר</persName> . נולד בכ"ז תמוז תרמ"ד (1884) בעיר טלומטש בגליציה; אחיו של הסופר שלום שטרייט.
+
+ למד ב"חדר" ובבית המדרש ולמודי חול אצל מורים פרטיים.
+
+ היה פעיל בחברות הציוניות "תקות ישראל", "צעירי ציון" ו"פועלי ציון". ממיסדי בית הספר העברי "שפה ברורה" ומפיץ שקלים, מוכר מניות של ה"קולוניאלבנק" ופעיל בעבודה למען הקרן הקיימת לישראל.
+
+ לשם פרנסתו עסק זמן-מה בהנהלת בתים וגם בעסקי יערות של המשפחה.
+
+ לארץ ישראל עלה בל"ג בעומר תרס"ח ותיכף נתמנה למנהל החברה לתעשייה ומכירה של יינות בשם "כורמי התקוה". בעת שניהל את החברה הנ"ל (1908 - 1911) הפיץ את יינותיה בכל קצוי עולם (אמריקה, קנדה, רוסיה, גרמניה, פולניה ואוסטריה).
+
+ בשנת 1912 נתמנה למנהל בית חרושת לשמן וסבון במוצא. אח"כ עבר לפ"ת והתעסק במשקו. באותו פרק הזמן נבחר לועד המושבה, והיה בין הלוחמים העזים בעד השפה העברית נגד חב' "עזרה" בשעתה. לשם הפצת ספרים והוצאתם יסד בתרע"ג את חברת "השרון", שהוציאה את קובצי "רביבים" בעריכת י. ח. ברנר ועוד.
+
+
+ כשפרצה מלחמת עולם הראשונה עשה הרבה למען המושבה כנתין אוסטרי.
+
+ בתקופה ההיא נשא לאשה את ברכה בת מרדכי סלומון ומסדר הקדושין שלו היה א. ז. רבינוביץ, השושבינין - י. ח. ברנר ור' בנימין, ועדי ה"כתובה" - אשר ברש ויהושע גולדפרב.
+
+ עבד זמן רב ב"עין חי", ועבודה זו הניחה את היסוד ל"רמת השבים", "גבעת חן", רמתים", "הדר", "ירקונה" וכל הסביבה הנ"ל. ממיסדי בנק "קופת מלוה חקלאית" בע"מ בפתח
+
+ תקוה ומנהלו מיום הוסדו עד יום מותו. היה חבר הועד של הספריה על שם אליהו ספיר בפ"ת. במשך שנים אחדות היה חבר ועד התאחדות האכרים בארץ ישראל.
+
+ נפטר בפתח תקוה, ח' שבט תש"ז (29.1.47).
+
+ צאצאיו : <persName>יעקב, נצה</persName> אשת <persName>יעקב גבאי, צביה,</persName> <persName>דוגית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1184 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1184</bibl><bibl>Volume: #3 ,Page: 1185 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1185</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

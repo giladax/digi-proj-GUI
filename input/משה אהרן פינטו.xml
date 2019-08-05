@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3809 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3809</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה אהרן פינטו</persName>
+
+</head>
+         <div><p> נולד בקיוב בשנת תרי"ח (1958). לאביו ר' <persName>יעקב פנחס</persName> ולאמו<persName> לאה</persName> .
+
+ קיבל חינוך מסורתי בחדר ובישיבה. עברית למד ממורים פרטיים. הצטיין במטמטיקה.
+
+ היה חבר ופעיל ב"חובבי ציון" בעירו. עבד כמנהל חשבונות בעירו.
+
+ עלה לארץ בשנת תרנ"ג (1893). נשא לאשה את <persName>צפורה</persName> בת <persName>יום-טוב קרליצקי</persName> , ממוסקבה. (נפטרה בטבריה בחדש שבט תרע"ז - 1917).
+
+ היה מעסקני שכונת נוה-צדק, ממייסדי בית המדרש לחסידים בשכונה, ומרצה בשיעורי משנה ואגדה בכל יום שבת אחה"צ.
+
+ בהתחלה עבד בהנהלת חשבונות בראשון-לציון ובכמה מושבות בדרום. אח"כ נתקבל כמנהל חשבונות ראשי בבית המסחר הידוע לעצים "פראנק את ליטוינסקי" ביפו.
+
+ ממיסדי שכינת מאה שערים (הרחובות: מאה שערים, גאולה וכו' בת"א).
+
+ אח"כ פתח בית מסחר לעצים לעצמו וסיפק עצים למיסדי ת"א כשהחלו בבנין העיר.
+
+ בגירוש יפו היה חבר ועד ההגירה, ניהל את חשבונות הוועד ועשה רבות למען המגורשים בחלוקת מזון וכספים.
+
+ ע"י קשריו הטובים עם הערבים ופקידות הממשלה התורכית, הצליח לשחר- ע"י כופר ושוחד רבים מהקרואים לצבא וכוי.
+
+ בגמר מלחמת העולם הראשונה ניהל את ספרי החשבונות בבית החרושת לשמן של האחים ברסלב בת"א.
+
+ גאל שטחי קרקע ניכרים מהשכנים הערבים.
+
+ נפטר בתל-אביב, י' אדר א' תש"ג (11.2.1943). צאצאיו (מאשתו הראשונה):<persName> יעקב, יצחק</persName> .
+
+ מאשתו השניה: <persName>לאה</persName> אשת<persName> ישראל גלעדי, יוסף,</persName> <persName>אברהם</persName> ז"ל (נהרג ע"י הפצצת ת"א בכ"א אדר ב' תש"ח. אשתו <persName>שרה</persName> בת<persName> אברהם יחיאל טיוץ), שרה</persName> ז"ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3809 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3809</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

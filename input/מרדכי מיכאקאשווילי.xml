@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1419 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1419</bibl><bibl>Volume: #3 ,Page: 1420 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1420</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי מיכאקאשווילי</persName>
+
+</head>
+         <div><p> לאביו<persName> אהרן</persName> (סוחר) ולאמו<persName> שמחה </persName> בת<persName> יעקב</persName> אנטושווילי.
+
+ נולד באחאלציק, מאז טיפליס (קאוקאז), ד' אדר תר"מ (1880).
+
+ קיבל חינוך מסורתי בחדר וכללי בגימנסיה בטיפליס.
+
+ עבד אצל אביו שהיה קבלן צבאי לצרכי מזון והלבשה בגבול רוסיה - תורכיה.
+
+
+ בשנת תרס"ו (1906) נשא לאשה את <persName>שרה</persName> בת <persName>פנחס גורל.</persName>
+
+ באותה שנה עלה לארץ (לפי דרישת אביו, שהיה חובב ציון, ולא זכה בעצמו לעלות לארץ) אחרי שעזב רכוש גדול במבצר סארקאמיש, שבגבול תורכיה.
+
+ התישב בירושלים, פתח שם בית מסחר למנופקטורה ועסק בעיקר בבנקאות (חלפנות).
+
+ עזר להתפתחות המושבות ותל-אביב ע"י הלואות למתישבים בתנאים נוחים.
+
+ בתר"ץ (1930) עבר עם משפחתו לתל-אביב, הקים בנין גדול בגבול יפו - ת"א, ששימש למרכז הבולשת במחוז לוד, והמשיך במסחרו, כאחד האימפורטרים הגדולים לסחורות מנופקטורה.
+
+ צאצאיו :<persName> אהרן ישר, משה חיים, אלעזר, שושנה</persName> <persName>(רוזה), מלכה (מניה), רחל.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, כ"ב אלול תשכ"ב (21.9.62)
+
+ (ראה כרך ג', עמוד 1419)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1419 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1419</bibl><bibl>Volume: #3 ,Page: 1420 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1420</bibl>
+            <bibl>Volume: #13 ,Page: 4357 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4357</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

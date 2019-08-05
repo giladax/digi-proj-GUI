@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3755 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3755</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אבא ברונפמן</persName>
+
+</head>
+         <div><p> נולד במונטריאל (קנדה) בשנת תרמ"ב (15.11.1882).
+
+ לאביו <persName>יחיאל משה</persName> ולאמ<persName>ו חיה מינדל</persName> בת ר<persName>' חיים</persName> <persName>אלמן.</persName>
+
+ ב-10.10.1905 נשא לאשה את<persName> סופיה</persName> (צביה) בת <persName>פלתיאל רזמינסקי.</persName>
+
+ מהתורמים החשובים לקרנות מדינת ישראל. Mr. Abe Bronfman has been prominently identified with Jewish communal leadership in Canada for over half a century. He is Honorary President of the Combined Jewish Appeal of Montreal, and holds the same post with Mount Sinai Sanatorium and the United Talmud Torahs. He is Honorary President of the Federation of Jew</p>
+<p>
+
+ תוספות: 
+
+ נפטר בפלורידה (ארצות הברית) ט"ז אדר תשכ"ח (16.7.68) והובא לקבורה במונטריאל (קנדה) (ראה כרך י"א, עמוד 3755)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3755 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3755</bibl>            <bibl>Volume: #17 ,Page: 5246 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5246</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

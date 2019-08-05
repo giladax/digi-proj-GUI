@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2218 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2218</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרגלית (מרגריטה) מוזס</persName>
+
+</head>
+         <div><p> נולדה בקמפטן, דרום-גרמניה, בשנת תרנ"ח (18.10.1898), לאביה<persName> מאיר אורטל</persName> ולאמה<persName> הנריאטה</persName>
+
+ לבית <persName>פרייטאג</persName> . אחרי גמירת גימנסיה לבנות למדה במינכן בבית-ספר גבוה ובאקדמיה לאמנות (מחלקה לפסנתר).
+
+ ב-1921 נישאה לד"ר<persName> זיגפריד מוזס </persName> (כיום מבקר מדינת ישראל; ראה עליו ערך מיוחד בכרך זה). עזרה לו בפעולותיו הציוניות והצבוריות, היתה פעילה בויצ"ו בגרמניה כמרצה ועסקנית ונודעה כסופרת וכפסנתרנית-אמנית.
+
+ אחרי ביקור בארץ ב-1927 עלתה ארצה עם בעלה ובניה ב-1936. ממשיכה בפעילות בויצ"ו בארגון עולי מרכז אירופה,במלחמת-העולם ב' ובמלחמת העצמאות השתתפה בפעולות הצבוריות למען החיילים ומשפחותיהם, הן בעבודה. ארגונית והן בתרומת-אמנות בנגינה בפסנתר בקונצרטים רבים.
+
+ מספוריה שכתבה בגרמנית נתפרסמו בשפתם המקורית הספור "חלום בתהום" בהוצאת "יידישה רונדשאו" (ברלין, 1934), "כזאת וכזאת עשה אלוהים" (הוצאתבראנדוס, ברלין, 1935), "הצליל הנסתר" (הוצאת "מטרה", תל-אביב, 1940), וספורים קצרים בתרגום עברי ב"הארץ".
+
+ בניה;<persName> אלי, רפאל. </persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2218 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2218</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

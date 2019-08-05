@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4067 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4067</bibl><bibl>Volume: #12 ,Page: 4068 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4068</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרים גולדשטיין</persName>
+
+</head>
+         <div><p> נולדה בסקבירה (רוסיה) בשנת תרס"ב (10.11.1902).
+
+ לאביה ר' <persName>יהודה ליב מץ </persName> (בן הרב<persName> משה מץ,</persName> רב ראשי בסקבירה. אביה עלה לארץ בשנת 1921 ונפטר בארץ) ולאמה <persName>בת-שבע.</persName>
+
+ קיבלה חינוך מסורתי וכללי.
+
+ היתה חברה פעילה ב"צעירי-ציון".
+
+ בשנת 1921 עלתה לארץ עם קבוצה של חברי "החלוץ" מרוסיה.
+
+ עבדה כפועלת בכבישים, בכיבוש עבודה עברית ועבדה כעובדת סוציאלית מתנדבת.
+
+ בשנת 1922 נישאה<persName> לאהרן גולדשטיין</persName> (ראה את הערך שלו בכרך זה).
+
+ היתה חברה פעילה בועד הפועל של הקופדרציה של הציונים הכלליים העולמית.
+
+ בשנות 1939-51 מנהלת ואחראית של לשכה סוציאלית בשכונת בורוכוב.
+
+ טיפלה בנוער התימני בארץ.
+
+ היתה ציר מטעם הציונים הכלליים בקונגרס הציוני ה-23 בירושלים.
+
+ היתה ציר בועדה העולמית של ההסתדרות לשווי זכויות לאשה שנערכה באוגוסט 1961 בדובלין (אנגליה) בתור נציגת ויצ"ו.
+
+ יו"ר ועדת הארגון של נשים ליברליות בישראל.
+
+ חברה פעילה במרכז המפלגה - בועד הפועל של המפלגה הליברלית.
+
+ כתבה מאמרים בעתונות הציונים הכלליים בארץ.
+
+ בנותיה:<persName> שולמית</persName> אשת<persName> ישראל אלון, נחמה</persName> אשת <persName>מרדכי ברש.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4067 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4067</bibl><bibl>Volume: #12 ,Page: 4068 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4068</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

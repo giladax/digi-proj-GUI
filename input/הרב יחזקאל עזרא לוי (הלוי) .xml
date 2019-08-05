@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3843 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3843</bibl><bibl>Volume: #11 ,Page: 3844 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3844</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יחזקאל-עזרא לוי (הלוי) </persName>
+
+</head>
+         <div><p><persName>לאביו יהושע. נולד בבגדאד.</persName>
+
+ התחנך בבית המדרש לרבנים "מדרש בית זלכה", היה תלמידו של ה"חכם באשי" ר' <persName>יצחק </persName> ב"ר<persName> אברהם</persName> <persName>שלמה.</persName>
+
+ בשנת תר"ן (1890) עלה לארץ ישראל והשתקע בירושלים.
+
+ נוסף לעבודותיו התורניות התפרסם גם כעסקן ציבורי. בשנת תרס"ז (1907) יסד יחד עם רבנים אחרים בירושלים את הישיבה "שושנים לדוד" לעדת הבבלים.
+
+ בהיווסד "ועד עדת הבבלים" בירושלים - היה נשיא הכבוד שלו.
+
+ בשנת תרפ"ב (1922) נסע בשליחות הבבלים לבגדאד ואסף כספים לשם תמיכה בעולים הבבלים שעלו לא"י.
+
+ היה גם דרשן מובהק שידע למשוך את לב השומעים.
+
+ חיבוריו: "ערוגת הבושם" - על האגדה (ירושלים תרס"ג): "תפלה ותפארת" (פירוש על תהלים בדרך פרד''ס בצירוף כמה שירים מאת המחבר, ירושלים תרע"ד): "פתחי תשובה" - (ירושלים תרפ"ו); "שמחת יום טוב" (פירוש על "הגדה של פסח" ירושלים תרצ"ד); הו"ל את הספר "פועל צדק" להרב בעל "שפתי כהן" וכתב הקדמה בראשו (ירושלים תרע"ד).
+
+ נפטר בירושלים, ג' טבת תש"ב (23.12.1941).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3843 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3843</bibl><bibl>Volume: #11 ,Page: 3844 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3844</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 590 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/590</bibl><bibl>Volume: #2 ,Page: 591 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/591</bibl>
+<bibl>Volume: #2 ,Page: 592 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/592</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חנוך סלור</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרל"ב (1872), לאביו <persName>בנימין בייניש</persName> (ר' בייניש צורף) ולאמו<persName> רבקה</persName> בת <persName>יצחק יעקב סלור</persName> .
+
+ ההורים עלו ארצה בתרכ"א עם בנם <persName>חיים משה</persName> והתישבו בירושלים והאב המשיך בעבודתו כצורף. כשנתחדש הישוב בפתח-תקוה, רכש בה שלש חלקות ושלח שמה את אשתו וילדיו והוא נסע מצרימה
+
+
+ ועבד במקצועו בעיר מנסורה, כדי להשתכר כסף לפיתוח הנחלה בפתח-תקוה. נפטר בקהיר, ו' אב תרמ"ח, ואחרי 35 שנה העלתה המשפחה את עצמותיו (שלד שלם) לקבורה בפתח-תקוה, י' אב תרפ"ג.
+
+ חנוך למד ב"חדר" בירושלים, ומשירדה המשפחה לפתח-תקוה נכנס ללמוד שם בישיבת הרב<persName> אריה ליב</persName> <persName>פרומקין</persName> באחוזת<persName> לחמן</persName> , וכשנפטר אביו בתרמ"ח יצא לעבוד בנחלת משפחתו.
+
+ בתרנ"א נשא לאשה את <persName>שיינה</persName> בת <persName>מרדכי דינוביץ</persName> , (ממחדשי הישוב בפתח-תקוה, מקבוצת "הביאליסטוקאים"). באותה שנה, כשנוסדה חדרה, נשלח שמה מטעם פקידות הבארון להדריך את המתנחלים בחקלאות. אחרי שנתים הוחזר לפתח-תקוה ועבד כחמש שנים בנטיעת כרמים מטעם הפקידות ואח"כ החל לעבוד במשקו הפרטי. עסק בעיקר ביצוא אתרוגי הארץ ליהודי הגולה, ובבל שנה היה נוסע לחוץלארץ בעניני מסחר זה.
+
+ פעמים אחדות נבחר לועד המושבה, היה במשך שנים רבות גבאי בית-הכנסת הגדול והיה ידוע בקנאותו לדת.
+
+ נפטר בפתח-תקוה, א' אב תרצ"ד.
+
+ צאצאיו:<persName> בנימין</persName> (מנהל חברת "כרמל מזרחי" בדניה ונציג המוסדות הציוניים בארצות הסקנדינביות; <persName>משה</persName> (חקלאי בפ"ת); <persName>שפרה</persName> אשת אליהו מאירי; <persName>שושנה</persName> אשת ברסלבסקי ;<persName> רבקה</persName> אשת קודש (באמריקה): <persName>מרים</persName> אשת ראובן ליכטנשטיין; <persName>שולמית</persName> אשת אלכסנדר בראז ;<persName> חווה</persName> אשת שלמה וולפברג.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 590 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/590</bibl><bibl>Volume: #2 ,Page: 591 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/591</bibl>
+<bibl>Volume: #2 ,Page: 592 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/592</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

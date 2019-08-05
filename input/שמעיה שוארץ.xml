@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3990 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3990</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמעיה שוארץ</persName>
+
+</head>
+         <div><p> נולד בחודש אדר תרל"ג (1873) בנובוגרד. לאביו<persName> יצחק מאיר </persName> (סוחר, ממשפחת למדנים וסוחרים) ולאמו <persName>רחל</persName> בת <persName>אברהם.</persName>
+
+ למד בחדר, בישיבה ועם חברים בקלויז. נשא לאשה את<persName> גוסיה</persName> בת<persName> מאיר ליב וולפמן.</persName> הצטרף לתנועת חובבי ציון ולתנועה הציונית ברא
+
+ שיתה והיה באזורו מראשוני הקונים מניות של אוצר התישבות היהודים, שנוסד על-ידי <persName>הרצל.</persName>
+
+ ב-1904 יצא לארה''ב לעסוק שם במסחר ואח"כ בתעשיה והצליח בעסקיו.
+
+ היה חבר פעיל בתנועה הציונית ובהמזרחי ותרם והתרים למפעלים לאומיים וציבוריים.
+
+ בשנת 1920 עלה לארץ. השתתף בקנית אדמה ממערב לטבריה ויסדו את המושבה פוריה. התמסר לעמל ולמאבק עם הטבע הקשה ועם הפרעות השכנים הרעים על פיתוח המושבה וקיומה.
+
+ בשנת 1929 עבר לרמת-גן, קנה מגרש גדול ובנה 3 בתים. השתתף בחיי הציבור ותמך בקרנות ובמפעלים לאומיים וציבוריים לתורה ולמעשי חסד, וביחוד השתתף בבנין בית-הכנסת הגדול ברמת-גן, ולעת זיקנה מופלגת חי לו בשלוה ומשתתף בשיעורי תורה.
+
+ צאצאיו (מאשתו הראשונה): <persName>ליב (ליאו)</persName> (בעל תעשיה), <persName>מאיר מקס</persName> (קבלן לבנין), <persName>מיכאל</persName> (סוחר) (שלושתם באמריקה); <persName>דבורה, רחל</persName> אשת<persName> שמואל מלך </persName> (מנהל סניף בנק לאומי לישראל, רמת-גן).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3990 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3990</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

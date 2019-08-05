@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4320 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4320</bibl><bibl>Volume: #13 ,Page: 4321 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4321</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר גבריאל (גוסטב) לוי</persName>
+
+</head>
+         <div><p> נולד באלספלד (גרמניה), ביום כ"ו אדר א', תרס"ב (5.3.1902).
+
+ לאביו<persName> דוד לוי</persName> ולאמו<persName> פרידה</persName> בת<persName> יוסף ברוך.</persName>
+
+ בוגר בית-הספר הטכני הגבוה בדרמשטט (גרמניה), סיים בתור מהנדס בשנת 1924 ובשנת 1927 קיבל תואר ד"ר אינג'ינר.
+
+ היה מהנדס ראשי של חברת החשמל בברלין.
+
+
+ בשנת 1933 נשא לאשה את<persName> חנה</persName> בת <persName>אדוארד אברדיק.</persName>
+
+ בשנת 1933 עלה לארץ.
+
+ היה חבר מועצת המנהלים של הטכניון וחבר המועצה הטכנולוגית.
+
+ נתקבל כמהנדס ראשי של חברת החשמל לא"י.
+
+ תיכנן והקים את מערכת החשמל בארץ על תחנות הכוח ורשת החשמל - מאז 1933.
+
+ חבר הוועד המפקח של בית-הספר המקצועי-תיכוני ליד הטכניון.
+
+ חבר הוועדה הממלכתית להתפלת מי-ים.
+
+ חבר המועצה הטכנית של אגודת האינג'ינרים והארכיטקטים.
+
+ חבר המועצה המייעצת למחקרים כלכליים וסוציולוגיים, בשיתוף עם מכון "ליסט", בזל.
+
+ יו"ר הוועדה הטכנית של "הכרמלית", עיריית חיפה.
+
+ חבר מועצת המנהלים של "מכון ויצמן" ברחובות. בונה חפשי.
+
+ פירסם מאמרים שונים הקשורים במשק החשמל בארץ.
+
+ היה מנהל האגף הטכני של חברת החשמל וחבר מנהלת החברה.
+
+ נפטר בחיפה, כ''א מנחם-אב, תשכ"ג (11.8.1963).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4320 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4320</bibl><bibl>Volume: #13 ,Page: 4321 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4321</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

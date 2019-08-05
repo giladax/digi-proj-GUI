@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1952 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1952</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק יהלום-שעוני (דיאמנט)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ורשה</placeName> בשנת תרמ"ח (אוקטובר 1887) לאביו <persName>אברהם</persName> , ולאמו<persName> ינטה</persName> בת <persName>יואל שוסטר.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה.
+
+ היה פועל בבתי חרושת. ממייסדי פוע"צ בפולין וחבר "התחיה".
+
+ עלה ארצה בשנת 1907.
+
+ עבד בחקלאות בחפצי בה (מהראשונים בה), בכנרת, בדגניה, במרחביה. התיישב במתולה כאיכר.
+
+ בשנת 1910 נשא לאשה את <persName>מניה</persName> בת <persName>זנביל צ'יז'יק</persName> (אחות <persName>שרה</persName> שנפלה בתל-חי,<persName> ואפרים</persName> שנפל<persName> בחולדה.</persName> נפטרה במתולה כ"א בטבת תש"ח. ראה את הערכים של הוריה ובני משפחתה, בכרך זה).
+
+ הוא ראש המועצה המקומית במתולה.
+
+ צאצאיו: <persName>חרמונה</persName> אשת<persName> דניאל סמבורסקי, אריה,</persName> <persName>שולמית</persName> אשת<persName> יצחק יערי, בת-עמי</persName> (חיילת, נפלה בימי מלחמת העולם במצרים י"ח באדר תש"ג), <persName>סגולה</persName> אשת <persName>הרי חשמונאי, דבורה</persName> אשת <persName>דב הורביץ.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1952 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1952</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

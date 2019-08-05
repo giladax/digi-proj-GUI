@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3556 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3556</bibl><bibl>Volume: #10 ,Page: 3557 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3557</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר טוביה בר-אילן (ברלין)</persName>
+
+</head>
+         <div><p> נולד בברלין, י"ח טבת תרע"ג (28.12.1912). לאביו הרב<persName> מאיר בר-אילן-ברלין</persName> (ראה כרך ג' עמוד
+
+ 1374) ולאמו<persName> ביילה</persName> בת ר'<persName> טוביה רבינוביץ</persName> , ממאזייק (ליטא).
+
+ קיבל חינוך מסורתי, בוגר בית המדרש למורים של
+
+
+ המזרחי בירושלים (1931), השתלם באינסטיטוט הפוליטכני של ברוקלין, ניו-יורק, '1915 )B.CH.E.(ד"ר לפילוסופיה (גרמניה) והאוניברסיטה העברית (1940).
+
+ עלה לארץ בשנת תרפ"ג (1923).
+
+ בשנת תרצ"ז נשא לאשה את<persName> תמימה</persName> בת <persName>שמואל</persName> <persName>ריבקוב</persName> (מניו-יורק).
+
+ עבד שנים במכון זיו ברחובות (1936-1942). היה פעיל בהגנה, מפקד מגן דוד אדום ברחובות, התגייס לצבא הבריטי במלחמת העולם השניה ועלה לדרגת מיג'ור, שירת בצה"ל כמפקד בחמ"ד (חיל מדע).
+
+ יזם והקים בארץ שלושה בתי חרושת בשטח הפלסטיקה.
+
+ יו"ר ועדת התרבות ברחובות, יו"ר מועדון העובדים המדעים של התחנה לחקר החקלאות ומכון ע"ש דניאל זיו ברחובות, מזכיר הסתדרות הכימאים רחובות, יו"ר איגוד תעשיית פלסטיקה מותזת, יו"ר בפועל - איגוד לחקר הפלסטיקה בישראל.
+
+ נשיא לשכת "השלשה" של בני-ברית בחולון. משנת 1958 מנהל כללי בפועל של האוניברסיטה "בר-אילן" (שעל שם זכר אביו ז"ל).
+
+ כתב מאמרים בשדות כימיה אורגנית, ביאו-כימיה ופלסטיקה נתפרסמו בעלונים מדעיים שונים.
+
+ צאצאיו: <persName>נפתלי, נעמה, מיכה, מאיר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3556 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3556</bibl><bibl>Volume: #10 ,Page: 3557 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3557</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

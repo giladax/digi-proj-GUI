@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3972 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3972</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלעזר לוין</persName>
+
+</head>
+         <div><p> נולד כ"א כסלו תרנ"ט (1898) בלודז שבפולין. לאביו ר'<persName> משה</persName> (שוחט בשידלביץ שבפלך ראדום) ולאמו<persName> גלה</persName> בת<persName> ישעיה שיינטל.</persName>
+
+ למד בחדר ובבית-ספר עממי, בישיבת דיסקין ובבית המדרש הגדול בשם "קרף".
+
+ ב-1920 נשא לאשה את <persName>חנה</persName> בת <persName>אברהם ורחל בריקס.</persName>
+
+ (נספתה בידי הצוררים במחנה טרבלינקה, כ"ז תשרי תש"ב, עם בתם <persName>רחל</persName> ), וב-1945 נשא בזיווג שני את <persName>טובה</persName> בת ר' <persName>נחום</persName> שו"ב <persName>וזלדה רבינוביץ</persName> הי"ד, ממשפחת האדמור מראדומסק בעל "תפארת-שלמה").
+
+ כעשר שנים עד מלחמת העולם בו היה יו"ר המזרחי בעיר סקאז'יסקו קאמיענא, פעיל בצרכי צבור ובמפעלי צדקה וחסד. במחנה המוות הצליח להציל רבים, הפזורים כיום בארץ ובחו''ל, והס קוראים לו "אבא לוין".
+
+ ב-1948 עלה לארץ והשתקע ברמת-גן. ממשיך בפעולות צדקה וחסד, משתתף בשיעורי תורה, ובתמיכה במוסדות תורה וסעד, והנו יו"ר ארגון עולי סקאז'יסקו קאמיענא.
+
+ בנותיו:<persName> מאשה</persName> אשת <persName>שמאי רינברג, רבקה</persName> אשת <persName>יצחק אברמוביץ</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3972 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3972</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

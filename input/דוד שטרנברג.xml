@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1811 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1811</bibl><bibl>Volume: #4 ,Page: 1812 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1812</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד שטרנברג</persName>
+
+</head>
+         <div><p> לאביו <persName>שמואל</persName> (ראה בכרך זה) ולאמו<persName> נחמה</persName> בת <persName>משה ולאה הרשקוביץ </persName> (מראשוני המתישבים בזכרון יעקב).
+
+ נולד בזכרון יעקב, ט"ו ניסן תרמ"ו (15.4.1886).
+
+ קיבל חינוך מסורתי וכללי. התמסר מילדותו לחקלאות.
+
+ בשנת 1914 נשא לאשה את<persName> צפורה </persName> בת שלמה זלמן פומרנץ (שנפטר בזכרון יעקב, כ"ט תמוז תרס"ג והיה מראשוני מתישביה).
+
+ כיהן מיום כיבוש הארץ ע"י האנגלים - במשך 14 שנה בתור יו"ר ועד המושבה.
+
+ יחד עם אלכסנדר אהרנסון ואחרים השתתף ביסוד אגודת "הגדעונים" בזכרון יעקב, את "הסתדרות בני בנימין". יחד עם יוסף ספיר (כיום ראש עירית פ"ת) נסע כמשלחת הסתדרות בני בנימין לאמריקה להפצת מניות לשם יסוד "בנק בני בנימין" בתלאביב.
+
+ חבר מועצת הכורמים במושבה, יו"ר הלואה וחסכון זכרון יעקב, יו"ר ומנהל את עניני חברה קדישא במושבה.
+
+ צאצאיו: <persName>שלמה, אהרן, סימה</persName> אשת מקס ויסמן (באמריקה), <persName>שמואל.</persName>
+
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בזכרון-יעקב , כ"ב אדר א' תשכ"ה (24.2.65) (ראה כרך ד', עמוד 1811)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1811 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1811</bibl><bibl>Volume: #4 ,Page: 1812 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1812</bibl>
+            <bibl>Volume: #15 ,Page: 4805 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4805</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

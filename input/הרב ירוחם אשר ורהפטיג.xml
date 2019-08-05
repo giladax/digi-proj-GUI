@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4779 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4779</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב ירוחם אשר ורהפטיג</persName>
+
+</head>
+         <div><p> נולד ב' מנחם אב תרל"ד (1974) בעיירה פיעסק ליד העיר וולקוביסק שבפולין.
+
+ למד בישיבת טלז אצל הגאון ר' <persName>אליעזר גורדון.</persName> בבריסק היה תלמידו של הגאון ר'<persName> חיים סולו</persName> <persName>בייצ'יק;</persName> בוולוז'ין למד אצל הגאון ר' <persName>רפאל</persName> <persName>שפירא </persName> זצ"ל.
+
+ שימש בתחילה ברבנות, ואחר כך בר"מ בישיבת הרה"ג ר' <persName>יוסף יוזל </persName> בנוברודוק. עזב את הרבנות ועסק במסחר, אך לא פסק ולא זז מאהלה של תורה. כל השנים הוסיף להרביץ תורה להגיד שיעורים.
+
+ לאחר מלחמת-העולם הראשונה התיישב בוור
+
+ שה, ושם הגיד שיעורים בחברת ש"ס ובישיבות, וגם הדפיס שם את ספרו הראשון "דברי ירוחם" (תרצ"א).
+
+ בתרצ"ה (1935) עלה לארץ, ושם הדפיס את ספרו השני "שלמי ירוחם" על הרמב"ם קדשים (תש"א).
+
+ בשנות מלחמת-העולם השניה ישב בבני-ברק, ושם הגיד שיעורים לפני חניכי הישיבות.
+
+ עבר לגור בתל-אביב, וביתו שימש בית ועד לחניכי ישיבות.
+
+ בימי שבתו בתל-אביב חיבר את ספרו "חדושי ירוחם" (תש"ה), שבעדו קיבל את פרס הרב קוק של עירית תל-אביב לתש"ז.
+
+ פירסם את הספרים "בית ירוחם (תש"ח). "אמרי ירוחם" (תשי"א), שבעדו קיבל פרס הרב קוק לתשי"ב. "עולת ירוחם" (תשי"ד) שבעדו קבל פרס עירית ירושלים, "דרכי ירוחם" (תש"ז), על ספרו "אושר ירוחם", שיצא לאור בתשכ"ב, ובהגיעו לשנתו התשעים זכה בפרס-כבוד במסגרת "פרס הרב קוק".
+
+ עמד בכתובים בתשובות ובחידושי תורה עם רבותיו, חבריו וידידיו גדולי התורה, ובהם ר' <persName>אליעזר גורדון</persName> , ר' <persName>שמעון שקאפ,</persName> ר'<persName> ישעיהו קרליץ</persName> בעל "חזון איש", ר' <persName>איסר זלמן מלצר</persName> ור'<persName> חיים</persName> <persName>הליר.</persName>
+
+ תשובותיו פרסמו בחלקם בספריו הוא, ובחלקם בספרי גדולי הדור שבאו עמו בכתובים. ספריו נתקבלו בעולם הישיבות בארץ ומחוצה לה.
+
+ רעיתו הרבנית<persName> רבקה מלכה</persName> בת הגאון ר' <persName>יעקב</persName> <persName>זרח פיינשטיין</persName> זצ"ל (רבה של ליעזין שברוסיה).
+
+ היה בירושלים. שנים מבניו - משפטנים, אחד מהם - ד"ר <persName>זרח ורהפטיג</persName> , שר הדתות במדינת ישראל. (ראה כרך ד', עמוד 2030).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4779 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4779</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

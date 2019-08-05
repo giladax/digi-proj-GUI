@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 958 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/958</bibl><bibl>Volume: #2 ,Page: 959 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/959</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים צבי (הרש) ברזל</persName>
+
+</head>
+         <div><p> נולד בצפת, בשנת תר"ט (1849), לאביו <persName>מאיר</persName> (נכדו של ר'<persName> זלמן ליב</persName> שעלה לצפת בשנת תקי"ג 1753, ועל פי ראשי-תיבות נקרא שם-המשפחה של צאצאיו על שמו:<persName> ברזל</persName> -<persName> בני ר' זלמן ליב</persName> ). למד בחדרים ובישיבה.
+
+ נשא לאשה את <persName>חיה מלכה</persName> בת הרב <persName>יעקב שפירא</persName> מבויבריק, מזרח-גליציה ; ובזיווג שני את<persName> חנה </persName> בת
+
+
+<persName>משה משיוף </persName> (נפטרה בצפת, ט"ז אלול תש"ז).
+
+ פתח בית מסחר סיטוני לאריגים לצפת והמחוז ושימש סוכן לבנקים מבירות בעניני העברת כספים על-ידי המחאות, וכן היה ממונה מטעם כולל ויז'ניץ בצפת. קיבל מה"רג'י" הצרפתי (החברה שקיבלה מהממשלה הטורקית תמורת הלואה את הזכיון על מס הטבק בכל הממלכה) את הזכיון לצפת והמחוז, ויחד עם גיסו <persName>משה ברזל, בנו זלמן וזיידל רומן </persName> ניהל בית-חרושת לטבק-הרחה.
+
+ בתרס"ה יסד עם <persName>יואל ברשד</persName> את הבנק<persName> ברזל את</persName> <persName>ברשד</persName> . לאחר כמה שנים הצטרף אליהם כשותף <persName>אליהו קלינגר</persName> , שהיה אצלם פקיד ראשי, והבנק נקרא על שמות שלשתם, ואחרי שאפ"ק פתח סניף בצפת ויואל ברשד עבר אליו, נקרא הבנק במשך כמה שנים בשם <persName>ברז</persName> <persName>ל את קלינגר</persName> , ובסוף נשאר בידי קלינגר לבדו.
+
+ עזר גם לערבים בהלואות בתנאים הוגנים ובין ידידיו ומוקיריו מנכבדי הערבים היו גם הקאדי הצפתי ומוסה קאזם פחה מירושלים. בקשריו אלה השתמש בעת המהומות וסערת הרוחות ב-1921 למניעת המהומות מעירו, והודות להשתדלותו נכרתה באותה
+
+ שנה ברית שלום בין היהודים והערבים ובצפת לא הופר הסדר.
+
+ השתתף בפעילות בסידורים הכספיים לסלילת הכביש מראש פנה לצפת, ובזה נוצרה האפשרות הראשונה לתחבורת כלי-רכב מוטוריים בין צפת ובין יתר חלקי הארץ.
+
+ נפטר בצפת, א' אדר א' תרפ"ו.
+
+ צאצאיו (מאשתו הראשונה): <persName>זלמן</persName> (חלוץ הישוב על הר כנען), <persName>רבקה</persName> אשת<persName> גרשון פרנקל, משה</persName> ; (מאשתו השניה): <persName>יצחק, יעקב, מרים, צלה</persName> אשת <persName>ברוך רם</persName> (חדרה),<persName> בתיה</persName> (ז"ל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 958 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/958</bibl><bibl>Volume: #2 ,Page: 959 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/959</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

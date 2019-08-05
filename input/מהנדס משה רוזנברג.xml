@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3953 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3953</bibl><bibl>Volume: #12 ,Page: 3954 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3954</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מהנדס משה רוזנברג</persName>
+
+</head>
+         <div><p> נולד כ"ה כסלו תר"ס (דצמבר 1899) בעיירה צ'נגר שבצפון-מזרח הונגריה.
+
+ לאביו <persName>שלמה</persName> (סוחר, בן-תורה) ולאמו <persName>מאטיל</persName> בת הרב<persName> מנחם מנדל שטרן </persName> (רב הקהילה בעיירה פולדש בהונגריה).
+
+ עד גיל 18 למד בישיבה. אח"כ עבר בחינות אכסטרגיות, למד בבית-ספר גבוה לטכניקה בגרמניה וב-1926 הוסמך למהנדס-אדריכל, ומאז עבד בתור אדריכל עצמאי בברלין.
+
+ ב-1933 נשא לאשה את<persName> דבורה</persName> בת <persName>ישראל דוידזון.</persName>
+
+ כשהשתלט המשטר הנאצי על גרמניה ב-1933 חזר להונגריה ופתח משרד לאדריכלות בבודאפשט. כאן השתתף בפעילות בתנועה הציונית, היה יו"ר הועד הארצי של הקהק"ל בהונגריה, בא ב-1936 לבקר בתערוכת יריד המזרח, עד שבעקב השתלטות הנאצים על הונגריה הוכרח להפסיק כל פעילות מקצועית וצבורית פומבית ולרדת למחתרת, בה עסק בארגון ההגנה ופעולות חבלה באויב.
+
+ בספטמבר 1945 עלה לארץ ועבד בתור אדריכל עצמאי. בשנים 1953-1949, כשעבד בתור מנהל בחברתהשיכון "מעונות פועלים" של מפ"ם, היה חבר פעיל במפלגה זו. אח"כ חזר לעבוד במשרד עצמאי לתיכנון ולבנין ברמת-גן, תיכנן וניהל בניית מוסדות צבוריים בערים החדשות, והנו כיום אח בלשכת נורדאו של בני ברית.
+
+ צאצאיו:<persName> חוה, ראובן עזרא.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3953 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3953</bibl><bibl>Volume: #12 ,Page: 3954 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3954</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

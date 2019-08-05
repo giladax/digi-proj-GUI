@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 128 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/128</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עובדיה (עבדאללה) בראזאני</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תקפ"ד (1824) , לאביו <persName>יוסף</persName> בן <persName>חכם אהרן</persName> מצפת (נפטר בשנת תק"פ בירושלים), בן חכם<persName> דוד ביראזאן</persName> שעלה ארצה בשנת תק"א (1741), השתקע בצפת והיה נוסע בשליחות לבבל לטובת מוסדות התורה שבארץ.
+
+ למד בתלמוד-תורה של הספרדים בירושלים והשתלם בתורה בישיבה. נשא אשה, ובגיל צעיר עבר ליפו בעת שהישוב היהודי בה היה עוד בראשיתו וקטן במספרו. עסק במסחר בשותפות עם הרב<persName> חיים</persName> <persName>אלישר</persName> ואחרים והיה מכובד על התושבים. במשך שנים אחדות היה האפוטרופוס מטעם כוללות ועד הספרדים שבירושלים על ההקדש היהודי שביפו. זוהי החצר "דייר אל יהוד" בעיר העתיקה של יפו, שרכש הגביר ישעיה<persName> אג'ימאן </persName> מאיסטמבול והקדיש אותה לבית הכנסת אורחים בשביל הבאים באניות מארצות המערב דרך יפו לירושלים (בזמן ההוא לא היה שום ישוב יהודי ביפו והיהודים המעטים שבאו ארצה הוכרחו ללון בחוץ או להזקק לחסדי ה"הוספיץ" של הנזירים), ובנין זה שימש אח"כ גרעין ראשון להתחדשות הישוב היהודי ביפו, ואף ראשוני העולים האשכנזים היו מתגוררים בו.
+
+ הוא היה הסוכן של שרות הדואר מבגדאד ומקורדיסטאן לארץ-ישראל ובתפקיד זה עזר הרבה לחיזוק הקשרים עם יהודי ארצות המזרח ולהקלת העליה מעיראק ומפרס.
+
+ לעת זקנה פרש מעסקי המסחר, חזר לירושלים ועסק בתורה ובמעשים טובים, ושם נפטר בשנת תרס"ו.
+
+ בנו<persName> אהרן </persName> היה פקיד ראשי בהנהלת הרכבות בחיפה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 128 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/128</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

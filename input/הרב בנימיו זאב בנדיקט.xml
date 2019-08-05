@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4049 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4049</bibl><bibl>Volume: #12 ,Page: 4050 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4050</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב בנימיו זאב בנדיקט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וינה</placeName> (אוסטריה) ד' אייר תרע"ג (11.5.1913). לאביו הרב <persName>שמואל יוסף בנדיקט</persName> (רבה של קהילת החרדים במחוז התשיעי של וינה) ולאמו<persName> שרה</persName> בת ר'<persName> מנחם דונט.</persName>
+
+ קיבל חינוך מסורתי אצל אביו, בישיבת "בית מאיר'' בקראקא אצל ר'<persName> מנדל וקסלר </persName> ובישיבת החתם סופר בפרשבורג אצל הרב עקיבא סופר והוסמך לרב.
+
+ בשנים תרצ"ד-תרצ"ח רב ב<placeName>וינה</placeName>. תחילה בבית הכנסת ע"ש מונטיפיורי ואח"כ רבה של הקהילה החרדית של העיר הפנימית.
+
+ בחדש ניסן תרצ"ט (1939) עלה לארץ. בשנים ת"ש-תש"ג תלמיד האוניברסיטה העברית
+
+
+ בירושלים והמשיך ללמוד שם כתלמיד מחקר בשנים תש"ה-תש"ו.
+
+ בתש"ג נשא לאשה את <persName>יונה </persName> בת ר' <persName>צבי קופשטוק,</persName> רבה של שדה לבן ברוסיה. ולאמה <persName>אסתר</persName> בת ר' <persName>ישראל</persName> <persName>לייב מרגלית. </persName> הרבנית יונה בוגרת האוניברסיטה העברית בתואר ד"ר לפילוסופיה. היתה מורה בבי"ס תיכון עירונית בת"א (1946-53).
+
+ בשנים תש"ג-תש"ז מורה לתנ"ך, תלמוד והיסטוריה בבתי ספר תיכוניים בתל-אביב (ב"תלפיות", וביה"ס התיכון העירוני).
+
+ בתש"ח (1948) מתרגם ומפרש מסכת שבועות בעריכת<persName> י. נ. אפשטיין.</persName>
+
+ בתש"ט - רב צבאי למחוז תל-אביב.
+
+ בתש"י-תשי"א חבר מחקר באוניברסיטה העברית בירושלים.
+
+ בתשי"ג-תשט"ו דיין באמסטרדם (הולנד).
+
+ בתשט"ז-תשי"ז רב ראשי ואב"ד לקהילת האג, בירת הולנד.
+
+ מתשי"ח (1958) רבה של אחוזה בחיפה.
+
+ בשנת תשי"א - מסע לימודים ובדיקת כ"י בספריות באיטליה. ובשנת תשי"ב - בצרפת ובאנגליה.
+
+ בשנת תשט"ו (1955) נשא הרצאות על הרמב"ם ויצירתו בסקנדינביה.
+
+ בשנת תש"ב קיבל פרס ביאליק של האוניברסיטה העברית במקצוע תנ"ך. ובשנת תש"י קיבל פרס ווארבורג של הנ"ל לספרות ימי הביניים.
+
+ פרסומים בכה"ע: ארשת, התורה והמדינה, נועם, סיני, קרית ספר, תרביץ ובעתונות היומית של אוסטריה, הולנד, ישראל וצ'כוסלובקיה.
+
+ מסות על אישים (ר'<persName> מאיר איש-שלום,</persName> הרב<persName> צדוק טל,</persName> ועוד) ועל בעיות היהדות (למה אני יהודי אורטודוקסי, ועוד).
+
+ מחקרים על יהדות פרובאנס (לתולדותיו של מרכז התורה בפרובאנס, למכלול לחכמי פרובנס, רב <persName>משה</persName> ב"ר <persName>יוסף מנארבונה,</persName> ועוד) ; על הרמב"ם (הלכות הירושלמי לרמב"ם, ועוד); ועל הספרות שנוצרה מסביב להלכות הרי"ף (בעיקר בתרביץ וקרית ספר).
+
+ פרסומים פסקים של חכמי פרובנס בצירוף הערות ומבואות (בעיקר ב"סיני", מתורתם של חכמי פרובנס, מתורתו של ר' <persName>אהרן </persName> ב"ר <persName>משולם מלוניל</persName> , מבוא לספר בעלי אסופות, פסקים אחדים בעלי אסופות, ועוד).
+
+ מאמרי בקורת (לתולדות הפוסקים של רב צעיר, ועוד) וביבליוגראפיה (כתבי רמא"ש, ועוד).
+
+ בירורי הלכה (על נשים עגונות שבעליהן השתמדו בנועם ג, החייב רב בתשלום מסים בהתורה והמדינה ט-י).
+
+ עומד להתפרסם : מסכת שבועות של התלמוד הבבלי בתרגום עברי ועם פירוש מספיק ע"י דביר, בית הבחירה לר' <persName>מנחם המאירי </persName> למסכת שבועות ע"י "מכון <persName>הרי</persName> פישל לדרישת התלמוד" ; השגות הרמ"ך (הרב ר' משה כהן) מלוניל על הרמב"ם ע"י חברת אל המקורות.
+
+ מוכן לדפוס בכת"ר : ספר על "רבי מאיר איששלום, חייו וספריו".
+
+ מכין לדפוס : ספר "על דרכי יצירתו של הרמב"ם".
+
+ הערכות רבות נכתבו ע"י רבנים, סופרים ועוד על מחקריו ובעיקר על הרצאותיו המענינים והמרתקים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4049 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4049</bibl><bibl>Volume: #12 ,Page: 4050 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4050</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

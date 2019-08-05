@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1229 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1229</bibl><bibl>Volume: #3 ,Page: 1230 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1230</bibl>
+<bibl>Volume: #3 ,Page: 1231 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1231</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>קלמן בר-לב (ליברטובסקי)</persName>
+
+</head>
+         <div><p> נולד בשדלץ, פולין, בשנת תרנ"ז (1897), לאביו עקיבא ליברטובסקי ולאמו חוה בת גרונם פרידמן.
+
+ קיבל חינוך מסורתי, השתלם בהשכלה עברית וכללית, החל לעסוק בהוראה עברית והיה מראשוני המיסדים והפעילים בתנועת "צעירי ציון" בפולין ואח"כ מזכיר מרכז "החלוץ".
+
+ עלה ארצה ב-1920 ועבד כפועל בכבישי הגליל, אח"כ היה במשך שנים אחדות מורה במושבות ופרסם כתבות בעתונים ופיליטונים ב"הפועל הצעיר" (בחתימת "בן עקיבא").
+
+ נשא לאשה את טובה בת יהושע קרמליק.
+
+ בשנת 1927 נתמנה לסופרו הקבוע של "דבר" בפתח תקוה ומ-1934 ואילך עבד כחבר במערכת העתון בתל אביב. במשך שנים אחדות עבד בריפורטאזה, בעיקר מישיבות מועצת העיריה וגם בשאר ענפי החיים הצבוריים. השתתף בעריכת העתון היומי המנוקד "הגה" ובעריכת עתון-הצהרים של "דבר". מזמן לזמן היה מפרסם שירים הומוריסטיים בחתימות שונות ואף תרגם שירים מאנגלית.
+
+ היה פעיל בתנועת המושבים וחבר במושב כפר אז"ר.
+
+ נפטר בביתו בכפר אז"ר ביום ט"ו חשון תש"ג (26.10.42) והובא לקבורה מבית מערכת "דבר" בת"א לנחלת יצחק.
+
+ צאצאיו: <persName>חוה, יהושע</persName> .
+
+ לזכרו יסדה מערכת "דבר" פרס שנתי לריפורטאז'ה על שמו.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1229 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1229</bibl><bibl>Volume: #3 ,Page: 1230 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1230</bibl>
+<bibl>Volume: #3 ,Page: 1231 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1231</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

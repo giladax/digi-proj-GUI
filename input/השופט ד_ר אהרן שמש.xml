@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2133 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2133</bibl><bibl>Volume: #5 ,Page: 2134 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2134</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>השופט ד"ר אהרן שמש</persName>
+
+</head>
+         <div><p> נולד בבירות, הלבנון, י' תשרי תרנ"ח (אוקטובר 1897), לאביו <persName>אברהם</persName> ולאמו<persName> אסתר</persName> בת הרב <persName>נסים כהן</persName> <persName>רובי.</persName>
+
+ למד בביה"ס הפרטי של החכם <persName>שם-טוב</persName> בבירות (בי"ס ללימודי יהדות והשכלה כללית), בביה"ס התיכון הסקוטי ובאוניברסיטה האמריקאית בבירות והוסמך למדעים בדרגת B.A. בהצטיינות. היה חבר באגודת
+
+
+ הסטודנטים העברים "קדימה" וסגן יו"ר באגודת "הכוכב" של הסטודנטים לטיפוח הספרות.
+
+ ב-1919 עלה ארצה והמשיך את לימודיו בביה"ס הממשלתי למשפטים. היה מזכיר היועץ המשפטי <persName>נורמן בנטוויץ</persName> , בממשלה המנדטורית ; אח"כ סגן מנהל בית המכס בחיפה וסגן המנהל הכללי במחלקת המכס בירושלים.
+
+ יצא להשתלם בארצות הברית. למד משפטים באוניברסיטת לא-סאל בשיקאגו וקיבל את התואר מוסמך למשפטים LL.B. ואח"כ בהאמילטון קולג' בשיקאגו והוסמך לד''ר למשפטים - וחזר ארצה.
+
+ ב-1930 נשא לאשה את <persName>רחל</persName> בת <persName>יעקב יחזקאל.</persName>
+
+ משחזר מאמריקה נכנס לשרות משפטי ממשלתי. כיהן שנים אחדות בתור שופט-שלום בת"א ובירושלים. ב-12.2.36 הועלה לדרגת שופט מחוזי וכיום הוא מכהן כשופט מחוזי בחיפה.
+
+ פרסם מאמר על בתי המשפט בארץ-ישראל בערבית בירחון "אל חקוק" (בירות, יוני 1925); מאמר על בתי המשפט הדתיים בארץ-ישראל בירחון הערבי "אלקולליה" של האוניברסיטה האמריקאית בבירות (ינואר 1926), ואת הספרים "המדריך החוקי לבעל הבית ולדייר" (עברית, תל-אביב, 1934), ספר באנגלית על חוק שופטי שלום בא"י (1934), ספר באנגלית על שטרי חליפין, צ'קים ושטרות בא"י (1937).
+
+ צאצאיו:<persName> אברהם אלברט</persName> (מאמו <persName>דבורה</persName> בת <persName>ד"ר אהרן</persName> <persName>יוסף יארמנס,</persName> ראה כרך ג, עמוד 1287).<persName> אסתר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2133 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2133</bibl><bibl>Volume: #5 ,Page: 2134 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2134</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 673 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/673</bibl><bibl>Volume: #2 ,Page: 674 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/674</bibl>
+<bibl>Volume: #2 ,Page: 675 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/675</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם ברוכוף</persName>
+
+</head>
+         <div><p> בן<persName> ברוך</persName> בן<persName> יהושע ג'יהן</persName> . נולד בטאשקנט בשנת תרי"ד (1854), מנכבדי העדה היהודית שם ומטובי עסקניה. בשנת תרמ"ח (1888) עלה לארץ-ישראל, בקר במקומות שונים וחזר לטשקנט. בשנת תרנ"א (1891) שלח לא"י את משפחתו יחד עם אחיו יעקב. הם נשארו בירושלים ויעקב חזר לעסקיו לטשקנט. בשנת תרנ"ג עלה אברהם שנית לא"י יוחזר לטשקנט. בשנת תרנ"ד עלה בפעם השלישית לא"י יחד עם אחיו יצחק, השיא את בתו הגדולה רחל למשיח אחיו, ואחרי החתונה חזרו אברהם ויצחק לטאשקנט. החל משנת תרנ"ח, אחרי מות אביו, השתדל לבקר בארץ לעתים יותר קרובות ועסק כאן בעניני צבור. בשנת תרס"ה (1905) פנה אליו ר' יעקב מאיר ז"ל, שהיה בימים; ההם נשיא "בית חנוך יתומים לעדת הספרדים" בעיר העתיקה בירושלים, בבקשה שיפנה למשפחת ברוכוף שיקנו קרקע בעד בית חנוך היתומים הנזכר. אברהם טלגרף לשלשת אחיו: יצחק, יעקב ומשיח והם נדברו עם שותפיהם, ארבעת האחים מבית יששכרוף: חייא, חזקיה, רפאל וציון והחליטו לתרום כסף למטרה זו
+
+ מכסף ה"מעשר", שנהגו להפריש תמיד למטרות צדקה. נוסף לכך תרמו כסף לשם בנין. בניסן תרס"ו עלו ארצה ישראל יצחק ומשיח ברוכוף וחזקיה יששכרוף וירו את אבן הפנה יחד עם אחיהם אברהם ברחוב יפו בירושלים. בשנת תרס"ח נגמר הבנין. בכ' באדר ב' תרס"ח נפטר יצחק ברוכוף בעיר טאשקנט בהיותו בן 49 שנים ולא זכה לעלות ולחנך את הבית שנגמר. החל משנת תרס"ט נשאר אברהם בארץ בקביעות, טפל בעניני בית היתומים ובצרכי צבור אחרים, גאל קרקעות, ועודד עליה גדולה של בוכארים לא"י. במלחמת העולם הראשונה הוגלו אברהם ואשתו לאלכסנדריה כנתינים רוסים וחזרו בשנת תרע"ט. נפטר בירושלים בכ"ה באדר תרפ"ב (1922). אשתו נפטרה בכ"ג אדר א' תרצ"ב בהיותה בת 78 שנים.
+
+ צאצאיו:<persName> ארי ובנימין, רחל ולאה</persName> .
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 673 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/673</bibl><bibl>Volume: #2 ,Page: 674 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/674</bibl>
+<bibl>Volume: #2 ,Page: 675 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/675</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

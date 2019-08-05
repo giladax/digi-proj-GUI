@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3377 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3377</bibl><bibl>Volume: #9 ,Page: 3378 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3378</bibl>
+<bibl>Volume: #9 ,Page: 3379 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3379</bibl>
+<bibl>Volume: #9 ,Page: 3380 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3380</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק אשר אלשטיין</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"ח אלול תרמ"ח (1888).
+
+ לאביו ר'<persName> שלמה הכהן אלשטיין </persName> (יליד ירושלים, סוחר ובנקאי. ראה כרך ה', עמוד 2144) ולאמו<persName> חנה </persName> בת<persName> זאב</persName> <persName>רובין</persName> (מצאצאי השל"ה הקדוש והרבה דורות של רבנים וגדולי תורה).
+
+ קבל חנוך מסורתי והשכלתי.
+
+ בגיל 18 נסע לארצות הברית והשתלם בבי"ס למסחר.
+
+ חזר לארץ בשנת 1914.
+
+ בשנת 1915 נשא לאשה את<persName> חנה</persName> בת הרב<persName> ראובן</persName> <persName>ידידיה</persName> (גוטפריד - ראה כרך א', עמוד 328), ונכדת
+
+
+ (מצד האם) ר'<persName> יואל משה סלומון</persName> , מעסקני ותיקי הישוב (ראה כרך א', עמוד 56).
+
+ בשנת 1915 הצטרף להפירמה "סלומון את לוין", כעת - "סלומון, לוין ואלשטיין בע"מ'', בעלי בתי מסחר לרפואות בסיטונות בארץ.
+
+ ממיסדי החברות וחבר ההנהלה של : "אסיה" מעבדות כימיות בע"מ, ביח"ר לכימיקליים עדינים ותכשירים רפואיים ; חברת "פאקא" בע"מ, יצרני שמרים, חומצות פחמן וכהול; "עליון" בע"מ, מעבדות אנטיביוטיות וחימיות, ירושלים.
+
+ צאצאיו: <persName>יואל משה</persName> (כימאי, מנהל בחברת "אסיא" - מעבדות חימיות בע"מ), <persName>בת-שבע</persName> אשת העו"ד <persName>חיים</persName> <persName>בנמל </persName> (שופט שלום), <persName>לאה</persName> (כימאית, בוגרת האוניברסיטה העברית בירושלים) אשת המהנדס <persName>משה שמיר, גאולה</persName> אשת ד''ר <persName>אליהו יובל</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3377 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3377</bibl><bibl>Volume: #9 ,Page: 3378 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3378</bibl>
+<bibl>Volume: #9 ,Page: 3379 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3379</bibl>
+<bibl>Volume: #9 ,Page: 3380 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3380</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

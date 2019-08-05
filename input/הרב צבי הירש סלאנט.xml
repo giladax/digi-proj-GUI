@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4448 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4448</bibl><bibl>Volume: #14 ,Page: 4449 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4449</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב צבי הירש סלאנט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת תרי"ז (1857).
+
+ היה בן יחיד לאביו הרב<persName> בנימין בייניש סלאנט</persName> (ראה כרך ראשון, עמוד 108) שהיה בנו היחיד של הרב<persName> שמואל סלאנט </persName> רבה של ירושלים (ראה כרך ראשון, עמוד 284) ולאמו<persName> עלקא </persName> בת הנגיד ר'<persName> יוזיל</persName> <persName>ליאון.</persName>
+
+<persName>את חנוכו קבל בת"ת וישיבת "עץ חיים" מיסודם</persName> של סבו רבי <persName>שמואל סלאנט </persName> והצדיק ר'<persName> יוסף זונדל</persName> <persName>מסלאנט</persName> (כרך ראשון, עמוד 284).
+
+ בשנת תרל"ד (1874) נשא לאשה את <persName>גרונא</persName> בת רבי <persName>נתן נטע נאטקין</persName> (ראה כרך עשירי, עמוד 3622) שהיה נכד בעל "השאגה אריה".
+
+ מראשוני הסוחרים ב<placeName>ירושלים</placeName>, הקים הוצאת ספרים אחר כך השתתפו אתו חתנו ר' <persName>אלתר בורקי</persName> והרב <persName>אלי לנדאו </persName> (נכד הגר"א).
+
+ יצא כמה פעמים בשליחות לאירופה למען חזוק הישוב ונתקבל בכבוד גדול ביהוד אצל הברון <persName>אדמונד</persName> <persName>ד' רוטשילד</persName> "אבי הישוב" שהעריץ את סבו הרש"ס זצ"ל.
+
+ מראשוני המתישבים מחוץ לחומת ירושלים וממקימי השכונות הראשונות "אבן ישראל" ו"מאה שערים".
+
+ נפטר ב<placeName>ירושלים</placeName> ביום ט' במנ"א תרפ"ב (3.8.1922).
+
+
+ צאצאיו: ר'<persName> יוסף סלאנט </persName> (אשתו<persName> חיה שיינה),</persName> ר' <persName>נתן נטע סלאנט </persName> ז"ל (אשתו <persName>עלקא)</persName> , ר'<persName> ישעי'</persName> <persName>סלאנט </persName> (אשתו <persName>בילה צירל), פראדיל </persName> אשת ר' <persName>אלתר</persName> <persName>בורקי, הינדה</persName> אשת ר'<persName> אברהם יוסף אדלסון, טובה</persName> אשת הרב <persName>יחיאל מיכל טוקצינסקי</persName> (ראה כרד ראשון, עמוד 79).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4448 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4448</bibl><bibl>Volume: #14 ,Page: 4449 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4449</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

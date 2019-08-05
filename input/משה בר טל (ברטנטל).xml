@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1828 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1828</bibl><bibl>Volume: #4 ,Page: 1829 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1829</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה בר-טל (ברטנטל)</persName>
+
+</head>
+         <div><p> נולד בסאנוק, גליציה התיכונה, פולין, י"ז חשון תרע"ב (17.11.1911), לאביו <persName>מנחם מנדל ברטנטל</persName> (סוחר) ולאמו <persName>חנה פריידה</persName> בת <persName>מנחם שניידר</persName> , קיבל חינוך
+
+ יהודי וכללי בבי"ס תיכוני בגרמניה ושם היה פעיל בתנועת הנוער החלוצי "הבונים" כחבר הנהגתה הראשית ובמרכז "החלוץ". כתב ב"יודישה רונדשאו" ובעתון "הבונים" ועבר הכשרה חלוצית.
+
+ ב-1934 ביקר בארץ כב"כ מרכז "החלוץ" וכמלווה קבוצת חלוצים וב-1935 עלה לארץ.
+
+ ב-1935 נשא לאשה את <persName>דבורה</persName> בת<persName> שלמה לינדאו.</persName>
+
+ היה חבר קיבוץ "<persName>שער הנגב</persName> ", אח"כ פועל חקלאי בעין גנים ובכפר אז"ר, מנהל פנימיה של תלמידי הטכניון בחיפה, קצין הסברה לחיל הנוטרים העברי מטעם המוסדות הלאומיים, אח"כ הוזמן לעבודה כחבר ומזכיר המחלקה ואיגוד מקצועי בועד הפועל של הסתדרות העובדים הכללית.
+
+ פרסם מאמרים בשאלות האיגוד המקצועי ב"יודישע רונדשוי", ב"דבר", "בטרם", "במערכה המקצועית", "הפועל הצעיר" ובשאלות מדיניות כלליות, ב"מערכות" וכן את החוברת "ההסתדרות במערכה המקצועית" (בהוצאת מחלקת ההסברה של הועה"פ של ההסתדרות - טבת תש"ט).
+
+ יתר תפקידיו הצבוריים: ציר ועידת ההסתדרות השביעית, חבר מועצת ההסתדרות, חבר המועצה לגיוס כח האדם שליד משרד העבודה והביטוח העממי, חבר המכון לפריון עבודה ויצור שליד אגודת האינג'ינרים והארכיטקטים בישראל בחסות המועצה המדעית לישראל, חבר המועצה המיעצת המרכזית לעניני אספקה
+
+
+ וקיצוב לסחורות וחמרי גלם, מרצה בביה"ס לפעילי ההסתדרות בשאלות האיגוד המקצועי.
+
+ בניו:<persName> מנחם נדב, גדעון שלמה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1828 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1828</bibl><bibl>Volume: #4 ,Page: 1829 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1829</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

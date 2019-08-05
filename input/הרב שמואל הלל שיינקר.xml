@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3104 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3104</bibl><bibl>Volume: #8 ,Page: 3105 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3105</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שמואל הלל שיינקר</persName>
+
+</head>
+         <div><p> נולד בשנת תרל"ה (1875) בקובנה שבליטא. לאביו הרב <persName>אברהם טאניס</persName> (מתלמידי רבי <persName>ישראל</persName> <persName>סלנטר</persName> זצ"ל).
+
+ למד תורה ומוסר בישיבת רבי <persName>שמחה זיסל </persName> זצ"ל בקלם שבליטא והיה מתלמידיו המובהקים.
+
+ בשנת תרמ"ה (1885) עלה לארץ לצרף לתורה ולמצוות את קדושת ארץ-ישראל.
+
+
+ נשא לאשה את <persName>לאה</persName> בת הרב<persName> יוסף חיים זוננפלד</persName> (ראה כרך א' עמוד 61) ואחרי פטירתה נשא בזיווג שני את <persName>שרה פרל </persName> בת ר' <persName>אלימלך.</persName>
+
+ בשנת תרנ"ז יסד את ישיבת "אור חדש" בעיר העתיקה ואת "בית המוסר" בשכונת מוצררה, וכל ימיו היו קודש לתורה ולעבודת הבורא.
+
+ בניגוד להלך-הרוח הקודר של "אנשי המוסר" היה הוא עליז מטבעו, וביחוד היה מגיע לשיא השמחה בלילות שמחת בית השואבה בחג הסוכות ובשמחת תורה. גם בהגיעו לזקנה ושיבה היה רוקד בהתלהבות במשך שעות בין מעגלי הרוקדים מצעירי בני הישיבות, והמשיך אף אחרי שהצעירים התעייפו סביבו. ממנהגו זה לא חדל אף בשנתו האחרונה, למרות חולשתו משהגיע לגבורות ולמרות אסונו הגדול במות שני בניו באותה שנה.
+
+ ביום הזכרון הראשון לפטירת בנו ר' <persName>ישראל</persName> נפטר גם הוא בירושלים, כ"ז טבת תשט"ז (11.1.1956).
+
+ צאצאיו:<persName> באשה</persName> אשת ר' <persName>יהושע ברגר, חיה</persName> אשת ר' <persName>צבי הכהן קופסיץ</persName> , ר' <persName>שמעון שיינקר</persName> , ר'<persName> מנחם מנדל</persName> <persName>שיינקר</persName> (ראה בכרך זה עמוד 3075), הרב <persName>יהושע לייב</persName> <persName>שיינקר, אסתר</persName> אשת ר' <persName>שמואל לייב קלינר,</persName> הרב <persName>ישראל</persName> <persName>שיינקר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3104 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3104</bibl><bibl>Volume: #8 ,Page: 3105 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3105</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

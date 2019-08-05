@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 402 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/402</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יחזקאל-מרדכי ליבוביץ</persName>
+
+</head>
+         <div><p> נולד בפוניבז', פלך קובנה' בשנת תק"צ (1830) לאביו<persName> ישראל.</persName>
+
+ לאחר ייסוד גדרה בתרמ"ה החלו החוגים הדתיים שבקרב חובבי-ציון ברוסיה מרננים על מצב הדת במושבה,
+
+ ובתוצאה מדיון ממושך בין הנצי"ב (הרה"ג נפתלי צבי יהודה ברלין, ראש ישיבת וולוז'ין ומראשי חובבי ציון) לבין רי"מ פינס, נתבקש ר' יחזקאל-מרדכי, שבנו דוב היה ממייסדי גדרה, לעלות לארץ ולשמש שוחט בגדרה וכן להיות שם המשגיח על עניני הדת. הוא קיבל את ההצעה ובי"ט סיון תרמ"ח הגיע עם אשתו לאה לגדרה. בדרך לארץ התיצבו לפני הנצי"ב, שסמך עליו ידו להיות מורה-הוראה במושבה הבילו"יית.
+
+ בתרנ"א נתאלמן מאשתו ובתרנ"ב נשא לו אשה שניה, גיטל הנקין, שהיתה המיילדת הראשונה בגדרה.
+
+ השתתף יחד עם הצעירים בהגנה על המושבה, ובאחת השבתות באשר נשדד עדר הבקר של גדרה, התיר לדלוק אחר השודדים ולהוציא מהם את הגזל, אף אם הדבר יהא כרוך בחילול-שבת. נתקשר מאד
+
+ למושבה ולתושביה ולפני מותו ציווה לבנו דוב שלא יעזוב את המקום.
+
+ מת בכ"ט חשון תרנ"ד ונקבר בגדרה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 402 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/402</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

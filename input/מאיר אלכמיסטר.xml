@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 600 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/600</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר אלכמיסטר</persName>
+
+</head>
+         <div><p> נולד בלבוב, גליציה, בשנת תרי"ד (1854), לאביו <persName>אברהם דב</persName> . נתחנך חינוך מסורתי ואח"כ השתלם ברוקחות ועסק בה.
+
+ בשנת תרל"ו עלה ארצה, התישב בירושלים ועבר
+
+ ברוקח בבית-החולים "משגב לדך". אח"כ נתמנה לרוקח המושבה בראשון לציון במקום הרוקח<persName> פוסי</persName> <persName>צלסקי</persName> . השתתף בפעולות צבוריות וחברתיות הקרובות למקצועו (שמירת הבריאות) והיה מרצד, בבית העם על שמירת בריאות השינים והטיפול בהן. הנהיג בפעם הראשונה זיקוקין-די-נור לשעשועי-עם כשחגגו בראשון לציון, בי"ג חשון תרנ"ז, את יום-השנה הרא
+
+ שון ליסוד התזמורת המקומית על-ידי <persName>בוריס אוסובצקי.</persName> אז גם קישט את ענפי האילנות באורות.
+
+ לאחר כמה שנים עבר ליפו, ובעזרת העסקן <persName>אברהם מויאל</persName> פתח לו את בית-המרקחת "כוכב הזהב" ביפו והיה מראשוני הרוקחים בישוב החדש ביפו.
+
+ הצטרף לבוני השכונה נוה צדק, בנה בה את ביתו וחי בו כל ימיו.
+
+ נפטר בתל-אביב, כ"ה סיון תרצ"ב ונקבר בביתהעלמין הישן.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 600 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/600</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

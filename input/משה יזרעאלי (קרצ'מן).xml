@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3551 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3551</bibl><bibl>Volume: #10 ,Page: 3552 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3552</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה יזרעאלי (קרצ'מן)</persName>
+
+</head>
+         <div><p> נולד בסולצ'ין (רוסיה), כ"ב חשון תרע"ג (סוף 1912).
+
+ לאביו <persName>שמואל</persName> ולאמו<persName> אסתר</persName> .
+
+
+ עלה לארץ בפסח תרפ"ב (אפריל 1924).
+
+ קבל חנוך מסורתי בבית-הספר "תחכמוני" ובביה"ס התיכוני למסחר בתל-אביב.
+
+ ממנהלי "חוגי הנוער הלאומי", ארגון נוער לומד מבתי הספר התיכוניים, אשר התמזג בשנת 1932 עם בית''ר.
+
+ קצין נציבות בית"ר בא"י, קצין שלטון בית"ר, חבר אצ"ל וממיסדי "קרן תל-חי" בא"י.
+
+ היה חבר ועד ארגוני הנוער לחרם נגד סחורות גרמניה.
+
+ השתתף בפעולות להגנה על תוצרת הארץ ובפעולות להגנת השפה העברית.
+
+ בשנת 1935 נשא לאשה את <persName>שושנה</persName> בת <persName>מנחם כהן.</persName>
+
+ בשנות 1947-48 שליח "קרן תל-חי" לאירופה.
+
+ שופט בית הדין העליון של "הסתדרות העובדים הלאומית", בתפקיד סגן יו"ר.
+
+ שופט בית הדין העירוני - עירית תל-אביב. מנהל בנק קפת-עם בע"מ, סניף יפו.
+
+ בנו:<persName> אהוד</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3551 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3551</bibl><bibl>Volume: #10 ,Page: 3552 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3552</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

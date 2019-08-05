@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 66 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/66</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם בצראוי</persName>
+
+</head>
+         <div><p> בן משה חיים. נולד ב<placeName>בצרה</placeName> בשנת תק"ן (1790). הוא ואבותיו היו מטובי העדה ועסקניה. בשנת תק"ץ (1830) עלה לארץ ישראל יחד עם בני משפחתו. ככל העולים הראשונים, התישב בתחלה בצפת, עסק כאן במסחר צבע הכחול "אינדיגו" שהביא מהודו, בממכר פנינים ומרגליות והיו לו קשרי מסחר עם משפחות בבליות בהודו. הרעש הגדול בצפת בשנת תקצ"ז (1837) הביא כליון על ביתו ועל בית מסחרו גם יחד. אשתו ובני ביתו נהרגו, דק בת צעירה אחת נמצאה כל עוד נפשה בה תחת אחת הספות. בדרך נס ניצל גם הוא. באותה שנה עזב גם את צפת ועלה ירושלימה עם שארית הפליטה ונשא כאן לאשר. את חנה בת ר' חיים כתריאל הלוי (אחיו של ר' יעקב ספיר הלוי בעל "אבן ספיר"). היה ידידו הנאמן של ר' דוד ששון מהודו ובהשתדלותו נחפרה הבאר שעל קבר רחל אמנו שספקה מים לכל העולים על קברה. נפטר בירושלים ט"ו בחשון תר"ל. היו לו ששד. בנים ושתי בנות.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 66 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/66</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

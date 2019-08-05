@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2895 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2895</bibl><bibl>Volume: #7 ,Page: 2896 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2896</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' יואל (ג'וליו) רקח</persName>
+
+</head>
+         <div><p> נולד בפירנץ (איטליה), י"ח שבט תרס"ט (9.2.1909). לאביו<persName> אדריאנו </persName> ולאמו<persName> פיה </persName> בת<persName> אוגו פנו.</persName>
+
+ קבל חנוך באוניברסיטה של פירנץ ושל רומה (באיטליה) ובטכניון של ציריך (בשוייץ). תלמידו של מומחה האטום הנודע פרופ'<persName> פרמי.</persName>
+
+
+ בשנות 1932-37 מרצה באוניברסיטה של פירנץ.
+
+ בשנות 1937-38 פרופ' באוניברסיטה של פיזה.
+
+ בשנת 1939 עלה לארץ (ביקור קודם בשנת 1934).
+
+ בשנת 1940 נשא לאשה את<persName> זמירה</persName> בת השופט<persName> יצחק</persName> <persName>מלכיאל מני</persName> (ראה כרך ראשון, עמוד 339).
+
+ בשנת 1946-48 דקן הפקולטה למתמטיקה ולמדעי הטבע באוניברסיטה העברית, ירושלים
+
+ חבר המועצה המדעית והועדה לאנרגיה אטומית.
+
+ כמה שנים עבד במחקרים במחיצתו של פרופ'<persName> א.</persName> <persName>איינשטיין </persName> בארצות-הברית.
+
+ בשנת 1955 נתמנה לחבר הועדה המשותפת לספקטרוסקופיה של המועצה הבינלאומית לאגודים מדעיים ושל הועדה ה-14 של האגוד הבינלאומי לאסטרונומיה.
+
+ כתב מאמרים בכתבי-עת מדעיים שונים
+
+ פרופ' לפיסיקה עיונית באוניברסיטה העברית, ירושלים.
+
+ צאצאיו:<persName> אראלה, אליהו, אמנון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2895 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2895</bibl><bibl>Volume: #7 ,Page: 2896 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2896</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

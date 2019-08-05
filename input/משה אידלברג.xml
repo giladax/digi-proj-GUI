@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5146 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5146</bibl><bibl>Volume: #17 ,Page: 5147 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5147</bibl>
+<bibl>Volume: #17 ,Page: 5148 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5148</bibl>
+<bibl>Volume: #17 ,Page: 5149 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5149</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה אידלברג</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אודיסה</placeName> (רוסיה) בשנת תרנ"ט (20.5.1899). לאביו <persName>יצחק מאיר אידלברג</persName> (נכד הרב מאפטא "אוהב ישראל" - מצד אבא) ולאמו <persName>אלכסנדרה</persName> לבית <persName>זוסמן</persName> (נכדה של הבעל-שם-טוב).
+
+ קיבל חינוך בבי"ס תיכון יהודי ב<placeName>אודיסה</placeName> ע"ש <persName> הופמן</persName> ועברי ע"י מורה פרטי.
+
+ למד באוניברסיטה (כלכלה חקלאית).
+
+ היה: מזכיר הלשכה המרכזית של "החלוץ", באוקראינה, חבר מזכירות של "החלוץ" ברוסיה, חבר מזכירות מחוז צ"ס ב<placeName>אודיסה</placeName>.
+
+ עבד בחברה בין-לאומית לעזרת יהודי רוסיה (ורליב).
+
+ עבד במשק הכשרה של "החלוץ" ב<placeName>אודיסה</placeName>. בשנת 1924 נשא לאשה את <persName>סוניה</persName> בת<persName> ישראל</persName> <persName>חמלניצקי </persName> (ראה את הערך שלה בכרך זה).
+
+ ביום 27 לינואר 1927 עלה לארץ.
+
+ עבד כפועל בנין בחיפה.
+
+
+ מחסנאי בבית מסחר סיטונאי.
+
+ מזכיר סניף הסתדרות הפקידים בתל-אביב. מנהל מחלקת האירגון של מועצת פועלי תלאביב.
+
+ חבר מזכירות מרכז הפקידים.
+
+ מנהל הוצאת הספרים "ספרית הפקיד" ע"י הסתדרות הפקידים.
+
+ ממיסדי אגודות צרכניות בתל-אביב, מנהל הצרכניה הראשונה בתל-אביב.
+
+ חבר ועד המפקח של הקואופרציה הצרכנית. חבר מזכירות מועצת פועלי-תל-אביב-יפו. היה מפקד מוסמך בהגנה. מפקד בשכונת התקוה. מפקד ומיסד גדודי נוער של הפרברים "השחר". חבר ועד הסניף של "מפא"י", של מרכז "אחדות העבודה".
+
+ חבר מועצת ההסתדרות. חבר מרכז מפ"ם.
+
+ חבר מרכז של מפלגת שמאל-סוציאליסטי. חבר בועדות שונות של מפלגות אלה. חבר המזכירות הארצית של תנועת הידידות ישראל-ברית-המועצות.
+
+ חבר במשלחת תנועת הידידות ישראל-בריתהמועצות בשנת 1957 לחגיגות 40 שנה למהפכת אוקטובר.
+
+ כותב ב"על המשמר". כתב בספר "הגנה בתלאביב" ובספר על "פעולות מועצת פועלי ת"א-יפו. כיום בפנסיה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5146 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5146</bibl><bibl>Volume: #17 ,Page: 5147 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5147</bibl>
+<bibl>Volume: #17 ,Page: 5148 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5148</bibl>
+<bibl>Volume: #17 ,Page: 5149 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5149</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

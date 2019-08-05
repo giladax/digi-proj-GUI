@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1252 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1252</bibl><bibl>Volume: #3 ,Page: 1253 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1253</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמעון דב פולני (פולסקי)</persName>
+
+</head>
+         <div><p> בן<persName> יחיאל</persName> ולאמו<persName> דינה</persName> בת מרדכי יבולינסקי. נולד בי"ח אייר (ל"ג בעומר) תרכ"ח בעיר סמילה, פלך קיוב (אוקראינה), היה ממשפחה אמידה.
+
+ קבל חנוך יהודי וכללי. היה תלמיד חכם ובקי בספרות היהודית העתיקה והחדשה וחו"צ מילדותו. כשנוסדה ההסתדרות הציונית היה לעסקן חרוץ ופעיל בתנועה הציונית בניקולייב, ששם השתקע. עסק במסחר.
+
+ נשא לאשה את<persName> ריסי</persName> בת ד"ר בלינקין מצ'רקסי.
+
+
+ פעם הראשונה עלה ארצה בשנת 1891. בחזרו מן הארץ השתדל להקדיש את זמנו החפשי לתנועה הציונית וחינך את בניו בחנוך עברי ברוח הלאומיות ושלח את כל ילדיו לארץ ישראל על מנת להשתלם.
+
+ בקורו השני בארץ חל בשנת 1911, כשבא לבקר את ילדיו. באותן השנים השתתף בשני קונגרסים ציוניים כציר מעיר ניקולייב.
+
+ בשנת 1914 עלה ארצה על מנת להשתקע. זמן מה אחרי בואו ארצה פרצה מלחמת העולם הראשונה ואז הראה את כל יכלתו הצבורית. אמנם התרחק מעבודה צבורית סואנת ורועשת, אך עבד בשקט במוסדות צבור שונים בדיקנות ובתום-לבב, ובכל אשר פנה הכניס סדר ומשטר. בעיקר הראה את כחו בועד להקלת המשבר בימי מלחמת העולם ועבד יחד עם מ. דיזנגוף ואחרים. ב-1918 היה היוזם והמיסד של הלואה וחסכון בת"א ביחד עם ה"ה: <persName>דנין</persName> יחזקאל, <persName>גוזמן</persName> שמואל, <persName>כהן-שצקי</persName> ישראל, <persName>טולצינסקי</persName> אהרן, <persName>שושני</persName> סעדיה, <persName>שושני </persName> מנחם, <persName>פחטר</persName> שלום, <persName>אידלננט</persName> בן-ציון <persName>ושטרן דוד</persName> . קטן ודל היה המוסד בראשיתו, אך עד מהרה התפתח ונעשה למוסד כספי סולידי והגון. הוא השקיע בו את כל מרצו וכשרונותיו הצבוריים וניהלו עד יומו האחרון. בעסקנותו הצבורית היה נקי מכל דופי והתחבב על כל חלקי הצבור.
+
+ חלה במחלת הטיפוס ובט' סיון תרפ"ב נפטר והובא לקברות בבית העלמין הישן בתל-אביב.
+
+ צאצאיו: <persName>חמדה</persName> אשת שמואל זאב אברך (יונגרוירט), <persName>יוסף </persName> ז"ל, <persName>בלהה, יהודה</persName> פולני-רון (מורה),<persName> יחיאל </persName> (חתן הדייר חיים חיסין), <persName>אברהם</persName> (חתן ר' יוסף בר"נ מיוחס), <persName>ישראל</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1252 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1252</bibl><bibl>Volume: #3 ,Page: 1253 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1253</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

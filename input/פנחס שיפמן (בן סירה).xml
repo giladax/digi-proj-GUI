@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 496 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/496</bibl><bibl>Volume: #1 ,Page: 497 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/497</bibl>
+<bibl>Volume: #1 ,Page: 498 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/498</bibl>
+<bibl>Volume: #1 ,Page: 499 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/499</bibl>
+<bibl>Volume: #1 ,Page: 500 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/500</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פנחס שיפמן (בן-סירה)</persName>
+
+</head>
+         <div><p> נולד לאביו<persName> אלחנן </persName> ולאמו<persName> סטסיה</persName> לבית<persName> גרצוק</persName> , מסרטוב, י"ד תשרי תרל"ד (1873) בעיר יעלסק, פלך מינסק (רוסיה הלבנה).
+
+ נתחנך בחדר ובישיבות מינסק ווילנה וספג ידיעות מרובות בתלמוד ובספרות העברית העתיקה,
+
+ התמשכל והשתלם בספרות ההשכלה ובמדעים כלליים, במגמה להוראה ולחנוך.
+
+ בתרנ"ו נשא לאשה את<persName> גיני </persName> בת <persName>פנחס צודנובסקי</persName> מקנייב.
+
+ דרכו בהוראה היתה מקורית : זיווג למודי קודש עם למודי חול.
+
+ בשנת תרנ"ה נתמנה למורה ב"חדר מתוקן",
+
+
+ תחילה בבראילוב שבפודוליה ואחר כך בבאסאווה, פלך קיוב.
+
+ בתרס"ב פרסם את מאמרו הראשון ב"השלוח" של אחד העם בעניני חנוך והוראה. ובזה קיבל "סמיכה" מאת אחד העם, ונכנס כסופר להיכל הספרות הפידגוגית. פרסם במשך כל שנות חייו יותר מארבע מאות מאמרים בחמשים עתונים, שבועונים, ירחונים זקובצים שונים.
+
+ מקנייב עבר ללמד לשון, תנ"ך וספרות עברית בישיבת לידה, שנוסדה אז ע"י הרב <persName>יצחק יעקב ריינס.</persName> התחבב מאד על התלמידים, והשפעתו עליהם היתה רבה. עורר בהם הרגשת ערך עצמם ולימד אותם להכיר ולהוקיר את עמנו ותרבותו הלאומית. וכשהוצע לו להורות בישיבת אודיסה מיסודו של רב צעיר, לא נתנוהו תלמידיו לעזוב אותם ובהשפעתם והשפעתו של הרב ריינס נשאר בלידה. כאן חיבר את ספר הלימוד הראשון שלו "בכורים", קטעים נבחרים מן הספרות, והיה ספר הלימוד החשוב ביותר בזמן ההוא.
+
+ בשנת תרס"ז היה ממיסדי ומפעילי הסתדרות המורים והמלמדים ברוסיה. בשנת תרע"ה עבר ליקטרינוסלאב עם התקרבות החזית לוילנה וסביבתה, ולימד שם בבתי הספר העבריים.
+
+ לציונות נמשך מנעוריו. בשנת תר"ס נכנס באופן רשמי לתנועה הציונית. משנת תרע"ה ועד תר"פ היה מזכיר הגליל הציוני ביקטרינוסלאב.
+
+ בשנים תרפ"ג-פ"ד שימש בתור מפקח על בתי הספר של "תרבות" בוורשה, ובשנת תרפ"ו עלה לא"י.
+
+ את בנו בכורו <persName>יעקב</persName> שלח לא"י עוד בשנת תרע"ג כדי ללמוד בגימנסיה "הרצליה", ועמד בעצמו לעלות לא"י, אך התעכב בגלל מלחמת העולם הראשונה.
+
+ בבואו ארצה נכנס לעבוד בהוראה, תחילה בבית ספר ריאלי תחכמוני, ואח"כ בגימנסיה "תלפיות" בתל-אביב. לימד גם בבית מדרש למורות של המזרחי בת"א עד סוף ימיו.
+
+ בא"י חיבר ספר לימוד "תרומות" בשלשה חלקים. יצא בהוצאת "אמנות" ואושר כספר לימוד בבתי הספר החרדים מיסודו של "המזרחי".
+
+ חלק ממאמריו כינס בספרים: "תרבות וחנוך", שני חלקים (תרצ"ד, תרצ"ז) ו"החנוך הלאומי" (תש"א).
+
+ עסק בהוראה 52 שנה והקים תלמידים למאות ולאלפים, רבים מהם נעשו לאנשי שם, ורשומם גדול בחיים היהודיים בגולה ובא"י.
+
+ נפטר בשבת, כ"ב אייר תש"ה (5.5.45) ונקבר בבית העלמין הישן בתל-אביב.
+
+ חדשים מספר לפני מותו החליף יחד עם בניו ומשפחותיהם את שם משפחתו ל"בן סירה".
+
+ צאצאיו:<persName> יעקב</persName> (המהנדס העירוני של עירית ת''א);<persName> ד"ר שרה</persName> (מורה להיסטוריה בסמינר למורים ומורות ע''ש א. ל. לוינסקי בת"א : <persName>אהרן</persName> (מהנדס ב"סולל בונה"); <persName>אלחנן </persName> (עוזר ראשי במכון התקנים בבית המהנדס בת"א); <persName>רחל </persName> אשת אליהו בן-סירה (קוצינסקי) מהנדס בחברת "רסקו";<persName> רבקה</persName> אשת הסופר יוסף אריכא.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 496 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/496</bibl><bibl>Volume: #1 ,Page: 497 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/497</bibl>
+<bibl>Volume: #1 ,Page: 498 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/498</bibl>
+<bibl>Volume: #1 ,Page: 499 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/499</bibl>
+<bibl>Volume: #1 ,Page: 500 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/500</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

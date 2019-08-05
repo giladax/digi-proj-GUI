@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4701 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4701</bibl><bibl>Volume: #15 ,Page: 4703 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4703</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יואל ולבה</persName>
+
+</head>
+         <div><p> נולד ב<placeName>שפטובקה</placeName> (אוקראינה) בשנת תר"ס (25.9.1900).
+
+ לאביו <persName>שלום ולבה</persName> ולאמו<persName> חיה הינדה</persName> בת <persName>בצלאל פלר</persName> .
+
+ קיבל חינוך מסורתי וכללי. למד קומפוזיציה ומוסיקה בישראל, המשיך להשתלם בוינה (אוסטריה) וסיים את הקונסרבטוריה למוסיקה. כעבור שנים יצא שוב לוינה. למד מדעי הפילוסופיה, הספרות והמוסיקולוגיה, והוכתר בתואר דוקטור פילוסופיה ולמדעי המוסיקה - על פרי עבודתו המחקרית:
+
+ "זמרת ישראל למקורותיה" (עבודת דיסרטציה). המחקר הוא: אנאליזה סונאגרפית של טעמי המקרה לפי 14 נסחאותת של עדות המזרח.
+
+ ביוני 1920 עלה לארץ כחלוץ.
+
+ הצטרף ל"קבוצת כנרת" ואח"כ לזמן קצר ל"השומר".
+
+ היה פועל נודד בפרדסים ובפלחה בשומרון. חלה בקדחת ואולץ לעבור לת"א, שהיתה אז בראשית התרחבותה ובנינה.
+
+ בת"א עבד בבנין, היה מובטל ונזקק מסיוע בשנות המשבר תרפ"ז (1927), ואז פנה למוסיקה (ראה לעיל).
+
+
+ היה ממיסדי תזמורת "הפועל" בת"א והסביבה. הורה מוסיקה במחלקת החינוך וכיום מורה למוסיקה בסמינר למורות-גננות ע"ש<persName> י. ל. לוינסקי </persName> בת"א.
+
+ חתן "פרס אנגל" של עירית ת"א (1958) עבור "הקנטטה לשבת".
+
+ רעיתו:<persName> עדינה</persName> בת<persName> ישראל קפלן</persName> (ראה כרך א', עמוד 274).
+
+ בין חבוריו: "הרביעיה לכלי מיתר" "בלדה לתזמורת" (1945) ;"סמפוניהB מו", בחלק אחד (1956): קונצרטינו לכנור ותזמורת" (1958): "חמשיה לאביב ולכלי מיתרים" (1951). הלחין הרבה שירים, שירי עם, שירי ילדים, יצירות לכנור ופסנתר.
+
+ שיריו נתקבלו למסיבות, לבתי-ספר ולריקודי-עם.
+
+ צאצאיו :<persName>אילה</persName> אשת<persName> מנחם יפתח</persName> (עובד בתה''ל).
+
+ מרעיתו עידנה:<persName> ישראל</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4701 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4701</bibl><bibl>Volume: #15 ,Page: 4703 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4703</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

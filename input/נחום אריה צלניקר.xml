@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1333 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1333</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחום אריה צלניקר</persName>
+
+</head>
+         <div><p> נולד בירושלים, ט"ז ניסן תר"ל (1870), לאביו ר' <persName>יצחק צבי</persName> (מגדולי המתמידים בתורה ובמעשים טובים בכולל הו"ד בירושלים, מגזע גדולי הרבנים בפולין ובאשכנז, דור רביעי לבעל "פני יהושע", בן ר' <persName>אלכסנדר זאב</persName> , שהיה רב בעיירה בשלזיה ; אחרי למדו בישיבת פרסבורג עלה ארצה בבחרותו) ולאמו <persName>ינטה</persName> לאה בת ר'<persName> משה </persName> בר' <persName>אריה ליב הולצמן</persName> מפינסק.
+
+ למד בתלמוד תורה ובישיבות "עץ חיים" ו"תורת חיים" והשתלם בכתיבה ובחשבון ובניהול פנקסים ועבודה אדמיניסטרטיבית בכלל.
+
+ בט"ו סיון תרמ"ה נשא לאשה את<persName> מרים</persName> בת ר' <persName>מרדכי הולצמן</persName> מפינסק, אחי אמו (נולדה באייר תרכ"ז, חמשה חדשים אחרי פטירת אביה - כ"ה כסלו תרכ'ז).
+
+ עבד בבתי מסחר שונים כמנהל העסקים והחשבונות. יסד בית-חינוך חרדי לבנות, שנתחנכו בו בשנות קיומו כ-2600 תלמידות בלימודי כתב וחשבון, מנהגי ישראל, עבודות בית ומלאכת-יד. בשנות מלחמת-העולם הראשונה התמסר לפעולה לעזרת נפגעי המשבר והמחסור והמציא למאות משפחות קמח, לחם ותבשיל וגם תמיכות בכסף.
+
+ בתרמ"ח חיבר והוציא "לוח הנץ" למאה שנה (תר"ל - תש"ל); בתרצ"ב - "לוח השם"(מתר"ס עד סוף האלף הששי);. בתרצ"ג "לוח השמונים" (עם תיאום התאריכים לפי הלוח העברי והגריגוריאני וטבלא לקביעת תאריך בר-מצוה). בתש"ב - לוח לכל האלף הששי ובתש"ג - ספר זכרונות ומדעי קודש (לקוטים מהתלמוד, המדרשים ושאר ספרי קודש), ו"לוח נחוץ" משנת ת"ר עד סוף האלף הששי וחלקו בתיאום התאריכים בין הלוח העברי והגריגוריאני. שלשת האחרונים נשארו בכתב-יד. וכן חיבר בכתב-יד ספרי לימוד לכתיבה תמה, לקריאה ובתיבה בעברית לפי הדקדוק ומדריך לכתיב בלועזית במקרי ספק דבר שהיה נחוץ בשעתו בחינוך לחיי המעשה כפי שהיה נהוג בישוב הישן.
+
+ נפטר בירושלים בליל שבת, ב' אדר תש"ד (26.2.44).
+
+ צאצאיו: <persName>גולדה רחל</persName> אשת דב-בר-מאיר טננבוים, <persName>אלכסנדר מרדכי, יצחק צבי, אלימלך פנחס, יהושע משה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1333 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1333</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

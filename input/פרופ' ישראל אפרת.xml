@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4780 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4780</bibl><bibl>Volume: #15 ,Page: 4781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4781</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' ישראל אפרת</persName>
+
+</head>
+         <div><p> נולד בתר"ן (22.5.1891) באוסטרוג (פולין). לאביו <persName>דוד</persName> ולאמו <persName>גיטל לאה</persName> לבית<persName> קרוסמן.</persName>
+
+ קיבל חנוך עברי מסורתי.
+
+ מ-1905 בארצות-הברית.
+
+ למד מדעי-הרוח באוניברסטאות: ניו-יורק ב. א. (1913); קולומביה מ. א. (1914) ; ו-פ. ד. (1915) ; דוקטור לפילוסופיה ותואר כבוד מהסמינר היהודי התיאולוגי בנ"י .D.H.L. 
+
+ בבלטימור עמד 12 שנה בראש "קולג' עברי" ובית-מדרש למורים. משם עבר לאוניברסיטת באפלו, כראש המחלקה השמית.
+
+ נשא לאשה את <persName>מילדרד</persName> לבית <persName>מילשטיין.</persName>
+
+ אחר כך שב לניויורק, ושימש כראש מחלקה העברית ב"האנטר קולג",
+
+ היה גם פרופיסור לתולדות המחשבה והספרות העברית ב"דרופסי קולג'", עלה לארץ בתשט"ו 1955, ונתמנה כריקטור האוניברסיטה בתל-אביב.
+
+ שירו הראשון נדפס ב"התורן" (ניו-יורק), בתרע"א-1911.
+
+ ספר-שיריו הראשון - "שירים" - יצא בתרצ"ב-1932.
+
+
+ נוסף על ספרי-שיריו פירסם אפרת מחקרים, באנגלית, בפילוסופיה היהודית בימי הבינים.
+
+ מספריו: שירים (תל-אביב, 1932); "ויגוומים שותקים" (תל-אביב 1933); "זהב" (ניו-יורק, 1942); "אנחנו הדור" (ניו-יורק 1944) ; "גורל ופתאום"
+
+ (ירושלים, 1954) ; :מלון עברי-אנגלי" (עם<persName> יהודה</persName> <persName>קויפמן וב. סילקינר</persName> (תל-אביב, 1953).
+
+ בתש"ך יצא ספרו "הפילוסופיה היהודית העתיקה" כן עומד להופיע קובץ שיריו בהוצאת "דביר".
+
+ זכה ב"פרס טשרניחובסקי (תשי"ט) של עירית תל-אביב על תרגום "המלט", "קורילנוס" ו"סימון איש אתונה" ל<persName>שקספיר</persName> , הוצאת "עם הספר" ת''א.
+
+ בתו: <persName>גיטל לאה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4780 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4780</bibl><bibl>Volume: #15 ,Page: 4781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4781</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

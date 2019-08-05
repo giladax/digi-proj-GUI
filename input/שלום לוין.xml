@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3326 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3326</bibl><bibl>Volume: #9 ,Page: 3327 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3327</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלום לוין</persName>
+
+</head>
+         <div><p> נולד ט' ניסן תרע"ו (27.3.1916) בראקוב שבפלך מינסק.
+
+ לאביו<persName> יהושע</persName> ולאמו <persName>מרים</persName> בת <persName>זלמן שיפרין.</persName>
+
+ למד בחדר ובישיבה בראקוב, בישיבת מיר ואח"כ בבית-המדרש למורים "תרבות" בוילנה. הצטרף לתנועת
+
+
+ החלוץ, היה פעיל במזכירות של קיבוץ הכשרתו החלוצית בגוש קלוסובה ובמרכז החלוץ בפולין, ופרסם מאמרים בעתונות של החלוץ בפולין.
+
+ ב-1937 עלה לארץ והצטרף לפלוגת הים בחיפה. בשנים תרצ"ח-ת"ש היה מורה בכפר יהושע ובשנים תש"א-תש"ה בדגניה א'.
+
+ בשנת תש"ד נשא לאשה את<persName> דימונה</persName> בת<persName> חיים שלי.</persName>
+
+ בשנים תש''ו-תש"ט היה בבית-הספר על שם ארלוזורוב בירושלים. באותן שנים למד גם באוניברסיטה העברית וקיבל את התואר מוסמך למדעי הרוח (יהדות), בשנת תש"י היה מורה ומנהל בית-ספר בעין כרם. בתשי"ב-תשי"ג מורה בבית המדרש למורות וגננות על שם <persName>א. ז. אשכולי </persName> בירושלים, ומאז ואילך המזכיר הכללי של הסתדרות המורים בישראל.
+
+ חבר מרכז הסתדרות המורים, חבר ועד החינוך שליד משרד החינוך, חבר מרכז מפא"י, וחבר מועצת הסתדרות העובדים הכללית.
+
+ פרסם מאמרים ב"הד החנוך", "אורים", "הפועל הצעיר", "דבר" ו"החנוך".
+
+ ערך את הספר "אמנות ההוראה" לג'ילברט האייט (הוצאת קרני).
+
+ צאאצאיו:<persName> יואב, נעמה</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3326 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3326</bibl><bibl>Volume: #9 ,Page: 3327 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3327</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

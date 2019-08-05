@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2294 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2294</bibl><bibl>Volume: #5 ,Page: 2295 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2295</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר קלמן יעקב מן</persName>
+
+</head>
+         <div><p> נולד בד' תמוז תרע"ב (1912) בירושלים לאביו ר' <persName>יצחק דוד</persName> (יליד ירושלים, עסקן וסוחר, מחלוצי המסחר בחמרי בנין בעיה"ק : ראה כרך ב' עמוד 988) ולאמו <persName>חיה</persName> בת <persName>אליעזר יצחק הרבובסקי</persName> מרחובות. למד בחדר-תורה "תחכמוני", גמר את בית-המדרש
+
+ למורים מזרחי ואח"כ יצא ללמוד באוניברסיטת לונדון והוסמך בה לד"ר לרפואה.
+
+
+ ב-1940 נשא לאשה את<persName> סילביה</persName> בת <persName>שמואל גמזו,</persName> המשיך לעסוק ברפואה ובחקר מחלות ריאה במועצת המחקר הבריטית העליונה לרפואה ופרסם באמרים במקצועו בעתונות הרפואית העולמית. עסק בפעילות ציונית כיו"ר אגודת שוחרי האוניברסיטה הירושלמית בקארדיף וכיו"ר האגודה הציונית ברובע קוינסברי.
+
+ ב-1949 חזר ארצה ונתמנה לסגן מנהל כללי ואח"כ למנהל כללי של מפעלי הסתדרות מדיצינית "הדסה" בישראל, לחבר המועצה הרפואית העליונה ולחבר המועצה המיעצת לעניני רפואה מונעת של ממשלת ישראל.
+
+ צאצאיו : <persName>רות שרינה, גדעון שמואל, יהונתן, נעמי</persName> <persName>חסיה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2294 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2294</bibl><bibl>Volume: #5 ,Page: 2295 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2295</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

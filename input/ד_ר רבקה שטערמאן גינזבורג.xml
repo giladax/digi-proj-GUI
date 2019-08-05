@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4027 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4027</bibl><bibl>Volume: #12 ,Page: 4028 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4028</bibl>
+<bibl>Volume: #12 ,Page: 4029 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4029</bibl>
+<bibl>Volume: #12 ,Page: 4030 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4030</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר רבקה שטערמאן-גינזבורג</persName>
+
+</head>
+         <div><p> נולדה בקוברין, מחוז גרודנה ערב פורים תרנ''ה (1895).
+
+ לאביה ר' <persName>אברהם יצחק הלוי שטערמאן</persName> (תלמיד חכם, מחסידי סטאליו-קארלין).
+
+ גדלה והתחנכה בבית חסידים. אח"כ גמרה בית ספר לבנות בקוברין, המשיכה בגמנסיה ממשלתית בלומזה, ובשנת 1914 גמרה את האוניברסיטה בווארשה וקיבלה תואר של רופאת-שינים.
+
+ מילדותה אהבה לקרוא את ספרי:<persName> מנדלי מוכר</persName> <persName>ספרים, פרץ ושלום עליכם</persName> וכן את<persName> שלום אש</persName> , שירי <persName>ביאליק</persName> וכו'.
+
+ החלה לכתוב נובלות קצרות באידיש ב"פאלעסער וואכענבלאט", שכמה עתונים בפולניה ובארצות הברית וכו' העתיקו אותם.
+
+
+ בקנדה היא נמצאת 32 שנה.
+
+ היות וגדלה בבית חסידים, היא בקיאה בכל נגינותיהם והמלודיות שלהם, ויודעת כל הניגונים של חסידי קארלין, וכן התפילות ששרו בחצר הקרלינים.
+
+ פעילה בהסתדרות נשי המזרחי בקנדה.
+
+ נישאה <persName>למרדכי גיזנבורג</persName> , חבר מערכת "דער קאנאדער אדלער" במונטריאל, קנדה (ראה כרך י"א, עמוד 3734).
+
+ פרסמה סריה של מאמרים רפואיים אודות סאראטאגא ספרינג, מאנט קלעמענט בעתון "דער טאג" בניויורק שהוכיח על מומחיותה בתורת הרפואה.
+
+ פרסמה מאמרים בהצלחה, תאורים וציונים מביקוריה במוזיאונים והמוסדות הממשלתיים בואשינגטון ומיאמי ביטש (פלורידה).
+
+ מקדמת במאמריה סופרים ואורחים בתיאורים מוצלחים.
+
+ מכינה ספר מיצירותיה שיופיע בקרוב.
+
+ צאצאיה:<persName> יצחק </persName> (מהנדס), <persName>שרה</persName> (מורה) אשת העו"ד איזידור גרינבאום.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4027 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4027</bibl><bibl>Volume: #12 ,Page: 4028 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4028</bibl>
+<bibl>Volume: #12 ,Page: 4029 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4029</bibl>
+<bibl>Volume: #12 ,Page: 4030 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4030</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

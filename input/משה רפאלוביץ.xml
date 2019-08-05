@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/109</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה רפאלוביץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>מוהילב</placeName> פודולסק (אוקראינה), בשנת תקפ"ו (1826) לאביו ר'<persName> אברהם קלונימוס קלמן,</persName> למדן וחסיד מפורסם ועשיר, קבלן בבנין הצי הרוסי בים השחור, מצאצאי מחבר "טורי זהב" והגאון ר' <persName>זלמן מירלס</persName> מהמבורג והרב הקדוש ר'<persName> חיים רייצס </persName> הי"ד שנשרף בלבוב על קדוש השם.
+
+ נתחנך בתורה ובחסידות ונמנה על עשירי בוהופול, התרחק מכל כיבוד ציבורי וממחלוקת, ובידעו היטב את השפה הרוסית ואת ספרי החוק הרוסי היה מתנדב להגן על יהודים בבית-המשפט ומופיע בשליחות הקהלה בפני שרי השלטון. גם לבניו נתן יחד עם החינוך התורני-מסורתי אף השכלה רוסית בבית-ספר ממשלתי.
+
+ עם פרוץ הפרעות הראשונות בדרום רוסיה בתרמ"ב ("הסופות בנגב") החליט לעלות לארץ-ישראל. בהתאם לצוואת אביו (שעלה ארצה לעת זקנה, היה מנכבדי ירושלים בעדת החסידים ונפטר שם בשנת תרל"ט) היה חייב להתיעץ בעניני העליה לא"י עם האדמו"ר ר' <persName>אברהם יעקב</persName> מסאדיגורה. אחרי חיסול עסקיו נסע איפוא עם משפחתו דרך בסרביה לסאדיגורה, ואחרי שקיבל את הסכמת הרבי וברכתו נסעו לגאלאץ ומשם הפליגו באניה ליפו, וכולל ווהלין שלח לקראתו את ר' <persName>אלתר ווארשאבסקי</persName> להקל עליו את העליה על החוף ונסיעתו לירושלים.
+
+ בראשונה רצה להתישב בפתח-תקוה, כי אביו קנה שם לפני פטירתו שתי חלקות קרקע, אך באותה שנה עזבו המתישבים את המקום בגלל הקדחת, וגם נתקל בקשיים בבירור זכותו על הקרקע, ולכן התישב בירושלים והוא ואשתו נטלו את חלקם ביסורי ישוב ארץ-ישראל בתנאים הקשים של הימים ההם, בחדר צר בעיר העתיקה, ואח"כ מחוץלחומה, בלי כל עזרה בעבודה כפי שהורגלו באמירותם בחו"ל. ר' משה התמסר ללימוד תורה ולעבודת הבורא, ואחרי שאזל צרוד כספו החל להביא קמח וקטניות מרוסיה ועסק במסחר ובסוף התפרנס מחנות מכולת בשכונת <persName>בתי ר' ניסן בק.</persName> נפטר בירושלים, כ"א כסלו תר"ן.
+
+ בניו הם: הרב ד"ר<persName> ישעיהו רפאלוביץ וש</persName> <persName>מואל רפאלי,</persName> החוקר העברי הראשון של המטבעות העתיקות.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/109</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

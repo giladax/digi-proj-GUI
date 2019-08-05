@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5623 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5623</bibl><bibl>Volume: #19 ,Page: 5624 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5624</bibl>
+<bibl>Volume: #19 ,Page: 5625 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5625</bibl>
+<bibl>Volume: #19 ,Page: 5626 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5626</bibl>
+<bibl>Volume: #19 ,Page: 5627 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5627</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נסים רפאל לוי</persName>
+
+</head>
+         <div><p> נולד בירושלים, ט' ניסן תרמ"ח (23.3.1888) דור שמיני בארץ.
+
+ לאביו הרב<persName> יעקב מרדכי לוי</persName> (היה מזכיר העדה הספרדית בירושלים. מוצא המשפחה ותולדותיה: עם גירוש ספרד בשנת 1492 השתקעה המשפחה באיטליה בשנת תצ"ב (1732) עלה אבי המשפחה ר' <persName>אבר</persName> <persName>הם סגרי הלוי</persName> לארץ, והשתקע בצפת ומשם עבר אח"כ לירושלים. בנו השמיט את השם הלועזי משם המשפחה ונותר השם לוי) ולאמו <persName>רחל</persName> בת הרב<persName> מורנו</persName> <persName>יונה סעדיה נבון.</persName>
+
+ קיבל חינוך מסורתי ב"חדר" ובישיבה עד גיל 18. אביו, שהועידו לרב ולשוחט, לא עמד בדרכו שעה שרצה להמשיך לימודיו בסמינר, ובשנת תרס"ט (1909) סיים את הסמינר למורים של חברת "עזרה" בירושלים.
+
+ בי"ג בסיון תרע"ו (14.6.1916) נשא לאשה את <persName>טובה</persName> בת <persName>אברהם לוינרד.</persName>
+
+ בשנת תרע"ד (1914) הקים, לבקשת <persName>דוד ילין (אח"כ)</persName> פרופ', היה ראש הוועד הלאומי. ראה את הערך שלו בכרך שני, בעמוד 569) את בית הספר העברי הראשון בירושלים, בשם: "בית ספר עירוני לבנים",
+
+
+ ברחוב הרב קוק. לאחר כינונו של ביה"ס, בהיותו צעיר לימים, מונה למנהל ביה"ס המורה<persName> חיים אריה</persName> (לייב)<persName> זוטא </persName> (ראה את הערך שלו בכרך שלישי, בעמוד 1279) והוא שימש כסגנו וכיד ימינו,
+
+ היה מראשוני הראשונים ב"מלחמת השפות" שפעלו בהצלחה לשימוש בשפה העברית כשפת ההוראה בבתי הספר, למרות הקשיים הרבים שהעמידה חברת "העזרה" ליהודי גרמניה בדרכו.
+
+ היה מראשוני הבונים והמשתכנים בשכונת "בית הכרם" במערב ירושלים.
+
+ בשנים תרס"ט-תרע"ד (1909-1914) הורה בביתהספר "למל" של חברת "עזרה". דאג לו למשרה זו <persName>אפרים כהן-רייס,</persName> מנהל בתי הספר והסמינר של חברת "עזרה" בא"י. (ראה את הערך שלו בכרך שלישי, בעמוד 1154), בהיותו בוגר מצטיין של הסמינר הנ"ל.
+
+ משנת תרע"ד (1914) עד תשי"ד (1954), במשך 40 שנה רצופות, עבד בביה"ס העירוני לבנים בירושלים. משנת תרע"ד עד תרע"ח (1918) כסגנו של המנהל<persName> ח. א. זוטא </persName> הנ"ל, ומשנת תרע"ח (1918) עד שנת תש"ד (1944) כסגנו של המנהל <persName>יוסף בר"נ מיוחס</persName> (ראה את הערך שלו בכרך ראשון, בעמוד 101).
+
+ במשך כל אותן שנים הורה בהצלחה רבה. סמינריסטים ומורים וכן מפקחי חינוך היו מרבים לבקר בשעוריו כדי לשמוע, להבין ולדעת בהיותו מטובי המורים.
+
+ משנת תש"ד (1944) עד שנת תשי"ד (1954), עת פרש לגמלאות, שימש כמנהל ביה"ס העירוני לבנים.
+
+ פעולתו האחרונה במסגרת ביה"ס היתה איחודו עם בי"ס על שם <persName>נחום סוקולוב </persName> והפיכתו לבי"ס מעורב לבנים ולבנות. שם ביה"ס הוסב אז לבי"ס ע"ש "נ. סוקולוב" ז"ל (ראה את הערך שלו בכרך שישי, בעמוד 2677).
+
+ בימי מאורעות שנת תרפ"ט (1929) ובשנים תרצ"ו (1936) עד תרצ"ט (1939) השתתף בשמירה מטעם ה"הגנה" בירושלים.
+
+ צאצאיו:<persName> יעקב אביהוד</persName> (לוי)<persName> ז"ל; יאיר לוי; רלה</persName> אשת פרופ' <persName>משה פריבס.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5623 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5623</bibl><bibl>Volume: #19 ,Page: 5624 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5624</bibl>
+<bibl>Volume: #19 ,Page: 5625 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5625</bibl>
+<bibl>Volume: #19 ,Page: 5626 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5626</bibl>
+<bibl>Volume: #19 ,Page: 5627 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5627</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

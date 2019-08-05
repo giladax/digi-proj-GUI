@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3751 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3751</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פסח שור</persName>
+
+</head>
+         <div><p> נולד בקיוב (רוסיה) בכסלו תרמ''ט (סוף 1888). לאביו<persName> משה שור</persName> (תבואות שור) ולאמו <persName>בריינה</persName> לבית <persName>גרינצוייג.</persName>
+
+ בשנת תרנ"ט (1899) עלה עם אביו ואחיו הצעיר לארץ, אחרי נדודים רבים בדרכים דרך תורכיה. טעמו טעם כניסה לארץ ע"י המשטר התורכי בימים ההם.
+
+ קבל חנוך מסורתי וכללי בביה"ס אליאנס בירושלים.
+
+ בשנת 1905, אחרי שאחותו הבכירה נהרגה בקיוב עלתה לארץ אמו, אחיו ושלשת אחיותיו והתישבו ביפו. היה בין ראשוני המכבי ביפו.
+
+ בשנת 1905 השתתף בין 60 הצעירים (ביניהם היו: א. ד. גורדון. אברהם קריניצי) שהחליטו לבקר את עבר הירדן לשם התישבות בה בתור חקלאים. בקורם ערך כמה שבועות ועשו את הדרך מיפו לירושלים - יריחו ועבר הירדן.
+
+ באותה שנה הסתדר ביפו בתור סוחר ויבואן לצרכי מכולת-מעדנים. בתחילה במנשיה. ואח"כ (1914) ברחוב בוסטריס ובשנת 1927 עבר לתל-אביב. והיה מהסוחרים הראשונים שהצליחו להעביר את המסחר הסיטוני מידי הערבים למסחר היהודי.
+
+ בי"ג אלול תרע''ט נשא לאשה את<persName> רחל</persName> בת<persName> ישראל</persName> <persName>רייטמן</persName> (ראה כרך ז', עמוד 2967).
+
+ היה מראשוני בוני המרכז המסחרי בת"א והקים בית ברחוב עליה מספר 20 בת"א.
+
+ צאצאיו ;<persName> בר-כוכבא, אבינועם, צפרירה</persName> אשת<persName> יחיאל</persName> <persName>אדמוני </persName> (ירושלים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3751 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3751</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3263 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3263</bibl><bibl>Volume: #9 ,Page: 3264 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3264</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זימל רזניק</persName>
+
+</head>
+         <div><p> נולד בתשרי תרנ"ח (27.9.1897) בקליצ'ב (רוסיה). לאביו<persName> יעקב דוד</persName> (שו"ב) ולאמו<persName> פייגה לאה</persName> בת<persName> דב</persName> <persName>בר אייזנשטאט.</persName>
+
+ למד תורה מפי אביו ואח"כ בקיבוץ חב"ד בבוברויסק. בנעוריו הצטרף לתנועה הציונית והשתתף ביסוד "צעירי ציון" בבוברויסק.
+
+ ב-1912 יצא לארצות הברית ותוך עמלו בעבודה ובעסקים המשיך בפעילות ציונית והשתתף ביסוד "אחיעבר" ו"יובל".
+
+ ב-1916 נשא לאשה את <persName>מרים</persName> בת <persName>יקותיאל שטרן.</persName> במלחמת העולם הראשונה התנדב לגדוד העברי האמריקאי ("גדוד 39 של קלעי המלך") ובא ארצה עם המגורשים ממנה, העומדים כעת בראש מדינת ישראל, להלחם למען שחרורה בשביל עם ישראל.
+
+
+ באין באפשרותו להשתקע בארץ חזר ב-1919 לארה"ב. אבל נשאר כאזרח מסור לארץ-ישראל העברית ופעל למענה כל ימיו.
+
+ היה ממניחי היסוד ל"געווערקשאפטן" וה"פערבאנד" והתנועה "למען ארץ-ישראל העובדת" בארה"ב ויסד סניפים לתנועה זו בניו-בראונזוויק ובאוסברי-פארק שבניו-ג'רסי, בווילמינגטון ובמיאמי שבפלורידה.
+
+ ממיסדי "האגודה למען הספקת חמרים לישראל". שיתף פעולה עם <persName>זאב שינד ויעקב דורי</persName> ואחרים בעניני מחתרת ההגנה בארץ ובעניני רכישת ספינות להעלאת מעפילים.
+
+ ב-1946 נבחר לקונגרס הציוני ואחרי הקונגרס בא מבאזל לביקור בארץ וקיבל הוראות מסוימות לביצוע בעניני מחתרת ההגנה.
+
+ פעיל כל הזמן למען המגבית המאוחדת, מפעל המלוה, האוניברסיטה העברית, הטכניון, מכון וייצמן, קרן נורמן (הקרן האמריקאית למוסדות תרבות בישראל), ארגון אמהות עובדות, ועוד, וכן בארגונים יהודיים לעניני דת ותרבות וחינוך באמריקה.
+
+ בשנים האחרונות ביקר כעשרים פעם בישראל. בביקורו בסוף 1956 וראשית 1957 כאורח משרד הבטחון סייר בכל שטחי סיני.
+
+ בחגיגות יובלו הששים הגיעו ברכות מכל רחבי ארצות הברית ומראשי הישוב במדינת ישראל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3263 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3263</bibl><bibl>Volume: #9 ,Page: 3264 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3264</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

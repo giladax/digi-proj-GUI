@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4058 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4058</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלום חמדי</persName>
+
+</head>
+         <div><p> לאביו<persName> שלמה לוי.</persName>
+
+ עלה לארץ בשנת תרמ''ב (1882).
+
+ לאחר שנוסדה עדת התימנים בירושלים, בסיון תרמ"ג (1883) נשלח לתימן ע"י רבני העדה יחד עם ר' <persName>יוסף נדאף</persName> במטרה לאסוף תרומות ולקבוע קופות על שם ר'<persName> שלום שבזי</persName> עבור עניי העדה שלהם ובנין ביתמחסה לגולי תימן בירושלים.
+
+ השליחים קבעו קופות, ומינו לגבאים את ר'<persName> יחיא</persName> <persName>בדיחי,</persName> ר' <persName>שלום חבשוש </persName> ור' <persName>סלימאן צאלח.</persName> לסוכן מינו את ר' <persName>חיים אלדאף.</persName>
+
+ הגבאים היו אוספים את התרומות ומוכרים את החפצים (אוכל ובגדים), ואת הכסף היו מוסרים ליד הסוכן. בכל ששה חדשים היה הסוכן שולח את הכסף לירושלים.
+
+ ר' <persName>שלום חמדי</persName> יצא שנית לתימן בשליחות כולל הספרדים בשנת תרס"ג.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4058 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4058</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4287 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4287</bibl><bibl>Volume: #13 ,Page: 4288 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4288</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אפרים צמל</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ד תמוז תרצ"ה (25.7.1935).
+
+ לאביו<persName> משה צמל</persName> ולאמו<persName> חיה </persName> בת הרב <persName>אברהם שפירא</persName> (האמא ממשפחת ה"סבא מקעלעם" מגדולי וראשוני אישי שיטת המוסר מיסודו של ר'<persName> ישראל מסלנט)</persName> .
+
+ קיבל חינוך מסורתי יסודי בישיבה ורבני, והוסמך לרבנות.
+
+ היה מנהל חינוכי בכפר הנוער "שדה חמד", וראש ישיבת "נחלת יהודה" בכפר הנוער הנ"ל.
+
+ היה סופר דיינים (מזכיר הדיינים) בבית היין הרבני ברחובות ובפתח-תקוה.
+
+
+ בשנת תשט"ז (1956) נשא לאשה את <persName>חנה</persName> בת הרב <persName>חיים חזן.</persName>
+
+ חבר הנהלת אגודת חניכי הישיבות בבני-ברק.
+
+ מרצה במוסדות הנוער ובכינוסים תורניים.
+
+ כתב מאמרים תורניים, השקפתיים, מוסריים, וכן מאמרי ביקורת ספרים (רצנזיות) בירחונים : "הנאמן" ו"דגלנו". וביומנים : "המודיע" ו"הצופה". כמו-כן בקונטרסים תורניים ישיבתיים.
+
+ חבר מערכת "הנאמן" - בטאון חניכי הישיבות (תשי"ז).
+
+ רב צבאי בצה"ל.
+
+ צאצאיו: <persName>חסיה, בן-ציון, רחל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4287 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4287</bibl><bibl>Volume: #13 ,Page: 4288 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4288</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

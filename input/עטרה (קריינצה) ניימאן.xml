@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3401 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3401</bibl><bibl>Volume: #9 ,Page: 3402 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3402</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עטרה (קריינצה) ניימאן</persName>
+
+</head>
+         <div><p> נולדה ביאסי (רומניה) בשנת תרל"ז (1877). לאביה <persName>יעקב גולד</persName> (ציוני נלהב, אשר היה עוזרו הנאמן של ד"ר <persName>ליפה</persName> בהפצת חיבת ציון ברומניה) ולאמה <persName>יוכבד.</persName>
+
+ אביה היה סוחר ובעל אמצעים וביתו היה פתוח לציבור היהודים בעירו. למרות מעמדו ומצבו הכלכלי המבוסס החליט לחסל עסקיו ולעלות לארץ. ובשנת 1884 עלה עם בני משפחתו והתיישב במושבה עקרון שרק זה נוסדה,
+
+ בגיל 17 נישאה<persName> לדב ניימאן</persName> (ראה כרך ב', עמוד 1028) ויחד עמו משכה בעול המשק ופרנסת המשפחה. המצב הכלכלי היה קשה וקשה מזה המצב התברואי. הגרענת, הקדחת דפטריה וטיפוס הפילו לא מעט חללים. תנאי
+
+
+ הדיור היו רעים. במקום נבנו בתים אחדים ארוכים ללא בידוד וללא תנאים סניטריים. כאשר ביקר הבארון <persName>אדמונד דה-רוטשילד</persName> בארץ, חששה הבארונית להגיע למושבה פן תחלה בדפטריה ואז נתבקשה <persName>עטרה </persName> אישית על ידי הבארון, לבקר את רעיתו בראשון לציון ולהביא בפניה את משאלותיה.
+
+ בפגישה זו הביעה רעית הבארון את חרדתה ודאגתה לבריאות בני המקום ושאלה מה לעשות לתיקון המצב. תשובתה של האשה. הצעירה היתה כי יש לפזר את התושבים ולהושיבם בבתים קטנים נפרדים. אשתו של הנדיב הבטיחה לטפל בדבר ומיד בחוזרה לפריז נתנה הוראות לפקידות בארץ ישראל להתחיל מיד בבנין הבתים החדשים.
+
+ בפי האשה הזקנה בת השמונים ספורים רבים ומענינים על החיים הקשים בתקופה ההיא, שנות של רעב ומצוקה, בנין והתערות באדמת המולדת. בתנאים קשים גידלה משפחה ענפה של שמונה ילדים והצליחה לתת להם חנוך תיכוני וגבוה, אשר אחדים מהם משמשים בתפקידים ראשונים בניהול ציבורי ובשדה הטכניקה בארץ.
+
+ צאצאיה :<persName> מנחם, שאול, עקיבה</persName> (מהנדס), <persName>צבי</persName> (מהנדס), <persName>יוכבת </persName> אשת <persName>אברהם קריינין</persName> (ראה בכרך זה),<persName> שרה</persName> אשת <persName>יוסף כרמי, תמר</persName> אשת<persName> אפרים גלר</persName> (ראה בכרך זה, עמוד 3381),<persName> אסת</persName> אשת <persName>מתתיהו קפמן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3401 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3401</bibl><bibl>Volume: #9 ,Page: 3402 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3402</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

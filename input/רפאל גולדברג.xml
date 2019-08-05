@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5608 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5608</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רפאל גולדברג</persName>
+
+</head>
+         <div><p> נולד בפתח-תקוה, כ"ב אייר תרע"ו (25,5.1916).
+
+ לאביו <persName>יצחק</persName> (ראה את הערך שלו בכרך זה) ולאמו <persName>זלדה</persName> בת<persName> אברהם אבא למפרט</persName> (מהמתיישבים הראשונים בפתח-תקוה).
+
+ קיבל חינוך מסורתי וכללי בביה"ס פיק"א בפתחתקוה.
+
+ היה פעיל ב"מכבי", בהגנה ומזכיר אגודת "פרדס" במושבה הרבה שנים.
+
+ בגיל 13 נרשם בשורות הנוער של ההגנה ועבר קורסים רבים להדרכה ולפיקוד.
+
+ לקח חלק בשמירה במושבה בימי פרעות או הכנות לפרעות.
+
+ עזר להוריו בחקלאות.
+
+ נשא לאשה את <persName>סוזי</persName> בת<persName> מנחם שינדל</persName> מפרנקפורטאמיין (נשלחה מגרמניה בעליית ילדים - האחרונים - לאנגליה. שם נמצאו משפחות נוצריות שקיבלו עליהן לאמץ את הילדים היהודים, ומאוחר יותר הועברה לעבודה במחנות ובחוות שסודרו ע"י הסוכ
+
+ נות היהודית). כיום סוחר לדברי פלסטיק בחיפה.
+
+ צאצאיו: <persName>אילנה</persName> אשת <persName>בנימין כץ; שלומית, יצחק.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5608 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5608</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

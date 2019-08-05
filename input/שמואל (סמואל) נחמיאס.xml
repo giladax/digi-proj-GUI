@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 242 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/242</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל (סמואל) נחמיאס</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשבת תרכ"ח (1868) לאביו <persName>חיים.</persName> למד בתלמוד-תורה ואח"כ למד חקלאות במקוה ישראל וגמר את בית-הספר בהצטיינות.
+
+ בשנת תר"ן נתקבל לשרות בפקידות<persName> הבארון</persName> <persName>רוטשילד </persName> ונשלח לראשון לציון להדריך את האכרים בנטיעת גפנים. בתרנ"ג הועבר לשרות של פקידית והנהלה מטעם הבארון בעקרון. בתרנ"ה נשא שם לאשה את <persName>מינה</persName> בת<persName> יעקב ארקין</persName> , אחד מ-11 ראשוני המתישבים בעקרון. באותה שנה הועבר לפתח-תקוה כעוזר לאגרונום<persName> מאיר אפלבוים</persName> בניהול המטעים ומפעלי העזרה והמשק של הבארון.
+
+ בתר"ס הציעה לו הנהלת חברת יק"א לקבל פרדס בפתח-תקוה ולהתנחל בה כאכר. באותו זמן החריבה הפילוקסרה מטעי גפנים, והבארון עזר לאברים בהלואות לנטוע פרדסים במקום הכרמים ואז הוטל על נחמיאס לעבור לנס ציונה ולהדריך שם את האכרים בנטיעת פרדסים, וכן לנהל את אדמת הבארון בגזר שליד רמלה ואת הסטטיסטיקה השנתית ממושבות רחובות, גדרה ועקרון.
+
+ בתר"ע הגיע זמנו לצאת לפנסיה ולקבל נחלה בעקרון, אך בגלל הצורך בשרותו המשיך בתפקידו בנס-ציונה, ובתרע"א נטע לו שם פרדס.
+
+ במלחמת-העולם הראשונה, כשהוגלו רוב פקידי הבארון מהארץ בגלל היותם נתיני האויב, היה הוא, כיליד הארץ ואזרחה, מהמעטים שנשארו לנהל את
+
+ עניני ההתישבות והמשק של הבארון במחוז הדרום, וביבול החטים והשעורים שזרע באדמת גזר (כ-7500 דונם) סייע להקל את המחסור בלחם לישוב העברי שבמחוז הדרום. כן השתמש בקשריו הטובים עם נכבדי הערבים ועם פקידי השלטון להמתיק את רוע הגזירות, למנוע מאסרים ולביטול גזירות. כן השתמש בקשריו עם עשירי הערבים ובידיעותיו להתהלך עמהם כדי לסייע ליהודים בגאולת קרקעות.
+
+ בניו: <persName>אברהם</persName> שהמשיך אחריו בתפקידו, חיים, שהיה בשעתו מפעילי המכבי ביפו-ת"א.
+
+ נפטר בנס ציונה, כ' אייר תרפ"ד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 242 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/242</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

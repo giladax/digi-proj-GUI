@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 43 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/43</bibl><bibl>Volume: #1 ,Page: 44 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/44</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישעיהו רזניק</persName>
+
+</head>
+         <div><p> נולד בברדיצ'ב, בשנת תרכ"ח (1868), לאביו הרב <persName>חיים</persName> , דיין ברבנות הקהלה. קיבל חינוך תורני בחדרים ובישיבה.
+
+ בן 18 עלה ארצה בתרמ"ו עם אביו, אחיו ואחותו (<persName>גולדה</persName> , שנישאה אח"כ לר' <persName>שלמה שלנג</persName> ), התישבו בירושלים והתפרנסו מעבודה יומית והוא למד מלאכה.
+
+ נשא לאשה את <persName>ליבה</persName> בת הרב <persName>אברהם יצחק</persName> <persName>סטוזנסקר</persName> , מראשי ישיבת מאה שערים. (נפטרה בת"א, י"ז כסלו תש"ו - 22.12.45 - והובאה לקבורה בירושלים).
+
+ בתרנ"ו עבד לראשון לציון ופתח שם בית-מלאכה ובראשית תר"ס עבר ליפו, פתח את בית מלאכתו ברחוב בוסטרוס והשתכן בבית שבנה לו בשכונת נוה שלום, שהיתה אז בראשית בנינה. למד לדבר ערבית וטורקיה, רכש לו לקוחות בעיקר מבין הערבים ופקידי השלטון, נתחבב על תושבי יפו הערבים, שכיבדוהו והתיעצו אתו בעסקיהם. מתוך כך נעשה כעין מוכתר בלתי-רשמי ומקשר בין היהודים מצד אחד ובין הערבים ואנשי השלטון מצד שני, ובמשך זמן-מה לפני מלחמת-העולם הראשונה אף היה מוכתר האשכנזים. בקשריו אלה השתמש לעזרה לעולים "בלתי חוקיים", שיכנסו ארצה בעקיפת בקורת פקידי הנמל, או, אם נכנסו על פי "פתקה אדומה" ברשיון להשאר בארץ שלשה חדשים, שיוכלו להשאר גם להבא. ובראשית המלחמה ההיא השתמש בקשריו לגאול רבים מהשרות בצבא או ב"עמליה" (בגדודי העבודה באזור החזית). אחרי המלחמה, בעת מהומות מאי 1921, השתתף בהגנת נוה שלום ואח"כ פעל בחוגי ידידיו הערבים למען השקטת הרוחות והחזרת השלום בין שני העמים.
+
+ נפטר בתל-אביב' כ"א אדר תש"ב (10.3.42), והובא לקבורה בירושלים.
+
+ צאצאיו:<persName> שרה </persName> אשת <persName>בוריס רוזינאי </persName> (ניו-יורק), <persName>שמואל </persName> (מותיקי עובדי הדואר ומפקידיו הראשיים), <persName>משה </persName> (בהנהלת "אגד"), <persName>זרח, ישראל, אברהם</persName> (מטובי הכדורגלנים בארץ),<persName> רבקה </persName> אשת <persName>שמואל ליפטין </persName> (סידני, אוסטרליה).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 43 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/43</bibl><bibl>Volume: #1 ,Page: 44 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/44</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

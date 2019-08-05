@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4006 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4006</bibl><bibl>Volume: #12 ,Page: 4007 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4007</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אשר בלום</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קהיר</placeName> (מצרים), בשנת תרמ''א (20.1.1881).
+
+ לאביו <persName>יצחק בלום</persName> ולאמו <persName>רבקה</persName> בת<persName> נח שולמן.</persName>
+
+ בשנת 1890 הובא ע''י אמו ליפו, גדל ולמד בתלמוד תורה בהנהלתו של הרב<persName> נפתלי הרץ הלוי </persName> זצ''ל (ראה כרך א', עמיד 102), חזר לקהיר ולמד בבי"ס מימונית, זמן מה למד בלונדון, בביה"ס "למל" בירושלים.
+
+ רפואה וסוציולוגיה למד באוניברסיטה סורבון בפריז.
+
+ בשנת 1915 נשא לאשה את<persName> שושנה</persName> (רוזה) בת<persName> אפרים</persName> <persName>משה יפה</persName> , נולדה ביפו (גמרה בית-ספר לרופאי שנים בפריז. היתה פעילה בחוג הסטודנטים בפריז. במצרים היתה פעילה במועדונים : קדימה, המועדון העברי, עסקה בעלית הנוער והיתה חברה פעילה באגודת שוחרי האוני
+
+ ברסיטה העברית. נפטרה בתל-אביב. כ"ז אייר תשי"ג12.5.1953).
+
+ באוגוסט 1898 היה מזכיר אגודת הנוער "בר-כוכבא" במצרים.
+
+ באוגוסט 1899 נבחר לציר הקונגרס הציוני השלישי.
+
+ היה פעיל בועדים : ההסתדרות הציונית, קק"ל, קרן היסוד, בני-ברית, המועדון העברי, "יבנה" - להשכלה עברית ב<placeName>קהיר</placeName> (1913) ובאיחוד צעירים יהודית עולמית U.J.J..
+
+ פרסם חוברות וספרים בשפה הצרפתית:
+
+ L'Osteologie des medcins arabes et son origine Talmudique )1935( au Congres de l'Histoire de la medcine a Madrid. La Lepre dans la Bible et dans l'ancienne .(1938)Egypte .(1946)Lettre Ouverte a Mr. Ernest Bevin
+
+ בשנת 1952 עלה עם רעיתו לארץ וחיסלו את הקליניקות שלהם במצרים.
+
+ נפטר בתל-אביב, י"ד אדר א', תשי"ז (17.3.1957). את רכושם מסרו לקרן הקימת לישראל.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4006 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4006</bibl><bibl>Volume: #12 ,Page: 4007 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4007</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1749 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1749</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' אריה דוסטרובסקי</persName>
+
+</head>
+         <div><p> נולד בכפר צאירו (קרים, רוסיה), בשנת תרמ"ז (25.2.1887), לאביו <persName>משה</persName> ולאמו<persName> יוכבד</persName> בת <persName>שלמה שרייבר.</persName> למד בגימנסיה רוסית באודיסה. רפואה למד
+
+ באוניברסיטאות וינה ובזל, התמחה במחלות עור ומין קבל תואר דוקטור לרפואה.
+
+ עבד במקצועו בבתי חולים בשווייץ וברוסיה.
+
+ חבר פעיל בפועלי ציון באודיסה, חבר הועד של המפלגה ומטעמה חבר בועד הקהלה היהודית באודיסה.
+
+ בשנת 1908 נשא לאשה את<persName> סוניה</persName> בת זאב<persName> פוליאקין.</persName>
+
+ בקר בארץ בשנת 1912 ועלה אליה באניה "רוסלן" בחנוכה 1919.
+
+ הראשון שהתיישב בשכונת "רחביה" בירושלים. נכנס לעבוד כראש המחלקה למחלות עור ומין בבית החולים "הדסה", ועבד שם עד הפתח בית החולים האיניברסיטאי "הדסה" על הר הצופים (1939),
+
+ בעבודה פעילה באוניברסיטה התחילי בשנת 1938. נבחר לדקן הראשון של בית הספר הרפואי של האוניברסיטה ושל "הדסה" לשנים תש"ט, תש"י במקומו של פרופ' אדלר. חבר הועד המנהל של בית הספר. חבר המועצה המדיצינית של "הדסה", חבר ועדת בית הספר לאחיות "הדסה", יו"ר ועדת הביצוע של בית הספר הרפואי. חבר הועדה המתמדת של סנט האוניברסיטה העברית. מנהל רפואי של בית חולי צרעת בירושלים.
+
+ יו"ר איגוד רופאי עור בארץ ישראל. יו"ר סניף הליגה למלחמה בשחפת בירושלים,
+
+ חבר המערכת בעתון "הרפואה". חבר המערכת של העתון הבינלאומי בבזל "דרמתולוגיקה".
+
+ פרסם כחמשים באמרים מקצועיים בארץ ישראל, אמריקה ושווייץ. השתתף בקונגרס הבינלאומי למחלות טרופיקליות בקהיר 1928. בקונגרסים הבינלאומיים למחלת הצרעת בקהיר 1935, 1938. בקונגרס הבינלאומי למחלות עור בבודפסט 1935.
+
+ צאצאיו : <persName>יוכבד</persName> אשת<persName> א. קרופניק</persName> (בניהם : <persName>דרור</persName> , <persName>גדעון), ד"ר ישראל</persName> (אשתו ; <persName>דפנה</persName> , צאצאיהם :<persName> סיגליה,</persName> <persName>יונתן)</persName> , רות אשת<persName> ד"ר זגהר</persName> (בנם : <persName>אורי</persName> ).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1749 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1749</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

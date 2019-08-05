@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4456 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4456</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אשר (אוסקר) גלעד (גולדבלט)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ריגה</placeName> בשנת תרנ''ג (3.11.1893).
+
+ לאביו<persName> זאב גולדבלט </persName> ולאמו<persName> חיה</persName> בת<persName> משה וולוזינסקי.</persName>
+
+ קבל חנוך מסורתי וכללי. גמר גמנסיה ולמד באוניברסיטה בפטרוגרד ודורפט-יורייב.
+
+ עבד בפקידות.
+
+ עלה לארץ בשנת 1924.
+
+ עבד בחקלאות ופקידות.
+
+ בשנת 1925 נשא לאשה את <persName>טובה</persName> בת<persName> פנחס שרדסקי</persName> (שעלתה לארץ מלודז' באותה שנה. נולדה בשנת
+
+ תרנ''ח (1898). יסדה את הסניף הראשון של ארגון נשי התנועה הז'בוטינסקאית ברמת-גן, ועד יומה האחרון שימשה בו כגזברית.
+
+ שנים רבות היתה חברה בועדת הבקורת המרכזית של "ברית נשים חרות" (לפני כן ב"ברית נשים לאו
+
+ מיות"). בשנות 1932-33 היתה אחת מארבע אנשי רמת-גן אשר הבטיחו את עזרתם לפלוגת בית"ר במקום.
+
+ בשנים 1945-47 היתה פעילה בקרב הנשים לעזרת משפחות העצורים והאסירים וסייעה בהקמת קייטנה
+
+ לילדי העצורים. לאחרונה קבלה תחת חסותה את גן הילדים של "ברית נשים חרות" ברמת-גן.
+
+ נפטרה, בכ"ג טבת תש"ך (23.1.60).
+
+ צאצאיהם:<persName> עמוס</persName> (קבלן),<persName> רן </persName> (רואה חשבון).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4456 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4456</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4070 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4070</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים שמואל דויטש</persName>
+
+</head>
+         <div><p> נולד ב<placeName>דרויסק</placeName> (פולין) בשנת תרס"ח (1908).
+
+ לאביו <persName>שמריהו</persName> (בן <persName>יעקב דויטש,</persName> מותיקי חסידי ר' <persName>יוסלה קרסלוה) </persName> ולאמו <persName>שרה לאה</persName> בת ר' <persName>פנחס הכהן</persName> <persName>גמירוב.</persName>
+
+ קיבל חינוך מסורתי ותיכוני כללי.
+
+ היה מפקד קן בית"ר ויו"ר הצהיר וקרן קימת בעירו.
+
+ בעיר דרויסק יסד בית ספר. יזם ויסד קן נוער לעברית וציונות ותעמולה לעליה לארץ - בעיר דרויסק.
+
+ היה פרנס (דאזיר) בקהילה ברסלב.
+
+ בוילנה היה פעיל בהצה"ר.
+
+ עסק במסחר.
+
+ בשנת 1939 נשא לאשה את <persName>משא</persName> בת ר'<persName> ישראל</persName> <persName>גרוסבין </persName> (היתה מורה בסמינריון של ד"ר <persName>צרני</persName> בוילנה.
+
+ היתה פעילה במחתרת ביערות קאזאן ע"י ברצלב 19421945. עסקנית בתנועת חרות).
+
+ בשנת 1948 היה פעיל בעיר אפגייסמאר במגבית המאוחדת לא"י בשם "מס עם לוחם". קיבל תעודה עבור עבודתו המסורה בארגון העבודה בעירו.
+
+ בשנות 1945-49 היה פעיל במחתרת בגרמניה.
+
+ בשנת 1950 עלה לארץ.
+
+ מנהל קופת חולים לעובדים לאומיים בסניף רמת-גן.
+
+ חבר מועצת תנועת חרות.
+
+ צאצאיו:<persName> ישראל, צפורה לאה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4070 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4070</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2574 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2574</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלחנן לוריא</persName>
+
+</head>
+         <div><p> נולד בל' כסלו תרס"ג (30.12.1902) בליבאווי שבלטביה (אז בקיסרות הרוסית).
+
+ לאביו<persName> משה (סוחר)</persName> ולאמו<persName> פייגה</persName> בת<persName> יחזקאל מאירזון.</persName> למד בחדרים ובבית-ספר ממשלתי והופרע בלימודיו בגלל מלחמת-העולם.
+
+ אחרי המהפכה הרוסית הדמוקרטית (פברואר 1917) עזב באביב את עירו, שהיתה בכיבוש גרמני, חמק ועבר ברגל בין החזיתות והגיע לפטרוגראד (כך נקראה אז עיר-הבירה פטרבורג) ומשם נסע אל אחותו לעיר-הנמל הצפונית ארכאנגלסק.
+
+ כשכבשו צבאות הברית (של אנגליה וצרפת) ב-1918 את העיר ארכאנגלסק לבסיס מלחמתי נגד הבולשביקים,
+
+ התנדב לשרותי עזר בחיל התעופה הבריטי. בסוף 1919 הגיע חזרה לעיר ליבאווי, שהיתה אז כבר בלטביה העצמאית, אך מצא שם ערבוביה של חבלי שלטון עצמאי ולא ראה עתיד לעצמו במצב זה. אז החליט למהר ולעלות לארץ-ישראל ולהתנדב לגדוד העברי.
+
+ בהרבה מאמצים וזריזות עבר את הדרך הארוכה בארצות אירופה, שהיתה מסוכסכת במוצאי המלחמה וב-1920 הגיע ארצה, אך את הגדוד העברי מצא על סף פירוקו, ללא מקום לקבלת מתנדבים חדשים, ולכן הוכרח להתחיל בעבודה אזרחית בתור פועל כיתר החלוצים. לא עבר זמן רב ונמצאה לו ההזדמנות להתנדב לשרות מסוג צבאי ב"הגנה" לרגל פרוץ המהומות הערביות במאי 1911, ואז עמד על משמר הגנת הישוב העברי בחזית נוה שלום שביפו. מאז היה פעיל בקביעות ב"הגנה", היה משומרי ראשו של הלורד בלפור בביקורו בתל-אביב לרגל בואו ארצה ב-1925 לחנוכת האוניברסיטה העברית, ובמשך השנים מילא בהגנה תפקידי עבודה בתע"ש ופיקוד, ובמלחמת השחרור שרת במחלקת הגיוס לצה"ל. עבד במקומות-עבודה פרטיים ובשרות עירית תל-אביב ומאז 1933 הנו מחסנאי ברשת-חוץ של חברת החשמל בתל-אביב.
+
+ נשא לאשה את <persName>צפורה</persName> בת <persName>שמשון מאס</persName> .
+
+ צאצאיו: <persName>משה, שרה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2574 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2574</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

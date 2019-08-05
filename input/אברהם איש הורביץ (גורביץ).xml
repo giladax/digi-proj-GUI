@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 190 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/190</bibl><bibl>Volume: #1 ,Page: 191 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/191</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם איש-הורביץ (גורביץ)</persName>
+
+</head>
+         <div><p> בן יצחק צבי. - נולד ביום י"ד כסלו תרל"ו בעיר בילסק, פלך גרודנה. מצאצאי של"ה.
+
+ נתחנך ב"חדר" לכל דרגותיו השונות, ושם למד למודי קודש. אח"כ כשגדל רכש לו ע"י חנוך ביתי
+
+
+ ידיעות כלליות. כשבנה לו בית נהיה לסוחר, קומיסיונר לסחורות טכסטיל בלודז' אח"כ היה מהפקידים הראשיים בבית החרושת לעורות של ח. פרנקל בשבלי שבליטה, ולבסוף היה סגן מנהל בבית חרושת לנעלים "מרקורי" במוסקבה.
+
+ ציוני היה כל ימיו. בשנות מלחמת העולם הראשונה נתגלגל למוסקבה. הודות לפעולותיו נבחר לחבר הועד העירוני של הציונים הכלליים במוסקבה, באפריל 1920 נאסר עם חברי הועידה הציונית שהתקיימה במוסקבה. אח"כ כשנתגלגל לארכנגלסק היה גם היו"ר בועד העירוני שם.
+
+ עפ סיום המלחמה והשתלטות הבולשביקים ברוסיה, חזר למולדתו לליטה, ושם נכנס שוב לעבודה ציונית אקטיבית, וניהל בהצלחה את הפעולה של "קרן הזהב", אח"ב פעל לטובת "קרן היסוד". כשהתחילה העליה לארץ ישראל נכנס בתורת חבר לעבוד במשרד הא"י בקובנה. עם הקבוצה הראשונה של העולים מליטא, יצא לארץ ישראל, וקבל את הסרטיפיקט מספר 1, בא לארץ ישראל עם משפחתו בשנת 1922 והתישב בעקרון.
+
+ בעקרון נהיה פעיל במובן הצבורי: יסד את הבנק הקואופירטיבי "הלואה וחסכון" וגם נתמנה למנהלו, נבחר למנהל הקואופירטיב של יצרני החלב "מזכרת בתיה", נבחר למועצת הבנק המרכזי למוסדות שתופיים בארץ ישראל בתור חבר, נכנס לועדת הבקורת ב"החקלאות" - אגודה הדדית לאחריות המקנה בערבון מוגבל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 190 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/190</bibl><bibl>Volume: #1 ,Page: 191 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/191</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

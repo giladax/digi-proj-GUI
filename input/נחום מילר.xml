@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 517 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/517</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחום מילר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קובנה</placeName> (ליטא), כ"ו כסלו תרי"ט (1858), לאביו<persName> יוסף</persName> . קיבל חינוך יהודי וכללי והתמחה בעבודות מיכאניקה. יסד בפטרבורג בית-מלאכה לעבודות אלה ולתיקון מכונות.
+
+ בשנת תרמ"ד נשא לאשה את <persName>צביה </persName> בת <persName>מרדכי</persName> גרפינקל מנסוויש, פלך מינסק.
+
+ בקיץ תרמ"ו עלה ארצה ועבד שנתים כמדריך בעבודות מתכת בבית-הספר למלאכה של חברת כי"ח (אליאנס). בשנות תרמ"ח-נ"ו עבד בראשון לציון. כשנוסד שם היקב בתרמ"ט ניהל את קידוח הבאר הראשונה והרכבת המשאבה הראשונה שהונעה בכח הקיטור. הרכיב את מכונות בית-החרושת <persName>למג'רניום</persName> ואת המכונות הראשונות לתעשית כוהל לקוניאק ביקב ראשון לציון. בשנות תרנ"ו-ס"ו עבד בזכרון יעקב כמנהל טכני ביקב והרכיב בו את המכונות, וכן הרכיב את המכונות וסידר את אספקת המים בטחנת-הקמח שבמושבה.
+
+ בתרס"ו השתקע בחיפה, שם יסד וניהל יחד
+
+ עם שני בניו את בית-המלאכה המיכאני הראשון, שצויד במכונות משוכללות לחריטה, ריתוך ועוד. הרכיב את המכונות לבית-החרושת לבושם-פרחים ביסוד המעלה. הוציא לפועל עבודות רבות במתכת ובמיכאניקה בשביל רכבות מסלת-הברזל החיג'אזית בקוים חיפה - אדרעי - דמשק - מדינה ונעשה מקורב לאנשי השלטון הטורקי בחיפה.
+
+ בשנתים האחרונות למלחמת העולם הראשונה היה מוכתר הקהלה היהודית בחיפה ויחד עם <persName>נתן קיי</persName> <persName>זרמן</persName> , ראש הקהלה ואחרים ניהל את עניני הקהלה והשתמש בקשריו הטובים עם אנשי השלטון הטורקי לריכוך הנגישות בעניני שרות יהודים בצבא, עבודתכפיה, מאסרים וכו'.
+
+ עזר לכל דבר טוב ומועיל והיה בעל לב טוב ויד פתוחה.
+
+ נפטר בחיפה, ט' כסלו תש"ד (6.12.43).
+
+ צאצאיו: <persName>יוסף, ברוך מרדכי, רבקה</persName> אשת<persName> אל</persName> <persName>חנן ברוכוב</persName> (מהנדס ראשי וממנהלי הקהק"ל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 517 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/517</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

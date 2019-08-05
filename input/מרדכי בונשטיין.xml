@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 777 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/777</bibl><bibl>Volume: #2 ,Page: 778 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/778</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי בונשטיין</persName>
+
+</head>
+         <div><p> נולד באודיסה, דרום רוסיה, י"ד אלול תרי"ח (1858), לאביו <persName>פסח</persName> . קיבל חינוך יהודי מסורתי. עבר בבחרותו לרומניה ועסק במסחר תבואות ובחקלאות.
+
+ נשא לאשה את <persName>חיה רחל</persName> לבית יעקובזון.
+
+ הצטרף לתנועת חיבת ציון ולארגון העולים להתנחל על הקרקע בארץ-ישראל, ובשנת תרמ"ד עלה ארצה באישור הועד המרכזי של חובבי ציון בגאלאץ, התישב בראש פנה והתמסר לעבודה חקלאית כאכר חרוץ למופת.
+
+ כשגאל <persName>הבארון רוטשילד</persName> חלקת אדמה בכפר
+
+
+ טנטורה ליד בית-החרושת לזכוכית שהקים שם עלידי <persName>מאיר דיזנגוף</persName> היה צורך באכר מוכשר ומתאים. אוהב אדמה ועבודה, אמיץ וזריז, שיתישב שם ויעבד את האדמה. נציגו של הבארון, מר <persName>אליהו</persName> מייד, מצא אותו, לפי תכונותיו, מתאים לכך והציע לו להחליף את נחלתו ההררית והסלעית שבראש פנה במרחב שדה ומרעה לעדרי צאן ובקר בטנטורה. ובונשטיין, שהשתוקק למרחב שדה כפי שאיפתו בחו"ל, הסבים להצעה ועבר שמה עם משפחתו ועם חותנו באייר תרמ"ו.
+
+ משפסקה העבודה בבית-החרושת לזכוכית וכל פועליו ומומחיו עזבוהו נשארה משפחת בונשטיין לבדה בכפר הערבי, והודות לידיעותיו בשפות הערבית והטורקית ולסגולותיו האישיות הטובות נתחבב ונתכבד על ערביי הכפר והסביבה, עד שהציעו לו להיות המוכתר שלהם כלפי השלטונות. אמנם גם כך קשים היו החיים בכפר, מחוץ לישוב יהודי, ומה גם שהקדחת פקדה את המשפחה, ובעיקר את עקרת הבית, לעתים קרובות, ורופא ביקר בכפר רק פעם בשבוע והרוקח <persName>אדלר</persName> מזכרון יעקב פעמיים בשבוע, והקדחת לא קבעה את זמניה לפי זמני הביקור של אנשי הרפואה. אך חזקו עליו דברי אליהו שייד, כי הבארון אומר להקים במקום הזה עיר נמל ומרכז לתעשיה ועד להגשמת התכנית הגדולה וחוץ שיהודי ישב בקביעות על האדמה שנגאלה
+
+ ויקיים בה את חזקת הישוב היהודי, - והוא הבין וקיבל עליו את החובה לשאת למען העתיד של העם והארץ את הסבל החלוצי של בדידות וקדחת. לפקודת הרופאים הוכרח לשכור לאשתו חדר בזכרון יעקב, שתבריא באויר ההררי מן הקדחת, אך <persName>אליהו שייד</persName> ראה בכך התחלה ליציאת כל המשפחה מן המקום והזכיר לבונשטיין את חובתו כלפי עיר העתיד שתקום בטנטורה... הוא הבין את חובתו והחזיר אליו את אשתו והוסיפו לעבוד ולסבול. אך העיר לא נבנתה, ובינתים גדלו הילדים והיו זקוקים לבית-ספר, ואחרי עשר שנות ישיבה בכפר הערבי עלה עם משפחתו להתישב בזכרון יעקב,
+
+ ומאז היה לאחד מטובי האכרים במושבה, חרוץ בעבודה ופעיל אף בעניני הצבור עד זקנה ושיבה, גבאי ראשי בבית הכנסת במושבה וגידל וחינך בנים ובנות מעורים בחיי הארץ, ואחד מהם שגורלו הרחיקו לחו"ל פעיל גם שם למען ציון כעסקן ההסתדרות הציונית, וזכה לראות סביבו דורות של נכדים ונינים.
+
+ צאצאיו:<persName> נחום</persName> (לוזאן, שוייץ), <persName>פסח</persName> (סוחר בחיפה), <persName>אשר, יהודה, יוטא</persName> (ז"ל) אשת <persName>ראובן קפלן</persName> (בזכרון יעקב),<persName> משה</persName> (מפקח בתי-הדואר במחוז המערב), <persName>אהרן</persName> (זכרון יעקב),<persName> יוסף</persName> (תל-אביב), <persName>פנינה</persName> אשת <persName>תיאודור רוזנפלד</persName> (חיפה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 777 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/777</bibl><bibl>Volume: #2 ,Page: 778 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/778</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

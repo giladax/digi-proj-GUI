@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1447 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1447</bibl><bibl>Volume: #3 ,Page: 1448 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1448</bibl>
+<bibl>Volume: #3 ,Page: 1449 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1449</bibl>
+<bibl>Volume: #3 ,Page: 1450 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1450</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר ישראל אחידוב (שייב)</persName>
+
+</head>
+         <div><p> נולד בפודווליצ'יסקה, מחוז טארנופול, מזרח גליציה (לפנים על גבול רוסיה), ט' חשון תר"ע, לאביו <persName>דוד אריה שייב</persName> ולאמו<persName> פרומה</persName> בת<persName> ישראל לויפר</persName> . שבימי מלחמת העולם הראשונה חיו בלבוב, גליציה). באוגוסט 1914 עבר עמה לוינה. שם קיבל חינוך תורני, גמר גימנסיה עברית בלודז. המשיך ללמוד בבית-המדרש
+
+
+ לרבנים ובאוניברסיטת וינה פילוסופיה, פסיכולוגיה והיסטוריה והוסמך בה לדוקטור לפילוסופיה (חיבורו על "תורת הרצונות של הארטמן בתלותה משופנהואר", לא נמסר לפרסום). בתרצ"ז נשא לאשה את <persName>בתיה </persName> בת <persName>יהויכים ובת-שבע</persName> <persName>ואשיץ</persName> (ממשפחת עוה"ד והעסקן הרביזיוניסטי ד"ר <persName>אפרים ואשיץ</persName> ז"ל).
+
+ היה ציוני מילדותו והשתתף בפעולה הציונית בכל הדרגות והגילים, ואחרי גמרו את לימודיו היה מורה בגימנסיה וולקוביסק ובימ"ד למורים וגננות של
+
+ "תרבות" בוילנה וחבר נציבות בית"ר בפולין. פרסם שם מאמרים פילוסופיים ופסיכולוגיים בשבועון הכללי "בדרך", בירחון "המדינה" הבית"רי ובעתון היומי הוארשאי "מומנט" (באידית), כתב מאמרים ספרותיים ופוליטיים.
+
+ בערב פסח תש"א הגיע ארצה עם רעיתו, אחרי תלאות ונדודים רבים מוילנה שעברה לשלטון סובייטיליטאי דרך העולם הבוער באש המלחמה, ונתקבל למורה לספרות עברית בגימנסיה "בן-יהודה" בתלאביב. כתב מאמרים ב"המשקיף", הצטרף למחתרת של לוחמי חרות ישראל והיה חבר המרכז שלה, עורך הבמה האידיאולוגית של לח"י "החזית" ומעורכי עתון המחתרת "המעש".
+
+ בעזרת יהודים ואחרים ששיתפו פעולה עם הבולשת הבריטית נגד לוחמי המחתרת, נודע לבולשת על פעולתו, וכשבאו אנשי הבולשת לאסרו בבנין הגימנסיה, באייר תש"ד, ניסה להמלט וירד בצנור מהקומה השלישית של הבנין, אך נפל ונפגע בעמוד השדרה, וכך נאסר והובא לבית-החולים. שנה וחצי היה מוטל בגבס על גבו בבית-הכלא המרכזי בירושלים ואח"כ במחנה המעצר בלטרון. כשהובא תחת משמר חזק לבית החולים בירושלים להסיר את שריון הגבס מעל גבו, באו אנשי לח"י, השתלטו על בית-החולים ושחררוהו (ז' ניסן תש"ו). מאז המשיך את פעילותו במחתרת והשתתף גם ביסודו ובעריכתו של העתון היומי "מברק" (חתם בו את מאמריו בכינוי "אלדד"- שמו במחתרת) עד להקמת מדינת ישראל. אז יצא מהמחתרת, יחד עם כל התנועה, והשתתף
+
+ בארגון תנועה פוליטית גלויה והקמת תאי-נוער חינוכיים, ואף הופיע ונאם באספות פומביות בירושלים ובתל-אביב.
+
+ אחרי הריגת הרוזן ברנדוט (המתווך מטעם או"מ בשאלת א"י בירושלים, י"ג אלול תש"ט - 17.9.48) ע"י "חזית המולדת" הטילה הממשלה את האשמה על תנועת לח"י והכריזה את התנועה לבלתי ליגלית. כמה מאות מחבריה נאסרו ובראשם נתן פרידמן-ילין ומתתיהו שמואלביץ, והוא ירד שוב למחתרת.
+
+ אחרי שהוכרזה פקודת החנינה הכללית ביום י"א שבט תש"ט יצא מהמחתרת להתגייס לצבא הגנה לישראל.
+
+ בתו:<persName> נעמה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1447 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1447</bibl><bibl>Volume: #3 ,Page: 1448 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1448</bibl>
+<bibl>Volume: #3 ,Page: 1449 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1449</bibl>
+<bibl>Volume: #3 ,Page: 1450 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1450</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

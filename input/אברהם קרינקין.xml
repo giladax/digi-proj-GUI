@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3858 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3858</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם קרינקין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>צריצין</placeName> על הוואלגה ברוסיה, ביום א' כסלו תרמ"ו (1886).
+
+ לאביו <persName>אהרן זליג.</persName>
+
+ קיבל חינוך מסורתי, בבית ספר תיכוני ב<placeName>צריצין</placeName>.
+
+ עבד כעוזר לרוקח.
+
+ עלה לארץ בשנת תר"ע (1910).
+
+ באותה שנה נסע לבירות והשתלם באוניברסיטה האמריקאית בתור רוקח וקיבל תואר.
+
+ בשנת 1913 חזר לתל-אביב ופתח בית מרקחת על שמו.
+
+ בימי מלחמת העולם הראשונה שירת כרוקח צבאי בנצרת.
+
+ ב-1918 אחרי הכיבוש חזר לארץ והמשיך לנהל את בית המרקחת שלו.
+
+ נפטר בתל-אביב, כ"ג תשרי תרע"ט (22.9.1918) ונקבר בבית הקברות הישן.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3858 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3858</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

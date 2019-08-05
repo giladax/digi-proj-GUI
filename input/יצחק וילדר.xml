@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3332 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3332</bibl><bibl>Volume: #9 ,Page: 3333 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3333</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק וילדר</persName>
+
+</head>
+         <div><p> נולד בזכרון-יעקב, ג' סיון תרנ"א (1891).
+
+ לאביו שלמה (ממשפחת אכרים אמידים ברומניה) ולאמו<persName> יוטה</persName> בת <persName>אריה אריזון.</persName>
+
+ קיבל חינוך בביה"ס העממי בזכרון-יעקב והשתלמות עצמית.
+
+ מעמל וממיסדי המכבי במושבה, מהשומרים הראשונים ב"בורג'" ובזכרון-יעקב.
+
+
+ שירת בצבא התורכי כחייל, היה חבר אגודת "הגדעונים" וחבר הסתדרות "בני בנימין".
+
+ היה כל השנים מפעילי ההגנה במושבה.
+
+ מילדותו עזר להוריו החקלאים לעבד אדמתם, ולקח חלק בנטיעות: כרם, פרדס, עצי פרי שונים וענפי חקלאות אחרים.
+
+ כל השנים חקלאי חרוץ שנטע גם בעצמו פרדסים וכרמים במושבתו ובאדמות הבורג' ובבנימינה.
+
+ בשנת 1927 נשא לאשה את<persName> יונה </persName> בת <persName>מרדכי ושרה</persName> <persName>שכטמן.</persName>
+
+ חבר הועד החקלאי ומוסדות סוציאליים שונים במושבתו.
+
+ צאצאיו : <persName>אבשלום, עמנואל, דליה</persName> אשת <persName>שלמה טוקר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3332 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3332</bibl><bibl>Volume: #9 ,Page: 3333 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3333</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2935 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2935</bibl><bibl>Volume: #7 ,Page: 2936 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2936</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחום זאב (וולטר נתן) ווילייאמס</persName>
+
+</head>
+         <div><p> נולד קיוב (רוסיה) בשנת תרמ"ו (25.12.1886).
+
+ לאביו <persName>ברוך ישראל</persName> (מצאצאי רבי דב בר' המגיד ממזריץ).
+
+ קבל חנוך מסורתי בחדר ובישיבה בקיוב.
+
+ בשנת 1910 נשא לאשה את <persName>פרומט </persName> בת <persName>בנימין צבי</persName> <persName>קוצינסקי </persName> (נפטרה בלונדון ב-1940) ובשנת 1947 בזיווג שני נשא לאשה את <persName>גבריאלה</persName> בת <persName>יוסף פישר.</persName>
+
+ בצעירותו עבר ללונדון.
+
+ היה חבר ועד ההנהלה של הקהילות היהודיות באנגליה, גזבר הכבוד של הסתדרות המזרחי באנגליה, יו"ר וגזבר קק"ל במזרח לונדון.
+
+
+ משנת 1910 רכש קרקעות בכרכור, ומאז - פרדסים, מפעלי תעשיה ומקרקעין ברחבי הארץ.
+
+ יו"ר הנהלת "בנק א"י-בריטניה בע"מ (תל-אביב, ירושלים, חיפה, נתניה ולונדון).
+
+ מבקר תכופות בישראל, שנה שנה - מזה שלשים שנה.
+
+ השתתף במרבית הקונגרסים הציוניים מאז 1912.
+
+ תרם 200.000 לירות ישראליות להקמת "פלנטריום וויליאמס" בקרית האוניברסיטה העברית בירושלים. בנותיו:<persName> גרטרוד</persName> (גיטל) אשת<persName> הנרי לנדי</persName> (נשיא
+
+ הסתררות המזרחי באנגליה);<persName> פרידה</persName> אשת<persName> ריימונד פולרד</persName> (עו"ד, לונדון); <persName>שרה מרים</persName> אשת <persName>נחום לוי</persName> (תל-אביב); מוניקה אשת <persName>יהושע בן-ציון </persName> (עו"ד תל-אביב).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2935 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2935</bibl><bibl>Volume: #7 ,Page: 2936 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2936</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

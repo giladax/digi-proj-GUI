@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1231 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1231</bibl><bibl>Volume: #3 ,Page: 1232 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1232</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בת-שבע שמרלינג</persName>
+
+</head>
+         <div><p> נולדה ברוגאצ'וב, מחוז מוהילוב, רוסיה הלבנה, ב' ניסן תרי"א (1851), לאביה <persName>יוסף רוגינסקי </persName> ולאמה <persName>חיה רבקה</persName> .
+
+ בגיל צעיר נתיתמה מאביה ובקיץ תרכ"ז עלתה ארצה עם אמה ואחיה ר' <persName>ברוך שמואל לוי</persName> (ראה כרך א', עמוד 444) נסעו למעלה משלשה חדשים בספינתמפרש, כסופות ובסערות, ובחודש אלול הגיעו ליפו ועלו לחברון, אל דודה הרב <persName>נחום אריה הלוי,</persName> שבא שמה כשלשים וחמש שנה לפניהם.
+
+ בניסן תרכ"ט נישאה <persName>ליחיאל אביגדור</persName> , בן ר' <persName>חיים שמואל שמרלינג,</persName> מראשוני היהודים האשכנזים ביפו (ראה כרך א', עמוד 99), הלכה אחרי בעלה ובית אביו ליפו, שנחשבה אז כעיירה נדחת ורחוקה מישוב בשביל אשכנזים והשתדלה למלא כמיטב יכלתה את חובתה כרעיה ואם ועוזרת למשפחות עולים חדשים ומתישבים, למען הגדלת הישוב בעיר ובארץ. גם בתוך העיר עמדה בנסיון החלוציות כשעברה לגור עם המשפחה בבית הגדול שקנה חמיה על שפת הים מהקונסול האוסטרי פסקל, והבית היה בתוך ישימון של חולות, רחוק ומבודד מכל ישוב עברי, והם נטלו על עצמם את סבל הבדידות כדי להיות סוללי דרך לאחרים להרחבת היישוב העברי כלפי צפון, מחוץ לחומת העיר.
+
+ עזרה למוסדות צדקה וחסד. אספה כסף לכתיבת ספר-תורה, שהוכנס לבית-הכנסת חב"ד בנוה-שלום.
+
+ האריכה ימים עד גיל 91 שנה. הצטינה בכח זכרון נפלא עד יומה האחרון, וסופרים שונים היו באים לבקרה ולשמוע מפיה זכרונות ופרטי פרטים על אנשים ומאורעות שראתה ושמעה עליהם מנוער
+
+
+ ועד שיבה, וסיפוריה סיפקו חומר יקר-ערך לכתיבת פרטים שונים בתולדות הישוב בחברון, ביפו וכו'.
+
+ נפטרה בתל-אביב, ח' שבט תש"ב.
+
+ צאצאיה: <persName>עלקה</persName> אשת יוסף רייזיס ז"ל (בעל קולנוע "רמה" ברמת-גן), <persName>חנה</persName> אשת יעקב פבזנר, <persName>אברהם</persName> <persName>יוסף, אהרן, ישראל מלך</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1231 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1231</bibl><bibl>Volume: #3 ,Page: 1232 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1232</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

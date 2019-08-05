@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3554 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3554</bibl><bibl>Volume: #10 ,Page: 3555 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3555</bibl>
+<bibl>Volume: #10 ,Page: 3556 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3556</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רפאל שוטלנד</persName>
+
+</head>
+         <div><p> נולד בלוניה, פלך ורשא (פולין), ט' תשרי תרמ"ו (סוף 1885).
+
+ לאביו<persName> משה</persName> (סוחר) ולאמו<persName> אסתר</persName> לבית <persName>שווארץ.</persName> קיבל חינוך מסורתי.
+
+ היה מפעילי "פועלי ציון" בעירו. למד סנדלרות ועלה בשנת 1910 לארץ.
+
+ היה שומר ברחובות, עבד בחקלאות בבן-שמן וקיבל שם הדרכה בחקלאות מחבריו: <persName>אליעזר יפה ואורי</persName> <persName>זסלבסקי.</persName>
+
+ בארץ המשיך להיות פעיל בפועלי-ציון.
+
+ עבר לפתח-תקוה, עבד בחקלאות. נבחר לועד הפועלים במושבה, נבחר למרכז עבודה.
+
+ מיוזמי מטבח הפועלים וקופת חולים.
+
+ מראשוני קבוצת "אחוה" בפתח-תקוה. במלחמת העולם הראשונה, שמר בכרכור, עבד אצל <persName>קנמינסקי</persName> במרחביה.
+
+ בגירוש תושבי יפו ותל-אביב, היה מהפעילים שדאגו לשלוח עגלות להעברת הפליטים לצפון. וכן היה ממארגני ומספקי פחי המים בדרכים - מת"א לכפר סבא עבור הפליטים וכן "דאר" מכתבים שהעבירו לבני משפחות הפליטים המפוזרות ע"י שליחים).
+
+ נשא לאשה את<persName> זהבה</persName> (גולדה) בת <persName>מרדכי צריקובסקי.</persName> בגמר המלחמה חזר לת"א והקים תעשיה לנעלים
+
+
+ בשותפות עם <persName>משה טורקניץ</persName> , ואח"כ בית מסחר לנעלים. ממיסדי שכונת מרכז בעלי מלאכה והיה חבר המועצה. לקח חלק פעיל בהקמת בנין "היכל בית המלאכה" ברחוב עבודה בתל-אביב.
+
+ בניו: <persName>משה, יהודה, מרדכי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3554 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3554</bibl><bibl>Volume: #10 ,Page: 3555 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3555</bibl>
+<bibl>Volume: #10 ,Page: 3556 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3556</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

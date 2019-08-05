@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2820 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2820</bibl><bibl>Volume: #7 ,Page: 2821 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2821</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר שמעון בטיש</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ה ניסן תרס"ו (20.4.1906).
+
+ לאביו <persName>שלמה</persName> ולאמו<persName> רוזה</persName> בת <persName>שלמה בחבוט.</persName>
+
+ קבל חינוך תיכוני בבואנוס-אירס (ארגנטינה), ובבית ספר גבוה לרפואה בבירות (לבנון) ובאנגליה.
+
+ היה רופא במשרד הבריאות בזמן המנדט, מנהל בית חולים הירקון בתל-אביב.
+
+
+ בשנת 1934 נשא לאשה את<persName> ויקטוריה בת יצחק</persName> <persName>שמעיה אלישר</persName> (ראה כרך שני, עמוד 1011).
+
+ אחרי הקמת המדינה נתמנה למנהל כללי - משרד הבריאות במדינת ישראל.
+
+ חבר בועד המנהל של האוניברסיטה העברית.
+
+ חבר הקולג' המלכותי לרופאים - אדינבורג.
+
+ כתב מאמרים רפואיים שונים בארץ ובחוץ-לארץ.
+
+ בנותיו: <persName>חנה, גילה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2820 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2820</bibl><bibl>Volume: #7 ,Page: 2821 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2821</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

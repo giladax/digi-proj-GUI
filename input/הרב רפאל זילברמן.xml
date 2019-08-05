@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 1008 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1008</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב רפאל זילברמן</persName>
+
+</head>
+         <div><p> נולד באומן (עיר קברו של ר' נחמן מברצלב), פלך קיוב, אוקראינה, בשנת תקצ"ט (1839), לאביו הרב<persName> מרדכי </persName> רבה של אומן, ולאמו <persName>רוחמה</persName> בת הרב ר, <persName>אברהם ליב</persName> , רבה של אומן לפני אביו.
+
+ בן 11 עלה ארצה עם הוריו והתישבו בצפת, בה נתמנה אביו לרב והמשיך לקיים את התורה מעוני בדחקות גדולה והיה מתבודד ולומד בבית-המדרש שעל קבר הרשב"י במירון. למד תורה מפי אביו ובישיבות צפת והגיע לבקיאות עצומה בש"ס ובפוסקים.
+
+ נשא לאשה את<persName> הניה </persName> בת הרב <persName>חיים ברוך</persName> מקישינוב.
+
+ נתמנה לראש בית הדין של עדת האשכנזים ובכל יום שני וחמישי בשבוע היו הדיינים מתאספים אתו במקום קבוע ומציעים לפניו את השאלות והספקות שהיו להם בקביעת ההלכה בדיני איסור והיתר וממונות שהובאו לפניהם והוא בבקיאותו היה הפוסק המכריע המקובל על כולם. כן הובאו לפניו כל הבקשות מכוללות האשכנזים לאישור ולבירור. כדי להמנע ככל ■ האפשר מהטרדות הללו שהפריעוהו מלימודיי היה .משנה את מקום לימודו מבית-מדרש לבית-מדרש לבל ימצאוהו בנקל, אחרי שאביו קיים את התורה מעוני זכה הוא לאמידות.
+
+ משנפטר אביו בתרל"ב נתמנה הוא לרב ראשי במקומו ועשה רבות למען העיר ותושביה.
+
+ נפטר בצפת, ו' טבת תרע"ח.
+
+ צאצאיו :<persName> אליעזר, יצחק דב </persName> (היה ראש הקהלה בצפת)<persName>, רוחמה</persName> אשת ר' <persName>אליעזר יעקב פודהורצר, מנוחה</persName> אשת <persName>אברהם אלשטיין,</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 1008 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1008</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

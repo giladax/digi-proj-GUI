@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1271 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1271</bibl><bibl>Volume: #3 ,Page: 1272 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1272</bibl>
+<bibl>Volume: #3 ,Page: 1273 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1273</bibl>
+<bibl>Volume: #3 ,Page: 1274 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1274</bibl>
+<bibl>Volume: #3 ,Page: 1275 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1275</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אברהם יעקב בראוור</persName>
+
+</head>
+         <div><p> נולד בעיר סטרי, מזרח-גליציה, ד' ניסן תרמ"ד (30.3.1884), לאביו<persName> מיכאל</persName> (סופר וחוקר, פרסם שני ספרי ביאוגרפיות של צדיקים, עלה ארצה עם אשתו ב-1925 והתישב כפרדסן בפתח תקוה) ולאמו <persName>לאה </persName> בת ר' <persName>אברהם ציימער. </persName> למד בחדרים ובישיבה, גמר גימנסיה ותוך כך המשיך להשתלם בלימודי היהדות. השתתף בפעולות הנוער הציוני ובעתונים חשאיים של המתלמדים הציוניים. למד בוינה בבית-המדרש לרבנים ובאוניברסיטה (בעיקר היסטוריה וגיאוגרפיה) וב-1909 הוסמך לדוקטור לפילוסופיה ולמורה בבי"ס תיכוניים. היה מורה בגימנסיה בטרנופול בשנות תר"ע-ע"א ושם
+
+ גילה ופרסם את כתב-היד הנודע בשם "דברי בונה" <persName>לדב בירקנטאל</persName> (הוא <persName>דב בוליחובר</persName> , שהיה מתורגמן בויכוח שנערך בין הפראנקיסטים ובין הרבנים בקמניץפודולסק בשנת 1757, ורשם בכתב זה את זכרונותיו באותו ענין). כתב מאמרים ב"טאגבלאט" הלבובי, ב"המצפה" הקראקובי ובעתונו של בן-יהודה בירושלים, והשתתף בפעילות ציונית וצבורית-לאומית מקומית (פולמוסי בחירות לנציגות יהודית לאומית בפרלמנט הוינאי, ב"סיים" הלבובי, בקהלה וכדומה).
+
+ נשא לאשה את <persName>שרה</persName> בת הרב<persName> מאיר מאירסון,</persName> שהיה רב בוינה ונפטר בתרצ"ז.
+
+ בראשית תרע"ב עלה ארצה ונתקבל למורה להיסטוריה וגיאוגרפיה בבית-המדרש למורים של חברת "עזרה" הברלינית בירושלים. השתתף ביסוד החברה העברית לחקירת ארץ-ישראל ועתיקותיה והיה בה מזכיר וחבר הועד. בתרע"ד יצא לטורקיה ובשנות תרע"ו-ע"ח היה רב של קהל יוצאי אוסטריה באיםטמבול, בתרע"ט היה מרצה בקורס אקדמאי בוינה, ובאדר תר"פ חזר ארצה ולעבודתו בהוראה במקצועותיו בבית-המדרש למורים הכללי, ואח''כ גם של "המזרחי'', בירושלים וממשיך בעבודתו זו עד היום ובתרצ"ט הורה גם באוניברסיטה העברית.
+
+ המשיך בחקירות מדעיות במקצועותיו ופרסם את מחקריו בעתונים וכתבי-עת ובספרים. חיבר מפתקיר של ארץ-ישראל לצרכי בתי-הספר (יצאה בהוצאת "דביר"). ספרו הגדול "הארץ" גם הוא יצא ב"דביר" בתרפ"ח וכעת הוא מבינו לדפוס בעיבוד חדש בשביל הוצאת "מוסד ביאליק". חיבר אטלס גיאוגרפי, שיצא בהוצאת "אמנות" בכמה מהדורות, וספר לימוד גיאוגרפיה לבתי-ספר עממיים, שיצא בהוצאת "דביר" בארבע מהדורות, ובתש"ו פרסם את ספרו "הארץ וגלילותיה" בהוצאת הועד הארצי למען החייל העברי.
+
+ השתתף בקונגרס הגיאוגרפי הבינלאומי בקאהיר ב-1925. ערך מסעי כיור ומחקר בסוריה ובלבנון בתרצ"א, בבבל ובאשור בתרצ"ב-צ"ג, בפרס בתרצ"הצ"ו, ואת רשמי מסעיו פרסם בשני כרכי ספרו "אבק דרכים", שיצא בסדרת "שחרות" של הוצאת "עם
+
+
+ עובד" בתש"ה, תש"י. פרסם שני ספרים בגרמנית, אחד על גליציה ואחד על ארץ-ישראל לפי האגדה. פרסם הרבה מאות מאמרים גיאוגרפיים-היסטוריים ב"הארץ", "דבר", "התיר", "הצופה", "השלוח", "מאזנים", בקבצי החברה לחקירת א"י ועתיקותיה ובמאספים שונים בארץ ובחו"ל בעברית ובלועזית, ומאמרים פובליציסטיים חריפים בחתימת "ח'רבי אברהם".
+
+ התישב בשכונת קרית משה ובמשך כמה שנים היה חבר הועד שלה. חבר בועדת השמות. בשנות המהומות 1936/38 היה שוטר נוסף מושבע ובלילות שרת כשומר מזוין בשכונה. צאצאיו : <persName>משה, יהודית, חולדה</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1271 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1271</bibl><bibl>Volume: #3 ,Page: 1272 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1272</bibl>
+<bibl>Volume: #3 ,Page: 1273 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1273</bibl>
+<bibl>Volume: #3 ,Page: 1274 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1274</bibl>
+<bibl>Volume: #3 ,Page: 1275 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1275</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

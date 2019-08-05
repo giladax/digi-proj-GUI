@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4935 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4935</bibl><bibl>Volume: #16 ,Page: 4936 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4936</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל גולן (גולדשטיין)</persName>
+
+</head>
+         <div><p> נולד בפודולוצייסק (גליציה) בשנת תרס"א 2.3.01).
+
+ לאביו<persName> פסח גולשיין</persName> ולאמו <persName>פניה.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ היה ממנהיגי "השומר הצעיר" בגליציה.
+
+ בשנת 1920 עלה לארץ.
+
+ ממייסדיו ומכווניו של מפעל החינוך בקיבוץ הארצי "השומר הצעיר".
+
+ בשגת 1931 נשא לאשה את <persName>יונה </persName> בת<persName> יעקב</persName> <persName>בן- יעקב.</persName>
+
+ כל השנים חבר פעיל בהגנה.
+
+
+ פרסם בהוצאת "ספרית פועלים" שני ספרים: "סוגיות הקיבוץ" ; "החנוך המשותף''.
+
+ פרסם מאמרים רבים ב"אפקים", ב"הדור", ב"השומר הצעיר" ובבטאונים חנוכיים אחרים.
+
+ פנטר במשמר העמק, כ"ז אדר תש"ד (26.3.60).
+
+ בנו: <persName>רן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4935 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4935</bibl><bibl>Volume: #16 ,Page: 4936 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4936</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

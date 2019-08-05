@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3522 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3522</bibl><bibl>Volume: #10 ,Page: 3523 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3523</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יחיאל רפלד</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וורשה</placeName> (פולין) בשנת תר"ס (1900).
+
+ לאביו ר' <persName>מרדכי יצחק </persName> (מחסידי <persName>אלכסנדר</persName> ), תלמי חכם וירא שמים, נקרא בפי כל - העילוי "מאודינצקס") ולאמו <persName>חנה </persName> בת ר'<persName> אברהם ישראל בנט </persName> (המכונה <persName>אברהם אבלס)</persName> .
+
+
+ קיבל חינוך תורני ודתי חסידי, למד בחדרים, ישיבות, ובגימנסיה ב<placeName>וורשה</placeName>. 
+
+ שירת בצבא הפולני.
+
+ התמסר למסחר ולעסקנות ציונית בפדרציה הציונית "מזרחי" ובעיקר היה חבר פעיל ב"צעירי מזרחי" ב<placeName>וורשה</placeName>.
+
+ עלה לארץ בשנת תרפ"ה (1925).
+
+ עבד בהתחלה כפועל בנין.
+
+ בשנת תר"ץ (1930) נשא לאשה את<persName> יהודית </persName> בת <persName>יעקב</persName> <persName>אוסטרובסקי.</persName>
+
+ בכפר אריה ובעוד כמה מקומות עבד כעוזר לרופא וכתלמיד בבית מרקחת.
+
+ גמר קורס לרוקחים ופתח בית מרקחת בתל-אביב, אך בו-בזמן עסק בעבודה ציבורית. היה פעיל בלשכת "בני-ציון" בתל-אביב, חבר פעיל ב"הפועל המזרחי", ממיסדי "מלוה גאולה", ממיסדי ארגון תורני תרבותי "תבונה" בתל-אביב ושימש כמה שנים כיו"ר, וביתר המוסדות המסונפים לארגון זה.
+
+ קובע עיתים לתורה. חבר פעיל של "חוג הרמב"ם" תל-אביב, עוסק בהגשת עזרה לנצרכים צנועים.
+
+ צאצאיו<persName>: מרדכי יצחק</persName> (עו"ד),<persName> דבורה (תלמידה)</persName> .
+
+ הנכדה :<persName> צפורה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3522 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3522</bibl><bibl>Volume: #10 ,Page: 3523 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3523</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3810 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3810</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יהושע השל ייבין</persName>
+
+</head>
+         <div><p> נולד ב' אייר תרנ"א (מאי 1891), בעיר וויניצה שבאוקראינה.
+
+ לאביו<persName> ישראל </persName> ב"ר<persName> אייזיק ייבין</persName> , נצר למשפחת חסידים מיוחסת, מצאצאי ר'<persName> יוסף בן יהודה</persName> , - שנקרא ר'<persName> ייבי </persName> מאוסטרהא, מתלמידיו הנודעים של הבעש"ט) ולאמו<persName> רחל לאה</persName> בת ר'<persName> יהושע השל מרשלקוביץ.</persName>
+
+ קיבל חינוך תורני והשתלם בהשכלה עברית וכללית. גמר לימודיו בגימנסיה-יהודית ולימודי הרפואה
+
+ באוניברסיטת מוסקבה, ובמלחמת העולם הראשונה שירת כרופא צבאי בחזית, אחרי המלחמה נטש את מקצוע הרפואה והתמסר לעבודה ספרותית, שאמנם שכרה החמרי ירוד, אבל הוא ראה בה יעוד-חלוצי למען תחייתו הרוחנית של העם, בקבוצת הסופרים העברים שפעלה אז במוסקבה ובאודיסה ואח"כ בברלין.
+
+ נשא לאשה את<persName> מרים</persName> בת <persName>שרגא פייבל מרגולין</persName> (מו''ל וחובב ספרות עברית מווילנא).
+
+ התחיל בפרסום מאמרים בשבועון "העולם" בעריכת<persName> א. דרויאנוג</persName> , המשיך בירחון "השלוח" בעריכת ד"ר<persName> יוסף קלויזנר</persName> וברבעון "התקופה" בעריכת<persName> דוד</persName> <persName>פרישמן</persName> , בו פרסם סיפורים מרשמיו במלחמה ומפות.
+
+ בראשית שנת תרפ"ה עלה לארץ, המשיך בעבודה ספרותית ומצא את מקומו הפוליטי ב"הפועל הצעיר" ואח"כ ב"אחדות העבודה", אך התנגד עקרונית להעמדת הסוציאליזם על חשבון הלאומיות במרכז המאבקהמדיני של ציבור החלוצים, וכשייסד המשורר <persName>אורי</persName> <persName>צבי גרינברג</persName> את הקבוצה הלאומית הראשונה בתוך הסתדרות העובדים, הצטרף אליה, ובשנת תרפ"ח הצטרף לתנועה הציונית הרביזיוניסטית, מיד אחרי שנוסדה - על-ידי<persName> זאב ז'בוטינסקי,</persName> ומאז שירת את התנועה גם כלוחם וגם כסופר ועתונאי. בתביעות הלאומיות, כלפי חוץ ופנים כאחד, היה תמיד מהמכסימליסטים (בין השאר היה אחד מ-20 החברים ב"קבוצת הבריונים" שיסד <persName>אב"א אחימאיר</persName> למלחמה בעד "הציונות השלימה"). היה מעורכי העתון היומי "דאר היום" בזמן שהיה חכור בידי <persName>ז'בוטינסקי </persName> (באותה תקופה השתתף בהפגנה נגד סגן שר המושבות הבריטי
+
+ לרגל ביקורו בתל-אביב). יסד וערך את השבועון "חזית העם", ובתקופה האפלה של "משפט רצח ארלוזורוב" (ראה בערכו, כרך ה', עמוד 2082), כשגם הסופר<persName> אב"א</persName> <persName>אחימאיר</persName> נאסר כ"נאשם בהסתה לרצח", נפל כל עומס העריכה וההדפסה-וההפצה על <persName>ייבין</persName> בלבד, והוא נשא את העוול במאמץ על-אנושי, ולאחר זמן אף הועמד לדין, מואשם בעוון בזיון בית הדין, כשכתב בעתונו "חזית העם" נגד הפוליטיקנות של בית המשפט הבריטי בהטלת האשמה ברצח ארלוזורוב על הנאשמים הרביזיוניסטיים. בשנים 1947-1935 עבד במערכת "הבוקר" בתור עתונאי בלתי-מפלגתי, עד שבעקב סבל ועבודה רוחנית מאומצת במשך-שנים רבות לקה בבריאותו ובראייתו. מאז ממשיך בעבודה ספרותית, ובשנים האחרונות כותב בקביעות בירחון "סולם"
+
+ במבחן הארצי השני בתנ"ך, בשנת תשי''ט (1959) הגיע למקום הראשון וזכה בתואר, ובפרס של "חתן התנ"ך בישראל".
+
+ תירגם את "ז'אן כריסטוף" לרומן רולאן, (יצא בהוצאת שטיבל).
+
+ ספריו: <persName>במזל מאדים</persName> (קובץ סיפורים מימי מלחמת העולם הראשונה),<persName> ירושלים מחכה</persName> (סאטירה-בקרתית מחיי החברה והמדיניות היהודית בארץ, בצורת סיפור מחיי הארץ),<persName> אורי צבי גרינברג - משורר מחוקק</persName> (תרצ"ו),<persName> מלחמת בית חשמונאי </persName> (סיפור היסטורי, תש"ג), <persName>החיה הרביעית</persName> (סיפור בהנהגת בנימין איש טבריה, ת"ש),<persName> המלכות אשר לא תסוף</persName> (סיפור בהמשכים בעתון "חרות"), <persName>במעונות אריות</persName> (סיפורים מחיי המחתרת, תשי"ד),<persName> בשבילי אמונת ישראל (</persName> מסות, הוצאת "סולם", תש"ך).
+
+ כן פרסם את המחזות ההיסטוריים על <persName>דוד הראובני</persName> ב"העולם", תרפ"ו) ועל המלך אלכסנדר ינאי (ב"סולם", תש"ך).
+
+ בניו: <persName>ישראל, זאב</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3810 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3810</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

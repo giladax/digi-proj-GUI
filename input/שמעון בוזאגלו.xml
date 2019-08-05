@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2259 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2259</bibl><bibl>Volume: #5 ,Page: 2260 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2260</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמעון בוזאגלו</persName>
+
+</head>
+         <div><p> נולד בחיפה, ניסן תרנ"ג (14.4.1893), לאביו <persName>דוד</persName> ולאמו <persName>אסתריה</persName> בת <persName>שלמה דין</persName> (שעלו ארצה ממארוקו ב1875).
+
+ למד בביה"ס אליאנס והשתלם באופן פרטי בשפות עברית, צרפתית, ערבית וניהול חשבונות.
+
+ התחיל לעבוד כפקיד בבנק אפ"ק בחיפה, המשיך בחברת <persName>ש. איצקוביץ ושות'</persName> , בחברה למכונות "עתיד", בחברת הנפט "נובל" (בבירות), ומ-1913 ואילך בבנק עותומן בסניפיו בחיפה, אלכסנדריה, קאהיר, יפו, תלאביב ושוב בחיפה. התחיל בתור פקיד פשוט ועלה בדרגות עד שהגיע למעמד סגן מנהל, וכשיצא לפנסיה ב1947 נכנס לעבוד כמנהל חשבונות בעירית חיפה.
+
+ במלחמת-העולם א' הוכרח לצאת מצרימה, בתור נתין בריטי, ושם היה פעיל בציונות, ב"מכבי" וב"בבני ברית". מאז שובו לחיפה הנו חבר מועצת העדה הספרדית וחבר המועצה הארצית של הספרדים.
+
+
+ נשא לאשה את <persName>אסתר</persName> בת <persName>דוד מטלון </persName> (ראה כרך א', עמוד 438).
+
+ ביחוד היתה גדולה פעילותו בבנאות החפשית. התחיל ב-1925 בלשכת "אל דוגה" (חסות מצרית) ביפו ועלה בה כמה דרגות ומילא בה תפקידים גבוהים יותר ויותר. השתתף ביסוד לשכת "מוריה" ביפו וכיהן בה בתפקידים שונים וכמה פעמים גם בנשיאות. ממיסדי לשכות "גינוסר" ו"אליהו הנביא" (בחיפה), וגם בה
+
+ כיהן כמה פעמים בנשיאות. הגיע לדרגה העליונה בבנא'ת החפשית ולתפקידים חשובים שונים בלשכה הלאומית הגדולה של מצרים ושל ארץ-ישראל וקיבל ציוני הוקרה מהן ומלשכות שונות בארץ ובמצרים.
+
+ הנו נציג הלשכה הגדולה של "קוסטא-ריקה" בישראל.
+
+ צאצאיו: <persName>שושנה</persName> אשת <persName>יהודה ליזרוביץ, רבקה, כר</persName> <persName>מלה ,ויקטוריה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2259 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2259</bibl><bibl>Volume: #5 ,Page: 2260 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2260</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

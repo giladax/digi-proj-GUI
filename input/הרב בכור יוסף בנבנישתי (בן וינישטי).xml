@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3136 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3136</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב בכור יוסף בנבנישתי (בן-וינישטי)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת תר"ו (1846).
+
+ לאביו הרב <persName>רחמים שניאור</persName> בן ר' <persName>בכור יוסף</persName> \_, הרב <persName>רבינו סעדיה בן-וינישטי,</persName> ולאמו <persName>רבקה</persName> בת ר'<persName> בנימין</persName> <persName>חמואי.</persName>
+
+ קבל חנוך מסורתי בחדר ובישיבות.
+
+ נודע כדרשן מצויין ובעל קול נעים.
+
+ במשך שנים רבות היה חזן בבית הכנסת של הת"ת.
+
+ נשא לאשת את<persName> רחל</persName> בת<persName> יצחק ורינה מודיאנו, מסלוניק.</persName>
+
+ נשלח כמה פעמים בשליחויות שונות לחוץ-לארץ.
+
+ בתרל"ד (1874) נסע לסוריה, בבל וקורדיסטאן-בשליחות ק"ק חסידים "בית-אל" מירושלים, ועשה שם עד סוף שנת תרל"ה (1875). בשנת תרמ"ה (1885) נשלח ע"י "כולל חברון" לערי המערב הפנימי. בשנת תרמ"ז (1887) יצא שוב בשליחות "בית-אל" לערי הודו. פעל ביחוד בערים סינגפור וכלכותה. בכלכותה התאכסן בביתו של העשיר<persName> אהרן שלום אברהם הכהן.</persName>
+
+ בשנת תר"ס (1900) יצא בשליחות "כולל הספרדים" ב<placeName>ירושלים</placeName>, לערי המערב הפנימי.
+
+ בשנת תרס"ד נסע שוב בשליחות הנ"ל לצפון אפריקה ופעל ביחוד בתוניס. שנה אח"כ יצא בשליחות הנ"ל לערי הודו וגם ביקר בכלכותה. זאת היתה נסיעתו האחרונה למען המוסדות הנ"ל ב<placeName>ירושלים</placeName>.
+
+ מאותה שנה ואילך ישב ב<placeName>ירושלים</placeName> בקביעות וכיהן במשרת ראש בית-דין של העדה הספרדית. בבית דינו השתתפו הרבנים <persName>יעקב דאנון ואברהם פילוסוף.</persName>
+
+ נפטר ב<placeName>ירושלים</placeName>, ט' ניסן תרע"ו (12.4.1916).
+
+ צאצאיו: <persName>יצחק </persName> ז"ל,<persName> רחמים</persName> ז''ל,<persName> משה</persName> ז"ל, הרב סעדיה (ראה בכרך זה), <persName>ריינה</persName> אשת <persName>משה זעפראני, מרים</persName> אשת <persName>נתן אלדרוטי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3136 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3136</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

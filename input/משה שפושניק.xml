@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3729 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3729</bibl><bibl>Volume: #11 ,Page: 3730 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3730</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה שפושניק</persName>
+
+</head>
+         <div><p> נולד בנדרי (רוסיה) ו' ניסן תרל"ה (1875). לאביו <persName>יוסף שפושניק </persName> (חבר הארגון "חובבי ציון" בעירו) ולאמו <persName>שרה </persName> בת יצחק.
+
+ קבל חנוך מסורתי בחדר ובבית המדרש.
+
+ בשנת תרנ"ט (1899) נשא לאשה את <persName>בת-שבע </persName> בת <persName>שלום יוסף מיברג</persName> (נפטרה ברומניה, כ"א טבת תרצ"ט).
+
+ עסק בחו"ל במסחר המנופקטורה בסיטונות עד 1918 בקישינוב.
+
+ בשנת 1918 עבר לגלץ שברומניה.
+
+ בשנת 1922 יסד את המפלגה "מזרחי" בגלץ והיה יו"ר המפלגה.
+
+ היה פעיל במגבית קרן היסוד וקרן הקימת לישראל.
+
+ חבר פעיל ב"חובבי ציון" באודיסה.
+
+ משנת 1923 ועד פרוץ מלחמת העולם השניה היה חבר הנהלת הקהילה בגלץ. יסד שם את התלמוד תורה למאה ילדים וארגן מסעדה בה סעדו התלמידים ארוחות בוקר וצהרים.
+
+ כמו כן יסד שם בית ספר למלאכה לילדים עבריים שלא נתקבלו לבתי ספר ממלכתיים, ולמדו שם מקצוע. כמה מהתלמידים נמצאים כיום בארץ וממלאים תפקידי מהנדסים.
+
+ היה פעיל בעוד מוסדות צבוריים.
+
+ בשנת 1952 עלה לארץ.
+
+ ממשיך בעבודה צבורית.
+
+ צאצאיו : <persName>ד''ר אלכסנדר שפושניק</persName> (רופא, מנהל המעבדות של קופת חולים במחוז תל-אביב), <persName>ישראל שפושניק</persName>
+
+
+ (ניו-יורק),<persName> יהודית</persName> אשת <persName>אשר איתן</persName> (היתה בחו"ל מורה בביה"ס "תרבות" ובעלה היה עסקן קרן הקימת), <persName>מיליה</persName> <persName>שפושניק </persName> (היתה מרצה באוניברסיטה בבוקרסט (רומניה), כיום, מורה באוניברסיטה תל-אביב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3729 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3729</bibl><bibl>Volume: #11 ,Page: 3730 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3730</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

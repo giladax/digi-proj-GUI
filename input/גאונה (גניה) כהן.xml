@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2358 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2358</bibl><bibl>Volume: #5 ,Page: 2359 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2359</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גאונה (גניה) כהן</persName>
+
+</head>
+         <div><p> נולדה בוילנא, בשנת תרע"ד (17.8.1914).
+
+ לאביה <persName>ליפא כהן,</persName> ולאמה<persName> פרל</persName> בת <persName>מיכאל גרשון סגל</persName> (ממשפחת המשורר העברי <persName>י. ל. גורדון</persName> ).
+
+ התחנכה בגמנסיה העברית "תרבות" ובתנועת "השומר הצעיר" בוילנא במשך תקופה ארוכה.
+
+ בשנת תרצ"ה (1935) עלתה לארץ.
+
+ עבדה בשנים הראשונות בחקלאות ובמשק הפועלות בחדרה.
+
+ התמסרה להוראה בקיבוצים ובמחנות העולים. שיטתה בלמוד השפה העברית ע"י חקלאות לילדי העולים, יסדה משתלות לגידול ירקות בערים, טיפלה ביסוד גינות ירק על יד הבתים, יסוד גינות ירק בצה"ל ע"י הרצאותיה במחת"ר (מחלקת התרבות של הצבא), הגישה תכניות להצעותיה בחקלאות לשרים האחראים לחקלאות במדינת ישראל.
+
+ ב-1938 נישאה<persName> ליעקב ברזילי</persName> (ראה כרך ג', עמוד 1324).
+
+ בשנים האחרונות החלה בעבודה ספרותית-עתונאית, בעתונים: דבר, משמר, בשער, מסלול ופרוזדור. ובעתונים האידיים המקומיים: "נייוועלט", "לעצטע נייעס" ו"אגרת לעולה".
+
+ בעתונים האיריים בחו"ל: "דער אמריקאנער" (ניויורק), "קענעדער אדלער" (מונטריאל), "קענעדער נייעס", "אידלשער זשורנאל" (טורונטו), "שפיגל" (בואנוס איירס), "אפריקאנער אידישע צייטונג" (יוהנסבורג), "ליטערארישע העפטען" (קליפורניה) ואחרים.
+
+ מסותיה, קובצו בספר: "אמרים והגיגים" (חלק תורגם ונדפס בעתונות באידיש). שיצא לאור בהוצאת "שניר" בתל-אביב.
+
+ מטיפה, לאתיקה אישית ולחינוך הנוער לפי צרכי האומה.
+
+ מטפלת גם במדע הפסיכופיזיונומיה ועומדת לפרסם ספר במקצוע זה.
+
+ טיפלה בעניני קדום הדיוג והרחבתו.
+
+ צאצאיה : <persName>אלונה, חובב.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2358 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2358</bibl><bibl>Volume: #5 ,Page: 2359 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2359</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3831 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3831</bibl><bibl>Volume: #11 ,Page: 3832 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3832</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב משה פארדו</persName>
+
+</head>
+         <div><p> לאביו ר'<persName> רפאל פארדו.</persName>
+
+ נולד ב<placeName>ירושלים</placeName> בשנת תק"ע (1810).
+
+ מצד אביו התיחס לגאון ר'<persName> דוד פאדרו </persName> ומצד אמו לחכם המפורסם ר'<persName> חיים יוסף דוד אזולאי</persName> (חיד''א). למד תורה בישיבת "חסד לאברהם ובנין שלמה" ב<placeName>ירושלים</placeName>.
+
+ חי חיי צער ועוני. אולם זה לא מנע ממנו להתמיד בלימוד התורה.
+
+ בגיל צעיר שלט יפה בש"ס ובפוסקים ונתמנה לדיין ב<placeName>ירושלים</placeName> בבית-דינו של הרב<persName> אברהם אשכנזי,</persName> שהיה אח"כ<persName> ראשון-לציון</persName> , יחד עם ר' <persName>אהרן עזריאל.</persName>
+
+ בשנת תרכ"ז (1867) נתעלה לדרגת ראש-בית-דין. בשנת תר"ל (1870) יצא בשליחות כולל הספרדים ב<placeName>ירושלים</placeName> לאיטליה וכו' (פראנקיה) ובחזירתו בחודש שבט שנת התרל"א, עבר דרך אלכסנדריה ונתקבל לרבה של הקהילה שם.
+
+ באחד המקומות בספרו "צדק ומשפט" הוא מביע
+
+
+ את צערו העמוק על הימצאו בחו"ל, וכותב: "שלו הייתי בביתי ובית מדרשי בארעא קדישא, והנה ה' טלטלני טלטלה גבר... במחיצתי פה נא-אמון, ומה אעשה ואלהים גזר עלי לגור בארץ הזאת משום פרנסה".
+
+ כתב הרבה ספרים חשובים שעד היום משתמשים בהם הרבה חכמי הספרדים. ואלו הם: "הוראה בביתדין" (על שמות גיטין, אזמיר תרל"ב); "צדק ומשפט" (על שולחן ערוך, חו"מ, שם תרל"ד) ; "שמו משה" (שו"ת, שם תרל"ה).
+
+ בכת"י היו לו ספר שו"ת גדול וספר דרושים, הוא הסכים כ"כ על הרבה מספריהם של חכמי דורי וחידושי תורתו נדפסו בהם. בשנת תר"ן ערך את הספר "חסדי דוד" ח"ג והוסיף לו הגהות והערות משלו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3831 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3831</bibl><bibl>Volume: #11 ,Page: 3832 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3832</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

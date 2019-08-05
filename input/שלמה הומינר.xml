@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 595 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/595</bibl><bibl>Volume: #2 ,Page: 596 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/596</bibl>
+<bibl>Volume: #2 ,Page: 597 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/597</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה הומינר</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרל"ט (1879), לאביו הרב והעסקן ר'<persName> שמואל הומינר</persName> מברזין (ממיסדי
+
+ השכונות מאה שערים ובית יעקב ובית-היתומים דיסקין) ולאמו<persName> בריינה רבקה</persName> בת הרב החסיד ר'<persName> דוד</persName> <persName>הלוי זלדוביץ</persName> ממינסק, ממשפחת האדמו"רים מליובאוויטש.
+
+
+ למד בתלמוד-תורה ובישיבת "עץ חיים" שהיה מבחירי תלמידיה, וגם מפי אביו. היה מבאי ביתו של הרב הראשי ר'<persName> שמואל סלאנט</persName> , שחיבב אותו והיה מתווכח אתו בדברי תורה.
+
+ נשא לאשה את <persName>צפורה</persName> בת הרב <persName>אברהם הלוי</persName> , שהיה ראש השוחטים בקובנה (אחות הרב <persName>יוסף</persName> <persName>צבי הלוי</persName> , ראב"ד ביפו ות"א).
+
+ למד שחיטה ובדיקה והוסמך על-ידי הרב השו"ב ר' <persName>יוסף בנימין שמעונוביץ</persName> , הרב<persName> נפתלי הרץ הלוי</persName> רבה של יפו, ועוד. נתמנה לשוחט בירושלים. הוזמן להיות שוחט במושבה חדרה כשנוסדה. אחרי שבועים חזר לירושלים. אח"כ התישב ברחובות בין הראשונים ופעל רבות למען המושבה.
+
+ חזר לירושלים והתמסר ללימוד תורה, לעסקנות צבורית כגבאי חברה קדישא של כוללות אשכנזים פרושים ומזקני ראשי הדגלים בה וגבאי בבית הכנסת "בית רחל" בשכונת כנסת.
+
+ צאצאיו: <persName>שרה, פנחס</persName> הי"ד (נהרג ביריות חיילים בריטיים בלכתו ברחוב לביקור חנוכה אצל קרובים, כ"ו כסלו תש"ז), <persName>אליהו, שמואל, חיים</persName> , <persName>חנה </persName> אשת<persName> שמואל סלומון</persName> .
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בירושלים, י' שבט תש"ר (8.2.60)
+
+ (כרך א', עמוד 596)
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 595 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/595</bibl><bibl>Volume: #2 ,Page: 596 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/596</bibl>
+<bibl>Volume: #2 ,Page: 597 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/597</bibl>
+            <bibl>Volume: #11 ,Page: 3882 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3882</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

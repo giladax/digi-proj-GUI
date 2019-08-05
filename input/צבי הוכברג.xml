@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 428 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/428</bibl><bibl>Volume: #1 ,Page: 429 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/429</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי הוכברג</persName>
+
+</head>
+         <div><p> נולד במושבה היהודית דומברובני כבסרביה, ד אדר תרל"ב (1872), לאביו ר'<persName> מרדכי,</persName> מנהל וחוכר אחוזות וסוחר בתבואות, מצאצאי ר' צבי הירש, סופרו של הבעש"ט, ולאמו<persName> אסתר רייזה</persName> . למד תורה ומדעים מפי מורים פרטיים בבית אביו בכפר (אחד ממוריו
+
+ למדעים היה המלומד <persName>יחיאל</persName> גרינפלד, שתרגם את תורת איינשטיין לעברית) והתכונן לבחינת-בגרות בגימ
+
+ נסיה. נסחף בזרם ההתעוררות לשיבת ציון ובראשית נובמבר 1889 הגיע ארצה. עבד בראשון-לציון ואחר-כך עבר לעבוד בנחלה שקנה אחיו<persName> שמואל</persName> בשביל הוריו ב"עמק שושנים" (ואדי הנין, אחד החלקים הראשונים שמהם הורכבה המושבה נס ציונה). התגורר בחדר
+
+ מרתף טחוב בחצרו של<persName> ראובן לרר</persName> ועבד בנחלה כפועל שכיר במטעי הבארון ועזר להוריו בעמל החיים הקשים אחרי עזבם את חיי השפע והאמירות בכפר הבסרבאי ועלותם ארצה. התנדב לטפל כחובש-חנם בילדי העולים החדשים, שעבדו כפועלים ברחובות והתגוררו באהלים ובסוכות בנס-ציונה. השיג רפואות מהפקידות שבראשון לציון למלחמה במחלות העינים ובקדחת שפגעו בילדי הפועלים, ריפא את עיניהם והשתדל להדריכם בשמירת הנקיון והבריאות. כן התמסרו הוא ואחיו ללמד את הילדים, יסדו את בית-הספר במושבה, הורו בו בהתנדבות במשך שנתים, ואחרי -שאחיו הוזמן להורות במקומות אחרים נשאר הוא מורה בנס-ציונה בבית-הספר (שאח"כ נתמך על-ידי ועד חובבי ציון מאודיסה) בשנות 1922-1907, ותוך כך עבד גם במשק, נשא בעול כל התלאות של אכרי המושבה, ושקד על שיפור הכרמים בשיטות חדישות. נשא בכל התלאות בשנות מלחמת
+
+ העולם הראשונה (בנו הבכור<persName> עמרם</persName> הוגלה לדמשק ומת שם במחלת טיפוס בבית-החולים הצבאי). משנשתפר המצב הכללי אחרי המלחמה עזב בשנת 1922 את ההוראה והתמסר רק למשק והקים דור של עובדי אדמה ואזרחים נאמנים ומעורים בארץ. השתתף במוסדות המושבה ובהנהגתה ובפעולות לאומיות, תרבותיות וחברתיות.
+
+ פרסם מאמרים וזכרונות מימי-בראשית של חלוצי החקלאות בעתונים "הארץ", "הבוקר", "בוסתנאי לנוער'' ועוד. אסף את החומר לחוברת "נס-ציונה", שחיבר חברו מנוער, הסופר<persName> ש. בן-ציון</persName> , ושיצא בסדרת "לנוער" של הקרן הקיימת בהוצאת "אמנות".
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 428 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/428</bibl><bibl>Volume: #1 ,Page: 429 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/429</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

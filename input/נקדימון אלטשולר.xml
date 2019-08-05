@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4225 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4225</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נקדימון אלטשולר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רחובות</placeName> (א"י), ט"ו שבט תרנ"ד (22.1.94).
+
+ לאביו ר'<persName> יצחק זאב אלטשולר</persName> (ראה בכרך עשירי, עמוד 3597) ולאמ<persName>ו מחלה </persName> בת <persName>אהרן וגנר.</persName>
+
+ למד בבי"ס עממי ב<placeName>רחובות</placeName> (1907), סיים בי"ס "למל" של חברת עזרא בירושלים.
+
+ בשנת 1908-10 עבד בחקלאות ב<placeName>רחובות</placeName>.
+
+ עזר ל"השומר" בקנית נשק ומתן מקלט לחברי
+
+ "השומר" בימי ממשלת תורכיה.
+
+ בשנות 1911-1910 עבד בסג'רה כמדריך קבוצת הפועלות:<persName> זאוין</persName> , המשוררת <persName>רחל בלושטיין, לאה מירון</persName> , <persName>שרה שטורמן</persName> ואחת מהגיורות בטפול גפנים וזיתים.
+
+ בשנות 1912-1911 עבד במרחביה כפועל חקלאי בנחלת <persName>בלומנפלד.</persName>
+
+ בשנות 1914-1912 תחילת המלחמה הראשונה עבד ב<placeName>רחובות</placeName>, בעבודה חקלאית.
+
+ משנות 1914 מתחילת המלחמה עד הכיבוש הבריטי
+
+ עבד עם התורכים בבנין גשרים עבור מסילת הברזל קלקיליה-עסלוג'.
+
+ עזר לרבים מהצעירים בהשגת ויסיקות (תעודת עבודה) לשחרור מהצבא התורכי.
+
+ מסוף 1919 עד 1923 למד בהולנד גידול וטיפוח בהמות חלב ותעשית גבינות.
+
+ מסוף 1923 עד סוף 1926 עבד במקוה ישראל כמדריך ללימוד גידול בהמות חלב, גידול עגלות, ותעשית גבינה הולנדית. תחת הנהלתו של <persName>אליהו קרויזה.</persName> ובשנים אלו שלח אותו<persName> קרויזה</persName> לתורכיה ויון לקנות זרעים של טאבאק.
+
+ 1928-1926 עבד ביעור הרי יהודה כפקיד ממשלתי תחת הנהלתו של <persName>אסף גור.</persName>
+
+ בשנת 1927 נשא לאשה את<persName> חיה </persName> בת <persName>דוד אפשטיין.</persName>
+
+ בשנות 1928 עד סוף 1930 עבד בשביל קבוצת קב"א בקדוח בארות ארטיזנים.
+
+ מסוף 1930 עד אמצע 1936 הביא מהארצות השכנות זבל אורגני לחקלאות העברית בארץ.
+
+ מאמצע 1936 עד 1939 היה אחראי להגנה ולשמירה של נכסי אגודת פרדס בערבון מוגבל ב<placeName>רחובות</placeName>.
+
+ מ-1939 ועד 1940 עזר <persName>למשה סמילנסקי ומילר</persName> לקנות קרקעות בנגב.
+
+ מ-1943-1940 עבד בים המלח במפעל האשלג בקמפ הערבי, נשלח למפעל ים המלח לפי הצעת<persName> יהושע (פלמן)</persName> <persName>פלמון</persName> (המכונה יוש). עבד שם שלוש שנים.
+
+ מ-1943 עד 1947 לפי דריש<persName>ת יחיעם וויץ, יגאל אלון</persName> <persName>ודוד </persName> עבד בסוריה (בחורן) ממונה על אדמות פיק"א. כונתם של שולחיו הנ"ל היה לעזור לפלמ"ח ללמוד את דרכי הצפון.
+
+ מסוף 1950 ועד היום הוא עובד הסוכנות היהודית. יועץ ארצי לגידול וטיפוח, ומאלף סוסים ועבודה והשבחת הגזע לבהמות עבודה בקשר ההתישבות החדשה השייכת לסוכנות.
+
+ שירת 3 שנים בנוטרות בימי המאורעות.
+
+ היה שומר מחסני "פרדס" ב<placeName>רחובות</placeName>.
+
+ שמר על גבולות המושבה רחובות בימי המאורעות.
+
+ בניו: <persName>גדעון </persName> (סא"ל, צבא קבע),<persName> בנימין</persName> (בחברת "פז").
+
+ נכדיו:<persName> שלומציון, עדי-יטבת, מור, תמר, דפנה, גלעד</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4225 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4225</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

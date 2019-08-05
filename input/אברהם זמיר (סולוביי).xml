@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3494 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3494</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם זמיר (סולוביי)</persName>
+
+</head>
+         <div><p> נולד בניסן תרס"א (14.1901) בקרמנצ'וג שברוסיה. לאביו<persName> יקותיאל סולוביי </persName> ולאמו <persName>רבקה</persName> בת <persName>אליעזר כהן</persName> . אחרי חינוך יסודי יהודי וכללי ברוסיה עלה לארץ ב-1914 ולמד בגימנסיה הרצליה בתל-אביב.
+
+ ב-1925 נשא לאשה את <persName>סוניה</persName> בת <persName>אהרן דב פליטמן</persName> , שהיתה מהעולים הראשונים מרוסיה אחרי מלחמת העולם באניה ההיסטורית "רוסלאן" (דצמבר 1919).
+
+ עבד שנים רבות בשרות <persName>אלכסנדר אהרנסון</persName> (ראה כרך ז', עמוד 2773) והיה נאמן עליו מאד, עשה בשרותו גם שליחויות-מחקר לצרכי הגנת הישוב.
+
+ היה מפעילי "מכבי" וההגנה וביחוד פעל רבות בעת מהומות 1929.
+
+ יסד את חברת "הר ועמק" לתיירות בירושלים והשתתף ביסוד שרות מוניות "דרור" של ארגון חיילים משוחררים בירושלים. עסק בקבלת תיירים והדרכתם ופעל רבות לרכישת הבנתם ואהדתם הפעילה לציונות, וכן לפיתוח התחבורה העברית בארץ.
+
+ נפטר בתל-אביב, ל' סיון תשי"ז (30.6.1957).
+
+ בנותיו: <persName>רבקה</persName> אשת <persName>אברהם ראובני, לאה</persName> אשת <persName>שלום ענני.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3494 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3494</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

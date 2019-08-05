@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 521 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/521</bibl><bibl>Volume: #1 ,Page: 522 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/522</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה דב חשין </persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרל"ח (1878). לאביו ר' <persName>שמואל שלום </persName> (סופר סת"ם וסופר גיטין בבית-הדין של העדה האשכנזית, יליד ירושלים גם הוא, בן ר' משה סופר) ולאמ<persName>ו פרידה </persName> בת ר'<persName> משה קאלאדנער.</persName>
+
+ למד בחדרים ובישיבות. נשא לאשה את <persName>גיטל</persName> בת ר' <persName>שניאור זלמן פונדמינסקי</persName> ממשפחת האדמו"ר<persName> שניאור</persName> <persName>זלמן מלאדי</persName> , בעל ה"תניא". למד את מלאכת סופר סת"ם מאביו (שהיה מלמדה לרבים מצעירי ירושלים) ואח"כ ירש ממנו את מקומו כסופר גיטין בבית-הדין של העדה האשכנזית. היה מהראשונים בארץ שעסק בעיבוד קלף לתשמישי קדושה (ספרי-תורה, תפילין ומזוזות). לימד עשרות בחורים מישיבת "עץ חיים"
+
+
+ ומעדת עולי תימן את מלאכת סופר סת"ם. פיתח את היצוא של תוצרת מקצועו לאמריקה ולארצות אחרות. עסק גם באפית מצה שמורה והיה יוצא בכל שנה לכפרי הערבים, קונה חיטה בקמתה לצרכי מצה שמורה ושומר עליה בכפר משעת קצירתה ועד הבאתה העירה.
+
+ היה חבר אגודת "אחוה," ומבוני הבתים הראשונים בשכונת זכרון משה.
+
+ נפטר בירושלים. כ"ט ניסן תרע"ז.
+
+ צאצאיו : <persName>צפורה</persName> (ז"ל) אשת<persName> ישעיהו סלאנט,</persName> ד"ר <persName>שניאור זלמן</persName> (שופט ביה"ד המחוזי בתל-אביב), <persName>בתיה</persName> אשת<persName> יהודה רייכמן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 521 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/521</bibl><bibl>Volume: #1 ,Page: 522 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/522</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

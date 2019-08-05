@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5613 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5613</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב וינשטין</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרמ"ח (10.5.1888).
+
+ לאביו ר'<persName> צבי וינשטיין </persName> ולאמו<persName> מלכה</persName> בת ר' <persName>משה</persName> <persName>הכהן בלאושטיין </persName> (ממשפחת רבנים בעיר מיכריץ שבפולין).
+
+ קיבל חינוך מסורתי בישיבת "עץ חיים" בעיר העתיקה בירושלים.
+
+ בשנת 1905 נשא לאשה את <persName>רחל לאה</persName> בת ר'<persName> משה</persName> <persName>נפתלי פלינקר </persName> (נפטרה ברמת-גן, כ"ד תשרי תשכ"ט - 16.10.1968).
+
+ אחרי מלחמת העולם הראשונה עבר מירושלים לתל-אביב.
+
+ יסד את ביהח"ר הראשון לתעשיית נעלים בשם "מודרן".
+
+ בשנים 1919-20 היה חבר מועצת תל-אביב מטעם הסתדרות "המזרחי הצעיר" ושימש כגזבר הכבוד של המועצה.
+
+ בתקופה זו היה בין רוכשי ומייסדי שכונת מונטיפיורי ליד שרונה, ביחד עם: <persName>ישראל ליב פלסר</persName> (ראה כרך רביעי, עמוד 1630);<persName> צבי גליס </persName> (ראה כרך שביעי, עמוד 2870);<persName> ומשה דוד הכהן.</persName>
+
+ בשנת 1919 היה בין מייסדי שכונת "בית וגן" (כיום - בת-ים") בדרום יפו, ביחד עם <persName>אברהם ליואי</persName> (ראה כרך שמיני, עמוד 3180); <persName>שאול חנא הכהן קוק</persName> (ראה כרך ראשון, עמוד 345);<persName> אליהו אהרן כהנא</persName>
+
+ (ראה כרך ראשון, עמוד 392); <persName>זלמן יעקב אפרים מיי</persName> <persName>זל</persName> (ראה כרך ראשון, עמוד 97).
+
+ היה בין סוחרי העורות הראשונים בארץ.
+
+ משנת 1936 היה יו"ר מועצה. אגודת "בית וגן" עד 1938, שאז הפכה האגודה למועצה מקומית.
+
+ צאצאיו: <persName>יהושע </persName> (רעייתו: <persName>רבקה</persName> בת<persName> משה נאמן);</persName> <persName>חיה</persName> אשת <persName>דב כהן; אסתר </persName> אשת <persName>שלמה רייכמן; נחמה</persName> אשת <persName>יעקב מירקין; שושנה</persName> אשת <persName>שלמה ברסלב;</persName> <persName>רבקה</persName> אשת <persName>אריה אופיר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5613 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5613</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3542 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3542</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב גורודצקי</persName>
+
+</head>
+         <div><p> נולד בשנת תרמ"ג (5.9.1882) בפסטוב שבפלך קיוב, אוקראינה.
+
+ לאביו <persName>(נחום</persName> (סוחר וטוחן) ולאמו <persName>חנה-דיבה</persName> בת <persName>יעקב כהן.</persName>
+
+ למד בחדר עד גיל 12 ואח"כ עזר בעסקי אביו.
+
+ ב-1909 נשא לאשה את<persName> תמר </persName> בת<persName> שמואל</persName> ממשפחת <persName>פריצקר</persName> משדה-לבן ועסק במסחר בקיוב והיה שם חבר ההסתדרות הציונית.
+
+ ב-1913 יצא לאמריקה ועסק בצבעות בניו-יורק.
+
+ עוד ב-1907 רצה לעלות לארץ, אך הד"ר <persName>יוכלמן</persName> (חתנו של הפרופ' <persName>מנדלשטאם</persName> ) הניאו מכך. אבל הוא לא התיאש לחלוטין מהארץ, ובראשית 1918 התנדב לגדוד העברי האמריקאי על מנת להשאר בארץ אחרי המלחמה. אחרי השחרור מהצבא המשיך בעבודתו בצבעות בתלאביב והעלה את אשתו מאמריקה.
+
+ בבוקר יום פרוץ הפרעות ביפו (1 במאי 1921) הלך כרגיל עם יתר הפועלים היהודים לעבודתו בבית-החולים הממשלתי ביפו (ליד בית ההסגר בג'בליה), וכשפרצו המהומות הועברו תחת משמר מזוין ל"סראיה" שבמרכז יפו ואח"כ לתל-אביב, ומיד הצטרף לשורות המגינים.
+
+ השתתף בארגון קבוצת "מגרש גנים" לקנית קרקע לשיכון מחוץ לעיר. הקבוצה התמזגה עם חברת "עיר גנים", וכך רכש לו חלקת אדמה ברמת-גן והתקין לו משק זעיר (שמונה דונמים עצי הדר וירקות, שלוש פרות ולול עופות). משפחתו טיפלה במשק והוא המשיך לעבוד במקצועו בתל-אביב ואח"כ ברמת-גן עד שנת 1945. היה חבר במועצה הראשונה של "המושבה רמת-גן" (1929-1927) ואח"כ היה חבר המועצה המקומית (1936-1933), ב-1929 השתתף בהגנת רמת-גן.
+
+ השתתף בהתארגנות החיילים המשוחררים להתנחלות במושב אביחיל ונטע בו פרדס, אבל נשאר תושב רמת-גן.
+
+ בניו:<persName> שמואל</persName> (בעל תעשיה זעירה למוצרי מלט ובעל ותק צבאי בהגנה מנערותו, במלחמת העולם השניה, במלחמת השחרור ואח"כ במערכת סיני בדרגת סרן במילואים),<persName> חיים</persName> ז"ל (כשומר מתנדב ב-1931 היה אחד
+
+ משלושת השומרים הראשונים באביחיל ; מת בעקב תאונה ב-1943).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3542 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3542</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

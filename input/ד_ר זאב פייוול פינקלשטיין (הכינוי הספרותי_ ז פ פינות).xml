@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2803 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2803</bibl><bibl>Volume: #7 ,Page: 2804 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2804</bibl>
+<bibl>Volume: #7 ,Page: 2805 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2805</bibl>
+<bibl>Volume: #7 ,Page: 2806 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2806</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר זאב פייוול פינקלשטיין (הכינוי הספרותי: ז. פ. פינות)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>לבוב</placeName> (אוקראינה) בשנת תרמ"ו (13.2.1886). לאביו <persName>צבי</persName> (פקיד לתפקידים מיוחדים במשטרה. נטה להתבוללות פולנית) ולאמו אודל (אדל) בת <persName>אקיבא ושרה</persName> <persName>בוור.</persName>
+
+ בשנות לימודיו בגימנסיה ממשלתית בפולניה נמשך לתנועה הציונית מראשיתה והיה ממארגניה ומפעיליה של הסתדרות "השחר" (התאגדות ציונית חשאית ובלתילגאלית של הגימנסיה בערי גליציה, שעסקה בעיקר בהשתלמות רוחנית ובהכנת חבריה לפעילות לאומית וציונית לכשיגדלו). בשנות לימודיו באוניברסיטת לבוב התבלט בפעילותו בארגון האקדמאים (כך נקראו שם מתלמדי בתי-ספר גבוהים) "אוגניסקו" ואחרים. ערך את כתב-העת "מוריה" (בפולנית) ששימש במה לבעיות ציוניות והשתתף בקביעות בשבועון הציוני "ווסחוד" בפולנית ובעתון היומי האידי הציוני "טאגבלאט" בעריכת <persName>משה קליינמן ומשה פרוסטיג</persName> , שיצאו ב<placeName>לבוב</placeName>. השתתף ביסוד ה"טוינביהאלה" (בית-עם יהודי להרצאות ולפיתוח תרבותי-לאומי), יסד לו סניפים והרצה בהם בערי השדה של גליציה. השתתף עם <persName>אדולף שטאנד</persName> בעריכת "ספר הרצל" בפולנית, בעריכת "הלכסיקון היהודי" בגרמנית ובעריכת "שנתון יהודי" בפולנית. כן פעל כחבר המרכז הציוני לגליציה ב<placeName>לבוב</placeName>.
+
+ בשנת 1913 הוסמך לד"ר למשפטים. הוסיף להשתלם באוניברסיטת וינה ואח"כ - שנתיים בלונדון.
+
+ כשפלש הצבא הרוסי בראשית מלחמת העולם בסתיו 1914 לגליציה, הגיע בזרם הפליטים לוינה ונכנס לעבוד
+
+
+ במרכז הסיוע לפליטים בראשותו של ד"ר<persName> שווארץ-הילר,</persName> יסד ספריה בשביל פליטי גליציה ועבד גם במוסד סעד מיסודה של מרת <persName>אניטה-מילר כהן,</persName> ותוך כך המשיך גם בעבודה ציונית.
+
+ אחרי תום מלחמת העולם נשאר בוינה והמשיך בעבודה ספרותית ועתונאית וציונית וצבורית.
+
+ ב-1920 נשא לאשה, את<persName> אלה </persName> בת <persName>ליאופולד וצילה</persName> <persName>פולאק.</persName>
+
+ היה במשך שנים חבר המרכז הציוני לאוסטריה ועורך השבועון הציוני "די שטימה" (בגרמנית), פרסם מאמרים ב"שבועון של ד"ר בלוך" (זה היה שבועון לוחם לכבוד היהודים וזכויותיהם, שרשם לו דפי זוהר בתולדות יהודי אוסטריה במשך עשרות שנים), וגם בעתוני חוץ ובמשך שנים רבות היה נציגה וסופרה הוינאי של הסוכנות הטלגרפית היהודית סט''א. יסד ארגון "הרוח'' של סופרים ואמנים יהודים ונבחר בשנת 1936 ליו''ר ארגון העתונאים היהודים בוינה. נבחר כציר לקונגרס הציוני ה-18 בפראג (1933) ושלש פעמים נרשם בספר הזהב של הקה"ק על פעילותו הציונית מנעוריו בימי הרצל ועד זקנה ושיבה. פרסם בוינה שני ספרים בגרמנית : "פורצי הגיטו" ב-1924 ו"שעת גורל" (הספר על הרצל יצא בכמה מהדורות ותורגם לכמה שפות) ב-1936, וב-1934 ביקר בארץ מטעם קרן היסוד ופרסם את רשמיו בעתונות ובהרצאות.
+
+ כשפלשו הנאצים לאוסטריה ב-1938 השתמש בעזרתו של נציג דיפלומטי אמריקאי להעביר באמצעות סוכנות סט"א שבניו-יורק כתבות ומבקרים על מצב יהודי אוסטריה ועל הסכנות הצפויות להם, ואחרי הרס כל מעמדו ורכושו עלה ארצה באותה שנה והשתקע בירושלים. השתתף ביסודה ובניהולה של התאחדות עולי אוסטריה וזמן-מה ניהל את מרכזה בתל-אביב ואח"כ ניהל בירושלים מועדון מיוחד לעולי אוסטריה. ממשיך בפעילות ספרותית ועתונאית בעברית, גרמנית, פולנית ואידית ומשמש כתב קבוע לעתונאים יהודיים בלונדון, ציריך ודיסלדורף ומאמריו על הנעשה במדינת ישראל מתפרסמים באמצעות המחלקה המתאימה של הסוכנות היהודית בעתונות היהודית בתפוצות הגולה. גם בארץ פרסם מאמרים ב"הפועל הצעיר", "הבוקר", "הארץ" ואחרים.
+
+ צאצאיו: ד"ר <persName>תיאודור פינקלשטיין </persName> (לעת עתה משתלם באנגליה), <persName>אניטא</persName> אשת <persName>ארנסט רוזנפלד-ריווין</persName> (סופרת, מחברת סיפורים קצרים בשפה אנגלית, ירושלים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2803 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2803</bibl><bibl>Volume: #7 ,Page: 2804 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2804</bibl>
+<bibl>Volume: #7 ,Page: 2805 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2805</bibl>
+<bibl>Volume: #7 ,Page: 2806 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2806</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

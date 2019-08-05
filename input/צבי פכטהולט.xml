@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1173 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1173</bibl><bibl>Volume: #3 ,Page: 1174 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1174</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי פכטהולט</persName>
+
+</head>
+         <div><p> נולד בדרוהוביץ', מזרח גליציה, י"א חשון תרל"ה (1.11.1874) לאביו <persName>בן-ציון הלוי</persName> (מצאצאי הרב <persName>זונדל</persName> <persName>פריינדליך</persName> מסטארי-סאמבור, ממשפחת האדמו''ר ר' <persName>יצחק אייזיק</persName> מז'ידאצ'וב ושושלת של רבנים ושוחטים) ולאמו <persName>בינה</persName> בת <persName>צבי הלוי זינגר</persName> מדרוהוביץ. למד בחדרים ובישיבת דרוהוביץ' מפי הרב<persName> יוסף זינגר</persName> והשתלם בהשכלה ומדעים מפי מורים פרטיים. למד את מלאכת הבנאות בקורס של הפוליטכניון הלבובי וקיבל ב-1898 תעודת בנאי-אומן מטעם שלטון המחוז בסאמבור.
+
+ בתרנ''ח נשא לאשה את <persName>שרה </persName> בת<persName> יהודה איגלר</persName> מכפר קלינוף, מחוז סאמבור. התישב בסאמבור ועסק בקבלנות-בנין. הקים הרבה בניני מגורים ותעשיה. היה פעיל בעבודה צבורית וציונית יחד עם הד"ר <persName>פ. רוטנ</persName> <persName>שטרייך</persName> במשך 25 שנה, השתתף באספה ציונית בסאמבור בה הופיע הד"ר<persName> הרצל.</persName> היה חבר בהרבה ועדים צבוריים ובמשך 11 שנה יו"ר אגודת בעלי-המלאכה "יד חרוצים". בזמן המלחמה העולמית הראשונה, בימי הכבוש הרוסי השתתף כחבר פעיל בועד ההצלה ועזרה
+
+
+ לפליטים ביחד עם ד"ר פ. רוטנשטרייך, אברהם גולדברג, אברהם שור וב"צ טילמן ושקד בטפול רב בחולים היהודים אזרחים וצבא בהגשת עזרה רפואית וגם בברור זהותם בזמן פטירתם לשם היתר עגונות.
+
+ בימי שלטון האוקראינים אחרי התפוררות אוסטריה והמהפכה ברוסיה, השתתף בחבר ועד הקהלת וחבר המועצה הלאומית היהודית לגליציה המזרחית בהנהלתו של ד"ר פ. רוטנשטרייך.
+
+ ב-1920 עלה ארצה והשתקע בתל-אביב. המשיך בעבודתו כקבלן-בנין והקים במשך הזמן למעלה ממאתים בנינים (בניני מגורים וחרושת ובנינים צבוריים וממשלתיים). בין הבנינים שהקים : בית-ההסגר (קרנטין) בעג'מי שביפו, מועדון הציונים הכלליים, בית הסוכנים, פסז' פנסק, בית הכנסת ברחוב בוגרשוב, בית היתומים ע"ש בלובשטיין ברמת גן על מגרשה של משפחת דבורקין שנדבה למוסד (בנה בהתנדבות), חלק מבית מושב זקנים ברחוב אלנבי (בהתנדבות), בית תלמוד תורה ברחוב המליץ, ועוד.
+
+ השתתף ביסוד שכונת נורדיה ("מחוסרי דירות"), נבחר למועצה הראשונה והשניה של עירית ת"א מטעם הסתדרות השכנים, שופט עירוני בת"א החל מ-1932 שופט במשפט השלום העברי, חבר מועצת מושב זקנים ברחוב אלנבי למעלה מ-15 שנה, חבר הנהלת ביתהיתומים ע"ש א. ל. בלובשטיין ויו"ר ועדת הבנין, יו"ר מועצת בנק למלאכה החל משנת 1928, פעיל בהנהגת מרכז בעלי מלאכה במשך כל הזמן, נשיא הכבוד של ארגון קבלני הבנין בת"א, נשיא הכבוד של אגודת גמילות חסדים ע"ש ר' <persName>יצחק אוסטרובסקי</persName> ליד ביה"כ שברחוב בוגרשוב, היה יו"ר הנהלת בית אינוואלידים בת"א במשך 3 שנים, חבר בועד העזרה ליד אגודת העוזרים "ששת", ביחד עם השופט <persName>אליהו מני</persName> והעו"ד <persName>מ. גורודיסקי</persName> , חבר ועד הקהלה העברית של ת"א-יפו במשך 8 שנים עד מיזוגה עם עירית ת"א.
+
+ בשנות המלחמה העולמית השניה היה פעיל במשמר האזרחי. היה במשך 12 שנה חבר הנהלת האגודה לעזרת חולי-רוח ובית-המרפא שלה בבני-ברק. חבר פעיל בלשכת "הכוכב" של הבונים החפשים ובלשכת "שמעון רוקח" של בני ברית.
+
+ צאצאיו: <persName>יוסף</persName> (קבלן), <persName>יצחק </persName> (קבלן), <persName>זאב </persName> (קבלן). <persName>הינדה</persName> אשת <persName>יצחק שנק</persName> (קליפורניה),<persName> הדסה</persName> אשת<persName> יצחק</persName> <persName>מלצר</persName> (פקיד בבנק הלואה וחסכון בת"א),<persName> אסתר</persName> אשת <persName>אהרן אנגלר (מנהל</persName> בית-חרושת לאריגה).
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ד' סיון תשי"ח (23.5.58) ראה כרך ג', עמוד 1173)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1173 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1173</bibl><bibl>Volume: #3 ,Page: 1174 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1174</bibl>
+            <bibl>Volume: #10 ,Page: 3646 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3646</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

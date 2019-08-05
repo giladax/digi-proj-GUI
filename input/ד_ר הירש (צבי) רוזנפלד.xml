@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5390 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5390</bibl><bibl>Volume: #18 ,Page: 5391 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5391</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר הירש (צבי) רוזנפלד</persName>
+
+</head>
+         <div><p> נולד במוניסטיס (ליטה), ה' טבת תרס"ח (10.12.1907).
+
+ לאביו<persName> יוסף רוזנפלד</persName> ולאמו <persName>חנה מלכה (אנא) בת</persName> <persName>יעקב לוין</persName> (ממשפחת רבנים, רבי<persName> יעקב מאיר לוין</persName> בליטה).
+
+ קיבל חינוך מסורתי וכללי, בוגר גימנסיה ריאלית בוילקוביסק בליטה.
+
+ בשנת 1926 התיישב במונטריאל (קנדה). השתלם באוניברסיטה "מק-גיל" וקיבל תואר B.A.בשנת 1928. למד באוניברסיטה בשטרסבורג בשנת 1936 וקיבל תואר ד"ר לרפואה.
+
+ משנת 1937 רופא פרטי במונטריאל (קנדה).
+
+ בשנת 1936 פרסם ספר בשם : Le Traitement des Septicemies a Staphylocoques.
+
+ ב-18 לפברואר 1940 נשא לאשה<persName> דורה (דבורה)</persName> בת <persName>אשר קופסקי</persName> (קרובת משפחה לה"ה <persName>אשר</persName> <persName>שווארטסמן </persName> (פיטן) ול"אחד העם"<persName> אשר צבי גינצבורג</persName> . ראה את הערך שלו בכרך חמישי, עמודים 2348-50). ולאמה<persName> רחל </persName> בת <persName>זאב גזינסקי.</persName> היא ידועה במונטריאל כעסקנית ציבורית. (ראה את הערך שלה בכרך זה).
+
+ חבר אגודת הקליניק במונטריאל.
+
+
+ ביקר פעמים רבות בארץ.
+
+ תומך במגביות השונות למען ישראל וצה"ל.
+
+ חבר בית הרופא הקשיש בחיפה. President A.P.F. )American Phipicians Fellowship. 
+
+ חבר האקדמיה לרפואה בירושלים.
+
+ משנת 1947: רופא, מנהל "דוקטורס הוספיטל" במונטריאל (קנדה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5390 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5390</bibl><bibl>Volume: #18 ,Page: 5391 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5391</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

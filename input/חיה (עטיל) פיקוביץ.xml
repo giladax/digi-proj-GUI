@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2136 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2136</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיה (עטיל) פיקוביץ</persName>
+
+</head>
+         <div><p> נולדה לאביה <persName>שלום דב</persName> (שם שהוחלף לר'<persName> אלטר שורץ</persName> ), ולאמה<persName> לאה</persName> , בשנת תרל"ו (1876) בצפת.
+
+ אביה, מקדמוני המתישבים בג'י-אוני (הוא הכפר הערבי ג'עוני) בקרבת ראש-פנה. שירת בתור ספק ראשי להנהלה הגדולה של הברון רוטשילד בראש-פנה וביסוד המעלה. היה חסיד נלהב, מלא מקום רב וחזן. חונן בנעימות הקול.
+
+ לעת זקנתו, אחרי חסול הנהלת "הבארון", פתח מלון בראש-פנה.
+
+ מצד אמה, התיחסה אל הרב מבוצ'ץ (נכדתו). הוריה עלו ארצה מרומניה, עוד לפני עלית הרומנים, שיסדו את ראש-פנה.
+
+ נישאה <persName>לראובן יוסף פיקוביץ </persName> (ראה בכרך ד' עמוד 1569), בשנת תרנ"ד.
+
+ בשנת תרס"ח (1908) עברה עם בעלה וילדיה לכפר תבור, להתישבות על הקרקע. יחד אתו נשאה בעול התלאות, המצוקות והסכנות של הימים ההם. חנכה את ילדיה לאופי, לחובה ולמסירות. ניבאה גדולות לבן-זקוניה (האלוף יגאל אלון) שעזבתהו כבן 6 ולא זכתה לראות בהתגשמות נבואתה.
+
+ היתה מחוננת בשאר נפש ושאר רוח. נאמנה, ישרה וצנועה בחייה.
+
+ תבונתה ונמוסיה היו למופת, וכן שמה הטוב הלך למרחקים, עד שערביות הסביבה נוהגות היו להחביא אצלה את חסכונותיהן, כפקדון. נוהגת היתה לתת צדקה בסתר לנצרכים.
+
+ אך התלאות והעבודה המפרכת לפי התנאים של הימים ההם הכריעוה. חלתה ושכבה כ-8 ימים רצופים. נפטרה בכפר תבור, ט"ו בכסלו תרפ"ה.
+
+ בעלה, ראובן יוסף, הספידה במלים אלו: זכרתי לך חסד נעוריך, לכתך אחרי למדבר, לחיים קשים, בכפר.
+
+ צאצאיה : <persName>משה</persName> (לשעבר המנהל הכללי של רכבות ישראל), <persName>מרדכי</persName> (יו"ר המועצה המקומית בנימינה), <persName>צבי</persName> (לשעבר חבר מועצת העיר נתניה. כיום מוכתר נתניה ומנהל מחלקת הגנים והנטיעות של העיר), <persName>אליאב</persName> (מנהל רכבת בישראל), <persName>דבורה</persName> אשת<persName> פנחס הרשקוביץ</persName> (מנהל מחלקת הצרכנים בחברת החשמל, בחיפה), האלוף <persName>יגאל אלון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2136 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2136</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

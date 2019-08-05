@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4512 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4512</bibl><bibl>Volume: #14 ,Page: 4513 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4513</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אבא מינס</persName>
+
+</head>
+         <div><p> נולד בביאליסטוק, פלך גרודנא, בשנת תרנ"ג (דצמבר 1893).
+
+ לאביו <persName>מיכאל </persName> (בעל תעשיה זעירה) ולאמו<persName> ריבה</persName> (רבקה) בת ר'<persName> זאב אפשטיין.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ היה פעיל בארגונים הציונים בעירו.
+
+ במלחמת העולם הראשונה, בשרתו בצבא הרוסי ניהל תעמולה בין הצעירים היהודים לעליה לא"י.
+
+ ביושבו בשבי הגרמני אירגן קבוצת צעירים להכשרה בכפר גרמני במטרה לעליתם לארץ (1917).
+
+ בשובו מהצבא עסק במסחר הרהיטים.
+
+ בשנת 1919 נשא לאשה את <persName>שינה</persName> (יפה) בת ר' <persName>יצחק צבי וינר.</persName> היא ובעלה היו פעילים בתעמולה לקרן היסוד.
+
+ בפברואר 1925 עלה לארץ.
+
+ עבד בהתחלה במקצועו, פועל מרצפות, בפקידות ובסוף עבר לענף חדש, לענף הארחה ופתח מסעדה במרכז מסחרי ואח"כ ברחוב הרצל עד 1937 עבר לרחוב אלנבי בקרבת בנין "מוגרבי". המסעדה התפתחה לאחת המסעדות המשובחות בת"א והפך גם למקום פגישות של ותיקי הישוב מכל חלקי הארץ.
+
+
+ ממיסדי המעמד הבינוני בת"א. היה חבר הנשיאות ומועמד לבחירות למועצת עירית תל-אביב מהתאחדות הסוחרים הזעירים בזמנו.
+
+ מפעילי הצה"ר ומחסידי<persName> זאב ז'בוטינסקי</persName> כל השנים. אירגן למופת את ענף הארחה.
+
+ בשנת 1946 בנה בהר-כנען בצפת בנין לבית מלון ממדרגה ראשונה המתנהל כיום ע"י בתו ובעלה.
+
+ עזר ללוחמי אצ"ל במלחמתם ביפו והסביבה ע"י מזון וכו'.
+
+ בתו: <persName>אטיל</persName> אשת יעקב ברקל (נכדיו:<persName> דן יצחק,</persName> <persName>יוסף הידור</persName> ).
+
+ בת מאומצת (בת אחות אשתו): <persName>רעיה</persName> אשת <persName>ליפא</persName> <persName>בריינין.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ז' אדר תשכ"ט (25.2.69) והובא לקבורה בקרית שאול (ראה כרך י"ד, עמוד 4512)
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4512 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4512</bibl><bibl>Volume: #14 ,Page: 4513 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4513</bibl>
+            <bibl>Volume: #18 ,Page: 5491 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5491</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

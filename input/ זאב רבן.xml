@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1624 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1624</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> זאב רבן</persName>
+
+</head>
+         <div><p> נולד בלודז (פולין), ט' בתשרי תרנ"א (22.9.1890), לאביו<persName> יחיאל פישל</persName> (סוחר) ולאמו<persName> רבקה רייזל</persName> בת <persName>אברהם געססער</persName> .
+
+ קבל חנוך מסורתי בחדר וכללי בבית ספר עממי. מנעוריו אראה נטיות אמנותיות- פלסטיות. השתלם בפרים ובריסל באקדמיות לציור ופיסול.
+
+ ב-1914 נשא לאשה את <persName>מרים</persName> בת <persName>שמואל ומזל</persName> <persName>גליקסמן.</persName>
+
+ עבד בחוץ לארץ כאילוסטרטור ודיקורטור. כשרונו הגדול ורב-גוניותו מאפשרים לו גם להתפרנס מאמנותו שהיא גם אומנותו.
+
+ עלה ארצה בשנת 1912 עם העליה השניה. מאז ועד 1930 הוא מורה וסגן מנהל בבית הספר ובית המלאכה "בצלאל" בירושלים.
+
+ אחד האמנים הפורים ביותר בארץ בשטח האילוסטרציה. הוציא בציורים את "שיר השירים", "מגלת רות" "ומגילת אסתר", "הגדה של פסח", "עלילות גלגמש". עשה רבות לפיתוח החוש האמנותי והדמיון אצל ילדים על ידי אילוסטרציות לספרי ילדים: "אגדת שלשה וארבעה", "אלף בית", "חגינו". צייר דוגמאות לקלפים עבריים. הוציא אלבום תמונות מארץ-ישראל.
+
+ הוזמן לעבודות המצבות לחיילי צבא ההגנה לישראל, אשר נפלו במלחמת השחרור.
+
+ כזקן האמנים בארץ זכה להערכות רבות בעתונות הכללית ובכתבי העת לספרות ואמנות. כל השנים חבר "בהגנה".
+
+ בתו:<persName> רות (פקידה)</persName> אשת המורה <persName>שלמה דורפמן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1624 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1624</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

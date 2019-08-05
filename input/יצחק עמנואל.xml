@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2212 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2212</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק עמנואל</persName>
+
+</head>
+         <div><p> נולד באב תר"מ (1880) בעיר העתיקה בירושלים, לאביו <persName>עמנואל</persName> ולאמו <persName>דולסה</persName> בת<persName> יצחק בכר </persName> (שנולדו בסלוניק).
+
+ התחנך בתלמוד תורה שבין החומות. למד תורה משך
+
+ שנתים ואחר-כך המשיך בבית-הספר אליאנס - עד גיל הבר-מצוה. מאז יצא לעבודה. עבד עם אביו בעיר העתיקה. במות אביו היה כבר נשוי ושני ילדים בחיקו. את הסחורות לחנותו, שירשה מאביו, היה קונה משכניו הערבים. הוא אינו זוכר מקרה בלתי נעים שקרה עמם ולהפך, הוא יודע לספר על יחסים תקינים עם שכניו. בגיל 20 נשא את<persName> רוזה (שושנה)</persName> בת <persName>יעקב בן ארויה</persName> מירושלים. אחר שלש שנים נולד להם הבן הראשון-אבר
+
+ הם, ואחר אותו זמן הבן השני-מאיר. בהיותו בן 34 לחייו פרצה מלחמת העולם הראשונה. הצטוה להתגייס לצבא התורכי, כמו כל שאר חבריו. תוך שרותו זה נסע לבואנוס-איירס בשליחות ציונית. אחר שנים של שרות בצבא התורכי התמסר שנית לעבודתו בחנות ואף עסק ברוכלות - מוכר עוגות וממתקים. בגיל 46 עזב עבודתו זו והתמסר לעבודת הבניה על מגרשו ברח' הפועלים פנת רח' בן-יהודה בירושלים.
+
+ אשתו מתה עליו בהיותו בגיל 36 והשאירה לו שני בנים. כיום יש לו 12 נכדים ו-6 נינים העוסקים: בהוראה, בעבודה סוציאלית, בבית-חולים כאחיות, בפקידות, בחשמלאות.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2212 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2212</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3794 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3794</bibl><bibl>Volume: #11 ,Page: 3795 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3795</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב ברור חומה</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קובנה</placeName> (ליטא) בשנת תרי"ט (1959).
+
+ לאביו הרב אברהם<persName> אבא ורנר </persName> (הרב הראשי לקהלת "מחזיקי הדת" בלונדון).
+
+ קיבל חינוך מסורתי וכללי. עוד בימי נעוריו נתפרסם שמו בעולם הרבנים, החוקרים והמבקרים.
+
+ נשא לאשה את <persName>שרה טויבא</persName> בת ר'<persName> אבא </persName> (עורך-דין ברוסיה).
+
+ היה רב בשיקאגו.
+
+ עלה לארץ ונתמנה לרב ומורה במושבה עקרון (מזכרת בתיה). דרשותיו לקחו לבבות. דאג תמיד על החינוך והרבה פעל ועשה בזה. בלוח לונץ, כרך ששי הדפיס מאמר בענין זה "חינוך בני ישראל בדורות הראשונים".
+
+ ספריו: "מקור ברוך" (ירושלים, תרס"ד) ; "חומת אש-דת" (או הקבלה והמסורת - ערוך ומסודר על פי ש"ס. תרפ"ז); "כתב בית ישראל" זו סימכת זקנים (חוברת א', תרס"ג).
+
+ התעסק שנים רבות ברעיון גדול לחדש את "הסמיכה" בירושלים. ערך על הרעיון הזה מאמרים בעתונות (עיין "סמיכת זקנים" בירושלים, לונץ, כרך שש) וגם בחוברות מיוחדות.
+
+ היה הראשון שהחל לחבר את "הקונקורדנציה התלמודית", אלא שהרב קסובסקי הקדימו לפרסם בדפוס ולכו מצא זה לנכון להציב על שער הספר זכרון להרב <persName>חומה.</persName>
+
+ נפטר בראשון לציון, כ''ט שבט תר"פ (18.2.1920).
+
+ צאצאיו; <persName>יוסף עזרא חומה</persName> (מי שהיה מנהל בית ספר עברי בקייפטון),<persName> יעקב חומה</persName> (היה קצין מחוז בירושלים, מבקר רשמי חשבונות הממשלה), <persName>איידה</persName>
+
+
+ אשת <persName>ד"ר אליקום ון-יסבורד</persName> (שהיה הרופא הראשי של המושבה ראשון לציון, אשת<persName> אהרן כץ</persName> (מנהל בית ספר עברי בשיקאגו).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3794 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3794</bibl><bibl>Volume: #11 ,Page: 3795 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3795</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

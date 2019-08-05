@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3063 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3063</bibl><bibl>Volume: #8 ,Page: 3064 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3064</bibl>
+<bibl>Volume: #8 ,Page: 3065 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3065</bibl>
+<bibl>Volume: #8 ,Page: 3066 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3066</bibl>
+<bibl>Volume: #8 ,Page: 3067 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3067</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר סקר</persName>
+
+</head>
+         <div><p> נולד נסויש, פלך מינסק (רוסיה הלבנה), כ"ג טבת תרמ"ו (1886).
+
+ לאביו <persName>שלמה זלמן</persName> ולאמו <persName>שרה</persName> בת <persName>מרדכי בסינקביץ.</persName>
+
+ עלה לארץ בשנת תרנ"א (1891) והתישב עם משפחתו ביפו.
+
+ קבל חנוך מסורתי בתלמוד תורה - שערי תורה ביפו.
+
+ מראשוני מיסדי התזמורת כנור ציון ביפו.
+
+ מזכיר האגודה "עזרה לחולים" והיה מזכיר מועדון אחדות ביפו.
+
+ בשנת תרס"ח (1908) החל לעבוד בפקידות.
+
+ פתח ביפו משרד לסוכנות וקומיסיון.
+
+ בשנת תרע"ה (1915) עבר לחיפה והחל לעסוק שם בחומרי בנין וכלי עבודה.
+
+ בשנת תרע"ג (1913) נשא לאשה את <persName>חיה</persName> בת <persName>יעקב</persName> <persName>פלוטקין</persName> (נפטרה בתל-אביב, כ"ז תשרי תש"י20.10.1949 ונקברה ברחובות).
+
+ אביה <persName>יעקב פלוטקין</persName> נפל בהגנת סג'רה בשנת תרס''ט (1909). היה חברו של <persName>יצחק בן-צבאי </persName> (היום - נשיא המדינה). אביו ר' <persName>ניסן פלוטקין </persName> היה המורה הראשון של בן-צבי (בשנת 1890) <persName>ושל ברל כצנלסון ועוד.</persName>
+
+ בחיפה רכש מגרמני עסק לחומרי בנין, שהיה מהראשונים בחיפה והגליל. ועזר רבות להתפתחות חיפה והסביבה.
+
+ משכיל, אוהב ספר.
+
+ נדבן, בעיקר במתן צדקה בסתר.
+
+ חבר בני-ברית.
+
+ בניו;<persName> יעקב, שלמה ידין, אריאל.</persName>
+
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בחיפה, ט"ו כסלו תשכ"ו (9.12.1965) (ראה כרך שמיני, עמוד 3066) 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3063 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3063</bibl><bibl>Volume: #8 ,Page: 3064 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3064</bibl>
+<bibl>Volume: #8 ,Page: 3065 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3065</bibl>
+<bibl>Volume: #8 ,Page: 3066 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3066</bibl>
+<bibl>Volume: #8 ,Page: 3067 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3067</bibl>
+            <bibl>Volume: #18 ,Page: 5491 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5491</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

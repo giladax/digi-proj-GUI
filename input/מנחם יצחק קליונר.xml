@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 1042 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1042</bibl><bibl>Volume: #2 ,Page: 1043 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1043</bibl>
+<bibl>Volume: #2 ,Page: 1044 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1044</bibl>
+<bibl>Volume: #2 ,Page: 1045 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1045</bibl>
+<bibl>Volume: #2 ,Page: 1046 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1046</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם יצחק קליונר</persName>
+
+</head>
+         <div><p> נולד בחות אביו ליד העיירה דניאלוביץ, פלך וילנה, ליטא, כ"ז תמוד תרמ"ה (1885), לאביו <persName>חיים</persName> (מחסידי חב"ד, בעל צדקה והכנסת-אורחים נודע) ולאמו <persName>חוה שפרה</persName> (חובבת ציון מנעוריה, קרובתו של הרב
+
+<persName>משה אוסטרובסקי-המאירי ז"ל)</persName> בת ר'<persName> משה פרידמן</persName> מעיר דלהינוב, פלך וילנה. למד מפי מורים פרטיים באחוזה, ובהיותו בן 10 מכר אביו את האחוזה והתישב בוילנה, שם המשיך ללמוד בחדרים ובישיבה ואף להשתלם בלימודים כלליים.
+
+ בן 17 נסע ללמוד בראדין בישיבת ה"חפץ חיים" ולאחר שנה כתב משם להוריו שהוא נוסע לארץישראל ומבקש מהם לבוא אחריו. אך כספו הספיק רק עד טריאסט. מחוסר אמצעים להמשכת הנסיעה נשאר שם זמנית והחל לסחור בבגדים מוכנים וכתב בקביעות לעתון היומי הציוני "טאגבלאט" שבלבוב ולשבועון "המצפה" של<persName> ש. מ. לזר</persName> בקראקוב. השתלם בשפות גרמנית, איטלקית וקרואטית-סרבית (יוגוסלבית), הצליח בעסקיו, נשאר תושב קבוע בטריאסט כ-15 שנה ועסק בפעילות צבורית יהודית. השפיע על הרבה צעירים מתבוללים להחזירם ליהדות דתיתלאומית, יסד את הועד "אהבה ואחוה" לעזרת המהגרים היהודים, שהיו מפליגים מנמל טריאסט לארץישראל, לאמריקה וליתר ארצות ההגירה. לועד זה הצטרפו הרב<persName> דנטה לאטס,</persName> פרופ'<persName> שטרנברג,</persName> האחים <persName>מורפורגו ועוד,</persName> ומשנבחר הרב <persName>צבי פרץ חיות</persName> לרב ראשי בטריאסט מינוהו לראש הועד הזה, שפעל לטובת העולים לארץ-ישראל וקיים קשרים עם המשרד הא"י בת"א, עם חברת יק"א וחברות יהודיות אחרות שעסקו בעזרה להגירה יהודית.
+
+ בתרע"ג ביקר בארץ כתייר, השאיר כסף במשרד הא"י בת"א, שיקנה בשבילו 50 דונם קרקע (אח"כ הוחזר לו הכסף בנימוק שהזמן אינו מתאים לקנית קרקע), חזר לטריאסט לחסל את עסקיו ובפורים תרע"ד עלה ארצה עם הוריו וארוסתו <persName>שושיה</persName> בת ר'<persName> מרדכי</persName> <persName>רוצייסק,</persName> מדניאלוביץ (ואח"כ בתרע"ה נשאה לאשה). עסק ביצוג מסחרי של בתי-חרושת לכסאות ולנייר עטיפה לתפוחי-זהב, למד ,את מלאכת הצילום והיה בדעתו לצלם ממראות הארץ ולהדפיס גלויות למכירה, אך מאין צינקוגרפיה בארץ משך את ידו מהעסק ומסר אותו להאחים אליהו והם התחילו בהדפסת הגלויות באיטליה, והוא פנה להתעסקותו הישנה ופתח בית-מסחר לבגדים מוכנים ביפו.
+
+
+ בקיץ תרע"ו הוטל עליו מטעם ועד קהלת יפו ות"א ומטעם ועד הסיוע האמריקאי לנהל את המחסנים של חטים וקטניות ופחמים בשביל ת"א ויפו והסביבה לעזרת הנצרכים ולמכירה לתושבים במחירים הוגנים, כדי להצילם ממחסור ומדלדול על-ידי מפקיעישערים. וכשגורשו היהודים מיפו ות"א בניסן תרע"ז ורבים מהמגורשים התרכזו בכפר-סבא (המקום הראשון מחוץ למחוז יפו, שעל כל שטחו חלה פקודת גירושם, בכוונה שיהיו קרובים ככל האפשר לחזור לעירם בעת שתבוטל הגזירה), נתמנה מטעם ועד ההגירה למזכיר ולמנהל כל עניני העזרה למהגרים בכפרסבא. זה היה תפקיד רב סבל ואחריות, כי רבים היו מחסורי המהגרים במעון, מזון, הלבשה, ופגעי מחלות ומגפות ורדיפות ונגישות מצד השלטון הצבאי והאזרחי, ובכל אלה חיה עליו לעשות - וגם עשה .במסירות ובזריזות ככל האפשר - להפחית את הסבל ולהציל נפשות. (את פרשת סבל המהגרים ופעולתו .בכפר-סבא תיאר אח"כ בחוברת "מגלת כפר-סבא", הוצאת מתתיהו אליהו, ת"א תר"פ).
+
+ ועד הקהלה זכר לו את עבודתו המסורה לטובת מגורשי העיר בכפר-סבא ואחרי המלחמה מינהו למנהל ועד המכלת, גזבר, פקיד לטיפול בעניני עליה, התאזרחות וכו'. ומעת מזיגת הקהלה והעיריה (1.8.39) הועבר לעבודה בגזברות עירית ת"א.
+
+ צאצאיו:<persName> אליהו, תמימה,</persName> אשת<persName> ברוך הכהן גולוב</persName> <persName>סקי, ידידיה, מלטיה, נאמנה.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר ברמת-גן, אי בניסן תשכ"ה (12.4.65) (ראה כרך שני, עמוד 1045)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 1042 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1042</bibl><bibl>Volume: #2 ,Page: 1043 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1043</bibl>
+<bibl>Volume: #2 ,Page: 1044 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1044</bibl>
+<bibl>Volume: #2 ,Page: 1045 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1045</bibl>
+<bibl>Volume: #2 ,Page: 1046 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1046</bibl>
+            <bibl>Volume: #15 ,Page: 4805 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4805</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

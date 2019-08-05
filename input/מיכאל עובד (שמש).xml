@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1986 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1986</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מיכאל עובד (שמש)</persName>
+
+</head>
+         <div><p> נולד בדומברוביצה, פלך ווהלין (אוקראינה), כ"ד ניסן תרנ"ג (10.4.1893), לאביו <persName>יהושע מאיר שמש</persName> (דור ששי לבעל "סדר הדורות") ולאמו<persName> סוניה </persName> בת <persName>לייב מטורין.</persName>
+
+ למד בחדרים ובישיבות עד גיל 16 ואח"כ בביתהמדרש. ניסה את יכלתו בלימוד מלאכות שונות:
+
+ פחח, תפר, כובעני - ובסוף מורה בבית-ספר עממי עברי מיסודה של "תרבות" בעיירה מאחנובקה, שם היה פעיל ב"צעירי ציון" וממיסדי "החלוץ" (ב-1919), בו עבר כעין "הכשרה".
+
+ משהוחלט במועצה המחוזית של "החלוץ" בברדי
+
+ צ'ב (שנערכה בהשתתפותו, במחתרת מאימת השלטון הבולשבי) על התחלת העליה החלוצית לארץ ועל החובה לעזור לעולים, יצא גם הוא לדרך. עבר לרומניה בהברחת הגבול, ואחרי טלטולים והרפתקאות ומחסור ועבודות גופניות זמניות לצרכי הקיום והוראה עברית לחלוצים ותחנת בינים במשך שבועיים במושבה היהודית "מסילה חדשה" שליד איסטמבול, הגיע לחיפה ביום 3.1.1921.
+
+ זכרונות על פרשת התלאות וההרפתקאות ממאחנובקה ועד חיפה סיפר בחוברתו "עם ראשית העליה השלישית" - הוצאת מחלקת הנוער של חבר הקבוצות וקבוצת השרון, תש"ז.
+
+ הצטרף לארגון התישבותי ואחרי עבודה שכירה במקומות שונים בארץ עלה עם ארגונו להתנחל בקבוצת השרון שליד נהלל ועבד בפלחה.
+
+ בתרפ"ט נשא לאשה את <persName>רחל</persName> לבית <persName>ברו </persName> (נפטרה בקבוצת השרון, כ"ד שבט תר"ץ).
+
+ אחרי התאלמנותו יצא בשליחות לתנועת "גורדוניה" ברומניה (בשנות תר"ץ-תרצ"א) וטמנה נשלח בציר לועידה העולמית של הליגות למען ארץ-ישראל העובדת (ברלין, 1930).
+
+ פרסם רשימות ב"הפועל הצעיר".
+
+ עובד בשנים האחרונות בניהול חשבונות הקבוצה וממלא בה תפקידים צבוריים כחבר ועדת החינוך והנהלת בית-הספר.
+
+ בתו:<persName> רוני.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1986 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1986</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

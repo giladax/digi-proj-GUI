@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3592 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3592</bibl><bibl>Volume: #10 ,Page: 3593 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3593</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד ארליך</persName>
+
+</head>
+         <div><p> נולד בכפר טלמזה (בסרביה) בשנת תרנ"ח (1898).
+
+ לאביו ר'<persName> שלמה ארליך</persName> (סוחר יערות בן תורה וירא שמים ובעל צדקה מובהק) ולאמו<persName> פרומה</persName> בת<persName> יעקב</persName> <persName>סברדליק.</persName>
+
+ קבל חינוך בחדר וגמר בית ספר למסחר.
+
+ היה פעיל כחבר ב"צעירי ציון".
+
+ בסוף מלחמת העולם הראשונה התגייס לצבא האדום ולחם נגד צבא הלבנים של <persName>פטלורה, רנגל ודניקין.</persName>
+
+ בשנת 1919 עזב את הצבא וחזר לבסרביה.
+
+ בשנת 1920 הצטרף ל"החלוץ", נסע לקושתא וקיבל שם הכשרה חקלאית במסילה החדשה.
+
+ הגיע לארץ זמן קצר לפני מאורעות מאי 1921.
+
+ בעת ההתנפלות על בית החלוץ ביפו, הצטרף למגי
+
+
+ נים על הבית שהקיפו אותו אלפים פורעים ערביים ונפצע שם. אחר שהבריא מפצעיו עבד בבנין בתלאביב, אחר כך בבית החרושת של האחים <persName>טובקין</persName> ללבנים ובלוקים בתל-אביב.
+
+ לבסוף עבר לעבוד בבי"ח למרצפות "השחר" אצל מר <persName>זאב שרתוק</persName> (דודו של <persName>משה שרת). </persName>
+
+ עבד שם כשנתיים ונאלץ לעזוב את העבודה מסיבות בריאות.
+
+ בשנת 1924 נתקבל לעבודה כמציל ע.ת.א. על שפת
+
+ ימה של תל-אביב. עבודה זו היתה לפי רוחו (שחיה והצלה למד עוד בנעוריו על נהר הדנייסטר) ובמשך 35 שנות עבודתו הציל קרוב ל-5000 גברים נשים וילדים. בידיו נמצא ארכיון-זוטא ובו שלשת אלפים רשומים אשר הביעו את תודתם על הצלת חייהם. על עבודת ההצלה זכה לקבל שתי אותות הצטיינות, אחת מידי ראש העיר<persName> ישראל רוקח</persName> והשניה מראש העיר <persName>חיים</persName> <persName>לבנון.</persName>
+
+ בשנים האחרונות התמסר להדרכה וללימוד שחיה לילדים משותקים במוסד "אברמס" המשמש מוסד לריפוי מתוך עיסוק.
+
+ בשנת 1928 נשא לאשה את<persName> רבקה </persName> בת ר'<persName> אפרים</persName> <persName>הרצל רחמן </persName> בתל-אביב.
+
+ צאצאיו<persName> הרצל</persName> ומעורכי" דבר השבוע"), <persName>רחל</persName> אשת האלוף <persName>משה יוסף </persName> ה<persName>רפ"ז, חסידה </persName> (תלמידה),<persName> אברהם</persName> (תלמיד).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3592 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3592</bibl><bibl>Volume: #10 ,Page: 3593 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3593</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

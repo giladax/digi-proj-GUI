@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1152 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1152</bibl><bibl>Volume: #3 ,Page: 1153 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1153</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר חיים (הוראס) פארבשטיין</persName>
+
+</head>
+         <div><p> נולד בברן, שוייץ, בשנת תרנ"ו (28.10.1895), לאביו<persName> דוד</persName> (עו"ד ידוע בציריך, ציר הקונגרס הציוני
+
+ הראשון וחבר הפרלמנט השוייצרי ברשימת הסוציאליסטים. פרסם בגרמנית ובעתונות העברית שורת מאמרים על המשפט העברי ועל שאלת הציונות, אחיו של עסקן "המזרחי" <persName>יהושע השיל פארבשטיין</persName> , מגזע רבנים גדולים, ששלשלת יחוסם מגיעה, לפי מסורת המשפחה, עד דוד המלך). קיבל חינוך יהודי וכללי בשוייץ, למד באוניברסיטה בשוייץ, יחד עם<persName> ישראל רוקח,</persName> ראש עירית ת"א וסטודנטים ציונים וארצישראליים רבים, והמשיך ללמוד באנגליה.
+
+ עלה ארצה ב-1919, למד את השפה העברית והשתלם בה. היה בקבוצה הראשונה של 11 עורכי-הדין היהודים, שעמדו בסוף 1920, לבחינת עו"ד זרים בחוקי הארץ והורשו לעסוק במקצועם בבתי-הדין האזרחיים בארץ, ופתח משרד ביחד עם עוה"ד <persName>יעקב בן-מאיר.</persName>
+
+ נשא לאשה את<persName> אסתר</persName> (בובי) בת <persName>רפאל כהן.</persName>
+
+
+ היה מזכיר הבנק האפותיקאי בת"א, עוה"ד של בנק אשראי, פעיל באגודות ספורט ובארגון הבטחון. ב-1937 יסד יחד עם המהנדס <persName>עמנואל טובים </persName> ועם <persName>חיים ליבוביץ</persName> את אגודת יורדי-ים "-"זבולון", ויחד עם <persName>חיים ליבוביץ</persName> וד"ר<persName> יהודה ברזל </persName> את המועדון "נמרוד" לציד ולסיוף. כיהן שנים אחדות כיו"ר אגודת עורכיהדין בת"א, שופט כבוד של האגודה ושופט כבוד עירוני. הצטיין ביושר ובפשטות במילוי תפקידיו הפרטיים והצבוריים, בתרבות מערבית מעולה, בענוה טבעית, בעליזות באהבת הבריות וכאיש-חברה נעים.
+
+ התאבד ביריה בת"א, ט"ז חשון תרצ"ט (10.11.1938)).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1152 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1152</bibl><bibl>Volume: #3 ,Page: 1153 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1153</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 280 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/280</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דינה סלומון</persName>
+
+</head>
+         <div><p> נולדה בעיירה<persName> גרידינג</persName> , מחוז קאמניץ-פודולסק, רוסיה, בשנת תרכ"ו (1866) לאביה, ר' <persName>ליב שווארץ</persName> , חסיד ותלמיד-חכם.
+
+ בת י"ד עלתה ארצה בתר"מ עם דודה ר' ברון <persName>שווארץ</persName> , שבנה את בית-המדרש לחסידים בשכונת מאה שערים בירושלים וגדלה באוירה של תורה
+
+ ותפילה ומעשי צדקה וחסד.
+
+ בתרמ"ד נישאה למר<persName> מרדכי</persName> בן ר' <persName>יואל משה</persName> <persName>סלומון</persName> . אתו התישבה בכפר יהודיה ליד פתח תקוה שהיה אז בראשית התהוותו - ואח"כ בפתח-תקוה. והיא נשאה את חלקה בסבלות אמהות הישוב, הלכה אחרי בעלה "למדבר, לארץ לא זרועה", שהמתנחלים היהודים התמסרו לזרעה, לנטעה ולבנותה. נשאה בדממה ובגבורת נפש את תלאות החיים בשנים הראשונות, כשהקדחת הציקה למתישבים והרבתה את התחלואה ואת השכול במשפחות. מצאה זמן ומרץ גם לעזור לאחרים הסובלים יותר ולעודד את החלשים ברוחם. גם בשנות הטובה, שבאו עם הבראת המקום וגידולו, המשיכה לעמול ולשקוד בפשטות ובטוהר על ניהול הבית, גידול בנים והדרכתם, הכנסת אורחים, מעשי חסד ועזרה לזולת כל ימיה.
+
+ נפטרה בפתח-תקוה, ט' אדר תרצ"ו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 280 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/280</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

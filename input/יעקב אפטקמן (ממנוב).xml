@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3296 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3296</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב אפטקמן (ממנוב)</persName>
+
+</head>
+         <div><p> נולד באזוב (רוסיה) בשנת תרנ"ה (10.8.1895). לאביו <persName>דוד </persName> ולאמו <persName>ורה</persName> בת <persName>ליאון שירצקופ.</persName>
+
+ קבל חנוך עממי.
+
+ בשנת 1914 עלה לארץ. בהתחלה עבד בפקידות ואח"כ בשמירה ב"השומר".
+
+ בשנות 1918-20 חיל מתנדב בגדוד העברי.
+
+ בשנות 1920-22בתל-חי.
+
+ בשנת 1920 נשא לאשה את <persName>חיה</persName> בת<persName> יצחק זטולובסקי,</persName> ובזיווג שני נשא לאשה (1935) את<persName> מרים</persName> בת<persName> צבי גליק.</persName>
+
+ בשנות 1922-23 היה ממארגני ההגנה בשכונת בורוכוב, ועבד בשכונה בשמירה.
+
+ בשנות 1923-26 שוטר במשטרת תל-אביב.
+
+ משנת 1926 חקלאי בתל-עדשים.
+
+ בשנות 1940-45 שירת בתור מתנדב בחיל האויר הבריטי.
+
+ בשנת 1948 התנדב לחיל האויר של צ. ה.ל. עם תום מלחמת השחרור חזר לתל-עדשים. צאצאיו (מאשתו הראשונה):<persName> יצחק, דוד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3296 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3296</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

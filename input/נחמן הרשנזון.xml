@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3781</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחמן הרשנזון</persName>
+
+</head>
+         <div><p> נולד בבודוליה בשנת תרכ"ב (1862).
+
+ לאביו<persName> אברהם משה וקלוי הרשנזון </persName> (ראה בכרך זה) ולאמו<persName> רחל.</persName>
+
+ קיבל חינוך מסורתי.
+
+ עסק במסחר.
+
+ נשא לאשה את <persName>זלדה.</persName>
+
+ בשנת תר''ן (1890) עלה לארץ.
+
+ היה פועל חקלאי בכרמיו של אביו ואח"כ אצל משקי הבארון בעקרון.
+
+ היה חבר ועד המושבה.
+
+ נפטר ברחובות, א' טבת תרפ"ו (18.12.1925).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3781</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2136 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2136</bibl><bibl>Volume: #5 ,Page: 2137 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2137</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה רוזנפלד</persName>
+
+</head>
+         <div><p> נולד ב<placeName>מלחמיה</placeName> (שהוסב שמה אח"כ למנחמיה), כ"ח כסלו תרס"ו לאביו <persName>שלמה יצחק</persName> (ממיסדי המושבה וראשה ומנהיגה מראשיתה. ראה את הערך שלו בכרך זה) ולאמו<persName> שושנה</persName> בת <persName>אשר שפירא.</persName>
+
+ למד בבית-הספר המקומי וגדל מילדותו באוירה של מלחמת תמיד להגנה מפני שודדים ורוצחים ושוסים ערבים משני עברי הירדן והיה עד ראיה לאסונות לא מעטים, בהם קופחו חיי יהודים מהמושבה ומסביבתה בדרך ובשדה ובשמירה על-ידי מרצחים. (גם
+
+
+ אחיו<persName> צבי</persName> , נרצח בתרע"ו בכדור מרצח, בהובילו בלילה בעגלה תבואה מהשדה אל הגורן).
+
+ אחרי גמרו את בית-הספר למד במקוה ישראל והצטיין בלימודו, בעבודתו ובהתנהגותו. חבריו הוקירוהו וחיבבוהו בשל מדותיו הטובות, ישרו ואומץ-רוחו והעניקו לו את התואר "שייך א-שבאב" (ראש הנוער).
+
+ נשא לאשה את<persName> יהודית</persName> גורדון (1929).
+
+ התגייס למשטרה, גמר את בית-הספר לשוטרים ויצא לשרות. הצטיין בשקידתו ובמסירותו ועלה עד לדרגת סרג"נט. שרת בתחנות שונות בארץ. בתקופת מהומות תרפ"ט שרת במשטרת יפו והשתדל ככל האפשר להגן על הישוב העברי אף כשהממונים עליו לא היו מעונינים כל-כך בהצלחה בתפקידם לטובת היהודים.
+
+ לאחר שנים אחדות נתמנה לסגן-קצין אחראי בנקודת המשטרה בבית-השיטה, שהופקדה על שמירת הבטחון הצבורי בעמק-יזרעאל המזרחי. כאן ארגן את השרות באופן יעיל ביותר והפיל את פחד החוק על אנשי ההפקר, עד כי שואפי שוד וגניבה שבסביבה הוכרחו לנסות את מזלם באזורים של נקודות-משטרה אחרות ולפסוח על הישובים העברים שבעמק המזרחי. כן הצליח ליצור יחסים הוגנים ולישב סכסוכים בין הישובים העברים ובין כפרי הערבים שמסביב וגם את השוטרים הערבים הנתונים לפקודתו הדריך וחינך ליחסים הוגנים עם היהודים. הדברים הגיעו לידי כך, שבמשרדי שלטון המחוז צוין לשבח, שבישובי העמק המזרחי עברה שנה ללא גניבות ואף נשלחה על כך הודעה מיוחדת לנציב העליון.
+
+ אולם בחוגים הנסתרים של המסכסכים בין שני העמים בארץ לא היו מרוצים מיעילות משטרתית זו והוכרח להרגיש, שהשליטים הגבוהים בשרות צבורי זה לא די שאינם מעריכים את פעולתו כראוי, אלא יחסם אף עשוי למרר לו את חייו. לכן מסר בשנת תרצ"ה בקשת התפטרות, אולם לדרישת ועד הגוש של העמק המזרחי חזר בו מהתפטרותו.
+
+ התמדתו בשרות היתה לצנינים בעיני אנשי הזדון והמזימות מכנופיתו של השייך אלקאסם הידוע, ולכן ערכו התנפלות-גניבה מדומה על פרדס עין-חרוד
+
+ וכשהוא יצא רכוב על סוסו לרדוף אחרי הגנב שלחו בו כדור מות והוא נפל שדוד לרגלי הגלבוע, ביום י"א חשון תרצ"ו (7.11.35) ונקבר בעמק יזרעאל.
+
+ בניו;<persName> יעקב, אמנון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2136 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2136</bibl><bibl>Volume: #5 ,Page: 2137 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2137</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

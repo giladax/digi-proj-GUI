@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1706 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1706</bibl><bibl>Volume: #4 ,Page: 1707 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1707</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב חיים הירשנזון</persName>
+
+</head>
+         <div><p> נולד בצפת, י"א אלול תרי"ט (1859) (לפי גירסא אחרת: י"ח סיון תרי"ח), לאביו הרב <persName>יעקב מרדכי ,</persName> מפינסק ולאמו <persName>שרה ביילה</persName> בת ר'<persName> יהודה ליב.</persName> בן שנה עבר עם הוריו לירושלים, שם יסד אביו וניהל את ישיבת "סוכת שלום" (ראה עליו בכרך זה). למד בישיבת אביו והוסמך לרבנות והשתלם גם במדעים כלליים.
+
+ בתרל"ג נשא לאשה את<persName> חוה </persName> בת הרב<persName> שמואל</persName> <persName>בנימין כהן </persName> מרדושקביץ, שהיה עסקן ושד"ר מטעם מוסדות "עץ חיים" אחרי עליתו ירושלימה. בניגוד לשמרנות נלחמת בקנאות בכל חידוש, ששררה בקרב עדת אנשי התורה האשכנזים היה הוא ובית אביו מהמעטים המבינים לרוח הזמן ואינם נרתעים מפני רדיפות. נתן יד <persName>לאליעזר בן-יהודה</persName> בהפצת הדיבור העברי החי: השתתף עם<persName> דוד ילין, א. מ. לונץ</persName> ואחרים
+
+
+ ביסוד חברת "שפה ברורה", לשכת בני ברית וביתהספרים "מדרש אברבנאל" (ראשיתו של בית-הספרים הלאומי והאוניברסיטאי), ובינתים המשיך להגות בתורה ולהעלות את חידושיו על הכתב. ברשיון שהשיג אחיו הרב <persName>יצחק </persName> בהשתדלות דיפלומטית יסד יחד אתו בית דפוס בירושלים שנקרא על שמו, ובו הדפיס את ספריו הראשונים שחיבר בבחרותו ואת ירחונו התורני והמדעי "המסדרונה"(יצא בקביעות בשנות תרט"ה-תרמ"ט; ארבע החוברות הראשונות נדפסו בפרנקפורט ע"מ בגרמניה. ומהחמישית ואילך
+
+ בדפוסו בירושלים). היה במשך שנים אחדות מורה לתלמוד בבית-הספר למל בירושלים, שהוחרם על-ידי קנאי האשכנזים. גם אשתו<persName> חוה </persName> (עליה ערך מיוחד בכרך זה) פעלה להפצת הדיבור העברי ורעיונות התחיה התרבותית והלאומית בין הנשים.
+
+ בתרמ"ט פסקה הופעת ירחונו והוא עבר לאיסטמבול והיה שם מנהל בית-ספר עברי ומורה לתלמוד בבית-מדרש לרבנים. משם נשלח ב-1904 כציר לקונגרס הציוני, בא במגע ובהיברות עם צירים ואורחים מאמריקה, והללו הזמינוהו לכהן אצלם ברבנות. אז יצא לארצות הברית והיה עד סוף ימיו רב לארבע קהלות ("משה מונטיפיורי", "הר ציון", "בית יעקב", "משכנות ישראל") בעיר הובוקן שבמדינת ניו-ז'רסי, בקרבת ניו-יורק, והוסיף לכתוב ולחבר ספרים ומחקרים ולהפעיל למען ארץ-ישראל וישובה ומוסדותיה כל ימיו.
+
+ ספריו: עטרת חכמים ,עטרת זקנים, ישועות יעקב (על ההושענות), ימים מקדם (על הכרונולוגיה התנכית), נמוקי רש"י, חידושי הרח"ה (על הירושלמי), תורת החנוך הישראלי, מלכי בקודש (ששה חלקים, על ההנהגה המדינית בארץ היהודים לפי התורה), ברורי המדות (ד' חלקים), אלה דברי הברית (על כל הבריתות בישראל), מוצאי מים, מושגי שוא והאמת, מוסדות תורה שבעל פה, ועוד.
+
+ נפטר. בהובוק (ניו ז'רסי), בשנת תרצ"ה.
+
+ צאצאיו; ד"ר<persName> נחמה אדלרבלוס</persName> (סופרת ועסקנית ציונית), <persName>אסתר</persName> אשת פרופ' <persName>יעקב יוסף טויבנהויז</persName> ז"ל.
+
+ (ראה כרך א', עמוד 384)<persName>, תמר </persName> אשת הרב ד"ר <persName>דוד די סולה פול</persName> (רב לעדת הספרדים "שארית ישראל בניו-יורק, והיא ממנהיגות "הדסה"), <persName>תהלה רחל</persName> אשת הרב <persName>ד"ר מוריס ליכטנשטיין, בנימין </persName> (דוקטור, מהנדס).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1706 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1706</bibl><bibl>Volume: #4 ,Page: 1707 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1707</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

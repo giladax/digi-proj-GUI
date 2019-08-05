@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3282 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3282</bibl><bibl>Volume: #9 ,Page: 3283 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3283</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק סולוביציק</persName>
+
+</head>
+         <div><p> נולד ב<placeName>גרודנו</placeName> (פולין) בשנת תרנ"ד (25.5.1894).
+
+ לאביו<persName> אשר</persName> (סוחר עצים) ולאמו <persName>יוכבד</persName> בת <persName>זאב פינ</persName> <persName>קלשטיין </persName> מגרודנו (ממשפחת רבנים מסועפת).
+
+ קבל חנוך מסורתי, בית הספר התיכון הממלכתי בעיר סרטוב שליד הוולגה.
+
+ ארגן תאים ציוניים בבתי הספר התיכוניים של הנוער הלומד ועמד בראשם עד שעזב את סרטוב.
+
+ לפני פרוץ מלחמת העולם הראשונה עבר לעיר באקו (קאוקז).
+
+ בשנת 1917 נשא לאשה את ד"ר<persName> שרה </persName> (רופאה) בת <persName>ליפמן וסושה איצקוביץ</persName> , חרשתן של בתי זיקוק לנפט בבאקו (ראה את הערך שלו בכרך זה).
+
+
+ בבאקו יסד את "צעירי ציון" ועמד זמן רב בראשד. עד לעלייתו לארץ עסק בצרכי צבור, קודם בפולניה ואח"כ ברוסיה. היה מורשה מטעם קהק"ל וקרן היסוד שלא על מנת לקבל פרס.
+
+ כתב בשפה הרוסית מאמרים ציוניים בעתונות בקאוקז.
+
+ בשנת 1921 עבר לקושתא (תורכיה) ועסק שם בעסקי הנפט של חותנו. לאחר מהפכת<persName> אטא-טורק</persName> בתורכיה חזר לגרודנו והיה בין הפעילים בחיים הצבוריים של הקהלה היהודית וההסתדרות הציונית ב<placeName>גרודנו</placeName>.
+
+ בשנת 1932 עלה עם משפחתו לארץ והשתקעו בחדרה.
+
+ ניהל במושבה את כרדסי וכרמי המשפחה, שנוטעו עוד בשנת 1909.
+
+ בחדרה הוא פעיל בעניני החקלאות, ניהל את חברת ההשקעה של פרדס "עטה"
+
+ כיום הוא מנהל סניף קופת חולים עממית ונשיא לשכת "השרון" של בני-ברית בחדרה.
+
+ צאצאיו:<persName> אשר</persName> (מהנדס. סגן אלוף בצה''ל),<persName> שושנה</persName> אשת האגרונום ד"ר<persName> בלפור חפר</persName> (בוגרת האוניברסיטה העברית בירושלים ומורה בבית ספר תיכון בחדרה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3282 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3282</bibl><bibl>Volume: #9 ,Page: 3283 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3283</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

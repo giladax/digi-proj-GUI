@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1374 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1374</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו דובקין</persName>
+
+</head>
+         <div><p> נולד בבוברויסק, רוסיה הלבנה, י"ט טבת תרנ"ח (1898), לאביו<persName> יוסף </persName> (מראשוני חברי "בני משה", ציר בכמה קונגרסים ציונים, חבר מרכז קרן היסוד בפולין, ואח"כ תושב תל-אביב) ולאמו <persName>מלכה</persName> ב<persName>ת אייזיק</persName> גורודישץ' מביאליסטוק (ביקר בארץ בתרנ"ז וקנה את אדמת כפר אוריה). למד בחדרים ובגימנסיה בבוברויסק ומשפטים באוניברסיטת חארקוב.
+
+ בעת מהומות המהפכה ומלחמת האזרחים יצא מרוסיה לפולין ומתרפ"א עד תרצ"א היה מזכיר מרכז "החלוץ" העולמי בוארשה וחבר נשיאות המשרד הארצישראלי שם כנציג "החלוץ" ותנועת-העבודה הציונית. כן נבחר לחבר מרכז "אורט" וחברת ההגירה היהודית העולמית "היאס".
+
+ נשא לאשה את <persName>סטרנה </persName> בתם של<persName> דוד ברבש </persName> (נפטר כ"ח אדר תרע"ט) ואשתו <persName>מוסיה</persName> בת האדמו"ר ר' <persName>שמריה נח שניאורסון</persName> מבוברויסק (דור חמישי לרבי 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1374 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1374</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3492 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3492</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלוף אפרים בן-ארצי (קוברינסקי)</persName>
+
+</head>
+         <div><p> נולד י"ב תמוז תר"ע (19.7.1910) בסלונים שברוסיה (פולין).
+
+ לאביו <persName>שמאי קוברינסקי</persName> (ראה כרך ח', עמוד 3046) ולאמו <persName>רחל</persName> בת <persName>יוסף סלוצקי.</persName>
+
+ אחרי שלמד בבית-ספר עממי ותיכון של "תרבות" בסלונים עלה לארץ עם הוריו ב-1924 וגמר את לימודיו בגימנסיה הרצליה בתל-אביב, אח"כ למד באוניברסיטת גרנובל בצרפת.
+
+ מהעבודה בעסקי אביו התגייס לצבא הבריטי במלחמת העולם השניה, עלה בסולם השרות עד למפקד גדוד חיל רגלים בבריגדה העברית ובסולם הדרגות עד ללייטננט קולונל (סגן אלוף). השתתף במצעד הנצחון האימפריאלי ב-8 ביוני 1946 בלונדון.
+
+ ב-1947 נשא לאשה את<persName> ויקטוריה </persName> בת <persName>שמואל טוב.</persName> אחרי השחרור מהצבא הבריטי ניהל את החברה לפיתוח צפת.
+
+ משנת 1929 חבר פעיל בהגנה.
+
+ במלחמת הקוממיות שירת בצה"ל בתפקיד ראש אגף האפסנאות במטה הכללי בדרגת אלוף, ובשנים 1948-50 שירת כנספח מטעם צה"ל בארה"ב.
+
+ בחיים האזרחיים היה מנהל חברת "מקורות", יועץ משרד המסחר והתעשיה לפיתוח תעשיתי.
+
+ מסוף שנת 1956 מנהל כללי של חברת התעופה "אל-על".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3492 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3492</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

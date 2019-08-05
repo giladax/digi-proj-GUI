@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1514 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1514</bibl><bibl>Volume: #3 ,Page: 1515 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1515</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יצחק בזנר</persName>
+
+</head>
+         <div><p> לאביו <persName>שלמה </persName> ולאמו<persName> גיזלה</persName> בת <persName>יצחק יהודה רובל.</persName>
+
+ נולד בווסלו (גליציה), כ"ז אדר ב' תרס"ח (30.3.1908).
+
+ קיבל חינוך מסורתי וכללי בוסלו-קרקוב וגמר ד"ר למשפטים וכלכלה במכללת קרקוב, נבחן בבחינות
+
+
+ לעו"ד זרים בירושלים וקיבל רשות לעסוק כעו"ד בא"י.
+
+ עד בואו לארץ עסק במקצועו כעו"ד וכלכלן.
+
+ בשנת 1936 נשא לאשה את<persName> פליציה</persName> בת <persName>מנדל</persName> <persName>קינסטלר.</persName>
+
+ באותה שנה עלה לארץ, עבד כפועל בבית חרשת לניר, מזכיר כללי של "המשכיר המרכזי" ואח"כ כעו"ד.
+
+ בתש"ח עם הכרזת הממשלה הזמנית במדינת ישראל, נתמנה לסגן מנהל כללי של האוצר ומפקח על המטבע הזרה.
+
+ כמו כן, הוא מרצה בבית הספר הגבוה למשפט וכלכלה בת"א.
+
+ כותב מאמרים ב"דבר" ו"המשק השתופי" על בעיות כלכליות וביחוד על שאלת התפתחות הקואופרציה בארץ ובעית המשק התפניתי והקיוניונקטורה.
+
+ ספרים: "סטטיסטיקה של המחזור הכספי 1931" (פולנית); "קורלציה 1933" (פולנית); "דיספרסיה של המחירים 1935" (פולנית); "שווי משקל כלכלי וקוניונקטורה 1944" (עברית).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1514 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1514</bibl><bibl>Volume: #3 ,Page: 1515 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1515</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

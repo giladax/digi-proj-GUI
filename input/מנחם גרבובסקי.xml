@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3374 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3374</bibl><bibl>Volume: #9 ,Page: 3375 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3375</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם גרבובסקי</persName>
+
+</head>
+         <div><p> נולד בשנת תרכ"ו (1866) בקרמנצ'וג שבאוקראינה.
+
+ לאביו<persName> ישראל זלמן </persName> ולאמו<persName> רחל </persName> (רושקה).
+
+ גדל בכפר שבאזור בריסק דליטא ונתחנך לתורת וליהדות.
+
+ בשנת תרמ"ג (1883) עלה לארץ עם הוריו, שהם ועוד שלשה בתי -אבות מרוסיה התנחלו בראש פנה, שיתר מתישביה באו שנה קודם לכן מרומניה.
+
+ העלם<persName> מנחם</persName> לא נטה להשלים עם "הספורט הפרופסיונלי" של בידואי הסביבה, ששלחו ידם בגניבה מעמל היהודים. למד את לשונם והליכותיהם של הפלחים והבי
+
+
+ דואים תושבי הסביבה, התאמן ברכיבה ובשימוש בנשק, למד את הנימוסים המקובלים ביחס לגנב שנתפס, והחל רודף אחרי גנבים ותופסם ומביאם אל הועד. היו מקרים, שמטעמים "פוליטיים" (לצורך רכישת קרקעות נוספים) ראתה פקידות הבארון צורך "לא למתות את החבל" כלפי גנבים בני הכפר שצריך לקנות ממנו קרקע. במקרים כאלה היה<persName> מנחם</persName> מלוה את הנתפסים בדרכם לשילוח לחפשי והיה מעניק להם "צידה לדרך" במכות
+
+ נאמנות, למען יזכרו שלא כדאי לנסות את המזל ברכוש היהודים. מתוך חובבות הגיע למינוי רשמי לשומר מטעם ועד המושבה ואח"כ מטעם פקידות הבארון.
+
+ נשא לאשה את <persName>רוניה</persName> בת <persName>ליב בלום</persName> מראש פנה.
+
+ במשך השנים התמחה בכל עניני השמירה ונתפרסם בין ערביי הסביבה הקרובה והרחוקה באומץ לבו, בגבורתו וגם במדותיו הנאות כמכניס- אורחים ובנוהג באבירות גם עם יריבים לפי מיטב המסורת הערבית, ובעצם היותו בתפקיד ראש השומרים הספיק לבלום את נטיות השוד והגניבה של אנשי הסביבה. גם בהתהלכו בין הערבים ובהתארחו אצלם שמר בדייקנות את מצוות הדת, וגם בשל כך כיבדוהו ראשי הערבים ונכבדיהם. החינוך שניתן בבית-הספר לא היה כשר למדי בעיניו, ולכן הביא למושבה "מלמד" ונתן לו בביתו מקום ל"חדר" לפי הנוסח המסורתי.
+
+ כשנוסדה החוה מגדל נתמנה לשומר ראשו של המנהל <persName>מ. גליקין</persName> , וכשרכב לשבתות הביתה שלח את הנער <persName>פנחס </persName> למלא את מקומו בשמירה.
+
+ אחרי היותו שנים רבות שומר שכיר מחוסר נחלה נתבשר, שפקידות הבארון וחברת יק"א החליטה לתת לו משק בראש פנה, שבהגיעו לגיל העמידה לא יצטרך עוד להתרוצץ יומם ולילה על סוסתו בשמירה. אך הקדחת כבר ערערה את בריאותו ואחרי ימים אחדים 
+
+ נפטר בראש פנה, ח' שבט תרע''ז (31.1.1917).
+
+ צאצאיו:<persName> יהודית</persName> אשת <persName>שמשון בלום, רחל, אסתר</persName> אשת <persName>שמעון גולדמן, משה, ישראל זלמן, פנחס</persName> (ראה בכרך זה), <persName>ישראל חיים, אברהם, מרדכי, זבולון, מאיר,</persName> <persName>ירחמיאל, בצלאל, שושנה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3374 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3374</bibl><bibl>Volume: #9 ,Page: 3375 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3375</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

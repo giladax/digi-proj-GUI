@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1721 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1721</bibl><bibl>Volume: #4 ,Page: 1722 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1722</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר פינסקר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>טבריה</placeName> י"ח שבט תרנ"ג (1893), כדור חמישי בארץ, לאביו<persName> ישראל בנימין פינסקר </persName> ולאמו <persName>טייבה בתיה</persName> .
+
+ בצעירותו עובר לירושלים, מוצא את דרכו אל אנשי העליה השניה, והוא מבין החמשה המקימים את מפלגת "הפועל הצעיר" בבירה. נמצא בין עוזריו של פרופיסור ב. שץ בהקמת "בצלאל". את מחיתו הוא מוצא בעבודה כפועל חקלאי.
+
+ בימי מלחמת העולם הראשונה אין הוא בין היורדים
+
+ מצרימה. לעומת זאת הוא בין המתנדבים לגדוד העברי בהתחלת כיבוש הארץ ע"י האנגלים. אחרי פירוק הגדוד העברי הוא עובד זמן מה בלשכת העבודה של מועצת פועלי ירושלים (באותה תקופה ב"נחלת שבעה"), ועד הצירים (המוסד הציוני העליון בארץ) פותח קורס ראשון
+
+
+ למדריכים. הוא משתתף בקורס ואחר סיומו הוא נעשה למורה-דרך מקצועי-פרטי לתיירים.
+
+ בשנת תרפ"ד נשא לאשה את<persName> מרים</persName> בת <persName>דוד בער</persName> <persName>שוארץ.</persName>
+
+ משנת תרצ"ח הוא מורה דרך רשמי של לשכת התיירות הציונית. בימי מלחמת העולם השניה - אלפי חיילים של צבאות בנות הברית מכירים את דרכי הארץ, עתיקותיה וחידושיה מפיו. והוא עושה את עבודתו באהבה רבה ובידיעה רבה מבלי להזדקק לסממנים זולים של הגזמות ובדיות אשר תיירים רגילים לשמוע אותם מפי מורי דרך מקצועיים.
+
+ נפטר בירושלים, ה' חשון תש"ח (19.10.47).
+
+ בנו:<persName> חגי</persName> (קריין ב"קול ירושלים").
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1721 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1721</bibl><bibl>Volume: #4 ,Page: 1722 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1722</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3842 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3842</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בן ציון אלקלעי</persName>
+
+</head>
+         <div><p> לאביו<persName> משה.</persName>
+
+ נולד ברכאט (מרוקו) בשנת תרי"ח (1858). בהיותו בן שמונה שנים חלה במחלת האבעבועות ונסתמו עיניו. מאז לא פסקו פורענויות מלבוא עליו. אביו התמסר לחינוכו והשתדל ללמדו תורה על אף שלא היה יכול לראות בעיניו.
+
+ הצטיין בכח זכרון רב ובהתמדה, והצליח לרכוש לו ידיעות רחבות בתלמוד ובנושאי-כליו. בשנת תרל"ד (1874) עלה עם אביו לא"י והשתקע בטבריה. אביו לא האריך ימים ובאותה שנה נפטר והוטל עליו לדאוג לפרנסת משפחתו.
+
+ בטבריה המשיך בלימודיו ורכש לו בקיאות גם בספרי הפוסקים וידיעות עמוקות בקבלה.
+
+ בשנת תרמ"ח (1888) נשלח בלוית עוזר כשליח קופת ר' מאיר בעל הנס בטבריה, לערי המערב הפנימי, הוא שהה שם כשנתיים וחצי.
+
+ בשנת תרנ"ה (1895) בשליחות העדה הספרדית בחיפה לצורך בנין בית-עלמין שם. יצא בשליחות לערי אלג'יר וטריפולי ועמו לקח את בנו <persName>ר' אהרן מנצור.</persName> זמן מה אח"כ בשליחות ק"ק חסידים "בית-אל" בירושלים לאלג'יר ומאוחר יותר נסע למצרים לצורך הדפסת ספריו. בשנת תרס"ב (1902) עזב את טבריה, לרגלי סכסוך עם הפרנסים שם והשתקע בחברון.
+
+ למרות שהיה סומא בשתי עינו חיבר הרבה ספרים ע"י זה שהקריא את דבריו לאחרים.
+
+ ספרו הראשון "עשיר ורש" (ספר ויכוח בין עשיר קמצן ועני אומלל). ספר ספרותי בהחלט ונועד כדי להוכיח לעשיר את חובתו במתן הצדקה. (ירושלים תרמ"ד ; תדצ"ד); הלכה רווחת, פי' על שאלות ותשובות "הלכות קטנות" של הרב<persName> יעקב חאגיז </persName> (ח"א שם תרמ"ה, ח"ב - כת"י; כסאות למשפט שו"ת ועניינים שונים (שם תרס"ג); חמדת ירושלים על מעלותיה של העיר ועל הגאולה (תרס"ט) ; קריה נאמנה דינים והלכות על-סדר א"ב (כת"י) ; שער
+
+ ציון, שו"ת (כת"י) ; "כוס עיקרים" על י"ג עיקרים (כת"י). חיבורו "עגנת עגונות" נדפס בתוך הספר "לשאלת עגונא" של הרב אפשטיין (ניו-יורק תש"א).
+
+ כשלוש שנים אח"כ עבר לירושלים.
+
+ נפטר בה כ' מנחם-אב תרע"ג. (23.8.1913).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3842 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3842</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

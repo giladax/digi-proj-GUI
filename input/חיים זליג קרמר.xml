@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2470</bibl><bibl>Volume: #6 ,Page: 2471 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2471</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים זליג קרמר</persName>
+
+</head>
+         <div><p> נולד בשנת (1880) בווילנה ("ירושלים דליטא"). לאביו <persName>יעקב</persName> (קבלן רכבות ידוע) ולאמו <persName>פסיה.</persName> בגיל צעיר נתיתם מאביו ויחד עם שני אחיו חובל ואלחנן, החלו לעסוק באספקת חומרי-בנין לצבא הרוסי. ביקר באמריקה, אך חזר לפולין, כי כזאת הבטיח לפני נסיעתו לאמו.
+
+ עם פרוץ מלחמת העולם הראשונה החל לעסוק
+
+
+ בקבלנות עבודות צבוריות ובנה את תחנות הרכבת בקו וורשה-מוסקבה. באותו זמן גם הקים בית-חרושת לייצור פרוות.
+
+ נשא לאשה את <persName>סוניה</persName> בת <persName>ראובן מוסקובסקי</persName> (מורה ואחות רחמניה, בת למנהל בית-הספר העברי הראשון בלטביה, קרובת משפחה לסופר המפורסם <persName>מריאן ז'יד).</persName>
+
+ עלה לארץ בשנת 1922, ולמרות המשבר ששרר אז בארץ-ישראל החליט להשתקע בה. חזר לפולין והחל מחסל את עסקיו. אולם כתוצאה מפשיטת-רגל שעשה אחד מהסוחרים הגדולים בוילנה, הפסיד חלק גדול מכספו, ונאלץ לשהות זמן נוסף בפולין.
+
+ בפסח 1924 הגיע לארץ, ומקץ שנה הגיעו גם משפחתו אשתו וילדיו, ומשפחת אחיו. מיד בהשתקעו בפתח-תקוה, בה קנה פרדס גדול, החל עוסק בעבודה צבורית, ולמרות שלא ידע עברית על בוריה נבחר למוסדות המנהלים של האכרים.
+
+ ב-1930 נבחר לועד-החקלאי, למועצה החקלאית ול"ועד השמירה", והיה פעיל בעניני הבטחון. נבחר למועצה המקומית של פתח-תקוה, ואחר-כך היה חבר העיריה, וחבר הועדה המחוזית לבנין ערים. כן נבחר למועצת התאחדות האכרים, והשתתף ב-1931 במשלחת אל ד"ר חיים וייצמן, נשיא הסוכנות היהודית, שבאה לקבול לפניו על קיפוח הפרדסנות.
+
+ היה בקיא בעניני הפרדסנות והפרדסים ומעורה בעסקנות האכרים. כאדם שביקר במרבית ארצות-אירופה ואמריקה הוסיף נופך משלו לצביון האכרות של אםהמושבות. היה ידוע כשחקן שח-מט מצטיין.
+
+ ביבליוגרפיה : "ממועצה מקומית לעיריה" (בעריכת בר-דרורא) ו"אם המושבות פתח-תקוה - ליובל ה-75" (בעריכת ג. קרסל).
+
+ נפטר לפתע, מהתקפת לב, בכ"ה טבת תש"ה (10.1.1945) בפתח-תקוה.
+
+ צאצאיו:<persName> זאב אלתגר</persName> (עתונאי, ראה את הערך שלו בכרך זה), <persName>רבקה</persName> אשת <persName>אריה וינריב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2470</bibl><bibl>Volume: #6 ,Page: 2471 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2471</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

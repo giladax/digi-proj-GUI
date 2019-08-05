@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 958 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/958</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד ישראלי (ישראלשטאם)</persName>
+
+</head>
+         <div><p> נולד בליבאו, קורלנד, לטביה, כ"ו טבת תרנ"ח (20.1.1898), לאביו<persName> מרדכי </persName> ולאמו<persName> רבקה</persName> בת<persName> ישעיהו</persName> <persName>ישראלשטאם.</persName> בן שמונה עבר עם הוריו ללונדון. קיבל שם חינוך יהודי וכללי בבית-ספר תיכוני ובביתספר לציור.
+
+ בתרע''ז נתקבל כפקיד ב"אוצר התישבות היהודים" בלונדון ובאביב תרע"ט הועבר לעבודה בבנק אפ"ק ביפו. במשך הזמן עלה לדרגת מזכירו של המנהל הכללי מר<persName> הופיין </persName> ובאחד ביולי 1947 עלה לדרגת סגן מנהל כללי של הבנק בארץ.
+
+ נשא לאשה את <persName>לאה </persName> בת השופט<persName> מלכיאל יצחק</persName> <persName>מני.</persName>
+
+ חלק רב לו בהתפתחות הבנק על כל סניפיו בארץ, הרבה לשקוד במרץ למען שילוב הפעולות הכלכליות של הבנק במסגרת הכללית של בנין הארץ.
+
+ בנותיו:<persName> רחלה, עדנה</persName> (ז"ל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 958 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/958</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

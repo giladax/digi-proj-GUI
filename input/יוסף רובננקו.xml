@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5352 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5352</bibl><bibl>Volume: #18 ,Page: 5353 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5353</bibl>
+<bibl>Volume: #18 ,Page: 5354 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5354</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף רובננקו</persName>
+
+</head>
+         <div><p> נולד ב<placeName>דוינסק</placeName> (לטביה) בשנת תרמ"ג (1883). לאביו<persName> נחום מנחם רובננקו </persName> (חבר הקהילה היהודית בדוינוק לפני מלחמת העולם הראשונה) ולאמו <persName>חיה ריבה.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ היה בעירו ובריגה בעל תעשייה בענף משקאות חריפים וקלים.
+
+ היה פעיל באירגון ציוני, אחרי הצהרת בלפור בעיקר.
+
+ פעל במוסדות ציבוריים וסוציאליים בעירו. בשנת 1907 נשא לאשה את<persName> רבקה</persName> בת <persName>רפאל-מאיר</persName> <persName>ברקן</persName> (נפטרה בתל-אביב, ו' כסלו תש"ט והובאה לקבורה בקרית שאול).
+
+ היה הראשון שהקים תעשייה יצרנית למשקאות קלים בתל-אביב (ביפו נוסד ביח"ר למשקאות פרימיטיבי ע"י משפחת פוטרמן בשנות העליה השניה. בשנת 1912 קנה את בית החרושת הזה<persName> דוד צבי</persName> <persName>קיפניס</persName> , ויצר משקאות קלים רגילים במשך 34 שנים - עד שביום אחד נהרג בתאונה. ראה את הערך שלו בכרך ראשון, עמוד 160).
+
+ מייסד הקיוסק הראשון לממכר משקאות קלים ברחוב הרצל פינת שדרות רוטשילד (מולו היה קיוסק - שהיה הראשון בתל-אביב של המנוח סגל, בו מכרו כל מיני ממתקים, פירות וכו'). הוא גם הקים
+
+ בית חרושת מודרני למשקאות קלים בבקבוקים וסיפונים, ואח"כ תעשיה מיוחדת למשקאות "צמפיון" בבתים.
+
+ היה ממניחי היסוד ותורם חשוב לבניין בית הכנ
+
+
+ סת "אהל רבקה" (על שם רעיתו ז"ל) ברחוב נחלת בנימין 104 בפינת וולפסון בתל-אביב.
+
+ היה יו"ר יצרני משקאות קלים בא"י בתקופות שונות עד אחרי מלחמת העולם השניה.
+
+ נפטר בתל-אביב, י"ז אדר תשט"ו (11.3.1955) והובא לקבורה בקרית שאול בתל-אביב.
+
+ בניו: <persName>מאיר רובננקו</persName> (בא כוח חברות ביטוח. ראה את הערך שלו בכרך זה); <persName>שלמה רובננקו</persName> (מנהל בחברת I.C.I.תל-אביב, ורואה חשבון מוסמך).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5352 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5352</bibl><bibl>Volume: #18 ,Page: 5353 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5353</bibl>
+<bibl>Volume: #18 ,Page: 5354 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5354</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

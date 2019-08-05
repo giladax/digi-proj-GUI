@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 576 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/576</bibl><bibl>Volume: #2 ,Page: 577 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/577</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>תנחום פראנק</persName>
+
+</head>
+         <div><p> נולד בקובנה, ליטא, כ"א סיון תרל"ז (1877), לאביו הרב<persName> יהודה ליב </persName> (מבאי-כח "אגודת קובנה" שהשתתפה ביסוד המושבה חדרה, מראשוני המתנחלים במושבה, רב ועסקן צבורי בה בשנותיה הראשונות). קיבל חינוך תורני.
+
+ כבן חמש-עשרה עלה ארצה בתרנ"ב עם הוריו וכל ביתם והתנחלו בחדרה. המשיך ללמוד זמן-מה ב"חדר" של נערים גדולים ואח"כ עוד בגיל צעיר נרתם לעול עבודת המשק. קדח וסבל, אך התאמץ להתגבר והצליח להחזיק מעמד ונשאר היחידי מבית אביו שהתקשר לחדרה ולחקלאות בה.
+
+
+ נשא לאשה את<persName> חנקה</persName> בת <persName>משה ליפקיס </persName> ממחדשי המושבה פתח-תקוה.
+
+ נטע כרמי גפנים ושקדים וזיתים, עסק בפלחה, ובשנים מאוחרות יותר נטע פרדסים ואף קיבל עליו לנהל ולעבד קרקעות של יהודים תושבי חוץ-לארץ.
+
+ עוסק בצרכי צבור במושבה זה עשרות שנים בתפקידים שונים: חבר הועד, חבר המועצה המקומית, חבר "החקלאי", "הסתדרות החקלאים" וחברת "מייסדי חדרה". ביחוד מטפל הוא בסידור השרותים הדתיים של המושבה.
+
+ צאצאיו: <persName>משה; שרגא; שלמה; אהרן; יהודה ליב</persName> ; <persName>שרה</persName> אשת <persName>יצחק ברית; חנה</persName> אשת<persName> נחום קוק; רחל</persName> אשת <persName>משה ברונפלד; מינה</persName> אשת<persName> אשר בוגדנוב</persName> .
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בחדרה, ט"ו אייר תשי''ד (5.54 18) ונקבר בירושלים (ראה כרך ב', עמוד 576)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 576 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/576</bibl><bibl>Volume: #2 ,Page: 577 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/577</bibl>
+            <bibl>Volume: #6 ,Page: 2719 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2719</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

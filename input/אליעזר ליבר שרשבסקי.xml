@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1188 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1188</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר ליבר שרשבסקי</persName>
+
+</head>
+         <div><p> נולד בזלבה, פלך גרודנה, פולין - רוסיה הלבנה, י"ז טבת תרל"ו (1876), לאביו ר'<persName> יעקב </persName> ולאמו <persName>שרה</persName> <persName>רבקה </persName> לבית <persName>בורודיצקי.</persName> למד בישיבות מיר, איישישוק, וולוזין ואח"כ החל לעסוק במסחר. היה פעיל בתנועה הציונית מבחרותו ופרסם מאמרים ב"הצפירה" ו"המליץ" ושירים ב"לוח אחיאסף".
+
+ בתרס"ו נשא לאשה את <persName> הדסה</persName> בת <persName>מאיר ברמן.</persName> בסאראטוב, מקום שם עסק במסחר בקנה-מדה גדול, היה מראשי העסקנים הציונים וב-1905 ביקר בארץ לשם חקירת האפשרות להשקעת כספים במפעלים של פיתוח כלכלת הישוב. השקיע יזמה והון ביסוד ביהח"ר ליציקת-ברזל ומכונות של <persName>ל. שטיין </persName> ביפו.
+
+ ב-1909 עלה ארצה עם משפחתו והתישב ביפותל-אביב. השקיע הון ויזמה במפעלי מסחר ובנין ופעילות צבורית ולאומית מקומית וכללית.
+
+ בשנות מלחמת-העולם הראשונה היה עם הגולים במצרים והיה פעיל בועד הגולים, ואחרי המלחמה חזר לתל-אביב. יסד את בית-החרושת הראשון לאריגה בת"א בשם הפירמה "שרשבסקי וגוטמן", בנה בתים, השתתף ביסוד אגודות הדדיות "הלואה וחסכון" בערים ובמושבות והיה במשך 10 שנים יו''ר הנהלת הלואה וחסכון בת"א ויו"ר מרכז הקואופרציה האשראית בארץ, נבחר לשופט במשפט השלום העברי העליון, פעל למען עזרה לעסקנים הציונים הותיקים ונבחר לנשיאות "ברית ראשונים", אח לשכת בני ברית "שער ציון" בת"א, מהמיסדים הראשונים של המרכז לאשראי הדדי "המרכז".
+
+ צאצאיו:<persName> אליהו</persName> (עו"ד), <persName>שרה</persName> אשת <persName>זלמן הוז</persName> (מודד מוסמך),<persName> נעמה</persName> אשת <persName>קלמן קיט</persName> (מנהל המרכז החקלאי, ומפקד אכ"א ב' בצבא ישראל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1188 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1188</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3480 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3480</bibl><bibl>Volume: #10 ,Page: 3481 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3481</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרץ ז'יטלני</persName>
+
+</head>
+         <div><p> נולד כ"ח כסלו תרס''א (דצמבר 1900) בסוקולוב שבפולין.
+
+ לאביו<persName> חנוך</persName> (אומן-עור וסוחר, מקהל החסידים) ולאמו <persName>אסתר</persName> בת <persName>זאב.</persName>
+
+ הסבא שלו לא יכול לסבול עוד את העלבונות מפרחחי הגויים ועלה לארץ ומשך אחריו את משפחתו, וכך עלה הילד<persName> פרץ </persName> עם הוריו ב-1907 (אחרי ראשית לימודים בחדר) והשתקעו בנוה שלום שביפו, והמשיך את לימודיו בשקידה בתלמוד-תורה "שערי תורה".
+
+ אחרי פרוץ מלחמת העולם ב-1914 הוגלתה משפחת <persName>ז'יטלני </persName> עם הגולים למצרים ונקלעה לקהיר.
+
+ נכנס לעבוד בבית החרושת לסיגריות "מספרו" בקהיר והתמחה בו למכונאי. אחרי המלחמה חזרה המשפחה לארץ והוא נשאר לעבוד עוד בקהיר, בשמעו שהחברה עומדת ליסד בית-חרושת בארץ, וקיוה להעברה לכאן.
+
+ ב-1921 נשא לאשה את <persName>חיה </persName> בת<persName> דב (ברל) קראווצקי</persName> (מורה לשפות).
+
+ ב-1922 ביקר בארץ בתור תייר ורכש לו מגרש ב"עיר גנים" (רמת גן). כשחזר השתדל שהחברה תעביר אותו לעבודה במפעלה החדש בארץ, אך החברה הסכימה להעבירו לכל ארץ במזרח הקרוב רק לא לארץ-ישראל. אחרי שנים אחדות איים בהתפטרות אם החברה לא תעבירו לארץ ואז נעתרה לו. ב-1927 השתכן על מגרשו ברמת גן ועבד שנתים בכינון המכונות במפעל שהקימה החברה בסוריה, ואח"כ עבד בבית החרושת של החברה
+
+
+ ביפו ובתל-אביב. בשנים 1955-1953 עבד בהתקנת מפעל "מספרו" בחיפה, ואח"כ עד סוף ימיו עבד ב"דובק" בבני ברק.
+
+ היה חבר פעיל ב"העובד הציוני" ואיכסן בביתו את אסיפות הסניף ובסוף ימיו הצטרף למפא"י. מילא את חובתו למולדת ב"הגנה" בחי"מ ובהג"א, חיבב ספר והיה חבר קבוע בחוג לתנ''ך ברמת גן.
+
+ נפטר כ''א חשון תשי''ז (26.10.1956) ונקבר בקרית שאול.
+
+ בנותיו: <persName>שרה</persName> אשת<persName> דוד ארנון</persName> (פקיד),<persName> שולמית</persName> אשת <persName>יצחק זמר </persName> (פקיד בבנק לאומי ברמת גן).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3480 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3480</bibl><bibl>Volume: #10 ,Page: 3481 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3481</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

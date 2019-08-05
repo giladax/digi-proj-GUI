@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2629 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2629</bibl><bibl>Volume: #6 ,Page: 2630 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2630</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' שמואל גיאורג צונדק</persName>
+
+</head>
+         <div><p> נולד בברונקה (גרמניה) בשנת תרנ"ד (25.10.1894). לאביו<persName> אברהם</persName> ולאמו<persName> שרה</persName> בת <persName>יוסף הולנדר.</persName>
+
+ אחיו הם הפרופסורים:<persName> מקס צונדק, ברנרד צונדק</persName> (ראה בכרך ה', עמוד 661) <persName>והרמן צונדק</persName> (ראה בכרך זה).
+
+ קבל חנוך: גמנסיה ברוגסן ואוניברסיטה בברלין (1919).
+
+ במלחמת העולם הראשונה שירת בצבא הגרמני כעוזר לרפואה בביה"ח הצבאי למחלות מדבקות וקיבל אותות הצטיינות.
+
+ משנת 1922 רופא בביה"ח הפילאנטרופי ה-2 בברלין. היה פרופ' לרפואה פנימית באוניברסיטה בברלין (1926). משנת 1933 עד 1934 עבד בבתי חולים באנגליה.
+
+ בשנת 1934 עלה לארץ.
+
+ מנהל המחלקה הפנימית בביה"ח "הדסה" בתל-אביב. כתב מאמרים רבים בפארמאקולוגיה וברפואה. ספריו: "האלקטרוליטה והשפעתה על הפיסיולוגיה" (ברלין 1927); " Elektrolyte Medikamentorse Hertherapie" )1925(; "Electrolyte und Hormone und Vitamine" )Handbuch der Biochemie von Oppenheim( 1930; "Die Elektrolyte, ihre Bedeutung fuer Physiologie, Pathologie und Therapie".
+
+
+ יש לו תמיד גישה כנה ועדינה לכל חוליו הזקוקים לעזרתו הרפואית, וכן יחסו לעוזריו הרופאים ולאחיות הרחמניות הוא חיובי.
+
+ חבר מערבת "הרפואה", עתון הסתדרות הרפואית העברית בארץ.
+
+ עומד בראש הסקציה המדעית בהסתדרות הרופאים בא"י.
+
+ עורך הרצאות מדעיות ומעשיות על יד מטות החו לים, וע''י כך הצליח לסייע הרבה לפיתוח הכשרונות של הרופאים הצעירים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2629 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2629</bibl><bibl>Volume: #6 ,Page: 2630 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2630</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

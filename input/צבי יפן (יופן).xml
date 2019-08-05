@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3372 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3372</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי יפן (יופן)</persName>
+
+</head>
+         <div><p> נולד מליטופל (רוסיה) בשנת תרנ"ט (13.2.1899).
+
+ לאביו<persName> שאול</persName> ולאמו<persName> חיה.</persName>
+
+ קבל חנוך מסורתי וכללי ובי"ס למסחר.
+
+ היה פעיל בועד "צעירי ציון" וב"החלוץ" בעירו.
+
+ עבד בתור פקיד בבית מסחר ואח"כ בתור פקיד ממשלתי.
+
+ ב-5 לדצמבר 1920 עלה לארץ.
+
+ בשנת 1925 נשא לאשה את<persName> דבורה</persName> בת<persName> אברהם</persName> <persName>גורוכוב.</persName>
+
+ עבד בשנים הראשונות לבואו לארץ בתור פועל בבנינים, בכבישים וכוי.
+
+ אח''כ בתור פקיד בחברת החשמל לישראל.
+
+ חבר בועד המרכזי של הסתדרות הפקידים, בועד עובדי חברת החשמל וחבר במועצת מנהלי חברת החשמל לישראל.
+
+ חבר במועצה מחוזית של מפלגת פועלי ארץישראל.
+
+ כל השנים חבר ההגנה.
+
+ בניו:<persName> שאול, עוזיהו.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3372 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3372</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

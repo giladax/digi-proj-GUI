@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1997 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1997</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אברהם ברתנא (אש-רובינשטיין)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ביליסטוק</placeName> (פולין), ג' בשבט תרס"ב (11.1 1902), לאביו <persName>תנא-תנחום</persName> ולאמו <persName>שרה דבורה</persName> בת<persName> סלא</persName> <persName>גונאנדסקי</persName> .
+
+ חנוך מסורתי קבל בחדר מתוקן. השכלה כללית בבית-ספר רוסי ממשלתי, בבית-ספר תיכוני ממשלתי.
+
+ חנוך גבוה בבית המדרש לרבנים בברסלאו ובאוניברסיטאות ברסלאו ובאזל. 
+
+ אחרי גמר הלימודים נכנס לעבוד בהוראה. לימד
+
+ בוילנא ובוירבאלן (ליטא). עסק בעניני הלשון והתרבות העברית. עלה ארצה בשנת 1927. בשנת 1928 נשא לאשה את<persName> רות </persName> בת<persName> משה הילנברג</persName> .
+
+ כעת הוא מנהל הגימנסיה העברית ובית הספר העממי שעל ידה. 
+
+ פעיל בהסתדרות המורים, באגודת שוחרי האוניברסיטה, בבני ברית. 
+
+ פרסם מאמרים בעתונות הפדגוגית והמדעית.
+
+ היה חבר ב"הגנה" וב"משמר העם".
+
+ צאצאיו: <persName>אוריאל </persName> (חבר קבוץ בנגב), <persName>שרה אריאלה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1997 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1997</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

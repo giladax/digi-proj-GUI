@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3834 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3834</bibl><bibl>Volume: #11 ,Page: 3835 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3835</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב נסים דנון</persName>
+
+</head>
+         <div><p> נולד בירושלים, ד' אב תרע"ב (18.7.1912). לאביו הרב<persName> נסים יהודה דנון</persName> , חכם באשי וראשון לציון, האחרון בשלטון העותמני (ראה את הערך שלו בכרך זה) ולאמו<persName> זהבה</persName> בת<persName> יעקב ספורטה.</persName>
+
+ קיבל חינוך מסורתי, עממי ותיכוני בבית הספר כי''ח (אליאנס)) ובגמנסיה הריאלית בירושלים. כלכלה באוניברסיטת מנשסטר באנגליה.
+
+ היה חבר ההגנה משנת 1926.
+
+ בשנת 1936 נשא לאשה את<persName> חנה</persName> בת<persName> בלה ויספיש.</persName> היה מנהל חברת פרודנשל וביטוח בע"מ בירושלים.
+
+ בימי ממשלת המנדט הבריטי בארץ סייע למתן הלוואות גדולות למוסדות שונים של משקיעים מחו"ל לפיתוח תעשיות ושיכונים בארץ.
+
+ מנהל כללי "בנין" חברה לביטוח בע"מ.
+
+ חבר מועצת הביטוח שליד שר האוצר, חבר הועדה לביטוחים ממשלתיים, חבר הועד המרכזי של איגוד חברות לביטוח.
+
+ סגן נשיא מועדון רוטרי תל-אביב-יפו דרום.
+
+ השתתף במלחמת הקוממיות בירושלים כסגן מגד.
+
+ צאצאיו: <persName>סגלה דנון</persName> (בקטריולוגיה ,M.S.C.אוניברסיטת ירושלים), <persName>יהודה דנון.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3834 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3834</bibl><bibl>Volume: #11 ,Page: 3835 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3835</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

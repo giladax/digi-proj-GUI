@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 956 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/956</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים ברוך יהודאי-קסטריל</persName>
+
+</head>
+         <div><p> נולד בקובנה, ליטא, בשנת תרל"ז (1877),לאביו <persName>יהודה </persName> ולאמו<persName> לאה</persName> . קיבל חינוך מסורתי ואח"כ עבד כפקיד בבית-מסחר למכולת בדווינסק והיה פעיל בארגוני הנוער הציוני וביחוד בהסתדרות "צעירי ציון".
+
+ נשא לאשה את <persName>שר</persName> ה בת<persName> זלמן ויירון.</persName>
+
+ בתרס"ג עלה ארצה עם משפחתו. עבד כשנה כפועל חקלאי ואח"כ פתח בית-מלון עממי ביפו לבני
+
+ המושבות הבאים לסדר ענינים בעיר ולעולים חדשים. בני העליה השניה, שברובם באו ארצה בחוסר כל, קיבלו במלון זה איכסון וכלכלה "על הפנקס" על מנת שישלמו לכשתשיג ידם, ובעל האכסניה, שהיה ידוע בשמו הקצר<persName> חיים ברוך</persName> , בלי כל שם-משפחה
+
+ או שם-לואי אחר, היה אב וחבר לעולים. לא דקדק עמהם ולא הציק להם בעניני תשלום. ו"המסודרים" כבר בעבודה חקלאית כשכירי-יום במושבות (בזמן שיש להם עבודה) היו נפגשים בביתו לשיחות ולאספות בעניני סידור בעבודה וארגון לשיפור מעמדם, והוא היה משתתף עמהם בעצה ובעזרה כאחד החברים. בביתו הונח היסוד למפלגת "הפועל הצעיר" ואף הוא היה חבר בה. בביתו נערכו התיעצויות הפועלים החלוצים להגנה על הישוב בעיר מפני התפרעות אנשי-הפקר ערבים שניסו להראות את כוחם ליהודים, וכאן הוכנה התקפת-הנגד על הפורעים התימנים (מהגרים מוסלמים מתימן שבאו לחפש את מזלם ביפו) שהיו מציקים ליהודים, ובעיקר ליהודיות, שמצאו בודדים בשטחי השממה שבין הבתים הבודדים בקצר. העיר. ובפורים שנת תרס''ח הכום הבחורים היהודים ליד מלון חיים ברוך שוק על ירך, ואף לערבים שבבית-הקפה הסמוך ולשוטרים שבאו לעזרתם הוסיפו מכות לרוב.
+
+ נפטר בירושלים, ו' אלול תרפ"ז.
+
+ צאצאיו:<persName> יהודה</persName> (ז"ל), <persName>משה, שושנה </persName> אשת<persName> זלמן</persName> <persName>מרגלית, מרים</persName> אשת<persName> יעקב זאבי, זלמן, נדב, עדה</persName> אשת <persName>שלמה רובינשטיין.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 956 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/956</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

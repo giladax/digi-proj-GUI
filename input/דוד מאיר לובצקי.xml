@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 647 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/647</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד מאיר לובצקי</persName>
+
+</head>
+         <div><p> נולד בניסוויז, פלך מינסק (רוסיה הלבנה), בי"ח חשון תרכ"ד (1863), לאביו <persName>יהודה-ליב.</persName> קיבל חנוך מסורתי ועוד בגולה החל לעסוק בחקלאות, התמחה במיוחד בירקנות. שאף לעלות לארץ ולעבד את אדמתה ולמטרה זו חסך כל ימיו כדי לצבור סכום מספיק לרכישת משק.
+
+ בשנת תרע"ב (1912) עלה לארץ עם בנו בכורו <persName>שמואל</persName> וקנה את משקו של ר' משה מהרש"ק בגדרה בסכום של 20 אלף פרנק זהב. בנו נשאר לנהל את המשק והוא עצמו חזר לפולין כדי לחסל את עסקיו. לאחר
+
+ שעשה שם כחצי שנה בא לארץ עם אשתו<persName> גולדה</persName> , שתי בנותיו ובנו הצעיר.
+
+ הסתגל במהרה לתנאי המקום והיה חקלאי למופת. משקו התפתח יפה ולכרמיו ולרפתו יצאו מוניטין בסביבה כולה. במרוצת הזמן העלה לארץ רבים מבני משפחתו בפולין. את זמנו הפנוי הקדיש לפעולה צבורית. כיהן זמן
+
+ רב כחבר ועד המושבה ומילא את תפקיד הגזבר. היה ממייסדי "הלואה וחסכון" במקום וגבאי בבית הכנסת, הושיט עזרה לכל נצרך.
+
+ נפטר ונקבר בגדרה בי"א כסלו תרצ"ח.
+
+ צאצאיו:<persName> שמואל, משה, רינה לרנר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 647 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/647</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

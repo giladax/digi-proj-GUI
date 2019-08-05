@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 65 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/65</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שבתי יהושע</persName>
+
+</head>
+         <div><p> בן גבריאל, נולד בשנת תקע"ג (1813). משפחתו מתיחסת למשפחת קאלבריזיס הידועה. בהיותו בן חמש
+
+ שנים התיתם מאביו. התפרסם כאחד מגדולי רבני זמנו. היה חריף, בקי ומקובל. בפי רבני זמנו היה מכונה בשם "חסידא קדישא". מעולם לא למד עם איש בטרם ידע מי הוא ומה מדותיו. בשנת תרכ"ח (1868) עלה לא"י והשתקע בירושלים. נחשב לאחד מראשי הישיבות "בית אל" ו"חסד אל" בעיר העתיקה בירושלים. כל רבני ירושלים שהכירוהו הפליגו בשבחו. בין תלמידיו נחשבים הראש"ל הרה"ג ר' יעקב מאיר, ר' בכור אהרן אלנקוה, ר' שמואל בנבנשתי, ר' יצחק פראנסיס ואחרים. הרבה לתת מתנות בסתר. למרות שחי בצמצום אסף כספים רבים בשביל בעלי-בתים ותלמידי-חכמים צנועים. הראש"ל הרב יעקב שאול אלישר מזכירו לשבח בספריו "איש אמונים" ו"שמחה לאיש". נפטר בירושלים בי"ח בטבת תרמ"א (1881). אשתו רחל בת ר' משה לבית מילו נפטרה ה' תשרי תרמ"ג (1882).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 65 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/65</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1997 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1997</bibl><bibl>Volume: #4 ,Page: 1998 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1998</bibl>
+<bibl>Volume: #4 ,Page: 1999 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1999</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה נורוק</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קורשאני</placeName> (ליטא) י"א חשון תרס''ה (1904. 10. 20), לאביו<persName> יעקב</persName> (מותר בתבואות ובעצים; ממשפחת רבנים וסוחרים) ולאמו<persName> זיסה אלכסנדרה</persName> בת ר' <persName>דב בר ליפשיץ</persName>
+
+ למד בישיבת לידא מיסודו של הרב<persName> יצחק יעקב</persName> <persName>ריינס </persName> ובגימנסיה עברית בשאוולי, ואח"כ עזר זמן קצר בעסקי המסחר של המשפחה.
+
+ עלה לארץ ב-4.8.1924. ויסד בית-חרושת למרצפות ומוזאיקה. מנהל בית חרשת למיצים וריבות "עספרי" בע''מ. ב-1925 יסד יחד עם מר <persName>אבא אידלזק</persName> בתל-אביב את המשרד הראשון בארץ לניהול בתים של תושבי חו"ל משקיעי הון בבנין בארץ. ב-1934 פיתחו את העסק<persName> לבנק נורוק-אידזלק</persName> <persName>בע"מ,</persName> ואחרי כמה שנים שינו את שמו<persName> לבנק שרון</persName> <persName>לבנין ומסחר בע''מ</persName> ומנהלים אותו עד היום. 
+
+ ב-1937 יסד את חברת "נורטוב" לפיננסים ואחריות להצלת הון יהודי מליטא, לטביה ופולין. ב-1947 יסד את שכונת "גבעת חולון" (בין חולון ומולדת), חוילות מאוחדות בע"מ ו"אמריקן פלשטיין קונסטרוקשאן קורפוריישן".
+
+ נשא לאשה את<persName> רחל</persName> בת<persName> זלמן הכהן יודייקין</persName> .
+
+ השתתף בפעילות צבורית בתנועה הרביזיוניסטית והיה ציר לקונגרס הרביזיוניסטי בוינה ב-1934. חבר בועד בית יתומים ויתומות בת''א (מיסודו של <persName>א. ל</persName> <persName>כלובשטיין</persName> ז''ל), חבר בלשכת הבונים החפשים "שרון" ובועד לשכת הבונים החפשים "אביבי".
+
+ חבר המועצה הארצית של הציונים הכלליים בישראל.
+
+ צאצאיו: <persName>יעקב, עדנה.</persName> (תלמידי בית-ספר למסחר בת"א).
+
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ט"ו אייר תשט"ו (7.5.55) (ראה כרך ד', עמוד 1998)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1997 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1997</bibl><bibl>Volume: #4 ,Page: 1998 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1998</bibl>
+<bibl>Volume: #4 ,Page: 1999 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1999</bibl>
+            <bibl>Volume: #7 ,Page: 2970 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2970</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3334 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3334</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ברוך גלעדי (פוגלסון)</persName>
+
+</head>
+         <div><p> נולד בשנת תרע"ז (4.12.1916) באומאן שבאוקראינה.
+
+ לאביו ד"ר<persName> מרדכי גלעדי</persName> (ראה כרך ג', עמוד 1427) ולאמו<persName> חמדה </persName> (ראה כרך א', עמוד 363) בת <persName>מיכאל רו</persName> <persName>בינשטיין.</persName>
+
+ בן שלש עלה לארץ עם הוריו בסוף 1919. למד בתל-אביב בגימנסיה הרצליה ובבית-הספר התיכוני למסחר, אח"כ באוניברסיטה האמריקאית בבירות ובביתהספר הממשלתי למשפטים בירושלים, הוסמך לעורךדין, עסק במקצועו ונתקבל לחבר הבאר האנגלי.
+
+ במלחמת העולם שירת בדרגת קפטן בצבא הבריטי, שימש בו כיועץ משפטי ותובע כללי והשתתף במשפטי פושעי המלחמה שנדונו באירופה.
+
+ ב-1947 נתמנה לשופט שלום. שימש זמן-מה בתפקיד רשם בית-המשפט המחוזי בתל-אביב, ונתמנה שופט שלום ראשי בתל-אביב.
+
+ ב-1951 נשא לאשה את<persName> ינינה</persName> בת <persName>לאון גוטסמן.</persName>
+
+ כשופט עליו לדון עבריינים פליליים למאסר, אך כאדם, וביחוד כאח פעיל בבנאות החפשית, ראה חובה לעצמו לפעול גם למען החזרת העבריינים לאורח-חיים תקין והוגן ולהקל עליהם את החזרה למוטב. יעודו זה הוא ממלא בתור יו"ר ועד האגודה לשיקום האסיר והעבריין בתל-אביב.
+
+ להזמנת ההסתדרות הציונית בדרום-אפריקה ערך שם מסע-הרצאות ב-1950, ואח"כ ב-1956 נשא בארה"ב שורת הרצאות ברדיו ובטלוויזיה על בעיות העבריינות בארץ ובענינים כלליים.
+
+ צאצאיו: <persName>מיכאל, תמר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3334 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3334</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

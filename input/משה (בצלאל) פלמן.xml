@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3271 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3271</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה (בצלאל) פלמן</persName>
+
+</head>
+         <div><p> נולד ב-ט"ז אייר תרס"ז (30.4.1907) בנוה שלום שביפו.
+
+ לאביו<persName> חייקיל אריה-ליב פלמן</persName> (מראשוני העיר תלאביב, ראה בכרך זה) ולאמו<persName> אסתר</persName> בת <persName>אברהם יצחק לוי</persName> מירושלים.
+
+ נקרא בשם<persName> משה בצלאל </persName> על שם העסקן הציבורי בישוב הישן של יפו, ר' <persName>משה בצלאל טודרו</persName> <persName>סוביץ </persName> (אביו של<persName> דוד תדהר </persName> ראה כרך א', עמוד 412). למד בתלמוד תורה "שערי תורה", בבית-הספר "תחכמוני" ואח"כ בבית-הספר לבנים. אחרי גמר לימודיו יצא לעבודה, הצטרף לתנועת "הנוער העובד" ונעשה אחד מפעיליה וממדריכיה מקודם בתל-אביב ואח"כ ברחובות. מתוך מסירות לרעיון ולמשימות תבע הרבה מעצמו ומחבריו וכמופת אישי הפיק מהם את המכסימום בהתכוננות להגשמה בהתישבות חקלאית.
+
+ התנחל עם חבריו בקבוצת נען שליד רחובות, וגם כאן התמסר בשקידה וללא-לאות לביסוס המשך ולעיצוב דמותה החברתית של הקבוצה ולחינוך דור ההמשך בתנועה.
+
+ נשא לאשה את <persName>שרה</persName> בת<persName> יעקב מאיר כהן </persName> מירושלים. עמלו הרב הרס את בריאותו וקירב את קצו בדמי ימיו.
+
+ נפטר בנען, כ"ח אייר תש"ה (11.5.1945).
+
+ בניו:<persName> שאול, משה דוד </persName> (בטכס הברית נקרא בשם <persName>דוד, </persName> וכשמת אביו אחרי שעות מספר הוסיפו לו את השם <persName>משה</persName> לזכר אביו).
+
+ על גבעה הנשקפת על הסביבה בנען הקימו לזכרו "בית משה", בית לתרבות ולחינוך הדור הצעיר.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3271 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3271</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

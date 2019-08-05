@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4480 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4480</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל שטיינברג</persName>
+
+</head>
+         <div><p> נולד בוונסובה (פולין), בשנת תרנ"ד (3.3.1894).
+
+ לאביו<persName> אברהם פנחס שטיינברג</persName> ולאמו <persName>שרה רבקה</persName> <persName>בת משה לבקוביץ</persName> . קבל חינוך מסורתי בחדר ובישיבה באוסטרוב-מאז.
+
+ וחינוך כללי ופדגוגי בקורסים ממשלתיים למורים בלומז'ה (פולין) ועמד בבחינות למורים מוסמכים לבתי ספר יסודיים ממלכתיים.
+
+ עסק בעירו בתור מורה.
+
+ בשנת 1915 נשא לאשה את<persName> חנה</persName> בת<persName> יעקב פיוול</persName> (שראגא) מלאך.
+
+ היה חבר ועדות קק''ל וקהי"ס באוסטרוב-מאז., חבר המועצה של פועלי ציון-צ.ס. בפולין עד שנת 1939.
+
+ היה חבר המרכז של "העובד".
+
+ היה חבר מרכז מפ"ם בפולין בשנות 1948-50.
+
+ בשנת 1950 עלה לארץ.
+
+ בארץ הוא ממשיך במקצועו - מורה מוסמך בבי"ס יסודי.
+
+ חבר ועד הארגון של עולי זארומב בישראל.
+
+ חיבר ספרים: "קינדער לידער און רעטענישן"
+
+ (אידיש) (בהוצאת "נידערשלעזיע 1948), "העברעיזמען אין דער שפראך" (1949), "ממעין החכמה של עם ישראל" (בעברית ובאידיש, הוצאת י. ל. פרץ, ת"א 1962).
+
+ צאצאיו:<persName> זלמן </persName> (נספה בידי הנאצים),<persName> לנה</persName> אשת <persName>יהושע זינגר, רבקה</persName> (נספתה ע"י הנאצים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4480 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4480</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

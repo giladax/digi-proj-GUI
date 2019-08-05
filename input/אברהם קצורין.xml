@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 173 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/173</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם קצורין</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תר"ד (1844), לאביו שאול, ממשפחה שעלתה מאנגליה בראשית המאה ה-19. (עלו לאנגליה מפלך מוהילוב, רוסיה)
+
+ (אחותו<persName> ליבא דבורה</persName> היתה אשתו של <persName>מיכל הכהן.</persName> עורך ה"אריאל" וחבר מערכת "הלבנון- ו"החבצלת" בירושלים). למד ב"חדר" ובישיבה, ואחרי נשואיו
+
+ תחל עוסק בקבלנות בנין והיה מבוני שכונת נחלת שבעה בירושלים.
+
+ בשנת תרנ"ו עבר ליפו ובנה בשוק אל-דיר טחנה פרימיטיבית שהופעלה בכוחות-סוסים, מהראשונות ביפו. בשנת תר"ס הנהיג חידוש עצום בארץ במקצוע הטחינה, כשהביא מאנגליה מנוע מיכאני הפועל בכח דלק של נפט, ובזה היה החלוץ לטחינה באמצעים מודרניים בארץ. בחדשים הראשונים סבל בגלל חששות-ההבל של לקוחותיו הערבים, שפחדו להביא אליו חטה לטחינה, פן יורגש ריח הנפט בקמח... אך במשך הזמן הצליח להסביר להם, כי כשם שעד עתה לא הורגש ריח הסוסים בקמח כך גם ריח הנפט לא יורגש, ואחרי שראו כי אמנם נכונים דברי הטוחן היהודי - סברו וקיבלו.
+
+ בניו <persName>דב-בר וזלמן</persName> עזרו לו בעבודה והתמחו במקצוע, וכשגדלו בניו <persName>מנחם ויצחק</persName> הצטרפו גם הם לעסק, וכך תפסה המשפחה עמדה של חלוצים מומחים בהקמת טחנות-קמח בארץ והמשיכו בניהול המפעל.
+
+ נפטר בירושלים, י"ח אייר תרס"ה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 173 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/173</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

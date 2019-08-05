@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4718 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4718</bibl><bibl>Volume: #15 ,Page: 4719 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4719</bibl>
+<bibl>Volume: #15 ,Page: 4720 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4720</bibl>
+<bibl>Volume: #15 ,Page: 4721 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4721</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גצל הכהן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וילנה</placeName> (רוסיה), בשנת תר"כ (1860).
+
+ לאביו הרב אליהו משוועקסנא-פולניה. (מצאצאי הרב מוילנה זצ"ל) ולאמ<persName>ו ניישה.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה. השתלם
+
+
+ במינכן בגרפיקה, ארכיאולוגיה ומטבעות היהודים.
+
+ בשנת תר"מ (1880) עלה לארץ והתישב בירושלים.
+
+ עבד כסופר סת"ם.
+
+ היה מיוזמי ובונה שכונת "עזרת ישראל".
+
+ היה סוכנו של סיר משה מונטיפיורי (מלונדון) ברכישת עתיקות ומטבעות עבורו.
+
+ נשא לאשה את <persName>ביילה </persName> בת <persName>יעקב זונדעל קרויזר</persName> (נפטרה בירושלים).
+
+ יסד את "בית האכספורט לעתיקות" בירושלים, והיו מוכרים למוזיאונים ולאספנים פרטיים בחו"ל, בעיקר באנגליה.
+
+ עבד יחד החלפנים בימים ההם: <persName>שמואל רפאלי</persName> (רפאלוביץ, ראה כרך א' עמוד 100) <persName>ויצחק ליפקין</persName>
+
+ ומיסד שכונת אבו-בסל בירושלים. ראה כרך א', עמוד 297).
+
+ נפטר בבירות (לבנון) י"ב אלול תרנ"ט (1899).
+
+ צאצאיו (מאשתו הראשונה):<persName> אליהו הכהן</persName> (נהרג במלחמת העולם הראשונה -כחיל מגויס בא"י בצבא
+
+ התורכי) ;<persName> הירש הכהן</persName> (נפטר בפריז בשנת 1940) ; <persName>יהודה הכהן </persName> (בארצות הברית) ;<persName> אליעזר הכהן </persName> (נהרג במלחמת העולם הראשונה כחיל בצבא הצרפתי).
+
+ מאשתו השניה:<persName> יונה </persName> ז"ל אשת <persName>אברהם כהן;</persName> <persName>יוסף כהנר</persName> (אגרונום. ראה את הערך שלו בעמוד 4710) ;<persName>ברוך אמציה כהן </persName> (ראשון לציון). 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4718 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4718</bibl><bibl>Volume: #15 ,Page: 4719 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4719</bibl>
+<bibl>Volume: #15 ,Page: 4720 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4720</bibl>
+<bibl>Volume: #15 ,Page: 4721 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4721</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

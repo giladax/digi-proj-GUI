@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1132 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1132</bibl><bibl>Volume: #3 ,Page: 1133 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1133</bibl>
+<bibl>Volume: #3 ,Page: 1134 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1134</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים טוב</persName>
+
+</head>
+         <div><p> נולד במוזייקי, מחוז שאולי, ליטא, בשנת תרנ"ט (13.3.1899), לאביו <persName>בן-ציון יהודה ליב</persName> (תלמיד-חכם, סוחר) ולאמו <persName>צירל</persName> בת<persName> אליעזר גולדמן </persName> (ממשפחת הרב <persName>ליכטנשטיין</persName> מטוקום). למד בחדרים ובישיבת טלז, גמר בית-ספר למסחר בוילנה והמשיך ללמוד משפטים באוניברסיטת פטרבורג. מגיל צעיר החל לפעול בתנועות-נוער ציוניות והיה חבר הועד המקומי בריגה והמרכז של "צעירי ציון" בלטביה.
+
+ ב-1919 נשא לאשה את<persName> שושנה</persName> בת<persName> קופל לולוב,</persName>
+
+ עבד בריגה בחברת הביטוח "פניקס" והשתתף בפעילות ציונית וצבורית ביסודו ובניהולו של מועדון התרבות על שם ביאליק, ביסוד האוניברסיטה העממית
+
+ שליד ההסתדרות הציונית, היה חבר ההנהלה בחברות "ביקור חולים" ו"מלביש ערומים", חבר ועד ההורים והועד המפקח של הגימנסיה העברית.
+
+ ב-1932 עלה לארץ, (ביקור קודם ב-1922), וניהל בחיפה את מחלקת הביטוח העממי בסניף חברת פניקס" הוינאית, שהתנהל לפי הסכם שבין החברה ובין הקהק"ל. ב-1935 יסד בתל-אביב את חברת הביטוח ''ציון", ליד בנק בלגיה - א"י, ההקשר עם מוסדות תרבות והקציב מהכנסות החברה להחזקתם (ביניהם: הברית העברית העולמית) והעסיק בעבודות החברה סופרים ועסקני צבור מתנדבים (ד"ר שאול טשרניחובסקי ולצקי ברטולדי) ששחרורם מדאגות פרנסה בדרך זו נתן להם את האפשרות להתמסר לעבודה לטובת הכלל כחפצם. ב-1938 יסד יחד עם הבנקאים <persName>שלמה</persName> <persName>נורוק ואבא אידלזק</persName> את חברת הביטוח "נור-טוב", שפעולתה נפסקה בגלל מלחמת-העולם השנית. התמסר לארגון מחלקת העזבונות של הקהק"ל ובהשתדלותו הועברו לטובתה הרבה עזבונות בסכומים גדולים. ב-1942 יסד את החברה "יודפת" שרות א"י לביטוח בע"מ, נציגת החברה ללויד'ס לונדון בארץ, והקים לה סניפים בירושלים ובחיפה.
+
+ בארץ היה חבר פעיל במפא"י עד 1938, עבר לציונים הכלליים וכיום פעיל במפלגה הפרוגרסיבית.
+
+ ממיסדי לשכת הבונים החפשים "אביב" בת"א ואח בלשכת "השרון", מפעילי המשמר האזרחי במלחמתהעולם השנית.
+
+ בניו:<persName> ברוך</persName> (מראשוני קבוצת הדייגים חולתא ליד אגם החולה, התנדב לחיל התעופה הבריטי במלחמתהעולם השנית ומשרת בתור קצין גבוה במטה הכללי של חיל האויר הישראלי במלחמת שחרור המולדת). <persName>צבי </persName> (היה חבר בפלוגת וינגייט לריסון הטרור הערבי
+
+ במהומות 1936/38, התנדב במלחמה לבריגדה העברית, השתתף בפעולות לארגון ההעפלה והיה קצין במטה הכללי של פלמ"ח וכיום משרת בצבא הגנה לישראל בתפקידים חשובים). 
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1132 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1132</bibl><bibl>Volume: #3 ,Page: 1133 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1133</bibl>
+<bibl>Volume: #3 ,Page: 1134 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1134</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

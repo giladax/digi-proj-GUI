@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1310 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1310</bibl><bibl>Volume: #3 ,Page: 1311 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1311</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב ד"ר מרדכי פוגלמן</persName>
+
+</head>
+         <div><p> נולד בפרמישלאן, מזרח גליציה, א' תשרי תרנ"ח (1897), לאביו <persName>מנחם נחום</persName> (מצאצאי הרמ"א - הר' משה איסרלש -, הב"ח - הרב יואל סירקוש, מחבר הפירוש "בית חדש" על יורה דעה -, השל"ה
+
+
+ הרב ישעיהו הלוי הורביץ, מחבר המפר "שני לוחות הברית" - וההפלא"ה - הרב פנחס הלוי הורביץ, ראש ישיבה בפרנקפורט ע"נ, מחבר פירוש על הש"ס) ולאמו<persName> זיסל יוטא</persName> בת ר' <persName>יצחק אייזיק פפר</persName> .
+
+ למד בישיבות בפולין ואצל דודו מגדולי הדור, הגאון מהרש"ם (הרב שלום מרדכי שוודרון, רב וראש ישיבה בברזאן, מחוז סטניסלב, גליציה המזרחית), והוסמך לרבנות על ידי רבותיו ואחרים מגדולי הרבנים
+
+ בפולין, גמר את המחלקה לספרות ולפילוסופיה באוניברסיטת פירנצי, איטליה, והוסמך, לד"ר לספרות.
+
+ בתרפ"ז נשא לאשה את <persName>בילה</persName> בת <persName>צבי יהודה לא.י.</persName> נבחר לרב ראשי לקהלת קאטוביץ, בירת שלזיה הפולנית, שקד על שיפור השרותים הדתיים והחינוך הדתי והלאומי, היה מפעילי "המזרחי" בין רבני פולין והמשיך בעבודות מחקר וספרות בתורה ובחכמת ישראל.
+
+ הצליח להמלט מפולין עם משפחתו אחרי הכיבוש הגרמני, עלה ארצה בשנת ת"ש ונבחר לרבה של קרית מוצקין.
+
+ פרסם כ-300 מאמרים ומחקרים בתלמוד והלכה, בספרות והיסטוריה, עיון ומחשבה ישראלית בכתבי-עת, מאספים, ירחונים וקובצים לתורה, למדע ולספרות ישראל בעברית ובלשונות לועזיות בארץ ובחו"ל ("הצופה לחכמת ישראל", בודאפשט ; הירחון "סיני", ירושלים, ועוד). ביניהם מחקריו על "הלכה למעשה", "מדת דרך ארץ וההלכה", "מנהג המקום ומנהג המדינה", "ההיסטוריוגרפיה היהודית של ימינו", "שלא תשתכח תורה מישראל", "מפטיר כנסיות", "ברכת כהנים", "הגהות הגר"א", ועוד ועוד. מכין לדפוס חידושים וביאורים לכל תלמוד בבלי ולחלק מהירושלמי.
+
+ בתו: <persName>לאה נעמי</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1310 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1310</bibl><bibl>Volume: #3 ,Page: 1311 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1311</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

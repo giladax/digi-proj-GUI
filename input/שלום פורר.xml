@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4270 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4270</bibl><bibl>Volume: #13 ,Page: 4271 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4271</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלום פורר</persName>
+
+</head>
+         <div><p> נולד באורהי (רוסיה), כ"ה שבט, תרע"א (23.2.1911). לאביו <persName>בן-ציון פורר</persName> ולאמו<persName> בתיה</persName> לבית <persName>אנטין.</persName>
+
+ קיבל חינוך מסורתי.
+
+ בשנת 1921 עלה לארץ והמשיך ללמוד בגימנסיה העברית הרצליה. אח''כ באוניברסיטה של טורונטו בקנדה, וקיבל תואר של מהנדס B.ASc, A.M.I.C.E.
+
+ מהנדס העיר נתניה.
+
+ חבר מכון המהנדסים האזרחיים הבריטי.
+
+ חבר אגודת האינג'ינרים והארכיטקטים בישראל. נשיא מועדון רוטרי,
+
+
+ בשנת 1958 נשא לאשה את<persName> אלה</persName> לבית <persName>פרדס.</persName>
+
+ בשנים 1941-46 שירת בחיל המהנדסים המלכותיים בצבא הבירטי בדרגת קפטן.
+
+ בשנים 1948-50 רב-סרן בחיל ההנדסה בצה"ל.
+
+ כל השנים חבר ההגנה.
+
+ בנותיו: <persName>רות, נעמי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4270 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4270</bibl><bibl>Volume: #13 ,Page: 4271 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4271</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

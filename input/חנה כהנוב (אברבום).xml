@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3309 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3309</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חנה כהנוב (אברבום)</persName>
+
+</head>
+         <div><p> נולדה בניסן תרנ"א (אפריל 1891) בצפת.
+
+ לאביה<persName> אברהם חיים אברבום</persName> ולאמה<persName> אסתר לאה</persName> בת <persName>יעקב ליב קניבר.</persName>
+
+ למדה בבית-הספר לבנות של חברת כי"ח בצפת, הצטיינה בלימודים, נשלחה להשתלמות בבית-המדרש למורים של החברה בפאריס והוסמכה למורה.
+
+ ב-1910 נישאה <persName>לאליהו כהנוב</persName> (ראה ערכו בכרך זה). בשנים 1925-1918 היתה מנהלת בית-הספר לבנות של חברה כי"ח בדמשק, ואח''כ מנהלת בתי-ספר לבנות של החברה בתל-אביב ובירושלים, עד שיצאה לפנסיה. לאות הוקרה על פעולתה למען התרבות הצרפתית במזרח הקרוב ניתן לה התואר "קצין האקדמיה הצרפתית".
+
+ זה שנים רבות אחות במסדר בני ברית, נשיאה לשעבר של לשכת בנות ברית בירושלים וחברה בלשכה הגדולה של המיסדר; חברה בועד הפועל של הסתדרות הציונים הכלליים בישראל.
+
+ צאצאיה:<persName> יעקב</persName> (מהנדס ראשי של חברת "של" בישראל), <persName>יצחק </persName> (סוחר בירושלים), <persName>שפרה</persName> אשת<persName> דניאל</persName> <persName>שר</persName> (עתונאי וסופר).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3309 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3309</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

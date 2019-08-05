@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 260 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/260</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי ברנשטיין</persName>
+
+</head>
+         <div><p> נולד במונשטי, רומניה, בשנת תרכ"ב (1862), לאביו <persName>דוד.</persName> למד ב"חדר" ובישיבה והגיע לידיעה רבה בתורה.
+
+ הצטרף בבחרותו לתנועת חיבת ציון והיה חבר פעיל בארגון "צעירי ציון" במוינשט, שיסד גיסולעתיד ר' <persName>דוד שוב</persName> . השתתף בתנועה לארגון העליה
+
+ ברומניה, ובתרמ"ב עלה ארצה עם אשתו והיה ממיסדיה וחלוציה של המושבה ראש-פנה. השתתף באדר תרמ"ג בחיבור התקנות לסידור העבודה, נשא את חלקו בסבלם של הראשונים, בשכול, במחסור ובמצוקה, עסק בצרכי צבור באמונה כחבר ועד המושבה, חבר במשפט השלום העברי המקומי, בהנהלת הסינדיקט של מגדלי הטבק, ועוד. עבד את משקו בשקידה ובמסירות והנהיל לצאצאיו את החיבה לקרקע ולעבודה במשק, שהשקיע בו את מיטב אונו בשנות-חיים רבות עד ימיו האחרונים.
+
+ שרת את המושבה כחזן ובשאלות תורה ודת קיבלו את דעתו כאילו היה רב, כי אכן ידוע היה כתלמידחכם וחביב ומכובד על כולם.
+
+ נפטר בראש-פנה, כ''ז סיון תרצ"ד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 260 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/260</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

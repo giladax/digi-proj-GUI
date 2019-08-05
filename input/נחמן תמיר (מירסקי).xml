@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3069 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3069</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחמן תמיר (מירסקי)</persName>
+
+</head>
+         <div><p> נולד באב תרע"ג (16.8.1913) בפינסק שברוסיה הלבנה (פולין).
+
+ לאביו <persName>ישראל</persName> בן הרב <persName>מרדכי-יעקב מירסקי</persName> ולאמו <persName>מלכה</persName> בת <persName>שלמה קפלן.</persName>
+
+ גמר גימנסיה "תרבות" בפינסק והמשיך בלימוד מדעי היהדות בוארשה. נכנס לעסקנות ב"השומר הצעיר" (נבחר להנהגתו הראשית בפולין, ערך את עתונו "המצפה", יצג אותו במרכז "תרבות" וחיבר באידית ספר הדרכה למדריכים, שיצא ב-1933 בוארשה.
+
+ ב-1934 נשא לאשה את <persName>טובה</persName> בת <persName>אנשל גורמן.</persName>
+
+ באותה שנה עלה לארץ. הצטרף לקיבוץ השומר הצעיר "במסילה" והיה מפעיליו ומראשוני המתישבים בנקודת מסילות שבעמק בית-שאן. אח"כ עבר לענף שרותים וארגון, עבד במזכירות מועצת פועלי נס ציונה והיה שם כתב "דבר", "הדור" ועתונים אחרים, היה מנהל מחלקת התרבות של מועצת פועלי חיפה, עורך ירחונה "לחוץ" ונציג שרות השידור "קול ישראל" לצפון הארץ. נבחר לקונגרס הציוני ה-20 ויצא בשליחות ההסתדרות הכללית לארצות-הברית ובשליחות "האיחוד העולמי" לארצות דרום-אמריקה (ב-1950 וב-1954). עבר לעבוד בועד הפועל של ההסתדרות, תחילה כמנהל מחלקת ההסברה, אח"כ כעורך ירחון ההסתדרות "החודש" ומנהל המחלקה לתיור.
+
+ היה פעיל ב"הגנה" ובמלחמת השחרור בדרגת סר בצה"ל.
+
+ צאצאיו: <persName>אלדמע, נעמי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3069 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3069</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

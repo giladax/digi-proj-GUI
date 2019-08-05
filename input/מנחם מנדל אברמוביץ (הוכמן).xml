@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3865 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3865</bibl><bibl>Volume: #11 ,Page: 3866 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3866</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם מנדל אברמוביץ (הוכמן)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קישינוב</placeName> (בסרביה) בשנת תקצ"ג (1833).
+
+ שם משפחתו היה<persName> הוכמן</persName> . בגיל 14 אנוס היה להימלט מן "החוטפים" ילדים למלכות רוסיה שבימים ההם. עבר את הגבול והגיע לעיר יאסי ברומניה.
+
+ כשנשא לאשה את<persName> אסתר </persName> לבית <persName>אברמוביץ </persName> קיבל את שם משפחתה.
+
+ ביאסי חי 36 שנה.
+
+ בשנת תרמ"ג (1883) עלה לארץ עם בני ביתו ר התישב בירושלים.
+
+ בשנת תרמ"ד (1884) עבר למושבה ראשון-לציון והיה מראשוניה והפך להיות חקלאי טוב.
+
+ חי לפי יכולת הכנסותיו. לא נזדקק להלואות מאחרים. היה נבון ובעל חוש מסחרי.
+
+ כרמיו היו מהיותר טובים. כל העבודות נעשו בעצם ידיו ובזמנם.
+
+
+ בשנת תרס"ב (1902) נרצח בנו <persName>יעקב</persName> ע"י ערבים מיפו.<persName> יעקב</persName> היה מטובי צעירי המושבה ואכריה.
+
+ לזכרו תרם האב והבן<persName> מרדכי</persName> בית בן שתי קומות (6 חדרים) לבית ביקור חולים ורפוי חולים.
+
+ נפטר בראשון לציון, י"ח תשרי תרע"ט (1918. 24.9).
+
+ צאצאיו: <persName>גרשון צבי</persName> ז"ל, <persName>אלחנן, מרדכי, יעקב</persName> ז"ל,<persName> דינה</persName> אשת <persName>ליב גולדשטיין</persName> ז"ל, <persName>צפורה</persName> אשת <persName>אברהם ברד</persName> ז"ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3865 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3865</bibl><bibl>Volume: #11 ,Page: 3866 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3866</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

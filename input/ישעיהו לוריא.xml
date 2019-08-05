@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2455 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2455</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישעיהו לוריא</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ט תשרי תרמ"ח (1887), לאביו ר' <persName>יעקב אהרן</persName> בן<persName> נתנאל</persName> ממוהילב (מצאצאי מהרש"ל ורש"י, שו"ב במשך עשרות שנים במצרים ובסוף שוב תושב ירושלים) ולאמו <persName>חנה דבורה</persName> בת ר' <persName>יעקב אליהו</persName> <persName>פרלקווארט </persName> מירושלים.
+
+ למד בתלמוד-תורה ובישיבת "עץ חיים" ו"תורת חיים", למד את מלאכת אביו והוסמך לשחיטה ובדיקה
+
+ על-ידי ראשי השוחטים ובאישורו של הרב הראשי ר' <persName>שמואל סלנט.</persName>
+
+ נשא לאשה את <persName>רבקה מלכה</persName> בת העסקן הסופר ר' <persName>יוסף</persName> <persName>ריבלין</persName> (ממיסדיו ומנהלו של הועד הכללי כנסת ישראל, בונה השכונות הראשונות של ירושלים החדשה).
+
+ התחיל לעסוק במלאכתו, אך לא רצה לשאת עליו את האחריות של עניני כשרות לצבור ובשנת תרע"א נתקבל לפקיד בסניף "כרמל מזרחי" בקאהיר ומשנת תרפ"ג למנהל הסניף בפורט סעיד.
+
+ בשנות שבתו במצרים היה פעיל בעניני צבור יהודיים וכלליים כנשיא לשכה ד' של אגודת "אחוה" בקאהיר, נשיא המרכזים של הקונגרס היהודי העולמי וחברת "ארט" למצרים, חבר הלשכה הגדולה של הבונים החפשים במצרים, נשיא לשכת "ישראל" של בני ברית בפורט סעיד ובמשך 18 שנה חבר ועד העדה היהודית בפורט סעיד בתפקידים של גזבר, מזכיר ונשיא.
+
+ הגיש עזרה רבה לעולים ולפליטים היהודים שעברו דרך פורט סעיד לארצנו ולארצות אחרות ואף ניהל חליפת-מכתבים עם השלטונות בארץ-ישראל לטובת הפליטים והעולים.
+
+ בראשותו נמצא המעיל ההיסטורי של הקיסר נפוליון הראשון, שנתן למזכרת לאחד מאבות-אבותיו ר' <persName>יוסף</persName> <persName>יונה לוריא</persName> , שהצילו מאבדן בדרך נסיגתו ממוסקבה ב-1812.
+
+ אחרי 37 שנות שרות ב"כרמל מזרחי" במצרים חזר ארצה.
+
+ צאצאיו:<persName> יוסף</persName> (מזכיר ראשי של חברת "של" בתלאביב), <persName>משה</persName> (פקיד בברקליס בנק בת"א),<persName> מרים</persName> אשת <persName>דוד לוין, אברהם </persName> (דוקטור למדעים בלוס אנג'לס, ארה"ב), <persName>נתנאל </persName> (קצין בצבא ארה"ב),<persName> שלום</persName> (מזכיר ראשי בביתהמשפט בלוס אנג'לס),<persName> חיה דינה</persName> אשת <persName>מרדכי מרוין קרון</persName> (מהנדס-אדריכל בלוס אנג'לס).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2455 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2455</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

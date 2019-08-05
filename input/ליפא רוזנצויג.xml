@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3580 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3580</bibl><bibl>Volume: #10 ,Page: 3581 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3581</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ליפא רוזנצויג</persName>
+
+</head>
+         <div><p> נולד מוהילוב (רוסיה), ג' תשרי תר"ן (12.9.1889).
+
+ לאביו ר' <persName>אלעזר שו"ב</persName> ממוהילוב ולאמו <persName>לאה</persName> בת ר' <persName>חנינא ליפא שו"ב רוטברג</persName> (מגזע רבנים, חסידי ותלמידי הבעש"ט).
+
+ קיבל חינוך מסורתי בחדר בבית דודו הרב <persName>מתתיהו</persName> <persName>ליב דיזנהוף</persName> במוהילוב, וחינוך כללי בבית ספר לציור באודסה, אקדמיה לאמנות בפילדלפיה (ארצות הברית).
+
+ היה חבר פעיל בסוציאל-דימוקרט בעירו.
+
+ בסוף שנת 1911 עלה לארץ והתישב בירושלים. היה שם פעיל במכבי וכו'.
+
+ עבר לתל-אביב ושימש בתור מורה לציור בבתי הספר העירוניים בתל-אביב : בי"ס לבנות, לבנים, הצפון, גאולה ואהבת ציון.
+
+ היה פעיל ב"הגנה". היה קצין תרבות. במלחמת העולם הראשונה עבר לכפר סבא, שם הכיר את הצעירה<persName> רבקה</persName> בת <persName>אברהם בער לוי</persName> (ממשפחת רוהלד) (ראה את הערך שלה בכרך הששי, בעמוד 2555) ולאמה <persName>שושנה</persName> (רייזל) בת ר'<persName> בייניש הצורף סלור.</persName>
+
+ בכפר סבא היה פעיל ביסוד בית החולים לפליטי המלחמה - מגורשי תל-אביב ויפו. לפי החוברת "מגלת כפר סבא" (קורות הגולים בכפר סבא, תרע"זתרע"ח, מאת מנחם י. קלוינר) התמסר <persName>רוזנצויג</persName> כולו להצלת מאות אנשים ממות, ואחרי שחבריו ראו את עבודתו, עבדו ביותר מרץ ורצון.
+
+ היה בין מתנדבי הגדוד העברי הראשון במלחמה העולמית הראשונה.
+
+ היה כמה שנים מורה עברי בפילדלפיה (ארצות הברית).
+
+ בנו: ד"ר <persName>אברהם רוזנצויג </persName> (גיאולוג מינרלוג ומומחה במחקר האוראניום).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3580 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3580</bibl><bibl>Volume: #10 ,Page: 3581 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3581</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

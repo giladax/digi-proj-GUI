@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 425 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/425</bibl><bibl>Volume: #1 ,Page: 426 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/426</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק צבי שפירא</persName>
+
+</head>
+         <div><p> נולד בשאוולי, ליטא, בשנת תקצ"ד (1834), לאביו הרב<persName> יהושע</persName> , ממשפחה בעלת מסורת תורנית ותיקה, שמנתה 42 רבנים במשך הדורות. גם הוא למד בחדרים ובישיבות והגיע לידיעה רבה בתורה, אך היה הראשון במשפחה שנמנע מהתפרנס מהתורה בתור רב.
+
+
+ נשא לאשה את<persName> ביילה</persName> בת ר'<persName> אהרן רוטשילד </persName> משאוולי (אמה ואחיה ר' יצחק עלו עוד קודם לכן לירושלים, והאח היה בין בוניה ומתנחליה של שכונת נחלת שבעה).
+
+ הצטרף לחבורת יהודים, שהממשלה הרוסית אמרה להפכם לאכרים בפלך "טאוודיה'', בדרום רוסיה, וכשנת
+
+ פזרה החבורה נשאר הוא כסוחר בכפר נובה מיכאילובקה שבפלך ההוא. הגיע במסחרו לאמידות והיה קובע עתים לתורה ומקיים יחד עם אשתו מצוות צדקה וגמילות חסדים והכנסת אורחים בלב שלם וביד רחבה. אח''כ עבר לגור בעיירה טוקמאק שבסביבה ההיא, כדי לחיות בין יהודים.
+
+ עלה ארצה עם משפחתו בתחילת שנת תרמ''א. ישב זמן-מה בירושלים ואח''כ עבר ליפו. הצטרף למחדשי הישוב בפתח-תקוה, קנה בה נחלה ובעזרת בניו בנה לו
+
+<persName>רעיתו ביילה</persName>
+
+ בית בכפר יהודיה והתישב שם עם מחדשי הישוב, שהקימו שם את בתיהם מאימת הקדחת ששררה על אדמת פתח תקוה. נשאר בין המאחרים לעזוב את הכפר יהודיה והצטרף שם לחבורת לומדי התורה עם הרב<persName> מרדכי</persName> <persName>גימפל יפה </persName> מרוזינוי, ר'<persName> יחיאל מיכל פינס</persName> , ר'<persName> זאב יעבץ</persName> ואחרים.
+
+ נשא את חלקו בסבל ובמחסור של ראשוני המתישבים וקיבל באהבה את יסורי ישוב ארץ-ישראל. נפטר בפתח-תקוה, כ"ט כסלו תרנ"א.
+
+ אשתו האריכה ימים אחריו ועסקה בפתח תקוה בצדקה ובגמילות חסדים כל ימיה.
+
+ נפטרה בפתח תקוה, ג' כסלו תרע"ג.
+
+ צאצאיהם: <persName>מרדכי, מנחם, מיכאל</persName> (שנשא בעול העבודה במשק ההורים),<persName> שרה, איטה</persName> אשת ר'<persName> ראובן</persName> <persName>ריבלין</persName> ואמו של הד"ר <persName>יוסף יואל ריבלין </persName> מירושלים,<persName> חנה</persName> , <persName>אברהם</persName> (הוא<persName> אברהם שפירא</persName> גבור פתח תקוה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 425 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/425</bibl><bibl>Volume: #1 ,Page: 426 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/426</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

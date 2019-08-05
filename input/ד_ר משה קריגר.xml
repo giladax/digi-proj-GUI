@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1801 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1801</bibl><bibl>Volume: #4 ,Page: 1802 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1802</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר משה קריגר</persName>
+
+</head>
+         <div><p> נולד בבייסמולה, ליטא, חשון תרמ"ו (15.11.1885), לאביו הרב <persName>חיים זאב</persName> ולאמו<persName> מלכה</persName> בת הרב <persName>דב בר</persName> <persName>אלטשול.</persName>
+
+ למד תורה בחדרים ובבית אביו. החל להשתלם בהשכלה כללית וב-1920 השתתף ביסוד אגודה ציונית בעירו. אח"כ יצא לארצות המערב ולמד רפואה באוניברסיטאות ברלין, גיסן, נאנסי ופאריס ושם היה יו"ר אגודת הסטודנטים הציוניים.
+
+ אחרי שהוסמך ב-1912 לדוקטור לרפואה בפאריס עלה לארץ והתנדב לשרות רפואי בצבא הטורקי במלחמת הבלקן. אחרי 9 חדשי שרות שוחרר לרגל סיום המלחמה חזר לארץ ונתמנה לרופא בזכרון יעקב ובחדרה. בסוף 1914 גויס לצבא הטורקי והיה המפקח ההיגייני של השרות הרפואי בחזית מדבר סיני ובמקומות אחרים עד סוף המלחמה.
+
+
+ ב-1919 ניהל את מרפאות ועד הצירים בירושלים ובשנות 1920/26 את בית-החולים "הדסה" בצפת ושם היה גם נציג ועד הצירים (ההנהלה הציונית) ויו"ר הקהלת במשך כמה שנים. אח"כ השתקע כרופא פרטי בתל-אביב.
+
+ ב-1929 נשא לאשה את <persName>פניה</persName> בת ד"ר <persName>יחיאל צ'לנוב</persName> , הנודע בתולדות הציונות.
+
+ פעיל בעניני צבור כחבר וסגן יו"ר הועד המרכזי של הליגה למלחמה בשחפת בארץ, יו"ר חוג הבימה, חבר הועד הפועל של הברית העולמית לרופאים יהודים, סגן יו"ר הסתדרות הרופאים בישראל וכו'.
+
+ פרסם מאמרים רפואיים בעתוני הארץ וחו"ל. השתתף בכינוסים רפואיים באנגליה ויצג את הסתדרות הרופאים בועידת התאחדות הרופאים הבינלאומית בפאריס ב-1947.
+
+ צאצאיו:<persName> נירה</persName> (אחות), <persName>יחיאל</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1801 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1801</bibl><bibl>Volume: #4 ,Page: 1802 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1802</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

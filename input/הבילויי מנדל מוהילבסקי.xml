@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1961 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1961</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הבילויי מנדל מוהילבסקי</persName>
+
+</head>
+         <div><p> פרשת חייו שנשארה לזכרון מתחילה בהיותו כבר בחור מבוגר, חבר ביל"ו, יליד פולטאבה, שעלה לארץ בראשית 1884, ועוד הספיק להתענות עם חבריו בעבודה במקוה ישראל ובפרדסי הערבים ובחיי המחסור והדלות של הקומונה הבילויים בבית שבפרדס אנטון איוב. שמו נזכר בין חברי בילו "הנמצאים כעת ביפו", ב"המגיד" מיום כ' סיון תרמ"ד.
+
+ הוא השתתף גם ב"הרפתקה" שבוצעה ביזמת<persName> הרי''מ</persName> <persName>פינס </persName> ב-11.8.1884, כששלח את חברי בילו לנקות את מערת-הכוכים המפורסמת ולהכשירה למשכן לבילויים, שיהיו חפשים ממעמסת שכר-דירה, וכשתקפתם ההקאה הכללית, כתוצאה מהאדים שבמערה או מקדחת-המערות, חשבו שנוגעו בחולירע וחזרו לבית אנטון איוב.
+
+ אחרי פיטורי ה"אנרכיסטים" (הבילויים ממקוה ישראל) לפי הפקודה הטלגרפית מפאריס, היה הוא בין הנשארים בארץ ובין העולים הראשונים לאדמת קטרה שנועדה להיות גדרה. שם התענה בכל אשר התענו חבריו בעבודה בשדה ובמטבח המשותף, בשמירה ובמחלות.
+
+ מתקופת ישיבתו בגדרה נשתמר זכרו באניקדוטה מקומית. אמרו עליו, שבימי תורנותו במטבח היה מכין לחברים מאכל החביב על בני פולטאבה, מעשה
+
+ מרחשת של פתותי בצק מטוגנים בשמן ומרוחים בשומים - "האלושקס" בלשון בני פולטאבה, וברצותו להצניע לעצמו מנה נוספת ולא מצא מקום לכך, היה טומנה בבתי-שחיו...
+
+ אולם תענוג יחידי זה לא נתן לו סיפוק ותמורה בעד הסבל הרב של הראשונים. וכשנלאה משאת עוד את המצב שנראה לו כחסר-עתיד, עזב את גדרה ב-1886 (נחלתו נמסרה למרדכי הנקין), חזר לפולטאבה ושמו וזכרו צללו בתהום הגולה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1961 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1961</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

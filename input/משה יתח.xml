@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2618 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2618</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה יתח</persName>
+
+</head>
+         <div><p> נולד בחיפה, בחודש ניסן תרנ"ג (אפריל 1893). לאביו<persName> דוד</persName> ולאמו <persName>סעדה</persName> בת <persName>אליהו זגורי.</persName> הוריו עלו לארץ ממרוקו דרך מצרים באנית מפרש. קבל חנוך מסורתי וכללי.
+
+ היה מורה בבית הספר של האליאנס (חכי"ח) בתוניס ומנהל בית ספר אליאנס בבצרה (עירק). חבר ועד הקהלה בבגדד ומזכיר החנוך שלה.
+
+ ממיסדי ועד הקהלה בחיפה בשנת 1919 וחבר הועד הפועל לועד הקהלה אחרי הכיבוש הבריטי בארץ.
+
+ היה סגן יו"ר ועד העדה הספרדית בחיפה וחבר ועדת הערכה בעירית חיפה וכן היה חבר בית משפט לשכר דירה של העיריה.
+
+ בשנת 1922 נשא לאשה את <persName>עדינה</persName> בת<persName> מנשה מתלון</persName> , מבגדד.
+
+ חבר הועד הארצי של הקהק"ל וחבר הועד המנהל של הקהק"ל בחיפה.
+
+ היה חבר אסיפת הנבחרים 1920/21.
+
+ עוסק במסחר.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2618 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2618</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

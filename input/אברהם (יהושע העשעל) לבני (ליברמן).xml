@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4011 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4011</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם (יהושע העשעל) לבני (ליברמן)</persName>
+
+</head>
+         <div><p> נולד בדוברא (פולין) ו' טבת תרע"א (בסוף 1910). לאביו <persName>חיים הלוי ליברמן</persName> (ממשפחת אדמו"רים) ולאמו <persName>תרצה</persName> בת ר' <persName>אהרן הורוביץ.</persName>
+
+ קיבל חינוך מסורתי בישיבה בלונדון.
+
+ היה פעיל בארגוני הנוער הציוני בעירו.
+
+ בשנת תרצ"ה (1935) נשא לאשה את<persName> ריקה </persName> בת ר' <persName>מנחם מושל </persName> (מגזע המהר"ל).
+
+ בשנת 1936 עלה לארץ.
+
+ נתקבל כגנן בעירית תל-אביב (עד 1944). ביסוד צה''ל נתמנה לרב צבאי במחנה בצריפין (סרפנד).
+
+ הוציא לאור ספר אמרי נועם על מועדים.
+
+ כיום, עוסק במסחר דברי אומנות "בצלאל" וכו'.
+
+ בניו:<persName> אהרן, מנחם.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4011 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4011</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

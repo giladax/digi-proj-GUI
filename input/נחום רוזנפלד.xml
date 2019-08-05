@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2148 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2148</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחום רוזנפלד</persName>
+
+</head>
+         <div><p> נולד בעירה ליפקני, פלך בסרביה (רוסיה), כ''ה אלול תרנ''ה (1895), לאביו<persName> יעקב</persName> ולאמו <persName>יפה</persName> בת <persName>משה קאופמן.</persName> למד אצל מורים פרטיים, בבי"ס תיכון רוסי. הצטרף לתנועת צעירי ציון כבסרביה.
+
+ כ-1914 עלה ארצה והצטרף לחלוצי הפועלים שהתנדבו לעלות עלית-כיבוש מטעם המשרד הארצישראלי על הקרקעות שגאלה הקהק"ל בהרי ירושלים. השתתף בכיבוש הקרקעות של עטרות וקרית ענבים ואח"כ של כפר אוריה.
+
+ בשנות מלחמת העולם א' היה בראשון לציון, פתחתקוה וקיבל הכשרה חקלאית במקוה ישראל מטעם קבוצת "עבודה" שחבריה הם מיסדי דגניה ב'.
+
+ ב-1920 נשא לאשה את<persName> בלהה</persName> בת<persName> זלמן רייטר</persName> . (נפטרה בדגניה ב', ה' אב תש"ז).
+
+ השתתף ביסוד קבוצת עבודה והתנחל עמה בדגניה ב', ומאז עובד הוא שם במשק. שימש בתפקידים צבוריים
+
+ כ"מוכתר" המקום (מקשר בינו ובין שלטון הנפה) ובמזכירות חבר הקבוצות. עזר ברכישת קרקעות בשביל הקה"ק והשתתף בעלית-כיבוש בעמק בית-שאן. בשנים האחרונות לשלטון הזר פעל בשליחות באירופה ובקפריסין ובארגון עלית מעפילים. חבר פעיל ב"הגנה" מראשיתה.
+
+ כתב רשימה בספר דגניה ב' ב-1945, במלאות 25 שנה להתנחלותה.
+
+ צאצאיו:<persName> בתיה </persName> אשת<persName> זיגי ברסלאואר, צביה</persName> אשת <persName>שמואל קליינמן, דוד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2148 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2148</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1836 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1836</bibl><bibl>Volume: #4 ,Page: 1837 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1837</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר ישראל (איזידור) קלאבר</persName>
+
+</head>
+         <div><p> נולד בוינה, אוסטריה, בשנת תרנ"ב (24.3.1892), לאביו <persName>מרדכי שמעון</persName> (מאכס) ולאמו <persName>לאה</persName> בת <persName>אברהם</persName> <persName>פרייס.</persName>
+
+ גמר גימנסיה ב-1911, למד רפואה באוניברסיטת וינה, הפסיק את לימודיו למשך מלחמת-עולם, שרת בצבא מחודש ימים לפניה ועד סופה (3 שנים בחזית, נפצע, קיבל כמה אותו הצטיינות), הוסמך ב-1919 לד"ר לרפואה, עבד עד 1923 בבתי-חולים צבוריים ומאז כרופא פרטי בוינה.
+
+ ב-1920 נשא לאשה את <persName>מרים </persName> (אמי) בת <persName>נתן גרסטמן.</persName>
+
+ בגיל 12 הצטרף לאגודת-נוער ציונית "חברה".
+
+
+ ב-1911 השתתף ביסוד סניף הסטודנטים של התאגדות ציוני וינה. ב-1913 השתתף ביסוד תנועת הנוער "תכלת--לבן" (בלאו-ווייס), הדריך בה וכתב בעתוניה, ואף בשנות שרותו בצבא קיים את הקשרים בתמידות עמה. מ-1922 ואילך חבר ומנהל מחלקת הנוער במרכז ציוני
+
+ אוסטריה. נבחר לקונגרסים הציוניים בבאזל (1911), וינה (1913, 1925) וקארלסבאד (1923). מ-1920 (עד 1943) רופא ומורה להיגיינה בעבודה בבתיה"ס העירוניים לנוער העובד, מ-1922 רופא (שלא בתשלום) בגימנסיה הריאלית מיסודו של הרב הראשי ד"ר<persName> פרץ חיות</persName> ורופא נאמן למשרד הארצישראלי בוינה ומ-1936 גם בביה"ס העממי של קהלת וינה. מ-1924 חבר ועד קהלת וינה, כיו"ר הועדה לעזרה סוציאלית ריכז ושכלל את פעולותיה (סעד לנוער, לנצרכים העוברים בעיר, לחולים, נופש והבראה לתלמידים, מוסדות תרבות לנוער), ריכז בידי הקהלת בתי-יתומים ובתי-תמחוי של אגודות שונות, השתתף בועדות לבית-החולים, למרפאת הילדים ולמושב זקנים ועזר בהרחבה ושכלול של פעולותיהן, ניהל את מפעלי הסעד מיסודה של <persName>אניטה מילר</persName> ; מ-1936 היה גם יו"ר ועדת החינוך של הקהלה, יזם וביצע את יסוד ביה"ס העממי החדש והספריה לנוער, והכניס רוח עממיות ולאומיות בכל מפעלי הקהלת ובהנהגתם ערך תוספת לנוער ב"וינר מורגנצייטונג" הציוני. וכיו"ר האיגוד התרבותי של ההורים היהודים באוסטריה החזיר בהרצאותיו ובשיחותיו משפחות רבות מהתבוללות ליהדות לאומית, הוציא את העתון לנוער "יודישה יוגנד" וכתב בו בקביעות, ובעזרת עתון זה נרכש חלק גדול של הנוער לציונות ולהוקרת ערכי היהדות.
+
+ כשסופחה אוסטריה לגרמניה הנאצית ב-1938 עלה לארץ והשתקע כרופא פרטי בתל-אביב. ממשיך בפעילותו הצבורית כמזכיר לעניני העולים מאוסטריה בהתאחדות עולי גרמניה ואוסטריה, עד 1940, ומאז חבר הנהלת התאחדות עולי אוסטריה, וכן כחבר הנהלת חוג עולי אירופה המרכזית בהסתדרות הציונים הכלליים.
+
+ בנו:<persName> מיכאל</persName> (בצבא הגנה לישראל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1836 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1836</bibl><bibl>Volume: #4 ,Page: 1837 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1837</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

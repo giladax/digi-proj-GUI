@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 969 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/969</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אברהם חיים גרין</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרנ"ב (פברואר 1892), לאביו<persName> יעקב </persName> (מראשוני הסוחרים בבגדים מוכנים בארץ) ולאמו<persName> טויבה</persName> בת<persName> אלעזר ראב</persName> (אבי משפחת <persName>ראב </persName> <persName>בן-עזר</persName> בארץ, מראשוני מיסדי פתח-תקוה), והוא אחיהם של מיסדי הפירמה המסחרית הגדולה<persName> האחים</persName> <persName>גרין</persName> במצרים ובארץ (כיום הפירמה<persName> י. גרין ושות'</persName> <persName>(א"י) בע"מ). </persName> קיבל חינוך מסורתי והשכלה כללית בירושלים, למד רפואה באוניברסיטה האמריקאית בבירות ושם עסק בפעילות צבורית וציונית ובעזרה לסטודנטים הנצרכים.
+
+ אחרי שהוסמך לדוקטור לרפואה והתמחה בעבודה השתקע כרופא פרטי בצפת.
+
+ נשא לאשה את<persName> חיה </persName> בת בנימין ינוביצי. בצפת ובסביבה נתחבב על התושבים היהודים והנכרים כאחד. שקד לא רק על מלאכתו המצומצמת אלא גם לעזור ולהיטיב לסובלים והיה מעודד את הכושלים ואף עוזר להם בכספו. במלחמת-העולם הראשונה היה הפעיל הראשי בועד לחלוקת הסיוע שבא מעבר לים, ומטעם הרב <persName>יהונתן בנימין הורביץ</persName> מנהל עניני "פקידי ואמרכלי כולל אמסטרדם" בארץ נתמנה לחלוקת הצדקה הנשלחת משם והיה מוסיף עליה ב"מתן בסתר" מהכנסותיו שקיבל בעד טיפול רפואי מלא-יהודים אמידים. כן התמסר לפעולות "ועד ההגירה" לעזרת מגורשי יפו ות"א שהוגלו אל הגליל והשתדל לסדר חלק מהם בצפת, להכניס חיים אל העיר הגוועת ברעב ולמצוא מקום מנוחה למגורשים ושקד למעלה מיכלתו לצמצם את מצוקת הרעב שהפילה חללים רבים מתושבי צפת. התמסר לטפל בנגועי טיפוס הבהרות מבלי לחשוש לסכנה הצפויה לו לעצמו, ואכן נפגע הוא תוך טפלו בחולים, נפל למשכב ונפטר בצפת, י"ג אייר תרע"ח.
+
+ לזכרו הקים אחיו <persName>יהושע גרין</persName> מרפאות בנקודות אחדות בגליל העליון.
+
+ בתו:<persName> מירונה</persName> אשת מיכאל גרינברג (פעילה בויצ"ו ירושלים, בתקופת המלחמה העולמית האחרונה פעלה במחתרת הצרפתית ("מאקי") בצרפת, בעיקר בהצלת ילדי ישראל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 969 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/969</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

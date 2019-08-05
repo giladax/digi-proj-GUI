@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 404 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/404</bibl><bibl>Volume: #1 ,Page: 405 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/405</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ברוך צבי ברנשטיין</persName>
+
+</head>
+         <div><p> נולד בפאבלובקה, ליד רוזינוי, פלך גרודנה, בשנת ת"ר (1840). קיבל חינוך מסורתי ואח"כ למד נגרות לבנינים אצל אביו אריה.
+
+ נשא לאשה את <persName>חשקה </persName> בת משה נח מרוזינוי, עבד תחילה בבנין וכנגרות ואח"כ עבר לחקלאות.
+
+ עמד בתוקף על זכויותיהם וכבודם של האברים נגד השרירות העריצית של פקידי הבארון והיה פעיל בעניני הצבור.
+
+
+ את העבודה והמלאכה בבנין הארץ ראה כיעוד-חיים קדוש ואת בנותיו הישיא לנגדים, כדי שגם חתניו יהיו בבוני הבתים להרחבת הישוב על אדמת הארץ.
+
+ נפטר בעקרון, י"ז כסלו תרע"ז.
+
+ צאצאיו:<persName> משה נח; רשקה</persName> אשת אברהם ברנשטין ; <persName>שלמה; מלכה</persName> אשת מאיר חומסקי; <persName>אסתר</persName> אשת דוד קנדלר; <persName>יהודה </persName> (הוא חבר באגודת הנהגים "דרום יהודה"); <persName>אליעזר</persName> (ארגנטינה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 404 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/404</bibl><bibl>Volume: #1 ,Page: 405 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/405</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

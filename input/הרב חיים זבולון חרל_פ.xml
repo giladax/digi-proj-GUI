@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1301 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1301</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב חיים זבולון חרל"פ</persName>
+
+</head>
+         <div><p> נולד בירושלים, א' אייר תרס"ב, לאביו הרב <persName>יעקב משה</persName> (רב בשערי חסד ורחביה, ירושלים, ראש ישיבת "מרכז הרב", גאון תלמודי ומקובל, ממשפחות רבנים, שלפי מגילת היוחסין שנשתמרה בה מוצאה משושלת מלכות בית דוד) ולאמו <persName>פסיה</persName> בת הרב <persName>מיכל ורניקובסקי</persName> (ממשפחת הגאון ר'<persName> דוד פרידמן</persName> מקארלין.
+
+ למד בחדרים, בישיבות ''עץ חיים" ובישיבת "מרכז הרב" מפי אביו ומפי הרב הראשי<persName> א. י.</persName> <persName>הכהן קוק</persName> , והוסמך לרבנות על-ידי הרב <persName>קוק</persName> והרב <persName>איסר זלמן מלצר</persName> ועוד.
+
+ בתרפ"א נשא לאשה את<persName> רבקה סירקה</persName> בת הרב <persName>א. ד. שקאלל.</persName>
+
+ השתתף ביסוד חברת "נחלת ישורון" בירושלים, שנוסדה לשם גאולת אדמה ורכשה קרקע על הר הצופים, ערך את תקנות החברה והיה אחד ממנהליה.
+
+ בתרפ"ד נתמנה מטעם הרבנות הראשית לארץישראל לרב בסג'רה (אילנית) שבגליל התחתון, ובשנת תרפ"ה לרב בראשון לציון, נוסף לפעולה הרבנית הרגילה בהוראת איסור והיתר, משפטי דין תורה, כשרות ובירורים, פיקח על השרותים הדתיים הצבוריים התמסר להפצת לימוד התורה במושבה, יסד חברות ללימוד ש"ס, משניות, ושלחן-ערוך אורח חיים - בשם הכולל "תפארת חיים", עזר ליסוד תלמוד תורה והשתדל למען יסוד ישיבה. מרצה בקביעית בשיעורי תורה של החברה, דורש ונואם בחגים ובענינים צבוריים ולאומיים. משתתף בועידות וכינוסים ארציים לחיזוק התורה והיהדות (היה ציד באספה הבוחרת את הרבנות הראשית לארץ-ישראל, בועידת להפצת התרבות העברית המקורית, כינוסים למען השבת, טהרת המשפחה ועוד). פרסם מאמרים בדאר היום, ההד, קול יעקב, הדביר, שערי ציון, קול תורה, תורת א"י, הפוסק, תבונה, נחלת צבי, תלפיות, הפרדס, שערים, קהת, היסוד. חיבר והכין לדפוס את הספרים:
+
+ האור, הופעת הקודש, נחלי חיים, היי מרדכי, הלכה למעשה. בנותיו :<persName> מינה דבורה </persName> אשת ר' <persName>מנדל שטרנהל</persName> (סוחר בכפר אתא, מעסקני הפועל המזרחי),<persName> יוכבד</persName> אשת ר'<persName> דוד מרכוס</persName> (מפעילי פועלי אגודת ישראל), <persName>אהובה </persName> אשת הרב <persName>ניסן זקש </persName> (מחבר ספרי הלכה, רב בנס ציונה), <persName>מרים</persName> אשת <persName>משה גליק.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1301 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1301</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

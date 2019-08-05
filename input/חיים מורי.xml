@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4325 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4325</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים מורי</persName>
+
+</head>
+         <div><p> נולד ביום ט"ו באייר, תר"ץ (13.5.1930) בעיר כדא בתימן.
+
+ לאביו<persName> יוסף מורי</persName> ולאמו<persName> לאה.</persName>
+
+ עלה עם הוריו לארץ בהיותו בן 5. המשפחה הת
+
+ שבה בשכונת אפרים ברחובות ולמד בישיבת "פורת סף". שם נתגלו כשרונותיו והצלחתו בלימודים היתה כה. בעמדו למיבחן לפני הרב <persName>עמיאל</persName> ז"ל הוכיח את ידיעותיו הרבות. גמר 6 כיתות של בית-הספר העממי 2 נוספות בשיעורי ערב של ה"מזרחי".
+
+ בגלל מצבם הדחוק של הוריו נאלץ לעזוב את לימודיו להיכנס לעבודה. השתלם בצינקוגרפיה, למד את מקצוע עתקת תמונות ועבד יחד עם אחיו בתל-אביב.
+
+ היה חבר תנועת "בני עקיבא" בתל-אביב, הצטרף "הגנה" ואת תפקידו שם מילא באמונה עד יומו האחרון.
+
+ עם מלחמת השחרור התגייס על אף גילו הצעיר שירת בחזיתות רבות. לחם בגליל ובנגב, ביפו, לוד רמלה. בשעת כיבוש באר-שבע נפצע וניצל בנס. ביום ו' טבת, תש"ט (7.1.1949), נפל בפעולה לביתור "רפיח" בשעת הקרבות למיגור הפולש המצרי, בשעה שהסתער בתוך טנק על עמדות מצריות מבוצרות. היה קבור במשמר הנגב. גופתו הועברה לנחלת יצחק בגבעתיים.
+
+ הוא השני במשפחתו שנפל במלחמת השחרור. כשנהרג אחיו בן ה-11 בעת ההפגזה הקשה ברחובות רצה האב השכול לעשות למען שחרורו, אך<persName> חיים</persName> סירב: "עמנו נתון במערכה קשה... לא אצא מהמערכה".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4325 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4325</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

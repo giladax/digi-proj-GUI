@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1913 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1913</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה פלורנטין</persName>
+
+</head>
+         <div><p> נולד בסלוניקי, בשנת תרכ"ד (1864), לאביו <persName>יעקב</persName> (ממוצא איטלקי, מפלורנץ ומכאן שם המשפחה), ולאמו <persName>סול.</persName>
+
+ קבל חינוך מסורתי בחדר, אבל אחר שנים רכש ידיעות כלליות ביחוד בשפות; ידע יונית, ספרדית, עברית, בולגרית, תורכית, צרפתית. אך החינוך ביל
+
+ דותו לא היה לשוא. היה יודע תורה וירא שמים.
+
+ עסק בביטוח ובסחר טבק ברג'י. הרויח יפה וצבר לו הון.
+
+ נשא לאשה את <persName>דורון </persName> בת <persName>חזקיה לוי.</persName>
+
+ רכש לו עמדה כבודה. היתה לו השפעה בחוגי ממשלת יון. נשוא פנים בעדה היהודית. תמך בכל מוסדות הצדקה. בגלוי ובמתן בסתר.
+
+ אך כל אלה לא סיפקו אותו. ציוני היה מנעוריו ושאף לעלות ארצה. התחיל עוד מרחוק בגאולת קרקעות בשביל עליית יהודי יון.
+
+ בשנת 1924 עלה. קנה נחלה במזרחה של יפו. בעבור חדשים מספר הביא את משפחתו. בשנת 1931 התיישב בבית אשר קנה. היתה זו סביבה עזובה, מקום מרעה לערבים וממש מקום סכנה. אך הוא לא היסס ולא נרתע, אף כי היה כבר בן 67. בזה אחר זה גאל מידי הערבים שטחים נוספים באדמות שנקראו אז "קרית שמואל". הקים את מכון המים. מכר במחירים זולים מאד את האדמות שקנה לאנשים בעלי אמצעים מצומצמים מאוד. כל מי שעלה על הקרקע מיד ובנה בית, הקל בתשלומיו. מנע בעד כל ספסרות וסרסרות באדמות אלו.
+
+ כך גדלה הודות מרצו ויושרו השכונה הגדולה שידוע היה כשטח היהודי בתוך יפו ואחר כך נקרא עוד בחייו על שמו "שכונת פלורנטין". כל השכונה הגדולה הזו הכוללת היום כעשרים אלף נפש ואשר הוא נטע ראשון יתד חלוצי בה, גדלה משך חמש השנים 1936-1931 ליד שכונת מרכז מסחרי בתלאביב.
+
+ למרות חולשתו בשנות חייו האחרונות שימש ביתו בית ועד לעסקנים ואנשי מעשה שבאו לקבל עצה ועזרה ממנו.
+
+ נפטר בתל-אביב, ט"ז בחשון תש"ז (10.11.1946). צאצאיו: <persName>סול, שרה </persName> אשת <persName>אליהו וואנו, לאה</persName> אשת <persName>אברהם (אלברט) שומלא</persName> (מנהל סניף ברקליס בנק בהדר הכרמל), <persName>יעקב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1913 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1913</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

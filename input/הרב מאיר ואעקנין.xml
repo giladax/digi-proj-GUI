@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4462 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4462</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב מאיר ואעקנין</persName>
+
+</head>
+         <div><p> נולד בטבריה, ד' אדר תרמ"ה (1885).
+
+ לאביו הראב"ד <persName>דוד ואעקנין,</persName> אב"ד בטבריה (נפטר בחודש שבט תרנ"ז) ולאמו<persName> ג'והרה</persName> (פנינה) לבית <persName>גבאי.</persName>
+
+ קבל חנוך מסורתי בישיבות טבריה בראשות הרבנים הגאונים <persName>אליהו חיים אבועלפיה ודוד עבו</persName> זצ"ל.
+
+ בשנת תרס"ב (1902) נשא לאשה את <persName>יעל </persName> בת הרב מנשה חמווי.
+
+ נשיא כוללות רבי מאיר בעל הנס (ספרדים) ומיסד ומקים בנינה של הישיבה הקדושה "מאיר בת עין" ע"י קבר רמב"ה בטבריה.
+
+ בשנת תר"ע (1910) נשלח מטעם רבני טבריה לערי אירופה להחזקת הת"ת והמוסדות הדתיים בטבריה.
+
+ בשנת תרע"ד (1914) נתקבל לרב ראשי לעדת הספרדים, אנשי ארם צובא וסוריא עד שנת תר"פ (1920) כשחזר לארץ.
+
+ מנהל הת"ת ספרדים בטבריה וראש ישיבת "אור
+
+ החיים". מייסד משמרת שבת ופעולות רבות אחרות למען חיזוק הדת בטבריה.
+
+ משמש כיום כרב ראשי וראב"ד בטבריה.
+
+ כתב מאמרים בירחונים רבניים: "קול תורה", "קול סיני", "יד לאחים".
+
+ חיבר ספר: שו"ת "ויאמר מאיר" (ד' חלקים), שו"ע (תרצ"ט).
+
+ צאצאיו:<persName> חיים דוד ואעקנין</persName> (מנהל מחלקת הסעד בטבריה), <persName>הרב פנחס ואעקנין </persName> (רב בשכונת ארזה,
+
+ ירושלים), הרב<persName> מנשה ואעקנין </persName> (רב בטבריה ור"מ ומנהל ישיבת "בת-עין"),<persName> רינה </persName> אלמנת הרב <persName>משה</persName> <persName>ואעקנין</persName> ז"ל,<persName> פנינה </persName> אשת השו"ב הרב <persName>אליהו ואעקנין,</persName> <persName>אסתר</persName> אשת הרב <persName>שלמה ילוז</persName> (לשעבר רב ראשי בטריפולי וראש ישיבת מדרש הרבנים ברבאט במרוקו, כיום, ראש ישיבה ומנהל ישיבת "מאור-בת-עין" בטבריה), <persName>דינה </persName> אשת הרב<persName> דוד שלוש,</persName> רבה של נתניה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4462 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4462</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

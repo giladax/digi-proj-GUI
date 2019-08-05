@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1415 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1415</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זאב שרף</persName>
+
+</head>
+         <div><p> נולד בעיירה איזוור, ליד סלטין, בוקובינה (אוסטריה ואח''כ רומניה), כ''ו ניסן תרס"ו (21.4.1906), לאביו <persName>מאיר צבי </persName> ולאמו <persName>רחל</persName> בת <persName>נתן פומרנץ.</persName>
+
+ למד בחדרים ובבית-ספר עממי ואח"כ מלאכת צורף זהב. הצטרף לשורות הציונות החלוצית והיה חבר מרכז נוער פועלי ציון - צ. ס. וחבר מרכז הנוער הסוציאלדמוקרטי ברומניה. 
+
+ ב-1925 עלה לארץ ועבד כשלש שנים כפקיד בקפא"י, היה כשנתים חבר בקיבוץ שפיים, פעל בשליחות בחו"ל כחמש שנים וחזר ארצה.
+
+ ב-1940 נשא לאשה את <persName>הניה חיה</persName> בת <persName>משה</persName> <persName>אודבין.</persName>
+
+ בשנות 40- 1935 היה מזכיר מרכז "הפועל", בשנות 44- 1940 עבד באדמיניסטרציה בשרות ה"הגנה", וב -47 -1945 היה מזכיר המחלקה המדינית של הסוכנות היהודית. משנראה באופק, כי מתקרב הזמן להקמת מדינה
+
+ יהודית נתמנה למזכיר ועדת המצב של הנהלת הסוכנות והועד הלאומי להכנת מנגנון המדינה ועבד בתפקיד זה מאוקטובר 1947 (תש"ז) עד להקמת הממשלה הזמנית "מנהלת העם'' שנטלה על עצמה לקיים סדר ולנהל שרותים בשטח הישוב העברי, שהשלטון הבריטי
+
+ התאמץ להשליט בו תוהו-ובוהו. אח"כ נתמנה למזכיר מנהלת העם, ומשהוכרז על הקמת המדינה נתמנה למזכיר ממשלתה הזמנית. פרסם מאמרים ב"הפועל הצעיר", "מלחמתנו" וב
+
+ כתבי-עת בחו"ל. ערך את "דאס בוך פון ארבעט" (ספר העבודה) בוארשה, ספר "החוגר" (הוצאת מרכז "הפועל"), קובץ פרקים של גארוויס ביי על הערבים (בתרגום עברי) ו"יומן ירושלים" של ד"ר חיים ארלוזורוב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1415 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1415</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

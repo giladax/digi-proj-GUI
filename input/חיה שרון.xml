@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2895 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2895</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיה שרון</persName>
+
+</head>
+         <div><p> נולדה בגולטה (רוסיה) בשנת תרס"ט (1909).
+
+ לאביה<persName> אהרן סנקובסקי </persName> ולאמה<persName> בילה</persName> לבית <persName>גורביץ.</persName>
+
+ קבלה חנוך תיכוני.
+
+ עלתה לארץ בשנת 1925.
+
+ משנת 1927 שחקנית בתיאטרון "אהל".
+
+ בשנת 1931 נישאה לאדריכל<persName> אריה שרון </persName> (ראה את הערך שלו בכרך זה)
+
+ שחקה בתפקידים חשובים ב"אהל";<persName> הרמיונה </persName> ב"אגדת החורף" (מאת <persName>שקספיר); נעמה</persName> - ב"שלמה המלך ושלמי הסנדלר" - (מאת סם <persName>גרונימן); בילקה</persName> <persName>הגיבנת</persName> - "בפישקה החגר" (מאת<persName> מנדלי מוכר ספרים);</persName> <persName>מלכה'לה </persName> - ב"יושה עגל" ; <persName>טואנט </persName> ב"החולה המדומה"
+
+<persName>(מולייר); ניקול</persName> ב"גם הוא באצילים" :<persName> ג'יל</persName> "בחבורה על הטמזה" (מאת <persName>פריסטלי) ; לאורה </persName> ב"תה וסמפטיה" (מאת <persName>רוברט אנדרסון)</persName> ועוד.
+
+ בניה :<persName> אלדר, אורי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2895 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2895</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

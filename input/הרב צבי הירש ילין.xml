@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2129 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2129</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב צבי הירש ילין</persName>
+
+</head>
+         <div><p> נולד בסקידל, מחוז גרודנה, רוסיה, ו' תמוז תקצ"ה (1835), לאביו הרב <persName>שלום שכנא</persName> מגיה (ראה עליו ערך מיוחד בכרך זה) ולאמו<persName> דובקה</persName> בת ר' <persName>שלום</persName> . למד בישיבות והתמחה בשקידה עצמית בכתיבת ספרי תורה ומפי אביו למד את מלאכת ההגהה וידיעת המכורה לכל פרטיה וענפיה, וכן למד והגיע לבקיאות מופלאה בכל הלכות סת"ם מיסודן במקורות הראשונים ועד לענפיהן באחרוני-האחרונים שבין הפוסקים.
+
+ נשא לאשה את<persName> מיכלה</persName> בת הרב ר'<persName> יצחק.</persName> הצטרף להוריו ולביתם כשעלו ארצה בדרך-נדודים ארוכים ובשנת תרי"ח הגיעו ירושלימה. המשיך במלאכתו ונודע כסופר סת"ם ומגיה ממדרגה ראשונה ומשנודע להרב הראשי ר' שמואל סלנט על בקיאותו העצומה בהלכות סת"ם מינה אותו למורה-הוראה מיוחד בהלכות אלה והיה שולח אליו את גל השאלות במקצוע זה שהובאו אליו מאנשים מקומיים וגם את השאלות בכתב שבאו מרבני הגולה. במשך שנים מעטות היה גם ממונה בכולל הורודנא.
+
+ הצטיין בסגולותיהם של יקירי ירושלים: איש אמת, נוח לבריות ושומר על סדרי-חיים קבועים ללא שינוי. נהג כל ימיו להתפלל "ותיקין" (שחרית עם הנץ החמה), וכשהתישב בין הראשונים בשכונת "משכנות ישראל" (שנבנתה אחרי "מאה שערים") ולא היה בה מנין ותיקין, היה הולך משם יום-יום בדמדומי שחר, ואף בימי גשם ושלג, אל העיר העתיקה למנין של ותיקין שהיה שם, ולא פעם פגעו בו הפלחים שבאו מהכפרים למכור יבולם בעיר, אבל גם פגעים אלה לא הניאוהו לשנות ממנהגו.
+
+ סוף-סוף עלה בידו לסדר מנין ותיקין בשכונה, שקבעו את זמן תפלתם לא על פי לוח ושעון, אלא על פי ראית הנץ החמה במו עיניהם. משנבנו בתים מול חלונות המזרח של בית הכנסת והסתירו את ראות הנץ החמה, אסף ר' צבי כספים וביחד עם הרב מנחם <persName>מנדל מינסקר</persName> והרב <persName>יעקב מן</persName> ועוד מנכבדי השכונה הוסיפו קומה שלישית על בית הכנסת ויחדוה לתפלת ותיקין.
+
+ נפטר בירושלים, י"ד כסלו תרע"ד (13.12.1913). צאצאיו: <persName>שלום שכנא, יצחק יעקב, רחל טויבה</persName> אשת ר' <persName>אליעזר זילבר, שרה בילה </persName> אשת הרב <persName>עקיבא</persName> <persName>פרוש</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2129 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2129</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

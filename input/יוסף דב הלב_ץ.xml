@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5223 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5223</bibl><bibl>Volume: #17 ,Page: 5224 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5224</bibl>
+<bibl>Volume: #17 ,Page: 5225 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5225</bibl>
+<bibl>Volume: #17 ,Page: 5226 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5226</bibl>
+<bibl>Volume: #17 ,Page: 5227 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5227</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף דב הלב"ץ</persName>
+
+</head>
+         <div><p> נולד בעיירה דוברובנה, פלך מוגילוב (רוסיה) בשנת תרכ"א (1861).
+
+ לאביו <persName>ישראל הלב"ץ</persName> (ראשי תיבות: הלויים בני צדוק - הכהן הגדול של הבית השני) (סוחר יערות) ולאמו <persName>רחל</persName> נכדת ד"ר<persName> גיל.</persName>
+
+ קיבל חינוך תורני בחדר ובישיבה. היה ידוע
+
+ כתלמיד חכם, כעוסק בצרכי ציבור, יסד קופת גמילת חסד ועוד.
+
+ נשא לאשה את<persName> פרומה</persName> בת<persName> יוסף רזומובסקי</persName> , יליד בוברויסק.
+
+ בשנת תרפ"ג (1923) בעזרת סרטיפיקט שבנו<persName> לוי</persName> <persName>הלב"ץ</persName> מחדרה השיג למשפחה, עלו לארץ והתישבו בחדרה.
+
+ פתח עסק לחומרי בנין והקל עי"ז על התקדמות הבניינים בעיר, שלא הצטרכו לנסוע לחיפה או לת"א לקנות חומרים.
+
+ זכה לראות את צאצאיו מרוכזים בארץ ומשתתפים בבנינה.
+
+ נפטר בחדרה, י"ט תשרי תש"ט (1948).
+
+ צאצאיו: <persName>ישראל</persName> ז"ל (ראה ערכו בכרך זה); <persName>אסתר; ד"ר שמעון גלביץ</persName> ז"ל (רופא ראשי בקופת חולים של ההסתדרות. ראה את הערך שלו בכרך זה); <persName>לוי הלב"ץ</persName> (שעלה לארץ עוד בשנת 1920 וזכה להעלות את בני משפחתו לארץ. ראה את הערך שלו בכרך זה);<persName> ברוך הלב"ץ</persName> (סוחר בחדרה).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5223 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5223</bibl><bibl>Volume: #17 ,Page: 5224 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5224</bibl>
+<bibl>Volume: #17 ,Page: 5225 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5225</bibl>
+<bibl>Volume: #17 ,Page: 5226 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5226</bibl>
+<bibl>Volume: #17 ,Page: 5227 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5227</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

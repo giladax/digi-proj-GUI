@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2712 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2712</bibl><bibl>Volume: #6 ,Page: 2713 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2713</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנימין ליברמן</persName>
+
+</head>
+         <div><p> נולד ביפו, בשנת תרנ''ח (28.10.1898).
+
+ לאביו זוסיה (נעמן - ראה כרך ב', עמוד 635) ולאמו <persName>יונה</persName> בת <persName>משה סגל, </persName> מראשוני ראשון לציון.
+
+ קבל חנוך מסורתי בת''ת שערי תורה ביפו, וכללי בביה''ס עזרה, בגמנסיה העברית הרצליה, בבית ספר לכלכלה ובי''ס מקצועי והנהלת חשבונות בלונדון.
+
+ בשנת 1912 נכנס כחבר במכבי יפו והיה מבחירי המתעמלים והמעמלים.
+
+
+ השתתף בכל הפעולות הצמחיות שהמכבי עסק בהם ; מלחמה נגד המסיון, השלטת השפה העברית, יסוד ההגנה ("הקבוצה היפואית'') וכו'.
+
+ בשנת 1916 נתקבל בתור פקיד במשרד הא''י שבהנחלתם של ד"ר <persName>ארתור רופין</persName> וד"ר<persName> יעקב טהון </persName> בתלאביב. 
+
+ אחר כבוש הארץ ע''י הבריטים היה ממארגני המכבי מחדש ועמד בראשו עד נסיעתו ללונדון.
+
+ בשנת 1919 עבר לפקידות בועד הצירים לא''י בירושלים ובאמצע שנת 1919 עבר לעבוד בלשכה הראשית של קרן היסוד שפעלה אז בלונדון.
+
+ בספטמבר 1926 עבר עם הלשכה הראשית של קרן היסוד לירושלים ומאז הוא ממשיך בתפקידו, גזבר משנה של הלשכה הראשית.
+
+ בשנת 1928 נשא לאשה את<persName> פרימה</persName> בת<persName> פניה ואברהם</persName> <persName>בורסוצקי.</persName>
+
+ בתקופת המצור על ירושלים נפגע קשה בהתפוצצות בניני המוסדות הלאומים בירושלים (ליד חדרו נהרג ד"ר ליב <persName>יפה ז''ל)</persName> . הבריא לחלוטין.
+
+ בתו: <persName>יונה </persName> אשת<persName> דוד זהבי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2712 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2712</bibl><bibl>Volume: #6 ,Page: 2713 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2713</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 52 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/52</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלישבע בסביץ' (בורשטין)</persName>
+
+</head>
+         <div><p> נולדה בפינסק, רוסיה, בשנת תרט"ז (1856), לאביה <persName>זלמן בורשטין.</persName> קיבלה חינוך מסורתי עברי וכללי. הצטרפה לחובבי ציון בין הראשונים, היתד, מורה לעברית בפינסק ובקרמנצ'וג ואחת הפעילות בהפצת השפה העברית בגולת רוסיה.
+
+ בתרנ"א עלתה ארצה עם בעלה <persName>שלמה בסביץ'</persName> ושלשת ילדיהם. בעלה היה חבר "אגודת האלף", שהכינה
+
+ לחבריה נחלאות בארץ-ישראל, וכך מצאה המשפחה בעלותה ארצה נחלה בעין זיתים שליד צפת. אך הנטיעות שם לא עלו יפה ולא היה בהן כדי לפרנס את בעליהן, ובשנת תרנ"ו התנחלה המשפחה על הקרקע במתולה.
+
+ היתה מורה בבית-הספר הראשון לבנות בצפת, ואח"כ במתולה, בראש-פנה ובפתח-תקוה. בכל מקום נתחבבה על התלמידים והצליחה לחבב עליהם את קרקע המולדת ואת עבודת החקלאות.
+
+ השתתפה עם<persName> ד"ר יצחק אפשטין</persName> בהפצת השפה והתרבות העברית בארץ. כתבה ב"הצפירה", "הצבי", "השקפה", "עולם קטן" ו"פרחים".
+
+ נפטרה בצידון, ה' סיון תרצ"ב.
+
+ בנה <persName>אריה </persName> הוא תושב שכונת עם, בחולון.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 52 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/52</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2850 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2850</bibl><bibl>Volume: #7 ,Page: 2851 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2851</bibl>
+<bibl>Volume: #7 ,Page: 2852 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2852</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה ליב סריג (סירקין)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קיידאן</placeName> (ליטא) ח' אדר תרע"ג (15.2.1913). לאביו <persName>שרגא </persName> ולאמו<persName> אולגה</persName> בת <persName>משה מילנר.</persName>
+
+ בוגר גימנסיה עברית בוילקובישקי (ליטא), מוסמך למשפטים באוניברסיטה הממלכתית הליטאית (ע"ש <persName>ויטולד)</persName> בקובנה.
+
+ היה מנהל משרד עורכי-הדין, מזכיר כללי של קופת פועלי א''י ויו"ר אגודת "הפועל" בליטא".
+
+ היה חבר מרכז "ציס" בליטא.
+
+ ב-19 באפריל 1936 עלה לארץ.
+
+ עבד בתור מזכיר "הפועל" בתל-אביב ובמרכז. עובד קופת תגמולים של עובדי העיריה. מזכיר אגודת עובדי הים.
+
+ בשנת 1938 נשא לאשה את <persName>יוכבד</persName> בת <persName>בנימין</persName> <persName>וחיה גיגוז.</persName>
+
+ בסוף 1939 נאסר בהפגנות חוק הקרקעות (הספר הלבן) והיה במאסר אדמיניסטרטיבי במזרע במשך 3 חדשים.
+
+ בשנת 1943 נאסר עבור פעולות רכישת נשק ונדון ל-10 שנות מאסר (משפט "סירקין-רייכלין"). שוחרר לאחר 42 חרשי מאסר בכלא ירושלים.
+
+ בשנת 1947 נסע לארצות הברית כראש משלחת "הפועל" (מסע כדורגל).
+
+ חבר הועד האולימפי. חבר מרכז "הפועל". כתב מאמרים "בכלא במולדת" בחתימת<persName> אסיר </persName> בעתונים: באשמורת, דבר, דער טאג (בניו-יורק). ב"ספורט לעם" כתב בחתימת : "מסתכל".
+
+ חבר ההגנה כל השנים. שירת בצבא הגנה לישראל : קצין מנהלה בשירות אמון גופני במטכ''ל אה"ד.
+
+ ראש אגף המינהל במשרד הבטחון. בנו: <persName>גדעון.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2850 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2850</bibl><bibl>Volume: #7 ,Page: 2851 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2851</bibl>
+<bibl>Volume: #7 ,Page: 2852 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2852</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

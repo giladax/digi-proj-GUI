@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4457 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4457</bibl><bibl>Volume: #14 ,Page: 4458 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4458</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלתר דוד הכהן גוטסדינר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>שדליץ</placeName> (פולין) ערב שבועות תר"ן (יוני 1890).
+
+ לאביו <persName>מרדכי ברכיהו </persName> (מגזע האדמו''ר ר' <persName>יצחק'ל</persName> מוורקא, ונצר לר'<persName> עקיבא איגר)</persName> ולאמו<persName> נחמה (אף</persName> היא מגזע כוהנים). ר' מרדכי, שבנעוריו מילא כרסו ש"ס ובפוסקים, הקדים לשים ריחיים על צוארו, היה לסוחר זעיר, ובעצימת עין עזר לאשתו הצדקנית והרחמנית לעסוק כל ימיה במעשי צדקה וחסד, שכן יומם ולילה מטפלת היתה בנצרכים ובחולים, סומכת נופלים, ודואגת בעיקר לבחורי-ישיבה, שהיו סמו כים תמיד על שולחנה.
+
+ לאחר לימוד ב"חדר" ובישיבות שקד ר' אלתר בלימוד עצמי על דף גמרא ותוספות ועל ספרי מוסר ויראים ב"שטיבל" - בית-החסידים דאמשינוב.
+
+ בינתיים פרצו רוחות הזמן לבית-אבא. שני אחיו הגדולים יצאו ל"תרבות רעה". הבכור,<persName> צבי-הירש,</persName> "עילוי" ובעל סמיכות לרבנות, הציץ לפרדס ההשכלה, צלל בים התרבות הרוסית, הפולנית והגרמנית, ופיזם בחיבה מחרוזי יל"ג ומיכ"ל ומפסוקי אחדהעם וסוקולוב. האח השני,<persName> יעקב,</persName> ידיד-נעוריו של הסופר<persName> יואל מסטבוים,</persName> היה ראציונליסטן חריף וממולח ואיש מרץ תוסס, והפך סוחר סיטונאי מצליח בלודז'. כן הצטיין כשחמטיסטן נלהב ורב-כשרון.
+
+ אלתר, בן-הזקונים, המשיך בדרך-אבות, דבק באדמו"ר דאמשינוב ובצאצאיו.
+
+ בשנת 1908 נשא את האשה הצנועה והחסודה, <persName>אסתר-איטה</persName> בת ר' <persName>משה זילברמן</persName> (סוחר וחסיד ברלבב ירא-שמים ובעל מידות תרומיות).
+
+ פנה למסחר אריגים, והגיע למעמד של אמידות.
+
+
+ משזרח אור הציונות הדתית, פעל למענה בכל לבבו ומאודו, מאז השתתף בועידה המייסדת של "המזרחי" (בוורשה 1920) ועד היום הזה.
+
+ היה מראשי "המזרחי" בעירו והקים בה את גןהילדים הדתי הראשון.
+
+ נתן מאונו ומהונו למען עבודת ארץ-ישראל, סייע לעליית חלוצים מבני-העיר וקנה נפשות לרעיון התחייה. חינך את בניו לאהבת ציון עמוקה. את בנו בכורו (הסופר <persName>מרדכי עובדיהו)</persName> , שלח לבי"ס חקלאי - להכשירו לעבודה בארץ.
+
+ ערב התקרב השואה, נתגשם חלום-חייו: בהמלצת <persName>ח. נ. ביאליק,</persName> הצליח בנו מרדכי, שעלה לארץ כחלוץ, להעלות את האב עם כל בני-ביתו לארץ. יחד עם הבנים והבנות שפנו לעמל-כפיים יומם וללימודים לילה, החליט על "שינוי ערכין", ולמרות הצעות מפתות של סוחרים, ידידיו מחו"ל, סילק ידיו ממסחר, ובימים הראשונים נחלץ לעבודת בנין. ברם, מפאת גילו, שוכנע ופנה לפקידות במוסד תורני, שממנו פרש לפנסיה לפני שנים מספר.
+
+ זכה לבנים ובני-בנים עוסקים בתורה ובתרבות, ורובם ככולם - מסורת-אבות בידיהם. בין הבנים: סופר, רופא-מדען, משפטן, בעל סמיכות לרבנות מישיבת נובהרדוק, מורות ומחנכות. צעירת הביות - חברה ביישוב דתי בחבל לכיש.
+
+ כעת הוא מפעילי ביהכנ"ס "נצח ישראל'', שם הוא מגיד שיעורים בפרשת השבוע ובמשנה היומית, עוסק בגמילות חסדים ובמתן בסתר, אוהב שלום ורודף שלום, אוהב הבריות ומקרבם לתורה.
+
+ יובלו השבעים-וחמש צויין בהערכה ע"י רעיו ומוקיריו הרבים, וכן בשורת מאמרים בעתונות הדתית.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4457 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4457</bibl><bibl>Volume: #14 ,Page: 4458 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4458</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2226 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2226</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה גינוסר (גינצברג)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אודיסה</placeName> (רוסיה), חשון תר"ן (אוקטובר 1889), לאביו <persName>אשר גינצבורג</persName> ("אחד העם"-נפטר בת"א, כ"ח טבת תרפ"ז) ולאמו<persName> רבקה </persName> בת <persName>מרדכי זלמן שניאורסון</persName> (ממשפחת אדמורים מפורסמים - נפטרה בחיפה ונקברה על יד בעלה בתל-אביב, י"ח אלול תרצ"א).
+
+ קיבל חינוך גימנסיה (ב<placeName>אודיסה</placeName>), שנה בישיבה של "רב צעיר" (טשרנוביץ) ב<placeName>אודיסה</placeName> ובאוניברסיטה בפריס, והוסמך לפילוסופיה.
+
+ עבד במחלקת התנוך של ההסתדרות הציונית בלונדון, וכן בהכנות להקמת האוניברסיטה העברית בירושלים.
+
+ ב-1917 נשא לאשה את <persName>שושנה </persName> (רוזה) בת ר'<persName> מרדכי</persName> <persName> בן הלל הכהן</persName> (ראה כרך ג', עמוד 1114).
+
+ בינואר 1922 עלה לארץ (בקור קודם - בקיץ תרס"ח).
+
+ היה מפקח על בתי הספר העבריים מטעם ממשלת המנדט.
+
+ השתתף בבנין האוניברסיטה העברית כחבר הועדה ואח''כ כעובד קבוע (אדמיניסטרטור).
+
+ אחרי הקמת המדינה נתמנה כציר ישראל באיטליה. כתב מאמרים רבים ב"התקופה", "השלוח", "מאזנים", "הארץ", "פלשטין פוסט" וכו'.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2226 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2226</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

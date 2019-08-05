@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4446 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4446</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זלמן פשין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>חסלביץ</placeName> (רוסיה) ביום ט' מנ"א תרמ"ח (1887).
+
+ לאביו ר'<persName> יחזקאל</persName> ולאמו <persName>רבקה.</persName>
+
+ קבל חנוכו בחדר.
+
+ בהיותו בן 13 עלו הוריו עם משפחתם ירושלימה וקבל חנוכו ב"עץ חיים".
+
+ בפרוץ מלחמת העולם הראשונה (1914) הוגלה למצרים. שם פרנס את עצמו בתור סופר סת"ם, עם בוא האנגלים חזר לארץ.
+
+ בשנת תרס"ח (1908) נשא לאשה את<persName> פיגה לאה</persName> בת ר'<persName> מרדכי יעקב זילברמן.</persName> היא היתה דור שלישי בארץ. ור' יעקב מרדכי היה שו"ב (שוחט ובודק) בבית המטבחים בירושלים והיה נקרא על שם אביו ר' <persName>יעקב</persName> ר' <persName>מוניס</persName> (כמו אחיו ר' <persName>משה </persName> ר' מוניס, ראה כרך שביעי, עמוד 2936).
+
+ אביהם ר' שמואל מוני עלה לארץ בשנת תקצ"ג (1833) בהיותו בן 9.
+
+ היה מהמלמדים הראשונים בת"ת "עץ חיים" וממנהלי הועד הכללי, "כנסת ישראל".
+
+ אשתו פיגה לאה נפטרה בימי עלומיה ביום כ"ב מנחם אב תר"פ (6.8,1920) והשאירה יתומים קטנים.
+
+ עם יסוד בית הכנסת המרכזי בירושלים "ישורון", שירת בו בקודש עד יום פטירתו.
+
+ במשך 37 שנים מלא את תפקידו בנאמנות והיה אהוב ומכובד על כל המתפללים.
+
+ נפטר בירושלים ביום ט"ז תשרי תשכ"ב (26.9.61).
+
+ צאצאיו:<persName> שמואל</persName> (אשתו<persName> צביה), רפאל</persName> (אשתו <persName>שושנה</persName> בת <persName>דוד לוין), רחל</persName> אשת <persName>יצחק ליפשיץ, פנינה</persName> ז"ל אשת <persName>זכריה מיר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4446 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4446</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

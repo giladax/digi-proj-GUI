@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2352 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2352</bibl><bibl>Volume: #5 ,Page: 2353 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2353</bibl>
+<bibl>Volume: #5 ,Page: 2354 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2354</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' אלכסנדר אייג</persName>
+
+</head>
+         <div><p> נולד בתשרי תרנ"ז (4.10.1896) במינסק שברוסיה הלבנה לאביו<persName> צבי </persName> (מורה).
+
+ ב-1909 עלה ארצה ולמד בבית-הספר החקלאי מקוה ישראל ואחר-כך בגימנסיה הרצליה. ב-1918 התנדב לגדוד העברי ומילא בו תפקיד של ספרן בספרית הגדוד, ומאז שחרורו ב-1920 ועד 1923 ניהל את הספריה המרכזית של הסתדרות העובדים.
+
+ מתוך התענינות עצמית התמסר להכרת הצמחים למיניהם ולסגולותיהם, נדד בכל אזורי הארץ להתבונן בצמחים ויחד עם חברו <persName>אליעזר פקטורובסקי</persName> אסף והכין
+
+ מעשב עשיר מצמחי הארץ, וכן נסע לארצות המזרח הקרוב וחקר גם בהן את הצומח, ועד שנת 1926 היה מרצה בבוטאניקה למורי בתי-הספר. במעשיו אלה נמשכה אליו תשומת לבם של הפרופ' <persName>אוטו וארבורג</persName> ושל ד"ר <persName>ישראל רייכרט</persName> ובתרפ"ה נתמנה כאס-סטנט לבוטאניקה בתחנת הנסיונות ברחובות ליד הפרופ' וארבורג, ומאותה שנה ואילך פרסם את תוצאות מחקריו בבוליטינים של התחנה, הוסיף לצאת לסיורי מחקר באזורים השונים של הארץ ויחד עם עוזריו ד"ר <persName>מ. זהר ונעמי פיינברון</persName> הגדיל את אוסף הצמחים ואת הידיעות עליהם, ולצמחים החדשים שגילה היה משלב בשמות שקרא להם (כזכותו של חוקר בעל תגלית בחקר הטבע) את השמות של וארבורג, אהרנסון (אהרן) או פקטורובסקי שמת בדמי ימיו (זה היה חברו הראשון בעבודה המדעית הבוטאנית, ובחדשי מחלתו היה אייג מרבה לסעדו על ערש דווי מתוך חברות נאמנה ומסורה).
+
+
+ ב-1928 עבר לאוניברסיטה ויסד בה את המחלקה לבוטאניקה ואת הגן הבוטאני, ותוך עבודה המשיך להשתלם בלימוד שיטתי וקיבל את התואר ד"ר למדעים. מאז היה מרצה באוניברסיטה ובשנה האחרונה לחייו נתמנה בה לפרופסור ולמנהל המחלקה לבוטאניקה. בשנות פעולתו המדעית החינוכית העמיד תלמידים הרבה שהלכו בדרכיו באהבה לצומח ובחקירתו לשם הכרת צורת החיים של אדמת ארצנו וללמוד על מנת לעשות בהחיאת האדמה ובהלבשת שממות מחשופיה במעטה של צמח ויער. ביחוד הגדיל לעשות בחקר שרידי היערות של ארצנו והאפשרויות לחידושם, ומובן מאליו שבידיעותיו ובעצותיו הגיש עזרה רבת-ערך לקה"ק ולאחרים לשם יעור הארץ, ואף ממשלת עיראק הזמינתו ב-1931 ליעץ לה בעניני יעור
+
+ מספר פרסומיו המדעיים בעברית ובלועזית עולה לעשרות. ביחוד הגדיל לעשות בסקירות הפיטוגיאוגרפיות על צמחי ארצנו, בגילוי "בן החטה", ועל הכל בספרו "מגדיר לצמחי ארץ-ישראל" שחיבר בהשתתפות עם זהר ופיינברון הנ"ל, שהוא ספר היסוד לידיעת צמחי ארצנו. אך סקירה מקיפה ומפורטת יותר אפשר לקבל מהרשימה של כל חיבוריו.
+
+ קשריו עם מקום לימודיו הראשון, מקוה ישראל, נשארו מהודקים על-ידי חורשת האלונים שנטע שם וטיפח אותה בחיבה ובהתענינות כל ימיו.
+
+ נפטר בירושלים, ג' אב תרצ"ח (31.7.38), ושמו הונצח בקריאת אגודת אנשי הבוטאניקה בשם "אגודת אייג".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2352 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2352</bibl><bibl>Volume: #5 ,Page: 2353 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2353</bibl>
+<bibl>Volume: #5 ,Page: 2354 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2354</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

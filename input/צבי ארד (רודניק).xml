@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5211 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5211</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי ארד (רודניק)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וילנה</placeName> ה' בטבת תר"ע (17.12.1909). לאביו ר' <persName>יהושע יוסף רודניק</persName> (מצאצאי וולוז'ין) ולאמו <persName>אסתר</persName> בת <persName>מאיר יעקב פולאצק.</persName>
+
+ קיבל חינוך מסורתי. נתחנך בבית ספר תיכון עברי ולמד הנדסת מכונות.
+
+ עלה לארץ בשנת 1931.
+
+ בשנת 1933 נשא לאשה את <persName>מיניה</persName> בת ר'<persName> דניאל</persName> <persName>שפירא.</persName>
+
+ מיום עליתו לארץ עד שנת 1958 היה חבר קיבוץ "עין שמר", לאחר מכן בתל-אביב.
+
+ כתב מאמרים רבים ב"טורים", "דבר".
+
+ החל לפרסם שירים ב"השומר הצעיר" בווארשה ב-1927 ולאחר מכן בעתונות הא"י.
+
+ ספריו: "בדלוק הסתיו" (שירים, 1939. בספר זה נפתחה הוצאת ספרי-שירה, ע"י "ספרית פועלים) ; "יומן באפר" (1946) ; "ביתו של אדם" (רומן, 1951) ; "על אדמתי" (שירים, 1954); "ימי ניסן" (רומן 1956).
+
+ תירגם: "פיקסו" לא. ולנטין (1958); "המנד
+
+ רינים" ל<persName>ס. דה-בובואר</persName> (1959); "דוקטור ז'יוואגו'' ל<persName>א. פסטרנק </persName> (1959); "הנפילה" ל<persName>א. קאמי</persName> (1959); "כליל בערב" לפי גירסת<persName> ויליאמס-אליס</persName> (1960); "שבעתיים כאור החמה" <persName>לר. יונק</persName> (1960); "רובינזון קרוזה" השלם לד. דיפו (1961); "משני עברי החומה" (השואה בפולין) <persName>לולאדקה</persName> (תשכ"ג); <persName>"עיר</persName> המזל" ל<persName>א. ויזל</persName> (1963); "אם הקרולים" ל<persName>ק. ברנדיס</persName> (1963); "עיונים בתורת התכנון" <persName>לס. גושצ'יב ומ.</persName> <persName>וואסילייב</persName> (1964); "אורלנדו" <persName>לווירג'יניה וולף</persName> (1965); "ליידי מקבת של מחוז מצנסק" ל<persName>לסקוב</persName> (1967).
+
+ ספרים שתרגם ושנזכרים בכרטיסית הספריה הלאומית וב"לכסיקון הספרות העברית בדורות האחרונים" מאת הסופר והחוקר<persName> גצל קרסל</persName> , בכרך א', בעמוד 143 (הוצאת "ספרית פועלים", 1965).
+
+ "300 שעות בגיטו הדועך" ל<persName>מ. ברלנד</persName> (1959) ; "מיומן בגיטו" ל<persName>חיה קלינגר</persName> (1959); <persName>"סינדבד הספן",</persName> "סיפור הדייג וכד הנחושת, מחצית השקר <persName>לא. וי</persName> <persName>ליאמס </persName> (תש"ך); "הזעם והלב" (קובץ סיפורי פולין, עם <persName>ב. טנא</persName> , 1960); "שלום עליכם" ל<persName>ש. ניגר</persName> (עם <persName>מ. בסוק</persName> , תש"ך); "הם ידעו זאת" (רומן <persName>לא. גרבו</persName> <persName>ביצקי</persName> (תשכ"א); "חיי יאנוש קורטשאק" ל<persName>ה. מורט</persName> <persName>קוביטש-אולטשאקובה</persName> (תשכ"א) ; "קרבן עולה" (רומן על רקע מלחמת השחרור) ל<persName>ד. שפיזהנדלר</persName> (1963); <persName>"גדרות המלך" </persName> (רומן על חיי קיבוץ) <persName>למ.</persName> <persName>פוליטי </persName> (1963).
+
+ סופר, כיום עסוק בתרגום ובעריכה. לאחרונה עורך "הד-החינוך" של הסתדרות המורים בישראל.
+
+ צאצאיו:<persName> תלמה</persName> אשת אלוף <persName>דוד אלעזר, יואש</persName> <persName>ואיתי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5211 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5211</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

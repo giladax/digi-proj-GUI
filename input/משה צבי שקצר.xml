@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 635 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/635</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה צבי שקצר</persName>
+
+</head>
+         <div><p> נולד בריגה, לטביה, בשנת תרט"ו (1835) לאביו <persName>מרדכי</persName> . למד בחדרים ובישיבות, ואח"כ למד בנאות ומכונאות. נשא אשה והמשיך לעבוד במקצועותיו.
+
+ הצטרף ל"אגודת ריגה" להתנחלות בארץ-ישראל. עלה ,ארצה באדר תרנ"א יחד עם המשלחת של חובבי ציון בראשותו של ד"ר <persName>זאב טיומקין,</persName> ליחד עם חבריו <persName>שניאור צבי שניאורסון ויעקב יוסף סגל</persName> ייצג את אגודת ריגה ברכישת האדמה בחדרה.
+
+ התישב בחדרה, בראשונה בין דרי ה"חאן" ואחרכך בביתו שבנה בטוב טעם. בנה את התנור הראשון במושבה, ואח"כ זנח את מקצועו והתמסר רק לעבודת האדמה. אך כשהתקשו המומחים בסידור המכונות בבית-החרושת לזכוכית שהוקם מטעם הבארון<persName> בנימין</persName> <persName>רוטשילד </persName> בטנטורה על-ידי <persName>מאיר דיזנגוף</persName> , הוזמן הוא שמה והקים את המכונות כהלכה, ושוב התמסר לעבודה החקלאית והיה מסור למושבה ולאדמתו.
+
+ שנתים אחרי בואו הביא ארצה את אשתו <persName>רישה</persName> ואת בנו <persName>אהרן (כיום </persName> רופא-שינים באמריקה) ובתו (נפטרה מהקדחת הצהובה).
+
+ גם עליו התגברה הקדחת הצהובה ובטרם יזכה לראות בימים הטובים שבאו על המושבה נפל בנופלים.
+
+ נפטר בבית-החולים בזכרון יעקב, ז' שבט תרנ"ז.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 635 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/635</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

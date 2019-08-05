@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4243 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4243</bibl><bibl>Volume: #13 ,Page: 4244 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4244</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר זרף</persName>
+
+</head>
+         <div><p> נולד בשנת תרס"ה (19.6.1905) בריגה שבלטביה (אז רוסיה).
+
+ לאביו <persName>אריה</persName> ולאמו <persName>שרה</persName> בת <persName>אליהו צין</persName> , שניהם ממשפחות מכובדות ביהדות הרוסית.
+
+ מפני הכיבוש הגרמני היגרה המשפחה לריבינסק שברוסיה הפנימית, שם הצטרף בגיל 13 לתנועה ציונית חלוצית. האב ושני אחים הוצאו להורג על ידי הקומוניסטים בשנים 1918-19, וב-1920 חזר עם אמו לריגה וגמר את לימודיו בבית-הספר התיכון.
+
+ השתתף ביסוד ארגון בית"ר בריגה והיה מזכירו הראשון.
+
+ ב-1924 עלה לארץ בתור חלוץ.
+
+ הצטרף לקבוצת "מעבר" בפתח-תקוה ועבד כפועל חקלאי. המשיך בעבודה בבנין ובסלילת כבישים בתלאביב והיה מחלוצי הובלת "הזיפזיף" על גבי גמלים.
+
+
+ השתייך לקבוצת <persName>מנחם גנסין</persName> ז"ל, ממיסדי התא"י (התיאטרון הארצישראלי, שקדם ל"הבימה"). השתתף עם הראשונים בייסוד המפלגה הרביזיוניסטית ובית"ר בארץ והיה מזכירה הראשון.
+
+ שנתאלמן ממנה נשא לאשה את<persName> חיה</persName> בת <persName>צבי וולפרט.</persName>
+
+ מתוך הכרת-חובה לאומית התגייס ב-1934 למשטרה, וב-5 שנות שרותו בתחנות תל-אביב ורמת-גן נודע כאחד החוקרים המעולים וזכה בלא פחות מ-49 פרסי-גמול על הצטיינויות. במקרים רבים עזר לאסירי ציון (ביחוד כש-11 נוטרים נאסרו והואשמו בהריגת ערבים בבית-דגן), למעפילים שהיו צפויים לתפיסה, וכו'.
+
+ ב-1940 התגייס לצבא הבריטי, הועלה לדרגת קצין - לפי ידיעתו היתה לכך התנגדות מטעמים מפלגתיים מצד בעלי-השפעה יהודיים, אבל לשוא - ושימש בתור מפקד פלוגות בכל מסע המלחמה דרך מצרים, המדבר המערבי, קפריסין, יוון, עד לקרבות המכריעים באיטליה. וזכה להשתתף בחקירת שבויים ופושעי-מלחמה גרמניים. אחרי שחרורו מהצבא ב-1946 שימש שנים מספר כסגן יו"ר הסניף הארצישראלי של "הלגיון הבריטי". עבד 5 שנים בתור מזכיר כללי של האיגוד למסחר
+
+ בצרכי הנדסה, אח"כ פקיד בכיר במשרדי הפירמה ל. פרומין ובניו, ובעת פקיד בכיר במשרדי קייזר-אילין תעשיות בע"מ.
+
+ בנו:<persName> אריה.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ל' חשון תשכ"ט (21.11.68) (ראה כרך י"ג, עמוד 4243) 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4243 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4243</bibl><bibl>Volume: #13 ,Page: 4244 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4244</bibl>
+            <bibl>Volume: #18 ,Page: 5491 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5491</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

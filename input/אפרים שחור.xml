@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2803 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2803</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים שחור</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ט סיון תרס"א (16.6.1901).
+
+ לאביו הרב <persName>זאב וולף שחור</persName> (ראה כרך ג', עמוד 1462) ולאמו<persName> איטה היינה</persName> בת ר' <persName>משה ליב הכהן</persName> , מקלונריה,
+
+ קבל חנוך מסורתי בת"ת וישיבת עץ-חיים בירושלים ובבית ספר למסחר בירושלים.
+
+ היה פעיל בעבודה צבורית בארגוני הנוער בירושלים. בשנת תרפ"ג (1923) נשא לאשה את<persName> חוה</persName> בת הרב <persName>יהודה ליב זלצר</persName> , מארצות הברית.
+
+ בשנת 1924 גאל מאפטריאך היוני את הפרדס והכרם בשכונת רוחמה בירושלים. מד"ר פואד דג'אני גאל את הפרדס בגבעת הרצל בתל-אביב וכן גאל שטחים נוספים.
+
+ משנת 1928 - נאמן "קרן ישראל רוקח" מאמריקא, שבעזרתו הוקם כפר מרמורק (1931), גבעת ישראל רוקח בבני-ברק, שכונת הפועל המזרחי בירושלים, שכונת יצחק בחדרה ובתים בכפר חסידים.
+
+ יו"ר ועד בית הכנסת מושב זקנים ברחוב אלנבי בת"א.
+
+ היה חבר אספת הנבחרים בזמן קום המדינה בשם אחוד דתי בלתי מפלגתי, יו"ר קרן החנוך התורני בא"י, יו"ר אחוד דתי בלתי מפלגתי בישראל.
+
+ בעל בית מסחר לרפואות בסיטונות ויצרן של תכשירי רפואה של חברת "תרופה בע''מ" שנוסדה בלונדון 1936.
+
+ בנותיו:<persName> יהודית </persName> אשת העו"ד<persName> נפתלי מאירס, מרים</persName> אשת המהנדס <persName>ישע ברגר, יעל </persName> אשת<persName> עמיהוד בן-פורת</persName> (שיינזון).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2803 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2803</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

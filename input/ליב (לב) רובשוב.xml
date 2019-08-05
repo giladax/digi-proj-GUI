@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5201 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5201</bibl><bibl>Volume: #17 ,Page: 5202 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5202</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ליב (לב) רובשוב</persName>
+
+</head>
+         <div><p> נולד ב<placeName>לנינגרד</placeName> (ברית המועצות), י"ג אייר תרפ"ה (7.5.1925).
+
+ לאביו ד"ר<persName> אברהם רובשוב</persName> (ראה כרך ט"ז, עמוד 4947), אחיו של ה'<persName> זלמן שזר</persName> (נשיאה השלישי של מדינת ישראל. ראה כרך שלישי, עמוד 1111, וכרך י"ג, עמוד 4354) ולאמו <persName>נחמה</persName> בת <persName>שמשון פינקל</persName> <persName>שטיין.</persName>
+
+ קיבל חינוך בגימנסיה נקרסוב ב<placeName>לנינגרד</placeName>, ואחר כך במכון ללימודי המזרח, במיוחד התמחות בסינולוגיה, במוסקבה; ולאחר מכן סיים את האוניברסיטה בלנינגראד - המקצוע מינולוגיה. סיום הגימנסיה בשנת 1943; בשנת 1945-1943 במוסקבה ; ומשנת 1950-1945 באוניברסיטה בלנינגראד. היה מורה לסינית במוסדות שונים בלנינגראד.
+
+
+ בספטמבר 1965 עלה לארץ.
+
+ ביקור בשש ארצות במזרח הרחוק : הודו, הונגקונג, תאילנד, סינגפור, מקאו וקמבודג'ה.
+
+ כתב מאמר על הסופרת האמריקאית <persName>פרל בק,</persName> מאמרים על רשמי ביקור בשש הארצות הנ"ל. בשנת 1967 פרסם ספר עברי ראשון ללימוד
+
+ השפה הסינית המודרנית על-ידי המכון ללימודי אסיה ואפריקה באוניברסיטה העברית בירושלים. בספר 25 שיעורים למתחילים, ובסוף הספר ישנם נספחים ובהם שיחות שימושיות.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בירושלים, י' שבט תשכ"ט (29.1.69) (ראה כרך י"ז, עמוד 5201)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5201 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5201</bibl><bibl>Volume: #17 ,Page: 5202 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5202</bibl>
+            <bibl>Volume: #18 ,Page: 5491 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5491</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

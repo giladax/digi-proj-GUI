@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 996 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/996</bibl><bibl>Volume: #2 ,Page: 997 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/997</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> אליעזר מלחי </persName>
+
+</head>
+         <div><p> בן שלמה זלצמן וליובוב (אהובה) לבית גרייבסקי. נולד בכ"ב ניסן תרע"ז (13.4.1917) בעיר לנינגראד אשר ברוסיה. מצאצאי הגאון מוילנה, ואביו עסקן ציוני ידוע ומו"ל ציוני מפורסם.
+
+ בשנת 1924 בא עם הוריו ארצה ונכנס ללמוד בגימנסיה "הרצליה". את חוק למודיו בגימנסיה סיים בשנת 1934, ואחרי שנת עבודה חקלאית בגליל העליון יצא ללונדון ושם נכנס ללמוד חוק ומשפט באוניברסיטה הלונדונית.
+
+ באוניברסיטת לונדון סיים את למודיו בשנת 1939 וקבל את התואר מוסמך למשפטים .LL. B בשנת 1940 עבר בהצטיינות את בחינת הבאר (השני בין 170 נבחנים), קבל את התואר בריסטר וחזר ארצה. בארץ-ישראל המשיך ללמוד את חוקי הארץ ועמד בהצלחה בשנת 1941 בבחינות סיום לעורכי דין זרים. בשנות 42-1940 עבד במשרדי עורכי הדין עליאש והורוביץ בירושלים. בשנת 1942 קבל משרה של יועץ משפטי במחלקת התעשיה הקלה על יד מועצת האספקה המלחמתית במשך השנים 1944-1942 והיה תובע כללי במשפטי ספסרות והפקעת שערים בזמן המלחמה. באחד בינואר 1945 נתמנה לשופט שלום ממשלתי בתל-אביב ובתפקיד זה נמצא גם כיום, פרסם מאמרים בעתונות המשפטית בארץ ישראל. חבר מועצת התאחדות הבוגרים של הגימנסיה העברית "הרצליה" בת"א.
+
+ בשנת 1946 נשא לאשה את הגברת רחל בת יצחק רפאלי מירושלים.
+
+ בנו:<persName> שלמה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 996 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/996</bibl><bibl>Volume: #2 ,Page: 997 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/997</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

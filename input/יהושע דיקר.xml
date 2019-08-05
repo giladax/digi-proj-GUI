@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4283 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4283</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהושע דיקר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>דלאטין</placeName> (גליציה) בשנת תר"ן (8.12.1890).
+
+ לאביו <persName>יהודה דיקר</persName> ולאמו<persName> לאה.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ עסק במסחר.
+
+ היה פעיל בארגונים ציוניים שונים בעירו.
+
+ בשנת 1920 נשא לאשה את<persName> הינדה (הלה)</persName> בת<persName> משה</persName> <persName>צבי גלובינסקי</persName> (נפטרה בתל-אביב, ד טבת, תשכ"ב 11.12.1961).
+
+ בדצמבר 1933 עלה לארץ.
+
+ עסק במסחר.
+
+ בנה בשנת 1933 את בית החרושת "גרב''.
+
+ ממייסדי "רמת-ישי" ע"י חיפה.
+
+ השתתף בהקמת בתי חרושת שונים בארץ.
+
+ היה חבר הנהלת בית הכנסת וקופת הגמ"ח של "הפועל המזרחי" בת"א.
+
+ היה פעיל בהנהלת בית הכנסת "ישורון" בת"א.
+
+ היה נוהג מדי-פעם בפעם לסדר בביתו מסיבות שונות למתפללי בית הכנסת.
+
+ היה פעיל במוסדות צדקה וחסד ובעיקר למען הדרת התורה ולומדיה.
+
+ נפטר בתל-אביב, י"ח תמוד, תשכ"ג (10.7.1963), והובא לקבורה בנחלת יצחק.
+
+ צאצאיו: ד"ר <persName>שמואל דיקר ז"ל, בת-שבת קרמר,</persName> <persName>רבקה</persName> אשת <persName>ורנר פרוסקאור.</persName>
+
+ נכדיו:<persName> דניאל, ליאורה, אורית, טליה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4283 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4283</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

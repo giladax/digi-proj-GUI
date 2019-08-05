@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4507 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4507</bibl><bibl>Volume: #14 ,Page: 4508 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4508</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יחיאל מיכל וסרמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קישינוב</placeName> (רומניה), ט"ו אלול תרס"ה (15.9.1905).
+
+ לאביו הר' <persName>משולם זיסא יהודא וסרמן</persName> ולאמו <persName>שרה</persName> <persName>רבקה</persName> בת <persName>אברהם פרישמן.</persName>
+
+ קיבל חינוך מסורתי בישיבת קישינוב מרבותיו הגאונים המפורסמים - הרב הכולל למדינת בסרביה והגליל הרב הגאון <persName>מהרי''ל צירלסאן</persName> זצ"ל והרב הגאון ראש בתי הדין ב<placeName>קישינוב</placeName> <persName>הר''מ גינשפיירג</persName> זצ"ל וגאון הגאונים הרב <persName>שמשון אהרן פולנסקי</persName>
+
+ זצ"ל, הנקרא בפי כל "דער טעפליקער רב".
+
+ בשנת תרפ"ז (1927) נשא לאשה את <persName>חיה פייגא</persName> בת ר' <persName>יוסף יוזפיי אברהם.</persName>
+
+ היה רב בעיר סוני ברומניה.
+
+
+ היה פעיל במוסדות הדתיים והציונים בעירו.
+
+ בשנת תש"י (1950) עלה לארץ.
+
+ נתמנה כחבר ברבנות ב"חולון".
+
+ מטפל במחלקת טהרת המשפחה של הרבנות ומקובל אצל כל העדות השונות בחולון.
+
+ מדי שבת הוא מבקר בבתי כנסיות בהרצאות ובדרשות.
+
+ מטעם חבר הרבנים של "הפועל המזרחי" הוא מאמץ כמה מקומות בנגב בביקורם אצלם מדי חודש בחדשו ומשתתף בעניני הדת שלהם.
+
+ בתו:<persName> רוזא לאה אשת חיים וקספרס.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4507 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4507</bibl><bibl>Volume: #14 ,Page: 4508 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4508</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3854 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3854</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב רייזר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>בלז</placeName> (גליציה) בשנת תרנ"ג (6.1.1893). לאביו<persName> אשר רייזר </persName> (סוחר).
+
+ קיבל חינוך מסורתי וכללי. בי"ס טכני בלבוב, אוניברסיטה בוינה (אוסטריה) וקיבל תואר מהנדס (1915).
+
+ היה חבר פעיל ועסקן ה"התאחדות''.
+
+ עד שנת 1919 מהנדס ממשלתי באוסטריה.
+
+ בשנות 1919-1925 מהנדס פרטי בוינה ולבוב.
+
+ בשנת 1925 עלה לארץ.
+
+ משנת 1926 מהנדס ראשי של הסוכנות היהודית בירושלים.
+
+ היה נשיא אגודת האינג'נרים והארכיטקטים בא"י.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3854 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3854</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

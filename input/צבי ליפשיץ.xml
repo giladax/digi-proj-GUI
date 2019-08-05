@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4325 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4325</bibl><bibl>Volume: #13 ,Page: 4326 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4326</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי ליפשיץ</persName>
+
+</head>
+         <div><p> נולד ביום י"ח חשון, תרע"ד (18.11.1913) בעיר וארשה בירת פולין.
+
+ לאביו<persName> אשר ליפשיץ</persName> ולאמו <persName>אסתר.</persName>
+
+ בשנת תרפ"ג (1923) עלתה המשפחה לארץ והתיישבה בכפר חסידים ומשם עברו לעפולה.
+
+ גדל בעמק ולמד בבית-ספר עממי.
+
+ עבד במשק ההורים ונשא יחד אתם בבל התלאות של ההתאחזות בקרקע.
+
+ כשבגר, עבר לעיר, התיישב בתל-אביב והחל לעבוד בנהגות.
+
+
+ נשא אשה והיה חבר ה"הגנה".
+
+ בימי המאורעות והמלחמה היה תמיד בדרכים בשירות ה"הגנה". זמן מה עסק ברכישת מכוניות צבאיות ובהעברתן לרשות יחידת ה"הגנה". כשהותקפה השיירה בדרך בין חיפה לתל-אביב ליד הכפר "גבע" ביום י"ז אדר ב', תש"ח (28.3.1948) והוא נהג במכונית צבאית נפל ליד ההגה. למחרת היום נקבר בנחלת יצחק.
+
+ השאיר אשה ושני ילדים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4325 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4325</bibl><bibl>Volume: #13 ,Page: 4326 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4326</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

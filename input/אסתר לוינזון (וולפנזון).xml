@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2822 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2822</bibl><bibl>Volume: #7 ,Page: 2823 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2823</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אסתר לוינזון (וולפנזון)</persName>
+
+</head>
+         <div><p> נולדה בירושלים, בשנת תרל"ט (1879).
+
+ לאביה<persName> גדליהו וולפנזון</persName> (מצאצאי הגאון מוילנא. ראה את הערך שלו בעמוד 2821) ולאמה<persName> חוה</persName> בת <persName>משה שלמה</persName> <persName>בסאן.</persName>
+
+ קבלה חנוך מסורתי בבית הוריה ובבית ספר אליאנס (כי"ח) בירושלים.
+
+ נישאה להרב <persName>אלכסנדר לוינזון</persName> (ממשפחת רבנים).
+
+ היתה בעלת חוש אמנותי לעבודת יד ואשת חיל.
+
+ לא נטשה את עיר מולדתה ירושלים במלחמת העולם הראשונה, למרות היותה נתינה בריטית (אויבת תורכיה) ונשארה נאמנה לעירה למרות הסבל והתלאות שעברו עליה ועל בני משפחתה.
+
+
+ עזרה בימים הקשים ההם לכל נצרך, אמיצה אשר לחמה את מלחמת החיים בכבוד ובקומה זקופה.
+
+ היתה אחת הראשונות בשכונת זכרון משה א' בירושלים, אשר קלטה את טובי הישוב הירושלמי.
+
+ נפטרה בירושלים, כ"ז כסלו תש"ד (24.12.1943).
+
+ צאצאיה :<persName> עמנואל</persName> (מוסמך למדעי הרוח), <persName>משה</persName> (עורך דין), <persName>דוד</persName> (פקיד בממשלה),<persName> שושנה</persName> אשת <persName>אברהם רוזנבלט.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2822 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2822</bibl><bibl>Volume: #7 ,Page: 2823 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2823</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

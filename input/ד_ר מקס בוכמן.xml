@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4081 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4081</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר מקס בוכמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רגנסבורג</placeName> (גרמניה) בשנת תרנ"ו (14.2.1896).
+
+ לאביו <persName>סטפן בוכמן </persName> ולאמו<persName> מטה </persName> בת<persName> לצרום רוזנברג.</persName>
+
+ קיבל חינוך תיכוני וגבוה.
+
+ בשנת 1914 התנדב לצבא הגרמני, שירת בא"י בשנה האחרונה למלחמת העולם הראשונה, נפל בשבי הצבא הבריטי והועבר למצרים.
+
+ בגמר המלחמה חזר לגרמניה ולמד רפואה M.D.. השתלם בחו"ל במשך שנתיים. קיבל תואר ד"ר לרפואה. מומחה לרפואה פיזיקלית ולשקוט.
+
+ בשנת 1924 עלה לארץ.
+
+ נשא לאשה את <persName>מרים</persName> בת<persName> אלברט שולהופר.</persName>
+
+ עבד ברופא פרטי וכרופא מחוזי של קופת חולים.
+
+ היה קצין רפואי ראשי בהגנה. וכן היה קצין רפואי במשרד הבריאות.
+
+ משנת 1955 מנהל רפואי של "חמי טבריה''
+
+ סגן יו"ר של האגודה לרפואה פיסיקלית ולראומטולוגיה.
+
+ יו"ר ההסתדרות הרפואית - סניף טבריה.
+
+ נשיא לשעבר של מועדון רוטרי בטבריה.
+
+ היה ציר בכינוסים הבין לאומיים לראומטולוגיה.
+
+ בא-כוח רפואי של ישראל בFITER-.
+
+ פרסם חוברת ארכיאולוגיה, וכן "טבריה ומעינותיה החמים" (הוצאת חמי טבריה, 1956).
+
+ פרסם 40 פרסומים מדעיים על מחלות ראומטיות, טרופיות ועל בלנאולוגיה.
+
+ בנותיו :<persName> חנה</persName> אשת<persName> צבי גרינברג, איה</persName> אשת<persName> יוסף</persName> <persName>לשנר, מיכל</persName> אשת<persName> יורם לולק.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4081 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4081</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4675 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4675</bibl><bibl>Volume: #15 ,Page: 4676 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4676</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה בן-שך (שכביץ)</persName>
+
+</head>
+         <div><p> (שמו הספרותי: <persName>יהודה הגדרתי)</persName>
+
+ נולד בגדרה, ה' סיון תרע"ב (21.5.1912).
+
+ לאביו<persName> מרדכי שכביץ </persName> (ראה כרך ג', עמוד 1522) בן ר'<persName> יעקב הכהן שכביץ</persName> (כאשר נרכשה אדמת <persName>קטרה</persName> , במקום שנוסדה המושבה הבילויי"ת גדרה, קנה גם הוא חלקת אדמה ב-1883. ראה כרך ראשון, עמוד 388) ולאמו <persName>צפורה </persName> בת <persName>יהודה</persName> <persName>רמברג.</persName>
+
+ קבל חנוך עברי תיכוני.
+
+ עתונאי בעתון היומי "הבקר" מאז יסודו (1935), בשבועון "בוסתנאי", וכתב שירים ומאמרים ב"בוסתנאי-לנוער", בחתימת: <persName>יהודה הגדרתי.</persName>
+
+ איש בטחון מרכזי ב"הגנה" במושבתו גדרה ובמחוז הדרום, פעיל ב"מכבי", "התאחדות האכרים", "הציונים הכלליים" ו"הליברלים".
+
+ במלחמת השחרור היה כתב צבאי בכיר.
+
+ בשנת 1940 נשא לאשה את <persName>בתיה</persName> בת<persName> פנחס</persName> <persName>צ'רניאק.</persName>
+
+ צאצאיו:<persName> גלעד</persName> (בוגר אוניברסיטת ירושלים. משורר ומלחין);<persName> ליפשה </persName> (תרזה. סיימה השנה את
+
+
+ צה"ל ואת הסימינר הצבאי ונרשמה לאוניברסיטת ירושלים. מפקדת "המכבי-הצעיר" בגדרה, מנצחת על מקהלת "המכבי הצעיר") ;<persName> פנחס</persName> (תלמיד).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4675 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4675</bibl><bibl>Volume: #15 ,Page: 4676 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4676</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

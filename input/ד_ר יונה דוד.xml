@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4940 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4940</bibl><bibl>Volume: #16 ,Page: 4941 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4941</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יונה דוד</persName>
+
+</head>
+         <div><p> נולד ביוולרי (יאסי) רומניה, י"ג אלול תרע"ט (8.9.1919).
+
+ לאביו <persName>מרדכי בן אברהם אליעזר </persName> ולאמו<persName> היינה</persName> <persName>רייזה </persName> בת חיים מאטוס.
+
+ קיבל חינוך מסורתי וסיים ישיבת "בית אהרן" ביאסי ב-1935. סיים באוניברסיטה בבוקרשט למדעי רוח והתמחה באסתיטיקה ובפרלולוגיה רומנית (1947). קיבל תואר דוקטור לפילוסופיה באוניברסיטה העברית בירושלים בשנת תשכ"ה (1965).
+
+ היה חבר ועד הפועל של ההסתדרות הציונית ברומניה.
+
+ היה פעיל בעליה ב' ואחראי למחלקת התרבות של תנועת הנוער "הבונים" ושל ההסתדרות הציונית ברומניה.
+
+
+ מרצה לספרות וללשון עברית בסמינרים יהודיים.
+
+ בשנת 1949 הוברח מרומניה, כשנסגרו השערים בפני יהודי רומניה ועלה לארץ.
+
+ היה חבר קיבוץ "עין זיתים" עד לפירוקו.
+
+ חבר באיגוד העולמי למדעי היהדות.
+
+ בשנת 1962 נשא לאשה את<persName> דליה</persName> בת<persName> צבי</persName> <persName>ששון.</persName>
+
+ מורה וחוקר ספרות.
+
+ מרצה באוניברסיטת תל-אביב בספרות עברית.
+
+ כתב וכותב מאמרים בעתונות וכו': ב"תרביץ", "על המשמר", "דבר", "גזית'', גליונות", "עכשיו", "הפועל הצעיר", "האומה", "חרות".
+
+ ערך רבעון לשירה "עקד" יחד עם איחמר יעיז קסט (1960-61) ועוד.
+
+ פרסם ספרים: "במכחול" (שירים, הוצאת "גזית", תשט"ז); "שירים על לא אהבה" (שירים, הוצאת "גזית" תשכ"א); "השירה העברית בימי הביניים" (הוצאת "הדר", תשי"ח, תשכ"ד); ''מנדלי מוכר ספרים "בביקורת העברית" (ביבליוגרפיה תשכ"ב); "את אשר בחרתי בשירה" (הוצאת "'הדר", תשי"ט); "ר' יהודה הלוי" (הוצאת "ז'ק", תשי"ט); "המקוללים" אנתולוגיה לתרגום שירת <persName>בודלייר, ורלין ורימבו</persName> (הוצאת עקד", תשכ"א) ; "הכוזרי" (הוצאת אחיעבר" תשכ"ב); "שירת טשרניחובסקי" (בהוצאת המכין הישראלי להשכלה שבכתב, תשכ"ו).
+
+ ברומניה הוציא ספר שירים ביידיש "ביטערניש" (יאסי, 1945), והוא ספר השירים הראשון לאחר שחרור רומניה. כן הוציא אנתולוגיה של ההומור העברי ברומנית (1947).
+
+ פרסם מאות מאמרים בתחום היהדות בשפה הרומנית.
+
+ צאצאיו:<persName> ישראל, ורד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4940 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4940</bibl><bibl>Volume: #16 ,Page: 4941 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4941</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4487</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב מנחם מרדכי הכהן מרקוס</persName>
+
+</head>
+         <div><p> נולד סלבקוב בשנת תרס"ט (11.5.1909).
+
+ לאביו ר' שלמה <persName>פנחס מרקוס </persName> (מנכדי רבי<persName> משה</persName> <persName>וושעבור) </persName> ולאמו <persName>מרים.</persName>
+
+ קיבל חנוך מסורתי בחדר ובישיבות והוסמך לרב.
+
+ לאחר מלחמת העולם השניה היגר לארצות הברית ונתקבל כרב בניו-יורק.
+
+ היה חבר באגודת הרבנים.
+
+ שירת כרב בבית הכנסת בפלדבוש ובבית הכנסת לינת הצדק בניו-יורק.
+
+ בשנת 1946 נשא לאשה את <persName>מינדל מלכה</persName> בת אלכסנדר בן משה חמודיס-קלב.
+
+ בשנת 1957 עלה לארץ.
+
+ בכספו רכש בית ששימש לבית כנסת בצפון תל-אביב ונתמנה לרבה. הרביץ שם תורה לנוער ולמבוגרים לא על מנת לקבל פרס.
+
+ פרסם בטאון לחידושי תורה, הלכה והאגדה "הצפון" וגם פרסם מאמרים בעתונות הדתית בארץ ובחו"ל.
+
+ לחם נגד המיסיון באמצעים קונסטרוקטיביים.
+
+ נפטר בתל-אביב, כ''ו כסלו תשכ"ג (23.12.62).
+
+ בנו; <persName>שלמה פנחס.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4487</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

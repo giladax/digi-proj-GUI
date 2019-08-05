@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1602 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1602</bibl><bibl>Volume: #4 ,Page: 1603 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1603</bibl>
+<bibl>Volume: #4 ,Page: 1604 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1604</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר האזרחי (ז'ק)</persName>
+
+</head>
+         <div><p> נולד ברוסיה, ו' בטבת תרנ"ו (2.1.1895), לאביו <persName>שאול,</persName> ולאמו <persName>ליבה</persName> בת <persName>מרדכי בכלוצקי,</persName>
+
+ למד באוניברסיטה.
+
+ היה יו"ר ההסתדרות הציונית בקמיניץ פודולסק, חבר העיריה ויו"ר הקהלה היהודית דשם.
+
+ עלה ארצה בשנת 1921.
+
+ באותה שנה נשא לאשה את <persName>צפורה</persName> בת<persName> יצחק</persName> <persName>ברודסקי.</persName>
+
+ כל שנותיו עבד למען גאולת הארץ. הוא חבר ההנהלה של הקק"ל. היה שליח מטעם הקק"ל באירופה.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1602 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1602</bibl><bibl>Volume: #4 ,Page: 1603 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1603</bibl>
+<bibl>Volume: #4 ,Page: 1604 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1604</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

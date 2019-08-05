@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2786 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2786</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב אזולאי</persName>
+
+</head>
+         <div><p> נולד בצפת, בשנת תרנ"ט (ספטמבר 1899).
+
+ לאביו<persName> יצחק</persName> (ממשפחה המתיחסת להרב "חיד"א -<persName> חיים יוסף דוד אזולאי </persName> זצ''ל - ראה כרך שני, עמוד 555) ולאמו<persName> חנה </persName> לבית <persName>אדרעי.</persName>
+
+ למד בחדר, בביה"ס כי''ח, בביה"ס למשפטים בירושלים ובתקופה מאוחרת יותר הוסיף ללמוד באוניברסיטה העברית (מדעי-המזרח: דת, תרבות, ודברי ימי האיסלם, הלשון הערבית - שירתה וספרותה. תרבות צרפת וספרות עברית).
+
+ בשנת 1925 נשא לאשה את<persName> שרה</persName> בת<persName> אברהם</persName> <persName>רוזנגרטן.</persName>
+
+ בראשון ליולי 1920 נתקבל בשירות ממשלת המנדט (א"י).
+
+ כיהן כשופט שלום ושופט שלום ראשי בירושלים ואח"כ כשופט מחוזי בחיפה.
+
+ לאחר קום המדינה נתמנה נשיא בית המשפט המחוזי בחיפה.
+
+ במקומות עבודתו מלא תפקידים צבוריים בשטח סוציאלי, תרבותי וחברותי.
+
+ יו''ר הועד למען החיל (עד 1954), אח בלשכת בניברית, חבר המועצה של העדה הספרדית, נציגה הרשמי של חברת ישראל-אמריקה "מגדלאור" במוסד לשקום העיר בחיפה. יו''ר הועדה הצבורית שע"י המוסד הזה וחבר באגודה לשקום העיר.
+
+ יו"ר הועד לשקום האסיר ועוד.
+
+ בניו:<persName> יצחק, אברהם.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2786 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2786</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 324 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/324</bibl><bibl>Volume: #1 ,Page: 325 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/325</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פייבל וילנר</persName>
+
+</head>
+         <div><p> נולד בניסוויז, פלך מינסק, רוסיה, בשנת תר"מ (10.3.1880) לאביו ר'<persName> יעקב זאב</persName> , סוחר בר-אורין. למד בחדר ובישיבה וכשנתגלה בו כשרון אמנותי למד חריטה ופיסול.
+
+ בשנת תרנ"ז עלה ארצה עם הוריו והשתקעו זמנית בירושלים, כי אביו שאף להתישב על הקרקע במושבה ולהיות אכר, אך אביו נפטר לפני הגשימו את תכניתו והמשפחה נשארה בירושלים. בתרנ"ט
+
+
+ נשא לאשה את<persName> רבקה</persName> בת-זקוניו של ר'<persName> יצחק ליפקין</persName> (מחלוצי המסחר העברי בארץ ופעיליו, עסקן צבורי משובח, שבשנת תרנ"ד יסד והקים בכספו את השכונה "שערי ירושלים", הנקראת שכונת "אבו בסל", ליד שכונת "שערי צדק").
+
+ כשיסד פרופ' <persName>בוריס שץ </persName> בשנת תרס"ו את ביתהספר "בצלאל" בירושלים נתקבל לעבוד בו בפיסול ובחריטה והיה מראשוני העובדים במוסד. פעם חרט על גרעין של חיטה פרק משיר השירים ונתפרסם לשבח בעבודתו.
+
+ בגלל חיכוכים שפרצו בינו ובין הפרופ' שץ (בגלל סירובו לעבוד בגילוי-ראש, ועוד) עזב ב-19.11.1913 את העבודה ב"בצלאל", יצא לאמריקה ושם הצליח במקצועו והיה תומך בכספו במוסדות ובמפעלים היהודיים בארץ.
+
+ גיסו הוא מר<persName> אהרן יעקב לוי</persName> , מהנהלת בנק אנגלו-פלשתינה בתל-אביב.
+
+ נפטר בניו-יורק, ט"ו ניסן תש"ו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 324 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/324</bibl><bibl>Volume: #1 ,Page: 325 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/325</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

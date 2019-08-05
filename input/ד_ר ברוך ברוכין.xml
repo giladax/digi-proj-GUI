@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3580 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3580</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר ברוך ברוכין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת תרנ"א (25.8.1891).
+
+ לאביו<persName> יהודה ליב</persName> ולאמו <persName>שיינה ביילה</persName> .
+
+ קיבל חינוך מסורתי, בית מדרש למורים (מיסודו של <persName>דוד ילין וח. זוטא</persName> ), אוניברסיטה ע"ש<persName> קייסר וילהלם</persName> בברלין, גמר פקולטה לרפואה. בהיותו סטודנט לרפואה, שימש גם מורה לעברית
+
+ ומדעי היהדות בבית הספר בברלין, אח''כ רופא בבית החולים היהודי בברלין.
+
+ היה מורה בבית-ספר למל.
+
+ בשנות מלחמת העולם הראשונה שירת כקצין-רופא בצבא התורכי-גרמני בארץ ובחזית סואץ.
+
+ היה רופא בפוריה, מסחה, ימה, כנרת, צמח, ראש פינה וטבריה, בגליל התחתון והעליון, רופא של קבוצים ומושבות עבריות.
+
+ נלחם בקדחת ובמחלות אחרות שהפילו חללים בימים ההם.
+
+ עבר ל"הדסה" ונשלח לגרמניה להשתלמות, כדי להרחיב את ידיעותיו הרפואיות. בחזרו לארץ, התמנה כרופא בחברון, עבד אח"כ ב<placeName>ירושלים</placeName> ובשירותי "הדסה" בתל-אביב.
+
+ בשנת 1919 נשא לאשה את <persName>שושנה</persName> בת <persName>מתתיהו</persName> <persName>לוינזון</persName> מפוריה (עלתה לארץ בשנת 1914 מסט'-לואיס שבארצות-הברית).
+
+ עמד בראש השירות הרפואי של המשמר האזרחי.
+
+ היה רופא ההגנה בשנות 1920-1939.
+
+ בשנת 1933 פתח קליניקה פרטית בתל-אביב.
+
+ היה פעיל בהסתדרות הרפואית ויסד ביחד עם ד"ר <persName>מנדלברג</persName> את הליגה למלחמה בשחפת.
+
+ היה ציר בקונגרסים רפואיים בווישי.
+
+ מילא תפקידים חשובים בבני-ברית, בלשכות "שערי ציון" ו"שמעון רוקח".
+
+ היה חבר נאמן בחברה לתולדות הרפואה ולקח חלק רב בפעולותיה.
+
+ פרסם ספר רפואי (בגרמנית, 1916).
+
+ פרסם מאמרים בעתון "הרפואה" על נושאים רפואיים.
+
+ נפטר באיסטנבול, (תורכיה), י"א תשרי תשי"ט (25.9.58). גופתו הועברה לירושלים. בניו:<persName> יהודה, מתתיהו, אבינועם.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3580 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3580</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

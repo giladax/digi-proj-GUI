@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 226 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/226</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יוסף רפאל טראגאן</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תקע"ב (1812), לאביו אליהו טראגאן, ממשפחה עתיקה שמוצאה מגולי ספרד מהעיר טראכאם (משם העיר נשתבש שם המשפחה ל"טראגאן"), שהשתקעה אחרי גירוש ספרד בירושלים. למד בתלמוד-תורה ובישיבה והוסמך עלידי רבני ירושלים ל"חכם" (רב). נשא לאשה את <persName>פרלה </persName> בת ר' <persName>ברוך נייגו</persName> , שעלה בבחרותו מאדרינופול לירושלים. (אחיו של ברוך, <persName>עזרא,</persName> נשאר באדריאנופול,
+
+ ובנו של עזרא, <persName>יוסף</persName> , הוא מר <persName>יוסף נייגו</persName> , שהיה מנהל מקוה ישראל בעת שהרצל ביקר בה).
+
+ למד בישיבות הספרדים שבירושלים:<persName> ישיבת</persName> <persName>גדליה</persName> , על שם בן-אחותו של השר <persName>משה מונטיפיורי,</persName> שהיתה בבית הראשון-לציון הרה"ג <persName>יעקב שאול</persName> <persName>אלישר </persName> זצ"ל (ה"ישא ברכה"),<persName> וישיבת פיריירה</persName> , מיסודה של משפחה יהודית עשירה מצרפת, שבראשה עמד הראב"ד <persName>רבי יוסף רפאל עוזיאל,</persName> אביו של הראשון-לציון <persName>רבי בן-ציון מאיר חי עוזיאל</persName> .
+
+ דבק בקדושת ירושלים ולא עזב אותה מעולם אף לזמן קצר (אפילו את הים של יפו לא ראה מימיו). הוא היה גבאי וחזן בבית-הכנסת האמצעי שבגוש בתי-הכנסת של הספרדים בעיר העתיקה (הידוע בשם בית-הכנסת של רבן יוחנן בן זכאי).
+
+ ידידות גדולה היתה בינו ובין גר-הצדק<persName> מיכאל</persName> <persName>בועז ישראל</persName> , שבא מאמריקה והתגייר בירושלים נגד רצון בניו. מיכאל זה נשא בירושלים אשה אלמנה אם לשתי בנות ומתוך חיבתו להחכם <persName>יוסף רפאל</persName> השיא את הבת הבכירה,<persName> פלור,</persName> לבנו <persName>אפרים</persName> . כן השיג בהמלצתו בפני השר מונטיפיורי, שתנתן בלי הגרלה דירה להחכם יוסף רפאל בשכונה "משכנות שאננים'' שיסד השר מעזבונו של <persName>יהודא טורא</persName> מחוץ לחומה מול "הר ציון" (היא השכונה היהודית הראשונה שנבנתה מחוץ לעיר העתיקה בשנת תר"כ (1860) ונקראה גם בשם בתי-יהודה טורא). לא ברצון יצא לדור מחוץ לחומה, אך בהכירו בצורך להרחיב את הישוב נעתר לשידולי ידידו, שהסביר לו את החובה המוטלת על אנשים נשואי פנים להיות חלוצים בהרחבת הישוב כדי שיהיו למופת לאחרים. מאז היה משכים בכל שבת ומכתת את רגליו מהשכונה אל בית-הכנסת שברובע היהודים, שהיה חזן וגבאי בו.
+
+ נפטר בירושלים, כ' כסלו תרנ"ב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 226 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/226</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

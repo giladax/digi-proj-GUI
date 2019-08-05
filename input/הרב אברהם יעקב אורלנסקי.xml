@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 223 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/223</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אברהם יעקב אורלנסקי</persName>
+
+</head>
+         <div><p> נולד בביאליסטוק, רוסיה הלבנה, בשנת תרל"ט (1879), לאביו הרב<persName> אהרן</persName> הכהן. בהיותו בן ארבע, בתרמ"ג, עלה ארצה עם הוריו. כשאביו הצטרף ל"קבוצת הביאליסטוקאים", קנה חלקת
+
+ קרקע בפתח-תקוה ונתמנה עוד מביאליסטוק להיות רב בה. הוריו עלו תחילה לירושלים ושם התחיל ללמוד בתלמוד-תורה, ולאחר שנה, כשאביו ירד לפתח-תקוה לכהן בה ברבנות מראשיתה. השאיר אותו ללמוד בירושלים.
+
+ מהתלמוד-תורה עלה ללמוד בישיבת "תורת חיים", ורק לחגים היה נוסע אל הוריו לפתח-תקוה. בישיבה הגיע לבקיאות גדולה בכל ענפי התורה, הצטיין בהגיון מעמיק בבירור הלכות, וביחוד במצוות התלויות בארץ, וחידש וכתב חידושי תורה.
+
+ נשא לאשה את <persName>ינטה צפורה</persName> בת הרב <persName>יהודה ליב</persName> <persName>פרנק,</persName> ממיסדי חדרה (אחותו של הרב<persName> צבי פסח</persName> <persName>פרנק</persName> ראב"ד בירושלים), והמשיך ללמוד בישיבת "תורת חיים" עד שנת השלושים ושמונה לחייו. בתרע"ג פרסם את ספרו של אביו "תקות אהרן", עם הערות וחידושים משלו.
+
+ בתרע"ז הוזמן לכהן ברבנות בזכרון-יעקב. הוא התרחק מחלוקי-הדעות של התושבים והתמסר לפעולות העשויות להרבות שלום וקירוב הלבבות. שקד למען מוסדות צדקה וחסד, הרבצת תורה וחיזוק הדת. יסד בית הכנסת אורחים, ארגן חוג של תושבים לומדי תורה ובכל יום נתן להם שיעור בתלמוד בבית-הכנסת, ובשעות הפנויות מעסקי הצביר היה שוקד על התורה, עסק בחקירות ביבליוגרפיות ובתולדות מחברי הספרים
+
+ בימי הבינים ולעבודתו זו רכש לו ספרים יקרי-מציאות. גם את הלשון הערבית הספרותית ידע והיה חוקר והוגה בנוסח המקורי של ספרי גדולי ישראל מימיהבינים שנכתבו בערבית. כתב ששה ספרים בהלכה על המצוות התלויות בארץ ופרסם מאמרים וחידושי תורה בכתבי-העת התורניים.
+
+ אחרי תשעה באב תרפ"ט נסע עם אשתו לחתונת בתם בתל-אביב ואחרי החתונה נסעו לחברון אל חתנם <persName>אליעזר דן סלונים</persName> . ביום ה', ט"ז <persName>באב,</persName> הגיעו לחברון. ממחרת פרצו המהומות, ובשבת בבוקר, י"ח אב תרפ"ט, בתפלה בצבור בבית אליעזר דן סלונים, עלה הרב לדוכן ככהן, ואך סיים את הברכה במלים "וישם לך שלום", פרצו הפורעים אל הבית ורצחו את הרב העטוף בטלית, אותו ואת אשתו, חתנו אליעזר דן סלונים, בתו חנה אשת אליעזר דן ונכדו אהרן סלונים בן הארבע, הי"ד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 223 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/223</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

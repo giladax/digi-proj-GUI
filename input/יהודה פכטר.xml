@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3110 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3110</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה פכטר</persName>
+
+</head>
+         <div><p> נולד בי''ז אב תרס"ג (9.8.1903) בפשמישל שבמזרחגליציה.
+
+ לאביו <persName>שרגא פייבל מילר</persName> מפשמישל ולאמו <persName>מרים-נחה</persName> בת ר' <persName>אלתר-גדליה פכטר</persName> (מצאצאי הרבי ר' אלתר <persName>פכטר </persName> מדמביצה) ונקרא על שם משפחת אמו.
+
+ למד לימודי יהדות והשכלה כללית ושפות. למד מלאכת הדפוס ועבד בתור סדר בבתי-דפוס בפולין בזמנים שונים עבד בתור מורה לעברית ולשפות אחרות. כתב מזמן לזמן רשימות בעתונים עבריים ואידיים.
+
+ בשנת 1930 נשא לאשה את <persName>תרזה</persName> בת <persName>מאיר יעקב</persName> <persName>גלביין</persName> , ואחרי שנספתה במחנה ריכוז נאצי נשא ב-1951 את<persName> רחל </persName> בת <persName>מרדכי כהן.</persName>
+
+ אף הוא היה במחנה-ריכוז, ואחרי השחרור עבד בתור מתרים וגובה בצרפת בשביל הקה"ק ולמד באוניברסיטה בסורבונה שבפאריס וכן בג'נף. ב-1949 עלה לארץ.
+
+ עבד בתור סדר בבית-דפוס בירושלים והמשיך את השתלמותו באוניברסיטה העברית. אח"כ עבד בתור מורה במחנה-עולים עין-שמר, בקרית-שמונה ובמעברת חולון. באחרונה הוסיף להשתלם במדרשה למורים בגבעת השלשה ועבר לעסוק בהוראה.
+
+ בשנים שקדמו לעלותו לארץ כתב בעתונים אידיים בצרפת, גרמניה ובלגיה על שפת אספראנטו, הדת הבהאית וענינים אחרים. גם בארץ פרסם מפעם לפעם רשימות בעתונות העברית.
+
+ עיסוקו המיוחד בטיפוח השלום בין העמים באמצעות גשרים על פני הבדלי שפות ודתות מתבטא בחבירתו באגודת האספרנטיסטים בישראל, באגודת "קאראוואן" בארה"ב ובאגודה לאיחוד הדתות "אנאנאי-קיו" ביפאן. מתכתב עם תנועות דתיות בינלאומיות בשבע שפות : אידית,עברית, פולנית, גרמנית, צרפתית, אנגלית ואספראנטו. כותב בעתוני אספראנטו על הקה"ק ועל ענינים ישראליים.
+
+ צאצאיו:<persName> יוכבד </persName> אשת<persName> יצחק הראש </persName> (חברים בקיבוץ צאלים בנגב), <persName>דינה, אורי שרגא.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3110 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3110</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

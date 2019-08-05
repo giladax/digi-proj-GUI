@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3829 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3829</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יוסף בן בבא</persName>
+
+</head>
+         <div><p> מעולי בוכארה הראשונים.
+
+ נולד ב<placeName>בוכארה</placeName> בשנת תק"ץ (1820). בשנת תר"ה (1845) עמד בראש ישיבה בעירו וממנו יצאו כמה תלמידים מובהקים.
+
+ עשרים ושלש שנים כיהן בתפקיד זה ובמשך הזמן היה גם דורש לפני אחיו דברי כיבושין בשבתות וימים טובים.
+
+ ממלאכה זו התפרנס ואף זכה לחיות בהרווחה. אולם לעת זקנתו אירע לו מקרה שהעביר מאד את רוחו. אחד מארבעה בניו מת בנופלו לבור. בנו בכורו, מרוב צערו על מות אחיו, הלך לתורכסטאן ומת שם. ולאב הזקן נשארו רק שתי בנות. הוא החליט לעזוב את ביתו ללכת לחבק עפר ציון כדי לשכוח קמעא את האסון. הוא בא לירושלים בשנת תרכ"ח (1868) דרך אודיסה.
+
+ בשנת תרנ"ג (1893) הביא לדפוס בירושלים ספר בשם "שארית יוסף" (מכיל ארבעה ספרי-מוסר קטנים) ועל מטרתו הוא אומר בשערי הספר: "לזכות את הרבים וביחוד את אחי בני עמי במדינת בוכארה ואגפיה", הוא מוסיף שמצא בירושלים נחמה למות בניו ולשם כך הוא מתנדב לחלק את הספר חינם.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3829 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3829</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

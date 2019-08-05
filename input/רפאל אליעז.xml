@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4771 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4771</bibl><bibl>Volume: #15 ,Page: 4772 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4772</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רפאל אליעז</persName>
+
+</head>
+         <div><p> נולד בשנת 1905 בסופיה (בולגריה). בן למשפחה ספרדית.
+
+ עלה לארץ בשנת 1923.
+
+ ביכורי פרי עטו פירסם בלשון הבולגרית. בארץ למד עברית, ועבד במקצועות שונים: חקלאות, בנאות, חרושת, פקידות.
+
+ דבריו הראשונים בעברית - תרגומים של משוררים בולגריים - נדפסו ב"כתובים" (שבועון ספרותי בעריכת <persName>א. שטיינמן וא. שלונסקי</persName> , בשנים 1933-1926), וכן בכתבי-העת האחרים. אספי שיריו יצאו בשמות: "שמש בדרכים" (1939), ו"אהבה במדבר", 1944.
+
+ תירגם בשביל התיאטראות "הבימה", "אוהל" וה"קאמרי" - מחזות משל <persName>שקספיר, מולייר, לופה</persName> <persName>דה-וגה, איבסן, ברנארד שאו, ברכט</persName> ועוד.
+
+
+ מתרגם מאנגלית, צרפתית, ספרדית, בולגרית, גרמנית.
+
+ תירגם שירים, ובפרט שירי-עם ובאלאדות משירת העולם.
+
+ מן המחזות שתורגמו על-ידיז וזכו בפרסטשרניחובסקי תשי"ח (1958) הוצגו:
+
+ א) "מעין הכבשים",<persName> ללופה דה-וגה</persName> (על-ידי תיאטרון "הבימה", בבימויו של<persName> משה הלוי)</persName> ; ב)
+
+ ...בית ברנרדו אלבה", <persName>לפדריקו גארסיה לורקה</persName> (על-ידי "הבימה", בבימויו של <persName>ל. שטרסבורג)</persName> ; ג) "רומיאו ויוליה" <persName>לו. שקספיר</persName> (על-ידי התיאטרון
+
+ הקאמרי, בבימויו של<persName> יוסף מלוא)</persName> ; ד) "ירמה", <persName>לפ.ג. לורקה</persName> (על-ידי הקאמרי, בבימויו של <persName>שמואל</persName> <persName>בונים)</persName> ; ה) "אשת הסנדלר התמהונית", <persName>לפ.ג.</persName> <persName>לורקה</persName> (בבימויו של<persName> דן קדר)</persName> ; י) "אהבת דון פרלומפין", <persName>לפ.ג. לורקה</persName> (בבימויו של<persName> דן קדר).</persName>
+
+ זכה ב"פרס טשרניחובסקי" תשי"ח, של עירית תל-אביב על תרגומיו <persName>משקספיר</persName> ועוד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4771 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4771</bibl><bibl>Volume: #15 ,Page: 4772 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4772</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

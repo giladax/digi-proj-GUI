@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2863 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2863</bibl><bibl>Volume: #7 ,Page: 2864 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2864</bibl>
+<bibl>Volume: #7 ,Page: 2865 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2865</bibl>
+<bibl>Volume: #7 ,Page: 2866 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2866</bibl>
+<bibl>Volume: #7 ,Page: 2867 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2867</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יוסף אבן-אודם (רובינשטיין)</persName>
+
+</head>
+         <div><p> נולד בשאקי (ליטא), י"ב אב תרס"ז (23.7.1907). לאביו הסינאטור הרב <persName>יצחק רובינשטיין</persName> (הרב הראשי בוילנה וחבר הסינאט הפולני) ולאמו <persName>אסתר</persName> (סופרת ונואמת עברית) בת הרב <persName>חיים ירמיהו פלנסברג</persName> משאקי (ליטא), גאון ומחבר תורני מפורסם בדורו.
+
+ קבל חנוך מסורתי, למד באוניברסיטה רפואה וקיבל תואר: דוקטור לרפואה.
+
+ עסק בפעולה צבורית פוליטית-תרבותית בוילנה.
+
+ היה מזכיר הועד המנהל של הספריה היהודית המפורסמת ע"ש סטרשון בוילנה.
+
+ עלה לארץ בשנת 1933.
+
+ רופא המושבה הרצליה (זה כ-20 שנה).
+
+ כתב מאמרים רבים מדעיים-בלשניים ב"הרפואה", ב"השדה" ועוד. פעל ופועל ע"י חקירותיו הבלשניות וחידושיו הלשוניים, החודרים מאליהם ללשון העברית (ביחוד ללשון הרפואה).
+
+ ספרים: "כתיב עברי חדש" (וילנה-תל-אביב, 1933); "על שפת לשון" (תש"י); "לשון לימודים", ספרהיסוד למונחי רפואה ומדעי הטבע, בעשרה כרכים (כרך א', 440 עמודים, תשי"א); ''ילקוט קצר", ליקוט וקיצור ערכים שימושיים מתוך "לשון לימודים" (חלק א', תשי"ג - 752 עמודים, עד אות "מ''; חלק ב', תשט"ו - עד עמוד 1236 - עד אות "ע" ; חלק ג', תשט"ז - עד אות "ק" - בדפוס).
+
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בהרצליה, כ"ה בתמוז תשכ"ב (27.7.1962) (ראה כרך ז', עמוד 2866)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2863 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2863</bibl><bibl>Volume: #7 ,Page: 2864 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2864</bibl>
+<bibl>Volume: #7 ,Page: 2865 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2865</bibl>
+<bibl>Volume: #7 ,Page: 2866 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2866</bibl>
+<bibl>Volume: #7 ,Page: 2867 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2867</bibl>
+            <bibl>Volume: #12 ,Page: 4122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4122</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

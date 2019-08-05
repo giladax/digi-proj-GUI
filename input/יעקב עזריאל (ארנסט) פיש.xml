@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4681 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4681</bibl><bibl>Volume: #15 ,Page: 4682 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4682</bibl>
+<bibl>Volume: #15 ,Page: 4683 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4683</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב עזריאל (ארנסט) פיש</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סטמאר</placeName> (רומניה), כ"ה אייר תרע"ו (28.5.1916).
+
+ לאביו<persName> שרגא פישל פיש</persName> ולאמו<persName> טויבה</persName> בת ר' <persName>יצחק אליפנט </persName> (היה ת"ח מובהק, יו"ר בית הכנסת "אהבת שלום" ב<placeName>סטמאר</placeName> ברומניה).
+
+ קיבל חינוך מסורתי בתלמוד תורה ובישיבת הרב <persName>יואליש טייטלבוים,</persName> הרר מקרולי.
+
+ היה חבר הנהלת "הפועל המזרחי" בסאטי מארע, ופעיל בתעמולה לטובת "קרן היסוד", ועל זה קיבל בבוקרסט ביום 8.11.1948, תעודה ואות הצטיינות של כסף בער עבודתו המסורה.
+
+ היה סוחר בתבואה.
+
+ בשנת תש"ב (1942) נשא לאשה את<persName> מרים </persName> בת <persName>אליעזר מנדל </persName> (נפטרה בתל-אביב, כ"ה שבט תשי"ב) ובזיווג שני, נשא לאשה בשנת תרי"ג (1953) את <persName>עדינה</persName> בת<persName> מנחם מנדל ולד.</persName>
+
+
+ בשנת תש"ט (1949) עלה לארץ.
+
+ עבר קורס לחזנות "סלה" (אגודה לפיתוח החזנות והשירה הדתית) בתל-אביב.
+
+ אח בלשכת "הלל" - בני ברית תל-אביב.
+
+ שירת בצה"ל.
+
+ מכונאי סדור היומי האונגרי "אוקלט" בתלאביב.
+
+ צאצאיו:<persName> יונה, מאירה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4681 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4681</bibl><bibl>Volume: #15 ,Page: 4682 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4682</bibl>
+<bibl>Volume: #15 ,Page: 4683 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4683</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1861 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1861</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פישל סלומון</persName>
+
+</head>
+         <div><p> נולד בהסק (ליטה), בשנת תר"ט (1849), לאביו <persName>ישראל יעקב </persName> ולאמו<persName> שיינה רבקה</persName> למשפחת <persName>פדווה.</persName>
+
+ קבל חנוך מסורתי בחדר ובישיבות פולין. נתפרסם כלמדן מופלג וחסיד.
+
+ נשא לאשה את<persName> חוה</persName> בת <persName>יצחק סנדר קדישוויץ</persName> (אחותה של רחל, אם <persName>משה לובטקין</persName> ).
+
+ בשנת תרמ"ג (1883) החליט לעלות ארצה כי טען שאין בדעתו לתת את חמשת בניו שי לצבאות הצאר
+
+ הרוסי. נסע דרך אודיסה. שם נפגש עם <persName>פינסקר</persName> (המזכיר אותו בכתביו).
+
+ בבואו ארצה קנה יחד עם <persName>לייב רובין</persName> ממזריטש את אדמת זביד וייסד עליה את "יסוד המעלה". מאז הפך להיות אכר עם חמשת בניו.
+
+ השתתף בועידה הגדולה של חובבי ציון בזכרון יעקב (א-ג אלול תרס"ג).
+
+ היה מראשוני האכרים העבריים אשר נהג התר בדבר חריש בשנת השמיטה לפי הוראת הגאון<persName> יצחק</persName> <persName>אלחנן ספקטור</persName> .
+
+ בניו: <persName>משה, שכנא</persName> (אכר בראש פנה), <persName>דוד, ברוך,</persName> <persName>ישעיהו יוסף.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1861 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1861</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

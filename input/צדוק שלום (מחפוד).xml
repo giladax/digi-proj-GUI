@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4344 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4344</bibl><bibl>Volume: #13 ,Page: 4345 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4345</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צדוק שלום (מחפוד)</persName>
+
+</head>
+         <div><p> לאביו<persName> צדוק שלום ושרה</persName> .
+
+ נולד בתימן.
+
+ קיבל חינוך מסורתי.
+
+ השתייך לארגון לח"י. נפל בשעת מילוי תפקידו ביום כ"ו בכסלו תש"ח
+
+ (9.12.1947 )והובא לקבורה בנחלת יצחק למחרת היום.
+
+ ביום כ"ה באלול תשי"ד (23.9.1954) הועברה גופתו לבית הקברות הצבאי שבמקום.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4344 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4344</bibl><bibl>Volume: #13 ,Page: 4345 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4345</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

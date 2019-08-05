@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2838 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2838</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יצחק קמינסקי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פינסק</placeName> (רוסיה) בשנת תקפיא (1821).
+
+ לאביו ר'<persName> משה קמינר </persName> (קמינסקי) ולאמו<persName> חנה</persName> לבית <persName>רפפורט</persName> (מוילנא).
+
+ למד בישיבה והיה מהראשונים שנענה לתנועת חבת ציון ועלה לארץ בשנת תרט"ו (1855) יחד עם אשתו ושתי בנותיו.
+
+ התישב בראשונה בחברון ועסק במסחר התבואה. בא במגע עם עם הארץ ודרש מעסקני הישוב להרחיב את המסחר היהודי בתוצרת חקלאית ולהגדיל את מספר בעלי המלאכה בישוב העברי, כעבור שנים אחדות נלקחה אשתו ובתו הבכירה ממנו במגפה שפרצה בחברון ואז התישב בירושלים והחליט להשקיע את כל מרצו להקמת הריסותיה ולהגדלת ישובה.
+
+ נתמנה שליח ומנהל שיירות של עולים מרוסיה. תפקיד שנמשך עד התקופה האחרונה שבה דרכי התחבורה נעשו תקינים יותר.
+
+ הפיץ סחורות הארץ ותוצרת בעלי מלאכה יהודיים ודברי אמנות. ירד לגולה שש פעמים והעלה מתוכה שיירות-שיירות של עולים ורבים מבין ותיקי הישוב עברו בהן בעלותם ארצה.
+
+ בשנת 1862 נשא לאשה את <persName>חיה בלה</persName> בת<persName> ישראל</persName> <persName>ויהודית פאריצקי </persName> מפינסק. (ליותה אותו במסעיו בשנת 1871. ובדרך באודיסה ילדה לו בת).
+
+ עיר זו היתה תחנתו העקרית בדרכו לרוסיה ולפינסק. בבית ידידו רבי<persName> שרגא פ'ייול וואגער</persName> (תלמיד חכם וחובב מסור).
+
+ שהה בגולה כשנתיים ימים ולאחר שאשתו מתה ב<placeName>פינסק</placeName> העלה את בתו <persName>שרה עטיל</persName> ירושלימה. לאחר זה נסע בשליחות לרוסיה עוד כשלש או ארבע פעמים. אחר כך השתקע בירושלים ועסק בלמוד תורה ובעניני צבור.
+
+ נפטר בירושלים בשנת תרמ"ז (1887).
+
+ צאצאיו (מאשתו הראשונה):<persName> פריידה לאה</persName> אשת רבי <persName>יחזקאל עלזנער</persName> (אחיו של<persName> שאול עלזנער</persName> מותיקי האכרים בעקרון).
+
+ (מאשתו השניה): <persName>שרה עטיל</persName> אשת הר'<persName> אשר זאב</persName> <persName>וואגער</persName> (ראה כרך ו' עמוד 2529).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2838 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2838</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

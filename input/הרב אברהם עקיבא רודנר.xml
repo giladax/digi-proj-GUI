@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1242 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1242</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אברהם עקיבא רודנר</persName>
+
+</head>
+         <div><p> נולד במולודצ'נה, פלך וילנה, רוסיה הלבנה, כ"ב אלול תרל"ח (1878), לאביו הרב <persName>משה פישל </persName> (רב בביתהכנסת מרקל בקובנה, נכד הגאון ר'<persName> אורי איזדר</persName> ) ולאמו <persName>ליבה</persName> בת הרב<persName> דוד קפלן</persName> מווישניבה ונכדת הגאון ר' <persName>עקיבא </persName> מוושיניבה שהיה תלמיד-חבר להגאון ר' <persName>חיים</persName> מוולוזין.
+
+ למד בישיבה בוולוזין ובקיבוץ בסמורגון והוסמך לרבנות.
+
+ נשא לאשה את <persName>פנינה</persName> בת הרב<persName> מרדכי יצחק ריבקין</persName> מניישטאדט-סוגינט, ליטא, ליד גבול פרוסיה (נינתו של הגאון ר' <persName>אברהם</persName> אחי הגר"א מווילנה).
+
+ עסק במסחר בניישטאדט ובקובנה וקבע גם עתים לתורה בחבורת רבנים ותלמידי-חכמים. יסד בניישטאדט בית-ספר מזרחי וחברות לביקור חולים ולגמילות חסדים ובקובנה השתתף ביסוד חברת "עדת יש
+
+ ראל", היה חבר מרכז המזרחי בקובנה ונציג המזרחיבמשך 8 שנים במשרד הארצישראלי ובועד הארצי של הקה"ק לליטא, ומתרפ"ח ואילך מילא את מקום אביכרב בבית-הכנסת מרקל בקובנה.
+
+ בתרצ"ה עלה לארץ ישראל והתמנה כרב ומגיד שיעורי הלכה ואגדה בבית-הכנסת המרכזי בהדר הכרמל בחיפה ומשנת תש"א ואילך רב בשכונת קרית אליהו בחיפה.
+
+ פרסם מאמרים תורניים ופובליציסטיים במאספים שונים, חיבר ספר "משפטי אישות" (מדריך למשפטים) בהסכמת הרבנים הראשיים לארץ-ישראל.
+
+ צאצאיו: <persName>מטלה</persName> אשת <persName>צבי ליפניצקי</persName> (סוחר, ת"א), <persName>מרים</persName> אשת <persName>אריה גלסנר</persName> (במושב בית הלל), <persName>אסתר</persName> (מורה בבי"ס לבנות מזרחי בחיפה) אשת<persName> חיים שמעוני </persName> בביה"ס המזרחי "יסוד הדת" בחיפה,<persName> דוד יצחק </persName> (מנהל ביה"ס בגבעת ברנר).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1242 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1242</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

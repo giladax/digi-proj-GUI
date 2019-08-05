@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3521 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3521</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר עמיהוד גור (גרזובסקי)</persName>
+
+</head>
+         <div><p> נולד בכ"ח אלול תרנ"ח (4.9.1898) במקוה ישראל.
+
+ לאביו <persName>יהודה גור</persName> (אז<persName> גרזובסקי</persName> - ראה כרך א', עמוד 244) ולאמו <persName>רחל</persName> בת<persName> מרדכי ניימן </persName> (ראה כרך א', עמוד 319).
+
+ למד בבתי-הספר בבירות וביפו, בבית-המדרש למורים בירושלים, שירת כמתנדב בגדוד העברי הארצישראלי בשנות 1920-1918 והגיע לדרגת סרג'נט. למד חקלאות ויעור באוניברסיטאות קליפורניה ובאוניברסיטת ייל שבניו-יורק, התמחה בנטיעת יערות בצרפת ובאלג'יריה, השתלם באוניברסיטת אוכספורד, קיבל את התוארים מוסמך לחקלאות, מוסמך למדעים וד"ר לפילוסופיה, נתמנה לחבר ועדת היעור של האימפריה הבריטית וב-1928 חזר ארצה.
+
+ נשא לאשה את <persName>שפרה </persName> בת<persName> משה סמילנסקי </persName> (ראה כרך ג', עמוד 1126).
+
+ אחרי שובו לארץ נתמנה ב-1928 לקצין-יעור בממשלת המנדט ומ-1930 ואילך שירת כמנהל היעור בבל הארץ, ובממשלת ישראל הנו מנהל אגף היעור ושימור הקרקע במשרד החקלאות ומומחה לשימור יערות המדינה וקרקעותיה מטעם משרד האוצר.
+
+ בראשונה יצג את ארצנו ב-1932 בועידה בינלאומית ליעור בנאנסי שבצרפת, ומאז השתתף בקרוב ל-40 ועידות וכינוסים בינלאומיים ליעור ונתפרסם כאחד מגדולי המומחים בעולם במקצוע זה. נשלח מטעם "קרן קארנג'י'' לסיורי השתלמות נוספת בארה''ב. ביפאן, ביאווה, בציילון, בהודו ובחצי-האי ערב, ולרגל סיוריו והשתתפותו בועידות ובכינוסים ליעור ביקר בכ-50 ארצות בעולם. הוזמן לסייע לממשלת הודו בעניני יעור, נשלח מטעם מינהל הסיוע הטכני של האו''ם לאוסטרליה, לצ'ילי ולאקוואדור, ובועידת-היעור ברומא נבחר ליו"ר ועדת-היעור האירופאית והוזמן עם יתר חברי הועדה לסיור-יעוץ בברית המועצות.
+
+ פרסם מאמרים מדעים רבים בעניני יעור בעתונות המקצועית בעולם ובחוברות של אוניברסיטאות ייל ואוכספורד.
+
+ צאצאיו:<persName> דן, דינה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3521 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3521</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

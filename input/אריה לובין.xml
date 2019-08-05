@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5438 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5438</bibl><bibl>Volume: #18 ,Page: 5439 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5439</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה לובין</persName>
+
+</head>
+         <div><p> נולד בניו-יורק, בשנת תרנ"ז (6.12.1987).
+
+ לאביו<persName> "משה (יסד תעשייה בשם</persName> Metal Etching )industryולאמו<persName> ליליאן </persName> בת <persName>צבי אדלוצקי</persName> (בני המשפחה מחותנים עם בני משפחת ד''ר<persName> חיים וייצמן).</persName>
+
+ קיבל חינוך מסורתי וכללי בבי"ס עממי ותיכון בשיקאגו.
+
+ בשנת 1913 נשלח ע"י הוריו לא"י, ללמוד בגמנסיה העברית "הרצליה" בתל-אביב. כעבור שנה, בפרוץ מלחמת העולם הראשונה (בסוף אוקטובר 1914) חזר לארצות הברית.
+
+ בשיקאנו גמר את האקדמיה לציור Art Institute of Chicago
+
+ בשנת 1917 היה המתנדב הראשון בשיקאגו לגדו
+
+ דים העברים לא"י.
+
+ בשנת 1919, אחרי גמר המלחמה, חזר לארצות הברית.
+
+ קיבל פרס להמשכת לימודיו בחו"ל בארצות שונות.
+
+ בשנת 1923 חזר לארץ לישיבת קבע.
+
+ כל השנים עסק בציור.
+
+
+ אחרי הקמת המדינה היה בין הראשונים שהתיישב בקרית הציירים בצפת.
+
+ השתתף בכמה תערוכות של ציירים. חבר באגודת א"י השלמה. חבר באירגון הציירים בארץ.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5438 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5438</bibl><bibl>Volume: #18 ,Page: 5439 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5439</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

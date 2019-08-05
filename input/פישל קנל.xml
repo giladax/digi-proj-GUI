@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2209 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2209</bibl><bibl>Volume: #5 ,Page: 2210 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2210</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פישל קנל</persName>
+
+</head>
+         <div><p> נולד בירושלים. ב' טבת תרנ"א (1890) לאביו <persName>ישראל</persName> <persName>צבי</persName> ולאמו<persName> יוכבד</persName> בת ר'<persName> חיים יצחק לובין </persName> (ראה ערך ישראל צבי קנל בכרך זה עמוד 2206).
+
+ את חנוכו קיבל בחדרים ובישיבות, בת"ת "עץ-חיים" ובישיבת "מאה-שערים" בירושלים.
+
+ לימים, כאשר נפרצו חומות "הגיטאות הרוחניים'' של נטורי-קרתא בירושלים ע"י ההשכלה המשיך את לימודיו בבית-הספר של "עזרה''.
+
+ עד לגיל 16 - התמיד בלמודים. אבל בפרוץ המלחמה העולמית הראשונה בשנת 1914 נאלץ להפסיק בלימודים ולהכניס צוארו בעולה של הפרנסה.
+
+ בימים ההם התחיל ה"ג'וינט" פועל בירושלים, ופישל נתקבל בתור פקיד במשרדיה ולזמן עבר להיות מנהל החשבונות של המוסד עד לשנת 1928, כאשר חוסלו עסקי ה"ג'וינט" בארץ והוא נסגר לחלוטין.
+
+ בשנת 1928 עבר לטבריה ונתמנה למנהל לבנק ההלואות, אך כאשר התאחד סניף הבנק של טבריה בשנת 1931 עם הסניף של צפת, חזר ירושלימה ונכנס לעבוד בפירמה "בנק אלכסנדר עליאש ושות''.
+
+ בשנת 1934 עבר לנס-ציונה לנהל את אגודת "הלואה וחסכון".
+
+ הודות למרצו ויזמתו התפתחה אגודה זו במרוצת הזמן והתקדמה בצעדי ענק..
+
+ בימי מלחמת העולם השניה, ובזמן המלחמה לעצמאות ישראל, שימש בתפקיד של מפקח על המזונות בנסציונה.
+
+ חונן מטבעו בקול לירי ערב ובהיותו חובב נגינה סיגל לעצמו את הנוסחאות המסורתיים של התפילות. בשנות תרפ"ב/ג/ד היה עובר לפני התיבה בתור ש"ץ - בבית הספר לנדאו, בירושלים, במנין של פקידי ממשלת המנדט, במקום שגם הנציב העליון סיר הרברט סמואל היה מתפלל שם בימים הנוראים. במשך השנים כהן כחזן בבתי תפילה שונים בארץ.
+
+ נשא לאשה את<persName> חנה</persName> בת<persName> מרדכי הויזדורף.</persName>
+
+ צאצאיו : <persName>שושנה,</persName> אשת<persName> אברהם איזבודסקי</persName> (חולון), <persName>תמר</persName> (פקידה בהלואה וחסכון, נס-ציונה), <persName>ירדנה</persName> (פקידה בקפת מלוה-וחסכון, רחובות).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2209 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2209</bibl><bibl>Volume: #5 ,Page: 2210 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2210</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2842 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2842</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' דב שנברג</persName>
+
+</head>
+         <div><p> נולד בציכנוב (פולין) בשנת תר'ן (27.3.1890). לאביו <persName>ברוך</persName> ולאמו<persName> פרידה</persName> בת <persName>אברהם גולדברג.</persName>
+
+ קבל חנוך בבית ספר ריאלי בוורשא, באוניברסיטאות : בגנט (בלגיה) קבל תואר מהנדס, ובלונדון קבל התוארים:
+
+ B. Sc. )Hon.( Enginering A.M.J.C.E. בשנת 1918 נשא לאשה את <persName>רבקה</persName> בת<persName> שמעון</persName> <persName>גרייבסקי.</persName>
+
+ בשנת 1924 עלה לארץ.
+
+ בשנות 1927-34 מהנדס ראשי בבנין נמל חיפה. פרופ' בטכניון העברי בחיפה.
+
+ יושב ראש האגודה הפוטוגרמטית הישראל,ית
+
+ כתב רשימות: גיאודזיה, תורת השגיאות, עקרי מכונות.
+
+ בנותיו: <persName>מרים</persName> אשת ד"ר<persName> מ. אופל, שושנה</persName> אשת פרופ' <persName>א. נתניהו.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2842 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2842</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

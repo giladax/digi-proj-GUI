@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1531 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1531</bibl><bibl>Volume: #3 ,Page: 1532 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1532</bibl>
+<bibl>Volume: #3 ,Page: 1533 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1533</bibl>
+<bibl>Volume: #3 ,Page: 1534 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1534</bibl>
+<bibl>Volume: #3 ,Page: 1535 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1535</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יגאל ידין (סוקניק)</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ז אדר תרע"ז (31.3.1917), לאביו פרופ' <persName>אליעזר ליפא סוקניק </persName> (מרצה לארכיאולוגיה באוניברסיטת ירושלים, חוקר עתיקות, חופר וחושף שרידי העבר הרחוק) ולאמו <persName>חסיה </persName> לבית <persName>פינסוד.</persName> (מהגננות הראשונות בארץ וחברה במרכז הגננות).
+
+ בשנות לימודיו בגימנסיה העברית שברחביה היה מפעילי "קהלת הצופים", בה לקבל את ההכשרה הטרום-צבאית הראשונה בחיי גדוד ומחנה, בתרגילי נדודים ובסיורים להכרת הסביבה הקרובה והרחוקה, ומשבגר נכנס ל"הגנה" והגיע בה לדרגת מפקד מילדותו נטע בו אביו את החיבה למקצועו ,לארכיאולוגיה, ולקח אותו עמו לסיורים בעתיקות הרבות של העיר העתיקה וסביבתה. 
+
+ ב-1935 נכנס ללמוד באוניברסיטה היסטוריה וארכיאולוגיה ולמקצועות-משנה למד שפה וספרות ערבית. כשפרצו המהומות באביב 1936 הפסיק לזמן-מה את לימודיו ויצא לשרות ב"הגנה" במדי נוטר כמפקד בקרית-ענבים, בצפון ים המלח ובכפר-עציון. חזר ללימודיו והשתתף בטיול ארכיאולוגי ביון ובטורקיה. אח"כ שוב יצא לשרות ובהשפעת<persName> יצחק שדה</persName> הצטרף לפלוגות השדה שנוסדו בעזרת המפקד הבריטי <persName>אורד</persName> <persName>וינגייט</persName> , חובב התנ"ך והיהודים, והשתתף במלחמותתנופה בפורעים בבסיסיהם ובשטחיהם שמחוץ לאזורי הישוב היהודי וזמן-מה היה מפקד מחלקה של פלוגות השדה בירושלים ובסביבתה. בסוף 1938 עבר קורס גבוה למדריכים בנשק והיה מדריך מחוזי בירושלים, וימים מעטים שימש שליש<persName> ליעקב דורי (דוסטרובסקי),</persName> ראש המטה של ה"הגנה" במחתרת, - ואח"כ חזר ללימודיו ומפעם לפעם השתתף עם אביו בחפירות, ובחקירותיו הארכיאולוגיות התמסר ביחוד לחקר הצבא הישראלי בימי-קדם והשתדל להפיק מחקירותיו לקח בשביל ההווה לתועלת ה"הגנה".
+
+ בשנת תש"א נשא לאשה את <persName>כרמלה</persName> , בתם של ד"ר <persName>ארתור רופין</persName> ואשתו<persName> חנה </persName> בה הסופר והעסקן והבנקאי<persName> מרדכי בן הלל הכהן.</persName> (גם היא למדה ארכיאולוגיה באוניברסיטה ועזרה לו בהכנת המחקר על "הצבא בארץ בתקופת התנ"ך" לקבלת התואר "מוסמך למדע"; עבודת- הגמר שלו במקצוע-המשנה היתה על "כתבות ערביות עתיקות בארץ-ישראל").
+
+ פרסם מאמרים מדעיים במקצועו ב"ידיעות החברה העברית לחקירת א"י ועתיקותיה", ב"תרבביץ", לפעמים גם בעתונות יומית, ובאנגלית בבוליטין של ביה"ס האמריקאי לחקר המזרח בעריכת הפרופ'<persName> אולברייט,</persName> מנהל ביה"ס האמריקאי לארכיאולוגיה בירושלים, ובעוד ירחונים ומאספים מדעיים. השתתף בחפירות בגבעת נפוליון, בבית ירח, בסביבות עפולה ובסביבות ירושלים.
+
+ משהכריחה הרשעות הבריטית את תנועת המרשל ה"הגנה" לפעולות פיצוץ וחבלה, כדי להראות לבריטים שהיהודים יכולים לא רק לקבול ולהתחנן, אלא גם להזיק, היה הוא ראש אגף המיבצעים של מטה ה"הגנה" במחתרת, שנקרא אז "לשכת תיכנון". אחרי המאסרים של ראשי הישוב והציונות ואנשי מגן לאלפים ב-29 ביוני 1946, כשה"הגנה" חדלה מפעולות טרור, חזר הוא לעבודתו המדעית. וכשהחלה ההתקפה הערבית על הישוב ממחרת החלטת ארגון האומות על חלוקת הארץ והקמת מדינה יהודית בחלקה, בכוונה להחריב את הישוב ולמנוע את הקמת המדינה, חזר לשרותו הצבאי כראש אגף המיבצעים של ה"הגנה" במחתרת. ומשהוכרז על יסוד מדינת ישראל וה"הגנה" היתה בגלוי ל"צבא ההגנה לישראל", נתמנה בדרגת אלוף לקצין-המיבצעים הראשי במטה הכללי, ובתפקיד זה השתתף בניהול הפעולות הצבאיות, שבתוצאתן נהדפה התקפת שבע מדינות ערב על מדינת ישראל ושוחררו שטחים נרחבים בנגב ובגליל ובדרך ירושלים מחוץ לגבולות החלוקה, ומפעם לפעם היה הדובר מטעם המטה הכללי בפני נציגי העתונות.
+
+ בשבט תש"ט עמד ביחד עפ ד"ר <persName>ואלטר איתן</persName> ממשרד החוץ בראש המשלחת הישראלית ברודוס כיועצה הצבאי בדיונים שהביאו לשביתת-נשק עם מצרים.
+
+
+</p>
+<p>
+
+ תוספות: 
+
+ בראשית תש''י עלה לדרגת רב-אלוף בתפקיד ראש המטה הכללי (רמטכ"ל) של צבא ישראל (ראה כרך ג', עמוד 1534)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1531 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1531</bibl><bibl>Volume: #3 ,Page: 1532 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1532</bibl>
+<bibl>Volume: #3 ,Page: 1533 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1533</bibl>
+<bibl>Volume: #3 ,Page: 1534 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1534</bibl>
+<bibl>Volume: #3 ,Page: 1535 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1535</bibl>
+            <bibl>Volume: #4 ,Page: 2064 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2064</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

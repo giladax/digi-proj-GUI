@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 810 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/810</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מינה ספיר</persName>
+
+</head>
+         <div><p> נולדה בפוניבז פלך קובנה (ליטא) בשנת תרכ"ו (1866) לאביה ר' <persName>בנציון שאטיל</persName> , בר-אורין וחובבציון ותיק (ממשפחת הגאון ר'<persName> אליהו דוד רבינו</persName> <persName>ביץ-תאומים</persName> - האדר"ת, רב בפוניבז ומיר שהיה בסוף ימיו רבה הראשי של עדת האשכנזים בירושלים, חותנו של הרב הראשי ר' <persName>אברהם יצחק הכהן</persName> קוק), ולאמה <persName>אסתר לאה</persName> בת ר' יצחק מווילקומיר. קיבלה חינוך מסורתי-לאומי וגדלה באוירה של חיבת ציון בבית הוריה, למדה בבי"ס עממי ורכשה השכלת בי"ס היכון בשיעורים פרטיים והשתלמה בשפות גרמנית ורוסית.
+
+ בתרמ"ג עלתה ארצה עם הוריה, כשרכש אביה באמצעות <persName>הרי"מ פינס</persName> נחלה בפתח תקוה שהיתה עזובה ושוממה ואח"כ בא עם משפחתו ב"קבוצת הביאליסטוקאים" לחדש את הישוב בפתח תקוה והשתכנו לשנים הראשונות בכפר יהודיה.
+
+ עבדה עם כל המשפחה בחקלאות והסתגלה לקשי העבודה והחיים מתוך התלהבות לאומית ואהבת הארץ. בזמן קצר למדה את השפה העברית והתרגלה לכל מנהגי הארץ.
+
+ בתרמ"ה נישאה <persName>לאליהו ספיר</persName> מירושלים (נכד הנוסע-החוקר ר' <persName>יעקב הלוי ספיר</persName> , מחבר הספר "אבן ספיר" על מסעיו ותגליותיו בתימן) והיתה
+
+ עוזרת נאמנה לבעלה בדרך חייו רבת הפעולות והתמורות כאכר, רועה, מורה, פקיד יק"א ומנהל בנק אפ"ק, והקלה עליו את עבודתו המדעית הפוריה והתמסרותו לפעולית מיגעות ומוצלחות בגאולת
+
+ הארץ. חינכה את ילדיה ברוח אהבת הארץ, נאמנות ומסירות לשאיפות הלאומיות של עם ישראל.
+
+ נפטרה בפתח תקוה, ט"ו תשרי תרע"ז.
+
+ צאצאיה: <persName>חנה חיה, אשר לוי</persName> (ז"ל),<persName> יוסף</persName> (ראש עירית פתח תקוה ועסקן בהתאחדות האכרים בא"י).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 810 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/810</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

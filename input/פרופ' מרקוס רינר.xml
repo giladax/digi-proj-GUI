@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2850 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2850</bibl><bibl>Volume: #7 ,Page: 2851 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2851</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' מרקוס רינר</persName>
+
+</head>
+         <div><p> נולד בצרנוביץ (אוסטריה, עכשיו אוקראינה) בשנת תרמ"ו (5.1.1886).
+
+ לאביו <persName>אפרים </persName> (מצאצאיו של <persName>פייבוש רינר</persName> , צייר של
+
+
+ מיניאטורות במאה השלש-עשרה בבון, אשר על נהרריין) ולאמו <persName>רחל </persName> בת שלמה אלטמן.
+
+ השתלם באוניברסיטה טכנית של וינה (1903-1909) וקיבל תואר דוקטור למדעי הטכניקה.
+
+ היה מהנדס של רכבות ממשלתיות - של ממשלת אוסטריה לפני המלחמה העולמית הראשונה ושל ממשלת רומניה אחרי המלחמה הראשונה.
+
+ היה חבר בועד הפועל של ההסתדרות הציונית בבוקובינה, ציר בקונגרס הציוני הי"ב - בספטמבר 1921 בקרלסבד, מיסד קרן היסוד בבוקובינה.
+
+ בשנת 1922 עלה לארץ.
+
+ ממיסדי הקבוץ "חפצי-בה" בבית אלפא (1922).
+
+ בשנת 1923 נשא לאשה את <persName>מרגלית</persName> בת <persName>אדולף</persName> <persName>אוברניק,</persName> ובזיווג שני נשא בשנת 1929 את <persName>רבקה</persName> בת <persName>ישראל שנפלד</persName> .
+
+ היה חבר הועד של "סולל-בונה" הראשון (1924) מטעם ועד הצירים של ההסתדרות הציונית.
+
+ בשנות 1923-47 מהנדס במחלקת עבודות צבוריות של ממשלת המנדט.
+
+ בשנות 1947-49 יועץ מדעי של מכון התקנים הישראלי, בתל-אביב.
+
+ משנת 1949 פרופסור בטכניון העברי. ציר בקונגרס של איגוד הבין לאומי למכניקה: שטוקהולם (1930) ובאיטטנבול - תורכיה (1952). חבר ב"ברית שלום" וב"אחוד".
+
+ היה ציר בקונגרס המתמטיקאים: בבולוגנה (1927) ובאמסטרדם (1954).
+
+ כתב מאמרים על נושאים ציוניים בירחון "דער יודע" בעריכת פרופ.<persName> מ. בובר</persName> ובעתונות יומית (בגרמנית ובכ-100 מאמרים מדעיים בעתונות מדעית ביןלאומית.
+
+ חיבר שני ספרים מדעיים בשפה האנגלית: Defovnation and Flow ; Lectures on Thearetical .Rhealogy(הספר השני מתורגם לשפות : הרוסית והצרפתית).
+
+ בימי המאורעות (1929) שירת בתור שוטר מיוחד. צאצאיו (מאשתו הראשונה);<persName> אפרים, חנה</persName> אשת <persName>יוסף רייכר</persName> . (מאשתו השניה): <persName>דורית</persName> אשת <persName>אמנון גליל,</persName> <persName>שלומית</persName> אשת <persName>עמיצור אילן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2850 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2850</bibl><bibl>Volume: #7 ,Page: 2851 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2851</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

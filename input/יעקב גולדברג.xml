@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1208 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1208</bibl><bibl>Volume: #3 ,Page: 1209 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1209</bibl>
+<bibl>Volume: #3 ,Page: 1210 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1210</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב גולדברג</persName>
+
+</head>
+         <div><p> נולד בפיאטרה-ניאמץ, רומניה, בשנת תרל"ז(1877) לאביו<persName> משה</persName> .
+
+ אחרי למדו שנים אחדות בחדרים עלה ארצה בשנת תרמ"ט ולמד בישיבה בצפת ואח"כ יצא לעבודה.
+
+ עבד מטעם פקידות <persName>הבארון רוטשילד</persName> בנטיעת פרדסים ביסוד המעלה, אח"כ עבר לזכרון יעקב ועבד בנטיעת חורשות הזיתים הראשונות ונבחר מטעם פקידות הבארון בין הפועלים הותיקים והמנוסים שנועדו להתנחל במטולה. נשא את חלקו בסבלם של הראשונים (התקפות הדרוזים, אדמה רזה ומפוצלת וכו').
+
+ עבד חמש שנים כמפקח על נטיעת היער בתל-חי.
+
+ במלחמת העולם הראשונה עבד בשרות הממשלה הטורקית כשמאי בהערכת היבול ומס היבול בערי סוריה וסביבתן.
+
+ מ-1920 ואילך עבד זמן מה ביבנאל בסידור המשתלה ובטיפול בה.
+
+ במטולה נטע שני יערות אקליפטוס ועל אדמתו נטע כרם זיתים וגן עצי פרי.
+
+ עסק בצרכי צבור כמוכתר המושבה, יו"ר הועד,
+
+
+ יו"ר ועד ההורים. יסד קואופרטיב לרכישת מכונות חקלאיות ולשיפור מצב האכרים בכלל ועמד בראשו.
+
+ נפטר במטולה, כ"א כסלו תרצ"ט.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1208 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1208</bibl><bibl>Volume: #3 ,Page: 1209 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1209</bibl>
+<bibl>Volume: #3 ,Page: 1210 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1210</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

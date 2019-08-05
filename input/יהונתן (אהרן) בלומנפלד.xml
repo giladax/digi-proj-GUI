@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1400 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1400</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהונתן (אהרן) בלומנפלד</persName>
+
+</head>
+         <div><p> לאביו <persName>אברהם</persName> (ראה כרך שני, עמוד 939) ולאמו <persName>גיטל</persName> בת נחום קפלן (נפטרה ברחובות, כ"ח חשון תש"ט - 30.11.48).
+
+ נולד בירושלים, א' תמוז תרנ"ז (1897).
+
+ קיבל חנוך מסורתי וכללי בבית ספר למל ובסימינר למורים בירושלים.
+
+ בימי מלחמת-העולם הראשונה שירת כקצין בצבא התורכי, אח"כ כמורה דרך ומתורגמן בצבא הבריטי אחרי הכיבוש.
+
+ בשנת 1920 נאסר בתור חבר ההגנה בכלא עכו יחד עם<persName> זאב ז'בוטינסקי </persName> וחבריו.
+
+ בשנת 1922 נשא לאשה את <persName>רבקה</persName> בת <persName>נחום</persName> <persName>אברמס.</persName>
+
+ פקיד ממשלת המנדט מאוקטובר 1920 ועד תם המנדט 15.5.48. החל כמתרגם ראשי במזכירות, היה
+
+ עורך העתון הרשמי ומזכיר המועצה המיעצת של הממשלה, עבר למחלקת סידור עניני הקרקעות והיו קצין מסדר באיזור יפו ורמלה, פעל כסגנו של מילס
+
+ בעריכת מפקד האוכלוסים בשנות 31- 1929 , אחרי כן נתמנה כמפקח במחלקת רושם האגודות השתופיות וסיים את תפקידו כסגן רושם האגודות השתופיות. במשך שש שנים היה רושם האגודות השתופיות בפועל.
+
+ עוסק כיום בתעשיה ומסחר בירושלים.
+
+ צאצאיו: <persName>עמר</persName> (משתלמת באדריכלות באנגליה), <persName>גדעון</persName> (גמר בי"ס חקלאי בפרדס חנה, כיום קצין בצבא ישראל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1400 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1400</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

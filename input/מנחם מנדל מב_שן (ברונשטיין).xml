@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 288 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/288</bibl><bibl>Volume: #1 ,Page: 289 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/289</bibl>
+<bibl>Volume: #1 ,Page: 290 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/290</bibl>
+<bibl>Volume: #1 ,Page: 291 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/291</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם מנדל מב"שן (ברונשטיין)</persName>
+
+</head>
+         <div><p><persName>בן חיים צבי ברונשטיין-מבש"ן</persName> , נולד בראש חודש אב תרי"ח (1858) בעיר<persName> יאסי</persName> שברומניה. למד בחדר ובבית מדרש, התעמק בתנ''ך עם כל המפרשים, בדקדוק ובספרי חכמת ישראל. בהגיעו לגיל הי"ח החל ללמוד גרמנית, צרפתית, רומנית וידיעות כלליות.
+
+ אחרי שנשא אשה התחיל לעסוק בהוראה. הקדיש הרבה מזמנו ל"חבת ציון" ולתרבות העברית. כסופר התחיל להתבלט בשנת תרמ"ה. החל באותה שנה לשלוח לעיתונות העברית מאמרים שונים, המכילים חדשות ועניני ספרות, מדע וישוב ארץ ישראל.
+
+ לכתחילה שלח מאמרים ל"המגיד" ואח''כ פנה גם ל"המליץ", "הצפירה" ול"היום" של קנטור-פרישמן. ביחוד זכה מבש"ן למקום קבוע ב"המליץ", ויל"ג (שהיה באותן השנים עורכו של "המליץ") סמך את ידיו עליו, כפי שמעידים מכתבי י. ל. גורדון. אליו באגרות יל"ג, כרך שני.
+
+ בשנת 1887 נתמנה לחבר-עוזר לועד האגודה ההיסטורית "יוליוס באראש" בבוקרשט, וגם למזכיר שלא עמלק"פ לחברה "דורש ציון". פרסם מאמרים רבים בגרמנית בעתונים "זרובבל" ו"אסטרריכישה וואכענשריפט" לבלוך. באותה שנה תרגם מרומנית לעברית וגרמנית את ספר הזכרון שהוציאה האגודה . "יוליוס באראש" (התרגום העברי בא ב"המליץ" בהמשכים רבים, והתרגום הגרמני בירחונו של בריל בפרנקפורט דמיין. בשנה הנ"ל ערך במשך חצי שנה עתון יהודי בגרמנית באותיות יהודיות בשם "יודישער פאלקספריינד".
+
+ בשנת 1889 יסד ברומניה אגודות תרבותיות בשם "אהלי שם" לשם הפצת הספרות והתרבות העברית. עשה גם הרבה מאד להפצת העברית. הנהיג ברומניה את השיטה של ההוראה "עברית בעברית" ויסד גם ספריות עממיות ליד כל בית ספר עברי ברומניה.
+
+ עד עלותו לארץ ישראל בשנת 1914 היה מפרסם בעתונים העברים מאמרים, מחקרים, ספורים, אגדות, שירים, פיליטונים בפסידונימים שונים, כגון: חריזי, דורש טוב לעמו, בן-שם, מן וכו'. כן פרסם בשנים 1897 - 1904 ספר למוד בהיסטוריה לבני הנוער: "דברי הימים לבני ישראל (בהוצאת "אחיאסף"). מלבד זה יצא ספר למוד שלו "המורה" וגם קובץ שירים וכו'.
+
+ בבואו ארצה בשנת 1914 נתמנה למזכיר ומורה ב"בצלאל". בתפקיד זה עמד עד 1920. בכל השנים הללו וגם לאחר כך עד יומו האחרון לא פסק מלהשתתף בפרי רוחו בעתונים הארצישראליים ועתוני הגולה כגון: "השלח"' "הארץ", "דואר היום", "הירדן", "ביתר", "הבקר", "העולם"' "הדואר" ו"מאזנים".
+
+ הוציא על חשבונו <persName>שני כרכים</persName> מכתביו (כרכים א - ב), כרך אחד (שלישי) ע"י הוצאת שטיבל, וכרך רביעי בשני ספרים ע"י הוצאת "דביר".
+
+ תרגם שורה של ספרים שברובם נשארו בכתב יד. מהתרגומים שהופיעו בזמן האחרון ראויים לתשומת לב מיוחדת תרגומו הקלסי ל"מסעי גוליבר" ליונתן סוויפט, שיצא בהוצאת שוקן סמוך לפטירתו, והספר "נצני הציונות בגרמניה" (על הנריך לווה) לד"ר וינברג שיצא בתש"ו בהוצאת מס.
+
+ במשך הרבה שנים גר בתל-אביב והיה עובד כדי לפרנס את עצמו בהעתקת כתבי-יד. אך בשנת חייו האחרונה כשהרגיש שהולך ונחלש, עבר אל בנו בעתליט, ושם נפטר<persName> בכ"ד כסלו תש"ה</persName> (10.12.1944)
+
+
+ צאצאיו: <persName>שמעון</persName> ז"ל (היה מזכיר חברת המלח בעתלית)<persName> ד"ר אברהם</persName> (שליח קרן היסוד),<persName> ד"ר יעקב</persName> (רופא ועסקן ציוני בקיפטון - דרום אפריקה),<persName> שלמה</persName> (עו"ד, מנהל בית ספר תרבות בבוקרשט),<persName> ודינה</persName> גולדנשטין (עתלית).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 288 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/288</bibl><bibl>Volume: #1 ,Page: 289 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/289</bibl>
+<bibl>Volume: #1 ,Page: 290 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/290</bibl>
+<bibl>Volume: #1 ,Page: 291 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/291</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3320 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3320</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה קהתי</persName>
+
+</head>
+         <div><p> נולד צנעא (תימן), ט' סיון תר"ס (6.6.1900).
+
+ לאביו<persName> שלום</persName> (צורף זהב. מצאצאי רבנים מפורסמים בתימן) ולאמו<persName> תורכיה </persName> בת <persName>שלום משרקי.</persName>
+
+ עלה לארץ בילדותו (1906).
+
+ קבל חנוך מסורתי, בי"ס למל, בית מדרש למורים "עזרה" ובית ספר למשפטים בירושלים.
+
+ קבל תואר עורך דין (1924) ונוטריון.
+
+ השתלם באוניברסיטה ברן, עמד בבחינות ושעורי המשפט בהבר האנגלי בלונדון.
+
+ היה מורה במשך שנים.
+
+ היה חבר מועצת עירית ירושלים.
+
+ בשנת 1934 נשא לאשה את<persName> אסתר</persName> בת <persName>שלמה</persName> <persName>סעדי.</persName>
+
+ על ידו נרכשו שטחים נרחבים מערבים ליהודים בירושלים, חיפה וקסריה בתקופת המנדט הבריטי.
+
+ נשיא העדה התימנית בירושלים.
+
+ חבר לשכת בני-ברית.
+
+ כתב מאמרים על עניני ספר והיסטוריה של יהודי תימן.
+
+ בנותיו: <persName>אביבה</persName> אשת <persName>יעקב מנוח, דיתה</persName> (יהודית). אשת <persName>יצחק קציר, תהלה, נאוה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3320 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3320</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

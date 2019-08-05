@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4326 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4326</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף זלוצ'בסקי</persName>
+
+</head>
+         <div><p> נולד ביום כ"א בתשרי, תרצ"ב (2.10.1931) בתל-אביב. לאביו<persName> יחיאל זלוצ'בסקי </persName> ולאמו<persName> שרה.</persName>
+
+ למד בבית-ספר עממי דתי, ובעודנו ילד התייתם מאביו.
+
+ בן 13 הצטרף לתנועת המחתרת של "לוחמי חירות
+
+ ישראל". הדביק כרוזים והפיץ חומר תעמולתי וכו'. חבריו נהגו לבנותו בחיבה "יוסקה הצוחק", בשל צחוקו שלא מש מעל פניו.
+
+ היה שומר דת ומסורת.
+
+ עבד בפקידות.
+
+ בן 14 סיים קורס ברעננה ונתפס על ידי הבריטים, ירה בהם, אסרוהו ונידון למאסר עולם, ועד צאת הבריטים מהארץ ריצה את עוונו בעתלית.
+
+ יומיים לאחר שחרורו הצטרף לצבא הגנה לישראל, בהעלימו את גילו הצעיר. שירת בפלוגת קומנדו באחד הגדודים והשתתף בכיבוש "לוד", "רמלה", "בית-נבאלה".
+
+ בפריצת הדרך לנגב בקרב "עיראק א-סואידך"ובקרב "עוג'ה אל-חפיר" נפגע בזחל שנסע בו והודלק. נפצע קשה והועבר לבית החולים בבאר-שבע ושם מת ביום כ"ה כסלו, תש"ט (27.12.1948). היה קבור זמנית בחלוצה, ביום 20.7.1949 הועבר למנוחת עולמים בבית הקברות בנחלת יצחק.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4326 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4326</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

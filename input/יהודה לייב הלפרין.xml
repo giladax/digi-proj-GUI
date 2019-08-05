@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 255 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/255</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה לייב הלפרין</persName>
+
+</head>
+         <div><p> בן שמעון משה -ואחיו של הפידגוג יחיאל הלפרין.נולד בעיר פרילוקי שבפלך פולטבה באוקריינה, ביום כ"ד שבט תרל"ד. אביו היה ראש ישיבה בפרילוקי, נין לנכד לר' יחיאל הלפרין בעל "סדר הדורות" ושאר בשרו של בוקי בן יגלי (הסופר והרופא ד"ר יהודה ליב קצנלסון).
+
+ למד ב"חדר" ואח"כ גם ב"ישיבה". כשגדל נלוה
+
+ ל"חובבי-ציון", היה גם חבר באגודת הסתרים "בני משה" מיסודו של אחד-העם, והיה מפרסם מזמן לזמן רשימות ב"המליץ".
+
+ כשנשא אשה עבר לגור לעיר ניז'ין שבפלר צ'רניגוב. שם התעסק במסחר לשם פרנסתו, אך בשעות הפנאי היה עסוק בעבודה צבורית מרובת-צדדים: היה חבר בחברת חובבי שפת עבר בשם "שפה ברורה", הרצה הרצאות בתולדות ישראל בחברת "תרבות", היה חבר ועד הקהלת בעיר ניז'ין, ואח"כ כשעבר לעיר חרקוב נבחר גם שם מטעם הציונים לועד הקהלה. בחרקוב עסק גם בפעולות ציוניות וסוציאליות שונות.
+
+ בשנת תרפ"ה עלה ארצה והתחיל לעבוד במשרדו של יצחק הוז בעמילות המכס, אח"כ נהיה לסוכנם של הטורגסון ו"אינטוריסט" ממוסקבה. בכל השנים שהיה ב"כ החברות הנ"ל היה עיקר תפקידו הקלת העליה מרוסיה הסוביטית בגבולות האפשרות.
+
+ הוא ממשיך לפרסם מזמן לזמן רשימות על עניני השעה ב"הארץ" וב"הצופה".
+
+ חבר הסתדרות הציונים הכלליים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 255 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/255</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

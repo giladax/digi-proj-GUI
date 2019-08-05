@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4764 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4764</bibl><bibl>Volume: #15 ,Page: 4765 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4765</bibl>
+<bibl>Volume: #15 ,Page: 4766 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4766</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב ניב (הלפרין)</persName>
+
+</head>
+         <div><p> נולד בט' ניסן תרס"ה (14.4.1905) בסביסלוץ, מחוז ולקוביסק, פולין.
+
+ עלה לארץ בתרפ"א-1921.
+
+ למד בבית המדרש למורים בירושלים.
+
+ בתרפ"ד-תרצ"ה (1934-1924) - מורה ומנהל בבתי ספר בבלפוריה, נשר ועוד.
+
+ בתרצ"ד-תשי"ג (1953-1934) - מנהל המרכז לחנוך ומפקח ראשי בזרם העובדים.
+
+ בתשי"ג-תש"ך (1960-1953) - חבר המזכירות הפדגוגית.
+
+ למן תש"ך (1960) - מפקח החנוך במחוז תלאביב.
+
+ חיבר ספרים רבים בחנוך ובפדגוגיה, בהם: א) "קו לקו" - עיונים בשאלות חנוך והוראה הוצאת "אורים"; ב) "בזרם" - עיונים בשאלות חנוך והוראה - הוצאת "אורים" ; ג) הוראת הספרות בבית הספר - הוצאת מרכז הסתדרות המורים "אוצר המורה" ; ד) הבעיה בלימוד החשבון הוצאת "תרבות וחנוך" ; ה) התרגיל בלימוד החשבון - הוצאת "תרבות וחנוך" ; ו)העבודה העצמית בלמוד - הוצאת "תרבות וחנוך" ; ז) החינוך החברתי - הוצאת "תרבות וחנוך" ; ח) מפעל החינוך בהסתדרות - הוצאת הועד הפועל של ההסתדרות ; ט) "יד למורה" - בעניני הלשון למבוגרים - הוצאת הועד הפועל; י) "לנו ולבנינו" - סידרת מאמרים להורים - הוצאת "עם עובד" ומועצת פועלי חיפה; יא) "ילדי שדה" (סידרת ספורים לילדים) - הוצאת "מסדה"; יב) ביום חג (סידרת ספורים לילדים) - הוצאת "קרית ספר" ; יג) ממועד למועד (סדרת ספורים לילדים) הוצאת "קרית ספר"; יד) הכובשים הצעירים (סידרת ספורים לילדים) - הוצאת "קרית ספר" ; טו) ילדים בכפר (סידרת ספורים לילדים) הוצאת "קרית ספר"; טז) בני עמי (סידרת ספורים לילדים) - הוצאת "עמיחי" ; יז) ילדים בישראל (סידרת ספורים לילדים; יח) היצירה החינוכית
+
+
+ החברתית - הוצאת מרכז המורים: יט) ספר המנהל: כ) המדריך לחנוך חברתי.
+
+ כן תירגם מאמרים פדגוגים מלשונות שונות (רוסית ואנגלית) להוצאות הפדגוגיות השונות.
+
+ משמש כחבר המערכת של "אורים" ו"אורים להורים" וכן מפרסם מאמרים בבעיות פדגוגיה וספרות בכתבי העת "הד החנוך", "דבר", "הפועל הצעיר" "מאזנים" ועוד.
+
+ זכה בפרס לחינוך (1963) של עירית תל-אביב, על מפעל חייו בשדה החינוך בישראל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4764 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4764</bibl><bibl>Volume: #15 ,Page: 4765 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4765</bibl>
+<bibl>Volume: #15 ,Page: 4766 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4766</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

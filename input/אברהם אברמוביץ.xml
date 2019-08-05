@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4282 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4282</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם אברמוביץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פטרבורג</placeName> (היום - לנינגרד - רוסיה) בשנת תרל"ו (1876).
+
+ לאביו <persName>זאב אברמוביץ</persName> (ממייסדי ראשון לציון. ממשפחת הרב <persName>אליעזר גינצבורג</persName> מקידן, שכיהן רב"ד בווילנה ולאמו<persName> שרה</persName> בת<persName> שמעון.</persName>
+
+ קיבל חינוך מסורתי.
+
+ בן שש היה כשעלה עם אביו לארץ.
+
+ נשא לאשה את<persName> מלכה</persName> בת <persName>שלמה לויטה </persName> (מראשוני פתח-תקוה, ראה כרך י"ב, עמוד 4103).
+
+ בביתם נרקם הדגל העברי הראשון למטרת אחת חגיגות שהתקיימה במושבה ראשון לציון. הוא ואחותו <persName>פניה</persName> (אח"כ אשת הבילויי<persName> מנשה מאירוביץ</persName> (ראה כרך ב', עמוד 823) רקמו על הטלית של אביהם את הדגל הציוני).
+
+ היה איש האדמה. המשיך בעול התלאות אשר היה אז מנת חלקם של הראשונים. קיבל מאביו את נחלתו המשיך בחקלאות.
+
+ נפטר בראשון לציון, כ"א אדר א', תש"ז (22.2.1946).
+
+ צאצאיו:<persName> צפורה</persName> אשת<persName> אפרים אשכנזי, זאב, ישראל</persName> ז"ל (ראה להלן את הערך שלו בכרך זה),<persName> מתתיהו,</persName> חגי,<persName> שרה</persName> אשת <persName>אלדד אלוג', בנימין</persName> (כולם תושבי הארץ).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4282 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4282</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

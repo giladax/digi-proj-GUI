@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 586 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/586</bibl><bibl>Volume: #2 ,Page: 587 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/587</bibl>
+<bibl>Volume: #2 ,Page: 588 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/588</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמחה מנדלבוים</persName>
+
+</head>
+         <div><p> נולד בעיר טורוב, פלך מינסק, רוסיה הלבנה ט"ו שבט תרכ"ט (1869), לאביו הרב<persName> ברוך</persName> שהיה מגדולי חסידי קרלין, דרשן מפורסם, מצאצאי ר' יואל סירקש בעל הב"ח ורש"י ולמעלה עד דוד המלך, ולאמו <persName>לאה</persName> לבית טייטלבוים.
+
+ בשנת תרל"ד עלה לא"י עם הוריו, אחיו ואחיותיו והתישבו בירושלים. קבל חנוך מסורתי בחדר ובישיבות.
+
+ נשא לאשה את אסתר ליבה בת הרב נחום אפשטין, האדמו"ר מקוברין.
+
+ מהראשונים שיסד בא"י בית חרשת לטוית חוטים וייצור גרבים.
+
+ מעסקני הצבור בירושלים. היה בין מיסדי ועד האשכנזים וועד העיר ליהודי ירושלים.
+
+ ממיסדי המושבה כפר סבא.
+
+ ממיסדי ועד העזרה ליהודי ירושלים במלחמה העולמית הראשונה, שחילק אוכל וכסף לנצרכים מכספי העזרה שהגיעו מאמריקה.
+
+ נפטר בירושלים, ה' אייר תר"צ.
+
+ צאצאיו:<persName> חיה </persName> אשת הרב אהרן טיטלבוים,<persName> חנה</persName> אשת חיים רקובר,<persName> דבורה</persName> אשת בן ציון לבל, <persName>אלתר</persName> (רב באמריקה), <persName>חיים, מתתיהו, יחיאל, ברוך, מרדכי</persName> , <persName>רחל</persName> אשת הרב רפאל קוק.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 586 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/586</bibl><bibl>Volume: #2 ,Page: 587 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/587</bibl>
+<bibl>Volume: #2 ,Page: 588 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/588</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

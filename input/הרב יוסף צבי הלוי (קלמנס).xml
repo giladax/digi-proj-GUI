@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 354 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/354</bibl><bibl>Volume: #1 ,Page: 355 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/355</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יוסף צבי הלוי (קלמנס)</persName>
+
+</head>
+         <div><p> נולד בסלובודקה, ליד קובנה, ליטא, בחודש אלול
+
+ תרל"ד (1874), לאביו הרב<persName> אברהם הלוי </persName> שו"ב ולאמו<persName> חייה</persName>
+
+<persName>רייזה</persName> . למד בחדרים ובישיבת סלובודקה ובעודו בחור צעיר כבר הוסמך להוראת איסור והיתר.
+
+ בטבת תרנ"א עלה ארצה. בהגיעו ליפו היה ביקורו
+
+ הראשון בבית הרב<persName> נפתלי הירץ הלוי</persName> , הרב האשכנזי הראשון של קהלת יפו, והרב מצא תיכף רמז בפסוק שנפל בפיו בהשכמת הבוקר, "יבא ברנה נושא" (ר"ת יוסף בן אברהם בת ר' נפתלי הרץ נושא) שבחור זה ישא את בתו. ואכן בפורים תרנ"א אירש את בתו של הרב הינדה (אילה) ועד לחתונה למד בישיבת הרב <persName>מרדכי גימפל</persName> <persName>יפה</persName> ביהודיה שליד פתח-תקוה והיה תלמידו המובהק ואהוב נפשו עד לפטירת הרב יפה (כ"ה חשון תרנ"ב).
+
+ בתרנ"ז נתמנה לדיין ועוזר לחותנו בעבודת הר
+
+
+ בנות הן בשאלות איסור והיתר ובמצוות התלויות בארץ והן בדיני תורה במשפטי ממון וקרקעות וכדומה, והכל היו מריצים בהליכותיו בנחת עם הבריות ובפסקיו ושום יהודי לא פנה בתביעותיו לערכאות.
+
+ אחרי פטירת חותנו (י"ד מיון תרס"ב) המשיך בשרותו בתקופת הבינים, בין רב לרב, ואח"כ ליד הרב <persName>א. י. הכהן קוק</persName> , ואז נתמנה לראש בית-הדין הראשון הקבוע שהקימה הרבנות של הקהלה לשרות העיר והמושבות. (חבריו בבית-הדין היו: הרב<persName> שמואל משה ברוידא</persName> מדרוזגניק והרב<persName> זלמן שך</persName> הי"ד, שנרצח במהומות תרפ"ט במוצא). עם גידול העיר והישוב בה יסד בהסכמת הרב
+
+ קוק ועדה לכשרות הבשר, בהשתתפות הרב<persName> זאב גרינ</persName> <persName>וואלד, שמואל דב רזניק</persName> ,<persName> אליהו קנטור ודב וילנסקי,</persName> ועמד בראשה.
+
+ בשנות תרע"ד-תרפ"ג (מיציאת הרב קוק לחו"ל ועד
+
+ למינוי הרב<persName> שלמה הכהן אהרנסון</persName> לרבה הראשי של תלאביב ויפו) ניהל את עניני הרבנות בעיר ובסביבה בהנהגה מעשית ורוחנית. יסד ועדה לגבית מס השחיטה וחלוקתו, בהשתתפות<persName> יצחק זיסל, יוסף ליפשיץ, יחיאל שמרלינג</persName> <persName>וישראל שמעון רבינוביץ-תאומים</persName> . יצג יחד עם החכם-באשי רבי<persName> בן-ציון מאיר חי עוזיאל</persName> (כיום הראשון-לציון והרב הראשי לארץ-ישראל) את העדה היהודית שביפו ות"א בפני השלטונות הטורקיים בתקופת מלחמת-העולם הראשונה והשתדל במסירות-נפש בעד ריכוך הגזירות והנגישות.
+
+ בעת הגירוש הכללי מיפו ות"א גלה לפתח-תקוה ואח"כ עבר לראשון לציון, ואחרי כניסת הצבא הבריטי לדרום הארץ חזר ליפו, חידש את החיים הדתיים והשתתף בהקמת הרבנות המאוחדת של האשכנזים והספרדים ביפו ות"א. ממשיך בשרותו כראב"ד וחבר הרבנות הראשית בעיר בתקופת כהונתם של הרבנים הראשיים <persName>אהרנסון</persName> (תרפ"ג-תרצ"ה) <persName>ועמיאל</persName> (תרצ"ו-תש"ה) ויבדל
+
+ לחיים הרב הראשי<persName> אונטרמן</persName> (מתש"ז ואילך).
+
+ היה מהחברים הראשונים של שכונת "מאה שערים" בתל-אביב, ובתרצ"ג היה מיוזמי בנין בית-הכנסת לפרושים על שם הגר"א על המגרש הצבורי שהקצתה השכונה למטרה זו (ברחוב הירקון). 
+
+ חיבר ספרים בהלכה (בעיקר במצוות התלויות בארץ) ובאגדה: "בכורי ציון", "טיב קידושין", "הוראת שעה", "השקפה לברכה", "עשר תעשר", "נטע הארץ", "זרע הארץ", "תורת הרכבה", "כרם הארץ", "תורת השביעית", "תורת שמיטת כספים ופרוזבול", והספר הגדול "אמירה נעימה". צאצאיו:<persName> חיים</persName> (ז"ל) ממיסדי המכבי ביפו, <persName>נפתלי</persName> ,
+
+<persName>יצחק, שמואל</persName> (מפעילי "זבולון" ומדריכיו),<persName> אריה, שפרה</persName>
+
+ ו<persName>רוחמה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 354 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/354</bibl><bibl>Volume: #1 ,Page: 355 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/355</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

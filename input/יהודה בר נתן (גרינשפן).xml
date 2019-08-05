@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5221 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5221</bibl><bibl>Volume: #17 ,Page: 5222 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5222</bibl>
+<bibl>Volume: #17 ,Page: 5223 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5223</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה בר-נתן (גרינשפן)</persName>
+
+</head>
+         <div><p> נולד בעיירה דמבציה שליד קראקו (פולין), כ' ניסן תרס"ג (25.4.1903).
+
+ לאביו<persName> נתן גרינשפן </persName> (תעשיין ידוע במוצרי-עץ, לרבות בניית עגלות ומריצות) ולאמו דבורה בת <persName>מנחם מנדל מהלר.</persName>
+
+ קיבל חינוך מסורתי וכללי בבית ספר תיכון. גמר גימנסיה ולמד כלכלה בגרמניה.
+
+
+ ממייסדי אירגון "הנוער העובד" בעיר מולדתו, חבר המרכז של "פועלי-ציון" בברלין (גרמניה).
+
+ השתתף בקונגרסים ציוניים בוינה, בפרג ובבזל כציוני מאורגן ופעיל.
+
+ ביקר כמה פעמים בארץ.
+
+ בשנת 1932 עלה לארץ לישיבת קבע.
+
+ המפעל הראשון שהקים בתל-אביב היה בית חרושת קטן לכוהל באבו-כביר ואח"כ פתח מפעל לחמצןפחמן. שני המפעלים העסיקו אז כ-30 פועלים, ואילו כיום עובדים במפעליו השונים (ראה להלן) מאות פועלים.
+
+ בשנת 1937 נשא לאשה את<persName> קלרה</persName> בת<persName> שרגא אנ</persName> <persName>גלברג.</persName>
+
+ שותף ובעל עסקים ותעשיות: בתי חרושת לבירה "אביר" ליד נתניה ובבת-ים; בית חרושת "פאקא" לשמרים וכוהל בבת-ים ; בית חרושת לכוהל בשיתוף עם בית החרושת "עסיס"; 4 מפעלים ליצור חמצן; ביח"ר לצמר פלדה "סטיכו"; בית חרושת לשופרות אלומיניום "אמגו".
+
+ מראשי "התאחדות בעלי התעשיה בישראל"; כיהן בשנים 1959-1951 כיו"ר הועד הפועל של "התאחדות בעלי התעשיה בישראל", אחרי פטירתו (1959) של נשיאה המנוח <persName>אריה שנקר</persName> , (ראה כרך שני, עמוד 807), נבחר לנשיא ההתאחדות.
+
+ חבר מועצת המנהלים: של "הבנק לתעשיה בע"מ", של "הבנק לסחר חוץ בע"מ", של "הבנק לפיתוח לתעשיה בע"מ", של "החברה למימון התעשיות בע"מ" ושל "בנק למשכנתאות עצמאות בע"מ".
+
+ יו"ר מועצת המנהלים של תעשיות בירה, ושל תעשיות החמצן בארץ.
+
+ מנהל כללי של "חברת פאקא בע"מ" ועוד תעשיות אחרות.
+
+ ידוע כבעל אופי חזק ובעל מרץ רב. שקט, צנוע, אדיב ומנומס.
+
+ בניו:<persName> מיכאל, גבריאל</persName> (תאומים - נולדו בשנת 1940).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5221 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5221</bibl><bibl>Volume: #17 ,Page: 5222 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5222</bibl>
+<bibl>Volume: #17 ,Page: 5223 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5223</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

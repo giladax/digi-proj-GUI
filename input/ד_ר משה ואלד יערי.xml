@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2181 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2181</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר משה ואלד-יערי</persName>
+
+</head>
+         <div><p> נולד ברז'שוב (ריישא בפי היהודים), גליציה המערבית, ראשית אדר תרנ"ה (2.3.1895), לאביו<persName> חיים</persName> <persName>ואלד</persName> (פרטים עליו ראה בערך על שם בנו <persName>מאיר יערי,</persName> כרך א', עמוד 387) ולאמו<persName> פרידה</persName> בת <persName>יעקב הולשיצר.</persName> למד בחדרים, בגימנסיה ובאוניברסיטת וינה והוסמך בה לד"ר למשפטים ולמדעי המדינה. היה פעיל ויו''ר בתנועות נוער ציוניות בריישא ובוינה, בעבודה למען הקה"ק, ובארגון הצופים הציוניים "השומר" (שהיה אח"כ ל"השומר הצעיר") וב-1917 נבחר להנהגתו הראשית באוסטריה.
+
+ עמד לעלות ארצה ב-1929, אך נשאר עוד בגלל הצורך בעבודתו לסייע לאחרים בדרכם לעלות. היה זמן-מה יו"ר "החלוץ" בוינה ופעל בעזרה לפליטים ולחלוצים בדרכם לנמל העליה שבטריאסט. 
+
+ בסוף 1922 עלה ארצה ומ-1923 ניהל את עניני ועד הבריאות המשותף לעירית תל-אביב ולועד קהלת יפו ות"א, שהאמצעים לפעולתו נתקבלו ממס בריאות וממס שעשועים. מ-1927 היה מזכיר מחלקת החינוך העירונית, מ-1933 מזכיר מחלקת הפרסום ומ-1943 ואילך מנהל מחלקח מס עקיפין בעירית ת"א.
+
+ נשא לאשה את <persName>חיה</persName> בת <persName>אלתר יוסף הלוי איש הורביץ.</persName> חוץ מעבודתו המשרדית פעל גם בעניני צבור ותרבות. ב-1923/24 היה מרצה על עניני מדינה וכלכלה באגודה להשתלמות במדעים. היה חבר הועד וההנהלה של קהלת יפו ות"א מטעם אחדות העבודה, חבר הועד הארצי של קרן היסוד, שופט במשפט השלום העברי, חבר הנהלת הועד המיסד (וזמן-מה ממלא מקום יו"ר) של הארגון למען תוצרת הארץ, חבר ועד האיגוד להשלטת העברית ועמד על משמר העברית בשלטים ובשמות עסקים.
+
+ בתו : <persName>כרמלה</persName> אשת <persName>יהונתן אלדר</persName> . כחברת ה"הגנה" נאסרה בסתיו 1947 על-ידי המשטרה הבריטית בירושלים באשמת החזקת נשק. הועמדה למשפט צבאי ונדונה לשלש
+
+ שנות מאסר או לפדות את המאסר בקנס. בחרה מאסר, לבל יתרגלו הבריטים לסחוט כספים על-ידי פסקי-דין למאסר. ישבה בבית הכלא לנשים בבית לחם, ומשהבריטים החלו מעבירים את מטענם לקרבת נמל יציאתם מן הארץ
+
+ העבירו גם אותה - בין כמה אסירים חשובים - למחנה עתלית. בסוף שחררוה ועוד הספיקה להשתתף בהגנה על משמר העמק ואח"כ לשרת בצבא ההגנה לישראל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2181 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2181</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

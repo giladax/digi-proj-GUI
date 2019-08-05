@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2124 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2124</bibl><bibl>Volume: #5 ,Page: 2125 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2125</bibl>
+<bibl>Volume: #5 ,Page: 2126 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2126</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עדה גלר</persName>
+
+</head>
+         <div><p> נולדה בטלומאץ', מזרח גליציה, אייר תרמ"ח (1888. 4.5), לאביה<persName> משה</persName> ולאמה<persName> אסתר</persName> . למדה בבי"ס ממשלתי בפולנית. למדה ואח'כ לימדה עברית וחינכה בהתנדבות נערות מבנות דלת העם, פעלה למען ביה"ס העברי "שפה ברורה", למען הקה"ק והציונות.
+
+ ב-1911 עלתה ארצה. ניהלה כעשר שנים את ביה"ס "שושנה" בירושלים (זה היה בי"ס להוראת מלאכת תחרים ומלאכת-יד אמנותית לבנות דלת העם ולתת להן גם חינוך עברי בדרגת בית-ספר עממי), מיסודה של שרה לאה<persName> טהון</persName> , שנתמך על-ידי "ברית נשים יהודיות לתרבות" בברלין. תפסה מקום נכבד בחיי הישוב החדש בירושלים ונבחרה לאספת הנבחרים הראשונה.
+
+ משנסגר ביה'ס "שושנה" ב-1922 יצאה להשתלמות לארה"ב. למדה באוניברסיטה בפיטסבורג, הוסמכה למדעי המסחר ולבקורת חשבונות, וב-1927 חזרה ארצה. נאבקה ארבע שנים עם הממשלה המנדטורית עד שקבלה רשיון לפעול בארץ בתור רואה-חשבון מוסמכת ומבקרת, האשה הראשונה ובשנים הראשונות אף היחידה במקצוע זה. בינתים לימדה בביה"ס למסחר בשביל בנות מיסודו של הד"ר <persName>שור</persName> בירושלים, ואחרי קבלה את הרשיון עסקה במקצועה ונתקבלה כחברה באגודת רואי חשבון מוסמכים. כן היתה חברה בארגון נשים אקדמיות. נדבה מזמנה לניהול החשבונות באחדות העבודה ובמטבח הפועלים בירושלים. במשך קיומו של בנק שלמה המלך בע"מ היתה חברה במנהלתו ומזכירת המרכז שלו. ביחוד היתה פעילה
+
+ מעת שובה מאמריקה בהתאחדות נשים לשווי זכויות, נבחרה למרכז ההתאחדות ופעלה רבות בניהול עבודתו בהרבה שטחים : קשרים עם הסניפים, פעולה למען הצלחת רשימת הנשים בבחירות לאספת הנבחרים ג' ולקהלת ירושלים, ארגון ונהולו של חוג של נשים צעירות לעיון בתולדות תנועת האשה בעולם ובארצנו. היתה חברה במשלחת מטעם ההתאחדות בקונגרס הבינלאומי של ברית נשים עולמית לשווי זכויות, שנערך ב-1935 באיסטמבול.
+
+ נפטרה בירושלים, כ"ט אדר תש"ט (30.3.49).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2124 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2124</bibl><bibl>Volume: #5 ,Page: 2125 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2125</bibl>
+<bibl>Volume: #5 ,Page: 2126 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2126</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

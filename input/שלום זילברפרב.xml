@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2169 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2169</bibl><bibl>Volume: #5 ,Page: 2170 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2170</bibl>
+<bibl>Volume: #5 ,Page: 2171 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2171</bibl>
+<bibl>Volume: #5 ,Page: 2172 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2172</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלום זילברפרב</persName>
+
+</head>
+         <div><p> נולד בשנת 1915 בסוליצא (מחוז בוטושאני רומניה), לאביו הרב <persName>חנוך דב</persName> (אדמו"ר קוידנוב ובוטושאני) ולאמו <persName>איידל דינה</persName> בת הרב<persName> מרדכי יוסף משה מושקוביץ</persName> (אדמו"ר משוץ בסיליצא).
+
+ קבל חינוך מסורתי. שמש כמורה וכרב בבוקרשטי. שם נכנס גם לעבודה צבורית במפלגת המזרחי והפועל המזרחי. היה חבר ההנהלה הציונית ברומניה, חבר הנהלת "בני עקיבא" והמשרד הארצישראלי. השתתף באירגון
+
+ עליה ב' ו"הבריחה" מטרנסדניסטריה לפולניה. את כל הפעולות האלה ביצע שלא על מנת לקבל פרס.
+
+ בשנת תש"ב (1942) עלה ארצה בראש טרנספורט של עולים מרומניה.
+
+ בארץ נכנס לעבודה פעילה במפלגה. היה לחבר המרכז של הפוה"מ, עבד במזכירות הפוה"מ בחיפה, חבר ועדת החינוך העברי בעירית חיפה.
+
+ היה ציר לקונגרס הציוני הכ"ב. כעת הוא קצין מחוז חיפה. פקיד במשרד הפנים במנהל המחוזי בחיפה.
+
+ פרסם מאמרים רבים ביניהם ענייני דרוש בפרשת השבוע בעתונות היהודית הדתית ברומניה ובארץ : "דרכנו" בצ'רנוביץ, "אונזער צייט" בקישינוב (ערך את המדור "מאוצרנו הישן"), "נתיבה" בטאון הפוה"מ.
+
+
+ בשנת 1938 נשא לאשה את <persName>דבורה</persName> בת הרב <persName>בן ציון</persName> <persName>מלמד.</persName>
+
+ בנו: <persName>בן ציון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2169 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2169</bibl><bibl>Volume: #5 ,Page: 2170 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2170</bibl>
+<bibl>Volume: #5 ,Page: 2171 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2171</bibl>
+<bibl>Volume: #5 ,Page: 2172 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2172</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

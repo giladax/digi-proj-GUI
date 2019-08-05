@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 617 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/617</bibl><bibl>Volume: #2 ,Page: 618 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/618</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרמן פסקל</persName>
+
+</head>
+         <div><p> נולד בבאקאו, מולדביה, רומניה, בשנת תר"א לאביו<persName> יוסף</persName> . קיבל חינוך מסורתי והשכלה כללית בצרפתית, רומנית וגרמנית.
+
+ עסק במסחר ושימש בתפקיד סגן-קונסול של אוסטריה בגאלאץ. כשהפסיד את כספו במסחר התפרנס מהוראת השפה הצרפתית.
+
+ הצטרף ל"חיבת ציון" מראשיתה, השתתף בתעמולה למען העליה בנאומים, בפעולה בועד ובעריכת עלון מיוחד ברומנית, ובחורף תרמ"ב הפליג מגאלאץ באניה "איריס" בקבוצה השלישית של העולים, ועמו רעיתו<persName> סופיה</persName> , אשה משכילה ורבת מרץ, בניו<persName> פרץ</persName> <persName>ויוסף</persName> ובנותי<persName>ו ברטה</persName> (שנישאה אח"כ למר<persName> חזן</persName> , מנהל בפקידות<persName> הבארון רוטשילד), בלה</persName> (נישאה למאיר <persName>אפלבוים) ופאני </persName> (נישאה<persName> למאיר טמשס</persName> ).
+
+
+ בזכות היותו שייך למעמד הדיפלומטי (קונסול לשעבר) הרשה לו מושל הלבנון לעלות על החוף בבירות עם משפחתו ועם עוד כעשרה אנשים, לפני שהתחיל מסע-הטלטולים של שאר נוסעי האניה במשך כחדשים בגלל סירוב שלטונות החוף בארץ להרשות להם את העליה. כשנתקלו העולים מיד בקשיים גדולים והפליטו דברי חרטה על בואם, השתיקתם מרת סופיה פסקל באמרה: "ככל שירבו המכשולים ימתק הנצחון. יבוא יום ונספר את כל סבלותינו בשמחה ובששון".
+
+ יצא עם המתנחלים ל"זמרין" היא זכרון יעקב, ומיד נמצאו במצוקה ובחוסר עזרה בפני סכנת אבדן הנחלה. הוא וחבריו ישבו וכתבו אז ששים מכתבים בלשונות שונות לנדיבים ולעתונים באירופה, ואף ב"החבצלת" הירושלמי פרסם מאמר על סבות כשלון המתנחלים ודרש עזרה להם. הוא היה היחיד בחבורה שדיבר עברית.
+
+ העזרה באה מאת<persName> הבארון בנימין (אדמונד) רוט</persName> <persName>שילד</persName> , שלקח את המושבה תחת חסותו. אך הוא לא יכול ליהנות זמן רב מהישועה שבאה למושבה. תקפה
+
+ אותו הקדחת ובעקבותיה מחלת-כבד. הועבר לחיפה. הוזמן אליו רופא מאניה אוסטרית שעגנה בנמל. הרופא ניתח אותו, אך לא הספיק עוד להציל את חייו.
+
+ נפטר בחיפה, כ' תמוז תרמ"ג (1883). הפקידהמנהל<persName> וורמסר</persName> לא הרשה לאכרי זכרון-יעקב ללכת להלויתו לחיפה ולהבטל מעבודתם... ויהודי חיפה חלקו לו את הכבוד האחרון.
+
+ אשתו נפטרה בתל-אביב, ו' סיון תרצ"ו ונקברה בחיפה ליד קבר בעלה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 617 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/617</bibl><bibl>Volume: #2 ,Page: 618 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/618</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

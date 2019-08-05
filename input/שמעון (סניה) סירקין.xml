@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1803 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1803</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמעון (סניה) סירקין</persName>
+
+</head>
+         <div><p> נולד בקיוב, אוקראינה, כ"ה ניסן תרס"ו (.20.4 1906). לאביו <persName>נחמן </persName> (יו"ר ההסתדרות הציונית באוקראינה, מנהיג ביהדות הרוסית בשנות המהפכה) ולאמו <persName>צציליה</persName> בת<persName> מאיר טיומקין.</persName>
+
+ למד בגימנסיה בקיוב, אח"כ למד בפוליטכניון בהאנובר שבגרמניה, שם היה פעיל גם באגודות ספורט, וב-1925 הוסמך למהנדס מכונאי. באוגוסט 1925 עלה לארץ ומאז עוסק במקצועו
+
+ כמהנדס יועץ, ובזמן האחרון יועץ למוסדות ממשלתיים בבעיות המים. השתתף ביסוד "הפועל" ונבחר למרכזו. פעיל בהגנה מאז בואו ארצה והיה מותיקי מפקדיה. שרת בצבא הבריטי (ביחידות העבריות) בשנות 1940/46 והגיע לדרגת מיג'ור. במלחמת המולדת היה מפקד חי"מ ת"א ואח"כ, בדרגת סגן אלוף, ראש אכ"א/2 במטה הכללי, ואחרי שחרורו נבחר לחבר מרכז החיילים המשוחררים וממשיך בעבודתו כמהנדס יועץ להספקת מים ולהשקאה.
+
+ ב-1934 נשא לאשה את <persName>בת-עמי</persName> בת <persName>אליעזר קולודני.</persName> בנו: <persName>נחמן </persName> (מאשתו הראשונה <persName>פניה</persName> בת<persName> זאב</persName> <persName>בבושקין-מזאה</persName> ).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1803 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1803</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

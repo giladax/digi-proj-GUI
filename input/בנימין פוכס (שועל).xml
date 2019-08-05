@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 701 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/701</bibl><bibl>Volume: #2 ,Page: 702 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/702</bibl>
+<bibl>Volume: #2 ,Page: 703 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/703</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנימין פוכס (שועל)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>חרסון</placeName> (אוקראינה), בשנת תרכ"א (1861), לאביו <persName>ברוך</persName> . קיבל חנוך מסורתי אצל הוריו הדתיים ולמד ב"חדר". בבחרותו היה חברו של המשורר<persName> ש.</persName> <persName>פרוג</persName> והושפע מאד ממנו. הצטרף לתנועת ביל"ו והיה בקבוצה הראשונה של הביל"ויים שעלו ארצה מניקולייב. הגיע לחוף יפו בשנת תרמ"ב (1882) והתגורר בבית אנטון איוב שבקרבת יפו ומשם היה הולך יוםיום עם יתר חבריו לעבודה במקוה ישראל. השתתף באסיפות בהן חובר תקנון ביל"ו ששימש אחד הגורמים להרחקת הביל"ויים ממקוה ישראל. לא נתיאש אחר הגירוש ונשא עיניו ליום בו תקום מושבת הביל"ויים. 
+
+ זכה להיות בין השבעה אשר עלו לאדמות קטרה בכ"ו כסלו תרמ"ה ויסדו את גדרה. שינה את שם משפחתו "פוכס" ל"שועל" ובשם זה הוא חתום על כמה תעודות היסטוריות מהימים ההם בגדרה. גם ברשיון שנתנו השלטונות התורכיים לבניית בתים בגדרה נזכר שמו. השתתף ברוב המשלחות של בני המושבה למקומות שונים בארץ. ב-29 ביולי 1885 הלך ברגל יחד עם מוגילבסקי ומוגילנסקי אל פטרונם
+
+
+ הרי''מ פינס בירושלים, ב-25 באוקטובר 1885 הלך קוב ברגל אליו וב-6 בנובמבר 1885 הלך לעזה יחד עם יעקב שלמה חזנוב ויוסף לייב ליס לפי הזמנת השלטונות לרגל הקמת האורווה הידועה בגדרה בלי רשיון הממשלה.
+
+ נשא לאשה את<persName> מינצה</persName> בת ר'<persName> מרדכי ניימן</persName> , מאכרי עקרון הותיקים שהביא עמו בבואו לארץ קבוצת נערים מרומניה על מנת שיקבלו חנוך חקלאי במקוה ישראל.
+
+ ככל מייסדי גדרה ובוניה במשך כל השנים נפלו בחלקו תלאות ויסורים רבים.
+
+ מת משבץ-לב בט"ו ניסן תרצ"ג ונקבר בגדרה.
+
+ צאצאיו: <persName>אמוץ </persName> (מורה-דרך לתיירים בירושלים), <persName>ירמיהו וצבי</persName> (שניהם אכרים בגדרה), <persName>תמר</persName> (ז"ל) אשת המורה יצחק פלר, <persName>לאה </persName> שטרן <persName>והדסה</persName> אהלי.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 701 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/701</bibl><bibl>Volume: #2 ,Page: 702 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/702</bibl>
+<bibl>Volume: #2 ,Page: 703 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/703</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

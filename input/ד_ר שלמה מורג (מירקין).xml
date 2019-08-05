@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3324 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3324</bibl><bibl>Volume: #9 ,Page: 3325 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3325</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר שלמה מורג (מירקין)</persName>
+
+</head>
+         <div><p> נולד בז' מנחם אב תרפ"י (17.7.1926) בפתח תקוה.
+
+ לאביו הרב <persName>משה אריה מירקין</persName> (מחבר ספרים במדעי היהדות, בכללם פירוש מדעי למדרש רבה) ולאמו <persName>שרה</persName> בת <persName>דב בר מרגלית</persName> (מראשוני פתח תקוה). ראה את הערכים של הוריו בכרך זה.
+
+ למד בבית-הספר העממי ברמת-גן, בגימנסיה ריאלית בלפור בתל-אביב, באוניברסיטה העברית בירושלים (בה הוסמך למדעי הרוח ולד"ר לפילוסופיה) ויצא להשתלמות נוספת בסורבונה בפאריס.
+
+
+ בשנת תשי"ג נשא לאשה את<persName> שושנה</persName> בת<persName> ישראל</persName> <persName>דיזנהויז.</persName>
+
+ עוסק בהוראה באוניברסיטה העברית בירושלים ובאוניברסיטה של תל-אביב. במסגרת עבודתו המדעית באוניברסיטה העברית הנו עוסק בכינוס המסורות הלשוניות של עדות ישראל לגלויותיהן ולתפוצותיהן, מסורות שערכן רב לחקר תולדות הלשונות העברית והארמית, מסורות העלולות להיטמע ולהשתכח תוך זמן קצר בעקב הטמיעה הלשונית של עולי הגלויות השונות בעברית הכללית המדוברת בארצנו.
+
+ השתתף ביסוד החברה לחקר המקרא בישראל ; חבר החברה לסרט אתנוגראפי בישראל: חבר בחברות מדעיות בצרפת ובארה"ב.
+
+ מפרסם מאמרים בעתונות המדעית ("לשוננו", "תרביץ", "ארץ-ישראל"), ב"החינוך" וב"לשוננו לעם" על נושאים שבתחומי הלשון העברית, הבלשנות והמקרא. מחבר ערכים באנציקלופדיה העברית, המקראית והחינוכית. מכין לדפוס ספרים בתחום חקר הלשון העברית.
+
+ בשנת תשט"ו נשלח מטעם המחלקה לחינוך ולתרבות של ההסתדרות הציונית להרצות בסמינריוני קיץ למורים עבריים בקנדה; הרצה גם מטעם מוסדות שונים במונטריאול, באוטאווה ובטורונטו, וכן באמסטרדאם ובציריך.
+
+ בשנת תשט"ז הוזמן לשמש פרופסור-אורח ללשון העברית בדרופסי קוליג' שבפילאדלפיה (ארה"ב).
+
+ שירת בצ. ה. ל. ועלה לדרגת <persName>סרן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3324 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3324</bibl><bibl>Volume: #9 ,Page: 3325 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3325</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

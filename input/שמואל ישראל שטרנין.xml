@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1794 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1794</bibl><bibl>Volume: #4 ,Page: 1795 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1795</bibl>
+<bibl>Volume: #4 ,Page: 1796 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1796</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל ישראל שטרנין</persName>
+
+</head>
+         <div><p> נולד בנאורארדעק, פלך מינסק, רוסיה הלבנה א' ניסן תרכ"ה (1865), לאביו ר'<persName> רפאל יצחק </persName> (ראה בכרך זה) ולאמו <persName>מרים דבורה</persName> בת <persName>צבי פרלמן</persName> .
+
+ למד בחדרים ובבית-המדרש ובבית-הספר ממשלתי בבוברויסק ואח"כ עסק במסחר.
+
+ בשנת תר"ן עלה לארץ עם אביו ובדעתם להתנחל על אדמת מחנים שכמעט ונקנתה בשביל התישבות של יהודים מרוסיה, ומשנקנתה בשביל אכרי ראש פנה ואביו התקשר עם <persName>יהושע חנקין </persName> לרכישת נחלה בחדרה שחנקין עסק אז בגאולת אדמתה, עלה עם
+
+ אביו על אדמת חדרה בין הראשונים בתרנ"א, נשא בכל תלאות ראשוני חדרה, החזיק מעמד על אף הכל והתמסר לעבודה בחקלאות ובנטיעה. ניהל את נטיעת יערות האקליפטוס בבצות עטה ואח"כ את נטיעת השקדים וההדרים באותו גוש, כן ניהל את נטיעת הפרדסים וכרמי השקדים של אגודת נטעים וחינך דור שלם בעבודה חקלאית.
+
+
+ בתרס"ב נשא לאשה את <persName>פרידה</persName> בת <persName>שאול רוטמן</persName> (ממיסדי חדרה, אבי משפחת רוטמן במושבה זו). (נפטרה בזכרון יעקב, כ"ה ניסן תרס"ד).
+
+ בשלשים השנים הראשונות של חדרה היה כמה פעמים חבר ועד המושבה, ובשנת תרס"ז, כשהערבים התנכלו לגבולות הצפון של חדרה, היה הוא האחראי לשמירה ולבטחון וביצע את החריש הראשון בשטח המריבה כדי לקבוע את ההחזקה עליו בידי היהודים ועמד באומץ נגד התוקפים.
+
+ אחרי מלחמת-העולם הראשונה התנדב למשטרה ושימש במשך שנתים סרג'נט השוטרים.
+
+ ממיסדי מושב זקנים בחדרה ומפעילי היהדות החרדית וראשיה בצבור המקומי.
+
+ בנו:<persName> עמנואל כוכבי</persName> (מזכיר מועצת חדרה, ראה את הערך שלו בכרך זה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1794 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1794</bibl><bibl>Volume: #4 ,Page: 1795 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1795</bibl>
+<bibl>Volume: #4 ,Page: 1796 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1796</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

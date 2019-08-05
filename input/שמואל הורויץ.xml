@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2594 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2594</bibl><bibl>Volume: #6 ,Page: 2595 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2595</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל הורויץ</persName>
+
+</head>
+         <div><p> נולד בכפר סושה, בקרבת בברויסק (רוסיה) בשנת תרכ"ד (1864).
+
+ לאביו <persName>אברהם אבא</persName> (מתיחס לצאצאי השיל"ה. היה למדן מתמיד) ולאמו<persName> חיה.</persName>
+
+ קבל חנוך מסורתי.
+
+ היה פעיל בארגוני הנוער הגיוני בעירו,
+
+
+ עלה לארץ בשנת תרמ"ה (1885).
+
+ עבד בחקלאות בראשון לציון, התקבל לבית הספר החקלאי של הברון בזכרון יעקב. לאחר התנגדותו ליחס המנהלים, רצו פקידי הברון שיעזוב את הארץ. חבריו התנגדו ואיימו בשביתה. הוגלה, יחד עם 5 מחבריו "המורדים" לגליל.
+
+ נשא לאשה את <persName>רחל </persName> בת <persName>דוד בוקששתר</persName> (עזרה לבעלה בניהול המשק וחנכה את ילדיה לאהבת הקרקע).
+
+ יחד עם <persName>דוד שוב</persName> רכשו אדמות ראש פינה.
+
+ היה חבר ומרכז ועדי הגליל העליון. היה חבר ועד המושבה ראש פינה.
+
+ עשה מאמצים לשחרור האכרים מהאפטרופסות של פקידי הברון.
+
+ עבד כגנן ראשי בנטיעות הברון בגליל. קבל מהברון אכרות בראש פינה. התמסר לנטיעות וביחוד היה נוטה חיבה מיוחדת לעץ הזית.
+
+ המורה והסופר ד"ר<persName> יצחק אפשטיין</persName> היה מחבריו הטובים.
+
+ היה מכובד ביושרו על הסביבה העברית והערבית כאחד.
+
+ חנך את יוצאי חלציו - לאהבת הארץ ולעבודה חקלאית, ורובם התאזרחו בארץ.
+
+ צאצאיו: <persName>חיה</persName> אשת<persName> יצחק הולנדר</persName> (אבן יהודה), <persName>דבורה</persName> אשת <persName>יצחק עפרון </persName> (חקלאי ובעל תעשיה),<persName> דוד</persName> <persName>הורויץ</persName> (ראה בעמוד 2483 בכרך זה),<persName> רבקה</persName> אשת <persName>יחיאל מילר</persName> (אביחיל), <persName>אסתר</persName> אשת<persName> יעקב שצקין</persName> (חדרה). <persName>שרה א</persName> שת <persName>הניך בלום</persName> (באוסטרליה. ילדיה בארץ. ההורים חוזרים בקרוב לישראל), <persName>אברהם</persName> (אבן-יהודה, מטובי השומרים).<persName> בנימין זאב</persName> (ראה בכרך זה), <persName>היינה</persName> אשת <persName>יצחק סגל</persName> (ראש פינה),<persName> שושנה</persName> אשת<persName> י. ברקאי </persName> (נתניה), <persName>שולמית</persName> ז"ל,<persName> יוסף </persName> (ראש פינה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2594 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2594</bibl><bibl>Volume: #6 ,Page: 2595 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2595</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

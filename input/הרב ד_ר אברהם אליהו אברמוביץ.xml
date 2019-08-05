@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3745 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3745</bibl><bibl>Volume: #11 ,Page: 3746 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3746</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב ד"ר אברהם אליהו אברמוביץ</persName>
+
+</head>
+         <div><p> נולד בי"ח תשרי תרנ"ב (17.10.1891) בירושלים. לאביו <persName>הרב דב בר אברמוביץ</persName> (שהיה אח"כ ממיסדי המזרחי בארצות הברית ונשיאו הראשון) ולאמו <persName>מרים</persName> בת הרב<persName> רפאל משה חרל"פ.</persName>
+
+ למד בישיבת עץ חיים ואח"כ בישיבת מאה שערים, בה הוסמך לרבנות בשנת תרס"ט.
+
+ בשנת תר"ע נשא לאשה את <persName>נחמה</persName> בת הרב <persName>ראובן</persName> <persName>ידידיה</persName> (ממשפחת ר'<persName> יואל משה סלומון).</persName>
+
+ ב-1914 יצא עם אשתו ובנו בכורו הקטן לאמריקה. השתלם בהשכלה כללית, למד בלינקולן "ג'פרסון יוני" ברסיטי והוסמך לדוקטור לפילוסופיה ולטיאולוגיה (חקר הדתות). שימש ברבנות בקהלות קטנות בטכסאם ובמערב התיכון ועסק בפעילות ציונית. ב-1922-1921 היה מנהל לשכת קרן היסוד למדינות הדרום, ואח"כ עד 1925 ניהל את לשכת קרן היסוד למדינות המערב התיכון, ובשנים 1927-1925 היה המנהל הראשי של לשכת הקה"ק לארה"ב בניו-יורק.
+
+ ב-1927 נבחר לקונגרס הציוני בווינה. משם חזר לירושלים ובמשך שנתים היה המנהל הראשי של חברת "יהודה". ב-1929 יצא שוב לאמריקה, ומאז הנו רב בבית-המדרש הגדול דאלבאני פארק בשיקאגו ומרצה לתנ"ך ולתלמוד ולפילוסופיה במדרשה למדעי היהדות שם. פעיל בהסתדרות הציונית, בבני ברית, בקונגרס היהודי, בועד היהודי האמריקאי, במועצת הרבנים באמריקה, ובעיקר במכירת אגרות המלוה של מדינת ישראל.
+
+ לפנים ערך את העתון "ג'ואיש מוניטור" בטכסאס,
+
+
+ ואת העתון "צ'מפיון" בשיקאגו. פרסם מאמרים רבים באנגלית ובאידיש ובעברית על נושאים שונים בנוגע ליהודים וליהדות.
+
+ בניו:<persName> יואל משה</persName> (יליד יפו, פרופסור לפיסיקה באוניברסיטת פלורידה)<persName>, רפאל דוד</persName> (מהנדס כימאי), <persName>זרובבל</persName> (פיסיקה מומחה במעבדה גדולה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3745 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3745</bibl><bibl>Volume: #11 ,Page: 3746 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3746</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

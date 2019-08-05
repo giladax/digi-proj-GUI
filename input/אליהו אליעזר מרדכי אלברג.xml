@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2145 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2145</bibl><bibl>Volume: #5 ,Page: 2146 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2146</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו אליעזר מרדכי אלברג</persName>
+
+</head>
+         <div><p> נולד בקוטנה, פולין, כ"ה כסלו תרנ"א (13.12.1890), בן זקונים לאביו ר'<persName> זאב צבי </persName> ולאמו<persName> אסתר</persName> בת <persName>מנחם</persName> <persName>(מנקה) פרינץ</persName> . (נקרא<persName> אליעזר מרדכי </persName> על שם אחי אביו, שהיה רב בסלוז'ב, באלכסנדדובה ובצ'יחוצ'ינק, ואביו הוסיף לו את השם <persName>אליהו</persName> משום שנולד במוצאי שבת, כשאביו אמר בזמירות את הפזמון "אליהו הנביא"). נתיתם בילדותו וגדל בבית אחיו ר'<persName> אהרן שלמה</persName> (ראה כרך ד', עמוד 1685), קיבל חינוך דתי-לאומי ונודע מילדותו כחריף שכל ובעל-חשבון מהיר. עבד כפנקסן בבנק של <persName>ברומברג</persName> ואח"כ בבנק של <persName>עמנואל הירשברנ.</persName> במלחמת-העולם הראשונה גויס על-ידי שלטון-הכיבוש הגרמני לשרות משרדי בעיריה, ונתמנה על מחלקת המסים והשפעתו היתה גדולה גם ביתר המחלקות. הרבה לעזור ולהיטיב לתושבים וביחוד ליהודים, שפנו אליו בענינים הקשורים בשלטון העירוני. בפרוס הפסח בתרע"ז, כשהמצור הימי של בעלות הברית הכריח את הגרמנים לצמצם מאד את מנות-המזון הקצובות לתושבים, נענה לבקשת אחיו שניהל ענינים בקהלה, וסידר שמנת החטים למצות לפסח תוגדל פי-שנים. בעקב מלשינות נודע הדבר לשלטון הגרמני והוא נדון למאסר קשה וישב בכלא עד סמוך לסוף המלחמה, כשהגרמנים הניגפים בחזית המערב הוכרחו להיסוג גם מפולין.
+
+ אחרי שחרור פולין התפטר ממשרתו בעיריה, מסר את הענינים לממונים החדשים ועזר להם בעצה ובהדרכה ואח"כ פנה למסחר בתבואות ובסובין, עסקי אחיו, והצליח בהם. זמן-מה ישב לרגל מסחרו בבידגושץ' (ברומברג) שבפומרניה, שסופחה מפרוסיה לפולין, וגם שם נתחבב על התושבים.
+
+ בבחירות לעירית קוטנה נבחר אחיו בראש רשימת המזרחי והוא בראש רשימת פועלי ציון.
+
+ נשא לאשה את<persName> רבקה</persName> לבית <persName>תאומים</persName> מוולוצלאווק.
+
+ משעלה אחיו לארץ בתרפ"ה חתר גם הוא מתוך כיסופי גאולה לעלות, אך לא נסתייע בידו. בתרצ"ח בא ארצה בתור תייר, על מנת להשאר בארץ בלי רשיון,
+
+
+ אך הוא לא שם לב לצוחקים ולבעלי העצות והאזהרות ועשה את שלו.
+
+ בהגיעו ארצה מסר את מכונותיו הארוזות למשמרת במחסן, קנה מגרש בשכונת מונטיפיורי בתל-אביב והקים עליו צריף לדירה ולפרנסת ביתו הלך לעבוד עבודה שחורה כשכיר יום.
+
+ במשך הזמן הקים לאט לאט את מכונותיו והחל לעסוק בסריגה ובגירוד וגם לעמול בשכנוע הלקוחות, כי בעצם אין שום הבדל בטיב בין העבודה שהוא עושה ובין הפלאנלים המעובדים בצ'כיה. עמלו נשא פרי ובעקבות מפעלו החלוצי קמו עוד ועוד מפעלים בענף זה עד כי כבר נשתכח הצורך בתוצרת חוץ.
+
+ בתש"ב הקים את מפעלו על מגרש שרכש ליד הכביש החדש מול בתי-המלאכה של פורד הביא מערכת מכונות חדישות ומוסיף שכלולים במפעלו ובתוצרתו, ועל מגרשו בשכונת מונטיפיורי הקים בית במקום הצריף לדירות למשפחתו שגדלה ונסתעפה.
+
+ צאצאיו: <persName>חיים, ירחמיאל. חיה, פייגה, שיינדל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2145 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2145</bibl><bibl>Volume: #5 ,Page: 2146 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2146</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

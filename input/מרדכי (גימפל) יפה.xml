@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3408 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3408</bibl><bibl>Volume: #9 ,Page: 3409 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3409</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי (גימפל) יפה</persName>
+
+</head>
+         <div><p> נולד בריסק דליטא, כ"ט סיון תרנ"ב (10.6.1892). לאביו ר' <persName>צבי הירש</persName> בן הרב ר'<persName> מרדכי יפה גימפל,</persName>
+
+ הרב מרוזינאי, מצאצאי "בעל הלבושים" (ראה כרך א', עמוד 351) ולאמו <persName>דובה</persName> בת<persName> ירוחם שץ</persName> (מצאצאי הט"ז).
+
+ קיבל חינוך מסורתי בחדר ובישיבה בעיר מולדתו.
+
+ היה פעיל ב"צעירי-ציון" בעירו וחבר המרכז.
+
+ בשנות המלחמה העולמית הראשונה טיפל בפליטים - פעולה תרבותית, תנועתית ועבודה בג'וינט.
+
+
+ בשנת תרפ"א (1921) עלה לארץ.
+
+ הצטרף לקבוצת גניגר מהיום הראשון לעליתו לארץ.
+
+ היה פעיל קודם בהפועל הצעיר ואח''כ בהסתדרות, במפא"י: בקליטת עולים, בעלית הנוער (ילדי טהרן, והדרכה בחברות נוער בקבוצה).
+
+ כל השנים חבר ההגנה.
+
+ בזמנו התגייס לנוטרות.
+
+ בשנת תרפ"ג נשא לאשה את <persName>שושנה</persName> בת<persName> חנוך רוזנבום.</persName>
+
+ עובד מטעם התנועה בקליטת עולים בהתישבות, במחלקת קליטה ופתוח ע"י הועד הפועל של ההסתדרות, הועדה מן העיר אל הכפר.
+
+ היה ציר בועידת לונדון (1920) מטעם "צעירי ציון" (הפועל הצעיר).
+
+ בניו:<persName> צבי, ירוחם</persName> (שניהם חברים בקבוצת "גניגר").
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3408 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3408</bibl><bibl>Volume: #9 ,Page: 3409 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3409</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

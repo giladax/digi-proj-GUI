@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3344 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3344</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר גולומב</persName>
+
+</head>
+         <div><p> נולד בחשון תרנ"ח (סוף 1897) בוולקוביסק ש.פלר גרודנה (רוסיה).
+
+ לאביו<persName> נפתלי </persName> (בעל טחנה בוולקוביסק ואח"כ ביפו, מהראשונים ששלחו את בניהם מהגולה לחינוך עברי לאומי בגימנסיה הרצליה בתל-אביב - ראה כרך א', עמוד 229) ולאמו <persName>אסתר </persName> בת<persName> אליהו קלר</persName> ,
+
+ אחרי לימוד בבית-ספר עברי מקומי נשלח ב-1909 ללמוד בגימנסיה הרצליה, בעת שרק אחיו הבכור <persName>אליהו</persName> <persName>גולומב</persName> (ראה כרך ב', עמוד 972) היה כאן ממשפחתו, ובהיותו אז בן 12 עבר לבדו את כל הדרך מרוסיה ועד הנה. גמר את המחזור השלישי של גימנסיה הרצליה. ב-1919 יצא להשתלם בארה"ב. למד הנדסת מכרות ובנין והוסמך למהנדס-בנין במכון טכני בפילאדלפיה, ואח"כ עבד שנים אחדות כמהנדס בצ'ילי.
+
+ נשא לאשה את<persName> קלארה</persName> בת <persName>נחמיה טרומפר</persName> (ציוני ידוע בארגנטינה), ולהזמנה חותנו נסע לארגנטינה ועבד שם בהנהלת חברות שונות, ב-1934 חזר לארץ.
+
+ עבד שש שנים בחברת החשמל, אח"כ שש שנים בניהול מפעל האשלג בסדום, ובראשית 1947 התנחל בשדה וארבורג שליד כפר סבא.
+
+ נפטר בתל-אביב, כ"ח שבט תש"ט (27.2.1949) ונקבר בבית העלמין הישן שברחוב טרומפלדור.
+
+ צאצאיו:<persName> רחל</persName> אשת<persName> רפאל פאפו </persName> (כימאי, יליד מצרים, עבד במכון וייצמן ואח"כ באמריקה),<persName> ננסי </persName> אשת<persName> יהיוכין</persName> <persName>ברנר</persName> (עוסק בעבודות מחקר בהיסטוריה וכלכלה בלונדון), <persName>נפתלי,</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3344 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3344</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

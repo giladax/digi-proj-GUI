@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5111 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5111</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד (יעקב) שוהם</persName>
+
+</head>
+         <div><p> נולד בתל-אביב, כ"ה מיון תרפ"ג (9.6.1923).
+
+ לאביו העו"ד<persName> זאב שוהם-פינקלשטיין </persName> (ראה את הערך שלו בכרך זה) ולאמו<persName> צילה </persName> בת<persName> ישראל</persName> (לו
+
+ ליק)<persName> פיינברג</persName> (ראה את הערך שלה בכרך זה) וכן של אחיה המשורר <persName>אבשלום פיינברג</persName> , ממיסדי ופעילי "נילי", ראה בכרך תשיעי, עמוד 2337).
+
+ קבל חינוך עברי וכללי בבית הספר הריאלי בחי
+
+ פה ובאוניברסיטה העברית בירושלים וקיבל תואר מ.א. בכלכלה.
+
+ בשנת 1949 נשא לאשה את <persName>דינה</persName> בת <persName>אמציה צבי</persName> <persName>רצקי.</persName>
+
+ היה מפקח על מטבע חוץ.
+
+ נציג האוצר בארצות הברית (1955).
+
+ יועץ כלכלי בשגרירות ישראל בלונדון 1957-59.
+
+ מנהל בנק לסחר חוץ בע"מ (1959-65).
+
+ כל השנים חבר ההגנה - במחתרת.
+
+ שירות לפי צו המוסדות הלאומיים בצבא הבריטי הנלחם בנאצים במלחמת העולם השניה.
+
+ שירות בצה"ל בדרגת סרן - מג"ד.
+
+ משנת 1965 מנהל בנק כללי לישראל בע"מ.
+
+ צאצאיו:<persName> אבשלום</persName> (על שם דודו <persName>אבשלום פיינ</persName> <persName>ברג</persName> ז"ל);<persName> דורית</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5111 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5111</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

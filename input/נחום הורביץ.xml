@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3861 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3861</bibl><bibl>Volume: #11 ,Page: 3862 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3862</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחום הורביץ</persName>
+
+</head>
+         <div><p> נולד בקשינוב (בסרביה), בשנת תרנ"ד (1894).
+
+ לאבי<persName>ו אהרן </persName> (עסק בבורסקאות).
+
+ קיבל חינוך מסורתי ובי"ס עממי.
+
+ עלה לארץ בשנת 1905 עם הוריו בחוף יפו.
+
+ עבד בקטיף בפתח-תקוה, ובחקלאות : בשפיר, בן שמן, באר-יעקב, ראשון לציון, נס-ציונה, רחובות, גדרה, מוצא, תל-עדשים וכפר גלעדי.
+
+ בשמירה: ראשון לציון, רחובות, חדרה, כפר תבור, בית-וגן, יבנאל, מצפה, מלחמיה, סג'רה, כנרת ושרונה.
+
+ השתתף בכיבוש הנקודות; כרכור, תל-עדשים, שרונה וכפר גלעדי.
+
+ הצטרף כחבר בכפר גלעדי (הקיבוץ המאוחד).
+
+
+ מיוזמי ומתגייסי משטרת הגליל בכיבוש הארץ ע"י הבריטים. שירת כשוטר רוכב בגליל התחתון והעליון. בטבריה ובצפת.
+
+ היה חבר בועד המשטרה הגלילי.
+
+ שוחרר מהמשטרה בסוף 1920.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3861 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3861</bibl><bibl>Volume: #11 ,Page: 3862 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3862</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

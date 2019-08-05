@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3791 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3791</bibl><bibl>Volume: #11 ,Page: 3792 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3792</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר הופשטטר</persName>
+
+</head>
+         <div><p> נולד בצנז' (פולין), כ' סיוון תרס"ח (1908).
+
+ לאביו<persName> אהרן כץ הולנדר</persName> (ממשפחת חסידים) ולאמו <persName>אסתר</persName> בת <persName>חיים דוד ורנר.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבת צנז'. סיים כמה פעמים ש"ס והיה ידוע כ"מתמיד" בישיבה.
+
+ משחר נעוריו היה פעיל במסגרת "אגודת ישראל" והצטיין בעסקנות ציבורית.
+
+ בשנת תר"ץ (1930) עבר לגור בעיר נישלניץ ע"י קרקוב ונבחר שם כמורשה לקרן הישוב עד שנת תרצ"ז (1937).
+
+ נשא לאשה את<persName> ריקל</persName> בת <persName>יהושע פרהליך </persName> (נהרגה ע"י הנאצים) ובזיווג שני נשא לאשה את <persName>אסתר</persName> בת <persName>שמעון הירש.</persName>
+
+ עבר לבריסל (בלגיה). נתן הרצאות בגמרא ותוספות בשיעורי ערב, בשנת 1945 נבחר מטעם אגודת ישראל בבריסל כנציגה לקהילת מחזיקי הדת וכסגן יו"ר אגודת ישראל. יסד שם תלמוד תורה.
+
+ בשנת 1946עבר לאנטורפון, והיה שם כנציגה של אגודת ישראל בקהילות המאוחדות באנטורפון ולסגן יו"ר ולחבר המרכז של אגודת ישראל בבלגיה.
+
+ בשנת 1951 עלה לארץ והתיישב בנתניה.
+
+ פעיל מאוד בעבודה צבורית בבית הכנסת הגדול שונה הלכות בתור גבאי, בקרן הקיימת וקרן היסוד. במועצה הדתית. קמחא דפסחא, ובעיקר במוסדות היהדות הדתית.
+
+ בתו:<persName> סימה </persName> (מאשתו השניה).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3791 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3791</bibl><bibl>Volume: #11 ,Page: 3792 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3792</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

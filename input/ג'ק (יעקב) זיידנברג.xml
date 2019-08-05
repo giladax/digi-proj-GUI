@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4308 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4308</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ג'ק (יעקב) זיידנברג</persName>
+
+</head>
+         <div><p> נולד במילאס (תורכיה), ז' כסלו, תרס"ו (5.121905). לאביו <persName>ראובן</persName> (היה סוכן -כרמל מזרחי" בסוריה 1918-24) ולאמו<persName> רבקה</persName> בת<persName> יוסף קפילוטו.</persName>
+
+ קיבל חינוך בבי"ס כי"ח (האליאנס) והמשיך בצרפת.
+
+ ב-1913 עבר לאיזמיר וכעבור 6 שנים עבר לסוריה.
+
+ בשנת 1924 ביקר בארץ.
+
+ בשנת 1932 עלה לארץ ופתח משרד לסוכנויות שונות לבתי חרושת לדברי חשמל מבלגיה.
+
+ בשנת 1935 העלה לארץ את אמו ואחיו.
+
+ בשנת 1939 נסע לחו"ל. נאסר ע"י הגרמנים הנאצים, והצליח לברוח מגרמניה על זוג אופניים דרך בלגיה וצרפת לא"י.
+
+ היה הראשון בשנת 1940 שהגיע בימים הקשים ההם לארץ ומסר לסוכנות היהודית ולאינטליג'נס הבריטי דו"ח ממעשי הגרמנים בחו"ל שלא היו ידועים.
+
+ בארץ הגיש בתור מומחה עזרה רבה להגנה בעניינחשמל.
+
+ בפריס המציא פטנט של מנורות מפלסטיק-זכוכית שהוא יוצר אותן בתעשייה שלו הנקראת "ג'קפלור". המנורות לפי דוגמאות שונות נפוצות בארצות רבות ע"י זה שמכר להם את הפטנט שלו.
+
+ בארץ עוסק בתעשייה זו אחיו <persName>מרדכי. ג'ק</persName> מקווה, במשך הזמן, להקים ביח"ר גדול לתעשייה זו בארץ.
+
+ אחיו: <persName>מרדכי, סלבו, ראובן ואבנר</persName> היו חברים פעילים בהגנה. לחמו במלחמת העצמאות ואח"כ בצה"ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4308 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4308</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

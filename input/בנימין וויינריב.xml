@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4065 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4065</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנימין וויינריב</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קורוב</placeName> (פולין), א' סיון תרס"ו (13.5.1906).
+
+ לאביו יעקב וויינריב (ממשפחת חסידי ליבליל. מפעילי המזרחי, עמד בראש קרן הגאולה בעירו) ולאמו שיינדיל בת ר' יצחק מאיר ניסנבום.
+
+ קיבל חינוך מסורתי בחדר ובבית המדרש ואצל מורים פרטיים.
+
+ בעירו היה : ממיסדי "החלוץ", יו''ר ההסתדרות הציונית, מורשה לקרן הקימת לישראל וממיסדי חברת לינת הצדק.
+
+ עסק במסחר.
+
+ בשנת 1928 נשא לאשה את ליפצ'ה בת הרב שלום גילדברג. (44 שנה כיהן כרב בעיר קורוב. בשנת 1935
+
+ עלה לארץ. וכעבור 5 שנים נפטר. היא פעילה בתנועת חרות).
+
+ בשנת 1936 עלה לארץ.
+
+ המשיך לעסוק במסחר.
+
+ היה פעיל בארגון הצבאי הלאומי (אצ"ל) ובמשטרה המיותרת ברמת-גן.
+
+ חבר מועצת תנועת החרות, חבר ועדת התברואה בעירית רמת-גן, חבר ועדת הבקורת בבית הכנסת הגדול ברמת-גן.
+
+ יו"ר יוצאי קורוב. מיוזמי הוצאת הספר יזכור קורוב לזכר קדושי עירו (1216 עמודים עם 600 תמונות שהופיע בשנת 1955 - בשפות: אידיש, עברית ואנגלית).
+
+ צאצאיו: <persName>פרחיה</persName> אשת<persName> גדליהו רכטר, חיים, רחל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4065 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4065</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

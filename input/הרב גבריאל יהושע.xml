@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 293 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/293</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב גבריאל יהושע</persName>
+
+</head>
+         <div><p> נולד ב<placeName>שלוניקי</placeName> בשנת תר"ז (1847) לאביו הרב שבתי בן גבריאל יהושע ולאמו רחל בת ר' משה מילו. מקטנותו התמסר ללמוד התורה והתחנך אצל אביו-רבו. בשנת תר"ל (1870) יסד ב<placeName>שלוניקי</placeName> יחד עם אחרים את "חברת חסד ואמת". נמנה בין גדולי רבני שלוניקי והיה מקורב מאד לר' יעקב קובו - רבה הראשי של שלוניקי. בשנת תרל"ז (1877) עלה לארץ-ישראל והשתקע בירושלים. החל משנת תר"מ (1880) היה חבר ביית דינו של הראב"ד יוסף רפאל עוזיאל. חתום על תעודות ופסקים שונים כחבר בית דין בעי"הק ירושלים. חתום על "גלוי-דעת" מטעם ישיבת "בית-אל". שנים רבות היה גבאי קופת התמחוי לעדת הספרדים בירושלים, יחד עם ר' שמואל נסים יואחרים. התפרסם כאחד מגדולי רבני דורו. עסק בתורה ובדרך-ארץ. היה עסקן צבורי מובהק ונמנה בין מיסדי בית החולים "משגב לדך" בירושלים. בשנים תרס"ז-תרע"א היה מ"מ הרה"ג ר' יעקב מאיר כנשיא בית חנוך יתומים הספרדי בירושלים. מרווחיו הקטנים הפריש מעשר למטרות צדקה. הצטיין בהליכותיו עם הבריות ובמעשיו הטובים. מחדושי תורתו נתפרסמו בספרי הראש"ל ר' יעקב שאול אלישר. נפטר בירושלים ד' חשון תרע"א (1910). הניח אחריו בן אחד (הרב חנניה גבריאל יהושע) ושתי בנות. הבת השלישית נפטרה בחייו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 293 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/293</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

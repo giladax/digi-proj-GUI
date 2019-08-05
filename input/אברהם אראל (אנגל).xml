@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5145 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5145</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם אראל (אנגל)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>לודז'</placeName> (פולין), כ"ג אב תר"ע (28.8.1910).
+
+ לאביו<persName> חיים אנגל </persName> (צאצא הגאון הרב <persName>חיים אויער</persName> <persName>בך</persName> ) ולאמו <persName>יוטה </persName> בת <persName>מרדכי לנדאו </persName> (צאצא הצדיק האדמו"ר רבי <persName>אברהם מצ'יכנוב).</persName> קיבל חינוך מסורתי ותיכוני.
+
+ בשנת 1925 עלה לארץ.
+
+ כל השנים היה חבר ההגנה. כיום חבר מועצת אירגון חברי ההגנה.
+
+ לפי צו המוסדות הלאומיים התגייס לבריגדה העברית בצבא הבריטי במלחמת העולם השניה, להלחם בצבא הגרמני הנאצי ושותפיו.
+
+ במלחמת הקוממיות התנדב לצה"ל.
+
+ בשנת 1957 נשא לאשה את<persName> דינה</persName> בת <persName>יהודה ליב</persName> <persName>יוסקוביץ.</persName>
+
+ אח במיסדר בני-ברית.
+
+ אח בלשכת "ברקאי" - בנאים חפשים (קודש ביום 6.4.1965).
+
+ חבר אגודת ידידות ישראל-אמריקה ואגודת ישראל-חבר העמים הבריטי.
+
+ חבר אגודת ידידי המוזיאון בתל-אביב. מנהל "מגן דוד אדום", סניף תל-אביב.
+
+ אחיו: אלוף <persName>שלמה אראל</persName> , מפקד חיל הים, צה''ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5145 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5145</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

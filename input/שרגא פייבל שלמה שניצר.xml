@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3143 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3143</bibl><bibl>Volume: #8 ,Page: 3144 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3144</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שרגא פייבל שלמה שניצר</persName>
+
+</head>
+         <div><p> נולד בשנת תקצ"ח (1838) בירושלים.
+
+ לאביו ר'<persName> מרדכי</persName> , "אבי האמנות בירושלים" (ראה ערכו בכרך זה, בעמוד 3031), ולאמו <persName>פייגא,</persName> שעלו לארץ בשנת 1805 מוילנא.
+
+ למד בת"ת ובבית המדרש עד שגדל.
+
+ נשא לאשה את<persName> רבקה יהודית</persName> בת ר'<persName> מוניש באר</persName> (מחללי הרעש בשנת תקצ"ז (1837) בצפת).
+
+ בהיותו איש אמיץ ובעל כושר הופעה נאה ויודע ערבית נתמנה למוכתר העדה האשכנזית בירושלים וידע ליצג בכבוד את עניני העדה וראשיה וחבריה בפני שלטונות המינהל הטורקי והמשטרה. היה גם שמש ראשי בבית-הדין של האשכנזים, ובתפקידו זה היה עליו גם "להלקות עוברי עבירה", שנדונו לכך ב"בית הועד" (בימים ההם היתה סמכות חוקית לבית-הדין הדתי להטיל אף עונש גופני על מפירי חוקיו והוראותיו), וכן שימש בתור "קאוואס" בתלבושת רשמית לרבנים הראשיים ר' <persName>ישעיהו ברדקי,</persName> ר'<persName> מאיר אוירבאך</persName> ור' <persName>שמואל סלנט</persName> והיה צועד לפניהם בלכתם לביקורים רשמיים ולקבלת פני מלכים ונסיכים שביקרו בעיר הקודש. כן היה שומר
+
+
+ ראשו של סיר<persName> משה מונטיפיורי </persName> בהיותו בירושלים ומלוהו של הד"ר<persName> אליעזר הלוי</persName> , מזכירו של מונטיפיורי במסעיו בארץ.
+
+ הרבה לעשות צדקה וחסד בהכנסת אורחים ובגידול יתומים בביתו, כדרך שעשו טובי ירושלים בימים ההם. כשעדיין לא היו בתי יתומים ובתי-הכנסת אורחים, ואכסניות (בתי-מלון) בתשלום היו ביוקר רב בשביל אמידים. גם בעמל גופו ובסיכון חייו חש לעזרת הזולת.
+
+ בעת השטפון הגדול בשנת תרל"ח (1878), ששיבש את הדרכים והביא מחסור ומצוקה ליהודי חברון עוד יותר מאשר לירושלים, רכב בליל סגריר וסופה לחברון והביא מצרכי מזון והלבשה וכסף שנאספו בשבילם בירושלים.
+
+ בעד שרותיו לצבור הסתפק בשכר פעוט, שלא הספיק למחיה, ועיקר פרנסתו מצא בעיסוקי-לואי, בסרסרות בעונת הבציר, לרכישת ענבים מהכורמים הערבים להכנת יין כשר בידי יהודים, ובשרותי דובר ומתורגמן לסוחרים בבית המכס.
+
+ נפטר בירושלים, ח' טבת תרנ"ב (סוף 1891).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3143 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3143</bibl><bibl>Volume: #8 ,Page: 3144 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3144</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

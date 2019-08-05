@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1576 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1576</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר אידלבוים</persName>
+
+</head>
+         <div><p> נולד ב<placeName>מזריטש</placeName> פודלסקי (פולין) כ' בטבת תרס"ה (1905), לאביו <persName>יחיאל</persName> (שו"ב, נצר למשפחת יחיאל הלפרין, רבה של מינסק, מחבר "סדר הדורות". המשפחה מתיחסת <persName>לשאול וואהל,</persName> שהיה לפי האגדה מלך יום אחד בפולין, <persName>ולקצנלבויגן</persName> המיוחסת לבית <persName>רש"י.</persName> למשפחה שייך גם הצדיק <persName>קלמן משדליץ</persName> מ"החבריא הקדושה" של <persName>"היהודי הקדוש"</persName> חברו של ר' <persName>בונום</persName> ) ולאמו <persName>ביילה</persName> בת <persName>יוסף חיים פלסטרשטיין.</persName>
+
+ קבל חנוך מסורתי בחדר ובישיבה. השכלה כללית ועברית מפי מורים פרטיים בבית.
+
+ למד תורה מפי ר'<persName> זאב סולובייצ'יק</persName> רבה של בריסק (כעת רבה של עדת החרדים בירושלים) שהיה ראש ישיבת "תורת חיים" בורשה, מפי אחיו ר' <persName>משה סולובייצ'יק,</persName> וגיסו ר' <persName>צבי גליקמן.</persName>
+
+ למד בתחכמוני בורשה, בבית המדרש העליון לרבנים בהנהלתו של פרופ' <persName>מאיר בלבן</persName> . יצא להמשיך בלימודיו באנגליה בקולג'.
+
+ לאחר סיום לימודיו נתקבל כמרצה לעברית וספרות עתיקה ומודרנית בבית המדרש לרבנים "עץ חיים" בלונדון והוזמן להיות חבר מערכת "די צייט"
+
+ בעבודה צבורית ציונית התחיל עוד בפולין. כאחד ממייסדי "צעירי מזרחי". יסד את תנועת "תורה ועבודה" בבלגיה ובאנגליה.
+
+ בשנת 1931 נשא לאשה את <persName>שרה</persName> בת<persName> נחמן דוד</persName> <persName>פרידמן. </persName>
+
+ השתתף בקונגרסים הציונים כציר מטעם "תורה ועבודה" באנגליה, בשנים 1935, 1937. היה חבר במועצת הסוכנות היהודית, וחבר מ"מ בועד הפועל הציוני לשנים 39- 1937.
+
+ בשנת 1941 יצא לארה"ב והמשיך שם בעבודתו הציונית והספרותית.
+
+ עלה ארצה בשנת 1949.
+
+ פרסם מאמרים ב"די צייט" (לונדון), "מורגן זשורנאל" (ניו יורק), "הצופה" , ועתונים אחרים ביידיש ואנגלית.
+
+ פרסם ספר באנגלית "הדרך לחרות" (ניו יורק 1944). כתב ספורים ודברי בקורת באנגלית.
+
+ בנו: <persName>נחמן דוד</persName> , (תלמיד רפואה בניו-יורק).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1576 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1576</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

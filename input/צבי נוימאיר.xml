@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3990 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3990</bibl><bibl>Volume: #12 ,Page: 3991 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3991</bibl>
+<bibl>Volume: #12 ,Page: 3992 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3992</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי נוימאיר</persName>
+
+</head>
+         <div><p> נולד בשנת תרנ"ד (7.3.1894) בבאנילה שבבוקובינה (אז אוסטריה).
+
+ לאביו<persName> יצחק</persName> (בעל טחנה, חבר מועצת הקהילה ופעיל בחברה קדישא) ולאמו <persName>פסי</persName> בת<persName> נפתלי שטנגל</persName> (תלמיד חכם ובעל צדקה).
+
+ למד בחדר, בבית-ספר תיכון ובבית-ספר גבוה למסחר. התחיל לעבוד בפקידות מסחרית. השתתף ביסוד חברת "אהבת ציון" ובית-ספר עברי בבאנילה.
+
+ ב-1921 נשא לאשה את<persName> קלארה </persName> בת<persName> יצחק לאשצ'ובר.</persName> (נפטרה בתל-אביב בפברואר 1962).
+
+
+ מאז סיפוח בוקובינה לרומניה אחרי מלחמת העולם הראשונה פעל בשרות האומה כמזכיר כללי של ההסתורות הציונית בבוקובינה וחבר מערכת "אוסטיודישה צייטונג", ממיסדיו ומזכירו הראשון של הקונגרס היהודי בבוקובינה, פעיל בתנועת "המפלגה היהודית" למען נציגות יהודית לאומית בפרלמנט הרומני. במלחמת העולם
+
+ השניה פעל רבות מחבר ועד הקהילה בצ'רנוביץ, לטובת גולי טראנסדניסטריה, ובימי משטר הגיטו בצ'רנוביץ, כשהפעילות הציבורית הלאומית היתה כרוכה בסכנת עונש מות, היה חבר פעיל בועד הפועל של התנועה הציונית במחתרת.
+
+ עלה לארץ ב-1944 בקבוצת ותיקי התנועה הציונית, שקיבלו רשיונות עליה במסגרת חילופי-אוכלוסין כנגד הגרמנים משרונה. יסד בית-תפילה במעון לעולה על שם ד"ר ישראל גולדשטיין, יסד קופת גמ"ח על שם בלוך, עסק במשלוח חבילות מזון ובגדים לאסירי ציון בסיביר, נרשם פעמיים בספר הזהב של הקהק"ל, והנו חבר הנהלת התאחדות עולי בוקובינה וחבר ברית ראשונים. מ-1949 ואילך עבד כפקיד ממשלתי עד צאתו לפנסיה.
+
+ בנותיו :<persName> פריצי </persName> אשת<persName> מרטין ווצ'ינסקי, אריקה</persName> אשת <persName>פרצי זיידמן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3990 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3990</bibl><bibl>Volume: #12 ,Page: 3991 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3991</bibl>
+<bibl>Volume: #12 ,Page: 3992 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3992</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3625 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3625</bibl><bibl>Volume: #10 ,Page: 3626 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3626</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם איילבוים</persName>
+
+</head>
+         <div><p> נולד בעיר ליז'נסק (רוסיה) בשנת תקע"ב (1812).
+
+ מצאצאי משפחת ר' <persName>משה מפשבורסק</persName> בעל "אור פני משה".
+
+ חינוכו היה מסורתי ברוח החסידות. עלה ארצה בשנת תקפ"א (1821) ביחד עם הוריו שהשתקעו בצפת. שם למד תורה בישיבות שונות.
+
+ כשגדל והתבגר היה במשך שנים מזכירם של ממוני הכוללים בצפת, ואחרי שהכיר יפה את מצב הענינים וידע את כל מעללי הגבאים והממונים, עזב את עבודתו ויצא לירושלים.
+
+ בכסלו תרל"א (1870) נתקבל למסדר אותיות, והיה ממסדרי הגליון הראשון של העתון "החבצלת", שיצא אז לאור בירושלים ע"י ישראל ב"ק.
+
+ אך בעבודתו זו קרה "מכשול" קטן: מיד להופעת הגליון הראשון התגלה, כי הדפים בלי רשות את המוטו: "למען ציון לא אחשה ולמען ירושלים לא אשקוט" וגם התחיל להפיץ שמועות, כי "החבצלת" מתכונן להלחם נגד ממוני הכוללים.
+
+ כמובן שפוטר מהדפוס, אך מאז גבר הריב בינו ובין הממונים על הכוללים. בסערת מלחמה נגדם הוציא לאור פמפלטים והקדיש את עטו למלחמה ללא פשרה, כנגד הכוללים ומעללי הממונים והגבאים עליהם.
+
+ מהפרסומים החשובים נגדם אפשר לציין את "האגרת הפתוחה", בדבר כסף החלוקה (וינה, תר"מ) ואת הספר החשוב "ארץ הצבי", הכולל כתבים "על אודות המסע לארץ ישראל והישיבה בה, ודרכי הרבנים והגבאים והממונים עם כסף ה"חלוקה" ועם המקבלים את ה"חלוקה" הכל בשרד אמת ובאר היטב".
+
+ הספר הנ"ל, מחזיק 223 עמודים ראה אור בראשונה ב"השחר" לסמולנסקין, שנים: ט-י, ואח"כ בתרמ"ג (1883), כבר אחרי מות המחבר, יצא בצורת ספר עם "פתח דבר" מאת <persName>פרץ סמולנסקין.</persName>
+
+ הספר הזה עשה רושם כביר, כרעם ביום בהיר, בקרב אנשי ה"חלוקה", ולפי דרכם פתחו נגד המחבר ברדיפות, בחרמות, באלות ובקללות.
+
+<persName>סמולנסקין</persName> יצא להגן עליו וב"פתח דבר" שלו בראש הספר הוא ציין, כי "גדול היה האיש ונכבד, ירא אלהיו מרבים, גדול בתורה וגם במלי דעלמא". סופר הכולל בצפת היה ימים רבים ועדי גוע לא סרה תומתו ממנו, יראת שדי לא עזב גם במצור, ומציק ברעב וחוסר כל".
+
+
+<persName>סמולנסקין </persName> מעיד, כי כל העובדות המחרידות והאיומות המסופרות בספר אומתו עפ"י עדויות שונות.
+
+ בהיותו בוינה מת מיתה חטופה ביום כ"ד ניסן תר"מ (5 אפריל 1880) ונקבר בוינה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3625 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3625</bibl><bibl>Volume: #10 ,Page: 3626 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3626</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

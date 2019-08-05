@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5150 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5150</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רוחמה גורודיסקי</persName>
+
+</head>
+         <div><p> נולדה בגורודוק מחוז וילנה (רוסיה), בשנת תרמ"ט (1889).
+
+ לאביה<persName> נחום הורביץ </persName> ולאמה<persName> זלטה</persName> לבית <persName>סלפמאן.</persName>
+
+ קיבלה חינוך עברי וציוני בבית.
+
+ היתה פעילה בעבודה צבורית הקשורה בארגונים ציוניים.
+
+ בשנת תרע"א (1911) עלתה לארץ. באותה שנה נישאה ל<persName>מאיר גורודיסקי</persName> ברחובות (ראה כרך ה', עמוד 2105).
+
+ היתה מורה בבית הספר העממי ע"ש <persName>משה סמי</persName> <persName>לנסקי </persName> ברחובות.
+
+ היתה פעילה באגודה לעזרת חולי הרוח בת"א וברחובות מיום שנוסדה האגודה בשנת 1929 בתור מוסד ארצי המגיש עזרה למוכי הגורל הזקוקים לה.
+
+ התמסרה והקדישה מזמנה למפעל זה באסוף תרומות.
+
+ בשנת 1938 נשלחה מטעם הועד של האגודה הנ"ל לחו"ל לשם אוסף תרומות להחזקת המפעל.
+
+ פעילה במועצת אגודת "מרגוע ישראל" - בית אבות, בעיקר בועדת בנין ומפעלים, בשכונת "מורשה" ברמת השרון.
+
+ צאצאיה :<persName> יצחק</persName> ז"ל ;<persName> רעיה</persName> אשת<persName> מיקרדו לשה,</persName> <persName>שמואל נחום.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5150 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5150</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3815 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3815</bibl><bibl>Volume: #11 ,Page: 3816 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3816</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודית קראוזה-מרקה</persName>
+
+</head>
+         <div><p> נולדה באילניה (סג'רה) שבגליל התחתון, ח' אדר תרס"ד (24.2.1904).
+
+ לאביה <persName>אליהו קראוזה</persName> (אז מנהל החוה בסג'רה ואח"כ מנהל מקוה ישראל - ראה כרך ו', עמוד 2603). ולאמה <persName>חיה</persName> בת <persName>יהודה ליב חנקין</persName> (ממשפחת הבילויים). (ראה כרך ב' עמוד 679).
+
+ גמרה את לימודיה התיכוניים בגימנסיה הרצליה בתל-אביב, ומתוך התעניינות מעמיקה בתולדות עמנו בשחר ימיו בארץ בחרה לה את הארכיולוגיה ללימוד בדרג גבוה. למדה בסורבונה (דברי ימי העמים והאמנות ; קבלה סמיכות) ובבית-הספר העליון לעתיקות שליד מוזיאון לובר בפאריס, בשובה לארץ התמחתה תחילה בהשתתפות בחפירות ביריחו. אח"כ קיבלה על עצמה את הניהול המדעי והמעשי כאחד בחפירות איתל, צפונית מערבית ליריחו, שלפי המשוער והמוסכם-כמעט זהו מקום העי, שעליו נלחמו יהושע ובני ישראל אחרי כיבוש יריחו. החפירות בוצעו בעזרת הקרן לחפירות מדעיות בארץ-ישראל מיסודי של הבארון <persName>בנימין (אדמונד) דה רוטשילד </persName> (1939-33) <persName>ויהודית</persName> גילתה כח ניהולי ומדעי עצום בניצוח על עבודת כ-150 פועל וכמה עוזרים מדעיים, והתערוכה של מימצאי החפירות, שערכה אח"כ במקוה ישראל, אכן נתנה תמונה משכנעה של עיר כנענית שנחשפה מקברה בן אלפי השנים.
+
+ דו"ח מפורט מעבודותיה נדפס בירחון הארכיאולוגי הצרפתי "טוריה" 1935-35.
+
+ ביקרה לשם מחקר בחפירות בא"י ובסוריה ובארכיוני הארכיאולוגיה המזרחית של סוריה, מצרים, תורכיה, איטליה, גרמניה, אוסטריה ואנגליה.
+
+ היתה הארכיאולוגית היהודית הראשונה.
+
+ המשיכה במאמץ שלמעלה מכוחותיה, עד שנפלה למחלה, יצאה להתרפא בצרפת.
+
+ נפטרה בפאריס, י"א תמוז תרצ"ו (1.7.1935) והובאה לקבורה בבית העלמין שברחוב טרומפלדור בתל-אביב, כ"ו תמוז תרצ"ו (16.7.1936).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3815 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3815</bibl><bibl>Volume: #11 ,Page: 3816 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3816</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2703 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2703</bibl><bibl>Volume: #6 ,Page: 2704 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2704</bibl>
+<bibl>Volume: #6 ,Page: 2705 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2705</bibl>
+<bibl>Volume: #6 ,Page: 2706 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2706</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ראובן אבינחם (נוביק)</persName>
+
+</head>
+         <div><p> נולד (ליטה) בשנת תרנ"ד (1894).
+
+ לאביו<persName> דב </persName> (בר) <persName>נוביק</persName> ולאמו<persName> רחל</persName> בת <persName>ניסן קפלן,</persName> מעיר סייני.
+
+ למד אצל מורים פרטיים ובישיבות אוטיין ושוונציאן.
+
+ עבד כחשמלאי בחרקוב.
+
+ היה חבר פעיל ב"צעירי ציון" עמלניים בחרקוב, בלוזוביה, פבלובקה בפלך יקטרינוסלב,
+
+ השתתף בתור ציר בועידת צעירי ציון בקובנא.
+
+ החפושים והמאסרים לא הפחידוהו מעבודה ציונית במחתרת.
+
+ ביום 12 לאפריל 1924 עלה לארץ.
+
+ עבד כפועל בבצות כברה, בטבק, בבנין, בנמל יפו ובתור חשמלאי במשרד העבודות הצבוריות של ממשלת המנדט.
+
+ בשנת 1925 נשא לאשה את<persName> צפורה </persName> בת<persName> נחום יודל</persName> <persName>ביץ.</persName>
+
+ עובד בתור חשמלאי במועצת גבעתים.
+
+
+ צאצאיו : נחם (נפל ביום י"א תמוז תש"א, 8 שעות לפני ההפוגה השניה, בסחבו על גבו את מפקדו הפצוע. נורה ושניהם נפלו יחד);<persName> רחל </persName> אשת <persName>מנחם סורקיס;</persName> <persName>עפרה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2703 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2703</bibl><bibl>Volume: #6 ,Page: 2704 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2704</bibl>
+<bibl>Volume: #6 ,Page: 2705 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2705</bibl>
+<bibl>Volume: #6 ,Page: 2706 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2706</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

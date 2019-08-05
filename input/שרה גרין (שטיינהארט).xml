@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2280 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2280</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שרה גרין (שטיינהארט)</persName>
+
+</head>
+         <div><p> נולדה בירושלים, אלול תרמ"ט (18.9.1889), לאביה <persName>דב</persName> בן <persName>חיים שטיינהארט</persName> ולאמה <persName>צפורה</persName> בת <persName>שמואל מלאך.</persName> למדה בביה"ס אוולינה די רוטשילד. נמצאה כשרונית בלימודים ולעצת מנהלת ביה"ס יצאה להשתלם בענדזלי קולג' בלונדון והשתלמה בשפות בבתי-ספר גבוהים בצרפת ובגרמניה. בשנות לימודיה היתה פעילה ועסקנית במועדונים לפועלות יהודיות בלונדון.
+
+ ב-1912 נישאה למר <persName>דב (ברנרד) בן יעקב גרין </persName> (יליד יפו, מבעלי הפירמה המסחרית הגדולה <persName>האחים גרין </persName> ב
+
+ מצרים ; על אביו יעקב ראה כרך ב', עמוד 967) ועברה אתו לקאהיר. בשנות מלחמת העולם א' היתה פעילה שם בעזרה לפליטים ולמגורשים מארץ-ישראל.
+
+ משנתאלמנה מבעלה (נפטר בקאהיר, 9.8.1923) חזרה ארצה ב-1925. מאז היא עסקנית בויצו ובמוסדות אחרים. שנים אחדות ישבה בחיפה והשתתפה עם הגב' <persName>נתנזון </persName> ביסודה ובהנהלתה של חברת "לינת הצדק" (לעזרת חולים עניים). אח"כ עברה לירושלים והנה יו"ר הא
+
+ 1 גודה לעזרת ילדים נכים, חברה ותיקה ב"בנות ברית", חברה בועד סניף הציונים הכלליים.
+
+ ב-1934 השתתפה כצירה מטעם ויצו בקונגרס הציוני בבאזל.
+
+ בתה : <persName>ציונה</persName> אשת <persName>יעקב שאנן (פרידמן)</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2280 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2280</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

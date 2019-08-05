@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4541 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4541</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה בכר</persName>
+
+</head>
+         <div><p> נולד פלזנה (בולגריה) בשנת תרנ''ד (1894).
+
+ לאביו <persName>שלום בכו</persName> ולאמו <persName>גרסיה</persName> .
+
+ בן שנתים הועלה לארץ (1896).
+
+ קיבל חינוך עברי, גמר את חוק לימודיו בסמינר העברי למורים בירושלים.
+
+ עסק בהוראה בצפת, בטבריה וכו'.
+
+ נשא לאשה את <persName>מתילדה</persName> בת<persName> יצחק לוי</persName> .
+
+ ממיסדי המושבה "אבן-יהודה" בשנת 1932 בשרון ע"י הסתדרות בני-בנימין. המושב - הוא ישוב כפרי ונמצא בצד הכביש פתח-תקוה-חדרה (משמאל), 22 ק"מ מפתח-תקוה ו-18 מחדרה. המושבה נקראת על שמו של <persName>אליעזר בן-יהודה</persName> (ראה כרך ד', עמוד 1612).
+
+ היה ראש הועד והמועצה הראשונה ומנהל מוסדות במושבה במשך שנים רבות (אגודת "אגרא" אבןיהודה, אגודת "החקלאי" וקופת מלוה אבן-יהודה).
+
+ יסד את חברת "טנא" - לשיווק תוצרת חקלאות והיה מנהלו הכללי. הפך את החברה לחברה רצינית שממלאה תפקיד כלכלי חשוב בארץ. בעיקר לשרת חברים איכרים בכפר וצרכנים אחים בעיר ולהדק את הקשר של האכר אל אדמתו, אל חבריו, אל אגודתו ואף לגבור החקלאים בכלל.
+
+ נטבע בים חדרה, ה' ניסן תשכ"ג (30.3.63) והובא לקבורה במושבתו "אבן-יהודה".
+
+ צאצאיו:<persName> בכורה, ליאון</persName> ז"ל, <persName>חורסי, אלברט, שרה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4541 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4541</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

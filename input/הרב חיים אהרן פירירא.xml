@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2811 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2811</bibl><bibl>Volume: #7 ,Page: 2812 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2812</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב חיים אהרן פירירא</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרכ"ח (1868).
+
+ לאביו <persName>יצחק משה</persName> (חכם ומקובל ודרשן) ולאמו <persName>שמחה </persName> לבית פיזנטי.
+
+ קבל חינוך מסורתי בבית המדרש "דורש ציון" (באותה תקופה למדו בו תלמוד בלבד).
+
+
+ בשנת תר"ן (1890) נשא לאשה את <persName>אסתר</persName> בת הרב <persName>דוד פיזנטי</persName> (נפטרה בירושלים, כ"ט חשון תש"ג, 9.11.1942).
+
+ היה חבר ועד שכונת "ימין משה" (מונטיפיורי) בירושלים עד יום מותו.
+
+ בשנת תרס"א (1901) נסע לבוכרה בשליחות ועד העדה הספרדית למען אוסף כספים לעניי ירושלים. כיהן שם כמורה ורב ללמודי הקודש עד יום חזרתו לארץ - בשנת תרס"ד (1904).
+
+ בשנת תרס"ח היה שד"ר הכוללות לערי תורכיה.
+
+ בשנות המלחמה העולמית הראשונה היה חבר ועד העדה הספרדית שבראשותו של הרב <persName>אליהו פאניז'ל.</persName> עסק בין השאר גם בחלוקת המזון שהגיע באותן השנים מאמריקה עבור הנצרכים.
+
+ שימש גם כעורך דין דתי במשרד הרבנות.
+
+ כתב דרשות למחקרים שונים (נערים שהגיעו לגיל בר-מצוה וכו'), והסברים לחלקים מחמשה חומשי תורה (כתבי היה שמורים באוניברסיטה העברית בירושלים).
+
+ השתתף ב"המאסף" להרב בן-ציון קואינקא.
+
+ בחשון תרפ"ג (בסוף 1922) נסע בשליחות ועד העדה הספרדית למצרים. חלה שם.
+
+ נפטר באלכסנדריה (מצרים). ה' שבט תרפ"ג (22.1.1923). צאצאיו: <persName>אברהם (אלברטו), מרגלית</persName> אשת <persName>אריה</persName>
+
+<persName>רוזנבלום, שלמה, נסים, מלכה (ריינה) </persName> אשת <persName>אלברט</persName> <persName>כהן, שמחה</persName> אשת <persName>רחמים ברוך, רחל</persName> אשת <persName>אהרן מצרי,</persName> <persName>משה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2811 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2811</bibl><bibl>Volume: #7 ,Page: 2812 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2812</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

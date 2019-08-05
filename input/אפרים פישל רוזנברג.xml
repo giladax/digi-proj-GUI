@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2216 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2216</bibl><bibl>Volume: #5 ,Page: 2217 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2217</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים פישל רוזנברג</persName>
+
+</head>
+         <div><p> נולד בבאקלאן (טרנסילבניה, רומניה) ה" בתמוז תרע"ז (25.6.1917) לאביו<persName> שאול אריה</persName> (בר-אורין, סוחר יינות, בעל תפלה שלא על מנת לקבל פרס, יו"ר הקהלה) ולאמו <persName>יוטה-קונה </persName> בת <persName>דוד שיוביץ </persName> (משפחת חסידים, סוחרי יינות ועצים).
+
+ קבל חנוך מסורתי. למד בישיבת ויז'ניץ המפורסמת מפי האדמו"ר ר' <persName>אליעזר הגר</persName> . היה ילד פלא בכשרונותיו הרבים. עם אביו היה בא לגרוסבארשין מקום מושבו של הרבי מויזניץ ר' <persName>ישראל הגר</persName> , שם ארע המקרה וחזן העיר ר' <persName>מנדיל ריף</persName> שמע את קולו של הנער ורצה לקבלו למקהלה שלו על מנת להדריכו. אך אביו של<persName> אפרים פי</persName> <persName>של </persName> סרב בתוקף.
+
+
+ בגיל 17 נתיתם מאביו ומאמו ואף כל הרכוש של המשפחה ירד לטמיון. הנער נוסע לצ'רנוביץ ולומד שנתיים בקונסרבטוריון בהנהלת פרופ.<persName> הליף</persName> וחזנות מפי החזן <persName>פנחס ספקטור</persName> ומפי החזן <persName>משה רוזנברג,</persName> שניהם חזנים בשני בתי הכנסת המרכזיים בצ'רנוביץ. לאחר תקופה
+
+ קצרה בה שימש בעצמו כחזן בבית כנסת "קינדר שוץ פאריין" נסע לוינה על מנת להשתלם. שם למד אצל פרופ. וואלף ומזמן לזמן גם עבר לפני התיבה ב"קאשל שוהל''. עם פלישת הנאצים לוינה חזר להונגריה והוזמן כחזן לעיר סיגט. באותה שעה נתחייב להתיצב לצבא בבוקרסט. אך בשובו לשם נתפנה מקום. החזן הראשי בבית הכנסת "אחדות קודש" ומבין מועמדים רבים הוא נתקבל למשרה זו. שמונה שנים שמש בה. בשנת 1941 ניצל בנס מידי הפורעים.
+
+ בקיץ 1947 עזב את רומניה באניה "טרנסילבניה", אך לא הורשה לרדת לחוף הארץ שעדין היתה בידי הבריטים. עבר את איטליה, בלגיה ובסוף נתקבל כחזן בלונדון בה עבד שנתיים. בכסלו תש"ט עלה ארצה ונתקבל כחזן ראשי בבית הכנסת הגדול בתל-אביב. הוא סגן, יו"ר ארגון החזנים בישראל. בשנת 1940 נשא לאשה את <persName>אסתר</persName> בת<persName> יצחק הרשטיג.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2216 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2216</bibl><bibl>Volume: #5 ,Page: 2217 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2217</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

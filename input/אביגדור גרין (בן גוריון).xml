@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1504 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1504</bibl><bibl>Volume: #3 ,Page: 1505 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1505</bibl>
+<bibl>Volume: #3 ,Page: 1506 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1506</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אביגדור גרין (בן-גוריון)</persName>
+
+</head>
+         <div><p> נולד בפלונסק, פלך פלוצק, פולין בשנת תרט''ו (1855), לאביו<persName> צבי אריה</persName> (מורה לעברית, מראשוני המשכילים בפולין) ולאמו <persName>מכלה.</persName> נתחנך על-ידי אביו ברוח ההשכלה והחיבה לשפה העברית ולספרותה, ובהדרכת אביו השתלם בעזרת מורים בשפות ובהשכלה כללית.
+
+ נשא לאשה את <persName>שיינדל</persName> בת <persName>דוד יוסף פרידמן</persName> מפלונסק.
+
+ לרגל בקיאותו בחוקים ובשפה הרוסית שימש
+
+ כעורך-דין מעשי פרטי בייצוג מתדיינים בפני שופטים ושרי השלטון המקומי ובכתיבת תזכירים ובקשות בענינים צבוריים ופרטיים. נבחר ל"בורר" לדומה הרוסית (בית הנבחרים - כי ברוסיה הצארית לא הצביעו הבוחרים בעד המועמדים באופן ישיר. אלא בחרו "בבוררים", והבוררים בחרו בצירים). עסק בפעילות בעניני הקהלה והשתתף ביסוד קופת גמילות חסדים ובנק קואופרטיבי.
+
+ ביתו היה מרכז למשכילי העיר ולחובבי ציון ואכסניה לשליחי התנועה שבאו מהחוץ. היה מפעילי חובבי ציון ואחרי הקונגרס הציוני הראשון הצטרף לתנועה הציונית ופעל למענה בארגון ותעמולה ובמלחמת-פולמוס במתנגדיה (בעיקר מבין החסידים). חינך את בניו ברוח הציונות ומשגדלו היה ביתו מרכז גם לנוער הציוני (רבים מהם עלו ארצה כחלוצים בתקופת העליה השניה. מהם היו ממיסדי תנועת העבודה ומראשי המפלגות "הפועל הצעיר" ו"פועלי ציון" בארץ). בתקופת המהפכה והפרעות ברוסיה ב-1905 עזר לצעירים הפעילים בעצה ובהדרכה ונתן מקום בביתו להסתרת הנשק של ההגנה העצמית היהודית (שבנו<persName> דוד</persName> היה מפעיליה). על אף הסכנה שבדבר.
+
+ גם אחרי עלות בנו<persName> דוד </persName> ארצה הוסיף הנוער הציוני המקומי להתאסף בביתו לשיחות ולהתיעצויות, בשיתוף עם בעל הבית, ובעיקר לשם קריאת המכתבים של דוד, ששימשו מקום לידיעות על הנעשה בארץ בכלל ובחיי צבור החלוצים בפרט ומקור להשראה ציונית-חלוצית.
+
+ המשיך בפעילות ציונית אף לעת זקנה והיה מבקר גם בעיירות הסמוכות לשם תעמולה ציונית. עלה ארצה בתרפ"ה, בן 70, והמשיך בפעולה צבורית ובעזרה לעולי פלונסק בסידורם בארץ.
+
+ נפטר בתל-אביב, כ"ו אייר תש"ב (13.5.42).
+
+ צאצאיו: <persName>אברהם </persName> (תלמיד חכם, מראשוני המזרחי בפלונסק ובפולין בכלל, מראשי הלוחמים במתנגדי הציונות מסיעת החסידים וכתב חוברות-פולמוס נגדם. עלה ארצה בתרצ"ד ונפטר בת"א),<persName> מיכל </persName> (עסקן ציוני
+
+
+ לוחם בפלונסק, סוחר, עלה ארצה בתרצ"ג) ;<persName>רבקה</persName> אשת הקומפוזיטור<persName> יהודה הר-מלח ; דוד </persName> (מראשי אנשי העליה השניה, מיוצרי תנועת העבודה בארץ וממנהיגיה, יו"ר הנהלת הסוכנות היהודית לארץ-ישראל מ-1935 וראש הממשלה ושר הבטחון בממשלה הזמנית למדינת ישראל מיום הקמתה, ה' אייר תש"ח;<persName> צפורה</persName> אשת ד"ר <persName>משה קוריטנו</persName> ז"ל ובזיווג שני אשת הקומפוזיטור <persName>אריה פרידמן-לבוב</persName> מחיפה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1504 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1504</bibl><bibl>Volume: #3 ,Page: 1505 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1505</bibl>
+<bibl>Volume: #3 ,Page: 1506 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1506</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5470</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' יעקב כץ</persName>
+
+</head>
+         <div><p> נולד במאגיארגנץ (הונגריה), ז' בכסלו תרס"ה (15.11.1906).
+
+ לאביו <persName>שמואל כץ</persName> , ולאמו<persName> דינה </persName> בת <persName>יפה רזניק.</persName>
+
+ קיבל חינוך מסורתי וכללי. בשנת 1934 סיים לימודיו באוניברסיטת פראנקפורט.
+
+ בשנת תרצ"ו (1936) עלה לארץ. עסק תחילה בהוראה כמורה בגימנסיה "מוריה''
+
+ ובבית המדרש לגננות בתל-אביב, בבת"ס ובסמינריונים.
+
+ משנת תש"י (1950) בעל קתדרה להיסטוריה חברתית וחינוכית של ישראל.
+
+ נשא לאשה את <persName>דינה</persName> בת <persName>אליהו בירנבוים</persName> .
+
+ בשנים 1959-63 היה דיקן הפקולטה למדעי החברה.
+
+ משנת 1962 פרופסור באוניברסיטה העברית בירושלים.
+
+ ביום 7 למאי 1969 בחר בו סינאט האוניברסיטה העברית בירושלים לרקטור האוניברסיטה במקום פרופ' <persName>נתן רוטנשרייך </persName> (ראה את הערך שלו בכרך זה) שסיים שתי תקופות כהונה (4 שנים) כרקטור.
+
+ בראשית שנת הלימודים בשנת תש"ל (1970) יכנס לתפקידו הנ"ל.
+
+ פרסם מחקרים בתולדות ישראל בעברית ובשאר לשונות. ספרים בעברים: "מסורת ומשבר" (החברה היהודית במוצאי ימי הביניים, תש"ח) ו"בין יהודים לגויים" (יחס היהודים לשכניהם בימי הביניים ובתחילת הזמן החדש).
+
+ בניו:<persName> דוד, חנן, אוריאל</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5470</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

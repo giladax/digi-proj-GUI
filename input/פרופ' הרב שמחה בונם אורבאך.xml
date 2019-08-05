@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5216 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5216</bibl><bibl>Volume: #17 ,Page: 5217 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5217</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' הרב שמחה בונם אורבאך</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וורשה</placeName> (פולין), ב' טבת תרע"ד (31.12.1913). לאביו רבי <persName>משה לייב אורבאך</persName> מסאסוב ולאמו <persName>שרה הענע</persName> בת <persName>עזרא נפרסטק</persName> (מצאצאי ר'<persName> חיים</persName> <persName>ברוך).</persName>
+
+ קיבל חינוך מסורתי ב"יסודי התורה", מתיבתא תחכמוני, בית מדרש לרבנים, בישיבת מיר, וכללי באוניברסיטאות בורדו (צרפת) וירושלים. עסק ברבנות ובעתונאות.
+
+
+ היה יו"ר תנועת הנוער "הבונה" שע"י "אגודת ישראל" ב<placeName>וורשה</placeName>.
+
+ היה מעסקני הפועל המזרחי.
+
+ בשנת 1935 נשא לאשה את <persName>רייזל</persName> בת הרב <persName>יעקב</persName>
+
+<persName>זילברשטיין</persName> (הושמדה בשואה).
+
+ ב-8.8.1941 עלה לארץ.
+
+ המשיך ללמוד באוניברסיטה העברית בירושלים. בשנים 1946-49 רב ב"שדה יעקב".
+
+ בשליחות מטעם הסוכנות היהודית לאירופה ולצפון אפריקה.
+
+ משנת 1949 רב בטבעון.
+
+ משנת 1957 מרצה בכיר בפילוסופיה עברית באוניברסיטת בר-אילן.
+
+ מעסקני הפועל המזרחי.
+
+ משנת 1934 פירסם בכמה לשונות מאמרים ומסות בסוגיות פילוסופיות-דתיות ומשתתף בקביעות ב"הצופה" ובכתבי עת שונים בפובליסטיקה ועניני דת, וכן כותב וכתב ב"גוילין", "שבילין", "דבר", "הבוקר", "בציון" (ניו-יורק) ובאנציקלופדיות שונות.
+
+ ספריו: "תולדות נשמה אחת - הלל צייטלין, האיש ומשנתו" (1953); "עמודי המחשבה הישראלית" (אנתולוגיה. עד כה שלושה חלקים, מוקדשים לפילוסופיה ולרבנות. תשי"ד-תשכ"ב), פירוש מדעי תורני לחלק "קנין", שבמשנה-תורה לרמב"ם (תשי"ט).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5216 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5216</bibl><bibl>Volume: #17 ,Page: 5217 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5217</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

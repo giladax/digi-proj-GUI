@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4962 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4962</bibl><bibl>Volume: #16 ,Page: 4963 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4963</bibl>
+<bibl>Volume: #16 ,Page: 4964 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4964</bibl>
+<bibl>Volume: #16 ,Page: 4965 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4965</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זאב גנון (גרטנהויז)</persName>
+
+</head>
+         <div><p> נולד בעירה בוקובסק (גליציה) בשנת תרנ"ב (18.2.1892).
+
+ לאביו<persName> משה מאיר גרטנהויז</persName> (מצאצאי חסידים "מקובלים") ולאמו <persName>צירל </persName> בת <persName>יעקב פייגנבוים.</persName>
+
+ קיבל חינוך מסורתי בישיבת ויזניץ (בוקובוגה) שבהנהלת הרב <persName>האגר,</persName> בסמינר למורים בלבוב (גליציה).
+
+ עסק בהוראה.
+
+ התכונן לעלות לא"י, אבל לרגלי פריץ מלחמת העולם הראשונה, נסע לארצות הברית. שם עסק בהוראה בבתי ספר יהודיים. בגלל התערבות תמידית של אמהות התלמידים בדרישותיהן מה ללמד וכיצד, פרש מהוראה ועסק בשונות.
+
+
+ בשנת 1923 עלה לארץ.
+
+ בשנת 1924 נשא לאשה את <persName>חיה</persName> בת הרב <persName>מנחם גרשון מושקוביץ.</persName>
+
+ קבל משרת מורה בבית הספר בטבריה (שבהנהלתו של <persName>אשר זליק ארליך,</persName> ראה כרך שני, עמוד 946). כעבור 5 שנים (חלה במחלת המהלכות-אזבארץ, בגליל) הועבר לעבוד בבי"ס בתל-אביב. כאן, מלבד העבודה בהוראה בבתי-ספר, לימד גם בשעורי ערב של ארגונים שונים ("בנות ברית", "הסתדרות הפקידים ועוד). את רוב שעות הפנאי הקדיש לכתיבה בעתונים. כתב ב"דאר היום", ב"פלשטין ביוליטין", ב"הארץ", ב"המשקיף" ועוד. אך עיקר עבודתו הספרותית היה כותב בעתוני הילדים: מאמרים, ספורים ושונות.
+
+ בשנות 1930-31 ניהל את בית הספר היהודי בעדן. אז גם מנע התפרצות של פוגרום ביהודי עדן.
+
+ התרחק בדרך כלל מעבודה צבורית. אך במשך זמן מסוים עזר (בכתיבה) ל"ועד למען ספרד" לאירגון נגד אנטישמיות וכו' (למען "הכותל המערבי").
+
+ כיום בפנסיה.
+
+ צאצאיו : <persName>יעקב גנון</persName> (עורך דין), <persName>שושנה</persName> אשת <persName>דוד אנדר </persName> (יהלומן).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4962 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4962</bibl><bibl>Volume: #16 ,Page: 4963 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4963</bibl>
+<bibl>Volume: #16 ,Page: 4964 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4964</bibl>
+<bibl>Volume: #16 ,Page: 4965 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4965</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

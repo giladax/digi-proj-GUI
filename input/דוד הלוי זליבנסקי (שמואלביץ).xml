@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1467 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1467</bibl><bibl>Volume: #3 ,Page: 1468 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1468</bibl>
+<bibl>Volume: #3 ,Page: 1469 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1469</bibl>
+<bibl>Volume: #3 ,Page: 1470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1470</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד הלוי זליבנסקי (שמואלביץ)</persName>
+
+</head>
+         <div><p> נולד בשעלייב, פלך מינסק, רוסיה הלבנה, בשנת תר"ג (1843), לאביו<persName> ישראל </persName> ב"ר <persName>מרדכי הלוי שמואלביץ</persName> (תלמיד-חכם, חקלאי), למד בחדרים ובישיבות ועבד בחקלאות במשק אביו. לשם שחרורו מחובת השרות בצבא הרוסי נרשם כבנה של משפחה בשם<persName> זליבנסקי</persName> שלא היו לה בנים אחרים וכך שוחרר, לפי החוק בזמן ההוא, בתור בן יחיד.
+
+ החקלאי מפ"ת ר, מרדכי שמואלביץ היה אחיו.
+
+ נשא לאשה את <persName>שפרה גיטה</persName> בת ר' <persName>יוסף קסמיוביץ</persName> מלופץ, ממשפחה של בעלי מאפיות, ולמד אצלם את המקצוע.
+
+ בתרמ"ו עלה ארצה והתישב ביפו העתיקה ואח"כ עבד במאפיה בראשון לציון. כשנוסדה בתרמ"ח שכונת נוה צדק בצפונה של יפו בנה בה את ביתו בין הראשונים וגם מאפיה, ובמשך הזמן הגדילה ושכללה בסידורים חדישים והתאימה לאפית לחם לכל ימות השנה ומצות לפסח.
+
+ בתרע"ז פרש מהעבודה מחמת זקנה ומסר את בית-החרושת למצות לידי בניו ונכדו <persName>ישראל דננברג</persName> בשם הפירמה "דוד זליבנסקי ובניו", ומאז חדלו מאפית לחם ועסקו רק באפית מצות. עם גידול הישוב בעיר ובארץ גדל גם המפעל וחוג לקוחותיו ותוצרתו נודעת לשבח בישוב, ובזמן האחרון הקים<persName> ישראל דננברג </persName> ביתחרושת מיוחד למצות בפרדס כץ.
+
+
+ ממיסדי גמ"ח "מ.נ.צ.פך" (מנוה צדק פרושים כנסת) וקרן "מגן דוד" ע"ש ר' דוד זליבנסקי (בשנת תרפ"א). לשם נתינת גמ"ח לעולים.
+
+ הקדיש את זמנו לתורה, לתפלה ולמעשים טובים. נפטר בתל-אביב בגיל 85 שנה, ב' אדר תרפ"ח, והובא לקבורה בירושלים.
+
+ צאצאיו : <persName>שרה לאה</persName> אשת <persName>נחמיה דננברג, אלתר,</persName> <persName>יוסף, הרצל</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1467 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1467</bibl><bibl>Volume: #3 ,Page: 1468 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1468</bibl>
+<bibl>Volume: #3 ,Page: 1469 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1469</bibl>
+<bibl>Volume: #3 ,Page: 1470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1470</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3863 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3863</bibl><bibl>Volume: #11 ,Page: 3864 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3864</bibl>
+<bibl>Volume: #11 ,Page: 3865 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3865</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב משה נחום ואלנשטיין</persName>
+
+</head>
+         <div><p> נולד בעיר פאפא (הונגריה) בשנת תר"א (1841).
+
+ לאביו <persName>מאיר.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה. כשהתבגר נתקבל בישיבת ה"כתב סופר" בפרשבורג והוסמך שם להוראה ועל ידי זה נשתחרר מעבודת הצבא, כי תלמידי ישיבת ה"כתב סופר" שהוסמכו להוראה היו פטורים מעבודת הצבא.
+
+ מפרשבורג נדד לישיבת ר' <persName>אהרן דוד דייטש</persName> ובעל הספר "גורן דוד") בעיירה באלאשא-יארמאט, כשהוא מצוייד במכתב מאת בעל ה"כתב סופר" להרא"ד הנ"ל, שהיה אחיו של הרה"ג ר' <persName>שמעון דייטש </persName> תלמידו של ה"חת"ם סופר'', שבנה את ביתו בעיר הקידש.
+
+ עלה לארץ בשנת תרכ"ה (1865) ונתקבל בכבוד ע"י חותנו לעתיד.
+
+ נשא לאשה את <persName>רחל </persName> בת הרב <persName>שמעון דייטש </persName> הנ"ל.
+
+ נתמנה לדיין שלישי בהכ"ץ של הגאון מבריסק.
+
+ אחרי פטירתם של חבריו נתמנה הוא לראב''ד והמשיך בתפקידו גם לאחר הסתלקותו של הגאון מבריסק.
+
+ היה גם ממונה בכולל "שומרי החומות".
+
+ בשנת תרנ"א השתתף באסיפת עם ליסוד ועד העיר לאשכנזים.
+
+ נפטר בירושלים, כ"ג אדר תרפ"ב (23.3.1922).
+
+ צאצאיו: ר' <persName>אליעזר,</persName> הרב <persName>שמעון</persName> ועוד.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3863 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3863</bibl><bibl>Volume: #11 ,Page: 3864 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3864</bibl>
+<bibl>Volume: #11 ,Page: 3865 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3865</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4075 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4075</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ראובן פליישמן</persName>
+
+</head>
+         <div><p> נולד ברחובות, אדר תרנ"ט (1899).
+
+ לאביו ר'<persName> צבי פליישמן </persName> ולאמו <persName>בלומה</persName> בת ר' <persName>יעקב</persName> <persName>לפקוביץ </persName> מרחובות.
+
+ קיבל חינוך מסורתי וכללי.
+
+ כל השנים חבר ההגנה.
+
+ מספר שנים שירת כשומר במושבה.
+
+ בשנת 1923 נשא לאשה את<persName> צלה</persName> בת <persName>אלכסנדר</persName> <persName>שנדור.</persName>
+
+ נהג (משנת 1926) וחבר אגד. בימי המאורעות בארץ ואח"כ במלחמת העצמאות סיכן עצמו בהמשיכו לנהוג באוטובוס שלו בסכנת הדרכים בארץ.
+
+ חבר הנהלת קופת גמ"ח של המזרחי ברחובות. גבאי בית הכנסת "אהלי תורה" ברחובות.
+
+ בנותיו:<persName> חסידה, בילה</persName> אשת<persName> יהושע ליכטנשטיין.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4075 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4075</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

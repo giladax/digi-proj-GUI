@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3475 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3475</bibl><bibl>Volume: #10 ,Page: 3476 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3476</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יעקב צבי לונץ</persName>
+
+</head>
+         <div><p> נולד בירושלים, ה' טבת תרל"ו (2.1.1876).
+
+ לאביו <persName>אברהם משה לונץ</persName> (מראשוני חוקרי ארץישראל - ראה כרך א' עמוד 46) ולאמו<persName> דבורה </persName> בת <persName>עקיבא ריטבסקי.</persName>
+
+ למד בחדר ובישיבה, ובהיות הבארון <persName>בנימין רוטשילד</persName> ז"ל מוקיר את אביו ושמע על כשרונותיו הנדירים של הנער, הציע את עזרתו לנער להשתלם במדעים בפריז.
+
+ גמר במכינה שליד בית-המדרש לרבנים בפריז את הקורס של בית-הספר התיכון, ואחרי קבלו תעודת בגרות למד באוניברסיטה, הוסמך לד"ר לרפואה והשתקע בתור רופא בפריז.
+
+ סיגל לו סגנון צרפתי ספרותי נאה מאד, ובשנות לימודיו היה לעזר למתלמדים יהודים מהארץ וממזרח אירופה בשיפור ידיעותיהם בשפה ובספרות ובתרבות הצרפתית, שיוכלו להתקדם בלימודיהם. היה פעיל באגודות ציוניות של הסטודנטים ואח"כ בתנועה הציונית של האזרחים ותמך ביד רחבה, מתוך הסתפקות במועט לצרכי עצמו, בכל דבר טוב ומועיל. נתחבב על כל יודעיו בשל ענוותנותו ונועם הליכותיו עם הבריות. היה מרפא חולים עניים בחנם, וכשנזדמן לו חולה מהארץ או מהמהגרים היהודים, היה תומך בו אף
+
+
+ ברכישת התרופות על חשבונו. כן היה פעיל בעזרה למהגרים ובארגון קורסים בשבילם ללימוד השפה והליכות החיים של צרפת, להקל עליהם את התערותם בחיים וסידורם בפרנסה.
+
+ במלחמת העולם הראשונה שירת כרופא בצבא הצרפתי וב-1918 שירת בתפקיד זה בצבא הצרפתי שחנה אז בארץ.
+
+ ב-1938 חזר לירושלים ועסק ברפואה ובעבודה ספרותית. בעיקר כתב מונוגרפיות ומחקרים על קשרים ודימויים בין הספרות העברית והצרפתית ועל אישים במדע ובספרות בירושלים ב-200 השנים האחרונות, ואחדים ממחקריו פורסמו בדפוס בעברית משופרת, כפי שהיתה נהוגה בנעוריו.
+
+ נפטר בירושלים, כ"א שבט תשי"ז (23.1.1957) ונקבר בהר המנוחות.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3475 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3475</bibl><bibl>Volume: #10 ,Page: 3476 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3476</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

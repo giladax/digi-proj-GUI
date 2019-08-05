@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 468 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/468</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גרשון ויצמן</persName>
+
+</head>
+         <div><p><persName>בן נתן נטע</persName> , נולד בליגום (ליטה), בשנת תר"כ (1860), קיבל חינוך מסורתי.
+
+ נכנס לתעשיות חימיות (שמנים לבורסקאות) ואח"כ לתעשית גפרורים בקובנה.
+
+ נשא לאשה את <persName>נחמה</persName> בת<persName> יצחק שלום</persName> מקלם. ביקר בארץ בשנת תרע"ג ורכש אדמה על הר הכרמל.
+
+ עלה לא"י בשנת תרפ"ג ובשנת תרפ"ד הקים בעכו בית חרושת לגפרורים "נור".
+
+ בשנת תרפ"ט רכש 240 דונם אדמה במושבה רחובות, נטע פרדס והתישב בביתו אשר הקים במושבה.
+
+ בשנת תרצ"ו הקים יחד עם אחיו <persName>יעקב מאיר</persName> (שותפו בנ"ל) בנין לישיבת חברון בירושלים.
+
+ נפטר ברחובות, כ' חשון תרצ"ט ונקבר בירושלים. צאצאיו:<persName> ד"ר יצחק </persName> (חיפה); <persName>ד"ר צבי</persName> (בירות-פריז).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 468 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/468</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

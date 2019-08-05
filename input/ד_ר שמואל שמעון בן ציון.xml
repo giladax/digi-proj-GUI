@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1729 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1729</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר שמואל שמעון בן-ציון</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"ב אלול תרנ"ד (13.9.1894), לאביו מרדכי (ראה עליו ערך מיוחד בכרך זה, בן ר'<persName> משה אלתר בן-ציון</persName> , ממיסדי שכונת מאה שערים) ולאמו<persName> שרה </persName> בת ר' <persName>יהושע שטאמפר </persName> (ממיסדי פתח-תקוה ראה כרך א' עמוד 50).
+
+ בילדותו יצא עם הוריו לארצות הברית, לעיר פרובידנס שבמדינת ראוד איילנד. קיבל חינוך מסורתי והשכלה כללית, למד באוניברסיטאות ראון וניו-יורק והוסמך לדוקטור למשפטים, גמר את בית-המדרש לרבנים מיסודו של ד"ר <persName>שכטר</persName> בניו-יורק והוסמך לרבנות. היה רב בבתי-כנסיות בקליבלנד, בשיקאגו, בניו-יורק ובמיאמי ביץ', חבר הועד הפועל של ההסתדרות הציונית באמריקה. ניהל מגביות לטובת הקה"ק, קרן היסוד וקרן ארץ-ישראל של המזרחי בשליחויות בתקופות שונות באמריקה, בריטניה, קנדה ואוסטרליה, היה ציר בקונגרס הציוני ה-12 בקארלסבאד
+
+ ופרסם מאמרים על א"י בעתונים, שבועונים וירחונים באמריקה.
+
+ ב-1921 נשא לאשה את חנה בת<persName> צבי הכהן מירסקי.</persName>
+
+ ב-1922 חזר לארץ עם אביו וביתו. השתתף עם אביו ביסוד בנק אמריקה - א"י בתל-אביב והיה בו יו"ר ומנהל, יצר ובנה את שכונת "כרם משה" ת"א, היה יו"ר הסתדרות עולי אמריקה וב-1924 נבחר למועצת
+
+ עירית תל-אביב. אח"כ השתתף עם אביו ביסוד שכונת בן-ציון בחיפה. עבר להשתקע בירושלים, יסד גם שם שכונת בן-ציון, עוסק בפיתוח קרקעות לבנין והנו יו"ר בית-הכנסת "אחדות ישראל", סגן יו"ר התאחדות בעלי בתים וחבר ועד לשכת "שלום" של בני ברית.
+
+ צאצאיו:<persName> משה נתנאל</persName> (רב בעיר ווילינג, מדינת וירג'יניה, ארה"ב),<persName> יהושע</persName> (עו"ד בת"א),<persName> מאירה, יהודית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1729 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1729</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2320 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2320</bibl><bibl>Volume: #5 ,Page: 2321 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2321</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמחה אמבש</persName>
+
+</head>
+         <div><p> נולד ביפו, ט"ז אדר תרנ"ב (7.3.92). לאביו<persName> זלמן </persName> ב''ר<persName> נחמן אמבש (אמבש</persName> - ראשי תיבות: אני מאמין באמונה שלמה), ולאמו <persName>בילה</persName> בת ר' <persName>שמחה קלצקין</persName> , מדאמיר.
+
+ קיבל חנוך עברי ומסורתי, השתלם בהנדסה באו
+
+ ניברסיטה נאנסי (צרפת) 1910-1914. וקיבל תואר מהנדס.
+
+ בשנת 1916 נשא לאשה את <persName>לאה</persName> בת<persName> מיכל שטיינברג</persName> ממוצא (ראה עמוד 576, כרך שני).
+
+ בנעוריו היה פעיל בארגוני הנוער הציוני ביפו. לפני המלחמה העולמית הראשונה נתמנה למנהל חברת החשמל והמים באסמאליה, ליד חברת תעלת סואץ.
+
+ מיסד ומנהל ויו"ר חברות חשמל, תעשיה ונטיעות בישראל, במצרים וקפריסין.
+
+ היה מנהל חברת מחסני-מצרים למכונות בע"מ (1925-1941) ופתח סניפים בארץ ישראל. לקח חלק בפיתוח התעשיה והפרדסים בארץ.
+
+ יו"ר חברת נטיעות הדרום, יו"ר חברת נורפק בע"מ. בשנת 1950 התישב בקביעות בחיפה. בנה בית בירושלים ובחיפה.
+
+ יו"ר חברת אמבש להנדסה בע"מ בארץ.
+
+
+ צאצאיו: <persName>ד"ר נחמן אמבש</persName> (חוקר מדעי בפיזיולוגיה בלונדון), <persName>שושנה </persName> אשת<persName> אבא אבן</persName> (שגריר ישראל בואשינגטון). <persName>צילה</persName> אשת<persName> פ. קסל</persName> (חוקר במדעי הפסיכולוגיה התעשיתית בלונדון), <persName>אורה</persName> אשת האלוף חיים<persName> הרצוג</persName> נספח צבאי בשגרירות ישראל בואשינגטון. בנו של הרב הראשי הרצוג).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2320 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2320</bibl><bibl>Volume: #5 ,Page: 2321 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2321</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

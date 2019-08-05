@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4260 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4260</bibl><bibl>Volume: #13 ,Page: 4261 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4261</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זהבה אלדמע</persName>
+
+</head>
+         <div><p> נולדה בניישטדט (ליטא) בשנת תרס"א (1901).
+
+ לאביה <persName>מיכאל אליהו אידלוביץ</persName> ולאמה<persName> גיטה</persName> לבית <persName>ליבוביץ.</persName>
+
+ קיבלה חינוך מסורתי-עברי וגרמנית.
+
+ היתה חברה פעילה ב<persName>"החלוץ".</persName>
+
+ בשנת 1922 עלתה לארץ.
+
+ עבדה כפועלת בסלילת כבישים, במשק הפועלות בשכונת בורוכוב ומדריכה במוסד יתומים בשפיה.
+
+ בשנת 1925 נישאה ל<persName>אברהם אלדמע-אייזנשטיין</persName> (ראה כרך א', עמוד 474).
+
+<persName>אלדמע</persName> מספר בערך שלו הנ"ל : עם גמר בנין ביתי הרחב בשכונת בורוכוב ב-1922 פלשו לתוכו כל חברות משק הפועלות שנוסד בשכונה שטרם סידרו להן מקום לאכילה ולינה. הוכרח ע"י כך לגור יותר משנה במרתפו ואחרי כן "התנקם" במשק ונשא לאשה את זו (הנ"ל) ש"פלשה" ראשונה לביתו...
+
+ עזרה לבעלה שהיה ממייסדי "שכונת בורוכוב" בכל ענייני הציבור שעסק : מורשה הקהק"ל לגבעתיים, ממייסדי "מגן דוד אדום" בגוש דור ועוד.
+
+ היתה פעילה ב"הגנה". נרשמה בספר הזהב כאות הוקרה לעבודתה.
+
+ חברה פעילה בכל מוסדות מפא"י בגבעתיים. פעילה בארגון אמהות עובדות, מגן דוד אדום, ליגה לשחפת, אילנשיל וכו'.
+
+ בשנת תרצ"ה (1935) נבחרה לציר לקונגרס הציוני.
+
+ צאצאיה:<persName> דן</persName> (מורה תיכון),<persName> גיל, דיצה</persName> אשת<persName> יצחק</persName> <persName>תירוש.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4260 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4260</bibl><bibl>Volume: #13 ,Page: 4261 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4261</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

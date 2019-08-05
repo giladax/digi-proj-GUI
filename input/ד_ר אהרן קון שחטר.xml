@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3830 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3830</bibl><bibl>Volume: #11 ,Page: 3831 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3831</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אהרן קון-שחטר</persName>
+
+</head>
+         <div><p> נולד ביגילניצה שליד צ'ורטקוב, במזרח גליציה ביום י''ד ניסן תרמ"ז (1887).
+
+ לאביו ר'<persName> מרדכי </persName> (שוחט, ממשפחת חסידים ולומדתורה, עבר לדור בצ'ורטקוב ולהיות ממקורבי הרבי) ולאמו <persName>פייגה</persName> לבית <persName>כהן.</persName>
+
+ הצטיין בלימודי היהדות בתור "עילוי" ובבחרותו קיבל סמיכה להוראת איסור והיתר (לרבנות) אח"כ נמשך להשכלה ולציונות, לצערו הרב של אביו החסיד, עבר לצ'רנוביץ. התפרנס ממתן שיעורים ועבר בהצטיינות בחינת-בגרות אכסטרנית בגימנסיה הגרמנית.
+
+ ב-1908 עלה לארץ, בזרם עליית הנוער הציוני מגליציה. למד בבית המדרש למורים שבניהולו של <persName>דוד ילין</persName> בירושלים יגמר ב-1914. לרגל פרוץ מלחמת העולם התגייס לצבא האוסטרי ועלה במהרה לדרגת קצונה. אח''כ נתגלגל לאיסטמבול ונתקבל למורה בבית הספר של חברת כי"ח (אליאנס) שם. אחרי שנת 1920 יצא להשתלם באוניברסיטאות ציריך, וינה והאמבורג, שם גמר ב-1924 והוסמך לד"ר לפילוסופיה (הדיסרטציה: על הפסיכולוגיה של הילד).
+
+ ב-1925 חזר לארץ לזמן קצר. יצא לניו-יורק ונתקבל שם למורה בקולג' היהודי למקרא, עברית ופסיכולוגיה. הרבה לעסוק בחקר-השוואה של הכושר הלימודי והרוחני אצל ילדים יהודים ונוצריים, ולרגל מחקרו זה שהה גם כאנגליה.
+
+ ב-1937 נשא לאשה את שושנה בת <persName>אדולף פוהורולה</persName> מבוצ'אץ'.
+
+ באותה שנה חזר לארץ ונתמנה למנהל בית-הספר ''עליה ב' בתל-אביב, שנוסד אז לקליטת ילדי העולים, והוא התמסר לאירגון בית-הספר מראשיתו ולניהול העבודה החינוכית בו לפי מיטב ידיעותיו ונסיונו. המשיך בעבודת-הדוקטור שלו, על הפסיכולוגיה של הילד, ובינתיים נמנע מפיזור דבריו בכתבי-עת, כדי שימסור את הכל במרוכז בספרו, אך לא הספיק לגמרו.
+
+ ב-1952 הוצא לפנסיה לרגל הגיעו לגיל החוקי
+
+
+ לכך, אך לא פרש מהעבודה החינוכית, כי בשנה שלאחריה נכנס להוראה בסמינר למורות ולגננות ביפו, והמשיך בו אף אחרי שנשתנו שמו ומבנהו לגימנסיה פדגוגית על שם "סוקולוב"'. יומים לפני חלותו עוד מסר נושאים לעבודה בכתב בתלמוד, ובדרכו לגימנסיה לקה בהתקפת לב.
+
+ נפטר בתל-אביב, ט"ז כסלו תשט"ז (1.12.1955).
+
+ בנו: <persName>מרדכי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3830 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3830</bibl><bibl>Volume: #11 ,Page: 3831 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3831</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3519 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3519</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי אפלבוים</persName>
+
+</head>
+         <div><p> נולד בשנת תרנ"ו (18.12.1895) בזכרון יעקב. לאביו<persName> אביגדור </persName> (ראה בכרך זה) ולאמו<persName> פנינה</persName> בת <persName>חיים קובילביץ.</persName>
+
+ גמר את בית הספר במושבה, הוסיף ללמוד בקולג' הצרפתי בבירות, אך נמשך חזרה לאדמת המולדת והיה מטובי החקלאים הצעירים, שעבדו את אדמת הבורג' הרחק מהמושבה וכל ששת ימי המעשה היו עובדים משחר עד ערב ולנים בבנין ערבי רעוע וחיים בתנאים קשים. כן רב חלקו ביסוד מועדון הנוער בזכרון יעקב.
+
+ נשא לאשה את <persName>שושנה </persName> בת <persName>יעקב ורבקה ליבוביץ.</persName>
+
+ התנחל עם הראשונים בבנימינה ושקד כל ימיו על פיתוח משקו. ממומחיותו הגדולה בחקלאות, וביחוד בענף הגפן, נתן לרבים בהדרכתו היעילה, ורבים הם המתישבים והעולים החדשים ופועלים תימנים ואחרים, שבהדרכתו הגיעו למומחיות רבה בזמירת הגפנים.
+
+ נתן מזמנו וממרצו ומכושרו לפעול ולהפעיל גם לשרות הצבור. היה ממיסדי אגודת "אכרי בנימינה" וראשה, יו''ר הועד החקלאי והרוח החיה במפעל בנין "בית האכרים", חבר ועד המושבה ואח"כ חבר המועצה המקומית (ובכהונתו זו רב חלקו בהתקנת מפעל המים), חבר הנהלת התאחדות האכרים, מפעילי ועד "מכבי" וסניף הציונים הכלליים, תורם ומתרים בנדיבות ובכח משכנע לכל מפעל צבורי ותרבותי במקום.
+
+ נפטר בירושלים, ט' אב תשי"ח (27.6.1958) והובא לקבורה בבנימינה.
+
+ בניו :<persName> יהושע, מרדכי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3519 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3519</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

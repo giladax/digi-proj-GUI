@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1232 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1232</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה יעקב מאלי</persName>
+
+</head>
+         <div><p> נולד במינסק, רוסיה הלבנה, בשנת תרנ"ז (1897), לאביו הרב <persName>זלמן זוסיה</persName> (רב בניישטאט-מינסק, חובבציון ידוע, חבר ב"אגודת האלף"; אביו עלה ארצה לעת זקנה ומנוחתו בהר הזיתים בירושלים) ולאמו <persName>דבורה בתיה</persName> בת הרב <persName>אברהם אהרון</persName> (רב באורצ'יה, מחוז מינסק). למד בחדרים ובישיבות קיידאנוב, שצ'וצ'ין ומיר וגמר קורסים פדגוגיים בוילנה. היה פעיל ב-1916 ביסוד תנועת המזרחי במינסק. אחרי מלחמת-העולם הראשונה עבר לוילנה והיה שם מנהל בית היתומים "אחיעזר", על שם הגר"א. השתתף שם ביסוד תנועת צעירי המזרחי והחלוץ המזרחי בחבל וילנה (הראשונה ששלחה ארצה קבוצות מאורגנות של חלוצים דתיים).
+
+ בתרפ"ה נשא לאשה את<persName> עטרה</persName> בת הרב <persName>אליהו</persName> <persName>גרשון הלפרין</persName> , שהיה רב ברוזלה-וילנה ור"מ בישיבת רמיילס בוילנה.
+
+ באותה שנה עלה ארצה ועסק בהוראה ובפעילות צבורית בתנועת הפועל המזרחי ובעניני צבור כלליים. בשנות תר"ץ-תש"ג היה חבר ועד קהלת חיפה ומתרצ"ט ואילך גם חבר הנשיאות וסגן ראש הקהלה. השתתף ביסוד שכונת "תל-עמל" ובמוסדות צבוריים שונים, חבר באספת הנבחרים, בהנהלת ועד הדר הכרמל ועוד, וכיום הוא מנהל עניני המועצה הדתית והשחיטה של קהלת חיפה.
+
+ פרסם מאמרים ב"די צייט" הוילנאי, ב"היסוד", "הצופה", "נתיבה", ועוד.
+
+ בניו: <persName>עוזי </persName> (חבר קבוץ "שליחים"), <persName>אסף</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1232 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1232</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

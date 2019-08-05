@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4008 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4008</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רפאל פליישמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רחובות</placeName> (ישראל) בינואר 1907.
+
+ לאביו <persName>צבי פליישמן</persName> (מראשוני מתישבי רחובות) ולאמו <persName>בלומה</persName> לבית <persName>ליפקוביץ.</persName>
+
+ קיבל חינוך מסורתי בתלמוד תורה, בי''ס עממי,
+
+ ואצל דודו <persName>ליפקוביץ</persName> , מנהל התלמוד תורה. השכלה כללית בכוחות עצמו.
+
+ היה פעיל בארגוני הנוער במושבה.
+
+ בשנת 1932 נשא לאשה את <persName>ברכה</persName> בת הרב<persName> אליעזר</persName>
+
+<persName>קיטאיגורודסקי</persName> (ראה כרך י"א, עמוד 3771). היתה חברה פעילה ומדריכת נוער באירגון גורודניה בסחודניצה גליציה.
+
+ בשנת 1934 בנה ביחד עם מר<persName> יוסף קיטאי</persName> בית חרושת למרצפות ב<placeName>רחובות</placeName>.
+
+ במלחמת השחרור היה פעיל בהגנת המושבה, ובהבאת הקרבנות (משדה הקרב - בסכנת נפשות) לקבר ישראל.
+
+ מפעילי התזמורת (מהראשונים) ב<placeName>רחובות</placeName>.
+
+ כל השנים חבר ההגנה.
+
+ קצין במכבי-אש מתנדבים ב<placeName>רחובות</placeName>.
+
+ בעל תעשית מצבות.
+
+ צאצאיו : <persName>רינה</persName> אשת<persName> שלמה פרנקל</persName> (חיפה), <persName>גדליהו,</persName> <persName>דבורה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4008 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4008</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

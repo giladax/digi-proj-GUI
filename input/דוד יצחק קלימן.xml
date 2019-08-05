@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4694 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4694</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד יצחק קלימן</persName>
+
+</head>
+         <div><p> נולד בלודז (פולין) בשנת תר"ן (1890). לאביו <persName>משה אהרן קלימן</persName> ולאמו<persName> אסתר</persName> בת <persName>שמואל</persName> <persName>רייס.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ היה פעיל במוסדות צבורים והיה ידוע כתורם ביד רחבה.
+
+ יחד עם אביו <persName>ליב</persName> (ראה בעמוד הקודם) הגדילו את בית החרשת לטקסטיל <persName>מ. קלימן </persName> שנוסד ע"י האב בלודז. בית החרשת העסיק אלפי פועלים.
+
+ נשא לאשה את<persName> איטה</persName> לבית <persName>צוקרמן.</persName>
+
+ משנת 1934 ביקר בכל שנה בארץ ורכש רכוש יחד עם אחיו<persName> ליב.</persName>
+
+ בשנת 1938 עלה לארץ עם משפחתו לישיבת קבע.
+
+ יחד עם אחיו ניהל את הפרדס ברחובות. ובשנת 1943 הקימו. בסלמה ליד ת"א בית חרושת לטקסטיל בשם "צלקטקס".
+
+ עזר לכל נצרך.
+
+ נפטר בתל-אביב, ט' טבת תש"י (13.12.1945).
+
+ צאצאיו:<persName> אברהם מאיר ז"ל, שמעון, מולך ז"ל,</persName> <persName>בתי</persName> ז"ל אשת העו"ד <persName>א. מקלף.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4694 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4694</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

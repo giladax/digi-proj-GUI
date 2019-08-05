@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2123 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2123</bibl><bibl>Volume: #5 ,Page: 2124 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2124</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' שלום (סלומון) גולדלמן</persName>
+
+</head>
+         <div><p> נולד בסורוקי, פלך בסראביה, רוסיה, כ"ח שבט תרמ"ו (1886), לאביו<persName> ישראל </persName> ולאמו <persName>מאטל</persName> לבית <persName>ואקסמן</persName> . למד
+
+ בבי"ס עממי בסורוקי, בבי''ס ריאלי בקישינוב ובביה"ס הגבוה למסחר בקיוב.
+
+ ב-1918 נשא לאשה את<persName> מרים </persName> בת<persName> אהרן ואקסמאן.</persName>
+
+ הצטרף למפלגת פועלי ציון ונבחר לועד המרכזי שלה לרוסיה ולאוקראינה. בשנות המהפכה הרוסית שבמוצאי מלחמת-העולם א' היה פעיל בעסקנות צבורית נרחבת כחבר האספה המכוננת והמועצה הלאומית של יהודי
+
+
+ אוקראינה, חבר מועצת הקהלה היהודית בקיוב ומרצה באוניברסיטה עממית יהודית בקיוב על נושאים מדיניים וכלכליים.
+
+ ב-1920 יצא מתוך המהפכה הרוסית לאירופה השקטה. המשיך בפעילות פובליציסטית, ספרותית ומדעית וכן בפעילות ציונית-סוציאליסטית במפלגת פועלי ציון. שנים אחדות היה פרופסור למדיניות כלכלית בפוליטכניון האוקראיני אשר בפודיבראדי שבצכוסלובקיה. בו בזמן ניהל בפראג את המשרד לתעמולה ציונית בצ'כוסלובקיה, ובשנות 1934/38 היה יו"ר הליגה למען א'י העובדת בצ'כוסלובקיה.
+
+ בשנות פעולתו באירופה פרסם מאמרים ומחקרים על נושאים כלכליים ומדיניים שונים, ועל נושאים יהודיים פרסם את החברות והספרים דלהלן ; <persName>בגולה האוקראינית</persName> <persName>ב-1917/19</persName> (באידית, גרמנית ואוקראינית - וינה, 1920), <persName>המשק היהודי הגלותי</persName> (בגרמנית - פראג 1938, בהונגרית - טימישוארה 1939). <persName>הפותר הקומוניזם את שאלת היהו</persName> <persName>דים?</persName> (בגרמנית - פראג-וינה 1937), <persName>ארץ-ישראל העו</persName> <persName>בדת,</persName> סקירה אידיאולוגית (בגרמנית - פראג 1935), <persName>פועלי</persName> <persName>ציון,</persName> סקירה אידיאולוגית (בגרמנית - פראג 1936).
+
+ עלה ארצה ב-1939, השתקע בירושלים, יסד את המכון להשכלה ציונית ומנהלו עד היום.
+
+ פרסם ומפרסם בארץ מאמרים ומחקרים בעתונים יומיים שבועונים וירחונים על נושאים פוליטיים וכלכליים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2123 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2123</bibl><bibl>Volume: #5 ,Page: 2124 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2124</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

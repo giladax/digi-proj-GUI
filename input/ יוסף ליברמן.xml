@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 684 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/684</bibl><bibl>Volume: #2 ,Page: 685 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/685</bibl>
+<bibl>Volume: #2 ,Page: 686 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/686</bibl>
+<bibl>Volume: #2 ,Page: 687 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/687</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> יוסף ליברמן</persName>
+
+</head>
+         <div><p> נולד ביפו, י' תשרי (יום כפור) תרנ"ח (1897), לאביו <persName>זוסיא</persName> .
+
+ למד בתלמוד-תורה "שערי תורה" ואח"כ בגימנסיה. "הרצליה" ביפו ובתל-אביב.
+
+ בשנה הראשונה של מלחמת-העולם הראשונה עבד כמורה עברי בבית-הספר בדמשק והיה מחלוצי החינוך העברי בבירת סוריה. אחרי שנת הוראה אחת חזר לתלאביב והתמסר לפעולות הצעירים להקלת המצוקה בין התושבים היהודים. בעת הגירוש הכללי של יהודי יפו ותל-אביב באביב תרע"ז טולטל למושבות השומרון ועבד בפלוגות-עבודה למען הצבא כדי להנצל מן הגיוס. התלאות והנדודים בתנאי הזמנים הקשים ההם חתרו תחת בריאותו, אך הוא לא הרגיש בכך והיה אותו צעיר מתלהב ומתמסר לכל פעילות לטובת הצבור, כמו מקודם.
+
+
+ אחרי המלחמה חזר לירושלים ונתקבל כמורה בביתהספר לבנות א' (ביה"ס למל), אך בגלל מחלת-גרון שנתגלתה בו הוכרח לעזוב את ההוראה ונתקבל לעבודה כפקיד בהנהלה הציונית. (גם אחיו הצעיר, בנימין, נתקבל לשרות לאומי, כגזבר קרן היסוד בירושלים).
+
+ היה פעיל במכבי והקדיש מרץ רב לחינוכו של הדור הצעיר לעמידה איתנה על קיומנו בארץ. עם חידוש פעולת המכבי אחרי מלחמת-העולם הראשונה היה בין ראשוני המעמלים במכבי וממאמני המתנדבים ל"הגנה". כשבאו הידיעות על הסכנות הנשקפות למושבות הצפון בסוף חורף תרע"ט בגלל מהומות מצד הערבים באזור השלטון הצרפתי בגליל העליון ונשמעה הקריאה לשלוח אנשי תגבורת לעבודה ולהגנה, היה הוא בין הראשונים שהציעו את עצמם לשרות זה. בעת פרעות תר"פ בירושלים היה ממפקדי ההגנה, ואף כשהוכרז על החובה הלאומית להתנדב לשרות במשטרה היה בין ראשוני המתנדבים.
+
+ נשא לאשה את <persName>רחל </persName> בת האכר ירחמיאל<persName> אלפרין</persName> מזכרון יעקב.
+
+ התלהבותו לכל מילוי חובה לאומית היתה חזקה מכוחו הגופני. בגיל צעיר תקפה אותו מחלה אנושה והכריעתו והוא נפטר בירושלים, כ' חשון תרפ"ג.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 684 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/684</bibl><bibl>Volume: #2 ,Page: 685 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/685</bibl>
+<bibl>Volume: #2 ,Page: 686 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/686</bibl>
+<bibl>Volume: #2 ,Page: 687 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/687</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

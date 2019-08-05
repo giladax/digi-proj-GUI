@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4331 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4331</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חנוך רוסא</persName>
+
+</head>
+         <div><p> נולד בכ' טבת, תרפ"ט (2.1.1929) בחדרה.
+
+ לאביו <persName>עזריאל רוסא</persName> ולאמו <persName>אהובה.</persName> טיפל בחיבה בבעלי-חיים ובצמחים. חבריו חיבבוהו
+
+ בשל מזגו הטוב ונכונותו הטבעית לעזור ולהיטיב, לשמח ולעודד. נתברך ב"ידי זהב" וכל אשר עשה, ובכל מקצוע שהוא יפה עשה. ידע לנגן על כמד. כלים מוסיקליים והצטיין בנגינת מנגינות שקלטן במהרה.
+
+ אחרי שגמר את בית-הספר, עבד במסגרות ובחשמלאות ונוסף על כך פעל בסתר למען שחרור המולדת במסגרת המחתרת של "לוחמי חירות ישראל" (לח"י).
+
+ בחורף תש"ח (1948) עבר להילחם בגלוי בצה"ל בחטיבת "גולני", והשתתף בפעולות שחרור הגליל, בקרבות "משמר העמק", "עמק בית-שאן" ו"הר הכרמל", ולאחרונה בטיהור הדרך לחיפה בין "איגזים" ו"עיך ע'זאל" בהמטירו אש על האויב במכונת יריה שפנדאו. נפגע מכדור האויב ביום י"ח תמוז, תש"ח (25.7.1948). למחרת היום נקבר בחדרה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4331 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4331</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

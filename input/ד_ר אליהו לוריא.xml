@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3801 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3801</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אליהו לוריא</persName>
+
+</head>
+         <div><p> נולד לנינגרד (רוסיה), בשנת תרע"ג (24.3.1913).
+
+ לאביו <persName>דוד לוריא</persName> ולאמו <persName>סוניה</persName> בת<persName> מנחם טרובוש</persName> .
+
+ קיבל חינוך מסורתי, בוגר הגמנסיה העברית "הרצליה" בת"א, באוניברסיטה ליאון. השתלם בביה"ס למחלות טרופיות בלונדון, וקיבל תואר מ. ד. עלה לארץ בשנת 1928.
+
+ משנת 1939 רופא ואח"כ מנהל מחלקה פנימית של בית החולים העירוני "הדסה" בתל-אביב.
+
+ בשנת 1938 נשא לאשה את<persName> תהלה</persName> בת<persName> מנחם גילוץ</persName> ובזיווג שני נשא לאשה בשנת 1949 את<persName> אסתר</persName> בת <persName>שמואל ביברינג.</persName>
+
+ חבר פעיל באיגוד לרפואה הפנימית.
+
+ כל השנים היה פעיל בהגנה.
+
+ כתב מאמרים רבים בכתבי-עת רפואיים בארץ ומחוצה לה.
+
+ צאצאיו: <persName>תלמה</persName> (מאשתו הראשונה).
+
+<persName>נילי, רזיאל, אורנה-סוניה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3801 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3801</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

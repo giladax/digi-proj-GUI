@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 322 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/322</bibl><bibl>Volume: #1 ,Page: 323 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/323</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל משה שפקטורוב (שמ"ש)</persName>
+
+</head>
+         <div><p> נולד בפולטאבה, אוקראינה, בשנת תרל"ח (1878), לאביו<persName> שבתי יוסף</persName> , חוכר יערות ואחוזות, ולאמו פיגה לאח לבית <persName>ספרונוביץ</persName> . קיבל חינוך תורני בחדרים ובישיבות, כרצון אביו לגדלו לרב בישראל, ובהיותו בחור צעיר כבר ידע לפסוק בשאלות הלכה. בן 17 נמשך להשכלה, השתלם באופן פרטי בשפה וספרות רוסית ובמתימטיקה ביקאטרינוסלאב וקיבל משרה אחראית בבית-מסחר גדול כמנהל-חשבונות ראשי ומורשה לחתימה.
+
+ נשא לאשה את<persName> לינה</persName> בת<persName> אהרן קפלוניק</persName> , בעל בית מסחר וחרושת לכלי זכוכית בחארקוב.
+
+ בתרס"ה עזב את מעמדו הבטוח, בהיותו כבר אב לשלשה בנים, ועלה לבדו ארצה. עבד בפתח-תקוהבעבודות שונות, נפצע בתאונה ושכב חדשים בביתחולים. כשהחלים סירב לחזור לרוסיה, כבקשת אשתו ולדרישתו התקיפה באה היא ארצה עם הבנים. נאבק בקשיים רבים לבסס את קיומו וסירב להענות לבקשות קרוביו לחזור לרוסיה, לחיים נוחים יותר.
+
+
+ כשפרצה מלחמת-העולם הראשונה סירב להצטרף לנתיני רוסיה היוצאים מהארץ באניות האמריקאיות והיה מהראשונים שקיבל את הנתינות הטורקית ואף סירב להשתמט מהשרות בצבא ורק לאחר שנת שרות
+
+ שוחרר בגלל חולשתו. כשפתח השלטון הטורקי ברדיפות מוגברות על הישוב אחרי גילוי המחתרת העברית "נילי", נאסר בכפר-סבא והוגלה לדמשק יחד עם אסירי פתח-תקוה.
+
+ במכתביו לבניו (בחתימת שמ''ש) מעת שרותו בצבא וגלותו חיזק את לבם לאמונה בעתיד שיבת ציון ובגאולה הקרובה לבוא.
+
+ בדמשק חלה והוכנס לבית-חולים צבאי. נפטר ונקבר בדמשק, ג' טבת תרע''ח.
+
+ צאצאיו: עוה"ד <persName>אהרן בן-שמש</persName> , עוה"ד <persName>שבתי</persName> <persName>יוסף </persName> (ז"ל),<persName> מיכאל </persName> (חבר הנהלת "הצינקוגרפיות המאוחדות" בתל-אביב), <persName>עמליה</persName> אשת המהנדס <persName>דוד פפר</persName> (כפר סבא), <persName>יצחק אייזיק, מרדכי</persName> (אדריכל במלבורן, אוסטרליד.)<persName> ושמעון</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 322 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/322</bibl><bibl>Volume: #1 ,Page: 323 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/323</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

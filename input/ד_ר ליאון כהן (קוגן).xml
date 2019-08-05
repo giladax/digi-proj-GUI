@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2883 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2883</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר ליאון כהן (קוגן)</persName>
+
+</head>
+         <div><p> נולד בקישנוב (רוסיה) בשנת תרכ"ג (24.12.1863). לאביו<persName> ליזר קוגן</persName> ולאמו <persName>ריזה.</persName>
+
+ קבל חנוך באוניברסיטה לרפואה בוינה וקיבל תואר: רופא פנימי ומנתח.
+
+ הצטרף לחובבי-ציון בצעירותו כשהיה סטודנט בוינה.
+
+ כשד"ר <persName>תיאודור הרצל</persName> יסד את התנועה הציונית הצטרף אליה בין הראשונים והיה מראשי הנואמים באספות ובועדים ציונים שונים בקישנוב, איפה ששימש כרופא.
+
+ בשנת 1905 היה ציר לקונגרס הציוני בבזל. נשא לאשה את<persName> אוגינה</persName> בת <persName>גריגורי קוגן.</persName>
+
+ בשנת 1906, לאחר הפרוגרומים בקישנוב, עלה לארץ.
+
+ בבואו לארץ נתמנה לרופא הגמנסיה "הרצליה" שנוסדה נ-1905 ביפו. וכן נתמנה לרופא בבית החולים
+
+ היהודי בנוה שלום - ביפו, וכן שימש כרופא לכמה מושבות ביהודה.
+
+ בשנת בואו לארץ (1906) יסד את המכבי ביפו יחד עם <persName>יחזקאל חנקין</persName> (אח"כ מחברי "השומר") ועוד. עשה רבות לשאלת הבריאות של הנוער בארץ.
+
+ הקים קלינקה ביפו ורפא חולים יהודים וערבים. אצל עניים לא קבל כסף.
+
+ עבד קשה וחלה נסע לשוויצריה לרפוי. נפטר בוויסנבורגבד (שוויצריה), א' אלול תרס"ח (28.8.1908).
+
+ בנו: <persName>ג'הן (יונה) קוגן</persName> (בלונדון).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2883 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2883</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

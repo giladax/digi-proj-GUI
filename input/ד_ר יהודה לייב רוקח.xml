@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2244 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2244</bibl><bibl>Volume: #5 ,Page: 2245 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2245</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יהודה לייב רוקח</persName>
+
+</head>
+         <div><p> נולד בכ"ד שבט תר"ן (1890) בברדיצ'ב שבאוקראינה לאביו <persName>בנימין </persName> (מצאצאי רבי <persName>עקיבא אייגר</persName> ) ולאמו<persName> לאה</persName>
+
+ בת <persName>יצחק קובילאנסקי</persName> . אחרי לימודי יהדות ולימודים כלליים בברדיצ'ב עבר בחינת בגרות בפטרסבורג, למד רפואה באוניברסיטת ברלין והשתתף שם ביסוד "החבר",
+
+
+ הסתדרות הסטודנטים הציוניים מרוסיה בארצות מערב אירופה. הוסמך לד"ר לרפואה ואחרי שעבר בחינה ממשלתית במוסקבה הורשה לעסוק במקצועו ברוסיה.
+
+ ב-1918 נשא לאשה את<persName> סימה</persName> בת <persName>שלום ברודסקי.</persName>
+
+ בשנות מלחמת העולם א' היה פעיל בעזרה לפליטים היהודים ובעבודה ציונית ונבחר לסגן יו"ר הועד הציוני באודיסה. בתקופת התוהו-ובוהו מאז פרוץ המהפכה ברוסיה התמיד בקו הציוני בגלוי, השתתף בארגון העליה באניה "רוסלאן" ועלה בה ארצה ב-1920.
+
+ השתקע בירושלים ועסק ברפואה (בשנים האחרונות גם כרופא ראשי של חברות הביטוח "יהודה" ו"ציון") ובפעילות צבורית כללית ורפואית. היה יו"ר הסתדרות הרופאים בירושלים למעלה מ-17 שנה, יו"ר הליגה הארצית למלחמה בשחפת למעלה מ-15 שנה, יו''ר הועד הירושלמי לקרן הקימת לישראל, עורך מדור הרפואה באנציקלופדיה העברית, חבר מערכת הירחון "הרפואה" וכתב בו ובעתונות היומית, היה פעיל בציונות הכללית ובשנים האחרונות במפלגה הפרוגרסיבית והיה יו"ר מועצת סניפה הירושלמי.
+
+ נפטר בירושלים, ט"ז בטבת תשי"א (25.12.50).
+
+ בניו: <persName>עמנואל</persName> (עו"ד בצבא ישראל, שרת בצבא הבריטי במלחמת העולם ב'),<persName> אבשלום.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2244 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2244</bibl><bibl>Volume: #5 ,Page: 2245 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2245</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

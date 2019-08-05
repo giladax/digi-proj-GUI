@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3514 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3514</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק אוקראינץ</persName>
+
+</head>
+         <div><p> נולד בשנת תרנ"ו (יוני 1896) בדרוהיצ'ין בפלך גרודנה שברוסיה.
+
+ לאביו<persName> שלמה </persName> ולאמו <persName>גישה </persName> בת ר'<persName> שמעון גראטש.</persName> קיבל חינוך מסורתי-לאומי וגמר בית-ספר עירוני
+
+ ממשלתי. היה חבר ארגון "צעירי ציון" וההגנה העצמית היהודית. 
+
+ עלה לארץ בשנת 1912. למד בבית-המדרש למורים בירושלים. אח"כ למד
+
+ עד הגמר בבית-הספר החקלאי התיכון בפתח תקוה והמשיך לעבוד כמומחה לחקלאות (בתפקידי אגרונומיה). ניהל את החוה של "אגודת נטעים" בסג'רה וב-1918 הועבר לנהל את מטעי האגודה בחפצי-בה שליד חדרה.
+
+ ב-1918 נשא לאשה את <persName>דבשה</persName> בת ר'<persName> גדליהו שושני</persName> (אחותו של <persName>סעדיה שושני </persName> - נפטרה בחדרה, כ"א אייר תשי"ז - 22.5.1957).
+
+ פעל כל השנים בחקלאות ובמטעים, מראשוני ההגנה ועסקני הצבור בחדרה, היה חבר ועד המושבה עד שנת 1932 .בשנים האחרונות מנהל מחלקת הגביה של העיריה.
+
+ צאצאיו:<persName> נח</persName> (בוגר בית-הספר התיכון החקלאי פרדס חנה. שירת בבריגדה ובצה"ל), <persName>צפרירה</persName> אשת <persName>אהרן עזריה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3514 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3514</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

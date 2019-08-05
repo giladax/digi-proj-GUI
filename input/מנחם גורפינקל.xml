@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4262 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4262</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם גורפינקל</persName>
+
+</head>
+         <div><p> נולד ב<placeName>מינסק</placeName> (רוסיה) בשנת תר"ס (5.2.1900). לאביו <persName>יונה בנימין גורפינקל </persName> ולאמו<persName> הניה</persName> בת <persName>הירש</persName> <persName>ציבין.</persName>
+
+ למד בחדר מתוקן ובבית-ספר יהודי ממשלתי. בשנות מלחמת העולם הראשונה היה לחבר אגודת
+
+ "הפועל החלוץ", שנוסדה ב<placeName>מינסק</placeName> והצטרפה למפלגת רדיקל-פועלי-ציון.
+
+ יצא להכשרה בחוות קוראסובצ'ינה ע"י מינסק ולאחר מכן יצא עם קבוצת חברים לדרום-רוסיה במטרה להגיע לארץ-ישראל.
+
+ לאחר תלאות וטלטולים במשך שנתיים הבריח את הגבול הרומני ויצא לארץ-ישראל מקישנוב בקבוצת החלוץ השביעית, שהגיעה לחיפה בספטמבר 1921.
+
+ היה פועל-בניין בתל-אביב.
+
+ ב-1926 נשא לאשה את<persName> מנוחה</persName> בת <persName>שמואל ואיטה</persName> <persName>כץ</persName> (מאנשי העלייה השנייה).
+
+ עסק במסחר בחמרי-בניין, והיה ראשון שהקים משרפת-סיד במגדל-צדק בשותפות עם <persName>אשר ברלוי</persName> . בשנות המאורעות תרצ"ו-תרצ"ט השתתף בהגנת מחצבות מגדלצדק.
+
+ חבר ה"הגנה" מאז בואו לארץ. השתתף בהגנת תלאביב באב תרפ"ט.
+
+ היה קצין ב"משמר האזרחי" באזור "תחכמוני" בתלאביב ובתקופת מלחמת הקוממיות - אפסנאי של גוש דן.
+
+ חבר סניף "בני-ציון" ברמת-גן, חבר מועצת "מעון הילד'" (בית-יתומים ע"ש <persName>איסר בלובשטיין</persName> ), מושב הזקנים בבני ברק ו"ביקור חולים" ברמת-גן.
+
+ צאצאיו: <persName>יהודית </persName> אשת <persName>אליהו סלוצקי, שולמית</persName> אשת <persName>חנן פרגר, רות </persName> אשת <persName>עמנואל ריקלין, איתן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4262 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4262</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

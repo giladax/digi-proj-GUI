@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 327 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/327</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> מאיר פראנק</persName>
+
+</head>
+         <div><p> נולד ביפו, בשנת תרל"ה (1875), לאביו <persName>אריה</persName> <persName>ליב יוחנן </persName> (שהיה השומר הראשון במקוה ישראל, נפטר ביפו, כ' חשון תרנ"ט) ולאמו<persName> שרה</persName> , שעלו ארצה בשנת תרכ"א.
+
+ קיבל חינוך מסורתי ואח"כ למד מלאכת מסגרות ועבודות ברזל אצל <persName>שמואל שטיינגרד</persName> .
+
+ נשא לאשה את<persName> חוה </persName> בת <persName>צבי קניגסברג</persName> מירושלים (נפטרה בתל-אביב, י' טבת תש"א).
+
+ היה מראשוני המתישבים בשכונת נוה צדק. השתתף במלאכת כפיו בעבודות הברזל בבניני השכונות העבריות של יפו ובמושבות. חינך פועלים רבים במקצוע המסגרות.
+
+ במלחמת-העולם הראשונה גויס לצבא הטורקי ונשלח לעבוד במקצועו לצרכי הצבא בעיר אדאליה שבאנטוליה, ואחרי תום המלחמה חזר ארצה והמשיך לעבוד במקצועו. היה מתפרנס כל ימיו מיגיע כפיו.
+
+ נפטר בתל-אביב, י"ט אדר תש"ה. 
+
+ צאצאיו:<persName> צבי</persName> (סוחר ידוע בתל-אביב), <persName>ישראל</persName> (ז"ל), <persName>יהושע </persName> (ז"ל)<persName>, אריה, אברהם </persName> (ז"ל), <persName>מינה</persName> אשת<persName> הרצל</persName> <persName>לוצקי</persName> (פתח-תקוה),<persName> דניאל, אסתר</persName> אשת<persName> סימון פרנק</persName>
+
+ (אוסטרליה),<persName> רחל</persName> אשת <persName>משה רייכנודל וישראל</persName> (ע"ש האח השני שנפטר).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 327 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/327</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

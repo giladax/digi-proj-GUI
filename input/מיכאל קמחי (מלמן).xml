@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4442 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4442</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מיכאל קמחי (מלמן)</persName>
+
+</head>
+         <div><p> נולד בבלטה, פלך קמיניץ פודולסק, כ"ח תשרי תרל"ג (סוף 1872).
+
+ לאביו <persName>יהושע עשיל מלמן </persName> ולאמו<persName> בלהה.</persName>
+
+ קיבל חנוך מסורתי.
+
+ מפעילי חובבי ציון בעירו.
+
+ היה לבעל חנות מכלת בעירו.
+
+ בשנת 1905 עלה לארץ בעליה השניה.
+
+ המשיך בנוה שלום, ברחוב זרח ברנט בהנהלת חנות מכלת.
+
+ היה מראשוני בוני רחוב נחלת בנימין בתל-אביב ואח"כ בצפון ת"א.
+
+ צאצאיו: <persName>אריה קמחי</persName> (אגרונום. אכר בכפר גדעון). <persName>בלהה</persName> אשת <persName>חיים בלומין, שושנה</persName> (גננת) אשת <persName>משה</persName> <persName>כפכפי, צבי יהלום, יפה </persName> (חברי קיבוץ חולתא).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4442 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4442</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

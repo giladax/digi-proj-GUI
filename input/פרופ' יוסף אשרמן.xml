@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3817 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3817</bibl><bibl>Volume: #11 ,Page: 3818 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3818</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' יוסף אשרמן</persName>
+
+</head>
+         <div><p> נולד ברוסוביצה (צכוסלובקיה) בשנת תרמ"ט (1889).
+
+ לאביו <persName>אברהם אשרמן</persName> ולאמו<persName> נינה </persName> בת <persName>יוסף ליאון.</persName>
+
+ בוגר האוניברסיטה פרג. .M.D.
+
+ שירת כקצין רפואי במלחמת העולם הראשונה בצבא צכוסלובקיה.
+
+ היה חבר ארגון "בר-כוכבא" בפרג.
+
+ בשנת 1920 עלה לארץ.
+
+ בשנת 1921 נשא לאשה את<persName> מלכה</persName> בת <persName>משה שמואל</persName> וילנר (ראה בכרך זה).
+
+ היה רופא בעמק יזרעאל, ביבנאל ובגליל.
+
+ מנהל שרותי המילדות והגיניקולוגיה של עירית תל-אביב.
+
+ נשיא בוגרי "בר-כוכבא" בפרג - בארץ.
+
+ נשיא הסתדרות רופאי נשים בישראל.
+
+ חבר החברה האמריקאית לחקר העקרות, חבר החברות הגינקולוגיות הצרפתית והברזילאית, חבר הקולוגיום הבינלאומי של רופאים מנתחים, סגן נשיא חברות הפריה הבינלאומית.
+
+ היה ציר בקונגרסים מדעיים: בניו-יורק, מרסיל (צרפת), אמסטרדם ונפולי.
+
+ חתן פרס כבוד על שם הנריטה סולד 1961.
+
+ כתב וכותב מאמרים רפואיים בעתונות וככתב עת רפואים שונים ; בארץ, באנגליה, ואמריקה, צרפת ואיטליה.
+
+ מפורסם בעולם הרפואה.
+
+ פרופסור אורח באוניברסיטה העברית בירושלים.
+
+ בתו: <persName>נינה</persName> אשת<persName> יחיאל די-נור.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3817 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3817</bibl><bibl>Volume: #11 ,Page: 3818 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3818</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

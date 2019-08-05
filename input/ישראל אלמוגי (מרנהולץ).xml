@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3968 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3968</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל אלמוגי (מרנהולץ)</persName>
+
+</head>
+         <div><p> נולד ו' סיון תר"ע (1910) בווארשה, פולין.
+
+ לאביו ר'<persName> משה אלמוגי</persName> <persName> (מרנהולץ) </persName> (שו''ב, נכד ר' <persName>יצחק פיטסיצר</persName> , מחבר ספר "תורת יצחק" ועוד) ולאמו <persName>איטה </persName> בת <persName>יעקב רייזנר</persName> .
+
+ אחרי התחלת לימודים בישיבות בפולין עלה לארץ עם המשפחה ב-1925. סיים בית המדרש למורים מזרחי בירושלים וביהמ"ד לרבנים בפירנצי שבאיטליה, שם למד גם באוניברסיטה ואח"כ בקורסים אוניברסיטאים בארץ.
+
+ בשנת תרצ"ו (1936) נשא לאשה את<persName> חנה רחל</persName> בת ר' <persName>נחמן זאב אורבאך</persName> (מצאצאי ר'<persName> חיים</persName> מצאנז, אבי שושלת האדמו"רים לבית<persName> האלברשטאם</persName> ). שימש זמן-מה בתור מזכיר המזרחי בתל-אביב. הש
+
+ תתף ביסוד הנוער המזרחי בארץ. שימש בהוראה והיה מנהל בית-הספר הדתי בבית-ליד, מנהל בית-הספר הממלכתי-דתי "המאירי" בלוד, ובאותו זמן חבר המועצה הארצית של הסתדרות המורים, אח"כ מפקח על בתיהספר הממלכתיים-דתיים במחוז הצפון. בשנים 19531956 פעל כנציג המחלקה לחינוך ולתרבות תורניים של
+
+ הסוכנות היהודית ומנהל מערכת החינוך העברית במדינת טוניסיה. כעת הוא מנהל בית-הספר "בילו" בתל-אביב וחבר הועד הארצי של ארגון המנהלים בהסתדרות המורים בישראל.
+
+ היה חבר פעיל בהגנה.
+
+ כתב בעתונים "דואר היום", "הצופה", "הד החינוך''.
+
+ בניו :<persName> דוד צבי, אורי</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3968 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3968</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

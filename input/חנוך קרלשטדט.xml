@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3816 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3816</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חנוך קרלשטדט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וורשה</placeName> (פילין) י"ג כסלו תרמ"ב (דצמבר 1881).
+
+ לאביו <persName>נחום מנחם מנדל קרלשטדט </persName> ולאמו <persName>דבורה</persName> <persName>דינה</persName> בת<persName> יהודה לייב צייכנשטיין.</persName>
+
+ קיבל חינוך מסורתי.
+
+ היה יצרן מוצרי עור עדינים.
+
+ בשנת 1902 נשא לאשה את <persName>זלדה מאטלה</persName> בת <persName>יוסף</persName> <persName>יצחק הכהן מוריס</persName> (נפטרה באופנבך ע"נ מיין, כ"א שבט תרע"ז (13.2.1917), ובזיווג שני נשא בשנת 1928 לאשה את <persName>טוזי</persName> בת<persName> שלמה שטיינלאוף.</persName>
+
+ בשנת 1924 עלה לארץ.
+
+ היצרן הראשון בארץ לדברי תוצרת עור עדינה, בעל חנות למוצרי עור וארנקים "אמת".
+
+ יו"ר אגודת "סומעור" (סוחרי מוצרי עור).
+
+ חבר בהנהלת בית מנוחה לזקנים בני ברק וגבאי ראשי של בית הכנסת הנ"ל.
+
+ גבאי בבית הכנסת הגדול בתל-אביב.
+
+ צאצאיו:<persName> יצחק אריה, יוסף צבי, בתיה </persName> אשת<persName> יעקב</persName> <persName>קולני, גרשון דוד, יעקב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3816 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3816</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

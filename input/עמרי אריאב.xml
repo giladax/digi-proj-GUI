@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3390 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3390</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עמרי אריאב</persName>
+
+</head>
+         <div><p> נולד בראש-השנה תרפ"ח (28.9.1927) בעין חרוד. לאביו<persName> דב </persName> (ראה ערכו בכרך זה, בעמוד 3385) ולאמו <persName>ברוריה</persName> בת <persName>אברהם משה יינילוב.</persName>
+
+ למד בבית-הספר המשותף לעין-חרוד ותל-יוסף. הצטיין מילדותו במזג טוב והיה חביב על חבריו ומוריו, אך עצמאי במחשבותיו ובהליכותיו. עוד בשנות לימודיו הצטיין כרועה בן רועים בעבודה עם הצאן במרעה ובדיר.
+
+ כשגמר את בית-הספר ב-1945 בגיל 17 התגייס לבריגדה בניגוד להחלטת האספה כללית של הקיבוץ, אבל בהסכמת הוריו. בצבא נשתבח כחייל טוב וכחבר מסור, הצטיין בעזרה לזולת (גם מקודם בעבודה ובטיולי בית-הספר באזורי הרים ושממה) והשתתף במלא יכלתו בעזרה לשארית הפליטה באיטליה ובעניני עליה ב' (שניהל אביו באותה תקופה בשליחותו באיטליה), וב-1946 חזר לעבודתו בדיר ובעדר הצאן של המשק.
+
+ ב-1948 התגייס לחיל האויר הישראלי, גמר את הקורס הראשון לטייסים, הוסמך לטייס קרבי ונמנה עם הטייסים המעולים.
+
+ בראשית 1953 נשא לאשה את<persName> ציונה</persName> וחזר לחיים אזרחיים, ולרגל הפילוג בעין חרוד עבר הזוג לקיבוץ כברי. אח"כ נכנס לעבודה בחברת "כימאויר" כטייס בריסוס שדות ופרדסים.
+
+ משהגיעו מטוסי הסילון לחיל האויר הישראלי חזר לשרת בו והחל מתאמן בהם בהצלחה, אך אחרי כחדשיים 
+
+ נפל בעת אימונים ליד כפר יהושע, י"ט אב תשי"ד (18.8.1954), והובא לקבורה בעין-חרוד.
+
+ בנו : <persName>ירום.</persName>
+
+ הקיבוץ הוציא חוברת לזכרו (עין חרוד, תשט''ו).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3390 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3390</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

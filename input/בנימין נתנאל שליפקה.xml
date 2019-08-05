@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4335 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4335</bibl><bibl>Volume: #13 ,Page: 4336 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4336</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנימין נתנאל שליפקה</persName>
+
+</head>
+         <div><p> נולד ב<placeName>שדלץ</placeName> (פולין), י"ב ניסן, תרס"ו (7.4.1906).
+
+ לאביו <persName>אברהם שליפקה </persName> (בעל טחנות קמח) ולאמו<persName> אסתר</persName> בת<persName> בנימין קרבציק </persName> (בעל אחוזות).
+
+ קיבל חינוך מסורתי בחדר ובישיבות בפולניה.
+
+ היה פעיל ב"הפועל המזרחי" בעירו.
+
+ לפי בקשת "הפועל המזרחי" יסד קיבוץ להכשרת חברים בחקלאות בקוסוב-לצקי, הכנה לעלייתם לארץ.
+
+ בפברואר 1933 עלה לארץ.
+
+ עבד כפועל בפרדסי נס-ציונה ואח"כ כפועל בבניינים בתל-אביב.
+
+
+ נשא לאשה את <persName>ברוניה</persName> בת<persName> דוד ברג</persName> (קבלן צבאי, ממשפחה מיוחסת ואמידה ב<placeName>שדלץ</placeName>), היתה חברה בקיבוץ "גן-שמואל" ע"י חדרה.
+
+ בשנת 1936 התגייס לפי צו המוסדות הלאומיים למשטרה המיוחדת. ושירת בה עד פרוץ מלחמת העולם השניה (1939).
+
+ לרגל התקפת לב, נאלץ לחזור לעיר ולעסוק כבאכוח חברת "של" במכירת דלק, ובעסק זה הוא ממשיך בחברת "פז" (שרכשה את חברת "של").
+
+ כתלמיד ישיבה הוא ממשיך גם כיום בשמיעת שיעורים הניתנים ע"י רבנים בבתי הכנסת.
+
+ בנו:<persName> אברהם</persName> (תלמיד).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4335 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4335</bibl><bibl>Volume: #13 ,Page: 4336 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4336</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

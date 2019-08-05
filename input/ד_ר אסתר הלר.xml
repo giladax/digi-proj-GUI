@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3094 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3094</bibl><bibl>Volume: #8 ,Page: 3095 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3095</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אסתר הלר</persName>
+
+</head>
+         <div><p> נולדה בשנת תרנ"ה (1895) במונאסטרז'יסקה שליד בוצ'אץ במזרח גליציה.
+
+ לאביה<persName> יצחק צבי אנדרמן</persName> ולאמה<persName> גיטל</persName> לבית<persName> דראטלר</persName> (ונכדת הרב<persName> צינדר</persName> ממונאסטרז'יסקה).
+
+
+ היתה מהתלמידות הראשונות בבית-הספר העברי "שפה ברורה" בעירה והמשתתפות בחוג הדרמטי שלידו. למדה בגימנסיה בבוצ'אץ' והיתה יו''ר באגודה ציונית לנערות "התקוה'' ואח"כ פעילה בתנועת נוער ציוני "צעירי ציון" בגליציה.
+
+ למדה באוניברסיטת וינה וב-1918 הוסמכה לד''ר לרפואה. הוסיפה להתמחות במוסדות לרפואה צבורית ובקורסים אוניברסיטאים בוינה, לבוב וציריך במקצוע רופא למחלות ילדים ותינוקות.
+
+ ב-1918 נישאה לד"ר<persName> צבי הלר </persName> (ראה כרך ו', עמוד 2687).
+
+ הוסיפה לעבוד ברפואה צבורית כמומחה למחלות ילדים ותינוקות בבתי-חולים ממשלתיים ובקופות-חולים רשמיות באוסטריה, צ'כיה ופולין. נתנה עזרה רפואית כללית בהתנדבות לתנועות נוער ציוניות, להחלוץ, להשומר הצעיר וכו'.
+
+ בראשונה השתתפה כאורחת בקונגרס הציוני ה-11 ב-1913 בוינה, ביחד עם נציג עירה אז ובעלה לעתיד ד''ר <persName>צבי הלר.</persName>
+
+ אחרי מלחמת העולם היתה פעילה במפלגת-העבודה הציונית "התאחדות", שהיתה קשורה עם מפלגת "הפועל הצעיר" בארץ. השתתפה עם בעלה ברוב הקונגרסים הציוניים בצ'כוסלובקיה, שוייץ ואוסטריה, וב-1925 נסעה עם בעלה ישר מהקונגרס הציוני שבוינה לביקור בארץ כאורחת "הפועל הצעיר".
+
+ ב-1935 עלתה לארץ עם בעלה, ומאז היא עובדת בתור רופאה בקופת חולים של הסתדרות העובדים, פעילה בהסתדרות ובמפא"י, חברה במועצת פועלי תלאביב ובמועצת מפא"י בתל-אביב, צירה בועידת הפועלות בישראל, חברה במוסדות ההנהלה של איגוד הרופאים חברי ההסתדרות, יוצאת מטעם האיגוד להרצאות מדיציניות לעם ולהסברה וחינוך לשמירת הבריאות במושבות ובמעברות. חברה בועד ארגון הרופאות, במועצת ההסתדרות הרפואית בישראל ובועד הארגון של רופאי ילדים בתל-אביב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3094 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3094</bibl><bibl>Volume: #8 ,Page: 3095 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3095</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

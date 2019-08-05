@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5339 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5339</bibl><bibl>Volume: #18 ,Page: 5340 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5340</bibl>
+<bibl>Volume: #18 ,Page: 5341 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5341</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד שילה (שולקוביץ)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סלונים</placeName> (פולין) בסיוון תרס"ג (יוני 1903). לאביו <persName>אברהם שולקוביץ</persName> ולאמו <persName>שיינה לאה</persName> לבית <persName>רזבילובסקי.</persName>
+
+ קיבל חינוך מסורתי וכללי. בעיקר התעניין באומנות התיאטרון.
+
+ בשנת 1923 עלה לארץ.
+
+ בשנת 1925 נשא לאשה את <persName>חנה </persName> בת <persName>משה וחיה</persName> <persName>שבחדרובסקי </persName> מהעיירה פינסק (פולין).
+
+ זמן מה שיחק בתיאטרון ה"במה" בחיפה ולאחר מכן, בשנת 1925 כש<persName>משה הלוי</persName> (ראה כרך שני, עמודים 953-54) עלה לארץ, יסד באותה שנה את ה"אהל" מטעם ועדת התרבות של הסתדרות העובדים הכללית. בין 200 מועמדים נבחר<persName> דוד</persName> לחבר ה"אהל" ושיחק בהצגה הראשונה "נשפי י. ל. פרץ" ואחרי כן
+
+
+ את המחזה "הדייגים" להייארמנס (בתרגום א. שלונסקי).
+
+ היות ומטרתו בעלייתו לארץ היתה להיות פועל ממש, עזב את ה"אהל" ועבד ביבוש ביצות צ'רקס בחדרה. זמן מה היה שומר בבאר טוביה (קסטינה), עבד כפועל בכבישים ואח"כ עבד אצל הקבלן אריה שפק בחשמל.
+
+ משנת 1926 עד יציאתו לגמלאות בשנת 1959 עבד בחברת החשמל לישראל, בתפקיד של סגן מנהל מחלקת הגבייה, מחוז הדרום.
+
+ כל השנים היה חבר פעיל בהגנה.
+
+ בניו: <persName>אברהם שילה</persName> (רעיתו: <persName>מרים</persName> בת<persName> דוד חיט,</persName> בנם : <persName>אסף); משה שילה</persName> (רעיתו <persName>אילנה</persName> בת <persName>יהודה</persName> הירש, בניהם : <persName>ניר, גיל)</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5339 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5339</bibl><bibl>Volume: #18 ,Page: 5340 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5340</bibl>
+<bibl>Volume: #18 ,Page: 5341 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5341</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

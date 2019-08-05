@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3070 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3070</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר לוין-אפשטיין</persName>
+
+</head>
+         <div><p> נולד בחדש חשון תרנ''ט (21.11.1898) בווארשה שבפולין.
+
+ לאביו <persName>לוי</persName> (ראה ערכו בכרך זה - כנ"ל) ולאמו <persName>רייזל</persName> בת<persName> אליעזר ליכט.</persName>
+
+ אחרי חינוך מסורתי וכללי נכנס לעבודה בניהול בית הדפוס וההוצאה של אביו בווארשה. השתלם באקדמיה הממלכתית לאמנות גרפית ולדפוס בלייפציג שבגרמניה. היה פעיל בתנועה החינוכית של "השומר הצעיר" בפולין.
+
+ ב-1924 עלה לארץ והצטרף כחבר לקיבוץ משמר העמק של השומר הצעיר. חזר לחיים פרטיים וב-1930 יסד בית-דפוס לליטוגרפיה והדפסה על פח בתל-אביב, ולאחר שנים יסד מפעל משוכלל בשם לוין-אפשטיין בע"מ, דפוס פוטו-אופסט על נייר ופח, בבת-ים.
+
+ בתקופות מסוימות שימש בתפקידי חבר הנשיאות של מגבית ההתגייסות, חבר הנשיאות של התאחדות בעלי התעשיה, חבר הועד המנהל של מוזיאון תל-אביב, חבר הועד הפועל העולמי והמקומי של "אורט", חבר הועד המנהל של המכון לפריון העבודה והייצור.
+
+ שירת ב"הגנה" ובצה"ל במלחמת השחרור בדרגת סגן-אלוף.
+
+ ב-1950 נשא לאשה את <persName>אורסולה</persName> בת <persName>אלפרד גלאזר</persName> . פרסם מאמרים בקבצים מקצועיים לעניני דפוס.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בשווייץ, בליל שבת, י"ז שבט תשכ"ח (16.2.68) והובא לקבורה בבית העלמין הישן ברחובות, ביום כ"ב שבט תשכ"ח (21.2.68) (ראה כרך שמיני, עמוד 3070)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3070 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3070</bibl>            <bibl>Volume: #17 ,Page: 5246 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5246</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

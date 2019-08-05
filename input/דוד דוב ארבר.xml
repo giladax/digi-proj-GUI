@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 448 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/448</bibl><bibl>Volume: #1 ,Page: 449 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/449</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד דוב ארבר</persName>
+
+</head>
+         <div><p> בן ר' מנחם מנדיל הלוי, שו"ב דמתא. נולד בפרקופ (קרים) ט' כסלו תרכ"ב (1861). קבל חנוך דתי. היה סוכן וסוחר קמח ואח"כ בעל טחנות קמח ברוסיה. נבחר לנשיא טחנות הקמח במחוז דרום רוסיה והיה גר בפטרבורג, משפחתו היתה גרה באלכסנדרובסק,
+
+ פלך יקטרינוסלב - דרום רוסיה.
+
+ היה חובב ציון מובהק ועשה למען א"י, חובב תורה ומוקיריה וקבע עתים ללמודה.
+
+ בשנת תרס"ז עלה ארצה עם אשתו לאה (בת האכר אברהם זלמן איכילוב מפתח-תקוה) ושמונה ילדים. הביא אתו כמות גדולה של קמח ופתח מחסן ברחוב בוסטרוס ביפו.
+
+ כשהחלו להכין תכניות להקמת השכונה "אחוזת בית" (תל-אביב) החליט לעזוב את המסחר והקים בית חרושת לתעשית לבנים ממלט בעבודה עברית טהורה. אז היו ביפו בעלי המקצוע לבנין על פי רוב ערבים ובנו באבני דבש. ע"י הכנת הלבנים ממלט החלו פועלים עברים להכנס למקצוע הבנין וכך הקל על מאות פועלים לרכוש מקצוע חדש ולהקים את העיר העברית. במרוצת הזמן התפתח הענף ובניו אחריו קיבלו את הסוכנות "ויאניני" לצנורות ביוב והשקאה. במשך הזמן נכנס ביתו שגאל מידי ערבי לתחום נוה-צדק ולבסוף נכלל בתחום תל-אביב. סייע לבנין בית הכנסת הגדול. השתתף עם י. פולני ביסוד הלואה וחסכון.
+
+ היה איש תמים וישר, נשא ונתן באמונה ולאחיו המציא עבודה ותמך בעובדים. בקרבת בית החרושת נבנו בזמנו שכונות תימנים, מהם מעובדי בית החרושת.
+
+ נפטר בתל-אביב, כ"ו ניסן תרפ"ד.
+
+ צאצאיו: <persName>אפרים; מאיר; אברהם; רחל </persName> (ז"ל) אשת פ. פלוטל ; <persName>בת-שבע</persName> אשת מ. טוקוצירוב (קרית חיים); <persName>מנחם </persName> (העסקן הצהר"י):<persName> יהודה; גיסה</persName> אשת שמעון אוסטרוביץ: <persName>אלעזר</persName> .
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 448 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/448</bibl><bibl>Volume: #1 ,Page: 449 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/449</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3640 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3640</bibl><bibl>Volume: #10 ,Page: 3641 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3641</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה סגל</persName>
+
+</head>
+         <div><p> נולד בט"ו אדר תרפ"ח (23.3.28) בקהיר (מצרים). לאחר שנים מועטות חל פרוד בין הוריו, ואמו לקחתה אותו והביאה אותו לארץ-ישראל. קשים היו עליו שנות ילדותו בלי אב, ובבית עוני.
+
+ כשמלאו לו 12 שנה, ברח מבית אמו לקבוץ "תליוסף" שבעמק יזרעאל.
+
+ בעודו נער רך, כבר נתגלתה אצלו נטיה מיוחדת לענינים צבאיים והוא הקדיש את זמנו לאימונים ככל אשר יכל. בהיותו בן 15 התגייס לצבא הבריטי.
+
+ כאשר "הארגון הצבאי הלאומי" פתח במלחמה נגד המשעבד הבריטי, הצטרף אליו. באותו זמן עבד במחצבות "סולל בונה" בחיפה. הואיל ועיסוקו במחצבות היה עם חומר נפץ, הביא לאצ"ל תועלת עצומה. לא היתה פעולה של אצ"ל בחיפה, ותהא נועזת ומסוכנת ביותר, שהוא לא ישתתף בה.
+
+ בטרם הגיעו לגיל 20 עבר ירושלימה.
+
+ בירושלים הטילו עליו פעולות נועזות ומסוכנות ביותר. כשהוטל המצור על ירושלים בין פורצי המחסונים, היה הוא מנהגי השיירות הראשונים. כאשר נשאל כיצד הוא נוסע בדרכים קשות אלו ללא שריון, היה עונה: "בי לא שולטים הכדורים, אני משוריין", היה בין מטילי הפצצות על האויב הערבי בשער שכם ושער יפו.
+
+ רכש בשביל הארגון הצבאי הלאומי את הבסיס ב"עץחיים". הוא סידר אותו והכינו להשכנת חיילי הארגון.
+
+ בקרב הכיבוש של "דיר-יאסין" - אותו קרב שהביא אחר-כך לתוצאות עצומות - בריחת הערבים משטח ישראל. התנגדות האויב היתה שם חזקה. היו רגעים מסוכנים מאוד, אך<persName> יהודה</persName> שעמד בראש הפעולה, זירז את חייליו ועודדם, וגם לאחר שפגע בו צרור כדורים ונפל מתבוסס בדמו, המשיך לעודד את החיילים.
+
+ שבועות מספר התענה במכאוביו ואור ליום ט"ו ניסן תש"ח (25.4.1948) יצאה נשמתו.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3640 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3640</bibl><bibl>Volume: #10 ,Page: 3641 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3641</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

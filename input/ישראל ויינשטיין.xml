@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 619 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/619</bibl><bibl>Volume: #2 ,Page: 620 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/620</bibl>
+<bibl>Volume: #2 ,Page: 621 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/621</bibl>
+<bibl>Volume: #2 ,Page: 622 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/622</bibl>
+<bibl>Volume: #2 ,Page: 623 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/623</bibl>
+<bibl>Volume: #2 ,Page: 624 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/624</bibl>
+<bibl>Volume: #2 ,Page: 625 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/625</bibl>
+<bibl>Volume: #2 ,Page: 626 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/626</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל ויינשטיין</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"ד אדר ב' תרל"ז (1877), לאביו ר' אליהו, שנתמנה בשנת תרל"ט לשוחט ראשון ביפו, בעת שכל העדה היהודית מנתה לא יותר מ-15-10 משפחות (ביניהן משפחות <persName>שלוש, המבורגר, שמרלינג</persName> ועוד) והיתה מרוכזת כולה בחצר היהודית שבעיר העתיקה.
+
+ עד שנתו השמינית לא ידע קרוא וכתוב, כי ביפו לא היה אז תלמוד-תורה או בית-ספר, ואז הרבה להשתובב במרחב ולהתרחץ בים. עוד בילדותו הצטיין בשחיה והיה שוחה עד האניות העוגנות במרחק רב מהחוף, ותודות
+
+ לכשרונו בשחיה זכה להציל מאות נפשות מטביעה בימה של יפו. משנתו ה-12 התמסר ללימודים בת"ת ובישיבות שבירושלים והשתלם באופן פרטי במתימטיקה ותודות לתפיסתו הגאונית וחריפות שכלו הצליח לא רק להוסיף דעת, אלא גם להורות ולהסביר. נשא לאשה את<persName> באבל</persName> בת ר'<persName> יוסף הורביץ </persName> מיקירי ירושלים, ממקורבי הרב ר' <persName>שמואל</persName> <persName>סלנט</persName> , האחים<persName> האמבורגר</persName> ועוד, ובנו ר' <persName>מיכל הורביץ</persName> היה דיין בירושלים וכעשר שנים אף ביפו בתקופת הרבנות של ר' <persName>נפתלי הירץ הלוי </persName> זצ"ל.
+
+ הוזמן מירושלים ליפו ללמד בת"ת "שערי תורה" תורה, נ"ך, תלמוד, חשבון והנדסה. הילדים שאחיו ר' <persName>נחום</persName> , המוהל הראשון והראשי ביפו-ת"א, הכניסם לבריתו של אברהם אבינו, הכניסם הוא לברית התורה. שמו כמורה מצליח יצא לפניו והוא הוזמן ללמד בבית-הספר "נצח ישראל" בפתח-תקוה ואחרי שנים אחדות הוזמן שוב ליפו ללמד בבית-הספר "תחכמוני". היה חבר באגודת "אחוזת בית", ציוני ותיק, חבר פעיל במוסדות סוציאליים וקואופרטיביים ובאגודות לרכישת קרקעות להרחבת הישוב בסביבות יפו ותל-אביב.
+
+ כשהתחילו לבנות את השכונה "אחוזת בית" או "תל-אביב" ומהנדסים עוד לא היו אז בארץ במספר מספיק לפיקוח על כל עבודת בנין, אלא בנאים היו מקבלים עליהם את העבודה לעשותה לפי מיטב הבנתם - נתגלה ר'<persName> ישראל וינשטיין </persName> כמהנדס-חובב מצליח בעבודתו. תודות לידיעתו הרבה במתימטיקה שרטט תכניות לבנינים ועשה את חישובי החמרים והעבודה, וכמה וכמה בתים בגרעין הראשון של העיר תל-אביב נבנו לפי הדרכתו הטכנית.
+
+ עם הגירוש במלחמת-העולם הראשונה יצא גם הוא מיפו עפ הגולים, ואחרי המלחמה, כשנתחדשו החיים העבריים בעיר, המשיך להורות בת"ת "שערי תורה".
+
+ נפטר בל"ג בעומר (י"ח אייר) תרצ"ה ונקבר בקברהמשפחה בנחלת יצחק. (ברצונו היה להכין למשפחה אחוזת קבר בירושלים, אך קיבל את דעת אביו, שבקהלה ששרתו אותה עשרות שנים בחייהם, עליהם לנוח בה מנוחת עולמים).
+
+ צאצאיו:<persName> גולדה, יצחק זלמן; צבי; הרצל</persName> (מהנדס); <persName>חוה; יעקב; שולמית</persName> אשת<persName> יהודה כהן; שלמה; שר-שלום</persName> .
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 619 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/619</bibl><bibl>Volume: #2 ,Page: 620 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/620</bibl>
+<bibl>Volume: #2 ,Page: 621 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/621</bibl>
+<bibl>Volume: #2 ,Page: 622 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/622</bibl>
+<bibl>Volume: #2 ,Page: 623 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/623</bibl>
+<bibl>Volume: #2 ,Page: 624 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/624</bibl>
+<bibl>Volume: #2 ,Page: 625 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/625</bibl>
+<bibl>Volume: #2 ,Page: 626 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/626</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

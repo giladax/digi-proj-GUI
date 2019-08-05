@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3049 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3049</bibl><bibl>Volume: #8 ,Page: 3050 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3050</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר ישעיהו (זיגפריד) פלאשקס</persName>
+
+</head>
+         <div><p> נולד בא' בתמוז תרמ"ו (4.7.1886) בסאנקטפלטן שליד וינה, אוסטריה.
+
+ לאביו<persName> צבי </persName> ולאמו<persName> רחל</persName> בת<persName> שלמה טוך.</persName>
+
+ הוריו נתנו לו חינוך יהודי טוב. גמר גימנסיה ואוניברסיטת וינה, הוסמך לד"ר לרפואה ופעל בוינה כרופא למחלות פנימיות.
+
+ ב-1924 נשא לאשה את<persName> הדוויג</persName> בת<persName> זיגמונד לאנגראף.</persName>
+
+ עוד בתקופת לימודיו באוניברסיטה היה חבר באגודתסטודנטים ציונית. אח"כ, כרופא עצמאי, התמסר לפעולה צבורית-יהודית וציונית, כעוזר נאמן לאחיו ד"ר<persName> אריה</persName> <persName>(ליאופולד) פלאשקס,</persName> שהיה מנהיג ציוני אוסטריה (ראה כרך ה', עמוד 2121).
+
+ היה סגן יו"ר הקה''ק בוינה, יו"ר איגוד הרופאים היהודים, חבר הנהלת "אוזה", חבר אגודת הרופאים היהודית, חבר הנהלת "אוזה", חבר אגודת הרופאים בוינה.
+
+ ב-1935 ביקר בארץ בתור תייר. ב-1936 השתתף כציר מאוסטריה בקונגרס העולמי הראשון של הרופאים היהודים שנערך בארץ-ישראל, וב-1938 עלה עם משפחתו, השתקע בתל-אביב וממשיך לעסוק במקצועו כרופא למחלות פנימיות.
+
+
+ גם כאן ממשיך בפעילות צבורית כחבר הנהלת ההסתדרות לרפואית הישראלית, חבר הועד של החברה לתולדות הרפואה ומדעי הטבע (אחד ממיסדיה וזמן מה גם מנהל הארכיון שלה), חבר-כתב של האגודה הפריזאית לתולדות הרפואה העברית וחבר הועד של התאחדות עולי אוסטריה.
+
+ פרסם מאמרים רבים בארץ ובחו"ל בעניני רפואה, תולדות הרפואה ובשאלות צבוריות וציוניות. חיבר יחד עם הד''ר<persName> בלצן</persName> את הספר "מקומות מרפאי הבראה ונופש בישראל" (הוצאת הסתדרות רפואית בישראל, תשי"ב - בעברית ובאנגלית).
+
+ שתים מהמצאותיו תרמו לשיפור חמרי-בידוד מגומי.
+
+ צאצאיו:<persName> עליזה </persName> אשת <persName>קורט כהן, </persName> ד"ר <persName>יוחנן פלאשקס</persName> (רופא),
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ב' אלול תשכ''ד (10.8.64)
+
+ (ראה כרך ח', עמוד 3049)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3049 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3049</bibl><bibl>Volume: #8 ,Page: 3050 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3050</bibl>
+            <bibl>Volume: #14 ,Page: 4577 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4577</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

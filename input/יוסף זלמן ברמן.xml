@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2615 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2615</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף זלמן ברמן</persName>
+
+</head>
+         <div><p> נולד בקרליץ, מחוז מינסק (רוסיה), בשנת תרכ"ד (1864).
+
+ לאביו<persName> דוד </persName> (תלמיד חכם ומנהל משק גדול) ולאמו <persName>שרה מאשה לבית לוין.</persName>
+
+ קבל חנוך מסורתי בחדר ובישיבה, ולמד מפי מורים פרטיים שפות שונות. היה תלמיד חכם.
+
+ מראשוני חובבי ציון בעירו ופעל רבות למען הציונות וההתישבות בארץ.
+
+ היה עסקן בעירו. בשנת 1904 עבר לגור בביאליסטוק.
+
+ נשא לאשה את <persName>פרומה מלכה </persName> בת <persName>אהרן משה סמסו</persName> <persName>נוביץ</persName> .
+
+ היה קבלן לרכבות וכבישים ברוסיה. ב-6 לספטמבר 1925 עלה עם אשתו לארץ.
+
+ עזר לבתו בהנהלת ספרי בית המרקחת שלה בירושלים והקדיש שעות ללמוד תורה.
+
+ השאיר בכתב-יד הצעות על הקמת קואופרטיבים.
+
+ נפטר בירושלים, י''ט ניסן תרפ"ז (21.4.1927).
+
+ צאצאיו:<persName> יענטע</persName> (סטודנטית לפקולטה לרפואה ורופאת שנים. נפטרה 2.9.1922), <persName>לאה</persName> אשת <persName>יוסף מנוח</persName> <persName>בנימיני</persName> (ראה כרך ג', עמוד 1484) רוקחת מדופלמת, בעלת בית המרקחת "אסותא" בירושלים (ראה את הערך שלה בכרך זה), <persName>אסנה</persName> אשת ד''ר <persName>חיים פליט</persName> (רופאה), <persName>טמה </persName> (אמה) <persName>ברמן</persName> (רופאה לגיניקולוגיה בירושלים), פרופ' (לרפואה ידוע)<persName> יחיאל ברמן</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2615 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2615</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

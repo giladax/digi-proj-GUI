@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 466 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/466</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף פולאק</persName>
+
+</head>
+         <div><p> נולד באולמיץ (מוראביה, אז אוסטריה וכיום צ'כוסליבקיה), בשנת תר"י (1850), לאביו ד"ר<persName> אברהם</persName> <persName>פולאק</persName> , רופא כללי. קיבל חינוך מסורתי וכללי בבתיספר ממשלתיים. עזר לאביו בעבודה רפואית-סוציאלית, השתתף בפעולה הצבורית בעירו והתקרב לחוגים
+
+ של חובבי ציון, שהיו מעטים בסביבה ההיא.
+
+ בשנת תר"ן עלה ארצה עם משפחתו והתישב בירושלים. אחרי כמה שנים עבר ליפו והחזיק פנסיון לאיכסון עולים ותיירים שבאו ארצה דרך חוף יפו התפרנס בקושי מעבודה זו. לרגל מקצועו היו לו קשרים עם אנשי הפקידות והספנים בנמל, ובקשריו אלה השתמש לעזור ליהודים בעליה מהאניות אל החוף, על אף הגזירות החמורות על העליה.
+
+ ביתו היה פתוח לרווחה גם למחוסרי אמצעים ועזר לרבים להסתדר ולהתבסס בארץ. נפטר בצפת, כ"ב אדר תרע"ז.
+
+ הניח אחריו שתי בנות ובן אחד, <persName>אברהם</persName> , העוסק תעמילות ובשחרור סחורות מבית-המכס.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 466 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/466</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3057 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3057</bibl><bibl>Volume: #8 ,Page: 3058 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3058</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר משה אליהו (לאסלו) גונדה</persName>
+
+</head>
+         <div><p> נולד בכ"ה אלול תר"ע (29.9.1910) בעיר מאקו שבדרום הונגריה.
+
+ לאביו ד"ר<persName> יוסף גונדה </persName> (מורה בגימנסיה ממלכתית במאקו, עד שפוטר ב-1922 על-ידי השלטון האנטישמי בשל פעילותו הציונית, ומאז עד פוף ימיו מורה בגימנסיה היהודית בדברצין) ולאמו <persName>שרה רבקה </persName> (רגינה) בת
+
+<persName>אברהם יצחק פרנקל</persName> (לפי מסורת המשפחה מצאצאי הגר"א מוילנה).
+
+ אחרי לימודיו בגימנסיה היהודית בדברצין למד ספרות והיסטוריה באוניברסיטה שבאותה עיר וב-1933 הוסמך לד"ר לפילוסופיה (החיבור : פקודת-הסובלנות של הקיסר יוסף השני והשפעתה בחיי הספרות) ונתמנה למורה בגימנסיה היהודית שם.
+
+ ב-1935 נשא לאשה את<persName> טובה (קאטאלין)</persName> בת ד"ר <persName>לאיוש הונוואלד.</persName>
+
+ המשיך בעסקנות צבורית יהודית-כללית וציונית כחבר הועד הפועל של ההסתדרות הציונית בהונגריה ובעבודה תרבותית ומדעית בע"פ ובכתב (הרצאות, קורסים וסמיניריונים בעניני ציונות ותולדות ישראל, ביחוד בתולדות יהודי הונגריה, לעם ובחבורות החלוצים ; מאמרים ומחקרים היסטוריים בעתונים ובכתבי-עת יהודיים. וספרו על תולדות החינוך היהודי בהונגריה זכה בפרס
+
+
+ מטעם האיגוד היהודי המרכזי לתרבות, אך לא הספיקו להדפיסו). אחרי מלחמת העולם, מ-1945, לימד בגימנסיה היהודית בבודאפשט והיה שם גם מנהל בית-ספר עממי יהודי.
+
+ ב-1951 עלה לארץ עם משפחתו הקטנה. השתכן בנתניה ואחרי השתלמות בדיבור העברי נכנס גם כאן לעבודת חינוך כמורה בישובי עולים ובמעבדות ואח"כ כמורה להיסטוריה בבי"ס תיכון עירוני ו' בתל-אביב ובבי"ס תיכון בבנימינה, מרצה לצבור עולי הונגריה בסניפי התאחרותם וב"בני הרצל", ובישובי עולים מטעם מחלקת ההסברה של ההסתדרות, כותב מאמרים ומחקרים היסטוריים מתולדות יהודי הונגריה בעתונות היהודית בהונגרית בארץ ובחו"ל.
+
+ חבר הועד בלשבת בני ברית "עמנואל לב" בנתניה.
+
+ בנו: <persName>יוסף.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3057 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3057</bibl><bibl>Volume: #8 ,Page: 3058 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3058</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

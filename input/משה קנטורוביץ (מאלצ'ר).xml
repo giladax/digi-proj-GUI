@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1310 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1310</bibl><bibl>Volume: #3 ,Page: 1311 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1311</bibl>
+<bibl>Volume: #3 ,Page: 1312 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1312</bibl>
+<bibl>Volume: #3 ,Page: 1313 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1313</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה קנטורוביץ (מאלצ'ר)</persName>
+
+</head>
+         <div><p> (נקרא גם כן <persName>אהרן, דוד, יוסף</persName> ועוד שלשה שמות אחרים, בסך-הכל שבעה שמות, שקרא לו אביו לשם "סגולה")
+
+ נולד במאלץ', ליד ביאליסטוק פלך גרודנה בשנת תר"כ (1860), לאביו הרב<persName> יהושע בצלאל </persName> (מגאוני הדור, מחבר הספר "משכן בצלאל" ועוד, למעלה מעשרים ספרים בהלכה ובאגדה וכו' קרויים בשמותיהם לפי סדר א"ב, במשך כ"ז שנה רב במאלץ' ואח"כ במשך עשר שנים חברו של הרב <persName>משה נחמיה כהנוב</persName> בראשות ישיבת "עץ חיים" בירושלים) ולאמו <persName>שרה</persName> בת הרב <persName>אליעזר</persName> .
+
+ למד תורה מפי אביו והגיע לידיעה רבה בש"ס ופוסקים. בשנתו הט"ו, כאשר אחיו הגדולים כבר היו נשואים, הציע לאביו שיעלה לארץ ישראל, כמו שעושים הרבה אנשים מסוגו בליטא ובפולין. אביו הסכים לדעתו וניבא לו, שעתיד הוא לפעול גדולות לא ברבנות, אלא בבנין הישוב בארץ ישראל.
+
+ בשנת תרל"ה עלה ארצה עם הוריו ועם שתי אחיותיו והתישבו בירושלים, והמשיך ללמוד בישיבת "עץ חיים", שאביו נתמנה לאחד מראשיה.
+
+ נשא לאשה את <persName>רחל</persName> בת הרב <persName>שמואל אשכנז</persName> (מראשי עדת החסידים, לפנים רב בגליצה, נכדו של ר' <persName>יעקב עמדן</persName> בן ה"חכם צבי").
+
+ שנתיים אחרי נשואיו המשיך ללמוד בישיבה ונקרא בירושלים <persName>ר' משה מאלצ'ר</persName> על שם עיר הולדתו. אח"כ יצא לחיי המעשה והחל לעסוק במסחר, ובהיות והחלה תנועת בנין שכונות מחוץ לחומת העיר העתיקה התמסר בעיקר להרחבת הישוב בעיר החדשה, כפי שניבא לו אביו. השתתף עם אנשי יזמה וכספים וגאל קרקעות וארגן וסידר את הכשרתם ופיתוחם והשיכון עליהם. יחד עם הרב <persName>יעקב מאיר</persName> (אח"כ הרב הראשי לארץ ישראל) <persName>ונסים אלישר</persName> יסד את שכונת "עזרת ישראל". בהשתתפות<persName> אהרן טוביה הכהן, המבורגר,</persName> <persName>שמואל צוקרמן, יוסף ריבלין ומיכל ליב כץ</persName> יסדו את
+
+ השכונה "זכרון טוביה" (תרמ"ט), יחד עם יוסף ריבלין, פנחס המבורגר, דוד פיינשטין, יוסף מיוחס סיטון ומיכל ליב כץ יסדו את שכונת "שערי צדק" (תרמ"ט) ועם <persName>נסים אלישר וליב דיין</persName> את "גבעת שאול" ו"מצפה שאול", ובהשתתפות <persName>נסים אלישר, אהרן</persName> <persName>ואלירו ויוסף אלישר</persName> גאל את האדמה שבין גבעת שאול ובין כרם הארמנים. לשם פיתוח השכונה גבעת שאול השתדל למשוך שמה לומדי ישיבה שרצו להיות רחוקים משאון העיר, ובמשך הזמן נוסדו שם גם מפעלי מלאכה ותעשיה. בהשפעתו רכש שם הרב דיסקין את המגרש הגדול בשביל בנין בית היתומים ור' משה ושותפיו נתנו חלק של המגרש בחנם לטובת מוסד-חסד זה.
+
+ היה בדעתו ליסד שכונה בשם "כפר יחזקאל" על הר הזיתים, הרחק מבית הקברות, לזכר נבואת יחזקאל על תחית המתים ("חזון העצמות היבשות") ולשם כך קנה שם קרקע יחד עם<persName> ירוחם אלישר</persName> .
+
+ כן פעל בגאולת קרקעות וביזמה ובעזרה לבנין השכונות "שבת אחים", "נחלת ציון" (לעולי חלב), "שמעון הצדיק" (לעולי קוקאז), "שערי חסד", "רחובות" (שכונת הבוכארים) וחלק משכונת "בית ישראל",
+
+
+ ועוד גאל קרקעות בשטחים שונים של ירושלים החדשה וסביבתה.
+
+ היה מכובד מאד גם בין הערבים, שקראו לו "מוסה אפנדי", ואף בני משפחות נשאשיבי וכלדי וערביי הכפרים שבסביבה הציעו לו את עזרתם לגאולת קרקעות.
+
+ פעולתו האחרונה היתה ביסוד שכונת ''נחלת אחים". ביום ו' הלך שמה עם שותפיו וגמרו את קנית האדמה והיה שמח מאד להצלחת הקניה ותיכן להקים שם שכונה גדולה ומסודרת. אך כפי הנראה שמו המוכרים הערבים רעל בקפה שכיבדו בו אותו ואת שני חבריו, שכן במוצאי שבת הרגיש לפתע ברע ועוד לפני בוא הרופא שבק חיים לכל חי וגם שני חבריו מתו זה אחר זה באופן פתאומי.
+
+ נפטר בירושלים, כ"א אדר א' תרפ"א.
+
+ צאצאיו;<persName> יהושע בצלאל</persName> (מורה וסופר בארץ ובחו"ל), <persName>יצחק </persName> (מורה בקזבלנקה מרוקו), <persName>אלעזר</persName> (מורה) <persName>דניאל</persName> (סוחר) <persName>אברהם מאיר</persName> (מהנדס וממציא) <persName>רבקה</persName> אשת דב פרננד ז"ל, <persName>מלכה</persName> (ז"ל) אשת <persName>אברהם שרויט</persName> <persName>נון, אסתר, טובה</persName> (אשתו השניה של אברהם שרויטמן). <persName>שרה </persName> אשת הד"ר<persName> יוסף בורג</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1310 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1310</bibl><bibl>Volume: #3 ,Page: 1311 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1311</bibl>
+<bibl>Volume: #3 ,Page: 1312 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1312</bibl>
+<bibl>Volume: #3 ,Page: 1313 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1313</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

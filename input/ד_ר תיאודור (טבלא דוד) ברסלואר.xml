@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4065 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4065</bibl><bibl>Volume: #12 ,Page: 4066 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4066</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר תיאודור (טבלא דוד) ברסלואר</persName>
+
+</head>
+         <div><p> נולד בקמפנא, פאזן (גרמניה), י"ב שבט תרמ"ט (14.1.1889).
+
+ לאביו <persName>יצחק</persName> (תלמיד חכם ועסקן צבורי. השתתף בועידת קטוביץ במרינבד) ולאמו <persName>קלרה </persName> בת ר'<persName> שלמה</persName> <persName>שייאר.</persName>
+
+ קיבל חינוך מסורתי בתלמוד תורה, למד בגמנסיה והשתלם באוניברסיטאות: ברסלאו, מינכן וברלין.
+
+ קיבל תואר - ד"ר לפילוסופיה. וכן קיבל תואר של רופא שנים.
+
+ בשנת 1919 נשא לאשה את <persName>פרידה</persName> בת<persName> גרשון גרונם</persName> <persName>בלסה.</persName>
+
+ היה חבר אגודת ישראל וחבר ועד הקהילה בברסלאו.
+
+ ממיסדי אגודת גמילת חסד ומשען אבלים בברלסאו.
+
+
+ היה פעיל בכמה ארגונים צבוריים בעידות בקהילת ברסלאו.
+
+ כתב מאמרים בעתון יזרעאלית.
+
+ השתתף בכמה כינוסים של אגודת ישראל.
+
+ עלה לארץ ב-29.1.1934.
+
+ ממיסדי לשכת בני-ברית ברמת-גן.
+
+ גבאי וממיסדי בית הכנסת הגר"א בתל-אביב.
+
+ בביתו - אוסף גדול של תעודות על קלף מגדולי היהדות בארץ ובחו"ל.
+
+ ממשיך לעבוד במקצוע כרופא שנים ברמת-גן.
+
+ צאצאיו: <persName>יצחק</persName> (מנהל בנק אלרן),<persName> רות</persName> אשת <persName>יהודה</persName>
+
+<persName>פרישמן </persName> (קרוב משפחה להרב<persName> יוסף חיים זוננפלד</persName> זצ''ל), <persName>חנה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4065 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4065</bibl><bibl>Volume: #12 ,Page: 4066 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4066</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3357 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3357</bibl><bibl>Volume: #9 ,Page: 3358 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3358</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף קרול</persName>
+
+</head>
+         <div><p> נולד כ"ב תשרי תרנ"ה (22.10.1894) בראדום שבפולין.
+
+ לאביו<persName> מנחם </persName> (צייר שלטים ותפאורות, גם לתיאטראות, קרקסאות וכנסיות) ולאמו <persName>צילה </persName> בת <persName>יוסף קרוליק</persName> (ממשפחה כפרית בסביבת ראדומסק).
+
+ למד בחדר, בבית-ספר עממי ותיכון רוסי, הושפע מבית אביו ברוח הציונות וההשכלה. היה חבר ל"צעירי פועלי ציון" בראדום ופעיל כמקשר בהגנה העצמית היהודית מטעם פועלי ציון.
+
+ ב-1909 עלה לארץ עם הוריו. עבד בשמירה בכרמי רחובות ואח"כ כצבעי ומצייר בבתים בתל-אביב היה חבר פעיל במכבי יפו-ת"א.
+
+ בשנות 1917-1915 שוב היה שומר בכפר-סבא וברחובות.
+
+ כ-1918 התנדב לגדוד העברי ושירת בו עד 1920.
+
+ ב-1921 נשא לאשה את <persName>צפורה</persName> בת<persName> גבריאל פוטשניק.</persName>
+
+ מאז שחרורו מהגדוד עסק בבנית בתים לשם מכירה בתל-אביב והיה פעיל בהתארגנות החיילים המשוחררים לשם התישבות על הקרקע. ב-1934 התישב עם חבריו באביחיל וניהל משק חקלאי.
+
+ ב-1946 חזר לעסוק בבנין בתל-אביב עד שפרש מהעבודה ב-1956.
+
+
+ כל השנים היה פעיל בהגנה. במאי 1921 הגן עם קבוצתו על נוה שלום ואח"כ על שכונת ברנר, וכשהדפו את הערבים והאנגלים באו לאחר מעשה, הסתירו היהודים את נשקם בארון הקודש של בית-כנסת תימני שבקרבת מקום.
+
+ ב-1929 הגן עם קבוצתו על שכונת השכנים (מזרח רחוב זמנהוף וסביבתו), שהיתר, אז שכונה בודדת קטנה מחוץ לעיר, בקרבת פרדסי הכפר הערבי סומל.
+
+ גם באביחיל היה מרכז ההגנה וחבר ועד ההגנה בנתניה-אביחיל, ובשנים 1939-1935 בפעולות רבות של העלאת מעפילים לחוף. כן היה באביחיל חבר הועדות למכון המים, אגודת הפרי והצרכניה.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בת"א, ו' טבת תשכ"ב (13.12.61) (ראה כרך ט', עמוד 3357)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3357 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3357</bibl><bibl>Volume: #9 ,Page: 3358 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3358</bibl>
+            <bibl>Volume: #12 ,Page: 4122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4122</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

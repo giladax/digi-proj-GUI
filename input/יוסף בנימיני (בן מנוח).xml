@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1484 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1484</bibl><bibl>Volume: #3 ,Page: 1485 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1485</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף בנימיני (בן-מנוח)</persName>
+
+</head>
+         <div><p> נולד בדרבנט, קאוקאז (רוסיה), בשנת תרל"ט (פברואר 1879), לאביו הרב <persName>סימן-טוב מנוח</persName> (רב בקהלת דרבנט) ולאמו<persName> רבקה</persName> לבית <persName>חנוכיוף.</persName>
+
+ קיבל חינוך מסורתי והצטיין בשקידה בעבודה ובגבורה בין "היהודים ההרריים".
+
+ בתרס"ו עלה ארצה עם חלוצי העליה השניה, עבד ביקב בראשון לציון ואח"כ עסק במסחר זעיר בירושלים.
+
+ נשא לאשה את <persName>רבקה </persName> לבית<persName> אלחדף.</persName>
+
+ בתרע"ד הצטרף למפלגת "פועלי ציון". באותה שנה יצא לאמריקה, עבד בקליבלנד וגם שם היה פעיל במפלגה, התנדב בין הראשונים לגדוד העברי האמריקאי ובא ארצה. השתתף בכיבוש מעברות הירדן מצפון
+
+
+ ליריחו ובכיבוש רמת-מצפה (א-סאלט) שבערב הירדן והצטיין בגבורתו.
+
+ אחרי פירוק הגדוד נשאר בארץ, הצטרף ל"אחדות העבודה" ולהסתדרות הכללית. היה חבר בגדוד העבודה וניהל עבודה בסלילת כביש עפולה-נצרת, ואח"כ ניהל את לשכת העבודה בירושלים.
+
+ פרסם מאמרים ב"פארווערטס" הניו-יורקי וב"דבר".
+
+ כשנוסד המושב אביחיל בעמק חפר להתנחלות משוחררי הגדודים העברים, שהוא היה אחד ממיסדי ארגונם להתישבות, התנדב לצאת ראשון לכיבוש המקום ושמירתו וריכוז העבודות להקמת הנקודה.
+
+ בשבוע השלישי לעלותו על הקרקע נרצח לאור היום בידי בידואים, ביום כ"ו שבט תרצ"ג (22.2.33).
+
+ בנו: <persName>עמירם.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1484 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1484</bibl><bibl>Volume: #3 ,Page: 1485 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1485</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

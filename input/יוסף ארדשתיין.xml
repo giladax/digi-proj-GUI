@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 937 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/937</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף ארדשתיין</persName>
+
+</head>
+         <div><p> נולד בסטאניסלאבוב, מזרח-גליציה, י"ט ניסן תרנ"ד (25.4.1894), לאביו <persName>ליפא בריל</persName> (סוחר) ולאמו <persName>טובה </persName> בת <persName>שמואל ארדשתיין</persName> ונקרא בשם משפחת אמו קיבל חינוך יהודי וכללי. למד בבית-ספר תיכוני בפולנית והשתתף בתנועת-הנוער הציונית.
+
+ ב-1911 עלה ארצה ונכנס לעבודה במשק הקואופרטיבי במרחביה והיה הבר בו עד אחרי הכיבוש הבריטי בסתיו 1918. עבר לחיפה לעבודה בקופת פועלי ארץ-ישראל עד 1925 ומאז ועד 1932 היה ב"כ העתון "דבר" בחיפה, היה פעיל במפלגת "אחדות העבודה" מנהל לשכת העבודה ומראשי העסקנים של פועלי חיפה ומעת יסוד הסתדרות העובדים הכללית ב-1920 ועד 1932 היה חבר הועד הפועל והמזכירות של מועצת פועלי חיפה, ומאותה שנה ואילך הוא מנהל סניף חיפו של חברת הביטוח "יהודה".
+
+ ב-1929 נשא לאשה את<persName> זהבה </persName> בת <persName>אליהו גרינר</persName> מטומאשוב שבמחוז לובלין, פולין.
+
+ משתתף בחיים הצבוריים, חבר מועצת מפלגת פועלי א"י בחיפה ומייצג את צבור הפועלים כחבר בועד הקהלה ובעירית חיפה.
+
+ בנותיו:<persName> יונה, רות.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 937 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/937</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

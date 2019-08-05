@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3317 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3317</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אמנון לור (לאהר)</persName>
+
+</head>
+         <div><p> נולד בירושלים, ו' שבט תרפ"ז (9.1.1927).
+
+ לאביו <persName>משה ליב</persName> בן<persName> שמחה לאהר</persName> (ממקובלי צפת, בן למשפחות ילידי הארץ מכמה דורות) ולאמו<persName> מרים</persName> בת <persName>יצחק וינקלר.</persName>
+
+ קיבל חנוך מסורתי ובית ספר גאולה בת"א.
+
+ בגיל צעיר החל לעבוד ובשנת 1942 עבר לחיפה ועבד שם בתעשיה. למד את מקצוע הרתוך והמסגרות.
+
+ בשנת 1944 התגייס למשטרת הישובים העבריים ושירת שנה.
+
+ חבר ההגנה כל השנים (שנה שירת בחיל).
+
+ ב-1947 עבר לעבוד בביהח"ר "הארגז" בשריון מכוניות שעבדו בקו ירושלים-ת"א
+
+ בשנת 1948 נשא לאשה את<persName> רות</persName> בת <persName>שרה וגרשון</persName> <persName>גורביץ.</persName>
+
+ בשנת 1948-50 שירת בצה"ל.
+
+ אח בלשכת הבנאים החפשים "ברקאי" בתל-אביב.
+
+ סגן מנהל מפעלי תעשיה והנדסה בע"מ.
+
+ בנותיו:<persName> גיל-לי, לי-רון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3317 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3317</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

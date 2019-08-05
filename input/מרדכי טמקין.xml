@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1914 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1914</bibl><bibl>Volume: #4 ,Page: 1915 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1915</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי טמקין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>שדליץ</placeName> (פולין), בתמוז תרב"א (1891), לאביו <persName>דב</persName> (סוחר בביליסטוק, סבו היה חותנו של<persName> פרץ סמו</persName> <persName>לנסקין)</persName> , ולאמו <persName>חוה</persName> בת <persName>אברהם זילברברג</persName> (אחותה היתה אשת הרבי מלובלין ר' <persName>אברה'מלי איגר)</persName> .
+
+ קבל חינוך מסורתי בחדר. עם בואו ארצה גמר את הסמינריון למורים בירושלים.
+
+ לראשונה עלה ארצה בשנת 1909, נאלץ לחזור בגלל מחלתו. עלה שוב בשנת 1911, באותה שנה נשא לאשה את <persName>שרה</persName> בת <persName>נפתלי יעקב וינברג.</persName>
+
+
+ אחר גמר הסמינר נכנס להוראה.
+
+ כל הזמן עוסק בספרות וכותב שירים. השירים הם בעיקר בעל אופי אינדיבידואלי וניכרת בהם השפעת השירה הגרמנית.
+
+ פרסם: "נטפים", ספר שירים (תרפ"ז, הוצאת "כתובים"), "שירים ותפלות", ספר שירים (תרצ"ד, הוצאת "דבר"), "ספר השירים והתפלות" (תש"ב, הוצאת "דבר" בסיוע "מוסד ביאליק").
+
+ תרגם: "בית בודנברוק <persName>לתומס מאן</persName> (הוצאת "שטיבל"), "דרך טיכו ברהי לאלהים"<persName> למכס ברוד</persName> (הוצאת "שטיבל", "פטר שלומיאל" מ<persName>א. ה. שמיסו </persName> (הוצאת "שוקן") ואחרים.
+
+ צאצאיו:<persName> אליהו </persName> (רב סרן בצ.ה.ל.),<persName> יובל טל</persName> (מעובדי הקונסוליה הישראלית בניו-יורק).
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בירושלים, י"ד תמוז תש"ך (9.7.60)
+
+ (כרך ד', עמוד 1914)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1914 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1914</bibl><bibl>Volume: #4 ,Page: 1915 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1915</bibl>
+            <bibl>Volume: #11 ,Page: 3882 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3882</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

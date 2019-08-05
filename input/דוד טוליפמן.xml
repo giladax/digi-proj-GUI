@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 904 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/904</bibl><bibl>Volume: #2 ,Page: 905 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/905</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד טוליפמן</persName>
+
+</head>
+         <div><p> נולד בראשון לציון, ט"ו שבט תרמ"ח (1888), לאביו <persName>אלכסנדר זיסקינד </persName> (מהמתנחלים בראשון לציון
+
+ בשנת תרנ"ו). למד בבית-הספר העממי של המושבה ובבי"הס החקלאי מקוה ישראל, ואח"כ התמסר לעבודה חקלאית ונטע פרדס.
+
+ נשא לאשה את<persName> שפרה </persName> בת ר' <persName>יעקב מרדכי זינגר</persName> השו"ב במושבה.
+
+
+ במלחמת-העולם הראשונה נקלע לאפריקה המזרחית ועבד בניהול חשבונות. אחרי המלחמה חזר ארצה, פתח בית-מסחר למכולת ברחוב יפו בירושלים והיה סוכנה של חברת ליפטון למסחר-תה. רכש את הלקוחות האנגלים uאת אמונם וידידותם ובמקרים רבים עלה בידו להשתמש בקשריו לטובת הצבור והארץ.
+
+ היה חבר במועדון רוטארי בירושלים ובנאי חפשי בלשכה הסקוטית. ביתו היה פתוח לאורחים ובו נפגשו יחד יהודים וערבים ואנגלים.
+
+ געגועיו למושבת מולדתו גברו על הצלחותיו המסחריות והחברתיות בעיר. חזר לראשון לציון והתמסר למשקו ובשנות תרצ"ט - ת"ש היה חבר הועד החקלאי.
+
+ נרצח בשעת עבודה בפרדסו בידי שודדים ערבים ביום ז' ניסן תש"ג (12.4.1943) ונקבר בראשון לציון. צאצאיו:<persName> שולמית</persName> אשת ד"ר <persName>אליקום אוסטאשינסקי</persName> (ראש המועצה המקומית ראשון לציון),<persName> עליזה, יוסף.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 904 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/904</bibl><bibl>Volume: #2 ,Page: 905 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/905</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

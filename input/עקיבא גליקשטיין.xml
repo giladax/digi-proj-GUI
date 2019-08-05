@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3104 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3104</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עקיבא גליקשטיין</persName>
+
+</head>
+         <div><p> נולד באגוסטוב (פולין) בשנת תרמ"א (18.8.1881). לאביו <persName>אריה ליב </persName> (ראה בכרך זה) ולאמו<persName> חיה</persName> בת <persName>יעקב כץ.</persName>
+
+ אחותו <persName>רבקה</persName> אלמנת ד"ר <persName>הלל יפה </persName> (ראה כרך ג', עמוד 1141) ואחותו <persName>אסתר </persName> אשת<persName> חיים מרגלית קלווריסקי</persName> (ראה כרך ב', עמוד 801).
+
+ קבל חנוך בבי''ס תיכון, בבי"ס להנדסה בגרמניה. בשנת 1901 עלה לארץ. חזר לחו"ל - והמשיך בלימודיו עד 1906 וקיבל תואר מהנדס.
+
+ בשנת 1907 נשא לאשה את <persName>אסתר</persName> בת <persName>שמעון ויסוסקי,</persName> מסובלק.
+
+ הגיש עזרה לגיסו ד"ר <persName>הלל </persName> יפה בניקוי אלפי התולעים שנמצאו בבצה הסמוכה למרחביה וכיבוש הבצה ובהשמדת השיחים והעשבים המכסים את ניקוי המים בכדי לאפשר את שפיכת הנפט.
+
+ בנה בנינים רבים בארץ. ב-1912 בנה את המכון להשקאה הראשון בארץ על יד הירקון, מיסודו של <persName>בצלאל יפה</persName> (ראה כרך א', עמוד 269).
+
+ במלחמה העולמית הראשונה בנה בנינים וכבישים עבור הצבא התורכי במדבר סיני.
+
+ ב-1919 בנה את המכון למים ברחוב אלנבי בת"א.
+
+ בנה את בנין בית הספר למורים בבית הכרם ובנין קהק"ל ברחביה בירושלים. כן בנה בנינים עבור חברת הפיק"א בשומרון.
+
+ במלחמה העולמית השניה עבד בתור קבלן לצבא בסוריה והלבנון.
+
+ צאצאיו: <persName>שמעון גולון </persName> (רופא וטרינרי), <persName>אלכסנדרה</persName> <persName>שולמית</persName> אשת ד"ר<persName> יעקב טרטקובר</persName> (מנהל מחלקת הקרקעות במדינת ישראל והיא - עובדת בסוכנות היהודית בתור מדריכת נוער מחו''ל), <persName>חיים גליקשטיין</persName> (מזכיר מערכת "דבר"), <persName>יגאל גליקשטיין </persName> (סופר בלונדון).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3104 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3104</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

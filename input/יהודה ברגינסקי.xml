@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3057 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3057</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה ברגינסקי</persName>
+
+</head>
+         <div><p> נולד קונוטופ (רוסיה) בשנת תרנ"ז (17.11.1897). לאביו<persName> יצחק</persName> ולאמו<persName> חנה </persName> בת<persName> ליפמן וולמן.</persName> קבל חנוך בגמנסיה וכמה שנים למד רפואה באוניברסיטה בקיוב.
+
+ פקיד במוסדות שנים.
+
+ חבר מרכז החלוץ בפולניה.
+
+ בשנת 1929 עלה לארץ.
+
+ חבר קבוץ יגור. עבד: ביבוש בצות במחוז חיפה, במחצבות בנין, זיפזיף בגמלים וכו'.
+
+ בשנת 1935 נשא לאשה את<persName> בתיה</persName> בת <persName>חיים קיפניס.</persName>
+
+ מיסד פלוגת חיפה-יגור של הקבוץ המאוחד, שהתאחדה אח"כ עם משק יגור.
+
+ חבר מזכירות הקבוץ המאוחד, סגן חבר הועד הפועל של ההסתדרות.
+
+ ממארגני עליה ב' ((1937-48).
+
+ היה ציר הקונגרסים הציוניים: הי"ט בלוצרון (אב תרצ"ה), כ"א בג'ניבה (אב תרצ"ט).
+
+ חבר הנהלת הסוכנות היהודית, ראש מחלקת הקליטה משנת 1948.
+
+ בניו:<persName> יצחק </persName> (מאמו <persName>מנוחה</persName> בת<persName> צבי ברנשטיין)</persName> ; <persName>נמרוד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3057 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3057</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

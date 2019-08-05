@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3184 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3184</bibl><bibl>Volume: #8 ,Page: 3185 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3185</bibl>
+<bibl>Volume: #8 ,Page: 3186 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3186</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דינה צרבינסקי</persName>
+
+</head>
+         <div><p> נולדה בחורזיל (פולין) בשנת תרי"ד (1854). לאביה ר'<persName> אביגדור זילברמן </persName> ולאמה<persName> רבקה</persName> בת <persName>אליעזר.</persName> קבלה חנוך מסורתי.
+
+ נישאה להרב <persName>יהושע צרבינסקי</persName> (ראה כרך א', עמוד 144).
+
+ השתדלה לחסוך כספים במטרה לשחרר את בניה מהצבא הרוסי ולהעלותם לא"י. אלה היו מגמותיה ושאיפותיה.
+
+ ביתה שבנתה בגראייעוו, עיר הספר ועיר הספר על גבול פרוסיה היה בית ועד לחכמים ולעוברי דרך הגבול, ביתה היה בית מנוחה. כעין "כלבא שבוע".
+
+ בשנת תרנ"ט (1899) ביקרה עם בעלה בפעם הראשונה בא"י. בשנת תרס"ב (1902) ביקרו שנית בחתונת בנם <persName>ישראל</persName> (ראה ערכו בכרך א', עמוד 184).
+
+ בשנת תרס"ו (1906) עלתה עם משפחתה לארץ להשתקע בירושלים. קנו מגרש (פינת מאה שעריםבית ישראל), ובנו בנין גדול.
+
+ אחרי פטירת בעלה בנתה בקומה השלישית בבנינם במאה שערים, את בית המדרש "ישועת ישראל" והקדישתו לחסידי אלכסנדר.
+
+ עזרה לאגודת גמילות חסדים בסכומים ניכרים.
+
+ היא ובעלה הניחו עזבונות מהכנסות הבית והחנויות שבמבוא שכונת "מאה שערים" לתמיכה בתלמידי חכמים
+
+
+ ולמתן פרסים לתלמידים המצטיינים שבתלמוד תורה מאה שערים ודירה להכנסת אורחים.
+
+ נפטרה בירושלים, ד' טבת תרצ''ח (8.12.1937).
+
+ צאצאיה : <persName>רחל</persName> אשת <persName>הרב דוד קישינובסקי, רבקה,</persName> <persName>יוסף משה, ישראל צורבא-צרבינסקי </persName> (ראה כרך א', עמוד 184), <persName>אביגדור, ברוך, פרומה</persName> אשת<persName> משה מאיר הויזדורף</persName> (ראה כרך ה', עמוד 2355).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3184 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3184</bibl><bibl>Volume: #8 ,Page: 3185 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3185</bibl>
+<bibl>Volume: #8 ,Page: 3186 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3186</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

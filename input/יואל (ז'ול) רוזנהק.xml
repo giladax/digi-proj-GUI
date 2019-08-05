@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 791 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/791</bibl><bibl>Volume: #2 ,Page: 792 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/792</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יואל (ז'ול) רוזנהק</persName>
+
+</head>
+         <div><p> נולד בפריס בשנת 1870, לאביו שמואל ולאמו פאני לבית רוז. קיבל חינוך יהודי מסורתי ואחרי גמרו בית-ספר תיכון בצרפת למד בבית-ספר גבוה לחקלאות באלג'יר והוסמך לאגרונום בשנת 1893.
+
+ נתקבל לשרות <persName>הבארון בנימין רוטשילד</persName> ונשלח באותה שנה ארצה לפקח על נטיעת הכרמים בזכרון
+
+
+ יעקב. ב-1897 בראשון לציון במקומו של האגרונום קועלאן. עבד בנאמנות ונתחבב על האכרים והפקידים כאחד ואחרי שנים מעטות נתמנה למנהל עניני מושבות הבארון בגליל התחתון ומושבו היה בנצרת.
+
+ משהעביר הבארון את הנהלת המושבות לידי חברת יק"א (אח"כ פיק"א) התמנה למנהל המושבות במחוז הצפון ומושבו היה בחיפה. פעל לטובת המושבות והאכרים בתחילה מתוך חובת שרות ובמשך
+
+ הזמן התפתחה בו אהדה טבעית למפעל התחיה ובנין הארץ.
+
+ נשא לאשה את רבקה בת יצחק ארדיטי מבירות. עם פרוץ מלחמת-העולם הראשונה יצא לצרפת למלא את חובתו בצבא. השתתף במלחמה בדרגת קצין. אחרי המלחמה חזר ארצה והמשיך את שרותו בחברת פיק"א כמנהל מושבות השומרון והגליל.
+
+ כשמלאו לו ששים שנה, אחרי 37 שנות שרות, יצא לפנסיה והתישב בפאריס, מתוך זיקתו לארץ-ישראל התקרב לפעולה הציונית ולחיי הקהלה היהודית הספרדית.
+
+ בתערוכה הקולוניאלית הצרפתית ב-1931 בפריס, ניהל מטעם הבארון רוטשילד את הביתן הארצישראלי ועזר במסירות לפרסום תוצרת הארץ. ביקר כמה פעמים בארץ ונהנה מהתפתחותה.
+
+ נפטר בניצה, כ"ז אדר א' ת"ש (7.3.40). צאצאיו: <persName>רחל (איבון)</persName> אשת משה <persName>בלום, אדמונד</persName> (על שם הבארון), <persName>לוסיאן</persName> (נשרף בידי הגרמנים באושוונצ'ים, <persName>נלי</persName> אשת <persName>ואן-ריי, פאולט</persName> אשת <persName>פייר מרכס</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 791 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/791</bibl><bibl>Volume: #2 ,Page: 792 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/792</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

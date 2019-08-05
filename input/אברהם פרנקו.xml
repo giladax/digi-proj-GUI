@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2176 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2176</bibl><bibl>Volume: #5 ,Page: 2178 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2178</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם פרנקו</persName>
+
+</head>
+         <div><p> נולד בירושלים, ג' סיון תרנ"ז (1897), לאביו הרב <persName>נסים רפאל</persName> (מחכמי חברון ומעסקניה), בן הרב<persName> רחמים</persName> <persName>יוסף</persName> , חכם באשי בחברון, ממשפחה שעלתה מהאי רודוס לפני ארבעה דורות ופעלה למען בנין בית-החולים "חסד לאברהם" ושכונת בתים בשביל כוללות הספרדים מחוץ לחצר היהודים שבחברון, ולאמו <persName>אסתר</persName> בת <persName>אליעזר אלישר</persName> (ממשפחה מושרשת בירושלים למעלה מעשרה דורות).
+
+ למד בתלמוד-תורה של העדה הספרדית בחברון ואח"כ בישיבת "שדי חמד" של הגאון ר' <persName>חיים חזקיה מדיני, </persName> שעלה מקאראסו-באזאר שבקרים, והוסמך לשחיטה ולרבנות, ובידיעת ערבית עממית וספרותית השתלם מפי יצחק <persName>מלכיאל מני ויוסף מני</persName> .
+
+ היה זמן מה שו"ב בחברון ובבאר שבע. השתלם ברוקחות ושימש בתפקיד רוקח של עירית חברון, ואז היה כתבו החברוני של העתון "החרות", ואח"כ של עירית באר- שבע, במלחמת העולם א' מפקח בתי-המרקחת במחנה הרביעי של הצבא הטורקי, ואחרי המלחמה ההיא רוקח בבית-החולים "הדסה" -רוטשילד בירושלים.
+
+ נבחן במרכז המורים, קיבל תעודת הוראה והיה מורה בביה"ס של חברת "עזרה" הברלינית בחברון, בבית-המדרש "דורש ציון" ובבתי-הספר של כי"ח בירושלים.
+
+ ב-1922 נשא לאשה את <persName>שמחה</persName> בת הרב<persName> מרדכי ישראל</persName> <persName>שריזלי</persName> (ראב"ד לעדת הספרדים בירושלים).
+
+ היה שנים אחדות מזכיר בית משפט השלום בירושלים, גמר את שיעורי המשפט הממשלתיים והוסמך למשפטים. נתקבל לעבודה בעירית ירושלים ושימש בה בתקופת השלטון המנדטורי כפקיד ראשי ומזכיר עברי של העיר ומאז השחרור הנו מזכיר כללי של העיר.
+
+
+ השתתף בפעילות למען יסוד ההסתדרות העולמית של היהודים הספרדים ושימש כמזכירה הירושלמי בראשיתה, ממיסדי ארגון "חלוצי המזרח" ומפעיליו; מהמיסדים וחבר הנהלה בבנק "קדם", בת"ת "בית אהרן" ובשכונת קרית משה מונטיפיורי; חבר הועד הכללי והועד הפועל של העדה הספרדית בירושלים ; חבר מועצת עזבון בליליוס, חבר הועד המנהל של הגוש הפרוגרסיבי הספרדי
+
+ בירושלים, חבר במועצת התאחדות הספרדים, יהיה חבר הועד המנהל של בית-החולים "משגב לדך" שבעיר העתיקה.
+
+ אחרי חורבן הישוב העברי בחברון במהומות תרפ"ט נסע ללונדון בשליחות העדה הספרדית לדרוש ממנהיגי קרן העזרה שיפור יחס הפקידות של הקרן כלפי צרכי העדה ועתידותיה. מתרצ"א ואילך נטל עליו את הטיפול בעניני הישוב היהודי שהיה בחברון, את הניהול-בפועל של הכוללות לטובת החברונים שגלו מעירם ואת הפיקוח על הרכוש היהודי שנשאר בחברון. גם בשנות המאבק הלאומי והמלחמה מילא בשרות הצבור תפקידים שונים שהזמן גרמם.
+
+ צאצאיו :<persName> נסים חיים</persName> (למד משפטים והוסמך בלונדון), <persName>שולמית </persName> אשת המהנדס <persName>אמנון מלחי, אסתר, מזל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2176 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2176</bibl><bibl>Volume: #5 ,Page: 2178 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2178</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2794 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2794</bibl><bibl>Volume: #7 ,Page: 2795 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2795</bibl>
+<bibl>Volume: #7 ,Page: 2796 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2796</bibl>
+<bibl>Volume: #7 ,Page: 2797 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2797</bibl>
+<bibl>Volume: #7 ,Page: 2798 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2798</bibl>
+<bibl>Volume: #7 ,Page: 2799 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2799</bibl>
+<bibl>Volume: #7 ,Page: 2800 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2800</bibl>
+<bibl>Volume: #7 ,Page: 2801 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2801</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אסף גור (גרזובסקי)</persName>
+
+</head>
+         <div><p> נולד ביפו, י''ט תשרי תרנ''ה (בסוף 1894). לאביו הסופר והבלשן<persName> יהודה גור-גרזובסקי</persName> (ראה כרך א', עמוד 244) ולאמו <persName>רחל</persName> בת <persName>מרדכי ניימן</persName> (ראה כרך א', עמוד 319).
+
+ קבל חנוך בבי"ס, קולג' אמריקאי בבירות ואוניברסיטה בקליפורניה.
+
+ בשנת 1918 התנדב לגדוד העברי ושירת בו עד 1920. בשנות 1920-30 מפקח החקלאות והיערות הממשלתית (המנדט) בא"י.
+
+ בשנת 1924 נשא לאשה את <persName>דבורה</persName> בת<persName> בוריס רבי</persName> <persName>נוביץ</persName> (מראשוני הסוחרים ביפו).
+
+ בשנת 1930 קצין ראשי למטעים, מזכיר הועדות הממשלתיות לגננות ולפרי הדר בארץ.
+
+ היה ציר בקונגרסים של הורטו קולטורה בין-לאומיים.
+
+ כתב מאמרים רבים בבל העתונות החקלאית, במיוחד ב"השדה" מהשנה הראשונה להופעתו ועד היום. 
+
+ כתב ספר "פירות הארץ" וכמה חוברות: "התאנח", "זני-תמר'', "זני-שזיף'', "זני-ענבים", "הרמון", "הבננה", "התפוח", "זני-הזית'', "החבוש", "המשמש''.
+
+ לזכותו - יש לזקוף חלק חשוב מיעור הארץ.
+
+ מנהל אגף המטעים במדינת ישראל.
+
+ צאצאיו: מרים אשת עמנואל ורדי, חולדה, מתן.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2794 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2794</bibl><bibl>Volume: #7 ,Page: 2795 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2795</bibl>
+<bibl>Volume: #7 ,Page: 2796 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2796</bibl>
+<bibl>Volume: #7 ,Page: 2797 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2797</bibl>
+<bibl>Volume: #7 ,Page: 2798 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2798</bibl>
+<bibl>Volume: #7 ,Page: 2799 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2799</bibl>
+<bibl>Volume: #7 ,Page: 2800 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2800</bibl>
+<bibl>Volume: #7 ,Page: 2801 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2801</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

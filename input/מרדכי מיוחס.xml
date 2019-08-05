@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 265 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/265</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי מיוחס</persName>
+
+</head>
+         <div><p> בן שמואל יום-טוב, נולד ב<placeName>ירושלים</placeName> ל' בתשרי תרל"ז (1877). התחנך ב"דורש ציון" ואח"כ אצל ר' מנחם בכר יצחק ובישיבת "תפארת ירושלים", שנשאר
+
+ בה עד שנת תרנ"ו (1896). החל משנת תרנ"ה למד את מלאכת השחיטה. בכסלו תרנ"ו נעשה לשוחט קבוע ב<placeName>ירושלים</placeName>. באלול תרנ"ו נשא לאשה את ביליא בת ר' שלמד. פ:יז'-ל. בשנת תרס"ו (1906) היה ממיסדי "בית זקנים וזקנות הכללי ב<placeName>ירושלים</placeName>" של הספרדים והוא חבר הועד וגזבר המוסד הזה.
+
+ במות אביו בשנת תרס"ז מלא את מקומו בועד שכונת "ימין משה", פעל הרבה לשכלול השכונה ונשאר בתפקידו זה עד שנת תרצ"ט, שאז יצא מהשכונה והעתיק את מגורו לשכונה אחרת, בשנים תרפ"א-תרצ"ט היה גבאי ביהכ"נ של "ימין משה". בשנת תרס"ט היה "נוסף בית דין" בבית דינו של הראב"ד ר' שמואל נסים. בשנת תרע"ד נעשה לראש השוחטים ב<placeName>ירושלים</placeName>. באייר תרע"ז (1917) נכנס שלישי לבית דינו של הראב"ד ר' בן ציון קואינקה וחברו ר' שמעון אשריקי. במות הרב קואינקה בשנת תרצ"ז עלה לדרגת "שני" בבית דין. בשנת תש"ו (1946) עלה לדרגת ראב"ד. הוא מפורסם כבקי גדול בהלכות שחיטה, מומחה במקצועו ואף רבני האשכנזים נמלכים בדעתו ומתחשבים עם הוראיתיו. כמה מחדושי תורתו בעניני שחיטה הובאו בספר "ושחטתם בזה" להרה"ג ר' אברהם ביג'אג'ו. יש לו שני בנים וחמש בנות,
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 265 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/265</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

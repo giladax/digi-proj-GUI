@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4950 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4950</bibl><bibl>Volume: #16 ,Page: 4951 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4951</bibl>
+<bibl>Volume: #16 ,Page: 4952 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4952</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עובדיה (אמיל) לחמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ברלין</placeName> בשנת תרי"ג (1853).
+
+ לאביו<persName> צבי לחמן</persName> (משפחה עשירה ומיוחסת ב<placeName>ברלין</placeName>. היו מתבוללים).
+
+<persName>אליעזר יעקב חאוואש</persName> מהעיירה מחלישוק היה משולח - לאסוף כספים לטובת ישיבות וחיזוק הדת ברוסיה, ביקר ב<placeName>ברלין</placeName> והתודע לצעיר <persName>לחמן </persName> והשפיע עליו ללמוד תורה ויראת שמים, עד שנהיה לאדוק קיצוני. אחיו של המשולח הנ"ל ששמו היה ר'<persName> יוסף חיים </persName> עבד כמנהל כללי במשפחת לחמן בהנהלת עסקיהם והוא היה מלמד את <persName>לחמן </persName> תורה.
+
+ בשנת תרס"א (1911)<persName> כשעקיבה ליברכט </persName> מפתחתקוה היה ב<placeName>ברלין</placeName> לימד אותו משניות.
+
+ לא נשא אשה ונשאר כל חייו ערירי.
+
+ בשנת תרמ"ב (1882) החל להתענין בארץ-ישראל, בהשפעתם של המשולח <persName>אליעזר יעקב חאוואש,</persName> הרב <persName>אריה ליב פרומקין ור' מאיר שמעון ליברכט.</persName>
+
+ ירש מאביו 3 מיליון מרק ונפרד מעסק אביו במסחרו.
+
+ בשנת תרמ"ג (1883) נתן להרב פרומקין הנ"ל עשרת אלפים מרק, ובסכום זה רכש עבורו 900 דונם בפתח-תקוה. והקים בשטח זה משק שמהכנסותיו יסדו בבנין הנחלה "תלמוד תורה" במטרה לחזק את הדת.
+
+ בשנת תר"ן (1890) הוקם הבנין בשטח הנחלה. למשק קראו "נחלת צבי", על שם אביו, וועד המושבה בימים ההם קרא את שם הרחוב שע"י המשק על שם אביו.
+
+ כעבור כמה שנים עברה הנהלת המשק לידי ר' <persName>משה בצלאל טודרסוביץ ז"ל</persName> (ראה כרך א', עמוד 412, אביו של<persName> חדהר).</persName>
+
+ בימים ההם התקיים בירושלים מוסד בשם "דגל תורה'', תפקידו היה לתמוך בתלמידי חכמים וישיבות. אחד מענפי ההכנסה היה ענין ההגרלות כמו שנהוג היה אז. ויהי היום, ומצבו הכספי של המוסד הורע. וכשאחד מבעלי ההגבלות זכה בסכום הגון, לא היה בקופת המוסד די כספים לשלם לזוכה. נמנו וגמרו: לעת עתה בתור עזרה ראשונה להוציא הגרלות חדשות ובזה ישלמו לזוכה את ההגרלה הראשונה. בכדי להיות בטוח שסכום הכסף יאסף, נשלח אחד מהגבאים לגרמניה לבקש ממר<persName> לחמן</persName> הלואה של עשרים אלף מרק. אחרי שמסר את מטרת בואו אמר לו מר <persName>לחמן:</persName> טוב יהודי, אתן לך את ההלואה, אבל מהו הבטחון שתתן לי? ענה לו: לי אין כל רכוש, אחתום לך שטר בשם המוסד. זה לא מספיק ענה לו מר לחמן, המוסד שלכם - היום חי ומחר חודל להתקיים. חשב השליח וקימט את מצחו ונפל על המצאה, ואמר: שמע נא אדוני לחמן, יש לי עצה: אתן לך שטר כתוב וחתום על חלקי לזכותך בעולם הבא למשך שנה אחת, והיה כשנשלם לך את החוב תחזיר לי את השטר. מצא חן בעיני <persName>לחמן </persName> ההצעה ונתן לו את ההלואה וקיבל שטר כתוב וחתום בפני עדים על חלקו בעולם הבא, חלפה שנה, המוסד "דגל תורה" התמוטט, את ההלואה לא שלמו, והיהודי נשאר בלא עולם הבא. בערב יום הכפורים אותה השנה, הופיע היהודי לפני מר <persName>לחמן </persName> בבית הכנסת לפני נעילה, נפל על פניו ומרר בבכי, איך אבוא לפני אל-עליון בתפילה ביום הכפורים, ולי אין שום חלק בעולם הבא... קם רעש והרב שהיה באותו מעמד התענין בדבר. ושמע ממר<persName> לחמן</persName> את השתלשלות המעשה. ועוד באותו מעמד הביא מר<persName> לחמן</persName> את <persName>השטר</persName> , קרע אותו לעיני חותמו והכל נגמר בכי טוב. (סיפור זה מפי המנוח <persName>עקיבא ליברכט.</persName> ראה כרך שני, עמוד 733).
+
+ נפטר ב<placeName>ברלין</placeName> (גרמניה), בשבט תרע"ג (1913).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4950 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4950</bibl><bibl>Volume: #16 ,Page: 4951 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4951</bibl>
+<bibl>Volume: #16 ,Page: 4952 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4952</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

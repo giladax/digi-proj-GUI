@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5200 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5200</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר יעקב תבין (פרשטיי)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>לוצק</placeName> (פולין), י' אייר תרע"ט (10.5.1910). לאביו <persName>בנימין פרשטיי</persName> ולאמו <persName>שיינה</persName> בת<persName> יעקב</persName> <persName>כהן.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ היה ראש המטה של האצ"ל (ארגון צבאי לאומי) בגולה.
+
+ בשנת 1938 עלה לארץ.
+
+ המשיך בלימודיו באוניברסיטה העברית בירושלים. מוסמך למדעי הרוח.
+
+ בארץ עבד בפקידות ואח"כ בתור קבלן.
+
+ בשנת 1960 נשא לאשה את <persName>מרים</persName> בת<persName> משה אדלר.</persName>
+
+ בימי ממשלת המנדט, היה חבר המפקדה הראשית של אצ"ל בא"י.
+
+ כיום, מנהל חברות.
+
+ צאצאיו:<persName> בנימין, ורד.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ (המשך לערך שלו בכרך י"ז, בעמוד 5200) נולד ב-י' אייר תרע"ט (10.5.1919) במקום 1910. התאריך העברי בסדר.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5200 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5200</bibl>            <bibl>Volume: #18 ,Page: 5483 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5483</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2499 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2499</bibl><bibl>Volume: #6 ,Page: 2500 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2500</bibl>
+<bibl>Volume: #6 ,Page: 2501 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2501</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי (מוטקה) כהן</persName>
+
+</head>
+         <div><p> נולד בי' בשבט תרפ'ט (21.1.1929) בתל-אביב לאביו <persName>שמעון</persName> (סוחר בחמרי בנין, מותיקי הישוב בנוה שלום) ולאמו<persName> ברוריה</persName> בת <persName>מאיר ברדן</persName> (מותיקי הישוב).
+
+ למד בבית-הספר העירוני תל-נורדאו בצפון תל-אביב והצטיין ביחוד בפעולות הספורט של התלמידים. גמר קורס מסחרי בבית-הספר התיכוני למסחר בתל-אביב ויצא לעבודה בכריכת ספרים ואח'כ במסגרות.
+
+ בגיל 14 הצטרף ל"הגנה", השתתף כחבר חי"ש ת"א בהעלאת מעפילים, במבצעי המחתרת ב"ליל וינגייט" ועוד, באימונים שיטתיים ובסיורים בארץ, וכשהסבא ר' <persName>נח משה כהן </persName> הפציר בו שלא ילך לסכן את חייו, השיב לו: "יבוא יום, וגם אתה, סבא, וכולנו נצטרך לקחת נשק ביד להגן על הארץ". ואכן משניתנה החלטת האו"ם ב-29.11.47 על יסוד מדינה יהודית התיצב לשרות
+
+
+ קבוע בפלוגה ב' של חי"ש, השתתף בהגנה על גבולות ת''א בחזיתות שכונת התקוה, אבו כביר, יאזור, סלמה. עם התפתחות הקרבות של מלחמת השחרור הועבר לפלוגה המסייעת של גדוד 54 בחטיבת גבעתי ונשלח ל"מבצע נחשון". השתתף בכיבוש דיר מוחסין וחולדה הערבית ובקרבות ההגנה על השיירות לירושלים. מש
+
+ ניתקה התחבורה לירושלים נשאר שם ששה שבועות והשתתף בקרבות הקסטל, שער הגיא ובפעולות אחרות של חטיבת "הראל" וזמן-מה נחשב כנעדר. אחרי פריצת הדרך לירושלים, שתרם בה את חלקו בגבורה עילאית, חזר לגדודו והשתתף בקרבות לשחרור הדרום ובפעולות "שועלי שמשון". בתקופת הפוגה ב' גמר קורס לעזרה ראשונה ואח"כ הועבר לפלוגה לתפקידים מיוחדים. ושוב השתתף בקרבות לשחרור הנגב, ולרגל התקפה על משלט האויב באזור עיראק סואידן, כשמפקדו נפצע ונשאר תקוע ליד גדר התייל של האויב והוא ניגש להצילו ולהוציאו משם, נפגע גם הוא (מרדכי כהן) בכדור אויב ושם נפל ביום ל. בתשרי תש"ט (2.11.48). גופתו נמצאה רק לאחר שמונה חדשים וחצי ובתאריך י"ד תמוז תש"ט (11.7.49) הועברה לקבורה בחלקת הגבירים שבנחלת יצחק (תל-אביב).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2499 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2499</bibl><bibl>Volume: #6 ,Page: 2500 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2500</bibl>
+<bibl>Volume: #6 ,Page: 2501 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2501</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

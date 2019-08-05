@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2304 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2304</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף הוכפלד</persName>
+
+</head>
+         <div><p> נולד בשנת תרל"ה (31.12.1874) בז'יטומיר שבאוקראינה לאביו <persName>ישעיה ליב הכהן</persName> (תלמיד-חכם ומשכיל, לעת זקנתו היה ביאליק מתיעץ עמו בעניני מחקר) ולאמו <persName>ביילה</persName> בת <persName>אהרן ברלינררוט.</persName> למד בחדרים שמונה שנים יחד עם ביאליק. גמר גימנסיה בז'יטומיר כתלמיד אכסטרני וזמן-מה באוניברסיטת קיוב כתלמיד שלא מן המנין.
+
+ ב-1897 נשא לאשה את<persName> פנינה</persName> בת <persName>חנוך וורוכובסקי.</persName> (ממיסדות מושב זקנים גלמודים ברחוב עבודה בתל-אביב וביה"ס למלאכה לנערות ברחוב התבור ובית אינוואלידים בת"א).
+
+ בז'יטומיר עסק בהספקה לצבא, הרוסי ובמסחר
+
+ סיטוני לניירות טפיטין. פעיל בעניני צבור וציונות ותרבות עברית. ב-1919 הצליח לצאת מתוך ההפכה הרוסית לוארשה. שם המשיך בעבודה ציונית וב-1920/21 שהה זמן-מה במונקאץ' שברוסיה הקרפטית וגם שם עשה נפשות לציונות.
+
+ ב-1925 עלה ארצה והשתקע בתל-אביב. היה סוכן של פירמה ממצרים למעילי גשם ובנה לו בית ברחוב קאלישר.
+
+ תמיד קיים קשרים במכתבים ובעל-פה עם ביאליק, ידידו מילדותו, וכשנוסדה אגודת "עונג שבת" ביזמת ביאליק היה הוא בין החברים הראשונים. אח"כ נדב לאולם "אהל שם" (שנבנה לצורך מסיבות "עונג שבת" ופעולות תרבות) תבנית-עץ אמנותית גדולה של מגדל דוד ובתוכו שעון-קיר גדול. היה פעיל בהתאחדות עולי רוסיה, בהסתדרות הציונים הכלליים, גזבר "בית ביאליק" ומעסקניו שהרבה להתרים לטובתו. בשנות התעיה המדינית שלפני יסוד המדינה היה מהיוזמים והמארגנים של תנועת "בני חורין" ונבחר לגזברה.
+
+ פרסם מאמרים ב"ווסחוד", "הבוקר", "המשקיף", "הזמן" (של<persName> ב. צ. כץ</persName> ) בחתימת<persName> רום-שדה</persName> . הוציא סדרת מאמרים בשם "אחרי המבול" והשאיר אחריו מאמרים בכתב-יד.
+
+ נפטר בתל-אביב, א' אלול תש"ח (5.9.48).
+
+ בניו: <persName>חנוך (הנריק)</persName> (מהנדס לבנין אוירונים, לפנים כמומחה במפעלי "שקודה" בצ'כיה וכיום באמריקה), <persName>אהרן </persName> (בעל ביח"ר "סיליקט" במפרץ חיפה, חתנו של <persName>י. ל. גולדברג ז"ל).</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2304 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2304</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

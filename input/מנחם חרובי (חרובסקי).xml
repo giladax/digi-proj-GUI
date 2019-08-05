@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3999 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3999</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם חרובי (חרובסקי)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אנטופול</placeName> (רוסיה), כ"ב תמוז תרס''ז (יולי 1907).
+
+ לאביו<persName> אהרן דב חרובסקי </persName> (ממשפחת רבנים) ולאמו <persName>זיסיל רחל</persName> בת <persName>יהודה ליב קולטון.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה קטנה.
+
+ בשנת תרפ"ב (1922) עלה לארץ.
+
+ המשיך בלימודיו בבי''מ למורים מזרחי ו-3 שנים באוניברסיטה העברית בירושלים.
+
+ בשנת תרפ"ט (1929) היה ממיסדי "בני-עקיבה" והיה פעיל בה.
+
+ בשנת תרצ"ג (1933) נשא לאשה את <persName>פנינה</persName> בת ר' <persName>אברהם פסח</persName> (נפטרה בבני-ברק, י' חשון תשכ''א).
+
+ היה מורה. משנת 1935 מנהל בתי-ספר בירושלים, צפת וגבעתים.
+
+ ממיסדי סניף הפועל המזרחי בצפת.
+
+ כיום, מנהל בי"ס "אמונים" בגבעתים.
+
+ ממיסדי ברית הסטודנטים "יבנה".
+
+ היה פעיל בהגנה ובעליה ב' בצפון הארץ (1933-36). במשמר העם (1948) ובהג"א בבני-ברק.
+
+ עסקנות ציבורית למען החינוך הדתי-לאומי, קק"ל, סעד ועוד.
+
+ צצאיו:<persName> רנה</persName> אשת ד"ר<persName> א. פייזנר</persName> (רופא),<persName> אהרן דב,</persName> <persName>אברהם, רעיה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3999 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3999</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1983 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1983</bibl><bibl>Volume: #4 ,Page: 1984 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1984</bibl>
+<bibl>Volume: #4 ,Page: 1985 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1985</bibl>
+<bibl>Volume: #4 ,Page: 1986 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1986</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אברהם יעקב שפירא</persName>
+
+</head>
+         <div><p> (האדמו''ר המצייר מדרוהוביץ)
+
+ נולד ב<placeName>סדיגורה</placeName> בשנת תרמ"ד לאביו האדמו"ר ר' <persName>חיים מאיר יחיאל </persName> ולאמו <persName>בת שבע</persName> בת האדמו"ר ר' <persName>יצחק </persName> מבאהוש. (ראה את הערך שלו בכרך זה).
+
+ עבר עם אביו לגור בסטרי ואחר כך בדרוהוביץ. עזר לארגן את העזרה לפליטי הפוגרומים מרוסיה ועמד לצד הציונים בבחירות לפרלמנט האוסטרי. מש
+
+ התנכר מנעוריו בכשרונות מצויינים בזמרה, נגינה וציור, אך התמסר ללימוד התורה והוסמך לרבנות, אך לא שימש בה. השתתף בנעוריו בחיים הציבוריים,
+
+
+ עבר עם כל משפחתו בשנת תרע"ד לוינה התכונן לעליה לארץ ישראל על ידי לימוד מקצוע מדידת הקרקעות, ברוח אביו האדמו"ר שהטיף ל"בנין הארץ בגופו". בעלותו יחד עם אביו האדמו"ר לארץ ישראל ניסה תחילה להקים בירושלים בית חרושת לחומרים חימיים, ומשנבשל הנסיון אחז במקצוע מדידת הקרקעות שהוכשר לו בגולה. בין השאר השתתף גם במדידת הקרקעות של כפר חסידים. במות אביו האדמו"ר נעשה ליורש כסאו ולמרצה שיעור בישיבה שבביתו בירושלים. חיבר כמה ספרים בחסידות בשם הכולל "נתיבות שלום". כאשר מתה עליו רעיתו הרבנית הצדקת<persName> אסתר גולדה </persName> בת האדמו"ר ר'<persName> נתן דוד רבינו</persName> <persName>ביץ </persName> מפרציבה ונכדת האדמו"ר מביאלה, ניסה להתגבר על עצבות אלמנותו על ידי התעסקות בציור. הצייר הנודע <persName>יעקב שטיינהרד</persName> ראה את ציוריו הראשונים והתפעל מהם ועודדו להמשיך. מאז - והוא כבר אז בן ששים ושלוש - התמסר לאמנות הציור וקנה לו שם בציוריו מטבע הארץ ופורטרטים, שהוצגו בכמה תערוכות וזכו להערכות רבות של אנשי המקצוע.
+
+ בניו הם: המשורר <persName>ש. שלום, יצחק שפירא</persName> (מהנהלת בית הספר הריאלי בחיפה). בנותיו: <persName>לאה גלזנר</persName> <persName>ומרים שפירא - פקטה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1983 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1983</bibl><bibl>Volume: #4 ,Page: 1984 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1984</bibl>
+<bibl>Volume: #4 ,Page: 1985 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1985</bibl>
+<bibl>Volume: #4 ,Page: 1986 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1986</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 476 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/476</bibl><bibl>Volume: #1 ,Page: 477 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/477</bibl>
+<bibl>Volume: #1 ,Page: 478 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/478</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמריהו ילין</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"א טבת תרנ"ב, לאביו<persName> דוד</persName> <persName>ילין</persName> ולאמו <persName>איטה</persName> בת ר' יחיאל מיכל פינס. למד בבית הספר למל ובבית הספר למסחר מיסודה של חברת "עזרה" בירושלים.
+
+
+ לאחר גמרו את חק למודיו נתקבל כפקיד בבנק אנגלו-פלשתינה בע"מ ירושלים והיה אחד מהעובדים החרוצים ביותר.
+
+ בתרע"ב השתתף ביסוד אגודת "המכבי" בירושלים והיה ממעמליה הראשונים.
+
+ עם הכרזת החוקה על ידי הטורקים הצעירים התגייס לצבא העותומני.
+
+ בשנת תרע"ד נשא לאשה את צפורה בת חיים הויזדורף (מהרוקחים הראשונים בירושלים), שגמרה את הסמינר למורות "עזרה" בירושלים.
+
+ בשבט תרע"ז הוגלה יחד עם הוריו והמשפחה לדמשק ע"י ג'מל פחה.
+
+ חלה בטיפוס הבהרות ונפטר בדמשק, ב' ניסן תרע"ז.
+
+ הניח אשה ובת שמריה (מורה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 476 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/476</bibl><bibl>Volume: #1 ,Page: 477 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/477</bibl>
+<bibl>Volume: #1 ,Page: 478 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/478</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

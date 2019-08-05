@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 1011 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1011</bibl><bibl>Volume: #2 ,Page: 1012 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1012</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אברהם ליב זילברמן</persName>
+
+</head>
+         <div><p> נולד בצפת, ח' אייר תרמ"ט (1889) ,לאביו ר' <persName>יצחק דב </persName> (בן הרב<persName> רפאל</persName> בן הרב <persName>מרדכי,</persName> שהיו רבנים ראשיים לעדת האשכנזים בצפת, והוא היה ראש
+
+
+ הקהלה) ולאמו <persName>שרה סויבל</persName> בת הרב <persName>דוד לנדאו</persName> מאורהייב, פלך בסרביה (רוסיה).
+
+ למד בחדרים ובישיבת אביו זקנו והוסמך לרבנות.
+
+ נשא לאשה את<persName> שיינדל</persName> בת הרב <persName>יצחק לורברבוים.</persName>
+
+ בתרס"ט נתקבל לדיין במשרד הרבנות בצפת ומשנפטר אבי-אביו הרב רפאל בתרע"ח נתמנה במקומו לרב ראשי.
+
+ בהשתדלותו נבנה מחדש בית-הכנסת האשכנזי על שם האר"י שהיה הרוס ונבנה בית-מרחץ וביתטבילה חדיש כדרישות הזמן. נשיא ועד ההקדשות והועד לגאולת המקומות הקדושים בגליל העליון. פעיל בהנהגת הצבור ולמען פיתוח העיר צפת והישוב על הר כנען. ודבריו נשמעו ברצון.
+
+ פרסם מאמרים תורניים בירחונים "קול תורה" ו"שערי ציון" והכין בכתב את הספרים "לב אברהם" (על התורה ושאלות ותשובות).
+
+ נפטר בצפת, ט"ז חשון תש"ח (30.10.47).
+
+ צאצאיו:<persName> דב </persName> (פעיל בעניני גאולת המקומית הקדושים בגליל),<persName> יצחק, רפאל, שמואל, יעקב, דבורה</persName> אשת <persName>מרדכי רוזנטל, הניה, הדסה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 1011 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1011</bibl><bibl>Volume: #2 ,Page: 1012 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1012</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

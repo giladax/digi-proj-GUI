@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 839 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/839</bibl><bibl>Volume: #2 ,Page: 840 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/840</bibl>
+<bibl>Volume: #2 ,Page: 841 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/841</bibl>
+<bibl>Volume: #2 ,Page: 842 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/842</bibl>
+<bibl>Volume: #2 ,Page: 843 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/843</bibl>
+<bibl>Volume: #2 ,Page: 844 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/844</bibl>
+<bibl>Volume: #2 ,Page: 845 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/845</bibl>
+<bibl>Volume: #2 ,Page: 846 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/846</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אברהם רפאל כלפון (אכ"ל)</persName>
+
+</head>
+         <div><p> בן יעקב, נולד בטיטוואן (מרוקו הספרדית) בשנת תק"פ (1820). קבל חנוך מסורתי ונתמנה לרב בטיטוואן.
+
+ נשא לאשה את אסתר לבית סלאמה.
+
+ בשנת תר"ך (1860) עלה ארצה עם בני משפחתו. ושימש ברבנות בטבריה. אחרי פטירת רבה הראשון של חיפה הרב אליעזר הכהן חמצי בשנת תרמ"א, התמנה לראש ישיבה ואב בית דין בחיפה.
+
+ לקח חלק פעיל בהתפתחות העיר צפת ע"י עלית יהודי מרוקו בימים ההם.
+
+ נפטר בחיפה,ד' ניסן תרמ"ו ונקבר ע"י הקבר של הצדיק אבדימי דמן חיפה.
+
+ צאצאיו: <persName>יעקב</persName> , אחרי עלותו ארצה-ישראל עם אשתו הוכרח להיענות לאשתו ולחזור לחו"ל.אביו
+
+
+ הדירו מירושתו על מעשה זה, אולם לא ארכו הימים ויעקב מת בקיצור שנים.
+
+<persName>סטי,</persName> אלמנת <persName>רבי נפתלי לרידו</persName> , נפטרה בחיפה. <persName>שמואל</persName> , סוחר, פעיל ורב-מעשים, היה ראש חברה קדישא במשך שנים רבות, וחבר ועד-ההורים של ביה"ס של חכי"ח. נפטר בחיפה כסלו התר"צ. בניו: <persName>בכור</persName> , נפטר בקאירו; <persName>שמעיה; מאיר; יוסף,</persName> היה מורה לשפה הערבית בביה"ס חכי"ח בחיפה, ואח"כ עבר למסחר במכשירי-כתיבה, בקאירו, נפטר שם;<persName> אברהם</persName> , כיום בקאירו:<persName>רפאל</persName> , כיום בארגנטינה; <persName>הבנות</persName> ; פריחה, אשת <persName>אברהם אלניקווה</persName> שהיה מנהל בביה"ס בטבריה;<persName> רחל וג'ויה</persName> בארגנטינה.
+
+<persName>הרב משה כלפון</persName> , עסקן צבורי ומיסד בתיהכנסת וישיבה ברחוב היהודים. נפטר בחיפה ט"ז אב התרפ"ד.<persName> אשתו: אסתר </persName> נ"ע, בת הרה"ג <persName>רפאל חיים משה בן-נאים</persName> שהיה רב ראשי בגיברלטאר.
+
+ צאצאיו:<persName> אברהם,</persName> המזכיר הראשי של עיריית חיפה; <persName>ויקטוריה</persName> אשת המנוח<persName> יוסף בן-שבת</persName> ז"ל; <persName>פלור</persName> אשת <persName>שמואל בן-שבת ; רבקה</persName> , נשואה לבן משפחת רבינוביץ בקזבלאנקה; <persName>כרמלה</persName> , נשואה <persName>ליעקב</persName> <persName>לבוב,</persName> (פקיד גבוה ב"סולל-בונה" בחיפה).
+
+<persName>הרב ימין כלפון</persName> , עסקן וסוחר, היה שד"ר לבולגריה ועו"ד. נפטר בחיפה י"ט טבת תרפ"ט.
+
+<persName>הרב דוד כלפון</persName> , תלמיד-חכם מובהק, שימש כמורה לעברית בביה"ס חכי"ח בחיפה קרוב ל-35 שנים, למד בטבריה אצל הרה"ג <persName>רפאל חיים משה בן</persName> <persName>נאים</persName> זצ"ל. היה ממיסדי השכונה ארד-אל-יהוד (היא <persName>הדר-הכרמל</persName> העתיקה) נפטר בחיפה אדר תרצ"ו. אשתו: וידה ממשפחת עבאדי. - צאצאיו; <persName>שלמה</persName> (היה מורה בביה"ס בקאירו, נפטר שם), <persName>יצחק, אליהו,</persName> <persName>אברהם, שמעון, עזרא, רבקה </persName> (כולם בארגנטינה),<persName> חיים</persName> (פקיד גבוה במחלקת-ההנדסה בעיריית-חיפה), <persName>מתתיהו</persName> (פקיד בחברת הנפט העירקית בחיפה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 839 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/839</bibl><bibl>Volume: #2 ,Page: 840 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/840</bibl>
+<bibl>Volume: #2 ,Page: 841 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/841</bibl>
+<bibl>Volume: #2 ,Page: 842 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/842</bibl>
+<bibl>Volume: #2 ,Page: 843 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/843</bibl>
+<bibl>Volume: #2 ,Page: 844 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/844</bibl>
+<bibl>Volume: #2 ,Page: 845 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/845</bibl>
+<bibl>Volume: #2 ,Page: 846 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/846</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1432 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1432</bibl><bibl>Volume: #3 ,Page: 1433 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1433</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד מנחם דיינארד</persName>
+
+</head>
+         <div><p> נולד בוויראגן (קורלנד) בשנת תר"ח (1848), לאביו <persName>שמואל</persName> ולאמו <persName>רחל ליבה</persName> בת <persName>מנחם מנדל</persName> (נפטרה בירושלים, י"ג תמוז תרמ"ה). למד בחדרים ובישיבות. נשא לאשה את <persName>טויבה לאה</persName> בת <persName>ליב כץ </persName> (נפטרה בתלאביב, ז' תשרי תרע"ד) ובזיווג שני את <persName>רייזלה</persName> בת <persName>אברהם ברוך גלברג.</persName> (מנשואיה הראשונים היא אמו של קצין-המשטרה <persName>שלמה סופר).</persName>
+
+ בשנת תרמ"ג עלה ארצה עם אמו ועם משפחתו והתישב בירושלים. בתרמ"ז היה מראשוני המתישבים
+
+
+ בשכונת נוה צדק ביפו ובתר"ן מבוני שכונת נוה שלום.
+
+ אחרי יסוד המושבה רחובות בתרנ"א היה שם מלמד לילדים עד תרנ"ד ואח"כ היה שנים אחדות מלמד בחדרה וגם חזן וקורא בתורה באחד מחדרי ה"חאן", שהוכן וסודר על-ידי<persName> יוסף גלוזגל</persName> לבית-תפילה.
+
+ חזר ליפו והיה מעסקני הצבור ומנהיג לעניני הקהלה בסביבת נוה שלום, ובעיקר בבית-המדרש של חברת שוני הלכות, שהיה ממיסדיה ונתן בו שיעור קבוע בתלמוד.
+
+ בתרפ"ו הוציא לאור ספר "מעין גנים" (באר מים חיים ונוזלים מן לבנון) ובתרפ"ז ספר שני, "גן הסנהדרין" (על האמת, הדין והשלום).
+
+ היה מגבאי בית הכנסת אורחים ברחוב שבזי.
+
+ שאר בשר הסופר והחוקר <persName>אפרים דיינארד</persName> (ראה את הערך שלו, בכרך זה).
+
+ נפטר ביפו, ב' שבט תרצ"ג (6.1.33), והובא לקבורה בירושלים.
+
+ צאצאיו (מאשתו הראשונה):<persName> שמואל, שרה איטק</persName> אשת<persName> אלימלך פרשקובסקי</persName> (ראשון לציון).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1432 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1432</bibl><bibl>Volume: #3 ,Page: 1433 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1433</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

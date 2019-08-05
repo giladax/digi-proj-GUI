@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4071 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4071</bibl><bibl>Volume: #12 ,Page: 4072 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4072</bibl>
+<bibl>Volume: #12 ,Page: 4073 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4073</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב רייך</persName>
+
+</head>
+         <div><p> נולד ברוזבדוב, בשנת תרל"ז (3.7.1877).
+
+ לאביו ר' <persName>יהודה ליבש רייך</persName> ולאמו<persName> דבורה </persName> בת ר' <persName>מנחם</persName> <persName>מנדל צאנגעל.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה.
+
+ מראשי הקהילה וראש העיר בעירו.
+
+ יו"ר חברה קדישא ופעיל במוסדות צדקה שונים בעירו.
+
+ בשנת 1898 נשא לאשה את<persName> סימה </persName> בת ר'<persName> יוסף</persName> <persName>אברהם</persName> (ממשפחת שאול ווהל בפולניה. נפטרה בשנת 1944) ובזיווג שני נשא בשנת 1951 את<persName> לאה</persName> בת<persName> יצחק</persName> <persName>טענצער.</persName>
+
+ היה פעיל בתנועה הציונית והמזרחי.
+
+ יסד ת"ת ומושב זקנים בעירו.
+
+ בשנת 1950 עלה לארץ.
+
+ פעיל בתנועת המזרחי.
+
+ יו"ר גמ''ח ויו"ר ועד השכנים ברמת גן.
+
+ כתב מאמרים בעתון "לעטצטע נייעס'.
+
+ צאצאיו (מאשתו הראשונה): ד"ר <persName>יוסף רייך</persName> (פקיד בכיר - יועץ משפטי ושופט בביטוח לאומי), ד"ר<persName> ליאון</persName> <persName>רייך</persName> (עורך דין. נהרג ע"י הנאצים בשנת 1942), <persName>צפורה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4071 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4071</bibl><bibl>Volume: #12 ,Page: 4072 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4072</bibl>
+<bibl>Volume: #12 ,Page: 4073 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4073</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

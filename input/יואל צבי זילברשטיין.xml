@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3092 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3092</bibl><bibl>Volume: #8 ,Page: 3093 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3093</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יואל צבי זילברשטיין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>לומזה</placeName> (פולניה), כ"ב טבת תרל"ח (1878).
+
+ לאביו <persName>יעקב משה זילברשטיין </persName> ולאמו<persName> שושנה</persName> בת <persName>יואל צבי זולונדז.</persName>
+
+ קבל חנוך מסורתי בחדר ובישיבת לומזה.
+
+ בחו"ל היה בעל עסקים ובעל אחוזה. 
+
+
+ עסק בצרכי צבור בעירו.
+
+ בשנת 1901 נשא לאשה את <persName>לאה </persName> בת הרב <persName>משה צבי</persName> <persName>אהרונסון </persName> (נפטרה בתל-אביב, ח' סיון תרפ"ט-6.6.1929). בשנת 1914 התכונן לעלות לארץ. פרוץ מלחמת העולם הראשונה עכבה את נסיעתו.
+
+ בשנת 1922 עלה לארץ והקים בית חרושת למרצפות.
+
+<persName>ממיסדי ובוני:</persName> שכונת נוה שאנן בתל-אביב, בית הכנסת אולפנה בנוה-שאנן ובית הכנסת וחברת יסוד המעלה בנוה שאנן.
+
+ מיסד בכספו גמילות חסדים יסוד המעלה שנקרא על שמו.
+
+ נפטר בתל-אביב, כ' כסלו תש"ה (6.12.1944).
+
+ צאציו:<persName> דב, יצחק, משה, שושנה</persName> אשת <persName>יעקב טופר</persName> (בניו הקימו תעשיות בארץ).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3092 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3092</bibl><bibl>Volume: #8 ,Page: 3093 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3093</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

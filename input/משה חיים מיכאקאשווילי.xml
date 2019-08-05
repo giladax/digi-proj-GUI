@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3718 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3718</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה חיים מיכאקאשווילי</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרע"ו (1916).
+
+ לאביו <persName>מרדכי מיכאקאשווילי</persName> (ראה בכרך ג', עמוד 1419) ולאמו <persName>שרה</persName> בת <persName>פנחס גורל.</persName>
+
+ קבל חנוך מסורתי בביה"ס לבנים בירושלים והשתלם בטכסטיל באנגליה.
+
+ עזר לאביו בבית מסחר למנופקטורה ובבנקאות (חלפנות) בירושלים.
+
+ בשנת תר"ץ (1930) עבר עם משפחתו לתל-אביב, ועזר לאביו בגאולת שטחי-קרקע ניכרים מהערבים ביפו ובתל-אביב.
+
+ בתל-אביב המשיכו במסחר המניפקטורה ונהיו להאימפורטרים הגדולים בארץ לסחורות מניפקטורה.
+
+ הקימו בנינים גדולים בתל-אביב ועזרו להתפתחות העיר.
+
+ חבר מועצת הועד הפועל של הסתדרות הספרדים,
+
+ וחבר הועד הפועל של התאחדות בעלי הבתים בישראל.
+
+ היה יו"ר אגודת "התחיה" וסגן יו"ר "דגל ציון".
+
+ היה יו"ר סקצית השחיה של מכבי תל-אביב.
+
+ בקשריו הטובים עם משפחת האשמיים <persName>(המלך</persName>
+
+<persName>עבדאללה, האמיר עלי)</persName> ועוד. עשה בזמנו רבות למען השאלה הערבית-יהודית.
+
+ עזר רבות למחתרת בידיעותיו ובקשריו בשאלה הערבית.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3718 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3718</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

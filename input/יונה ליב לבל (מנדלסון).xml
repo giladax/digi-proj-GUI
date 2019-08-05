@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2109</bibl><bibl>Volume: #5 ,Page: 2110 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2110</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יונה ליב לבל (מנדלסון)</persName>
+
+</head>
+         <div><p> נולד בשנת תקע"ו (1816) בפרסבורג (אז בהונגריה וכיום בשם בראטיסלאווה בצ'כוסלובקיה) לאביו<persName> יהודה</persName> <persName>מנדלסון.</persName>
+
+ היה תלמיד מובהק של ה"חתם סופר", שהטעים בכל הזדמנות בעל-פה ובכתב את החובה המוטלת על כל יהודי נאמן לעלות ולהתישב בארץ הקודש, וביחוד
+
+
+ בירושלים עיר הקודש, ובהספדו על הרוגי הרעש בצפת בתקע"ז אמר, שהם נענשו על שהזניחו את ירושלים.
+
+ בהשפעת רבו עלה ארצה בשנת תקצ"ו על אף מצב בריאות קשה, נשא באהבה את טלטולי הדרך שארכה כחצי שנה והנסיעה בים היתה בספינות-מפרשים, והתישב בירושלים.
+
+ נשא לאשה את <persName>חיה אסתר</persName> בת ר' <persName>יהושע ובאשה</persName> ממינסק, אחרי שהיא ואמה עלו ירושלימה מצפת, שם נספו אביה ושני אחיה ברעש בתקצ"ז.
+
+ השתתף עם חבריו תלמידי החתם סופר ביסוד כולל "שומרי החומות" של עולי אונגארן בירושלים ועם חבריו ר'<persName> יצחק פראג (אופלטקה</persName> ) ור'<persName> משה אהרן</persName> <persName>בוימגארטן</persName> (גם הם מתלמידי החתם סופר) ביסוד בית המדרש "דורש ציון" לילדי הספרדים.
+
+ נתנסה במחלות ובמגפות שפקדו אז את את תושבי ירושלים.
+
+ נסע כמה פעמים בשליחות הכולל להונגריה והלהיב את יהודי הגולה למען ישוב ארץ-ישראל.
+
+ ישב כל ימיו על התורה ועל העבודה וזכה לראות את צאצאיו הולכים בדרכיו ומשתרשים בארץ.
+
+ נפטר בירושלים, כ"ט ניסן תרמ"ו.
+
+ צאצאיו :<persName> משה יהושע, מנחם מנדל, רבקה</persName> אשת <persName>זלמן</persName> בן <persName>דוד יוליס</persName> , ומצאצאיהם הסתעפו משפחות ותיקות ונכבדות בישוב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2109</bibl><bibl>Volume: #5 ,Page: 2110 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2110</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

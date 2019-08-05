@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5634 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5634</bibl><bibl>Volume: #19 ,Page: 5635 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5635</bibl>
+<bibl>Volume: #19 ,Page: 5636 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5636</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר צבי מירנסקי</persName>
+
+</head>
+         <div><p> נולד בראשון לציון, הושענא רבה, כ"א תשרי תרס"א (14.10.1900).
+
+ לאביו ר' <persName> פייבל מירנסקי</persName> (בשנת תר"ן - 1890 עלה לארץ והוא בן 22, עבד כפועל בחקלאות ברחובות ואח"כ היה עם כמה מהאיכרים ומניחי היסוד לתחבורה ע"י דיליזנס מרחובות, נס-ציונה (ואדי אל-חנין) וראשון לציון ליפו. הדילג'נס שימש אמצעי תחבורה לנוסעים ומילא כל השליחויות של בני המושבות, הוועד והנהלת היקבים בראשון לציון. גם העברת הכספים במזומנים, שסכומיהם הגיעו לעיתים עד כדי אלף
+
+ נפוליונים זהב ממש ומעלה, היו נמסרו לו. השיטה הבנקאית עוד טרם נהוגה היתה בארץ אז, והוא מילא את כל השליחויות על הצד היותר טוב ובדיוק קפדני. היה טיפוס של הרפתקן מוזר ומיוחד במינו. אהוב על כל בני מושבתו ועל האורחים. למד את השפה הערבית וקשר קשרים עם ערביי הסביבה, ובעיקר עם ראשי שודדי הדרכים, וכך הצליח לעבור בדרכים בלי לסכן את עצמו. פרטים נוספים עליו קרא בערך שלו
+
+
+ בכרך חמישי, עמוד 2148) ולאמו<persName> רבקה</persName> בת <persName>יצחק</persName> <persName>ליב טפרובסקי.</persName>
+
+ עד גיל 13 קיבל חינוך מסורתי. למד בבית הספר הריאלי בחיפה, גמר את הגימנסיה העברית "הרצליה" בת"א במחזור ז'. נסע למונפליה בצרפת וגמר רפואה. המשיך להשתלם בפריז במחלות עור והפרעות סקסואליות (מין).
+
+ נשא לאשה את<persName> צפורה</persName> בת <persName>יצחק ברש</persName> (ברוש).
+
+ בשנת 1928 חזר לארץ.
+
+ עבד כשנתיים כרופא בכפר ילדים בעפולה ע"י גבעת המורה.
+
+ התיישב בחיפה ועובד כרופא פרטי וכרופא לקופת חולים.
+
+ בשנים 1932-36 היה מזכיר הסתדרות הרופאים בחיפה.
+
+ כל השנים היה חבר ההגנה.
+
+ צאצאיו:<persName> נגה מירון</persName> ; <persName>איתן מירנסקי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5634 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5634</bibl><bibl>Volume: #19 ,Page: 5635 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5635</bibl>
+<bibl>Volume: #19 ,Page: 5636 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5636</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

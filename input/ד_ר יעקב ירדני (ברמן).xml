@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1974 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1974</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יעקב ירדני (ברמן)</persName>
+
+</head>
+         <div><p> נולד בווהלין (רוסיה), ט' בניסן תרנ"ד (15.3.1894) לאביו <persName>צבי </persName> ולאמו <persName>תמה</persName> למשפחת <persName>רוזנשטיין.</persName>
+
+ למד את מקצוע רפואת השניים בקיוב, במכון לרפואת השניים בוינה, ובאוניברסיטה קולומביה בניויורק.
+
+ קבל תואר רופא שניים
+
+ בשנת 1913 נשא לאשה את <persName>דבורה</persName> בת <persName>אפרים</persName> <persName>ברינד-מקטז'.</persName>
+
+ פעל בתנועת "צעירי ציון" באוקראינה. ציר מטעם המפלגה בפרלמנט היהודי האוקראיני ושימש בו כמזכיר הרוסי (קיוב 1917), חבר הועד של "ההגנה העצמית". יו"ר הועד המרכזי של ההסתדרות הציונית בווהלין. עורך העתון הציוני ברובנה (פולין) ומנהל משרד העליה לווהלין (משרת כבוד).
+
+ עלה ארצה באוגוסט 1921.
+
+ עובד במקצועו.
+
+ מורה לאנטומיה של הפה בבית הספר לאחיות דנטליתו שעל יד בית הבריאות "הדסה" ובבית הספר לטכנאי-שניים של "אורט".
+
+ משתתף בעתונות מקצועית בארץ, חבר המערכת
+
+ "רפואת השניים", בטאון הסתדרות רופאי השניים בארץ.
+
+ פרסם קובץ "שעורים באודונטוגרפיה".
+
+ מאמרים שונים ב"הבוקר", "הארץ" ובעתונות חו"ל.
+
+ בנותיו:<persName> תמר</persName> אשת <persName>אורי יפה</persName> (מעוז חיים), <persName>גליה</persName> אשת<persName> שמואל אגמון (ביסטריצקי), אלישבע.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1974 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1974</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 644 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/644</bibl><bibl>Volume: #2 ,Page: 645 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/645</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יוסף הלוי</persName>
+
+</head>
+         <div><p> נולד בביאליסטוק, כ' מנחם אב תר"ל (1870), לאביו הרב<persName> נפתלי הרץ הלוי</persName> (שבחו"ל נקרא בשם-המשפחה <persName>וידנבוים,</persName> אך בבואו ארצה הסתלק מן השם הזר). עד גיל עשר שנים למד מפי מלמדים שונים בהשגחת אביו, ומאז המשיך ללמוד לבדו בשקידה רבה והגיע לדרגה גבוהה מאד בידיעת התלמוד וספרותו הרחבה.
+
+
+ בסוף שנת תרמ"ד עלה ארצה עם אביו שנתקבל אח"כ בתרמ"ו לרב ראשון של קהלת יפו והמושבות, אחרי שהישוב בה הגיע לגידול מתאים ולדרגת קהלה חשובה בארץ. כאן המשיך לשקוד על לימודיו והגיע לבקיאות עצומה בשני התלמודים, במדרשים ובתשובות הגאונים והתמסר לחקירת הבדלי הגירסאות בכתבי-יד ובדפוסים שונים, קבע בחקירותיו את הנוסח הנכון ואת הפירוש הנכון ופרסם את הערותיו בכתבי-עת תורניים. כן פרסם הרבה מאמרי מחקר במאסף "ירושלים" של א. מ. <persName>לונץ,</persName>
+
+ ב"הדביר" קובץ לתורה ולחכמת ישראל, במאסף "שערי ציון", ירחון מוקדש לחידושי תורה בהלכה ובאגדה וספרותה, ב"אוצר הגאונים" של הד"ר ב. מ. לוין, ועוד, וחקירות לשוניות פרסם ב"הצבי" של א. <persName>בן-יהודה</persName> (על פי רוב בחתימה :<persName> יה''ל).</persName>
+
+ בתרמ"ט, בהיותו בן י"ט (אחרי שנשא לאשה את <persName>ברכה צפורה</persName> , נכדת ר'<persName> משה זאקס,</persName> מתלמידי החתם סופר שעלו ארצה, ובת ר' <persName>אברהם אלקנה זאקס</persName> , ממיסדי מושב זקנים בירושלים), נתמנה לרב היקב בראשון לציון ומפקח על הכשרות בכל הענינים הנ"ל. מאז המשיך לשקוד על התורה במושבה זו. זה עשרות שנים הוא מרצה בקביעות בשיעורי תלמוד ללומדים מבוגרים וקשישים בבית-הכנסת הגדול וכבר סיים עמהם פעמים אחדות את כל הש"ס. חוץ מזה הוסיף ללמוד לעצמו בהתעמקות גדולה וניהל מו"מ של הלכה עם הרב <persName>קוק</persName> זצ"ל, שהזכיר אותו ואת דבריו בכמה מקומות בספרו "משפט כהן" (שאלות ותשובות). התעמק בחקר המקומות שבארצנו ששמותיהם מובאים בשני התלמודים ובמדרשים וכתב הערות רבות בענין זה לספר "כפתור ופרח" לר' <persName>אישתורי הפרחי</persName> וכשהוציא לונץ את הספר הנ"ל הוציא גם הערות הרב יוסף הלוי בחוברת מיוחדת. כן הוסיף הגהות והערות למסכת ברכות, תלמוד ירושלמי, שהוציא הרא"מ לונץ בפירוש תמציתי שחיבר. בתרצ"ז הוציא את הספר "ברית עולם" בחכמת הקבלה עם פירוש "לוחות הברית", שחיבר לו אביו, הרב נפתלי הרץ והוא עצמו הוסיף הרבה תיקונים והגהות והערות.
+
+ עבודתו המדעית הגדולה, שאפשר לציינה כמפעל חייו, היא פרשת חקירותיו בספר "הערוך" לרבנו<persName> נתן</persName>
+
+<persName>בן יחיאל </persName> מרומי, שהקדיש לה כארבעים שנות חיים. על יסוד חקירות והשואות בהרבה גירסאות עתיקות הפיץ אור על הסתומות בפירוש יסודי זה ללשון התלמודים והמדרשים וסידר אותו מחדש לא בסד"ר א"ב, כמו שהוא במקורו, אלא לפי סדר מסכתאות הש"ס, וסילק טעויות של כמה מגדולי החוקרים העתיקים והחדשים. ספר זה, בשם "יקר הערך" מכיל שמונה כרכים גדולים, שהוכנו בעבודה ענקית ובניפוי אחרי ניפוי. הכרך הראשון, על מסכת ברכות ומשניות סדר זרעים, יצא בשנת תש"א.
+
+ כן הוציא בשנת תש"ה את הספר<persName> פסקי חלה</persName> להרשב"א שגילה אביו, והוסיף עליו הגהות והערות והארות.
+
+ צאצאיו: <persName>חיים, נפתלי הרץ</persName> (חזן בהוקלנד), <persName>שרה,</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בראשון-לציון. ח' כסלו תש"ט (10.12.48) (ראה את הערך בעמוד 644, כרך ב').
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 644 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/644</bibl><bibl>Volume: #2 ,Page: 645 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/645</bibl>
+            <bibl>Volume: #3 ,Page: 1535 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1535</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

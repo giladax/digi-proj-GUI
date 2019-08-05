@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4246 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4246</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם זינדל שור</persName>
+
+</head>
+         <div><p> נולד ב<placeName>צפת</placeName> (ישראל) בשנת תרמ"ט (1889).
+
+ לאביו<persName> יואל שוב </persName> ודור רביעי בארץ (נכד למהר"ל מפרג) ולאמו<persName> חוה</persName> בת <persName>דוד אליהו אליאך.</persName> קיבל חינוך מסורתי בישיבות ב<placeName>צפת</placeName>.
+
+ היה חבר ועד "צופיה", הר-כנען, צפת.
+
+ מפעילי הנוער ב<placeName>צפת</placeName>.
+
+ בשנת תרס"ז (1907) נשא לאשה את <persName>מלכה </persName> בת ר' <persName>שמואל רוטשטיין.</persName>
+
+ סוחר בטקסטיל. חבר ועד ביהכ""נ "שלום" בתל-אביב. מחסידי האדמו"ר מסדיגורה הרב <persName>מרדכי שלום יוסף</persName> <persName>פרידמן</persName> (ראה הערך שלו בפתיחת כרך זה). צאצאיו : <persName>אברהם שור</persName> (מנהל סניף הבנק הלאומי בנתניה),<persName> גניה</persName> אשת <persName>יצחק וישליצקי</persName> (מזכיר הסתדרות הליברלים),<persName> דינה</persName> אשת<persName> משה רוטפלד </persName> (מביח"ר תרסיס), <persName>טובה</persName> אשת <persName>יוסף שוסהיים</persName> (מחלבת גבעתיים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4246 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4246</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

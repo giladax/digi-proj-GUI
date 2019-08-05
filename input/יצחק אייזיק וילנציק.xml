@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 908 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/908</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק אייזיק וילנציק</persName>
+
+</head>
+         <div><p> נולד בנוסובקה, פלך צ'רניגוב (אוקראינה), בחודש כסלו תרמ"ח (1887), לאביו ר'<persName> דוד צבי</persName> (תלמיד-חכם. חסיד חב"ד, סוחר). למד בחדרים מפי טובי המלמדים ובישיבות ניעזין והומל.
+
+ בתרס"ז עלה ארצה עם הוריו. נשא לאשה את <persName>צפורה</persName> בת<persName> יחזקאל לוין</persName> (מ-11 המתנחלים הראשונים בעקרון). שאף לעסוק בחקלאות, אך הדבר לא עלה בידו. התישב בפתח תקוה ולשם פרנסה עסק במסחר במחצית זמנו, ואת המחצית האחרת הקדיש ללימוד תורה לעצמו ולאחרים ולעסקנות בצרכי צבור.
+
+ השתתף ביסוד בית-הכנסת של חסידי חב"ד במושבה, לימד בכל יום שיעור בגמרא בבית-הכנסת ובשבתות היה יוצא למשק גבעת השלשה, מלמד שם שיעור במקרא להורים הזקנים ומביא להם את השראת הקדושה והחסידות. התמסר במיוחד לפעולה לטובת הקרן הקימת לישראל, שתקבל הכנסה מנדרים ונדבות בבתי-התפלה בחגים, כנהוג. ואת כל מעשיו לטובת התורה וגאולת הארץ ועזרה לזולת עשה בענוה ובהצנעלכת.
+
+ נפטר בפתח תקוה, כ"ו אב תש"ג.
+
+ צאצאיו: <persName>שושנה</persName> אשת אברהם כהן הי"ד (נהרג במהומות תרצ"ו), <persName>משה, יוכבד</persName> אשת <persName>בנימין נימן,</persName> <persName>דוד, רבקה</persName> אשת<persName> שבתי שכטר, יוסף</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 908 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/908</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

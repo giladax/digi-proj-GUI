@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4004 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4004</bibl><bibl>Volume: #12 ,Page: 4005 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4005</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלום ברש (בלזר)</persName>
+
+</head>
+         <div><p> נולד בצפת, שבט תרנ''ד (1894).
+
+ לאביו<persName> חיים בלזר</persName> (ממשפחת רבנים) ולאמו<persName> אסתר</persName> <persName>גיטל</persName> בת <persName>זאב סגל.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבת הרידב"ז בצפת.
+
+ מילדותו התמסר לחקלאות, והנו חקלאי כל השנים במושבה "יסוד המעלה".
+
+ בשנת 1919 נשא לאשה את <persName>ברוריה </persName> בת ר'<persName> משה סולמן.</persName>
+
+ בשנת 1921 השתתף במלחמה נגד התקפת השכנים הערבים.
+
+
+ כל השנים עמד על משמר המושבה הנמצאת בגבול סוריה.
+
+ מחסידי סדיגורה, במיוחד מחסידי האדמו"ר ר' מרדכי יוסף ש. פרידמן.
+
+ מסר חומר רב לתולדות יסוד המעלה, בספר "נחשוני החולה" ליובל השבעים וחמש (תרמ"ג-תשי''ח) ליסוד המושבה.
+
+ צאצאיו: <persName>אסתר, יוסף</persName> (נפל בקרב במשמר הירדן, ג' תמוז תש"ח), <persName>יהודה </persName> (חקלאי), <persName>אליעזר</persName> (חקלאי),<persName> בנימין</persName> (סרן בצה''ל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4004 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4004</bibl><bibl>Volume: #12 ,Page: 4005 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4005</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

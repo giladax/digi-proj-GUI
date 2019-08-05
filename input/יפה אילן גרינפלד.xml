@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3545 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3545</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יפה אילן-גרינפלד</persName>
+
+</head>
+         <div><p> נולדה בביאליסטוק, בשנת תרע"ד (15.9.1914). לאביה<persName> איסר גרינפלד</persName> ולאמה <persName>צלה</persName> בת <persName>יהושע כהן.</persName> עלתה לארץ בשנת 1921.
+
+ קבלה חינוך תיכוני בגמנסיה העברית "הרצליה" בתלאביב. השתלמה במדעי הטבע והכימיה באוניברסיטה של קאן (צרפת). מוסמכת למדעי הטבע והכימיה.
+
+ בחזרה לארץ, עבדה במחקר האנטימולוגיה של צמחים ובעיקר בחקר הרביה הבתולתית אצל סוגי הכרמילים השונים.
+
+ משנת 1942 עד היום, פעילה בפיתוח תעשית הטכס טיל (הקמת בית חרושת לצביעת טקסטיל, בית חרושת לצמר גפן רפואי, בית חרושת לטוית צמר ולאריגת צמר)
+
+ שותפה ומנהלת של בתי חרושת לטכסטיל הנ"ל. נישאה לד"ר <persName>אפרים אילן</persName> (פיקהולץ), ראה ערכו בכרך זה.
+
+ סגנית-נשיאה של לשכת בנות ברית "השחר" ומזכ רה כללית של מרכז "בנות ברית" בישראל. כתבה מחקר במקצועה (החומר נמצא ב"בריטיש מוז אום" בלונדון).
+
+ בתה: <persName>ורדית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3545 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3545</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

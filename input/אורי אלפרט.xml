@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4433 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4433</bibl><bibl>Volume: #14 ,Page: 4434 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4434</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אורי אלפרט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קובל</placeName> (פולניה) בשנת תרס"ט (10.5.1909).
+
+ לאביו <persName>מאיר אלפרט </persName> (מצאצאי הרב מפרוז'נה) ולאמו<persName> פייגה</persName> בת<persName> ירוחם כהן.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה בבריסק אצל הרב <persName>סולוביצ'יק</persName> ואח"כ בגמנסיה עברית בעיר מולדתו. שמע הרצאות באוניברסיטה העברית בירושלים בארכיאולוגיה.
+
+ היה מזכיר החלוץ וראש המועדון הספורטיבי "קדימה" בעירו.
+
+
+ ביום 10 לינואר 1925 עלה לארץ.
+
+ עבד כפועל בנין, שרברב ומזכיר אגודת פועלי המתכת.
+
+ היה חבר בגדוד העבודה ביבנאל ובת"א.
+
+ בשנת 1933 נשא לאשה את<persName> מרים</persName> (מיקה) בת <persName>ליבוש גולדשמיד.</persName>
+
+ חבר הגנה מ''פ, מפקד עיר העתיקה, במאורעות 1929 מפקד ההגנה בסנהדריה, במאורעות 1936 מפקד שכונת ברנר.
+
+ שירת בצבא הבריטי ביחידות עבריות בתקופת מלחמת העולם השניה.
+
+ כתב מאמרים מפעם לפעם בנושאים מקצועיים. השתתף בעריכת ספר ההתנדבות. חבר מועצת התעשיה של משרד המסחר והתעשיה ומועצת שרות התעסוקה של משרד העבודה.
+
+ פרסם חוברת "טיפול בגן ועבודה חקלאית".
+
+ חבר מרכז מפא"י ומזכיר בפועל במועצת פועלי מחוז תל-אביב-יפו.
+
+ מזכיר המועצה ועסקנות מפלגתית.
+
+ חבר הועד הפועל של הסתדרות העובדים הכללית.
+
+ חבר המחלקה לאיגוד מקצועי.
+
+ חבר במוסדות הפועלים.
+
+ חבר: הועדה הכלכלית של מפא"י, הנהלת שיכון עובדים, הנהלת התזמורת הפילהרמונית, הנהלת האופרה הישראלית, מרכז החיילים המשוחררים, הנהלת אוצר החייל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4433 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4433</bibl><bibl>Volume: #14 ,Page: 4434 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4434</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

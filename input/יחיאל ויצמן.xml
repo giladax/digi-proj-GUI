@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2871 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2871</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יחיאל ויצמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פינסק</placeName> (פולין) בשנת תרנ"ב (5.7.1892). לאביו <persName>עוזר</persName> (סוחר יערות, מחסידי סטולין ועסקן) ולאמו<persName> רחל לאה</persName> בת <persName>מיכאל צ'מרינסקי </persName> (ממשפחת תלמידי חכמים נודעים. בשנת 1921 הוציא הד"ר <persName>חיים ויצמן</persName> (נשיא מדינת ישראל) בנה, אותה ואת בנה פייבל ממוסקבה ועלו לא"י. נפטרה בשנת 1939).
+
+ קבל חנוך מסורתי בחדר, בי"ס גבוה, אקדמיה - לחקלאות בברלין, מוסמך לחקלאות (1913) - אגרונום. ממיסדי ארגון צעירים ציונים ב<placeName>פינסק</placeName> בשם "שרש ציון''.
+
+ בשנת 1913 עלה לארץ (ביקור קודם 1912). בשנת 1920 נשא לאשה את <persName>יהודית</persName> בת ד"ר <persName>גרשון</persName> <persName>יצחק קרישבסקי</persName> (ראה כרך שני, עמוד 884).
+
+ בשנות 1920-28 סגן מנהל המחלקה לחקלאות ודייג בממשלה המנדטורית.
+
+ בשנות 1928-35 המנהל לאיזור המזרח התיכון של "התעשיה הכימית הקיסריות" I.C.I.() בשנת 1935 מיסד ושותף בית החרשת "תובל" בעכו.
+
+ גאל את אדמת "תל-מונד", נטע את הפרדסים והקים בניני הכפר.
+
+ נטיעות על חולות הנודדים בין עכו וחיפה, יעור במקומות שונים בהרי הכרמל, נטיעת יער האורנים על יד חיפה - בו מוקמים כיום בניני הטכניון החדשים.
+
+ יו''ר החברה למטעי אגוזי פיקן בדרום הארץ.
+
+ צאצאיו: <persName>יעל </persName> (מוסמכת לכימיה מהאוניברסיטה העברית בירושלים),<persName> עזר</persName> (אלוף משנה בחיל האויר צ.ה.ל.)
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ה' תמוז תשי"ז (4.7.57)
+
+ (ראה כרך ז', עמוד 2871)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2871 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2871</bibl>            <bibl>Volume: #9 ,Page: 3412 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3412</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

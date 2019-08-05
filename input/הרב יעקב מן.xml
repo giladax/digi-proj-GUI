@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 1029 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1029</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יעקב מן</persName>
+
+</head>
+         <div><p> נולד ברז'יצה, פלך ויטבסק (רוסיה הלבנה), בשנת תר"ו (1846), לאביו ר' <persName>משה יהודה ליב</persName> בן הרב<persName> יונה</persName> , דיין ברז'יצה, ואשתו<persName> גיטל</persName> בת ר' <persName>אליעזר פרידלנד</persName> מד וינסק (שלפי מסורת המשפחה הגיעה שלשלת יחוסו עד <persName>לשמעא בן ישי</persName> אחי <persName>דוד המלך</persName> ).
+
+ בעודו תינוק עברה כל המשפחה למחוז חרסון, ואחרי שאמו נספתה במגפה בעיירה קאמינקה גדל בחרסון בבית אביו, שהיה, שם, שותף עם אחיו <persName>דוד</persName> בתעשית סיד ולבנים ובקבלנות בנין לממשלה. קיבל חינוך תורני מפי מלמדים ומפי אבי-אביו, שהיה אז דיין בחרסון.
+
+ בשנת תרי"ט עלו ארצה הסב והדוד ר' <persName>דוד</persName> ובני ביתם והתישבו בירושלים, ובשנת תר''כ, עלה גם הוא עם אביו ואמו-חורגתו ודודו <persName>דוד פרידלנד</persName> .
+
+ למד בישיבות ירושלים והגיע לידיעה רבה בתורה וכושר-הסברה מצוין.
+
+ נשא לאשה את <persName>אסתר חשה</persName> בת הרב <persName>יצחק </persName> בהרב משה חעשין.
+
+ עסק זמן-מה בהרצאת שיעורי תלמוד לצעירים בחברת "דגל תורה" ובהוראת תלמוד לנערים. אף הציעו לו להיות רב ודיין, אך הוא סירב להתפרנס מהתורה ויצא לעבודה. השתתף בתעשית הסיד, הלבנים והרעפים של אביו ודודו, שפיתחו את מפעלם גם ביפו ואח"כ החל לעסוק בקבלנות בנין, מהיהודים הראשונים במקצוע זה בירושלים. הוא היה הראשון שהכניס את עולי תימן לעבודה בבנין ובסיתות אבנים, והם קראו לו "אבא". הצטרף לר'<persName> יוסף ריבלין </persName> בבנין השכונה "משכנות ישראל". הקים בנינים רבים בירושלים ואף ערך את תכניותיהם כמו אדריכל מומחה. בין הבנינים הגדולים שהקים: בית-הספר למל, בית-החולים "שערי צדק" ועוד.
+
+ סידר לפועליו ואף לאחרים שיעורים במשנה, גמרא ושאר לימודי התורה, וגם הרצה בהם בעצמו. מלבד גדולתו בתורה וביראת-שמים היה מפורסם בחכמתו ופקחותו. הרבה אמרות חכמה המהלכות בישראל משלו הם, ומפוזרים בכמה ספרים מבני דורו.
+
+ נפטר בירושלים, ט' טבת תרס"ט.
+
+ צאצאיו; <persName>חיים, יונה, יצחק דוד</persName> (מבעלי הפירמה "מן וברמן" ועסקן צבורי), <persName>עדה לאה</persName> (ז"ל), <persName>פשה</persName> אשת ר' אברהם אריה הלוי המבורגר.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 1029 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1029</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

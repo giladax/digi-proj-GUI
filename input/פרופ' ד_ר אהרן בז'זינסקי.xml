@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3955 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3955</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' ד"ר אהרן בז'זינסקי</persName>
+
+</head>
+         <div><p> נולד בלודז (פולין) בשנת תר"ע (8.7.1910).
+
+ לאביו<persName> אברהם יהודה בז'זינסקי</persName> (סופר ועסקן צבורי ידוע. ראה כרך ג', עמוד 1330) ולאמו <persName>רבקה </persName> בת<persName> משה</persName> <persName>אריה אלנברג.</persName>
+
+ קיבל חינוך מסורתי. בוגר בית ספר תיכון עברי בלורז. אוניברסיטאות: סורבון (פריס) 1936 M.D.
+
+ בשנות 1952-53 השתלמות בארה"ב.
+
+ בשנת 1936 עלה לארץ.
+
+ רופא למחלות נשים ולידה.
+
+ פרופ' ד"ר מנהל מחלקת הנשים והיולדות בבית החולים האוניברסיטאי "הדסה" בירושלים.
+
+ בשנת 1950 נשא לאשת את<persName> רחל</persName> בת<persName> נסים לוי.</persName>
+
+ חבר באיגוד בינלאומי של הגיניקולוגיה, באיגוד בינלאומי לפריה ורביה ובאיגוד בינלאומי של החירורגים.
+
+ בשנת 1956 השתתף במשלחת רפואית לאי-מאוריציוס, וב-1946 במשלחת רפואית לאי-קפריסין.
+
+ כן השתתף בכינוסים מדעיים בארצות הברית, אנגליה, איטליה, אוסטריה וצרפת.
+
+ עיקר כתביו כ-100 חיבורים מדעיים על מחלות נשים ועל מילדות ועל נושאים רפואיים מדעיים כלליים.
+
+ בניו:<persName> אמנון </persName> (1951), <persName>רפאל </persName> (1955).
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בירושלים, כ"ז אב תשכ"ג (17.8.63)
+
+ (ראה כרך י"ב, עמוד 3955)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3955 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3955</bibl>            <bibl>Volume: #13 ,Page: 4357 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4357</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 729 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/729</bibl><bibl>Volume: #2 ,Page: 730 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/730</bibl>
+<bibl>Volume: #2 ,Page: 731 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/731</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל זלמן ליובין</persName>
+
+</head>
+         <div><p> נולד בהומל, רוסיה, בשנת תרכ"ה (1865), לאביו <persName>ר' יואל </persName> (סוחר בהומל, עלה ארצה בתרנ"ב, הצטרף לראשוני חדרה תושבי ה"חאן" ולאחר כמה שנים הביא את משפחתו לחדרה. נפטר בזכרון יעקב, ח' אדר תרנ"ח). למד בחדרים ובישיבות. נשא לאשה את <persName>חיה</persName> בת <persName>בנציון ברוך</persName> מביכוב, פלך מוהילב. עסק במסחר בהומל והיה פעיל בעניני הצבור וחיבת ציון.
+
+ ביקר פעמים אחדות בארץ ובשנת תרס"ג עלה עם משפחתו והתישב בחדרה. עבד בשקידה במשק, עסק בצרכי צבור ונתחבב על התושבים במדותיו התרומיות וכיבדוהו כתלמיד-חכם ושומר תורה ומצוה. הוא ורעיתו נשאו באומץ את יסורי ההתערות בארץ-ישראל (חמש מבנותיהם מתו בקדחת הצהובה).
+
+ נפטר בחדרה, כ"ה תשרי תרע"ד, רעיתו נפטרה גם היא בחדרה, ר"ח חשון תרע"ז.
+
+ צאצאיהם:<persName> ריבה </persName> אשת <persName>זלמן אשבל, אסתר </persName> ז"ל (נישאה <persName>לאהרן סמסונוב</persName> , ילדה לו את<persName> אריה</persName> ונפטרה כעבור שלש שנים אחרי נשואיה),<persName> ביילה </persName> אשת <persName>זאב פריביט</persName> <persName>קובסקי, שרה, טובה ז"ל, משה, נחמן, מרים ז''ל, עדה</persName> ז"ל (אשת<persName> זאב סולר), נעמי </persName> ז"ל.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 729 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/729</bibl><bibl>Volume: #2 ,Page: 730 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/730</bibl>
+<bibl>Volume: #2 ,Page: 731 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/731</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

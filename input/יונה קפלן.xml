@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3171 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3171</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יונה קפלן</persName>
+
+</head>
+         <div><p> נולדה בעיירה טליחאני, ע"י פינסק, סיון תרס"ו (15.6.1906).
+
+ לאביה <persName>אליהו פיינשרייבר </persName> (בן הרב יעקב מקוסויבי) ולאמה<persName> שרה איטה</persName> בת <persName>יעקב הרש זהקם-פיטקובסקי</persName> (ממשפחה מיוחסת לר' <persName>ישראל הי"ד</persName> , מקדושי רוז'ינוי,
+
+ מוצא המשפחה מגזע גאונים וקדושים מצד אחד, עד <persName>רש"י</persName> ולמעלה ממנו עד<persName> הלל הכהן,</persName> ומצד שני - מגזע <persName>רב שרירא ורב האי גאון,</persName> ומרבנו <persName>זרחיה הלוי</persName> בעל <persName>"המאור"</persName> ועוד גאוני ספרד).
+
+ קבלה חנוך מסורתי וכללי בבי"ס תיכוני. בברלין למדה מלאכת מחשבת.
+
+ בשנת תרפ"ד (1924) עלתה לארץ.
+
+ עבדה בתפירה ובציור. נסעה לברלין וגמרה שם בי"ס לאמנות "ריימאן".
+
+ ב-1932 פתחה בת"א בי"ס פרטי על שמה "יונה",לתפירה ולגזרה. חנכה מאות תלמידות במקצוע זה.
+
+ בשנת תרצ"ה (1935) נישאה ל<persName>מרדכי</persName> (מקס)<persName> קפלן</persName> (סגן אלוף. ראה את הערך שלו בכרך זה).
+
+ צאצאיה : <persName>רות, דן, נעמי, מיכל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3171 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3171</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

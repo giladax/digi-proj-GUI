@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3988 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3988</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמעון בז'רנו</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פלובדיב</placeName> (בולגריה), כ"ה תשרי תרע"ו (28.10.1910).
+
+ לאביו <persName>מיכאל </persName> ולאמו<persName> יוליה</persName> בת<persName> משה רומנו</persName> (אחת המשפחות הציוניות הותיקות ביותר בבולגריה, שממנה יצאו מספר רב של מנהיגי הציונות הבולגרית במשך שני דורות).
+
+ קיבל חינוך לאומי-ציוני. השתלם בשויצריה.
+
+ האוירה והחינוך הציוני, שהיו מושרשים עמוק במשפחות<persName> רומנו-ובז'רנו</persName> הם שגרמו לכך, כי לאחר שמשפחת בז'רנו עברה לגור באיטליה, לא השתרשה שם ומצאה אח"כ את דרכה לא''י.
+
+ בשנת 1936 עלה לארץ.
+
+ בשנת 1938 נשא לאשה את<persName> מליטה</persName> (ליטי) לבית <persName>ליכטנשטיין.</persName>
+
+ יסד יחד עם אחיו - תחילה את בית החרושת לסיגריות "אחים בז'רנו" בע"מ וקצת מאוחר יותר רכשו את בית החרושת "עסיס" ופיתחוהו לאחד המפעלים הגדולים והיעילים ביותר בענף המזון - בשם: בית חרושת לשימורי פירות וירקות "עסיס" ברמת-גן.
+
+ פעיל בהסתדרות הציונים הכלליים (הליברליים).
+
+ מטעם רשימתם נבחר לציר הכנסת.
+
+ חבר הנשיאות של הועד הפועל המרכזי של התאחדות בעלי התעשיה בישראל.
+
+ צאצאיו: <persName>אילנה</persName> אשת <persName>צבי רביב, דניאל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3988 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3988</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

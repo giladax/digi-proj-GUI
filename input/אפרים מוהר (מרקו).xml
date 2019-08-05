@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5462 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5462</bibl><bibl>Volume: #18 ,Page: 5463 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5463</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים מוהר (מרקו)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>בראילה</placeName> (רומניה), ט"ו אדר תר"ץ (15.3.1930).
+
+ לאביו<persName> אריה מרקו</persName> ולאמו <persName>אסתר</persName> בת <persName>אפרים.</persName>
+
+ קיבל חינוך בבי"ס תיכון בארגנטינה וונצואלה בדרום אמריקה, והשתלם בענף המכונאות.
+
+
+ בגיל 12 נוסף ללימודיו נכנס לחיי עבודה ויצירה והמשיך מאז ועד היום במסחר.
+
+ הגיע לארץ במח"ל בשנת 1947. אחרי מלחמת העצמאות חזר בשנת 1950 לביתו בוונצואלה. בשנת 1955 חזר לארץ לצמיתות.
+
+ את הוריו שלח לארץ עוד בשנת 1948. נפטרו בת"א בשנת 1952 והובאו לקבורה בקרית שאול.
+
+ בשנת 1957 נשא לאשה את<persName> פירחה</persName> בת <persName>אמיליה</persName> <persName>ומשה ויינר </persName> (מותיקי תל-אביב).
+
+ יסד והקים את אירגון סוחרי המכוניות הארצי שליד התאחדות הסוחרים הכללית. הקים את המוסדות לאשראי בענף המכוניות בארץ.
+
+ משנת 1962 יו"ר אירגון סוחרי המכוניות בארץ.
+
+ מנהל כללי של "אוטו-קרדיט", סחר מכוניות, בתל-אביב.
+
+ חבר הנהלת התאחדות הסוחרים הכללית בישראל.
+
+ מצטיין במידות תרומיות, ירש מאביו את התכונה של "מתן בסתר". שיקם בארץ עשרות מבני משפחתו, שהביא אותם לארץ. מושיט עצה ותושיה לכל נצרך ונזקק, בתוך זה רבים מחברי אירגונו (אירגון המכוניות).
+
+ צאצאיו (נולדו בארץ):<persName> אירית, אבי </persName> (אברהם) <persName>מוהר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5462 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5462</bibl><bibl>Volume: #18 ,Page: 5463 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5463</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

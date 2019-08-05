@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1725 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1725</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים גולדמן</persName>
+
+</head>
+         <div><p> נולד בסלביטה (מחוז זסלב, ווהלין), א' באדר תרי"ב (1852), לאבי<persName>ו דב</persName> (גבאי אצל<persName> שמואל אבא,</persName> אדמו"ר
+
+ מסלביטה) ולאמו <persName>מלכה </persName> בת הרב <persName>בנימין צבי רבינוביץ</persName> (ראב"ד בברדיצ'ב).
+
+ קיבל חינוך מסורתי.
+
+ עלה ארצה עם הוריו בשנת תרכ"ה (1865). והתישבו בצפת. בגיל צעיר, כמנהג הימים ההם במשפחות החרדות, נשא לאשה את <persName>שרה רבקה</persName> בת <persName>ישראל מנחם זילברמן</persName> מברדיצ'ב (סוחר יינות).
+
+ פרנס את ביתו מהוראה. פתח בית ספר ללימוד כתיבת יידיש, עברית ורוסית. אחרי שנתיים נתקבל כמורה בבית הספר שפתח "הנדיב הידוע" הברון רוטשילד בצפת, בשעת ביקורו הראשון בארץ (תרמ"ז).
+
+ משנת תרנ"ז הוא עובד בשליחות כולל ווהלין, נשלח לבגדד ולהודו. לאחר שלש שנים חזר ויצא בשליחות "מושב זקנים" האשכנזי שבצפת לאמריקה. שהה שם שבע שנים. אחר שובו נתמנה ללנהל ומזכיר ישיבת רידב''ז (ראה כרך ג', עמוד 1466) מטעם כולל ווהלין וכולל אמריקה בצפת).
+
+ בעשר השנים האחרונות לפני מלחמת העולם הראשונה היה כותב-בקשות מקצועי.
+
+ שימש בצפת מזכיר "בני ברית". פרסם מאמרים ב.החבצלת"
+
+ בימי מלחמת העולם הראשונה היה אחד מחברי ועד החלוקה של כספי אמריקה בצפת יחד עם אליהו
+
+<persName>קליגר, חיים קלודיסקי, מוניש שטיינברג</persName> , חכם<persName> נחמן עבו</persName> <persName>וציון כרסנתי </persName> ועוד.
+
+ צאצאיו:<persName> טובה</persName> אשת <persName>אלתר ברנשטין ; אלתר גולדמן</persName> (אמריקה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1725 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1725</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

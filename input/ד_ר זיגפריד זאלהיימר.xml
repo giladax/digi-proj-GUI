@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4508 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4508</bibl><bibl>Volume: #14 ,Page: 4509 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4509</bibl>
+<bibl>Volume: #14 ,Page: 4510 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4510</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר זיגפריד זאלהיימר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>במברג</placeName> (גרמניה) בשנת תרנ''ג (9.9.1893). לאביו <persName>מיכאל</persName> (מכס) ולאמו<persName> סידוניה</persName> לבית <persName>אסטרליין.</persName> נתחנך באוניברסיטאות: ג'נבה, מינכן וברלין וקיבל תואר LL.B.
+
+ היה ידוע כמשפטן מזהיר ובהיר מחשבה.
+
+ החל את הקריירה שלו כסגן שופט ב-1919. כעבור שנה עבר לשדה הבנקאות.
+
+ בשנות 1920-34 היה מנהל "בנק דרמשטטר" והבנק הלאומי בברלין, וינה וקלן (בגרמגיה).
+
+ אליעזר הופין (ראה כרך ג', עמוד 1150) מנהלה הכללי של הבנק הלאומי (אפ"ק) הזמינו להצטרף לבנק.
+
+ בשנת 1934 עלה לארץ.
+
+ היה אחת הדמויות הבולטות של העליה הגרמנית ומדמותיה החביבות.
+
+
+ נתמנה באותה שנה לעוזר מנהל כללי בנק אנגלופלשתינה (כיום בנק לאומי לישראל בע"מ).
+
+ בשנת 1949 נתמנה סגן מנהל כללי ובשנת 1957, לאחר פטירתו של המנהל הכללי ד"ר<persName> אהרן בארט</persName> (ראה כרך א', עמוד 371), נתמנה למנהל כללי משותף של הבנק.
+
+ סייע לפיתוחם של כמה ענפי כלכלה: השוק לנירות ערך, עסקי ההנפקות, הבורסה, אשראים למשקי ההתישבות העובדת, הקמת חברות להשקעות ועוד.
+
+ חבר מועצת המנהלים של "בצור" בע"מ ; "גזית" בע"מ; "חברה א"י בע"מ"; "חברת אפ"ב להשקעות בע"מ".
+
+ נשא לאשה את <persName>אלישבע</persName> בת <persName>גיאורג יפה.</persName>
+
+ היה קשור בבורסה לניירות ערך בתל-אביב מתחילתה וכיהן כיושב ראש מנהלי הבורסה. כן היה חבר בדירקטוריונים של "בנק אגוד לישראל בע"מ"; "חברה להשקעות של בנק לאומי בע"מ; "אוצר לתעשיה בע"מ"; "אוצר לחקלאות בע"מ"; "בנק יעד לפיתוח חקלאי בע"מ" ו"בנק ציפיקו בע"מ" ציריך (כל אלה הנן חברות בנות של בנק לאומי לישראל בע"מ).
+
+ כמו כן היה חבר הדירקטוריונים של "בנק לפיתוח התעשיה בישראל בע"מ"; "חברת דלק בע"מ" ; "מגדל" חברה לביטוח בע"מ; "חברת חמי טבריה בע"מ"; "פיתוח ונאמנות בע"מ" ו"דקו" חברה להשקעות בע"מ.
+
+ היה חובב אמנות וידיד נאמן לכל פעולה אמנותית ותרבותית.
+
+ נפטר בתל-אביב, ט' בניסן תשכ"ג (3.4.1963).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4508 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4508</bibl><bibl>Volume: #14 ,Page: 4509 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4509</bibl>
+<bibl>Volume: #14 ,Page: 4510 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4510</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

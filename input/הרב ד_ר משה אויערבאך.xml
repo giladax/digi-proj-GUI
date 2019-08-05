@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 787 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/787</bibl><bibl>Volume: #2 ,Page: 788 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/788</bibl>
+<bibl>Volume: #2 ,Page: 789 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/789</bibl>
+<bibl>Volume: #2 ,Page: 790 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/790</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב ד"ר משה אויערבאך</persName>
+
+</head>
+         <div><p> נולד ב<placeName>האלברשטאדט</placeName> (הקהלה העתיקה בגרמניה, שמסורת התורה והיהדות נשתמרה בה בטהרתה עד הזמן האחרון), ד' אדר א' תרמ"א (1881), לאביו הרב <persName>אביעזר זליג</persName> ולאמו <persName>רוזה</persName> בת ר' <persName>יוסף הירש</persName> , ממשפחה ותיקה של רבנים ושוחרי ישוב ארץ-ישראל (אבי אמו קנה את המגרש של "בתי מחסה" בירושלים ובנה בו בתים ואחי סבתו מצד אביו, ר' <persName>מאיר פרנקל</persName> , בנה בחצר זו את בית-הכנסת "בית מאיר - אהל יצחק"). למד בבית-הספר של הקהלת ואח"כ בגימנסיה והמשיך ללמוד תלמוד מפי אביו ומפי חכמי ביתהמדרש שבעיר. למד תורה ומדעי היהדות בביתהמדרש לרבנים של הרב <persName>עזריאל הילדסהיימר</persName> בברלין והוסמך לרבנות, למד פילוסופיה באוניברסיטאות ברלין ושטראסבורג והוכתר בתואר דוקטור לפילוסופיה. היה תלמידם של הגאון ר' <persName>דוד הופמן</persName> , הרב ד"ר <persName>יוסף</persName> <persName>הלגמוט</persName> , הפרופ' <persName>אברהם ברלינר</persName> והמזרחן הנוצרי הנודע פרופ'<persName> נלדקה</persName> . בתרס"ז נתמנה למורה בבית-המדרש למורים יהודים בקלן.
+
+ נשא לאשה את <persName>ג'ני</persName> בת הרב דר. שמואל הימן קוטק.
+
+ בתרס"ט עלה ארצה ונתמנה למנהל ולמפקח של בתי-הספר החרדיים במושבות שנתמכו על-ידי היהודים
+
+ החרדים שבגרמניה (מוסדות-החינוך "נצח ישראל" ומוסדות החינוך של "פקידי ואמרכלי אמשטרדם" (כולל הולנד וגרמניה) בירושלים. בשנות מלחמת-העולם הראשונה היה חבר ועד הסיוע האמריקאי לעזרת נפגעי המשבר והמחסור בארץ.
+
+ בתרע"ז יצא לגרמניה, עמד בראש ארגון-הנוער הדתי "עזרא", היה סגן יו"ר האקדמאים הדתיים. היהודים בגרמניה, וכשפיתחו היהודים החרדים שבגרמניה פעולה תרבותית וחינוכית בשטח-הכיבוש בפולין נתמנה בתרע"ח למנהל הגימנסיה לבנות "חבצלת" בוארשה. אחרי המלחמה חזר לגרמניה והיה בשנות תרע''ט-פ"ב מורה בתלמוד-תורה בקלן, ומתרפ"ג ועד תרצ"ה מרצה בבית-המדרש לרבנים בברלין. באותו הזמן היה חבר המרכז הארצי של "אגודת ישראל" בגרמניה ובשנות תרצ"ג-צ"ה יושב-ראשו.
+
+ ביקר בארץ בשנות תרפ"א, תרפ"ו ותרצ''ב. בתרצ"ה חזר להשתקע בארץ ומאז הוא מנהל בתיהספר "נצח ישראל" לבנים ולבנות בפתח תקוה. חבר בחברת "נחלת ראובן" ובועד המנהל של ביתהחולים "שערי צדק" בירושלים.
+
+ פרסם מאמרים ומחקרים בעתונים ובכתבי-עת שונים בגרמנית ובעברית (ה"איזראליט" הפראנקפורט, "ישורון" של הרב ד"ר י. וולגמוט הברליני, "הדרך", "ההד"); בשנתונים ובספרי-יובל של החברה הספרותית הישראלית בפרנקפורט דמיין ושל בית-המדרש לרבנים בברלין. תרגם ופירש את המשנה של סוף סדר טהרות. חיבר מלון מפאר למלכילתא דרבי ישמעאל (בגרמנית) וכן ספרים בגרמנית על הריב בין רב סעדיה גאון וראש-הגולה דוד בן זכאי, היהודים בימי אדריאנוס קיסר, הסיפור על "ארבעת השבויים" (שכפי המסופר יצאו בשליחות הישיבות של גאוני בבל ומשנפדו מידי שוביהם, שודדי הים, הקימו מרכזים לתורה בצפון-אפריקה ובספרד), וסקירה פראגמאטית על תולדות ישראל. בעברית פרסם ספר תולדות ישראל (עד עתה יצאו שלשה חלקים מתקופת גלות בבל ועד להתפתחות החסידות).
+
+ צאצאיו: <persName>שמואל; לאה</persName> אשת יצחק נוסבאום; <persName>רחל</persName> אשת שרגא פנחס.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 787 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/787</bibl><bibl>Volume: #2 ,Page: 788 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/788</bibl>
+<bibl>Volume: #2 ,Page: 789 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/789</bibl>
+<bibl>Volume: #2 ,Page: 790 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/790</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

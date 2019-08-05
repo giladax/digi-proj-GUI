@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2293 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2293</bibl><bibl>Volume: #5 ,Page: 2294 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2294</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל ברקאי (ברקוביץ)</persName>
+
+</head>
+         <div><p> נולד בכ"ג חשון תר"ס (1899) באובודובקה, פלך פודוליה שבאוקראינה, לאביו<persName> יצחק </persName> ולאמו <persName>פיגה</persName> בת <persName>משה</persName> <persName>ליב ליפשיץ,</persName> שהיה מצאצאי שושלת האדמו"רים מצ'רנוביל.
+
+ אחרי למדו שנים אחדות בחדרים שלחוהו הוריו ארצה בתרע"ב ללמוד בגימנסיה הרצליה. בעת הגירוש הכללי מיפו באביב תרע"ז נדד עם הגימנסיה לשפיה,
+
+ שם גמר את חוק לימודיו ואח"כ עבר לחולדה ועבד ולימד את ילדי החברים.
+
+
+ אחרי שכבש הצבא הבריטי את דרום הארץ התנדב ב-1918 לגדוד העברי בין הראשונים, וכעת כבר מותר לגלות שהשתמש באפשרות שמצא לסייע בהעברת נשק להגנת הגליל. אחרי שחרורו מהצבא עבד שנים אחדות במשרדי שלטונות הצבא הבריטי בג'נין ובסרפנד, וכחבר הסתדרות העובדים מראשיתה נתקבל ב-1923 לעבודה בבנק הפועלים והגיע בו לתפקיד מנהל חשבונות ראשי.
+
+ נשא לאשה את<persName> רנה</persName> בת <persName>ראובן זאב ניק.</persName>
+
+ כחבר ה"הגנה" מראשיתה השתתף בעת מהומות מאי 1921 בהגנת נוה שלום שביפו. אח"כ השתתף בארגון התאים הראשונים של ה"הגנה". ב-1926 הטיל עליו <persName>יוסף</persName> <persName>הכט</persName> מפקד ההגנה ("ראש המרכז", כפי שנקרא אז) את תפקיד המחסנאי (האחראי למחסני הנשק) בתל-אביב, ובשרותו זה עד 1935 עסק ברכישת נשק בשביל תל-אביב ובתיכנון מחבואי נשק. באותו זמן היה חבר המפקדה בת"א, אח"כ עד 1941, סגן מפקד העיר, ומאז עד 1944 מפקד העיר ובנותיה (חולון, בת ים ומקוה ישראל). ב"שבת השחורה" (29.6.46), כשחיילים בריטיים פרצו בחמרי נפץ את בנק הפועלים, בחיפושם אחרי נשק, אסרו אותו בתור פקיד ראשי בבנק ה"חשוד", ומאחר שלא ידעו על תפקידיו ב"הגנה" שחררוהו כעבור יומים.
+
+ השתתף ביסוד לשכת הבנאים החפשים "בצלאל" והגיע בה לתפקיד מפקח שני.
+
+ במלחמת המולדת שרת בצה"ל בדרגת סגן אלוף ונתמנה לסגן מפקד הממשל הצבאי בשטחים המוחזקים.
+
+ בניו :<persName> יצחק, ראובן זאב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2293 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2293</bibl><bibl>Volume: #5 ,Page: 2294 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2294</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

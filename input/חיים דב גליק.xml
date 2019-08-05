@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3071 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3071</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים דב גליק</persName>
+
+</head>
+         <div><p> נולד בירושלים, ד' אב תרמ"ה (1885).
+
+ לאביו <persName>אברהם גרשון</persName> , מביאליסטוק ולאמו <persName>חיה צפורה.</persName>
+
+ קבל חנוך מסורתי בחדר ובישיבת תורת "עץ-חיים" בירושלים.
+
+ נכנס לעסקי אביו במסחר היינות.
+
+ היה חבר פעיל באגודת "אחוה".
+
+ בשנת תרס"ג נשא לאשה את <persName>פייגה רחל</persName> בת <persName>שמואל</persName> <persName>שקולניק</persName> . (ראה כרך ג', עמוד 1163), שנפטרה כעבור שנתים, ואז נשא לאשה את אחותה <persName>גוטה ביילה שקולניק</persName> .
+
+ בשנת תרע"ב (1912) נסע לאמריקה והמשיך במסחר היינות בשיקאגו. בשנת תרצ"ד (1934) חזר לארץ.
+
+ בשיקאגו היה נשיא הסתדרות בני א"י וחבר ועד הקהלה בשיקאגו. וכן היה פעיל בכל עבודה צבורית.
+
+ בארץ נהיה שותף בביהח"ר "בהט" - לתעשית מרצפות בבת-ים.
+
+ יחד עם <persName>משה פדרמן ומיכאל מרכוס</persName> רכש ספינה בשם "ארנון" במטרה לפתח את המסחר בין א"י והארצות השכנות.
+
+ במלחמה העולמית השניה הוחרמה האניה ע"י הצי הבריטי ונטיעה ע"י האויב.
+
+ נפטר בשיקגו כ"ג תמוז תש"י (8.7.1950).
+
+ צאצאיו (מאשתו הראשונה): <persName>נח, </persName> מהשניה : <persName>מרדכי</persName> <persName>מקס, אידה</persName> אשת <persName>אריה כהן, רות שוארץ.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3071 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3071</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

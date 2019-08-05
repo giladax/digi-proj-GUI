@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1849 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1849</bibl><bibl>Volume: #4 ,Page: 1850 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1850</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק (קאזי) סירקין</persName>
+
+</head>
+         <div><p> נולד בקיוב, בשנת תרע"ב (4.1912 20), לאביו <persName>נחמן </persName> (ראש ההסתדרות הציונית באוקראינה ויו"ר הקהלה בקיוב) ולאמו <persName>צציליה</persName> בת <persName>מאיר טיומקין.</persName>
+
+ את חינוכו הראשון קיבל בבית ספר עממי בקיוב. בשנת 1920 (שנתים לאחר מות אביו) עבר עם אמו לורשה ומשם ב-1926 לברלין. שם קיבל חינוך תיכוני וגבוה וקיבל תואר כלכלן מדופלם (1933).
+
+ בשנת 1933 עלה לארץ (לאחר שביקר בה ב-1931), עבד בפירמה <persName>ארשבסקי-מנפלד בע''מ,</persName> לאספקת ציוד
+
+
+ הנדסי. אח"כ (אחרי מזוג החברה עם 2 חברות אחרות) עבד בחברה שנקראה "ארץ-ישראלית להנדסה בע"מ" וניהל בה את מחלקת ההשקאה.
+
+ בשנת 1940 התפרקה החברה מרצונה הטוב, וביחד עם חברו<persName> יהודה אלראי</persName> עשו את הליקוידציה של החברה הנ"ל. כשנה לפני פרוק החברה יסד יחד עם <persName>יהודה</persName> <persName>אלראי</persName> (ובאשור החברה הנ"ל) את המשרד הטכני "י. סירקין את י. אלראי", חברה לציוד הנדסי ותעשיתי ומנהלה.
+
+ משנת 1935 פעיל בהגנה וחבר בארגון המפעל "כפר הישוב".
+
+ בשנת 1942 התגייס, לפי צו המוסדות הלאומיים, לצבא הבריטי ונשלח לקורס קצינים שסיימו בהצלחה. שירת בחיל ההנדסה עם פלוגת המחסנים בבית נבאללה (עד 1943), בפלוגה 544 אשר פעלה במסגרת של המחנה השמיני.
+
+ עם הפלוגה הנ"ל עבר את המדבר המערבי וקירינאיקה ואח"כ את איטליה, אשר בה נשאר עד גמר שרותו.
+
+ לאחר שחרורו (באפריל 1946) חזר לת"א ולמשרדו.
+
+ בינואר 1947 נקרא לשירות מלא בהגנה ועם פרוץ מלחמת השחרור, בחיל ההנדסה של ההגנה. נתמנה למפקד חיל ההנדסה במחוז תל-אביב ובחטיבת קריתי. היה ממונה על כל פעולות הבצורים, המיקוש והחבלה בחזית התל-אביבית והשתתף בפעולות כיבוש רמלה, לוד וכו'.
+
+ אח"כ נתמנה למפקד כוחות ההנדסה בצ. ה. ל. במרחב חזית המרכז (כולל ירושלים) וכיהן בתפקיד זה עד גמר הפעולות.
+
+ באפריל 1949 נתמנה כסגן מפקד חיל ההנדסה במטה הראשי.
+
+ בתו:<persName> ליאורה</persName> (מאשתו לשעבר,<persName> שולמית</persName> בת <persName>נפתלי</persName> <persName>תורן).</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1849 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1849</bibl><bibl>Volume: #4 ,Page: 1850 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1850</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4025 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4025</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרבנית רחל קוק</persName>
+
+</head>
+         <div><p> נולדה בירושלים, י"ב אייר תרס''ה (17.5.1905).
+
+ לאביה ר' <persName>שמחה מנדלבוים</persName> (ראה כרך ב', עמוד 587) ולאמה <persName>אסתר ליבה</persName> בת הרב<persName> נחום אפשטיין</persName> , האדמו"ר מקוברין.
+
+ קיבלה חינוך מסורתי בבית-ספר תיכון דתי.
+
+ בשנת תרצ"ב (1932) נישאה להרב <persName>רפאל הכהן קוק</persName> (ראה בכרך זה).
+
+ נשיאת לשכת "נחמה" - בנות ברית בטבריה. יו"ר אירגון אומן, אילנשיל-פוליו (בשנה האחרונה אספה תרומות בסך 12 אלף ל"י).
+
+ יסדה גני ילדים דתיים ופעילה מאוד בחינוך דתי. פעילה מאוד בהגשת עזרה לעולים החדשים במעברות, ונקראת בפיהם "אם המעברות".
+
+ צאצאיה: הרב <persName>שלמה הכהן קוק</persName> (רב סרן בצה"ל, רב למחוז ירושלים), הרב <persName>שמחה הכהן קוק</persName> (ראש ישיבת "מרום ציון" בירושלים), הרב <persName>נחום הכהן קוק</persName> (רב ברמת יצחק, רמת-גן), <persName>שרה</persName> אשת הרב<persName> יעקב כץ,</persName> <persName>אברהם יצחק, לאה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4025 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4025</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

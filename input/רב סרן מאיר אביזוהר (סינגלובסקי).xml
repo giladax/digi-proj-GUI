@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3356 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3356</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רב-סרן מאיר אביזוהר (סינגלובסקי)</persName>
+
+</head>
+         <div><p> נולד ירושלים, כ"ט תשרי תרפ"ד (9.10.1923).
+
+ לאביו <persName>יהושע </persName> (איש העלית השניה, מראשוני המורים לטבע בארץ ; אחיו של ד"ר<persName> סינגלובסקי </persName> ז"ל, יו"ר הועד העולמי של חב' "אורט") ולאמו<persName> לאה </persName> בת<persName> דב לוין</persName> .
+
+ למד בבית-ספר עממי ותיכון בירושלים ובאוניברסיטה העברית בירושלים. חניך תנועת הנוער החלוצית "המחנות העולים". עבר הכשרה חקלאית בגבעת ברנר ובגבעת עדה.
+
+ ב-1942 נשא לאשה את<persName> אסתר </persName> בת<persName> צבי קלוגר</persName> .
+
+ באותה שנה התנחל עם קבוצתו (חרמונים) בחמדיה שבעמק בית-שאן ושימש בתפקיד מזכיר המשק.
+
+ במלחמת משחרור שירת כחייל בגדוד מוריה בזמן מצור ירושלים. אח"כ קצין בתפקידי הסברה בצה''ל (1949). ב-1950 היה עורך עתון הצבא "במחנה", עד שהתישב באילת בין מיסדי הישוב האזרחי שם והיה חבר הועד המקומי הראשון. בשנים 1954-1953 היה מנהל אגף הנגב והערבה במשרד הפיתוח. אח"כ חזר לשרות-קבע בצה"ל בתפקיד רב-סרן - עורך ראשי של "במחנה", עתון חיילי ישראל.
+
+ צאצאיו: <persName>אסף, ענת.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3356 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3356</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

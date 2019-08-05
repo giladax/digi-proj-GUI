@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2713 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2713</bibl><bibl>Volume: #6 ,Page: 2714 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2714</bibl>
+<bibl>Volume: #6 ,Page: 2715 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2715</bibl>
+<bibl>Volume: #6 ,Page: 2716 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2716</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הבארון א. ב. (אדמונד) דה רוטשילד</persName>
+
+</head>
+         <div><p> (ראה בכרך זה, עמוד 2441)
+
+ בעמוד 2442 - טור ראשון: <persName>שמעון וולף</persName> היה תושב פראנקפורט- אביו - <persName>קרל מאיר</persName> היה גר בניאפול.
+
+ בעמוד 2443 - טור ראשון: - השטח הכללי של קרקע אשר נגאל בארץ ע"י הבארון ופיק''א ביחד היה בערך 510.000 .דונם,
+
+ בכל מקום שנזכר שם חבר מהענף הצרפתי של משפחת רוטשילד נחוץ להוסיף את המלה "דה" לפני "רוטשילד''. דבר זה כולל גם את מר<persName> ג'ימס דה רוטשילד</persName> (ראה את הערך שלו בכרך זה, בעמוד 2613), בנו של הבארון, הגר בלונדון. היות ומי<persName> ג'ימס דה רוטשילד</persName>
+
+ הוא נתין בריטי כעת, יש צורן לבטל את השמוש בתואר "בארון".
+
+ בעמוד 2445 - טור ראשון: - פיק"א לא היתה אף פעם ה"סניף של יק''א לעניני א''י. כאשר העביר הבארון את "הנהלת הבארון" ליק''א נוצרה "הועדה הארצישראלית של יק''א'', היו"ר היה הבארון וההון שבו שתמשה הועדה היה ון בארון. על כן - לועדה יתה תמיד עצמאות בעניני א"י. ע"י יסודה של פיק"א נעשה המפעל הארצישראלי עצמאי לגמרי.
+
+ בעמוד 2445 - טור שני: - שטח הגנים והמדשאות שברמת הנציב הוא 70 דונם.
+
+ בעמוד 2613 - בערך של מר<persName> ג'ימס דה רוטשילד</persName> לא השתמש בשם "בארון". וכן בטור ראשון: - בנוגע <persName>לשמעון וולף,</persName> באה לעיל - התקון בעמוד 2442.
+
+
+ בעמוד 2613 - בטור שני: - אות ההצטינות הוענקה לו ע''י הממשלה הבריטית ולא הצרפתית,
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2713 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2713</bibl><bibl>Volume: #6 ,Page: 2714 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2714</bibl>
+<bibl>Volume: #6 ,Page: 2715 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2715</bibl>
+<bibl>Volume: #6 ,Page: 2716 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2716</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

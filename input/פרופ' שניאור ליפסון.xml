@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4764 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4764</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' שניאור ליפסון</persName>
+
+</head>
+         <div><p> נולד ב<placeName>תל-אביב</placeName> בשנת תרע"ד (1914).
+
+ נתחנך בגמנסיה "הרצליה'', למן מכינה א' ועד גמר חוק-למודיו בשנת 1931.
+
+ בשנת 1932 השתתף ביסוד הקבוץ הראשון של תנועת "השומר הצעיר" בארץ, הוא קבוץ "ניר-דוד" אשר בעמק בית-שאן, והיה בו כשבע שנים.
+
+ בשנת 1939 עבר להיות מורה למדעי-הטבע במוסד החנוכי במשמר-העמק, ורק בסוף 1943 התחיל ללמוד פיסיקה-מתמטיקה באוניברסיטה העברית בירושלים. סיים את חוק למודיו מיד לפני פרוץ מלחמת-השחרור.
+
+ בתקופת מלחמת-השחרור הצטרף ל"חיל-המדע" (המ"ד) של צה"ל, ולאחר מלחמת-השחרור התחיל את עבודתו במחלקה לפולימרים של "מכון-וייצמן", כתלמידו של פרופ' <persName>אהרן קציר</persName> , במסגרת עבודתו ב"מכון-וייצמן" עשה את עבודת-הדוקטור שהגיש לאוניברסיטה בירושלים בשנת 1952.
+
+ בשנת 1954 קיבל "מענק וייצמן" ועשה שנתהשתלמות במחיצתו של פרופיסור <persName>דביי</persName> בארצותהברית ופרופיסור הרמס בהולנד.
+
+ בשנת 1958 הועלה לדרגת פרופיסור-חבר. עם הקמת המועצה המדעית של מכון-ויצמן בשנת 1918 נבחר להיות יושב-ראש המועצה.
+
+ פירסם כ-25 מחקרים בבעיות תיאורטיות שונות. רובם של מחקרים אלה נוגע למיבנה ולהתנהגות של מולקולות פוליאלקרוליטיות, מולקולות חוטיות ארוכות הנושאות מיטענים חשמליים - ולתמונות המיוחדות במינן של תמיסות ומערכות מוצקותלמחצה המכילות מולקולות כאלו. כן עסק בחקר תכונות פולימרים רגילים, מסוג אלה המהווים את החמרים הפלאסטיים, בבעית ההפיכה של אנרגיה כימית למיכאנית, ביציבות תנועתם של סילוני נוזלאלאסטי נזרקים לאויר, בבעיות הקשורות בפעילותם של אנזימים ועוד.
+
+ זכה ב"פרס וייצמן" של עירית תל-אביב על "בעיות טכניקה פטטיסטים של פולימרים".
+
+</p>
+<p>
+
+ תוספות: 
+
+ (המשך לערך שלו בכרך ט"ו, בעמוד 4764) זכה בפרס ישראל לשנת 1969, על עבודתו בפיתוח שיטות מתימטיות לפיענוח המיבנה של מול-קולות ענק בעלות תפקידי מפתח בתא החי.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4764 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4764</bibl>            <bibl>Volume: #18 ,Page: 5483 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5483</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

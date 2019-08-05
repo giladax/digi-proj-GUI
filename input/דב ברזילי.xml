@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5580 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5580</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב ברזילי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>חדרה</placeName> (ישראל), ז' שבט תר"ץ (5.2.1930).
+
+ לאביו<persName> משה</persName> ולאמו <persName>צפורה</persName> בת<persName> שמואל פפר</persName> .
+
+ קיבל חינוך עברי לאומי בשנת 1943 בבית הספר היסודי "אחד העם", ובבית ספר תיכון ב<placeName>חדרה</placeName>. בשנת 1947 סיים את הגמנסיה ב<placeName>חדרה</placeName>.
+
+ למד משפטים בפקולטה למשפטים של האוניברסיטה העברית בירושלים וקיבל תואר עורך דין M.J. בשנת 1954.
+
+ בשנים 1946-47 מפקד שבט הצופים ב<placeName>חדרה</placeName>. בשנת 1948 בפלמ"ח, גדוד 9 - גדוד הפשיטה. בשנת 1949 מפקד גדוד גדנ"ע שומרון (לאחר פציעה בקרב על נגבה. נכה מלחמת השחרור).
+
+ מרכז לשכת עבודה בהסתדרות הסטודנטים בירושלים.
+
+ במחצית השניה של 1949 המשיך לעבוד כמודד במחלקת המדידות הממשלתית.
+
+ בתקופת ההגנה היה חבר פעיל בה.
+
+ בשנת 1953 נשא לאשה את<persName> חנה </persName> בת <persName>שמאי אינהבר.</persName>
+
+ החל משנת 1956 עבד ב<placeName>חדרה</placeName> כעורך דין, ומשנת 1957 בעל משרד עורך דיו עצמאי.
+
+ בבחירות בדצמבר 1969 נבחר כראש עיריית העיר חדרה.
+
+ תחת הנהלתו גדלה העיר ותושביה.
+
+ אח ב"בני ברית", אח "בלשכת הבונים החפשים".
+
+ חבר הנהלת מרכז השלטון המקומי.
+
+ חבר ועדת בנין ערים מחוזית חיפה.
+
+ בנותיו ;<persName> ענבל, זהר</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5580 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5580</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

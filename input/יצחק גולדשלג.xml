@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3476 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3476</bibl><bibl>Volume: #10 ,Page: 3477 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3477</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק גולדשלג</persName>
+
+</head>
+         <div><p> נולד י"ג סיון תרפ"א (19.5.1921) ברוזדול שבמזרח גליציה.
+
+ לאביו<persName> משה </persName> ולאמו <persName>זהבה</persName> (גולדה) בת ר' <persName>דוד שמואל</persName> <persName>פיקהולץ.</persName>
+
+ למד בחדר ובבית-ספר עממי ממשלתי בפולנית.
+
+
+ בתרצ"ה עלה לארץ עם הוריו והשתקעו בירושלים. למד בבית המדרש למורים מזרחי והיה פעיל כמדריך ב"בני עקיבא" ואח"כ כרכז המשמרת הצעירה של הפועל המזרחי בירושלים.
+
+ בשנת תש"ח ערך (יחד עם <persName>חיים קוברסקי </persName> וד"ר <persName>י. ד. במברגר</persName> ) את הירחון "ילקוט" (מבחר דברים
+
+ מעתונות עברית ולועזית) ואת המדור האקדמאי של "קול ירושלים".
+
+ בשנת תש"ט נשא לאשה את<persName> אהובה</persName> בת ר'<persName> יצחק</persName> <persName>קרויזר</persName> (דור שלישי בירושלים).
+
+ בשנים האחרונות הנו סגן המזכיר הכללי במרכז העולמי של המזרחי והפועל המזרחי, היה חבר המועצה והמזכירות בסניף הירושלמי של הפועל המזרחי, ומשנת תשי"ז יו"ר ועדת התרבות וחכר ההנהלה המצומצמת של המפלגה הדתית-לאומית בירושלים, וכן חבר ועדת התרבות של העירית וחבר המועצה הצבורית של "קול ציון לגולה", סופר קבוע של "הצופה" ומפרסם מאמרים ורשימות ב"אור המזרח", "עם וספר", "שלוחות", "זרעים", "מסד", בהוצאות הפריודיות בעברית ובאידית הנשלחות מירושלים לגולה ושהמפלגה מוציאה באידית בפאריס ובאנגלית בניו-יורק. כן פרסם מאמרים ב"ספר צייטלין", ב"הגלגל", ,ההד", "מחברת", "מחנים" (שבועון הרבנות הצבאית לחייל הדתי) ועוד. משתתף ב"אנציקלופדיה של הציונות הדתית".
+
+ חיבר את החוברת "מוילנה עד ירושלים" (לתולדות המזרחי העולמי). השתתף בעריכת קובץ "כל הארץ" נגד חלוקת הארץ, שיצא בכסלו תשי"ז, ולחג השבועות תשט"ו ערך קובץ-חג מיוחד של "מחנים" לחייל הדתי.
+
+ צאצאיו: <persName>נאוה, משה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3476 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3476</bibl><bibl>Volume: #10 ,Page: 3477 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3477</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

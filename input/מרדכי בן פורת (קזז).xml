@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5376 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5376</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי בן-פורת (קזז)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>בגדד</placeName> (עירק), ב' תשרי תרפ"ד (12.9.1923). לאביו <persName>נסים קזז</persName> ולאמו <persName>רגינה</persName> בת <persName>שמואל עבדול</persName> <persName>עזיז</persName> .
+
+ קיבל חינוך כללי וקיבל תואר B.A. ,P.Sc.. היה חבר תנועת "החלוץ" וההגנה במחתרת בעירק.
+
+ בשנת 1945 עלה לארץ.
+
+ בשנים 1949-51 נשלח לעירק בשליחות הממשלה
+
+ ופעל לעלייתם הבלתי-ליגלית של רוב יהודי עירק לארץ, ע"י אירגון שנקרא מבצע "עזרא ונחמיה".
+
+ בשנת 1951 נשא לאשה את<persName> רבקה</persName> בת <persName>יעקב גפני</persName> (וניעבסקי).
+
+ בשנת 1955 פעל להקים ב"אור-יהודה" מעברות זמניות לישוב העליה מעירק.
+
+ משנת 1955 ועד היום הוא נבחר בקביעות לראש מועצת "אור יהודה". במשך השנים, בעזרת הממשלה, נבנו בניינים רבים ובנייני מוסדות באור יהודה, והפכה להיות עיר מסודרת לפי תכניות המהנדסים.
+
+ היה חבר מזכירות מפא"י, וכיום חבר לשכת "העבודה".
+
+ בשנת 1965 הצטרף לרפ"י ונבחר לחבר הכנסת מטעם רפ"י.
+
+ בנותיו: <persName>עדית, תמר, מיכל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5376 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5376</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

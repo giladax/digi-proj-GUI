@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1831 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1831</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו שלמה זלמן בסאן</persName>
+
+</head>
+         <div><p> (הנודע בכינוייו: ר' <persName>אלי' זלל'ס, ר' זלמן דוקטור)</persName> נולד בוילנה, פולין-ליטא, בשנת תקע"ב (1812), לאביו ר' <persName>משה</persName> בנו של ר'<persName> צדוק,</persName> שהיה מתלמידיו וממקורביו של הגר"א, ובהשפעתו הצטרף לתנועת "חזון ציון" שיסדו תלמידי הגר"א בשילוב ובווילנה וביתר קהלות מדינת רייסין (רוסיה הלבנה) במצות רבם ועלה ארצה עם בנו ר' משה ומשפחתו בשיירת העולים תלמידי הגר"א, שנסעו קרוב לשנה בטלטולי דרכים ובאניות-מפרש והגיעו לחוף עכו סמוך לראש שנת תק"ע והתישבו בצפת. בין העולים במשפחה היה גם הנער אליהו שלמה זלמן שהמשיך את לימודיו בישיבה בצפת.
+
+ אחרי בואם עבר האב הזקן ר' צדוק ירושלימה בין העולים האשכנזים-הפרושים הראשונים שיסדו את ישובם שם, ובנו ר' משה נשאר עם משפחתו בצפת,
+
+ ושם גדל בנו הנ"ל, למד תורה ונשא אשה. בעת הרעש הגדול בצפת בשנת תקצ"ז נהרגו אשתו ושני בניו של אליהו שלמה זלמן ורק הוא לבדו ניצל בנס ואח"כ עבר לירושלים.
+
+ עם שקידתו הרבה בתורה הצטיין גם במלאכת כלי מתכת מסובכים. הוא שעשה את המנעול והמפתח בעלי מבנה סודי לנעילת דלת הברזל של הבנין שהקים סיר <persName>משה מונטיפיורי</persName> על קבר רחל, לבל יוכלו גנבים לחדור לתוכו. כן עשה מלכודות-ברזל גדולות לתפיסת חיות בעלות גודל בינוני (תנים ושועלים וצבעים), ובעזרתן הציל את דרי שכונת "משכנות שאננים" (הראשונה מחוץ לחומה, שבנה <persName>משה מונטיפיורי</persName> מעזבון <persName>יהודה</persName> <persName>טורא</persName> מניו-אורליאנס) מאימת החיות שהיו משוטטות במגרש הפנוי שליד השכונה, וכן את בית-הקברות מהחיות שהיו מחטטות בקברים לשבור את רעבונן בבשר המתים. בכל לילה נצודה חיה במלכודות שהעמיד ותלה בהן חתיכות בשר. החיה היתה מתרוצצת בכלוב המלכודת עד שבאו אנשים בבוקר והמיתוה. ובראות יתר החיות את הסכנה שבביקור במקומות אלה, חדלו לבוא אליהם. פעם נסתם מעין השילוח והוא בהמצאתו פתח את המעין מתוך סיכון חייו. שמע זריזותו והמצאותיו הגיע גם לאזני <persName>אברהם פחה</persName> , שמשל אז בארץ בשם אביו חורגו <persName>מוחמד עלי</persName> שליט מצרים (עד שנת ת"ר). הפחה הזמינהו אליו והוקירהו, ובהיות דבריו נשמעים אצל הפחה, עלה בידו להשפיע עליו במקרים שונים לטובת היהודים.
+
+ נפטר בירושלים, כ"ד שבט תרמ"ב.
+
+ ראה את הערך של בנו - <persName>יהושע השיל יואל בסאן,</persName> בכרך ג'. עמוד 1456.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1831 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1831</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

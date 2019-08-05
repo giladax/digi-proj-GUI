@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5182 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5182</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר גבריאל ואלירו</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת תרמ"ו (12.5.1886). לאביו <persName>חיים אהרן ואלירו </persName> (בנקאי - בבנק הראשון שאביו<persName> יעקב</persName> יסד ב<placeName>ירושלים</placeName>. ראה כרך ראשון, עמוד 1215) ולאמו <persName>שמחה.</persName> קיבל חינוך מסורתי וכללי וגמר את בית הספר
+
+ האליאנס ב<placeName>ירושלים</placeName>. בגיל 16 נסע לפי המלצתו של ידיד אביו, אדמונד רוטשילד, למונפוליה בצרפת ושם קיבל תעודת בגרות. נתקבל באוניברסיטה בלוזן (בשווייץ) ושם סיים את לימודיו ברפואה וקיבל תואר דוקטור לרפואה (פנימית).
+
+ עבד בכמה בתי הולים גדולים בשווייץ.
+
+ בשנת 1924 חזר לארץ. עבד כרופא פרטי וגם כרופא בכמה בתי חולים ב<placeName>ירושלים</placeName>.
+
+ בשנת 1926 נשא לאשה את <persName>ויקטוריה (וידה)</persName> בת <persName>ישראל וחנה אביגיל חכמישווילי </persName> (ראה את הערך שלה ושל אביה בכרך זה).
+
+ יסד ב<placeName>ירושלים</placeName> מרכז לתרבות צרפתית ביחד עם המורה <persName>יוסף כהן.</persName>
+
+ עד יומו האחרון דאג למפעל זה.
+
+ בתור רופא הגיש עזרה לכל נצרך גם אם לא היה ביכולתו לשלם, ובאותן השנים לא היו מוסדות של קופת חולים וחברות בהם.
+
+ ממשלת המנדט התחשבה עם הצעותיו להתפתחות הארץ והיחסים בין היהודים והערבים, וגם הופיע כמה פעמים בפני ועדות החקירה השונות.
+
+ נפטר ב<placeName>ירושלים</placeName>, כ"ג טבת תשי"א (1.1.1951).
+
+ צאצאיו:<persName> מוריס יוסף </persName> (למד אקונומיה, פקיד בכיר בעירית לוס-אנג'לוס) ; <persName>שמחה חנה רולנד</persName> <persName>(רולי)</persName> אשת <persName>צבי עפרון </persName> (תעשיין); <persName>יחיאל אפרים</persName> (עוסק בהשקעות).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5182 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5182</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 138 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/138</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דניאל בנדל</persName>
+
+</head>
+         <div><p> נולד בעיר באקאו, רומניה, בשנת תר"ח (1948), לאביו ר' <persName>יעקב</persName> . למד בחדר ובישיבה והגיע לידיעה רבה בתלמוד, קבע עתים לתורה והרבה לקרא גם בספרות העברית החדשה. אחרי נשואיו עסק במסחר והצליח בו, אך לא השלים עם חיי הגלות ונענה בין הראשונים לקריאת ר' <persName>דוד שוב</persName> לעלות ארצה ולהתישב בה במושבה חקלאית.
+
+ בתרמ"ב עלה ארצה עם החבורה הראשונה של שבי ציון והשתתף ביסודה ובבנינה של ראש פנה. עבד בזיעת אפים בסיקול אדמת טרשים, בנטיעת כרמים ובפלחה.
+
+ בראשית תרמ"ג נבחר לאחד מששת חברי הועד הראשון של המושבה ובמשך ארבעים וחמש שנה היה
+
+ מראשי המושבה ועסקניה, יועץ, בורר ומעודד כושלים ופעמים היה אף ראש הועד. השתתף עם ר' דוד שוב ביסוד נקודות הישוב משטר הירדן ומחנים בסביבת ראש פנה. בשנת תרס"ז נסע לרומניה במטרה להשפיע על היהודים שם שימשיכו במאמץ הראשונים לעליה ולהתישבות חקלאית בארץ. תוך עבודתו במשק ובעניני צבור הוסיף לקבוע עתים לתורה ולמעשי חסד. הוא אהב את האדמה ואת העבודה ותמיד הזהיר את בני ביתו ומכריו, שלא יסמכו על עזרת הנדיב ונדיבים אחרים, כי לא לעולם יתמכו בהם, אלא יתאמצו לקיים את המשק ולהתקיים בכוחות עצמם.
+
+ נפטר בראש פנה, ט' באב תרפ"ז.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 138 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/138</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

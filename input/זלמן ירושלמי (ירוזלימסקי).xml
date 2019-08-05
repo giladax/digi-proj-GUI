@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1511 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1511</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זלמן ירושלמי (ירוזלימסקי)</persName>
+
+</head>
+         <div><p> נולד בביאליסטוק, פלך גרודנה, בשנת תרנ"ט (22.3.1899), לאביו<persName> גדליהו ירוזלימסקי </persName> (סוחר ויצרן) ולאמו<persName> רחל </persName> בת <persName>חיים רבינוביץ.</persName> קיבל חינוך מסורתי, למד בגימנסיה רוסית, השתתף בעסקי אביו והיה חבר התנועה הציונית.
+
+ ב-1924 נשא לאשה את <persName>רחל </persName> בת <persName>חיים בנימין</persName> <persName>יודקובסקי</persName> וב-1925 עלו לארץ.
+
+ התחיל במסחר טכסטילי ואח"כ החל גם בפעולה יצרנית יחד עם אחיו ובמשך הזמן הגיע לדרגת אחד התעשיינים בארץ. ממיסדיהם, מרחיביהם ומנהליהם של בתי-החרושת "האחים ירושלמי" (כותנה) "כיתן" להכנת כותנה לעיבוד, בית-החרושת לסריגה "החייל" והחברה לשיווק טכסטיל "מלאי". ממניחי היסוד לשיתוף ההון של אנשי יזמה פרטית ושל המוני העמלים, המרוכז בעסקים הגדולים שבידי ראשי הסתדרות העובדים הכללית, על בסיס של מחצה על מחצה, ויחד רכשו ומנהלים להצלחת שני הצדדים את מפעליהתעשיה הגדולים "שמן" ו"נשר" ועוד כמה מפעלים.
+
+ עזר ועוזר ביד רחבה למפעלי תרבות ואמנות (לגמר בנין בית "הבימה", לארגון הציירים ועוד), וכן למפעלים כלכליים צבוריים וחינוכיים ולעזרה קונסטרוקטיבית, ופעיל בניהולם כחבר הועד הפועל של התאחדות בעלי תעשיה, יו"ר הסקציה שלה לאריגה, חבר הנהלת הבנק לתעשיה והמפדה האזרחי. היה
+
+ חבר הועד הפועל של התאח' הציונים הכלליים ונבחר לחבר הקוראטוריון של המוסד החינוכי החקלאי במגדיאל, ואח"כ חבר הועד הפועל של המפלגה הפרוגרסיבית. ציר אספת הנבחרים האחרונה, מראשוני התורמים לקרנות הלאומית, למגבית ההתגייסות, למפעלי "העובד הציוני" ולמוסדות רבים אחרים. ממיסדי "הזמן" ("עתון הציונים הפרוגרסיביים).
+
+ פרסם מאמרים ב"הארץ" בעניני תעשיה וכלכלה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1511 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1511</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

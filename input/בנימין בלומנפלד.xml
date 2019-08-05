@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 131 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/131</bibl><bibl>Volume: #1 ,Page: 132 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/132</bibl>
+<bibl>Volume: #1 ,Page: 133 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/133</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנימין בלומנפלד</persName>
+
+</head>
+         <div><p> נולד בפיאטרה ניאמץ (רומניה),כ"א תשרי תרכ"ד, לאביו<persName> אריה ליב</persName> . נתחנך חנוך מסורתי וכשגדל החל לעסוק במסחר. בהיותו בן 20 החליט לעלות ארצה יחד עם אחיו<persName> משה</persName> הגדול ממנו בשנתים. בספטמבר 1834 עלו בחוף יפו וחיפשו קרקע להתישבות. ביקרו במושבות יהודה וכשנודע להם, כי זכרון יעקב נבנית ע"י עולי רומניה נסעו לחיפה ומשם אל המושבה
+
+ זכרון יעקב, שהיתה בראשית פיתוחה, ושם נתקבלו בסבר פנים יפות. בתחילה קיבלו הכשרה חקלאית מאת הגנן הצרפתי <persName>דיגור</persName> , שנשלח מטעם הבארון לניהול הנטיעה במושבה. אח"כ נתקבלו לעבודה אצל פקידות הבארון. היו זמן-מה שומרים בטנטורה ועבדו
+
+ בהובלת חמרי העץ, שהובאו באניה מגאלאץ ונפרקו בחוף טנטורה, לצרכי הקמת צריפים לדירה בזכרון יעקב. אח"כ נתנה להם הפקידות נחלה וסידור-משק (לכל אחד 20 דונם אדמה, בית, פרה וצמד שוורים וכלי-עבודה) והתחילו לעבוד בתור אכרים ונשאו להם נשים. בנימין נשא את <persName>גיטל</persName> בת <persName>מאיר ליב הרשקו</persName> , ממיסדי המושבה (נפטרה בזכרון יעקב, י"ד אב תש"ד), ומשה נשא את <persName>נחמה,</persName> אחות <persName>צדוק חייקין</persName> , אך שנים מעטות אח"כ נפטר בזכרון יעקב, י"ד טבת תרנ"ד.
+
+ בנימיו בלומנפלד היה בין הראשונים לנטיעת ברמים ולהעסקת פועלים עברים בעבודה, ביניהם מגדולי ה"הסתדרות" כיום. כשפגעה הפילוקסרה בגפנים עבר לעבוד זמנית במשק פלחה במושבה הקטנה גבעת עדה (שנקראה אז בשם הערבי מראח). אח"כ חזר לזכרון יעקב, שקד על קימום משקו ופיתוחו והתמסר אף לפעולה צבורית. היה חבר בועד המושבה ובמשך 19 שנה אף חבר הועד של המושבה "מראח", ממיסדי אגודת גמילות חסדים, ממיסדי בנק הלואה וחסכון זכרון יעקב (ובמשך 6 שנים חבר הנהלתו), עזר בהקמת מפעל המים של המושבה, חבר לשכת בני ברית, חבר פעיל בחברת "כרמל מזרחי", גבאי ראשי בחברה קדישא במשך 19 שנה (ביזמתו הודפסה חוברת ט"ו של "אבני זכרון" בהוצאת <persName>פנחס גראייבסקי,</persName> המכילה את הכתבות שעל המצבות בבית-העלמין של זכרון יעקב). במלחמת העולם הראשונה היה הגזבר בטעם "ועד ההגירה" לעזרת המגורשים מיפו-תל-אביב והסביבה שנקלעו לזכרון יעקב ונשארו שם עד סוף המלחמה. כן קיבל על עצמו שליחויות מסוכנות להמציא כספים ומזון לאסירים הפוליטים היהודים שישבו כלואים בבתי--סוהר בדמשק, וביניהם האסירים מזכרון יעקב, חדרה וכו', שנאסרו בעת גילוי תנועת-המחתרת העברית "נילי". הוא המציא תחבולות מחוכמות איך להגניב פנימה כספים בתוך קומקום של תה ולקבל
+
+
+ חזרה מהאסירים אישורים בכתב על קבלת הכספים והודעות קצרות למשפחותיהם.
+
+ ארבע בנותיו השתרשו בארץ, והן<persName> רוחמה גולד</persName> <persName>שטיין-גרשוני, פנינה</persName> אשת השופט <persName>ירמיהו צוקרמן</persName> , <persName>שולמית</persName> אשת <persName>משה בונשטיין</persName> סגן מפקח בתי הדואר במחוז לוד,<persName> וחוה</persName> אשת <persName>אברהם דיאמנט</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 131 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/131</bibl><bibl>Volume: #1 ,Page: 132 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/132</bibl>
+<bibl>Volume: #1 ,Page: 133 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/133</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2633 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2633</bibl><bibl>Volume: #6 ,Page: 2634 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2634</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יצחק סטרץ</persName>
+
+</head>
+         <div><p> נולד נובוציסקסק (רוסיה) בשנת תרנ"ח (24.8.1898).
+
+ לאביו <persName>מאיר</persName> ולאמו <persName>מריה בת</persName> מטויי קויטקה פוקרובסקי.
+
+ קבל חנוך כללי בגמנסיה, בית ספר צבאי לתותחנות, באוניברסיטה באודיסה ובטורינו (איטליה).
+
+ בשנת 1920 היה ממיסדי "החלוץ" באקרמן (רומניה).
+
+ שירת בצבא במלחמה העולמית הראשונה, בקרבות בגליציה נפצע 3 פעמים. קבל מסדר גורגיאס הקדוש.
+
+
+ בשנת 1925 קבל תואר ד"ר למתמטיקה' ב-1926 תואר ד"ר לאסטרונומיה (שני התוארים קבל בטורינו, איטליה).
+
+ עסק בכתיבת מחקר מדעי במתמטיקה ואסטרונומיה, והיה מרצה באוניברסיטאות: בברצלונה (ספרד), בפורטיגל ובטורינו (איטליה) בשנות 1927-1937.
+
+ ב-6.4.1931 נבחר לאקדמיה למדעים בעיר קאדיס (ספרד).
+
+ השתתף בקונגרסים ובוועדות למתימטיקה ואסטרונומיה - בצרפת, ספרד ואנגליה. עבור מחקר באסטרונומיה על צפעידים, קבל פרס מאקדמיה מדעית בספרד.
+
+ בשנות 1928/29 בקר בארץ. ארגן ניהל ומנצח על התזמורת הסימפונית הראשונה בחיפה בתמיכתו של ד"ר <persName>בירם</persName> (תזמורת של חובבים).
+
+ השתתף באמון אנשי הגנה בחיפה בביקורו זה. בשנת 1934 נשא לאשה את <persName>אנה </persName> בת <persName>קרלוס שורר.</persName>
+
+ בשנת 1937 עלה לארץ.
+
+ כל השנים בארץ, מורה למתימטיקה בבית ספר תיכון א' (מקודם גמנסיה בלפור) בתל-אביב.
+
+ כתב עשרות מחקרים בביאו-מכניקה, אסטרונומיה ובמתמטיקה טהורה.
+
+ הוא גם ציר ומנגן בכנור.
+
+ ב-1941 הרצה והיה פעיל בקלוב הא"י לתעופה, בסימנריון למדריכי תעופה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2633 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2633</bibl><bibl>Volume: #6 ,Page: 2634 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2634</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

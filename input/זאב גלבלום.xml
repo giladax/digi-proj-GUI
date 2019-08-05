@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2222 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2222</bibl><bibl>Volume: #5 ,Page: 2223 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2223</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זאב גלבלום</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ווארשא</placeName> (פולין) בשנת תר"ס (6.4.1900) לאביו <persName>זאב </persName> (וואלף) ולאמו<persName> חיה </persName> בת<persName> ישעיהו קוועגזילבר.</persName>
+
+ קיבל השכלה עממית. עבד בפולניה כנהג רכבות.
+
+ בינואר 1921 עלה לארץ.
+
+ בשנת 1924 נשא לאשה את<persName> שרה</persName> (סערקע) בת <persName>אריה</persName> <persName>ואקסמן.</persName>
+
+ בבואו לארץ נתקבל כעוזר לנהג רכבות ועלה לדרגת נהג-רכבות ובמדינת ישראל נתמנה למדריך נהגי רכבות.
+
+ ב-6.3.46 היה אחראי לנהיגת הרכבת שבה נסעה ועדת החקירה הבריטית-האמריקאית לא"י - ממצרים.
+
+ אחרי שהשתתף בכיבוש חיפה, היה מהראשונים שארגנו את מהלך הרכבות בארץ. היה המפקח ונהג הקטר שהוביל את הרכבת הראשונה, אחרי שקמה מדינת ישראל.
+
+ בימי המאורעות בארץ נהג ברכבות בימי סכנות נפשות בשעה שניסו לפוצץ את הרכבות. רבים מחבריו עזבו אז את העבודה והוא נשאר בתפקידו והמשיך לעבוד בכל המצבים הקשים.
+
+ צאצאיו<persName>: צבי, עמליה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2222 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2222</bibl><bibl>Volume: #5 ,Page: 2223 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2223</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

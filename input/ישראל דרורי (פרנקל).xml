@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3966 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3966</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל דרורי (פרנקל)</persName>
+
+</head>
+         <div><p> נולד בשנת תרס"ז (10.12.1906) ביארוגה שברוסיה.
+
+ לאביו ר'<persName> אברהם</persName> (מו"צ, שו"ב וש"ץ במוהילב פודולסק, מצאצאי רבי<persName> לוי יצחק</persName> מברדיצ'ב) ולאמו<persName> בלה</persName> בת <persName>מרדכי.</persName>
+
+ למד בחדר, בישיבה במוהליב פודולסק, ואחרי מלחמת העולם בבית-ספר תיכון בבסראביה ואח"כ היה שם חבר פעיל בהחלוץ.
+
+ עלה לארץ בשנת 1924. עבד בכבישים ואח"כ בחקלאות (זמן-מה כחבר קבוצת-פועלים) בראשון לציון, נס ציונה ורחובות. גמר את בית-המדרש למורים בבית הכרם ועבד בהוראה.
+
+ ב-1939 נשא לאשה את <persName>רות</persName> בת<persName> דוד סולגין.</persName> (נפטרה ברמת גן, ו' טבת תשי''ח).
+
+ בשנים 1949-48 עבד בשליחות הסוכנות היהודית כמפקח על בתי-הספר העבריים במחנות שארית הפליטה בגרמניה. כעת הנו מנהל בית הספר החשמונאים ברמתגן, חבר ועד הסניף והמועצה הארצית של הסתדרות המורים, חבר מועצת מפא"י סניף רמת גן, פעיל בועדת התרבות של עירית רמת גן. פרסם מאמרים אחדים על נושאים פדגוגיים ב"הד התנוך".
+
+ צאצאיו:<persName> ישי</persName> (בוגר בית ספר של "אורט"),<persName> בלהה</persName> (לומדת אמנות שימושית).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3966 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3966</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

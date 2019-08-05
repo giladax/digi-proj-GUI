@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1840 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1840</bibl><bibl>Volume: #4 ,Page: 1841 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1841</bibl>
+<bibl>Volume: #4 ,Page: 1842 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1842</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל שטרנברג</persName>
+
+</head>
+         <div><p> - לאביו <persName>דוד</persName> (מראשוני המושבה זכרון יעקב) ולאמו
+
+<persName>סימה פייגה</persName> בת ר' קלמן זנביל (ממקורבי וחסידי הריזינר ז"ל). בסדיגורא (ראה הערך שלה בספר זה).
+
+
+ נולד ב<placeName>גלץ</placeName> (רומניה), בשנת תר"ח (1848). קיבל חינוך מסורתי.
+
+ נשא לאשה את נחמה בת משה ולאה הרשקוביץ. (נפטרה בזכרון יעקב, י"ט אלול תרצ"ז). בשנת תרמ"ב עלה בין הראשונים על ההר שעליו בנו את המושבה זכרון יעקב.
+
+ כל ימיו הקדיש לעבודה חקלאית והיה ממיסדי החברה קדישא ומפעיליה.
+
+ נפטר בזכרון יעקב, ג' כסלו תרפ"ו (20.11.1925).
+
+ צאצאיו: שושנה (רוזה) אשת <persName>בנימין רוזנובסקי,</persName> <persName>בעטי</persName> אשת <persName>משה וינטרויב, דוד</persName> (ראה את הערך שלו בכרך זה),<persName> מרים, דר' טוביה</persName> (רופא ממשלתי).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1840 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1840</bibl><bibl>Volume: #4 ,Page: 1841 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1841</bibl>
+<bibl>Volume: #4 ,Page: 1842 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1842</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

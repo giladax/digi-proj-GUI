@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3381 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3381</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>תמר גלר</persName>
+
+</head>
+         <div><p> נולדה בעקרון, בשנת תר"ע (1910).
+
+ לאביה <persName>דב ניימאן</persName> (ראה כרך ב', עמוד 1028) ולאמה <persName>עטרה </persName> (קריינצה) בת <persName>יעקב גולד</persName> (אשר עלה לא''י מעירו, יאסי (רומניה), ציוני נלהב, עוזרו הנאמן של ד"ר <persName>ליפה</persName> בהפצת חבת ציון ברומניה ).
+
+ סיימה את למודיה בגמנסיה העברית בירושלים ומיד אחרי זה נכנסה לעבודה בועד הלאומי. הימים - ערב מאורעות תרפ"ט (1929) והועד הלאומי עסק במפקד חברי הסוכנות לקראת חידוש נציבותו של הישוב עפ"י התקנות של כנסת ישראל המאושרות.
+
+ נישאה<persName> לאפרים גלר.</persName>
+
+<persName>תמר</persName> החלה בפעולה זו, ועוד בימים הראשונים לעבודתה ניכרו בה חוש הסדר הארגון וכושר הביצוע. היתה מעורה בעבודת ההנהלה והמזכירות הרב-גונית, במגע אישי עם הישוב והקהל. היתה בקיאה בכל ענין ומסמך ושופעת מרץ בלתי פוסק שהתחדש בכל פעם שהוטלה על שכמה משימה חדשה. רבת רחמים היתה ושופעת נדיבות לב. בקשה להוסיף דעת ולהקנות לעצמה הכשרה נוספת לקראת הבאות, לקראת העליה הגדולה של ילדים ונוער, ולשם כך ישבה על ספסל הלמודים בביה"ס לשרות סוציאלי, אך לא זכתה.
+
+ בעמדה על משמרתה נפלה עם הנופלים בהתנקשות, הזדונית בבניני המוסדות הלאומיים בירושלים, ל' אדר א' תש"ח (11.3.1948). בנותיה: <persName>דליה</persName> אשת<persName> אהרן רוזן, עפרה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3381 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3381</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

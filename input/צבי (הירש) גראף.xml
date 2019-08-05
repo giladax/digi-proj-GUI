@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3175 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3175</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי (הירש) גראף</persName>
+
+</head>
+         <div><p> נולד בבריאנסק, פלך גרודנא (רוסיה) בשנת תרמ''א (1881).
+
+ לאביו<persName> נחמן </persName> ולאמו <persName>פשה</persName> בת <persName>יקותיאל.</persName>
+
+ קבל חנוך מסורתי.
+
+ בשנת תר"ס (1900) עלה לארץ.
+
+ באותה שנה נשא לאשה את <persName>פסיה</persName> (פשקע) בת <persName>צבי</persName> <persName>וחיה ליבע מוריס.</persName>
+
+ יחד עם <persName>אפרים הלפרין</persName> יסדו את שרות הדיליז'נסים בין פתח-תקוה ליפו וחזרה.
+
+ היה גבור-אמיץ ונלחם לא פעם נגד התקפות מרצחים על שרות התחבורה ואף נפצע בדקירות סכינים, ואת התחבורה בין המושבה ומחוצה לה, לא הזניח.
+
+ עמד על משמר הגנת המושבה.
+
+ היה נדבן. ידיו פתוחות לכל. פיזר מהונו לקרובים ולרחוקים.
+
+ נפטר בפתח-תקוה, כ"ו אלול תרע"א (19.9.1911).
+
+ צאצאיו: <persName>שרה</persName> אשת <persName>ישראל צוקרמן</persName> (חיפה),<persName> צבי</persName> <persName>אריה גרף</persName> (שופט בית משפט השלום, פתח-תקוה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3175 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3175</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

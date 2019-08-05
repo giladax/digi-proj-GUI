@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 619 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/619</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב זאב פראנק</persName>
+
+</head>
+         <div><p> נולד בקובנה, ליטא, כ"ו חשון תרמ"ו (1885), לאביו הרב<persName> יהודה ליב</persName> (מבאי-כח "אגודת קובנה" שהשתתפה ביסוד המושבה חדרה, מראשוני המתנחלים במושבה, שהיה בה רב ועסקן בבנינה ובסידורה בשנותיה הראשונות) ולאמו<persName> מלכה</persName> בת ר'<persName> תנחום</persName> <persName>שילמן</persName> .
+
+ כבן שש עלה ארצה עם בית אביו בסוף שנת תרנ"ב. המשפחה התישבה על אדמתה בחדרה, והוא, בהיותו בגיל הלימוד ובמושבה הנבנית לא יכול אביו לתת לו חינוך תורני כראוי, שלח אותו ללמוד בירושלים ולמד בחדרים ובישיבת "עץ חיים". בה הגיע לדרגה גבוהה בידיעת התורה, הוסמך לרבנות ונשאר גם אחרי חתונתו ללמוד בישיבה והנו עד היום אחד מטובי הלומדים בישיבת "עץ חיים" בירו
+
+ שלים. חיבר ספר "תולדות זאב", שיצא בשנת תרצ"ה.
+
+ אחיו הוא הרב<persName> צבי פסח פראנק</persName> , אב"ד בקהלת כנסת ישראל בירושלים.
+
+ צאצאיו:<persName> זלמן; פייבל ; צפורה ; שרה רבקה</persName> ; <persName>יצחק ; פסח</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 619 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/619</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 2034 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2034</bibl><bibl>Volume: #4 ,Page: 2062 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2062</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר טוביה אברהם שטרנברג</persName>
+
+</head>
+         <div><p> נולד בזכרון יעקב, בשנת תר"ן (8.5.1890), לאביו <persName>שמואל</persName> (מראשוני המושבה) ולאמו <persName>נחמה </persName> בת <persName>משה</persName> <persName>ולאה הרשקוביץ</persName> (מראשוני המתישבים בזכרון-יעקב).
+
+ אחרי גמרו את ביה"ס העממי במושבה יצא ב-1907 לבירות, למד . שלש שנים בקורס התיכוני העליון של הקולג' האמריקאי ושלש שנים במחלקתו לרפואה. בסוף 1913 יצא לאמריקה, גמר את לימודיו וב-1916 הוסמך לד"ר לרפואה. עסק שם בפעולה ציונית וב-1921 חזר ארצה.
+
+ נשא לאשה את<persName> יהודית</persName> לבית<persName> סלוצקי.</persName>
+
+ מאז שובו מאמריקה עבד בתור רופא כללי וחירורג בשרות מחלקת הבריאות הממשלתית במושבות הישנות והחדשות בשרון ובגליל. במשך כמה שנים היה ראש בית החולים הממשלתי בצפת ושם פעל רבות בעזרה רפואית ובסעד כללי לעניי העיר. בעת מהומות הדמים בצפת, בשנת 1929, סיכן לא פעם את חייו בלכתו להגיש עזרה לחולים ולפצועים, עד שנפצע ביריה מן המארב. משהחלים מפצעו הועבר לירושלים ושם המשיך בשרות רפואי בבית-החולים הממשלתי.
+
+ בסוף מאי 1945 יצא לפנסיה והשתקע כרופא פרטי בחיפה.
+
+ בניו:<persName> שמואל, צבי, נחום.</persName>
+
+
+ הוספות
+
+ שינו שמותיהם: 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 2034 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2034</bibl><bibl>Volume: #4 ,Page: 2062 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2062</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

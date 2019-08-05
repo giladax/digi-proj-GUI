@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3982 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3982</bibl><bibl>Volume: #12 ,Page: 3983 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3983</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שרה קיטאי</persName>
+
+</head>
+         <div><p> נולדה בסחודניצא (פולין) בשנת תרנ''ט (1899).
+
+ לאביה ר'<persName> אהרן שטיין</persName> (נכד האדמו"ר <persName>נפתלי מרו</persName> <persName>פשיטץ</persName> ) ולאמה<persName> קילה</persName> .
+
+ קיבלה חינוך מסורתי, בי''ס עממי, למדה שפות (פולנית, גרמנית ועברית )והנהלת ספרים. ביתה שימש כבית תבשיל לעוברי דרך, תמכה
+
+ בנחשלים, החזיקה הרבה שנים את הוריה בביתה בכבוד. נתנה גמילות חסדים ועוד.
+
+ בשנת 1921 נישאת<persName> ליוסף קיטאי </persName> (ראה בכרך י''א, עמוד 3771).
+
+ עלתה עם משפחתה לארץ בשנת 1933.
+
+ בימי המשבר (1936-37) לא לחצה על השכנים לשלם שכר דירה.
+
+ עזרה לבעלה ליסוד ביח''ר למרצפות ברחובות נטיעת פרדס (10 דונם), בבית עובד ועבדה בו במסירות
+
+ היתה פעילה בויצ''ו, בהפועל המזרחי והרבתה לעשות צדקה וחסד כל ימיה.
+
+ נפטרה בירושלים, י"ב תשרי ת''ש (25.9.1939).
+
+ צאצאיה:<persName> שושנה</persName> אשת <persName>יוסף לינדר, שמואל</persName> (מפקח על בתי ספר חקלאיים).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3982 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3982</bibl><bibl>Volume: #12 ,Page: 3983 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3983</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

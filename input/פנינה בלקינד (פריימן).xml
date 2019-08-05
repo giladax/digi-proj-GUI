@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2305 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2305</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פנינה בלקינד (פריימן)</persName>
+
+</head>
+         <div><p> נולדה בט"ו אלול תר"ל (1870) בוארשה שבפולין לאביה <persName>אהרן מרדכי פריימן</persName> ולאמה <persName>מרים</persName> לבית<persName> אנגלשר</persName> (ראה כרך ג', ע' 1435) ונתחנכה בבית-ספר ובבית ההורים ברוח המסורת והלאומיות.
+
+ בסיון תרמ"ב עלתה ארצה עם ההורים, שהשתתפו ביסוד המושבה ראשון לציון והתישבו שם בין ראשוניה. למדה ב"חדר" ואח"כ בבית-הספר של המושבה והמשיכה בעזרה להורים בעבודות המשק והבית.
+
+ בניסן תרמ"ח נישאה לבילויי<persName> שמשון בלקינד</persName> (כרך א', ע' 416) ונשאה עמו בעול התוצאות החמריות הקשות ממאבקו נגד עריצותה של הפקידות הבארונית. גם אחרי שבטלה העריצות הזאת ובעלה חזר אל הנחלה במושבה היתה מנת חלקם עוני ומחסור והיא השכילה באמנותה של עקרת בית לקיים את המשפחה אף במועט שבמועט. כשלא הספיקה עוד אף ההסתפקות במועט, הטתה שכם לעזור לבעלה בעבודה הקשה של החזקת בית המלון "עין הקורא" שיסד במושבה, אף כי כוחותיה נאכלו בעמל השנים הרבות שקדמו לכך.
+
+ במלחמת העולם א' נאסרה עם בעלה בכלא רמלה, אחרי שבנם בכורם<persName> נעמן</persName> נאסר באשמת בגידה כאחד מראשי הפעילים במחתרת "נילי", ואח"כ אף הוצא להורג לפי גזר-דין של בית-הדין הצבאי הטורקי בדמשק. היא הבליגה על יגונה ואסונה, תוך הכרה שזה היה קרבן למען שחרור הישוב והמולדת. במהומות תרצ"ו נלקח ממנה עוד קרבן; <persName>מאיר (עתניאל)</persName> בנה, שנרצח על-ידי הפורעים הערבים (ראה עליו ערך מיוחד בכרך זה).
+
+ אחרי חצי שנה, בי"ד ניסן תרצ"ז, בא עליה האסון השלישי במות בעלה. מאז ממשיכה היא את חיי אלמנותה עם צאצאיה הנותרים :<persName> ישי, איתן, ימימה</persName> אשת<persName> משה לובין</persName> (חדרה),<persName> שפרה </persName> אשת<persName> אברהם מרקוביץ </persName> (ראשון לציון), <persName>מאירה</persName> (עסקנית צבורית בראל"צ).
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטרה בראשון לציון, כ"ט כסלו תשט"ז (14.12.55) (ראה כרך ה', עמוד 2305)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2305 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2305</bibl>            <bibl>Volume: #7 ,Page: 2970 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2970</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

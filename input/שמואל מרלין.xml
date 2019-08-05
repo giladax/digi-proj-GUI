@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1924 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1924</bibl><bibl>Volume: #4 ,Page: 1925 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1925</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל מרלין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קישינוב</placeName> בשנת תר"ע (4.1.1910) לאביו <persName>אברהם </persName> (סוחר, תעשיין, בר-אוריין ועסקן צבורי) ולאמו <persName>מרים</persName> בת <persName>ברוך משה רבין.</persName>
+
+ קיבל חינוך בגימנסיה העברית מטעם "אגודת ישראל" ב<placeName>קישינוב</placeName> "מגן-דוד" שעמדה בפיקוחו הרוחני של הרב <persName>צירלסון</persName> . השכלה גבוהה קיבל בסורבונה בפריס (היסטוריה חדישה) ובבית הספר למדעים סוציליים בפריס.
+
+ פעולתו הצבורית-לאומית החלה עוד בימי הגימנסיה. חבריו לכתה היו:<persName> נתן אלתרמן, חיים ברמן</persName> (מנהל משרד החוץ) <persName>חיים בלצן </persName> (עתונאי). עם אלתרמן ערך יחד את כתבי העת לתלמידים: "אחדות", "נצנים". אחד ממייסדי "מכבי" כבסרביה וחבר המרכז. הצטרף לבתי"ר וארגן אותה ברחבי רומניה. בימי לימודיו בפריס התקרב מאד אל <persName>ז'אבוטינסקי </persName> והיה לאחד מעוזריו האינטימיים. השתתף בכל ועידות הצה"ר והצ"ח. נתמנה למזכיר ראשי של האכזקוטיבה העולמית של ברית הצה"ר ושמש בתפקיד זה בשנים 1938- 1933.
+
+ עם התחלת הפעילות של הארגון הצבאי הלאומי היה לעורך ראשי של העתון היומי באידיש "די טאט" (ורשה) שהיה בטאונו של הארגון הצבאי הלאומי. בעבודה זו בא בקשר עם ד"ר<persName> י. ה. ייבין</persName> שהיה הרוח החיה בעתון אף כי כל החומר שלו היה בא מרחוק, מארץ ישראל, ממצב ראשית ימי המחתרת העברית. היה למעריצו של המשורר <persName>א. צ. גרינברג</persName> השוהה באותה תקופה בורשה.
+
+
+ עם פרוץ המלחמה מגיע לפריס. משם נשלח על ידי הממשלה הצרפתית לארצות הברית לארגן את פעולת החרם והבלוקדה הכלכלית על גרמניה.
+
+ בארצות הברית הקים יחד עם<persName> הלל קוק (פטר</persName> <persName>ברנסון)</persName> את הגופים השונים אשר שימשו עורף למהתרת בכלל ולאצ"ל בפרט. ועדים אלה עשו רבות
+
+ לעורר את דעת הצבור האמריקאית והעולמית לשואת יהודי אירופה. הם הפיצו את רעיון הקמת הצבא העברי, אך בעיקר עוררו את אהדת האמריקאים הלאיהודים לפעולות מלחמת החרות של המחתרות בארץ על יסוד ההבנה המיוחדת הפועמת בלב האמריקאים למלחמת חרות בכלל ונגד הבריטים בפרט. פעולות אלו של הועדים - אשר הוא היה הרוח החיה שלהם - הכריחו גם את העסקנים במחנה הציוני להגביר את פעולותיהם התעמולתיות לטובת הציונות.
+
+ ואלה הועדים אשר הוקמו ופעלו: "ועד למען צבא עברי", "ועד להצלת יהודי אירופה", "ליגה אמריקאית למען ארץ ישראל", בראשות הסינטור <persName>ג'ילט,</persName> "ועד לשחרור האומה", אשר הוא היה יו"ר שלו (חברי הועד הזה היו:<persName> ערי ז'בוטינסקי, פרופ' דלוגץ, יצחק</persName> <persName>בן-עמי, ד"ר הדני-רפאלי, תיאודור בן-נחום, ד"ר</persName> <persName>וידובינסקי, אריה בן-אליעזר, ויקטור בן-נחום, מיכאל</persName> <persName>ברכין, אלברט סטרסלסקי, ירמיהו הלפרין, הלל קוק</persName> <persName>(פטר ברגסון) ושמואל מרלין).</persName>
+
+ הוציא וערך את השבועון "אנסוור" מטעם "הועד לשחרור" (48- 1947).
+
+ אחרי המלחמה יצא בשליחות הועד ובשליחות הארגון הצבאי הלאומי לארצות אירופה המערבית.
+
+ עלה ארצה ב"אלטלינה" (במאי 1948) ונפצע מהיריות שנורו על אניית הנשק הזו (חמשה-עשר קרבנות, ביניהם -<persName> אברהם סטבסקי).</persName>
+
+ השתתף בהקמת תנועת "החרות" מיסודו של הארגון הצבאי הלאומי ונבחר מטעם רשימת "חרות" לכנסת הראשונה. חבר ועדת הפנים בה.
+
+ בועידת היסוד של תנועת החרות נבחר למזכירה הכללי וליו"ר מועצת המערכת של העתון היומי "חרות".
+
+ שולט בהרבה שפות: עברית, אידיש, רוסית, צרפתית, אנגלית, פולנית, רומנית.
+
+ כתב בעתונות היומית והמפלגתית ("אונזער צייט", "דער טאג" ברומניה, "אונזער וועלט" בורשה, "המשקיף", "הירדן" בארץ. ערך את "די טאט", "אנסוור").
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1924 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1924</bibl><bibl>Volume: #4 ,Page: 1925 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1925</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

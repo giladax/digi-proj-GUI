@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4288 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4288</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב ישראל אריה זלמנוביץ</persName>
+
+</head>
+         <div><p> נולד בקעכניא (רומניה), ד' טבת, תרע"ז (29.12.1916). לאביו<persName> שמואל נטע פישר</persName> (מגזע תלמידי הבעל שם-טוב מדור לדור) ולאמו <persName>פריידה</persName> בת <persName>אברהם יהודה הלוי</persName> (דור ששי לבעל הטורי זהב).
+
+ קיבל חינוך מסורתי בחדר ובישיבות : וישוי, חוסט, קלוזנבורג ודעש. הוסמך לרבנות.
+
+ היה רב ומנהל ישיבה בבורשה, ואחרי השחרור ממחנה ברגן-בלזן בגרמניה.
+
+ אחרי השחרור ממחנה ברגן-בלזן עשה תעמולה ועורר את שארית הפליטה - לא לחזור לארצות הגולה ולעלות לישראל.
+
+ בשנת תש"א (1941) נשא לאשה את<persName> דרעזי</persName> בת הגאון ר' <persName>גרשון שטובר</persName> , ראב"ד בוורשה. הושמדה באושביץ יחד עם בתם <persName>מרים</persName> בשנת תש"ד (1944) ובזיווג שני נשא בשנת תש"ו-1946 את <persName>לאה </persName> בת הגאון המקובל ר' <persName>אליהו ווייס </persName> (מגזע בעל הזרע יצחק ומהשר<persName> שאול וואל.</persName>
+
+ בשנת תש"ט (1949) עלה לארץ.
+
+ היה רב ומנהל ישיבה ב"כפר יבנה" - קרית צאנז. מחבר ספר "חי נפש" (שלושה חלקים - על כל מקצעות התורה).
+
+ כיום, רב העיר עכו.
+
+ צאצאיו מאשתו הראשונה : <persName>מרים </persName> ז"ל (כנ"ל). מאשתו השנייה : <persName>אליהו, פרידה מלכה, דרעזי</persName> איטה, <persName>שמואל נטע, יצחק אייזיק מאיר, פעסי יענטא, אברהם</persName> <persName>יהודה מיכאל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4288 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4288</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

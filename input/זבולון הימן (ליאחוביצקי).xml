@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3965 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3965</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זבולון הימן (ליאחוביצקי)</persName>
+
+</head>
+         <div><p> נולד ה' שבם תרס"ז (1907) בפינסק שברוסיה הלבנה.
+
+ לאביו<persName> יעקב קופל ליאחוביצקי</persName> ולאמו <persName>חסיה ברכה</persName> בת <persName>זבולון רוססין.</persName>
+
+ למד בישיבת פינסק עד שהשלטון הסובייטי סגר אותה.
+
+ בשנת תרפ"ב (1922) הגיע לארץ, המשיך ללמוד בישיבה, אח''ב בבית המדרש למורים מזרחי והוסמך בו בתור מורה. למד עוד שנתיים באוניברסיטה העברית ואח"כ פנה לעבוד בהוראה, וכעת הוא מנהל בית-הספר הממלכתי-דתי "יבנה" ברמת-גן.
+
+ בשנת תרצ''ג (1933) נשא את <persName>צפרא </persName> בת הרב<persName> בצלאל</persName> <persName>זקה"ם </persName> (זהו שם-משפחה היסטורי לצאצאיהם של קדושי רוזינוי. ראשי התיבות : זרע קודש הם).
+
+ בבחרותו התחיל בפעילות ציבורית כאחד ממיסדי גדוד מגיני השפה בירושלים ומזכירו, המשיך כחבר הועד הזמני המייסד של הסתדרות סטודנטים דתיים "יבנה" ורכז ומשתתף ביסוד הסתדרות המורים, וכעת הנו חבר המרכז וההנהלה ו"ועדת הכספים של הסתדרות המורים, חבר ההנהלה והנשיאות של בנק המורים "מסד", חבר הנהלת המועצה הארצית של המורים למען הקהק"ל ויו''ר מועצתם זו לגוש דן, חבר הנהלת ברית עברית עולמית. היה חבר הנשיאות בכינוס העולמי של המורים העברים בירושלים ונבחר למועצתם העולמית.
+
+ בתו: <persName>שלומית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3965 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3965</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

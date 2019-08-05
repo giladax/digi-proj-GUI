@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1388 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1388</bibl><bibl>Volume: #3 ,Page: 1389 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1389</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף קיזרמן</persName>
+
+</head>
+         <div><p> לאביו האגרונום <persName>נתן קיזרמן</persName> (חבר הועד הפועל של "חובבי ציון" ביפו, מנהל המושבה באר-טוביה בראשיתה, מנהל אפ"ק בחיפה, יו"ר ועד הקהלה בחיפה
+
+
+ ועסקן ישובי נודע. ראה כרך א', עמוד 42) ולאמו <persName>מרים</persName> בת ר' <persName>אברהם דב קרוגליאקוב </persName> (מראשוני "חובבי ציון" באודיסה), המורה הראשונה לפסנתר ביפו.
+
+ נולד ביפו, י"ט כסלו תרנ''ה. קיבל חינוך בגימנסיה הרצליה ת"א, אוניברסיטה
+
+ ג'נבה בשווייץ, השתלם במשפטים ובשנת 1921 קיבל תואר עורך דין.
+
+ עוסק בעיקר במשפטים פליליים.
+
+ בשנות 34-1933, מראשי המגינים במשפט על <persName>אברהם סטבסקי</persName> וחבריו שנאשמו ברצח <persName>הד"ר חיים</persName> <persName>ארלוזורוב</persName> (חבר ההנהלה הציונית ומנהל המחלקה המדינית) על שפת ימה של ת"א, כליל שבת, כ"ב סיון תרצ"ג.
+
+ יו''ר אגודת עורכי הדין בחיפה, חבר הועד המרכזי של הסתדרות עורכי הדין בישראל. היה היו"ר היהודי הראשון של קלוב "הרוטרי" בחיפה בשנת 1934.
+
+ בנותיו:<persName> רות</persName> אשת <persName>אוריאל שי</persName> (שיגורנסקי), סגן אלוף בצבא ההגנה לישראל, <persName>נעמי</persName> אשת המהנדס<persName> נחום</persName> <persName>קרופניק.</persName>
+
+ אחיו של הסופר והעתונאי<persName> אורי קיסרי</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1388 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1388</bibl><bibl>Volume: #3 ,Page: 1389 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1389</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

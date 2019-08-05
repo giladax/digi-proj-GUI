@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3477 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3477</bibl><bibl>Volume: #10 ,Page: 3478 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3478</bibl>
+<bibl>Volume: #10 ,Page: 3479 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3479</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אליעזר (לזר) גולודץ</persName>
+
+</head>
+         <div><p> נולד בשצדרין, פלך מינסק (רוסיה) ט' תשרי תרל"ו (15.9.1876).
+
+ לאביו<persName> משה</persName> (ממשפחת אנשי עסקים מפורסמים, בעלי אחוזות וסוחרי יערות במערב ודרום רוסיה) ולאמו <persName>אסתר</persName> בת <persName>חיים קורנגולד.</persName>
+
+ קיבל חינוך מסורתי בחדר, אצל מורים פרטיים. בשנת 1897 עבר לגרמניה וקיבל תעודת בגרות בבית ספר תיכוני וגמר את חוק לימודיו במדע הכימיה באוניברסיטאות לייפציג, ויצבורג וקניגסברג. התואר ד"ר לפילוסופיה קיבל בקניגסברג (1903).
+
+ בשנת 1908 נשא לאשה את <persName>מלכה </persName> בת <persName>משה מירקין</persName>
+
+
+ (נפטרה בברלין 26.10.1935) ובשנת 1938 נשא בזיווג שני את ד"ר<persName> ברטה</persName> בת <persName>נתן שלוסברג.</persName>
+
+ בשנות 1910-18 ניהל את מעבדת המחקר של פרופ' <persName>אוננא</persName> הדרמטלוג המפורסם בהמבורג. בצעו יחד עבודות מחקר מרובות.
+
+ היה ממייסדי אגודת הסטודנטים היהודים מרוסיה ע"י האוניברסיטה קניגסברג והיו"ר הראשון שלה עד גומרו את לימודיו בשנת 1903.
+
+ בעברו להמבורג, עמד בראש אגודת יהודים יוצאי רוסיה ומוסדותיה. היה חבר פעיל ב"בני-ברית" בהמבורג.
+
+ בשנת 1933 נבחר לחבר מועצת הקהילה היהודית בהמבורג והיה פעיל במועצה זו עד עלייתו לא"י.
+
+ בשנת 1936 עלה לארץ.
+
+ היה פעיל בוועדות שונות של קק"ל וקרן היסוד.
+
+ בשנת 1938 השתתף ביסוד המוסדות של הסתדרות הכימאים (ספריה ומעבדה) בתל-אביב ועומד בראש הסניף התל-אביבי עד היום.
+
+ היה פעיל בועדה הצבורית של הברית העברית העולמית ובאגודה למען האסיר והעבריין.
+
+ נציג הפירמה מ. גולודץ מלונדון בארץ.
+
+ פרסם שורה שלמה של עבודות מחקר מדעיות בשטח הכימיה בכתבי עת גרמנים.
+
+ פרסם חוברת בגרמנית בשם "ההיסטוריה של משפחת גולודץ", שתורגמה לאנגלית (בניו-יורק 1954) ע"י ד"ר <persName>שלמה נובל.</persName>
+
+ צאצאיו:<persName> הלנה </persName> אשת <persName>אלפרד צאהן</persName> (פרופ' ע"י האוניברסיטה בברלין), <persName>ויקטור</persName> (שווייץ).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3477 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3477</bibl><bibl>Volume: #10 ,Page: 3478 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3478</bibl>
+<bibl>Volume: #10 ,Page: 3479 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3479</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

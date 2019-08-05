@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4066 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4066</bibl><bibl>Volume: #12 ,Page: 4067 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4067</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר לודויג (יהודה אריה) גוטסמן</persName>
+
+</head>
+         <div><p> נולד בסמולניק (צ'כוסלובקיה), כ"ה טבת תרע"ג (4.1.1913).
+
+ לאביו <persName>ישראל גוטסמן</persName> (ממנהיגי העיר קישיצה בצ'כיה) ולאמו <persName>שרה </persName> בת <persName>יעקב מרסל.</persName>
+
+ למד באקדמיה ליצוא, ובאוניברסיטת וינה.
+
+ ממיסדי התנועה הציונית, ואח"כ המפלגה הרביזיוניסטית בצ'כוסלובקיה.
+
+ היה חבר המחלקה הפוליטית של ההסתדרות הציונית החדשה באירופה.
+
+ בשנת 1933 קיבל תואר אלוף לטניס - כמשתתף מצ'כוסלובקיה במכביה הראשונה בא"י.
+
+ ממנהלי ופעילי עליה ב' בהונגריה בימי הפלישה של היטלר להונגריה.
+
+ היה פעיל במחתרת הפרטיזנים.
+
+ נאסר ונשלח למחנה השמדה בברגן-בלזן.
+
+ כתב מאמרים שונים בעתון "פראגער טאגעבלאט" וכו'.
+
+ כתב מאמרים והרצה על עניני הציונות ועל נושאים כלכליים. היה חותם בפסבד' אלאל.
+
+ היה ציר לקונגרס ציוני.
+
+ בשנת 1945 נשא לאשה את <persName>קטרינה</persName> בת <persName>ולטר ז'גו.</persName>
+
+ בשנת 1945 עלה לארץ.
+
+ היה חבר ארגון המחתרת אצ"ל.
+
+ מנהל כללי של חברות ביטוח: "שמשון" ו"קדימה''.
+
+ קונסול אוסטריה לחיפה והמחוז.
+
+ יו"ר איגוד ידידות אוסטריה-ישראל.
+
+ בתו: <persName>גבריאלה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4066 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4066</bibl><bibl>Volume: #12 ,Page: 4067 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4067</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

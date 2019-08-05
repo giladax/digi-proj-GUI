@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5223 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5223</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נתן רוהלד</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת תרנ"א (1891).
+
+ לאביו <persName>ברוך בנדט</persName> (מיסד דפוס "ציון" ב<placeName>ירושלים</placeName>. בנו של הרב <persName>נפתלי יצחק הלוי רוהלר</persName> , שהיה השוחט הראשי ב<placeName>ירושלים</placeName>. חינך ולימד בימים ההם שוחטים, ספרדים ואשכנזים, ששירתו אח"כ את הציבור. ראה כרך ראשון, עמוד 121) ולאמו<persName> פייגה רחל.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה שבחורבת יהודה החסיד.
+
+ עבד בבית דפוסו של אביו, ואחרי פטירתו, ניהל את הדפוס בשותפות עם אחיו שמעון ז"ל.
+
+ בתקופת חייו השתדל להקנות לדור הצעיר הירושלמי - מבני הישיבות את מקצוע הדפוס, שיוכלו להתקיים ביגיע כפיהם ולא יזדקקו ל"חלוקה" (תמיכה).
+
+ בשנת תרע"ב נשא לאשה את <persName>חיה טובה</persName> בת <persName>אב</persName> <persName>רהם שמואל שמיט.</persName> עזרה לבעלה בהנהלת הדפוס (אחרי פטירת אחיו שמעון ז"ל) וממשיכה לנהל את הדפוס אחרי פטירת בעלה.
+
+ היה מראשוני בוני הבתים בשכונות: "זכרון משה" ו"כנסת" ב<placeName>ירושלים</placeName>.
+
+ כעבור שנים, העביר את בית הדפוס מירושלים לתל-אביב.
+
+ היה אדם נוח לבריות. נתן חינוך מסורתי וכללי לצאצאיו, הממלאים כיום תפקידים חשובים במדינה.
+
+ נפטר בתל-אביב, ט' אייר תשכ"ה (11.5.1965).
+
+ צאצאיו:<persName> ברוך</persName> (מנהל דאר תל-אביב-יפו);<persName> יצ</persName> <persName>חק </persName> (סגן מנהל מס שבח ושמאי מחוזי); <persName>חנה </persName> אשת <persName>משה אלקוני </persName> (מנהל בחברת הביטוח "יהודה"); <persName>שו</persName> <persName>למית</persName> אשת<persName> דוד ישי</persName> (עתונאי).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5223 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5223</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

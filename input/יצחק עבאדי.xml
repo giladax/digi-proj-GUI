@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1291 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1291</bibl><bibl>Volume: #3 ,Page: 1292 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1292</bibl>
+<bibl>Volume: #3 ,Page: 1293 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1293</bibl>
+<bibl>Volume: #3 ,Page: 1294 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1294</bibl>
+<bibl>Volume: #3 ,Page: 1295 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1295</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק עבאדי</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ט תשרי תרנ"ח (1897), לאביו <persName>אברהם </persName> (סוחר, נכד ר' <persName>אברהם עבאדי,</persName> שעלה ארצה מדמשק) ולאמו<persName> סולטנה </persName> בת הרב<persName> שלמה מזרחי </persName> (מצאצאי ר' <persName>אליהו מזרחי </persName> מפרשו של רש"י על התורה, נכדת הרב <persName>משה מזרחי</persName> מחבר שו"ת "פרי הארץ" ואחות הרב <persName>אלעזר מזרחי </persName> סופר בית הדין הספרדי, המוזכר
+
+ בזכרונות יהודית מונטיפיורי, מחלוצות מפעל חינוך הבנות ברוח הזמן מיסודו של הבארון רוטשילד; ממשפח<persName>ת מזרחי </persName> המשורשת בארץ זה כמאתיים שנה ובעלת חזקה של הגבאות הראשית בבית-הכנסת הספרדי המרכזי בעיר העתיקה על שם רבן יוחנן בן זכאי).
+
+ למד בתלמוד-תורה של עדת הספרדים, בביתהספר למל, בביה"ס למסחר של חברת "עזרה" הברלינית ובבית-המדרש למורים וגמר בו את למודיו
+
+
+ בתרע"ד, והמשיך להשתלם בשפות ובהשכלה עברית וכללית. שנים אחדות עבד בהוראה, ואחרי סיום מלחמת-העולם הראשונה השתתף ביסוד חברת "הסולל" ובעריכת עתוניה "דואר היום", "פלסטיין וויקלי" ו"בריד אל יום" בשנות 1918/20. בשנת 1920 נתקבל לעבודה בשרות הממשלה, עבד זמן-מה כמתרגם במחלקה המשפטית ואח"כ כמתרגם ראשי של הממשלה המרכזית, עד שהתפטר בשנת 1944.
+
+ נשא לאשה את <persName>מילדרד</persName> בת<persName> ירחמיאל יוסף.</persName> מונטריאל, קנדה (אחותו של המושל הצבאי של ירושלים, העו"ד דב יוסף - ברנרד ז'וזף).
+
+ בתקופת שרותו חידש הרבה מונחים וצורות שימוש-לשון בעברית לצרכי האדמיניסטרציה בכל ענפי הנהגות המדינה. פרסם מאמרים רבים בעתונים ובכתביעת בעברית ובאנגלית. הוזמן להרצות ב-1931 בחברה. האסיאטית המלכותית בלונדון על תחית הלשון והספרות העברית, תרגם לעברית את ה"זכרונות" של סיר <persName>רונלד סטורס </persName> (3 כרכים), "יומן ארצישראלי" של קולונ<persName>ל פ. ה. קיש</persName> , תרגם ועיבד את הספר השמושי של ארץ-ישראל מאת<persName> ה. צ. לוק ואדוארד קיטרוטש,</persName> היה עורך ראשי של קובץ חוקי ארץ-ישראל <persName>לדרייטון</persName> וחיבר לו הקדמה ענינית ארוכה. השתתף עם הד"ר <persName>א.. ש. ואלדשטיין</persName> בעריכת המלון האנגלו-עברי (בהוצאת "מצפה"), חבורו האחרון הוא "בינינו לבין האנגלים" (ירושלים יתש"ח, ניתוח מערכת היחסים שבין אנגלים ליהודים ובין יהודים לאנגלים) ועוד.
+
+ היה פעיל ביסודה ובפעולותיה של הסתדרות הספרדים ו"חלוצי המזרח", מזכיר-חוץ וסגן נשיא של לשכת "בני ברית" בירושלים, חבר ועד אגודת הסופרים, יו"ר הועד המפקח של הגמנסיה העברית בירושלים, יו"ר ועד אגודת שוחרי הגימנסיה "בגרות", ועוד.
+
+ מאז השתחררו מהעבודה בשרות. השלטון המשיך בעבודה עתונאית בעברית . ובאנגלית - וערך את החלק הארצישראלי של השנתון הכלכלי האנגלו-ארצישראלי לשנת 1945.
+
+ צאצאיו:<persName>כרמל</persName> אשת ד"ר עדיה (אדולף) קוניקוב, <persName>מרים, אריאל. </persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1291 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1291</bibl><bibl>Volume: #3 ,Page: 1292 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1292</bibl>
+<bibl>Volume: #3 ,Page: 1293 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1293</bibl>
+<bibl>Volume: #3 ,Page: 1294 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1294</bibl>
+<bibl>Volume: #3 ,Page: 1295 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1295</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

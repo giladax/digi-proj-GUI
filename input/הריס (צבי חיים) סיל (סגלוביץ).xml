@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3569 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3569</bibl><bibl>Volume: #10 ,Page: 3570 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3570</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הריס (צבי חיים) סיל (סגלוביץ)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>לונדון</placeName> (אנגליה), כ"ח ניסן תרס"א (17.4.1901).
+
+ לאביו <persName>מנחם מנדל </persName> (סוחר, ציוני ותיק, ממיסדי "בית ציון" ב<placeName>לונדון</placeName>) ולאמו<persName> חיה </persName> בת <persName>צבי מורדכוביץ.</persName>
+
+ קבל חנוך מסורתי. בוגר סן ג'הן-קס קולדז' ב<placeName>לונדון</placeName>.
+
+ היה פעיל בארגוני הנוער הציוני בעירו.
+
+ עלה לארץ בשנת 1919 ועבד במשך שנה במשק אביו, חזר לאנגליה והמשיך ללמוד וחזר בשנת 1925.
+
+ ב-15.3.1928 נשא לאשה את <persName>הרצליה </persName> בת <persName>מאיר יעקב</persName> <persName>שולמן</persName> (ראה כרך ד', עמוד 1661). עסקנית נשי המזרחי בבת-ים.
+
+ בשנת 1929 היה פעיל בהגנה ביפו.
+
+ משנת 1933 בבת-ים. בנה ביתו בעבודה עברית.
+
+ היה חבר המועצה בבת-ים במשך 15 שנה ועזר להתפתחות העיר.
+
+ בימי מלחמת המחתרות - עזר בהשגת ידיעות, התידד עם האנגלים והביא תועלת רבה בשחרורי אנשי מחתרת מהמאסר וכוי.
+
+ אספן בולים ותיק.
+
+ צאצאיו: <persName>מנחם, נעמי </persName> אשת<persName> עמנואל ניטנברג</persName> .
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3569 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3569</bibl><bibl>Volume: #10 ,Page: 3570 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3570</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

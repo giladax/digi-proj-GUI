@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3527 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3527</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יחזקאל המאירי (מזרחי)</persName>
+
+</head>
+         <div><p> נולד בצפת, א' אייר תרצ"ד (16.4.1934) לאביו ר' <persName>שלמה המאירי-מזרחי </persName> (ראה בכרך זה) ולאמו<persName> פרידה </persName> בת <persName>יחזקאל כהן.</persName>
+
+ קיבל חנוך מסורתי בביה"ס הדתי מזרחי בצפת, בי"ס תיכון, השתלמות בעתונאות.
+
+ מפעילי ארגוני נוער (תרבות וכו') בצפת.
+
+ בעקבות פרסום סדרת רשימות ב"חרות" על אופיין המיוחד של פעולות החבלה, נתגלו ה"פדאיון''.
+
+ היה מפקד יחידה באצ"ל. קצין בצה"ל.
+
+ כתב וכותב על בעיות כלליות, בעיקר בשטח המיעוטים והבטחוני, רשימות על ייהוד הגליל, בעתונים : "ידיעות אחרונות", "חרות", "לעצטע נייעס", "אילוצרירטע וועלט" ו"בעין עין" וכו'.
+
+ לשעבר - כתב העתון "זמנים".
+
+ כתב תחנת השידור "קול ישראל" לאיזור הגליל. חיבר 5 הצגות (על נושאים כלליים) שהוצגו בבתי
+
+ ספר ובתנועות נוער, וכן "לקט שיר נעורים", ומספר רב של דיקלומים חגיגיים לתלמידים.
+
+ נלחם בעקשנות נגד הייצוג העדתי, המפלג את העם. תובע מעדות המזרח את כיבוש בית הספר, כשלב טבעי לחלוקת התפקידים והתוארים במדינה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3527 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3527</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

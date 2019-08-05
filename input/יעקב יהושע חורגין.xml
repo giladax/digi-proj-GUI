@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 5001 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/5001</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב יהושע חורגין</persName>
+
+</head>
+         <div><p> (ראה כרך שני, עמד 938)
+
+ הורה ספרות עברית בישיבה אוניברסיטה בניויורק (1952-54) ומשנת 1955 מרצה בספרות עברית באוניברסיטת בר-אילן ברמת-גן.
+
+ ספריו-סיפוריו, שבכללם סיפורים לנוער ולילדים (בעיקר - סיפורים היסטוריים), הם: "מעשה חליל" (תרפ"ז) ; "סוהילה" (תרפ"ח) ; "סיפורים (כרך א', תרפ"ט) ; "חומת אגריפס" (ברלין-תל-אביב, 1932) ; "מפנקסו של מורה" (תרצ"ד) ; "הקנאים הצעירים" (א'-ב', 1935) ; "טרילוגיה היסטורית" (א. "במבוכה", ב. "ירושלים בלהבות", ג. "מות גבורים" 1936 ואילך/! "בין חיתו אדם" (א'-ב' בשם: "בלב ים", 1938/39 ; א'-ג' תשי"ג-תשי"ח) ; "בארמון דפנים" (תש"א) ; "כתבי..." (א. "בעלי הנאה", ב. "בלהט קדם", תש"ג-תש"ד) ; "אל המלוכה" (א/-ב' 1944) ; "חלום ליל פסח" (תש"ד) ; "טירת כסף" (1945) "מבעד לצעיף (תש"ח)! "התקפת משטרת רמת-גן" (תשי"א, מס' 6 ל"ספרית המרד") ; "הנביא מאיספהן" (תשי"א) ; "שלושה סיפורים היסטוריים" תשי"ג); "יהלום הפלאים" (תשט"ז) ; "הבלש משכונת הצריפים" (1957) ; "אלומות" (1957); "מעם קרנות המזרח" (תשי"חי) ; "ועכשיו ילדים שקט" (תשי"ט) ; "גלריות אמריקאיות", סיפורים וריפורטאז'ות ממסעות בארצות הברית (תשכ"ד) ; "שלשלת הגבורה" ("דמויות וסיפורים מדברי ימי עמנו, מפרי עתם של טובי הסופרים", 1946 ואילך) וכן היה בין עורכי ספר היובל לרמת-גן (1946) ועוד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 5001 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/5001</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

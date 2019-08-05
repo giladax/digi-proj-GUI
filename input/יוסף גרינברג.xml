@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2185 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2185</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף גרינברג</persName>
+
+</head>
+         <div><p> נולד בבריסק-דליטא (פולין), בשנת תרכ"ה (1865), לאביו <persName>ברוך.</persName> קיפל חינוך מסורתי בחדר ובישיבה.
+
+ נשא לאשה את <persName>איטה</persName> בת<persName> יחזקאל.</persName>
+
+ עסק בעשית נקניקים ובמכירתם.
+
+ ב-1907 עלה לארץ. היה זמן-מה שומר בזכרון יעקב, אח"כ השתקע בנוה שלום שביפו וניסה את מזלו במסחר מכולת וסידקית בחנותו והיה מהמתפללים הקבועים ומהמשתתפים בשיעורי תורה בבית-הכנסת של הת"ת "שערי תורה". אח"כ נתמנה לשמש בית-הדין של הרב <persName>א. י. קוק.</persName>
+
+ משפרצה מלחמת-העולם התאזרח לבל יגורש מהארץ ובתור "חכם" (איש השרות הדתי) שוחרר מהשרות בצבא הטורקי. בעת הגירוש הכללי מיפו ותלאביב יצא עם הגולים לפתח-תקוה ואח"כ לכפר-סבא. שם התמסר לעזרה לכושלים ולחולים ולקח תחת חסותו ארבעה ילדים שהוריהם נספו במגפות במחנה הפליטים ושקד על חינוכם וכלכלתם. אח"כ המשיך את נדודיו משם עד זכרון יעקב.
+
+ משחזר עם החוזרים אחרי המלחמה נתמנה למדביק המודעות על לוחות הפרסום של עירית ת"א, הראשון בעבודה זו בעיר, ועם גידולה של העיר היה מוסיף לעבור ברגל מרחקים גדולים יותר ויותר, עד שהדבר היה למעלה מכוחותיו ואז למד בגיל קשיש לרכב על אופנים, הכניס גם אנשים אחרים לעבודה זו, ובכללם
+
+ את<persName> משה</persName> בנו והמשיך בעבודתו עד שנתו האחרונה וזכה לראות את העיר מתרחבת בממדים עצומים. בשנותיו האחרונות היה קובע עתים לתורה ולתפילה בבית-הכנסת שברחוב בורוכוב והמשיך בפעולתו במוסדות חסד ובמתן בסתר לעניים צנועים.
+
+ נפטר בתל-אביב, ד' סיון, תרצ"ח.
+
+ צאצאיו:<persName> גנינה</persName> (לשעבר אחות ראשית בבית-החולים "הדסה" בת"א) אשת<persName> יעקב גולדברג, משה</persName> (מדביק מודעות מטעם עירית ת"א), <persName>גרשון</persName> (מכונאי),<persName> שרה</persName> אשת <persName>יעקב שמאי</persName> (מורה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2185 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2185</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1910 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1910</bibl><bibl>Volume: #4 ,Page: 1911 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1911</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב דב מגידוב</persName>
+
+</head>
+         <div><p> נולד בברזינה, ליד בוברויסק. רוסיה הלבנה, בשנת תרכ"ז (1867), לאביו <persName>יוסף מגידוב.</persName>
+
+ למד בחדרים ובישיבות ונמשך לחיבת ציון.
+
+ עלה לארץ בשנת תרמ"ח (1888). החל לעבוד כפועל שכיר בראשון לציון, ובהיותו פועל חרוץ ומסור נשלח לעבוד בבאר טוביה (אז קוסטינה) שיסדו חובבי ציון.
+
+ כשנוסדה אחרי גירוש היהודים ממוסקבה (1891), "אגודת האלף" המינסקאית במטרה לישב אלף משפחות על הקרקע בארץ-ישראל, הזמין אותו <persName>דב בר שליפיאן</persName> (דב"ש; ראה כרך א', עמוד 321), נציג החברה בארץ, לעלות בין הראשונים על הקרקע שרכש באמצעות <persName>יהושע אוסובצקי </persName> (מנהל עניני ההתישבות של הבארון <persName>רוטשילד</persName> בגליל העליון, ראה כרך ג' עמוד 1318), בשביל החברה בעין זיתים, ואחרי שפסקה העבודה בעין זיתים עבר להתישבות כפועל אריס במחנים והיה בה אכר ועובד למופת כעשר שנים.
+
+ נשא לאשה את <persName>רייזל</persName> בת <persName>דניאל בנדל </persName> מראשוני ראש פנה (ראה כרך א' עמוד 138).
+
+ כשיסד הבארון את המושבה יבנאל בגליל התחתון הוזמן גם הוא להתנחל בין החלוצים הראשונים, ומשלא הספיקה ההכנסה מהפלחה היבשה עזרה אשתו לפרנסת המשפחה באפית לחם למכירה. וכך חי במשך עשרות שנים חיי עמל צנועים תוך דבקות לארץ ולכפרו. רק שנתים לפני מותו עבר מסיבות משפחתיות ומטעמי בריאות אל בניו לרעננה.
+
+ עלה עם הוריו ארצה בשנת 1907.
+
+ קבל חינוך מסורתי וכללי בתלמוד תורה.
+
+
+ בימי מלחמת העולם הראשונה שירת בצבא התורכי נפטר בבית-החולים "הדסה" בתל-אביב, ז' כסלו תרצ"ו, ונקבר בנחלת יצחק.
+
+ צאצאיו: <persName>בתיה </persName> אשת <persName>אמוץ כהן</persName> (מורה בגימנסיה רחביה בירושלים, בן <persName>יצחק כהן</persName> מראשוני האכרים במוצא),<persName> יהושע, חנניה, יוסף.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ (ראה כרך רביעי, עמודים 1910-11)
+
+ נא לבטל את 2 השורות האחרונות בטור השני משמאל, בעמוד 1910. ואת השורה הראשונה בטור הימיני - בעמוד 1911. 3 הטורים האלה אינם שייכים לערך שלו. נכנסו בטעות.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1910 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1910</bibl><bibl>Volume: #4 ,Page: 1911 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1911</bibl>
+            <bibl>Volume: #18 ,Page: 5483 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5483</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

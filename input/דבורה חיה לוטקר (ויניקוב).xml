@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3112 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3112</bibl><bibl>Volume: #8 ,Page: 3113 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3113</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דבורה חיה לוטקר (ויניקוב)</persName>
+
+</head>
+         <div><p> נולדה בשנת תרס"ד (10.12.1903) בניז'ין שבפלך צ'רניגוב, אוקראינה.
+
+ לאביה <persName>צבי ויניקוב</persName> ולאמה <persName>אהובה </persName> בת<persName> זלמן פוריצקי.</persName> למדה בבית-ספר תיכון והיתה חברה בהסתדרות
+
+ המכבי באוקראינה. אח"כ למדה בבית-ספר לחובשות (אחיות) וגמרה והוסמכה ב-1925.
+
+ ב-1925 עלתה לארץ והתחילה לעבוד בתור חובשת מטעם קופת חולים במושב כפר גדעון שליד עפולה. 
+
+
+ ב-1926 נישאה לאריה לוטקר (ראה ערכו בכרך זה), ומאותה שנה ואילך עובדת היא בתור אחות בביתהחולים העירוני "הדסה" בתל-אביב.
+
+ היתה חברה פעילה בהצה"ר וכהמשך לכך בתנועת "חרות".
+
+ בשנות המאבק עם השלטון הזר היתה חברה במחתרת אצ''ל והיתה נותנת בביתה טיפול רפואי בחשאי ללוחמי אצ"ל שנפצעו בפעולות.
+
+ בניה: <persName>זאב </persName> (עובד בצה"ל), <persName>עמי</persName> (בוגר ביה"ס הגבוה למשפט וכלכלה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3112 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3112</bibl><bibl>Volume: #8 ,Page: 3113 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3113</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

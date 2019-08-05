@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1807 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1807</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אבא כהן</persName>
+
+</head>
+         <div><p> נולד בצפת, בשנת תרכ"ו (1866), לאביו <persName>יצחק</persName> <persName>שלום</persName> (נקרא "אבו גרשון" על שם בנו הבכור ובפי הערבים נשאר כינוי המשפחה "אבו גורשום". רכש קרקעות בפקיעין; נפטר בצפת, א' אייר תרנ"ו).
+
+ למד בחדרים ספרדיים, אצל החכם <persName>שחדה לוי ואצל</persName> גיסו הרב <persName>ציון כהן</persName> . אח"כ עזר לאביו בעסקיו (הלואות לפלחים עד הגורן, ועד עצירת שמן הזית בסתיו, ועד מכירת הגבינות באביב ; וכן בטיפול בקרקעות אביו ובאריסיהן בפקיעין, תרשיחא, חורפש, סמואי ועוד).
+
+ נשא לאשה את <persName>יפה (ג'מליה)</persName> ממשפחת<persName> טולידאנו</persName> מטבריה.
+
+ המשיך בעסקי אביו והיתה לו בצפת טחנה בנוסח ישן, מונעת בכח 4 פרדות, שעבדו בה רק בחדשי אדר וניסן להכנת קמח למצות. פעם נהרג נער ערבי בטחנה בלי ידיעתו והעלילו עליו שהרגו במזיד. היה שלשה חדשים במאסר והוכרח לעזוב את הארץ לכמה שנים. ברוב הזמן היה גר בפקיעין, ובמשך הזמן עברו
+
+ רוב קרקעותיו לרשות הפלחים על סמך החוק להגנת האריסים.
+
+ לימד את בניו תורה וחינכם לבעלי מלאכה, לבל יתפרנסו מהתורה.
+
+ נפטר בצפת, י"ח כסלו תש"ג ונקבר במערת "ינוקא קדישא".
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, כ"ז חשון תשי"ח (21.11.57) (ראה כרך ו', עמוד 2550)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1807 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1807</bibl>            <bibl>Volume: #10 ,Page: 3646 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3646</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

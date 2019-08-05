@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4524 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4524</bibl><bibl>Volume: #14 ,Page: 4525 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4525</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד סוחצבסקי (ס. דויד)</persName>
+
+</head>
+         <div><p> נולד טישובצה, מחוז טומשוב לובלסקי (פולין) י"ג אדר ב' תרס"ח (16.3.1908).
+
+ לאביו<persName> אלכסנדר סנדר אליעזר</persName> ולאמו <persName>שרה גיטל</persName> בת ר' <persName>יחיאל גרטנר</persName> (מגזע רבנים ידועים בפולניה. הרבי מרדזין ממציא התכלת).
+
+ קיבל חינוד מסורתי בחדר, ובישיבה מסיבתא בורשא.
+
+
+ היה חבר ב"התחיה" בורשא בראשותו של<persName> יצחק</persName> <persName>גרינבוים.</persName>
+
+ עלה לארץ בשנת תרצ"ב (1932).
+
+ באותה שנה הקים בת"א ביח"ר לסריגה בשם "טריקו-פריס".
+
+ היה פעיל בעליה בלתי ליגלית מפולניה, רומניה וכו'.
+
+ היה חבר ההגנה ובשנת 1936 נפצע במאורעות ברמלה.
+
+ ב-1940 נשא לאשה את<persName> טובה</persName> בת ר'<persName> מנחם אפל</persName> <persName>בוים</persName> מלודז.
+
+ במלחמת העולם השניה היה ספק לצבא הבריטי.
+
+ ב-1946 היה מספק לאסירים היהודים צרכי מזון בבתי הסוהר, ובשבת השחורה סיפק מזון ללטרון לכל האסירים.
+
+ ב-1949 הקים ביח"ר לתעשית כתונות ופיג'מות. רכש נשק מהצבא הבריטי בשנת 1948.
+
+ משפחתו - הוריו וכו' ניספו ע"י הנאצים בורשה.
+
+ צאצאיו-<persName> עמוס, אביעזר, שרה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4524 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4524</bibl><bibl>Volume: #14 ,Page: 4525 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4525</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

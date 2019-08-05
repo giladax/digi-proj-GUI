@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5239 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5239</bibl><bibl>Volume: #17 ,Page: 5240 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5240</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זליג לבון (לוביאניקר)</persName>
+
+</head>
+         <div><p> (כרך ב', עמוד 590) מנהל חברת <persName>"שיכון עובדים".</persName> נקרא על שמו הגן הציבורי בשיכון הותיקים ב
+
+
+ קרית עבודה בחולון - כאות הערכה לעבודתו בתחום השיכון הציבורי בארץ.
+
+ קרית עבודה - הגרעין שממנו צמחה חולון, והוא היה מיוזמיה ומבוניה. הגן יכיל 15 דונם, כולל מגרש משחקים גדול.
+
+</p>
+<p>
+
+ תוספות: 
+
+ (ראה כרך ב', עמוד 590 והוספה בכרך י"ז, עמוד 5239) גם עירית חיפה קראה גן על שמו ב"קרית רמז" לפי החלטת העיריה. גדלו 35 דונם בערך.
+
+ ב"רבעון לכלכלה", אב תשכ"ח מס' 57-58 תדפיס על ציוני דרך בהתפתחות "שיכון עובדים" בשנות קיומה של המדינה. הובאו פרטים רבים על פעולות "שיכון עובדים", שמנהלו הכללי היה כל השנים הח' <persName>זליג לבון</persName> . מתדפיס זה אנו למדים, כמה גדול חלקו בהקמת עשרות אלפי דירות להשכרה לעולים, לפועלים ותיקים, בעלי מלאכה, לשיכון העממי, שיכון חסכון ולשיכון עובדים בכל חלקי הארץ. השווי של היקף הבנייה עולה על מיליארד לירות. מספר התושבים בבתים שנבנו ע"י "שיכון עובדים" עובר בהרבה על שלוש מאות אלף נפשות. שהן שליש מכלל האוכלוסיה ההסתדרותית.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5239 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5239</bibl><bibl>Volume: #17 ,Page: 5240 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5240</bibl>
+            <bibl>Volume: #18 ,Page: 5483 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5483</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

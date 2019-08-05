@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3971 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3971</bibl><bibl>Volume: #12 ,Page: 3972 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3972</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר מאריו אוטולנגי</persName>
+
+</head>
+         <div><p> נולד א' ניסן תרס''ד (17.3.1904) בפלורנץ שבאיטליה.
+
+ לאביו<persName> סיליו (אליהו</persName> ) (ממשפחה מיוחדת של סוחרים אמידים) ולאמו<persName> אגלה</persName> בת<persName> משה פרוגה </persName> (היה הסטנוגראף של הפרלמנט האיטלקי, קשור למשפחת <persName>אסקולי</persName> , שהעמידה גנרל לצבא ואדמירל לחיל הים של איטליה).
+
+ למד באוניברסיטת רומא והוסמך לד"ר לכלכלה.
+
+ ב-1934 נשא לאשה את <persName>לוציאנה</persName> בת<persName> דאנטה כהן</persName> .
+
+ עם פעילותו בחיי הכלכלה באיטליה ובהשפעה על דרכיה באמצעות מאמריו הרבים בעתונות שם על נושאים בתחומי הכלכלה והתעשיה, נתן הרבה מזמנו וממרצו נוסף לתרומות ביד רחבה - לתנועה הציונית. למד עברית בשיעורים פרטיים ותנ"ך בחוגים ציוניים שיסד. שימש במשך שנים מזכיר ההסתדרות הציונית באיטליה ועורך בטאונה "ישראל" וייצג אותה בקונגרסים. יסד מחנות הכשרה לחלוצים במשקים חקלאיים שבסביבת פ'ירנצי.
+
+ בשנות 1934-38 היה עורך העתון ישראל באיטליה.
+
+ עלה לארץ בשנת 1938. יסד בנתניה את בית-החרושת לעורות "עליון" והשתלב בחיי היצרנות בארץ.
+
+ חיבר באיטלקית ספר בעניני כלכלה בשם Controllo delle materie prime ederrate agricoleשיצא ב-1935 בפ'ירנצי.
+
+ במלחמת השחרור שירת בצה''ל.
+
+ צאצאיו: ד"ר<persName> מיכאל, מרים</persName> אשת <persName>יצחק רוט</persName> (תעשיין), <persName>עליזה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3971 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3971</bibl><bibl>Volume: #12 ,Page: 3972 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3972</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

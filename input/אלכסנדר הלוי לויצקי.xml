@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3141 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3141</bibl><bibl>Volume: #8 ,Page: 3142 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3142</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלכסנדר הלוי לויצקי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>חרסון</placeName> (רוסיה) בשנת תרל"ה (1875).
+
+ לאביו <persName>גרשון זליג הלוי </persName> (סוחר משכיל, חובב ציון) ולאמו <persName>רות לאה</persName> לבית <persName>בילינקיס</persName> (פעילה במעשי חסד ב<placeName>חרסון</placeName> ולאחר זמן ביסוד מושב זקנים בתל-אביב ועוד).
+
+ אחרי פרעות 1881 בדרום רוסיה ("הסופות בנגב") עלתה המשפחה לארץ ב-1882, אך בגלל קשיי התערות
+
+
+ והתאקלמות חזרו כעבור שנה לחרסון. ב-1883 מת האב, בעקב מחלת ריאות שתקפתו מהצטננות בעת בקורו בחורף בירושלים.
+
+ קבל חנוך מסורתי.
+
+ נשא לאשה את <persName>אטיל</persName> בת <persName>עוזר חיים קוטלרוב.</persName>
+
+ ממיסדי בית הכנסת הגדול בתל-אביב.
+
+ ממארגני שכון בעלי המלאכה בתל-אביב לאחר מאורעות הדמים של שנת 1921 ביפו.
+
+ בעל סוכנות למכירת וקנית קרקעות ובתים.
+
+ חבר במפעלי צדקה ואגודת דתיות שונות.
+
+ חנך את בניו ברוח לאומית ובנין הארץ.
+
+ נפטר בתל-אביב, כ"ה אב תרפ"ד (25.8.1924) ונקבר בבית הקברות הישן.
+
+ צאצאיו :<persName> אשר לויצקי</persName> (עו"ד), <persName>ד"ר יעקב לויצקי</persName> (ראה את הערך שלו בכרך זה), <persName>צבי לויצקי, יפה</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3141 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3141</bibl><bibl>Volume: #8 ,Page: 3142 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3142</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

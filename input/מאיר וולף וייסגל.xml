@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3467 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3467</bibl><bibl>Volume: #10 ,Page: 3468 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3468</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר וולף וייסגל</persName>
+
+</head>
+         <div><p> נולד בי"א חשון תרנ"ה (10.11.1894) בקיקול שבפולין.
+
+ לאביו <persName>שלמה חיים</persName> ולאמו<persName> לאה</persName> בת <persName>יצחק פרידמן.</persName>
+
+ קיבל חינוך מסורתי וב-1905 יצא עם הוריו לארה"ב. בשנים 1916-1914 למד באוניברסיטת קולומביה וגמר בהצטיינות.
+
+ ב-10.6.1923 נשא לאשה את <persName>שירלי</persName> בת <persName>הירש ליב</persName> <persName>הרשפלד.</persName>
+
+ עסק כל השנים בפעילות ציונית ארגונית, ספרותית ותרבותית.
+
+ בשנים 1921-1918 ערך את ה"מכביאן מאגאזין".
+
+ בשנים 1930-1921 היה. המזכיר הכללי של הסתדרות ציוני אמריקה וערך את שבועונה "ניו פלסטיין", ובשנים 1932-1930 ערך את ה"ג'ואיש סטנדרד" בטורונטו שבקנדה.
+
+ מ-1925 היה ציר לכל הקונגרסים הציוניים (חוץ מב-1939).
+
+ בשנים 1940-1939 היה מנהל כללי של הביתן הארצישראלי בתערוכה העולמית בניו-יורק.
+
+ בשנים 1946-1943 היה המארגן והמזכיר הכללי של המחלקה האמריקאית של הסוכנות היהודית.
+
+ בשנים 1946-1940 היה נציגו המדיני האישי של ד"ר <persName>חיים וייצמן </persName> בארה"ב.
+
+ ב-1944 אירגן וניהל את הועד האמריקאי למכון וייצמן לרגל יובל ה-70 של <persName>וייצמן</persName> , ומ-1947 היה סגן יו"ר בפועל של ועד זה בניו-יורק. ב-1951 היה סגן יו"ר הועד האמריקאי הפיננסי לישראל.
+
+ ב-1949 עלה לארץ ומכהן בתפקיד יו"ר הועד הפועל של מכון-וייצמן למדע ויד חיים וייצמן ברחובות ומנהל את פיתוחם.
+
+ כיהן בתפקיד מיוחד כיו"ר הועדה העולמית לעשור למדינת ישראל.
+
+ פירסם הרבה מאמרים על נושאים יהודיים וציוניים בכתבי-עת ובמאספים יהודיים וכלליים. 
+
+
+ ב-1936 ערך את הוצאת הפואימות של ביאליק באנגלית, ב-1929 את ספר הימים של הרצל באנגלית, ב-1944 את הספר (באנגלית) "וייצמן המדינאי, איש המדע ויוצר הקהיליה היהודית".
+
+ ב-1936 אירגן את הצגת המחזה התנ"כי "הדרך הנצחית" לפרנץ ורפל, במוסיקה של קורט וייל ובבימוי מכס ריינהארד וב-1934-1933 הצגת "רומאנס של עם" בשיקאגו ובניו-יורק ואח"כ בסיבוב בערים רבות בארה"ב. צאצאיו: <persName>עמנואל, הלן</persName> אשת<persName> שמואל אמיר, דוד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3467 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3467</bibl><bibl>Volume: #10 ,Page: 3468 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3468</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

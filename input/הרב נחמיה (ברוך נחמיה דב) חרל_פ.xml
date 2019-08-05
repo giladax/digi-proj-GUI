@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5647 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5647</bibl><bibl>Volume: #19 ,Page: 5648 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5648</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב נחמיה (ברוך נחמיה דב) חרל"פ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בתמוז תר"ץ (1930).
+
+ לאביו הרב<persName> זבולון חרל"פ </persName> (מיקירי ירושלים וגדוליה בתורה ובהוראה (ראה בכרך זה) ולאמו<persName> הינדה</persName> <persName>גיטל </persName> לבית <persName>סובל</persName> .
+
+ את חינוכו המסורתי קיבל בת"ת ובישיבת "עץ חיים". היה בעל כשרונות גדולים. שקידתו והתמדתו בתורה היתה גדולה ועלה במעלות התורה והמוסר. ממצוייני תלמידי ישיבת סלבודקא בבני ברק, אח"כ בישיבת קמניץ ב<placeName>ירושלים</placeName>.
+
+ בשנת תש"ה (1945) זכה לקבל את הפרס הראשון מקרן הפרסים שעל שם הרב <persName>חיים מן</persName> זצ"ל (מהמלמדים הראשיים בת"ת עץ חיים).
+
+ בשנת תשט"ו (1955) נשא לאשה את <persName>מינה</persName> בת הרב ר' <persName>מנחם מנדל שינקר</persName> (ראה כרך שמיני, עמוד 3075) נכדו של רבי<persName> יוסף חיים זוננפלד</persName> (ראה בכרך ראשון, בעמוד 61), ואשתו מצד אמה נינת הרב יוסף זונדל מסלנט (ראה כרך ראשון, עמוד 284).
+
+ היה חביב על הבריות, בעל קול נעים והיה עובר
+
+
+ לפני התיבה בימים הנוראים. עסק בהוראה לילדי ישראל מתוך אהבה והתמסרות. בבית הכנסת ב"רמת יצחק" ר"ג היה נותן שעורים בשבתות. הופיע לפני הציבור בדרשות ונאומים מלבבים והקסים את שומעיו. היה משגיח על הכשרות ב"מלבן".
+
+ מפעם לפעם היה נוסע למושב קרוב או רחוק ממקום מגורו בבני ברק ובשבת היה דורש לפני המתפללים לטובת ישיבת "חזון איש" בבני-ברק.
+
+ ביום השישי ד' כסלו תש"ל (14.11.1969) נסע למושב קרוב וביום השבת הלהיב את שומעיו לחיזוק התורה ולתמיכת לומדיה בישיבת "חזון איש". במוצאי שבת אור ליום ו' כסלו, בצאתו מהמושב על מנת לשוב הביתה, נפגע על ידי מכונית שעברה במקום ונהרג. הובא לקבורה במרום הר הזיתים ב<placeName>ירושלים</placeName> ליד סבו הרב <persName>חיים יעקב בצלאל חרל"פ</persName> .
+
+ צאצאיו:<persName> בתיה; מנחם מנדל; שמואל הלל ; זי</persName> <persName>סע רחל; זהבה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5647 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5647</bibl><bibl>Volume: #19 ,Page: 5648 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5648</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2618 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2618</bibl><bibl>Volume: #6 ,Page: 2619 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2619</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים שפירא</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ג ניסן תרס"ד (8.4.1904).
+
+ לאביו ר'<persName> ישראל אפרים</persName> (אלטר) <persName>שפירא </persName> (בן ר' <persName>מרדכי</persName> <persName>הרץ שפירא</persName> , היה אחד השד"רים הראשונים שנשלחו מטעם "ועד הכללי כנסת ישראל" ע"י הרב <persName>שמואל סלנט</persName> זצ"ל. בהשתדלותו נבנו "בתי קראנהיימר" בשכונת כנסת ישראל ב' (ע"י מנורה) בירושלים) ולאמו <persName>חיה</persName> <persName>טובה</persName> בת ר'<persName> חיים סלנט</persName> (בן רבי <persName>שבתי ד"ץ</persName> -דיין צדק
+
+
+ בבית הדין הראשון בירושלים. חתנו של הרב<persName> יוסף</persName> <persName>זונדל סלנטר</persName> ).
+
+ אביו ר' <persName>ישראל אפרים</persName> היה מהעובדים הראשונים בבית הספר לאמנות "בצלאל".
+
+ קבל חנוך מסורתי בחדר ובישיבות.
+
+ בשנת תרפ''א (1921) נתקבל כפקיד במחלקת הארכיון הכללי של הסוכנות היהודית, ועובד בסוכנות עד היום.
+
+ בשנת תרפ''ה (1925) ביחד עם אביו היו מהמתישבים הראשונים בכפר העברי "נוה יעקב" על דרך שכם (ע''י קלנדיה-עטרות) שנוסד ע"י חברי המזרחי הצעיר בא"י. הוא נבחר למזכיר הועד.
+
+ בשנת תרפ"ז (1927) נשא לאשה את <persName>שרה</persName> בת ר'<persName> משה</persName> בן<persName> מוני זילברמן </persName> (מהמלמדים הידועים ב"עץ <persName>חיים</persName> ", אשר בחורבת רבי יהודה החסיד).
+
+ במלחמת העולם השניה נתמנה למרכז המשמר האזרחי בשכונות שערי חסד, רחביה והסביבה.
+
+ במלחמת הקוממיות היה בין המגויסים הראשונים על הר ציון עם כבושו, לאחר נפילת העיר העתיקה בירושלים והיה בין המגינים עליו.
+
+ באותו זמן נחרב הכפר נוה יעקב ואדמתו נשארה בידי ממשלת עבר הירדן. יחד עם חבריו הוא פעיל ברכישת שטח קרקע בסביבות עיר הגנים "קרית היובל" (בית מזמיל) לשם הקמת הנקודה מחדש.
+
+ צאצאיו: <persName>מרים</persName> אשת <persName>אלימלך ברילנט </persName> (רב סמל בצבא הקבע לצה"ל),<persName> בתיה</persName> אשת <persName>יעקב דרור </persName> (מוסמך האוניברסיטה העברית, מורה),<persName> משה, מנחם אשר</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2618 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2618</bibl><bibl>Volume: #6 ,Page: 2619 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2619</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

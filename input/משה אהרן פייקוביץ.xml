@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 2009 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2009</bibl><bibl>Volume: #4 ,Page: 2010 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2010</bibl>
+<bibl>Volume: #4 ,Page: 2011 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2011</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה אהרן פייקוביץ</persName>
+
+</head>
+         <div><p> נולד בראש-פנה, ט"ו ניסן תרנ"ו (8.4.1896), לאביו <persName>ראובן יוסף </persName> ולאמו<persName> חיה</persName> בת <persName>אלתר שוארץ </persName> (ראה עליהם בערך מיוחד של האב בכרך זה). למד בבתי-הספר בראש פנה ובכפר תבור, שם עבד מילדותו במשק הוריו ובגיל צעיר כבר השתתף עם אביו במלחמות נגד הבידואים שהיו פושטים בשדות המושבה לגניבת יבול ולהעלאת עדרים. המשיך את לימודיו בביה"ס של כי"ח ובביה"ס התיכוני של ה"אחים" הצרפתים בחיפה. במלחמת-העולם א' שרת כקצין בצבא הטורקי, בעיקר בחזית הנגב, ואחרי הכיבוש הבריטי נכנס בין הפקידים הראשונים לשרות בהנהלת הרכבות.
+
+ ב-1920 נשא לאשה את<persName> שרה בת יצחק גולדברג.</persName>
+
+ בשרותו בהנהלת הרכבות עלה בדרגות ומילא תפקידים חשובים. היה חבר ועדת הרכבת החג'אזית, חבר הועדה לרכבות במזרח התיכון, חבר משלחת לקונגרס בינלאומי לרכבות ב-1941 באיסטמבול, השתתף כחבר יועץ במשלחת הצבאית הבריטית, שנסעה במלחמתהעולם ב' דרך סוריה וטורקיה לארגן עזרה לממשלת פולין, וקיבל מאת השלטון המנדטורי את אות-הכבוד מ. בי. אי.
+
+ חבר ב"הגנה" מ-1919 ואילך ועזר לה בכל הדרכים האפשריות בתחומי תפקידו ברכבות (הובלה, מתן ידיעות, וכו'), ובתקופת מבצע "תוהו ובוהו'' הבריטי והתפוררות השלטון הזר בארץ פעל רבות בשמירת נכסי הרכבות בשביל מדינת ישראל העתידה והצליח לרכז את הקרונות והקטרים וכו' בתחנות המרכזיות שבידי היהודים. אחרי קום מדינת ישראל נתמנה למנהל כללי בפועל של הרכבות בישראל. יצג את רכבות ישראל בועידה בינלאומית לעניני הרכבת, פירנצי 1948, והשתתף בעזרה ובעצה לסלילת קו חדרה-תל-אביב.
+
+ כתב מאמרים ב"הארץ" וב"פלסטיין פוסט" על שמי
+
+
+ רת נכסי הרכבת לטובת המדינה.
+
+ צאצאיו: <persName>דרור אלון, נוגה</persName> ז"ל (נהרגה בשעת אימונים של ה"הגנה". לזכרה נטע חורשה ביערות הקה"ק ויסד ספריה בביה"ס הריאלי בחיפה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 2009 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2009</bibl><bibl>Volume: #4 ,Page: 2010 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2010</bibl>
+<bibl>Volume: #4 ,Page: 2011 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2011</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

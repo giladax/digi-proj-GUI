@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 695 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/695</bibl><bibl>Volume: #2 ,Page: 696 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/696</bibl>
+<bibl>Volume: #2 ,Page: 697 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/697</bibl>
+<bibl>Volume: #2 ,Page: 698 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/698</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל מרדכי חפץ</persName>
+
+</head>
+         <div><p> נולד בעיר וולקוביסק, ליטא, בשנת תרל"ז (18.3.1878), לאביו <persName>זלמן</persName> . למד ב"חדר" ואח"כ בביתספר מחוזי של הממשלה הרוסית, וכשגדל החל לעסוק במסחר בצמר. היה פעיל בארגוני נוער ציוניים ואח"כ באגודות ציוניות למבוגרים.
+
+ בתרס"ט עלה ארצה. קנה פרדס בפתח-תקוה והת- 
+
+ מסר לחקלאות. פעל והפעיל אף אחרים לקידום עניני החקלאות והשתתף ביזמה לביצוע מפעלים שיתופיים: סלילת כביש חקלאי ראשון בין הפרדסים, חרישה במכונות, ועוד. בשנת תרע"ב נבחר לועד המושבה.
+
+ נשא לאשה את<persName> יונה-רחל</persName> .
+
+ במלחמת-העולם הראשונה נשא בסבל הפרדסנות שנותקה משווקי היצוא ונשארה בלי הכנסה אפילו להוצאות העיבוד. הבנק, שהלוה לפרדסנים כספים לעיבוד, הכביד עליהם מאד בתנאיו ובשיעבוד הרכוש. אז קם חפץ בין ראשוני המתקוממים נגד התביעות המופרזות וכדי להפטר מהתלות התמידית בבנקים השתתף ביסוד "קופת מלוה חקלאית", שנועדה לספק לפרדסנים ולחקלאים אשראי על בסיס שיתופי עצמאי.
+
+ השתתף בפעילות בשרותי הבטחון במקום. פעל רבות למען הנוער, וביחוד למען "המכבי". היה חובב ספר ונגינה.
+
+
+ בשנים האחרונות פעל בהסתדרות החקלאים ובמועצה הכפרית. השתתף ביסוד הקואופרטיב "החקלאי" לשיווק פירות הדר.
+
+ היה אח בלשכות הבונים החפשים ''הכוכב" ו"ברקאי" בתל-אביב ואח''כ השתתף ביסוד הלשכה בפתח-תקוה על שם דוד ילין ובינואר 1944 קודש לנשיאה.
+
+ נפטר בפתח-תקוה, ט"ז אב תש''ה (26.7.45).
+
+ צאצאיו: <persName>דינה; חביבה אשת יוסף שטרקמט</persName> ; <persName>אליעזר ; לאה . דניאל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 695 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/695</bibl><bibl>Volume: #2 ,Page: 696 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/696</bibl>
+<bibl>Volume: #2 ,Page: 697 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/697</bibl>
+<bibl>Volume: #2 ,Page: 698 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/698</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

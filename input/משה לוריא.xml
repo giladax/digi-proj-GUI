@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5235 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5235</bibl><bibl>Volume: #17 ,Page: 5236 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5236</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה לוריא</persName>
+
+</head>
+         <div><p> נולד בירושלים, ח' תמוז תרס"ח (7.7.1908). לאביו <persName>ישעיהו לוריא</persName> (יליד ירושלים. בן ר'<persName> יעקב אהרן</persName> בן <persName>נתנאל</persName> ממוהילב, מצאצאי מהרש"ל ורש"י. מצאצאי ר' <persName>ישעיהו ברדקי,</persName> מעסקני הישוב הישן בירושלים. ראה את הערך של<persName> ישעיהו לוריא</persName> בכרך ששי, בעמוד 2455 ושל <persName>ישעיהו ברדקי </persName> שעלה לארץ בשנת תק"ע = 1810 בכרך רביעי, עמודים 1583-84. בתו חנה היתה אשת <persName>נתנאל לוריא</persName> (שהיה סופר ומזכיר של כולל רייסן, סוכן ונאמן בבית החולים "ביקור חולים" בירושלים. ראה את הערך שלו בכרך שני, עמוד 1047) ולאמו <persName>רבקה מלכה</persName> בת הסופר והעסקן של הישוב הישן בירושלים ר' <persName>יוסף ריבלין</persName> (ר' יושעה) (ממיסדיו ומנהלו של הועד הכללי "כנסת ישראל",
+
+
+ בונה השכונות הראשונות של ירושלים החדשה. ראה את הערך שלו בכרך ראשון, בעמודים 492-94).
+
+ קיבל חינוך מסורתי וכללי בגימנסיה בירושלים.
+
+ במשך שנים היה פקיד בברקליס בנק.
+
+ כיום, מנהל סניף ברקליס בנק בגבעתיים.
+
+ חבר פעיל במיסדר בני-ברית.
+
+ חזן חובב בבית הכנסת ישורון-תחכמוני.
+
+ שירת בצה"ל במלחמת השחרור ובמלחמת סיני.
+
+ בשנת תרצ"ב (1932) נשא לאשה את<persName> רחל</persName> בת <persName>יעקב קפלן</persName> (מנהל בנק אנגלו-פלשתינא בע"מ כיום, הבנק הלאומי לישראל בע"מ, הסניף הראשון בירושלים).
+
+ צאצאיו:<persName> דן לוריא</persName> (ד"ר למטימטיקה בארצות הברית. אשתו - <persName>מרטי</persName> לבית <persName>בלוך); הלל לוריא</persName> (מהנדס אלקטרוניקה); <persName>אילנה</persName> אשת <persName>יורם גורשקביץ</persName> (מורה בבית ספר תיכוני - במטימטיקה); <persName>יעקב</persName> <persName>לוריא </persName> (חייל בצה"ל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5235 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5235</bibl><bibl>Volume: #17 ,Page: 5236 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5236</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

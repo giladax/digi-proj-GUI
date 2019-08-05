@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3117 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3117</bibl><bibl>Volume: #8 ,Page: 3118 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3118</bibl>
+<bibl>Volume: #8 ,Page: 3119 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3119</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רפאל הלל ליפקוביץ</persName>
+
+</head>
+         <div><p> נולד בסלונים, פלך גרודנה, בשנת תר"ח (1848), לאביו<persName> אברהם אהרן.</persName>
+
+ קבל חנוך מסורתי.
+
+ היה חבר באגודת "חובבי ציון" בעירו. עסק בתור קבלן לבנינים.
+
+ נשא לאשה את<persName> ביילה מינדל </persName> בת ר' <persName>גרשן אביגדור</persName>
+
+ מקרינק. היתה המילדת הראשונה במושבה רחובות וביתה היה פתוח לכל דיכפין (נפטרה ברחובות, כ''ו סיון תרפ"ח-14.6.1928).
+
+ בשנת תר"ן (1890) עלה לארץ עם אשתו וששה בנים והיה מהמתישבים הראשונים במושבה רחובות שנוסדה באותה שנה.
+
+ רכש במושבה 70 דונם אדמה ונטע כרמי שקדים וענבים.
+
+ המשיך במקצועו - בנאי, בבנין. והביא תועלת רבה בהקמת הבנינים במושבה.
+
+ וכן לקח חלק פעיל בהקמת הבנינים של היקב בראשון-לציון.
+
+
+ נפטר בירושלים, י' שבט תרס''ח (13.1.1908) ונקבר בירושלים.
+
+ בניו:<persName> יעקב </persName> (נפטר ברחובות, ט''ז תמוז תרע''ה), <persName>אברהם יצחק</persName> (ראה כרך ג', עמוד 1194), <persName>שמאי, שלמה,</persName> ד''ר<persName> נחום וואלף, בנימין.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3117 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3117</bibl><bibl>Volume: #8 ,Page: 3118 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3118</bibl>
+<bibl>Volume: #8 ,Page: 3119 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3119</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

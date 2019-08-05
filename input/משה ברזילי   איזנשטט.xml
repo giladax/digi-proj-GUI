@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3764 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3764</bibl><bibl>Volume: #11 ,Page: 3765 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3765</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה ברזילי - איזנשטט</persName>
+
+</head>
+         <div><p> לאביו<persName> יהושע ברזילי-איזנשטט</persName> (ראה כרך א', עמוד 150) ולאמו <persName>טייבה </persName> בת ר'<persName> אליעזר פריידעס.</persName>
+
+ נולד בזעטל (רוסיה) בשנת תרמ"ז (1887).
+
+ קיבל חינוך מסורתי וכללי.
+
+ חניך מקוה ישראל. עבד בבית מסחר "אלידע" והשתלם בהמבורג ביינות ובכלכלה.
+
+
+ היה פעיל ביסוד המכבי בירושלים, מפעילי ההגנה בירושלים.
+
+ מתפקידים הותיקים בבנק אפ''ק, מנהל סניף הבנק הלאומי בישראל (אפ"ב) בירושלים וחבר ההנהלה של הבנק האיפותיקאי בישראל. כיום, בפנסיה.
+
+ נשא לאשה את<persName> מירה </persName> בת <persName>יוסף מנחם טורנר,</persName> <persName>מלודז.</persName>
+
+ היה סגן יו"ר לשכת המסחר בירושלים.
+
+ ביובל הששים שלו נטעו המושבים שבסביבות ירושלים ביחד עם מספר מידידיו, מספר גדול של עצים ביער הקהק"ל שבנוה-אילן, שע"י מעלה החמשה.
+
+ בנותיו;<persName> נעמי</persName> אשת <persName>וילי האוק </persName> (פקיד בנק הלאומי בת"א), <persName>אורה</persName> אשת ד"ר <persName>יעקב פייגנבום </persName> (ראה כרךג', עמוד .)1415
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3764 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3764</bibl><bibl>Volume: #11 ,Page: 3765 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3765</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4240 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4240</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד שור</persName>
+
+</head>
+         <div><p> נולד ב<placeName>צפת</placeName> (ישראל), בכסלו, תרנ"ט (1898).
+
+ לאביו <persName>יואל שור</persName> , דוד רביעי בארץ (נכד למהר"ל מפרג) ולאמו<persName> חוה</persName> בת דוד <persName>אליהו אליאך</persName> .
+
+ קיבל חינוך מסורתי בישיבות חתם סופר והרידב"ז ב<placeName>צפת</placeName>.
+
+ עסק במסחר הטקסטיל.
+
+ היה חבר הועד לשעת חירום בימי מלחמת העולם השניה.
+
+ בשנת תרע"ט (1919) נשא לאשה את<persName> שרה </persName> בת ר' <persName>יעקב זילברמן </persName> (מגזע הבעש"ט).
+
+ היה חבר ועד מקהלה ב<placeName>צפת</placeName>, ממיסדי המזרחי וחבר הועד, חבר ועדת הרחבת הישוב של הר כנען ב<placeName>צפת</placeName>.
+
+ יו"ר ועד בית הכנסת "אהבת ציון" וחבר ועד קופת גמ"ח בת"א.
+
+ מגיד שעור בחוג לתנ"ך ומשנה בבית הכנסת "אהבת ציוך בתל-אביב.
+
+ כיום, פקיד ממשלתי - במחלקת ארנונה.
+
+ צאצאיו:<persName> רבקה </persName> (מורה) אשת השחקן<persName> גדעון זינגר</persName> , <persName>הדסה</persName> (מורה) אשת<persName> אורי שליט</persName> (בולאי - יצואן ויבואן בבאר שבע),<persName> רחל</persName> (חשבונאית) אשת<persName> יצחק שלמון</persName> (מנהל ,אמישראגז", חברי קיבוץ לשעבר),<persName> יעקב שור</persName> (כלכלן ורואה חשבון),<persName> נעמי </persName> (מורה) אשת <persName>אליהו בר-לב </persName> (רואה חשבון).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4240 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4240</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

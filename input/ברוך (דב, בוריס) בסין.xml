@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4077 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4077</bibl><bibl>Volume: #12 ,Page: 4078 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4078</bibl>
+<bibl>Volume: #12 ,Page: 4079 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4079</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ברוך (דב, בוריס) בסין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>דובסרי</placeName> (רוסיה) בשנת תר"ן (12.9.1890).
+
+ לאביו <persName>פנחס בסין</persName> (בן דודו של <persName>אברהם אליהו</persName> <persName>ליוברסקי,</persName> עסקן ציוני ידוע ומצנט של סופרים, ממקורבי אחד-העם) ולאמו <persName>לאה</persName> בת יוסף<persName> פיללר.</persName>
+
+ קיבל חינוך בבי"ס עברי ובבית, וחילוני בבי"ס עממי ממלכתי, בבי"ס תיכון-ריאלי בקישינוב ובאי
+
+ ניברסיטאות: לוזן (שוייץ) - למד טבע, ונאנסי (צרפת) למד חקלאות. השתלם בתעשיות חלב במודן (שוייץ), בלודי (איטליה), בפולנק (צ'כוסלובקיה) ובוינה. וקיבל תואר - מהנדס חקלאי.
+
+ היה חבר ארגוני "צעירי ציון בבורסרי ובקישינוב.
+
+ בשנת 1912 עלה לארץ.
+
+ 3 שנים עבד בתחנת הנסיונות - ניסויים חקלאיים של <persName>אהרן אהרנסון</persName> (ראה כרך ה', עמוד 2073) בעתלית, זכרון-יעקב וחדרה.
+
+ 3 שנים שירת בצבא התורכי בתור אגרונום, 3 שנים היה עוזרו של האגרונום <persName>עקיבא אטינגר</persName> (ראה כרך ששי, עמוד 2652) במחלקת ההתישבות של ההנהלה הציונית, שנה אחת -מנהל מהלבת פסטור פרטית, שנה אחת עסק בהוראת טבע וחקלאות בגמנסיה הרצליה בת"א, 10 שנים בפרדסנות, גננות דוקרטיביות ובאקספרטיזות, 4 שנים - במחנה צבאי בריטי בבית נבאללה, אירגן וניהל שם גידול ירקות בהיקף רב לצרכי הצבא הבריטי.
+
+ בשנת 1923 הקים וניהל בתל-אביב בשותפות עם ד"ר<persName> פוגלבוים</persName> מוינה מחלבת פסטור-חלב ותעשית שמנת, חמאה וגבינה. כן החזיקו משנת 1923 בחכירה מחלבת הפסטור של פיק"א בבנימינה.
+
+ משנת 1925 עסק באקספרטיזות ובפרדסנות.
+
+
+ בשנות 1930-31 ארגן יחד עם ד"ר <persName>משה כהן,</persName> חבר מועצת עירית תל-אביב ועוד עסקנים - תנועה רבת היקף ומשמעות בשם "שותפות הירקן", למען תוצרת חקלאית עברית בארץ.
+
+ משנת קום המדינה במשרה בממשלה.
+
+ אחד מיוזמי מפעל נטיעת יער של 10.000 עצים ביער קדושים (בקרבת ירושלים), לזכר קדושי דובסרי והסביבה.
+
+ כתב מאמרים רבים מקצועיים וכן מאמרים בעלי אופי ציבורי בעתונות יומית ובכתבי-עת שונים.
+
+ ערך קובץ "תוצרתנו ותעשיתנו החקלאית" ב-1931 לקראת תערוכת "שותפות הירקן".
+
+ פרסם ספרים: "רשימות והצעות חקלאיות" (מהדורת 1926 ומהדורה מורחבת ב-1930, בהוצאת הסתדרות האגרונומים); "פיקוח על חלב ותוצריו" (ב-1952 בהוצאת שמעוני); חוברת "גידול ירקות בא"י" (ב1940) בהוצאת מועצת ארגונים בלתי מפלגתיים): "מתוך עולמי" (ב-1961, קטעי זכרונות בהוצאת המחבר); בשנות 1948-52 ערך מטעם משרד החקלאות של ממשלת ישראל בולטין "על החקלאות בעולם", שהופיע בדפוס סטנסל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4077 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4077</bibl><bibl>Volume: #12 ,Page: 4078 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4078</bibl>
+<bibl>Volume: #12 ,Page: 4079 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4079</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

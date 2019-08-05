@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 240 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/240</bibl><bibl>Volume: #1 ,Page: 241 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/241</bibl>
+<bibl>Volume: #1 ,Page: 242 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/242</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> ד"ר אשר בן-ישראל (ברונפלד)</persName>
+
+</head>
+         <div><p> בן ישראל. נולד ב<placeName>צפת</placeName> ב- ו' סיון תרמ"ז (1887), להורים שנולדו גם הם באותה העיר. דור שלישי בארץ.
+
+ למד ב"חדר" ובישיבות. בן תשע עשרה יצא לירושלים על מנת ללמוד שב בבית המדרש למורים של חברת "עזרה" ליהודי גרמניה. כשסיים שם את לימודיו נכנם להוראה בבתי ספר שונים בארץ : יפו,
+
+ תל-אביב. צפת וירושלים.
+
+ באותו הזמן החל למשוך בעט סופרים. דבריו הראשונים נתפרסמו בקובצים ובעתונים: "זמרת הארץ", "יזכור", "מולדת" ו"הפועל הצעיר".
+
+ אחרי גמר מלחמת העולם הראשונה יצא לחוץ לארץ על מנת להשתלם ובתרפ"ג סיים את לימודיו בסורבונה בפריז וקיבל תואר ד"ר לפילוסופיה על סמך הדיסרטציה: ,'ארץ ישראל בקבלה היהודית", שחלק גדול הימנה נתפרסם אח"כ בעברית בשם: "א"י שבנסתר".
+
+ עבודתו הספרותית במשך ל''ה שנה הוקדשה בעיקרה לארץ ישראל, לבית הספר העברי ולתורת "הקבלה". היא כוללת מאמרים, ספורים, אגדות, חבורים ותרגומים.
+
+ את חבוריו על "הקבלה" פרסם בתקופות שונות בשם : "משכן הקבלה", "ספר הזהר", "מבוא לתורת הקבלה", "בעולם הח"ן", "שירת ח"ן", "ר' משה קורדובירי", "א"י שבנסתר", "פסח" ו"סוכות שבנסתר".
+
+ פרסם ספרים וחוברות על ארץ ישראל: "אגדות ושמועות מא"י" (תרפ"ה), "אגדות הארץ", שני כרכים (הוצ' "דביר" תרצ"ו - תרצ"ט), "רמתים צופים" (ספורי צפת) וכו'.
+
+ עיבד ופרסם בשביל תלמידי בתי הספר את החוברות והספרים: פרקים נבחרים מ"מורה נבוכי הזמן" לרנ"ק, "האגדה ובעלי האגדה" לרנ"ק (תר"צ), "שירי שפת קודש" לאד"ם הכהן (תרצ"א), שד"ל, א-ב (תר"צ - תרצ"א), "שמונה פרקים'' להרמב"ם (תרצ"ה), "האמונות והדעות" לרס"ג (תש"ה) ועוד.
+
+
+ תרגם את: ''המשתה" לאפלטון (תרע"ד), "האלים צמאים" לאנטול פרנס (תרפ"ז), ''טרטרין'' טרילוגיה לאלפונס דודה, "אמיל" לרוסו (תש"ה) וכו'.
+
+ פרסם גם חוברות "אגדות הערבים על ארץ ישראל" ו"מאגדות הפלחים".
+
+ תחת מכבש הדפום נמצאים הספרים: "ספורי חסידים ופרושים על א"י והגאולה", "אגדות ארץ ישראל", כרך ג' בהוצאת "דביר" וכו'.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 240 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/240</bibl><bibl>Volume: #1 ,Page: 241 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/241</bibl>
+<bibl>Volume: #1 ,Page: 242 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/242</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

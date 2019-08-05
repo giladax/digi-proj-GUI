@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4700 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4700</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד תג'ר (טאג'יר)</persName>
+
+</head>
+         <div><p> נולד בעירה סיליבריאה (סיליברי) בתורכיה האירופית בשנת תר"ן (1890).
+
+ לאביו<persName> יצחק טאג'יר</persName> ולאמו <persName>אסתר</persName> בת <persName>אליהו</persName> <persName>מוטולה.</persName>
+
+ קיבל חינוך מסורתי בבית הספר הדתי של האליאנס בעירתו.
+
+ בשנת תר"ס (1910) היגר להבנה (בקובה) ויסד יחד עם ה' <persName>רפאל פרץ</persName> את בית המסחר הגדול ביותר לאריגים בהבנה. לשם עלו אז מתורכיה רבים מהצעירים, ויחד עם שותפו, הגישו להם עזרה, ויסדו את הקהילה היהודית הראשונה בקובה ודאגו לכל הצרכים הדתיים והצבוריים לקהלה.
+
+ בתום מלחמת העולם הראשונה, לאחר שא"י נכבשה ע"י הבריטים, ביקר בארץ והתלהב מהרעיון הציוני ומכל אשר ראה בישוב העברי בארץ.
+
+ נשא לאשה את <persName>מלכה</persName> (ריינה) בת<persName> רפאל פרץ</persName> (נפטרה בתל-אביב, כ"ד תמה תשי"ד - 25.7.1954).
+
+ בשנת תרפ"ז (1927) עלה עם משפחתו לארץ
+
+ אחרי שחיסל את עסקיו בגולה. רכש בית גדול בת"א, והחל יחד עם רעיתו להעלות לארץ את כל שמונת אחיו ואחיותיו עם בני משפחותיהם. עזר לקרובים ומכרים לעלות לארץ, על אף כל הקשיים והמכשולים שהוו בימי המנדט הבריטי. טיפל במרץ רב לעליתם וקליטתם המהירה בארץ. היה פוגשם בנמל יפו ומתקבלים על ידו בקבלת פנים חגיגית. בדירתו הרחבה ניתן היה לפגוש בכל ימות השנה. בעולים שנעזרו על ידו וע"י רעיתו.
+
+ רעיתו היתה פעילה ב"אגודת תומכי חולים" וב"ויצ"ו".
+
+ בניו: <persName>שלמה</persName> (נשוי <persName>לרבקה</persName> לבית <persName>כ"ץ</persName> ); <persName>יצחק</persName> (נשוי <persName>לעליזה</persName> לבית קטולן).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4700 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4700</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

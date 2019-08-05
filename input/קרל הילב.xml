@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2318 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2318</bibl><bibl>Volume: #5 ,Page: 2319 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2319</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>קרל הילב</persName>
+
+</head>
+         <div><p> לאביו <persName>הרמן</persName> ולאמו<persName> שרה</persName> בת <persName>דניאל אברלה.</persName> נולד ב<placeName>מנהיים</placeName> (גרמניה) בשנת תרנ"ד (23.11.1894). קבל חנוך בגימנסיה ובאוניברסיטאות בהיידלברג ומינכן, וקיבל תואר - ד"ר למשפטים.
+
+ עד בואו לארץ היה עורך דין ועסקן. בשנת 1922 נשא לאשה את<persName> גרטרודה</persName> בת<persName> וולף טראוב.</persName>
+
+
+ בשנת 1925 עלה לארץ.
+
+ משנת 1927 עד 1945 עסק בתור עורך דין. ומשנת 1942 עד 1945 היה גם מזכיר התאחדות בעלי התעשיה בא"י.
+
+ סופר, כותב מאמרים שבועיים בעתון "הבקר" ומשתתף באופן קבוע ב"בטרם".
+
+ היה פעיל בהגנה.
+
+ צאצאיו: <persName>גד</persName> (רב חובל), <persName>מרים</persName> אשת<persName> טוביה סולנסק</persName> (רב חובל), <persName>מיכה </persName> (סרן בצבא).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2318 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2318</bibl><bibl>Volume: #5 ,Page: 2319 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2319</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

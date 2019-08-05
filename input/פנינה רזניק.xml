@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4229 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4229</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פנינה רזניק</persName>
+
+</head>
+         <div><p> נולדה באולקניקי (ליטא), ה' אדר תרע"ט (1919).
+
+ לאביה <persName>מיכאל זנדמן </persName> (ת"ח, נפטר בוילנה בתרפ"ד1924) ולאמה<persName> אהובה</persName> בת <persName>שלמה </persName> ננס (נפטרה בנתניה, ז' בכסלו תשכ"א-26.11.1960).
+
+ קיבלה חינוך מסורתי וכללי בבית-ספר יסודי, בבית מדרש למורות של ה"מזרחי" בירושלים והוסמכה למורה.
+
+ בשנת 1931 עלתה לארץ.
+
+ בשנת תש"ב (1942) נישאה <persName>לדוד רזניק </persName> (קצין מחוז נתניה. ראה את הערך שלו בכרך זה).
+
+ חברה במפלגה הדתית לאומית.
+
+ מנהלת בי"ס מ"ד "שח"ל" בנתניה.
+
+ משתתפת בקביעות בכינוסי מורים וכינוסי מנהלי בתי-ספר.
+
+ כותבת מאמרים (שעור לדוגמא) ב"שדה חמד".
+
+ היתה פעילה במכבי-אש חיפה, בהגנה בנתניה, מגן דוד אדום ועוד.
+
+ צאצאיה :<persName> אברהם מיכאל, חיה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4229 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4229</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

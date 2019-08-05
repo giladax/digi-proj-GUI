@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 54 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/54</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר ליפא ברנבלום (אלתר קוסובר)</persName>
+
+</head>
+         <div><p> נולד בקוסוב, פלך גרודנא, צפון פולין, בשנת תרט"ז (1856), לאביו <persName>משה</persName> ולאמו <persName>מלכה.</persName>
+
+ בשנת תרכ"ד עלה ארצה עם אמו והתישבו בירושלים. למד בחדרים ובישיבות. נשא אשה. התבסס במובן כלכלי בעיר העתיקה בירושלים, בה ישב רוב ימיו, ידע יפה את שפת הערבים ומנהגיהם וקשר קשרי ידידות עם רוב פקידי השלטון. השתמש בקשריו אלה לתווך בין הישוב העברי שבעיר ובין השלטונות וכן לעזור לגאולת קרקעות להרחבת שטח הבנין של היהודים.
+
+ חצרו הגדולה והמתוחה בקרבת מקום המקדש שימשה במשך עשרות שנים אכסניה לעולים ממזרח אירופה.
+
+ בתרס"ה עזר <persName>לדוד ילין</persName> ולועד חברת "זכרון משה" לקנות 48.426 אמות קרקע מאת משפחת אל-כאלדי לבנין השכונה זכרון משה, שגם הוא בין הראשונים שבנו בה את ביתם, וכן השתתף ביסוד בית-הכנסת "אהל משה" שבשכונה.
+
+ היה ידוע בירושלים בכינוי <persName>"אלתר קוסובר"</persName> על שם העיר שבא ממנה.
+
+ בשנות מלחמת-העולם הראשונה היה אחד המוכתרים של היהודים האשכנזים ובתפקידו זה עזר ליהודים רבים להתאזרח ולהנצל מנגישות שלטוניות רבות,
+
+ שפגעו בראש וראשונה בנתינים זרים, אך גם על היהודים נתיני השולטן לא פסחו. נפטר בירושלים, י"ח תמוז תרפ"ח.
+
+ צאצאיו: <persName>משה, עו"ד יוסף</persName> (ז"ל), עו"ד<persName> שלמה</persName> (טבריה), <persName>אלקה</persName> אשת ירחמיאל מיליקובסקי,<persName> רבקה</persName> אשת אברהם יצחק גודוביץ, <persName>שטישה</persName> אשת אשר וורטמן,<persName> הינדה</persName> אשת שמעון אברהם<persName> וצפורה</persName> אשת יצחק מנדלמן.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 54 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/54</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

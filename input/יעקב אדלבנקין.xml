@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3637 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3637</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב אדלבנקין</persName>
+
+</head>
+         <div><p> יליד מינסק, שהושפע מתנועת ביל"ו ועלה לארץ בהיותו אמיד. רכש לעצמו חלקה בגדרה.
+
+ בפעם הראשונה נזכר האיש מבלי נקוב שם, במכתבו של<persName> יחיאל מיכל פינס</persName> (שאין לו תאריך. מה שהיה טפוסי <persName>לפינס.</persName> הרבה ממכתביו המענינים בתוכנם, חסרי תאריכים הם) לביל''ו, בו הוא מודיע, כי אם רוצים הם לעלות לשבת ב"קתרה" (גדרה)... שם הוא אומר: "מה יאמר האיש ממינסק לעשות בבית" ? "האיש ממינסק " - <persName>אדלבנקין </persName> הוא.
+
+ בשמו המלא - הוא נזכר אך ורק בזכרונותיו של הביל"ויי <persName>צבי הורביץ,</persName> איש גדרה (15.12.1889) בעליה לגדרה : הגיעו החברים - <persName>ליבוביץ, חזנוב, פוקס, ליס</persName> <persName>אדלבנקין (הורביץ וצוקרמן</persName> היו החלוצים שעלו על גבעת גדרה בלילה אחד לפני בוא כל החברים.
+
+ וב-4.1.1885 באותן הזכרונות:<persName> יעקב אדלבנקון</persName> נסע לירושלים.
+
+ וב-26.1.1885 רושם <persName>צבי הורביץ</persName> : "קנינו את האקדוח מאת מר <persName>אדלבנקין.</persName>
+
+ "האיש ממינסק" היה בעל שאר רוח. עזב את משפחתו ובית אבא במטרה לעלות לארץ, אם כי בודד ויחידי.
+
+ לא ברור, אם השתתף בעבודה במקוה ישראל ואם היה אם הביל"ויים מדרי בית <persName>אנטון איוב.</persName>
+
+ בפעם שניה נזכר שמו ע"י הביל''ויי <persName>דב אריאל לי</persName> <persName>בוביץ</persName> במחברתו: "המושבה גדרה (החוברת נדפסה בירושלים בשנת תר"ס-1900 בדפוס <persName>אברהם משה</persName> <persName>לונץ</persName> בירושלים). בין העולים הראשונים שעלו ל"קתרה" (גדרה), כאשר הוא מונה: "ואלה שמות הבאים גדרתה ביום ההוא. ואליהם גם איש אחד בשם <persName>"מינסקי</persName> ", אשר קנה חלק בגדרה בכספו ושמו <persName>אדלבנקין</persName> (הקטע הזה הובא בחוברת הנ"ל - בין סוגרים).
+
+<persName>אדלבנקין </persName> התייאש כנראה במהרה מגדרה ומן הארץ, כי החיים היו יותר מדי קשים בשבילו. ולאחר לבטים החליט לעזוב את הארץ.
+
+ ביום 29.1.1885 רושם <persName>צבי הורביץ</persName> שוב ;<persName> אדלבנקין</persName> נסע לרוסיה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3637 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3637</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

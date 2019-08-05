@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4894 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4894</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה גנוזוביץ</persName>
+
+</head>
+         <div><p> נולד בשנת תרנ"ד (1894) בעיירה זיטל שברוסיה הלבנה.
+
+ לאביו<persName> ישראל גנוזוביץ </persName> ולאמו<persName> חיה לאה</persName> לבית <persName>כיטנסקי.</persName>
+
+ למד בחדרים ובישיבת הרב<persName> יצחק יעקב ריינס</persName> בלידא. שם רכש לו נוסף להשכלה תיכונית גם השכלה כללית ברוסית ברמת בית ספר תיכון.
+
+ במלחמת העולם הראשונה שירת בצבא הרוסי והשתתף בקרבות עם הגרמנים. עם גמר המלחמה למד בסמינריון למורים עבריים בוילנא ולאחר מכן
+
+ עבד כמורה למקצועות היהדות וכמנהל בית ספר בעיירות הסביבה.
+
+ בשנת 1924 נשא לאשה את <persName>יהודית</persName> בת<persName> אליהו</persName> <persName>ברעם.</persName>
+
+ היה חבר פעיל בהתאחדות "צעירי ציון" ולאחר מכן בתנועה הציונית שבעיר מגוריו לידא, שם פעל רבות למען הקהק"ל ועבור מוסדות סעד שבעיר.
+
+ היה בעל כשרון ספרותי בולט ופרסם מפרי עטו בעתונות כמו "לידער לעבן" ועוד על נושאים שבשטח היהדות ופרקי זכרונות ממלחמת העולם הראשונה.
+
+ שמותיו הספרותיים: <persName>מ. ג.</persName> וכן <persName>מ. ג-טש</persName> ., השאיר בכתובים רשימות ויומנים.
+
+ עם פרוץ מלחמת העולם השניה וכיבוש האיזור על ידי הסובייטיים נאסר על ידי הנ. ק. ב. ד. ביום 13 בדצמבר 1939. חוקריו האשימוהו בפעילות ציונית מחתרתית ולא נודע מה עלה בגורלו.
+
+ צאצאיו: <persName>חיה</persName> אשת<persName> נתן וינברג, יצחק</persName> (גנוז), <persName>ישראל</persName> ז"ל. (ראה כרך י"ג, עמוד 4212).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4894 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4894</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

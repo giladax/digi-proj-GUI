@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3537 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3537</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב זיידל שולזינגר</persName>
+
+</head>
+         <div><p> נולד י"א כסלו תרמ"ג (סוף 1882) בירושלים.
+
+ לאביו<persName> יהושע מיכל </persName> (נכדם של משפחה חסידית שעלתה לצפת לפני כ-125 שנה ואח"כ עברה המשפחה לירושלים) ולאמו<persName> רחל </persName> בת<persName> שלמה סויאס</persName> .
+
+ בשנת תר"ס (1900) נשא לאשה את<persName> רחל לאה </persName> בת ר'<persName> שמואל הומינר</persName> (ראה כרך ב', עמוד 599). (נפטרה בבלטימור שבארה"ב, ה' חשון תרצ"ז - 21.10.1936, והובאה לקבורה בירושלים).
+
+ עסק במסחר קמח. במלחמת העולם הראשונה השתתף במסירות בפעולות להשגת חיטה ובהספקת קמח להקלת מצוקת הרעב.
+
+ היה ממיסדי ועד "בית לחם" להספקת לחם לרעבים. כן היה פעיל באגודה לסעד "אחיעזר" בירושלים.
+
+ במשך כחצי יובל שנים היה שד"ר בארצות-הברית לטובת המוסדות המאוחדים-תלמוד תורה וישיבת "עץחיים", ביקור חולים האספיטל בירושלים.
+
+ זכה לראות במשפחתו - דור חמשי בארץ.
+
+ צאצאיו: <persName>רחל</persName> אשת ר' <persName> מרדכי בנימיני, יהושע מיכל</persName> , <persName>שמואל, ביילה דבקה</persName> אשת <persName>אריה שוצבסקי, שלמה</persName> (בניו עסקנים צבוריים למען הפצת השפה העברית ותעמולה לישראל- בניו-יורק. בעלי בתי-דפוס משוכללים ומו"ל ידועים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3537 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3537</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

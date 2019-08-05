@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 760 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/760</bibl><bibl>Volume: #2 ,Page: 761 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/761</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב דב גיסין</persName>
+
+</head>
+         <div><p> נולד בסטארו-ביחוב, פלך מוהילב, רוסיה, בחודש אב תרכ"א (1861), לאביו <persName>אפרים</persName> ולאמו <persName>חיה רחל</persName> <persName>לאה </persName> בת הרב <persName>זאב קרוטקין</persName> מז'ורביצי, פלך מוהילב. קיבל חינוך מסורתי ועברי לאומי. גמר בעירו את בית-הספר המחוזי ואח"כ למד במחלקות העליונות בגימנסיה שבעיר-הפלך מוהילב, וכאן הצטיין בלימודיו עד כדי כך, שלהצעת מנהל הגימנסיה (אנטישמי מובהק) נתקבל למורהו הפרטי של בן שר-הפלך (שונא-ישראל גם הוא) לעזור לו בהכנת השיעורים, ותוך כך המשיך גם בלימודי יהדות ועברית, וגמר את הגימנסיה בהצטיינות וקיבל מדליה של זהב. אח"כ למד במחלקת המשפטים של אוניברסיטת מוסקבה וגם אותה גמר בהצטיינות ובמדליה של זהב.
+
+ בשנות לימודיו במוסקבה היה בין הראשונים להתעוררות הלאומית לפעולות בחוגי הנוער המשכיל והשתתף עם<persName> מ. אוסישקין </persName> ועם <persName>יעקב מזא"ה</persName> (אח"כ
+
+
+ הרב הראשי במוסקבה) ואחרים ביסוד אגודת "בני ציון", שקדמה ליסוד תנועת "חיבת ציון" הכללית שפשטה בכל רוסיה, ואף לבית הוריו הביא את הרעיון החדש-הישן של שיבת ציון ועוררם לפעולה, שבתוצאותיה עלה רוב מנינה ורוב בנינה של המשפחה והשתרש בארץ ותפס מקום כבוד בין בוניה ומגיניה.
+
+ משהוסמך לעורך-דין השתקע במוהילב ועסק במקצועו. נשא לאשה את <persName>שפרה</persName> בת <persName>אברהם דוד כהן</persName> (חתנו של דבי <persName>דוד לוריה </persName> מביחוב) מעשירי העיר ומיוחסיה, מהיהודים המעטים שהיו מבאי בית המל
+
+ כות בפטרבורג. עסק בצרכי הצבור היהודי וביחוד בעניני לאומיות וישוב ארץ-ישראל, היה מפעילי המיסדים (יחד עם <persName>ז. ד. ליבונטין)</persName> את האגודה להתנחלות בארץ- שבתרנ"א התקשרה לרכישת נחלה במפרץ חיפה, קניה שנתבטלה כיתר הקניות בעת ה"בהלה" שסיימה את "תקופת טיומקין". היה במוהילב המור- שה של הועד המרכזי לחובבי ציון באודיסה ואחד מפעילי הציונות המדינית וציר בקונגרסים אחדים.
+
+ כשפרצה המהפכה הבולשבית ברוסיה והחלה רדיפת האמידים והציונים ניסה להמלט דרומה ועבר להומל. נאסר בפוצ'יפ, פלך צ'רניגוב והובא לכלא אוריול, משם למוסקבה וחזרה לאוריול. שם נשפט ושוחרר אך נאמר עליו לעזוב את מוסקבה. אך נמלט והצליח לעבור את הגבול ולהגיע בפורים תרפ"א לפתח תקוה. כאן מצא את אחיו ואחיותיו ואת אמו בת התשעים. זמן קצר אחרי בואו ראה את אחיו <persName>שלמה זלמן </persName> בראש עבודות הארגון להגנת המושבה (בסוף ניסן תרפ"א) ובראש ועד המושבה בכלל, ואת <persName>אבשלום</persName> בן <persName>משה</persName> אחיו בראש המגינים שנפל בקרב.
+
+ אחרי עמדו בהצלחה בבחינת עורכי-דין זרים הורשה לעסוק במקצועו בארץ. להזמנת <persName>ז. ד. ליבונ</persName> <persName>טין,</persName> חברו בעבודת "חיבת ציון" בגולה, נטל עליי לסדר את הענינים המשפטיים הסבוכים מאד של "אגודת נטעים" והצליח לסדר את הענינים בטקט הדרוש. בלי רעש ובמניעת שערוריות. נפטר בפתח-תקוה, י''ז תמוז תרצ"ה.
+
+ צאצאיו: דוד (פקיד גבוה במיניסטריון הפנים במוסקבה), <persName>מרים</persName> (יועצת ראשית במיניסטריון המשפטים במוסקבה),<persName> תהלה</persName> (אשת <persName>פרידברג</persName> , בעל אחוזות, שהוצא להורג במהפכה הבולשבית), <persName>סוסיה,</persName> עורכתדין, אשת הד"ר<persName> בארו</persName> , פקיד גבוה במינסטריון הכלכלה בלונדון.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 760 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/760</bibl><bibl>Volume: #2 ,Page: 761 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/761</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

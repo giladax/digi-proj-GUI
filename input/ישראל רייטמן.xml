@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2966 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2966</bibl><bibl>Volume: #7 ,Page: 2967 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2967</bibl>
+<bibl>Volume: #7 ,Page: 2968 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2968</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל רייטמן</persName>
+
+</head>
+         <div><p> נולד בבריסק דליטא (רוסיה) בשנת תר"ל (1870). לאביו ר'<persName> יוסף </persName> ולאמו <persName>הני</persName> לבית<persName> רייטמן.</persName>
+
+ יחד עם החנוך המסורתי קבל חנוך כללי והשתלם בעיקר בשפות.
+
+ היה חובב מוסיקה נלהב והכנור היה הכלי החביב עליו שלו הקדיש הרבה משעות הפנאי שלו.
+
+ נשא לאשה את <persName>חנה תהלה</persName> בת <persName>שאול בנימין אהרליוך.</persName>
+
+ עסק בבריסק בקבלנות הצבא (כספק הצבא במבצר של ברסט ליטובסק). בו בזמן המשיך להשתלם בלמודים כלליים, נמשך למכניקה ובשטח זה המציא בזמנו מכשיר
+
+ (מאורר אוטומטי) והממשלה הגרמנית העניקה לו בעד זה תאר מהנדס. היה פעיל בתנועה הציונית.
+
+ נטש את עסקיו ברוסיה בשנת1909 ועלה לארץ.
+
+ התישב ביפו ויסד בית חרושת לסיגריות, לאחר זמן קצר בנה את ביתו ברחוב הרצל אשר בת"א.
+
+ היה שופט בית המשפט השלום העברי וממיסדי ביתוגן (בת-ים).
+
+ כבר אורין הקדיש גם חלק ניכר מזמנו לתורה והיה קורא שעור בתלמוד בבית מדרשו.
+
+ צאצאיו:<persName> דבורה</persName> אשת <persName>אברהם מאירוביץ, רחל</persName> אשת <persName>פסח שור, מרים</persName> אשת <persName>בנימין אלוני, רבקה</persName> אשת<persName> בן-ציון</persName> <persName>מאירי </persName> (ראה את הערך שלו להלן), <persName>אליעזר.</persName>
+
+
+ נפטר בת"א, י"ד שבט תשי"א ונטמן לפי בקשתו בסנהדריה בירושלים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2966 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2966</bibl><bibl>Volume: #7 ,Page: 2967 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2967</bibl>
+<bibl>Volume: #7 ,Page: 2968 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2968</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

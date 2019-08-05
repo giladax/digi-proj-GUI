@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 969 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/969</bibl><bibl>Volume: #2 ,Page: 970 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/970</bibl>
+<bibl>Volume: #2 ,Page: 971 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/971</bibl>
+<bibl>Volume: #2 ,Page: 972 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/972</bibl>
+<bibl>Volume: #2 ,Page: 973 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/973</bibl>
+<bibl>Volume: #2 ,Page: 974 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/974</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חנה טיכו</persName>
+
+</head>
+         <div><p> נולדה בברנו (לפנים: ברין), צ'כוסלובקיה, כ"ז תשרי תרנ"ה (27.10.1894), לאביה<persName> פנחס</persName> ולאמה<persName> ברטה</persName> <persName>בראון</persName> . קיבלה חינוך יהודי וכללי ולמדה בבתי-ספר לציור אמנותי בוינה, פאריס, הולנד ובלגיה.
+
+ ב-1912 נישאה לד"ר<persName> אברהם (אלברט) טיכו</persName> ועלתה אתו ארצה כשנתמנה לרופא-עינים ראשי מטעם החברה
+
+
+ "למען ציון" בירושלים. הסתגלה לחיים הבלתי-נוחים שהיו אז בארץ והיתה לעזר לבעלה בסידור חייהם.
+
+ המשיכה ביצירה אמנותית בציור. השתתפה בתערובות של אמנים בארץ, באירופה ובאמריקה, והער
+
+ כות ליצירתה נתפרסמו בעתונות הכללית והאמנותית. הציגה את יצירותיה בתערוכות מיוחדות באולפנה בירושלים ובאולמות צבוריים בירושלים ובפאריס. התערוכות שהכינה להציג בלונדון ובאמסטרדם לא יצאו לפועל בגלל פרוץ המלחמה. ב-1938 הוצגו יצירותיה בתערוכה מיוחדת במוזיאון תל-אביב וב-1942 בביתהנכאה הלאומי "בצלאל" בירושלים.
+
+ העתקות של שיטוטיה יצאו בספר מיוחד בוינה עם הקדמה מאת פרופסור האוניברסיטה הוינאית ד"ר <persName>מכס אייזלר.</persName>
+
+ תמונותיה נקנו בשביל אלברטינה מוזיאום בוינה, המוזיאון היהודי בוינה, בריטיש מוזיאון בלונדון, מוזיאון תל-אביב, בית הנכאת הלאומי בצלאל בירושלים, הסמינר התיאולוגי היהודי בסינסינטי, ארה"ב, ועוד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 969 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/969</bibl><bibl>Volume: #2 ,Page: 970 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/970</bibl>
+<bibl>Volume: #2 ,Page: 971 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/971</bibl>
+<bibl>Volume: #2 ,Page: 972 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/972</bibl>
+<bibl>Volume: #2 ,Page: 973 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/973</bibl>
+<bibl>Volume: #2 ,Page: 974 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/974</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

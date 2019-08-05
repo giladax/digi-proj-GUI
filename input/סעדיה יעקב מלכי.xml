@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2623 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2623</bibl><bibl>Volume: #6 ,Page: 2624 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2624</bibl>
+<bibl>Volume: #6 ,Page: 2625 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2625</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>סעדיה יעקב מלכי</persName>
+
+</head>
+         <div><p> לאביו<persName> יעקב</persName> ולאמו <persName>סומבול </persName> בת הרב <persName>יוסף הכהן.</persName> <persName>נולד בקהיר</persName> (מצרים) בשנת תרנ"ט (1899).
+
+ קיבל חינוך מסורתי וכללי' בבתי הספר של הקהלה בקהיר.
+
+ התחיל במסחר ועבר לעבוד במערכת "ישראל" (הו
+
+
+ צאה ערבית) בעריכת ד"ר אלברט מוצ'רי בקהיר.
+
+ יסד את העתון "אל-שמש" (בערבית) בשנת 1934. עתון בלתי תלוי ובלתי מפלגתי. עתון זה טיפל במשך שנים רבות בבעיות ציוניות ובהסברת תרבות ישראל ליהודי מצרים וארצות המזרח, ששם היתה תפוצה גדולה לעתון זה (שהופיע בסדר עד הקמת המדינה), היחידי סיפק מזון רוחני ולאומי לכל היהודים דוברי ערבית בארצות המזרח בעיקר שאף העורך ליצור במה להתקרבות יהודית-ערבית בא''י ובארצות השכנות. הרבה ערבים מגדולי הסופרים הערבים במצרים ובארצות המזרח היו משתתפים קבועים בעתון זה.
+
+ בתקופת שבתו במצרים שימש כאחד מעורכי הבוליטין "סוכנות המזרח" שיצא לאור ע"י הסוכנות היהודית בא"י.
+
+ שני ימים לאחר הקמת המדינה (1948) נסגר העתון מטעם השלטונות המצריים בקהיר.
+
+ הספיק לעזוב עם משפחתו את מצרים לפני מאסרו כציוני, ועלה לארץ ביולי 1949.
+
+ הוזמן מיד ע"י ממשלת ישראל להיות מעורכי העתון הממשלתי הרשמי - ההוצאה הערבית "רשומות" (''אלוקאיע אל-ישראליה").
+
+ היה חבר "במועדון העברי" בקהיר.
+
+ נשא לאשה את <persName>פלורה</persName> בת <persName>אליהו קנדיוטי</persName> .
+
+ צאצאיו: <persName>יעקב, מתוקה </persName> אשת <persName>יצחק פינטו, אברהם</persName> , <persName>יוסף.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2623 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2623</bibl><bibl>Volume: #6 ,Page: 2624 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2624</bibl>
+<bibl>Volume: #6 ,Page: 2625 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2625</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

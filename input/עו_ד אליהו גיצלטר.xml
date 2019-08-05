@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5144 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5144</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עו"ד אליהו גיצלטר</persName>
+
+</head>
+         <div><p> נולד בוילנה, י' סיון תרפ"א (16.6.1921). לאביו <persName>אברהם גיצלטר</persName> ולאמו <persName>ליפשה</persName> בת <persName>שמואל</persName> <persName>רטנר.</persName>
+
+ קיבל חינוך כללי. מוסמך למשפטים ולמתמטיקה. בשנת 1935 עלה לארץ.
+
+ היה חבר אצ"ל (ארגון צבאי לאומי) משנת 1938. היה אסיר בלטרון בשנים: 1944, 1946, 1947. בשנים 1940-44 עבד במשרד הסטטיסטיקה של ממשלת המנדט.
+
+ בשנים 1944-47 מורה.
+
+ נשא לאשה את<persName> מרגוט </persName> בת <persName>משה ששון.</persName> משנת 1947 עורך דין עצמאי - בשותפות עם העו"ד ד"ר<persName> יהושע רוטנשטרייך</persName> (ראה כרך שלישי, עמוד 1394).
+
+ היה יו"ר לשכת עורכי הדין בתל-אביב (19631964).
+
+ יו"ר הנהלת קרן הפנסיה של הלשכה.
+
+ מרצה באוניברסיטה העברית בירושלים - בשלוחה בתל-אביב, בפקולטה למשפטים.
+
+ בשנות 1948-50 שירת בצה"ל, בחיל המשטרה הצבאית ובמפקדת פרקליט צבאי בדרגת רב-סרן.
+
+ כתב וכותב מאמרים בעתונות מקצועית (משפטית).
+
+ בניו:<persName> ארנון, עמירם, אורון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5144 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5144</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

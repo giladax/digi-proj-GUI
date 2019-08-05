@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2642 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2642</bibl><bibl>Volume: #6 ,Page: 2643 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2643</bibl>
+<bibl>Volume: #6 ,Page: 2644 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2644</bibl>
+<bibl>Volume: #6 ,Page: 2645 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2645</bibl>
+<bibl>Volume: #6 ,Page: 2646 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2646</bibl>
+<bibl>Volume: #6 ,Page: 2647 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2647</bibl>
+<bibl>Volume: #6 ,Page: 2648 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2648</bibl>
+<bibl>Volume: #6 ,Page: 2649 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2649</bibl>
+<bibl>Volume: #6 ,Page: 2650 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2650</bibl>
+<bibl>Volume: #6 ,Page: 2651 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2651</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד פלדמן</persName>
+
+</head>
+         <div><p> נולד בעיר אקרמן (בסרביה) ב-10 בנובמבר 1888. לאביו <persName>בנימין</persName> (מצאצאי האדמו"ר <persName>אברהם פלדמן</persName> מעיר איזמוויל) אקספורטר לתבואות, ולאמו <persName>שרה רחל</persName> בת <persName>דוד סטמבול </persName> (מעיר איסטמבול).
+
+ למד בחדר, בגימנסיון, ומשחר נעוריו החלה לפעם
+
+ בו רוח השירה והנגינה, חונן בקול אלט יפה, היה "משורר" אצל החזן<persName> ישראל סווט</persName> , אח"כ השתלם במוסיקה, בתיאוריה ופיתוח הקול אצל: פרופ' <persName>וואסילענקא,</persName> פרופ' <persName>קרוגלוב</persName> (אודסה) והמנצח דוד נובקובסקי (אודסה). השתלם בחזנות בבית הספר ובית המדרש לחזנות בצנסטחוב בהנהלת הקומפוזיטור הידוע <persName>אברהם בער בי</persName> <persName>רענבוים</persName> (יצירותיו מושרים בבתי הכנסת).
+
+ בגיל 19 התפרסם בקולו היפה קול טינור לירי דרמטי ונתקבל כחזן בבית הכנסת "עדת ישורון" בורשה, במקום שכיהן מלפניו החזן העולמי הנודע <persName>ראזומני</persName> (שעבר לאודסה). משם נקרא לאודסה, לבית הכנסת של הקצבים ("העקערס" שוהל).
+
+ היה משתתף בקביעות במסיבות "עונג שבת" באודיסה בבית הכנסת "יבנה", שהיה בית ועד לחכמים כגון: הסבא <persName>מנדלי מוכר ספרים, מ.מ. אוסישקין, שאול</persName> <persName>צרניחובסקי, ח. רבניצקי, פרופ' יוסף קלויזנר,</persName> החזן <persName>פנקס מינקובסקי</persName> ועוד.
+
+ מאודסה נקרא לעיר ניקאלאיעוו במקום שהתפלל בטמפיל הכורלי בלוית מקהלתו של המנצח והקומפוזיטור <persName>בצלאל ברון.</persName>
+
+ נשא לאשה את<persName> רבקה</persName> בת <persName>שלמה זלמן אלטהיים.</persName> אחרי המהפכה הבולשבית, נקרא לעיר צרנוביץ לכהן כחזן ראשי במשך 23 שנים רצופות.
+
+ ב-1939 עם פרוץ מלחמת העולם השניה, עברו עליו שבעת מדורי גיהנום בימי הכיבוש הנאצי. במשך כמה שנים היה עצור בגיטו בצרנוביץ ותוך כדי תלאות, נדודים ובדרכי סתר וניסים ממש נמלט מצפרני הנץ הנאצי והגיע לא"י, בשנת 1944.
+
+ ערך מסעי תפלות וקונצרטים בכל ערי הארץ וכן הופיע בשידורי "קול ירושלים" ורכש לו מעריצים רבים.
+
+ נתקבל כחזן בבית הכנסת המרכזי בצפון ת''א.
+
+ בשנת 1951 נסע לאמריקה והופיע בערים כחזן ובשורת קונצרטים. - העתונות שם גמרה עליו את ההלל, מני אז הוא מופיע בשידורי "קול ישראל" ונחשב כאחד מטובי החזנים בארץ.
+
+ בעל קול יפה ושולט שליטה גמורה בנוסחאות התפלה
+
+
+ מדור דור וספוג מיטב הנוסח ו"הזגעכץ" הבסרבאי. בקי בנוסח החזנים: <persName>קלכניק, דוד רויטמן, משה שטינברג</persName> ונוסח חזני אודסה במקום ששרתו בקודש טובי החזנים בדור - ושולט בנוסח הכורלי כאחד, כגון - יצירותיהם של:<persName> זולדר, ליבנדובסקי, בירינבוים, דוד נובקובסקי</persName> ועוד.
+
+ סגן יו''ר אגודת החזנים בישראל.
+
+ אתו בכתובים חיבורים של יצירות חזנותיות.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2642 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2642</bibl><bibl>Volume: #6 ,Page: 2643 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2643</bibl>
+<bibl>Volume: #6 ,Page: 2644 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2644</bibl>
+<bibl>Volume: #6 ,Page: 2645 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2645</bibl>
+<bibl>Volume: #6 ,Page: 2646 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2646</bibl>
+<bibl>Volume: #6 ,Page: 2647 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2647</bibl>
+<bibl>Volume: #6 ,Page: 2648 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2648</bibl>
+<bibl>Volume: #6 ,Page: 2649 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2649</bibl>
+<bibl>Volume: #6 ,Page: 2650 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2650</bibl>
+<bibl>Volume: #6 ,Page: 2651 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2651</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 607 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/607</bibl><bibl>Volume: #2 ,Page: 608 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/608</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים זיידמן</persName>
+
+</head>
+         <div><p> בן יחיאל מיכל. - נולד בכ"ה כסלו תרמ"ה (1884) בעיירה אוזיראן שבגליציה. מצאצאי ר' לוי יצחק מברדיטשב וממשפחת קלמן שולמן בוילנה.
+
+ למד ב"חדר"' ב"ישיבת" אוזיראן, וסיים את למודיו בבית הספר הגבוה למסחר בצ'רנוביץ.
+
+ היה חבר לאגודה ציונית "דגל ציון" בפודבילוצ'יסק, ובהיותו בן כ"ג, סמוך לגמר למודיו בצ'רנוביץ, עלה לא"י בחודש מאי 1908.
+
+ עבר לפתח-תקוה, במחשבה תחילה להיות פועל חקלאי. אחר שלשת ימי עבודה ראשונים קבל "חררה", חלה בקדחת והוכרח לשוב ליפו.
+
+ בסוף מאי 1908 נתקבל כמזכיר בגימנסיה "הרצליה" ואחרי כמה חדשים קבל משרת מזכיר בבנק אנגלו פלשתינה ביפו. במשרה זו כיהן עד פרוץ המלחמה העולמית הראשונה - ועד הגירוש מיפו. מטעם הבנק נתמנה כמורשה בצפת ובחיפה בימי הגירוש.
+
+ נשא לאשה את<persName> מלכה </persName> בת<persName> שמואל קיסילוב</persName> (אחות קצין מחוז ת"א יעקב קיסילוב). כשנכנסו האנגלים לארץ חזר לעבודתו באפ"ק יפו.
+
+ בימי המאורעות, בשנת 1929 עבר לצפת במנהל סניף הבנק עד 1934 ואח"כ עבר לפתח-תקוה כמנהל הסניף.
+
+ מראשוני הבונים בתל-אביב ובין המיסדים של נחלת בנימין, שהיתה ביסודה כעין שכונה נבדלת בשם "חברה חדשה".
+
+ בשנת 1921 נבחר לחבר מועצת עירית תל-אביב מטעם הסתדרות בעלי בתים (שהיה אחד ממיסדיה) עד סוף 1926. היה חבר ועדת הבקורת של מועצת תל-אביב.
+
+ היה פעיל מאד בהסתדרות הציונים הכלליים בתל-אביב.
+
+ בשנת 1920 היה בין מניחי היסוד של "הסתדרות הפקידים ובתי מסחר". חבר הנהלת "בית האכר" בפתח-תקוה.
+
+
+ בימי מלחמת העולם השניה נבחר לגזבר כבוד של הועד ל"קרן בריטית לעזרת נגועי המלחמה". עומד בראש הנהלת קרן הקיימת לישראל וחבר הנשיאות במועצת ה"מכבי" בפתח-תקוה.
+
+ צאצאיו: <persName>מרדכי</persName> (רופא), <persName>אביבה</persName> אשת אביגדור סגל<persName> ועמנואל</persName> (אגרונום).
+
+</p>
+<p>
+
+ תוספות: 
+
+ יפטר ברמת-גן כ"ו תמוז תשכ"ז (3.8.67) (ראה כרך שני, עמוד 607)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 607 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/607</bibl><bibl>Volume: #2 ,Page: 608 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/608</bibl>
+            <bibl>Volume: #16 ,Page: 5006 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/5006</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

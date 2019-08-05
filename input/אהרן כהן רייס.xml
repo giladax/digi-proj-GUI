@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5156 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5156</bibl><bibl>Volume: #17 ,Page: 5157 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5157</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן כהן-רייס</persName>
+
+</head>
+         <div><p> נולד ביפו, בשנת תרמ"ט (1889).
+
+ לאביו <persName>משה כהן-רייס </persName> (ראה כרך ח', עמוד 3090) ולאמו <persName>עטרה קיינדל</persName> בת <persName>יצחק גולדצויג </persName> (נכדת הרב <persName>אדלר</persName> מלונדון).
+
+ קיבל חינוך מסורתי בתלמוד תורה "שערי תורה" ביפו בהנהלת הרב האשכנזי הראשון ביפו, ר'<persName> נפ</persName> <persName>תלי הרץ הלוי</persName> ז"ל (ראה כרך ראשון, עמוד 102) ואח"כ בת"ת הנ"ל שנבנה בנוה שלום. למד בבית הספר "למל" בירושלים, ורוקחות בוינה (אוסטריה).
+
+ ממיסדי התזמורת הראשונה בפתח-תקוה יחד עם <persName>ליב גיסין</persName> (ראה כרך שני, עמוד 782) שידע לנגן ולארגן תזמורת.
+
+ היה פעיל ב"מכבי".
+
+ לקח חלק גם בשמירה התורנית של המושבה בימים ההם.
+
+
+ שחקן חובב על הבמה (שיחק בימים ההם את "אוריאל אקוסטי!").
+
+ בשנת 1915 נשא לאשה את<persName> אלה </persName> (עלקה) בת <persName>אפרים לוי</persName> (מווארשה, ממשפחת העתונאי הידוע <persName>רוטשטיין</persName> בווארשה). נפטרה בפתח-תקוה, י"ג תמוז תרפ"ד (15.7.1924).
+
+ בשנת 1913 כשביקרה בארץ קבוצת תלמידים מגרמניה שהשתייכו לאירגון "בלוי-וייס", עזר לסדרם בארץ ואירח אותם בבתים שונים ודאג למחסורם. ביניהם היה אחיו של פרופ'<persName> מרכוס</persName> מת"א,
+
+ שחלה, ובביתה של גב' <persName>בלה</persName> אשת<persName> חיים</persName> (שארל) <persName>כהן-רייס</persName> (ראה כרך שלישי, עמוד 1502) דאגו לרפויו.
+
+ היה סוכן לרפואות, וסוכן האחים<persName> ליטוינסקי,</persName> שהיו הסוכנים הראשיים של "אסיאטיק פטרולאום קומפאני", שנקראה אח"כ חברת "של".
+
+ נפטר בפתח-תקוה, כ"ח תמוז תרפ"א (3.8.1921).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5156 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5156</bibl><bibl>Volume: #17 ,Page: 5157 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5157</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 725 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/725</bibl><bibl>Volume: #2 ,Page: 726 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/726</bibl>
+<bibl>Volume: #2 ,Page: 727 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/727</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יהודה אלעזר</persName>
+
+</head>
+         <div><p> בן יצחק. נולד ב<placeName>שאלוניקי</placeName> בסיון תרל"ז (1877). באלול תרמ"ב (1882) עלה יחד עם הוריו לארץישראל והשתקעו בירושלים. התחנך בת"ת הספרדים בעיר העתיקה בירושלים. היה מתלמידיו של ר' מנחם בכר יצחק. בשנת תרנ"ב נשא לאשה את מזל טוב בת<persName> חיים בן-דוד</persName> משלוניקי. שמש כמורה בת"ת הספרדים בעיר העתיקה בירושלים ונשאר בתפקיד זה עד סיון תרע''ג. בשנים תר"ס - תר''ץ שמש חזן בבית הכנסת של המוניסטרלים בעיר העתיקה בירושלים. החל משנת תר"ס שמש חבר ועד "שומר שבת" ו"מלביש ערומים" לעדת הספרדים בירושלים יחו עם הראב"ד יעקב צדיק וחתנו ר' יצחק משה ברוך. בז' באדר תרס"ה נפטרה אשתו הראשונה. בשנת תרס"ו נשא אשה שניה את <persName>נעמה</persName> בת ר'<persName> אברהם</persName> <persName>אבולעפיה</persName> , שנפטרה בשנת תש"ו. בשנת תרע"ד, עם התחלת מלחמת העולם הראשונה, נתמנה לחבר ועדת הסינדיקט והוטל עליו לחלק מזון לעניים. בשנים תר"פ-תרפ"ה היה חבר ה"חברא קדישא" של הספרדים בימי נשיאותו של נשיא ועד עדת הספרדים מר שמואל לופו. בשנים תר"פ-תר''ץ מנהו הראשל"צ ר' חיים אלישר למנהל חברת ה"בטלנים" בבית הכנסת על שם ר' יוחנן בן זכאי שנתבטלה לרגל המלחמה.
+
+ בשנת תרפ"א נבחר לחבר חברת "נחלת ישראל רמה", שנוסדה בשנת תרמ"ו (1886) ועיקר שאיפתה לגאול את האדמה שמסביב לקבר שמואל הנביא ולישב את המקום. בשנת תרפ"ד נבחר לחבר הועד של החברה הנ"ל כדי לסדר את הקושאנים של החברים, ובשטח זה פעל הרבה. בשנת תר"ץ נסע מצרימה בשליחות החברה הנ"ל כדי למכור חלקות אדמה נוספות לשם הטבת מצב המושבה.
+
+
+ בשנת תרצ"ד נבחר לחבר ועדת מס רכוש החקלאי בכפר שמואל הנביא ע"י מושל הכפרים.
+
+ אחד מבניו, מר <persName>יעקב אלעזר</persName> , חבר הועד הפועל של "ארגון העובדים הספרדים" בירושלים ועסקן צבורי.
+
+ צאצאיו: מאשתו -ראשונה -<persName> בכורה</persName> אשת שמואל ברכיאל ;<persName> רחל</persName> (ז"ל);<persName> יצחק </persName> ; מאשתו השניה -<persName> אב</persName> <persName>רהם ; יעקב ; רחל</persName> אשת יצחק אלחסיד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 725 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/725</bibl><bibl>Volume: #2 ,Page: 726 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/726</bibl>
+<bibl>Volume: #2 ,Page: 727 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/727</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

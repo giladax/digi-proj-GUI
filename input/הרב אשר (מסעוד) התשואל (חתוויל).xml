@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 451 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/451</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אשר (מסעוד) התשואל (חתוויל)</persName>
+
+</head>
+         <div><p> נולד בעיר טיטואן, מארוקו, בשנת תר"ב (1842), לאביו<persName> יוסף.</persName> למד בתלמוד-תורה ובישיבה והוסמך לרבנות.
+
+ נשא לאשה את <persName>שרה</persName> (מורה) ממשפחת <persName>לניאדו</persName> ממנצ'סטר.
+
+ בגיל צעיר עלה ארצה וקבע מושבו בטבריה ונתמנה לרב וראש ישיבה.
+
+ אחרי שנים אחדות עבר לחיפה ולבקשת היהודים שבעיר הסכים לשרת אותם בתור רב (למעלה מארבעים שנה), מוהל, שופט בדין תורה, מסדר קידושין וגיטין, בתנאי שלא ישלמו לו משכורת ולא יטרידוהו בהצעת מתנות בשום צורה שהיא, והתפרנס מהכנסות הבנין שהקים בחיפה, ולעת זקנה נעזר על-ידי אחותו, אשת <persName>שמואל ד-יוסף סלמה</persName> מהעיר מליליה.
+
+ כיהן כרב-הבולל לכל יהודי חיפה, כספרדים כאשכנזים, תיווך בין יהודים לערבים, ייצג את עדתו בפני הקונסולים ומשרדי השלטון. ישב ועסק בתורה וגם נתן שיעורי תורה לאנשי העדה. כתב חידושי תורה בהלכה ובאגדה, שעדיין לא יצאו בדפוס.
+
+ עמד בתוקף על דעותיו בעניני דת וצבור, היה אהוב ורצוי על הצבור כולו, כיהודים כערבים. הרחוב שבו היה מעונו נחשב לקדוש והערבים קראו לו "דיר אל-חכב".
+
+ נפטר בי"ג אדר תרס"ט.
+
+ צאצאיו: <persName>אליהו,</persName> עורך-דין בתל-אביב ; <persName>משה</persName> (נפל בשורות המחתרת "מאקי" בצרפת, במלחמה בכובש הנאצי במלחמת-העולם השנית);<persName> יוסף</persName> (בקאהיר): <persName>סול,</persName> אשת <persName>מאיר נחום</persName> (בקאהיר).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 451 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/451</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

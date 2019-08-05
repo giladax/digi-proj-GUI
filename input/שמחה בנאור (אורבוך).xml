@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4940 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4940</bibl><bibl>Volume: #16 ,Page: 4941 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4941</bibl>
+<bibl>Volume: #16 ,Page: 4942 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4942</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמחה בנאור (אורבוך)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רובנה</placeName> (פולין), כ"א תמוז תרס"ט (22.7.1909).
+
+ לאביו <persName>נחום-ליפא אורבוך</persName> ולאמו <persName>רבקה</persName> בת ר' <persName>אפרים יוסף גולדמן</persName> (הסבא שלה היה רבי <persName>יום-טוב</persName> <persName>שמחה,</persName> רבם של החסידים).
+
+ קבל חינוך מסורתי וכללי, למד בגמנסיה "תרבות" ב<placeName>רובנה</placeName>.
+
+ היה חבר פעיל בתנועת "השומר הצעיר" בעירו ובאזור.
+
+ היה שליח תנועת "השומר הצעיר" לליטא.
+
+ בשנת 1929 עלה לארץ.
+
+ חבר קיבוץ גן-שמואל.
+
+ חבר מועצת מפ"ם.
+
+ חבר מערכת "ספרית פועלים".
+
+ מרצה בסמינריון ב"גבעת חביבה".
+
+ עורך "מחברות למרקסיזם" ו"בשער".
+
+ בשנת 1935 היה ציר בקונגרס הציוני בלוצרן.
+
+ כתב מאמרים ב"השומר הצעיר" (1929-1944); "הדים"; "על המשמר" (1950-51); "מחברות למארקסיזם" ; "בשער"; השבוע בקבה"א".
+
+ פרסם ספר "תמורות" (בהוצאת "ספרית פועלים", עברית, 1942).
+
+ עריכה והקדמות לקאפיטאל <persName>לק. מארקס</persName> . כרך א' 1953 (עברית), כרר ב' 1954 (עברית), לא סיים בתרגום כרד ג' של הקאפיטאל.
+
+ עריכה והקדמות ל"כתבים נבחרים" <persName>למארקס</persName> <persName>אנגלס:</persName> כרך א' (1955) וכרך ב' (1957) בהוצאת "ספרית פועלים".
+
+ עריכת קובץ בין "מלחמה ושלום" (הוצאת "ספרית פועלים", 1945).
+
+ תרגום לעברית "כתבים נבחרים" של<persName> לנין:</persName> כרך ג' מטריאליזם ואופיריו-קריטיציזם (בהוצאת ספרית פועלים, 1950).
+
+ תרגום ספר "על תרבות וחברה" של <persName>זדנוב</persName> (הוצאת ספרית "פועלים", 1949).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4940 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4940</bibl><bibl>Volume: #16 ,Page: 4941 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4941</bibl>
+<bibl>Volume: #16 ,Page: 4942 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4942</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

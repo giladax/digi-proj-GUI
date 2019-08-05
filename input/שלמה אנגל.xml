@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2265 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2265</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה אנגל</persName>
+
+</head>
+         <div><p> נולד בט"ו באלול תרס"א (2.10.1901) בגרויעץ שבמחוז קאליש בפולין לאביו<persName> אברהם-אבא</persName> (בן-תורה, סוחר בצבעים, מאז עלותו ארצה תושב כפר סבא, מנהל קופת גמ"ח ונודע בשם<persName> ר' אבא</persName> ) ולאמו<persName> יהודית</persName> בת ר' <persName>יחזקאל</persName> <persName>קרול</persName> . למד בחדרים, בישיבה ובבי"ס תיכוני בקאליש. היה פעיל בציונות הכללית ואח"כ ב"התאחדות" (שהיתה קשורה עם "הפועל הצעיר" בארץ) ועבד כפקיד בלשכת קרן היסוד לגליל קאליש.
+
+ עלה ארצה ב-1925. עבד זמן-מה בראשון לציון. החל לכתוב ב"דבר", בחתימות ש. א. ו"עין-גיל", ב-1927 נתקבל לעבודה קבועה בעתון בתור סופרו מהמושבות ובסוף מצא את מקומו כסופר העתון בכפר-סבא, ועם גידול הישוב במושבה ובשרון הדרומי בכלל נעשה למנהל סניף "דבר" בשרון, שמושבו בכפר סבא.
+
+ נשא לאשה את <persName>חוה</persName> בת<persName> משה שוחט.</persName>
+
+ התערה בחיי הצבור הפועלי והכללי במקום. נתמנה עפ"י בחירה למוכתר המושבה, אם כי רכש לו גם "עבר פלילי" שאין להתבייש בו, בתור אחד מאסירי "משמרת העבודה העברית" בפרדסי המקום. נבחר למועצה המקומית ולהנהלתה, לחבר בכמה ועדות של המועצה, יו"ר ועד החינוך המקומי, יו"ר הועד המנהל של ביה"ס התיכון, ובכל שנות המאורעות היה יו"ר ועדת הבטחון והשמירה.
+
+ פרסם חוברות על נושאים מקומיים : "ארבע שנים כפר סבא", "ציון לחללי כפר סבא", "כפר סבא - עשר שנות פעולה מוניציפלית".
+
+ בניו : <persName>יעקב, עודד</persName> (שניהם שרתו בפלמ"ח והנם חברי קיבוצי הצופים), <persName>רם.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2265 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2265</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

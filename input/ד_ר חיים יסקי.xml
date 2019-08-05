@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1770 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1770</bibl><bibl>Volume: #4 ,Page: 1771 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1771</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר חיים יסקי</persName>
+
+</head>
+         <div><p> נולד בקישינוב, פלך בסראביה (רוסיה), בראשית שנת תרנ"ז (28.11.1896) לאביו<persName> ישראל</persName> (סוחר תבואות) ולאמו <persName>צלה</persName> בת <persName>מרדכי באיוקאנסקי.</persName>
+
+ למד באודיסה בגימנסיה ובביה"ס לרפואה שבאוניברסיטה (בשנות 1914--19 ). היה חבר אגודת הסטודנטים הציונים "החבר" וממיסדי "מכבי" ברוסיה, השתתף
+
+
+ בהגנה העצמית היהודית באודיסה ובשנות 1918-19 עבד כרופא הצלב האדום ברוסיה.
+
+ ב-1917 נשא לאשה את<persName> פאני </persName> בת <persName>דב גורודצקי.</persName> אחרי השתלמות בביה"ס לרפואה בג'נבה עלה ארצה ב-1920 ונתקבל לרופא עינים מטעם "הדסה"
+
+ בחיפה. ב-1924-25 השתלם בבתי חולים בפאריס. משחזר ניהל את הפעולה לביעור מחלת הגרענת מהמושבות ואח"כ ניהל את מחלקת העינים ב"הדסה" ירושלים ופרסם את החוברת "ונשמרת לעיניך".
+
+ מ-1928 ניהל את מרכז "הדסה" בארץ והקדיש הרבה מרץ וידיעה לשכלול שרותי הבריאות בארץ. היה פעיל בהסתדרות הרופאים ובמחלקת הבריאות של הועד הלאומי והשתתף בארגון בית-הספר לרפואה בירושלים. היה חבר הליגה הבינלאומית למלחמה בגרענת השתתף כציר א"י בקונגרס רפואי בינלאומי במצרים (1928), בקונגרס בינלאומי לאדמיניסטרציה של בתיחולים בוינה (1931) וכו' ופרסם מאמרים בעתונות המקצועית.
+
+ נרצח ליד שייך ג'ראח בירושלים בנסעו בשיירת אנשי המדע והרפואה להר הצופים ביום ד' ניסן תש"ח (13.4.48).
+
+ לזכרו הוחלט להקים, בהשתתפות "הדסה" והאוניברסיטה על שמו קתדרה לרפואה סוציאלית בביה"ס לרפואה של האוניברסיטה העברית.
+
+ בנו :<persName> דב</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1770 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1770</bibl><bibl>Volume: #4 ,Page: 1771 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1771</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

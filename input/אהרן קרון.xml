@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3854 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3854</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן קרון</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קובנה</placeName> (ליטא )בשנת תרמ"ב (8.1.1881). לאביו<persName> דב</persName> (סוחר).
+
+ קיבל חינוך מסורתי בחדר, בישיבת טלז, בקיבוץ הרב <persName>חיים עוזר גרודזנסקי</persName> בווילנה ובהקורסים הגרודנאיים.
+
+ היה מורה (משנת 1909) ועסקן ציוני תרבותי בליטא, ווהלין ובסארביה.
+
+ בשנות 1906-07 תעמלן מטעם מרכז ציוני רוסיה.
+
+ בשנת 1911 עלה לארץ.
+
+ בשנות 1912-19 מנהל בית-הספר ביבנאל ומפקח בתי-הספר בגליל התחתון.
+
+ פעל וסייע להעברת החינוך במושבות יק"א לרשת החינוך של ההנהלה הציונית.
+
+ משנת 1920 מנהל ביה"ס בראשון-לציון.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נולד בקובנה (ליטה,) בשנת תרט"א (8.1.1881).
+
+ לאביו<persName> דב</persName> (סוחר)
+
+ קיבל חינוד מסורתי בחדר, בישיבת טלז, בקיבוץ הרב <persName>חיים עוזר גרודזנסקי</persName> זצ"ל בווילנה. כשנוסדו הקורסים הפדגוגיים על ידי<persName> אהרן כהנשטם</persName> "העריך תלמידו זה, עשאו, לאחר סיימו את הקורס, מורה ומזכיר הקורסים. גדולה היתה האהבה בין התלמיד ורבו.
+
+ בשנות 1906-7 הידה תעמלן מטעם מרכז ציוני רוסיה.
+
+ משנת 1909 מורה.
+
+ בעצתו של<persName> כהנשטם</persName> נשלח בשנת 1911 לא"י.
+
+ בשנות 1912-19 היה מנהל בית הספר במושבה יבנאל והיה מפקח בתי הספר ומדריד למורים במושבות הגליל התחתון.
+
+ ביזמתו ובתבונתו הועברו בתי-הספר של פיק"א בגליל לרשת החנוך של ההנהלה הציונית בימים ההם.
+
+ בשנת 1926 עבר לנהל את בית הספר בראשון לציון. רבות עשה לטיפוח ערכי היהדות והציונות בין תלמידיו. המוסד גדל והתפתח והיה בית הספר הגדול במושבות.
+
+ לא הספיק להוציא לפועל את חיבורו, ספר על תולדות החינוך בארץ ובגולה.
+
+ נפטר בראשון לציון
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3854 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3854</bibl>            <bibl>Volume: #14 ,Page: 4548 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4548</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 368 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/368</bibl><bibl>Volume: #1 ,Page: 369 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/369</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב אלחנן ליטוינסקי</persName>
+
+</head>
+         <div><p> נולד באודיסה, רוסיה, בשנת תרי"ג (31.10.1852), לאביו <persName>משה הלוי</persName> . נתחנך חינוך יהודי וכללי והתמחה במסחר. היה מראשוני חובבי ציון באודיסה. נשא לאשה את <persName>שרה ביילה</persName> בת <persName>אריה ליב פינקלשטיין</persName> (ממיסדי שכונת שלוש).
+
+ בשנת תר"מ חיסל את עסקיו ועלה ארצה. יסד בעזה טחנה בתנאים קשים ביותר. לאחר זמן עבר ליפו ויסד שם בית-חרושת לסבון. בתרמ"ו היה אחד משלשה-עשר המתנחלים בעליה השניה בראשון לציון, קנה 40 דונם קרקע ויסד משק. משלא הצליח בו חזר ליפו ונכנס לעבוד בבית-המסחר לעצים של הבילויי <persName>יעקב הרצנשטיין </persName> (בית-המסחר היהודי הראשון בענף זה ביפו, כי לפניו היה המסחר בעצים כולו בידי ערבים ובידי הגרמני <persName>ברייש)</persName> .
+
+ משגדל הישוב העברי בארץ, והוחל בהקמת נקודות-ישוב חדשות גדלה הדרישה לעצים, ובהיותו כבר בקי במקצוע יסד לעצמו בית-מסחר לעצים, שבמשך הזמן גדל והתפתח עד שהיה העסק הגדול ביותר ביפו בענף זה. כן יסד בית-חרושת לחביות, שגדל הצורך בהן בעקב התפתחות גידול הגפנים ותעשית המשקאות בארץ.
+
+
+ השתתף ביסודה של תל-אביב, היה מששים החברים הראשונים ואחד מחמשה-עשר הראשונים שבנו בתים.
+
+ פעל בפיתוח המסחר והתעשיה, יצר קשרים טובים עם נכבדי הערבים ביפו, ועלה בידו לגאול מהם שטחיקרקע רבים.
+
+ גם בניו גאלו אלפי דונמים והקימו את קריתהגנים "תל ליטוינסקי", על שמו.
+
+ נפטר בתל-אביב, ד' חשון תרע"ז (31.10.1916) ונקבר בבית הקברות הישן.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 368 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/368</bibl><bibl>Volume: #1 ,Page: 369 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/369</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2198 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2198</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל סטפנסקי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>זלצבורג</placeName> (גרמניה), ט' בתשרי תרס"ג (.10.10 1902), לאביו<persName> יעקב</persName> , ולאמו<persName> סרה</persName> בת<persName> אברהם לייטנר</persName> .
+
+ למד בציריך (שווייץ).
+
+ בשנת 1923 נשא לאשה את <persName>טרזה</persName> בת נתנאל מאירסון.
+
+ בחוץ לארץ עסק בייצור קונפקציה.
+
+ בקר בארץ לראשונה בשנת 1934. עלה והשתקע בשנת 1935.
+
+ מנהל חברת "הלביא", חברה ליצור סוגים שונים של הלבשה.
+
+ סגן יו"ר הסתדרות בעלי תעשיה בירושלים.
+
+ חבר הועדה הפיננסית לתעשיה בירושלים.
+
+ מראשוני בעלי התעשיה במרכז המסחרי.
+
+ בנו : <persName>עקיבא.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2198 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2198</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

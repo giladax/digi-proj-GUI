@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4895 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4895</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן צבי ברמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פינסק</placeName> (רוסיה) בשנת תרע"ד (14.1.1914). לאביו <persName>אברהם ברמן</persName> (סוחר ועסקן צבורי בעירו) ולאמו<persName> קטיה</persName> בת <persName>משה פיקמן.</persName>
+
+ קבל חנוך מסורתי וכללי בגמנסיה, תרבות,
+
+ צ'יצ'יק ב<placeName>פינסק</placeName>, סיים בי"ס חקלאי בוילנה. היה חבר פעיל בבית"ר בפולניה.
+
+ בשנת 1935 עלה לארץ.
+
+ שירת כ-13 שנים במשטרת המנדט. יסד את החברה הישראלית הראשונה לעסקי ביצור "הזירטרון".
+
+ בשנת 1939 נשא לאשה את <persName>בלה </persName> בת<persName> שלמה כץ.</persName> כל השנים היה חבר ההגנה בארץ. חבר האירגון הבינלאומי של השוטרים "איפא". חבר האירגון הבינלאומי למנהלים ואירגונים. מהנדס אמנותי ואמרגנות.
+
+ בנותיו:<persName> כרמלה, צפורה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4895 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4895</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

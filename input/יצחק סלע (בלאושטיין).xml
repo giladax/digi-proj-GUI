@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3482 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3482</bibl><bibl>Volume: #10 ,Page: 3483 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3483</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק סלע (בלאושטיין)</persName>
+
+</head>
+         <div><p> נולד באלול תרס"ב (2.9.1902) בסקירנוויצה שבפולין.
+
+ לאביו<persName> יעקב דוד בלאושטיין</persName> ולאמו <persName>פייגה ראצה</persName> בת הרב<persName> מנחם מנדל גרינברג </persName> (רבה של קהלת וילון בפולין).
+
+ גדל ונתחנך בבית הרב אבי אמו. למד בחדר ושנתים
+
+
+ בישיבת גור. אחרי מלחמת העולם הראשונה יצא בגיל 16 לברסלאו שבגרמניה, התכונן בלימוד אכסטרני ועמד בבחינת בגרות ולמד ששה זמנים באוניברסיטה.
+
+ ב-1920 יסד בברסלאו, ביחד עם פרופ' <persName>קלוץ </persName> (כיום בישיבה-קולדג' בניו-יורק), את הקלוב "עבריה" לדיבור עברי. עסק בהוראה ובעבודה ספרותית. שם יצאו ספריו בגרמנית : Der Ostjude" ,"Ein Spiel des Leides"" והרומאן ."Sieben Hungertage"
+
+ ב-1928 נשא לאשה את <persName>חוה קתרינה </persName> בת <persName>איגנאץ</persName> <persName>שטוכניול.</persName>
+
+ עלה לארץ ב-1935 . עבד בתור מורה במערכת החינוך עד קום המדינה. אח"כ הועבר לשרות משרד החינוך בעריכת השבועון לעולה "פרוזדור". משחוסל השבועון אחרי שלש שנים הועבר לעריכת המדור המיוחד "פרוזדור" בעתון "אומר". כן עבד בעריכה וסיגנון ב"הדור". באחרונה עובד כמרצה קבוע מטעם המרכז לתרבות ומועצת פועלי תל-אביב.
+
+ פירסם מאמרים רבים ב"הפועל הצעיר'', "הדור", "דבר", "הגה" ו"אומר", וקטעים ממחזהו "החכם מדסאו'' נדפסו ב"מאזנים".
+
+ ב-1954 הציג "אהל" את המחזה שלו "מנדל החוכר" (על פי אגדה מאת י. ל. פרץ). ובשנת 1956 הציג "אהל" את הקומדיה שלו "שרגא פייבוש הולך לנגב". הקומדיה תורגמה לאידית. 
+
+ קומדיה חדשה בשם "ממבו סם-בו" נרכשה על ידי "אהל".
+
+ ספריו: "רחמים ודם" (הוצאת "יבנה" ת''ש), "החכם מדסאו" (ניומן, תש"ו), "יום בגן החיות" (ניומן), "בצפרני השטן", סיפורי אהבה מתקופת החשמונאים (שמעוני, תש"י), "ששה מחמשה", כנור חליל ותוף (ראובן מס), "אל האור", "הצגתנו" (ארגמן), "רמי הקשר" (ברלוי), "קיצור דברי ימי ישראל" ("ניבי", תשי"ד), "אולפן" ("יבנה"), "הסניגור הגדול" (רבי לוי יצחק מבארדיצ'וב - "ניב", תשי"ח). ארבעה ספרים נמצאים תחת מכבש הדפוס.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3482 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3482</bibl><bibl>Volume: #10 ,Page: 3483 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3483</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

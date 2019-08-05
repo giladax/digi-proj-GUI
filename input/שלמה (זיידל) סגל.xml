@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2161 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2161</bibl><bibl>Volume: #5 ,Page: 2162 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2162</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה (זיידל) סגל</persName>
+
+</head>
+         <div><p> נולד בצפת, כ' אדר תר"ל (1870), לאביו<persName> ברל</persName> (דב) סגל, שהיה מכונה גם בשם מוהיליבר, כי ממוהיליב שברוסיה בא לארץ, ולאמו<persName> טשרנה.</persName>
+
+ קיבל את חנוכו בישיבות צפת שהיו אז מן המפורסמות.
+
+ ב-1887 נשא לאשה את <persName>רייזל </persName> (שושנה) בת <persName>עמרם</persName> <persName>הרצוג</persName> נפטרה במשמר הירדן, כ''ז תשרי תש"ה).
+
+ זמן מה לאחר היוסדה של משמר-הירדן נקרא להתישב בה ועסק בעיקר באספקת צרכי המזון והקל בהרבה על המתישבים את קשיי האספקה, ללא תקציב וללא מקור לאשראי. אבל הרוח החלוצית החקלאית ששררה בנקודת מוקד זו דבקה עד מהרה גם בו, ולמרות הצורך החיוני ביעילות עזרתו המסחרית לא יכול היה לעמוד בפני הרוח החקלאית שחפפה על נקודה זו, אם כי בדם ואש היתה נקנית, ויעזוב את מסחרו ויתנחל במקום, דבק בקרקע ויתמסר לעבודתה, ואת בניו גם הם חנך ברוח האהבה והקנאה לחקלאות ולאם אדמה.
+
+ אם כי את חנוכו קיבל בישיבות לא פסק בכל זאת בכל ימי חייו מעיון גם בספרות המודרנית, הן בספרי מדע והן בספרות יפה. ע"י כך העשיר את אוצר ידיעותיו לא רק בספרי דת אלא אף גם במדעים חילוניים. בשתוף פעולה עם רעיתו ארגן את החיים במושבה במובן הדתי והסוציאלי גם יחד. ביתו שימש אכסניה לכל עובר אורח, שנתקבל בו בלבביות ואחוה.
+
+
+ נקרא לא פעם לעמוד בראש בני המושבה, התחמק תמיד מכבוד זה בבחרו בהצנע לכת ורק בעצותיו והדרכתו תמך באחיו, כי בחר בחיים הצנועים והשקטים והתרחק מן הפרסום וחיי הרעש.
+
+ נפטר בראש-פנה, י"ד אדר תש"ב (1942).
+
+ צאצאיו :<persName> לאה, </persName> אשת <persName>פייבל שניידר, מרים </persName> אשת <persName>יעקב</persName> <persName>רובינשטיין, יהודה, אלעזר</persName> (ז"ל. נפל על משמרת משמרהירדן במלחמת השחרור בתור מפקד הגנה), <persName>פנחס, יצ</persName> <persName>חק, משה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2161 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2161</bibl><bibl>Volume: #5 ,Page: 2162 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2162</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

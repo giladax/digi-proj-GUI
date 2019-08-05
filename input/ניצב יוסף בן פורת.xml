@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5193 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5193</bibl><bibl>Volume: #17 ,Page: 5194 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5194</bibl>
+<bibl>Volume: #17 ,Page: 5195 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5195</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ניצב יוסף בן-פורת</persName>
+
+</head>
+         <div><p> נולד ב<placeName>לודז'</placeName> (פולין), בשנת תרס"ו (1906).
+
+ לאביו <persName>אהרן מירז'ירלצקי</persName> ולאמו<persName> לאה</persName> בת<persName> ניסן</persName> <persName>פורטונסקי.</persName>
+
+ קיבל חינוך מסורתי וכללי בחו"ל.
+
+
+ היה פעיל בתנועת "השומר הצעיר" בעירו.
+
+ עלה לארץ בשנת 1925.
+
+ בשנת 1926 נשא לאשה את<persName> רחל</persName> בת <persName>יעקב ספירו.</persName>
+
+ היה בין מייסדי קיבוץ עין-שמר וחבר בקיבוץ זה.
+
+ התפקידים שמילא במנגנון ההגנה עד הקמת המדינה: החל בתפקיד מפקד גוש הרצליה בשנת 1938 ועד מפקד מחוז חיפה ב-1947.
+
+ בשנתיים הראשונות (1938-40) של שירותו במנגנון ההגנה הוטל עליו לשרת במשטרת היישובים
+
+ העבריים כסרג'נט גושי של גוש הרצליה. זאת לפי הוראת מפקדת ההגנה כדי לנצל אפשרויות אמונים ופעולות ליגאליות וגם מטעמים תקציביים (לחסוך הוצאות).
+
+ לאחר מכן, בשנת 1940, התפטר מהנוטרות בפקודת ההגנה והמשיך לשרת במנגנון הקבע של ההגנה.
+
+ שירת במשטרת המנדט הבריטי משנת 1938 עד שנת 1940 בלבד, וזאת במסגרת משטרת הישובים העבריים.
+
+ עם הכרזת המדינה במאי 1948, הוצב ע"י הרמטכ"ל למטה-הארצי של משטרת ישראל, כדי לסייע בהקמת החיל.
+
+ ניצב במשטרת ישראל. מנהל משרד שר המשטרה, ירושלים.
+
+ צאצאיו:<persName> גיורא בן-פורת </persName> (ארכיטקט);<persName> ורדה</persName> <persName>בן-פורת.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5193 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5193</bibl><bibl>Volume: #17 ,Page: 5194 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5194</bibl>
+<bibl>Volume: #17 ,Page: 5195 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5195</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2621 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2621</bibl><bibl>Volume: #6 ,Page: 2622 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2622</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם וילנציק</persName>
+
+</head>
+         <div><p> נולד בתל-אביב, ד' אדר א' תר"ע (15.3.1910). לאביו <persName>ר' זרח </persName> (ראה כרך א', עמוד 469) ולאמו<persName> רחל</persName> בת<persName> אברהם יצחק שקלובסקי.</persName>
+
+ קבל חנוך מסורתי וכללי בביה"ס תחכמוני, ביה"ס עממי וביה"ס התיכוני למסחר בתל-אביב.
+
+ היה פעיל במכבי. חבר ההגנה משנת 1923.
+
+ כשאביו יסד את בית המסחר לחומרי בנין והיה מבוני "הבית הלבן" ברחוב אלנבי בתל-אביב, נכנס
+
+
+<persName>אברהם</persName> לעבוד בעסק הנקרא : "ז. וילנציק ובניו".
+
+ בשנת 1933 נשא לאשה את<persName> חנה</persName> בת <persName>מנחם ליזרוביץ</persName> (אמה<persName> רחל </persName> היא בת <persName>הרב</persName> שלמה זלמן ש''ך זצ"ל, ראה כרך א', עמוד 130).
+
+ במאי 1948 התגייס לצ.ה.ל. ומלא תפקידים חשובים בדרגת רב סרן.
+
+ סגן נשיא לשכת המסחר תל-אביב-יפו.
+
+ מעורב בחיים הצבוריים והכלכליים.
+
+ בראשית שנת תשט"ו (סוף 1954) נשלח לגרמניה בתור בא-כח הענף שלהם בארץ. לרכז את הקניות מהשלומים - והצליח בשליחותו.
+
+ צאצאיו: <persName>בעז, גד, זיוה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2621 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2621</bibl><bibl>Volume: #6 ,Page: 2622 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2622</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

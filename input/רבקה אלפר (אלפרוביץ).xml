@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3364 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3364</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רבקה אלפר (אלפרוביץ)</persName>
+
+</head>
+         <div><p> נולדה בשנת תרס"'ב (1902) ברוסיה (ליטה).
+
+ לאביה <persName>אליהו אלפרוביץ (מקורניץ) </persName> ולאמה <persName>אלקה </persName> בת <persName>ישראל חנוביץ</persName> (מגלובוקויה).
+
+ בגיל ארבע עברה עם הוריה לעיירה בדרום רוסיה, בה פעל אביה בכל שרותי הקודש של הקהלה הקטנה : - שוחט, מוהל, חזן, מלמד וכו'.
+
+ למדה ב"חדר" של אביה קריאה עברית ושעה ליום קיבלה את מנת "ההשכלה הכללית" (קריאה וכתיבה רוסית ומעט חשבון) מפי מורה שבאה להעניק ידיעות נחוצות אלה לכל קהל תלמידי החדר, ויתר הזמן עזרה בעבודות הבית והחצר.
+
+ מגיל 14 עמדה ברשות עצמה ותוך כדי כך המשיכה בלימוד מפי מורים פרטיים ובלימוד עצמי מתוך ספרים, עד כדי השכלה תיכונית. כשנתיתמה מאמה עזרה לאביה בטיפול בילדים ובפרנסת המשפחה.
+
+ במוצאי מלחמת-העולם נדדה בדרום-רוסיה בחיפוש דרך לצאת מרוסיה ולעלות לארץ. היתה כשנתים בתור פליטה בטיפליס עד שהצליחה למצוא אפשרות להפליג באניה ולהגיע לאיסטמבול. שם הוכרחה להמתין עוד כשנה עד שקיבלה "סרטיפיקט" - ובשנת 1925 הגיעה לארץ.
+
+ כשלש שנים חברה בקיבוץ ואח"כ פועלת חקלאית במקומות שונים בשרון, במושבות יהודה והדרום. בערבים הוסיפה להשתלם, עד שהגיעה ליכולת לכתוב בשביל קהל הקוראים.
+
+ כתבה רשימות ב"דבר הפועלת", ב"מאזנים" וב''דבר''. ב-תש"ד (1944) יצא ספרה "המתנחלים בהר" בהו
+
+ צאת "עם עובד". מאותה שנה ואילך עבדה בקביעות במערכת "דבר הפועלת". ב-תשט"ז (1956) יצא ספרה "קורות משפחה אחת" (משפחת העסקן הישובי ר' <persName>יחזקאל דנין-סוכובולסקי) </persName> בהוצאת "דבר", שעבודו קבלה פרס ב-1956 על שם <persName>חיים גרינברג.</persName>
+
+ במלחמת השחרור (1947-49), שירתה ב"גדוד החברות" (כעין משמר אזרחי) בת"א.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטרה בירושלים, ל' ניסן תשי"ח (18.6.58 ). ונקברה בתל-אביב.
+
+ (ראה כרך ט', עמוד 3364).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3364 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3364</bibl>            <bibl>Volume: #11 ,Page: 3882 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3882</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

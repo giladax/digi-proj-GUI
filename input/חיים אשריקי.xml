@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 92 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/92</bibl><bibl>Volume: #1 ,Page: 93 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/93</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים אשריקי</persName>
+
+</head>
+         <div><p> נולד בירושלים, ט"ו אדר תרמ"ד (1884), לאביו הרב <persName>שמעון</persName> , ראש-בית-דין של עדת הספרדים בירושלים, שעלה בילדותו ממארוקו, ולאמו<persName> בוליסה סול</persName> בת החכם והעשיר ר'<persName> אברהם פינטו,</persName> ממנהיגי העדה.
+
+ למד בתלמוד-תורה של הספרדים, בבית-המדרש "דורש ציון" מיסודו ובניהולו של הרב<persName> יוסף אופלאטקה</persName> מפראג, בביה"ס של כי"ח. השתלם באופן פרטי בהשכלה
+
+ כללית וביחוד בשפה הערבית ובספרותה. נשא את <persName>רבקה </persName> בת הרב <persName>סלימן מאני</persName> מחברון. בגיל 18 החל לעסוק בהוראה, בעיקר בשפה הערבית, בביה"ס של כי"ח, בביה"ס למל, בסמינר למורים של חברת "עזרה" ובס
+
+
+ מיגר של הארמנים בירושלים. בגלל נתינותו הצרפתית הוכרח לצאת מהארץ בראשית מלחמת-העולם הראשונה ובשנות המלחמה היה מורה במצרים בביה"ס של מקהלה בעבסיה שבקהיר. אחרי המלחמה חזר ארצה ומשנת 1921 הוא מורה ראשי לשפה הערבית בגימנסיה הרצליה ואח"כ גם בבית-הספר התיכוני למסחר בתל-אביב.
+
+ בהיותו מחונן בקול נעים שימש לעתים שליח-צבור בבית-הכנסת של הספרדים.
+
+ אחותו<persName> וידה </persName> ז"ל היתה אשת הסוקר המלומד ר' <persName>יצחק יחזקאל יהודה.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, כ"ט אדר ב' תש"ח (9.4.48) (ראה את הערך בעמוד 92, כרך א')
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 92 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/92</bibl><bibl>Volume: #1 ,Page: 93 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/93</bibl>
+            <bibl>Volume: #3 ,Page: 1535 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1535</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

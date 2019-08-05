@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 418 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/418</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פאניה (שרה פייעה) פינברג (בלקינד)</persName>
+
+</head>
+         <div><p> נולדה בלאהויסק, פלך מינסק (רוסיה הלבנה) בר"ח שבט תרט"ו (1855) לאביה <persName>מאיר בלקינד</persName> , מורה לעברית, תלמיד-חכם ומשכיל. למדה מפי אביה ובבית הספר לבנות בבוריסוב. אח"כ עברה אל אחותה אולגה בפטרבורג כדי להמשיך למודיה, אבל כשקמה תנועת ביל"ו החליטה להצטרף כשני אחיה הבילו"יים ישראל ושמשון אל בוני הארץ. בכ"ט אלול תרמ"ב הגיעה לחוף יפו והתגוררה יחד עם הבילו"יית דבורה סירוט בבית אנטון איוב ואליהן נצטרפו פאני פריזר וחסיה בנינסון. כתבה לאחותה אולגה מכתב נלהב על תחית הארץ והדברים פורסמו ב"המליץ" בה' חשון תרמ"ד.
+
+ כאשר יצאו שני אחיה ישראל ושמשון עם קבוצת בילו"יים לראשון-לציון להיאחז בה, נלוותה אליהם.
+
+ נישאה לישראל פינברג, אחיו הצעיר של מיסד המושבה יוסף פינברג, בי"ב אדר תרמ"ה והשתקעה יחד עמו בגדרה. הקדישה כוחותיה לפיתוח המושבה והיתה בין מגיני הנפש והרכוש בפני פורעים ערביים. מגדרה עברה לחדרה. בכל שלש המושבות הללו השתתפה בייסודן ונשאה בסבלותיהן יחד עם המתישבים האחרים. הצטיינה במדת הכנסת אורחים וביתה היה פתוח
+
+ לבל נזקק לסעד ועדוד. החזיקה מעמד בכל האסונות המשפחתיים שניתכו עליה: בעלה נלקח ממנה בגיל העמידה ובנה יחידה אבשלום נעלם לנצח בלכתו במדבר בשליחות "נילי".
+
+ אחר מות בעלה המשיכה לטפל במשקה בחדרה ובשנותיה האחרונות עברה לראשון-לציון, בקירבת משפחת אחיה שמשון.
+
+ מתה בגיל 82 בי"א שבט תש"ב ונקברה בראשוןלציון.
+
+ צאצאיה: <persName>אבשלום </persName> (מראשי "נילי", נפל חלל במדבר סיני, בתרע"ה,), <persName>שושנה </persName> אשת המהנדס וילבוש <persName>וצילה,</persName> אשת עו"ד זאב שהם בחיפה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 418 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/418</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4244 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4244</bibl><bibl>Volume: #13 ,Page: 4245 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4245</bibl>
+<bibl>Volume: #13 ,Page: 4246 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4246</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי (מוטי) רבינוביץ</persName>
+
+</head>
+         <div><p> נולד י' אלול תרנ"א (ספטמבר 1891) ביאסי שברומניה.
+
+ לאביו<persName> יעקב יוסף </persName> (בר' <persName>ישעיהו רבינוביץ </persName> מלשנוב, שהיגר מגליציה לרומניה) ולאמו <persName>שרה</persName> , ילידת ליאובה בבסרביה.
+
+ נתחנך בלימודי תורה בחדר ובבית המדרש והשתלם בלימוד עצמי בהשכלה עברית וכללית.
+
+ בשנת תרע"ח (1918) נשא לאשה את <persName>מאלי</persName> בת <persName>בנימין</persName> <persName>ואלדמן.</persName>
+
+ היה פעיל בתנועה הציונית והעברית ברומניה. בשנות ה-20 היה מנהל המשרד הארצישראלי, אח"כ מזכיר כללי ובסוף מנהל קרן היסוד ברומניה.
+
+ נבחר כציר לקונגרס הציוני הי"ג (קארלסבד, 1923).
+
+ אחרי ביקוריו בארץ בשנים 1923 ו-1927 בשליחות המוסדות שעבד בהם, עלה עם משפחתו בתשרי תרצ"ג (אוקטובר 1932).
+
+ זמן-מה היה שותף בבית-מלאכה לחותמות ומבלטים.
+
+ ב-1935 חזר לשרות הלאום כמזכיר כללי וא"ח מנהל הועד הארצי לקרן היסוד, עד שב-1958 יצא לגימלאות.
+
+ ביאסי (רומניה) השתתף בייסודו ובעריכתו של כתבהעת "ליכט". פירסם שירים, מאמרים ופיליטונים ב"דער האמער'', "התקוה", "אונזער צייט", "מנטואיריאה" ועוד שיצאו ברומניה. ובארץ - בשנתו הראשונה כתב פיליטונים על תל-אביב ב"הארץ" ובשנותיו האחרונות רשימות ב"על המשמר".
+
+ היה איש-רעים ואיש-חברה, צנוע הליכות, אהוב ומכובד על ידידיו הרבים, הן יוצאי-רומניה והן עמיתים-לעבודה, שקשר עמהם קשרי-חברות אמיצים.
+
+ תלמיד-חכם מובהק, שקד כל ימיו על תורה ועיון, בייחוד במקרא ובלשון העברית. בבקיאותו ובסברתו הישרה הפליא לא-פעם מלומדים שמקצועם בכך.
+
+ נפטר בתל-אביב, כ"א טבת תשכ"ג (17.1.1963).
+
+ בנו: <persName>יעקב רבינוביץ-רבי </persName> (עתונאי).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4244 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4244</bibl><bibl>Volume: #13 ,Page: 4245 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4245</bibl>
+<bibl>Volume: #13 ,Page: 4246 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4246</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

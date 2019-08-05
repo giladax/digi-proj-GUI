@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3329 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3329</bibl><bibl>Volume: #9 ,Page: 3330 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3330</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יצחק דוד בוקשפן </persName>
+
+</head>
+         <div><p> נולד י"ד תשרי תרס"ה (22.9.1904) בבויאן שבבוקובינה.
+
+ לאביו<persName> יהושע </persName> ולאמו <persName>מרים</persName> בת <persName>יצחק דוד לזרוביץ.</persName>
+
+ בראשית מלחמת העולם הראשונה הגיע עם הוריו בזרם הפליטים לוינה. שם למד שמונה שנים בגימנסיה והיה פעיל בארגון-נוער ציוני. אח"כ למד באוניברסיטה וינה והוסמך לד"ר למשפטים. בשנת לימודיו באוניברסי
+
+
+ טה היה חבר אגודת הסטודנטים "עבריה", בשנים 19281930 יו"ר הסתדרות הסטודנטים היהודים באוסטריה. בסוף 1927 השתתף כנציג ההסתדרות העולמית של הסטודנטים היהודים בועידה בשאלת האנטישמיות שנערכה ליד פאריס מטעם "שרות בינלאומי לסטודנטים" בהשתתפות יהודים ובני עמים אחרים וב-1929 נבחר לקונגרס של "שרות" זה. אחרי גמר לימודיו היה מזכיר כללי ויו"ר של ברית הציונים הרביזיוניסטים (הצה"ר) באוסטריה.
+
+ ב-1930 נשא לאשה את <persName>אולה</persName> בת<persName> אביגדור זוננשיין.</persName>
+
+ ב-1933 ביקר בארץ וב-1934 עלה להשתקע כאן בקביעות. התחיל לעבוד כמנהל המחלקה הכספית של הועד הפועל של הסתדרות עובדים לאומית. אח"כ היה מנהל בבית-חרושת לכתנות, ומ-1936 חבר מרכז הצה"ר בארץישראל.
+
+ מ-1938 בהנהלה העולמית של קרן תל-חי, חבר פעיל בועד המורשים של הצה"ר, בשנות מלחמת העולם השניה חבר מרכז הצ"ח והצה"ר, מ-1946 חבר המזכירות העולמית וההנהלה העולמית של הצה"ר, מ-1949 עד 1957 מנהל הכספים של תנועת החרות והתנועה העולמית, ובאחרונה עוסק בביטוח.
+
+ בשנים 1937-1936 היה חבר אצ"ל.
+
+ היה ציר בקונגרסים הציוניים: הי"ז בבזל (1931), הי"ח בפראג (1933), הכ"ב בבזל (1946), הכ''ג בירושלים (1954) והכ"ד בירושלים (1956).
+
+ חבר נשיאות הועד הפועל הציוני, וכן חבר ההנהלה העולמית של ברית חרות-הצה"ר.
+
+ בניו: <persName>אלדד - יוסף, עמירם - יהושע.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3329 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3329</bibl><bibl>Volume: #9 ,Page: 3330 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3330</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

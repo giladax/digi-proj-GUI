@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1474 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1474</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גרשון קוסקובצקי</persName>
+
+</head>
+         <div><p> לאביו <persName>דב </persName> ולאמו<persName> חנה</persName> בת <persName>יצחק טפלר</persName> , מסורוקי (בסרביה).
+
+ נולד בוויניצה, פלך פודוליה (אוקראינה), ט"ז אב תרנ"ד.
+
+ קיבל חינוך מסורתי.
+
+ היה פעיל בתנועת הנוער הציוני, ממיסדי אגודת "פרחי ציון" בוויניציה.
+
+ עלה לארץ בשנת 1909 (בשנת 1906 ביקר יחד עם אחיו בארץ לשם השתלמות בלימודים).
+
+ עבד כפועל חקלאי ברחובות, באגודת נטעים, בן שמן, חולדה, חדרה ובתקופת "השומר" ומיסדי דגניה הקומונה הראשונה בארץ.
+
+ בשנת 1922 נשא לאשה את <persName>עטרה</persName> בת <persName>מאיר לי</persName> <persName>שנסקי</persName> , ממיסדי מטולה.
+
+ יו"ר ועד ההורים וועד המושבה מטולה.
+
+ כתב מאמרים בעתונים בעניני החקלאות.
+
+ בנותיו:<persName> חנה</persName> (אחות מוסמכת), <persName>יעל</persName> (מורה) אשת <persName>יוסף</persName> (בן הרב עזרא)<persName> שרם</persName> , מירושלים
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בצפת, כ"ג תשרי תשכ"ב (3.10.61) (ראה כרך שלישי, עמוד 1474)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1474 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1474</bibl>            <bibl>Volume: #12 ,Page: 4122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4122</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

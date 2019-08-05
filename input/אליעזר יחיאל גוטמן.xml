@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3093 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3093</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר יחיאל גוטמן</persName>
+
+</head>
+         <div><p> נולד בשנת תרכ"ד (1864) ביאסי שברומניה.
+
+ לאביו <persName>יששכר דב.</persName>
+
+ למד בחדר וכשגדל יצא לעבודה.
+
+ בעת העלית מרומניה של מיסדי ראש פנה וזכרון יעקב ב-1882, נמשך גם הוא בזרם חיבת ציון לעלות לארץ, אך בהיותו בחור צעיר ומחוסר כל רכוש, לא השיגה ידו לרכוש לו נחלה, ועבד בהתחלה בראש פינה כפועל שכיר.
+
+ עבד בכבישים ובתור פועל-בנאי אצל <persName>אהרן אייזנברג</persName> (ראה כרך ב', עמ'982) בבנינים בראשון-לציון, בעקרון וברמלה. התגורר בראשון לציון, וזמן מה ברמלה, והיה בא לעתים קרובות לירושלים.
+
+ נשא לאשה את <persName>שרה באבל </persName> בת <persName>ליפא שפירא</persName> מרחוב חברון שבעיר העתיקה בירושלים.
+
+ החיים הקשים פירכו את הכח והבריאות של שני בני הזוג במהרה. הספיקו להוליד שני בנים, אך לא לגדלם.
+
+ אחרי מות האשה בכ''ב כסלו תרנ''ה (דצמבר 1894), ונקברה בחלקת כולל רומניה על הר הזיתים, נפטר גם הוא כחצי שנה אחריה בראשון לציון, ח' סיון תרנ"ה (1895), ושם נקבר.
+
+ בניו (גודלו בבית היתומים):<persName> דוד</persName> (מכונאי בעקרון), <persName>דב</persName> (פקיד - ראה ערכו בכרך זה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3093 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3093</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4018 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4018</bibl><bibl>Volume: #12 ,Page: 4021 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4021</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב וינבוים</persName>
+
+</head>
+         <div><p> נולד בנוישטד, פלך-קרץ (פולין) בשנת תרמ"ב (אוקטובר 1882).
+
+ לאביו ר' <persName>קלמן</persName> (קלומינוס) ולאמו <persName>ריזל </persName> בת<persName> מחלה</persName> <persName>רוזנצויג.</persName>
+
+ קיבל חינוך מסורתי בחדר.
+
+ הוריו עניים מרודים, מטופלים בילדים רבים, לא יכלו להקדיש תשומת לב מיוחדת לבן <persName>יעקב,</persName> וסבל יחד עם אחיו ואחיותיו הגדולים ממנו ברעב. בהגיעו לגיל 12
+
+ עזב את בית הוריו ויצא לנדוד לבדו בעולם הגדול. והגיע - רועד מקור ומרעב ללודז'. החל במכירת שרוכי נעליים והפך תוך זמן קצר לרוכל מצליח. כשהצטברו בכיסו כמה מאות רובלים פתח "אכסניה" קטנה, וכעבור שנים אחדות היה בעל בית מלון מפואר.
+
+ עסק במסחר. היה עסקן ציבורי, היה נשיא חברת גמילת חסדים בלודז'.
+
+ בשנת 1914 נשא לאשה את <persName>שינדל-דבורה</persName> בת ר' <persName>שמחה אליעזר אייגלסברג</persName> (נפטרה בחשון תשי"ג) ובזיווג שני נשא לאשה את <persName>פיגה </persName> בת <persName>גרשון בישל.</persName>
+
+ בשנת 1923 עלה לארץ מלודז'.
+
+ בנה בית בתל-אביב (92 אלנבי) ועסק במלונאות.
+
+ בשנת 1944 עבר לרמת-גן.
+
+ ברמת-גן בנה בניין גדול (ב-1945) וסידר בו פנסיון שנקרא על שמו "פנסיון יעקב", המשמש לבית הבראה.
+
+ תרם את הבניין על כל רהיטיו וציודו ל"ועד הישיבות" במטרה לכונן בו "בית הבראה ומרגוע" לתלמידי וחניכי הישיבות.
+
+ הציל צעירה ממחנות והשיא אותה בארץ לר'<persName> דוד</persName> <persName>רוטנברג.</persName>
+
+ במלחמת השחרור תרם סכומים ניכרים.
+
+ היה חבר המזרחי ומקורב לחזון איש זצ''ל.
+
+ נפטר ברמת-גן, י"ז אדר ב' תשכ"ב (23.3.62).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4018 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4018</bibl><bibl>Volume: #12 ,Page: 4021 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4021</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

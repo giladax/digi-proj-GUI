@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 983 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/983</bibl><bibl>Volume: #2 ,Page: 984 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/984</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמעון ארנסט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קרקוב</placeName> (גליציה המערבית) ט' אב תרנ"ח (1898), לאביו<persName> קלמן </persName> (סוחר ות''ח, בן הרב שמעון רבה של העירה יאנוב (פלך פיטרקוב), מצאצאי בעל ה"חתם סופר") ולאמו<persName> מירל </persName> בת ר' שלמה כהנא מז'בנו ע"י טרנוב (מגזע האדמו"ר נפתלי מרופשיץ). קבל חנוך מסורתי ותורני בחדר ובישיבות. בשנת תרע"ב עלה עם הוריו לא"י, למד בישיבת "לשכת הרבנים" שע"י ישיבת "שער השמים" בירושלים, בהנהלת הרב שמעון צבי הורוויץ (לידר) והרב חיים ליב אויערבך והוסמך להוראה ע"י הרב פסח צבי פראנק.
+
+ אח"כ גמר את חוק למודיו בביהמ"ד למורים. בתרע"ח נתקבל לעבודה ספרנית בספריה העירונית "שער ציון" בתל-אביב ומשמש בה כספרן עירוני ראשי עד היום.
+
+ בתרפ"א התחיל את עבודתו הספרותית והעתונאית. השתתף בקביעות ב"דואר היום", ב"הארץ" וב"מזרח ומערב" שיצא לאור בירושלים בעריכת א. אלמליח, ופירסם רשימות בקורת על ספרים מדעיים שונים. החל משנת תרפ"ב הוא משתתף בקביעות בעתונים שונים בחו"ל: "היינט" בוורשה, "מארגען זשורנאל", "פארווערטס, "אמעריקאנער" ו"דאס אידישיע פאלק" בניו-יורק, "בני-ברית מאגאזין" בואשינגטון, ב"קענעדער אדלער", "אידישער זשורנאל", "דאס אידישעווארט" ו"קאנאדער נייעס" בקנדה: ב"דרום"; "די אידישע צייטונג", "אידישע וועלט" בארגנטינה ; ב"אפ
+
+
+ ריקאנער אידישע צייטונג", "זייאניסט ריקורד"; ו''סאאוטאפריקען דושואיש קרוניקל" באפריקה הדרומית. השתתף באנציקלופדיה הישראלית "אשכול", ב''אנציקלופדיה יודאיקה", הלקסיקון לספרות (אידיש) מאת ז. רייזין, האנציקלופדיה לספרות ישראלית מאת ב. קרופניק, האנציקלופדיה התלמודית בעריכת דר. מ. מרגליות, באנציקלופדיה העברית שבהוצ. ''יזרעאל". כן השתתף ברבעונים: "קרית ספר", ''הצופה לחכמת ישראל", ובירחונים "התורן", ''דער יודע", "ברקאי", ''הדים" וכו'. פרסם מחקר מקיף על ''מקורות לדברי ימי התיאטרון בישראל מימי קדם עד ימינו אלה" בתוך הארכיון לדברי ימי התיאטרון היהודי שבהוצאת יוו"א (ניו-יורק, 1930).
+
+ פירסם את הספרים : "ספר האשה" (תל אביב, תרצ"א), "מאוצר הבדיחה" קובץ בדיחות וחידודים ממכמני העם (ירושלים, תרצ"ג), "סופרי ישראל בסנדלים", קובץ של אנקדוטות מחיי הסופרים (תל אביב, תרצ"ד), "ספר יעבץ" (תל אביב, תרצ"ד).
+
+ זמן מסוים שימש כסופר איט"א בארץ ישראל.
+
+ משתתף בעתונות היהודית בתפוצות בשמו ובפסידונים : <persName>בן-יקיר, ב. יאקר, גור-אריה, בר-רב-האי, ש. א.</persName> <persName>הלוי, פ. גרשוני, אבוהב, ש. לוינסון, ש. ז. אריאל</persName> ועוד.
+
+ בשנת 1932 נשא לאשה את <persName>רבקה</persName> בת ליב שבלוב (ציוני ותיק מויטבסק). בנו:<persName> יחיאל.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ל' באב תשכ"ז (5.9.67) (ראה כרך שני, עמוד 983) 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 983 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/983</bibl><bibl>Volume: #2 ,Page: 984 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/984</bibl>
+            <bibl>Volume: #17 ,Page: 5246 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5246</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2203 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2203</bibl><bibl>Volume: #5 ,Page: 2204 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2204</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ברוך משה פצ'ורניק</persName>
+
+</head>
+         <div><p> נולד בווהלין ע"י אודיסה, בשנת התרל"ג (1873), לאביו <persName>אברהם </persName> ולאמו<persName> אסתר-חיה.</persName>
+
+ קבל חנוך מסורתי בחדר באודיסה.
+
+ בשנת התר"ן (1890) נקנתה אדמת "דוראן" שעתידה היתה להיות למושבה "רחובות".<persName> ושמואל הוכברג</persName> מנס-ציונה יצא לבסרביה בשליחותו של יהושע חנקין לרכוש גואלים לשטח החדש. הדה של המשימה רבת-הממדים הגיע עד ווהלין, וברוך-משה שכבר הושפע עוד
+
+
+ בשנת התרמ"ב, בהיותו נער, מאגדת עליתם. של הבילו"יים לארץ הקדושה ורכישת "עמק השושנים" ע"י החלוץ המוזר והמופלא <persName>ראובן לרר</persName> , לא יכול לעמוד יותר בנסיון, ויעל גם הוא ארצה (1890), ויפן מיד ל"עמק השושנים", הוא "ואדי איל חנון".
+
+ בואדי-איל-חנון.בא בברית הנשואין עם פנינה בתו של ראובן לרר, גבורו האגדי. (ראה כרך א', עמוד 262). ויהי ברוך-משה מהלך ברגל מדי יום ביומו מעמק-השושנים שלו לראשון-לציון הפרוזאית למצא בה עבודה ביקבי הבארון-רוטשילד - לפרנסת בני ביתו. אף גם למד מחותנו את מקצוע הכורנות, וירכוש לעצמו משק כורות-דבורים, ויהי רודה דבש. ובמרוצת הזמן התמחה גם בפרדסנות, ובעיקר באריזת פרי-הדר.
+
+ במשך 28 שנה היה גבאי בבית-הכנסת בנס-ציונה ובגחש"א.
+
+ ימי חייו- מעטים, קשים ורעים היו. חיי עבודת-פרך, יזע ועמל שהשקיע בבנינה של נס-ציונה, המושבה שהיתה יקרה עליו.
+
+ נפטר בנס-ציונה, כ"א אייר התש"א (18.5.41).
+
+ צאצאיו:<persName> רחל</persName> אשת <persName>אברהם רבינוביץ</persName> (נטעים),<persName> יהושע</persName> (חקלאי בנס-ציונה),<persName> חיה</persName> אשת <persName>אפרים פלדמן</persName> (נסציונה),<persName>אריה</persName> (נס-ציונה), <persName>שרה</persName> אשת <persName>ניסן זלצמן</persName> (נס-ציונה)<persName>,יצחק</persName> (נס-ציונה), <persName>בת-שבע</persName> אשת <persName>ניסן דורפמן, שו</persName> <persName>למית</persName> אשת <persName>עזרא פורר</persName> (רחובות).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2203 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2203</bibl><bibl>Volume: #5 ,Page: 2204 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2204</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

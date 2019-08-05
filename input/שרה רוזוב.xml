@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1180 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1180</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שרה רוזוב</persName>
+
+</head>
+         <div><p> נולדה <persName>בריאזאסק</persName> , פלך ריאזאן, רוסיה המרכזית, בשנת תרל"ג (1873), לאביה ר'<persName> ישראל אברהם לב</persName> מגדולי סוחרי הנפט ברוסיה, עסקן פעיל בעניני הצבור היהודי, הציונות והחינוך העברי; ממיסדי תל-אביב ועסקניה הפעילים) ולאמה <persName>פייגה רחל </persName> בת <persName>חיים הכהן קפלן</persName> בסקאפין. קיבלה חינוך עברי לאומי וחינוך כללי בגימנסיה רוסית.
+
+ בתרנ"ז נישאה <persName>לישראל רוזוב</persName> , שהיה כבר אז מגדולי המסחר בנפט ומראשי הפעילים בתנועת "חיבת ציון". גרו כמה שנים בצאריצין (היא סטאלינגראד) ובאסטראחאן, ובכל המקומות היה ביתם מרכז לפעילות יהודית וציונית, ומתרס"ה ואילך בעיר-הבירה פטרבורג. כאן עסק בעלה בניהול עסקים גדולים של מסחר ותעשיה, אך התעסקותו העיקרית והחשובה
+
+ לו ביותר היתה בעניני ציונות ותרבות. עברית וביתם היה מגדלור ציוני בלב בירת רוסיה, פתוח לכל הכוחות הצעירים והקשישים, הפעילים בציונות ובכל ענפי התרבות והאמנות היהודית, - והיא היתה עוזרת נאמנה ומצליחה בכל הפעולות של בעלה ובעיקר בניהול הבית, קבלת האורחים הרבים לסוגיהם, עידוד ועזרה ואף עצה והדרכה לפעולותיהם ביחוד התמסרה ליסודו ולהחזקתו של גן-ילדים עברי בפטרבורג. ולעזרה והשתתפות בעריכתו והוצאתו של העתון "ראזסביט", מבשר הציונות ליהודים שקראו רוסית בכל רחבי הממלכה. תרגמה לרוסית את ספר הפיליטונים של הרצל, התרגום אמנותי ראוי למחבר וליצירתו. 
+
+ בתרע"ט עלתה ארצה עם בעלה והמשפחה והודות לידיעתה בשפה העברית, שהחלה ללמוד עוד בפטרבורג, יכלה להשתלב במהרה בחיים העבריים המתהוים כאן. ואם כי כאן לא היתה לביתם אותה עמדה מרכזית שהיתה לו בציונות ברוסיה היתה מורגשת השתתפותה בפעילות הציונית ועזרתה לעולים חדשים, וביחוד לתנועה הרביזיוניסטית ומפעליה.
+
+ נפטרה בתל-אביב, חי כסלו תש"ה, ולבקשת בעלה שר קהל המלוים את "התקלה" ליד קברה הפתוח.
+
+ (ראה את הערך של בעלה <persName>ישראל בנימין רוזוב,</persName> בכרך ב', עמוד 896).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1180 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1180</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

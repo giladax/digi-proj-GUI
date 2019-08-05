@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3085 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3085</bibl><bibl>Volume: #8 ,Page: 3086 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3086</bibl>
+<bibl>Volume: #8 ,Page: 3087 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3087</bibl>
+<bibl>Volume: #8 ,Page: 3088 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3088</bibl>
+<bibl>Volume: #8 ,Page: 3089 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3089</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' בנימין מזר (מייזלר)</persName>
+
+</head>
+         <div><p> נולד ה' תמוז תרס"ו (28.6.1906) בגרודנה שברוסיה.
+
+ לאביו<persName> חיים מייזלר</persName> (בעל בית-דפוס ובית-חרושת לקופסאות) ולאמו <persName>רבקה</persName> בת <persName>משה גליקסון.</persName>
+
+ קיבל חינוך מסורתי בגרודנה, ובזרם הפליטים והמגורשים היהודים מפלכי הספר בראשית מלחמת העולם הראשונה הגיע עם הוריו לקרים. שם התחיל את לימודיו בגימנסיה ואחרי המלחמה המשיך וגמר בברלין. אחר-כך למד גיאוגרפיה והיסטוריה וארכיאולוגיה באוניברסיטאות גיסן וברלין, ובשנת 1928 הוסמך לד"ר לפילוסופיה.
+
+ ב-1929 עלה לארץ והצטרף לחלוצי החקירה המדעית בקדמוניות ישראל. היה מזכיר וחבר ההנהלה וכיום יו"ר החברה העברית לחקירת ארץ-ישראל ועתיקותיה, היה חבר המכון לידיעת ארץ-ישראל בתל-אביב, חבר ועדת השמות של הקהק"ל, לקריאת שמות לישובים חדשים בתיאום ככל האפשר עם השמות ההיסטוריים שנקראו על אותם מקומות או בקרבתם במקרא או בספרות התלמודית.
+
+ נשא לאשה את<persName> דינה</persName> בת <persName>צבי שמשי-שמשלביץ</persName> (ראה כרך ב', עמוד 639), אחותו של נשיא מדינת ישראל מר <persName>יצחק בן-צבי.</persName>
+
+ בשנות 1931-1930 ניהל את החפירות ברמת רחל שליד ירושלים וחשף עתיקות מתקופת מלכות יהודה, ובמשך השנים מאז ניהל חפירות בבית-ירח שליד ים כנרת, בתל-קסילה שמעבר לירקון מצפון לתל-אביב, ובמשך כמה עונות-חפירה עד עתה בבית-שערים. בכל אלה נחשפו קדמוניות רבות בכמותן ובערכן, ובעזרת עבודת המחקר שלו ושל תלמידיו הופץ אור חדש על כמה וכמה פרקים נעלמים בתולדות ישראל והמזרח הקרוב מהתקופות הקדומות ביותר והוארו העינים להבנת נקודות סתומות בספרותנו העתיקה.
+
+ אחרי ששימש שנים אחדות חבר-מחקר באוניברסיטה העברית, נתמנה בה ב-1943 למדריך לגיאוגרפיה היסטורית של ארץ-ישראל ולהיסטוריה ישראלית בתקופת המקרא. ב-1947 הועלה לדרגת מרצה וב-1951 לדרגת פרופסור מן המנין לתולדות עם ישראל בתקופת המקרא. באותה שנה הוזמן למשך שנה להיות מרצה-אורח באוניברסיטת שיקאגו על תולדות התרבות העברית הקדומה והחקירות הארכיאולוגיות בארץ-ישראל, והוענקו לו תוארי דוקטור-כבוד בשני בתי-אולפנה גבוהים למדעי היהדות באמריקה. ב-1953 נבחר לרקטור האוניברסיטה וראש לעבודת ההוראה והמחקר המתנהלת בה, וגם לנשיאה ולמנהלה העליון בעניני כספים ואדמיניסטרציה, והנו ממלא בכושר ובהצלחה את שני התפקידים, שכל אחד מהם דורש לעצמו אדם שלם.
+
+ פעיל גם כיו"ר המכון לחקר היהדות ומראשי הפעילים בחברה לחקר התנ"ך.
+
+ עורך המדורות גיאוגרפיה וטופוגרפיה היסטורית ואישים באנציקלופדיה המקראית ומדור המזרח הקדמון באנציקלופדיה העברית הכללית. בהרצאותיו באוניברסיטה ובאגודות המדעיות שהוא פעיל בהן הנו מפיח רוח-חיים באבנים היבשות ובחרסים העתיקים, בהסברה בהירה ומרתקת, וכן גם בהסברותיו שבכתב.
+
+
+ פרסם מאמרים ומחקרים לרוב בקבצים ובכתבי-עת מדעיים בעברית ובלועזית, ואת הספרים דלהלן: חקירות בדברי ימי סוריה וארץ-ישראל בימי קדם (בגרמנית, 1930), השמות הגיאוגרפיים של הישובים בארץ-ישראל (1932), תולדות המחקר הארכיאולוגי בארץ-ישראל (1936), ובאחרונה את הכרך הראשון של ספרו הקלאסי "תולדות ארץ-ישראל" (בתקופת המקרא).
+
+ בכהונתו כנשיא האוניברסיטה השקיע הרבה מרץ וכושר מעשי בגיוס האמצעים ובהדרכה בביצוע של בנין "קרית האוניברסיטה" החדשה במערבה של ירושלים.
+
+ בנו: <persName>אורי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3085 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3085</bibl><bibl>Volume: #8 ,Page: 3086 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3086</bibl>
+<bibl>Volume: #8 ,Page: 3087 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3087</bibl>
+<bibl>Volume: #8 ,Page: 3088 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3088</bibl>
+<bibl>Volume: #8 ,Page: 3089 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3089</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

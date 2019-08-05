@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3384 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3384</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל בן-דוד (דוידוב)</persName>
+
+</head>
+         <div><p> נולד י''ד אדר ב' תרמ"ד (1884) בסופיה בירת בולגריה.
+
+ לאביו <persName>דוד </persName> (ממשפחת מגורשי ספרד, מושרשת מדורי דורות בבולגריה) ולאמו <persName>מזל.</persName>
+
+ למד בבית-הספר של חברת כי"ח (אליאנס), בגימנסיה ממשלתית ובאקדמיה לאמנות בסופיה, בה היה תלמידו של פרופ' <persName>ב. שץ,</persName> שיעד לו להיות מורה לשטיחים ורשם דוגמאות להכשרת מדריכות למלאכת שטיחים בעבודה
+
+ ביתית בכפרים. אך כשהחליט פרופ <persName>שץ</persName> ליסד את ביתהספר "בצלאל" בירושלים, בחר לו עשרה מתלמידיו היהודים לקחתם אתו ולהכשירם להוראה ולהדרכה ב"בצלאל", ואחד מהם היה <persName>שמואל בן-דוד.</persName>
+
+ עלה לארץ עם פרופ' <persName>שץ</persName> בסוף 1905. ארגן ב"בצלאל" את המחלקה לשטיחים ולדוגמאות ולימד בה עד 1909 ואח"כ היה מורה לפרספקטיבה ולמלאכת עיטורים. נבחר ב-1907 לראש הועד הראשון של התלמידים והעובדים ב"בצלאל".
+
+ ב-1907 נשא לאשה את <persName>יהודית </persName> בת<persName> נחמן קיפר</persName> מרוסיה.
+
+ בשנים 1913-1912 השתלם באקדמיה ז'וליאן בפאריס. חזר והמשיך להורות ב"בצלאל",וגם כאן הוסיף להשתלם בציור אצל <persName>א. מ. ליליאן, הירשנברג</persName> ואחרים, ולימד ציור בגימנסיה העברית בירושלים. משנסגר "בצלאל" במלחמת העולם הראשונה, לימד ציור בבית המדרש למורים ובבית-הספר לבנים בירושלים.
+
+ ביחד עם<persName> יעקב שטארק </persName> מלבוב (אחד מהתלמידים, שפרופ' <persName>שץ </persName> הועיד אותו למורה, אך מת בראשית מלחמת העולם) פיתח את האות העברית כיסוד עיטורי.
+
+ יצר הרבה אילוסטרציות ועיטורים לספרים וליצירות ספרותיות (מגילת אסתר, הגדה של פסח, "מתי מדבר", וכן צייר הרבה טפוסים יהודיים, מראות נוף וכו'.
+
+ היה ממיסדי אגודת האמנים ויו"ר שלה בראשית שנות העשרים.
+
+ היופי שבאמנות השתקף גם בנפשו ובהליכותיו עם חבריו ותלמידיו ועם הבריות בכלל.
+
+ נפטר בירושלים, כ"ג כסלו תרפ"ח (19.12.1927).
+
+ צאצאיו: <persName>בצלאל</persName> (רופא וטרינרי בעפולה), <persName>יובל</persName> ז"ל (חבר קבוצת גבע, נפל בקרב במלחמת השחרור), <persName>אורה</persName> (מורה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3384 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3384</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 224 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/224</bibl><bibl>Volume: #1 ,Page: 225 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/225</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק אשולין</persName>
+
+</head>
+         <div><p> נולד בנתיפה (מארוקו) בשנת תקצ"ז (1837) לאביו ר'<persName> חיים</persName> ז"ל. נתחנך בלימודי התורה בעיר מאראקש ולמד גם שחיטה. בשנת תרי"ב (1852) עלה ארצה
+
+ יחד עם הר' יעקב <persName>שמחון</persName> ז"ל והר' לוי <persName>הכהן</persName> ז"ל ומשפחותיהם. ר' לוי הכהן היה חותנו, אבי אשתו היה (עישה), ובעל תלמוד-תורה הראשון ביפו. הם עלו ארצה מתוך רגשי חיבת ציון שפעמה בלבות היהודים במארוקו, בלא כל תעמולה, אלא אך ורק מתוך קיום המשיכה הנפשית הטבעית של יהודים לחזור לארצם. הם ויתר העולים ממארוקו חיזקו את היסוד של הישוב העברי ביפו, נשאו באהבה את
+
+
+ יסורי ההתנחלות ובזה הקימו בסיס להתחזקות עדה יהודית בעיר הנמל, שער ציון.
+
+ ר' יצחק היה משגיח בחצר הגדולה "דיר אליהוד" (בית-העולים הראשון) שקנה ישעיה <persName>אג'ימן</persName> ז"ל בשנת תק"פ (1820) והקדיש אותה למטרה זו ובמשך שנים רבות היה זה המרכז הישובי היחיד ליהודים ביפו. לאחר זמן נתמנה לשוחט מטעם העדה ושימש במשרה זו במשך 45 שנה והיה גם חבר הרבנות בעדה הספרדית בנשיאותו של הרב <persName>יוסף בן-נון</persName> ז"ל, ואחריו בנשיאותו של הרב<persName> חזקיה שבתי </persName> וגם בימי הרה"ג <persName>נפתלי הירץ הלוי </persName> ז"ל. כן השתתף עם הר' <persName>אליהו מני</persName> ז"ל ועם הר' <persName>שלמה חזן</persName> ז"ל והר' <persName>יוסף</persName> <persName>אלמליח </persName> ז"ל והר' <persName>לוי הכהן </persName> ז"ל ביסוד חברה ללימוד הזוהר והקבלה, והתמיד בעבודת הקודש עד יומו האחרון.
+
+ בשנת תרמ"א ניסו אנשי מחלוקת לפסול את שחיטתו, אך כל נכבדי העדה וזקניה נתנו לו תעודה בחתימתם, שהוא הולך בדרכי ה' ומתנהג בחסידות ובענוה, ואש המחלוקת שככה.
+
+ העדה הדלה לא נתנה שכר ביד רחבה למשרתים בקודש ור' יצחק חי בדחקות. למרות זה היה שמח ומאושר על שזכה לעבוד את ה' ולשרת עם קודש על אדמת הקודש. הכל חיבבוהו והוקירוהו, יהודים כלא-יהודים, בשל מדותיו התרומיות, כי היה ישרדרך ונוח לבריות וענוותן בהליכותיו. היה אוהב שלום ורודף שלוב ועושה טוב וחסד למעלה מיכלתו ואת העולים החדשים שפנו אליו היה מדריך בעצה טובה.
+
+ בשנת ה-75 לחייו, כשנפל למשכב והרגיש כי לא יקום עוד, הבין את עצמו לדרך האחרונה. רבים מתושבי העיר, וביניהם רבנים ונכבדים, באו לבקרו, ואז, לפנות ערב, ביקש מחילה מכל הנאספים בבית, דרש מים ונטל את ידיו ובירך את בני הבית כל אחד בשמו. אחר-כך אמר, שהכהנים שבבית יואילו-נא לצאת, "כי בא זמן הסתלקות נשמתי ולהשיב את הפקדון לאל חי". הנאספים לא נענו לבקשתו ואמרו שיזכה לרפואה שלמה ולאריכות ימים, אך הוא לא שם לב לדבריהם, אלא התחיל בקריאת שמע וכל הנאספים ענו אחריו, וכשגמר עצם את עיניו ונרדם בלי צער. הנוכחים אמרו למהר ולקברו עד הערב לבל ילינו אותו למחר. השמועה הגיעה לאזני הרב <persName>אברהם יצחק הכהן קוק </persName> זצ"ל והוא בא אל הבית וציוה להשהות את הנפטר עד מחר כדי שכל העדה תוכל לחלוק לו את הכבוד האחרון, וכן היה.
+
+ הוא נפטר ביום י"ח ניסן תרע"ב ונקבר למחרתו בבית-העלמין הישן של יפו.
+
+ בנו הוא העסקן משה אשולין.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 224 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/224</bibl><bibl>Volume: #1 ,Page: 225 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/225</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4304 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4304</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר טמיר (טורק)</persName>
+
+</head>
+         <div><p> נולד בעיירה טיקטין ליד ביאליסטוק (פולין) כ"ד תשרי תרע"א (27.10.1910).
+
+ לאביו <persName>אברהם טורק </persName> ולאמו <persName>שרה </persName> בת <persName>יצחק ריסלנד.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ נשלח יחד עם קבוצת תלמידים מאורגנת ע"י "תרבות" בפולין להשתלם בביה"ס "מקוה ישראל" בא"י.
+
+ ביום 22 לאפריל 1926 עלה לארץ.
+
+ המשיך ללמוד בביה"ס החקלאי "מקוה ישראל" והמשיך ללמוד באינסטיטוט החקלאי של האוניברסיטה בננסי (צרפת) וקיבל תואר - אגרונום.
+
+ עבד בתור אגרונום בהנהלת נטיעת פרדסים.
+
+ ממיסדי "חברת נטר" - לקבלנות חקלאית - ומנהלה הראשון (הוקמה ע"י התאחדות בוגרי "מקוה ישראל").
+
+ היה שליח הלשכה הראשית של הקרן הקיימת לצרפת ומרוקו בשנים 1933-34.
+
+ בשנת 1937 נשא לאשה את<persName> קלרה</persName> בת<persName> דוד וילמובסקי.</persName>
+
+ מרצה בידיעת הארץ ובעיות פיתוח מטעם מרכז ההסברה ונואם באסיפות פומביות ברחבי המדינה.
+
+ מנהל מחלקת ההסברה של המגבית המאוחדת בישראל.
+
+ כל השנים היה חבר בהגנה.
+
+ צאצאיו: <persName>עדנה</persName> אשת המהנדס<persName> גדעון הוכדורף, דוד</persName> <persName>טמיר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4304 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4304</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

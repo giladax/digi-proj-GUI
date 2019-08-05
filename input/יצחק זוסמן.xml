@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3724 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3724</bibl><bibl>Volume: #11 ,Page: 3725 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3725</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק זוסמן</persName>
+
+</head>
+         <div><p> נולד בעיירה פאוליץ, פלך קיוב (רוסיה), בשנת תרי"ג (1853).
+
+ לאביו<persName> דב </persName> ולאמו <persName>שרה</persName> .
+
+ קיבל חינוך מסורתי בחדר ובישיבות.
+
+ בעל נגריה בעירו.
+
+ והיה תלמיד חכם, חובב ציון - מהראשונים. נשא לאשה את<persName> מרים </persName> בת <persName>ראובן קרצמסקי.</persName> עלה לארץ עם משפחתו בשנת 1905.
+
+ התארחו בבית הבילו"יי <persName>מנשה מאירוביץ</persName> (ראה כרך ב', עמוד 823).
+
+ עבד עם בניו במקצועו ביקב, והיה מהראשונים שקנה 75 דונם אדמה ביסוד המושבה באר-יעקב.
+
+ נטע כרמים : שקדים וגפנים ואח"כ נטע פרדס. היה מפעילי ומגיני המושבה.
+
+ נפטר בבאר יעקב, כ"ב טבת תש"י (11.1.1950) 
+
+ צאצאיו:<persName> דב, יוסף </persName> (ראה בכרך זה), <persName>שלמה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3724 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3724</bibl><bibl>Volume: #11 ,Page: 3725 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3725</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1229 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1229</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים יוסף תלמי (ולוקה)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>שרפץ</placeName> (בפי היהודים: שעפס), מחוז פלוצק, פולין, א' תשרי תרס"ו (1905), לאביו <persName>אברהם</persName> בן ר' <persName>אפרים יוסף ולוקה</persName> (שהיה גדול בתורה, מחבר ספרים ומחליף מכתבים בדברי תורה עם גאוני דורו) ולאמו <persName>מינדל</persName> לבית<persName> בורשטין</persName> . למד בחדרים, ב"חדר מתוקן"
+
+ בשיטת "עברית בעברית" וש''ס ופוסקים מפי טובי המלמדים. היה פעיל בתנועה הציונית ולמען התרבות העברית, הורה את לימודי היהדות בביה"ס העממי הממשלתי ליהודים והשתתף בעתון "הד הנוער" שיצא בוארשה.
+
+ עלה ארצה בתרפ"ה ונכנס לקבוצת "על המשמר'' בפתח תקוה ואח"כ עבד בפרדסי<persName> י. ל. גולדברג</persName> ברמת גן.
+
+ בשעות הפנאי עסק בעבודה ספרותית. פרסם שירים, מאמרים ורשימות בחתימות שונות (חוץ משמו הספרותי המקוצר <persName>אפרים תלמי</persName> ) בעתוני הארץ וב"הדואר" הניו-יורקי, ותרגם כמה ספרים מפולניה ומאנגלית.
+
+ במשך למעלה מעשר שנים (48 -1936) היה חבר מערכת "במחנה" העתון במחתרת של "ההגנה" בתלאביב. 
+
+ ב-1939 עבד במזכירות הארצית של "כופר הישוב". ב-1940 עבר לעבודה בעירית תל אביב, באותה שנה הוזמן לעבוד במפקדת "המשמר האזרחי", ומ-1944 ואילך חבר מערכת "דבר".
+
+ בתש"א יצא ספר שיריו הראשון "ברושים בליל" בהוצאת "מצפה" ת"א, בתש"ג (ובמהדורה שניה בתש"ה) יצאה בהוצאת "חברים" הפואימה שלו "אפרים איש חולדה" על <persName>אפרים צ'יז'יק </persName> גבור חולדה.
+
+ חבר באגודת הסופרים ובהתאגדות העתונאים. בניו: <persName>מנחם </persName> (מהמשמרת הצעירה של הסופרים), <persName>דורון</persName> .
+
+</p>
+<p>
+
+ תוספות: 
+
+ (ראה את הערך שלו בכרך שלישי, עמוד 1229)
+
+ משנת 1956 עורך "דבר לילדים".
+
+ משנת 1967 סגן יו"ר אגודת העתונאים בתלאביב.
+
+ מראשוני "החברה להגנת הטבע" ומפעיליה. ספריו: <persName>"ברושים בליל שירים</persName> " (הוצאת "מצפה" 1941); <persName>"אפרים איש חולדה</persName> " ("הוצאת חברים", 1943, 2 מהדורות); <persName>שדות ירוקים</persName> " שירי ילדים (הוצאת "טברסקי", 1953); <persName>"לארצי</persName> " שירים (הוצאת "דבר", 1955); <persName>"טיול של חפש"</persName> , שירי ילדים (הוצאת "מסדה", 1962).
+
+ ילקוטי מלחמת העצמאות: <persName>"בעמדה הקדמית",</persName> (2 מהדורות), <persName>"במצור ובקרב", "בקן האש"</persName> , (הוצאת "ניומן", 1948), "<persName>עט ושלח</persName> " (הוצאת "ניומן" 1949).
+
+<persName>"מן המערכה</persName> " (הוצאת "מועצת המורים", 1949); <persName>"התגוננות ומלחמה"</persName> (הוצאת "מחלת הנוער והחלוץ" של ההסתדרות הציונית, 1949); <persName>"ישראל במערכה"</persName> (הוצאת "עמיחי", 1952, 3 מהדורות); <persName>"מבחר סיפורי</persName> <persName>ים"</persName> (הוצאת "החבל הימי לישראל", 1952, בשיתוף עם י. פרישמן); <persName>"אגודות-סתר</persName> " מאת ד. י. פיק (עם תרגום<persName> ח. אהרוני</persName> , 1947); <persName>"ספר הנגב"</persName> (הוצאת "עמיחי", 1954); <persName>"ספר הגליל</persName> ", (באותה הוצאה, 1955); <persName>"ספר ירושלים"</persName> (באותה הוצאה. 1956, 3 מהדורות), 3 הספרים האחרונים - יחד עם בנו מנחם תלמי); <persName>"מדן עד אילת</persName> " (הוצאת "עמיחי", זכה בפרס סוקולוב לעתונאות, 1954); <persName>"גלויות מן</persName> <persName>המולדת</persName> " (זכה באותו פרס בשנת 1959); <persName>"נופי</persName> <persName>מולדת</persName> " (זכה באותו פרס בשנת 1961); <persName>"פינות במו</persName> <persName>לדת"</persName> (זכה באותו פרס בשנת 1967); <persName>"כל הארץ",</persName> לכסיקון גיאוגרפי של ישראל (בשיתוף עם בנו <persName>מנחם,</persName> הוצאת "עמית" ב-1962, 9 מהדורות); <persName>"ישראל,</persName> <persName>דרכים וישובים"</persName> מדריך חדש (הוצאת "יזרעאל", 1960, 3 מהדורות, גם מהדורה אנגלית); "<persName>ירושלים</persName> <persName>והגדה המערבית</persName> ", מדריך (יחד עם בנו), (הוצאת "אותפז", 1967, 3 מהדורות); <persName>"שלושים שנות הגנה</persName> <persName>בתל-אביב"</persName> (ערך בשיתוף עם חברים, הוצאת "קרן ההגנה", ע"ש<persName> ישראל שחורי</persName> , 1956).
+
+<persName>אלבומים: </persName> "טכסטים לתצלומי ב. כרמי" (אלבום "כנרת", הוצאת "יבנה", 1965); אלבום "הירדן" (הוצאת "יבנה", 1966); "העמק יזרעאל" (הוצאת
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1229 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1229</bibl>            <bibl>Volume: #18 ,Page: 5483 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5483</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

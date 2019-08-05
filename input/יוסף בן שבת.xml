@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 628 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/628</bibl><bibl>Volume: #2 ,Page: 629 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/629</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף בן-שבת</persName>
+
+</head>
+         <div><p> נולד בעיר סאפי, מארוקו, כ"ו אד- ב' תרמ"ג (1883), בנו בכורו של הרב <persName>אברהם</persName> , סוחר, ראש העדה
+
+
+ ומקורבו של השולטן, ממשפחה עתיקה של רבנים, מקובלים ועסקני צבור במארוקו. (נקרא<persName> יוסף</persName> על שם אחד מקדמוני המשפחה ר<persName>' יוסף</persName> בן <persName>יעקב בן-שבת</persName> , שנשרף על קידוש השם לפני מאות שנים באופראן שבמארוקו). למד בתלמוד-תורה ובישיבת "אור תורה" בסאפי.
+
+ בתרנ"ג עלה ארצה עם הוריו והתישבו בחיפה, וכאן למד בבית-הספר של "כל ישראל חברים".
+
+ שנים אחדות עסק במסחר. היה חבר בסניף חיפה של "המכבים הקדמונים". בתרע"א נתקבל לגזבר בבנק אפ"ק בחיפה ואח"כ פתח סניף לבנק זה בטבריה.
+
+ נשא לאשה את ויקטוריה בת הרב משה כלפון.
+
+ אחרי מלחמת העולם הראשונה הוזמן לנהל חברה מסחרית יהודית בקאהיר, שבראשה עמדו <persName>יוסף</persName> <persName>קטאווי פחה</persName> והאחים<persName> מוצרי</persName> ובאותו הזמן היה כשנה עורך העתון "ישראל" שהוציא<persName> אלברט מוצרי </persName> בקאהיר.
+
+ חזר ארצה והמשיך לעסוק במסחר ובעניני צבור. פרסם מאמרים בעניני מסחר וכלכלה ב"החרות"
+
+ וב"דאר היום". היה חבר בלשכת הבונים החפשים "ראובן", ובשנים האחרונות היה חבר בית-הדין לעניני דירות מטעם עירית חיפה.
+
+ נפטר בחיפה, א' תמוז תש"ד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 628 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/628</bibl><bibl>Volume: #2 ,Page: 629 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/629</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

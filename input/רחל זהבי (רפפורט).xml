@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2621 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2621</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רחל זהבי (רפפורט)</persName>
+
+</head>
+         <div><p> נולדה באודסה (רוסיה) בשנת תרמ"ה (1885). לאביה <persName>ראובן רפפורט</persName> (סוחר) ולאמה <persName>שרה רבקה</persName> בת <persName>שלמה אליעזר ליברמן.</persName>
+
+ למדה כאקסטרן בחירורגיה באודיסה, ולפני עליתה לארץ למדה תפירה ורקמה.
+
+ היתה חברה פעילה באגודת "חבצלת השרון". עבדה במחיצתם של <persName>ח. נ. ביאליק, י. ח. רבניצקי וד"ר יוסף</persName> <persName>ספיר</persName> בענין הלגליזציה של החדר "בני ציון". הפיצה שקלים וחומר ציוני.
+
+ בביתם נערכו אספות ציוניות - בהשתתפותם של <persName>מ. דיזנגוף, ב. בורוכוב, ז. ז'בוטינסקי</persName> ועוד.
+
+ בכ"ג תמוז תרס"ה (1905) עלתה לארץ. בנמל יפו באו לפגוש אותה החברים: <persName>צבי סוכובולסקי, קרנדל</persName> <persName>וזלמן אוסטשינסקי</persName> .
+
+ הסתדרה בעבודת תפירה וכעבור 6 שבועות נתקבלה בתור מורה לעבודת-יד בבית היתומים של<persName> ישראל</persName> <persName>בלקינד</persName> בשפיה. עברה אח"כ עם ביה"ס לבן-שמן, עד שהמוסד נסגר.
+
+ ב-1908 נישאה ל<persName>ברוך זהבי</persName> (ראה את הערך שלו להלן) ועלתה אתו לבאר-יעקב. בין הראשונים שהתישבו במקום.
+
+ נטעה כרם שקדים ועזרה לבעלה להגדיל את המשק.
+
+ צאצאיה:<persName> עזרא</persName> (פקיד ב"עמיר"-"ביעף" בתל-אביב), <persName>הרצליה</persName> אשת<persName> יוסף פנדריק </persName> (מורה בראשון-לציון), <persName>ראובן</persName> (חקלאי).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2621 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2621</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

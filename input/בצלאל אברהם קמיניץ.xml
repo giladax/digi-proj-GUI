@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 507 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/507</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בצלאל אברהם קמיניץ</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"א שבט תרכ"ז (1867), לאביו <persName>ר' אליעזר ליפמן </persName> בן הרב<persName> מנחם מנדל</persName> (בוים) מקמיניץ
+
+ (מחבר הספר "קורות העתים", שעלה ארצה בשנת תקצ''ג (1833), בעל המלון הראשון בירושלים).
+
+ למד בחדרים ובישיבה. נשא לאשת את <persName>חנה</persName> <persName>גרינה </persName> בת <persName>משה ליב הלוי</persName> מפינסק, שעלתה ארצה בילדותה עם אמה (נפטרה בתל-אביב, ח' טבת תרע"ח).
+
+ עבר ליפו ופתח בית-מלון בשם "קמיניץ יפוחברון", שבמשך הזמן נודע בשם "מלון קמיניץ" והפך למרכז ישובי, אכסניה לעולים, לתיירים ולראשי חובבי ציון ומנהיגיהם מכל הארצות, מקום פגישה מרכזי בינם ובין העסקנים המקומיים, ובמלון זה דנו והחליטו על פעולות ישוביות חשובות. גם ד"ר <persName>הרצל</persName> ובני לויתו התאכסנו במלון זה בעת ביקורם בארץ בתרנ"ט.
+
+ שקד בעזרת רעיתו לשכלל את המלון ואת השרות בו, שהבאים ארצה יקבלו בו רשמים ראשונים טובים בעיר "שער ציון".
+
+ היה מכובד אף על התושבים הלא-יהודים ועמד בקשרים טובים עם עובדי הנמל והפקידות הטורקית
+
+ של הנמל והשלטון בעיר. בקשריו אלה השתמש בתקופת איסור העלית וגזירת "הפתקה האדומה" להעביר את רוע החומרות במקרים רבים, ולאפשר כניסה לארץ בעקיפין מאחורי גבם של שומרי החוף, ורבים היו העולים "הבלתי חוקיים" שמצאו מחסה ומזון בביתו עד שהסתדרו.
+
+ היה פעיל גם בעניני הצבור בקהילת יפו.
+
+ מהחברים הפעילים של אגודת "אחוה," ביפו.
+
+ נפטר כ"ב אדר תרע"ה ונקבר בבית-הקברות הישן בתל-אביב.
+
+ צאצאיו: <persName>חיים, לאה</persName> אשת <persName>אלברט אסא, צפורה</persName> אשת <persName>אליעזר מרדכי פרידמן</persName> (מחלוצי תעשית היין בפ"ת), <persName>דוד ששון, יוסף מנשה</persName> (נוטריון ומזכיר ביתהדין המחוזי ביפו),<persName> יעקב מנחם, מרים</persName> אשת <persName>אברהם</persName> <persName>רבינוביץ, יצחק.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 507 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/507</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

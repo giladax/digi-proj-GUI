@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 772 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/772</bibl><bibl>Volume: #2 ,Page: 773 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/773</bibl>
+<bibl>Volume: #2 ,Page: 774 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/774</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רוחמה ויסמן</persName>
+
+</head>
+         <div><p> נולדה במינסק (רוסיה הלבנה) ביום י' חשון תרמ"ז (1886), לאביה <persName>יהושע-דב בנינסון</persName> (מראשוני חובבי ציון, ביתו שימש מרכז לתנועת חבת ציון בכל פלך מינסק) ולאמו <persName>יהודית</persName> (בת ראש הישיבה מרדכי לוין המכונה "רבי מוניה"). קיבלה חינוך מסורתי ולאומי וספגה בבית הוריה אהבה עזה לעם ולארץ.
+
+ בת עשר (בתרנ"ז) באה לארץ עם אמה, אחותה
+
+
+ בילה ואחיה עמנואל, שנסע ללמוד במקוה-ישראל בעקבות אחיו חיים-יצחק. נשארה בגדרה אצל אחותה הבכירה לאה הורביץ ולמדה בבית-הספר מפי המורים יוסף ויתקין ואברהם-בנימין סומם.
+
+ ב-1900 חזרה עם אמה ואחותה למינסק והמשיכה להשתלם בעברית אצל המורה והמדקדק אברהם אברונין (הצטיינה מאד בתנ"ך ובמשנה). למדה גם בגימנסיה הרוסית לבנות במינסק וגמרה אותה בהצטיינות.
+
+ ניצלה בנס בשעה שהצבא הרוסי ירה על מפגינים בשנת 1905 והיא נפלה תחת גופות מתים ופצועים.
+
+ עלתה לארץ עם הוריה בתרס"ו והשתקעה בראשון לציון. היתה פעילה בחוגי הנוער. ב-13.10.1913 נישאה ליהודה ויסמן (אחיו של בעל אחותה יעקב ויסמן) והשתקעה יחד אתו במצרים. כל זמן שהותה שם היא מוסיפה לקיים קשרים עם הארץ ומבקרת כאן מדי שנה בשנה. בימי מלחמת העולם הראשונה טיפלה במסירות יחד עם בעלה בפליטים שהגיעו מא"י. במלחמת העולם השניה שימש ביתה באלכסנדריה אכסניה לחיילים העבריים שעברו שם וביחוד למלחי הצי. פועלת יחד עם אשת בן אחותה פנינה הורביץ לבית ליבונטין בשביל הקרנות הלאומיות ואחת העסקניות המרכזיות בוויצ"ו.
+
+ בנה <persName>רענן</persName> ובתה <persName>זיוה</persName> שירתו במלחמה האחרונה בצבא הברית (הבן חיסל עסקיו והתנדב לבריגדה והבת שלמדה באוניברסיטה בירושלים הפסיקה למודיה והתגייסה לא.ט.ס.).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 772 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/772</bibl><bibl>Volume: #2 ,Page: 773 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/773</bibl>
+<bibl>Volume: #2 ,Page: 774 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/774</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

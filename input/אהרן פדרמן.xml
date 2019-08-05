@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2342 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2342</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן פדרמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פינסק</placeName> (רוסיה הלבנה), ד' תמוז תרל"ו (1876).
+
+ לאביו ר' <persName>אברהם</persName> (סופר סתם, ראה כרך א' עמוד 465) ולאמו<persName> מרים</persName> בת <persName>יונה ספקטור </persName> (ממשפחת הרב הגאון ר' יצחק אלחנן ספקטור, רבה של קובנה).
+
+ בן 9 חדשים היה כשהוריו עלו לארץ והשתקעו בירושלים.
+
+ קיבל חינוך מסורתי בתלמוד תורה, בישיבת "עץ חיים", ובגיל 18 החל בעבודה.
+
+ היה פעיל בעבודה צבורית.
+
+ בשנת תרנ''ג נשא לאשה את<persName> חנה רייזיל</persName> בת ר'<persName> יהושע</persName> <persName>קוסבסקי </persName> מוולקוביסק (נפטרה בתל-אביב כ"ח אדר תש"ט - 29.3.49), אחת הנשים הצדקניות בעיר. הגישה עזרה לנצרכים רבים בסתר והפכה את ביתה להכנסת אורחים ממש.
+
+ בשנת תרע"ב עבר מירושלים ליפו.
+
+ בפרוץ מלחמת העולם הראשונה עזב את הארץ ונסע למצרים ומשם לארגנטינה. חזר אחר הכיבוש.
+
+ בשנת ת"ש נבחר לגבאי בית-הכנסת "בית-אל" ברחוב
+
+ פרישמן בת"א והשתתף בהקמת הבנין.
+
+ פעיל במוסדות חרדים וצדקה שונים.
+
+ צאצאיו:<persName> משה מיכאל, לאה </persName> אשת <persName>יהודה חצרוני.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בת"א, כ"ג אדר ב' תשי"ט (2.4.59) (ראה כרך ה', עמוד 2342)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2342 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2342</bibl>            <bibl>Volume: #10 ,Page: 3646 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3646</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

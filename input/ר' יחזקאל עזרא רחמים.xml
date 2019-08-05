@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4045 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4045</bibl><bibl>Volume: #12 ,Page: 4046 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4046</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ר' יחזקאל-עזרא רחמים</persName>
+
+</head>
+         <div><p> לאביו <persName>רחמים</persName> בן <persName>שלמה דוד בן יעקב.</persName>
+
+ נולד ב<placeName>בגדאד</placeName> א' דר''ח אייר תרל"ו (1876).
+
+ התחנך בבית המדרש "בית זלכה". עוד בגיל צעיר התפרסם כ"עלוי" והצטיין בחריפות שכלו ובזכרונו היוצא מגדר הרגיל. מנעוריו גילה בקיאות גדולה בספרות הפוסקים ונכנס במשא ובמתן של הלכה עם גדולי הדור, ובכללם עם הרב <persName>יוסף חיים</persName> ב''ר <persName>אליהו</persName> בן הרמ"ח, הרב <persName>חיים חזקיהו מדיני</persName> , ר' <persName>יצחק פלאג'י</persName> ואחרים.
+
+
+ חידושי תורה רבים ממנו נתפרסמו ב"המאסף" הירושלמי משנים תרנ"ו-תרס"ד.
+
+ באייר תרס"ד עלה לארץ ישראל ויחד עם אשתו השתקע בירושלים. נתקבל בכבוד גדול ולמרות גילו הרך השכימו והעריבו לפתחו מגדולי הרבנים ונמלכו אתו <persName>בעניני</persName> הלכה.
+
+ נפטר בירושלים בא' אדר א' תרס"ח (3.2.1908).
+
+ הניח אחריו כמה חיבורים בהלכה בכ"י ואחרי פטירתו הגיעו לידי זרים, חוץ מכרך אחד שקרוביו פרסמו בשם "עצי היער" (ר"ת: הרב יחזקאל עזרא רחמים) - ליקוטים ופסקי דינים מספרי ראשונים ואחרונים על אורח חיים, בגדאד תרע"א.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4045 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4045</bibl><bibl>Volume: #12 ,Page: 4046 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4046</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

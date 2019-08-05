@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2586 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2586</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמעון קירזנר</persName>
+
+</head>
+         <div><p> נולד בכ"ה בניסן תרנ"ח (1898) בראשון לציון. לאביו <persName>קדיש</persName> ולאמו <persName>רחל</persName> בת <persName>יצחק רוזנפלד.</persName>
+
+ למד בבית-הספר העממי במושבה ומגיל 13 ואילך עבד ליד אביו ואחיו בבנאות והשתתף בבנית בתים במושבה ובתי המושב הסמוך נחלת יהודה. בראשית
+
+ מלחמת העולם ב-1914 גורש עם כל המשפחה מצרימה בגלל נתינותם הרוסית. באלכסנדריה התנדב, יחד עם אחיו <persName>יעקבי </persName> ל"גדוד נהגי הפרדות" מיסודו של<persName> טרופלדור</persName> ובפיקודו. נפצע בחזית גאליפולי ואחרי שהתרפא בביתחולים צבאי במאלטה נשלח בתור חייל לאנגליה ומשם בגדוד תותחנים בחזית סואסון בצרפת. נפצע גם שם ונשלח לבית-חולים באנגליה ואחרי שהבריא שוחרר ונשלח ב-1919 הביתה לראשון לציון.
+
+ נשא לאשה את <persName>יפה</persName> בת <persName>יהודה ליב בוכמן</persName> ונכדת<persName> חיים</persName> <persName>בקר</persName> , מוכתר יפו (ראה עליו כרך א', עמוד 361).
+
+ משחזר הביתה נתקבל לעבודה בתור שומר ביקב ראשון לציון וב-1922 חזר לעבודה במקצועו בתור בנאי. משפרצו מהומות תרצ"ו שירת שנה בתור נוטר בראשון לציון, לפי צו המוסדות הלאומיים. ב-1937 הועבר לשרות נוטרות בנמל תל-אביב, ומשפרצה מלחמת-העולם השניה נתקבל לעבודה במחנה הצבא הבריטי בסרפנד והמשיך שם עד צאת הבריטים מהארץ לרגל יסוד מדינת ישראל באביב 1948. במלחמת העצמאות המשיך בשרותו ב"משמר העם" בשמירה על מחסומים.
+
+ צאצאיו: <persName>אסתר</persName> אשת<persName> מרדכי נוסוביץ </persName> (במשטרת ישראל), <persName>חיה</persName> אשת <persName>אברהם פרלמוטר</persName> (נגר בראשון לציון,) <persName>חיים</persName> (נפל בקרבות בנגב),<persName> יוסף.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2586 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2586</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

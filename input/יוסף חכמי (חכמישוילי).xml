@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 87 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/87</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף חכמי (חכמישוילי)</persName>
+
+</head>
+         <div><p> נולד בירושלים, בראשית שנת תרמ"ז, (2.10.1886), לאביו<persName> יעקב</persName> ולאמו<persName> לאה </persName> בת<persName> יוסף גורל</persName> (בני משפחתו לקחו חלק ניכר בגאולת קרקעות לבנין שכונות בירושלים).
+
+ למד בחדר, בבית-המדרש "דורש ציון" ובביה"ס של חברת כל ישראל חברים בירושלים, ובשנת תרס"ח למד בחוץ לארץ מדעי מסחר ובנקאות וחזר ארצה.
+
+ בתרע''ב נשא לאשה את<persName> ונציה</persName> בת<persName> שמואל בכר</persName> מירושלים (אחיה<persName> יהושע בכר</persName> הוא פקיד ראשי במחלקת העליה של הסוכנות היהודית).
+
+ משנת תר''ע עד תרע"ה עמד בראש מחלקה ב"דויטשע פלסטינה בנק" בירושלים ומשנת תרע"ה ועד תרע"ח בהנהלת הבנק. בשנות מלחמת העולם הראשונה עזר בסילוק קשיים להעברת כספים ארצה לסיוע ולמוסדות היהודיים.
+
+ אחרי הכיבוש הבריטי וביטול הבנק הגרמני עבר לשרות בבנק האנגלו-מצרי בירושלים, שהפך לברקליס בנק והיה סגן-מנהלו עד תרצ"ה. עזר להתפתחות העיר בסידור הלואות למסחר, לגאולת קרקעות ולבנין שכונות והיה בין ראשוני הבונים בשכונת רוממה. בתרצ"ה נבחר למועצת עירית ירושלים והיה חבר בה עד שנת תרצ"ח.
+
+ בתרצ"ה נתמנה למנהל בנק ברקליס בתל-אביב, הרחיב את פעולות הבנק בעיר ובסביבה ופתח לו סניפים בתל-אביב וברמת-גן ולמרכז הבנק הקים בנין גדול ברחוב אלנבי.
+
+ משנת תרצ"ו עד תרצ"ח היה חבר הועד הפועל של לשכת המסחר ביפו-ת"א.
+
+ בסוף תש"ו (אוקטובר 1946) נתמנה ל"דירקטור מקומי" של הבנק.
+
+ צאצאיו: <persName>אפרים, עליזה</persName> אשת<persName> משה מזרחי, מנשה,</persName> <persName>דוד.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בת"א, י' תמוז תשכ"א (24.6.61) (ראה כרך א', עמוד 87)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 87 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/87</bibl>            <bibl>Volume: #12 ,Page: 4122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4122</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3269 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3269</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק באהר</persName>
+
+</head>
+         <div><p> נולד בצפת, ל' אלול תרמ"ט (1889).
+
+ לאביו ר' <persName>יעקב </persName> (ראה בכרך זה) ולאמו<persName> רבקה שנדל</persName> בת<persName> פיבל איפרמן</persName> . מרוזוביץ (בוקובינה).
+
+ קבל חנוך מסורתי בישיבת הרידב"ז (ראה כרך ג', עמוד 1466) והוסמך לשו"ב.
+
+ בשנת תרס"ז (1907) נשא לאשה את<persName> בת-שבע</persName> בת <persName>שלמה הורביץ</persName> . שו"ב (נפטרה בצפת, ט''ו סיון תש''ה27.5.45) וביזווג שני נשא בשנת תש"ז (1947) לאשה את <persName>מרים</persName> בת <persName>יוסף שמשון וידברג</persName> .
+
+ בשנת 1913 הוזמן לקנדה בתור שוחט, חזן ומוהל. כעבור 8 שנים חזר לצפת ומאז הוא ממשיך לעבוד במקצועו כשו"ב.
+
+ צאצאיו (מאשתו הראשונה): <persName>צפורה</persName> (פייגה) אשת <persName>יעקב קולך </persName> (מעסקני צפת),<persName> חסיה</persName> אשת <persName>מתתיהו גולדמן,</persName> <persName>יוסף, שרה</persName> אשת <persName>ישראל הוכשטיין.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3269 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3269</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2239 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2239</bibl><bibl>Volume: #5 ,Page: 2240 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2240</bibl>
+<bibl>Volume: #5 ,Page: 2241 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2241</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף אוליצקי</persName>
+
+</head>
+         <div><p> נולד ביפו בא' טבת תרע"ט (4.12.1918) לאביו <persName>חיים</persName> ולאמו <persName>מוסיה</persName> בת<persName> ישראל לויצקי</persName> . אחרי גמרו את ביה"ס יצא לעבודה. היה מפעילי הנוער העובד ואח"כ בהבחרות הסוציאליסטית מדריך, חבר הועד ומזכיר הסניף בתלאביב. עבד במועצת פועלי ת"א בשליחות של מפא"י כמזכירו של <persName>לוי אשכול (שקולניק).</persName> יסד וערך את עתונה היומי של המועצה בשם "יומן המועצה" ועורך את ספרה "סקירות ומספרים". משתתף קבוע ב"הפועל הצעיר" ברשימות-הוי ממקומות העבודה ובעיות האיגוד המקצועי. היה ציר בועידה השביעית של מפא"י. זה כמה שנים חבר מערכת "דבר" במדור "טור העבודה והעובד",
+
+ חותם בכינויים <persName>אבנר, יוסף, י. בן-חיים, י. א. </persName> קיבל את הפרס השני לרפורטאז'ה לרגל מחצית היובל של "דבר". עורך ב"קול ישראל" את המדור "מפועל אל פועל".
+
+ נשא לאשה את <persName>לאה בת-חיים (טנץ)</persName> .
+
+ התחיל את שרותו למולדת בתור נוטר בבן-שמן וביערות הכרמל במהומות תרצ"ו-תרצ"ט. אח"כ היה מפקד מחלקה ב"הגנה" ושלישו של סגן-אלוף<persName> ישראל שחורי</persName> ז"ל, מפקד ה"הגנה" בחזית הדרום (תל-אביב - יפו). סופרה הצבאי הראשון של תחנת השידור החשאית "קול ישראל" של מחתרת ה"הגנה" בשעתה. במלחמת השחרור שימש כסופר צבאי בחזיתות ירושלים - לטרון - רמלה
+
+
+ - לוד, לפרסום מיוחד הגיעו כתבותיו על "מבצע נחשון", "איך נכבשה חיפה" (בחתימת<persName> יוסף</persName> ), "כיבוש שדה התעופה לוד" ו"מבצע יפתח לשחרור הגליל''. ספרו "ממאורעות למלחמה" (פרקים בתולדות ההגנה על תלאביב) עם הקדמת שר הבטחון נפוץ בשלש מהדורות ב-13 אלף טפסים. ערך את הספר "בת-ים".
+
+ בנותיו:<persName> ליאורה, נילי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2239 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2239</bibl><bibl>Volume: #5 ,Page: 2240 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2240</bibl>
+<bibl>Volume: #5 ,Page: 2241 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2241</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3877 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3877</bibl><bibl>Volume: #11 ,Page: 3878 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3878</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה מיכאל בז'רנו</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פלובדיב</placeName> (בולגריה), כ"ג טבת תרס''ב (2.1.1902).
+
+ לאביו<persName> מיכאל</persName> ולאמו <persName>יוליה</persName> בת <persName>משה רומנו</persName> (אחת המשפחות הציוניות הותיקות ביותר בבולגריה, שממנה יצאו מספר רב של מנהיגי הציונות הבולגרית במשך שני דורות).
+
+ קיבל חינוך לאומי-ציוני. השתלם בשויצריה.
+
+ האוירה והחינוך הציוני, שהיו מושרשים עמוק במשפחות <persName>רומנו ובז'רנו,</persName> הם שגרמו לכך. כי לאחר שמשפחת <persName>בז'רנו</persName> עברה לגור באיטליה, לא השתרשה שם ומצאה את דרכה לארץ-ישראל.
+
+ בשנת 1938 עלה עם משפחתו לארץ. בה התמסרה המשפחה לפעילות כלכלית מסועפת.
+
+ נשא לאשה את <persName>מלכה (מלי)</persName> בת <persName>שלמה לשקוביץ.</persName>
+
+ יסד יחד עם אחיו - תחילה את בית החרושת לסיגריות "אחים בז'רנו" וקצת מאוחר יותר רכשו את בית החרושת "עסיס" ופיתחוהו לאחד המפעלים הגדולים והיעילים ביותר בענף המזון - בשם "בית חרושת למיצים ושמורים "עסיס" ברמת-גן.
+
+ גישתו המיוחדת לעניני תעשיה וציבור הבטיחו לו מקום חשוב ב"התאחדות בעלי התעשיין בישראל" ובגופים כלכליים אחרים.
+
+ עם קום המדינה מונה תחילה כנספח מסחרי ראשון בשגרירות ישראל במוסקבה ומאוחר יותר - ליועצה הכלכלי בשגרירות זו. בתפקידו זה הניח את היסודות לקשרי מסחר וכלכלה בין ברית המועצות לישראל.
+
+
+ כאשר סיים את שירותו במשרד החוץ חזר להנהלת מפעליו ועם זאת המשיך בעבודתו הכלכלית-ציבורית, פעם כחבר משלחת ממשלתית לסין העממית, פעם כיושב ראש הועד של ''הלשכה המסחרית אנגליה-ישראל" ולאחרונה, כנשיא ה"אגודה ישראל-יאפן.
+
+ סיור ממושך, שערך לפני שנים אחדות במזרח הרחוק שיכנע אותו בכך, כי קיימות אפשרויות לפיתוח קשרי מסחר בין ישראל וארצות המזרח הרחוק, והוא התמסר לפיתוח קשרים אלה.
+
+ נפטר בתל-אביב, כ"ב טבת תשי''ח (14.12.1957).
+
+ בתו: <persName>יהודית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3877 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3877</bibl><bibl>Volume: #11 ,Page: 3878 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3878</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

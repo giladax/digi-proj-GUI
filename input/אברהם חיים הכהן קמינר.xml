@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1911 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1911</bibl><bibl>Volume: #4 ,Page: 1912 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1912</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם חיים הכהן קמינר</persName>
+
+</head>
+         <div><p> נולד ברוזינוי, פלך גרודנה, (רוסיה הלבנה), כ"ד אלול תרי"ח (1858), לאביו <persName>יצחק</persName> ולאמו <persName>לאה</persName> בת <persName>שמואל</persName> .
+
+ למד בחדרים ובישיבות והשתלם בלימוד עצמי בהשכלה כללית.
+
+ בתרמ"ח נשא לאשה את <persName>טויבה</persName> בת <persName>חיים בורודובסקי.</persName> עסק במסחר ונתן יד לכל מפעל לטובת הצבור היהודי ולמען ארץ-ישראל, וכל ימיו שאף להכין לו בסיס קיום בארץ כדי לעלות אליה ולחיות בה. לשם כך הצטרף ל"אגודת האלף" המינסקאית, השתתף בכספו ברכישת אדמת "עין-זיתים" מאת פקידות הבארון בנימין רוטשילד ובהוצאות העיבוד, הכשרת הקרקע והכנת מטעים לפרנסת החברים המתעתדים לעלות לכשיניבו המטעים את פרים. משנכשל הנסיון בעיןזיתים לא התיאש ולאחר זמן הצטרף לאגודה המוסקבאית "שארית ישראל", ושוב השקיע כספים בגאולת הקרקע של "רוחמה" ובמשלוחי כסף בסדר קבוע להוצאות ההכשרה והעיבוד. נסיון זה הוכשל על-ידי מלחמת-עולם א' והתמורות שבאו בעקבותיה ובעקבות
+
+ המהפכה הבולשבית הרוסית בחייהם וביכלתם החמרית של חברי "שארית ישראל" ברוסיה
+
+ אך ר' אברהם חיים לא הרפה ממשאות נפשו ובשנת 1926 עלה לארץ, להגשים את אשר החל בחו"ל.
+
+ נפטר בבני ברק, א' תמוז תר"ץ (27.6.30).
+
+ צאצאיו: <persName>יצחק</persName> (ראה עליו ערך מיוחד בכרך זה), <persName>יהודית</persName> אשת <persName>אביגדור אריאלי,</persName> רבקה אשת <persName>אברהם</persName> <persName>ריקלין, שמואל</persName> . 
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1911 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1911</bibl><bibl>Volume: #4 ,Page: 1912 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1912</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

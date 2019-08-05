@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3975 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3975</bibl><bibl>Volume: #12 ,Page: 3976 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3976</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב מרדכי נורדמן</persName>
+
+</head>
+         <div><p> נולד ה' אדר תרס"ג (1903) בדמבלין שבפולין.
+
+ לאביו <persName>שמואל דב </persName> (דור רביעי לר'<persName> יום-טוב נטע</persName> , מחבר <persName>הספר</persName> "טהור רעיונים" על התורה והש"ס) ולאמו<persName> רבקה</persName> בת<persName> אבא ברונשפיגל</persName> .
+
+ למד בחדר ואח"כ בבית-המדרש בעיירה זבריזיניץ, הוסמך לשו"ב והתכונן לבחינות לסמיכה לרבנות. באותן השנים היה חסיד גור וחבר "צעירי אמוני ישראל" (כך נקרא ארגון הנוער של "שלומי אמוני ישראל" הארגון המדיני החרדי בפולין, שהיה מסונף לאגודת ישראל העולמית, אבל נמנע מהיקרא בשמה). בשנים 1925-1923 למד בסמינר למורי-דת בווארשה והוסמך ללמד דת ישראל בבתי-ספר ממשלתיים. אח"כ למד במכון הגבוה ללימודי היהדות בווארשה והוסמך ללמד בבתיספר תיכונים. לימד בבתי-ספר תיכונים ממלכתיים בפולין בתואר "פרופסור", שניתן שם גם למורים תיכוניים. עסק בפעילות ציבורית ולאומית בתור ציר לועידות ציוניות,
+
+
+ חבר המועצה הארצית של הצה"ר בפולין, חבר ועד בטו"ז, חבר המועצה העירונית באוסטרוג (אוסטראהא - בשמה ההיסטורי היהודי), חבר הנהלת העיר ברובנה (מקומות עבודתו בהוראה).
+
+ ב-1193 נשא לאשה את<persName> שרה</persName> בת<persName> דוד דב זינגרמן</persName> .
+
+ ב-1935 עלה לארץ, עבד בהוראה בקרית חיים, אח''כ ברמת-גן בבית-ספר יסודי ובבית-הספר התיכון הראשון, וכיום הנו מנהל בית-הספר היסודי הממלכתי "עליות" ברמת-גן. היה פעיל במחתרת אצ"ל וחבר המועצה בתנועת הצה"ר וחרות בארץ, והנו חבר ועדת התרבות של עירית רמת-גן, חבר ועד סניף המורים בגוש דן, חבר ועד המועצות הפדגוגיות האזוריות בגוש דן ונבחר למועצות של הסתדרות המורים.
+
+ ניהל ב"המשקיף" מדור קבוע לעניני חינוך ופרסם מאמרים לשאלות הזרמים בחינוך בחתימת י"צ (יעקב צפוני).
+
+ צאצאיו: <persName>אביבה</persName> אשת<persName> גד אופז, ימימה</persName> אשת<persName> אליעזר</persName> <persName>קרן, שמואל דב</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3975 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3975</bibl><bibl>Volume: #12 ,Page: 3976 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3976</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

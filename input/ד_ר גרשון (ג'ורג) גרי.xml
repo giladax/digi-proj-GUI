@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2822 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2822</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר גרשון (ג'ורג) גרי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אלכסנדריה</placeName> שבווהלין (רוסיה) 15.1.1890.
+
+ לאביו <persName>מנחם מנדל</persName> (סוחר) ולאמו<persName> חנה</persName> לבית<persName> שוכמן.</persName>
+
+ בהיותו ילד היגרה המשפחה לארצות-הברית. שם קיבל את השכלתו בגמנסיה ובמכללת בוסטון וגמר רופא-חירוג בשנת 1912.
+
+ בשנות 1912-14 היה רופא בבית החולים היהודי "בית ישראל" בניו-יורק.
+
+ בשנות 1914-17 עבד כרופא פרטי ע"י בוסטון.
+
+ נשא לאשה את<persName> ברטה</persName> בת <persName>דוד קרמר.</persName>
+
+ בשנת 1918 היה מהמתנדבים הראשונים באמריקה שהתגיסו לקול הקריאה לגדוד העברי האמריקאי, ועלה אתו לא"י - למען שחרור הארץ.
+
+ בשנת 1919, עם פירוק הגדודים נתמנה כמנהל המחלקה החירורגית בבית החולים "הדסה" בתל-אביב ואחר כך שימש במשרות דומות בבתי החולים של הדסה; בצפת ובירושלים עד שנת 1927.
+
+ בשנת 1920 היה עם מגיני תל-חי וכפר גלעדי, וטיפל שם בפצועים <persName>וביוסף טרומפלדור</persName> שנפצע פצעי מות וניתח אותו לפני מותו, את צוואתו בעל פה מסר לו טרומפלדור: "טוב למות בעד ארצנו" (ראה כרך ד', עמוד 1588).
+
+ השתתף בהגנת ירושלים במאורעות 1920/21.
+
+ בשנת 1928 נתמנה למנתח הראשי בבית החולים "שערי צדק" (של הד"ר מ. וואלך) בירושלים.
+
+ היה חבר פעיל בועדי הסתדרות הרופאים בת"א, צפת וירושלים.
+
+ בשנת 1929 הצטרף לאגודת "הציידים" בירושלים והיה פעיל בה.
+
+ בימי מאורעות תרפ"ט (1929), אחרי הטבח בחברון. היה חבר הועדה הרפואית ביחד עם ד"ר סופיה גצובה ועו"ד מ. לבנון - שבדקה את גופות קדושי חברון לשם קביעת האכזריות בביצוע הרצח.
+
+ בשנת 1939 עבר עם משפחתו לגור בגדרה ושם עסק בחקלאות. לשלושה ימים בשבוע היה מבקר בת"א ובירושלים לשם ריפוי חולים, ושלשה ימים בשבוע הקדיש לעבודת האדמה.
+
+ קנה לו שם רב בעבודתו המקצועית ופופולריות בחוגי ההמונים הרחבים.
+
+ היה אדם יקר וטהור נפש, שמועטים כמותו, ורופא נעלה ומסור עד למאד. עקבי בכל מעשיו, חבר נאמן היה, ולא רדף בצע.
+
+ כתב מאמרים ברפואה.
+
+ נפטר בירושלים, כ"ה טבת תש"ב (14.1.42) וגופתו הועברה למושבה גדרה.
+
+ בנותיו: <persName>אביבה</persName> אשת<persName> בן עמי הוכמן </persName> (באר טוביה), <persName>חנה</persName> אשת<persName> סידני צלמרס </persName> (תל-אביב).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2822 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2822</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

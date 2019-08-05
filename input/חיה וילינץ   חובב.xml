@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4708 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4708</bibl><bibl>Volume: #15 ,Page: 4709 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4709</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיה וילינץ - חובב</persName>
+
+</head>
+         <div><p> נולדה בנוה צדק, ז' חשון תר"ס (11.10.1899).
+
+ לאביה <persName>נחמיה דננברג </persName> ולאמה <persName>שרה לאה</persName> בת ר' <persName>דוד זליבנסקי</persName> , שעלה לארץ בשנת תרמ"ו (1886). כשנוסדה בתרמ"ח (1888) השכונה "נוה
+
+
+ צדק" ליד נוה שלום ביפו בנה את ביתו בין הראשונים וגם את המאפיה היהודית הראשונה ביפו שהתפתחה למודרנית לאפית לחם לכל ימות השנה ומצות לפסח (ראה כרך שלישי, עמוד 1469).
+
+ קיבלה חינוך עברי. מתלמידות הסמינר למורות בהנהלת ד"ר ניסן טורוב (ראה כרך ו', עמוד 2446).
+
+ נישאה<persName> לנתן חובב</persName> (ויליניץ) מהפקידים הותיקים של הבנק הלאומי לישראל (אפ"ק). בן ר' שלמה חובב (ויליניץ) שעלה לארץ בשנת תרע"ד (1914). היה
+
+ מורה לעברית בקיוב וכתב בקביעות מאמרים פובלציסטיים, פוליטיים ופיליטונים ב"הצפירה", "הזמן" וכו'. תוך עבודתו בחקלאות בנחלתו במושב העובדים "נחלת יהודה" ליד ראשון לציון הקדיש מזמנו גם לעסקנות צבורית ולעבודה ספרותית (ראה כרך ג', עמוד 1257).
+
+ זה יותר משלשים שנה שהיא עוסקת במסירות בהלבשת והנעלת ילדים מחוסרי אמצעים, מטעם ועד ההורים המרכזי, לא על מנת לקבל פרס.
+
+ מגישה עזרה לנצרכים בצנעה ובורחת מכבודים.
+
+ בנותיה: <persName>שרה</persName> אשת <persName>אהרן ולד, אביבה</persName> אשת המהנדס <persName>אפרים רון.</persName>
+
+ אחות: <persName>ישראל דננברג,</persName> מותיקי הישוב, בעל בתיהחרשת למצות: "אביב" ו"ישראל" (ראה כרך ה' עמוד 2185 וכרך י"א, עמוד 3872).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4708 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4708</bibl><bibl>Volume: #15 ,Page: 4709 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4709</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

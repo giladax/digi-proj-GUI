@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 313 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/313</bibl><bibl>Volume: #1 ,Page: 314 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/314</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל מאיר משיוף</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ח סיון תרמ"ו (1886), לאביו <persName>יצחק אפרים בנימין </persName> (דור חמישי בארץ, מצאצאי עלית החסידים - הראשון במשפחה, ר'<persName> משה</persName> משקלוב, עלה ארצה לעצת האדמו"ר בעל ה"תניא", ואחרי טלטולי נסיעה שארכו שנה וחצי הגיע לטבריה באלול תקל"ח, וצאצאיו פעלו רבות למען בנין הישוב ופיתוח המסחר וחיי הכלכלה בארץ; ר' יצחק אפרים בנימין נולד בירושלים, י"ב טבת תר"י, ונפטר בה, כ"ז אדר ב' תרפ"א - היה סוחר אמיד בתבואות וקמח ובעל טחנות, ממיסדי מאה שערים ושכונת ניסן בק) ולאמו<persName> רבקה</persName> בת <persName>שלום</persName> <persName>וסטרנה קזרנובסקי </persName> מצאצאי הרב בעל ה"תניא", שנולדה בליובאוויטש ועלתה ארצה עם הוריה בשנת תרי"ח לעצת הרב בעל "צמח צדק" בנסיעה שארכה קרוב לשנה וברכיבה על גמלים עלו מיפו ישר לחברון, שם כבר קדמה לה סבתה <persName>מנוחה רחל</persName> נכדת בעל ה"תניא".
+
+ למד בחדרים, בתלמוד-תורה "עץ חיים" ובישיבות ולימודי חול מפי מורים פרטיים.
+
+ ב-1908 נשא לאשה את רישל בת גרשון גולדשטין.
+
+ עסק בעניני צבור וכבן הישוב הישן נתן יד לעולים החדשים לחיזוק הישוב, חידושו והרחבתו. היה לפני מלחמת-העולם הראשונה חבר ועד העליה מיסודו של
+
+
+<persName>מנחם שיינקין</persName> , ואחרי המלחמה ציר הועד הזמני ליהודי א"י, ציר אספת הנבחרים הראשונה, חבר משפט השלום העברי בירושלים, ממיסדיו וחבריו הפעילים הראשונים של הלואה וחסכון בירושלים ויו"ר מועצתו במשך 12 שנה, חבר המרכז לקואופרציה של המוסדות לאשראי, ממיסדיה וחבריה הראשונים של שכונת בית הכרם, מבוניה ומתישביה הראשונים של שכונת קרית משה, היוזם והבונה את השוק הצבורי במחנה יהודה, חבר המועצה הסוציאלית הארצית שליד הועד הלאומי, חבר הועד לישוב העיר העתיקה אחרי מהומות תרפ"ט. משנת
+
+ 1915 ועד 1926 היה מנהל עניני הסיוע וועד היתומים של הג'וינט; בשנות 1926-32 היה מזכיר ומנהל עניני ועד העיר ליהודי ירושלים, עסק בענינים ישוביים בנסיעותיו במזרח הקרוב והרחוק, באירופה ובאמריקה בשנות 1934-36 וזה כמה שנים הוא מנהל בית-החולים של "עזרת נשים" לחולי-רוח בירושלים, יו"ר גמילות חסדים למען א"י, סגן יו"ר חברת "נחלת ישראל - רמה", חבר הועדה הסוציאלית שליד ועד הקהלה ויו"ר הסקציה שלה למוסדות, חבר ועדי אגודות הדדיות שונות, ועוד.
+
+ צאצאיו: חנה (גננת במעון של "הדסה" ומדריכה במועדוני ארגון אמהות עובדות); גרשון ז"ל (נפל חלל ביום ב' אלול תרצ"ו בעמדו על משמר הגנת קרית ענבים): יעקב (מורה לערבית בכפר הנוער בן-שמן): יצחק (מדריך ומנהל טכני בביה"ס למכניקה עדינה של מרכז ברנדיס) וטובה (מורה בבית הספר בזכרון יעקב).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 313 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/313</bibl><bibl>Volume: #1 ,Page: 314 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/314</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

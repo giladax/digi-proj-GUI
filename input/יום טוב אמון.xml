@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 194 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/194</bibl><bibl>Volume: #1 ,Page: 195 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/195</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יום-טוב אמון</persName>
+
+</head>
+         <div><p> בן אהרן, נולד בקושטא, ביום י"ז בתמוז תרל"ג. התחנך בביה"ס של חברת כי"ח, שהצטיין בעת ההיא בסדריו ובתכנית למודיו. ממנו עבר אח"כ אל מוסדות החנוך הממשלתיים בעירו, רושדיה ואידדיה. כשהשלים למודיו בהם, נכנס למכללת קושטא. בשנת תרס"ב הוכתר על ידה כמוסמך למדעי המשפט.
+
+ השתתף בתנועות נוער בתורכיה, ויתן ידו לצרכי צבור. ידיעותיו הרחבות בשפה התורכית, וקרבתי אל פקידי השררה הגבוהים כידיד ומודע, היו לו לעזר רב, והוא נצל את קשריו לתועלת בני עמו ועדתו. בשנות עבודתו הראשונות כעו"ד בקושטא יצאו לו מוניטין בבקיאותו הרבה בעניני קרקעות. כשנתים לאחר שהוכרזה הקונסטיטוציה בתורכיה, בחורף תר"ע, נתמנה לשופט בבית המשפט המחוזי בירושלים, ובמשרה זו כהן עד סוף שנת תרע"ד. מתוך מגמה להצר את צעדי האוכלוסיה היהודית בבירת הארץ, הוסכם בעת ההיא להעבירו לחלב, שבסוריא. בגלל סרובו להעתיק מושבו מירושלים, הסתלק משרותו והחל עוסק במקצועו כעו"ד. בצוק העתים הקדיש את מיטב זמנו לתנועת ההתעתמנות בקרב כל חוגי הישוב, ועזר הרבה בהסדר הצד החוקי והפורמלי.
+
+
+ בתקופת הגרושים של עסקני הישוב בא"י, בשנת תרע"ז, הוגלה גם הוא ע"י השלטונות הצבאיים התורכים לקושטא, בכלל שאר האנשים החשודים ומנהיגי התנועה הציונית והישוב העברי, ושם תקע אהלו עד בוא המלחמה לקצה, ירחים מעטים לאחר שביתת הנשק חור לארץ,
+
+ נודע כמומחה בכל הנוגע לחוקי קרקעות וירושות. בגלל בקיאותו המקצועית שמש תקופה ידועה בתור בוחן רשמי את עורכי הדין הזרים. זמן מה לאחר כבוש הארץ הצטרף לחברו העו"ד מר תופיק עדס, ואתו יחד ממשיך לכהן בתפקידו כעו"ד ותיק ובעל שם טוב. כיום הנהו מהשופטים היהודים המועטים ששרדו בארצנו מימי שלטון התורכים,
+
+ משפחתו ידועה בתולדותינו ביחוסה ובאצילותה. כמה מקרוביו היו פרופסורים למטמטיקה וכלכלה בביה"ס הגבוה למקצועות הללו בקושטא. אחיו מנחם הצטיין אף הוא כרופא מובהק. מראשוני השושלת הזאת יזכרו: משה אמון, שהיה יועצו של השולטן סלימאן המפואר ורופא החצר, בן לויתו של השולטן הנ"ל במסעיו, בימי שלום ובימי מלחמה: יוסף אמון, רופאו של השולטן סלים הראשון, משה אמון השני ועוד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 194 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/194</bibl><bibl>Volume: #1 ,Page: 195 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/195</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

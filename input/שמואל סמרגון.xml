@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4054 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4054</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל סמרגון</persName>
+
+</head>
+         <div><p> נולד בנרבקה (פולין) בשנת תרס"ב (15.5.1902).
+
+ לאביו<persName> עזריאל זליג סמרגון </persName> ולאמו<persName> הדסה</persName> בת<persName> משה</persName> <persName>בקר.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ עסק במסחר.
+
+ היה פעיל בארגוני הנוער הציוני בעירו.
+
+ במרס 1925 עלה לארץ.
+
+ היה חבר חבורת "הדרום" בנס-ציונה לכיבוש עבודה.
+
+ חבר מועצת הסקציה מתכת של התאחדות בעלי התעשיה.
+
+ בשנת 1932 נשא לאשה את <persName>מלכה</persName> בת <persName>זלמן גרשון</persName> <persName>נוסובסקי.</persName>
+
+ בימי שלטון המנדט עסק בייצור נשק עבור ההגנה ואחרי זה בימי מלחמת העצמאות.
+
+ מנהל בית החרושת "סדן" בע"מ, אשד איגרא בע"מ.
+
+ חבר ההגנה משנת 1929 עד 1939.
+
+ בניו: <persName>עזריאל מורג, עמיקם סמרגון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4054 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4054</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

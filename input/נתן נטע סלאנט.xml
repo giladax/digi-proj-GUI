@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4442 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4442</bibl><bibl>Volume: #14 ,Page: 4443 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4443</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נתן נטע סלאנט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת תרנ"ג (1893).
+
+ לאביו הרב<persName> צבי הרש סלנט</persName> (ראה בכרך זה) שהיה נכד "הסבא קדישא" רבי <persName>שמואל סלנט</persName> (ראה כרך א', עמוד 284), רבה של ירושלים במשך 70 שנה, ועמד בראש הישוב יחד עם חתנו הצדיק רבי<persName> יוסף</persName> <persName>זונדל מסלנט</persName> (ראה כרד א', עמוד 284) ולאמו מרת גרונא.
+
+ את חנוכו קבל בת"ת ובישיבת "עץ חיים" והיה מבחירי תלמידיה.
+
+ נשא לאשה את<persName> עלקא </persName> למשפחת <persName>היימן.</persName>
+
+ לפני מלחמת העולם הראשונה נסע לארצות הברית והקים בה תלמוד תורה על שם סבו "רבי שמואל סלנט זצ"ל", בשנות המלחמה העולמית עשה הרבה לטובת הישוב העברי בארץ ומוסדותיה.
+
+ הוציא לאור ספר בשם "זכרון רבנו שמואל סלנט".
+
+ נפטר ביום ד' תמוז תשי"ג (17.6.1953) בניו-יורק.
+
+
+ צאצאיו: <persName>משה, גרשון, צבי, בנימין, שמואל,</persName> <persName>באשה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4442 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4442</bibl><bibl>Volume: #14 ,Page: 4443 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4443</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

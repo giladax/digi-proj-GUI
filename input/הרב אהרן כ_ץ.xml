@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4252 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4252</bibl><bibl>Volume: #13 ,Page: 4253 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4253</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אהרן כ"ץ</persName>
+
+</head>
+         <div><p> נולד ז' טבת, תר"ע (דצמבר, 1909), בסליב, פלך מינסק, רוסיה הלבנה.
+
+ לאביו הרב <persName>ראובן כ"ץ</persName> (הרב הראשי לפתח-תקוה ראה כרך ג', עמוד 1590) ולאמו<persName> רייכל</persName> בת הרב<persName> אברהם</persName> <persName>יצחק משכיל-לאיתן</persName> (שלפי מסורת משפחתו מתייחסת היא על צאצאי <persName>השל"ה הקדוש</persName> , ולמעלה ממנו עד <persName>רש"י ודוד</persName> <persName>המלך</persName> ).
+
+ נתפרסם כ"עילוי" מילדותו. למד בישיבה הקטנה שליד ישיבת גרודנה, בישיבות ביאליסטוק, גרודנה ומיר,
+
+ שם הוסמך לרבנות, ונתפרסם לתהילה בקרב לומדי התורה ברחבי פולין.
+
+ משעלה אביו לכהן בראשות הרבנות בפתח-תקוה, עלה גם הוא לארץ בשנת תרצ''ג (1933), למד שנה אחת
+
+
+ בישיבת חברון בירושלים וזמן מה ב"היכל התלמוד" בתל-אביב, וגם בארץ הוסמך על-ידי ראשי הרבנים וגדולי-תורה נוספים.
+
+ בחורף תרצ"ט בווילנא היה ממקורביו של הגאון רבי <persName>חיים-עוזר גרודזינסקי</persName> זצ"ל, שהיה לפנים רבו של אביו.
+
+ בל"ג בעומר, תרצ"ט (1939), נשא לאשה בגרודנה את <persName>חנה-רשל</persName> בת ר' <persName>מאיר-שמואל וויטקינד</persName> הי"ד מאמדור (אחיו של הרב<persName> הלל וויטקינד</persName> , ראש ישיבת "בית יוסף" בתל-אביב).
+
+ בתש"א (1941), נתמנה לר"מ בישיבת פתח-תקוה (ישיבת לרמז'ה לשעבר), ובמשך השנים הגיע למעמד ראשה ומנהלה. הרחיב אותה בהוספת "כולל האברכים", הישיבה לצעירים "נחלת ראובן" ובתי המתיבתא לנוער עולה, והעלה אותה לאחת הישיבות הגדולות בארץ בכמות ובאיכות, ובמידותיו התרומיות, בכשרון-המעשה הניהולי ובכושר-הנאום הלוקח לבבות רכש אהדה והוקרה לאישיותו ולתורה שהוא מרביץ בישראל. מבין תלמידיו הגיעו רבים לעמדות חשובות בעולם הרבנות והישיבות בארץ ובתפוצות.
+
+ צאצאיו: הרב <persName>חיים-עוזר, אברהם יצחק, מינה, שמו</persName> <persName>אל-מאיר, מלכה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4252 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4252</bibl><bibl>Volume: #13 ,Page: 4253 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4253</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

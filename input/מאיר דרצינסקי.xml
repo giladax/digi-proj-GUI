@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4695 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4695</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר דרצינסקי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סלונים</placeName> (רוסיה) בשנת תר"ס (1.10.1900). לאביו <persName>שמואל </persName> ולאמו<persName> אסתר</persName> בת <persName>יעקב</persName> <persName>מליאכוביצקי.</persName>
+
+ קיבל חינוך מסורתי. גמר גימנסיה ריאלית. היה חבר פעיל ב"צעירי ציין" בעירו. עסק בהוראה בשפה הרוסית עלה לארץ בשנת 1920.
+
+ משנת 1937 קבלן לבנינים.
+
+ בשנת 1925 נשא לאשה את<persName> רעיה</persName> בת<persName> ברוך</persName> <persName>רוזובסקי.</persName>
+
+ בנאי חופשי משנת 1927. ממיסדי לשכת הבונים החפשים "הכוכב" תל-אביב.
+
+ עד שנת 1936 היה קבלן ראשי של עירית יפו לעבודות חשמל.
+
+ עד שנת 1946 היה קבלן לבנינים בממשלת המנדט.
+
+ משנת 1947 קבלן לבנין בתים משותפים בתלאביב.
+
+ כל השנים חבר ההגנה.
+
+ בשנת 1949 מונה למזכיר משרדי האופוטרופוס לנכסי נפקדים ברמלה ולוד.
+
+ משנת 1950 עד 1952 מונה למנהל מחלקת הדיור של נכסי נפקדים בממשלה באזור השרון (משדה התעופה לוד - עד מבואות חדרה).
+
+ פרדסן משנת 1953.
+
+ צאצאיו:<persName> רות </persName> אשת<persName> פרץ ליברמן ; שרה</persName> אשת <persName>אליהו ורדי ; אורי</persName> ז"ל (נפטר בת"א כ' כסלו תש"ב).
+
+ נכדיו:<persName> אורי ליברמן, בועז ליברמן, איריס</persName> <persName>ורדי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4695 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4695</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1744 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1744</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מיכאל פיקובסקי</persName>
+
+</head>
+         <div><p> נולד באליזבטגרד (רוסיה) בשנת תרכ"ו (7.6.1866) לאביו <persName>משה,</persName> ולאמו<persName> פייגא</persName> לבית<persName> אוסבצקי.</persName>
+
+ קבל חנוך מסורתי בחדר. כללי בגימנסיה הרוסית בעיר מולדתו. נסע לוינה ולמד ב"מכון המלכותי לתהליכי הריפרודוקציה".
+
+ בשנת 1893 נשא לאשה את <persName>בלומה</persName> בת <persName>אריה</persName> <persName>אוסטרי</persName> (נפטרה בירושלים, ב' בתשרי תרצ"ד).
+
+ היה בעל צינקוגרפיה ובית דפוס באודיסה. מו"ל ועורך של העתון המקצועי "דפים פוליגרפיים".
+
+ עלה ארצה בשנת 1924.
+
+ הקים צינקוגרפיה בירושלים. ייסד את העתון הדו-שבועי הראשון בארץ "המזרח".
+
+ נפטר בירושלים, כ"ב בתשרי תרצ"ד (21.10.1943).
+
+ צאצאיו ; <persName>אמיל, זניידה פיקובסקי - ולצי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1744 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1744</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

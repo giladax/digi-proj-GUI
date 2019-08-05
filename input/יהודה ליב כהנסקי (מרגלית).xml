@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 453 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/453</bibl><bibl>Volume: #1 ,Page: 454 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/454</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה ליב כהנסקי (מרגלית)</persName>
+
+</head>
+         <div><p> נולד בקורוסטישב, ליד ז'יטומיר, אוקראינה, בשנת תרל"ב (1872), לאביו <persName>אברהם מרגלית</persName> , מנהל בית-חרושת. לספירט. למד בחדר ובישיבה והיה חברו של<persName> ח. נ.</persName> <persName>ביאליק</persName> בבחרותו. היה פעיל בארגוני נוער ציוניים. אח"כ למד בבית-ספר לרופאי-שינים בפרנקפורט ע"נ מאין בגרמניה, ואחרי גמרו את לימודיו עבד שם כמה שנים במקצועו והיה בן-בית אצל הנדיבים לבית <persName>הירש.</persName> נשא לאשה את <persName>נחה</persName> בת <persName>יהושע מנדלבוים </persName> מירושלים. בעת מלחמת רוסיה-יאפאן 1904/5 היה ברוסיה וגויסלצבא ולאחר שנה יצא שוב לגרמניה והחליף את שםמשפחתו ממרגלית<persName> לכהנסקי</persName> . בתרס"ז עלה ארצה עם אשתו<persName> ורחל </persName> בתו, התישב בירושלים והיה מראשוני רופאי-השינים היהודים בעיר.
+
+ עם פרוץ מלחמת-העולם הראשונה גורש מצרימה כנתין רוסי ושרת באלכסנדריה כרופא-שינים אזרחי בצבא הבריטי והיה פעיל שם בועדים לעזרת גוליארץ-ישראל.
+
+ אחרי תום המלחמה חזר ירושלימה והמשיך בעבודתו והיה חבר פעיל בארגון בני-מקצועו. נתחבב על
+
+ מכיריו במדותיו הטובות ובהיותו גר בשכנות מרכז המשטרה של העיר החדשה וחביב גם על אנשי המשטרה, היה עוזר לאנשים רבים להצילם מנגישות אדמיניסטרטיביות ולהקל עליהם את סידור עניניהם השונים במשטרה.
+
+ אם כי היתה לו עבודה לרוב לא עשה עושר, כי בחולים מדלת העם טיפל במחירים מינימליים וברבים
+
+
+ גם בלא תשלום, וכן היה מרפא בחנם את ילדי בתי היתומים.
+
+ צאצאיו:<persName> משה, ברוך, רחל</persName> אשת אברהם שלזינגר, <persName>לאה</persName> אשת שמואל בורוק,<persName> יפה</persName> אשת ד"ר יעקב פולוצקי.
+
+ נפטר בירושלים, י"ח תשרי תרצ"ט (13.10.38).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 453 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/453</bibl><bibl>Volume: #1 ,Page: 454 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/454</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

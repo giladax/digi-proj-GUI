@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 629 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/629</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד''ר צילה ברגינסקי</persName>
+
+</head>
+         <div><p> נולדה בחורול, פלך פולטאווה (אוקראינה) ב-1886 (תרמ"ו) לאביה<persName> בנימין</persName> (סוחר תורני) ולאמה <persName>ליובה</persName> לבית<persName> גולדשטין</persName> . למדה בביה"ס העממי שבעיירתה ואח"כ גמרה את הגימנסיה בפולטאווה. עוד בילדותה נמשכה לציונות והשתייכה לאגודת "הנוער הציוני". כשעברה לשויץ, כדי ללמוד תורת הרפואה באוניברסיטת לוזאן, הצטרפה לחוג הסטודנטים הציונים שבו היו פעילים יצחק אפשטין, שאול טשרניחובסקי, ניסן טורוב, ש. ח. וילקומיץ ודר. חיים הררי. מטרת החוג היתה השתלמות בעברית ועיון בבעיות ציוניות. ב-16 ביולי 1913 עלתה לא"י.
+
+ בבית הדר. חיים חיסין נפגשה עם אנשי גדרה, והללו הציעו לה לעבור למושבתם, לאחר שמת הרוקח סנדריכין שעסק גם בריפוי חולים. היא קיבלה ברצון
+
+ את ההצעה והיתה הרופאה הקבועה הראשונה בגדרה לאחר 28 שנות קיומה של המושבה. מילאה את תפקידה במסירות ובתנאים קשים בשנות המלחמה העולמית הראשונה ונתחבבה על התושבים. רכשה חלקת-אדמה במושבה ונטעה פרדס.
+
+ מסיבות משפחתיות עברה ב-1917 לתל-אביב ועם הכבוש הבריטי הוזמנה לנהל את המרפאה העירונית. ב-1921 פתחה מעבדה רפואית והיא מנהלת אותה עד היום הזה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 629 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/629</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

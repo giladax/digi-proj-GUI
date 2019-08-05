@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1635 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1635</bibl><bibl>Volume: #4 ,Page: 1637 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1637</bibl>
+<bibl>Volume: #4 ,Page: 1638 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1638</bibl>
+<bibl>Volume: #4 ,Page: 1639 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1639</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה ליב יגולניצר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קמניץ-פודולסק</placeName> (אוקראינה), בשנת תרמ"ב (1882), לאביו<persName> יצחק</persName> (מורה) ולאמו<persName> פייגה.</persName>
+
+ קיבל חינוך תורני, השתלם בהשכלה כללית ועברית והתמסר להוראה עברית ולפעילות ציונית.
+
+ בילדותו עברה משפחתו לארגנטינה כחקלאים וכעבור ארבע שנים חזרו לרוסיה ואח"כ השתקעו בבולגראד (בסראביה).
+
+ נשא לאשה את בת דודתו,<persName> בינה</persName> בת<persName> יצחק מרכוס</persName> מאודיסה.
+
+
+ עוד בצעירותו נחשב לאחד מטובי המורים העברים בבסראביה בפרט ובדרום רוסיה בכלל. בתרע"ד הוזמן להיות מורה בארץ, אך בגלל פרוץ מלחמתהעולם הראשונה לא יכול לבוא ונשאר בבסראביה. אחרי המלחמה, משסופחה בסראביה לרומניה, התרחב חוג פעילותו והשפעתו בתרבות וחינוך עברים ובעבודה הציונית אף על יתר חלקי רומניה. הימורו, ביאסי ואח"כ מורה לשפה העברית בסמינר למורים של "תרבות" בצ'רנוביץ ושנים אחדות היד, מנהל מרכז "תרבות" לכל רומניה בבוקארשט. שימש
+
+ בהוראה למעלה מ-40 שנה והעמיד תלמידים רבים, מהם מורים ועסקנים בארץ. פעל למען הפצת עתונות וספרות עברית וציונית (<persName>י. ח. ברנר</persName> מזכירו לשבח במכתביו כמפיץ "המעורר" בבסראביה). ביזמתו נוסד במחוזו הארגון הראשון של המורים העברים, שהיה גרעין להסתדרות המורים בבסראביה, שיסדה בתיספר חדשים ושקדה על שכלולו וביסוסו של ביה"ס העברי.
+
+ אחרי שכל צאצאיו עלו ארצה נתאפשר גם לו לעלות לעת זקנה, בשנת תרצ"ה, וכאן היה מורה בנהלל ואח"כ ברחובות.
+
+ עסק גם במחקרים בתנ"ך ובדקדוק. פרסם מאמרים בשאלות חינוך ותרבות, שירים ופואימות (ביניהן "כחה של תשובה"), ספרי לימוד ומשלים לנוער (כמה מהם פורסמו ב"הבוקר לילדים") ונשארו ממנו שני ספרי "משלים" מקוריים ומתורגמים. בשנותיו האחרונות חיבר כמה מחזות תנכ"יים, מהם המחזה "מיכל בת שאול" נשאר מוכן כמעט לדפוס ויופיע בקרוב בהוצאת הועד להוצאת כתביו, שנוסד זמן-מה לפנו מותו.
+
+ נפטר בתל-אביב, ב' אדר תש"ה והובא לקבורה בכפר חיים שבעמק חפר, מקום מגורי בתו.
+
+ צאצאיו: <persName>שולמית</persName> אשת<persName> יוסף קמראס</persName> (הדר-עם), <persName>אחינעם</persName> אשת<persName> יעקב הירש</persName> (כפר חיים),<persName> פנינה</persName> אשת <persName>פנחס פראנק</persName> (קבוץ מעברות), <persName>מתניה, תנחומה</persName> אשת <persName>שאול מילגרוים, ברוריה, עמנואל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1635 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1635</bibl><bibl>Volume: #4 ,Page: 1637 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1637</bibl>
+<bibl>Volume: #4 ,Page: 1638 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1638</bibl>
+<bibl>Volume: #4 ,Page: 1639 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1639</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2468 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2468</bibl><bibl>Volume: #6 ,Page: 2469 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2469</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה שיף</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קישינוב</placeName> (בסרביה), בשנת תרנ"ו (1896). לאביו<persName> יצחק אברהם.</persName>
+
+ קבל חנוך בבית הספר הפרטי של שרייבר (19031906), בבית ספר עירוני (1907-1910) ב<placeName>קישינוב</placeName>. בשנת 1910 עלה עם משפחתו לארץ.
+
+ המשיך ללמוד בבית הספר "עזרא" (1911-1913). בפרוץ מלחמת העולם הראשונה (1914) גורש יחד עם משפחתו למצרים בתור נתינים רוסים.
+
+ התנדב לגדוד העברי ((נהגי הפרדות) לגליפולי, בדיויזיה ה-29, ושירת כשנה (5.4.1915-23.5.1916).
+
+ למד זמן מה בבית הספר האנגלי באלכסנדריה והתגייס לגדוד העבודה המצרי (24.5.1916-10.1.1921), עבר לגדוד המהנדסים הממלכתי הבריטי (11.1.1921-1.9.1922) ועבר אתם לא"י. נתקבל לעבודה במשרד העבודות הצבוריות בתור מפקח (1.9.1922-31.5.1923)ו- 4.2.1924 התגייס למשטרה הא''י בדרגת סרג'נט. כעבור שנה לדרגת סגן המפקח, שנתים אחר זה הועלה לדרגת מפקח, ובשנת 1932 נתמנה כעוזר מפקח המשטרה המחוזית ביפו, והועלה ב-1934 לדרגת קפטן והועבר לתל-אביב. כעבור שנה הוחזר ליפו כמפקח על משטרת הכפרים במחוז. בתפקיד זה נשאר עד חודש מאי 1937, כשהממ
+
+
+ שלה החליטה לסדר אזור מיוחד למשקים והכפרים באיזור השרון ברמת-גן.
+
+ ב-1941 הועלה לדרגת D.S.P. (סגן מפקד, בדרגת מיור) ונתמנה למפקד המשטרה בתל-אביב. קיבל את המדליה M.B.E. בשנת 1933.
+
+ בשנת 1929 הדף עם הקצין הבריטי ריגס התנפלות על העיר. בשנות המאורעות 1936-39 הצליח במרצו ועוז רוחו להשתלט על המבוכה ששררה באיזור הנתון לפיקוחו ועזר להגנה ולבטחון הארץ.
+
+ נשא לאשה את<persName> רחל</persName> בת <persName>עקיבא דרקסלר</persName> מראש פינה. ב-1937 נסע לנוטינגאם (אנגליה) עבר קורס מיוחד לפשעים, ביולוגיה, צילום וכו' בעניני משטרה.
+
+ ביום ג' שבט תש"ב (20.1.42) הוזעק לבנין בתלאביב שבו הסתתרו חברי המחתרת (לח"י) שהכינו מוקשים במטרה להתנקש בקצין בריטי ידוע, והאסון קרה, שהוא, והקצין נחום גולדמן וגם הקצין הבריטי היו הרא
+
+ שונים שהגיעו למקום ונהרגו מהתפוצצות מוקש.
+
+ נקבר בבית הקברות בנחלת יצחק.
+
+ בניו : <persName>עקיבא, יוסף.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2468 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2468</bibl><bibl>Volume: #6 ,Page: 2469 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2469</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

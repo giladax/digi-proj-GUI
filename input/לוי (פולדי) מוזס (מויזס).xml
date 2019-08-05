@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3789 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3789</bibl><bibl>Volume: #11 ,Page: 3790 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3790</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>לוי (פולדי) מוזס (מויזס)</persName>
+
+</head>
+         <div><p> נולד בטיניצה (יוגוסלביה) ב' טבת תרע"ג (12.1912..12.)
+
+ לאביו <persName>יצחק מויזס </persName> ולאמו <persName>פנינה </persName> לבית<persName> צלצר.</persName>
+
+ קיבל חינוך בבי"ס יסודי - ותיכון בנוביסד ואוניברסיטה בזגרב וקיבל תואר ד"ר למשפטים.
+
+ בעירו למד והתמחה במקצועו.
+
+ היה פעיל בתנועת נוער ציוני.
+
+ בו נתמזגו תרבות אירופה והמזרח. רוח יהדות ספרד ואשכנז למזיגה יפה הרמונית.
+
+ רבים מבני משפחתו נספו בשואה ע"י הנאצים, והוא עבר ימים קשים. עם נפילת הנאצים עלה בשנת 1954 לארץ ע"י עליה ב', והתענה ככל העולים "הבלתיליגליים" שהבריטים חסמו בפניהם את הדרך לא"י.
+
+ במלחמת השחרור התגייס לצה"ל ואח"כ במלחמת סיני.
+
+
+ לאחר ששוחרר מצה''ל נשא לאשה את <persName>זהבה</persName> בת <persName>יצחק אברמוביץ.</persName>
+
+ נבחן בחוק הישראלי ועבר בהצלחה את הבחינות ונתקבל כמשפטן בחברת "עמידר" כיועץ משפטי.
+
+ עבד כעו"ד במשרדי האפוטרופוס לנכסי נפקדים.
+
+ היה אדם צנוע. אהב ספר ושומר מסורת.
+
+ נפטר בירושלים, י"ז תמוז תשי"ט (1.8.1959) והובא לקבורה בקרית שאול, בתל-אביב.
+
+ בניו: <persName>דן מוזס, בנימין מוזס.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3789 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3789</bibl><bibl>Volume: #11 ,Page: 3790 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3790</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

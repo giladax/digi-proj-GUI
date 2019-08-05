@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4475 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4475</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרים שפרלינג</persName>
+
+</head>
+         <div><p> נולדה בקרקוב (פולין) בשנת תר"ס (2.2.1900).
+
+ לאביה <persName>יוסף וורצמן</persName> ולאמה <persName>צפורה</persName> לבית<persName> לוי.</persName>
+
+ סיימה בי"ס תיכון.
+
+ עובדת סוציאלית.
+
+ טיפלה ביתומים וזקנים.
+
+ בשנת 1920 נישאה<persName> לדב שפרלינג.</persName>
+
+ בשנת 1947 עלתה לארץ.
+
+ המשיכה במקצועה.
+
+ ידועה כעסקנית מסורה בהגשת עזרה למוסדות סוציאליים רבים ברמת-גן. פעילה בלשכת בנותברית "מרים" ומנהלת מטעם הלשכה את מועדון הקשישים ברמת-גן.
+
+ פעילה בבית אבות בבני-ברק.
+
+ בנה:<persName> שלמה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4475 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4475</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

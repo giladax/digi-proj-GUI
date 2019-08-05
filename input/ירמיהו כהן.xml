@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2801 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2801</bibl><bibl>Volume: #7 ,Page: 2802 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2802</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ירמיהו כהן</persName>
+
+</head>
+         <div><p> נולד בכ' תמוז תרס"ד (3.7.1904 - ביום מותו של <persName>הרצל)</persName> בראשון לציון.
+
+ לאביו <persName>מנחם</persName> (ראה כרך ו, עמ' 2677) ולאמו <persName>מניה</persName> בת <persName>מרדכי וליבה מדליה</persName> (ראה כרך א' עמ' 407, 411 - היא ליבה מדליה, ילידת שנת 1856, שזכתה וזוכה
+
+
+ לראות בני חימשים, נכדים ונכדיה, ואחת מהם<persName> דורית</persName> בת <persName>עמיאל בן ירמיהו כהן</persName> זה בן <persName>מניה</persName> בתה).
+
+ למד בבית-הספר העממי בראשון לציון ובבית-הספר התיכון למסחר בתל-אביב. בנעוריו היה פעיל בתור חבר ואח"כ מפקד הצופים בראשון לציון (ב-1920), חבר במכבי המקומי ובועד שלו במשך שנים.
+
+ בשנות 1932-1922 היה חבר וחבר ההנהלה בקבוצה הקבלנית של בני האכרים לעבודה ביקב.
+
+ ב-1927 התנחל על הקרקע בהתישבות שסודרה בעזרת פיק"א לבני האכרים ומאז ניתן לו להמשיך במסורת אביו, בנאמנות לעבודת האדמה בשדה ובכרם.
+
+ באותה שנה נשא לאשה את<persName> יוחנה בת מרדכי מזובר,</persName> ממיסדי באר-יעקב.
+
+ חבר ההגנה כל השנים.
+
+ בעקב גידול ההוצאות לחינוך בניו וקשי המצב בחקלאות במלחמת העולם השניה נכנס ב-1941 לעבודה נוספת, כפקיד במועצה המקומית (ואח"כ העיריה) בראשון לציון. אך המשיך לקיים ולנהל את משקו החקלאי. מאותו שנה ואילך הנו חבר ועד ארגון עובדי המועצה-העיריה. ממיסדי קופת תגמולין וקופת גמילות חסד של עובדי עירית ראשון לציון, ופעיל בהן ובועד העובדים לטובת החברים במסירות ובנכונות לעזור. נוסף לכך הנו חבר מועצת הסניף המקומי של הסתדרות הציונים הכלליים.
+
+ בניו:<persName> עמיאל אלדד</persName> (שניהם טכנאי קירור).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2801 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2801</bibl><bibl>Volume: #7 ,Page: 2802 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2802</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

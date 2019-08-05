@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 428 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/428</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מיכאל שכטר</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרמ"ח (1888) לאביו ר' מרדכי שוחט. בתרמ"ט עברה המשפחה ליפו. כאן למד בתלמוד תורה "שערי תורה" ובישיבה.
+
+ בתרס"ו נשא לאשה את <persName>אסתר</persName> בת<persName> אברהם קצורין</persName> , מראשוני היהודים שבנו טחנות קמח ביפו ובארץ בכלל. החל לעבוד בטחנה של חותנו והתמחה במקצוע.
+
+ בתרע"ב נסע ליוהאניסבורג שבדרום אפריקה ועסק שם במחנות קמח. בתרפ"א חזר ארצה והקים טחנה בראשון לציון. בתר"ץ נסע מצרימה וכשחזר ארצה הקים את הטחנה הראשונה בתל-אביב, בדרך פתח-תקוה, היא טחנת שכטר עד היום.
+
+ משתתף בפעולות צבוריות ולאומיות כחבר פעיל בהסתדרות הציונים הכלליים, לשכת בני ברית "שער ציון" ולשכת הבונים החפשים "הכוכב".
+
+ צאצאיו:<persName> אברהם, משה, דוד, יפה</persName> אשת<persName> שמואל</persName> <persName>קפלן, מכסה, אהודה.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר ברמת-גן, כ"ו טבת תשי"ג (13.1.53) (ראה כרך א', עמוד 428)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 428 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/428</bibl>            <bibl>Volume: #6 ,Page: 2719 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2719</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

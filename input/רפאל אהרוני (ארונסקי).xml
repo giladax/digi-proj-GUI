@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4288 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4288</bibl><bibl>Volume: #13 ,Page: 4289 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4289</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רפאל אהרוני (ארונסקי)</persName>
+
+</head>
+         <div><p> נולד בפיטרה-ניאמץ (רומניה), ביום ח' תמוז, תרע"ב (23.6.1912).
+
+ לאביו<persName> יוסף אהרן ארונסקי </persName> (מורה. מפעילי הציונים וממארגני העלייה מרומניה לפני מלחמת העולם השנייה. היה מקורב לד"ר <persName>תיאודור הרצל</persName> . מסר לאוניברסיטה העברית מכתבים שקיבל מד"ר <persName>הרצל)</persName> ולאמו <persName>רוזה</persName> בת <persName>צבי דוידוביץ.</persName>
+
+ קיבל חינוך מסורתי ותיכוני מסחרי.
+
+ היה פעיל בארגוני הנוער הציוני בעירו.
+
+ בשנת 1932 עלה לארץ.
+
+ היה חבר קיבוץ שריד בעמק יזרעאל (הקיבוץ הארצי). בשנת 1944 נשא לאשה את <persName>הדסה</persName> בת<persName> שושנה ויעקב</persName> <persName>שוארץ</persName> (תושבי חיפה. מעובדי הרכבת הראשונים.<persName> יעקב</persName> <persName>שוארץ</persName> היה בין מקימי הקואופרציה במרחביה).
+
+ שירת במשטרת היישובים העבריים משנת 1936 עד 1946 בדרגת רב-סמל.
+
+
+ היה פעיל במנגנון ההגנה. השתתף במרבית עליות "חומה ומגדל" מתל-עמל, חניתה, עין השופט ועוד. מעובדי קופת חולים הכללית.
+
+ מנהל בית ההבראה על שם <persName>יוסף שפרינצק</persName> בנצרת.
+
+ בנותיו: <persName>צביה, יעל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4288 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4288</bibl><bibl>Volume: #13 ,Page: 4289 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4289</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

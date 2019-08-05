@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3530 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3530</bibl><bibl>Volume: #10 ,Page: 3531 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3531</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אפרים (פישל) אילן (פיקהולץ)</persName>
+
+</head>
+         <div><p> נולד בניזניו, בהרי הקרפטים (פולין), בשנת תרס"ב (23.3.1902).
+
+ לאביו הרב <persName>דב פיקהולץ </persName> (בנו של ר' <persName>יעקלי </persName> מבוצץ', מחבר הספר "פירושי תנ''ך") ולאמו <persName>דבורה</persName> בת <persName>אברהם</persName> <persName>ליב צהלר</persName> . 
+
+ קבל חנוך מסורתי, יסודי ותיכון בסטרי (פולין).
+
+ ד"ר למתמטיקה ופיסיקה באוניברסיטה של וינה, מהנדס בנין בטכניון בוינה (אוסטריה).
+
+ בשנת 1919 יו"ר אגודת הסטודנטים הציונים "עבריה" בסטרי.
+
+ בוינה פעל רבות במסגרת הסטודנטים הציוניים ובתנועה הציונית בגולה.
+
+ בשנים 1926-29 יו"ר אגודת "ג'ודיאה" של הסטודנטים בפקולטה לפילוסופיה ושל הטכניון בוינה.
+
+ בשנים 1928-31 חכר המרכז הציוני במחוז ה-19 של וינה.
+
+ בשנת 1932-39 מזכיר כללי של הסוכנות היהודית באוסטריה, חבר הנהלת קרן קיימת וקרן היסוד, "החלוץ" והמשרד הארצישראלי באוסטריה.
+
+ חבר מערכת "די-שטימע" באוסטריה (1930-39).
+
+ בשנת 1939 עלה לארץ.
+
+ עסק בתור מהנדס בנין. נשא לאשה, את <persName>יפה</persName> בת<persName> איסר גרינפלד</persName> (ראה בכרך זה).
+
+ בשנים 1942-45 פרופיסור בטכניון ב-פרס להידרוליקה ומכניקה.
+
+ בשנים 1945-48 מנהל בית ספר לבנין של עירית חיפה.
+
+ בשנים 1949-51 מנהל בית חרושת לחומרי בנין בחולון, ומשנת 1951 עד היום, מנהל מרכז לחינוך מקצועי תיכוני "אורט" ביפו.
+
+ לפי תכניתו, שרטוטיו וצילומיו נבנה "חדר הרצל" בבניני הסוכנות היהודית בירושלים.
+
+ מזכיר כללי של "אגודת ישראל-אוסטריה", חבר הJewish Councilשל אוסטריה, חבר הנהלת "התאחדות עולי אוסטריה", סגן נשיא לשכת בני-ברית "תיאו
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3530 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3530</bibl><bibl>Volume: #10 ,Page: 3531 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3531</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

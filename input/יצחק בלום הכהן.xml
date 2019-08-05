@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1627 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1627</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק בלום הכהן</persName>
+
+</head>
+         <div><p> נולד במוינשט, מולדבה, רומניה, בשנת תרמ"ב (1882), לאביו<persName> זאב</persName> ולאמו <persName>מאליה.</persName>
+
+ בילדותו עלה ארצה עם הוריו, שהיו ממיסדי המושבה ראש פנה, בשנת תרמ"ב, ואחרי גמרו את בית-הספר המקומי המשיך לעבוד במשק הוריו והשתתף בפעולות התרבות של הנוער במושבה.
+
+ נשא לאשה את<persName> מינה</persName> בת<persName> שבתי נתן והני סחין</persName> ממליטופול שבקרים, שעלו ארצה והתישבו בין הראשונים במושבה סחם גולן שיסדה פקידות הבארון <persName>בנימין רוטשילד</persName> על אדמתו שבגולן, במחוז דמשק, ואחרי שהשלטון הטורקי מנע מהמתישבים את הגנתו
+
+ והכריחם לעזוב את המקום, העבירתם הפקידות לארץישראל המערבית ואח"כ הנחילה חלק מהם, ובתוכם את משפחת שחין, במושבה החדשה יבנאל שיסדה אז בגליל התחתון, וגם יצחק הלך שמה עם אשתו והוריה והתנחל בין הראשונים. עבד במשקו בשקידה ובבקיאות, כבן-אכרים שגדל בחקלאות בארץ והשתתף בעניני הצבור כחבר ועד המושבה.
+
+ השתדל עם חבריו והצליח להחליף את השמירה הערבית בשמירה עברית על-ידי חברי "השומר", ובזה הרגיז עליו את ערביי הסביבה, שבתקופת השמירה הערבית היה להם חופש גמור לגנוב.
+
+ בצאתו לפנות בוקר לעבודה בשדה נהרג ביריה על-ידי הערבי גאנז' ונקבר ביבנאל, ביום כ"ט אייר תרס"ט.
+
+ רעיתו נפטרה ביום י"ג חשון תש"ו בת 67 שנה, שמונה ימים לפני מות חמותה בראש פנה בת 88 שנה.
+
+ צאצאיו: <persName>אסתר</persName> אשת <persName>יהושע נסיהו </persName> (מזכיר התכניון העברי בחיפה), <persName>לאה</persName> אשת<persName> חיים לב-טוב </persName> (מושב כפר יהושע), <persName>בנימין</persName> (פקיד באפ"ב חיפה), <persName>שרה</persName> אשת אהרן וינשטיין (פקיד בחברת החשמל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1627 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1627</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

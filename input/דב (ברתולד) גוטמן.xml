@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3093 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3093</bibl><bibl>Volume: #8 ,Page: 3094 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3094</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב (ברתולד) גוטמן</persName>
+
+</head>
+         <div><p> נולד בשנת תרמ"ט (14.4.1889) בעיר העתיקה שבירושלים.
+
+ לאביו <persName>אליעזר יחיאל</persName> (ראה ערכו בכרך זה) ולאמו <persName>שרה באבל</persName> בת <persName>ליפא שפירא.</persName>
+
+ בשנתו הששית נתיתם מהוריו, ובהשתדלות האפוטרופוס <persName>נחום מילר</persName> (אז מהנדס ביקב ראשון לציון) והעסקן <persName>וילהלם גרוס</persName> (ראה כרך א', עמוד 325) נתקבלו הוא ואחיו <persName>דוד</persName> לבית היתומים בהנהלת הד"ר <persName>אלעזר גרינהוט</persName> בירושלים (ראה כרך א', עמוד 169).
+
+ למד בבתי-הספר למל ואליאנס ושנה אחת בבית המדרש למורים של "עזרה" בירושלים. אח"כ עבד כפקיד במשרד לקומיסיון של וילהלם<persName> גרוס</persName> ואח"כ של <persName>פאול אברלה </persName> ביפו. בשנים שלפני מלחמת העולם הראשונה היה סוכן נוסע מטעם פירמה גרמנית לשוייץ, איטליה, טורקיה, סוריה וארץ-ישראל, וב-1920 חזר לארץ ופעל שנים רבות בתור קומיסיונר עצמאי.
+
+ ב-1924 נשא לאשה את <persName>דבורה </persName> בת <persName>ישראל לייטמן.</persName>
+
+ מראשוני החברים באגודת הקומיסיונרים ת"א-יפו.
+
+ חבר מהראשונים בהסתדרות העובדים הכללית בא''י.
+
+ מראשוני החברים בהלואה וחסכון יפו ת''א ובביטוח ההדדי של קופת עם, אח בלשכת הבנאים החפשים "מוריה".
+
+ ב-1943 נתקבל כפקיד בשרות ממשלת המנדט וממשיך בשרותו בממשלת ישראל.
+
+ בנותיו:<persName> שרה</persName> אשת<persName> הנס שלינגר, צביה</persName> אשת <persName>אפרים</persName> <persName>פקטור.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3093 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3093</bibl><bibl>Volume: #8 ,Page: 3094 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3094</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2626 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2626</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק שמואל דוד</persName>
+
+</head>
+         <div><p> נולד ב<placeName>יאנינה</placeName> (יוון)' י"ד טבת תרמ"ב (1881).
+
+ לאביו הרב <persName>שמואל</persName> (הרב הראשי של קהלת יאנינה) ולאמו <persName>לאה </persName> בת הרב<persName> אליעזר.</persName>
+
+ קבל חנוך מסורתי מפי אביו הרב, והיה שליח צבור בהתנדבות בבית הכנסת הגדול שמחוץ לחומה בעירו. ובעל תקיעה שאין כמוהו.
+
+ בגיל צעיר החל לעסוק במסחר הלבשה.
+
+ נשא לאשה את <persName>מזל</persName> בת<persName> יצחק בטיש.</persName>
+
+ בקולו הנעים והלבבי ידע לרתק את שומעיו, הופיע בקבלות הפנים למלכים ושרים של מלכות יוון בהופעתם בעירו.
+
+ בתרפ"ה (1925) עלה עם בני משפחתו לארץ, והשתקע בתל-אביב.
+
+ פתח בית מסחר לבגדים ביפו ואח"כ בתל-אביב, בשם "הדגל''.
+
+ המשיך כשליח ציבור (חזן) וכבעל תוקע בבית הכנסת "אוהל מועד". היה ממקורביו של הרב הראשי <persName>עוזיאל</persName> .
+
+ פעל במסירות ובשקידה בכל דבר צבורי באמונה. ממיסדי בית הכנסת לעדת הספרדים בצפון תל-אביב.
+
+ העמיד חזנים רבים מעדתו לפי הנוסחאות של הספרדים, שהיו משתתפים במסיבות החגיגיות שנערכו מטעם "אגודת חובבי החזנות'' והשעה העברית ב"אוהל שם".
+
+ הוא היה הנציג של החזנות בנוסח ספרד וסלוניקי.
+
+ ידע נגונים לאדיניים ושירי פולקלור עממי ספרדי.
+
+ נפטר בתל-אביב, ח' כסלו תשי"ד (15.11.53).
+
+ צאצאיו: <persName>לאה</persName> אשת <persName>שלום גבאי, שרה</persName> אשת <persName>יצחק</persName> <persName>מנקו, שמואל, רבקה, מרדכי</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2626 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2626</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

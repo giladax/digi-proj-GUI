@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1771 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1771</bibl><bibl>Volume: #4 ,Page: 1772 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1772</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בצלאל בזק (ביז'נסקי)</persName>
+
+</head>
+         <div><p> נולד בוולוצלבק (פולין), ח' בשבט תרנ"ח (31.1.1898), לאביו <persName>משה</persName> , ולאמו <persName>חיה-שרה</persName> בת<persName> דב</persName> <persName>פרבדה.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה. השכלה כללית רכש מפי מורים פרטיים. היה עסקן בתנועת-הציונות הדתית. חבר מועצת המזרחי ומועצת הפועל המזרחי בפולין. פעיל בצעירי מזרחי, בקרן היסוד, בחינוך הדתי בוולוצלבק.
+
+
+ בשנת תרפ"ד נשא לאשה את <persName>שושנה</persName> בת <persName>יצחק</persName> <persName>קארפר.</persName>
+
+ עלה ארצה בראש חדש אדר תרפ"ה. היה חבר אספת הנבחרים החל מהאספה השניה, מטעם המזרחי; חבר הועד הלאומי; בתקופת המאבק הישובי בשנת תש"ז שמש כמ"מ חבר הנהלת הועד הלאומי.
+
+ היה בקונגרסים הציונים החל מהקונגרס הי"ב (פרט לקונגרס הי"ד). חבר הועדה הארגונית על יד ההנהלה הציונית, שנבחרה לאחר הקונגרס ה-כ"ב.
+
+ כעת הוא חבר מועצת סניף הפוהמ"ז בירושלים. חבר המרכז של הסתדרות הפוהמ"ז בארץ ישראל. המזכיר הכללי של המרכז העולמי של המזרחי.
+
+ פרסם מאמרים בעתונים : "המזרחי", "קדם" שהופיעו בפולין. "התור", "נתיבה". ערך קובץ "נירותנו" שהופיע בוולוצלבק. כתב חוברת "הפועל המזרחי בא"י" (הוצאת צעירי המזרחי ניו-יורק תרפ"ז).
+
+ בניו : <persName>יעקב, שמואל, משה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1771 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1771</bibl><bibl>Volume: #4 ,Page: 1772 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1772</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

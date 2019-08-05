@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3099 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3099</bibl><bibl>Volume: #8 ,Page: 3100 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3100</bibl>
+<bibl>Volume: #8 ,Page: 3101 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3101</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גדליהו זקיף (ז'וכוביצקי)</persName>
+
+</head>
+         <div><p> נולד בחודש אב תרס''ה (אוגוסט 1905) בסלונים שבפולין-רוסיה-הלבנה.
+
+ לאביו <persName>שמואל זקיף-ז'וכוביצקי</persName> (ראה כרך ב', עמ' 935) ולאמו <persName>רחל </persName> בת<persName> גדליהו אורינובסקי</persName> (נפטרה במגדיאל, ה' אדר תר''ץ - 5.3.30).
+
+ עם חילופי מקומות המגורים של הוריו גדל ונתחנך בבתי-ספר דתיים-לאומיים בבאראנוביץ' ואח''כ בווארשה, ושם גמר את הגימנסיה.
+
+ עלה לארץ בשנת תרפ"ג (1923) במטרה - ללמוד בגמנסיה העברית "הרצליה" בתל-אביב (לפני שמשפתחו עלתה לארץ).
+
+ יצא ולמד ספרות באוניברסיטת פריס והיה שם פעיל ויו"ר בארגוני-נוער ציוניים. עבר ללמוד בבית-הספר הגבוה לכלכלה שליד אוניברסיטת לונדון ועבד שם במערכת השבועון המרכזי של ההסתדרות הציונית "העולם".
+
+ משחזר לארץ עסק בפובליציסטיקה ובתרגום ספרים מאנגלית ומצרפתית וגילה את יכלתו גם כנואם ומרצה. נשא לאשה את<persName> שושנה </persName> בת <persName>יעקב יורזד צקי.</persName>
+
+ בשנות לימודיו גילה יכולת של תעמולה וארגון בפעולותיו בהתנדבות למען הקרנות הלאומיות, ואח"כ נעשה דבר זה יעודו ועיסוקו העיקרי בחיים, כשיצא בשליחות הלשכה הראשית של הקרן הקיימת לסין, בלגיה וצרפת והצלחתו בעבודה הצדיקה את שליחתו שמה אח''כ נתמנה לנציג קבוע של קרן היסוד (אח"כ בשיתוף עם "המגבית היהודית המאוחדת") בארצות דרום-אמריקה, והוא פעיל שם גם למען הציונות והתרבות העברית.
+
+ בתקופת מלחמת השחרור ביצע בכמה מארצות אירופה ואמריקה הלטינית פעולה מיוחדת למען מגבית הבטחון לשעת חירום של ה"הגנה" לרכישת נשק ולמימון מלחמת השחרור, ובהופעות הצליח לא באיסוף כספים בלבד, אלא גם ברכישת אהדת גדולי העמים לעם ישראל במאבקו ולעורר התלהבות ונכונות בין
+
+
+ היהודים לעזור בממון ובהתנדבות אישית לשרותים צבאיים במלחמת תקומת המולדת.
+
+ בשנים האחרונות הוא יושב בקנדה מטעם "המגבית היהודית המאוחדת"
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3099 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3099</bibl><bibl>Volume: #8 ,Page: 3100 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3100</bibl>
+<bibl>Volume: #8 ,Page: 3101 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3101</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

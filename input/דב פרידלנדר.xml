@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4558 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4558</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב פרידלנדר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>צ'נסטוכוב</placeName> (פולין), בשנת תרמ''א (15.3.1881). לאביו <persName>אברהם</persName> (בעל בית חרושת למטריות) נכד בעל "מגן אבריהם''.
+
+ קיבל חינוך מסורתי בחדר. למד אמנות צריפת הכסף והזהב בלודז, וורשה, אודסה, טיפליס וברלין
+
+ ערך בהצלחה תערוכות מיצירותיו באירופה ובארצות הברית.
+
+ היה חבר הועד הציוני בדיסלדורף (גרמניה).
+
+ יצר כלי קודש אמנותיים לבית הכנסת בדיסלדורף. אסן, לונדון ובכמה ערים בארצות הברית.
+
+ בשנת 1932 עלה לארץ.
+
+ הקים בית חרושת למתכת וצפוי כסף בתל-אביב.
+
+ כתב מאמרים ודוגמות בעתונות המקצועית הגרמנית.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4558 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4558</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

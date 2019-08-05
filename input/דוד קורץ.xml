@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4518 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4518</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד קורץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>טפליץ</placeName> (צ'כוסלובקיה) בשנת תרפ"ה (19.1.1925).
+
+ לאביו <persName>שמואל קורץ</persName> (ראה כרך י"ג, עמוד 4248) ולאמו<persName> רחל</persName> בת <persName>ירוחם פישל נגל.</persName>
+
+ גמר בגרות בתור אקסטניסט. למד חקלאות באו
+
+ ניברסיטה העברית ברחובות.
+
+ עלה עם הוריו לארץ בשנת 1939.
+
+ משחר נעוריו הוא חבר "מכבי" והדריך את הנוער של המכבי בחולון.
+
+ כיום, יו''ר המכבי הצעיר בחולון.
+
+ נשא לאשה את <persName>יפה </persName> בת <persName>משה לוי</persName> (בוגרת הסמינר לוינסקי למורות בת"א).
+
+ התגייס ושירת בצה"ל במלחמת השחרור. עבד במשרד החקלאות באגף לשימור הקרקע. משם עבר לחברת החשמל בתפקיד אדמיניסטרטיבי והגיע לדרגת פקיד בכיר באגף הביצוע של החברה.
+
+ ממיסדי לשכת "השלושה" - בני-ברית בחולון. כיהן בתור מזכיר הלשכה שנתים. חבר בית דין כבוד הלשכה.
+
+ צאצאיו: <persName>שרגא, צבי</persName> (תאומים), <persName>בתיה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4518 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4518</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 782 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/782</bibl><bibl>Volume: #2 ,Page: 783 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/783</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה חיים נאמן</persName>
+
+</head>
+         <div><p> נולד בוארשה, י' שבט תרנ"א (1891), לאביו <persName>בנימין</persName> <persName>חנוך ניימאן</persName> ולאמו <persName>שיינה לאה</persName> לבית <persName>רוזה</persName> . למד לימודי יהדות ב"חדר", בבית זקנו בוארשה וזמן קצר בישיבת אוסטרוב, פלך לומזה, והתכונן באופן פרטי לבחינות בי"ס תיכוני. היה מפעילי אגודת-הנוער הציונית "בני ציון" בפרבר פראגה של וארשה וריכז סביבו נוער ללימוד השפה העברית וספרותה.
+
+ בתרס"ז עלה ארצה והחל לעבוד עבודה חקלאית בין בני העליה השניה. הצטרף למפלגת "הפועל הצעיר" והשתתף בועידתה ביפו, בסוכות תרס"ט. בתרס"ח נתקבל כתלמיד וכעוזר חינוכי בבית-החקלאי "קרית ספר" מיסודו ובניהולו של <persName>ישראל בלקינד</persName> בבן-שמן. כשנסגר המוסד מחוסר אמצעים בסוף תרס"ט יצא לפולין, עסק בהוראה עברית ובהפצת תרבות עברית בהולשאני, פלך וילנה, בבתי-ספר עבריים בוארשה, ובתרע"א יסד "חדר מתוקן" בנובו-מינסק, פלך ווארשה.
+
+ בראשית תרע''ג חזר ארצה והתמסר לעבודת ההוראה בבית הספר העממי בחדרה בהנהלת ישראל בלקינד, שם עבד עד סוף תרע"ח. בתרע"ט בהר-טוב, בתר"פ-פ"ב בדמשק, ומאז מנהל ביה"ס בתרפ"ג-פ"ז
+
+
+ במטולה, בתרפ"ח-צ"ב בעקרון, ומתרצ"ג ואילך בנס ציונה.
+
+ בשנות שרותו במטולה היה עסקן פעיל למען קרן היסוד בגליל העליון וגם כתב ב"הארץ" מאמרים על קרן היסוד ופעולותיה. הצטרף לתנועת הציונים הכלליים ופעיל בעבודה תרבותית-חינוכית במקומות שרותו, פעיל בחיים הארגוניים של צבור המורים וחבר ועד סניף דרום יהודה של הסתדרות המורים.
+
+ בתקופת שרותו בדמשק היה כתב קבוע של העתון "הארץ" ב"מכתבים מדמשק" ואח"כ כתב בעתון סקירות מתוך ידיעת המצב על מרד הדרוזים בסוריה ב-1925. בשנות שרותו במטולה פרסם ב"הארץ" את ה"מכתבים מצפון הארץ". וכן כתב בעתון על המתרחש בחיי צבור המורים. פרסם מאמרים ב"הדואר" שבניויורק, וכן מאמרים בשאלות חינוך ב"הד החנוך" ובספר היובל של הסתדרות המורים.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בנס-ציונה, ב' סיון תשכ"א (17.5.61) (כרך שני, עמוד 782)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 782 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/782</bibl><bibl>Volume: #2 ,Page: 783 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/783</bibl>
+            <bibl>Volume: #11 ,Page: 3882 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3882</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

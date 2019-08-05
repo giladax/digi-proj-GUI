@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1504 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1504</bibl><bibl>Volume: #3 ,Page: 1505 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1505</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל שטהל</persName>
+
+</head>
+         <div><p> נולד בפאביאניץ, מחוז לודז' (פולין) בחדש סיון תרנ"ו (16.5.1896), לאביו<persName> צבי </persName> (סוחר ובעל תעשית אריגים) ולאמו <persName>מרים</persName> בת<persName> צבי קומשטט</persName> מלודז'.
+
+ למד בחדרים, בגמנסיה בפאביאניץ ובבית- ספר לתעשית אריגה בחמניץ שבגרמניה.
+
+ כשפרצה מלחמת-העולם הראשונה היה סגן בצבא הרוסי, נפצע במלחמה, ומששוחרר חזר לעבוד בביתהחרושת של אביו. השתתף ביסוד המכבי בפולין ב-1916 והיה פעיל במכבי ובתנועת הספורט הכללית בפולין וכשחקן בכדורגל בקלוב "פ. ט. צ." עד בואו ארצה.
+
+
+ עלה לארץ בסוף ינואר 1925, הצטרף למכבי תל-אביב ופעל רבות למען פיתוחו, במיוחד בענף כדורגל וייצג אותו במשך שנים רבות כחבר ועד ההתאחדות הארצית לכדורגל. היה פעיל גם בהנהגת אגודת מכבי ת"א ונבחר ליושב-ראשו ולחבר במרכז הארצי. בשנות 1927-28 ומשנת 1933 ראש מחלקת כדור רגל של מכבי ת"א. פרסם הרבה מאמרים בעתונות בעניני ספורט והיה מהראשונים שעשו תעמולה לספורט בעתונות. את בקורתיו הדפיס ב"דאר היום" ו"הארץ" בחתימת ש. ש. (בשנות 1927-39 ).
+
+ היה ממונה להרכבת הקבוצה הארצית למשחקים בין-לאומיים.
+
+ נשא לאשה את <persName>דבורה</persName> בת <persName>ראובן יודילביץ</persName> מראשון לציון (ראה כרך ב', עמוד 633).
+
+ כשבא ארצה החל לעבוד במשרד הסוכן לביטוח <persName>רפאל ליפמן</persName> ביפו. אחרי שלש שנים פתח בשותפות עם מר <persName>דוד צימבר</persName> משרד לביטוח כללי, שהתפתח במשך הזמן לחברת האחריות "מנורה" ושהיא כעת אחת החברות הגדולות בענף הביטוח הכללי, ובמשך השנים רכשה החברה סוכנויות של חברות-ביטוח שונות בעולם בענף הביטוח הכללי, וגם הצליחה להשפיע עליהן שתשקענה מהונן בהלואות לחקלאות, לתעשיה ולבנין, ובכך עזרו לבנין הארץ ופיתוחה.
+
+ בנותיו: <persName>מרים ,רות.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1504 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1504</bibl><bibl>Volume: #3 ,Page: 1505 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1505</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

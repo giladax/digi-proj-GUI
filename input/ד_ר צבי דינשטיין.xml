@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4484 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4484</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר צבי דינשטיין</persName>
+
+</head>
+         <div><p> נולד בתל-אביב, בשבת נחמו, י"ג אב תרפ"ו (24.7.1926).
+
+ לאביו העו"ד <persName>חיים דינשטיין</persName> ולאמו<persName> רבקה</persName> בת <persName>דוד פישלין.</persName>
+
+ קיבל חינוך עברי. בוגר האוניברסיטה העברית בירושלים.
+
+ בהיותו תלמיד באוניברסיטת ג'נבה (למד משפטים וקבל תואר ,)LL.D.גייס אותו פנחס ספיר (ראה כרך ז, עמוד 2845) שהיה אז מנהל הרכש באירופה (במלחמת הקוממיות) לעבודה (ספיר נהיה אח"כ שר המסחר והתעשיה, שר האוצר).
+
+ בשעה ש<persName>פנחס ספיר </persName> היה מנהל כללי של משרד הבטחון, מל<persName>א צבי </persName> תפקידים חשובים בפריס (צרפת) ואחרי <persName>שספיר</persName> נתמנה למנהל כללי של משרד האוצר, העביר אותו למפקח האגף למטבע חוץ.
+
+ בתוקף תפקידו, הוא עוסק בכל עניני סחר חוץ ומפנה לבעיות אלה את מרבית מרצו.
+
+ נשא לאשה את <persName>איה</persName> בת ד"ר <persName>ארתור רופין</persName> (ראה כרך ששי, עמוד 2607).
+
+ בשנות 1948-53 היה חבר משלחות בעניני עליה ורכישת ציוד צבאי בחו"ל (הרכש).
+
+ בשנות 1953-54 מנהל המפקח על מטבע חוץ ומנהל רשות ההשקעות במשרד האוצר.
+
+ בסוף 1958 הכריז על הסרת "חרפת 10 הדולרים", ופירט בפני העתונאים את התכנית לאפשר לכל נוסע לחו"ל לרכוש 100 דולרים (אח"כ 500 דולרים).
+
+ כיום, המפקח על מטבע חוץ.
+
+ בנותיו: <persName>אירית, ענת, גילי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4484 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4484</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

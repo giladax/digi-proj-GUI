@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4436 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4436</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב מני</persName>
+
+</head>
+         <div><p> אחד מחמשת בניו של הרב החסיד המקובל ר' <persName>אליהו מני</persName> זצ"ל, מעולי בגדה רבה של חברון וראש
+
+ משפחת מני בארץ (ראה כרך א', עמוד 41) ולאמו <persName>סמרה.</persName>
+
+ נולד ב<placeName>חברון</placeName> בשנת תרכ"ד (1864).
+
+ התחנך ב<placeName>חברון</placeName> ולמד בישיבת אביו.
+
+ נשא לו לאשה את <persName>חנה</persName> בת ר' <persName>נסים להבה </persName> ז"ל (אחד משבעה טובי העיר וגבאי העדה הספרדית ב<placeName>חברון</placeName>).
+
+ עסק בתורה כל ימיו; פרט לתקופה קצרה שיצא כשד"ר לארצות בוכרה.
+
+ לא עזב את חברון, אלא לאחר מות רעיתו<persName> חנה</persName> ז"ל. בשנת 1940, עת יצא לבגדד לבקור משפחתי ושם מצא את מותו בתאונת דרכים.
+
+ היה מעורב עם הבריות, כיהודים וכערבים, למד והכיר יפה-יפה את חברון, את תולדותיה ואת סביבתה. שימש את אביו ועמד על ידו, עת יתר אחיו היו עסוקים בתפקידים צבוריים, מי ברבנות, מי בחו"ל, ומי בתפקידים אחרים.
+
+ המנוח יצחק בן-צבי ז"ל (הנשיא השני למדינת ישראל) בספרו "שאר ישוב" חלק ב', מספר על ר' <persName>יעקב</persName> שמצא בו ת"ח שמכיר את העיר חברון, תולדותיה וסביבותיה הכרה יסודית והיה לו לעזר בחיפושיו אחרי מסורת יהודית בכפרי סביבת חברון, וליוה אותו בסיוריו לחקור אותה, והביע לו תודה על עזרתו.
+
+ נפטר בבגדד, ה' תשרי תש"א (7.10.1940).
+
+ צאצאיו: <persName>מנשה</persName> (בתל-אביב, ראה כרד א', עמוד 294), <persName>יהודה</persName> (בארה"ב), <persName>שמחה</persName> אשת<persName> חנוך קנטרוביץ,</persName> <persName>רחל</persName> אשת <persName>חיים פאייר, מלכה</persName> אשת<persName> נתן זוטא,</persName> <persName>זמירה</persName> אשת<persName> ניסן משורר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4436 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4436</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

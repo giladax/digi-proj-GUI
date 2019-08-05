@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4315 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4315</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנימין שטמפפר (צעדי)</persName>
+
+</head>
+         <div><p> נולד בפתח-תקוה, ט"ו שבט, תרס"ה (21.1.1905).
+
+ לאביו ר'<persName> שלמה יצחק שטמפפר</persName> (מעסקני פתח-תקוה, ראש העיר הראשון שלה, ראה כרך א', עמוד 294) ולאמו <persName>אסתר</persName> בת<persName> יחזקיהו יעקב דנציגר.</persName>
+
+ קיבל חינוך מסורתי בביה''ס הדתי "נצח ישראל"
+
+ במושבה, בתלמוד תורה "עץ-חיים", ובישיבת עץ חיים בירושלים. למד זמן מה באוניברסיטה העברית.
+
+ היה חבר הוועד למען הלשון בירושלים.
+
+ היה מזכיר אגודת "בני-בנימין" והיה בין היוזמים של גאולת והקמת נתניה.
+
+ שימש כמוכתר הראשון (מייצג המקום בפני השלטונות) ומזכיר הוועד של נתניה. למעשה היה ראש הוועד הראשון שלה.
+
+ כל השנים חבר ההגנה.
+
+ בימי המאורעות התגייס כשוטר מוסף.
+
+ בחוברת שפורסמה ליום 25 שנה לייסוד נתניה, פרטים אודות פעולותיו.
+
+ בפקידות - בעיריית פתח-תקוה.
+
+ צאצאיו ; <persName>אסתר</persName> אשת<persName> יוסף דור, זהבה </persName> אשת <persName>צבי בן</persName> <persName>דוב, שמעון אשר שטמפפר, אליהו שטמפפר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4315 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4315</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3980 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3980</bibl><bibl>Volume: #12 ,Page: 3981 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3981</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל קלמן גולדריך</persName>
+
+</head>
+         <div><p> נולד ג' תמוז תרס"ג (1903) בלודז' שבפולין.
+
+ לאביו<persName> צבי</persName> ולאמו<persName> פריידה</persName> בת<persName> יהודה ליב פליבצקי</persName> .
+
+ למד בישיבות (ואחרי עשרות שנים עמד לפני ארבעה מגדולי הרבנים בארץ בבחינות בתלמוד ובהלכה והוסמך להוראת איסור והיתר ולשימוש בתואר "הרב"), התמסר
+
+ לפעילות בציונות הדתית והגיע לתפקידי סגן יו"ר צעירי המזרחי בלודז' וחבר המרכז הארצי.
+
+ עלה לארץ בשנת תרפ"ג (1923). עבד אצל מגדלי טבק ביבנאל (1923-24) , בעבודות-הכשרה בקרקעות הקהק"ל ב-ורקני ושיק אבריק שבשולי עמק יזרעאל. היה מזכיר סניף הפועל המזרחי בירושלים ואח"כ מזכיר הסניף בפתח תקוה.
+
+ בשנת תרפ"ו נשא לאשה את<persName> הדסה</persName> בת <persName>יעקב בריל</persName> .
+
+ היה חבר ההגנה ושירת כנוטר.
+
+ עם גידול משקלו הציבורי של סניף הפועל המזרחי בפתח תקוה נתרחב גם היקף הפעולה של נציגו המוכשר במוסדות ובמפעלים של המקום ושל המפלגה. מילא תפקידים בתור חבר מרכז הפועל המזרחי וחבר הנשיאות (וכעת חבר המועצה הארצית של המפלגה הדתית-לאומית), חבר מועצת העיר פתח תקוה והנהלתה הראשונה, מנהל כופר הישוב, מנהל מס חירום, יו"ר ועדת הגיוס המחוזית במלחמת השחרור, ציר לקונגרסים הציוניים י''ט,
+
+
+ כ"א וכ"ג, חבר המועצה הדתית של פתח-תקוה מראשיתה, וכעת עסוק בקביעות בתור יושב-ראש ומנהלה בפועל.
+
+ צאצאיו: <persName>איטה, צבי, יהודה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3980 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3980</bibl><bibl>Volume: #12 ,Page: 3981 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3981</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

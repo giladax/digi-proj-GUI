@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3965 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3965</bibl><bibl>Volume: #12 ,Page: 3966 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3966</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה אהרן בר-קול (קולה)</persName>
+
+</head>
+         <div><p> נולד א' אלול תרע"א (15.9.1911) בווארשה, פולין.
+
+ לאביו <persName>פנחס מנחם קולה </persName> (בן הרב <persName>זלמן יוסף,</persName> מראשי חסידי סטולין-קארלין בווארשה, והוא עצמו דור עשירי למהרש"א) ולאמו <persName>חוה</persName> בת<persName> יצחק אייזיק וינר.</persName>
+
+ אחרי ראשית לימודו בחדר עבר עם המשפחה לצוויקאו שבגרמניה, שם למד בבית-ספר יסודי, אח"כ בבית-מדרש למורים היהודי בווירצבורג ובישיבת הרב ד''ר<persName> הופמן</persName> בפראנקפורט ענ"מ, שם היה פעיל ב"צעירי המזרחי" ומשם הלך להכשרה של בח"ד (ברית חלוצים דתיים) בריקאבו דה קאסטלינה שבאיטליה.
+
+ ב-1935 נשא לאשה את<persName> רות </persName> בת<persName> שלמה דויד.</persName>
+
+ באותה שנה עלה לארץ, התחיל בהוראת השפה העברית למבוגרים, ביחוד בקרב עולי גרמניה, ואח''כ
+
+ נתקבל להוראה בבתי-הספר. בשנות הוראתו בבית-הספר העממי בנחלת יצחק (1951-1939) שימש בו בתור מורשה מטעם הקהק"ל, והיה חבר ועדת התרבות השכונתית בנחלת יצחק ועסקן בעניני חינוך, תרבות ודת (חוץ מהשרות והפיקוד בהגנה ובהג"א). מ-1951 ואלך הוא מורה ומנהל בית-הספר "המתמיד" ברמת-גן, למד שלוש שנים באוניברסיטת תל-אביב והנו מורה גם בבי"ס תיכון עירוני ערב א' בתל-אביב, חבר ועדת התרבות של עירית גבעתים וחבר ועד בית הכנסת "התחיה" ברמת-גן.
+
+ כתב מאמרים ב"הד החינוך" על חינוך לאזרחות.
+
+ צאצאיו:<persName> מיכה, יאיר, אמתי.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3965 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3965</bibl><bibl>Volume: #12 ,Page: 3966 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3966</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

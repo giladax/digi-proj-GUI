@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2145 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2145</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי שמחה כץ</persName>
+
+</head>
+         <div><p> נולד בשנת תרל"ז (1877) בדזיאלושיץ, מחוז פינצ'ב, פולין, לאביו ר' <persName>ירחמיאל מיכאל</persName> (ממשפחת אדמו"רים) ולאמו <persName>זלדה </persName> בת ר' <persName>משה שקולניק</persName> מסטובניץ. נתחנך בתורה ובחסידות ובשנת תרנ"ז נשא לאשה את<persName> שרה לאה</persName> בת ר' <persName>ישראל שטרוך</persName> מורשה (נפטרה בתל-אביב כ"ג חשון תש"ד). השתקע בוארשה, עסק בתעשית סריגה
+
+ וגירוד וראה ברכה בעמלו, ולבניו נתן חינוך דתי-לאומי במוסד "תחכמוני" בוארשה.
+
+ כשארז בתרצ"ג את חפציו ומכונותיו לעלות ארצה עם כל המשפחה, צחקו רבים למעשהו באריזת המכונות, כי מה יעשה בארץ-ישראל, שתעשיתה עדיין לא התפתחה למדרגה כזו, שיהא בה שימוש במכונות כאלה.
+
+ קירו את נאמנותו, וגם הרב הראשי ר'<persName> שמואל סלנט</persName> היה ממוקיריו. כל ימי שבתו בירושלים דר ברציפות בבית שבו נולד בעיר העתיקה ובו נולדו גם צאצאיו.
+
+ בתרס''ו חיסל את עסקיו בירושלים, ומצויד בהמלצות ומכתבי תהלה מבנק אפ"ק ומהבנק הגרמני הארצישראלי וגם מסוחרים גדולים יצא לאמריקה והמשיך שם בעסקי מסחר ובמעשה חסד ותמיכה בשד"רים ובמוסדות שבארץ-ישראל.
+
+ בניסן תרפ"ה חזר ארצה והתישב בתל-אביב.
+
+ צאצאיו: <persName>פנחס </persName> (בברוקלין), <persName>יצחק אשר</persName> (חבר הפירמה <persName>סלומון, לוין ואלשטיין</persName> בת''א), <persName>אהרן</persName> ז"ל (נפטר בשיקאגו בחשון תש"ה),<persName> חיה רחל</persName> אשת <persName>צבי בנימין </persName> (סוחר בכלי כסף ושעונים בירושלים), <persName>זיסל מרים</persName> אשת <persName>נחמן</persName> בן הרב יהודה ליב זלצר (מזכיר אגודת הרבנים<persName> בניו</persName> <persName>יורק), זאב</persName> (פקיד בבנק א. פ. בת"א).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2145 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2145</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

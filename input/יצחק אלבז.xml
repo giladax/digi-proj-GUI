@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3611 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3611</bibl><bibl>Volume: #10 ,Page: 3612 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3612</bibl>
+<bibl>Volume: #10 ,Page: 3613 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3613</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק אלבז</persName>
+
+</head>
+         <div><p> נולד בעיר פאס (מרוקו) בשנת תקע"ג (1813). לאביו<persName> שלום.</persName>
+
+ קבל חנוך מסורתי.
+
+ נשא לאשה את<persName> ג'והרה </persName> לבית <persName>אלבז </persName> (נפטרה ביפו, ב' טבת תרל"ג) ובזיווג שני נשא לאשה את<persName> יוכבד</persName> , בת <persName>אליהו אלמושניס.</persName>
+
+ עלה עם משפחתו לארץ בשנת תקצ"ח (1838) והתישבו ביפו.
+
+ בנה בית והקים בית להכנסת עולים ואורחים, וכן הקים בית כנסת לתפלה הנקרא אז בשם "כניס אלמגארבה" (בית כנסת למרוקנים) וכן בי"ס לתלמידי העולים ממרוקו.
+
+ בנה שתי חנויות מאבני חומת העיר יפו.
+
+ עסק בחלפנות. מהבנקאים הראשונים בארץ.
+
+ קשר קשרים טובים עם השכנים הערבים ועזר
+
+ לגאול שטחי קרקע מהערבים.
+
+ נפטר ביפו, חי סיון תרמ"ט (1889).
+
+ צאצאיו (מאשתו השניה): <persName>שלום</persName> (בעל בית מרקחת בקהיר)<persName>, משה</persName> (ראה בכרך ז', עמוד 2814),<persName> אלדיסה </persName> אשת <persName>אלעזר אזולאי, שרינה</persName> אש<persName>ת אברהם חיים שלום </persName> (ראה בכרך א', עמוד 504), <persName>רחמה</persName> אשת <persName>יעקב טולידאנו</persName> (חיפה), <persName>שרה </persName> אשת <persName>מרקאדו חזן, ג'והרה, יוכבד</persName> אשת <persName>שאול</persName> <persName>מרקאדו חזן</persName> .
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3611 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3611</bibl><bibl>Volume: #10 ,Page: 3612 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3612</bibl>
+<bibl>Volume: #10 ,Page: 3613 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3613</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4319 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4319</bibl><bibl>Volume: #13 ,Page: 4320 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4320</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שרה קריניצי</persName>
+
+</head>
+         <div><p> נולדה בקלן (גרמניה) בשנת תרנ"ז (1897). לאביה <persName>אברהם הברמן</persName> ולאמה<persName> סבינה.</persName>
+
+ קיבלה חינוך כללי בעיר מולדתה.
+
+ עלתה לארץ לפני מלחמת העולם השניה.
+
+ בשנת 1942 נישאה למר<persName> אברהם קריניצי,</persName> ראש עיריית רמת-גן (ראה כרך ב', עמוד 810).
+
+ עסקנית בבנות-ברית ונבחרה לנשיאת כבוד.
+
+ במיוחד, מסורה היא כיו"ר ה"ליגה למלחמה בשחפת" ברמת-גן. לפני כ-20 שנה היתה מהיוזמות שהקימו בניין מפואר למוסד, בו עובדים כיום 8 פקידים, והמוסד מקבל תמיכה שנתית גם מעיריית רמת-גן.
+
+ פעילה בעוד מוסדות סוציאליים וחברותיים, ומגישה את עזרתה לפונים אליה.
+
+ למסיבות וקבלות אורחים בביתם, הנערכות ע"י בעלה, ראש העיר הפעיל, היא משקיעה מרץ רב והפכה
+
+
+ את הבית לבית "כלבא שבוע".
+
+ מילדותה פעילה לטובת הזולת.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4319 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4319</bibl><bibl>Volume: #13 ,Page: 4320 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4320</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

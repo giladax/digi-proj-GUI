@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1315 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1315</bibl><bibl>Volume: #3 ,Page: 1316 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1316</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר רפאל פטאי</persName>
+
+</head>
+         <div><p> נולד בבודאפשט (הונגריה) בשנת תרע"א (22.11.10) לאביו פרופ'<persName> יוסף פטאי</persName> (סופר ומשורר בעברית ובהונגרית, ראה כרך א', עמוד 82) ולאמו <persName>שולמית</persName> (אדית) בת משה אהרנפלד (מצאצאי החתם סופר), סופרת בעניני אמנות. קיבל חינוך כללי ועברי בהדרכת אביו. למד באוניברסיטאות ובבתי-המדרש לרבנים בבודאפשט ובברסלאו וב-1933 הוכתר בתואר דוקטור לפילוסופיה באוניברסיטת בודאפשט על סמך דיסרטציה <persName>עברית</persName> על "שירי ישראל ברכיה פונטאנילה" (נדפס אז בבודאפשט).
+
+ באותה שנה, 1933, עלה ארצה, למד כתלמיד-מחקר באוניברסיטה העברית וב-1936 קיבל את התואר דוקטור לפילוסופיה (הדוקטוראט הראשון של האוניברסיטה העברית) על סמך ספרו "המים, מחקר ליריעת-הארץ ולפולקלור ארצישראלי בתקופות המקרא והמשנה" (הספר הוכתר באותה שנה בפרס-ביאליק של עירית ת"א לחכמת ישראל). באותה שנה יצא לבוראפשט והוסמך בתואר <persName>רב </persName> בבית-המדרש לרבנים שם. בחדשי שהותו בהונגריה נשא הרצאות רבות על ארץישראל ועל התרבות העברית (אחת מהן ברדיו ההונגרי, היחידה לעת-עתה באותו מפעל על נושא זה), בראשית 1937 חזר ארצה וכתוצאה מעבודתו בפרסמחקר שקיבל מהאוניברסיטה העברית פרסם את הספר "הספנות העברית, פרק בתולדות התרבות הארצישראלית בימי קדם" (בהוצאת החברה העברית לחקירת א"י בסיוע מוסד ביאליק). בשנות 1938/42 היה מורה בקורסים לעברית שליד האוניברסיטה. בחורף תש"א נתן סדרת הרצאות באוניברסיטה על
+
+
+ פולקלור ואתנולוגיה. באותו זמן ערך יחד עם <persName>צבי</persName> <persName>וולמוט</persName> את הספר "מבחר הספור הארצישראלי" (יצא בשתי מהדורות בהוצאת ראובן מס). בתש"ג היה מזכיר הנהלת התכניון העברי בחיפה. בשנות 43/ 1942 הוציא שני כרכים של ספרו "אדם ואדמה, מחקר במנהגים, אמונות ואגדות אצל ישראל ואומות העולם" (הוצאת האוניברסיטה העברית). בראשית 1944 יסד את המכון לפולקלור ואתנולוגיה, ומאז הוא מנהלו המדעי של מכון זה. באפריל 1945 העניקה לו האוניברסיטה העברית את פרס-וארבורג לשם חקר
+
+ האתנולוגיה של עדות ישראל, ובאוקטובר 1945 התחיל להוציא, יחד עם <persName>ד"ר יוסף י. ריבלין</persName> את כתבהעת "עדות, רבעון לפולקלור ואתנולוגיה". בחורף תש"ו נתן להזמנת מר <persName>אדווין סמואל</persName> סדרת שיעורים על המבנה החברותי של ארץ-ישראל במסגרת "שיעורי ההדרכה בירושלים". ב-1946 הוציא באדינבורג את ספרו באנגלית על האדם וההיכל במחשבה הדתית הישראלית העתיקה, והכין לדפוס את ספרו בעברית על "מדע האדם, מבוא לאנתרופולוגיה". כתב מאמ רים רבים בעתונים ובכתבי-עת מדעיים בארץ ובחו"ל ושידר הרצאות ברדיו ירושלים על הפולקלור והאתנולוגיה של עם ישראל. חבר הועד של האגודה העברית למען ירושלים ושל האגודה למען מוזיאון פולקלורי בארץ-ישראל ; חבר המכון המלכותי הבריטי לאנתרופולוגיה, חבר בחברות לפולקלור באנגליה ובאמריקה, ועוד.
+
+ אשתו <persName>נעמי</persName> בת <persName>שמואל וחנה טולקובסקי</persName> (נכדת <persName>יצחק ליב ורחל גולדברג)</persName> .
+
+ בנותיו: <persName>עפרה, דפנה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1315 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1315</bibl><bibl>Volume: #3 ,Page: 1316 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1316</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

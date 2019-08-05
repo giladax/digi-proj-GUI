@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2814 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2814</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה אלבז</persName>
+
+</head>
+         <div><p> נולד ביפו בשנת תר"מ (1880).
+
+ לאביו<persName> יצחק </persName> ולאמו<persName> יוכבד</persName> בת <persName>אליהו אלמושנינו</persName> ממרוקו.
+
+ קבל חנוך מסורתי בתלמוד תורה אצל החכמים ר' <persName>אליהו שמול</persName> והרב <persName>יוסף שמחון</persName> . גמר את למודיו בבית הספר החינוכי "תפארת ישראל" של החכם זאבי כהן בבירות, שם למדו לימודי יהדות, צרפתית וערבית והשכלה כללית.
+
+ חזר ליפו ופתח בית מסחר לגלנטרי.
+
+ הגיש עזרה לעולים ועסק בצרכי צבור באמונה.
+
+ נשא לאשה את <persName>לאה</persName> בת<persName> יעקב בן-נון</persName> (חלפן, נפטר בתל-אביב, כ''א חשון תרפ''ט, בנו של הרב <persName>יוסף רפאל</persName> בן-נון, רבה הראשון של יפו. ראה כרך ג', עמוד 1421).
+
+ נפטר בתל-אביב, י"ט כסלו תרצ"ה (26.11.1934).
+
+ צאצאיו: <persName>אברהם, מרגלית</persName> אשת<persName> משה בן-טוב, יצחק.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2814 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2814</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

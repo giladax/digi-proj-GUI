@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2553 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2553</bibl><bibl>Volume: #6 ,Page: 2554 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2554</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה בן-ציון אליאך</persName>
+
+</head>
+         <div><p> נולד בטבריה, ו' שבט תרמ"ז (1887).
+
+ לאביו הרב <persName>שלמה יוסף אליאך</persName> (ראה כרך ראשון, עמוד 348) ולאמו <persName>דאבריש</persName> בת ר' <persName>יהושע רוקח.</persName>
+
+ קיבל חינוך מסורתי בישיבת "עץ-חיים" ו"תורת חיים" בירושלים.
+
+ בתרס"ה נשא לאשה את <persName>רחל </persName> בת הרב <persName>יחזקאל</persName> <persName>רבינוביץ</persName> (נפטרה בניו-יורק, ט' תשרי תרפ"ח 5.10.1927) ובזיווג שני נשא (בשנת תש"ה) לאשה את <persName>דבורה</persName> בת הרב <persName>מנשה מרגלית.</persName>
+
+ היה פקיד בדואר הצרפתי בירושלים.
+
+
+ בתרע"ה (1915) נסע בשליחות מוסדות הצדקה והחינוך, החרדים לארצות הברית.
+
+ מזכיר הצדקות המאוחדות תלמוד תורה וישיבת "עץ חיים" ו"ביקור חולים הוספיטאל" (ירושלים) באמריקה ובקנדה. בפועל הוא מנהלם. הצליח לרכז אישים חשובים מיהדות אמריקה לועד הדואג להחזקת המוסדות.
+
+ היה חבר הועד הפועל של המזרחי ויסד חברת נשים הראשונה של נשי המזרחי (אשר נתפשטה אח"כ למאות חברות של נשי מזרחי) באמריקה.
+
+ ממיסדי הסתדרות בני א''י באמריקה ושירת בתור סגן נשיא, גזבר ומזכיר.
+
+ חבר לועד של המגבית המאוחדת בבורו-פארק בברוקלין.
+
+ ממיסדי בית הכנסת קהלת בני א"י בבורו-פארק ושירת שם בתור מזכיר ונשיא.
+
+ שירת שנים רבות בחור נשיא אגודת "אחוה" באמריקה.
+
+ השקיע מרץ רב בפרסום המוסדות הנ''ל שהוא עמד בראשם. עשה רבות למען המפעלים החשובים במשך 39 שנה. יהודי אמריקה וקנדה מתחשבים עם המוסדות האלה ומגישים עזרתם ברצון.
+
+ צאצאיו (מאשתו הראשונה): <persName>יחזקאל עליאס</persName> (אשתו <persName>הענע</persName> היא ד"ר לפסיכולוגיה בביה"ס המקומי בעיר אסיינינג, מחוז ניו-יורק),<persName> חנה</persName> אשת <persName>מאיר אליאך</persName> (מורה), <persName>טובה</persName> (ז"ל) אשת ד"ר <persName>יוסף מאררי</persName> (רופא שנים). היא היתה נשיאת "הדסה" בבורו-פארק (בניה:<persName> רפאל, דוד)</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2553 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2553</bibl><bibl>Volume: #6 ,Page: 2554 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2554</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

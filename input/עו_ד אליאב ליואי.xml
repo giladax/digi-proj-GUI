@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3878 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3878</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עו"ד אליאב ליואי</persName>
+
+</head>
+         <div><p> נולד ביפו, ל' כסלו תרס"ו (28.12.1905).
+
+ לאביו <persName>אברהם ליואי </persName> (כרך ח' עמוד 3180) ולאמו<persName> רבקה</persName> בת <persName>יהודה הורביץ</persName> מירושלים.
+
+ קיבל חנוך מסורתי בביה"ס תחכמוני, בית מדרש למורים "מזרחי".
+
+ גמר את בית הספר למשפטים בירושלים וקיבל תואר עו"ד.
+
+ היה מראשי גדוד מגיני השפה ומפעיליה.
+
+ נשא לאשה את <persName>רחל</persName> בת<persName> יהודה פטרבוים</persName>
+
+ בשנת 1942 נבחר ליו"ר מועצת בת-ים (היום עיריה).
+
+ משרד עורכי הדין: "ליואי, מינקוביץ ושות"'.
+
+ צאצאיו :<persName> עמי זכאי</persName> (עו"ד),<persName> נוה </persName> אשת<persName> ישראל ענב,</persName> <persName>נוגה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3878 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3878</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

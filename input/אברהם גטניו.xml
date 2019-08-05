@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 949 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/949</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם גטניו</persName>
+
+</head>
+         <div><p> בן <persName>מרדכי וביינבנירא </persName> (רוזה) בת <persName>אברהם חנוכה</persName> מסלוניקי.
+
+ נולד ב<placeName>סלוניקי</placeName> בחודש שבט תר"ס (1900). קיבל חינוך בתלמוד תורה ובגיל 14 החל לעבוד במאפיה לדברי מתיקה. נשא לאשה את<persName> אלגרה </persName> בת יעקב קלדרון מסלוניקי.
+
+ בשנת תרפ"ה עלה ארצה עם משפחתו והיה מהראשונים שהקים בנין ומאפיה ב"שכונת שפירא" בתל-אביב. פתח תעשיה משוכללת לביסקויטים ודברי מתיקה אירופיים.
+
+ בימי המאורעות בתרפ"ט סבל כשנשדדו כל חפצי הבית, והיה מהיחידים שלא עזב את השכונה ועמד בהגנתה.
+
+ צאצאיו:<persName> שושנה </persName> אשת משה סטרומזה,<persName> מרדכי,</persName> <persName>יעקב, משה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 949 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/949</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3469 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3469</bibl><bibl>Volume: #10 ,Page: 3470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3470</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף לוטן (לטיס)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אלכסנדריה</placeName> (מצרים) י"א תמוז תרס"ט (30.6.1909).
+
+ לאביו<persName> רפאל לטיס</persName> ולאמו <persName>אליס</persName> לבית <persName>פולד.</persName>
+
+ קיבל חינוך תיכוני ב<placeName>אלכסנדריה</placeName> (מצרים), אוניברסיטה ברומא (איטליה) וקיבל תואר ד"ר למשפטים. עסק במצרים כעורך דין.
+
+ בשנת 1936 נשא לאשה את <persName>תמר</persName> בת<persName> הוגו מורפורגו.</persName>
+
+ היה חבר פעיל בועד הפדרציה הציונית במצרים. הוזמן לשרת במחלקה המדינית של הסוכנות היהודית בירושלים.
+
+
+ אחרי הקמת המדינה עבר למשרד החוץ. כיום, קונסול כללי של ישראל בפריס (צרפת).
+
+ צאצאיו:<persName> דן, ליאורה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3469 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3469</bibl><bibl>Volume: #10 ,Page: 3470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3470</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

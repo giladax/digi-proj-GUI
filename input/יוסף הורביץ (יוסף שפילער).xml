@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1277 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1277</bibl><bibl>Volume: #3 ,Page: 1278 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1278</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף הורביץ (יוסף שפילער)</persName>
+
+</head>
+         <div><p> נולד בפלך ווהלין, רוסיה, בשנת תרי"ג (1853), לאביו<persName> אברהם </persName> (ממיסדי פתח-תקוה, שנקרא <persName>אברהם</persName> <persName>קוטלר)</persName> ולאמו<persName> בלומה.</persName>
+
+
+ בן חמש עלה ארצה עם הוריו והתישבו בירושלים. למד בחדרים ובישיבה. גם נגינה בכלים שונים למד מילדותו אצל המנגן הירושלמי<persName> צבי (הרש) שער</persName> <persName>צער </persName> בן <persName>חיים פייפר.</persName>
+
+ נשא לאשה את<persName> מרים (אלטה)</persName> בת<persName> מרדכי צבי</persName> <persName>שטרנבליץ </persName> (נפטרה בת"א כ"ז שבט תרע"ו).
+
+ בשנת תר"מ עבר ליפו וניסה להתפרנס מטחנת קמח קטנה שיסד לו אביו. שפעלה בכח סוס אחד שסיבב את הריחיים. בתרמ"ח הצטרף למיסדי שכונת נוה צדק והיה אחד מעשרה שזכו בגורל לבנין הבתים הראשונים ובנה את ביתו בשותפות עם <persName>וועלוויל שפי</persName> <persName>לר </persName> (זאב המנגן). משלא הצליח בעסקי הטחנה סידר את שרות התחבורה הצבורית בדיליז'נס, מקודם בקו יפו-נוה-צדק ואח"כ בקו יפו-ירושלים.
+
+ משנפתחה תנועת הרכבת מיפו לירושלים ב-1892 נסתם מקור-פרנסה זה, ומאז פנה למקצוע הנגינה ויחד עם<persName> וועלוויל שפילר </persName> (הכנר)<persName> ויעקב פויקר</persName> (המתופף) ארגן את התזמורת הראשונה של "כלי-זמר" ביפו, שהיתה מנגנת בחתונות, בשמחות ובחגיגות צבוריות וממשלתיות.
+
+ בתלאות מלחמת-העולם הראשונה גורש מיפו (תרע"ז) וטולטל אל הגליל, בגלל מחלתו לא יכול לחזור אחרי הכיבוש ונפטר בטבריה, כ"ז שבט תרע"ט.
+
+ צאצאיו:<persName> צבי (הרשל</persName> , נפטר באוסטרליה), חיה אשת <persName>צבי שרויטמן, זלאטה</persName> אשת<persName> אהרן זיגלבוים, אב</persName> <persName>רהם, לאה </persName> אשת <persName>אברהם </persName> (אלברט)<persName> שטרנבליץ, משה</persName> (חבר בחברת "דן"),<persName> שמעון </persName> (חבר ב"אגד"),<persName> ישראל,</persName> <persName>רחל </persName> אשת <persName>יחיאל מנדל זילברמינץ, שושנה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1277 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1277</bibl><bibl>Volume: #3 ,Page: 1278 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1278</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

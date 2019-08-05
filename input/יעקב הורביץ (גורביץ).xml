@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3765 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3765</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב הורביץ (גורביץ)</persName>
+
+</head>
+         <div><p> נולד י"א שבט תרנ"ד (12.1.1897 לפי הלוח הישן) כבסרביה (אז רוסיה וכעת רומניה).
+
+ לאביו<persName> דב (נצר</persName> ממשפחת <persName>השל"ה</persName> הקדוש).
+
+ למד בישיבות טיראספול וקישינוב וגמר קורסים בניהול חשבונות.
+
+ ב-1921 נשא לאשה את<persName> בוניה</persName> בת<persName> יעקב סודיט.</persName>
+
+ עבד בבנק ואח"כ היה מנהל בנק קואופרטיבי יהודי להלוואה ולחסכון ברומאנובקה שבדרום בסראביה משך 15 שנה, והיה חבר בברית הפיקוח של הקואופרציה האשראית בבסראביה.
+
+ היה פעיל מנעוריו בעבודה ציונית ובאזורו (דרום בסראביה) היה יו"ר הועדים לקרן הקיימת ולקרן היסוד והאחראי כלפי השלטונות הרומניים לפעולות הציוניות באזורו, והיה בקונגרס הציוני הי"ח בפראג.
+
+ עלה לארץ בספטמבר 1935 ונתקבל לעבודה כמנהל קופת מלוה וחסכון שיתופית של העובדים בע"מ ברמת גן והסביבה ועפ שינוי שם המוסד ממשיך בתפקידי כמנהל בנק הפועלים ברמת גן והסביבה (רמת יצחק). חבר פעיל בקואופרציה האשראית העובדת בישראל, חבר הועד הארצי של קרן קיימת לישראל, ממשיך מאז בואו ארצה במתן שיעור בתלמוד בצבור,
+
+ כתב בשעתו בעתוני בסראביה באידית, וביחוד בעתון לעניני קואופרציה.
+
+ צאצאיו:<persName> חוה</persName> אשת <persName>חנן רינג, דב</persName> ז"ל (היה חבר ההגנה, למד רפואה, השתתף במלחמת הקוממיות ונפל בקרב על עיראק אל מנשיה, כ"ו בסלו תש''ט).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3765 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3765</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

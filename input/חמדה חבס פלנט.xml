@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5162 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5162</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חמדה חבס-פלנט</persName>
+
+</head>
+         <div><p> נולדה באליטה, פלך וילנה (ליטא), כ"ב ניסן תרנ"ו (15.4.1896).
+
+ לאביה הרב <persName>ישראל חבס</persName> (ראה כרך ראשון, עמוד 98) ולאמה<persName> נחמה דבורה</persName> בת ר'<persName> נחמן שלזינגר.</persName>
+
+ קיבלה חינוך מסורתי וכללי בחו"ל.
+
+ עלתה לארץ עם משפחתה בשנת תרס"ז (1907).
+
+ המשיכה ללמוד בבית ספר לבנות, וגמרה במחזור הראשון את בית המדרש למורות ע"ש לוינסקי בנוה צדק.
+
+ בשנת תרע"ח (1918) נישאה<persName> לשמואל בן מרדכי</persName> <persName>פלנט </persName> (ראה את הערך שלו בכרך זה).
+
+ בין מקימות שכונת "בית הכרם" בירושלים.
+
+ מייסדת ומנהלת במשך שנים של בי"ס לנערות עובדות מטעם ויצ"ו.
+
+ בין מיסדות אירגון נשים לשיווי זכויות. בין מיסדות אירגון ההורים בא"י וועד ההורים המרכזי.
+
+ אחת ממניחי היסוד לקייטנות ובתי הבראה לילדי בתי הספר העממיים והתיכוניים בארץ.
+
+ היתה מנהלת בית הספר היסודי "החשמונאים" של עירית תל-אביב.
+
+ כיום בפנסיה.
+
+ בתה:<persName> בתיה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5162 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5162</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4557 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4557</bibl><bibl>Volume: #14 ,Page: 4558 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4558</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה (מוניה) כהן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סבסטופול</placeName> (רוסיה) בשנת תרס''ב (1902). לאביו <persName>קלמן כהן </persName> ולאמו <persName>שרה</persName> בת <persName>ראובן.</persName>
+
+ עלה לארץ בשנת 1921.
+
+ עבד כפועל בכבישים נצרת-טבריה בקבוצת "קדימה" של <persName>יוסף טרומפלדור.</persName>
+
+ עבד בחברת החשמל בנהרים.
+
+ נשא לאשה את<persName> דינה</persName> בת<persName> דוד לוין.</persName> יחד עם אחיו ישעיהו כהן פתח את מסעדת "קרלטון" בתל-אביב ואח"כ בנה מלון "ריץ".
+
+ משנת 1947 היה בעל מסעדה "תנובה" ברחוב הירקון-פרישמן בת"א.
+
+ בימי מלחמת העצמאות העמיד את מסעדתו בחנם ללוחמים ביפו והסביבה.
+
+ נפטר בתל-אביב, כ"ו חשון תשט"ז (11.11.1955).
+
+ צאצאיו: <persName>בנימין</persName> (עובד במשרד הבטחון, נשוי <persName>לאורה</persName> בת יצחק ספקטור) ד"ר<persName> אילנה</persName> (פסיכיאטרית) אשת <persName>ארנסט אדלר</persName> , מהנדס אלקטרוניקה בארצותהברית.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4557 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4557</bibl><bibl>Volume: #14 ,Page: 4558 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4558</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

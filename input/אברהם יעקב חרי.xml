@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1421 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1421</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם יעקב חרי</persName>
+
+</head>
+         <div><p> לאביו<persName> חיים </persName> (ת"ח, סוחר) ולאמו <persName>דבורה</persName> בת <persName>צבי</persName> <persName>פלאום</persName> (סוחר).
+
+ נולד אטאקי (בסרביה), י' טבת תרמ"ה (1884). קיבל חינוך מסורתי וכללי.
+
+ בגיל 18 עבר לורשה ועבד כפקיד במשרד. התקרב לתנועה הציונית והיה פעיל באגודת "צעירי ציון". ממיסדי הספריה "השחר" ואולם לקריאה בורשה.
+
+ בשנת תרע"א היה ציר הקונגרס הציוני בבזל, מטעם "צעירי ציון" בורשה.
+
+ בשנת תרע"ב עלה לארץ והתישב בתל-אביב. נתמנה בתור מנהל מרכז אגודת הפרדסנים .בתרע"ה נתקבל כפקיד במשרד הא"י תחת הנהלתם של ד"ר ארתור רופין וד"ר יעקב טהון בת"א. היה פעיל בועדה להתעתמנות בראשית המלחמה העולמית הראשונה, מפעילי המכבי ביפו-ת"א. בתרע"ח נתמנה מטעם המשרד הא"י למנהל בתי המלאכה שע"י "בצלאל" בירושלים. בתר"פ עבר ללשכה הראשית של
+
+ הקהק"ל בירושלים במחלקת הקרקעות.
+
+ בשנת תרפ"ג נשא לאשה את <persName>שרה</persName> בת <persName>אברהם</persName> <persName>בטייבסקי </persName> מקמינקה, פלך פודוליה.
+
+ בתו:<persName> אביבה.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ב' אדר ב', תשי"ז (5.3.57)
+
+ (ראה כרך ג', עמוד 1421)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1421 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1421</bibl>            <bibl>Volume: #9 ,Page: 3412 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3412</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 176 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/176</bibl><bibl>Volume: #1 ,Page: 177 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/177</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב-בר קצורין</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרל"ו (1876), לאביו אברהם, ממשפחה שעלתה ארצה מאנגליה בראשית המאה ה-19. למד ב"חדר" ובישיבה ועזר לאביו בעבודתו בתור קבלן-בנין.
+
+
+ בשנת תרנ"ו עבר עם הוריו ליפו והשתתף עם אביו בהקמתה ובניהולה של טחנת-קמח בשוק אלדיר, שהופעלה בכוחות-סוסים והיתה הראשונה מסוגה בכל הסביבה. רוב מביאי החטה לטחינה היו ערבים,
+
+ כי הישוב העברי ביפו עוד היה אז קטן מאד.
+
+ בשנת תר"ס המריץ את אביו להנהיג חידוש מודרני במלאכת הטחינה: במקום סוסים הזמינו מאנגליה מנוע הפועל בכח הדלק של נפט, וכך יכלו לחסוך מקום בטחנה, הוצאות המזון של הסוסים והטיפול בהם ואף לשפר את הנקיון בבנין הטחנה. הלקוחות הערבים פחדו בתחילה, שבקמח יורגש ריח הנפט, אך במהרה נוכחו לדעת, כי ריח זה אינו מורגש כשם שלפני כן לא הורגש ריח הסוסים בקמח.
+
+ אחרי פטירת אביו בתרס"ה המשיך לנהל את הטחנה בעזרת אחיו <persName>זלמן </persName> וגידלו וחינכו את האחים <persName>מנחם ויצחק </persName> שנתיתמו בעודם קטנים ואימנו גם אותם בטכניקה ובסדרי העבודה של הטחנה. כן התמחה גם בבנין בית-חרושת לקרח ומיתקני-קירור מודרניים והיה ידוע בארץ כמומחה להקמת טחנות ובתי-חרושת לקרח.
+
+ נפטר בתל-אביב, כ"ג כסלו תרע"ב, ונקבר בבית הקברות הישן.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 176 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/176</bibl><bibl>Volume: #1 ,Page: 177 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/177</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

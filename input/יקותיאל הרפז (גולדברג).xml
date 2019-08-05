@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2504 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2504</bibl><bibl>Volume: #6 ,Page: 2505 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2505</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יקותיאל הרפז (גולדברג)</persName>
+
+</head>
+         <div><p> נולד קוסובה (מחוז סוקולוב, פלך שדליץ פולין) בשנת תרנ"ו (1896).
+
+ לאביו <persName>מנחם מנדל גולדברג</persName> (תלמיד חכם, סוחר, מחסידי רדזין המובהקים) ולאמו <persName>ליפשה </persName> בת<persName> צבי טננבוים</persName> מיאדובה (ממשפחת האדמו"ר מראדזין).
+
+ קבל חנוך מסורתי בחדר ובישיבה.
+
+ בשנת 1912 עלה לארץ.
+
+ עבד בתור פועל חקלאי בבן-שמן. מקוה ישראל. פתח-תקוה ובכפר סבא.
+
+ היה חבר קבוצת "אחוה" בפתח-תקוה ובמקוה ישראל.
+
+ מראשוני בוני המושבה כפר-סבא. מהאכרים הראשונים במושבה.
+
+ שנים רבות היה חבר ועד המושבה. חבר הנהלת מפעל המים, חבר הנהלת הלואה וחסכון וחבר ועד החנוך בכפר סבא.
+
+ היה פעיל במשך כל השנים בהגנה ובשמירה.
+
+
+ מהמתגיסים הראשונים לגדוד העברי הראשון במלחמת העולם הראשונה.
+
+ כשנת 1923 נשא לאשה את<persName> מרים </persName> בת<persName> מתתיהו ארסטר.</persName>
+
+ צאצאיו:<persName> ד"ר יצחק הרפז</persName> (מרצה לחקלאות באוניברסיטה),<persName> עודד,</persName> אהובה אשת <persName>יזהר אוסטרובסקי</persName> (מורה בכפר סבא).
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בכפר סבא, ט' אייר תשי"ח (29.4.58) (ראה כרך ו', עמוד 2504)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2504 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2504</bibl><bibl>Volume: #6 ,Page: 2505 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2505</bibl>
+            <bibl>Volume: #10 ,Page: 3646 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3646</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

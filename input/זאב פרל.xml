@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 364 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/364</bibl><bibl>Volume: #1 ,Page: 365 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/365</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זאב פרל</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פודהייצה</placeName> (פולין) כ"ב חשון תרמ"ט (1888) לאביו ר' <persName>אליקים גצל</persName> , בר אוריין, מראשוני המתישבים במושבה מחנים.
+
+ אחרי שנתחנך חנוך תורני בחדר עלה ארצה בתרנ"ט עם אמו והתישבו במחנים, במקום שאביו גר מלפני זה. עברו לצפת וכאן המשיך ללמוד בישיבת הרידב"ז גם אחרי שבשנת תרס"ט נשא לאשה את <persName>חנה</persName> בת ר' <persName>יואל ברשד</persName> , מנכבדי העיר צפת.
+
+ בתרע"א יצא לחיי המעשה, ולפי יזמת ז. ד. ליבונטין, מנהל אפ"ק בארץ, שיסד סניף בצפת ועודד את אברכי הישיבות בעצה ובעזרה להתחיל בפעילות כלכלית, יסד יחד עם<persName> ברוך ברזל ויהודה מייברג</persName> את דפוס "הגליל", שעבד בשביל מוסדות התורה והחסד בצפת ואמריקה ונתן פרנסה לבעליו ול-15 פועלים.
+
+ אחרי מלחמת העולם הראשונה הקים עם שותפיו את דפוס "הגליל" גם בטבריה.
+
+
+ בתרפ"ז הקים את בית המלון "הרצליה" בצפת והחל בפרסום סגולותיה האקלימיות של צפת כמקוםמרגוע קיצי.
+
+ היה חבר הועד של אגודת "צופיה" בע"מ, בעלת גוש א' בקרקעות שעל הר כנען.
+
+ בתש"ב גאל יחד עם <persName>יהודה מייברג </persName> את הבנינים והגן והחורשה של הקולג' מהמסיון הסקוטי, בשטח 16/1/2 דונם, העבירו את הרכוש לקרן הקימת ולקופת חולים של ההסתדרות הכללית, שהתקינה שם את ביתההבראה "בית בוסל".
+
+ בתש"ג ניסה עם שותפו הנ"ל ליסד בית חרושת ליהלומים בצפת, כדי להכניס שמה פרנסה וחיים, ומשלא עלה הדבר בידם רכש יחד עם שותפים את ביתהחרושת ליהלומים "אוריון" בנתניה. באותה שנה רכש יחד עם יהודה מייברג את המרכז המסחרי בצפת, שנבנה אחרי פרעות תרפ"ט על-ידי קרן הנאמנות לארץישראל, שכללו את הבנינים, בנו אולם-קולנוע (היחיד בעיר) והוסיפו בנין לתעשיות קלות, וכשנוסדה החברה לפיתוח צפת מכרו לה את הרכוש הזה.
+
+ פעיל בועדים שונים למען החיאת צפת. השתתף בערבות פרטית ב-500 לא"י לשם הכנסת החשמל לעיר. עומד על משמר הרכוש היהודי בצפת לבל יעבור לידי זרים.
+
+ צאצאיו :<persName> משה, שמואל, דניאל וצפורה.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ . נפטר בתל-אביב, י"ד תשרי תש"ט (17.10.48) והובא לקברות בצפת (ראה את הערך בעמוד 364, כרך א')
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 364 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/364</bibl><bibl>Volume: #1 ,Page: 365 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/365</bibl>
+            <bibl>Volume: #3 ,Page: 1535 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1535</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

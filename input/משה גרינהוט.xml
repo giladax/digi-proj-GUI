@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4539 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4539</bibl><bibl>Volume: #14 ,Page: 4540 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4540</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה גרינהוט</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרנ"ד (1894).
+
+ לאביו ד"ר <persName>אלעזר הלוי גרינהוט</persName> (ראה כרך א', עמוד 169).
+
+ לאחר שסיים את למודיו בגמנסיה הגרמנית ביתשלים המשיך לימודיו בגמנסיה במרבורג שבגרמניה, ולאחר שלוש שנות לימוד, ב-1911 נאלץ לחזור לירושלים בגלל בריאותו הרופפת של אביו, והחל את ראשית הקריירה הבנקאית שלו ב"דויטשע-פלשתינא בנק" ביפו.
+
+ עם פרוץ המלחמה העולמית הראשונה בשנת 1914 עובד הוא ב"אנגלו-פלשתינה בנק", אולם מחמת גזירות המשטר התורכי נסגר הבנק והוא חוזר לבנק הגרמני בירושלים.
+
+ עובר לעבוד בקונסוליה הספרדית שהיתה ממונה אז על 42 מדינות ושימש כזכיר וממונה על האינטרסים הצרפתיים, האנגלים, אוסטרים וגרמנים, וגם היה מתרגם מוסמך מטעם הקונסוליה הנ"ל ונאמן על כל פלגי היהדות בירושלים.
+
+ בשנת 1919 נשא לאשה את<persName> חיה</persName> בת <persName>אברהם</persName> <persName>בלומנפלד</persName> (מראשוני השומרים העברים בארץ. ראה כרך ב', עמוד 931).
+
+ היה חבר פעיל במכבי יפו.
+
+ בשנת 1925 מזכיר המחלקה הצרפתית בלשכה הראשית של הקהק"ל.
+
+ היה מנהל משרד התיירות של הסוכנות היהודית לא"י.
+
+
+ בשנת 1932 בשליחות המוסדות הלאומיים למצרים ולסוריה, גם לאירופה וקושר קשרי תיירות באיטליה, שווייץ, צרפת ואנגליה.
+
+ בשנת 1934 הוזמן ע"י <persName>משה סמילנסקי</persName> (ראה כרך ג', עמוד 1126) לעבוד בהנהלת נטיעות פרדסים של יהודים אמידים מאנגליה ובחברת "יהודה" שגאלה אדמות בנגב ובצפון.
+
+ בשנות 1937-59 מנהל קופת מלוה וחסכון רחובות. שנרכשה ע"י בנק לאומי לישראל בע"מ (בשנת 1961).
+
+ ממיסדי הגמנסיה המקומית ברחובות.
+
+ ממקימי קופת חולים עממית, ממניחי היסוד לאגודת חובבי המוסיקה, מועדון רוטרי ברחובות.
+
+ נשיא לשעבר של לשכת וויצמן - בני ברית.
+
+ פעל לעדוד השכונות ולהקמת מפעלי חנוך בהן, פעולה שזכתהו בסיכת ויצ"ו.
+
+ בניו: <persName>אלעזר גרנות</persName> (משורר מפ"מי, חבר קיבוץ "שובל"),<persName> נחום</persName> (מהנדס מים, שליח תה"ל במדינת גאנה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4539 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4539</bibl><bibl>Volume: #14 ,Page: 4540 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4540</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

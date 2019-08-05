@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 342 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/342</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רבינו דוד מלמד</persName>
+
+</head>
+         <div><p> נולד בחברון, בשנת תר"ז (1847), לאביו יהודה, שהיה שד"ר מטעם כוללות הספרדים שבחברון ונפטר במסעו האחרון בגיברלטאר (גם שני אחיו, נפתלי ומשה, היו שד"רים ונפטרו במסעותיהם בחו"ל).
+
+ קיבל חינוך מסורתי בתלמוד-תורה של העדה הספרדית וכשגדל יצא גם הוא בשליחות הכוללות לקהלות ה"מערב" (אלג'יר ומארוקו). אח"כ חדל
+
+ מהגדודים בארצות נכר וביסס לו פרנסה קבועה בחברון בעסק חלפנות. יסד שם טחנה לקמח, שבתחילה הונעה בכח בהמות-עבודה ובתרנ"ב החליף את הבהמות במכונת-קיטור שהביא (הראשונה בחברון)
+
+ והצליח לשכנע את הערבים תושבי העיר והסביבה, שגם קמח הנטחן בכח המכונה טוב לאפית לחם. היה חרוץ בעבודתו ומסור לעניני הכלל.
+
+ לרגל מחלתו בא להתרפא ביפו, בה ישב בנו חיים יהודה, שהיה אז מנהל עבודה בביתהחרושת למכונות ויציקה של ליאון שטיין, ונפטר ביפו, א' אדר תרע"א.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 342 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/342</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

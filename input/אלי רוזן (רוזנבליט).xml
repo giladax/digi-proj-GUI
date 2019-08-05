@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3958 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3958</bibl><bibl>Volume: #12 ,Page: 3959 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3959</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלי רוזן (רוזנבליט)</persName>
+
+</head>
+         <div><p> נולד כ' אלול תרע"ד (11.9.1914) בפראנקפורט שע"י אודר, גרמניה.
+
+ לאביו<persName> שמואל רוזנבליט </persName> (סוחר ועסקן צבורי, עמד בראש חברת "ליגת הצדק" ופעל רבות לעזרת שבויימלחמה יהודים, פליטים ויתומי המלחמה שמעבר לגבול) ולאמו<persName> לאה</persName> לבית <persName>פרלשטיין.</persName>
+
+ למד בבית-ספר כללי, בגימנסיה על שם פרידריך וילהלם ובבית-ספר למסחר. עם השתלטות הנאצים בגרמניה עבר ללמוד בבית-המדרש לרבנים ולמורים בברסלאו, שם יסד ב-1935 סניף של "ברית חלוצים דתיים" (בח"ד). ב-1936 נלקח למחנה הסגר לאסירים פוליטיים, ברח ממנו לשווייץ ולמד בישיבת הרב <persName>בוצ'קו</persName> במוגטרה.
+
+ ב-1937 עלה לארץ, הצטרף לקואופרטיב לתחבורה "איחוד-רגב" (שרות איטובוסים לגוש דן), שהתמזג אח"כ בקואופרטיב ''דן" והנו חבר-עובד בו עד היום בתור נהג ומורה-דרך מוסמך.
+
+ ב-1944 נשא לאשה את <persName>חוה</persName> בת <persName>שמואל מוזס</persName> (שהיה לפנים בעל בית מרקחת בברלין).
+
+ בהגנה גמר קורס מ"כ בגוארה. במלחמת העולם שירת כקצין מיבצעים במשמר האזרחי. אח"כ היה האחראי על בית-הספר של ההגנה בגלי-גיל.
+
+ אחרי קום המדינה התמסר לפעילות סוציאלית. יסד ברמת-גן קופת גמילות חסדים, חברת ביקור חולים ולינת הצדק ובית-כנסת לנוער בשם "אחוה ורעות", בו הנו יו"ר וגבאי זה עשר שנים מאז הווסדו, חבר
+
+
+ הנהלה במושב זקנים בבני-ברק, חבר הנהלה במפעל הסעד מיסודה של מרת לפין ז"ל, הנהיג הסעת ילדי בית היתומים מרמת-גן לחוף הרחצה בקיץ. מפעילי מיסדר ''בני ציון" ומזכיר לשכתו בר-כוכבא ברמת-גן.
+
+ בניו:<persName> זאב, ירון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3958 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3958</bibl><bibl>Volume: #12 ,Page: 3959 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3959</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

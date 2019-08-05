@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1324 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1324</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב זאב שמולצנסקי</persName>
+
+</head>
+         <div><p> נולד בקאלוואריה, פלך סובאלק (פולין) בשנת תרי"ג (1853), לאביו <persName>מרדכי </persName> (סוחר יערות אמיד). למד בחדרים ובישיבות. נשא לאשה את <persName>שושנה</persName> (רייזל) לבית<persName> זילברמן</persName> מנוישטאט (רעיתו נפטרה ביום ג' אדר
+
+ תרצ"ז). עסק יחד עם אחיו<persName> משה ניסן</persName> במסחר תבואות בקנה מדה גדול, בעיר ליבאו, עיר הנמל על הים הבלטי, ויצא לגרמניה ולאנגליה. הגיע לדרגת סוחר אמיד ומכובד.
+
+ אך שני האחים הרגישו משיכה חזקה לארץישראל, חיסלו את עסקיהם המשגשגים ובשנת תרמ"ד עלו ארצה עם משפחותיהם, אחרי שקנו מאת שליחי <persName>הרי"מ פינס </persName> 600 דונם מאדמת גדרה, ובתרמ''ו קנו 300 דונם בראשון לציון ושם התישבו. בגדרה היה הראשון, שהעסיק בעבודה במשקו אכרים עברים מההמתישבים. נטע כרמי שקדים נרחבים בגדרה ובראשון לציון נטע כרמי גפנים. נטיעותיו נתפרסמו לשבח, כי אכן אהב את האדמה והתמסר לעיבודה כהלכה. בגלל היות מושבו הקבוע בראשון לציון לא יכול לשקוד כראוי על משקו שבגדרה, ולכן מכר אותו בשנת תר"ס.
+
+ בתרס"ב השתתף עם <persName>זאב גלוסקין וי. ל. גולדברג</persName> ביסוד חברת "כרמל מזרחי" ועזר להעביר את מסחר היין מידי פקידות יק"א לידי הכורמים עצמם, ועד ימיו האחרונים ניהל וביסס את "כרמל מזרחי" בהצלחה ובכשרון.
+
+ נבחר פעמים אחדות לועדי המושבה
+
+ בימי מגבית "קרן הגאולה" (אחרי מלחמת העולם הראשונה) חישב עם אשתו את ערך רכושו ותרמו ממנו מעשר ממש (כמאתים לירות) לקרן הגאולה.
+
+ נפטר בראשון לציון, ט"ו טבת תרצ"ב, ונקבר תחת עץ השקמה.
+
+ אחיו משה ניסן נאבק קשה בכשלונות משקיים ולא יכול לשאת אף אוירת הסכסוכים בין האכרים וביניהם לבין הפקידות, התאבד ביריה ביום כ' תמוז תרנ"ד.
+
+ צאצאיו:<persName> ד"ר ליאון, בועז</persName> (שניהם בחו"ל) <persName>מאיר</persName> <persName>(ז"ל), לינה</persName> אשת <persName>ישראל כהנוב</persName> (מנהל "כרמל מזרחי" במצרים), <persName>ברתה</persName> אשת <persName>אריה זייגר, אסתר דולה (ז"ל)</persName> אשת <persName>אליהו רבינוביץ.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1324 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1324</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

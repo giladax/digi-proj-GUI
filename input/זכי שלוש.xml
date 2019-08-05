@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 958 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/958</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זכי שלוש</persName>
+
+</head>
+         <div><p> נולד ביפו בשנת תרנ"ג (15.6.1893), לאביו <persName>אברהם</persName> <persName>חיים </persName> (הבן הבכור של<persName> אהרן שלוש,</persName> ממיסדי הישוב היהודי ביפו) ולאמו<persName> שרה (שרינה)</persName> בת <persName>יצחק אלבז. </persName> למד בביה"ס של חברת כי"ח ואח"כ בקוליג' הצרפתי של "האחים" ביפו, בקוליג' רולאן בפאריס, בפוליטכניון בשווייץ ובבי"ס גבוה לעבודות צבוריות בפאריס
+
+ והוסמך למהנדס-אדריכל. המשיך לעבוד במקצועו בצרפת ובשנות מלחמת-העולם הראשונה ואחריה היד. מזכירו של מר תיארי (חבר בית-הנבחרים הצרפתי, סגן יו"ר הועדה הצבאית של בית-הנבחרים, יו"ר ועדת האספקה והתחבורה, מפקח מטעם הפרלמנט בחזיתות המלחמה). 
+
+ ב-1928 חזר ארצה והמשיך לעבוד במקצועו. נתמנה לחבר ועדת בנין ערים בתל-אביב, חבר הועדה הארכיטקטונית בעירית ת"א, חבר הועד המרכזי של אגודת האינג'נירים והארכיטקטים בארץ ויצג אותה במשלחות לועידות בינלאומיות (פראג 1935, פאריס 1937, שוייץ 1938). היה במשך שלש שנים יו"ר בית-דין לשכר-דירה למחוז יפו-ת"א, חבר בית-דין לערעורים בדבר החרמת דירות לחיילים משוחררים. חבר פעיל בועד העדה הספרדית בת"א ומקדיש הרבה מזמנו וממרצו לארגון העדה ומוסדותיה. חבר ברוטארי קלוב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 958 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/958</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

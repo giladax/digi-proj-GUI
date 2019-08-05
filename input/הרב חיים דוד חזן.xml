@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3609 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3609</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב חיים דוד חזן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אזמיר</placeName> בר"ח חשון תקנ"א (1791).
+
+ לאביו הוא גדול הדור ר' <persName>יוסף רפאל חזן</persName> (בעל "חקרי לב").
+
+ בצעירותו למד את מלאכת השחיטה ונבחר לראש השוחטים באיזמיר. בהיותו בן עשרים שנה ביקר בקושטא. רבני העיר כבדו אותו מאד והשר קארמונה השתדל להשיג בשבילו פירמאן, שלפיו יהיה פטור מכל מסי-המלך. בשנת ת"ר (1840) נבחר לראש-בית-דץ באיזמיר וישב שם עד שנת תרט''ו (1855).
+
+ אז עלה לארץ ישראל והשתקע בירושלים. שמעו הגיע עוד לפני עלותו לארץ ועל-כן מנוהו תיכף לבואו לראש בית-דין בירושלים ולסגנו של החכם באשי ר'<persName> חיים נסים אבואלעפיה </persName> (הרב חנ"א) שהיה זקן מאד בימים ההם "וכל ענייני הכולל היו נחתכים על פיו" של סגנו הרב<persName> חיים דוד חזן.</persName> בשנת תרי"ט (1859) נתבקש ללכת בשליחות יחד עם חמשה רבנים מגדולי ירושלים לחו"ל. הוא נסע עמם עד לווינה. שם חלה, ובהיותו קרוב לשנת השבעים חשש לחייו וחזר לירושלים.
+
+ בר"ח חשון תרכ"א (1860) חגג את יובל השבעים.
+
+ בחדש שבט נפטר הרב חנ"א והוא נבחר במקומו לשבת על כסא הרבנות.
+
+ בשנת תרכ"ב (1862) נשלח לו ה"פירמאן" מהשולטאן בקושטא. השולטאן כבדו באות כבוד. גם נפוליון, קיסר צרפת, שלח לו אגרת ברכה שכתבה בעצם ידו.
+
+ בימיו נפרדו האשכנזים מעדת הספרדים ביחוד בשביל מס הבשר. הם מינו גם רב מיוחד עליהם את ר' מאיר אויערבאך. התנגד בחריפות לפילוג זה ומשום כך נפגע נמרצות ע"י חוג מסויים, שפרסם דברים נגדו בעתונים (מראשי מתנגדיו היה <persName>יחיאל בריל</persName> עורך "הלבנון" כרך א' עמוד 47).
+
+ פעל הרבה למען היישוב החקלאי. לשם כך עמד בקשרים עם ר' <persName>צבי הירש קאלישר</persName> והוא הוא שיעץ לנטוע עצי ערבה בכפר השלוח.
+
+ בקי גדול בהלכות שחיטה עד שאמרו עליו שהיה "בקי בטרפיות כר' יוחנן". על נושא זה חבר ספר גדול ע"ס א"ב בשם "תורת הזבח" (שאלוניקי תרי"ב) "אשר בלעדו לא ירים שום שוחט את ידו בהלכות שו"ב".
+
+ שאר חבוריו הם: "נדיב לב", שאלות ותשובות (ב"ח, שיאלוניקי, ירושלים); "ייטב לב" - דרושים (אזמיר תרכ"ח); "ישרי לב" - פסקי דינים ע"ס א"ב
+
+ (אזמיר תר"ל). חלק קטן מחבוריו אבד בירושלים בשעת החולירע (תרכ"ו).
+
+ נפטר ביום חמישי ה' בשבט תרכ"ט (1869).
+
+ בהלויתו הגדילה השתתפו כל בני העיר, ביניהם הקונסולים וראשי-הדתות.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3609 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3609</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4762 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4762</bibl><bibl>Volume: #15 ,Page: 4763 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4763</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שאול יצחק פניגשטיין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וורשה</placeName> (פולין) בשנת תרכ"ג 1863).
+
+ לאביו<persName> דב אריה פניגשטיין.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה. מנעוריו סוחר במכולת. ואח"כ הקים תעשיה לנרות.
+
+ נשא לאשה את <persName>ריבה</persName> .
+
+ בערב ראש השנה תרס"ז עלה עם אשתו, 6 בנים ו-5 בנות לארץ והתישבו בירושלים.
+
+ כעבור כמה חדשים קנה מאת הגרמני ג'ורג' קאפוס את החצר שבו היו 3 בנינים גדולים ביפו ועברו לגור ביפו בראשית רחוב סלמה, בקרבת שד' ירושלים.
+
+ את החצר והבנינים שהיו ביפו, קראו די וארשעווער הייזער" (בתי-ווארשא).
+
+
+ בחצר הקימה משפחת<persName> בן דוד</persName> (דודזון) בית חרשת לפקקים.
+
+ אגודת ב"ג (בר-גיורא) נוסדה בחצר זו וחבריה יסדו אח"כ את "השומר" 1907).
+
+ הבית שימש לחברי ההגנה כמרכז לפעולתם, היות והוא היה בגבול ת"א ויפו ברחוב סלמה.
+
+ נפטר בתל-אביב, כ"ח חשון תש"א (29.11.1940)
+
+ הובא לקבורה בהר הזיתים בירושלים.
+
+ צאצאיו: <persName>ברוך חיים; שמואל אליהו; אריה</persName> <persName>ליב</persName> (לייביש); <persName>יחזקאל ; משה ; דבורה</persName> אשת הרב <persName>אברהם חיים נאה ; בריינדל</persName> אשת <persName>אליעזר דייטש</persName> ; <persName>שרה</persName> אשת<persName> אברהם אלטשולר; פנינה </persName> אשת <persName>אברהם</persName> <persName>ברלינסקי; טובה</persName> אשת<persName> משה פלורנץ ; דוד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4762 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4762</bibl><bibl>Volume: #15 ,Page: 4763 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4763</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

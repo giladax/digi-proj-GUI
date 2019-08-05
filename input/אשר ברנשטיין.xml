@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3956 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3956</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אשר ברנשטיין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>טנטורה</placeName> (ליד זכרון-יעקב) בשנת תרנ"ב (1892).
+
+ לאביו <persName>מרדכי בונשטיין</persName> (ראה כרך ב', עמוד 777) ולאמו <persName>חיה-רחל</persName> לבית<persName> יעקבסון </persName> (מראשוני ראש פינה וזכרון-יעקב).
+
+ קיבל חינוך בבי"ס עממי, ואח"כ במשך 3 שנים בבית ספר טכני בשווייץ.
+
+ לאחר עשר שנות שבתם בכפר הערבי טנטורה, סמוך לבית החרושת לזכוכית שהוקם בזמנו ע"י<persName> מאיר דיזנגוף</persName> בעזרת הבארון <persName>אדמונד דה-רוטשילד</persName> ("הנדיב הידוע") עלו להתישב בזכרון-יעקב, אחרי שסבלו ב<placeName>טנטורה</placeName> מהקדחת.
+
+ מילדותו עזר למשפחתו בחקלאות ונהיה לאכר חרוץ למופת.
+
+ בפרוץ מלחמת העולם הראשונה התגייס לצבא התורכי יעלה לדרגת קצין. שירת בירושלים ובנגב וזמן מה היד. מושל בית-גאללה הנוצרית שבין ירושלים וביתלחם.
+
+ בשנת 1913 נשא לאשה את <persName>רחל</persName> בת <persName>אדלה ואברהם</persName> <persName>זאב גולדשטיין</persName> (ממיסדי זכרון-יעקב).
+
+ היה יושב ראש ועד המושבה, יו"ר הועד החקלאי.
+
+ לאחר פטירת אביו נתמנה במקומו לגבאי ראשבבית הכנסת הגדול "אוהל יעקב" בזכרון-יעקב.
+
+ היה מעורה כל ימיו בחיים הצבוריים של מושבתו, בהגנתה ובמוסדות חסד וצדקה וחברה קדישא ועוד.
+
+ נפטר בזכרון-יעקב, י"ד תשרי תשי''ט (28.9.1958).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3956 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3956</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 143 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/143</bibl><bibl>Volume: #1 ,Page: 144 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/144</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף קסטל-חלילי</persName>
+
+</head>
+         <div><p> נולד בחברון, י"ח אב תר"א (1841), לאביו <persName>משה</persName> ולאמו <persName>שמחה</persName> , ממשפחה שמוצאה מקסטיליה ועל שום כך נקראה<persName> קסטל</persName> , והוריו היו הדור הששי למשפחה זו בארץ. (<persName>ר' מאיר קסטל</persName> ממשפחה זו היה רב בחברון ונהרג בפרעות תרפ"ט. ר' <persName>יהודה קסטל</persName> , בן אחותו של יוסף, היה מורה בישיבה ושו"ב וחכם. דודו ר' <persName>משה </persName> היה מורה לילדים, בעל תואר רב או חכם). למשפחה המושרשת בחברון מדורות היה בית בעיר וכרם בקרבתה.
+
+ למד בתלמוד-תורה ובישיבה. נשא אשה ועסק במסחר עם ערביי הסביבה, שהעריצוהו בגלל גבורתו, אומץ-רוחו ואופיו. בהיותו ביפו לרגל מסחרו בשנת תרנ"ג, נפגש שם עם מר <persName>נחומובסקי</persName> , מוכתר המושבה חדרה שנוסדה לפני שנתים והיתה בכל רע בגלל הקדחת ופגיעות שכנים רעים. כשאמר לו המוכתר
+
+ שהמושבה זקוקה מאד לעזרת אדם כמוהו, היודע להתהלך עם הערבים בשלום ובריב, נעתר לבקשתו, עבר לחדרה עם כל משפחתו (4 בנים ו-3 ,בנות) וקיבל עליו את השמירה. הוא התישב ב"חאן" בין ראשוני המושבה, הצטיין באומץ-רוחו ובשקידתו, יצר קשרי ידידות עם ערביי הסביבה שפניהם היו לשלום, תיווך בסכסוכים שביניהם ועמהם והפיל את פחדו
+
+
+ על חורשי מזימות וגנבים ובעזרת קשריו עם נכבדי הכפרים והמחנות שבסביבה הצליח לגלות את עקבות הגניבות והגנבים ולהשיב את שללם. מילא תפקידים רבים בשרות המושבה : כשליח מטעם פקידות הבארון רוטשילד וכעובד ביבוש הבצות ובשתילת יערות האקליפטוס, ולא פעם שקע בבוץ עד צואר ויצא מכוסה עלוקות שדבקו בו. היה השליח שהביא מיפו לחדרה על גבי גמלים את הצריפים המובנים שהוקמו על שפת הים (שכונת "קדימה") בשביל תושבי חדרה, כשהוכרחו לעזוב את מושבם מפני הקדחת. לאחר זמן נתן לו הבארון רוטשילד נחלה בת 300 דונם אדמה מכל הסוגים והוא התמסר לעיבוד משקו והיה מטובי האכרים במושבה. אך בשמירה ובהשגחה אחראית על השומרים המשיך עד שנתו ה-84, כשהוכרח להסתלק מתפקידו זה בגלל שיתוק גופו.
+
+ נפטר בדיוק ביום מלאות לו 94 שנה, ביום י"ח אב תרצ"ה, ונקבר בין ראשוני חדרה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 143 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/143</bibl><bibl>Volume: #1 ,Page: 144 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/144</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

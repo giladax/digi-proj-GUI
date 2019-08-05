@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2921 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2921</bibl><bibl>Volume: #7 ,Page: 2922 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2922</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב זידא אברהם יעקב משה הלר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>צפת</placeName> (הנהו הדור הרביעי ב<placeName>צפת</placeName>) ביום ל' בשבט תרנ"ד (25 בינואר 1894).
+
+ לאביו ר' <persName>זאב</persName> (ת''ח ועסקן צבורי חשוב מיסד הישיבה והת"ת "בית חתם סופר" ב<placeName>צפת</placeName> ומנהלה עד יום פטירתו) ולאמו מרת<persName> צפורה </persName> בת <persName>הרב אלעזר הלר </persName> (והנו נין להרב <persName>שמואל הלר</persName> רבה של צפת" ולהרב<persName> עמרם חסי</persName> <persName>דא</persName> ומצאצאי בעל התויו"ט).
+
+ חנוכו קבל בחדרים, למד אצל הרידב"ז בישיבתו, ובישיבת "בית חתם סופר". הוסמך להוראה ע"י הרבנים: <persName>א. י. הכהן קוק, ח. זוננפלד, א. קלצקין, א. ז. מלצר</persName> , <persName>מ. קליערס ז"ל, והרב צ. פ. פראנק,</persName> ובא אתם במו"מ של הלכה בעל פה ובכתב (בספר "משפטי עזיאל" נדפסו שתי תשובות אליו, בחלק אבן העזר סי' ע"ט, ובחלק יורה דעה מהדורא תנינא סי' ק"ו).
+
+ בשנת תרע"ד נשא לאשה את <persName>פרידא</persName> בת<persName> ר' חיים</persName> <persName>ברזל</persName> מצפת (סוחר ועסקן צבורי נכבד).
+
+ עם פטירת אביו בשנת תרע"ט, נתמנה למנהל הישיבה והת"ת "בית חתם סופר" ב<placeName>צפת</placeName>, ור"מ הישיבה. ביזמתו, התאחדה הישיבה והת"ת "רידב"ז" עם הישיבה והת"ת הנ"ל, ונקראו בשם: המוסדות המאוחדים הישיבה והת"ת "חתם סופר רידב"ז", והוא עמד בראש הנהלת המוסדות המאוחדים ור"מ הישיבה. עם כל טרדותיו
+
+ הרבות בהנהלת המוסדות הנ"ל והרצאת שעורים בישיבה, מצא לו זמן גם לעסקנות צבורית ענפה, פעל הרבה ליסוד שכונת "צופיה" על הר כנען, והיה יו"ר האגודה במשך שנים. ארגן סניף "המזרחי" ב<placeName>צפת</placeName>, ומשמש יו''ר הסניף.
+
+ היה חבר פעיל בועדים המקומיים של ה"הגנה'', "כופר הישוב", מגבית ההתגיסות וההצלה, "הועד למען החיל" ו"ועדת-המצב". ביחוד התמסר ופעל רבות מטעם ה"הגנה" לגיוס כספים מאנשי המקום למען רכישת נשק.
+
+
+ בזמן מלחמת-השחרור, עמד בראש "ועדת-המצב" המקומית, ועבד יומם ולילה למען עמידתה של צפת והגננתה. הוא קבל עליו גם את התפקיד הקשה והבלתי פופולרי להיות יו"ר "ועדת המפקד לשרות העם" (ועדת הגיוס) וקצין הגיוס, אם כי תפקידיו אלו גרמו לו אינעימויות רבות מצד משתמטי הגיוס ומשפחותיהם, ואף אימו עליו לרצחו נפש.
+
+ מאמציו אלו שנעשו בהתנדבות שלא על מנת לקבל פרס, זכו להערכה חמה מצד ה"הגנה" ומצד "משרדהבטחון", שבאה לידי בטוי במכתבי ההערכה ששלחו לו, ובספר "צפת ממצור לשחרור" (<persName>מאיר מייבר</persName> , מפקדה של צפת בזמן מלחמת השחרור, אשר הרים על נס את השרותים החשובים והחיוניים של "ועדת המצב" המקומית, להגנתה ועמידתה של צפת, ואף מצא לנכון לציין אחת מפעולותיו החשובות של הרב הלר הנ"ל).
+
+ עם יסוד "ארגון חברי ההגנה בישראל", הוזמן והשתתף בכנס הארצי הראשון, שהתקיים בתל-אביב ביום י"ג באייר תש"ט (12 במאי 1950), ואף נתכבד לחתום על מגלת היסוד של הארגון.
+
+ עם יסוד המדינה, ארגן את "המועצה הדתית" המקומית ועמד בראשה, והיה חבר ועדת הבחירות האזורית של הכנסת הראשונה, השניה והשלישית, ויו''ר ועדת הבחירות לעירית צפת.
+
+ צאצאיו: <persName>לאה</persName> (בוגרת ביהמ"ד למורים של המזרחי) אשת <persName>ד"ר שמואל שור</persName> (רופא בביה"ח "הדסה" בירושלם, ומרצה באוניברסיטה) : <persName>שרה</persName> (תלמידת האוניברסיטה העברית, קבלה תואר ד''ר לפילוסופיה באוניברסיטת הארוארד בבוסטון שבאה"ב, חברת-מחקר של האוניברסיטה הנ"ל, ומורה בביהמ"ד למורים בעיר הנ"ל) אשת <persName>ד"ר מרדכי וילנסקי</persName> (תלמיד האוניברסיטה העברית שהעניקה לו תואר ד"ר למדעי-הרוח, ומורה בבית המדרש למורים הנ"ל); <persName>צפורה</persName> (בוגרת האוניברסיטה העברית): <persName>מרים</persName> אשת יצחק <persName>סברדלוב; יהודית</persName> אשת <persName>מרדכי פלץ.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2921 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2921</bibl><bibl>Volume: #7 ,Page: 2922 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2922</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

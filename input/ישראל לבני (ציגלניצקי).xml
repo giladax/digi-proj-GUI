@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2520 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2520</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל לבני (ציגלניצקי)</persName>
+
+</head>
+         <div><p> נולד בראשית שנת תרס"ט (15.10.1908) בלידה, בחלק המערבי של רוסיה הלבנה, שהשתייך לפולין בין שתי מלחמות העולם, לאביו אליהו (קבלן לבנינים,
+
+ עסקן, חובב ספר) ולאמו <persName>חנה רחל</persName> בת<persName> שמואל</persName> <persName>אולקניצקי</persName> (מהמשכילים בעיירתו וורונובה).
+
+ גמר שש מחלקות בגימנסיה "תרבות" וקיבל שם חינוך עברי מאחותו<persName> שיינה</persName> והתחיל ללמוד בביהמ"ד לרבנים<persName> רמיליס</persName> בוילנה.
+
+ בינתים היה פעיל ביסוד החלוץ המזרחי בלידה ושימש כמזכירו וכציר בועידה הארצית של המזרחי בפולין (וילנה 1925).
+
+ בסתיו 1926 עלה ארצה. הצטרף להסתדרות העובדים ול"הגנה" ועסק בשנים הראשונות בפעולות אידיאליסטיות, כאדמיניסטרטור של "המחר" (זה היה כעין שבועון של <persName>אביגדור המאירי</persName> לבקורת צבורית חריפה ב-1927/28) והשתתף גם בעבודה הארגונית של ספרי המאירי. באותן שנים היה פעיל גם בגדוד מגיני השפה ושימש בו סגן מנהל מחלקת המורים עד שנת 1929. באותה שנה השתתף בהגנה בנשק - לרגל המהומות הערביות - על סנהדריה ומאה שערים בירושלים, "הכפר העברי" שבקרבתה ועל יסוד המעלה בגליל, בתור מתנדב לשרות במשטרה.
+
+ ב-1930 נשא לאשה את <persName>שושנה</persName> בת<persName> מיכל זילברמן.</persName> אח"כ הסתדר בעבודה בחברת החשמל ושימש קופאי במחלקה המסחרית והטכנית שלה בתל-אביב.
+
+ במלחמת העולם התנדב להג"א ושרת ב-1940 כמפקד פלוגות נושאי האלונקות בגדוד 4. מ-1942 עד 1944 שרת בפלוגות ההובלה ראס"ק בצבא הבריטי. אחרי המלחמה היה פעיל באיגוד החיילים המשוחררים, שימש בו ב-1945/46 כמזכיר, חבר המועצה ושופט בתל-אביב וציר במועצותיו הארציות באותן שתי השנים, וב-1945 פרסם מאמרים בעתונות בדבר סידור החיילים הנכים.
+
+ במלחמת הקוממיות שרת בצה"ל ואח"כ הועבר לשרות פקידות בקונסוליה הישראלית בניו-יורק.
+
+ צאצאיו: <persName>חנה, אליהו.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2520 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2520</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

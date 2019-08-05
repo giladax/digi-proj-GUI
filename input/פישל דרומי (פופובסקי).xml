@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3324 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3324</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פישל דרומי (פופובסקי)</persName>
+
+</head>
+         <div><p> נולד בט"ו אייר תר"ן (13.5.1890) בשדלץ שבפולין.
+
+ לאביו <persName>משה ברוך פופובסקי</persName> (למדן וחסיד) ולאמו חנה בת <persName>יוסף פירניק.</persName>
+
+ למד בחדר ובישיבות והשתלם בלימוד עצמי בידיעות כלליות.
+
+ ב-1914 נשא לאשה את <persName>עטריה</persName> בת<persName> חיים זילברברג.</persName>
+
+ עבד בשרות הלשכה הראשית של הקהק"ל בפולין.
+
+ היה חבר הועד המחוזי והמועצה של המפלגה הציונית.
+
+ חבר ועד הקהלת בשדלץ וממיסדי בית-הספר של "תרבות" בשדלץ וכתב מאמרים בשבועון האידי המקומי.
+
+ היה בין מיסדי הפרקציה העממית בפולין.
+
+ בראשית 1933 עלה לארץ עם משפחתו. עבד תחילה כפועל בתעשית חמרי בנין ואח"כ נתקבל לפקיד במוסדות הסתדרות העובדים הכללית, והנו עובד במרכז "משען" שליד הועד הפועל של ההסתדרות.
+
+ ממלא תפקידים צבוריים כסגן יו"ר הועד הארצי למען השקל וגזבר-כבוד שלו, חבר הועד הפועל של המפלגה הפרוגרסיבית, יו"ר ארגון יוצאי שדלץ וחבר הנהלת קופת גמ"ח על שם קדושי שדלץ.
+
+ כתב בספר "יזכור" לקהלת שדלץ והשתתף בעריכתו.
+
+ צאצאיו: <persName>טובה</persName> אשת <persName>דוד ברקאי, משה, יצחק, יוסף,</persName> <persName>אשר</persName> ז"ל (סגן אלוף בצה"ל, שאחרי מערכת סיני נספה בנפילת מטוס יחד עם אלוף-הפיקוד <persName>אסף שמחוני</persName> ז"ל - ראה ערכו בכרך זה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3324 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3324</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

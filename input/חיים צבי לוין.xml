@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 495 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/495</bibl><bibl>Volume: #1 ,Page: 496 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/496</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים צבי לוין</persName>
+
+</head>
+         <div><p> נולד בעיירה צשניק ליד ויטבסק, (רוסיה הלבנה), בחשון תר"ל (1869), לאביו<persName> דוב</persName> בן שניאור זלמן חפץ. למד בחדרים ובישיבה. ב-1888 עלה אביו ארצה עם 7 בנים ו-5 בנות (כיום עלה מספר צאצאיו ל-130 נפש בארץ) והתישב בפתח-תקוה. כשנה עבד חיים צבי במושבה רחובות כשנוסדה על-ידי חברת "מנוחה ונחלה" בהנהלת <persName>זאב לוין</persName> <persName>אפשטיין</persName> , אח"כ עבר לעבוד כפועל חקלאי במשמר הירדן. כשחזר אחיו הצעיר<persName> שמעון </persName> מגריניון שבצרפת מוסמך כאגרונום ונתמנה על-ידי<persName> דוב בר שליפיאן</persName> (דב"ש), שליח אגודת "דורשי ציון" ("אגודת האלף") מרוסיה, לנהל את המושבה עין-זיתים, שאדמתה נקנתה מאת פקידות הבארון בשביל חברי האגודה, לקח אליו את שני אחיו,<persName> אריה וחיים צבי,</persName> לעבוד אתו. לאחר שנתים עזב דב"ש את המושבה משום שראה כי אדמתה אינה מתאימה למטרות
+
+ שלמענן רכש אותה, והפקידות המשיכה לקיים את העבודה בנקודה על חשבונה בניהולו של <persName>שמעון</persName> <persName>לוין</persName> , ושני אחיו המשיכו לעבוד אתו. אחרי שנים אחדות חזר חיים צבי למשמר הירדן והתנחל שם כאכר בחסות "חובבי ציון" ובהנהלת<persName> דוד שוב.</persName> שם קיבל בתרנ"ט את סוכנות בית-החרושת ''עתיד" לשמן וסבון, שנוסד במפרץ חיפה על-ידי<persName> ש. פבזנר</persName> <persName>ונחום וילבוש</persName> ) למכירת הסבון מתוצרתו בגליל העליון.
+
+ בתרס"ג עבר להתישבות בראש פנה ועסק בנסיונות להפקת תמציות-בושם מצמחי-בר: אזוב, הדסים, עניש, למברי, אך בזמן ההוא עוד לא הוכשרו התנאים לפתח את העבודה הזאת לעסק מכניס וכדאי מבחינה מסחרית. ב-1925 נתמנה לנהל בטבריה
+
+
+ סניף של חברת "חירם" שנוסדה שנה קודם לכן בחיפה ע"י פבזנר וכהן למסחר בחמרי בנין. ב-1930 יסד בטבריה בית-חרושת למרצפות מלט, ואחרי שנים אחדות חזר למשקו בראש-פנה. שם יסד ב-1935 טחנת-קמח מוטורית, שהמשיכה לטחון את תבואת אכרי הגליל העליון עד שנשרפה בשנת 1942. וכעת הוא חי במושבה עם בניו ובני-בניו (שנים מנכדיו התגייסו לצבא במלחמת-העולם השנית לפי הכרזת המוסדות הלאומיים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 495 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/495</bibl><bibl>Volume: #1 ,Page: 496 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/496</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

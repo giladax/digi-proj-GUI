@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4194 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4194</bibl><bibl>Volume: #13 ,Page: 4195 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4195</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים יצחק אבן-זהב (גודלשטיין)</persName>
+
+</head>
+         <div><p> נולד בסוף אדר תרנ"ח (17.3.1898) בגראייבו שבצפוןמערב פולין.
+
+ לאביו<persName> שמואל ברוך גולדשטיין </persName> (סוחר, חובב ציון) ולאמ<persName>ו חיה</persName> בת<persName> אפרים טיקוצקי.</persName>
+
+
+ למד ב''חדר מתוקן" ואצל הסופר המשכי<persName>ל א. מ.</persName> <persName>פיורקא</persName> , ואח"כ שנים אחדות בישיבת "כנסת ישראל" שבסלובודקה. יצא ללייפציג שבגרמניה, שם השתלם בהשכלה כללית, שהתחיל בה בלימוד פרטי עוד בהיותו תלמיד הישיבה. עסק שם בהוראה עברית ואחרי מלחמת העולם הראשונה גם בפעילות ציונית.
+
+ כחלוץ המשפחה עלה לארץ במרס 1921 (אחרי שנה עלה אחיו, הסופר <persName>ארי אבן-זהב</persName> , שהיה מזכיר האוניברסיטה העברית - ראה כרך א', עמוד 383 - ולאחר זמן עלתה המשפחה כולה). זמן מועט אחרי בואו ליפו פרצו מהומות מאי 1921 והוא ניצל בנס כשהיה בקרבת מקום הירצחו ש<persName>ל י. ח. ברנר</persName> .
+
+ בשנת 1922 נשא לאשה את <persName>רבקה</persName> בת<persName> מיכאל ולאה</persName> <persName>אייזנשטאט.</persName>
+
+ עבד בתור מורה ומחנך במעון יתומים "תושיה" בירושלים, מיסודו של הג'וינט. משנסגר המוסד עבר לעבוד כמתריס נודד לקרן היסוד, ולמושבות הרחוקות היה בא ברכיבה, בהעדר כבישים ותחבורה סדירה באותו זמן.
+
+ בשנים 1957-1927 היה מנהל לשכת קרן היסוד לחיפה והמחוז והביא ברכה בעבודתו. התישב בין הראשונים בקרית-חיים.
+
+ משיצא לפנסיה לרגל איחוד הקרנות ב-1957, ונרשם בספר הזהב כאות הכרה לעבודתו המסורה והפוריה, עבד בחמש שנותיו האחרונות כמנהל סניף חיפה והמחוז של
+
+ אגודת שוחרי האוניברסיטה, וגם בתפקידו זה השקיע הרבה מרץ ומסירות.
+
+ נפטר בחיפה, ט"ו אלול תשכ"ב (14.9.1962).
+
+ צאצאיו: <persName>שלום</persName> (תעשיין בענף המכונות בחיפה), <persName>שרה</persName> (מורה) אשת המהנדס <persName>יוחנן זנדברג.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4194 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4194</bibl><bibl>Volume: #13 ,Page: 4195 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4195</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

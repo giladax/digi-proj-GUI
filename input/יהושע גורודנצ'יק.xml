@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 492 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/492</bibl><bibl>Volume: #1 ,Page: 493 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/493</bibl>
+<bibl>Volume: #1 ,Page: 494 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/494</bibl>
+<bibl>Volume: #1 ,Page: 495 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/495</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהושע גורודנצ'יק</persName>
+
+</head>
+         <div><p> נולד ברוזינוי, פלך גרודנה (רוסיה הלבנה), בשנת תרל"ה (1875), לאביו <persName>אברהם יוסף.</persName>
+
+ למד ב"חדר" עד גיל עשר ובתרמ"ה עלה ארצה עם הוריו ואחיו והתישבו ביפו, ובתרמ"ז השתכנו בשכונת נוה צדק. למד את מלאכת הנגרות, היה מראשוני הנגרים העברים ביפו ועבד בבנינים הנוספים בנוה צדק ובנה שלום, בבניני היקב בראשון לציון (תרמ"ט) ובמושבות יהודה.
+
+ נשא לאשה את <persName>מרגלית</persName> בת<persName> יעקב מאיר קוצבסקי</persName> מביאליסטוק (נפטרה בירושלים, ט"ז ניסן תרצ"ח).
+
+ המשיך לעבוד בנגרות בבניני יפו ותל-אביב, ולאחר זמן יסד תעשית רהיטים שעמדה בהתחרות לעומת תוצרת חוץ.
+
+ עזר בבנין בית-הכנסת לפרושים בנוה צדק ויחד עם אחיו<persName> בנימין ושמאי</persName> נדבו את ארון הקודש שעשו במו ידיהם.
+
+ בראשית מלחמת-העולם הראשונה קיבל עליו את הנתינות הטורקית, לבל יוכרח לצאת מהארץ, ואם כי שילם שלש פעמים את מם הכופר מהצבא ("בדל") נלקח לשרות ונשלח לעבוד בנגרות בשביל הצבא בבאר-שבע.
+
+ בעת הגירוש הכללי מיפו ותל-אביב (ניסן תרע"ז) יצא עם משפחתו לעקרון, ועלה בידו לחזור העירה מיד עם הכיבוש הבריטי בדרום הארץ.
+
+ נפטר בתל-אביב, י"א טבת תש"ג (19.12.42) והובא לקבורה בירושלים.
+
+ צאצאיו: <persName>אלישבע</persName> אשת<persName> ראובן חצרוני, מרים</persName> אשת <persName>אבנר שלוש, יעקב </persName> (ז"ל).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 492 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/492</bibl><bibl>Volume: #1 ,Page: 493 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/493</bibl>
+<bibl>Volume: #1 ,Page: 494 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/494</bibl>
+<bibl>Volume: #1 ,Page: 495 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/495</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

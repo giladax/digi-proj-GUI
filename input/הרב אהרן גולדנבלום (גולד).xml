@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4760 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4760</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אהרן גולדנבלום (גולד)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>צפת</placeName> בשנת תרל"ח (1878).
+
+ לאביו הרב <persName>אברהם שלמה גולדנבלום</persName> (היה דור ששי להמגיד הגדול <persName>רבי דב ממוריץ' </persName> תלמידו המובהק של הר' ישראל בעל שם טוב ויורש מקומו בהנהגת החסידות. כידוע יצאו גם רבי <persName>ישראל מריז'ין סדיגורה</persName> וצאצאיו האדמו"רים לבית <persName>פרידמן</persName> משושלת זו. הוא נולד ברומניה בשנת תר"ג (1843), עלה לארץ בילדותו, הגיע לדרגה גבוהה בידיעות התורה, היה חבר בית הדין לעדת האשכנזים ב<placeName>צפת</placeName>. נתבקש בעודי צעיר להיות רבה
+
+ של הקהלה, אך סירב להתהדר בכתר התורה. נפטר ב<placeName>צפת</placeName> בשנת תרע"ז (1917) והשאיר אחריו כתבי-יד רבים של חידושי תורה. ראה את הערך של בתו, בת-שבע אשת ר'<persName> מאיר טויבנהויז </persName> בכרך א', עמודים 424, 441) ולאמו <persName>שיינדל ביילה</persName> בת ר' יהודה ליב (היתה גם היא משושלת יוחסין גדולה של רבנים ופרנסים במשך דורות רבים, ולפי המסורת עד רש"י ולמעלה עד<persName> לדוד המלך</persName> הן מצד אביה והן מצד אמה, שהיתה גם הדור ה-11 לר' <persName>שאול וואהל</persName> , שלפי המסופר נבחר למלך פולין. נולדה בקולמיאה בשנת תר"ד (1844) והועלתה לארץ עם אביה בהיותה תינוקת בת שנה, בתר"ה (1845).
+
+ קיבל חינוך מסורתי בחדר ובישיבות.
+
+ נשא לאשה את<persName> מרים</persName> בת <persName>שמואל שולמן </persName> (ראה כרך שני, עמוד 923).
+
+ היה מנהל בישיבת "חתם סופר".
+
+ בשנת 1914 בפרוץ מלחמת העולם הראשונה נסע לארצות הברית ונתמנה שם לרב בבית הכנסת של העדה הרומנית בניו-יורק. אחר-כך, רב באגודת "עזרת הגליל" שדאגה במיוחד לצפת.
+
+ היה בא כח המוסדות השונים ב<placeName>צפת</placeName> וחו"ל.
+
+ פעל רבות למען המוסדות ב<placeName>צפת</placeName> ע"י אוסף התרומות שאסף עבורן באמריקה.
+
+ נפטר בירושלים, ער"ח ניסן תשי"ד (3.5.1954).
+
+ צאצאיו: הרב יוסף גלדנברום-זהבי;
+
+<persName>אסתר</persName> אשת הרב<persName> צבי לדרברג; שרה</persName> אשת הרב <persName>בנימין ברקאי</persName> (שוחט ברעננה); <persName>נחמה</persName> אשת הרב <persName>שלמה דוד ספקטור</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4760 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4760</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4541 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4541</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד טוביהו (טאובה)</persName>
+
+</head>
+         <div><p> נולד בזולקיב (גליציה) בשנת תרנ"ח (20.11.1898).
+
+ לאביו<persName> יוסף</persName> .
+
+ קיבל חינוך מסורתי וכללי בגמנסיה ובאוניברסיטה בוינה.
+
+ עלה לארץ בשנת 1920.
+
+ עבד בכביש עפולה-נצרת, כפועל בנין בירושלים.
+
+ 7 שנים היה חבר קבוצת גבע.
+
+ נשא לאשה את <persName>לאה</persName> בת <persName>ראובן רוטברט.</persName>
+
+ עבד בנהרים אצל רוטנברג.
+
+ ניהל עבודות במחצבות.
+
+ למד תורת השימוש בחומרי נפץ לפיצוץ סלעים.
+
+ עבד במחנות עבורה של סולל בונה כמנהל עבודה ומארגן.
+
+ בשנת 1931 בחברת החשמל בנהרים.
+
+ הקים ביצורים ביריחו בימי סכנת הפלישה של צבא רומל.
+
+ היה תושב חקלאי בירקונה.
+
+ בשנות 1963, 1950-61 ראש עירית באר-שבע.
+
+ חבר בועדי ימפא"י ובמועצת הועד הפועל של ההסתדרות.
+
+ חבר מועצת המנהלים וסגן יו"ר של חברת החשמל.
+
+ בשנת 1958 היה בשליחות ההסתדרות לארצותהברית.
+
+ בשנת 1964 היה מנהל מקרקעי ישראל בת"א והמחוז.
+
+ מיוזמי הקמת מכון להשכלה גבוהה בבאר-שבע.
+
+ צאצאיו:<persName> רינה</persName> אשת <persName>שמעון דותן, דן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4541 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4541</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

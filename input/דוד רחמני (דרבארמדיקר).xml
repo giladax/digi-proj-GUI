@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3518 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3518</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד רחמני (דרבארמדיקר)</persName>
+
+</head>
+         <div><p> נולד י''ד ניסן תרס"ט (18.4.1909) בקאפארשטי שבבסראביה, רוסיה.
+
+ לאביו ר' <persName>זאב דרבארמדיקר </persName> (הרב בגראשינובקה וזאכארובקה שברוסיה, דור חמישי לר' <persName>לוי יצחק</persName> מברדיצ'ב) ולאמו <persName>דבורה </persName> בת ר'<persName> יונה קפליבצקי </persName> (הרב בקאפארשט, מצאצאי ר'<persName> נחום</persName> מצ'רנוביל).
+
+ למד בחדר ובישיבת קישינוב והוסמך לרבנות ועמד בבחינת-בגרות אכסטרנית.
+
+ ב-1934 עלה לארץ, סיים את הסמינר למורים בירושלים ואח"כ היה מורה בזכרון יעקב ובכפר סבא
+
+ מאז 1940 הוא מנהל בית-הספר היסודי יעבץ ובית-ספר תיכון ערב "גבע" בתל-אביב. 
+
+ ב-1940 נשא לאשה את <persName>שושנה </persName> (אגרונום, מורה לטבע בבית המדרש למורות ולגננות "תלפיות" בתלאביב) בת<persName> זוסיא דרבנדינר</persName> .
+
+ מאז 1950 חבר ועד סניף המורים בתל-אביב וגזברו.
+
+ הוציא חוברות לחזרה ועיון בתורה ובמפרשיה, מקורות לנושאים בתנ"ך, ובאחרונה התחיל להוציא חוברות לחזרה והעמקה בנביאים בצירוף לקט פירושים מסורתיים.
+
+ בניו:<persName> יאיר, יעקב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3518 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3518</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

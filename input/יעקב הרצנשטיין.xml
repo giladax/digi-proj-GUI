@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 846 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/846</bibl><bibl>Volume: #2 ,Page: 847 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/847</bibl>
+<bibl>Volume: #2 ,Page: 848 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/848</bibl>
+<bibl>Volume: #2 ,Page: 849 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/849</bibl>
+<bibl>Volume: #2 ,Page: 850 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/850</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב הרצנשטיין</persName>
+
+</head>
+         <div><p> נולד באודיסה, רוסיה, בשנת תרי"ח (1858), לאביו <persName>אלכסנדר</persName> , סוחר אמיד. קיבל חינוך יהודי וכללי, גמר גימנסיה והתחיל ללמוד רפואה באוניברסיטת היידלברג שבגרמניה ואח"כ למד משפטים והוסמך לעורך-דין.
+
+ הצטרף לתנועת ביל"ו ובקיץ תרמ"ג עלה ארצה. על הקשיים שגרמו פקידי החוף הטורקיים לעולים היהודים מסר מיד מחאה לקונסול הרוסי ביפו (גם הרב הראשי <persName>שמואל סלנט </persName> והעסקן ר' <persName>ניסן ב'ק</persName>
+
+ הביעו את מחאתם לקונסול <persName>ולורנס אוליפאנט</persName> , הציוני האנגלי שישב אז בביתו שעל הכרמל ליד חיפה, שלח את מחאתו לאנגליה), ובו ביום יצא לאכסנית הביל"ויים שבפרדס <persName>אנטון איוב</persName> , ואם כי היה זכאי לשלשת ימי נופש אחרי מסעו בים יצא כבר למחרתו עם יתר הביל"ויים לעבודת-שכיר במקוה ישראל. אך המנהל <persName>הירש</persName> סירב להכיר בו שהוא ביל"ויי ולתת לו עבודה,
+
+ ובגלל זה פרץ ריב בין הירש ובין הביל''ויים והוא פקד מיד למחוק את <persName>ברוכוביץ</persName> - בגלל עמידתו האיתנה לימין הרצנשטיין - מרשימת בעלי הזכות לעבודה והסיכויים להתנחלות בראשון לציון. לעצת הביל"ויי <persName>צבי הורביץ</persName> לבש בורוכוביץ בגדי-שבת והלך אל הירש והצליח לפייסו ולהביאו לידי ביטול גזרותיו, והרצנשטיין הורשה לעבוד. אך הרצנשטיין לא הסכים להקריב את כבודו האישי למען החלוציות ולהשיג זכות לעבודה במחיר התרפסות לעריץ הפכפך, ואחרי ימים אחדים חזר לרוסיה, על מנת לעלות ארצה מחדש בתנאים אחרים.
+
+ באביב תרמ"ה (24.3.1885) עלה ארצה כבעל הון ועסקים, יסד ביפו בית-מסחר ליבוא עצים לבנין וליצוא צמוקים מעבר הירדן לרוסיה, וכפקידים עבדו אצלו <persName>יעקב אלחנן ליטוינסקי</persName> (אבי משפחת ליטוינסקי בארץ) <persName>ומרדכי דב ברייטמן</persName> בעסק העצים, והביל"ויי <persName>אלכסנדר הרכבי</persName> (ממגורשי מקוה ישראל) בעסק הצימוקים. ושוב נסע לרוסיה, אבל רק בעניני מסחר, וחזר במהרה ופיתח את עסקו כאן בהצלחה ועסק אף בעסקי בנק (הלואות והעברות כספים) וכמה פעמים הגיש עזרה כספית לחבריו הבילו"יים שהתנחלו בגדרה ולא פעם נשארו בלי פרוטה בסידור משקיהם.
+
+ באותו הזמן היה היבוא של נייר-סיגריות כעין מונופולין בידי הסוחר הגרמני היפואי <persName>ברייש</persName> , שהדפיס על המעטפות של פנקסי נייר-הסיגריות לשם תעמולה גרמנית את השיר הלאומי הגרמני "וואכט אם רהיין". כשהחל הרצנשטיין להביא אף הוא סחורה זו ביקש מהמשורר<persName> נפתלי הירץ אימבר</persName> (מחבר "התקוה") שהיה אז בארץ, שיחבר שיר מתאים בעל תוכן
+
+
+ לאומי עברי, ואימבר חיבר את השיר "משמר הירדן", שקישט את מעטפות נייר-הסיגריות שהביא הרצנשטיין.
+
+ אחרי מות <persName>אברהם מויאל</persName> , שהיה מנהל עניני חובבי ציון בארץ מטעם הועד האודיסאי, התכנסה בי"ז תמוז תרמ"ו אספת עסקנים בביתו של הרצנשטיין, בה נבחר ועד לניהול הענינים בהרכב דלהלן: <persName>שמואל</persName> הירש יו"ר, חברים: <persName>יהושע אוסובצקי, דוד גוטמן</persName> <persName>ואברהם זלמן איכילוב</persName> מפתח תקוה, <persName>ישראל בלקינד</persName> מגדרה<persName> ויעקב הרצנשטיין</persName> מיפו (נבחר גם כנציג בני פתח תקוה, וזמן-מה היה אף יו"ר הועד של חובבי ציון), ולמזכיר נבחר <persName>אלעזר רוקח</persName> .
+
+ בהיותו בקשרים לרגל עסקיו עם הנהלת מקוה ישראל ופקידות הבארון לניהול המושבות היה עושה להן שרותי-שליחות שונים לסידור ענינים בעיר. כך הגיע לידו בעת מרד אכרי ראשון לציון נגד עריצותם של פקידי הבארון מכתב דחוף מאת ראשהפקידות <persName>יהושע אוסובצקי</persName> , בו הוא דורש שהמשטרה תשלח מיד לעזרתו "חיילים" (כך קראו אז לשוטרים הערבים) לריסון האכרים המתמרדים. אך הפעם עיכב הרצנשטיין את השליחות ובזה מנע את התערבות השלטון הטורקי בסכסוך שבין יהודים ליהודים ואת האסון שהיה עלול לבוא בעקב התנגשות עם השוטרים.
+
+ בשנת תר"ן התכנסה בביתו אותה אספה היסטורית של עסקני יפו, שבה נוסדה לשכת בני ברית "שער ציון", ביזמת הד"ר <persName>זאב</persName> (וילהלם) <persName>הרצברג</persName> , שבא לשם כך מירושלים. באותה שנה השתתף בארגון הקהלה האשכנזית ביפו ובאספתה הראשונה בחודש סיון נבחר לועד הקהילה יחד עם<persName> חיים שמרלינג</persName> , <persName>מאיר המבורגר, שמעון רוקח, בצלאל הכהן לאפין</persName> , <persName>יחיאל מיכל פינס וא. דונדיקוב</persName> .
+
+ בתרנ"ב נשא לאשה את <persName>פאני </persName> בת <persName>אליהו ורוזה</persName> <persName>ציפרפיין</persName> , אחות<persName> ברטה</persName> אשת <persName>יוסף פיינברג</persName> ממיסדי ראשון לציון.
+
+ בתרס"ו יצא לאלכסנדריה, משם לצרפת, בה שהה למעלה משלש שנים, ואח"כ חזר לאלכסנדריה, השתקע שם ועסק במסחר, והוסיף להתענין ולתמוך בעניני הישוב בארץ. וכשפרצה מלחמת-העולם הראשונה בתרע"ד וזרם של פליטים ומגורשים מהארץ הגיע לאלכסנדריה, היו הוא <persName>ודוד יודילביץ</persName> (אז מנהל סניף "כרמל מזרחי" שם) שני הראשונים שהחלו לפעול ולהפעיל לעזרת המהגרים ואח"כ אף נבחר לועד שנוסד למטרה זו, וגם אשתו פעלה בועד זה ופעלה במחלקה להלבשה והנעלה יחד עם הגבירות <persName>די-לה-פרגולה וסלוצקין</persName> וביתר פעולות העזרה. נפטר באלכסנדריה, י"ח כסלו תרפ"ט (1.12.1928).
+
+ אשתו ובניו גרים באלכסנדריה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 846 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/846</bibl><bibl>Volume: #2 ,Page: 847 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/847</bibl>
+<bibl>Volume: #2 ,Page: 848 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/848</bibl>
+<bibl>Volume: #2 ,Page: 849 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/849</bibl>
+<bibl>Volume: #2 ,Page: 850 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/850</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2907 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2907</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב רפאל יהושע עזריאל</persName>
+
+</head>
+         <div><p> נולד בירושלים, י''ז טבת תרל"ה (1875).
+
+ לאביו הרב <persName>אהרן רבנו עזריאל</persName> (ראה את הערך שלו בכרך זה) ולאמו<persName> רחל.</persName>
+
+ בן ארבע היה כשנתיתם מאביו.
+
+ גדל בבית הרב <persName>יעקב מאיר</persName> (הרב הראשי לא"י, ראה כרך ג', עמוד 1216) .הרבנית טפלה בו במסירות.
+
+ ובשנת תרנ"ב (1892) נשא לאשה את בתם<persName> לונה </persName> בת הרב <persName>יעקב מאיר </persName> - הנ"ל.
+
+ נמנה בין מיסדי בית חנוך יתומים לעדת הספרדים כירושלים (1903).
+
+ פעמים אחדות היה שליח מצוה של כולל ירושלים וחברון בערי אפריקה, טוניס, אלג'יריה ומצרים והצליח לטובת הכלל.
+
+ בשנת 1928 ביקר בשליחות ישיבת "חזוק תורה" בארצות הברית.
+
+ ממנהלי ישיבת חותנו הידועה בשם "אוהל יעקב" בירושלים.
+
+ מחידושיו נדפסו ב"המאסף", שנה א' ס"י ל"ג ועוד.
+
+ צאצאיו:<persName> רבנו </persName> (ממנהלי בנק א"י לדיסקונט בע"מ בתל-אביב),<persName> כלב</persName> ז"ל, <persName>יהודית</persName> ז"ל,<persName> רחל</persName> אשת<persName>יצחק בן</persName> <persName>יהודה </persName> (ירושלים),<persName> מתילדה </persName> אשת<persName> גדליה ליאון</persName> (תל-אביב), <persName>יעל </persName> אשת <persName>אלכסנדר סיטון</persName> (ירושלים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2907 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2907</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3804 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3804</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אמציה אייזנברג</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רחובות</placeName> ה' חשון תרנ"ג (1892). לאביו אהרן איזנברג (ראה כרך בי, עמוד 982),
+
+ ולאמו <persName>בלהה</persName> בת <persName>יהושע משל</persName> .
+
+ קיבל חינוך מסורתי ועברי. גמר בית ספר תיכון בירושלים, אוניברסיטה בג'נבה (שוייץ) וקיבל תואר - איינג'ינר כימאי.
+
+ היה פעיל בועד הסטודנטים בשויצריה.
+
+ בשנת 1919 נשא לאשה את<persName> חנה</persName> בת <persName>איידה והירש</persName> <persName>נחומזון</persName> . (סופרת, פירסמה שני ספרים בצרפתית: "Israel est son nom"; Aube sur la Palestine"."
+
+ היה חבר פעיל במכבי ולקח חלק בתחרויות המכבי ב<placeName>רחובות</placeName>.
+
+ כל השנים חבר פעיל בהגנה.
+
+ היה שופט ציבורי.
+
+ היה מנהל אדמות הברון בחורן ואח"כ מנהל שטחי קרקעות ומושבות הפיק"א בארץ.
+
+ "נפטר בחיפה, בכ"ו אב תשי"ד (24.8.54).
+
+ בניו; כרמי (ב. א, כלכלה), <persName>יגאל</persName> (עורך דין).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3804 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3804</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

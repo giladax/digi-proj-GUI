@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4000 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4000</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר בנימין ברנר</persName>
+
+</head>
+         <div><p> נולד בשנת תרנ''ח (8.8.1898) בנובאיה מליני פלך צרניגוב שבאוקראינה.
+
+ לאביו<persName> שלמה</persName> (מלמד, מטופל במשפחת בת 8 נפשות וחי חיי דחקות ועיני, נספה ביחד עם בנו הרב <persName>שמואל נח,</persName> רבה של העיירה קונוטופ, בימי הפרעות של פטלורה באוקראינה) ולאמו <persName>חיה-רייזה</persName> לבית<persName> רבינוביץ</persName> . (הוא אחיהם של הסופר<persName> יוסף חיים ברנר</persName> (ראה כרך ג', עמוד 1117) ושל הרב<persName> שמואל נח ברנר</persName> מקונוטופ שברוסיה).
+
+ ביוני 1911 עלה לארץ, גמר לימודיו בבית-הספר לבנים בתל-אביב ובבית המדרש למורים בירושלים. התנדב לגדוד העברי ואחרי שחרורו עבד בהוראה בטבריה, בזכרון יעקב, בנהלל ובתל-אביב. ב-1923 נשלח מטעם הסתדרות המורים בתור ציר לקונגרס המורים בברלין. חבר פעיל בהגנה ובמהומות 1929 הגן על נוה שאנן.
+
+ יצא להשתלמות באוניברסיטאות ברלין ולייפציג, גמר אוניברסיטת קולומביה בניו-יורק וקיבל את התוארים D.E.M.; M.A.; B.Sc.(דיפלומה של בוחן פסיכולוגי) ודוקטור לפילוסופיה. ב-1932 ייצג את מורי ארצנו בקונגרס המורים בדנוור שבארה"ב. בחו"ל היה מרצה בפסיכולוגיה ובפדגוגיה במוסדות חינוך לעם.
+
+ ב-1939 נשא לאשה את<persName> אסתר</persName> בת<persName> אשר גולדברג.</persName> שימש זמנית מורה לפסיכולוגיה בפקולטה לחקלאות (ברחובות) של האוניברסיטה העברית, ומאז הנו מורה קבוע בבית המדרש למורים בבית הכרם. היה זמן-מה יו"ר סניף מורי ירושלים.
+
+ כתב מאמרים בהד החינוך, בהחינוך, ב-אשיות, בהפועל הצעיר, בהתקופה (כרך כ"ב, בחתימת רב-אחא). ספריו: The Effect of Immediate and Delayed Praise דת הדוקטורה בהוצאת אוניברסיטת קולומביה). החינוך במפנה (הוצאת "עבר" ירושלים), ענינים בחינוך, דידקטיקה לכיתה א' (שלושה ספרים, בשותפות עם <persName>רחל צברי)</persName> (שנים הספרים בהוצאת "קרית ספר" ירושלים), התורשה והסביבה (הוצאת "שעלים" של הסוכנות), ספר חשבון ועבודה עצמית בחשבון לכיתות א', ב', ג', ד' (הוצאת "אמנות").
+
+ בנו: <persName>שמואל</persName> (תלמיד באוניברסיטה העברית. קצין בצה'ל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4000 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4000</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

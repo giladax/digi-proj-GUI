@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 787 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/787</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שושנה גיסין-יטקובסקי</persName>
+
+</head>
+         <div><p> נולדה בפתח תקוה, י"ז סיון תרס"ד (1904), לאביה <persName>דב יטקובסקי</persName> , מותיקי החקלאים, ולאמה <persName>שרה</persName> בת הרב <persName>בנימין דוד</persName> הדיין, ראש הדיינים והעסקנים בעיר העתיקה בירושלים. למדה בביה"ס של הבארון<persName> רוטשילד</persName> (ביה"ס פיק"א כיום) ובביה"ס החקלאי מיסודו של האגרונום ד"ר <persName>חניאל (פיקהולץ)</persName> בפתח תקוה ולמדה את השפות צרפתית ואנגלית בשיעורים פרטיים. בעודה תלמידה פעלה רבות בסידור הרצאות והצגות וכו' לטובת הספריה הצבורית על שם אליהו ספיר. היתה פעילה בתזמורת "כנור ציון" של "מכב-אבשלום".
+
+ ב-1926 נישאה <persName>לאפרים</persName> בן <persName>משה גיסין</persName> , מעסקני הצבור החקלאי במושבה וכיום נשיא המועצה הכפרית והועד החקלאי.
+
+ פעילה בעניני צבור מקומיים וארציים כחברה וכמזכירת-כבוד בהנהלת ויצ"ו בפתח תקוה ויו"ר ועדת התרבות שלה, חברה בועד הפועל ובהנהלה של ויצ"ו הארצישראלית (מנהלת הפעולות למען הקה"ק), חברה בהנהלת התאחדות האברים (האשה היחידה) ויו"ר מחלקת התרבות שלה, חברה בועדה לשפור העיר והגנים בפתח תקוה, חברה במועצת "מכבי-אבשלום" ובשנות 1938/39 היתה חברה בהנהלת מגן-דוד אדום המקומי.
+
+ פרסמה ב"בוסתנאי" וב"הבוקר" "זכרונות מפתח תקוה", "רשמי הגליל" ועוד מאמרים שונים בעתונות. מרצה בצבור על נושאים שונים, ביניהם: יחס התורה אל הטבע, בין קודש לחול (ערך מועדי ישראל מבחינה דתית ולאומית).
+
+ פעלה רבות באיסוף כספים, הגרלות וכו' לטובת "בית הספר המיוחד" (לילדים קשי-חינוך).
+
+ פעילה בעזרה, בעצה ובהדרכה בכל עניני התרבות בעירה ; עוזרת לסופרים ואנשי-רוח בהקנית יצירותיהם לקהל (בהפצת ספרים, החתמה על עתונים, ירחונים, וכדומה).
+
+ בניה : <persName>אבשלום, עדיאל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 787 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/787</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

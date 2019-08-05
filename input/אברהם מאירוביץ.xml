@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 2013 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2013</bibl><bibl>Volume: #4 ,Page: 2014 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2014</bibl>
+<bibl>Volume: #4 ,Page: 2015 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2015</bibl>
+<bibl>Volume: #4 ,Page: 2016 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2016</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם מאירוביץ</persName>
+
+</head>
+         <div><p> נולד בראשון לציון, י' אלול תרמ"ד (1884), לאביו הבילויי <persName>מנשה מאירוביץ</persName> (ראה כרך ב', עמוד 823) ולאמו <persName>פאני</persName> בת <persName>זאב אברמוביץ </persName> (ממיסדי ראשון לציון). והיה הילד הראשון למשפחת הבילויים שנולד בארץ והבן הראשון שנולד למתנחלי ראשון לציון.
+
+ למד בבית-הספר שבמושבה ואח"כ במקוה ישראל, ומשלא נמצא בשבילו קרקע להתנחלות ניסה את מזלו במסחר. בסוף 1911 יצא לפורט סעיד שבמצרים ועבד שם כפקיד ואח"כ כמנהל בסניף חברת "כרמל מזרחי''. נתחבב על התושבים והיה פעיל בעדה היהודית. שימש בעין "קונסול" של ארץ-ישראל העברית וביתו היה פתוח להארחה ולעזרה ועצה, הן לבני הארץ שעברו שם למסעיהם בענינים צבוריים או מסחריים, והן לעולים שעברו שם בדרכם אל הארץ.
+
+ ב-1915 נשא לאשה את <persName>דבורה</persName> בת<persName> ישראל רייטמן</persName> ואשתו<persName> חנה תהלה</persName> לבית<persName> ארליך.</persName>
+
+ אחרי מלחמת-עולם א' הגיע מעמדו בתור "קונסול" לדרגה רשמית-למחצה, משנתמנה להיות הנציג של ועד הצירים ואח"כ של ההנהלה הציונית.
+
+ אך מעמדו החברתי הצבורי והעסקים לא יכלו לתת לו תמורה מספקת במקום החיים במולדת. ב-1923 חזר
+
+ לארץ ופתח בית-מסחר בתל-אביב, וכשפתחה חברת "תעשיות חימיות ממלכתיות (ליבנט) בע"מ" את משרדיה בארץ ב-1928, היה הוא הראשון שסיפק לחברה בארץ את גפרת-האשלגן מתוצרת צרפת, והרחיב את קשרי המסחר עם ארצות חוץ.
+
+ עקב הצטננות חלה בדלקת קרום המוח. נפטר בתלאביו, ט' טבת תר"ץ, והובא לקבורה בראשון לציון.
+
+ צאצאיו: <persName>עמנואל</persName> (סוחר), <persName>צפורה</persName> אשת <persName>שלמה</persName> <persName>רוזנפלד.</persName>
+
+ לזכרו יסדה מועצת ראשון לציון, בתרומה ראשונה
+
+
+ של משפחתו, מגרש-משחקים לילדים על שמו בגן הצבורי.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 2013 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2013</bibl><bibl>Volume: #4 ,Page: 2014 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2014</bibl>
+<bibl>Volume: #4 ,Page: 2015 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2015</bibl>
+<bibl>Volume: #4 ,Page: 2016 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2016</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5158 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5158</bibl><bibl>Volume: #17 ,Page: 5159 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5159</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עו"ד זאב לבנון (בילינקי)</persName>
+
+</head>
+         <div><p> נולד במליניץ, פלך קיוב תרס"ג (בשנת 1903).
+
+ לאביו <persName>יהודה בילינקי</persName> (היה מזכיר ועד ההגירה בגירוש תושבי יפו-ת"א במלחמת העולם הראשונה) ולאמו <persName>צביה.</persName>
+
+ קיבל בעירו חינוך מסורתי.
+
+ בשנת 1911 עלה עם הוריו לארץ.
+
+ המשיך ללמוד בתלמוד תורה "נצח ישראל" בפתח-תקוה, ב"בית המדרש למורים מזרחי" בירו
+
+ שלים, בית ספר למשפטים של ממשלת המנדט הבריטי ובאוניברסיטה העברית בירושלים, וקיבל תואר של עורך דין.
+
+
+ זמן מה שימש כמורה ב"בית הספר תלמוד תורה מזרחי" בירושלים.
+
+ היה מראשוני המיסדים של "ברית הצה"ר" בירושלים.
+
+ כל השנים עובד כעורך דין עצמאי.
+
+ חבר המועצה של "עצמה" שליד הבנק הלאומי לישראל בע"מ (קופת תגמולים).
+
+ חבר בלשכת עורכי הדין בתל-אביב.
+
+ חבר במשמר האזרחי והג"א.
+
+ בשלטון המנדט הבריטי בארץ היה חבר ב"משטרה המיוחדת" Palestine Volunteer Force.
+
+ ידוע כאחד מעורכי הדין הראשונים בארץ, שולט גם בשפה הערבית.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5158 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5158</bibl><bibl>Volume: #17 ,Page: 5159 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5159</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

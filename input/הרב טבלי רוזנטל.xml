@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3774 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3774</bibl><bibl>Volume: #11 ,Page: 3775 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3775</bibl>
+<bibl>Volume: #11 ,Page: 3776 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3776</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב טבלי רוזנטל</persName>
+
+</head>
+         <div><p> נולד בסובלקי, בשנת תר"א (1841).
+
+ לאביו <persName>אברהם</persName> (מראשוני בוני המאה בתים בשכונת "מאה שערים" בירושלים (1873). אחיו היה הרב <persName>עזרייאל</persName> <persName>אריה,</persName> הרב בפלוצק).
+
+ קיבל חינוך מסורתי והוסמך לרב.אבל דחה את משרת הרבנות שהוצעה לו.
+
+ עסק במסחר באמצעות אשתו, וע"י כך מצא זמן בלימוד התורה באופן תמידי, ורק מזמן לזמן נסע לירידים ללייפציג לקנות סחורה.
+
+ בשנת תרל"ב (1872) עלה עם הוריו לארץ. הרב. <persName>שמואל סלנט</persName> זצ"ל הציע לו משרה בתור חבר אב בית דין בירושלים וסירב לקבלה. בהשיבו: "שאינו רוצה לעשות תורתו קרדום לחפור בה".
+
+ עסק במסחר משקאות אלכוהליים, ובשנותיו האחרונים היה נתמך ע''י בתו מוורשא ובתו מאמריקה.
+
+ היה נבחר לבורר לפי דיני התורה במשפטים של עניני ממונות ושל עניני אישות, מבלי לקבל תשלום.
+
+ התענין בצעירי בני הישיבות ודאג להם.
+
+ חיבר ספר "הלכה מבוררת על שמיטה".
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3774 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3774</bibl><bibl>Volume: #11 ,Page: 3775 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3775</bibl>
+<bibl>Volume: #11 ,Page: 3776 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3776</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

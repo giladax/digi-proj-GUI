@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2224 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2224</bibl><bibl>Volume: #5 ,Page: 2225 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2225</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף בן-משה (מטניצקי)</persName>
+
+</head>
+         <div><p> נולד בקיוב, י"ד ניסן תרס"ט (21.4.1909) לאביו <persName>משה</persName> (סוחר) ולאמו <persName>צפורה</persName> בת <persName>צבי יעקב גולדנברג </persName> (אחות של משה גולדנברג מכפר אז"ר).
+
+ בגיל 3 הובא לארץ עם, אמו וסבו והתישבו בראשון לציון ובגמר מלחמת העולם עברו לגור ביפו.
+
+ קיבל חינוך מסורתי בתלמוד תורה - שערי תורה והשתלם אצל חזנים ידועים בשירה ובחזנות.
+
+ בתרפ''ח עבר לבנימינה-זרעוניה ועבד בתחנת הנסיונות החקלאית של הפיק"א, שבהנהלת האגרונום<persName> עמרם חז</persName> <persName>נוב,</persName> שהכינה משתלות גדולות של עצי אקליפטוסים, ליעור חולות קיסריה. שם עבד עד שנת תרצ"ג.
+
+ חזר לתל-אביב והמשיך להשתלם בחזנות ובפיתוח הקול אצל החזן <persName>זבולון קווארטין</persName> והיה מנושאי כליו.
+
+ היה ממיסדי אגודת חובבי החזנות והשירה העברית, שהרימה את קרן החזנות והשירה העברית המסורתית בארץ. האגודה הזמינה לארץ את המנצח ליאו ליאוב, שארגן מקהלה דתית גדולה ועוד.
+
+ הוזמן לבתי כנסת שונים בת"א ובמושבות להתפלל בחגים והתפרסם כחזן בעל קול נעים ובעיקר בהברה עברית א"י.
+
+ בשנת ת"ש היה ממארגני "התאחדות בני הישוב" והמסורים לכל פעולותיה, בעיקר, בארגוני ההרצאות השבו
+
+
+ עיות, נשא בעול התקציב וכו' יחד עם חבריו הד"ר<persName> יעקב</persName> <persName>מיכלין, דוד תדהר </persName> ועוד.
+
+ כתב הרבה בעתונות "מכתבים למערכת" בקביעות על מנהגים שיש לעקרם ולבערם מתוך הישוב.
+
+ מקורב לעסקני הישוב ודואג לזקני הציונים הותיקים שנשארו גלמודים.
+
+ עזר<persName> לדוד בדר</persName> ב"ציון" וערך תמיד את טכס האזכרות - לא על מנת לקבל פרס.
+
+ השתתף ב"קול ירושלים" ואח"כ ב"קול ישראל" בשדורי חזנות.
+
+ ממיסדי אגודת החזנים בארץ וחבר הועד שלה.
+
+ הגיש במסירות עזרה רבה באוסף חומר ל"אנציקלופדיה לחלוצי הישוב ובוניו" (של דוד תדהר).
+
+ נשא לאשה את <persName>שחורה</persName> בת <persName>דוד גייער.</persName>
+
+ בתו ;<persName> שלומית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2224 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2224</bibl><bibl>Volume: #5 ,Page: 2225 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2225</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

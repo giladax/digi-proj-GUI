@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1929 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1929</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יחזקאל קנטור</persName>
+
+</head>
+         <div><p> נולד ב<placeName>מינסק</placeName> (רוסיה הלבנה), וכדרך רבים מבחורי ישראל בזמנו הגיע להשכלה ולאמונה סוציאליסטית ולפרנסתו עסק בשיעורים פרטיים. כדרך מעטים מתוך הרבים ההם נתאכזב באמונתו זאת, כשהעמלים הרוסיים, פועלים ואכרים, שהוא נלחם למען שחרורם המעמדי והועידם במחשבתו לשותפים לו וליתר היהודים בהנאה ממנעמי החרות, הרימו ידי שוד ורצח ביהודים בעת הפרעות בדרום רוסיה.
+
+ לאזניו הגיעה השמועה על תגובת בני ביל"ו על
+
+ האכזבה. אך ב<placeName>מינסק</placeName> מצא רק אגודה אחרת, אם כי בעלת מטרה דומה, ושמה "קבוץ נדחי ישראל", שנוסדה על-ידי כמה חובבי ציון, וביניהם<persName> יהושע דב בנינ</persName> <persName>סון, יהודה נופך</persName> ועוד. משהצטרף לאגודה זו נזדמן לו לראות בבית בנינסון בילויים ממש בעברם דרך מינסק בדרכם לארץ-ישראל, ובאמצעות האגודה נרשם גם הוא כחבר לביל"ו וכמועמד לעליה.
+
+ יצא ממינסק עם <persName>שלמה זלמן צוקרמן, יוסף לייב ליס</persName> (שניהם אח"כ מראשוני גדרה) <persName>וחסיה </persName> אחותו של יהושע דב<persName> בנינסון </persName> (אח"כ אשת <persName>יהודה צלליכין </persName> מראשון-לציון), וביום ג' שבט תרמ"ד הגיעו ליפו.
+
+ באכסניה של הבילויים, בבית שבפרדס אנטון איוב, ובעבודה במקוה ישראל מצא את החברים בתנאים קודרים מאד. בכל זאת היה מוכן לקבל על עצמו כמוהם את יסורי ההתערות בארץ: את העבודה המפרכת, את המחסור ואת היחס המשפיל מצד המשגיחים הערבים והצרפתים על עבודת הפועלים ה"סטודנטים" במקוה ישראל.
+
+ אולם קרבנו לא נרצה. כי זמן מועט אחרי בואו הגיעה מפאריס הפקודה הטלגרפית "לפטר את הניהיליסטים". יותר מהפיטורין ושלילת הבסיס לעבודה ולמחיה פגע בו התואר "ניהיליסטי'. הלא הוא ויתר אפילו על הסוציאליזם למען חיבת ציון, והנה דוקא מפאריס בירת האור והתרבות מדביקים עליו תו-ניהיליסטי.
+
+ אחרי מאבק נוסף וסבלות רעב ומחלות נשבר, במו רבים אחרים מהחבורה, וחזר לרוסיה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1929 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1929</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

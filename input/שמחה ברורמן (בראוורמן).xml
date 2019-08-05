@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1169 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1169</bibl><bibl>Volume: #3 ,Page: 1170 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1170</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמחה ברורמן (בראוורמן)</persName>
+
+</head>
+         <div><p> נולד בסיקוראני, פלך בסראביה, רוסיה, י"ד אדר תרל"ב (1872), לאביו ר'<persName> אלכסנדר יהודה</persName> (שוחט) ולאמו<persName> חוה</persName> . למד בחדרים ובישיבות ובן 22 הוסמך להוראות איסור והיתר.
+
+ נשא לאשה את <persName>מרים</persName> בת קרפל מורגנשטרן. בן 24 בהיותו כבר נשוי ומטופל במשפחה, נסע לאודיסה להשתלם בהשכלו, כללית, מבלי לדעת
+
+ אף מלה ברוסית. עסק בהוראה עברית, התכונן ועמד בבחינת בגרות ואח"כ למד 3 שנים באוניברסיטת אודיסה היסטוריה, פילוסופיה ופסיכולוגיה. בעיר מגורו אודיסה ובערי בסרביה ועידותיה, הפיץ שם את הרעיון הציוני וארגן אגודות ציוניות. בימי המהפכה בשנת
+
+
+ 1905 וגרוש הסטודנטים הוצא גם הוא מהאוניברסיטה ומאז לא היתה לו שוב אפשרות להמשיך את השתלמותו. היה מורה לעברית ולהיסטוריה בגמנסיות הפרטיות היהודית של ז'בוטינסקי-קופ ואיגליצקי באודיסה, מטיף ודורש בבית-הכנסת הציוני "יבנה", פעיל בעבודה ובתעמולה הציונית, חבר פעיל ב"חברת מפיצי השכלה" ונלחם תמיד בעד העברית פרסם מאמרים רבים ברוסית בעניני חינוך בחתימת "בן-חוה" והוציא ספריה חינוכית "יובנטוס", ביחד עם חבריו המורים אהרן ליטאי ואברהם לנדוי שרכשה לה חוג קוראים גדול.
+
+ ב-1911 שלח בלוית אשתו את ילדיו להתחנך בארץ-ישראל וב-1913 עלה גם הוא והיה מורה בבית-המדרש למורות על שם לוינסקי ובביה"ס לדוגמה בתל-אביב.
+
+ בעת הגירוש הכללי מיפו ות"א, באביב תרע"ז, גורש גם הוא, הצליח להשאר בפתח תקוה ולחזור לת"א זמן מועט אחרי הכיבוש הבריטי הראשון, בדרום הארץ. חלה במחלה קשה ונפטר בתל אביב, כ' אייר תרע"ח.
+
+ צאצאיו: <persName>שרה</persName> (מורה) אשת <persName>מ. קניוק</persName> (מהנהלת מוזיאון תל אביב), <persName>יוסף</persName> (מהנדס חימאי), <persName>אלכסנדר</persName> (פקיד במכון התקנים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1169 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1169</bibl><bibl>Volume: #3 ,Page: 1170 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1170</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3639 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3639</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי קוצרסקי</persName>
+
+</head>
+         <div><p> נולד בקאמינקה, פלך קיוב (אוקראינה) בשנת תרכ"א. לאביו<persName> יעקב שמחה</persName> (ראה כרך שני, עמוד 1050) ולאמו <persName>מינדל.</persName>
+
+ קבל חנוך מסורתי.
+
+ משאסר השלטון הרוסי על היהודים לגור בכפרים, עלה עם המשפחה לארץ בתמוז תרמ"ה (1885) והתישבו ביפו.
+
+ עבד כפועל יחד עם אביו בחקלאות בזכרון-יעקב.
+
+ כשאביו חלה שם בקדחת נאלצו לעזוב את המושבה ועברו למקוה ישראל, ומשם לראשון לציון.
+
+ האב נתמנה למנהל מיכלי הספירט ביקב, והוא כמנהל חשבונות.
+
+ נשא לאשה את <persName>זהבה</persName> (גולדה) בת <persName>יוסף ירובסקי</persName> (מראשוני ראשון לציון).
+
+ נפטר בראשון לציון בשנת תרע"ט (1911).
+
+ צאצאיו: <persName>יהושע </persName> (ראה בכרך זה), יהודה, צבי,<persName> נחום,</persName> <persName>דוד, יהודית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3639 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3639</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

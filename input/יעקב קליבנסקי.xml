@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5190 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5190</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב קליבנסקי</persName>
+
+</head>
+         <div><p> נולד בפילבישקי (ליטה), כ"ב ניסן תרמ"ח (1888).
+
+ לאביו<persName> אברהם פנחס קליבנסקי</persName> (סוחר, תלמידחכם, ממשפחת ר' <persName>אלכסנדר זיסקינד</persName> מהורודנה).
+
+ קיבל חינוך מסורתי בחדר ובישיבת סלובדקה.
+
+ בשנת תר"ע (1910) עלה לארץ מליטה.
+
+ משנת 1911 היה מורה ברחובות, סג'רה, צפת, משמר הירדן והמושבה כנרת.
+
+ בשנת תרע"ה (1915) נשא לאשה את<persName> נעמי </persName> בת <persName>מרדכי (מודי) מלמן</persName> מברסטצקו (נפטרה בתל-אביב, ביום כ"ו אלול תשכ"ז) עיירה קטנה בפלך ווהלין, שעלה בעליה השניה לארץ.
+
+ עד שנת תר"ץ (1930) חבר "הפועל הצעיר".
+
+ משנת 1930 היה מזכיר ועדת התרבות של הסתדרות המורים.
+
+ משנת 1935 עורך שבועון הסתדרות המורים "הדהחנוך" במשך הרבה שנים.
+
+ חבר הסתדרות העובדים הכללית בא"י.
+
+ כתב מאמרים רבים בעניני חינוך בחתימת<persName> י.</persName> <persName>אושפיז.</persName> בהוצאת עם עובד, תש"י ע"י ספרית "שחרות"
+
+ הופיע ספר בשם "איש כנפיים בישראל" - קובץ לזכר בנו הטייס<persName> מרדכי </persName> (מודי)<persName> אלון,</persName> שהוכן ונערך על ידו (ראה את הערך המלא שלו בכרך זה).
+
+ נפטר בתל-אביב, כ' אלול תש"י (7.2.1950) והובא לקבורה בנחלת יצחק.
+
+ בניו: הטייס <persName>מרדכי (מודי) אלון </persName> ז"ל (ראה את הערך שלו בכרך זה) ;<persName> יאיר קליבנסקי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5190 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5190</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

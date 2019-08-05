@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1975 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1975</bibl><bibl>Volume: #4 ,Page: 1976 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1976</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יונה בן-עמי (רזניצקי)</persName>
+
+</head>
+         <div><p> נולדה בתל-אביב, כ"ה בתשרי תרפ"ו (19.10.1925), לאביה <persName>ישראל רזניצקי</persName> ולאמה<persName> צפורה</persName> לבית<persName> קוברינסקי.</persName>
+
+ סיימה שבע מחלקות גימנסיה בתל-אביב.
+
+ מראשוני לח"י (לוחמי חרות ישראל) מימי<persName> יאיר</persName> (<persName>אברהם שטרן</persName> , ראה כרך שני, עמוד 1014). העבודה במחתרת אילצה אותה לעזוב את בית הוריה.
+
+ לפני הקמת הדפוס הופיע כל חומר התעמולה והחומר הפנימי של לח"י במכונת סטנסיל. היתה כל
+
+
+ השנים אחראית להדפסה, עבדה בעצמה והדריכה אחרים לעבודה זו.
+
+ סיימה קורס לנשק והשתתפה במספר פעולות.
+
+ עם שחרורו של ד"ר <persName>ישראל שייב (אלדד - </persName> ראה כרך ג', עמוד 1449) מבית רופא פרטי בירושלים העבירה אותו יחד עם<persName> דוב ("הבלונדיני הגבוה"),</persName> דרך
+
+ "המשולש" לסביבות תל-אביב.
+
+ מאז היתה המקשרת בין ד"ר<persName> שייב</persName> ויתר חברי המרכז.
+
+ בגלל העיקוב מצד הבולשת הבריטית ואחרים היתה זו עבודה קשה ואחראית. כי כל צעד בלתי זהיר עלול היה להביא את האויב או את עוזריו לתפישת המרכז של המחתרת.
+
+ בעשרת הימים שתל-אביב היתה במצור החיפושים, היתה עוברת יום יום את גדר התיל שהקיף את העיר כדי לקשר בין חברי המרכז שהיו מחוץ לעיר ובין מפקדי המחתרת וראשי המחלקות שבתוך העיר הנצורה. לא נתפשה אף פעם.
+
+ כנוייה במחתרת:<persName> עליזה, דרורה.</persName>
+
+ נישאה <persName>לאליעזר בן-עמי</persName> לאחר שחרורו מביתהסוהר בו ישב חמש שנים בעוון פעילות במחתרת לח"י.
+
+ שני אחיה<persName> משה, הרצל</persName> ישבו שנים במעצר בארץ ובגלות קניה על השתייכות ללח"י. אחותה <persName>שרה</persName> (כנויה <persName>נילי)</persName> אף היא חברת מחתרת לח"י.
+
+ אחר ההתנקשות בברנדוט נאסרה למרות היותה בהריון והוחזקה בבית החולים הצבאי בתל-ליטוינסקי.
+
+ בנה :<persName> ארנון</persName> (על שם <persName>שאול הגלילי-ארנון,</persName> שנרצח בידי הבריטים בגלות אריתריאה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1975 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1975</bibl><bibl>Volume: #4 ,Page: 1976 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1976</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

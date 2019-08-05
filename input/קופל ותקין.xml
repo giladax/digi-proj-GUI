@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3868 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3868</bibl><bibl>Volume: #11 ,Page: 3869 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3869</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>קופל ותקין</persName>
+
+</head>
+         <div><p> נולד בשנת תרס"ג (1903) בעיירה וידז (ליטא).
+
+ לאביו ר' <persName>פישל ותקין</persName> ולאמו <persName>רבקה עטיל</persName> לבית ספיבק.
+
+ למד בישיבה הגדולה של טלז בליטא, שם נחשב כאחד הבחורים הנעלים והמצויינים שבישיבה, היה חבר מערכת "שעורים" שנתפרסמו והופצו בין התלמידים וחוגי הישיבות.
+
+ בשנת 1924 עלה לארץ והמשיך ללמוד בישיבת "מרכז הרב" בירושלים והיה חביב מאד אצל הרב קוק זצ"ל.
+
+ לאחר נשואיו בשנת 1926 לגב'<persName> טובה</persName> בת <persName>יוסף</persName> <persName>יהושע מולצ'דסקי</persName> שהיתה משפחה מכובדת ואמידה בירושלים, הוצעה לו כהונת רב באמריקה והוא בא להתייעץ עם רבו הנערץ. תשובת הרב קוק היתה, מוטב להסתדר במסחר בירושלים מאשר ברבנות באמריקה. שמע בקול רבו, נעשה סוחר והצליח. שמו הלך לפניו כאחד הסוחרים הנכבדים והמפורסמים בירושלים ומחוצה לה, עסק ביבוא מזון מחו"ל וכן במסחר הסיטוני בענף זה.
+
+ בתקופת מלחמת העולם השניה היה חבר ב"הגא" ויחד עם זאת פעל רבות כתורם ומתרים לטובת מגבית ההתגייסות וההצלה ותרם ביד נדיבה לכל המוסדות שפנו אליו.
+
+ בשנת 1948 היה בין מיסדי "ארגון האימפורטרים והסיטונאים בירושלים" ומטעם הממשל הצבאי נסע לתל-אביב בשיירה הראשונה בהפוגה הראשונה ואר
+
+
+ גן את אספקת המזון לירושלים. יחד עם זאת היה פעיל בתקופת מלחמת השחרור כחבר ב"משמר העם" והיה תורם דם קבוע לפצועי הקרבות. בשעת המצור על ירושלים, העמידה הפירמה "האחים ותקין" את רוב מטעני המזון שלה בנמלים לרשות כוחות ההגנה בירושלים במחירים מינימליים.
+
+ טוב לב היה, אציל נפש ואהוד על כל ידידיו ומכריו מוקיריו. שש תמיד לעזור לזולת ולכל נצרך ולא השיב פני איש ריקם, כל מכיריו ומיודעיו הוקירוהו על כנות דבריו ויושר לבו ונועם הליכותיו. על אף סבלו בשנה האחרונה לחייו, לא התאונן.
+
+ נפטר בירושלים, כ"ט ניסן תשי"ט (7.5.1959) והובא לקבורה בבית העלמין "הר-המנוחות" בירושלים.
+
+ בניו : <persName>יוסף (נשוי </persName> לד"ר<persName> שרה</persName> לבית<persName> פיזנטי), נתן</persName> (נשוי <persName>לברוריה</persName> לבית <persName>זוסמן), חיים</persName> (נשוי <persName>למרים</persName> לבית <persName>זיכל).</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3868 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3868</bibl><bibl>Volume: #11 ,Page: 3869 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3869</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4027 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4027</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עמנואל גרבלי</persName>
+
+</head>
+         <div><p> נולד בטבריה, י"ט ניסן תרע"ו (14.4.1916).
+
+ לאביו ר'<persName> שמואל גרבלי</persName> (בן הרב<persName> יצחק גרבלי)</persName> ולאמו<persName> נזהה </persName> בת הרב<persName> אליעזר בהלול (</persName> ראה כרך עשירי, עמוד 3522).
+
+ קיבל חינוך מסורתי וכללי בבית-ספר כי"ח (אליאנס) בטבריה.
+
+ ב-1941 נשא לאשה את <persName>יהודית</persName> בת<persName> מרים ונסים תג'ר</persName> (מירושלים). בשנים 1957-59 היה חבר מועצת העיריה בטבריה. כל השנים היה חבר ההגנה ושירותים מיוחדים בש"י.
+
+ חבר: הועד למען החייל, ברוטרי, בועד ההורים של ביה"ס התיכון בגליל-טבריה.
+
+ יו"ר איגוד עובדי המדינה בטבריה. עד קום המדינה היה פקיד בדואר.
+
+ השתלם במקצוע הטלגרף בבי"ס לטלגרף בירושלים בתקופת המנדט.
+
+ עם קום המדינה נתמנה למנהל הדואר בטבריה.
+
+ צאצאיו: <persName>זיוה, דליה, מרים, שמואל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4027 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4027</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

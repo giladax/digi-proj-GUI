@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 857 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/857</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו רודבסקי</persName>
+
+</head>
+         <div><p> נולד בכפר פאבלובקה, ליד רוזינוי, פלך גרודנה, רוסיה-פולין, בשנת תקע"ו (1816), לאביו <persName>-יהודה,</persName> קימל חינוך מסורתי והתמחה בעבודת האדמה. נשא לאשה את<persName> ציפה</persName> והיה אכר בכפר, שתושביו היהודים היו אכרים ואף את בניו גידל לאכרים שומרי תורה ומצוה.
+
+ בתרמ"ג עלה בנו בכורו<persName> דב </persName> עם משפחתו בין 11 האכרים היהודים מסביבת רוזינוי, שנבחרו להתנחל במושבה <persName>עקרון </persName> (מזכרת בתיה) שהבארון<persName> בנימין</persName> <persName>רוטשילד</persName> יסד בשבילם. בתרמ"ה עלה גם הוא עם אשתו והתישבו בעקרון, ולמרות גילו המופלג המשיך בעבודת המשק לכפר בעיבוד אדמת הקודש על העבודה הרבה שהשקיע בעשרות שנות חיים על אדמת נכר. היה פעיל בצרכי הצבור ובאספת בני המושבה ביום י"ג תמוז תרנ"ח נבחר, בהיותו בן 82, לגבאי ראשון בחברת ביקור חולים וחברה קדישא.
+
+ נפטר בעקרון, ד' שבט תרס"א. צאצאיו:<persName> דב, אריה, חיה ריבה, מאשה, רחל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 857 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/857</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

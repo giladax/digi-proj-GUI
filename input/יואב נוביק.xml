@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3574 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3574</bibl><bibl>Volume: #10 ,Page: 3575 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3575</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יואב נוביק</persName>
+
+</head>
+         <div><p> נולד בפתח-תקוה, כ"ח אייר תרנ"ג (14.5.1893).
+
+ לאביו <persName>דוד</persName> (ראה כרך ב', עמוד 580) ולאמו <persName>שרה</persName> בת <persName>יוסף לינקובסקי.</persName>
+
+ קבל חנוך מסורתי וכללי.
+
+ היה פעיל בתנועת הנוער במושבתו.
+
+ עבר ליפו ועסק כסוכן לאימפורט ואקספורט בכל השנים (ב-1955 חדל - מסיבת מחלה).
+
+ היה מפעילי מכבי יפו-ת"א לפני מלחמת העולם הראשונה. במשך כמה שנים - יו"ר האגודה.
+
+ השתתף בכל פעולות המכבי במלחמה נגד המסיון, בתעמולה לשפה העברית וכו'. ממיסדי המכבי בפריס.
+
+ במלחמת העולם הראשונה היה בקהיר, והיה שם ממיסדי אגודת המכבי בקהיר (1915), ממיסדי הצופות העבריות בקהיר (1916) וחבר הועד שלהן.
+
+ התנדב לצבא הבריטי במלחמת העולם הראשונה.
+
+ אחרי גמר המלחמה, חזר לארץ.
+
+ היה ממיסדי לשכת המסחר ביפו-ת"א וחבר הועד במשך שנים רבות.
+
+ בשנת 1919 נשא לאשה את<persName> פאולינה</persName> בת <persName>יעקב לזבניק</persName> .
+
+ בניו: <persName>יהודה-אריה, יעקב</persName> .
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3574 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3574</bibl><bibl>Volume: #10 ,Page: 3575 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3575</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

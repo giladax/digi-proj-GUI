@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4711 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4711</bibl><bibl>Volume: #15 ,Page: 4712 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4712</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יעקב מרדכי זילברמן</persName>
+
+</head>
+         <div><p> (המכונה ר' יעקב מוניס)
+
+ נולד ב<placeName>ירושלים</placeName> בשנת תרי"ח (1858).
+
+ לאביו ר' <persName>שמואל מוני,</persName> שעלה עם דודו לארץ בהיותו בן תשע בשנת תקצ"ג (1833), חתנו של
+
+
+ רבי <persName>אורי שבתי סלנט</persName> , דיין צדק בבית הדין הראשון ב<placeName>ירושלים</placeName> שנוסד ע"י חותנו הרב <persName>יוסף</persName> <persName>זונדל מסלאנט</persName> וגיסו של הרב שמואל סלאנט, רבה של ירושלים, (ראה כרך א', עמוד 284) ולאמו <persName>נחמה פייגה</persName> בת ר' <persName>אורי שבתי דיין</persName> .
+
+ אחיו היה הרב <persName>משה מונים - זילברמן</persName> (ראה כרך שביעי, עמוד 2936).
+
+ קיבל חינוך מסורתי בחדר ובישיבות.
+
+ היה מהשוחטים המובהקים בבית המטבחים העירוני ב<placeName>ירושלים</placeName>.
+
+ נשא לאשה את <persName>שטיסע פעשע </persName> בת ר' <persName>טודרוס</persName> <persName>לוין</persName> (נפטרה בכ"ט שבט תרנ"ט 1899).
+
+ היה מיקירי ירושלים, בר אוריון ובר אבוהון.
+
+ מבאי ביתו של הרב <persName>שמואל סלנט</persName> זצ"ל.
+
+ נפטר ב<placeName>ירושלים</placeName>, כ' חשון תש"ב (10.11.1941).
+
+ צאצאיו: ד"ר <persName>אברהם זילברמן</persName> (ד"ר לכימיה, מנהל לבורטוריום במצרים); הרב<persName> ישראל יצחק</persName> <persName>זילברמן </persName> (ראה את הערך שלו בכרך זה); <persName>פייגא</persName> <persName>לאה</persName> ז"ל אשת ר' <persName>זלמן פשין</persName> (ראה כרך י"ד, עמוד 4446); <persName>ליבע</persName> ז"ל אשת ר'<persName> חיים יוסף קרוזר ; מינדל</persName> אשת ר' <persName>שמעון ברנהולץ</persName> ז"ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4711 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4711</bibl><bibl>Volume: #15 ,Page: 4712 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4712</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

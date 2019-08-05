@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5409 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5409</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הלל קמחי (מנקרסקי)</persName>
+
+</head>
+         <div><p> נולד בסונוביץ (פולין), כ"א אדר תרע"ב (10.3.1912).
+
+ לאביו <persName>משה פנחס מנקרסקי</persName> ולאמו יהודית בת <persName>אבא</persName> <persName>פריזר.</persName>
+
+ קיבל חינוך מסורתי בתלמוד-תורה וכללי בביתספר לפקידות.
+
+ היה פעיל בתנועת הנוער "גורדוניה".
+
+ בשנת תרצ"ד (1934) עלה לארץ.
+
+ היה חבר קבוצת גורדוניה ג' ברחובות ולאחר האיחוד עם דגניה ב', היה חבר בה עד יומו האחרון.
+
+ התגייס לבריגדה העברית במלחמת העולם הראשונה.
+
+ לאחר מלחמת העולם השניה 1946-45 פעל בקרב הפליטים והבריחה.
+
+ בשנת 1948 נשא לאשה את<persName> שלומית</persName> בת <persName>יוסף</persName> <persName>פרומקין.</persName>
+
+ היה פעיל בבריחה, עסק בקליטת עלייה באיזור צמח ושימש שנים רבות מזכיר המועצה האיזורית של עמק הירדן.
+
+ כל השנים היה חבר ההגנה.
+
+ נפטר בקיבוץ דגניה ב', כ"ז (בליל שבת) שבט תשכ"ט (15.2.1969), מהתקפת לב בעת התקפת קאטיושות על דגניה ב' ע"י החבלנים הערביים.
+
+ צאצאיו:<persName> יהודית; משה; יונתן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5409 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5409</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

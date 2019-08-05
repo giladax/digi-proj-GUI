@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4267 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4267</bibl><bibl>Volume: #13 ,Page: 4268 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4268</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלעזר דוד פרל</persName>
+
+</head>
+         <div><p> נולד באוסטרוביץ (פולין), י"א אב, תר"ע (1910).
+
+ לאביו ר'<persName> חיים פרל</persName> (ממייסדי "בני-ברק" וממתיישביה הראשונים. נפטר ביום ז' אייר, תשי"ד) ולאמו<persName> חיה רוזה</persName> בת<persName> בן-ציון רוטשטיין.</persName>
+
+ קיבל חינוך מסורתי ותיכוני בארץ.
+
+ בשנת תרפ"ד (1924) עלה לארץ.
+
+ היה חקלאי ומנהל פרדסים.
+
+
+ בשנת 1935 נשא לאשה את <persName>טובה</persName> בת<persName> מנחם מנדל</persName> <persName>טאומן</persName> (נינה של הרבי מקוצק).
+
+ כיום, מזכיר העיר בני-ברק.
+
+ אח בבני-ברית "לשכת גדעון", חבר הנהלת אוצר להלוואות בני-ברק וחבר באיגוד המזכירים בישראל.
+
+ פרסם: ההוצאות של בני-ברק: "בני ברק בת כ"ה" (1950), "בני ברק למלאות 30 שנה" (1957) ועוד חוברות על בני-ברק.
+
+ צאצאיו; <persName>יהודה, בן-ציון, חנה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4267 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4267</bibl><bibl>Volume: #13 ,Page: 4268 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4268</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1911 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1911</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הבילויי אפשטיין</persName>
+
+</head>
+         <div><p> זהו כל הידוע על פרטיו האישיים ותולדותיו. הצטרף לבילויים וכשהגיע זמנו יצא לדרך לעלות לארץ. התעכב זמן-מה באיסטמבול, שם היתה לשכת השתדלנות של ביל"ו, שניסתה להשיג בהשתדלות מדינית רצון טוב מהשלטון הטורקי לחבריה העולים להתנחל בארץ. שם מצא את מזכיר הבילויים <persName>עוזר</persName> <persName>דב ליפשיץ ומשה מינץ</persName> , חברי הלשכה ששרדו עוד שם, ואת החברים <persName>ספקטור ואלכסנדר הרכבי</persName> , שגם הם התעכבו שם בדרכם לארץ. אך <persName>הרי"מ פינס</persName> דרש מהחברים שבארץ לחסל את תחנת השתדלנות ולהעלות את כל החברים בלי דיחוי, ואם לאו, יחזור בו מהסכמתו להיות להם לנשיא.
+
+ אז עלה (בתרמ"ב) אפשטיין עם יתר החברים, השתכן עם החבורה בבית שבפרדס אנטון איוב ועבד במקוה ישראל ונשא עם יתר החברים בכל יסודי הגוף והנפש למען ההתערות בארץ, אף כי קשה היה לשאת יחד עם המחסור והעבודה המפרכת גם את יחס הבוז וההתנכרות של הפקידים השכירים ה"צרפתיים" (ילידי דת משה) ואת ידם הקשה של המשגיחים הערבים בפרדסים שהוכרחו לעבוד בהם. <persName>יהודה צלליכין, ספקטור וצבי</persName> <persName>הורביץ</persName> , שכבר נתמוטטה בריאותם בעקב מחלות ותאונות, היה בו כדי לדכא.
+
+ ועל כל אלה נוספה הפקודה שבאה מפאריס "לפטר את הניהיליסטים !" (כר נחשבו הבילויים שוחרי החופש והכבוד האנושי בעיני הנדיבים בפאריס) ומוטטה את התקוה בבנין עתידם לפי התכנית. ובראותו, כי בין המוכנים לעזוב את המערכה העקשנית ואת הארץ היו גם תקיפי דעה ואמיצים כ<persName>משה מינץ ודורה סירוט,</persName>
+
+ נואש גם הוא. ונוסף לכך הפכה הקשיחות כלפי החלוצים לנדיבות כלפי היוצאים: המנהל הירש הבטיח להם כרטיסי נסיעה חנם, כסף להוצאות הדרך ולסידור ראשון במקום בואם ומכתבי המלצה, נשברה התנגדותו, ויחד עם <persName>משה מינץ, דורה סירוט, ברליאבסקי, ספקטור</persName> <persName>וברוכוביץ</persName> עזב את הארץ ביום 21 למרס 1884.
+
+ ועקבותיו לא נודעו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1911 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1911</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

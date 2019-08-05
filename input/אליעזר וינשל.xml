@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1404 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1404</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר וינשל</persName>
+
+</head>
+         <div><p> לאביו<persName> ד"ר בן-ציון זאב וינשל </persName> (ראה כרך ב', עמוד 602) ולאמו <persName>קארולינה</persName> בת <persName>אריה לנדאו</persName> ממוהילוב. נולד ב<placeName>באקו</placeName> (קאוקאז), 28 פברואר 1896.
+
+ גמר גימנסיה ריאלית ב<placeName>באקו</placeName> (1913), ביקר בבית הספר הגבוה בליאזש (בלגיה), פאוטיה, פריס וציריך, וגמר מהנדס מכני בשנת 1919.
+
+ השתתף באופן פעיל בתנועת "החבר" בבלגיה ובצרפת, הלה חבר הקורפורציה "עבריה'' בציריך. נבחר כציר "החבר" בהיידלברג.
+
+ עלה לארץ בשנת 1920 (ביקור קודם עם אביו בשנת 1909).
+
+ בשנת 1921 נשא לאשה את <persName>מירה</persName> בת <persName>בצלאל</persName> <persName>יפה</persName> (ראה כרך א', עמוד 269).
+
+ עבודותיו הראשונות כמהנדס בא"י: בנמל חיפה, בבנין המזח הראשון בשנת 1921, השתתף בבנין
+
+ בית החרושת "סליקט" בתל-אביב, ביהח"ר "שמן" בחיפה, עיבד תכניות לפיתוח חוף קיסריה, עבד כמהנדס בחברת "גאולה", השתתף בהכנת הפרצילציה ורכישת הקרקעות של לב-תל-אביב, בני ברק, נוה שאנן בחיפה, תל-בנימין ליד רמת גן (אחד הרחובות בתל-בנימין נקרא על שמו). יש לו זכויות רבות ברכישת הקרקעות של "חניתא" בצפון הארץ בשנות מאורעות הדמים ב-1936. עבד בחברת החשמל כמנהל חברת השקעה "הירקון" המסונפת לחברת החשמל, העמיד לרשותו של פנחס רוטנברג תכניות מפורטות על השקעות עמק הירדן ותעלה המקשרת את עמק הירדן עם הים התיכון.
+
+ בשנת 1928 יזם וייסד את לשכת ה"כ"ח" (ה"28") בא"י במטרה להחדיר את ההכרה הממלכתית בחיים הצבוריים. השתתפו בה רבים מראשי הצבור האזרחי.
+
+ היה אחד מהמומחים הראשונים בארץ לתיכנון והערכה של פעולות התישבותיות חדשות.
+
+ נפטר בתל-אביב, כ' טבת ת"ש (1.1,1940).
+
+ בניו: <persName>תיאודור, בצלאל</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1404 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1404</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3061 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3061</bibl><bibl>Volume: #8 ,Page: 3062 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3062</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר בנימין (גרהארד) פינטוס</persName>
+
+</head>
+         <div><p> נולד י"ד ניסן תרס"ז (29.3.1907) בנורדהוזן שבגרמניה המערבית.
+
+ לאביו<persName> היינריך</persName> ולאמו<persName> שטפאניה</persName> לבית<persName> יעקובי.</persName>
+
+ למד בגימנסיה המקומית ואח''כ למד את תורת המוסיקה לכל ענפיה באוניברסיטת פרייבורג, גמר בהצטיינות. והוסמך לד"ר לפילוסופיה (החיבור: על התפתחות ענין הקונצרטים בגרמניה) והוסיף להשתלם בוויקרסדורף ובבית-הספר הגבוה למוסיקה "פולקוואנג" בעיר אסן שעל הרור. כשהגיע לרמה גבוהה במוסיקה להלכה ולמעשה נכלא ב-1933 במחנה-ריכוז בשל מוצאו היהודי ורצונו לשרת בידיעותיו את גרמניה והוחזק שם שש שנים.
+
+ ב-1939 שוחרר ועלה לארץ ואחרי שביקר כשנה. בקונסרבטוריון בירושלים והתמצא בחיי הארץ השתקע בגבעת ברנר והקדיש את כשרו וידיעותיו לשרות המקום והקיבוץ המאוחד בכלל.
+
+ ב-1940 נשא לאשה את <persName>חוה</persName> (אוה) לבית<persName> קניג.</persName> יסד את המקהלה והתזמורת של גבעת ברנר וניצח עליהן, שקד לגלות כוחות צעירים ומוכשרים ועודדם ואימנם ולימדם והפעילם במוסיקה. יסד את מקהלת
+
+
+ הקיבוץ המאוחד הקרויה על שמו, ריכז את הפעולה המוסיקלית בקיבוץ המאוחד, והיה פעיל בענף המוסיקה גם במרכז לתרבות של ההסתדרות, בפיתוח המקהלות בארץ יסד תזמורות ומקהלות בקיבוצים, וביחוד התמסר לעזרת ישובים צעירים וישובי-ספר.
+
+ בשיתוף עם <persName>ש. קפלן וארנסט הורביץ</persName> חיבר ספר "המקהלה" שפורסם בהוצאת הקיבוץ המאוחד והמרכז לתרבות. כתב עיבודים לשירים לשנים ושלשה קולות. פרסם מאמרים ורשימות בעניני מוסיקה ב"בת-קול", בעלוים של הקיבוץ המאוחד, בעתוני חו"ל ובכתב-עת למוסיקה, וכן רשמים ממסעו בשליחות מוסיקלית לשוייץ ובצרפת.
+
+ נפטר בגבעת ברנר בא" ניסן תשט"ו (24.3.55).
+
+ צאצאיו: <persName>אסנת, עליזה, עודד, אילנה.</persName>
+
+ לזכרו יסד הקיבוץ ביתן למוסיקה ליד בית-הספר לפי תכניתו שהגה בשנים האחרונות, ובו תסודר גם הספריה המקצועית, שהוא החל לאספה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3061 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3061</bibl><bibl>Volume: #8 ,Page: 3062 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3062</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

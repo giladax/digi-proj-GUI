@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4781</bibl><bibl>Volume: #15 ,Page: 4782 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4782</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופסור אנדרי דה-פריס (ראה תמונתו בתמונה הכללית)</persName>
+
+</head>
+         <div><p> נולד בל' שבט תרע"א (28.2.1911) בלויורדן, (הולאנד).
+
+ למד רפואה באוניברסיטה של אמשטרדם, והשתלם ברפואה פנימית בבית-החולים האוניברסיטאי באמשטרדם, בו קיבל בשנת 1938 את התואר "מומחה לרפואה פנימית".
+
+ בשנים 1932-33 מדריך בכימיה קלינית באוניברסיטה אמסטרדם ומנהל בית החולים "במפל" בהולנד.
+
+ בשנת 1939 נתמנה למנהל בנק-הדם של "הצלב האדום" בצפון-הולאנד.
+
+ בשנת 1940 עלה לארץ.
+
+ עבד שנתיים בקיבוץ, כחקלאי. בשנים 19421945 עבד במחלקה הפנימית בבית-החולים הדסה, ירושלים.
+
+ בשנים 1948-1946 עבד במחקר באוניברסיטה הארווארד בבוסטון (ארצות-הברית).
+
+ משנת 1948 שוב בביה"ח הדסה ובבית-הספר לרפואה בירושלים.
+
+
+ בשנת 1950 קיבל תואר מרצה ברפואה פנימית ובשנת 1953 - תואר פרופיסור-חבר.
+
+ מאז 1949 ניהל את המעבדה למחקר קליני של בית-החולים הדסה ירושלים.
+
+ בשנת 1955 עבר לבית-החולים "ביילינסון", כמנהל מחלקה פנימית ד' ושל המכון של קופתחולים על שם<persName> רוגוף</persName> למחקר רפואי.
+
+ חבר באיגודים הבינלאומיים לרפואה הפנימית ולהמטולוגיה, ובאקדמיה למדעים של ניו-יורק.
+
+ חבר במערכת כתבי-העת "הרפואה''
+
+ BLOOD, BULLET IN ISRAEL RESEARCH COUNCIL מאז 1950 -
+
+ חבר במועצה האקדמאית של האוניברסיטת תלאביב.
+
+ זכה בתש"ך (1960) ב"פרס סולד" של עירית תל-אביב על עבודת מחקר ארסי.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4781</bibl><bibl>Volume: #15 ,Page: 4782 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4782</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

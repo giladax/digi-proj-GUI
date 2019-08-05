@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2507 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2507</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מקס אלקלעי</persName>
+
+</head>
+         <div><p> לאביו<persName> מאיר ר. אלקלעי</persName> ולאמו <persName>מרים</persName> בת<persName> יוסף פאסי.</persName>
+
+ נולד בירושלים, כ''ג אדר תרס''א (14.3.1901)
+
+ קבל חנוך כללי בבתי הספר בירושלים.
+
+ היה חבר הועד המרכזי של "התאחדות עולמית של "הנרע" עבריה (פריז) בסניף הירושלמי בשנים 1926-28 עורך הירחון "הצעיר''.
+
+ באוגוסט 1926 נבחר לציר הכינוס הראשון של "התאחדות עולמית של הנרע עבריה'' בפריז.
+
+ בשנת 1920 נתקבל לפקידות בממשלת המנדט, ועבד במחלקת העבודה. העליה וכמזכיר לקולונל ברומליי מפקד המשטרה בא"י.
+
+ נשא לאשה את <persName>ידידה </persName> בת <persName>יצחק בנבנישתי</persName> (ראה כרך א', עמוד 402).
+
+ בשנת 1928 נסע לקולומביה.
+
+ בקולומביה התמסר ולמד להיות מומחה בנטיעת אורז. רכש שטחי קרקע גדולים לשם זה.
+
+ בשנת 1936 בקר בארץ. עושה הכנות לחזור לארצו.
+
+ צאצאיו: <persName>שולמית </persName> אשת <persName>משה רוניס, אתמר, אליאנה.</persName> <persName>מרים.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2507 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2507</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

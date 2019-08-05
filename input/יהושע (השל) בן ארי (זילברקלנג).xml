@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5176 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5176</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהושע (השל) בן-ארי (זילברקלנג)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>טורבין</placeName> (פולין), ט"ו שבט תרע"ד (11.2.1914).
+
+ לאביו<persName> משה ליב זילברקלנג</persName> ולאמו <persName>זלדה</persName> בת <persName>מתתיהו מנדלקר </persName> (המשפחה כולה הושמדה בשואת היטלר).
+
+ קיבל חינוך מסורתי בחדר, בית המדרש ובשתי ישיבות: "תורת חיים" על שם הרב מבריסק בראדום, ו"תומכי תמימים" להרבי מליובביץ בוורשה (ר'<persName> מילבסלי-ספוז'ינסקי),</persName> למד עד גיל 17.
+
+ עם גמר לימודיו בישיבות, יסד בעיירתו את תנועת "הפועל המזרחי" ובאמצעותו נתקבל בהכשרה בקבוצות במשך 3 שנים.
+
+ היה פעיל בתנועת "הפועל המזרחי" ובסניף "אגודת ישראל".
+
+ בתקופת ההכשרה יסד נקודות הכשרה קיבוציים וניהל אותן.
+
+ בחודש מאי 1935 עלה לארץ.
+
+ עם הגיעו לארץ הצטרף ל"הגנה".
+
+ עם פרוץ המאורעות בשנת 1936 נשלח מטעם ה"הגנה" למשטרת המנדט, בה נתקבל בשנת 1937 עד מלחמת העצמאות (1948).
+
+ בימי שירותו במשטרת המנדט היה קשור ופעיל בש"י (שירות ידיעות) של ה"הגנה".
+
+ בשנת 1943 נשא לאשה את<persName> אילה</persName> בת<persName> נח טיומקין</persName> (ראה ערכו בכרך זה).
+
+ למד משפטים וקיבל תואר עורך-דין.
+
+ בשנת 1948 עבר למשטרת ישראל ומשרת בה עד היום.
+
+ שימש בתפקידים בכירים במשטרת מחוז תלאביב: ראש מדור התביעות, ראש הענף הפלילי במחוז, מפקד הנפה הצפונית, מפקד הנפה הדרומית.
+
+ היה בין מיסדי בית הספר לקצינים בכירים. שימש שם כמדריך ב-2 מחזורים וכמפקד ביה"ס במחזור אחד.
+
+ בשנת 1957 הוסמך בתואר ניצב משנה.
+
+ משנת 1959 היועץ המשפטי במטה הארצי של משטרת ישראל ושל משרד שר המשטרה.
+
+ נמנה כאח בלשכת בונים הפשיים "הכוכב" וכאח במיסדר בני-ברית בלשכת "דיזנגוף".
+
+ כתב וכותב מאמרים בכתבי-עת מקצועיים במשטרה.
+
+ נטל חלק בהוצאת ספר "יזכור" על עיירתו הקטנה "טורבין", בו הקדיש כמה דברי כתיבה מזכרונותיו.
+
+ בניו: <persName>לביא, עמי-יחיעם.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5176 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5176</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

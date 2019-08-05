@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1129 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1129</bibl><bibl>Volume: #3 ,Page: 1130 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1130</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מכסימיליאן אפולינארי הרטגלאס</persName>
+
+</head>
+         <div><p> נולד בביאלה פודלאסקה (פולין), בשנת תרמ"ג (7.4.1883), לאביו<persName> קלמן</persName> ולאמו<persName> דבורה (אלכסנדרה) </persName> בת <persName>זאב רוזנצווייג.</persName>
+
+ קיבל חינוך יהודי וכללי בפולנית ורוסית. אחרי גמרו את הגימנסיה בעיר הולדתו למד משפטים באוניברסיטת וארשה, הוסמך לעורך-דין ועסק במקצועו.
+
+ ב-1909 נשא לאשה את<persName> חוה (אווה)</persName> בת <persName>שמואל</persName> <persName>רוזנמאן.</persName>
+
+ היה פעיל בתנועה הציונית מבחרותו. השתתף כציר בועידת ציוני רוסיה בהלסינגפורס ב-1906, בקונגרסים הציוניים בהאג (1907), בקארלסבאד (1921, 1923) ובציריך (1929). היה נשיא ההסתדרות הציונית, בפולין,
+
+
+ ציר הסיים הפולני ויו"ר הסיעה הפרלמנטרית היהודית שבשני בתי-המחוקקים, חבר ההנהלה של מועצת הסתדרות עורכי-הדין בפולין, חבר הנהלת העיריה בשדליץ, שליח מטעם ציוני פולין לועידת ''השלחן העגול" בלונדון ב-1939, ובראשית הכיבוש הנאצי בוארשה, בסתיו 1939,
+
+ היה חבר "מועצת הזקנים" היהודית בגיטו וארשה.
+
+ ביקר בארץ בשנים 1930, 1931, 1936, ואחרי שעלה בידו להחלץ מהכיבוש הנאצי עלה ארצה להשתקע בה ביום 8.2.1940. עבד כפקיד בהנהלת הסוכנות היהודית, היה חבר המועצה הלאומית של יהודי פולין בארץ וחבר המועצה של התאחדות הציונים הכלליים א' בארץ.
+
+ משהוקמה מדינת ישראל נתמנה למנהל כללי של משרד הפנים בממשלה הזמנית.
+
+ פרסם הרבה מאמרים בעתונים היהודיים והכלליים בפולין ובארצות אחרות בפולנית ובאידית, בעברית ב"העולם", וכן מאמרים מקצועיים בעתונות המשפטית. פרסם כמה חוברות ציוניות ברוסית ובפולנית. הראשונה ברוסית ב-1906 בשם "טריטוריה ואומה" (בקשר לועידת הלסינגפורס וזכויות לאומיות ליהודים בגולה) והאחרונה בפולנית "נא להכיר את הארץ הזאת" (חוברת תעמולה והסברה לאנשי הצבא הפולני שהתאכסנו בארצנו כפליטים במלחמת-העולם השנית).. צאצאיו:<persName> חנה</persName> אשת <persName>שמואל אפשטיין </persName> (פקיד ממשלתי בתל-אביב), <persName>תיאודור</persName> (מהנדס בקומאסי, מושבת "חוף הזהב" במערב-אפריקה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1129 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1129</bibl><bibl>Volume: #3 ,Page: 1130 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1130</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2352 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2352</bibl><bibl>Volume: #5 ,Page: 2353 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2353</bibl>
+<bibl>Volume: #5 ,Page: 2354 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2354</bibl>
+<bibl>Volume: #5 ,Page: 2355 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2355</bibl>
+<bibl>Volume: #5 ,Page: 2356 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2356</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה מאיר הויזדורף</persName>
+
+</head>
+         <div><p> נולד בשנת תרמ"א (6.1.1881) בירושלים לאביו<persName> חיים</persName> <persName>אליעזר</persName> בן ר'<persName> זליג הוזדורף</persName> (יליד גרמניה, עסקן צבורי מעולה בירושלים, ממיסדי "בתי מחסה" ובית-היתומים דיסקין; ראה עליו ערך מיוחד בכרך זה) ולאמו <persName>אלטה</persName> <persName>(חיה ריזל</persName> ) בת הרב <persName>בצלאל קנטורוביץ</persName> ממאלץ שליד ביאליסטוק שהתישב בגיל קשיש בירושלים. למד בחדרים ובישיבות העיר העתיקה. הרגיש מנערותו
+
+ משיכה להשתלמות בהשכלה כללית, ותוך לימודיו בישיבות למד בסתר - בהסכמת הוריו ובעזרתם הכספית - לימודים כלליים ושפות צרפתית, אנגלית וגרמנית מפי מורים פרטיים וגם בלימוד עצמי. בגיל צעיר, כמנהג בירושלים בימים ההם בישוב הישן, נשא לאשה את<persName> פרומה</persName> בת ר'<persName> יהושע צ'רבינסקי</persName> (ראה כרך א', עמוד 144). התמחה ברוקחות ופתח בית מרקחת (אז עוד היה זה מקצוע "חפשי", שלהתעסקות
+
+ בו לא דרש החוק הטורקי תעודה אוניברסיטאית). בתקופה מאוחרת יותר, כשהחוק כבר דרש מהרוקחים לעתיד תעודה כזאת, התכונן לבחינת בגרות, עזב את ביתמרקחתו ויצא בשנת 1908 עם אשתו ובתו הקטנה לבירות. שם עבר בהצלחה את בחינת הכניסה
+
+
+ לאוניברסיטה האמריקאית. למד בה שנים אחדות, וב-1911 חזר הביתה כרוקח חימאי מוסמך. יסד בתי-מרקחת אחדים בעיר ובאחרונה היה בעל בית המרקחת "למען ציון" ליד בית-החולים לעינים של הד"ר <persName>טיכו,</persName> ובסך הכל פעל כרוקח בירושלים 50 שנה. היה לעזר לרופאים בהתאמת התרופות כדרישותיהם אף בתקופות שהדבר היה כרוך בקשיים והמציא כמה וכמה המצאות הימיות, שנרשמו בפאטנטים על שמו. משהשיא את בתו לחקלאי, החל מתענין גם בחימיה לצרכי החקלאות והמציא כמה המצאות מועילות. בין השאר המציא פצצת עשן להצלת עצי ההדרים בעת הכפור הגדול ב-1931, ואח"כ תחליפי שמן-ריסוס שעלו בטיבם על חמרי הריסוס שהובאו מקאליפורניה ועוד כמה תרופות נגד מחלות עצי ההדרים.
+
+ ביתו היה בית ועד לרופאים ולבעלי השכלה גבוהה והתנהל על טהרת המסורת היהודית. כן היה ביתו פתוח למבקשי עצה ועזרה בכספים ובמלה טובה במקומות הדרושים בתוקף קשריו בתור בנאי חפשי ובאופנים אחרים עם פקידי השלטון היהודים והזרים. היה פעיל בכל חברה ששרתה את טובת הצבור, והכל בענוה ובהצנע לכת, ורעיתו היתה עזר כנגדו הן בקבלת האורחים הנכבדים בכל הנועם והכבוד והן בפעולות העזרה, ובאחרונה סעדה אותו בכל המסירות בתקופת מחלתו הממושכת.
+
+ נפטר בירושלים בתקופת המצור והמלחמה, י"ג תמוז תש''ח (20.7.48), נקבר זמנית בגבעת רם (שייך באדר) ואח"כ הועברו עצמותיו לקבורה קבועה בבית-העלמין החדש ליד גבעת שאול.
+
+ צאצאיו: <persName>רבקה </persName> אשת<persName> יוסף סמל - זמל</persName> (שהיה במשך שנים ראש הועד והמועצה בנס ציונה), <persName>הדסה</persName> אשת<persName> יהודה מיוחס</persName> בתל-אביב,<persName> יוסף</persName> (רוקח בירושלים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2352 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2352</bibl><bibl>Volume: #5 ,Page: 2353 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2353</bibl>
+<bibl>Volume: #5 ,Page: 2354 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2354</bibl>
+<bibl>Volume: #5 ,Page: 2355 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2355</bibl>
+<bibl>Volume: #5 ,Page: 2356 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2356</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

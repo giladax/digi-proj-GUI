@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4233 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4233</bibl><bibl>Volume: #13 ,Page: 4234 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4234</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר חנוך ילון (דיכטנפלד)</persName>
+
+</head>
+         <div><p> נולד ח' אייר תרמ"ו (1886) בלופאטין שליד ברודי, מזרח גליציה.
+
+ לאביו <persName>אברהם-צבי דיכטנפלד </persName> ולאמו<persName> שרה-לאה</persName> בת <persName>יוסף ווילדר.</persName>
+
+ נתחנך בלימודי היהדות, עבר בחינת בגרות ולמד שפות שמיות באוניברסיטאות לבוב ווינה, ועסק בהוראה.
+
+ נשא לאשה את <persName>צפורה </persName> בת<persName> שמריהו אימבר </persName> (אחיו של המשורר<persName> נפתלי הרץ אימבר</persName> , מחבר המנון "התקוה" ראה כרך ד' עמוד 1789 - היתה במשך שנים המזכירה בבית-המדרש למורים מזרחי בירושלים).
+
+ ב-1920 עלה לארץ, ומאז ועד צאתו לפנסיה ב-1946 היה מורה ללשון העברית בבית-המדרש למורים מזרחי.
+
+ מפעל חייו מחוץ להוראה הוא בחקר הלשון העברית,
+
+
+ שהוכיח את חיותה כחטיבה אורגנית רצופה במשך כל הדורות, שהופעות פזורות בכתב ובעל-פה בשכבותיה המאוחרות, ואף בעירובים בתוך לשונות יהודיות אחרות, ובמסורות-קריאה אצל שבטים יהודיים שונים בארצות פזוריהם, יש בהן כדי להפיץ אור על המשמעות של ההבעה העברית בשכבות קדומות. תורתו פירסם והפיץ במאמרים רבים בעתונים ובכתבי-עת בארץ ובחו"ל ובקונטרסים לעניני הלשון העברית שערך - כמפורט במאמרים ובביבליוגרפיה ב"ספר חנוך ילון", שהוציאו מוקיריו בשנת תשכ"ג, לרגל מלאות לו 75 שנה.
+
+ חיבר את ספר "תורת הניקוד", ההדיר את הספר "הליכות שבא" לר' <persName>שלמה אלמולי,</persName> ועל סמך חקר והשוואה בין מסורות-הקריאה השונות וגירסאות שבכתבי-יד עתיקים ניקד את המשנה כולה בשביל מוסד ביאליק והוצאת "דביר" (עם פירוש<persName> חנוך אלבק).</persName>
+
+ בשנת תשכ"ב זכה ב"פרס ישראל" ובתואר דוקטור כבוד לפילוסופיה מאת האוניברסיטה העברית.
+
+ בתו:<persName> לאה</persName> אשת<persName> אליעזר יידל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4233 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4233</bibl><bibl>Volume: #13 ,Page: 4234 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4234</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1833 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1833</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אברהם בירן (ברגמן)</persName>
+
+</head>
+         <div><p> בולד בפתח תקוה ח' חשון תר"ע (23.10.1909), לאביו <persName>אהרן</persName> (יליד ראש פנה, בנו של <persName>מנחם מנדל ברגמן</persName>
+
+ יו"ר הועד בראש פנה מקורב למשפחת דוד שו"ב. ראה כרך א' עמוד 76) ולאמו<persName> נעמי</persName> בת <persName>יוסף נחום</persName> <persName>גולדשטיין.</persName>
+
+ גמר את בית הספר העממי בראש פנה. המשיך בבית הספר הריאלי בחיפה. אחר בחינת הבגרות עבר לירושלים. 1926-1927 תלמיד האוניברסיטה העברית. ב-1928 מסיים את הסמינריון הכללי למורים ע"ש<persName> דוד</persName> <persName>ילין.</persName> יוצא לארצות הברית להשתלמות. לומד תנ"ך וארכיאולוגיה באוניברסיטת ז'ון הופקינס בבלטימור. בשנת 1934 משיג תואר .A .M ובשנת 1935 תואר ד"ר לפילוסופיה. בימי שהותו בארצות הברית משמש כסגן מנהל הקוליג' העברי בבלטימור.
+
+ ב-1936 נשא לאשה את <persName>רות</persName> בת<persName> דוד פרנקל.</persName> מאז שובו ארצה עבד בפקידות גבוהה בשלטון המנדט כקצין מחוז. התמחה בעבודה אדמיניסטרטיבית ועם הקמת מדינת ישראל נתמנה לממונה על מחוז ירושלים. עם זאת לא פסק מעבודתו המדעית. הוא חבר ועד "החברה העברית לחקירת א"י ועתיקותיה". פרסם מאמרים רבים בעתונות חו"ל ובארץ על נושאי מחקר התנ"ך והארכיאולוגיה. כמו כן פרסם חוברות תעמולה ציוניות בעילום שם.
+
+ ואלה הספרים המדעיים שלו: "חצי שבט המנשה" (אנגלית, 1936): "בעמק המזרחי ועמק בית שאן" (1945); "עמק יזרעאל ועמק בית שאן" (אנגלית, 1947). כל אלה פורסמו בשם : <persName>אברהם טוראי.</persName>
+
+ כל השנים שרת בתפקיד מיוחד ב"הגנה".
+
+ צאצאיו: <persName>אהרן מיכאל, נעמי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1833 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1833</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

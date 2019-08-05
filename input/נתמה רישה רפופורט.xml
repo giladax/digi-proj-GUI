@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2939 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2939</bibl><bibl>Volume: #7 ,Page: 2940 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2940</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נתמה רישה רפופורט</persName>
+
+</head>
+         <div><p> נולדה בקלצק, פלך מינסק (רוסיה), בשנת תר''מ (1880).
+
+ לאביה<persName> יחיאל מיכל קנטורוביץ</persName> ולאמה <persName>נעמי </persName> בת ר' <persName>שלמה שניצר.</persName>
+
+ ממשפחת<persName> ניסן ואבא קנטורוביץ</persName> . אחיה הוא<persName> יעקב</persName> <persName>קנטורוביץ</persName> (ראה כרך א',עמוד 524).
+
+ קבלה חנוך מסורתי וכללי.
+
+ היתה פעילה בתעמולה ציונית ביקטרינוסלב (דנפרופטרופסק) והפיצה את השפה העברית (היתה מורה לעברית -בעברית).
+
+ בשנת 1907 עלתה לארץ.
+
+ נישאה ל<persName>אריה רפופורט.</persName>
+
+ יחד עם בעלה יסדו את בית הספר הדתי העברי הראשון לבנות בירושלים, והיתה המנהלת שלו.
+
+ היתה חברה בועד של הסתדרות נשי מזרחי בירושלים.
+
+ עבדה בהוראה במוצא, חברון, חיפה, דמשק וירושלים. נפטרה בתל-אביב ער"ה תש"ו (7.9.1945). ונקברה בירושלים.
+
+ בניה:<persName> יצחק, ידידיה, אריה מיכאל, נעמי</persName> ז''ל.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2939 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2939</bibl><bibl>Volume: #7 ,Page: 2940 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2940</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1400 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1400</bibl><bibl>Volume: #3 ,Page: 1401 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1401</bibl>
+<bibl>Volume: #3 ,Page: 1402 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1402</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד משה הלוי-אפשטיין</persName>
+
+</head>
+         <div><p> נולד בחברון, י"ב שבט תרל"ד (1874), לאביו ר'<persName> אלכסנדר סנדר</persName> (יליד שקלוב, מגדולי חסידי חב"ד, עלה בן שש לחברון - תולדותיו בערך מיוחד בכרך זה) ולאמו <persName>מלכה</persName> בת ר' שלמה זלמן <persName>רבינוביץ </persName> (ילידת צ'רניגוב, ממשפחת פרושים לפי דרכי הגר"א, בת ירושלים מילדותה).
+
+ למד בחדרים בחברון ובן י"ג עבר לירושלים, שבינתים קם גם בה ישוב של חסידי חב"ד, ולמד בישיבת "גמילות חסד", שבראשה עמד ר' <persName>ראובן שפירא</persName> (אביו של יעקב שפירא, מנהל היקב בראשון לציון), ובן י"ח החל לעבוד לפרנסתו.
+
+ בתרנ"ב הצטרף לחברת ''בני ישראל", שנוסדה ביזמת קרובו ר' <persName>אלתר ריבלין</persName> וריכזה בתוכה צעירים גבורים ואמיצים לשם מלחמה במיסיון האנגלי, שהחל לצוד נפשות מישראל לשמד מתוך דלת העם. הצעירים הללו היו נלחמים במוסד האנגלי באותן השיטות, הידועות כיום בכינויים "מחתרת" ו"טרור", הציקו לו והפריעו את פעולותיו. פעם הזעיקו ראשי המיסיון לעזרתם את הקונסול הבריטי, ובהשתדלותו הנמרצת שלח המושל הטורקי לעזרת המיסיון גדוד שלם של
+
+ חיל-פרשים בפיקוד שר-האלף <persName>עלי בק</persName> . אך בחורי "בני ישראל", שגם להם היתה בתנאי הימים ההם חסינות כל-שהיא בחסות הקונסול הרוסי, שיצג את הפוליטיקה הרוסית המתחרה בהתפשטות ההשפעה הבריטית, סמכו בעיקר על עזרת אלהי ישראל, התנגדו בכח גם לכוחות המזוינים של השולטן, ואחרי תגרתידים קשה הוכרחו הפרשים להפנות את זנבות סוסיהם כלפי הלוחמים היהודים ולעזוב את המערכה מנוצחים ועלובים.
+
+ בי"א תשרי תרנ"ד נשא לאשה את<persName> רחל</persName> בת ר' <persName>שמואל רוזין</persName> מוויטבסק.
+
+ עבד בדפוס של קרובו <persName>הרי"ד פרומקין</persName> בעל ה"חבצלת", בפקידות חלוצית אצל ר' <persName>שמעון רוקח</persName> , כעוזר לרופא בבתי-חולים ועוד בעבודות שונות.
+
+ בשנת תר"ע עבר לחיפה ובעמל ובמרץ רב יסד את המלון הראשון בעל רמה אירופית, שקרא לו בשם "הרצליה" (לזכר <persName>הרצל </persName> ובהסכמת יורשיו - אשתו ובתו ובנו של הרצל), ואחרי מלחמת-העולם הרא שונה יסד עוד מלון "הרצליה" על הכרמל בעת שהסביבה שם עוד היתה שוממה. קודם לכן היו כל התיירים היהודים, בעלי דרישות למלון אירופי, מוכרחים להתאכסן במלון גרמני, ומשהקים את מפעלו החלוצי החלו גדולי היהודים מוצאים קורת-רוח באכסניה היהודית. גם <persName>אהרן אהרנסון</persName> עזר בהשפעתו להטות אליו את האורחים החשובים. בין אנשי השם שהתאכסנו אצלו: <persName>סוקולוב, צ'לנוב, בודנהיימר, ואר</persName> <persName>בורג, פאזל נתן, הרב חיים נחום</persName> (בביקורו בארץ כראש רבני טורקיה), <persName>מורגנטאו</persName> (בהיותו ציר ארה''ב באיסטמבול),<persName> יוליוס רוזנוואלד</persName> משיקאגו, <persName>שמריהו לוין</persName> , <persName>דוד פרישמן, ביאליק</persName> , גם הלורד <persName>בלפור</persName> התאבן ב"הרצליה" שעל הכרמל, ועוד הרבה שרים ורוזנים ואנשי-שם בישראל ובעמים.
+
+ במהומות תרצ"ו-תרצ"ט נגרמו הרבה נזקים לבתימלונו וגם תנועת התיירות נתמעטה, וכך הוכרח לסגור את בתי מלונו ויצא נקי מנכסיו.
+
+ בשנים האחרונות הקדיש את זמנו לעבודה צבורית כמנהל ויו"ר חברת גמילות חסדים בחיפה
+
+
+ (בהתנדבות), וחלק רב לו בהתפתחות החברה, שמחזורה גדל עד כדי מתן אלף לירות לחודש בהלואות בלי רבית.
+
+ צאצאיו: <persName>שושנה</persName> (בצרפת), <persName>אהרן שמואל</persName> (חיפה), <persName>נחום</persName> (כפר גבתון), <persName>בת-שבע</persName> אשת<persName> מנחם פוגלסון,</persName> <persName>אלכסנדר</persName> (חיפה), <persName>אבינועם</persName> (כפר ביל"ו), <persName>עליזה</persName> אשת <persName>ברוך חפרי</persName> (בית השיטה), <persName>מתתיהו</persName> (חיפה).
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בחיפה, כ"ו אב תשי"ד (25.8.54) (ראה כרך ג' עמוד 1401)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1400 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1400</bibl><bibl>Volume: #3 ,Page: 1401 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1401</bibl>
+<bibl>Volume: #3 ,Page: 1402 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1402</bibl>
+            <bibl>Volume: #6 ,Page: 2716 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2716</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

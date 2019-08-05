@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2356 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2356</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי שלמה הויזדורף </persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בטבת תרכ"א (1861) לאביו ר'<persName> עזריאל</persName> <persName>זליג הויזדורף</persName> (יליד גרמניה, עסקן צבורי מעולה ב<placeName>ירושלים</placeName>, ממיסדי "בתי מחסה" ובית-היתומים דיסקין; ראה עליו ערך מיוחד בכרך זה) ולאמו <persName>חנה ליפשה.</persName>
+
+ למד בחדרים ובישיבות בעיר העתיקה ובסתר השתלם בהשכלה כללית ובשפות לועזיות בהסכמת הוריו ובעזרתם.
+
+ בגיל צעיר השיאוהו הוריו את <persName>חיה רייזל</persName> בת ר' <persName>משה יוסף קרויז</persName> ממשפחת גרינגארד (ממשפחת הגאון מוילנה), ועבד שנים אחדות בתור פקיד בבית המסחר ועסק הבנקאות של<persName> נתן גרינגרד</persName> ושות'.
+
+ כשהביאו אל העסק להפקיד סכום גדול בשם <persName>דוד</persName> <persName>גוטמאן</persName> , חקר ודרש לשם מה עומדים להוציא סכום כזה, וכשנודע לו, שגוטמאן <persName>ויהושע שטאמפר </persName> ועוד אחדים מתכוננים לקנות אדמה ליד יפו ולחלקה לנחלאות למכירה למתישבים, החליט להצטרף אליהם גם הוא. באין לו כסף, מישכן ב-50 נפוליונים את ה"חזקה" שלו בעיר העתיקה (ה"חזקה" היתה זכות-שכירה על בית של ערבי, שיהודי אחר אינו רשאי - לפי דיני
+
+ ישראל ולפי הסדר החוקי הנהוג בכוללים - לשכרה מפניו, וכך היה הבית כאילו נחלתו של היהודי בעל ה"חזקה" והבית כאילו שלו תמורת שכירות שנתית קטנה, אלא שהערבי היה בעל-הבית הרשום בספרי האחוזה והאחראי למסים כלפי השלטון) ובכסף קנה לו חלקה במושבה העתידה להבנות, שמיסדיה החליטו לקרוא לה בשם פתח-תקוה.
+
+ בשנת תרמ"ג יצא להתישב על נחלתו ודר מקודם עם "פליטי המלריה" ביהודיה ואח"כ עבר עמהם להתישבות קבע בפתח תקוה. פיתח משק למופת בפלחה ובמטעי גפנים והדרים. עסק גם בשיווק פרי הדר ונסע לרגל מסחרו זה לגרמניה, צרפת, ספרד, מארוקו, ועוד. השתתף בכל הפעולות הצבוריות במושבה מראשיתה ורב חלקו בבנית בית-הכנסת הגדול "בית יעקב".
+
+ רעיתו נפטרה בתל-אביב בכ"ד שבט תרע"ה והוא נפטר ב<placeName>ירושלים</placeName>, ו' טבת תש''ג.
+
+ צאצאיו:<persName> אליעזר מיכאל</persName> (ז"ל), <persName>צבי (</persName> בעל ביח"ר לעיבוד צמר במלבורן שבאוסטרליה), <persName>חיה גיטל</persName> (ז"ל), <persName>חנה</persName> אשת <persName>פישל קנל </persName> (נס ציונה), <persName>מלכה</persName> אשת <persName>יוסף טפליץ</persName> (ז"ל), <persName>מרים</persName> אשת <persName>דוד ליכטר</persName> (חיפה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2356 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2356</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

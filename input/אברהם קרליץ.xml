@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 255 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/255</bibl><bibl>Volume: #1 ,Page: 256 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/256</bibl>
+<bibl>Volume: #1 ,Page: 257 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/257</bibl>
+<bibl>Volume: #1 ,Page: 258 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/258</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם קרליץ</persName>
+
+</head>
+         <div><p> בן הרב ר' משה הכהן קרליץ. - נולד ב<placeName>פרוז'ני</placeName> פלך גרודנה בשנת תר"כ (1860) מצאצאי הרב אהרן שאול זליג מאירוב מפרוז'ני.
+
+ קבל חנוך תורני, וכשגדל עבר לרגלי עסקיו לגור בריגה ושם נהיה לסוחר ועסקן צבורי נכבד.
+
+ התעסק ביסוד מוסדות צדקה וחסד והשתתף
+
+
+ בהנהלת "בקור חולים", "לינת צדק", "מושב זקנים", חברת "גמילות חסדים" וכו' בעיר ריגה. שנים מספר לפני עזבו את ריגה יסד על חשבונו על יד בית החולים "בקור חולים" קבינט מודרני לרופאי שינים שנקרא על שמו, והמוסד הנ"ל, לפי עדות מנהליו בדו"ח הנדפס שלהם שיצא לאור בשנת 1935, הביא הועלת עצומה ושימש להרמת מצב בריאותו של הישוב היהודי ברינה.
+
+ ציוני היה כל ימיו ובשנת 1930 עלה לארץ. כאן המשיך במסחר ונהיה לפרדסן. לשם כך גאל 140 דונם בדרך פתח-תקוה ונטע עליהם פרדס, ופרדס שני בן 53 דונם נטע בין נס-ציונה וכפר אהרן. בפרדסים הללו עבד רק בעבודה עברית. הקים בתל-אביב בית חרושת לכלי מתכת בשם "פניקס".
+
+ אהב את הסופרים ואת הספרות העברית, וכשראה כי הסופרים סובלים מאוד בשעת משבר הלך ונדב סכום כסף לשם יסוד קופת מלוה ע"י אגודת הסופרים, לשם מתן הלואות לסופרים נזקקים. הקופה הנ"ל התקיימה במשך שנים על יד בנק "הלואה וחסכון" וקיימת עד היום ליד אגודת הסופרים.
+
+ נפטר בתל-אביב, ביום כ"ב כסלו ת"ש (4.12.1939).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 255 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/255</bibl><bibl>Volume: #1 ,Page: 256 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/256</bibl>
+<bibl>Volume: #1 ,Page: 257 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/257</bibl>
+<bibl>Volume: #1 ,Page: 258 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/258</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

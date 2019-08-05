@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5665 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5665</bibl><bibl>Volume: #19 ,Page: 5666 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5666</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריק באור</persName>
+
+</head>
+         <div><p> נולד ב<placeName>מנהיים</placeName> (גרמניה), בכ' באדר תרע"ב (9.3.1912).
+
+ לאביו<persName> יצחק באור</persName> ולאמו<persName> הרמינה </persName> לבית <persName>קרליבך</persName> .
+
+ קיבל חינוך מסורתי וכללי. למד בעבודת דפוס ועסק במקצוע זה.
+
+ היה פעיל בארגוני הנוער הציוני בעירו.
+
+ בשנת 1941 נשא לאשה את<persName> קרולה</persName> בת <persName>יעקב לוי.</persName>
+
+ בשנת 1934 עלה לארץ.
+
+ עבד כפועל בעבודות שונות.
+
+ אח"כ כמנהל מחלקת המודעות בעתון היומי (באנגלית) "ג'רוסלם פוסט".
+
+ התגייס לפי צו המוסדות הלאומיים, במלחמת העולם השניה, לצבא הבריטי.
+
+ התנדב ושירת בצה"ל.
+
+ היה בעל משרד פרסום ומנהלו עד יום פטירתו.
+
+ היה חבר בוועד איגוד הפרסום הישראלי.
+
+ כל השנים היה חבר פעיל בהגנה.
+
+ נפטר בירושלים, ד' טבת תשכ"ח (5.1.1968), והובא לקבורה בבית העלמין בחולון.
+
+ בניו: <persName>אריאל, עודד.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5665 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5665</bibl><bibl>Volume: #19 ,Page: 5666 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5666</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

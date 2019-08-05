@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5652 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5652</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שרגא פלוטניק</persName>
+
+</head>
+         <div><p> נולד ברמת-גן, ג' אייר תרצ"ו (25.4.1936), לאביו <persName>אהרן צבי פלוטניק</persName> ולאמו<persName> פרומה</persName> בת <persName>חיים</persName> <persName>אלישיביץ.</persName>
+
+ קיבל חינוך כללי בגמנסיה העברית "הרצליה" בת"א, חניך הטכניון (קורסים בת"א) והוסמך לניהול בתי מלון.
+
+ היה שנים רבות פקיד בכיר במפעלים כלכליים ומנהל חשבונות ראשי בבתי מלון שונים.
+
+ במלון מלכת שבא באילת החל לעבוד כמנהל חשבונות ראשי ועלה לכהונת מנהל כללי של המלון.
+
+ העלה את המלון מסטטוס של חובות ופיגורים למעמד רנטבילי.
+
+ בשנת 1960 נשא לאשה את <persName>נחמה</persName> בת<persName> יצחק</persName> <persName>גילינסקי.</persName>
+
+ שירת בצה"ל.
+
+ טיפל במוסדות צדקה וחסד ונהג מידת "מתן בסתר".
+
+ היה מועמד לראשות עירית אילת מטעם גח"ל. כתב בכתבי-עת שונים.
+
+ בניו:<persName> גד, עופר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5652 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5652</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

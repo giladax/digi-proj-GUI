@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1722 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1722</bibl><bibl>Volume: #4 ,Page: 1723 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1723</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל גוט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>לבוב</placeName> (גליציה), בשנת תרנ''ב (1.11.1891) לאביו<persName> יואל</persName> ולאמו<persName> בריינדיל</persName> .
+
+ למד בית ספר תיכוני ב<placeName>לבוב</placeName> ואחר נסע לברלין ולמד בבית הספר לאמנות של ריימן. השתתף באגודות הסטודנטים הציוניות.
+
+ עלה ארצה בשנת 1911. לפי בקשת פרופ' שץ (שחיפש כוחות חדשים לפיתוח מחלקות שונות) פתח בביה"ס "בצלאל" בירושלים את המחלקה לעבודות מתכת.
+
+ ב-1913 נשא לאשה את<persName> לאה</persName> בת <persName>מרדכי ניגר</persName> .
+
+ בשנת 1916 הצליח להשיג חוזה שכירות על אדמת המנזר היווני-אורטודוקסי והקים את הראינוע הראשון בירושלים. חוזה זה שימש גרעין לרכישות הבאות מידי המנזר היווני, שנעשו על ידי "חברת הכשרת הישוב". על אדמות אלה עומד היום רחוב בן-יהודה. קולנוע "ציון" הוא היום מרכז חשוב לחיים הצבוריים בירושלים. אספות הנבחרים הראשונה והשניה, הצגות האופירה הא"י התקיימו באולם זה וכן הופיעו בהרצאות ובנאומים גדולי העם.
+
+
+ עם בואו ארצה הצטרף לאגודת הצעירים הראשונה בירושלים בשם "מכבי" והרבה שנים עמד בראשה.
+
+ בשנת 1925 השתתף ביסוד לשכה ראשונה של בונים חפשים בארץ בשם "ירושלים, מספר 262". משנת 1929 חבר ה"הגנה".
+
+ בראשית 1930 התחילו להציג בפעם הראשונה בארץ ובאולם "ציון" סרטים מדברים.
+
+ משנת 1939 חבר באגודת הרוטרי בירושלים.
+
+ צאצאיו : <persName>אלכסנדר</persName> (עו"ד), <persName>רפאל</persName> (סרן בצה"ל), <persName>רחל</persName> , אשת <persName>משה בן-סירה</persName> (לאביו המהנדס העירוני בת"א<persName> יעקב בן-סירה</persName> - שיפמן).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1722 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1722</bibl><bibl>Volume: #4 ,Page: 1723 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1723</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

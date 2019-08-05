@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2584 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2584</bibl><bibl>Volume: #6 ,Page: 2585 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2585</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק טיקטין</persName>
+
+</head>
+         <div><p> נולד בירושלים. ניסן תרנ"ט (3.4.1899).
+
+ לאביו <persName>אברהם</persName> (ראה כרך ג', עמוד 1406) ולאמו<persName> בתיה</persName> בת<persName> ברוך יעקב זק"ש</persName> (מותיקי ועסקני ירושלים).
+
+ קבל חנוך מסורתי בחדר וכללי בביה"ס כי"ח (האליאנס) בירושלים.
+
+ היה פעיל במכבי ובארגוני הנוער וההגנה בירושלים. אחרי כבוש הארץ נתמנה כפקיד במחלקת הטלגרף האלחוטי הצבאי במחנה הצבא הבריטי בביר-סלם (ע"י המושבה באר-יעקב).
+
+ עבד במשרד הסוכנות של אלימלך זק"ש בירושלים.
+
+ נתמנה לסוכן נוסע ע"י פירמות צרפתיות בערי המזרח הקרוב והרחוק וכן באפריקה.
+
+ ב-1929 נשא לאשה את <persName>יוכבד </persName> בת יוסף <persName>זינס</persName> (ראה כרך א', עמוד 333).
+
+
+ באותה שנה היה לב"כ פירמה גדולה מחו"ל לביסקויט במצרים, עד 1932.
+
+ במצרים היה חבר פעיל ב"המועדון העברי" בקהיר, וכן בשאר הארגונים הציונים בקהיר ובאלכסנדריה.
+
+ ב-1932 הזר לארץ ופתח יחד עם אחיו הצעיר <persName>בועז</persName> <persName>טיקטין,</persName> משרד לסוכנויות ליבוא ויצוא, וקבלו סוכנויות ראשיות לזכוכית מצרפת ולעשבי ים מאלג'יריה וכו".
+
+ הקימו ברעננה ביח"ר לעבוד עשב-ים שהחל לגדול בארץ.
+
+ חבר פעיל בבני-ברית (לשכת "יצחק ילין") וב"התאחדות בני הישוב בא"י".
+
+ צאצאיו: <persName>גדעון</persName> (מהנדס לחשמל-קרור), <persName>רבקה</persName> (סטודנטית באוניברסיטה העברית למשפטים), <persName>אילן </persName> (תלמיד).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2584 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2584</bibl><bibl>Volume: #6 ,Page: 2585 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2585</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

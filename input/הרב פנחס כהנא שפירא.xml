@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2907 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2907</bibl><bibl>Volume: #7 ,Page: 2908 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2908</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב פנחס כהנא שפירא</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרכ"ה (1865).
+
+ לאביו הרב <persName>אלעזר נתן הכהן שפירא </persName> (אחד מבני העליה הראשונים, בתקופה הראשונה. בצעירותו עלה לארץ עם אביו הרב הגאון <persName>יחיאל אשר כהנא-שפירא,</persName> אבד"ק זולין, חוטר מגזע בעל "מגלה עמוקות". הרב <persName>אלעזר נתן </persName> סבל באותה תקופה את יסורי א"י, בסבלנות ובתקוה לראות את ירושלים בנויה. עמל ויגע להרמת קרן הישוב בקדש. בתור נשיא לעדת כולל "אסטרייךגליציה", שהיה ממיסדיה וממנהליה. היה נכבד בעיני ראשי הממשלה והקונסולים הזרים בירושלים, ודבריו
+
+ היו תמיד נשמעים אצלם. פעם רחמים שאל ופעם משפט דרש, כאחד השתדלנים בישראל. ויהי נאה דורש ונאה מקיים. הרבה פעולות ותקנות טובות השאיר לעדה עד היום הזה. ביתו היה בית מלא ברכת ה' ותורה, עבודה וגמילת חסדים, בית עצה וחושיה, בית רחמים וחמלה, ורבים השכימו לפתחו. שרים ורוזני ארץ היו מבקרים אותו בדרך רשמית, ולא פעם היה הדגל האוסטרי מנפנף ממעל לביתו. היה בין הנכבדים שקבלו בירושלים את הקיסר<persName> פראנץ-יוסף</persName> האוסטרי (1871) ואחריו את בנו <persName>רודולף</persName> . נפטר בירושלים בתרע''ח). ולאמו<persName> רבקה</persName> בת<persName> הרה"צ ר' ברוך וולף ווינשטוק.</persName>
+
+ נשא לאשה את <persName>יוכבד</persName> בת הרב<persName> חיים דב איידלמן</persName> <persName>גולדברג,</persName> הרב של פיטריקוב (פוליסיה הרוסית). קרא על משפחתה בערך בנה, הרב <persName>משה שלמה כהנא שפירא,</persName> בספר זה.
+
+ עמד תמיד על יד אביו ועזר לו בעבודתו הצבורית. ביחוד הצטיין בעבודתו בשנות מלחמת העולם הראשונה, הציל נפשות רבות ממות, מרדת שחת. לא פעם סיכן את עצמו, בפדיון והצלה. מלבד טרחתו ועמלו לעזרת העניים והמשפחות הצנועות שסבלו נוראות באותם הימים ויהי להם כמלאך מושיע.
+
+ ממיסדי אגודת ישראל בירושלים. ובענין זה היו לו חליפות מכתבים עם מר<persName> פופנהיים.</persName>
+
+ בימי מלחמת העולם הראשונה היה נאלץ לעזוב את הארץ בתור נתין זר.
+
+
+ נפטר בוינה (אוסטריה), י''ג סיון תרע''ח (24.5.1918).
+
+ צאצאיו: הרב <persName>משה שלמה</persName> (ראה את הערך שלו בכרך זה), חיה שרה אשת הרב<persName> חיים רייניץ, יחיאל</persName> <persName>אשר, אהרן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2907 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2907</bibl><bibl>Volume: #7 ,Page: 2908 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2908</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

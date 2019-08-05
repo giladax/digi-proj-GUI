@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 692 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/692</bibl><bibl>Volume: #2 ,Page: 693 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/693</bibl>
+<bibl>Volume: #2 ,Page: 694 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/694</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נתן רייכמאן</persName>
+
+</head>
+         <div><p> נולד בווארשה, בשנת תקפ"ח (1828), לאביו הרב <persName>שלמה,</persName> אדמו"ר. בנערותו שקד על התורה. כשעזב מפני סיבות משפחתיות את בית אמו החורגת נפל בידי ה"חוטפים" שאמרו לעשותו חייל בצבא ניקולאי הראשון; הוא נמלט מידיהם וברח ברגל לביאליסטוק. שם למד בבית-המדרש, נתמך על-ידי ה"מתנגדים" (ה"פרושים") אך גם להט החסידות נשאר בנפשו. למד מלאכה ונעשה אופה. נשא לאשה את <persName>אס</persName> <persName>תר</persName> בת הרב <persName>יצחק</persName> הכהן <persName>בריקר</persName> , שהיה דיין בווארשה, וילדה לו את<persName> יעקב יהודה, יהושע מאיר ונח זאב</persName> . אחרי מותה נשא את האלמנה <persName>גיטל</persName> בת ר' מנחם ולקח אל ביתו גם את אמה ואת ילדיה מבעלה הראשון ושקד על חינוכם וטובתם כאב נאמן, והיא ילדה לו את<persName> שלמה לייב ורחל</persName> (היתה אשת הרב <persName>זליג בר</persName> <persName>ורמן)</persName> . אז יצא החוק של חובה אישית לשרות בצבא וכדי שבניו לא יפלו בידי מלכות הרשעה החליט להגר מארצות הצאר הרוסי. קרוביו העשירים יעצוהו לצאת לאמריקה, אך הוא החליט לעלות לארץ-ישראל.
+
+ אחרי טלטולי-דרך מרובים ברגל, בעגלה, ברכבת, בספינות מפרש וקיטור הגיע ליפו ומשם בעגלה בכביש החדש ובא לירושלים עם כל משפחתו (אשתו, חותנתו, ילדיו, ילדי אשתו, וילדיהם המשותפים כעשר נפשות) בחורף תרל"ד והתישב בעיר העתיקה. ולא יצא ממנה אלא לצורך הכרחי או לשמחת מצוה, להוצאות הפסח הראשון בארץ השתכרו בעבודה שעבדו כולם באפית המצות. אהרי הפסח החל לעסוק
+
+
+ במלאכתו, אפית לחם למכירה, והיה האופה היהודי הראשון בירושלים ונספח לכולל הורודנה של הפדושים, אבל לא כדי לקבל ''חלוקה", אלא להיפך : הוא ובני ביתו חיו בצמצום מהכנסת עסקו, וחוץ מה"מעשר" שהפריש לצדקה היה נותן עוד משלו לתמיכה בעניים, בנתנו להם כסף, לחם, צרכי אוכל ותבשילים על שלחנו, הלבשה והנעלה, ואשתו גיטל נודעה בירושלים בשם <persName>גיטלה הצדקנית</persName> . ביחוד היה קונה צרכי הלבשה לחתנים ולכלות עניים והיה ממציאם לידי הוריהם בצנעה, בדרך כבוד. כן היה נוהג לתמוך במשפחות כבודות עניות לימי החגים, וביחוד לפסח.
+
+ כשהחל ר'<persName> עזריאל זליג הויזדורף</persName> (שנקרא בירושלים ר' <persName>זליג דייטש</persName> - על שום שעלה מגרמניה) לאסוף יתומים עזובים ולכלכלם לבל יפלו בידי המיסיון, היה נותן בשבילם לחם ממאפיתו במחיר הקרן בהקפה כמעט ובלי נגישות. פעם, אחרי שלא השיגה יד ר' זליג לשלם לו את מחיר הלחם במשך שבועות ומוכרי הקמח הציקו לו מאד, הוציא בערב שבת את בלי ביתו לשוק ומכרם ושילם בעד הקמח והמשיך לספק את הלחם ליתומים. אח"כ כשיסד ר' <persName>יהושע</persName> <persName>ליב דיסקין</persName> את בית היתומים הקרוי על שמו, היה מספק לחם גם למוסד בהקפה לזמנים ארוכים ובמחיר מוזל מאד.
+
+ כשגדלו בניו וצרכיו והיה זקוק לעזרה להשיאם נסע לבקר בווארשה את אחיותיו העשירות ואחת מהן אף שלחה לו אח''כ תמיכה קבועה בשבילו ובשביל מעשי-החסד שלו. וכשנודע לו, שהיא מפחיתה את שיעורי התרומות שהיתה שולחת לפני כן ל''כולל". השפיע עליה במכתב, שלא תגרע בגללו מחלקו של הכולל.
+
+ נפטר בירושלים, ביום י' כסלו תרס"ט.
+
+ בניו הם: <persName>ר' יהושע מאיר רייכמן ושלמה ליב</persName> <persName>ריצמונד</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 692 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/692</bibl><bibl>Volume: #2 ,Page: 693 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/693</bibl>
+<bibl>Volume: #2 ,Page: 694 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/694</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

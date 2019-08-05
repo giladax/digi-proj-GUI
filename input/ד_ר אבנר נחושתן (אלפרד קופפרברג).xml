@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3117 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3117</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אבנר נחושתן (אלפרד קופפרברג)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>שטטין</placeName> בגרמניה, בחדש ניסן תר"ן (14.4.1900). לאביו<persName> ליב </persName> (לודויג<persName>) קופפרברג</persName> ולאמו<persName> אלזה</persName> בת <persName>וילהלם וולף הולדהיים </persName> (הוא נינו של הרב <persName>שמואל הולדהיים</persName> ז''ל, אישיות יהודית-גרמנית ידועה).
+
+ סיים את למודיו בפקולטה הפוליטית של האוניברסיטה ברלין ובפרייבורג.
+
+ התחיל לעבוד כעתונאי בשנת 1924. בשנת 1923 נשא לאשה את<persName> מרגלית</persName> (גרטה)<persName> סלומון.</persName> היה העורך הראשי של ה"איזראליטישס פאמיליענבלאט" בהמבורג.
+
+ ציוני מנעוריו, בהן היה קשור קשרי ידידות עם ד"ר <persName>חיים ארלוזורוב.</persName>
+
+ היה עסקן אגודות ציוניות והקרנות הציוניות במשך עשרות בשנים בגרמניה.
+
+ בקר בא"י בשנת 1934 ופרסם ספר על רשמיו בשפה הגרמנית בגרמניה.
+
+ עלה לארץ בשנת 1934.
+
+ בשנת 1936 התצטרף ל"הגנה" מאז 1939 משתתף במערכת העתון התל אביבי "ידיעות חדשות", כותב בשביל עתונות חו"ל.
+
+ ב-1949 פרסם רומן בשם "בין המצרים", על רקע חיי היהודים בגרמניה ושלטון הנאצים.
+
+ מפעילי לשכת "ביאליק" במסדר בני ברית.
+
+ צאצאיו :<persName> זאב נחושתן </persName> (נשוי<persName> לרות אנגרס </persName> בקבוץ ארז. להם בן אחד:<persName>דרור); גבריאל </persName> (נשוי <persName>לתקוה</persName> <persName>פודרשבסקי </persName> בקבוצה יזרעאל. להם בן אחד:<persName> רונן).</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3117 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3117</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

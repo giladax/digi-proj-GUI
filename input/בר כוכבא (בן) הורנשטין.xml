@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4010 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4010</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בר-כוכבא (בן) הורנשטין</persName>
+
+</head>
+         <div><p> נולד בצפת, כ''ו אלול תרס''ח (22.9.1908). לאביו <persName>ברוך הורנשטין </persName> (ראה הערך שלו בכרך זה) ולאמו <persName>גולדה</persName> בת <persName>גבריאל צייגר.</persName>
+
+ קיבל חינוך מסורתי וכללי בבי"ס אליאנס. בגמנסיה העברית בירושלים, בבית-ספר גבוה לכלכלה ובאוניברסיטת מלבורן. קיבל תואר מ. א.
+
+ היה חבר הפדרציה הציונית באוסטרליה, חבר מועצת
+
+ הקרן הקיימת, ממיסדי ויושב ראש הקלוב העברי הראשון באוסטרליה בשם "עבריה" במלבורן.
+
+ במלבורן היה מנהל חברות, עתונאי, סופר "דאר היום" בא"י וירחונים שונים.
+
+ ערך מדור בעתון "מלבורן זיוניסט הרולד''.
+
+ בשנת 1932 חזר לארץ.
+
+ בשנת 1934 נשא לאשה את<persName> חיה </persName> בת<persName> יואל רובין</persName> ובזיווג שני נשא בשנת 1955 את <persName>פלה</persName> בת <persName>ליאון נידלמן.</persName>
+
+ היה פעיל בהגנה, חבר מטה הג"א בירושלים ומדריך מדופלם לעניני הג"א L.A.R.P.יחד עם המנוח אלוף משנה נמצא-בי, ממיסדי וראשי "משמר העם" בירושלים, נוטר א"י (מטעם ההגנה) ומרצה מטעם לשכות הגיוס של ההגנה.
+
+ נבחר ופעיל במפלגת פועלי א"י (מפא"י), הסתדרות העובדים והסתדרות הפקידים בירושלים.
+
+ היה מפקידיה הבכירים של חברת הכשרת היישוב בא"י שרכשה שטחי קרקעות רבים בארץ עבור הקהק"ל.
+
+ היום, פקיד בכיר במשרד העבודה במדינת ישראל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4010 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4010</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

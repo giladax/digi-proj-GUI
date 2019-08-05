@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 287 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/287</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים פרס</persName>
+
+</head>
+         <div><p> נולד בביאליסטוק, י"ב חשון תר"ד (1843) לאביו ר' <persName>ישעיה.</persName> עלה ארצה בהיותו בן שש (תר"י-1850) עם הוריו והתישבו בירושלים. למד ב"חדר" ובישיבה ואחרכך המשיך בלימוד עצמי בבית-המדרש. בעיקר הרבה ללמוד תנ"ך ודקדוק בשפה העברית ולקרוא בספרי השכלה ובספרות הקראים. היה מראשוני המשכילים בישוב הישן בירושלים, שעמלו להפיץ את אור הדעת בין החומות העתיקות תוך שמירה על המסורת וקדשי ישראל. גם אשתו מרת שרה, שעלתה ארצה בת 17, היתה משכילה; היא היתה ממשפחת ר'<persName> מנחם מנדיל</persName> <persName>מוויטבסק,</persName> מראשוניה וממנהיגיה של עלית החסידים בתקופת תלמידי הבעש"ט ושימשה בהוראה בביתהספר לבנות שיסד<persName> מונטיפיורי </persName> בירושלים.
+
+ הוא עסק בהוראת הדקדוק העברי ויסד יחד עם הרי"ד <persName>פרומקין</persName> ור' א. מ. <persName>לונץ</persName> את החברה "תפארת ירושלים" במסוה של ארגון לעזרה הדדית, אבל למעשה לשם הפצת השכלה בין צעירי ירושלים והשתתף בפעולתה העיקרית של החברה, ביסוד ספריה צבורית על שם <persName>משה ויהודית מונטיפיורי,</persName> ומונטיפיורי אף תמך בספריה, אך רבני ירושלים הודיעו למונטיפיורי, שהם רואים בספריה זו סכנה לטהרת האמונה ואז סילק את ידו ממנה.
+
+ הרבנים, שרדפו את המשכילים, היו מעדת ה"פרושים" ולכן התחברו חיים פרס וחבריו בגוש אופוזיציוני של החסידים, והוא התקרב עוד יותר אל הספרדים, שהיו רחוקים לגמרי מהקנאות הזאת. השבועון "שערי ציון", שחיים פרס היה עורכו במשך כל זמן קיומו (בשנות תרל"ו-תרמ"ה), נשען בעיקר על קהל-קוראים ספרדי. בעתון זה כתב את המאמרים הראשיים בשאלות השעה ובהבעת רעיונות לתיקון מצבם של יהודי ירושלים. במאמריו דרש לחנך את הנוער לעבודה ולמלאכה, ואפילו לעבודת האדמה, ואין ספק, שגם להשפעתו הפובליציסטית יש חלק בהתעוררות אנשי ירושלים לצאת להתישבות חקלאית, שגרמה ליסוד המושבה פתח-תקוה. באותו עתון פרסם גם רומן היסטורי בעשרים המשכים בשם ''גיא החזיון". פרסם מאמרים בחקר הלשון העברית ולתולדות הקראים ב"פרחי החבצלת" (הוספה מדעית ל"החבצלת")
+
+ וב"המגיד". היה עורכו של "הצבי" בגלגולו הראשון, כשהופיע בהוצאת<persName> יצחק הירשנזון</persName> , ובמשך כמה שנים היה עורך "החבצלת".
+
+ נפטר בירושלים ביום כ"ט אדר א' תרנ"ד. בנו הוא חוקר הארץ ישעיהו פרס.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 287 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/287</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

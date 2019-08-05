@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 1046 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1046</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן יצחק בלום</persName>
+
+</head>
+         <div><p> נולד בטלז, ליטא, בשנת תרכ"ז (1867), לאביו <persName>שרגא פייבל.</persName>
+
+ אחרי שנתיתם מאביו עוד בילדותו עלה ארצה בשנת תרל"ו עם אמו ואחיו <persName>אברהם יחזקאל </persName> (ראה עמוד 476), והתישבו בעיר העתיקה בירושלים. למד בחדרים ובישיבות ואח"כ למד מלאכת צורף זהב.
+
+ נשא לאשה, את<persName> חוה</persName> בת זוסמן<persName> כהן </persName> מירושלים. הצליח במלאכתו ושילב באורח חייו את הנאמנות השלמה לקדשי ישראל עם ההתקדמות ושיפור החיים
+
+ ברוח הזמן ולבניו ולבנותיו נתן חינוך דתי עברי והשכלה כללית יחד.
+
+ כשקמה התנועה הציונית המדינית היה בין הראשונים ברוכשי השקל הציוני בירושלים, ואף הקנאים מתנגדי הציונות לא פגעו בו בגלל זה, כי הכל כיבדוהו כאיש תם וישר וירא-אלהים והתלהבותו ועוז רצונו לעזור בגאולת העם בארץ עשו רושם גם על מתנגדי הרעיון.
+
+ ביחוד התמסר לסלילת דרך להתישבות עברית בעבר הירדן, ובשנת מותו של<persName> הרצל, </persName> ב-1904, עזב את ביתו ועסקו, יצא לעבר הירדן והתקשר לרכישת שטח בן רבבות דונמים באדמת "חרבת ג'ועזא" ו"חרבת זאבייר". פנה למוסדות ולבנקים שיעזרו לו במימון הקניות, וכשהללו לא נענו יסד אגודה בשם "חלוצי עבר הירדן" שהצטרפו אליה כ-300 חברים ואף כספים הכניסו, ולפי התקשרותו עם החברים הושלשו הכספים לפקודת <persName>הרי"מ פינס</persName> , הד"ר <persName>יצחק לוי </persName> (מנהל בנק אפ"ק בירושלים), <persName>אברהם ישפה ואברהם סולו</persName> <persName>מיאק</persName> (מנהל הדואר הרוסי בירושלים), שיפקחו על הקניות והסידורים ועל מלוי התנאים שבין החברים ובין בלום. אחרי נדודים רבים בסכנת-נפש בשממות עבר הירדן וסוריה והשתדלויות בדמשק עלה בידו לרשום על שמו שטחים מסוימים בעבר הירדן ולהשיג את שטרי-הקנין ("קושאנים"). אבל גברה יד שונאי היהודים והתנחלותם, והקרקעות לא נמסרו לו. מכל העמל וההון שהשקיע נשארו לו רק חבילות מסמכים בעברית, בערבית ובטורקית, ואף לעת זקנה לא התיאש מחלום חייו לראות ישובים עבריים בחלק המזרחי של ארצנו, מעבר לירדן.
+
+ נפטר בירושלים, ט"ז ניסן תש"ז (6.4.47).
+
+ צאצאיו:<persName> פייבל, שרה</persName> (ז"ל),<persName> יהודה, אלישבע </persName> אשת <persName>שבתי (סמי) האלברשטאדט, מרגלית</persName> (מנהלת בי"ס לילדים מפגרים( אשת עוה"ד<persName> משה גרינבוים, הדסה</persName> אשת ד"ר <persName>אריה מור, דבורה</persName> אשת <persName>פרץ אפשטיין,</persName> <persName>חיה </persName> אשת<persName> אורי גריי (</persName> קיבוץ בית השטה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 1046 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1046</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

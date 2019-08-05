@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3725 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3725</bibl><bibl>Volume: #11 ,Page: 3726 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3726</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק ליבסטוג</persName>
+
+</head>
+         <div><p> נולד בעיר בעלצי, פלך בסרביה (רומניה), ח' תמוז תרס"ז (20.6.1907).
+
+ לאביו הרב <persName>אהרן ליבסטוג (שו"ב מצאצאיו של</persName> האדמו"ר ר' <persName>חיים קרוסניצר</persName> - ענף עץ אבות של "בעל שם טוב"). נפטר בירושלים, י"ג אייר תשי"א 19.5.1951 , ולאמו<persName> אסתר לאה</persName> בת ר' <persName>אברהם אשר סופר</persName>
+
+
+ (חוטר מגזע הרב <persName>אברהם אבלי,</persName> בעל הפירוש "מגן אברהם" על "שולחן ערוך", חלק "אורח חיים", שהיה עני ואביון בשיעור כזה ,שכתב את פירושו על כותל ביתו).
+
+ נתחנך על ברכי התורה והמסורה בישיבת הרב <persName>י. ל. צירלסון</persName> (ראש רבני בסרביה ואב"ד דקישינוב) וברוח הציונות-הדתית-לאומית בבית מדרשו של הרב י. ל. הכהן מימון (פישמן).
+
+ מנעוריו היה פעיל בהסתדרויות הנוער הציוני ופעל רבות למען בנין א"י.
+
+ בשנת תרצ''ג (1933) נשא לאשה את<persName> אסתר</persName> בת <persName>יצחק ופעמיה סודבארג</persName> , מעיר בעלצי.
+
+ בפרוץ מלחמת העולם השניה, עבר סבל רב וניצל בנס בתור פרטיזאן שהשמיד פלוגה נאצית.
+
+ בשנת 1945, עם גמר המלחמה, נדד והגיע עם זרם שארית הפליטה לגרמניה והשתקע ארעי במחנה הידוע "פארנוואלד''. נתמנה מטעם "אונרה" והג'וינט בתור מנהל ארגוני ותרבותי של המחנה. פעל רבות לעידוד הפליטים והיפנם ציונה.
+
+ כן הרביץ תורה ועברית בין הפליטים במחנה.
+
+ בסיועו הופיע במחנה אלמנך אידי "במידבר".
+
+ בעזרתו נפתח בית ספר אידי-עברי לילדי הפליטים, וכיהן במנהל האחראי כלפי שלטונות המחנה וכלפי נציגות ה"ג'וינט". עדים לכך מכתבים רשמיים שקיבל מהנ"ל, בהם מעריכים את התמסרותו לענין היהודי בכלל ולרוח מדינת ישראל בפרט.
+
+ ביזמתו הגרו פליטים רבים מהמחנה ומשאר המחנות לישראל.
+
+ בשנת 1946 כשהרב הראשי לישראל, הרב<persName> יצחק</persName> <persName>אייזיק הלוי הרצוג </persName> זצ''ל, ביקר במחנות, ערך לו<persName> ליב</persName> <persName>סטוג </persName> קבלת פנים חגיגית וברכו בעברית והציגו בפני השלטונות. כן הקביל את פני האדמו"ר מקלויזנבורג, רבי <persName>האלברשטאם</persName> (היום ב"קרית צונז" בישראל), הרב ד''ר <persName>אבא הלל סילבר</persName> , המשורר<persName> לייוויק</persName> , הסופר<persName> ישראל</persName> <persName>אפרת</persName> ועוד.
+
+ באותו תקופה סוערת, רבת תקוות ורבת אכזבות, נועד עם <persName>דוד בן-גוריון </persName> (ראש הסוכנות היהודית, אז), עם ד"ר <persName>נחום גולדמן </persName> (כיום, ראש ההסתדרות הציונית), עם
+
+<persName>מאיר יערי</persName> , עם הרב<persName> מאיר בר-אילן</persName> (ראש המזרחי) ועם שאר באי-כוח עם ישראל. כולם הוקירו את מפעליו לטובת הפליטים.
+
+ בשנת 1947 נתמנה מפקח ראשי על כל מחנות הפליטים היהודים בבאבריה, ולאחר שהצטיין באירגון מננגון מסועף בן 21 המפקחים בגליל זה, הועלה בדרגה של מפקח כללי של כל עקורי המחנות בגרמניה. והגיש עזרה רבה למרכז העליה האי-ליגלית באניות "יציאת אירופה" לישראל.
+
+ השתתף גם בנשיאות אירגון יהודי רומניה, פעל והפעיל בהגירת הפליטים לא"י.
+
+ נועד עם הגנראל <persName>אייזנהאואר (לשעבר, נשיא ארצות</persName> הברית) שביקר במחנות.
+
+ בשנת 1947 כשהאו"ם הכיר במדינת ישראל, ערך עצרת עם גדולה ונאם בשפות שהפליטים שלטו בהן ועורר אותם לעליה לישראל.
+
+ בשנת 1949 נשלח בראש קבוצת מהגרים לקנדה, לארגנם ולסעדם שם. בהשפעתו, עלו אח"כ רבים לישראל.
+
+ בשנות "הצנע" אירגן משלוח חבילות מזון לנצרכים בישראל.
+
+ חבר ופעיל בהסתדרות.
+
+ בתו: <persName>חיה</persName> (מורה בעברית) אשת<persName> ברוך רוזנבלום.</persName>
+
+ נכדיו: <persName>לאה, אברהם-יוסף.</persName>
+
+ אחיו: הסופר ד''ר <persName>משה סמבטיון </persName> (ראה כרך ששי, עמוד 2478).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3725 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3725</bibl><bibl>Volume: #11 ,Page: 3726 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3726</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

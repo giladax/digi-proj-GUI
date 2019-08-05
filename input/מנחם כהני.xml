@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4481 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4481</bibl><bibl>Volume: #14 ,Page: 4482 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4482</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם כהני</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קרקוב</placeName> (פולין) בשנת תרנ"ח (7.11.1898).
+
+ לאביו <persName>יוסף כהני</persName> (משפחה ידועה של חסידים ורבנים בפודהייצה, במזרח גליציה) ולאמו<persName> רבקה</persName> (רגינה) בת<persName> מרקוס פרבר-הרשפלט</persName> .
+
+ קיבל חינוך מסורתי וכללי בבית ספר יסודי ותיכוני ב<placeName>קרקוב</placeName> ובצרנוביץ (בוקובינה), אוניברסיטה ב<placeName>קרקוב</placeName>. בשנת 1922 קיבל דיפלומה של דוקטור למשפטים, המשיך ללמוד פילוסופיה באוניברסיטה
+
+
+ של וינה (שנתים) ובאוניברסיטה של פריס (שנה). קיבל תואר .LL.D.
+
+ בשנת 1933 נשא לאשה את<persName> חנה </persName> (אנה) לבית שייבלינג.
+
+ בשנות 1926-48 היה מזכיר מדיני של הסוכנות היהודית ליד חבר הלאומים וליד האו"ם (בשנה האחרונה) בג'נבה, בלונדון ובירושלים.
+
+ בשנים 1946-48 עד קום המדינה בניו-יורק בתור חבר המשלחת של הסוכנות היהודית לאו"ם.
+
+ בשנות 15.5.1948-62 נציג מדיני של ישראל (ראש המשלחת) ליד המשרד האירופי של האו"ם (עם הפסקה בשנים 1951-52 בה עבד במשרד החוץ בתל-אביב).
+
+ החל משנת 1962 - יועץ מיוחד בדרגת ציר מוסמך (החל משנת 1959) של ממשלת ישראל ליד האו"ם בג'נבה.
+
+ ביקורו הראשון בארץ היה בשנת 1925. ביקורים נוספים: 1933, 1935 ו-1937.
+
+ עלה לארץ לישיבת קבע ב-1949.
+
+ היה נציג ישראל לועידות בינלאומיות שונות ורבות - בפריס, בשטוקהולם, בג'נבה, בניו-יורק ובמדריד.
+
+ מארגן ו"ראש הטקס" של הקונגרסים הציונים (של הסוכנות היהודית לא"י) בשוייץ, בשנים: 1927, 1929, 1935, 1937, 1939 ו-1946.
+
+ היה סופר של העתונות הציונית בפולניה, בגרמניה, בפרג ובניו-יורק.
+
+ היה סופר של הסוכנות הטלגרפית "פלקור" בירושלים.
+
+ עורך של הדו-שבועון "אינפורמיישונס דע פלשתין" (1935-46) בג'נבה.
+
+ בשנות 1924-47 כתב אלפי מאמרים שונים על התנועה הציונית וכו'.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4481 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4481</bibl><bibl>Volume: #14 ,Page: 4482 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4482</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

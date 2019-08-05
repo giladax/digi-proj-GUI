@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3534 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3534</bibl><bibl>Volume: #10 ,Page: 3535 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3535</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הלל יפה-הרים (שינברג)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>שצ'וצין</placeName> פלך לומז'ה, בשנת תרל"ג (1873).
+
+ לאביו ר'<persName> יעקב אריה שינברג </persName> (סוחר ולמדן מופלג, ירא שמים, איש האמת ובעל-צדקה מובהק, התייחס על משפחת רבנים מפורסמים מעשרות דורות) ולאמו<persName> בלומה</persName> בת ר' <persName>זלמן שינברג</persName> (מנאמני בית הרבי מגור, מתייחס לר'<persName> עקיבא איגר</persName> זצ"ל).
+
+ למד בישיבת טלז וקיבל היתר הוראה מרבה ור"מ טלז.
+
+ נשא לאשה את<persName> מלכה איטה</persName> בת ר' <persName>משה אלתר</persName> , מחסידי <persName>אלכסנדר</persName> .
+
+ אחרי נשואיו רכש אחוזה גדולה בבוקוביץ על ידי
+
+
+ מטשטשת בחיי יום-יום את זכר ההווי המסורתי של הדורות.
+
+ יצירותיה הנודעות ביותר: "לבית הכנסת", "טיול טבת", "פלירט במושב זקנים", "80 הוא - 70 היא", "משלוח מנות", "מלוה מלכה" (ברוך אגדתי בריקוד), "הממונה על החלוקה", "העני", "אסתר לפני אחשורוש", "אידיליה בכרם התימנים", "ג'נטלמן בן המזרח", "אידיליה בליל חורף" (בגולה), "המחותנת", "חתן וכלה מתימן", "אשת-חיל ליריד", "השוק השחור", "צבר", "בן המדבר" וכו'.
+
+ יצירותיה החשובות נמכרו ברובן לאספנים פרטיים ולמוזיאונים ולחובבי אמנות אמידים בחו"ל. ורק מעט מהן נשאר להנאת עיני הצבור ב"בית-שלום" שברשות קרן היסוד בירושלים (שנרכשו בזמנו ע"י העו''ד <persName>שלום</persName> (סלומון)<persName> הורביץ</persName> (ראה כרך ח', עמוד 3109) תורם הבית הנ"ל - הנקרא על שמו).
+
+ עסקה גם בכתיבה ופרסמה בקורת על אמנות בעתון "רזויט" בפריז (בעריכתו של<persName> זאב ז'בוטינסקי)</persName> , רשימות בעברית בעתוני ושבועוני הארץ - תחת פסוידונימים שונים. את פרי-עטה הראשון, וודויל בשם "רזי-ליל" מחיי המושבה והשומרים בזמן הבציר כתבה עבור התיאטרון המריונטים שהתקינה פעם, בהיותה בימי חופשתה באחת המושבות. כשפנתה לכמה סופרים (ביניהם המשורר היהודי האמריקאי<persName> וינפר</persName> ) שבקרו במושבה שיתקנו את יצירתה... סרבו ועודדו אותה להמשיך בכתיבה. גם הסופר והמורה לעברית ב"בצלאל"<persName> ק. י. סילמן </persName> יעץ לה לעבור לספרות. והיה מוכן לתרגם את יצירותיה לעברית ולהוציאן לאור.
+
+ המשיכה לעסוק באמנות. רק בעבור שנים חזרה לכתיבה. כתבה שני רומנים: אחד מחיי הגולה בשם: "א מארגען אין גרויען" ("בקר-עבות"), והשני מחיי מושבה בארץ: "שטיללעבן" ("דומם"). תרגמה אותם לפני זמן לעברית ועומדת להוציאם לאור.
+
+ כמו כן היא ממשיכה להשלים את הגלריה של "נשיישראל" ממערב וממזרח, שהסדרה הראשונה ממנה נמצאת ב"ברית שלום" כנ"ל.
+
+ בנה :<persName> עמיאל אביבי </persName> (ביאולוג).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3534 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3534</bibl><bibl>Volume: #10 ,Page: 3535 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3535</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

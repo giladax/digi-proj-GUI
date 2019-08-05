@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3865 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3865</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה אהרן ברוכוב</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ווילנה</placeName> (ליטא) בשנת תרל"ז (1877).
+
+ לאביו <persName>שמואל שמעון ברוכוב.</persName>
+
+ קיבל חינוך מסורתי וכללי
+
+ היה חובב ציון נלהב ומסור.
+
+ היה מורה עברי ב<placeName>ווילנה</placeName> וביאקטרינוסלב ועבד במסירות להפצת הלשון העברית ותרבותה.
+
+ בימי מלחמת העולם הראשונה היה פעיל בימי הגירוש האיום לעזרה לפליטים ביאקטרינוסלב והיה מחנך לילדים עזובים.
+
+ בימי מלחמת האזרחים ברוסיה ושלטונם של דניקין וורנגל יצא את רוסיה דרך סבסטופול בסכנות נפשות לחצות את הים השחור למרות האיסור החמור בסירת הדוגה "חורלינץ" והגיע לתורכיה יחד עם 500 פליטים. וכך ניצל מתליה ממש שזממו נגדו הליגיונרים הצ'כים בקרבת סיבסטופול.
+
+ בקושטא היה מורה בביה"ס כי''ח (האליאנס).
+
+ בשנת 1921 עזב את תורכיה ועלה לארץ (יחד עם דרויאנוב, וירושלימסקי ועוד).
+
+ היה מראשוני המתנחלים ורוכשי הקרקע בצפון תל-אביב.
+
+ נתקבל כפקיד בעירית תל-אביב.
+
+ נפטר בתל-אביב, ח' שבט תרצ"ב (16.1.1932) ונקבר בבית הקברות הישן.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3865 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3865</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

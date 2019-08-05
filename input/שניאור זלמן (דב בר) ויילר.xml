@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 491 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/491</bibl><bibl>Volume: #1 ,Page: 492 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/492</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שניאור זלמן (דב בר) ויילר</persName>
+
+</head>
+         <div><p> נולד בריגה, בירת לטביה (רוסיה), ב' טבת תרמ"ו, לאביו ר'<persName> שמואל</persName> ולאמו <persName>חנה גיטל</persName> לבית<persName> רובין,</persName> והיה נכדו של החסיד המקובל ר' <persName>משה חיים </persName> מקריסלאווה, שהוציא לאור את הספר "תניא" של רבי <persName>שניאור זלמן</persName> מלאדי והשאיר כתבי-יד בדברי תורה. למד אצל הרבי אברהמלי מסוחאצ'וב ואח"כ עם חותנו
+
+ ר'<persName> יוסף שבתי שלמה איש-הורביץ </persName> מזאמושץ'. הגיע לידיעה רבה בתורה והוסמך לרבנות.
+
+ אחרי נשואיו יסד בריגה בית-חרושת לסוכריות שרופות (כרמלים) ובית-מסחר לרפואות. היה מחסידי חב"ד, עסקן בצרכי צבור ובפעילות ציונית באו גובים שונים, חבר פעיל בועד המשרד הארצישראלי ובארגון העליה מלאטביה. כן היה פעיל בהגשת עזרה לפליטים שהגיעו מרוסיה לריגה, עזרה לקיומם
+
+
+ ולאיכסונם שם, ובעיקר בדבר המשכת דרכם לעלות ארצה.
+
+ היה מזכיר-הכבוד של קהלת ריגה (לדברים שהתנהלו בעברית), ועם השגת העצמאות של לטביה ויסוד הפרלמנט היה מועמד בבחירות אליו מטעם מפלגת צעירי ציון.
+
+ בתרפ"א עלה ארצה עם משפחתו ויסד את ביתהחרושת "רענן" לשוקולדה וממתקים. בגלל קשיים שנבעו מחוסר הגנה לתוצרת הארץ מכר את המפעל, שהוא קיים כיום בשם בית-החרושת "ליבר" ובשנת תרצ"ו יסד את בית-החרושת למים מינרליים "קרנה" במפרץ חיפה.
+
+ צאצאיו: בתו<persName> רחל בקי</persName> ובניו <persName>שמעון לוי </persName> (בהוסטון, טכסאס, ארה"ב) וד"ר<persName> משה חיים ויילר</persName> , הרב בעדה הרפורמית ביוהאניסבורג שבדרום-אפריקה ועסקן פעיל למען ארץ-ישראל והתרבות העברית.
+
+ נפטר בחיפה, י"ח תשרי ת"ש.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 491 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/491</bibl><bibl>Volume: #1 ,Page: 492 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/492</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

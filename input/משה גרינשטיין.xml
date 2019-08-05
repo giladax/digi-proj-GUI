@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 312 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/312</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה גרינשטיין</persName>
+
+</head>
+         <div><p> נולד ברוזבדורף, גליציה, בשנת תרל"ג (1873), לאביו<persName> אברהם אליעזר הלוי</persName> , וקיבל את ראשית חינוכו היהודי המסורתי ב"חדר".
+
+ בן 11 עלה ארצה עם הוריו והתישבו בירושלים, ואחרי למדו שנים אחדות בישיבה למד את מלאכת הנגרות, וכשגדל נשא לאשה את<persName> חיה רבקה</persName> בת ר' <persName>יוסף חיים ליפשיץ</persName> , מלומדי הישיבה. נפטרה בתל-אביב, ח' אייר תרע"ו.
+
+ כשנוסד היקב בראשון לציון נתקבל שם לעבודה בעשית החביות, ולאחר שנים אחדות נתמנה מטעם הנהלת היקב לנהל את טעינת חביות היין על האניות בנמל יפו. בעבודתו זו היה בקשרים קבועים עם בעלי-הסירות והספנים הערבים בנמל והשתמש בהשפעתו עליהם להשיג יחס הוגן ככל האפשר והקלות לעולים היהודים, שהועלו בסירות הערבים מהאניות אל החוף.
+
+ בנה את ביתו בין הראשונים בשכונת נוה שלום. תמך במוסדות הצבור ומילא את חובתו האזרחית ביושר כחבר העדה, וכל ימיו חי מיגיע כפו.
+
+ נפטר ביום א' דראש השנה תרפ"ו ונקבר בביתהעלמין הישן בתל-אביב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 312 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/312</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

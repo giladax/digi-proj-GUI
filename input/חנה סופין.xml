@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5163 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5163</bibl><bibl>Volume: #17 ,Page: 5164 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5164</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חנה סופין</persName>
+
+</head>
+         <div><p> נולדה במוהילוב (רוסיה הלבנה) בשנת תר"מ (1880).
+
+ לאביה ר'<persName> לוי יצחק סופין.</persName>
+
+ למודת עוני מנעוריה. מבית הוריה, אנשי עבודה ועמל, הגיעה לאוניברסיטה; חובשת-מיילדת.
+
+ היתה חברה לס.ס. (מפלגת פועלים ציוניתסוציאליסטית).
+
+ עלתה לארץ בשנת תרע"ב (1912).
+
+ עבדה כאחות בבית-החולים "שערי צדק" ביפו.
+
+ חברה לקבוצת הפועלים בבאר-טוביה (קוסטינה).
+
+ מנהלת מעון-היתומות בצפת לאחר מלחמת העולם הראשונה.
+
+ מהעובדות הראשונות בקופת-חולים.
+
+ נקראה לעזרה ראשונה בצפת מיד לאחר המאורעות שם.
+
+ היתה חברה ל"פלוגת הכובש" בכפר-סבא.
+
+ בכל הדרך הארוכה הזאת - ובתוכה ימי המלחמה העולמית - לא ידעה ליאות ומנוחה. ידיה מלאות תמיד עבודה, אמונות לסדר. תמיד עמדה הכן לפעולה, לעזרה, בצריף ובאוהל, ליד הכביש ובמחנה, בכל התחנות שבדרך ציבור הפועלים בארץ, תמיד על המשמר.
+
+ נפטרה בתל-אביב, י"ג בתשרי תרצ"א (5.10.1930) והובאה לקבורה בבית העלמין ברחוב טרומפלדור בתל-אביב.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5163 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5163</bibl><bibl>Volume: #17 ,Page: 5164 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5164</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

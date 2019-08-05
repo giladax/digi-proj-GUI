@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 707 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/707</bibl><bibl>Volume: #2 ,Page: 708 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/708</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנימין קורובקוב</persName>
+
+</head>
+         <div><p> נולד במסטיסלב, פלך מוהילוב (רוסיה) בשנת תרמ"א (1881), לאביו<persName> הלל</persName> ולאמו <persName>לאה</persName> בת אהרן אלינסון. האב היה חובב-ציון ידוע בעירו ופעל במסירות והקרבה למען תנועת-התחיה ; הצטרף לציונות המדינית והיה מצירי הקונגרס הציוני הראשון (נולד בויטבסק ב-1854 ונפטר בחרקוב ב-1914). שנים רבות לא היו לו בנים-זכרים ואז נדר שאם יוולד לו בן יקדישו לארץ-ישראל. משנולד בנימין נתן לו חנוך ראשון ב"חדר" ובהגיעו לגיל שבע לקח את הילד ובלי לגלות אפילו לאם את תכניתו הסיעו לארץ ישראל. כאן מסרו למשפחה יהודית ביפו, השאיר בידם די כלכלתו וחנוכו והוא עצמו חזר לרוסיה והיה בא מדי שנתיים לבקר את הבן. הילד
+
+
+ הופקר בינתיים ע"י אפוטרופסיו ומשנזדמן ליפו מר סמורוטניק, תושב חדרה ובן-עירם של הוריו, אספו לביתו. כאשר בני משפחת סמורוטניק עזבו את חדרה בגלל הקדחת הממארת ועברו לגור ברמלה לקחו גם את הילד אתם ושם ביקר ב"חדר" יחד עם ילדיהם עד גיל 12. משהגיע לגיל בר-מצוה באה האם לבקר את בנה יחידה ואז הכניסה אותו לבית-הספר החקלאי במקוה ישראל. הצטיין בלמודיו והיה מועמד להישלח
+
+ לצרפת כדי להשתלם שם על חשבון כי"ח, אבל האב התנגד לדבר כי לא רצה שיעזוב את ארץ ישראל ולוא זמנית.
+
+ בתרס"ב עלה לבאר-טוביה (קוסטינה) בין הראשונים ושם נשא את <persName>דבורה</persName> בת ר'<persName> יחזקאל לוין</persName> , ממיסדי עקרון, בט"ו אלול תרס"ה. פיתח את משקו והכניס בו שכלולים שונים. בתרס"ט חלה בדלקת ריאות ומחוסר רופא ועזרה רפואית בבארטוביה ואף לא בגדרה הסמוכה, הועבר לביה"ח בירושלים ושם נפטר ונקבר בכ"ו ניסן תרס"ט.
+
+ צאצאיו:<persName> מנחם, מרים וימימה</persName> (נולדה אחר מותו).
+
+ אמו עלתה לארץ עם שלש בנותיה אחר מותו. נפטרה בירושלים בתרס"ד. אחיותיו:<persName> רבקה</persName> (עובדת בחקלאות), <persName>אסתר ביהם</persName> (רופאת-שיניים בירושלים),<persName> בלהה</persName> (רופאה בשכונת בורוכוב).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 707 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/707</bibl><bibl>Volume: #2 ,Page: 708 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/708</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

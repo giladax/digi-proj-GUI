@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1909 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1909</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרידה אזגוט-גולדשמידט</persName>
+
+</head>
+         <div><p> נולדה בקוזניצה, ליד גרודנה, פולין - רוסיה הלבנה, כ"ח חשון תרע"ב (1911), לאביה <persName>צבי דב אזגוט</persName> ולאמה <persName>דבורה</persName> בת הרב ר' <persName>יהודה החנוכי.</persName>
+
+ גמרה גימנסיה בגרודנה וסימינר לגננות עבריות בוארשה ושם שמעה גם שיעורים באוניברסיטה ועסקה בהוראה.
+
+ עלתה לארץ ב-1932 ונכנסה לעבודה בגני-ילדים שברשת הדתית (פיקוח "המזרחי") בראש פנה ואח"כ בחיפה; נתמנתה למנהלת גני הילדים של העדה הספרדית בחיפה ונבחרה לועד התאחדות הגננות שבחיפה.
+
+ נישאה <persName>לגרשון</persName> בן <persName>אליהו גולדשמידט.</persName> יצרה ופרסמה מכשירים דידקטיים שנפוצו לשימוש בגני הילדים בארץ: מכשירים לפיתוח הכרת הכמות והמספר, צורות גיאומטריות, צבעים ומוצגים שונים מהמציאות.
+
+ צאצאיה: <persName>צבי, נילי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1909 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1909</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 664 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/664</bibl><bibl>Volume: #2 ,Page: 665 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/665</bibl>
+<bibl>Volume: #2 ,Page: 666 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/666</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זרובבל חיותמן</persName>
+
+</head>
+         <div><p> נולד בזכרון-יעקב, י"א אלול תרנ"ד (1894), לאביו יצחק, מצאצאי האדמו"ר ר' <persName>זוסיא מהוניפולי </persName> (מראשוני המייסדים של תל-אביב), ולאמו <persName>חיה גיטל לרמן.</persName> בן שנתים הועבר למתולה, כשאביו נתקבל שם
+
+ כאחד המתישבים אחרי היותו סגן-המנהל בבית-החרושת לזכוכית של הבארון בטנטורה שליד זכרון-יעקב. בן י"ב עבר עם הוריו ליפו. כאן היה מראשוני התלמידים של הגימנסיה "הרצליה" וגמר בה את לימודיו בהצטיינות במחזור השני. אח"כ למד רוקחות בבירות וכשחזר הביתה פרצה מלחמת-העולם הראשונה. השתתף בשרות
+
+
+ העזרה הרפואית לנצרכים בשנים הקשות של תלאות המלחמה והמחסור. כן השתתף במוסדות הסיוע והחסד. היה חבר באגודת ההלבשה, שנטלה על עצמה לספק בגדים לילדי בתי-הספר, בעיקר נעלים וסגורים סגורים (שהונהגו בתור לבוש-חובה לתלמידים, כדי לכסות על לבושם הדל והבלה של ילדי העניים לבל יתביישו מפני ילדי האמידים). כן השתתף בעזרה לבתי התה והלחם להזנת רעבים שנוסדו בימי המלחמה, מקודם בבית-הספר של כי"ח ("אליאנס") ואח"כ בבית <persName>ברסלב</persName> (בסימטת בית הבד). היה פעיל ב"מכבי" וניסה לכתוב שירים וסיפורים.
+
+ נפטר בדמי ימיו ביום י"ב טבת תרע"ט ונקבר בבית הקברות הישן בתל-אביב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 664 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/664</bibl><bibl>Volume: #2 ,Page: 665 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/665</bibl>
+<bibl>Volume: #2 ,Page: 666 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/666</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

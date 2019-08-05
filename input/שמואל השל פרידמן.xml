@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2321 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2321</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל השל פרידמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רוסיה</placeName> בשנת תרל"ח (1878),
+
+ לאביו ר' <persName>אברהם צבי</persName> ולאמו <persName>יאכיס חיה.</persName>
+
+ נתחנך על ברכי התורה והקבלה והחסידות לפי נוסח ברסלב והיה מלא וגדוש ידיעות בהנ"ל וגם בעניני העו לם, אך הצניע לכת ולא התגנדר בידיעותיו. למד מלאכת סידור אותיות בדפוס ועבד במקצוע.
+
+ בשנת תר"ס (1900) עלה לארץ.
+
+ נשא לאשה את <persName>חיה פריידל </persName> בת<persName> ישראל יפה</persName> נכדת הרב <persName>מנדל מינסקר.</persName>
+
+ במלחמת-עולם א' נתגלגלה זכות על ידו להסיר סכנה גדולה מעל הישוב. והנה מה שמספר ר'<persName> עקיבא</persName> ליברכט מפתח תקוה בענין זה :
+
+ בתקופת שליטתם של חסן בק והצורר בהא א-דין ביפו, באחד הלילות בא אליו (אל ליברכט) ברגל מיפו
+
+ לפ"ת, נכנס עמו לחדר מיוחד, הוציא מכיסו דפי הגהה בערבית והקריאם לפניו. זאת היתה חוברת שנועדה להשלח להפצה בקהל הערבי בארץ ולהקראה בפני ההמונים באספות ובמסגדים, בה נדרשים הערבים בשם הדת והלאום לקום ביום אחד ולהשמיד את כל היהודים בארץ, מפני שהם כופרים ובוגדים וחובה לחסלם. החוברת נמסרה לסידור ולהדפסה בדפוס <persName>א. איתין</persName> ביפו, שפועליו היהודים ידעו לסדר אותיות ערביות לפי כתב-יד והיו מוחזקים כאינם יודעים לקרוא את הכתוב. אך הוא ידע לקרוא ערבית, אלא שהסתיר את ידיעתו זו, וכעת, בהודע לו סוד המזימה של שונאי ישראל, בא אל ליברכט, בידעו שהוא עסקן צבורי ומקורב לקונסול הגרמני, למען יפעל לקידום פני הרעה, אבל למען השם אל יגלה את המקור שממנו קיבל את הידיעה על המזימה. ואכן ממחרת נועד ליברכט עם ר"ש <persName>רוקח</persName> והד"ר <persName>א. רופין</persName> ויחד נסעו לירושלים אל הקונסולים של גרמניה ואוסטריה ובהשתדלותם נדונה החוברת לגניזה לפני הפצתה.
+
+ השאיר ספר האוטוביוגרפיה שלו "תולדות שמואל". חיבר כמה ספרים בעיני החסידות בעיקר הברסלבית. במיוחד היה ידוע הסדור באורים שלו "מקור חכמה".
+
+ בשנת תרע"ה כאשר המוני יהודים, נתינים זרים התחילו לברוח למצרים, פרסם קול-קורא נגד היציאה למצרים. הכרוז הודפס באלפים והופץ בירושלים ובשאר ערי ומושבות הארץ.
+
+ נהרג בפצצה שנזרקה מאוירון גרמני לרחוב בוסטרוס ביפו אחרי הכיבוש הבריטי, ביום י"ב כסלו תרע"ח. (יחד אתו נהרג אז <persName>דב גרוסמן-קריצמן, יעקב</persName> <persName>ברדיצ'בסקי ונתן רוזנטאל)</persName> .
+
+ צאצאיו:<persName> נחמן, מינה </persName> אשת<persName> מאיר גלברט.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2321 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2321</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

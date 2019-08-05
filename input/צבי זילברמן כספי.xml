@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4196 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4196</bibl><bibl>Volume: #13 ,Page: 4197 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4197</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי זילברמן-כספי</persName>
+
+</head>
+         <div><p> נולד בחנוכה תרל"ח (דצמבר 1877) באקרמאן שבפלך בסראביה, דרום רוסיה.
+
+ לאביו<persName> ישראל זילברמן</persName> ולאמו<persName> יוכבד.</persName>
+
+ השתלם בלימודי יהדות, בשפות ובספרות עברית, רוסית, גרמנית וצרפתית, בתורת האמנות לסוגיה ובהשכלה כללית בכל ענפיה, ובבחינות אכסטרניות קיבל סמיכה בתור מורה ורוקח. ציוני פעיל מנעוריו והשתתף כציר בועידת ציוני רוסיה, מינסק 1902.
+
+
+ ב-1905 נשא לאשת את<persName> צפורה (פייגה)</persName> בת<persName> אליהו</persName> <persName>גליקמן </persName> והתישב בטאטארבונאר שבבסרביה (שם נפטרה רעיתו בספטמבר 1931 והיא בת 49).
+
+ עבד כרוקחות ואח"כ בהוראה, ניהל בית-ספר עברי והעמיד תלמידים מסורים לשאיפות האומה, וכמה מהם אף עלו ותפסו מקום בחיי ארצנו.
+
+ היה פעיל בחיי הציבור היהודי בעירו, ממיסדי ועד הקהילה ומוסדות לתרבות והשכלה וסעד ועזרה עצמית (קופת-מלווה) ונציג עירו בכינוסים הארציים של ציוני בסראביה.
+
+ כתב בקביעות ב"אונזער צייט" וב"בסאראבסקאיה סלובו" (קישינוב), "נאשא ריץ'" (רוסית, בוקארשט), "זאריא" ("השחר" - עתון ציוני ברוסית בחארבין שבמנדז'וריה), ובעוד עתונים באידית ובלועזית. כן הוציא ב-1907 קובץ מסיפוריו ברוסית בשם "בסאראבסקיאי עסקיזי" (סיפורי בסראביה") וכתב נובילות וסיפורים בעתונים בחו"ל.
+
+ ב-1934 עלה לארץ בחלוץ המשפחה (שלושת ילדיו באו בעקבותיו). נשא בסבלנות את קשיי הסידור שבגלל גילו. עבד שנים מספר בהוצאת הירחון "מאזנים" של אגודת הסופרים ובהפצת ספרי הוצאת שטיבל והיה ממקורביו ומזכירו של המשורר<persName> יעקב פיכמן.</persName> בעונות הקטיף היה יוצא לעבודה בפרדסי מקוה ישראל, בדי לקיים מצוות עבודה בארץ בגופו ולחיות מיגיע כפיו. היה כתב קבוע מהארץ לעתונים אידיים ולועזיים בחו"ל, ובתיאור החיים והמציאות כמות שהם, אבל בהגשה ציונית נאמנה, הכשיר את הקוראים להסתגל לחיי הארץ בלי אכזבות ובלי ריטונים.
+
+ נפטר בירושלים, י"א טבת תרצ"ח (15.12.1937).
+
+ צאצאיו:<persName> יוכבד</persName> ז"ל (נפטרה בגיל צעיר ב-1932), <persName>יוסף (חיפה), שושנה </persName> אשת <persName>קארול שבתאי </persName> (נתניה),<persName> ריבה</persName> אשת <persName>שפטל צוקרמן</persName> (חברים בקבוצת חולדה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4196 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4196</bibl><bibl>Volume: #13 ,Page: 4197 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4197</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

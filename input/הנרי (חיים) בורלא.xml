@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1353 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1353</bibl><bibl>Volume: #3 ,Page: 1354 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1354</bibl>
+<bibl>Volume: #3 ,Page: 1355 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1355</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הנרי (חיים) בורלא</persName>
+
+</head>
+         <div><p> נולד בסאלוניקי, טורקיה-יון, בשנת תרנ"א (20.6.1891), לאביו <persName>דוד </persName> (בנקאי) ולאמו <persName>פלומבה</persName> בת
+
+<persName>שמואל חסון.</persName> קיבל חינוך יהודי ולמד בגימנסיה ובבית-ספר תיכוני איטלקי למסחר, ואח"כ עזר לאביו בעסקי הבנק. בשנות 1911 - 1914 השתלם בפאריס בבנקאות גדולה תוך עבודה במרכז הבנק "קרדי ליאוניי" ובפרוץ מלחמת העולם הראשונה חזר הביתה והמשיך לפעול כשותף בבנקאות של אביו, ומשפרש אביו מעסקיו ב-1927 המשיך הוא לנהל את העסק על שמו הוא. היה פעיל בלשכת הבונים החפשים ובמוסדות צבור אחרים.
+
+ ב-1921 נשא לאשה את<persName> כרמן (חנה)</persName> בת<persName> יצחק</persName> <persName>סאפורטה</persName> מסאלוניקי.
+
+ ב-1935 בא לבקר בארץ, ובאותו הזמן נוסד <persName>בנק</persName> <persName>א"י לדיסקונט בע"מ</persName> על ידי מר <persName>ליאון ריקנטי</persName> (ראה כרך א', עמוד 174),<persName> יוסף אלבו ומשה קרסו</persName> . מר<persName> ריקנטי</persName> , שהכיר אותו עוד מסלוניקי כבנקאי מומחה, הציע לו להצטרף לבנק כמנהל בפועל, והוא הסכים. חזר לסאלוניקי לחסל את עסקיו ואחרי חדשים אחדים עלה ארצה עם משפחתו והתמסר לעבודתו בניהול הבנק ובפיתוחן, להגשת עזרת אשראי למסחר, לתעשיה ולחקלאות בארץ.
+
+ ביסוד הבנק נרשם ושולם בתור הון יסודי כ-60.000 לא"י, ובמשך 13 שנה עלה ההון ביחד עם הקרנות השמורות למיליון לירות. מספר הפקידים עלה מ-10 עד למעלה ממאה ונוספו סניף בירושלים וסניף מקומי ברחוב דיזנגוף בתל-אביב. וכן רכש הבנק את
+
+ רוב המניות של בנק מרכנתיל בחיפה, וכך הפך למעשה לבנק מסונף. הבנק זכה ג"כ לאמונם של בעלי הון יהודים מחו"ל, שרכשו מניות בסכומים גדולים, וכיום הוא השני בגדלו בין הבנקים היהודים בארץ, אחרי בנק אנגלו-פלשתינה בע"מ.
+
+ ענו, מתרחק מפרסום.
+
+ צאצאיו :<persName>יונה (איבט)</persName> אשת<persName> נואל ברקוביץ, דוד.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1353 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1353</bibl><bibl>Volume: #3 ,Page: 1354 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1354</bibl>
+<bibl>Volume: #3 ,Page: 1355 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1355</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

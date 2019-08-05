@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2230 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2230</bibl><bibl>Volume: #5 ,Page: 2231 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2231</bibl>
+<bibl>Volume: #5 ,Page: 2232 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2232</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלום ידידיה (גוטליב)</persName>
+
+</head>
+         <div><p> נולד בעיירה קאמיונקה, מזרח גליציה, בשנת תרס"ב (29.6.1902), לאביו<persName> יעקב</persName> (חוכר אחוזות, חסיד בלזאי; ממשפחת האדמו"ר ר' יצחק אייזיק מז'ידאצ'וב, מאבות החסידות בגליציה) ולאמו <persName>הניה </persName> בת <persName>שמואל שטולצברג.</persName> למד בחדרים והובא מפעם לפעם לקבל השראת קדושה ממראה הרבי הבלזאי והליכותיו. בגיל עשר עבר עם הוריו לכפר בודזין, שם חכר אביו אחוזה מהרוזן זאמויסקי, והוא המשיך ללמוד תורה מפי מלמדים בבית.
+
+ אחרי מלחמת העולם א' עברה המשפחה לגור בלבוב, שם המשיך זמן-מה בלימודי תורה בישיבה. עבר ללמוד בקורם למורים עבריים, התכונן לבחינת-בגרות אכסטרנית ועבר אותה בגימנסיה פולנית בלבוב ב-1920. למד פילוסופיה באוניברסיטת לבוב והתחיל לעבוד בעתון היומי הציוני באידית "לעמבערגער טאגבלאט". ב-1929 עבר לעתונות הפולנית ואח''כ נתקבל כחבר המערכת של העתון היומי הציוני בפולנית "כווילא" בלבוב ושימש כל הזמן סופר לבובי של ה"מאמענט" הוארשאי. ב-1934 הוזמן לערוך את עתון-הערב "ווארשאווער ראדיא" והמשיך בכך עד פרוץ מלחמת העולם השניה.
+
+ נשא לאשה את<persName> מרים</persName> בת<persName> הירש ראפ.</persName>
+
+ נמלט מפולין בראשית מלחמת העולם, הגיע בחבורת נצולים ב-נובמבר 1939 לטריאסט ובאפריל 1940 לארץ.
+
+ עבד ב"ידיעות אחרונות" בכינוי "ש. ווארשאי". עבר ל"הארץ" וערך את עתון-הצהרים שלו "יום-יום" כל זמן הופעתו. משתתף בקביעות בלוח "הארץ" במדור סקירה שנתית מחיי היהודים בגולה. בזמן האחרון עורך-לילה ב"הארץ" ועורך החדשות של "הדור".
+
+ פרסם ב-1938 ספר מסעות באפריקה (באידית) בשם "צווישען סיני און זאנזיבאר" בהוצאת "ליטערארישע בלעטער" בווארשה. 
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2230 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2230</bibl><bibl>Volume: #5 ,Page: 2231 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2231</bibl>
+<bibl>Volume: #5 ,Page: 2232 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2232</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

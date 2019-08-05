@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5586 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5586</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר חיים זאב בר-דרומא (שרמייסטר)</persName>
+
+</head>
+         <div><p> נולד באחוזה וירקי אצל וולקוביסק (פולניה), י"א תמוז תרנ"ב (1892).
+
+ לאביו <persName>קדוש שרמייסטר</persName> (בעל תעשיית חלב, עלה לא"י עם משפחתו בשנת תרע"א (1911)). ולאמו<persName> חנה</persName> <persName>פיגה</persName> בת <persName>ניסן מנדלובסקי.</persName>
+
+ קיבל חינוך מסורתי בחדר, בישיבות מיר וסלו
+
+ בודקה. אחר כך באוניברסיטה בירושלים.
+
+ עלה לארץ בשנת תרע"א (1911).
+
+ היה מורה וחוקר.
+
+ היה חבר הוועדה למונחי הגיאוגראפיה שליד הוועד הלאומי לא"י בירושלים.
+
+ נשא לאשה את <persName>חיה</persName> בת <persName>אליעזר קליר.</persName>
+
+ עסק בתרגומים משפות לועזיות לעברית. כתב מאמרים רבים בחקירת א"י, פיליטונים, שירים (ב"הפועל הצעיר", "השילוח", ועוד), בעברית ובלועזית. ספריו: "הנגב" 1935 (זכה בפרס של מוסד ביאליק, 1936); "ירושלים" (1936), ביבליוגראפיה על "הנגב" : "זה גבול הארץ" (קיבל פרסים: מעיריות ת"א, ירושלים ורמת-גן).
+
+ בכתב יד ספר על ירושלים.
+
+ בשנותיו האחרונות הוסיף ספריה זוטא ("ספריית ירוחם") שכללה 6 קונטרסים. כל קונטרס הוקדש לנושא מיוחד.
+
+ החוקר והסופר ג. קרסל במאמרו ב"דבר" מיום 23.1.70 "חוקרה של ארץ-ישראל הגדולה", היתה זו שאלת חיים ממש להגיע ל"דעת איזוהי ומהי הארץ, ארצנו בפי אבותינו וחכמינו, ומה דמות היתה לה בעיניהם ובעיני קדמונינו בכלל". בסיכום למחקרים קודמים שלו על גבולות הארץ, הקרוי "וזה גבול הארץ (תשי"ח) כנ"ל, הוא מבקש להוכיח בלמדנות מופלגת, שקשה להפריז בהערכה, כי "ספרותנו העתיקה אינה מכירה אלא סוג אחד של גבולות, הם גבולות בין הבתרים מנהר מצרים עד נהר פרת - ההיפך הגמור מן המקובל אצלנו".
+
+ נפטר בירושלים, כ"ה בטבת תש"ל (3.1.70).
+
+ צאצאיו:<persName> רחל </persName> אשת <persName>מאיר בן אביר, אליהו, מלכות.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5586 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5586</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

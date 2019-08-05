@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4512 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4512</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מתתיהו ניימן</persName>
+
+</head>
+         <div><p> נולד בעקרון, ג' כסלו תרע"ד (2.11.1913).
+
+ לאביו <persName>דוד ניימן</persName> (ראה כרך ב', עמוד 930) ולאמו <persName>ברכה</persName> (ראה כרך ט', עמוד 3301) בת<persName> יעקב שמחה</persName> <persName>קוצ'רסקי </persName> (ראה כרך ב', עמוד 1050). קיבל חינוך מסורתי וכללי.
+
+ בשחר ימיו נכנס לעבודה בחקלאות ופרדסנות. הצטיין בכל עבודות ענף ההדרים מן הנטיעה, ההרכבה ועד האריזה, ובעבודה זו חי עד יומו האחרון.
+
+ היה מסור להגנה. עמד על המשמר בימי המאורעות, היה מאותת בימים ההם מעל גג הבית לכל הסביבה.
+
+ היה אחד מראשוני המתגייסים לצבא הבריטי לפי צו המוסדות הלאומיים. התגייס לרכס למדבר, ועם הבריגדה העברית לאיטליה להלחם בנאצים.
+
+ בעתון "הארץ" מיום כ"ז ניסן תש"ה (10.4.1945) נתפרסם: הקורפוראל <persName>מתתיהו ניימן</persName> מן הגדוד השני בחיל נזכר בפקודת יום בעד מעשה גבורה בשעת הפעולות הצבאיות בחזית. באותה פעולה לקח הוא ואנשיו את השבויים הגרמנים הראשונים אחד עשר במספר.
+
+ עם כניעת הגרמנים עסק בהדרכה חקלאית לניצולי השואה.
+
+ בשובו לארץ נשא לאשה את <persName>לאה</persName> לבית <persName>שמידט.</persName> המשיך לעבוד בענף ההדרים עד יומו האחרון.
+
+ נפטר בכפר אהרן, ח' תשרי תשכ''ד (26.9.1963).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4512 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4512</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

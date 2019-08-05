@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5150 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5150</bibl><bibl>Volume: #17 ,Page: 5152 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5152</bibl>
+<bibl>Volume: #17 ,Page: 5153 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5153</bibl>
+<bibl>Volume: #17 ,Page: 5154 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5154</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב משה מנחם אביטל (ברקוביץ)</persName>
+
+</head>
+         <div><p> נולד בנוה-שלום, יפו, י"ג ניסן תרע"ה (28.3.1915).
+
+ לאביו <persName>אליעזר ברקוביץ</persName> (מותיקי חסידי ויזניץ בא"י) ולאמו<persName> אלטה </persName> בת הרב<persName> יהודא מאיר זוננשיין.</persName>
+
+ קיבל חינוך מסורתי בתלמוד תורה "שערי תורה'' בנוה שלום, בתלמוד תורה וישיבת "עץ חיים" במחנה יהודה בירושלים, בישיבת "שפת אמת" והסכמה לרבנות.
+
+ השכלה כללית ע"י מורים פרטיים.
+
+ חבר ה"הגנה" משגת 1935, מקודם בירושלים ואח"כ בתל-אביב, השתתף בהגנת השכונות בשכונות : "התקוה", "סלמה" ו"מנשיה" - תל-אביב.
+
+ בשנת תש"ב (1942) נשא לאשה את<persName> צפורה</persName> <persName>ברוריה בת הר' מתתיהו בוכהלטר.</persName>
+
+ ממיסדי "העובד הדתי" - סיעת הפועלים הדתיים בהסתדרות הכללית, חבר המרכז והמזכירות הארצית.
+
+ חבר מועצת בית עלמין תל-אביב-יפו והנהלת חברה קדישא תל-אביב-יפו.
+
+ מיסד ונשיא "לשכת הרב עוזיאל" של בני-ברית בבאר-שבע.
+
+
+ חבר מרכז בני-ציון - אחים נאמנים בא"י. מיסד בית הכנסת "דרר השלום" ומיסד קרן גמילות חסדים על שם הוריו "ר' אליעזר ואלטה ברקוביץ".
+
+ מראשוני הרבנות הצבאית בצה"ל.
+
+ פירסם מאמרים בחוברות העובד הדתי ובמחניים היו"ל ע"י הרבנות הצבאית בצה"ל.
+
+ המפקד הראשון של בסיס הרבנות הצבאית בצה"ל.
+
+ כיום, סגן אלוף בתפקיד רב-צבאי פיקודי ופיקוד הדרום בצה"ל.
+
+ צאצאיו: סגן <persName>חיים אביטל</persName> (הוסמך : מורה מוסמך, ו"רב-מורה". מבוגרי תנועת נוער "עזרא". משרת בצה"ל בשירות קבוע משנת 1966) ; <persName>נילי </persName> (חניכת ביה"ס "עציון", בוגרת בי"ס תיכון, תלמידת סמינר למורות "תלפיות" וחברת תנועת הנוער "עזרא").
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5150 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5150</bibl><bibl>Volume: #17 ,Page: 5152 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5152</bibl>
+<bibl>Volume: #17 ,Page: 5153 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5153</bibl>
+<bibl>Volume: #17 ,Page: 5154 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5154</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

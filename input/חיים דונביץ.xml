@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2283 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2283</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים דונביץ</persName>
+
+</head>
+         <div><p> נולד בשנת תרמ"ח (18.4.1888 לפי הלוח הישן) בסאראטוב שעל הוולגה ברוסיה לאביו <persName>נתן</persName> (תלמיד-חכם, סוחר) ולאמו <persName>זיסל </persName> בת<persName> יהודה ליב אפשטיין</persName> . למד בחדרים ובבי"ס עממי רוסי ואח"כ התמחה במסחר ליד אביו. נשא לאשה את <persName>הניה </persName> בת <persName>אהרן אפשטיין</persName> . ניהל מסחר
+
+ תבואות בסיטונות. השתתף בהצנע לכת בעבודה ציונית וצבורית יהודית, ובשנות מלחמת העולם א' באיסוף כספים לעזרת הפליטים היהודים שהגיעו שמה מאזורי חזית המערב.
+
+ אחרי תהפוכות ותלאות רבות בעקב המהפכה הבולשבית הרוסית והשתלטות המשטר שלה הצליח לצאת עם משפחתו מרוסיה, הגיע ארצה ב-1925 ובנה לו בית בתל-אביב. השקיע יזמה ועבודה ארגונית בבנין שכונת מרכולת ב"מרכז מסחרי" בת"א (כך נקרא אז האזור שבין המשך רחוב הרצל ובין גבול יפו לשעבר, משמאל לרחוב הראשי ליפו), בהתקנת רשת כבישים וביוב וחשמל וכו' והיה פעיל הרבה שנים בועד השכונה.
+
+ זמן מועט אחרי בואו ארצה נבחר להנהלת בנק קר
+
+ דיט גומלין ומ-1929 הנו מנהל הבנק הזה - בנק על יסוד אגודה הדדית, העוזר לחבריו מבני המעמד הבינוני בהלואות לבנין ולעסקי מסחר, בניהולו עבר הבנק בשלום את המשברים שלרגל מלחמת איטליה - חבש ופרוץ מלחמת העולם ב', שמוטטו כמה אגודות ובנקים, ומספר חבריו התקרב ל-3000. הוא חבר במועצת בנק זרובבל ומרכז ברית הפיקוח של הקואופרציה האשראית, חבר הסתדרות הציונים הכלליים ואח בלשכת "שער ציון" של בני ברית.
+
+ צאצאיו: <persName>נתן</persName> (חבר מערכת "הארץ" והיה כתב של צה"ל במלחמת הקוממיות), <persName>מלכה</persName> אשת<persName> דוד פינאקר </persName> (מהנדס וקבלן), <persName>נינה</persName> אשת<persName> השל יוסטמן </persName> (בן העתונאי מעורכי ה"היינט" בוארשה שנודע בכינויו "איצ'לה").
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, י"ז ניסן תשי"ח (7.4.58) (ראה כרך ה', עמוד 2283)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2283 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2283</bibl>            <bibl>Volume: #10 ,Page: 3646 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3646</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3995 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3995</bibl><bibl>Volume: #12 ,Page: 3996 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3996</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פנחס גלזרסון</persName>
+
+</head>
+         <div><p> נולד ברסיין (ליטא) בשנת תרע"א (1911). לאביו ר'<persName> יעקב ברוך</persName> (בן הרב דב ליב מקלם) ולאמו <persName>שרה רבקה</persName> בת<persName> זאב.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה וכללי בבי"ס עממי.
+
+ עסק במסחר.
+
+ בשנות 1928-34 מפעילי הפועל המזרחי בעירו בארגון הקבוצות.
+
+ השתתף בועידת הפועל המזרחי (1931) יחד עם <persName>צבי ברנשטיין ורזניק.</persName>
+
+
+ בשנת 1934 עלה לארץ.
+
+ בשנת 1935 נשא לאשה את <persName>שרה </persName> בת<persName> זאב הכהן</persName> <persName>הימלשיין </persName> משבל.
+
+ התישב בכפר סבא. מכובשי העבודה העברית במקום, היה פעיל באוסף תרומות לבנין סניף המזרחי בכפר סבא.
+
+ גבאי בית הכנסת סיני ברמת-גן.
+
+ עסקן בצרכי היהדות הדתית ברמת-גן.
+
+ בנו: הרב<persName> מתתיהו</persName> (מרצה בבית הכנסת "סיני" ברמת-גן).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3995 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3995</bibl><bibl>Volume: #12 ,Page: 3996 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3996</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

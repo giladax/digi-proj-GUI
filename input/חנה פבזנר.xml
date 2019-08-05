@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2454 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2454</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חנה פבזנר</persName>
+
+</head>
+         <div><p> נולדה ביפו, כ"ז באייר תרמ"ה (1885). לאביה <persName>יחיאל אביגדור שמרלינג</persName> (ראה כרך ג', עמוד 1290) ולאמה <persName>בת שבע</persName> (ראה כרך ג', עמוד 1231) בת <persName>יוסף וחיה רבקה רוגינסקי, </persName> נכדת ר' <persName>חיים שמואל שמר</persName> <persName>לינג</persName> (כרך א', עמוד 99). מראשוני הישוב האשכנזי ביפו, דור חמישי בארץ.
+
+ למדה בבית הספר לבנות, מוריה היו <persName>ישראל</persName> <persName>בלקינד, יהודה גור ויצחק כהן.</persName>
+
+ היתה מורה בביה"ס לבנות ואח"כ מנהלת גן הילדים ברחובות.
+
+ השתתפה באסיפת היסוד של הסתדרות המורים בזכרון יעקב באלול תרס"ג והוזמנה לחג היובל שלה בשנת תשי"ג.
+
+ היתה פעילה באגודת "עזרת נשים" - הראשונה לעזרה סוציאלית ביפו.
+
+ נישאה ל<persName>יעקב פבזנר</persName> (ראה כרך ג', עמוד 1446),
+
+ בנותיה: <persName>בת ציון</persName> אשת<persName> נח אלינסון, דינה</persName> אשת<persName> מרדכי</persName> <persName>סתר</persName> .
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטרה י"ז שבט תשכ"ח (16.2.68) (ראה כרך שביעי, עמוד 2454)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2454 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2454</bibl>            <bibl>Volume: #17 ,Page: 5246 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5246</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

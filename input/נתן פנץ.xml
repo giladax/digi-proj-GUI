@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2110 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2110</bibl><bibl>Volume: #5 ,Page: 2111 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2111</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נתן פנץ</persName>
+
+</head>
+         <div><p> נולד בויטבסק, רוסיה הלבנה, י"ב תשרי תרע"ח (15.10.1917), לאביו <persName>יהודה</persName> (גואל קרקעות בתל-אביב
+
+ מידי הערבים ומיסד שכונת כרמיה ועוד) ולאמו <persName>שרה </persName> בת<persName> משה פרקט.</persName>
+
+ בינואר 1921 עלה ארצה עם הוריו. למד בגימנסיה הרצליה ואח"כ ב"נורדיה'' ובה גמר בתרצ"ח, ולאחר זמן נתקבל לעבודה קבועה בפקידות עירית ת"א.
+
+ עוד בביה"ס נתגלה כספורטאי מוכשר, ביחוד בכדורגל ומ-1933 ואילך שיחק במכבי תל-אביב. ב-1936 יצא עם משלחת המכבי למסע תחרויות בארה"ב וזכה שם לפרסום רב לשבח בעתונות הספורט. כשחזר השתתף בנבחרת הארץ נגד הקבוצה האורחת המפורסמת "אדמירה" מוינה. ב-1938 יצא בנבחרת הארץ ליון לשחק נגד נבחרת יון בתחרות האזורית על הגביע העולמי בכדורגל.
+
+ ב-1939 הצטרף לתנועה המדינית-החינוכית של בית"ר וגם לאיגוד הספורט שלה. ואם כי היה כבר "כוכב" במקצועו והקבוצה הצעירה של בית"ר היתה לפי דרגתה רק בליגה ב', לא היסס לשחק בה; והודות להתמסרותו באימון החברים ולטיפולו רב-הנסיון בכל הענינים הקטנים והגדולים, שצירופם מביא הישגים בספורט, עלה בידו להעלות את רמת אגודתו וקבוצתו עד כי אחרי שנתים עלתה לליגה א'. המשיך לשחק בקבוצת בית"ר ועזר בהרבה להשגת נצחונותיה, וכן שקד על עזרה לחברים בסידורים בעבודה וכדומה ויצירת יחסי-חברה הוגנים בין הספורטאים. כתב מאמרים על ספורט בעתונות.
+
+ היה פעיל במחתרת של הארגון הצבאי הלאומי, ובהשתתפו בהתקפת אצ"ל על יפו נפל ביום י"ט ניסן תש"ח - 28.4.48.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2110 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2110</bibl><bibl>Volume: #5 ,Page: 2111 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2111</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

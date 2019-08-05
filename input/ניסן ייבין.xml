@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3626 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3626</bibl><bibl>Volume: #10 ,Page: 3627 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3627</bibl>
+<bibl>Volume: #10 ,Page: 3628 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3628</bibl>
+<bibl>Volume: #10 ,Page: 3629 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3629</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ניסן ייבין</persName>
+
+</head>
+         <div><p> נולד בטורספול (רוסיה), י"ז חשון תרכ"ו (סוף 1865).
+
+ לאביו<persName> אברהם</persName> (מצאצאי ר' יעקב יוסף בן יהודה מאוסטראה, תלמיד הבעש"ט. וצאצאיו קראו את שם משפחתם על פי ראשי התיבות של שמו:<persName> ייב"י </persName> - כנ"ל) ולאמו <persName>חנה</persName> בת ר'<persName> פנחס זלינגר</persName> .
+
+ קיבל חינוך מסורתי וכללי בבית לפי תכנית בית ספר ריאלי.
+
+ היה בעל השכלה ובקי בכל חדרי היהדות.
+
+ היה בעל עסק ברוסיה.
+
+ היה פעיל בעניני הציונות בעירו.
+
+
+ בשנת תרנ"ד (1894) נשא לאשת את <persName>אסתר</persName> בת <persName>שלמה</persName> <persName>יוניס </persName> (ראה בכרך זה).
+
+ בשנת תרס"ה (1905) שלח את אשתו, בנו ושתי בנותיו לארץ.
+
+ הוא עלה בשנת תרס"ה (1908) לארץ אחרי שחיסל את עסקיו.
+
+ שאיפתו היתה. להסתדר על הקרקע, רכש אחוזה בגדרה והתישבו במושבת הביל"ויים.
+
+ אחרי 5 שנות מגורים בגדרה עברו לתל-אביב. היה בין ראשוני בוני העיר ועסקניה.
+
+ ביתו הפך לבית פגישות עסקנים ותלמידי חכמים והיה מקובל ומכובד על כל אלה שנפגש ועבד עמהם עבודה צבורית.
+
+ נפטר בחיפה, כ"ו תמוז תשי"ג (9.7.1953).
+
+ צאצאיו: פרופ' <persName>שמואל ייבין</persName> (ראה כרך ד', עמוד 1807), <persName>יהודית</persName> אשת <persName>יצחק זוטא</persName> , שולמית אשת <persName>חיים פנחס עמבור</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3626 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3626</bibl><bibl>Volume: #10 ,Page: 3627 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3627</bibl>
+<bibl>Volume: #10 ,Page: 3628 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3628</bibl>
+<bibl>Volume: #10 ,Page: 3629 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3629</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

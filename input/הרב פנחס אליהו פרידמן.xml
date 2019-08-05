@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4108 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4108</bibl><bibl>Volume: #12 ,Page: 4109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4109</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב פנחס אליהו פרידמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ווארשה</placeName> (פולין), י"ד אייר תר"ס (1900).
+
+ לאביו הרב<persName> יצחק פרידמן</persName> זצ"ל (ממשפחת הגאון ר' <persName>אריה ליב צינץ </persName> זצ"ל אב"ד ור"מ בק"ק פלאצק, והרבי <persName>שמחה בונם </persName> מפרשיסתיי זצ"ל) ולאמו חיה בת הרב <persName>משה שרגא קרפ</persName> זצ"ל.
+
+ קיבל חינוך מסורתי בישיבת "שערי תורה" ב<placeName>ווארשה</placeName> אצל הגאון החריף ר'<persName> צבי יאיר</persName> אב"ד בק"ק ריימיץ. למד אצל הגאון ר' <persName>אהרן מנחם מענדל</persName> זצ"ל האדמו"ר מראדזין, בישיבתו "אורחות חיים" ואצל הגאון י' <persName>אברהם וינברג</persName> זצ"ל הי"ד ב<placeName>ווארשה</placeName>, בעל המחבר בכורי אברהם, ואצל בעל חלקת יואב.
+
+ בשנת תרפ"א (1929) נשא לאשה את<persName> רבקה</persName> בת הרב <persName>משה מנחם סענדייק </persName> זצ"ל, אב"ד קינסק ב<placeName>ווארשה</placeName>. השתתף בבית דינו של הרב הגאון <persName>שלמה דוד כהנא</persName> זצ"ל ב<placeName>ווארשה</placeName>.
+
+ בשנת תרצ"ג (1933) עלה לארץ.
+
+ חבר בית הדין הרבני האזורי תל-אביב-יפו והמחוז. רב ודיין.
+
+ השתתף בבנין ובהקמת בית-הספר התורני "סיני", ובהקמת ישיבת "חידושי הרים" בתל-אביב.
+
+ סייע בהקמת מקוואות טהרה בישראל.
+
+ חבר פעיל במרכז לטהרת המשפחה לישראל בירושלים.
+
+ בנו; ר'<persName> אברהם יצחק פרידמן</persName> .
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4108 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4108</bibl><bibl>Volume: #12 ,Page: 4109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4109</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

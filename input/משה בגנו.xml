@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4002 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4002</bibl><bibl>Volume: #12 ,Page: 4003 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4003</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה בגנו</persName>
+
+</head>
+         <div><p> נולד ז' אדר תרע"א (14.3.1911) בקלצ'ב שבפולין. לאביו <persName>נחום ישראל הלוי</persName> ולאמו <persName>מאטה</persName> בת<persName> אליהו</persName> <persName>גרינבלאט.</persName>
+
+ למד בחדר ובישיבת "מתיבתא" בווארשה ואח"כ
+
+
+ עסק במסחר. היה פעיל בציונות הדתית כיו"ר הסניף המקומי של תנועת תורה ועבודה ומיסד בית-םפר דתי-לאומי בקלצ'ב.
+
+ עלה לארץ ערב ראש שנת תרצ"ה (ספטמבר 1934) והתחיל עובד בתור פועל בפרדסי חדרה.
+
+ בשנת תרצ"ז (1937) נשא לאשה את<persName> מינקה</persName> בת הרב <persName>מנחם טננבוים.</persName>
+
+ באותה שנה נתמנה למזכיר סניף הפועל המזרחי בחדרה, אח"כ סגן מזכיר לשכת העבודה הכללית לפועלי חדרה. משנת תש"ב מזכיר הפועל המזרחי בבני-ברק, אח"כ גזבר לשכת העבודה הכללית שם. נבחר ברשימת מפלגתו למועצת העיריה ומשנת תשי"א (1951) היה סגן ראש העיר בפועל, ועם פרישת ראש-העיר המיסד ר'<persName> יצחק גרשטנקורן</persName> (ז"ל) בא במקומו לראשות העיר. אח"כ שוב סגן ראש העיר, ובשנים 1959-1957 ראש העיר עד לבחירות. אח"כ ממלא מקום וסגן ראש העיר בפועל וראש המחלקות לחינוך, עבודות ציבוריות ותברואה, וממרס 1961 שוב ראש העיר. יתר תפקידיו: יו"ר הנהלת בנק הפועל המזרחי בבני-ברק, חבר ההנהלה בסניף המקומי של המפלגה הדתית-לאומית וחבר מרכז המפלגה, יו"ר הסניף המקומי של אילנשי"ל-פוליו.
+
+ צאצאיו: <persName>מנחם אליהו, שרה, יצחק.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4002 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4002</bibl><bibl>Volume: #12 ,Page: 4003 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4003</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

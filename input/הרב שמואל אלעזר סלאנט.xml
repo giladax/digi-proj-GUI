@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4451 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4451</bibl><bibl>Volume: #14 ,Page: 4452 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4452</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שמואל אלעזר סלאנט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בכ"ח תשרי תרפ"ב (30.10.1921).
+
+ לאביו רבי<persName> ישעיהו סלאנט</persName> (ראה בכרך זה) שהיה נכד הרב <persName>שמואל סלאנט </persName> (רבה של ירושלים, ראה כרך ראשון, עמוד 284) ולאמו <persName>בילה צירל</persName> בת רבי <persName>שמואל אלעזר וורטמן.</persName>
+
+
+ קבל חנוכו בישיבות עץ חיים וחברון, מהעילויים המצטיינים בישיבות הנ"ל. מוסמך לרבנות על ידי הרבנים הראשיים הרצוג ועוזיאל זצ"ל.
+
+ בעל השכלה רחבה ושולט בבמה שפות.
+
+ מנהל ארגון השבת. מנהל גמ"ח ע"ש<persName> גולדווירט.</persName>
+
+ מכהן כרב בבית הכנסת מדרש יבנה.
+
+ מזכיר ומנהל התעמולה של הצדקות המאוחדות "עץ החיים" ו"בקור-חולים" משנת תש"ה (1945).
+
+ מורה ללמודי חול בישיבת "עץ חיים".
+
+ מפעם לפעם מפרסם מאמרים בעתונות.
+
+ נשא לאשה את <persName>נעמי</persName> לבית <persName>מקלב</persName> (מראשוני פתח-תקוה ומוצא) בשנת תש"ט (1949).
+
+ בנותיו: <persName>בלהה, חנה ולאה מרים.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4451 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4451</bibl><bibl>Volume: #14 ,Page: 4452 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4452</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

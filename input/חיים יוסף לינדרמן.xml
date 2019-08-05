@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5463 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5463</bibl><bibl>Volume: #18 ,Page: 5464 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5464</bibl>
+<bibl>Volume: #18 ,Page: 5465 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5465</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים יוסף לינדרמן</persName>
+
+</head>
+         <div><p> נולד בלוביץ (פולין) בשנת תרמ"ח (1888).
+
+ לאביו ר' <persName>מנחם מנדל הכהן</persName> ולאמו <persName>גיטל.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבת הרבי מסוחוצוב.
+
+ עסק במסחר עורות מעובדות.
+
+ לרגלי זה שנקרא לשרת בצבא הרוסי נסע לארצות-הברית ועסק שם במסחר בשיקאגו.
+
+ נשא לאשה את <persName>מינדל </persName> בת ר' <persName>יואל ופייגה גיטל</persName> <persName>אורבאך</persName> מחסידי קוצק (הושמדה בשואה) ובזיווג שני נשא לאשה את <persName>חנה</persName> בת ר' <persName>יצחק רוזנקרנץ.</persName>
+
+ בשנת תרע"ט (1919) עלה לארץ עם קבוצת חברים שרכשו כרמים בני 50 דונם כ"א בערך במושבה פוריה בקרבת טבריה.
+
+ באותה שנה פרצו מאורעות בצפון הארץ והם עמדו במיבחן. לחמו והגנו על המקום.
+
+ אחרי שהוצאות עיבוד הכרמים עלו ביוקר ולא הצליחו להתקיים ממשק זה, מסרו את הכרמים לקרן הקיימת, וחבריו חזרו לארצות-הברית. הוא התיישב בתל-אביב והיה הראשון שהניח את היסוד לתחבורה בין יפו-ת"א - לירושלים וחזרה ע"י זה שהביא 4 אוטובוסים בני 12-11 מקומות (לפניו הובאו כמה מכונות טקסי) ויסד את חברת אקספרס מזרחי
+
+
+ אחרי שנוסדו חברות תחבורה והובאו אוטובוסים נוספים, החל להפסיד בעסקיו, ובשנת תרפ"ד (1924) חזר לארצות-הברית.
+
+ חזר לעסקיו והיה פעיל באגודת "בני ארץ-ישראל" ובאירגונים ציוניים אחרים.
+
+ כמה מבניו שלח לארץ וחיים בה עד היום.
+
+ נפטר בשיקאגו, כ"ד תמוז תש"ו (23.7.1946). גופתו הובאה לקבורה בשנת תש"ז (1947) בירושלים.
+
+ צאצאיו מאשתו הראשונה):<persName> יהודה</persName> (מראשוני חברי "הגה" ואח"כ "אגד"); <persName>אברהם.</persName>
+
+ מאשתו השניה:<persName> דוד, הדסה, ברכה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5463 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5463</bibl><bibl>Volume: #18 ,Page: 5464 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5464</bibl>
+<bibl>Volume: #18 ,Page: 5465 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5465</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

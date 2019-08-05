@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1724 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1724</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן דיסקין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>שומיאץ</placeName> (רוסיה) בשנת תרי"ז (1857) לאביו <persName>יהושע זליג</persName> (רב ידוע שם, גייר גרים רבים ברוסיה והעלה אותם לארץ ישראל).
+
+ אחיו ר' <persName>שמעון משה דיסקין </persName> אב"ד דלוחוביץ, היה
+
+ אחד הדרשנים המפורסמים בדורו (נולד בשנת תרל"ב, נפטר בשנת תרצ"א. בנו הוא הרב <persName>י. ז. דיסקין</persName> בפרדס חנה). 
+
+ אביו זקנו היה שאר בשרו של<persName> ר' ליב חסיד</persName> מסלונים אביהם של הרבנים <persName>ר' בנימין דיסקין ור' משה יהושע</persName> <persName>יהודה ליב דיסקין</persName> מבריסק, אח"כ בירושלים (ראה כרך א' עמוד 565).
+
+ היה סוחר וחובב ציון נלהב ברוסלב (רוסיה). לאות הוקרה על פעילותו הציונית נרשם על ידי קהלתו בספר הזהב של הקק"ל.
+
+ עלה ארצה בשנת תרס"ו (1906) והתישב ביפו. קנה מגרשים ובנה בתים ברח' יהודה הלוי בתל-אביב.
+
+ בשנת תרע"ה נשא לאשה את<persName> דבורה</persName> לבית <persName>קלמנוביץ.</persName>
+
+ עסק בצרכי צבור רבים. כל ימיו גבאי בחברה קדישא. מבונה הגדר מסביב לבית הקברות הישן ביפו. חלקו רב ברכישת הקרקע לבית הקברות הישן בתל-אביב. אחד ממיסדי בית הכנסת הגדול ומושב הזקנים בת''א.
+
+ יחד עם זאת קובע גם עתים לתורה ולא כשומע בלבד, אלא גם כמגיד שעורים.
+
+ בימי מלחמת העולם הראשונה הוא גולה לזכרון יעקב ואף שם בגלותו איננו פוסק מעסקנות בצרכי צבור דתיים וסוציאליים.
+
+ נפטר ללא צאצאים אחריו, בתל-אביב, כ"ד אייר תרצ"ו (16.5.1936).
+
+ השאיר אחריו כתב יד בדרוש. 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1724 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1724</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

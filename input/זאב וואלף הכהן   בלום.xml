@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1716 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1716</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זאב וואלף הכהן - בלום</persName>
+
+</head>
+         <div><p> נולד במוינשטי, מולדבה, רומניה, בשנת תרס''ו (1853) לאביו <persName> שמשון.</persName>
+
+ קיבל חינוך מסורתי ועסק במסחר תבואות.
+
+ בהיותו כבר מטופל במשפחה הצטרף בשנתו ה-28 ל"חברת ישוב א"י", על ידי עבודת אדמה שנוסדה בעירם ביזמתם של מ.ד. שוב ומ. גרינברג, וארגנה 30 משפחות - כ-130 נפש במקום, להתנחל על הקרקע כאכרים בא"י.
+
+ יצא עם משפחתו בסוף חודש אב תרמ"ב עם השיירה הראשונה של 30 משפחות לעיר הנמל גלץ, שם נספחו אליהם עוד 20 משפחות מטעם הועד המרכזי של אגודות חובבי-ציון בגלץ. הפליגו באניה "טיטוס" דרך קושטא - בירות לחיפה, להתישב על אדמת הכפר ג'יאוני בגליל העליון שנרכשה ע"י צירם מ. ד. שוב (ביום ח' באב תרמ"ב).
+
+ לרגלי מעוט האדמה בג'יאוני, נקנתה עבור 20 המשפחות מגלץ אדמת הכפר זמרין (זכרון יעקב) בשומרון, הם נפרדו מהחבורה ונשארו בחיפה.
+
+ חבורת המוינשטים המשיכה בדרכה לצפת, בקרבת נחלתם והגיעו לשם בימים האחרונים של אלול תרמ"ב.
+
+ השתתף במוצ"ש, שבת תשובה, באספת המייסדים הראשונה של המושבה, שניתנה לה השם <persName>ראש-פנה</persName> ,
+
+ לפי הצעתו של מ.ד. שוב, באשור התקנות ובבחירת הועד הראשון של המושבה (מאטיל כץ - ראש הועד וגזברו, משה דוד שוב - סופר ומזכיר הועד, העניך בערגמאן, דוד בוקששתיר, ישראל גולדנברג ודניאל בענדיל, יעקב עבו - הקונסול הצרפתי, נשיא כבוד ואחיו יצחק עבו - חבר כבוד), חתום השלישי על על אישור התקנות.
+
+ השתתף עם משפחתו ביסודה ובבנינה של המושבה ראש פנה. נשא את סבלם של הראשונים והתקשר בקרקע המולדת ועבד אותה במסירות. שרת את הצבור כמוכתר המושבה במשך כמה שנים וחינך את ילדיו לעבודה ולדבקות באדמת המולדת. השתתף ביסוד החברה "זרע אברהם" (ע"ש הברון אברהם בנימין עדמונד רוטשילד) לעזרה הדדית ולשפור המדות במושבה, (תקנותיה עובדו וסודרו ע"י אברהם העברי גר צדק ערבי).
+
+ נפטר בראש פנה, ט"ז תשרי תרע''ב. רעיתו <persName>מאליה </persName> היתה עזר כנגדו בעבודת המשק
+
+ והבית, נדיבת רוח ועוזרת לזולת בעת צרה. האריכה ימים עוד 34 שנה אחריו ולא עזבה את המקום שעמלה ביסודו ובבנינו וזכתה לראות בני רבעים.
+
+ נפטרה בת 88 שנה בראש פנה, כ"א חשון תש"ו.
+
+ צאצאיו: <persName>יעקב, יצחק </persName> (נרצח ע"י ערבי בכ"ט אייר הרס"ט ביבנאל), <persName>שמשון </persName> (נתניה), <persName>יפה, רוניה, פסיה,</persName> <persName>אהובה, ברכה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1716 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1716</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5612 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5612</bibl><bibl>Volume: #19 ,Page: 5613 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5613</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלכסנדר זיסקינד</persName>
+
+</head>
+         <div><p> נולד ב<placeName>בריינסק</placeName> (פולין), כ"ט כסלו תרמ"א (סוף 1880).
+
+ לאביו <persName>פנחס זיסקינד </persName> ולאמו <persName>חיה מייטע.</persName>
+
+ קיבל חינוך מסורתי בישיבות הגדולות בביאליסטוק.
+
+ בשנת 1901 והוא כבן 20 עלה לארץ.
+
+ המשיך ללמוד בישיבה ומשנת 1906 בישיבת "תורת חיים" בירושלים.
+
+ נשא לאשה את <persName>פריידה</persName> בת <persName>ר' יהושע</persName> (יעלין) <persName>העלפמאן </persName> (בת אחיו של ר' <persName>אריה ליב יעלין,</persName> מחבר "יפה עיניים" על התלמוד. נפטרה בירושלים, י"ב חשון תשכ"ב (22.10.1961).
+
+ כתב מאמרים בעתון "החרות" בירושלים, על המצב הפוליטי במצרים.
+
+ היה מהחלוצים הראשונים שהוציאו את קבלנותהבניה ממסגרתה הצרה הישנה דאז, שהצטמצמה בזמנו (על פי רוב ע"י בעלי מקצוע ערבים) רק בבניית בתים בקבלנות בשביל מזמינים. הוציא לפועל מפעלי
+
+
+ בניין גדולים, שמימן אותם בכוחות עצמו, ורק לאחר השלמת בנייתם מכרם ומסרם לקונים יחידים. בזה נתן דחיפה ניכרת להתקדמות הבנייה הפרטית בירושלים ואפשרות נוחה לבני-ירושלים לרכוש לעצמם בתים ודירות בבתים משותפים.
+
+ הכניס שכלולים בטיב הבניינים עצמם, שהיו חידושים לבני ירושלים.
+
+ הקים את שכונת "אבן יהושע" על שם חותנו<persName> ר'</persName> <persName>יהושע </persName> (יעלין) <persName>הפלמאן.</persName>
+
+ היה מראשוני הבונים בשכונות: גאולה, כרם אברהם ורחביה.
+
+ היה מבוני ירושלים וממרחיביה.
+
+ כל ימים קבע עיתים לתורה. בשנותיו האחרונות קבע לעצמו שיעור - בעיון ב"מנחת חינוך" והיה מוסר את חידושם, לאחר התפילה, בפני הגאון מצ'יכון, בבית הכנסת "אגר"א" בשכונת שערי חסד, שהיה גם אחד מגבאיו.
+
+ השקיע הרבה מזמנו וממרצו לתיקון ושיכלול בית הכנסת והמיקווה, שלא על מנת לקבל פרס.
+
+ נפטר בירושלים, כ' תשרי תשי"ח (14.11.1957) והובא לקבורה בהר המנוחה.
+
+ בנותיו: <persName>מתילדה</persName> אשת <persName>אברהם חיים דינוביץ</persName> (ראה כרך י"ז, עמוד 5181; <persName>שרה</persName> אשת הרב <persName>שלום שכנא</persName> <persName>ילין; רבקה זיסקינד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5612 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5612</bibl><bibl>Volume: #19 ,Page: 5613 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5613</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

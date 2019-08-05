@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4195 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4195</bibl><bibl>Volume: #13 ,Page: 4196 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4196</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר משה מישורי (מישורובסקי)</persName>
+
+</head>
+         <div><p> נולד ז' תשרי תר"ע (ספטמבר 1909) באנאניוב שבפלך חרסון, אוקראינה.
+
+ לאביו המחנך העברי <persName>חיים מישורי </persName> (אז <persName>מישורובסקי </persName> ראה כרך ג', עמוד 1131) ולאמ<persName>ו ברכה </persName> בת <persName>בנימין</persName> <persName>רובצינסקי.</persName>
+
+ משחר ילדותו דיבר עברית, שהיתה השפה השלטת בבית הוריו.
+
+ לרגל הפרעות ב-1919 באוקראינה נמלט עם המשפחה בסכנת נפשות לבסראביה, שהשתייכה אז לרומניה, וב1924 הגיע עם המשפחה לארץ.
+
+
+ למד בבית-הספר "תחכמוני" בתל-אביב, המשיך בביתהספר הריאלי "תחכמוני", וכבר אז הצטרף ל"הגנה". בלמדו באוניברסיטאות לונדון וג'ניבה היה מפעילי האר
+
+ גונים של הסטודנטים היהודים והציוניים. הוסמך לרופא שיניים ומנתח וחזר לארץ.
+
+ ב-1937 נשא לאשה את <persName>אסתר</persName> בת ד"ר <persName>אברהם ויסוצקי</persName> .
+
+ עבד בפרקטיקה פרטית ושנים רבות עמד בראש אגודת רופאי השיניים וערך את בטאונה.
+
+ במלחמת הקוממיות פעל בשרות הרפואי של צה"ל בדרגת רב-סרן, אירגן וניהל בו בהיקף ארצי את המחלקה לרפואת הפה והשיניים, ואף אחרי שחרורו מהצבא ב-1950 המשיר לשרת יומיים בשבוע בניתוחי לסת בחלק הצבאי של בית-החולים תל-השומר.
+
+ השתתף בפעילות ביסוד בית-הספר לריפוי-שיניים ליד בית-הספר לרפואה של האוניברסיטה העברית והדסה, והיה ממדריכי המחזור הראשון בו.
+
+ נפטר בתל-אביב, כ"ב תמוז תשכ"ב (24.7.1962).
+
+ בניו:<persName> יהונתן, אלכסנדר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4195 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4195</bibl><bibl>Volume: #13 ,Page: 4196 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4196</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

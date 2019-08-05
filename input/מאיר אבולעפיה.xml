@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4000 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4000</bibl><bibl>Volume: #12 ,Page: 4001 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4001</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר אבולעפיה</persName>
+
+</head>
+         <div><p> נולד ב<placeName>טבריה</placeName> בשנת תרמ"ד (1884). לאביו ר<persName>' בכור יחזקיהו </persName> ולאמו<persName> שרה </persName> בת ר' <persName>אברהם</persName> <persName>סמאגה.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה. למד שפות בביה"ס אליאנס.
+
+ בשנת תרס"ג (1903) נשא לאשה את<persName> מזל</persName> בת<persName> יוסף</persName> <persName>ממן</persName> מצפת.
+
+ נסע בשליחות חברת "עוזר דלים" לחו''ל.
+
+ מוכתר העדה ב<placeName>טבריה</placeName> עוד מימי שלטון המנדט.
+
+ יו"ר חברה קדישא.
+
+ פעיל בעניני העדה הספרדית ב<placeName>טבריה</placeName>.
+
+ צאצאיו:<persName> יעקב אברהם- שרה, ציונה, רבקה, שמחה,</persName> <persName>ברכה.</persName>
+
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בטבריה, ה' ניסן תשכ"ה (7.4.65) (ראה כרך י"ב, עמוד 4000)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4000 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4000</bibl><bibl>Volume: #12 ,Page: 4001 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4001</bibl>
+            <bibl>Volume: #15 ,Page: 4803 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4803</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

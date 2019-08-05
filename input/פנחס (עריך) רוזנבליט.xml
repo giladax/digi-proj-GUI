@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4097 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4097</bibl><bibl>Volume: #12 ,Page: 4098 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4098</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פנחס (עריך) רוזנבליט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ברלין</placeName> (גרמניה), א' אב תרס"ו (23.3.1906).
+
+ לאביו<persName> דוד רוזנבליט </persName> ולאמו <persName>חוה </persName> בת<persName> מנדל ברקני.</persName>
+
+ קיבל חינוך מסורתי וכללי. בבי"ס תיכון ב<placeName>ברלין</placeName>, בישיבת <persName>ברויאר</persName> בפרנקפורט, בבית מדרש לרבנים ב<placeName>ברלין</placeName>, באוניברסיטאות : ברלין ופרנקפורט.
+
+ קיבל תואר ד"ר (פיל.).
+
+ היה מורה בבתי ספר יהודיים.
+
+ היה ראש החוג הא"י בתנועת "עזרא" בגרמניה, בין מייסדי עליית הנוער הדתי בחו"ל ובארץ.
+
+ היה חבר המועצה המרכזית של יהודי גרמניה, הנהלת ברית חלוצים והשתתפות במכון להשכלת המבוגרים בגרמניה.
+
+ בשנת 1934 עלה לארץ.
+
+ נשא לאשה את <persName>מתילדה </persName> בת<persName> יוסף רוטנברג.</persName>
+
+ היה חבר בקבוצת רודגס ויבנה, חבר במזכירות הקיבוץ הדתי ובוועד הפועל של הפועל המזרחי.
+
+ הדריך נוער עולה.
+
+ ריכוז ועדת עליית הנוער הדתי ופיקוח חינוכי בה, מרצה באוניברסיטה בר-אילן.
+
+ חבר הוועד הפועל של המפלגה הדתית-הלאומית.
+
+ מנהל בי"ס התיכון החקלאי, מורה בבית מדרש למורות - גבעת ושינגטון.
+
+ כל השנים חבר ההגנה. משנת 1948 במלואים.
+
+ היה ציר בקונגרסים הציוניים : כ' וכ"א.
+
+ כתב מאמרים ביודישע רונדשוי בגרמניה, הצופה, הארץ, נתיבה, מולה מאזניים, דעות, ובקבצים רבים, כמו: יבנה, מצפה, מעינות, מחניים וכו'.
+
+
+ פירסם באנציקלופדיה חנוכית, כרך א' - "חנוך האזרח".
+
+ צאצאיו :<persName> חוה </persName> אשת <persName>אליעזר רחמן</persName> <persName>, דוד רוזנבליט,</persName> <persName>משה רוזנבליט.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4097 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4097</bibl><bibl>Volume: #12 ,Page: 4098 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4098</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

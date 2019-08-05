@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4272 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4272</bibl><bibl>Volume: #13 ,Page: 4273 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4273</bibl>
+<bibl>Volume: #13 ,Page: 4274 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4274</bibl>
+<bibl>Volume: #13 ,Page: 4275 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4275</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אברהם הלל גולדברג</persName>
+
+</head>
+         <div><p> נולד בסקידל, מחוז גרודנה (פולין), א' שבט, תר"ע (11.1.1910).
+
+ לאביו הרב<persName> יצחק גולדברג</persName> (ת"ח גדול ובעל מידות מצויינות. שימש בעיר סקידל כשו"ב כארבעים שנה) ולאמו<persName> לאה</persName> בת ר' <persName>הלל זאב עמיאל</persName> (שאר בשרו של הרב הראשי ביפו-ת"א, הרב<persName> מ. א. עמיאל</persName> (ראה כרך א', עמוד 201).
+
+ קיבל חינוך מסורתי אצל אביו וגדולי התורה בעיר מולדתו. למד בישיבות הגדולות בקוברין בראשותו של הגאון ר'<persName> פסח פרוסקין</persName> זצ"ל ובישיבת "שער-התורה"
+
+ בראשותו של הגאון הנודע ר' <persName>שמעון שקופ </persName> זצ"ל, מחבר ספר "שערי יושר". זכה לשמש את גאון הדור
+
+ בעל ה"חפץ חיים" זצ"ל. הוסמך לרבנות ע''י גדולי התורה בחו"ל ובראשם הגאון ר' <persName>שמעון שקופ</persName> זצ"ל ובארץ ע"י גדולי התורה ובראשם הרב הראשי לפתחתקוה ר'<persName> ראובן כץ </persName> (ראה כרך ג', עמוד 1490).
+
+ היה ר"מ בישיבה ומורה לתלמוד בבית-הספר.
+
+ אירגן שיעורים לתורה ומחשבת ישראל לנוער ובעיקר לפועלים והקים וניהל ישיבה קטנה בעיר מולדתו.
+
+ היה עסקן חינוך בגלילות הספר בפולין, מנהלו של בית-ספר יסודי דתי "תורה ודעת" ששפת ההוראה שלו היתה עברית, אירגון הנוער החרדי לעלייה.
+
+ השתתף בקרנות ומפעלים למען א"י והיה חבר הנהלה של מוסדות חסד ידועים.
+
+ עלה לארץ בשנת תש"א (1941) לפי דרישה מ"ישיבת הרב קוק" בירושלים.
+
+ בשנת תש"ו (1946) נשא לאשה את <persName>יוכבד </persName> בת הרב <persName>אליעזר פנחס טהורי.</persName>
+
+ הרב המקומי ב"כפר פינס", מושב עובדים של "הפועל המזרחי" (הקיים זה 30 שנה).
+
+ פעיל בחיי הכפר, פיתוחו, הדרכתו ועיצוב דמותו הרוחנית.
+
+ חבר המרכז של חבר הרבנים ע"י הפועל המזרחי בישראל.
+
+ חבר המרכז הארצי של האירגון למען השבת בישראל.
+
+ נתן הרצאות תורניות, חינוכיות ושיעורים בעיון בישיבת "ירחי כלה" בפתח-תקוה.
+
+ היה חבר ההגנה (פלוגה דתית בפתח-תקוה). השתתף במלחמת השחרור ושירת בשירות סדיר בצה"ל.
+
+ כתב ופירסם בקביעות מאמרים בעתונות הדתית בחוץ-לארץ: "דרכנו" (ורשה), "דאס ווארט" (וילנה). ובארץ : "היסוד", "המודיע", "שערים", "דגלנו" ועוד. כמו כן פירסם חידושי תורה בקובצים שונים.
+
+ ספרים: "עמוד החסד" (כתוספת לספר "אהבת חסד". תשי"ד, תש"ך), "פה קדוש" (כתוספת לספר "שמירת הלשון". תשט"ו).
+
+ צאצאיו: <persName>יצחק, יוסף, יהושע, לאה, צבי.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4272 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4272</bibl><bibl>Volume: #13 ,Page: 4273 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4273</bibl>
+<bibl>Volume: #13 ,Page: 4274 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4274</bibl>
+<bibl>Volume: #13 ,Page: 4275 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4275</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 710 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/710</bibl><bibl>Volume: #2 ,Page: 711 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/711</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה לרר</persName>
+
+</head>
+         <div><p> נולד באודיסה, בשנת תרכ"ט (1869), לאביו <persName>ראובן</persName> ולאמו <persName>פייגה</persName> לבית <persName>פיינשטיין</persName> . למד ב"חדר", ואביו, שהיה ממשפחת בני תורה מפולין, אלא שהוא עצמו הובא בילדותו לדרום רוסיה להצילו מפני ה"חוטפים" ונתגדל בסביבה של ממעטים בלימוד תורה, שאף להשלים בבנו מה שהחסיר בעצמו ושלח אותו לישיבה, ואח"כ הכניס אותו לעבודה בניהול המשק, באחוזה שקנה לו בכפר כריסטו-יאנובקה ליד אודיסה, ושם התמחה בנטיעת גפנים, בטיפול בבהמות ועופות ובגידול דגנים.
+
+ כשהחליף ר'<persName> ראובן לרר</persName> עם הגרמני <persName>רייסלר</persName> את אחוזתו שליד אודיסה תמורת פרדס ואדמה בואדי חנין ועלה ארצה בתרמ"ג לקבל את הנחלה לרשותו,
+
+
+ לקח אתו את בנו <persName>משה</persName> , וזה עור לו בקביעת גבולות הנחלה ובהתחלת העיבוד. וכשיצא ר' ראובן לרוסיה להביא את בני ביתו השאיר את בנו לנהל את המשק.
+
+ משבאה בל המשפחה נשא משה בעול העבודה לעזרת אביו הקשיש, הקים את הישוב הראשון בשם נחלת ראובן, ואח"כ היה יד ימינו של אביו בחלוקת קרקע לשיכון בשביל פועלי היקב מראשון לציון,
+
+ בנטיעת כרמים ופרדסים, בפיתוח המכוורת שדבשה נתפרסם לתהלה אף באירופה ובאמריקה ; ובן בפעולות לעזרת בוני המושבה נס ציונה. ומיזוג נחלת ראובן בתוכה לישוב חקלאי אחד. השתתף בפעולות הצבוריות של המושבה וכמה פעמים נבחר לועד.
+
+ נפטר בנס ציונה, כ' שבט תרצ"ד.
+
+ צאצאיו:<persName> יעקב, אריה, חוה</persName> אשת אלכסנדר ליבשיץ, <persName>שרה</persName> אשת נחום פלוטקין, <persName>דבורה</persName> אשת ישראל היימן, <persName>לאה</persName> אשת שמואל יוקלסון,<persName> מרדכי, מאיר, יוסף</persName> , <persName>ראובן</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 710 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/710</bibl><bibl>Volume: #2 ,Page: 711 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/711</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

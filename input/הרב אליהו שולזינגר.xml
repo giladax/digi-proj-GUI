@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4345 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4345</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אליהו שולזינגר</persName>
+
+</head>
+         <div><p> נולד בקופיציניץ (גליציה) בשנת תרל"ח (1878). לאביו ר'<persName> משה נח שולזינגר</persName> (יליד טירוספול, רוסיה) ולאמו <persName>חיה</persName> בת <persName>אהרן בנימין זאב מאירסון.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה והוסמך לרבנות. בעיר צ'רנוביץ (רומניה) שימש במשך 42 שנה בתור שוחט, דיין ורב. בבוקרסט (רומניה)- שירת בתור רב באגודת החרדים במשך שנה.
+
+ בשנת תר"ס (1900) נשא לאשת א<persName>ת זיסל </persName> בת <persName>אליעזר</persName> <persName>דב שכטר.</persName>
+
+ בשנת תש"ח (1948) עלה לארץ.
+
+ רב בשיכון ג', בבני-ברק.
+
+ מחבר הספר "יד-אליהו" (הופיעו שני חלקים. כרך ג' כטיפול). קיבל פרס הרב קוק.
+
+ מחסידי ותיקי סדגורא. ידיד וחסיד האדמו"ר פרידמן (ראה בכרך זה, בעמודים 54188-418).
+
+ צאצאיו: <persName>אליעזר שכטר</persName> (סגן ראש עירית תל-אביב, ראה כרך ה', עמוד 2201),<persName> חיה</persName> אשת ד"ר<persName> משולם שפסר</persName> ברמת-יצחק.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4345 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4345</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

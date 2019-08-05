@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 956 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/956</bibl><bibl>Volume: #2 ,Page: 957 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/957</bibl>
+<bibl>Volume: #2 ,Page: 958 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/958</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יהושע קניאל </persName>
+
+</head>
+         <div><p> נולד בקוזניצה, פלך גרודנה, פולין-רוסיה הלבנה, כ"א סיון תרנ"ו (1896), לאביו הרב המקובל ר' <persName>ישראל זליג</persName> (מלומדי ישיבת המקובלים "שער השמים" בירושלים, מצאצאי הב"ח) ולאמו<persName> איידל</persName> בת ר'<persName> פנחס</persName> <persName>קוטוק</persName> (אדריכל ממשלתי, גבאי ומגיד שיעורי ש"ס בבית-הכנסת הגדול בגרודנה). 
+
+ אחרי ראשית לימודיו בחדרים בחו"ל עלה ארצה עם הוריו בתרס"ו, למד בישיבת "עץ חיים" בירושלים, ירד ליפו ולמד בישיבת הרב<persName> אברהם יצחק</persName> <persName>הכהן קוק</persName> ולמד ממנו את דרכי הקשרים בין נושאי דגל התורה ובין בוני הישוב החדש.
+
+ באלול תרע"ו נשא לאשה את<persName> דינה</persName> בת הרב <persName>יעקב שפירא</persName> מקובנה, שבהמלצת הגאון ר'<persName> יצחק</persName> <persName>אלחנן </persName> קיבלהו הרב הראשי ר' <persName>שמואל</persName> <persName>סלנט</persName> לשוחט בירושלים והיה מראשוני השד"רים לאפריקה הדרומית לטובת מוסדות ירושלים.
+
+ אחר מלחמת-העולם הראשונה למד בישיבת המצוינים בירושלים, ומשחזר הרב <persName>קוק</persName> זצ"ל מגלותו והניח את היסוד לישיבת "מרכז הרב" בירושלים, היה הוא מראשוני האברכים הלומדים בה והרב היה נותן לו יום-יום שיעורים ביחידות והוסמך לרבנות על-ידי הרב ואחרים מגדולי הדור.
+
+ בתרפ"ב נתמנה לחבר הרבנות של קהלת חיפה. בתרפ"ה נתמנה לחבר הרבנות בטבריה, אך בגלל התנגדות "אגודת ישראל" ליסוד משרד רבנות בטבריה שיהא קשור לרבנות הראשית של כנסת ישראל ויתר על המינוי כדי להמנע ממחלוקת ונשאר בחיפה, וכחניכו של הרב קוק זצ"ל ידע ליצג את כבוד התורה
+
+ בהופעה נאה ובעברית יפה אף בחוגי הישוב החדש והחדיש ביותר, ועם גידול הישוב העברי בעיר והתוספות אנשי תורה ודת בתוכה התרחב חוג השפעתו ופעולתו כאחד המיסדים ונשיא הכבוד של חברת גמילות חסדים, ראש הועד המפקח המקומי על החינוך הדתי, ממיסדי ביה"ס לבנות "מזרחי", נשיא המגבית לעזרת יהודי רוסיה ואוקראינה, מראשי המגבית לעזרת
+
+
+ יהודי פולין (במלחמת-העולם השנית), נשיא אגודת ידידי בתי-הספר "נצח ישראל", נשיא הכבוד של ועד בנין בית-הכנסת "הדרת קודש", חבר ועד הבנין של ישיבת "תפארת ישראל", חבר ועד הבנין של ביתהכנסת המרכזי, נשיא הכבוד לאגודת "לאסירינו" בחיפה ומבקר את העצורים והאסירים לשם עזרה ועידוד לקראת החגים ובעתות צרה, מפעילי "המזרחי" בארץ, ציר בועידותיו וחבר בהנהגתו, נשיא הכבוד של "המזרחי" בחיפה ועוזר למפעלי הפועל המזרחי ו"בני עקיבא", נבחר פעמים לקונגרס הציוני ומטעמי בריאות לא נסע, נבחר בתש"ד לאספת הנבחרים. פרסם מאמרים ותשובות בספרים וירחונים ובעתונות. הכין בכתב-יד ספרים בחידושי-תורה בהלכה ובאגדה.
+
+ צאצאיו: <persName>מרים </persName> אשת <persName>מאיר שוחטמן</persName> (מורה), <persName>אהרן מאיר</persName> (מנהל בי"ס "עתיד"), <persName>נחמה</persName> אשת<persName> ישעיהו</persName> <persName>לוביץ, פנחס, מתתיהו.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 956 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/956</bibl><bibl>Volume: #2 ,Page: 957 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/957</bibl>
+<bibl>Volume: #2 ,Page: 958 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/958</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

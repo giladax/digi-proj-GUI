@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 369 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/369</bibl><bibl>Volume: #1 ,Page: 370 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/370</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחמן דובנוב</persName>
+
+</head>
+         <div><p> נולד במסטיסלב, פלך מוהילוב (רוסיה הלבנה), בשנת 1886 לאביו <persName>מאיר יעקב</persName> ולאמו <persName>טיינה</persName> . אחיהם של ההיסטוריון <persName>שמעון</persName> והבילויי<persName> זאב דובנוב</persName> . בן למשפחה מכובדת שמיזגה בתוכה הלכה ומעשה גם יחד, משפחה של אנשי-תורה וסוחרים, שאצלו מרוחם על חיי הקהילות בהן ישבו. האב שעסק בסחר-עצים נתן לבניו חנוך תורני מקיף.
+
+ גדל באוירה של מסורת והכרתו הלאומית היתה עמוקת שרשים. לא שינה את השקפתו גם כאשר אחיו זאב לא עמד במבחן וחזר מן הארץ לרוסיה. ב-1912 עלה ארצה עם אשתו מתוך החלטה נחושה שלא לשוב לגולה.
+
+
+ בארץ פתח בית-מסחר לכלי-נגינה וקיים את משפחתו שגדלה בינתיים, אולם בריאותו נתרופפה ומאמצי הד"ר חיסין לרפאותו עלו בתוהו. נפטר בל' שבט תרפ"ד ונקבר בבית-הקברות הישן.
+
+ אשתו <persName>רחל, לבית</persName> צייטלין, ילדה לו ארבעה בנים ושתי בנות: <persName>מאיר, יוסף, בן-ציון, שמעון, סוניה ודבורה</persName> . הם למדו בגימנסיה "הרצליה" ואח"כ נסעו אחדים מהם להשתלם בחו"ל. בארץ נשארו הבת סוניה, חברה בקבוץ עין-חרוד, ואחד הבנים שהנהו מהנדס בירושלים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 369 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/369</bibl><bibl>Volume: #1 ,Page: 370 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/370</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

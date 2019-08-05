@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 1039 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1039</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים יהושע צרור</persName>
+
+</head>
+         <div><p> נולד ביפו, בשנת תרמ"ב (1882), לאביו <persName>אברהם</persName> (מורה ללימודי קודש בעדת הספרדים ביפו-ת"א) ולאמו<persName> יעל</persName> בת ר'<persName> לוי הכהן </persName> (בעל ה"חדר" הספרדי הראשון ביפו). למד בתלמוד-תורה של אבי-אמו ובביה"ס של חברת כי"ח מפי ר'<persName> יוסף שמחון</persName> , ואח"כ למד וגמר את בית-הספר החקלאי מקוה ישראל, השתתף בקבלת פני הרצל בעת ביקורו במוסד וברך אותו בשם התלמידים והרצל השיב לו: "ירבו כמותך בישראל ובארץ-ישראל".
+
+ יסד בית-ספר בשם "מכבי" בשכונת נוה שלום ביפו, אח"כ היה מורה לעברית ברחובות, בראשון לציון ובמוקד "קרית ספר" של<persName> ישראל בלקינד</persName> בשפיה. יצא לפאריס, למד משפטים והוסמך לעורך-דין. נתמנה למורה בביה"ס של כי"ח באיסטמבול, שם נשא לאשה את <persName>מרים</persName> בת<persName> יונה פלקוב</persName> (ממשפחה יהודית מרוסיה שהגרה לקאהיר). חזר ארצה ויצא לקאהיר ויסד שם בית ספר עברי והשתתף בפעולה הציונית. היה ציר בקונגרס הציוני הששי מארץ-ישראל ובקונגרס הי"א מקאהיר.
+
+ ב-1913 חזר ארצה. עם פרוץ המלחמה עזר לרבים בהשתדלויותיו בקונסוליה הצרפתית, שהיו לו קשרים עמה, ומשהוחמרו הרדיפות וגברים נתיני חוץ לא יכלו עוד לצאת החוצה היתה אשתו הולכת בשליחותו, לבושה כערביה, אל הקונסוליה הצרפתית להשתדל בעד הקלת הרדיפות ולקבל ידיעות בדבר האניות שתבואנה להוציא את הנרדפים והמגורשים מן הארץ.
+
+ כנתין צרפתי הוברח גם הוא לצאת מצרימה. שם התמסר לפעולות לטובת הפליטים והמגורשים מהארץ בסידורם הכלכלי ובחינוך ילדיהם. פתח בהליופוליס את בית-הספר העברי "עין שמש", שהתקיים שלש שנים ואח"כ את בית-הספר העברי "שמש" בקאהיר. באותו זמן חיבר והדפיס מלון עברי-צרפתי-ערבי.
+
+ משנגמרה המלחמה עזר לבני הארץ בהשתדלויות בקונסוליות השונות בסידורים הפורמליים לאפשר את שיבתם ארצה. ב-1920 חזר גם הוא עם משפחתו, חלה ונפטר ביפו, א' טבת תרפ"א.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 1039 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1039</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

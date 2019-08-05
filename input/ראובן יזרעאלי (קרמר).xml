@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3055 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3055</bibl><bibl>Volume: #8 ,Page: 3056 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3056</bibl>
+<bibl>Volume: #8 ,Page: 3057 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3057</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ראובן יזרעאלי (קרמר)</persName>
+
+</head>
+         <div><p> נולד בזוויל (אוקראינה) בפורים תרע"ה (מרס 1915). לאביו <persName>משה </persName> ולאמו <persName>זהבה </persName> בת <persName>אליהו בכרך</persName> (קרובת משפחה<persName> לח. נ. ביאליק)</persName> .
+
+ ב-1925 עלה לארץ עם המשפחה, למד בבית ספר למסחר בירושלים.
+
+ אח"כ התמסר לשרות ה"הגנה", גמר קורסים רבים וב-1942 גמר את הקורם למפקדי מחלקות. בשנות המהומות 1939-1936 שירת בנוטרות ואח"כ עבד במנגנוןהקבע של ה"הגנה" (בכינוי "כנעני"), ובעת התקדמות הצבא הגרמני במדבר המערבי, ב-1941, והחשש לפלישתו לארצנו, נתמנה למפקד גדודי "משמר המולדת".
+
+ ב-1939 נשא לאשה את<persName> סימה </persName> בת <persName>חיים סוסנובסקי</persName> מכפר סבא.
+
+ ב-1943 נתקבל לעבודה בעירית תל-אביב, ובסוף 1946 הושאל חזרה ל"הגנה", לפי דרישתה, ושירת בתפקיד קצין-מינהל של מחוז תל-אביב, וב-1947 נתמנה על-ידי
+
+
+ הרמטכ"ל<persName> יעקב דורי </persName> למפקד העיר תל-אביב וחיל המשמר, והמשיך בתפקיד זה בצה"ל בדרגת רב-סרן.
+
+ אחרי מלחמת הקוממיות חזר לשרותו בעיריה והנו סגן מנהל המחלקה לשיכון בעירית תל-אביב-יפו. חבר המזכירות של ארגון חברי ההגנה בת"א (היה מזכיר הארגון בשנים 1953-1952).
+
+ אח בלשכת הבנאים החפשים "בצלאל".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3055 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3055</bibl><bibl>Volume: #8 ,Page: 3056 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3056</bibl>
+<bibl>Volume: #8 ,Page: 3057 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3057</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

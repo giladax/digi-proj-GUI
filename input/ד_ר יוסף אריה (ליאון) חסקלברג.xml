@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2226 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2226</bibl><bibl>Volume: #5 ,Page: 2227 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2227</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יוסף אריה (ליאון) חסקלברג</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וארשה</placeName> (פולין), כ"ז כסלו תרס"ג (28.12.1902) לאביו <persName>שמואל יחזקאל</persName> ולאמו<persName> בלה </persName> בת <persName>שלמה יעקב קפטל.</persName>
+
+ קיבל חינוך בבי"ס עממי "גורדון", בבי"ס תיכון קרינסקי וקרצ'מר ב<placeName>וארשה</placeName>. המשיך באוניברסיטה ליעז 
+
+
+ בלגיה, באוניברסיטה העברית בירושלים (התלמיד הראשון באוניברסיטה) ובאוניברסיטת סורבון בפריז. קבל תוארים D.Sc. )Dr. ES. Sciences( C.S, S.C.J., M.R.I.C.
+
+ היה ממארגני הסתדרות הסטודנטים היהודים בפריז ובצרפת, חבר הועד הציוני בפריז, חבר הועד של ארגון הסטודנטים הבין-לאומי.
+
+ בשנת 1923 עלה לארץ.
+
+ בשנת 1927 נשא לאשה את <persName>צלה</persName> בת<persName> לאה ודוד טרנו</persName> <persName>פולסקי.</persName>
+
+ חבר ועד הסתדרות הכימאים, חבר בני-ברית.
+
+ היה אסיסטנט לכימיה אורגנית באוניברסיטה העברית ויו"ר ועד הסטודנטים של האוניברסיטה העברית.
+
+ השתתף בכמה קונגרסים כימאיים בחו''ל ובארץ.
+
+ כיום, כימאי חוקר במכון ויצמן למדע, ברחובות.
+
+ פרסם כ-50 מאמרים מדעיים בעתונים כימיים שונים בחו"ל.
+
+ חבר הגנה משנת 1924, מפקד קבוצת חמ"ד (חיל מדע) בעת מלחמת השחרור.
+
+ בנותיו : <persName>נעמי, רות.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2226 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2226</bibl><bibl>Volume: #5 ,Page: 2227 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2227</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4017 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4017</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרים הודיס</persName>
+
+</head>
+         <div><p> נולדה בלודז' (פולין) בשנת תרס"ט (1909).
+
+ לאביה <persName>יחיאל קלינסקה </persName> ולאמה <persName>פניה</persName> בת <persName>מרדכי בימקה</persName> (נרצחו יחד עם בנם ובתם ע"י הנאצים בשנת 1942). קיבלה חינוך עממי-תיכון והשתלמה בבית ספר ל
+
+ אחיות.
+
+ עבדה בתור אחות בבית החולים בווארשה.
+
+ בשנת 1930 נישאה <persName>למרדכי הודיס</persName> (נפטר בטבריה בראש השנה תשי"א).
+
+ בשנת 1950 עלתה לארץ.
+
+ עובדת כל השנים בתור אחות רחמניה מסורה בטבריה.
+
+ בנה:<persName> יחיאל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4017 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4017</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 787 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/787</bibl><bibl>Volume: #2 ,Page: 788 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/788</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים גולדנברג</persName>
+
+</head>
+         <div><p> נולד בסובאלק, פולין, בשנת תרמ"ג (1883), לאביו <persName>אליעזר</persName> ולאמו <persName>חיה שרה</persName> . למד תורה ולימודים כלליים בילדותו בסובאלק, ובינתים הכינה לה המשפחה את עתידה בארץ-ישראל. אביו הצטרף ל"אגודת קובנה", שקנתה חלק מאדמת המושבה חדרה כשנוסדה. אחיו <persName>ראובן</persName> בא כחלוץ המשפחה והחל לעבוד בהכשרת הקרקע ובנטיעות יחד עם ידידו ובן עירו <persName>נחמן שלמה</persName> <persName>בוטקובסקי </persName> ושניהם נספו כמעט בזמן אחד בביתהחולים היהודי ביפו, שמה הוכנסו יחד בעגלה כשהקדחת הצהובה הפילתם למשכב.
+
+ בתרנ"ו עלו ארצה אביו, אחיו <persName>שמעון ויחזקאל</persName> ואחותו <persName>פשה </persName> ובתרס"א עלו אמו, אחיותיו<persName> רחל ודינה,</persName> אחיו <persName>משה</persName> והוא. בעת בואם היתה חדרה עזובה זמנית מיושביה בגלל הקדחת שהתגברה לרגל פעולות
+
+
+ יבוש הבצות ונטיעת היערות. אז נשארה המשפחה זמנית ביפו ושם המשיך ללמוד בבית-הספר ולמד גם צרפתית. כשנתאפשר לחזור לחדרה בא שמה עם המשפחה והתמסר לעבודה בכרמים ובשדות של הוריו ולפעילות בכל עניני המושבה.
+
+ כשגזרה חברת יק"א לעקור את הכרמים (בגלל חוסר שוק ליין בארצות חוץ), היה בין הראשונים שהתמסר למטעי הדר. התמחה במהרה בענף זה, עזר לאחרים בעצה ובהדרכה ופרדסו היה מהמשובחים במושבה. השתתף ביסוד חברת "פרדס" ובכל הענינים לביסוס המקום. היה ממיסדי בית-הספר והספריה שלידו, זמן רב היה ראש ועד המושבה ומוכתר, ובתקופת כהונתו סודרה אספקת המים לבתים. יצג את חדרה בהתאחדות המושבות ובמשפט השלום המרכזי. גם בסבל וברדיפות נטל את חלקו כאחד המבוקשים למאסר מטעם השלטון הטורקי בעקב הסכסוך בענין הגבול עם הכפר צ'רקס ("משפט ה-18") והוכרח להעדר זמן-מה מהמושבה. אח"כ, בראשית מלחמתהעולם הראשונה, היה ברשימת המואשמים-בשקר
+
+ בהספקת תבואות לאויב הבריטי לאניותיו שכאילו נגשו לשם כך לחוף חדרה ("משפט ה-13"), וכשנאמרו ה"נאשמים" והובלו ירושלימה להעמידם למשפט צבאי בעוון בגידה היה הוא במקרה מחוץ למושבה, וכך ניצל ממאסר והשתדל בעזרת הד"ר <persName>א. רופין</persName> לביטול ההאשמה האוילית, פרי דמיונם וזדונם של שכנים ערבים.
+
+ היה מסור לעניני חדרה ושאף לפתחה שתהיה מרכז למושבות השומרון, ומרוב טרדותיו במשקו ובעניני הצבור לא הספיק לעשות לביתו ונשאר ערירי.
+
+ כשביקר הבארון <persName>ג'יימס רוטשילד</persName> (בן הבארון <persName>בנימין</persName> "אבי הישוב") אחרי המלחמה בחדרה שוחח אתו רבות על צרכי המושבה ועל הערך הישובי והלאומי הגדול שבפיתוחה ודבריו עשו רושם רב על הבארון. אח"כ נשלח בסוף 1920 מטעם המושבה לפאריס, לנהל מו"מ עם מרכז יק"א ועם הבארון בדבר סידור עניני היערות וקרקעות החברה לטובת
+
+ המושבה. שם הצליח לקשור את הקשרים הדרושים ולהתחיל במילוי שליחותו, והנה הצטנן ונפל למשכב. אחיו <persName>יחזקאל</persName> שלמד אז באוניברסיטת בון בגרמניה מיהר אליו לפאריס וטיפל בו ובריפוי, אך לשוא.
+
+ נפטר בפאריס, כ"ד טבת תרפ"א, ונקבר שם, ואח"כ העלה אחיו יחזקאל את עצמותיו לקבורה בחדרה ביום י"ב תשרי תרפ"ו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 787 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/787</bibl><bibl>Volume: #2 ,Page: 788 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/788</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

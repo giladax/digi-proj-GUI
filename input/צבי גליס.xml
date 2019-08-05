@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2870 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2870</bibl><bibl>Volume: #7 ,Page: 2871 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2871</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי גליס</persName>
+
+</head>
+         <div><p> נולד בירושלים, אדר תרנ"ה (1895).
+
+ לאביו <persName>אברהם ישראל</persName> (ת"ח) ולאמו<persName> בתיה</persName> בת <persName>שמעון</persName> <persName>אליהו</persName> (סופר סתם).
+
+ קבל חנוך מסורתי בחדר ובישיבת מאה שערים בירושלים.
+
+ נשא לאשה את <persName>חיה</persName> בת<persName> אפרים בנימין גוטליב</persName> (מראשוני חרשי עצי-זית בירושלים).
+
+ בימי המלחמה העולמית הראשונה עבד בטחנת הקמח של <persName>פנחסביץ</persName> בפתח תקוה.
+
+ בשנת 1921-26 מנהל מחלקת העליה של הסתדרות המזרחי בא"י - בתל-אביב.
+
+ בשנת 1926 בהנהלת קרן א"י של המזרחי בירושלים.
+
+ היה ציר הקונגרסים הציונים (מטעם "המזרחי"): ט"ו בבזל (1927), י"ט בלוצרן (1935) וכ' בציריך (1937).
+
+ משנת 1933 מזכיר ראשי של החברה קדישה שע"י ועד הקהלה יפו-תל-אביב.
+
+ חבר פעיל ב"עזרת תורה".
+
+ היה חבר המועצה המקומית בת-ים ויו"ר המועצה הדתית שלה.
+
+ נפטר בתל-אביב, בי ניסן תש"י (20.3.1950) ונקבר בבית העלמין גבעת-רם בירושלים.
+
+ צאצאיו: <persName>אפרים, יעקב, רחל </persName> אשת <persName>דב שמשי, שמעון,</persName> <persName>מינה</persName> אשת<persName> דב סטריקובסקי, ברכה</persName> אשת<persName> שמעון שטרית.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2870 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2870</bibl><bibl>Volume: #7 ,Page: 2871 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2871</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

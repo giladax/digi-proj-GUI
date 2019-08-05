@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3981 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3981</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הלל ארדמן</persName>
+
+</head>
+         <div><p> נולד בשנת תר"ס (15.7.1900) בכפר יאשונקה, מחוז טורקה, מזרח גליציה.
+
+ לאביו<persName> שלמה</persName> (נכד האדמו"ר ר'<persName> יצחק אייזיק </persName> מז'ידאצ'וב, סוחר יערות ובעל אחוזות ועסקים גדולים) ולאמו <persName>אדיל</persName> בת<persName> יעקב מייאר</persName> .
+
+ נתחנך בבית אביו, בית שתורה וגדולה וצדקה והכנסת אורחים שכנו בו יחדיו, מפי מלמדים לתורה ומורים לעברית ושפות ששכר אביו במיוחד בשביל בניו, ומשגדל נכנס לפעילות בעסקי אביו, וכן היה פעיל במוסדות המזרחי והפועל המזרחי ובעבודה בקרב הנוער.
+
+ בשנת 1933 נשא לאשה את <persName>מרגלה</persName> בת <persName>דב להרר</persName> (ב-1942 נהרגה עם ילדה על-ידי המרצחים הנאציים) ובזיווג שני נשא ב-1947 את <persName>שושנה </persName> בת<persName> נחום היל</persName> .
+
+ במלחמת העולם ואחריה היה פעיל במחתרת ואח"כ במחנות הפליטים. דחה את האפשרויות שהוצעו לו להסתדר באמריקה, וב-1948 עלה לארץ, עבר את חבלי הקליטה שקיבל עליו מתוך חיבת הארץ ומתוך נאמנות לאידיאל הציוני שנשא אתו מבית אביו מנעוריו, ומצא את מקומו במסחר. ממשיך בפעילות ציונות דתית בועדת השקל ולמען הקרנות וגם בעזרה לזולת בדרכי אביו.
+
+ בנו: <persName>שלמה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3981 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3981</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

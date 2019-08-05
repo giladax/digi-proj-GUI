@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1491 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1491</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם מנדל הכהן</persName>
+
+</head>
+         <div><p> לאביו<persName> פנחס</persName> (בן ר' מנדיל שהיה מתלמידי ה"חתם סופר") ולאמו<persName> לאה.</persName>
+
+ נולד ב<placeName>פרשבורג</placeName> (הונגריה) בשנת תרכ"ז (1867). בגיל 3 עלה עם הוריו לארץ בשנת תר"ל (1870) והתישבו בירושלים.
+
+ קיבל חינוך מסורתי בחדר ובישיבות.
+
+ היה בעל טחנת קמח במאה שערים יחד עם אחיו נתנאל, שקנו מאת מיכל ליב כץ ושותפיו פתחיה ואליעזר ליואי.
+
+ נשא לאשה את<persName> חנה שרה</persName> בת ר' <persName>יהושע העשיל</persName> <persName>בסאן</persName> (בן ר'<persName> אליהו שלמה זלמן בסאן</persName> , הידוע גם בשמות:<persName> ר' אלי זלל'ס, ר' זלמן דוקטור</persName> , שהיה מתלמידי הגר"א, חבר לתנועת "חזון ציון" שעלו לארץ עם העולים הראשונים לציון בשנת תק"ע 1810), נפטרה בתל-אביב, ט' אייר תש"ז - 29.4.1947 ונקברה בירושלים.
+
+ היה מליץ יושר לכל נדכא ונצרך, בעיקר בפני מוסדות הממשלה. התענין בפדיון שבויים ואסירים.
+
+ נפטר בירושלים, ו' אלול תרצ"ח (2.9.1938).
+
+ צאצאיו:<persName> רבקה</persName> אשת <persName>משה כהן </persName> ז"ל (ובזיווג שני, אשת <persName>מאיר המבור</persName> <persName>גר), פנחס, שינדול</persName> אשת <persName>אייזיק ראב.</persName>
+
+<persName>אסתר</persName> אשת <persName>יעקב רוז, הינדה</persName> אשת <persName>דוד ברמן</persName> ז"ל, <persName>צפורה</persName> אשת <persName>שמואל אשכנזי ז"ל, בתיה</persName> אשת <persName>יהודה</persName> מצב טוקטלי.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1491 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1491</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

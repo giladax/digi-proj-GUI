@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3956 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3956</bibl><bibl>Volume: #12 ,Page: 3957 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3957</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב תמשיס</persName>
+
+</head>
+         <div><p> נולד ב<placeName>זכרון-יעקב</placeName> בשנת תרנ"ה (27.12.1894).
+
+ לאביו<persName> מתתיהו </persName> ולאמו <persName>דבורה</persName> לבית <persName>לבנגרובן </persName> (סוחרים ידועים בעורות ברוסיה שעברו לרומניה).
+
+ עם יסוד זכרון-יעקב (1882) עלו הוריו לארץ עם 3 ילדיהם (<persName>מאיר, שרה ויעקב</persName> ) יחד עם 50 משפחות אחרות מרומניה והתישבו ב"זמארין" (אח"כ זכרון יעקב) שרכשוה מבעליהם הערבים. הקימו משק חקלאי, נטעו כרמים והשתתפו בשמירה ובהגנה.
+
+ האב <persName>מתתיהו</persName> היה ממייסדי ועד המושבה וזמן רב שימש כיו"ר הועד.
+
+
+ יעקב סיים את ביה''ס פיקא במושבה ובגיל 13 החל לעזור לאביו במשק : נטע כרמים, שקדים, פרדסים ופיתח משק חקלאי - לתפארת.
+
+ הפך להיות חקלאי חרוץ, אוהב האדמה ודבק בה.
+
+ בשנת 1917 נשא לאשה את <persName>פרידה</persName> בת <persName>גולדה רבקה</persName> <persName>ויעקב ליבוביץ</persName> (מראשוני מיסדי זכרון-יעקב) עסקנית
+
+ צבורית. אוהבת הטבע והפרח. מרבית זמנה מקדישה לטיפוח בפרחים וגידולי שיחי-נוי. ממיסדות לשכת בנות-ברית "שרה". חברה בועד למען החיל. פעילה בכל מוסד צבורי. ממיסדות לשכות הסעד והעזרה הסוציאלית במושבה. אמצו יתומה מילדותה.
+
+ שנים רבות היה חבר ועד המושבה ויו"ר הועד החקלאי.
+
+ שנים רבות חבר מועצת "אגודת הכורמים המשותפת של ראשון-לציון וזכרון-יעקב''.
+
+ היה איש הבטחון ופעיל בשמירה על גבולות המושבה.
+
+ בשנת 1914 היה חבר "הגדעונים" מיסודו של <persName>אלכסנדר אהרנסון </persName> (ראה כרך ז', עמוד 2773).
+
+ השתתף בפעולות צבוריות בכל מוסד במושבה.
+
+ חבר בלשכת בני-ברית "אדולף קראוס" במושבה.
+
+ צאצאיו: <persName>שפרה</persName> אשת<persName> זלמן</persName> (סיומה) <persName>סיגנור</persName> (קצין במשטרת ישראל), יהונתן.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בזכרון-יעקב, י"ח כסלו תשכ"ג (15.12.62) (ראה כרך י"ב, עמוד 3956)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3956 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3956</bibl><bibl>Volume: #12 ,Page: 3957 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3957</bibl>
+            <bibl>Volume: #13 ,Page: 4360 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4360</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

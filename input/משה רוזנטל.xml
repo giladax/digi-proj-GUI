@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4317 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4317</bibl><bibl>Volume: #13 ,Page: 4318 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4318</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה רוזנטל</persName>
+
+</head>
+         <div><p> ידוע בשם: <persName>משה הנאמן.</persName>
+
+ נולד בצפת, בשנת תרנ"ח (1858).
+
+ לאביו <persName>חיים דוד רוזנטל</persName> ולאמו <persName>פרל.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה בצפת.
+
+ בשנת תרל"ו (1876) נשא לאשה את אסתר בת ר'
+
+
+<persName>מרדכי שינקר</persName> (נפטרה בצפת, י''ח שבט תש''א-15.2.41).
+
+ לאחר נשואיו המשיך ללמוד בישיבה כחמש שנים.
+
+ אחרי שר' <persName>דוד שו"ב</persName> (ראה כרך א', עמוד 76) ולפניו -<persName> יוסף פרידמן</persName> (שקנה אדמות בג'עוני. ראה כרך א', עמוד 526) גאלו את אדמות ראש פינה. היה הוא בין תלמידי הישיבה בצפת שהובאו לאדמת ראש פינה לסקל את האבנים ולהכשיר את הקרקע.
+
+ כשהברון <persName>רוטשילד</persName> הקים את בית החרושת למשי במושבה, נתקבל לעבודה ועלה לדרגת מנהל. אח"כ עזר לו בנו <persName>שמואל </persName> בעבודה. הצטיין וקיבל מהברון פרמיות רבות.
+
+ כשנסגר בית החרושת, נתמנה בראש פינה כמורה הוראה. בין תלמידיו: <persName>חיים יצחק קלר</persName> (שהיה מנהל בית הספר לבנים ברחוב אחד העם בת"א. ראה כרך ג', עמוד 1423), <persName>שניידר</persName> ועוד.
+
+ במשך 4 שנים היה מורה במושבה משמר הירדן, ואחרי פטירת בנו <persName>שמואל </persName> ז"ל עבר למטולה ושם המשיך בהוראה במשך שנה אחת.
+
+ נפטר במירון (ע"י צפת) כשקיר התמוטט על המוני החובבים (נהרגו אז 21 איש), י''ח אייר (ל"ג בעומר) תרע''א (12.5.1911).
+
+ צאצאיו:<persName> ישראל, שמואל</persName> (נפטר בגיל 24. השאיר בת : <persName>אהובה</persName> אשת <persName>שמואל רבינזון</persName> , מפתח-תקוה),<persName> רבקה</persName> אשת <persName>אלחנן הייזלר</persName> (ירושלים),<persName> פנינה</persName> אשת <persName>אשר גולדשטיין,</persName> <persName>שושנה</persName> אשת <persName>שמואל טויסטר, יוכבד</persName> אשת<persName> יצחק סגל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4317 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4317</bibl><bibl>Volume: #13 ,Page: 4318 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4318</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

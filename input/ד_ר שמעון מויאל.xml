@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1218 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1218</bibl><bibl>Volume: #3 ,Page: 1219 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1219</bibl>
+<bibl>Volume: #3 ,Page: 1220 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1220</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר שמעון מויאל</persName>
+
+</head>
+         <div><p> נולד ביפו, בשנת תרכ"ו (1866), לאביו <persName>יוסף</persName> (סוחר וגואל קרקעות, מראשי עדת המערבים, בן <persName>אהרן</persName> <persName>מויאל</persName> , אבי בית מויאל בארץ, ממשפחת רבנים ומנהיגים במארוקו, שעלה ארצה בשנת 1860) ולאמו<persName> שמחה</persName> בת הרב משה פרדו (שהיה רב ראשי באלכסנדריה. משפחה מיוחסת של גולי ספרד).
+
+ למד בחדרים ובישיבות עד שנתו הט"ז. אח"כ למד כשנתיים בבית-הספר והפנימיה של החכם <persName>זאכי</persName> <persName>כהן</persName> בבירות, שם השתלם בערבית ובצרפתית. למד זמן-מה איסלאם וספרות ערבית ב"ישיבה" המוסלמית העולמית "אל-אזהאר" בקאהיר ואח"כ באוניברסיטה הישועית בבירות והוסמך לד"ר לרפואה.
+
+ נשא לאשה את<persName> אסתר</persName> בת <persName>עבדאללה אזהרי</persName> מבירות. השתקע בקהיר ועסק במקצועו כרופא. פרסם בקביעות מאמרים בעתונות בערבית ובצרפתית למען הקידמה והאחוה של עמי המזרח, והיהודים בכללם, והיה מכובד מאד בחוגי הסופרים והמשכילים במצרים ובמזרח הערבי בכלל, וכן היה פעיל בתנועת הבונים החופשים.
+
+ אחרי מתן הקונסטיטוציה התורכית בתרס"ח חזר והתישב ביפו והמשיך בעבודתו הרפואית, הצבורית והספרותית. בתרס"ט הוציא את החלק הראשון מתרגום התלמוד לערבית, שהחל לעסוק בו עוד במצרים. המשיך לפרסם מאמרים בעתוני סוריה ומצרים, וגם רעיתו הרבתה לפרסם בהם שירים ומאמרים בערבית.
+
+ כשהחלה תעמולת האיבה נגד היהודים בעתוני ארץ-ישראל וסוריה, וביחוד בעתוני הערבים הנוצרים, שצירפו אל ההתחרות הכלכלית גם את האיבה הדתית והתריעו על הסכנה הציונית המאימת על שלמות הממלכה העותומנית ועל מעמדו של העם הערבי, יצאו הוא ורעיתו במאמרים בעתונות הערבית להשיב
+
+ למפיחי האיבה ולסתור את טענותיהם - כמו שעשו אנשי-עט יהודים מוכשרים באירופה בעתוני ארצות מגוריהם, וכמוהם השתדל גם הוא להוכיח את הטובה הכללית שביחסי ידידות ואחוה בין כל חלקי התושבים, וביחוד הבליט את האחוה הגזעית והרעיוניתהדתית בין הערבים המוסלמים ובין היהודים. כן הבליט כלפי המשטינים את נאמנותם של היהודים לממלכה העותומנית - כמו שעשו היהודים הנלחמים באנטישמיות בארצות האחרות, ובאותה מדת-הצלחה עצמה.. . לא תמיד נתנו עתוני הערבים מקום לתשובותיו, שכן היו העורכים ויתר המסיתים מעונינים לא בבירור האמת, אלא בהשגת העמדות והמטרות ששאפו להן. לפיכך יסד בתרע"ג ביפו את העתון היומי הערבי "צות אל עותומניה" (קול העותומנים) והשקיע בו הרבה מרץ וכספים, הפסיד בו למעלה מ-4000 פרנק והתאמץ לקיימו גם להבא, שיהיה לשופר לטענות היהודים כלפי דעת-הקהל הערבית, עד שנסגר בראשית מלחמת-העולם הראשונה. כן יסד בתרע"ג - יחד עם עוה"ד <persName>דוד מויאל, אברהם אלמליח,</persName> <persName>יוסף אליהו שלוש, יעקב שלוש ונסים מלול </persName> את האגודה החשאית "המגן", שהתקשרה עם ערבים חשובים ואף עם ראשי התנועה הלאומית הערבית ששאפה לשחרור לאומי ולניתוק השטחים היערבים מתורכיה, ובעזרת קשריהם נתאפשר להם להמשיך בפרסום תשובות למשטינים בעתונות הערבית.
+
+ כשפרצה מלחמת-העולם הראשונה והשלטון של ג'מאל פחה החל לרדוף ביד חזקה את מחללי התנועה הערבית, ריחפה סכנה גם על אנשי "המגן" בגלל הקשרים עם תנועה זו. אך הד"ר <persName>נ. מלול</persName> הצליח לבער בעוד מועד את הכתבים העלולים לשמש הוכחות נגדם בענין זה.
+
+ נפטר ביפו, כ"א סיון תרע"ה.
+
+ צאצאיו: <persName>עבזאללה נדים</persName> (עובדיה),<persName> מוניר</persName> . והבנות: <persName>סעאד, מונירה, ויקטוריה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1218 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1218</bibl><bibl>Volume: #3 ,Page: 1219 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1219</bibl>
+<bibl>Volume: #3 ,Page: 1220 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1220</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

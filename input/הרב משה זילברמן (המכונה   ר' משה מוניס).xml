@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2936 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2936</bibl><bibl>Volume: #7 ,Page: 2937 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2937</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב משה זילברמן (המכונה - ר' משה מוניס)</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרט"ז (1856).
+
+ לאביו ר'<persName> שמואל מוני,</persName> שעלה עם דודו לארץ בהיותו בן תשע, בשנת תקצ"ג (1833) חתנו של רבי<persName> אורי שבתי</persName> <persName>סלאנט, </persName> דיין צדק בבית הדין הראשון בירושלים שנוסד ע"י חותנו הרב <persName>יוסף זונדל מסלאנט </persName> וגיסו של הרב <persName>שמואל סלאנט, </persName> רבה של ירושלים (ראה כרך א', עמוד 284) ולאמו <persName>נחמה פייגה</persName> בת ר' <persName>אורי שבתי דיין.</persName>
+
+ קבל חנוך מסורתי בחדר ובישיבות.
+
+ אחרי פטירת אביו מלא את מקומו בתור מלמד בתלמוד תורה "עץ-חיים" (החל משנת תר"ן-1980, ועד יום פטירתו). אף הוא העמיד הרבה תלמידים.
+
+ היה אדם נח לבריות והתהלך עם תלמידיו כאב ורע. דאג לכל צרכיהם של חבריו המלמדים ולכל תלמידי הת"ת, ביחוד לעניים - בהלבשה וכו' (ההכנסה ממכירת הלוח השנתי "דיני ומנהגי א"י" שיצאה בעריכת הרב י. מ. טוקצינסקי ע"י הנהלת הת"ת עץ-חיים, הוקדשה להנעלת והלבשת התלמידים, ור'<persName> משה </persName> היה מטפל בזה).
+
+ נשא לאשה את<persName> הניה.</persName> ובזיווג שני נשא לאשה את <persName>בילה</persName> בת ר' <persName>אברהם פדרמן </persName> (אברהמ'ל סופר. ראה כרך א, עמוד 465).
+
+ נפטר בירושלים, ז' תמוז תר"ע (14.7.1910).
+
+ צאצאיו (מאשתו הראשונה): <persName>אסתר</persName> אשת הרב אליהו לנדא (נכד הגר"א מוילנה, ראה כרך א', עמוד 116),
+
+
+<persName>חיה שפרה</persName> אשת ר' <persName>אהרן הוכשטיין</persName> בן הרב מקאמין), <persName>חיים שבתי</persName> (אלטר)<persName> זילברמן </persName> (שו"ב בברוקלין, ארצות הברית),<persName> נחמה פייגה</persName> אשת ר'<persName> אשר מרגליות</persName> שו"ב.
+
+ שמואל מוני (אשתו - <persName>צביה</persName> בת <persName>פנחס גרייבסקי</persName> , ראה כרך א', עמוד 476).
+
+ מאשתו השניה: <persName>שרה</persName> אשת<persName> חיים שפירא</persName> (ראה כרך ששי, עמוד 2618), <persName>מאשה </persName> אשת <persName>ברוך כהן</persName> (ארצות הברית).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2936 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2936</bibl><bibl>Volume: #7 ,Page: 2937 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2937</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1124 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1124</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים שורר</persName>
+
+</head>
+         <div><p> נולד באובודובקה; פלך פודול (רוסיה). י"ח אייר, תרנ"ה (1.5.1895), לאבי<persName>ו מאיר</persName> ולאמו<persName> שרה</persName> בת<persName> אב</persName> <persName>רהם דובינסקי.</persName> למד בחדרים ובבית-ספר תיכון ברוסיה. השתלם בעברית והיה פעיל בציונות מנעוריו, השתתף ביסודה ובהנהגתה של אגודת נוער ציונית "נס ציונה" בקישינוב, שנוסדה ב-1910 ומיסדיה היו <persName>ליב בלצן, י.</persName> <persName>ויינשטיין ("יודל מלמד") </persName> ועוד.
+
+ בראשית 1913 עלה לארץ ועבד כפועל חקלאי בחוות ובקבוצות בגליל וביהודה ובמושב-העובדים נהלל, ובינתים עסק גם בעתונות ובפעילות צבורית ומפעם לפעם גם בשליחות בחו"ל. ב-1922 עבד במערכת "הפועל הצעיר", מ-1926 במזכירות "הפועל הצעיר", במזכירות ה"התאחדות", במזכירות מפא"י, במזכירות מועצת פועלי כפר סבא (בזמן מלחמת העבודה העברית), בשליחות הקהק"ל בפולין ב-1925, בשליחות ההסתדרות וקרן היסוד בפולין וברומניה ב-1928, בשליחות מפא"י בגליציה ב-1933/34. היה ציר בקונגרסים הציוניים הי"ב, ט"ו. י"ח, י"ט, כ' וכ"ב ובקונגרס האינטרנציונל הסוציאליסטי באנטוורפן (1947), ובאותה שנה ניהל את הלשכה האירופית של ה"איחוד העולמי" בפאריס.
+
+ פרסם מאמרים ב"הפועל הצעיר''. "דבר" ובעתונות היהודית בחו"ל. עובד בקביעות במערכת "דבר'' כאחד העורכים. ערך יחד עם <persName>אליעזר שוחט</persName> את 13 הכרכים של "פרקי הפועל הצעיר". הנו חבר במזכירות של האיחוד העולמי (פועלי ציון - התאחדות), חבר מועצת מפא"י וסגן חבר בועד הפועל הציוני.
+
+ במלחמת-העולם השנית שירת שנתים ורבע (1942/44) במסגרת הצבא הבריטי ביחידה עברית של תותחנים נגד מטוסים. מחויותיו בצבא חיבר את הספר "החייל 9172" (הוצאת מפא"י), וכן פרסם בזמנים אחרים חוברות שונות (על י. אהרונוביץ, על הרביזיוניזם, על רצח ארלוזורוב ועוד).
+
+ צאצאיו: (מאשתו הראשונה <persName>זמירה</persName> בת <persName>משה</persName> <persName>סמינובסקי) זיוי,</persName> (מאשתו השניה <persName>יהודית</persName> בת <persName>חיים</persName> <persName>מודזלביץ) ערן, סיונה.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, אור ליום י"ד שבט תשכ"ח (13.2.68) (ראה כרך שלישי, עמוד 1124)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1124 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1124</bibl>            <bibl>Volume: #17 ,Page: 5246 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5246</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

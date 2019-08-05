@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 260 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/260</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד מילר</persName>
+
+</head>
+         <div><p> בן הרב <persName>משה</persName> , נולד ב<placeName>סיגט</placeName> מרמורוש (הונגריה) כ"א תשרי תרל"ג. למד ב"חדר", בישיבת פרסבורג, ואח"כ כשהתמשכל למד גם מדעים כלליים.
+
+ כשגדל הצטרף ל"חבית ציון", ותרגם את ההצטרפות הזו למעשה : קם ועלה לארץ ישראל בתרמ"ח.
+
+ בבואו ארצה עמוס בידיעות רבות ומספיקות גם בעברית וגם במדעים כלליים, נתמנה למורה בראש פינה ויחד עם יצחק אפשטיין הרביץ תורה במושבה הנ"ל, שהיתה מן המושבות הראשונות שנוסדו בתקופת חבת ציון.
+
+ מאז במשך ארבעים שנה הורה בהצלחה במושבות. הגליל ויהודה, ותלמידיו מגיעים לאלפים.
+
+ בבוא לארץ-ישראל ועד הצירים, אחרי הצהרת בלפור, נשלח לעבודה חנוכית בעדת השומרונים בשכם, הוא ראה את תפקידו לא רק כמורה, אלא כאדם שבא לגשר בין עם ישראל ובין שרידי הפליטה משבט אפרים, שמלפני אלפים שנה ויותר נפרדו מעם ישראל, אבל נשארו עומדים בעמדותיהם כל השנים, ולא זזו מאמונתם, כי הם שרידי ישראל האמתיים. בבואו לשכם התחיל להרביץ תורה לא רק לקטנים, אלא גם לגדולים. השומרונים הרגישו בו לא רק מורה-מיסיונר, אלא בן-אדם, המתענין בגורלם.
+
+ יותר מעשר שנים עבד בשכם, וטפח קשרים אמיצים בין העדה השומרונית ובין הישוב החדש. אח"כ מוכרח היה לעזוב את שכם, לרגל קמוצים בתקציב של - מחלקת החנוך.
+
+ אך את הקשרים עם בני שומרון לא הפסיק גם אחרי שהתישב בתל-אביב. עד סוף ימיו היו מבקרים אותו תלמידיו ותלמידותיו משכם, מלאי אהבה ותודה לאיש שעשה בשבילם כל כך הרבה.
+
+ אחרי מחלה קצרה נפטר בא' אלול תש"ג (1943.IX.19) בתל-אביב, ונקבר בנחלת יצחק.
+
+ בתרצ"ט פרסם ספר בשם: מכתבים פוליטיים על היחסים בין היהודים והערבים והסכויים להסכם ביניהם.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 260 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/260</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2801 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2801</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה אברבנאל</persName>
+
+</head>
+         <div><p> נולד בלוזנה, פלך מוהילב (רוסיה) בשנת תרל"ה (25.2.1875).
+
+ לאביו<persName> חיים</persName> (סוחר בקרמנצ'וג, ממשפחת<persName> דון יצחק</persName> <persName>אברבנאל</persName> ) ולאמו<persName> שרה גיטל</persName> בת<persName> זלמן פינשטיין</persName> (ממשפחת הרש"ז מלאדי).
+
+ קבל חנוך מסורתי וכללי בבית ספר רוסי.
+
+ בשנות 1902-1912 עסק ברוסיה במסחר - באריגים.
+
+ בשנת 1900 נשא לאשה את <persName>חיה</persName> בת<persName> חיים יואל</persName> <persName>פייסחוב.</persName>
+
+ היה פעיל בארגונים הציונים בעירו.
+
+ בשנת 1912 ביקר עם בניו בארץ והכניסם לגמנסיה העברית "הרצליה" בתל-אביב.
+
+ כעבור שנה עלה עם משפחתו לארץ והתישבו בתלאביב.
+
+ בשנת 1914 בנה בתל-אביב (יחד עם שותפו מרדכי וייסר ז"ל) את בנין הראינוע "עדן" היהודי הראשון בא"י, ששימש למרכז תרבותי: להרצאות, כנוסים, לקבלות פנים (ללורד אלנבי כובש הארץ. סיר הרברט סמואל, הנציב הראשון ליהודה, לורד בלפור, אמרי וכ"ו), ואיפשר את ראשית צעדיהם והתפתחותם הן של התיאטרון העברי והן של האופרה הראשונה (גולינקין), נשפי הפורים הראשונים, קונצרטים ובלטים.
+
+ כל מוסדות הצדקה בעיר בימים ההם קבלו הנחות להצגות ונהנו מההכנסות.
+
+ צאצאיו: <persName>חיים</persName> (רופא),<persName> זאב, שרה </persName> אשת ד''ר <persName>משה</persName> <persName>קפלן</persName> ז''ל,<persName> יהודית</persName> אשת<persName> ישראל רוטברג, אסתר</persName> אשת <persName>ד"ר נחום זימנה, יצחק.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בת"א, כ"ח אב תשכ"א (10.8.61) (ראה כרך ז', עמוד 2801)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2801 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2801</bibl>            <bibl>Volume: #12 ,Page: 4120 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4120</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

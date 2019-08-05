@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4436 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4436</bibl><bibl>Volume: #14 ,Page: 4437 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4437</bibl>
+<bibl>Volume: #14 ,Page: 4438 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4438</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף סלנט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת תרמ"ו (1886).
+
+ לאביו הרב<persName> צבי הירש</persName> (ראה כרך זה) שהיה נכד רבה של ירושלים רבי <persName>שמואל סלנט </persName> זצ"ל (כרך א' עמוד 284) ולאמו<persName> גרונא </persName> בת רבי<persName> נתן נטע נטקין</persName> (כרך עשירי, עמוד 3622) נכדת הרבנים הגאונים רבי <persName>ארי' ליב </persName> ממיץ בעל "השאגת אריה', ורבי <persName>ישראל משקלאו</persName> בעל "פאת השלחן" וחתנו רבי <persName>ישעי' ברדקי</persName> (כרך ד', עמוד 1583).
+
+ בכשרונו הצליח להתידד בימי ממשלת הטורקים
+
+ עם מפקד הצבא הטורקי <persName>אברהים פחה </persName> ובכח השפעתו הציל אברכים צעירים מגויסים לצבא הטורקים ושילוחם למקומות מות בטוחים. כן הפסיק את השתול
+
+ לותם של "המלשינים" למיניהם שמסרו מקומות מחבואי צעירי ישראל לשלטונות, ברצונם לקבל דמי "לא יחרץ".
+
+ לפני פרוץ מלחמת העולם הראשונה, העביר מעבר הירדן תבואה וקמח, פעולה זו הביאה הרוחה לבני ירושלים זה היה ממש פקוח נפשות. את התבואה מסר לועד הסיוע, ובביתו חלקו מנות לכל אחד.
+
+ נשא לאשה את <persName>שיינא חיה</persName> בת ר' <persName>אפרים שפטיל</persName> (עמדה תמיד לימין בעלה וזכו להקים בית מפואר בישראל).
+
+ ברוב פקחותו וזריזותו גאל הרבה אדמות של הערבים בא"י.
+
+ נפטר ב<placeName>ירושלים</placeName> ביום כ"ו סיון תש"י (11.6.50).
+
+ צאצאיו: <persName>אפרים</persName> עו"ד (יועץ בממשלת המנדט, ראה כרד ב' עמוד 922), חיים (מנהל ביח"ר), יעקב (פקיד ברקליס בנק בת"א), <persName>אברהם</persName> (עו"ד נוטריוני), <persName>רונה </persName> אשת <persName>מקס מילר</persName> (בארצות הברית).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4436 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4436</bibl><bibl>Volume: #14 ,Page: 4437 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4437</bibl>
+<bibl>Volume: #14 ,Page: 4438 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4438</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

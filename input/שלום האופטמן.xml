@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4524 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4524</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלום האופטמן</persName>
+
+</head>
+         <div><p> נולד בנאוסליצה (רוסיה), בשנת תרע"ב (10.3.1912).
+
+ לאביו<persName> שלמה האופטמן</persName> ולאמו<persName> אידה </persName> בת <persName>שמעון</persName> <persName>פיקסלר</persName> .
+
+ קיבל חינוך מסורתי וכללי.
+
+ בשנת 1931 היה מהיוזמים שיסדו את קן בית"ר והיה מפקדו. נלחמו במחתרת נגד הגויים ושרפו חנויות המכולת שלהם )DRUSTVA(שהקימו בכדי להחרים את חנויות המכולת של היהודים, וכן הרסו את הגדרות שהקימו בשדות בכדי למנוע את המקנה לעלות על השדות. יסד כמה סניפים של בית"ר בכפרים.
+
+ בשנת 1937 נשא לאשה את<persName> רחל </persName> בת <persName>אלחנן</persName> <persName>פרקש</persName> .
+
+ בשנת 1939 עלה לארץ.
+
+ עבד בתור קבלן לבנינים.
+
+ היה פעיל באצ"ל (ארגון צבאי לאומי).
+
+ ממארגני "תנועת החרות" ופעיל בה מיום היווסדה
+
+ היה מפקד בהכשרת "בית"ר".
+
+ בשנת 1938 עזר בארגון הטראנספורט האי-ליגל
+
+ של 300 חברי בית"ר מעיר ברין לישראל בשם "פליטטרנספורט".
+
+ היה ציר הוועדה הראשונה של "תנועת החרות".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4524 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4524</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

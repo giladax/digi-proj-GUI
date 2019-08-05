@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3490 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3490</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישורון קשת (יעקב קופלביץ)</persName>
+
+</head>
+         <div><p> נולד בכ' בכסלו תרנ"ד (29.11.1893) במינסק-מאזובייצקי שבפולין.
+
+ לאביו <persName>מנחם קופלביץ</persName> ולאמו<persName> נחמה </persName> בת <persName>זאב-וולף</persName> <persName>גולדשטיין.</persName>
+
+ למד בגימנסיה רוסית, וב-1911 שלחוהו הוריו ללמוד בגימנסיה הרצליה בתל-אביב ונשאר בארץ, עד שב-1920 יצא לשנים אחדות להשתלמות באירופה.
+
+ ב-1921 נשא לאשה בברלין את ד"ר <persName>קלרה הולנדר.</persName>
+
+ בשנים 1926-1920 למד באוניברסיטאות רומא וברלין, ערך נסיעות-לימודים לפאריס, לשוייץ ולעוד מקומות באיטליה ובגרמניה, וב-1927 חזר לארץ ועסק זמן מועט בהוראה, ובעיקר בספרות ובעבודת חייו העשיר את השירה והספרות העברית בכמות ובאיכות ביצירות עצמיות ובתרגומים בעלי ערך בספרות ובמדע, וכן בבקורת בספרות, בתיאטרון ובאמנות בעתונים, בכתביעת ובספרים.
+
+ עם קום מדינת ישראל החליף את שמו הגלותי<persName> יעקב</persName> <persName>קופלביץ </persName> לשם הישראלי<persName> ישורון קשת.</persName>
+
+<persName>ספריו עד עתה</persName> (בשמו הקודם): "ההלך בארץ", שירים (תל-אביב, 1932) ; "בדורו של ביאליק", מסותבקורת (הוצאת מוסד ביאליק, תש"ג); "בדור עולה", מסות-בקורת (הוצאת מוסד ביאליק, תש"י); "אלגיות", שירים (הוצאת "ספרי תרשיש", ירושלים, תש"ד) ; "הדרך הנעלמה" (הוצאת ראובן מס, ירושלים, תש"א). - (בשמו החדש): "משכיות", מסות-בקורת (הוצאת אגודת הסופדים ע"י "דביר", תל-אביב, תשי"ד) ; "שירת המקרא'', מסות (הוצאת "דביר", תשט"ו) ; "מ. י. ברדיצ'בסקי, חייו ופעלו", מונוגראפיה (הוצאת האוניברסיטה העברית, תשי''ח).
+
+<persName>תרגומיו:</persName> "הנפש הקסומה" לרומן רולאן; "מרטין עדן" לג'ק לונדון; "קיצור תולדות ישראל לבצלאל ססיל רות ; דברי ימי אירופה לה. א. ל. פישר (הוצאת מוסד ביאליק); "גדולי הדור" לצ'רצ'יל; "החוויה הדתית" לויליאם ג'יימס (הוצאת מוסד ביאליק) ; מיניאטורות היסטוריות לסטרינדברג ; מסות למונטיין; "המשפט" לפראנץ קאפקה (שלשתם בהוצאת שוקן);
+
+ ליקוטים לפאסקאל, לוגיקה לבוזאנקט (שניהם בהוצאת האוניברסיטה העברית); "אלה קורות יעקב" לתומאס מאן ; "ראי הזהב" ליעקב ואסרמאן, ועוד ספרים לעשרות.
+
+ בנו: <persName>עמנואל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3490 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3490</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

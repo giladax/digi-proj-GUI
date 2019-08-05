@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 471 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/471</bibl><bibl>Volume: #1 ,Page: 472 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/472</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה ליב קורנפלד</persName>
+
+</head>
+         <div><p> נולד בצאנז (נקראה גם סאנץ, נובי סונץ'), גלי ציה המערבית, בשנת תרי"ג (1.1.1853), לאביו ר' <persName>מרדכי</persName> , מגבאיו של האדמו"ר ר' <persName>חיים האלברשטאם</persName> (ה"דברי חיים") מצאנז. למד בחדרים ובישיבות גליציה והונגריה. כשבגר יצא להשתלם בלונדון.
+
+ הצטרף לתנועת חיבת ציון ופעל בנאומים יבכתיבה בעתונים להפצת הרעיון. כשעבר לרומניה היה העורך והמו"ל של העתון הציוני "אידישעס וואכענבלאט" והשתתף בועד שארגן בתרמ"ב את העליה של מיסדי ראש פנה וזכרון יעקב.
+
+ בתרמ"ב עלה ארצה והיה מורה ומנהל בית-ספר בחיפה, משמר הירדן, ראש פנה, מטולה, ובשנות תרס"ו-תרע"א בבירות. לימד גם אנגלית וגרמנית.
+
+ בתרמ"ז נשא לאשה את <persName>שרה</persName> בת<persName> מנדל קורסינסק</persName> מאלכסנדריה של מצרים (נפטרה בבית-גן, ליד יבנאל, ה' ניסן תרפ"ג).
+
+ השתתף כציר בועידת היסוד של הסתדרות מורי ארץ-ישראל, זכרון יעקב תרס"ג, ובכמה ועידות של מורים ועסקנים בארץ.
+
+ בשנות תרע"ג-ע"ט עסק בהוראה עברית ותעמולה ציונית בארצות הברית.
+
+ כתב מאמרים למאות בעתוני ארץ-ישראל, רומניה, אמריקה, ועוד. חיבר מלונים עברי-גרמני וגרמני-עברי, עברי-אנגלי ואנגלי-עברי (עודנו בכתב-יד).
+
+ נפטר בבית-גן, ליד יבנאל, ערב ראש השנה תרצ"ד.
+
+ צאצאיו: <persName>פרץ דגן-קורנפלד</persName> (ממיסדי "הסולל" עורך ומו"ל של "Who is who" בא"י, <persName>ציון</persName> (מהנדס יועץ של התאחדות בעלי התעשיין, היה במשך כמה שנים המהנדס העירוני בנתניה ומהנדס צבאי במלחמת-העולם השנית), <persName>גאליה</persName> (מנהל הוצאת-הספרים טברסקי-שטיבל),<persName> אלה </persName> אשת <persName>נחום סנדלר</persName> ,אכר בבית גן, מחלוצי האכרים ועסקניהם בגליל התחתון).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 471 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/471</bibl><bibl>Volume: #1 ,Page: 472 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/472</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4251 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4251</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל מלר</persName>
+
+</head>
+         <div><p> נולד ביפו (א''י), י"ד אייר תרס''ח (15.5.1908).
+
+ לאביו <persName>יעקב מלך</persName> (ראה כרך ח', עמוד 3141) ולאמו <persName>סלובה</persName> (בת העסקן ומראשי חובבי ציון ביפו) <persName>יצחק</persName> <persName>אייזיק בן-טובים</persName> (ראה כרך ב', עמוד 595).
+
+ קיבל חינוך מסורתי וכללי. בוגר בית-ספר למסחר בתל-אביב.
+
+ בשנת 1937 נשא לאשה את<persName> רות</persName> בת<persName> שמעיה שוארץ</persName> (ראה כרך י"ב, עמוד 3990).
+
+ במשך שנים רבות יו"ר ההנהלה של מכבי אש מתנדבים ברמת-גן (עד להעברת האגודה לעיריית רמת-גן). גזבר מועדון רוטרי ברמת-גן.
+
+ גזבר הוועד למען החייל ברמת-גן. היה מפקד בהגנה בתל-אביב ובגוש דן.
+
+ מנהל סניף בנק לאומי לישראל בע"מ ברמת-גן (בשרות הבנק 33 שנה).
+
+ צאצאיו: <persName>דורון </persName> (מהנדס כימאי), <persName>עדית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4251 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4251</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

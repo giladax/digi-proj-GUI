@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2122</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק (איזידור) אשהיים</persName>
+
+</head>
+         <div><p> נולד במרגונין, שלזיה הגרמנית, בשנת תרנ"א (14.1.1891), לאביו <persName>נתן </persName> ולאמו<persName> מרי</persName> בת <persName>יעקב וייל.</persName> גמר בי"ס עממי וגימנסיה בברסלאו ועסק במסחר.
+
+ ב-1919 נענה לנטיתו לאמנות הציור, גמר אקדמיה לאמנות והתחיל עוסק בציור. ערך נסיעות לימוד בכמה ארצות. הציג מתמונותיו בתערובות וזכה בפרסים ובשבחי הבקורת בעתונות. רבות מתמונותיו נרכשו לאספים צבוריים ופרטיים ומאמריו פורסמו בכתבי-עת ובספרים על אמנות בגרמניה, ובן היה שם חבר אגודת
+
+ האמנים. היה פעיל בהסתדרות הציונית ובאגודה לתרבות יהודית בגרמניה והמשיך בפעולותיו אלה בתקופת השלטון הנאצי, כשזה הכריח את היהודים ליצור לעצמם אמנות ותרבות משלהם ולא להתערב בחיי התרבות של האומה הגרמנית.
+
+ ב-1939 עלה ארצה. המשיך ביצירה אמנותית, נתמנה למורה בבית-הספר לאמנות "בצלאל החדש" בירושלים ונבחר לועד אגודת הציירים בירושלים.
+
+ ב-1945 נשא לאשה את<persName> מרגרט </persName> בת<persName> אברהם לאנגה.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בירושלים, כ"א אייר תשכ"ח (19.4.68) (ראה כרך חמישי, עמוד 2122)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2122</bibl>            <bibl>Volume: #17 ,Page: 5246 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5246</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1992 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1992</bibl><bibl>Volume: #4 ,Page: 1993 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1993</bibl>
+<bibl>Volume: #4 ,Page: 1994 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1994</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי (מונטי) גרין</persName>
+
+</head>
+         <div><p> נולד בלונדון, ב' כסלו תרע"ה (20.1.1914), לאביו <persName>צבי (הרי) </persName> (סוחר שהיגר מרוסיה לאנגליה) ולאמו <persName>קיילה </persName> לבית<persName> פיינגולד.</persName>
+
+ קיבל חינוך יהודי וכללי. התחיל ללמוד רפואה באוניברסיטת לונדון, הפסיק ויצא לאמריקה להתמחות בגידול טבק ובתעשית סיגריות. חזר לאנגליה, יצא להודו ועסק במטעי טבק
+
+ בראשית מלחמת העולם ב' התגייס לצבא ההודיהבריטי והגיע בו לדרגת מייג'ור (לט. קולונל זמני). נשלח עם דיביזיה הודית לפעולות בעיראק, סוריה ופרס ואח"כ השתתף בקרבות במדבר המערבי. ב-1942 השתתף בקורס לקציני המטה בסרפנד. אח''כ השתתף כקצין המטה והמפקדה של הדיביזיה ההודית ה-4 באיטליה וביון.
+
+ ב1944 בא שוב לארץ ונשא לאשה את <persName>לאה</persName> בת <persName>שמואל הלמן</persName> (מאלכסנדריה. יליד נוה צדק) ואח"כ השתלם בקורס גבוה לקציני מטה בחיפה.
+
+ ב-1945 שוחרר מהצבא, חזר לאנגליה וניהל חברה
+
+ לעסקי טבק ואת העסקים הגדולים של המשפחה במסחר ובתעשיה.
+
+ ב-1947 בא להשתקע בארץ וניהל חברת ביטוח בריטית. הצטרף ל"הגנה" ושימש בה יועץ בענינים
+
+
+ צבאיים, וביחוד בעניני אימונים. במלחמת המולדת המשיך בשרותו מקודם בצבא ההגנה במחתרת ואח"כ בצבא ההגנה לישראל בדרגת אלוף במטה הכללי. פעל גם בהכשרתם של אנשי מח"ל - המתנדבים מהארצות האנגלו-סכסיות. ביוני 1948 נפצע קשה ומשהחלים נתמנה בספטמבר למפקח כללי של חיל האויר ואח"כ חזר לשרות במטכ''ל. במרס 1949 נסע לאנגליה והשתתף בתעמולת המגבית הארצישראלית. משחזר ביוני נתמנה לראש הועדה על בינוי של הפיקוד העליון לצבא ההגנה לישראל ומיום 20 באוקטובר 1949 ואילך משרת כראש אגף האפסנאות במטה הכללי.
+
+ בנו: <persName> שמואל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1992 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1992</bibl><bibl>Volume: #4 ,Page: 1993 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1993</bibl>
+<bibl>Volume: #4 ,Page: 1994 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1994</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

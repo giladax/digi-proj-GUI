@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4275 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4275</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב חיים דוד הלוי</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"ח שבט, תרפ"ד (24.2.1924).
+
+ לאביו<persName> משה הלוי </persName> ולאמו <persName>ויקטוריה </persName> בת <persName>רפאל קראקו.</persName>
+
+ קיבל חינוך מסורתי בישיבת "פורת יוסף" בירושלים והוסמך לרב.
+
+ היה ר"מ בישיבת "שערי-ציון" בירושלים מיסודו של הראשל"צ הרב הראשי<persName> בן-ציון מאיר חי עוזיאל</persName> זצ"ל והיה מזכירו הפרטי בשנות תש"ט-תש"י (1949-50).
+
+ במלחמת השחרור שירת בגדוד בני-הישיבות "אריה" בירושלים.
+
+ בשנת תש''ט (1949) נשא לאשה את<persName> מרים</persName> בת הרב <persName>משה וועקנין</persName> (נכדת הרב הראשי לטבריה הרב <persName>מאיר</persName> <persName>וועקנין </persName> זצ"ל).
+
+ משנת תשי"א (1951) רב העיר ראשון לציון. ר"מ בבית הוועד להשתלמות רבנים ושו"בים באבן שמואל.
+
+ בירושלים.
+
+ היה ציר הקונגרס הספרדי העולמי בירושלים, תשי"ז (1954).
+
+ ממייסדי ה"אירגון הארצי של הרבנים הספרדים בישראל".
+
+ כתב מאמרים בעתונים: "הצופה", "שוילין", "גוי לין", "התורה והמדינה", "קול-סיני".
+
+ חיבר ספרים : "בין ישראל לעמים" (תשי"ד), "דבר המשפט" (ת"א, תשכ"ב), "דבר המשפט" (חלק ב' תשכ"ג).
+
+ צאצאיו.<persName> רפאל, נצחיה, רננית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4275 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4275</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

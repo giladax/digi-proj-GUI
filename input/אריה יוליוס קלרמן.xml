@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5436 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5436</bibl><bibl>Volume: #18 ,Page: 5437 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5437</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה יוליוס קלרמן</persName>
+
+</head>
+         <div><p> נולד ברטיסלבה (צ'כוסלובקיה)) בשנת תרנ"ז (27.1.1897).
+
+ לאביו <persName>יחזקאל צבי</persName> ולאמו<persName> צביה</persName> בת<persName> ישראל וויינר.</persName>
+
+ קיבל חינוך כללי, בבתי-ספר לתעשיית יינות בצ'כוסלובקיה.
+
+ היה ייצרן של שמפניה בברטיסלבה (צ'כוסלובקיה).
+
+
+ בשנת 1925 נשא לאשה את <persName>גרטה</persName> בת<persName> זיגמונד</persName> <persName>גוטפריינד.</persName>
+
+ בשנת 1949 עלה לארץ.
+
+ המומחה לייצר "יין הנשיא" - השמפניה של כרמל מזרחי בראשון-לציון וזכרון-יעקב.
+
+ תרם רבות לחיזוק כלכלת המדינה ולהעלאת רמת יינות "כרמל מזרחי", בפרט היין הנ"ל, שזה הפטנט שלו ושיווקו בכל רחבי תבל, והינחיל להם מוניטין עולמיים.
+
+ בנו:<persName> ד"ר יאן - יחזקאל </persName> (ראה את הערך שלו בכרך זה, בעמודים 5433-34).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5436 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5436</bibl><bibl>Volume: #18 ,Page: 5437 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5437</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

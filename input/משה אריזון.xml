@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4099 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4099</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה אריזון</persName>
+
+</head>
+         <div><p> נולד ברומניה, בשנת תרל"ב (1872).
+
+ בשנת תרמ"ג (1883) עלה לארץ.
+
+ היה מראשוני המתיישבים החקלאים בזכרון-יעקב.
+
+ למד זמן קצר בבית הספר (האיליאנס) בירושלים.
+
+ מילדותו התמסר לחקלאות, והיה למחנך חקלאי מטעם הבארון.
+
+ נשא לאשה א<persName>ת שרה </persName> בת <persName>מתתיהו תמשס </persName> (ממייסדי המושבה זכרון-יעקב וראש הוועד שלה במשך שנים רבות).
+
+ בימי בחרותו נחשב לגיבור המושבה. היה בעל כוח ובעל אומץ ומראשי ההגנה (השמירה) של אז.
+
+ במאורעות 1936 והוא אז בן 64, יצא בלילות לשמירה יחד עם הצעירים.
+
+ המושבה היתה מטילה עליו להוביל בדרכים המסוכנות כספים לצרכי מוסדות המקום.
+
+ נפטר בזכרון-יעקב, כ"ד אדר ב' תש"ג (31.3.1943).
+
+ צאצאיו:<persName> מאיר אריסון </persName> ז"ל (כרך א', עמוד 437), <persName>רחל, שושנה, ישראל, אריה</persName> (שניהם בבנימינה),<persName> צבי</persName> (חיפה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4099 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4099</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

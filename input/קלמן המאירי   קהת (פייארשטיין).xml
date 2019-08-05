@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3739 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3739</bibl><bibl>Volume: #11 ,Page: 3740 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3740</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>קלמן המאירי - קהת (פייארשטיין)</persName>
+
+</head>
+         <div><p> נולד בשאמוש אויואר (הונגריה) בשנת תרנ"ה (18.8.1895).
+
+ לאביו<persName> בנימין פייארשטיין</persName> ולאמו<persName> סרנה </persName> לבית<persName> פייאר</persName> <persName>שטיין.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה של הרב<persName> יוסף</persName> <persName>גוטערר</persName> בקלוש, ואצל הרב המפורסם ר' <persName>משה גלאזנר</persName> בקלוש.
+
+ גמר אח"כ את לימודיו בבית הספר התיכוני למסחר.
+
+ בשנים 1915-18 שירת בצבא האוסטרי-הונגרי בדרגת קצין, וכשנתיים נלחם בחזית.
+
+ בהתעורר התנועה הציונית בטרנסילבניה בשנות 1917-18 הצטרף לתנועה ולקח חלק פעיל בכל פעולותיה.
+
+
+ יסד את אגודת הנוער הציוני, סייר בעיירות ואירגן אגודות ציוניות.
+
+ ממיסדי ההסתדרות הארצית של אגודות הנוער בהונגריה כולה שהוקמה בועידה הארצית בבודפסט בדצמבר 1917 בראשותו של פרופ' <persName>יוסף פטאי</persName> ז"ל.
+
+ בפרוץ המהפכה ההונגרית באוקטובר 1918 היה ממארגני פלוגות ההגנה היהודית שהוקמה ע"י המהנדס הציוני ברגי.
+
+ בראשית 1919 חזר לקלוש ונמנה על עוזריו הפעילים של ד"ר <persName>חיים וייסברג </persName> ז"ל בהסתדרות הארצית של ציוני טרנסילבניה.
+
+ עד שנת 1932 היה חבר הועד הפועל הארצי. בשנות 1929-32 היה המזכיר הראשי של משרד א"י בקלוש ומפעילי קרן היסוד. אירגן את מגבית של קרן היסוד בטרנסילבניה הצפונית.
+
+ בשנת 1932 הצטרף לתנועה הרביזיוניסטית והיה ממארגני בית"ר בטרנסילבניה.
+
+ נשא לאשה את <persName>אסתר</persName> בת <persName>אדוארד קרפנר.</persName> בשנת 1932 עלה עם משפחתו לארץ והתישב בתלאביב.
+
+ היה פעיל בבית"ר ואח"כ הצטרף להסתדרות הציונים הכלליים.
+
+ בת"א הקים בית מסחר ליבוא עצים עם סניף בפריז. נפטר בת"א, ט"ז תמוז תשי"ט (22.7.59).
+
+ בנו :<persName> יהודה המאירי</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3739 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3739</bibl><bibl>Volume: #11 ,Page: 3740 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3740</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

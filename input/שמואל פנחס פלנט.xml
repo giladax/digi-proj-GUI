@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5164 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5164</bibl><bibl>Volume: #17 ,Page: 5165 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5165</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל פנחס פלנט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ראדימנו</placeName> (גליציה), י"ב בניסן תרנ"ב (1892).
+
+ לאביו <persName>מרדכי פלנט</persName> ולאמו פרידה בת <persName>יוסף דוד</persName> <persName>בלנק.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ עסק בפעולות צבוריות וציוניות ויסד בעיר מגוריו ספריה עברית בשם "שפה ברורה".
+
+ בשנת תרס"ט (1909) עלה לארץ. היה הראשון שעלה מאותה סביבה לארץ ובעקבותיו עלתה במשך הזמן כל המשפחה.
+
+ ביחד עם אחיו עסקו במסחר עורות.
+
+ בשנת תרע"ח (1918) נשא לאשה את<persName> חמדה </persName> בת הרב<persName> ישראל חבס </persName> (ראה כרך ראשון, עמוד 98). (ראה את הערך שלה בכרך זה).
+
+ לקח חלק בהקמת "קרית ענבים" כבא כח לשכת "בני-ברית" בירושלים (היה באותו הזמן מזכיר הלשכה).
+
+ כתב מאמרים רבים בעתונות העברית והאידישאית בענינים כלליים צבוריים.
+
+
+ פירסם כתריסר חוברות בקורת על שחיתות בציבור ובממשלה, שנתפרסמו בקביעות במשך 7-6 שנים (בין החוברות: "והיה המישור לעקוב" נמיסת המטבע, כלכלה משובשת, אסון הדיור, מסים כבדים, איך לאזן תקציבים, חובות לאומיים כבדים וכו'.
+
+ בסוף החוברת הוא מפרסם מכתב אל הקורא הנכבד: ...אם נוחה דעתך מתוכן חוברתי זו ומדרכה, ויש באפשרותך להמציא לי חומר נוסף שיהיה עשוי לשרת את צבור האזרחים במדינה, שאינם מתמצאים בסבך הבעיות שהתעוררו. בעיקר הנני מעונין בחומר עובדתי בדוק ומנופה על מנת שלא להכשל.
+
+ נפטר בתל-אביב, ג' תמוז תשכ"ו (21.6.1966) והובא לקבורה בבית העלמין "נחלת יצחק".
+
+ בתו:<persName> בתיה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5164 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5164</bibl><bibl>Volume: #17 ,Page: 5165 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5165</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

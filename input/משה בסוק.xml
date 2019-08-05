@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4663 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4663</bibl><bibl>Volume: #15 ,Page: 4664 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4664</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה בסוק</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קובנה</placeName> (ליטא), ט"ו אב תרס"ז (אוגוסט 1907).
+
+ לאביו <persName>זלמן יהודה בסוק </persName> ממשפחת "בעל הלבוש" מצד אמו) (ת"ח מובהק, מתלמידי ישיבת וולוז'ין בימי הנציב ר' <persName>חיים </persName> מבריסק, ממיסדי האגודה החיבת-ציונית "נצח ישראל", שעל חבריה נימנו בשעתה גם<persName> ח. נ. ביאליק</persName> , הר' <persName>ניסנבוים</persName> ועוד, מחבר ספר דרוש "נחלת יעקב", וילנה תרצ"ג) ולאמו <persName>אלטה דינה</persName> בת<persName> יחזקאל טארלובסקי.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה, וכללי 
+
+
+ השכלה כללית אצל מורים פרטיים, השתלמות עצמית.
+
+ איש מרכז "החלוץ" בפולין. עורך הוצאות
+
+ התנועה העברית וביידיש (עתונות, ספרים, חוברות), היה חבר מערכת ועורך המדור הספרותי של העתון היומי "דאס ווארט".
+
+ בשנת תרצ"ו (1936) עלה לארץ.
+
+ עבד בחקלאות, וזמן קצר בהוראה.
+
+ כשנתיים בעבודה בסוכנות היהודית לא"י,
+
+ בעריכת "ספר החלוץ" (ת"ש) ": "ספר המעפילים" (תש"ז).
+
+ היה ציר בקונגרס הציוני בפרג (1933) ובקונגרס בלוצרן (1935).
+
+ כל השנים חבר ההגנה.
+
+ בשנת תש"ד (1944) נשא לאשה את <persName>שולמית</persName> בת המורה והסופר <persName>קדיש יהודה סילמן</persName> מירושלים (ראה כרך א', עמוד 355).
+
+ חיבר ספרים: "ברענענדיקע טעג" (ביידיש, שירים. ווארשה, 1936) ; "דאס בוך פון דער ניי ארץ-ישראל דיקער פאעזיע " (הוצאת "החלוץ", וורשא, 1936).
+
+ בעברית - ספרי שירה: "בשלבים" (הוצאת "כאן", ווארשה, תרצ"ד); "בהדים מרחקים" (הוצאת "גזית", ת"א, תש"א); "מאחרי הזורע" (הקיבוץ המאוחד, עין-חרוד, תש"י); "החוף השקט" (הוצאת הקיבוץ המאוחד, תשט"ז); "נחושתים והללויות" (הוצאת הקיבוץ המאוחד, תשכ"א); "מיבחר שירת יידיש", למן<persName> י. ל. פרץ</persName> עד ימינו, בליווי מבוא "סקירות" הערכה ותמונות המשוררים (הוצאת הקיבוץ המאוחד, תשכ"ב); "יום נאה, חלקו מעונן". יראה אור בקרוב.
+
+ מסה וביקורת:
+
+ "נופי ספרות" (מסה, עיון, דיוקן, הוצאת הקיבוץ המאוחד, תשכ"ה).
+
+ תרגומים:
+
+ "הירש לקרט" (פואימה דרמתית, מאת <persName>ה. לויק,</persName> הוצאת הקיבוץ המאוחד, תש"ד) : "בריחתי מן השבי" <persName>(פ. יורדן</persName> , הוצאת הקיבוץ המאוחד, תש"ה); "בין קירות נופלים" <persName>(ט. בוז'יקובסקי, </persName> הוצאת הקיבוץ המאוחד, תש"י); "ספרים ואישיים" <persName>(מ. גורקי,</persName> הוצאת הקיבוץ המאוחד, תשי"ב).
+
+ עריכה (ספרים שעריכתם נקובה בשמו).
+
+ "ספר החלוץ" (הוצאת הסוכנות היהודית, ת"ש); "ספר המעפילים" (הוצאת הסוכנות היהודית, תש"ז); "ספר מלחמת הגיטאות (יחד עם<persName> יצחק צוקרמן.</persName> הוצאת הקיבוץ המאוחד, תשט"ו); "מנחם שמי'' (48 תמונות ומבחר אגרות ורישומים, הוצאת הקיבוץ המאוחד", תשי"ח).
+
+ ספרים רבים נערכו על-ידו בעילום שם (ראו אור בהוצאת הקיבוץ המאוחד).
+
+ כתב מאמרים בעתונות - בחו"ל (ביידיש): "דאס ווארט" "ידיעות פון מרכז החלוץ". ("עתון החלוץ" בפולין).
+
+ בעברית: ב"העתיד";
+
+ בעתונות בארץ: "דבר"; "משמר", "למרחב". "מבפנים", "מאזנים" ועוד.
+
+ חבר מערכת הוצאת הספרים של הקיבוץ המאוחד.
+
+ חבר משק "אשדות יעקב", הקיבוץ המאוחד.
+
+ נפטר באשדות יעקב, כ"ט שבט תשכ"ו (19.2.66)
+
+ צאצאיו:<persName> יהודית, עידו.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4663 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4663</bibl><bibl>Volume: #15 ,Page: 4664 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4664</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

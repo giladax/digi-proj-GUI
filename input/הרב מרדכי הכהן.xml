@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1229 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1229</bibl><bibl>Volume: #3 ,Page: 1230 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1230</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב מרדכי הכהן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בכ"ד אדר תרס"ו לאביו הרב המקובל רבי <persName>חנוך חיים הכהן</persName> (מצאצאי הגאון ר' נפתלי כץ מפוזנא, בעל "סמיכת חכמים", ולאמו<persName> יוטה</persName> <persName>פייגה</persName> בת החסיד ר'<persName> מנחם מנדל וידר </persName> (מראשוני המדפיסים בסיגט בירת מרמרוש, הונגריה).
+
+ ראשית חנוכו קבל בחדרים ב<placeName>ירושלים</placeName> העתיקה ואחרי כן הוסיף להשתלם בתורה בישיבות "עץ חיים" ו"חיי עולם" ב<placeName>ירושלים</placeName> ונסמך להוראה על ידי הרב א. י. הכהן קוק והרב יוסף חיים זוננפלד.
+
+ עם יסוד האוניברסיטה העברית ב<placeName>ירושלים</placeName> היה בין עשרה תלמידיה הראשונים, הופעתו לשעורים בתלבושת ירושלמית-חסידית ובפיאות ארוכות-מסולסלות עשתה רושם על כל הפרופסורים שרחשו לו, בגלל כך, חיבה מיוחדת וד"ר י. ל. מגנס קבע לו סטיפנדיה חדשית קבועה.
+
+ בתרפ''ה נשא לאשה את <persName>רבקה-לאה</persName> בתו היחידה של הרב <persName>אברהם צבי שור </persName> (מראשי הישוב הירושלמי ואב"ד לעדות החסידים בעיר).
+
+ בתרפ"ו יצא בשליחות ציונית לאירופה, עבר בערי הונגריה וצ'כוסלובקיה וביחוד ברוסיה-הקרפטית, עשה נפשות לציונות הדתית וחזר ארצה בראש קבוצת חלוצים דתיים שנקלטו במקומות שונים בארץ.
+
+ בתרפ"ט נבחר בחבר הנהלת "כולל מונקאטש" ב<placeName>ירושלים</placeName>, וביזמתו הוקמה השכונה "תפארת צבי" לעולי רוסיה-הקרפטית ב<placeName>ירושלים</placeName>. מאז הוא משמש גם כיו"ר הנהלת "כולל ויז'ניץ". וכמו-כן הוא חבר הועד הפועל של "המזרחי", חבר הנהלת "מחזיקי הדת", חבר ועד שכונת "מאה שערים" ועוד.
+
+
+ בתרצ"א טפל יחד עם אחיו, הרב צבי <persName>הירש ה</persName> <persName>כהן-קהאן</persName> מנ"ו-יורק, בחדוש הישוב היהודי בחברון וגייס סכומים נכרים להחיאת מוסדות התורה והחסד במקום.
+
+ בתרצ"ז הופיע בפני ועדת-פיל בשם הישוב הישן ב<placeName>ירושלים</placeName>, ובנאום מזהיר שנאמר באנגלית רהוטה הזים את הדעה שכאלו בני הישוב הישן מתנגדים לציונות.
+
+ בתש"ג החל בהוצאת שבועון בשם "נרות שבת" המכיל חומר ספרותי ופובליציסטי על ערך השבת וקדושתה.
+
+ בתש"ד נתמנה כחבר "בית הדין לעדות החסידים" ב<placeName>ירושלים</placeName>, וכן כראש ישיבת "בית ועד לחכמים" במאה שערים, ירושלים, בה הוא מרצה שעורים יום-יומיים בתלמוד.
+
+ בתש"ז עסק יחד עם<persName> יצחק ורפל</persName> , הרב <persName>עמרם</persName> ברב"י בלאו ואחרים ביסוד ישיבה לתורה ואמנות בגבעת שאול על יד ירושלים.
+
+ בתש''ח יצא בשליחות ציבורית לארצות הברית ליסוד מוסדות כלכליים-קונסטרוקטיביים לבני הישיבות ב<placeName>ירושלים</placeName>.
+
+ לפני עשר שנים החל לטפח רעיון ליצירת תהליך של "תשובה" לשמירת התורה, שיקיף את כל חוגי הישוב, והוא מאמין שראשונים לכך יהיו חברי הקבוצים והקבוצות בארץ. לשם מטרה זו הוא מקדיש את מיטב כחותיו בכתב ובע"פ, מפרסם מאמרים ומופיע כנואם ומתוכה בכנוסי פועלים, חבר-הקבוצות ועוד, מקדיש שבתות להטפה ווכוח בקבוצים בעמק ובגליל ובנגב ודבריו עושים רושם.
+
+ כתב מאמרים ב"החרות" (ירושלים), "דיא יידישע צייטונג" (מונקאטש), "במערכה" (ירושלים), "דאר היום", "הצופה'', "סיני", "במישור", "קול יעקב", "מחזיקי הדת", "הפוסק", "גליונות בית הכנסת הגדול בת"א" ועוד.
+
+ השתתף כציר לועידות שונות של "המזרחי", בכנוס הסופרים ואנשי הרוח, בכנוסי "אגוד סופרים
+
+ דתיים", כנוס ארצי למען השבת, כנוסי פעילי התרבות של "הסתדרות העובדים" ועוד.
+
+ חובב ספר ומאסף ספרות רבנית, הקים לו ב<placeName>ירושלים</placeName> את אחת הספריות הנהדרות בארץ.
+
+ צאצאיו; <persName>שמואל</persName> (מזכיר המחלקה לארגון המועצות-הדתיות במשרד שר-הדתות במדינת ישראל). <persName>פנחס-פלאי</persName> (סופר ומשורר, משתתף ב"דבר", "הפועל הצעיר" וכו'), <persName>מנחם, טובה, שרה, יהודית, עמרמה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1229 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1229</bibl><bibl>Volume: #3 ,Page: 1230 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1230</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

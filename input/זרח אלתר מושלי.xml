@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 369 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/369</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זרח אלתר מושלי</persName>
+
+</head>
+         <div><p> נולד בעיירה ליד וארשה, פולין, בשנת תר"י (1850), לאביו<persName> אברהם אליעזר.</persName>
+
+ בהיותו בן שבע עלה ארצה עם הוריו בתרי"ז והתישבו בירושלים. למד בחדרים ובישיבה, ובשנת תרכ"ה השיאו לו לאשה את<persName> בובה יוכבד </persName> בת <persName>מאיר</persName> <persName>יהודה פישמן</persName> , ממשפחה ותיקה בצפת, שאבותיה נספו ברעידת האדמה בתקצ"ז. (נפטרה ביפו, כ"ב תשרי תרמ"ח ועצמותיה הועברו בימי מלחמת העולם הרא
+
+ שונה לבית הקברות הישן בתל-אביב).
+
+ למד את מלאכת השענות ובשנת תרל"ו השתקע ביפו ועבד במקצועו. היה מראשוני המתישבים בנוה צדק. בשנותיו האחרונות נהל פרדסי בנו <persName>מרדכי </persName> (מכס) בפתח-תקוה.
+
+ נפטר בתל-אביב, כ"ה סיון תר"פ ונקבר בביתהעלמין הישן.
+
+ צאצאיו:<persName> יעקב,</persName> המהנדס הידוע בחיפה; <persName>מרדכי</persName> <persName>(מכס),</persName> בעל העסק "סימון ארצט" בפורט סעיד;<persName> שרה</persName> אשת <persName>אבא נאמן</persName> (ניימאן), העסקנית הידועה ב"בנות ברית" ובמפעלי חסד בתל-אביב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 369 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/369</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

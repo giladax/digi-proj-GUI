@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 375 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/375</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל יום-טוב מיוחס</persName>
+
+</head>
+         <div><p> בן משה מרדכי. נולד ב<placeName>ירושלים</placeName> באייר תרט"ו (1855). התחנך ב"דורש ציון" ואח"כ למד תורה מפי ר' מנחם בכר יצחק ור' ברוך פינטו. היה ידידם וחברם של הרבנים ר' מרדכי שירזלי, ר' יצחק אשכנזי ור' אברהם אשכנזי. בשנת תרל"ב (1872) נשא לאשה את מזל בת ר' בכור לוי, אחיו של ר' אשר לוי. בתחלה התפרנס ממלאכת השחיטה, בשנת תרל"ח (1878) נסע כשד"ר לחו"ל: לסוריה, פרס, בבל, הודו במשך שש שנים רצופות, מטעם כוללות הספרדים ב<placeName>ירושלים</placeName>. בהיותו בפרס חלה בעיניו ובמשך שלש שנים לא ראה מאורות. בהיותו בכלכותה בהודו התאכסן בבית קרובו ר' משה בר' מרדכי מיוחס. הגבירה מזל-טוב, אשת הגביר אליהו בן דוד עזרא, בראותה את השד"ר סובל בעיניו הכניסה אותו לבית החולים הממשלתי ושם עשו לו ניתוח ונתרפא. בזמן שבתו בבית החולים ספקה לו אוכל כשר. שם דרש בעת חנוכת בית הכנסת הגדול שנקרא בשם "מגן דוד", בשנת תרמ"ה (1885) חזר ירושלימה והיה מלומדי "ישיבת ייני" (על שם המתנדב ר' יצחק ייני), "ישיבת פחד יצחק", "ישיבת פיררא" ובהשפעת מזל-טוב הנ"ל נכנס גם ל"ישיבת מזל צומח". התפרסם כתלמיד-חכם עמקן וחריף. חי בצמצום. התפרסם כעסקן צבורי. החל משנת תרל"ח (1878) היה חבר ועד "קופת התמחוי". החל משנת תרמ"ט (1889) היה חבר ועד ביה"ח "משגב לדך". חבר ועד עדת הספרדים ב<placeName>ירושלים</placeName> בנשיאותו של אהרן חיים ולרו. בשנת תרנ"א (1891), כאשר הגיעה הידיעה על רעיון בנית שכונת "ימין משה" על קרקעותיו של סיר משה מונטיפיורי, נתמנה ע"י הראש"ל ר' רפאל מאיר פניז'יל לחבר ועד השכונה החדשה יחד עם ר' יצחק אשכנזי, ר' אליהו משה פניז'יל, ר' מורינו בראדון ור' יעקב מאיר. יתר חבריו בועד נסעו כשד"רים לערי חו"ל והוא נשאר לבדו ועל ידיו נבנו רוב בתי השכונה. בשנת תרס"ד (1904) השתתף בבית דינו של הרב ר' שמואל נסים.
+
+ נפטר ב<placeName>ירושלים</placeName>, כ"ט סיון תרס"ז (1907). הניח אחריו שני בנים ושתי בנות. מחדושי תורתו נדפסו ב"המאסף" הירושלמי. פרסם ב<placeName>ירושלים</placeName> קונטרס "מגילת יוחסין" של זקנו הכוללת מעשה הנס שאירע להרב המפורסם בעהמ"ח ס' "פרי אדמה", שהיה רב ב<placeName>ירושלים</placeName> בשנת התפ"ג.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 375 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/375</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

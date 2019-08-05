@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1770 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1770</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן שריון</persName>
+
+</head>
+         <div><p> נולד בירושלים. כ"ה בסיון תרנ"ו (1896), לאביו <persName>יצחק</persName> (כרך ב', עמוד 715), ולאמו <persName>הינדה פיינה</persName> בת <persName>חיים רפאל ויטנברג</persName> .
+
+ קבל חינוך מסורתי בחדרים, בישיבה "קטנה" של
+
+ הרב <persName>משה קצנלבוגן</persName> . אח"כ בסניף ישיבת "עץ חיים' בחצר <persName>שטרויס</persName> .
+
+ סיים את בית ספר למל ואת בית הספר למסחר שעל יד בית המדרש למורים העברי.
+
+ בשנת תרע"ח נשא לאשה את <persName>חנה</persName> בת <persName>יוסף ליפשיץ</persName> (כרך אי, עמוד 379).
+
+ סיטונאי ייבואן בענף הנייר.
+
+ חבר הועד הפועל של התאחדות בעלי בתים בירושלים. חבר הנהלת בנק "מזרחי".
+
+ צאצאיו : <persName>הדסה</persName> אשת <persName>מנחם מרגליות, עדינה, אמציה</persName> .
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בירושלים, כ"ח תשרי תשכ"ח (1.11.67) (ראה כרך רביעי, עמוד 1770)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1770 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1770</bibl>            <bibl>Volume: #17 ,Page: 5246 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5246</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

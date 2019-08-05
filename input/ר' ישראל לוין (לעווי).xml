@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4341 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4341</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ר' ישראל לוין (לעווי)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> (דור שלישי ב<placeName>ירושלים</placeName>) בשנת תרכ"ז (1867).
+
+ לאביו ר' <persName>מרדכי לעווי</persName> בן הרב <persName>ליב לעווי </persName> (אב בית דין וראש המקובלים בישיבת "בית-אל" ב<placeName>ירושלים</placeName>, בן הרב הגאון רבי<persName> אברהם</persName> זצ"ל, צאצאי משפחת רבי <persName>צבי,</persName> הרב דפיורדא, שהיה חסנא דבי נשיאה הגאון רבי <persName>רפאל</persName> <persName>הכהן המבורגר </persName> הידוע).
+
+ קיבל חינוך מסורתי בישיבות ב<placeName>ירושלים</placeName> העתיקה. לא הסכים לקבל תואר רבנות.
+
+ נשא לאשה את <persName>צירל</persName> לבית <persName>שורק.</persName>
+
+ עסק במסחר. בשנת תרנ"ו (1896) הרחיב את מסחרו באתרוגי א"י לאירופה.
+
+ דאג להמציא עבודה לאנשי ירושלים. יסד בית חרושת לסוכריות.
+
+ היה מראשי עדת כולל ווארשה והיה מבוני "בתיווארשה" ב<placeName>ירושלים</placeName>.
+
+ ממייסדי בית היתומות (יחד עם ר' <persName>בצלאל ברנשטיין</persName> ור'<persName> אהרן אטינגר.</persName>
+
+ בשנת תרע"ו (1916) נבחר להנהלת "מושב זקנים
+
+ המאוחד" יחד עם העסקנים: ה"ה<persName> ישראל דב פרומקין</persName> (ה"חבצלת" - ראה כרך א', עמוד 489),<persName> יחיאל מיכל</persName> <persName>פינס </persName> (ראש הבילויי"ם. ראה כרך ב', עמוד 562) <persName>ויצחק</persName> <persName>אייזיק בן-טובים</persName> (ראה כרך ב', עמוד 595).
+
+ הצטיין כחזן בעל קול נעים והלהיב את הלבבות בזמרתו ובתפילתו.
+
+ יד ושם לו בכל דבר טוב ומועיל לבניין הארץ. היה עסקן ציבורי מובהק.
+
+ נפטר ב<placeName>ירושלים</placeName> בחודש סיון תרצ"א (1931).
+
+ צאצאיו: <persName>אברהם</persName> ז"ל, הרב<persName> זלמן</persName> ז"ל,<persName> יעקב ליב, נחמה</persName> אשת <persName>ברוך פרלמן, מרדכי</persName> (ראה בכרך זה),<persName> צבי</persName> (הרשל) ז"ל,<persName> מלכה רחל ז"ל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4341 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4341</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

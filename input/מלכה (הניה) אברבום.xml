@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3567 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3567</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מלכה (הניה) אברבום</persName>
+
+</head>
+         <div><p> נולדה בזעטיל (רוסיה) ח' ניסן תרל"ו (1876).
+
+ לאביה<persName> יהושע איזנשטט-ברזילי </persName> (ראה כרך א', עמוד 150) ולאמה<persName> טייבה </persName> בת ר'<persName> אליעזר פריידקס.</persName>
+
+ עלתה לארץ, כ"ב סיון תרמ"ז (1887).
+
+ קיבלה חינוך מסורתי וכללי מפי מוריה :<persName> מאיר</persName> <persName>בלקינד ויהודה גור</persName> (גרזובסקי).
+
+ בשנת 1906 נישאה <persName>ליצחק הנקין </persName> (ראה כרך ד, עמוד 1909) ובזיווג שני נישאה בשנת <persName>1</persName> 913<persName> לאברהם חיים</persName> <persName>אברבום</persName> (ראה בכרך זה).
+
+ לוותה בדרכו הקשה את בעלה<persName> יצחק הנקין</persName> , ממייסדי חדרה, ולקחה חלק רב בהתפתחות המושבה וסבלה רבות מהקדחת הצהובה ששררה במושבה.
+
+ היתה פעילה בהגנת המושבה בימים ההם.
+
+ אחרי שבעלה נפטר עברה עם בעלה בזיווג שני לצפת ולחיפה והשתתפה בעבודות צבוריות-סוציאליות שונות.
+
+ צאצאיה (מבעלה הראשון): <persName>שרה </persName> אשת<persName> חיים בנימיני</persName> (רמת השרון), <persName>מרים </persName> אשת <persName>אברהם גלותמן</persName> (ממיסדי נהלל, נרצח ליד טול-כרם).
+
+ מבעלה השני: <persName>שמעון אילון</persName> (אגרונום, ראה בכרך זה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3567 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3567</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

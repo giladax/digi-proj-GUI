@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3842 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3842</bibl><bibl>Volume: #11 ,Page: 3843 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3843</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב רפאל יחזקיהו גאנין</persName>
+
+</head>
+         <div><p> לאביו הרב <persName>שלום משה חי</persName> בן הרב <persName>חיים אברהם</persName> <persName>גאזין</persName> . נולד ב<placeName>ירושלים</placeName> בשנת תר"י (1850). למד תורה מפי אביו הנ"ל ובישיבותיה של ירושלים.
+
+ היה חבר בית-הדין של הרב <persName>יוסף נסים בורלא.</persName> שמחת חייו הייתה ספרית משפחתו העשירה. כל היום ישב בין אוצר-ספריו ועסק בתורה. כתב הערות על הספר "אהל מועד" לר' <persName>שמואל</persName> ב''ר <persName>משולם גירונ</persName> <persName>די</persName> בשם "מכסה האהל" (ח"א ירושלים תרמ"ו, ח"ב, שם, תרס"ד); השלמות לספר "שמח נפש" של אביו הנ"ל; הו"ל את הספר "עבודה תמה" של הרב<persName> יהושע</persName> <persName>בנבנשתי.</persName>
+
+ הוליד שלושה בנים: הרב <persName>שם טוב</persName> (ראב"ד של העדה הספרדית והפורטוגזית בלונדון),<persName> משה חי, אליהו.</persName>
+
+ נפטר כ"ט כסלו תרפ''ד (7.12.1923).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3842 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3842</bibl><bibl>Volume: #11 ,Page: 3843 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3843</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

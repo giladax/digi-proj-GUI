@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3868 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3868</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישעיהו אג'ימאן</persName>
+
+</head>
+         <div><p> מגדולי ההשפעה בעדת יהודי קושטא (תורכיה).
+
+ היה השולחני (חלפן, בנקאי) לראש חיל היאניטשרים מחנה צבא מיוחד אשר הקים לו בזמנו<persName> שולטן</persName> <persName>מחמוד.</persName>
+
+ בשנת תק"פ (1820) עלה מקושטא (תורכיה) לארץ, על מנת להשתקע בירושלים.
+
+ בראותו כי היהודים העולים לארץ דרך נמל יפו, נאלצים להתאכסן בבתי הערבים, ולחכות ימים עד שהפקיד המיוחד, הנשלח מטעם ראשי ומנהיגי עדת הספרדים בירושלים מגיע ליפו עם בהמות משא ורכיבה להסיעם ירושלימה.
+
+ קנה בכספו חצר אחת ובה בנין בן 3 קומות והקדישה להכנסת אורחים וחדר אחד קבע לבית כנסת.
+
+ בעת ההיא נמצא ביפו מנין מצומצם של יהודים. חצר זו נרשמה בערכאות על שם עדת הספרדים בירושלים, ונחשבת באופן רשמי לרכישה עד היום.
+
+ במאסף "ירושלים" של <persName>לווץ </persName> (כרך ה' עמוד 323) וכן בלוח א"י להנ"ל, שנה ד. תרנ"ט עמוד 81 מסופר, כי היסוד לישוב החדש ביפו הונח ע"י <persName>ישעיהו אג'ימאן</persName> הנ"ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3868 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3868</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4773 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4773</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם בן-יוסף (כהן-כוגן)</persName>
+
+</head>
+         <div><p> נולד בתרס"ז (1907) באונגני, בסרביה. לאביו <persName>יוסף כהן (כוגן</persName> ) ולאמו <persName>גוסטה.</persName>
+
+ בילדותו עברה המשפחה לבאקו (קוקז), שם עסק אביו כמהנדס-נפט, ושם נולד אחיו, <persName>נתן כוגן,</persName> אף הוא שחקן התיאטרון הקאמרי.
+
+ בתר"ף (1920), עלתה המשפחה לארץ. האב עבד תחילה כפועל ביקב ראשון-לציון, ואחר כך במפעל המים של עירית תל-אביב.
+
+ למד בגמנסיה "הרצליה" מחזור י"ג.
+
+ בגלל המשבר בארץ חזרה המשפחה מספר שנים לרומניה. האב עסק במקצועו כמהנדס-נפט, <persName>ואברהם</persName> למד ארבע שנים הנדסה באוניברסיטה של גנט בלגיה.
+
+ בזמן היותו תלמיד האוניברסיטה ראה את יעודו על הבמה, והקדיש לה רוב זמנו.
+
+ כשנת 1929 יצא לברלין, ושם למד ועבד כשחקן מקצועי, בצרפתית וברוסית, וכן השתלם בבלט ובזמרה.
+
+ עם עלות הנאצים לשלטון, אמר לחזור לארץ, אך בגלל קשיי העליה נתעכב ברומניה עד 1909, שבה עלה כמעפיל.
+
+ עבד זמן-מה כרתך בקליה, ים המלח, ולאחר כמה נסיונות להקלט בתיאטרון, נתקבל בחורף 1940 לבמה סאטירית "פאפיליון" מיסודו של <persName>מרטין רוסט</persName> שנסגרה מטעמי חירום, ונצטרף אל מייסדי האופירה העממית.
+
+ הופיע בתפקידים אופריטיים ב"העטלף", ב"הלנה היפה", ועוד.
+
+ בשנת 1943 הכיר את <persName>יוסף מלוא</persName> (פסובסקי אז), ויחד יסדו להקת מערכונים (ללהקה זו נצטרפו <persName>בתיה לנצט, רוזה ליכטנשטיין</persName> ז"ל <persName>וימימה פסובסקי),</persName> שזכתה להצלחה ניכרת.
+
+ מלהקה זו צמח בשנת 1945 התיאטרון הקאמרי, שהתפתח למה שהוא כיום.
+
+ מתפקידיו על הבמה:
+
+ טרופלדינו - ב"משרתם של שני אדונים" לגולדוני; יעקובבסקי - ב"יעקובובסקי והקולונל" <persName>לפ. ורפל:</persName> וילי - ב"הוא הלך בשדות" <persName>למשה</persName> <persName>שמיר; </persName> ויליאם - ב"מאז גן עדן'' <persName>לפריסטלי;</persName> חלסטאקוב - ב"רביזור" <persName>לגוגול</persName> ; סיומקה - ב"קרא לי סיומקה" <persName>לנ. שחם </persName> ; הגנן - ב"אהבתה של יובל אור" <persName>להיו סינג</persName> ; סבא ג'יקוב - ב"הקיצו ורננו" <persName>לאודטס;</persName> דוכס ווריק - ב"ז'אן דארק" <persName>לב. שאו</persName> ; פרופיסור היגינס - ב"פיגמליון" <persName>לב.</persName> <persName>שאו</persName> ; הרפגון - ב"הקמצן" <persName>למולייר</persName> ; מרקוציו ב"רומיאו ויוליה" <persName>לשקספיר</persName> ; הליצן פסטה ב"הלילה השנים עשר" <persName>לשקספיר </persName> ; רוזן שרוסברי - ב"מרי סטיוארט" <persName>לשילר</persName> ; ג'נקינס - ב"מנהל הבית" <persName>לפינטר ;</persName> אליעזר - ב"כנרת כנרת" לאל<persName>תרמן;</persName> בעל תיבת הזמרה - ב"פונדק הרוחות" <persName>לאלתרמן.</persName>
+
+ זכה ב"פרס התיאטרון של עירית תל-אביב ב-1963, על תפקידיו הרבים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4773 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4773</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3405 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3405</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בתיה קיפניס</persName>
+
+</head>
+         <div><p> נולדה בספרינגפילד מסטשוסעס (ארצות הברית), ו' אלול תרס"ב (8.9.1902).
+
+ לאביה <persName>שלום פוה</persName> ולאמה <persName>שרה</persName> בת <persName>יעקב אגווסביץ.</persName> קבלה חנוך כללי.
+
+ בשנת 1926 עלתה לארץ.
+
+ בשנת 1926 נישאה לאגרונום <persName>שמשון קצפירובסקי</persName> (ראה ערכו בכרך זה) ובזיווג שני נישאה בשנת 1955 למהנדס יצחק קיפניס (ראה ערכו בכרך ו', עמוד 2502).
+
+ עזרה הרבה לבעלה הראשון במחקרותיו המדעיות בענף החקלאות והנטיעות לסוגיהן.
+
+ אחרי שנטעה פרדס בנס-ציונה, עודדה (בשנת 1934) את בעלה לתעמולה בין יהודי חוץ-לארץ לגאולת אדמות בסביבות הירקון בשרון ולנטיעת פרדסים. ובעזרתה נגאלו שטחים נרחבים, שטחי שממה, שנהפכו לפרדסים וכו'.
+
+ צאצאיה (מבעלה הראשון):<persName> שלום</persName> (בעל בית מרקחת בנס-ציונה),<persName> צפורה</persName> אשת ד"ר <persName>אברהם פיטשורניק</persName> (ממכון ויצמן).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3405 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3405</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

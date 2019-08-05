@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3835 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3835</bibl><bibl>Volume: #11 ,Page: 3836 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3836</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף ממאן (יוסף המערבי)</persName>
+
+</head>
+         <div><p> לאביו משה.
+
+ נולד ב<placeName>טיטואן</placeName> (מרוקו).
+
+ בשנת תקל"ג (1773) עלה לארץ והתיישב בצפת. בהיותו בן עשרים שנה יצא כשליח-צפת לפרס ובוכארה. נסיעתו זאת הביאה ברכה עצומה ליהודים הנידחים האלה. עד בואו היו יהודי בוכארה שקועים בבערות. ספרים עבריים לא היו להם וקיבלו עליהם מנהגים זרים משכניהם.
+
+ ר'<persName> יוסף ממאן</persName> בראותו את המצב העגום הזה נעתר לבקשתם של יהודי העיר ונשתקע במקום. והוטלה עליו שליחות תרבותית גדולה. הוא פנה בכרוז אל יהודי רוסיה שישלחו לבוכארה ספרים עבריים; הביא להם סדורי-תפלה נוסח-ספרד מליוורנו (עד אז התפללו בנוסח העתיק של יהודי פרס), הורה אותם לשחוט עפ"י דיני ישראל, לקח נערים ולימד אותם תורה. ובעיקר : השריש בקרבם את האהבה לארץ-ישראל. עוד בשבת הראשונה לבואו דרש בבית הכנסת בענין קדושת ארץ ישראל (נדפס בירושלים בשנת תרנ"ד בשם "זכר צדיק") ועוררם לא רק לתמוך בה אלא לעלות אליה. בשנת תקפ"ז עלו שנים מתלמידיו לארץ.
+
+
+ ועל תלמידיו אלה כותב הנוסע ר' <persName>דוד דבית הלל</persName> שהם "מוכשרים ובקיאותם בספרים עבריים ובמנהגי ישראל, והם יראי שמים יותר מכל יהודי אחר שפגשתי בכורדיסטאן".
+
+ ר' יוסף ממאן לא חזר עוד לארץ ישראל, בבוכארה נשא אשה שניה והוליד גם ממנה בנים.
+
+ נפטר בשנת תרי"ד (1854) לאחר פעולה כבירה של ששים ואחת שנה. ולזכותו אפשר לומר שכל העליה הגדולה של יהודי בוכארה לא"י, במאה הקודמת, היא מכח השפעתו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3835 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3835</bibl><bibl>Volume: #11 ,Page: 3836 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3836</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

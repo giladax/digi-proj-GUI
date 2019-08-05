@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 912 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/912</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד צבי וילנציק</persName>
+
+</head>
+         <div><p> נולד ב<placeName>צ'רניגוב</placeName> (אוקראינה), בשנת תקצ"ד (1834). לאביו<persName> גדליהו דב.</persName> למד בחדרים ובישיבות וקיבל חינוך תורני חסידי בנוסח חב"ד.
+
+ נשא לאשה את <persName>לאה דבורה</persName> בת<persName> יוסף</persName> .
+
+ עסק במסחר משקאות והיתה לו מסבאה. קבע עתים לתורה ולחסידות. היה נוסע לעתים קרובות לשבתות אל האדמו"ר ר' <persName>ישראל נח שניאורסון </persName> לניעזין, והיה משלם בעין יפה ל"חוזר" שהיה מוסר לו את דברי התורה של רבו, שאמר בשבתות, בעת שהוא עצמו לא יכול לנסוע שמה.
+
+ חינך את בניו ברוח התורה והחסידות, שכר להם את טובי המלמדים וכשגדלו היה שולח אותם ללמוד בישיבות ניעזין והומל.
+
+ אחרי שבנו <persName>זרח</persName> עלה ארצה בשנת תרס"ה עלה גם הוא עם יתר בני ביתו, התישב ביפו ובהיותו כבר איש בא בימים הקדיש את כל זמנו לתורה ולעבודת הבורא.
+
+ נפטר בתל-אביב, ג' אלול תרע"ו.
+
+ צאצאיו: <persName>שלום</persName> (סבסטופול, קרים, רוסיה),<persName> יוסף</persName> (במשך שנים רבות מנהל ת"ת התימנים מטעם מחלקת החינוך בת"א), <persName>זרח </persName> (ראש הפירמה<persName> ז. וילנציק ובניו</persName> ), <persName>ישראל</persName> (בבראזיל), <persName>יצחק אייזיק</persName> ז"ל (פתח-תקוה), <persName>צפורה פנטיליאט </persName> ז"ל, <persName>בלהה לוין</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 912 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/912</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

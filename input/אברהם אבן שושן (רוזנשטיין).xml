@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2527 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2527</bibl><bibl>Volume: #6 ,Page: 2528 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2528</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם אבן-שושן (רוזנשטיין)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>מינסק</placeName> (ביאלורוסיה), י' טבת תרס"ו (25.12.1906).
+
+ לאביו המורה והסופר <persName>חיים דוד רוזנשטיין </persName> (ראה בכרך זה) ולאמו<persName> רושקה</persName> בת ר' <persName>שלום פינקל.</persName>
+
+ למד ב"חדר המתוקן" שניהל אביו ב<placeName>מינסק</placeName>. סיים בית-ספר תיכון. בערבים למד ב"ישיבה - שערי תורה" של הרב ר' נחום.
+
+ היה פעיל באגודות נוער ציוניות וב"החלוץ". בשנת תרפ"ה עלה לארץ, כמחצית השנה עבד בפלוגת עיןחרוד שבפתח-תקוה (אח"כ - גבעת השלשה). עבר לאחר מכן לירושלים לבית-המדרש למורים העברי וסיים בו בשנת תרפ"ח את למודיו. עם סיום למודיו נתקבל כמורה בבית-הספר בבית-הכרם, מקום שם שימש כמורה, ואחרי-כן כמדריך ומורה בבית-המדרש למורים בבית-הכרם, בהפסקות עד שנת 1936.
+
+ באותה שנה נשלח ע"י מחלקת החנוך לאוניברסיטת לונדון להשתלמות במקצוע החנוך. עם פרוץ המאורעות בארץ חזר לארץ והמשיך את למודיו באוניברסיטה העברית בירושלים. בשנת תש"ד סיים את למודיו והוסמך בתואר מ. א. למדעי הרוח (מקצוע ראשי לשון עברית).
+
+ בעבודתו הספרותית התחיל בשנת תרצ"ב בעריכת השבועון לילד ולנוער "עתוננו" (יחד עם <persName>גדליה אמיתי</persName> <persName>ויעקב רזניק</persName> ). השבועון הופיע במשך שש שנים בשתי מהדורות - לילדים קטנים ולנערים. פרסם בשבועון ספורים, שירים, מאמרים ורשימות מרובות. כן פרסם מאז ספרי מקרא ולימוד שונים, ביניהם: "<persName>ספר הבדיחה</persName> <persName>לילדים</persName> " (עם ג. אמיתי - בהוצאת "דביר"), <persName>"מאה פלא</persName> <persName>ופלא", "ספר הפלאות", "רדיו לנוער ולעם</persName> " (בהוצאת "יבנה"), "<persName>סיפורי התורה</persName> " (עם ח"א זוטא - בהוצאת "מצפה"), <persName>"אחודה נא", "חוד חידה</persName> " (עם י. בק 
+
+
+ בהוצאת "עבר"), סדרת חוברות "<persName>עולם ומלואו</persName> " (בהוצאת "עבר") ועוד. כן תרגם ספרים שונים לנוער: <persName>"רובינזונים מתחת למים", "גונב הגולפשטרום", "מאו</persName> <persName>רעות דובון הקטן" "סוסון גבנונון"</persName> ועוד.
+
+ בשנת תרצ"ג נשא לאשה את <persName>צביה </persName> בת <persName>רפאל כהן</persName> (שו''ב וחזן בעירה קורניץ שבפלך וילנה).
+
+ עיקר פרסומו קנה לו המחבר על ידי <persName>"המלון החדש</persName> <persName>המנוקד והמצויר</persName> " שחיבר וערך בהשתתפות חבר אנשי מדע. הכרך הראשון של המלון הופיע בהוצאת "קרית ספר" ירושלים בשנת תש"ח והכרך האחרון - החמישי בשנת תשי"א. "המלון החדש" זכה לתפוצה רבה ולהערכה בקרב כל חוגי הישוב, נוער ומבוגרים, והוא הפך לספר-השולחן בבתים רבים בישראל ובגולה. כן הופיעה מהדורה מרוכזת של המלון בכרך אחד.
+
+ בשנת תשי"ג הוציא יחד עם <persName>ד. ירדן "מלון עממי"</persName> לעולה ולנוער (בהוצאת "קרית ספר" ירושלים).
+
+ בשנים תשי"ב-תשי"ג כהן כמנהל המחלקה להנחלת הלשון ולהשכלה במשרד החנוך והתרבות. מראשית שנת תשי"ד נתמנה מנהל בית-המדרש למורים העברי בבית הכרם, שהפך למחלקה לחנוך יסודי של בית-הספר לחנוך מטעם האוניברסיטה העברית ומשרד החנוך והתרבות.
+
+ צאצאיו:<persName> יובל</persName> (מורה), <persName>דפנה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2527 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2527</bibl><bibl>Volume: #6 ,Page: 2528 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2528</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

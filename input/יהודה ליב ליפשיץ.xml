@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1181 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1181</bibl><bibl>Volume: #3 ,Page: 1182 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1182</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה ליב ליפשיץ</persName>
+
+</head>
+         <div><p> נולד בעיירה בסביבת מוהילב, רוסיה הלבנה, בשנת תר"ד (1844.), לאביו <persName>משה מרדכי </persName> תלמיד חכם גדול ומשכיל, (מצאצאי הגאון מוילנה) ולאמו <persName>שרה</persName> לבית<persName> ליבושיץ</persName> . למד בחדרים, בישיבה בוילנה, ושם היה מתאכסן בבית דודו ר' <persName>שמעון שטראשון</persName> , ואח"כ בישיבת וולוז'ין.
+
+ נשא לאשה את<persName> דבורה</persName> בת ר' <persName>שמואל שיק,</persName> ממשפחת הבעש"ט, וכך נתאחדו במשפחתו שני הזרמים היריבים.
+
+
+ ביהדות בימים ההם; ה"מתנגדים" והחסידים, התישב בברזין ועסק במסחר יערות.
+
+ כשפרצו הפרעות ביהודי רוסיה בשנות 1881/82 החליט לעזוב את ארץ הדמים ולעלות לארץ-ישראל. את סודו זה גילה רק להרב <persName>רומנובר</persName> , הדיין במוהילב, <persName>ולמאיר בלקינד.</persName> בידעו שבני משפחתו יחשבו את רעיונו לשגעון, הסתירו מפניהם, אמר שהוא מתכונן לנסוע עם בו <persName>שמואל</persName> בן ה-11 לסייר את דרום רוסיה כדי "שיכיר את העולם" ולשם כך הכין לשניהם מלבושים וצרכי נסיעה ויצאו לדרך. גם נסיעה כזו לא נתקבלה על דעת בני משפחתו ומכיריו ורבים חשבוהו לאסון או לשטות, ועל אחת כמה וכמה כשנתגלתה אחרי צאתו הסוד של מטרת-נסיעתו האמתית. בהגיעו לקיוב מצא אצל סוחר-עצים, בעל קשרי עסקים אתו ועם אביו, מכתב מאת אביו הזקן, ובו דרישה ופקודה מאת האב, שיוציא ממוחו את רעיון "דחיקת הקץ" ויחזור הביתה. אך הוא עמד על דעתו, שמצות כיבוד אב אין בכוחה לבטל את מצות העליה לארץ-ישראל - והמשיך את נסיעתו לאודיסה.
+
+ באלול תרמ"ב הגיע ארצה עם בנו, זמן מועט אחרי הוסד ראשון לציון וזכרון יעקב וראש פנה, בו בזמן שכבר נגשו לחדש את הישוב בפתח תקוה העזובה. קודם כל עלה ירושלימה, שם מצא אצל גיסו <persName>הניך-שיק </persName> מכתבים ממשפחתו ובהם דרישה תקיפה ונמרצת שיחזור מיד הביתה אך לא התרשם מהמכתבים. את בנו השאיר ללמוד ב"חדר" בירושלים והוא הצטרף לקבוצת עולים מפוניבז', רכש קרקע בפתח תקוה והתישב בכפר יהודיה ובנה שם בית. השתתף בחבורה בת עשרה מתנחלים שהצטרפו לקואופרטיב לעיבוד אדמתם בשותפות ובמשך שנה היו הולכים בחול הטובעני מיהודיה לעבד את אדמתם בפתח תקוה הרחוקה. אח"כ נפרד מהחבורה והיה אחד מהראשונים שעברו לקבוע את דירתם ליד הנחלה, שבזמן ההוא היתה שם סכנת קדחת, והיה מהראשונים שבנה את ביתו בפתח-תקוה, למרות התנגדות חבריו לעזיבת המושב שביהודיה, ואחריו באו אחרים והחלו לבנות את הישוב בפתח תקוה.
+
+ לאחר שנה הכניס את בנו ללמוד חקלאות במקוה ישראל והוא נסע לרוסיה להביא את בני משפחתו, אך הם סירבו והוא חזר ארצה בגפו. המשיך לעבוד ולשכלל את משקו, וכשנסע שנית לאחר שנה הצליח לשדל את בני משפחתו ואז באו כולם ארצה,
+
+ בהיותו ברוסיה הצליח להשפיע על הועד האודיכאי של חובבי ציון, שיקדיש 8600 פראנק מעזבונו של טוקאטף לבנין בית-הכנסת הגדול בפתח תקוה.
+
+ המשיך לעבוד את משקו בשקידה, היה מוכן תמיד לעזור לחבריו, מסור לאדמתו, להגנת המושבה ולעניניה הצבוריים והיה עומד בתוקף גגד פקידי הברון<persName> רוטשילד</persName> להגנה על האכרים מפני יחסם הקשה.
+
+ נפטר בפתח תקוה כ"ג חשון תרנ"ח,
+
+ צאצאיו: <persName>שרה</persName> אשת <persName>פנחס מאירי </persName> (פ"ת), <persName>שמואל,</persName> <persName>מלכה </persName> ז"ל,<persName> מרים </persName> ז"ל, <persName>דרייזה</persName> (ז"ל),<persName> אייזיק (</persName> ז"ל), <persName>נחמה </persName> אשת <persName>גולומב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1181 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1181</bibl><bibl>Volume: #3 ,Page: 1182 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1182</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

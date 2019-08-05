@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3538 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3538</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה אייזן</persName>
+
+</head>
+         <div><p> נולד א' אב תרל"ה (2.8.1875) בקוזובה שבמזרח גליציה.
+
+ לאביו <persName>חיים יוסף</persName> ולאמו <persName>קיילה רחל</persName> בת <persName>שמואל</persName> <persName>פרילינג</persName> .
+
+ בבחרותו יצא לאנגליה, התחיל בעבודה קשה, הצליח בעסקיו ובמשך הזמן ביצר לו מעמד כלכלי וחברתי נאה והקדיש את מיטב פעילותו לענינים יהודיים באנגליה,
+
+ לתנועה הציונית ולמפעל ההתנחלות ("אחוזת לונדון הראשונה") של יהודי אנגליה בארץ.
+
+ בשנת תרנ"ו (1896) נשא לאשה את<persName> חוה </persName> בת <persName>יוסף</persName> <persName>טפר</persName> (נפטרה בלונדון, ט"ז אייר תרצ"ז - 27.2.1937).
+
+ היה חבר ועד שליחי הקהלות באנגליה למעלה מ-50 שנה, יו"ר התלמוד תורה בעברית שליד בית הכנסת בבטנל גרין שבלונדון למעלה מ-30 שנה, מיסד אגודה ציונית "ברקאי" בלונדון, הגזבר הראשון בקרן היסוד בלונדון ב-1920, יו"ר הנהלת קרן קיימת לישראל בלונדון (1927-1926),היה ציר בקונגרסים הציוניים מהקונגרס השמיני ואילך, ממנהלי חברת אחוזת לונדון הראשונה שגאלה את אדמת כרכור והשתתף בבנין המושבה ובנטיעת פרדסים, השתתף ביסוד חברת "נשר" לתעשית מלט פורטלנד.
+
+ מ-1921 ואילך ביקר פעמים רבות בארץ בקשר לגאולת הקרקע ולנטיעת פרדסים בכרכור ולפעול לפיתוח התעשיה בארץ בשיתוף עם משקיעים מאנגליה, וב-1953 השתקע בקביעות בביתו בכרכור, והנו חבר ההנהלה של חברות שונות בארץ, אח במסדר הבנאים החפשים.
+
+ צאצאיו:<persName> מרדכי, שרה</persName> אשת <persName>לואיס וילקנסון, מרים</persName> <persName>זוסמן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3538 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3538</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

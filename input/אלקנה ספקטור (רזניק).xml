@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4885 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4885</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלקנה ספקטור (רזניק)</persName>
+
+</head>
+         <div><p> נולד במקרוב (רוסיה) בשנת תר"כ (1860). לאביו<persName> צבי ספקטור.</persName>
+
+ קיבל חינוך מסורתי וכללי. היה לו סמכות של שוחט. אביו, אחיו ושאר בני המשפחה היו שוחטים.
+
+ היה עסקן בתנועה הציונית ברוסיה.
+
+ בשנת 1904 עלה לארץ.
+
+ פתח בית מלון ביפו, ברחוב מנשיה בקרבת תחנת הרכבת. בו מצאו אנשי העליה השניה את האכסניה היהודית (לידו היה המלון השני הידוע של חיים ברוך).
+
+ בכינוס יובל החמשים של "העליה השניה", תלו שלט על הבית בו קיים בית מלון. כשהחלו לבנות את שכונת "אחוזת-בית" (היא תל-אביב) בנה את המלון הראשון ברחוב נחלת בנימין 18 בתור בית מלון.
+
+ צאצאיו:<persName> רוציה, דוד, אסתר, חנה, נתן, שושנה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4885 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4885</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

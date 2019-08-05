@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2506 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2506</bibl><bibl>Volume: #6 ,Page: 2507 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2507</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זיידל (יצחק אהרן) בנז'ימין</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"א טבת תרמ'ה (1884). לאביו<persName> משה יעקב (אלטר אנטיפולר </persName> - ראה כרך
+
+ א', עמוד 460) ולאמו<persName> פייגה ליבה</persName> בת <persName>אהרן יעקב</persName> <persName>ליפקין </persName> (המכונה "ארי הושעס).
+
+ קבל חנוך מסורתי בחדר ובישיבות בירושלים.
+
+ בשנת תרס"ז נשא לאשה את <persName>רבקה</persName> בת <persName>בנימין</persName> <persName>פייבל טודרסוביץ</persName> (בת דודו של דוד תדהר), ראה בכרך ה', עמוד 2309 (נפטרה בירושלים, י"ד שבט תש"ז -4.2.47). עסקנית בצרכי צבור באמונה.
+
+ עסק בהתחלה במסחר העורות ואח"כ עם אחיו בן-ציון בנז'ימן במסחר מזון בסיטונות בירושלים.
+
+ היה חבר ארגון האימפורטים וסיטונאי המכולת בירושלים בע"מ.
+
+ ממיסדי בנק קופת עם בע'מ בירושלים וחבר המועצה של הבנק כל השנים.
+
+
+ נפטר בירושלים ב' תשרי תשי"ב (2.10.51)
+
+ צאצאיו : <persName>בנימין, שרה </persName> אשת <persName>צבי סנדרוב, צפורה</persName> אשת<persName> יחיאל גריפל, דוד, מלכה</persName> אשת<persName> יוסף קמינסקי,</persName> <persName>דבורה </persName> אשת <persName>יעקב מן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2506 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2506</bibl><bibl>Volume: #6 ,Page: 2507 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2507</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

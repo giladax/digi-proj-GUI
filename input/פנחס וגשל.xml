@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3989 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3989</bibl><bibl>Volume: #12 ,Page: 3990 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3990</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פנחס וגשל</persName>
+
+</head>
+         <div><p> נולד ב<placeName>בייטש</placeName> (פולין), בכסלו תר"ן (25.11.1889).
+
+ לאביו ר' <persName>מרדכי וגשל</persName> (מצאצאי ר' פנחס תאומים פרנקל זצ"ל, מגזע רש"י) ולאמו <persName>רחל</persName> בת ר' <persName>יהודה</persName> <persName>גולדברג.</persName>
+
+ קיבל חינוך מסורתי בחדר ובבית המדרש.
+
+ בשנת 1911 נשא לאשה את<persName> מרגולה </persName> בת ר' <persName>נפתלי</persName> <persName>בינדיגש</persName> (מגזע האדמו"ר אלימלך זצ''ל).
+
+ בעל בית דפוס בברלין (גרמניה).
+
+ היה מפעילי המזרחי בעירו.
+
+ בשנת 1933 עלה לארץ.
+
+ בשנת 1934 היה מראשוני בעלי הדפוס ברמת-גן.
+
+ לקח חלק פעיל בהדפסת ספר הזכרון לקהילת בייטש, עיר מולדתו.
+
+ פעיל בהסתדרות המזרחי, יו"ר קופת גמילות חסדים של המזרחי וגבאי בית הכנסת בנחלת גנים.
+
+ השתתף בועידות וכינוסים של המזרחי.
+
+ חינך את בניו לתורה ועבודה בארץ.
+
+ בניו:<persName> עזריאל, ישראל, משה שאול</persName> .
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3989 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3989</bibl><bibl>Volume: #12 ,Page: 3990 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3990</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

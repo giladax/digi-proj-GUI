@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1171 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1171</bibl><bibl>Volume: #3 ,Page: 1172 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1172</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי (מקס) וולפסון</persName>
+
+</head>
+         <div><p> נולד בשכונת נוה צדק ביפו א' שבט תר"ס (1.1.1900), לאביו ר'<persName> יהושע</persName> בן הרב <persName>אברהם וואלפינ</persName>
+
+<persName>זאהן</persName> , שעלה ארצה משקלוב עם העליה הראשונה של תלמידי הגר"א, בסוף שנת תקס"ט, והיה דיין בעדת הפרושים בצפת ואח"כ מראשוני הישוב האשכנזי הפרושי בירושלים ומראשיו, ולאמו <persName>סימה גיטל </persName> בת ר' <persName>יהודה ליב קניגסברג</persName> .
+
+ למד בתלמוד-תורה "שערי תורה" בנוה שלום, בבית-הספר "תחכמוני" שבנוה צדק ובבית-המדרש-למורים של חברת "עזרה" הברלינית בירושלים. ב-1918 התגייס כשוטר בשרות הממשלה הצבאית של חיל הכיבוש הבריטי, למד בביה"ס לשוטרים באיסמעיליה שבמצרים ואח"כ שרת במשטרה בראשון לציון ובפתחתקוה.
+
+ ב-1920 יצא לדרום-אפריקה, להשתלמות, גמר קורס להנהלת חשבונות, השתקע בדורבאן, עסק בהנהלת פנקסים ובמסחר.
+
+ נשא לאשה את <persName>רחל</persName> (ריי) לבית<persName> סינאמון ברנרד</persName> מדרום-אפריקה.
+
+ השתתף בפעולות הציונות והיה בשנות 1921/22 מזכיר הכבוד של ההסתדרות הציונית בדורבאן וב-1925 חבר הועד שלה.
+
+ חזר ארצה בסוף שנת 1934 ונתקבל לפקיד במועצה המקומית (אח''כ העיריה) של פתח תקוה ועלה בה לדרגת מזכיר העיר.
+
+ בפרוץ מהומות תרצ"ו נתמנה לשוטר מיוחד מתנדב במשטרת הארץ. במלחמת-העולם השנית היה מזכיר הכבוד בועדה המקומית של הקרן הבריטית לעזרת נפגעי המלחמה וכן מזכיר הכבוד של מועדון החיילים בפתח תקוה בשנות 1941/45.
+
+
+ השתתף בשעורים המיוחדים להשתלמות באדמיניסטרציה שהתקיימו בלונדון (1947) עבור מזכירי הרשויות המקומיות בא"י.
+
+ בנו:<persName> יהושע</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1171 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1171</bibl><bibl>Volume: #3 ,Page: 1172 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1172</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

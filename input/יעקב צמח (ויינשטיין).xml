@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 649 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/649</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב צמח (ויינשטיין)</persName>
+
+</head>
+         <div><p> נולד בקמיניץ-ליטובסק, פלך גרודנה, בחודש טבת תקפ"ד (1824), לאביו <persName>ישראל וינשטין</persName> (ועל שם עיר
+
+ הולדתו קמיניץ נקרא אח"כ בירושלים ובפתח-תקוה גם בשם "ר' יעקב קמיניצר"). למד בחדרים ובישיבות, נשא אשה ועסק בחקלאות באחוזה חכורה ואח"כ הקים בה גם בית משרפות יי"ש והיה יהודי אמיד, שומר תורה, קובע עתים לתורה וידו פתוחה לעזור לנצרכים.
+
+ בשנת תרל"ג עזב את עסקיו ברוסיה, עלה ארצה עם משפחתו והתישב בירושלים. כאן עסק בתעשית יי"ש בקנה-מדה קטן, כפי שעשה בחו"ל, וגם לחזור לחקלאות נשא את נפשו. הצטרף לבני ירושלים היוזמים ליסד מושבה חקלאית ליד יריחו והשתתף בסיור השטח. כידוע נתבטלה קנית האדמה שם בגלל סירוב הממשלה למכור קרקע ליהודים "זרים", וכשנקנה השטח הראשון (אדמת קסאר) ליסוד פתח-תקוה בתרל"ח לא הספיק כספו להצטרף לקונים המתנחלים, ורק בשנת תר"מ, כאשר <persName>סידני מ. שמואל,</persName> קרובו
+
+ של<persName> מונטגיו</persName> , קנה בעת ביקורו בארץ, בהשתדלות <persName>הרי"מ פינס</persName> , את שטח הקרקע בשביל אגודת "שבת אחים", נתקבל ר' יעקב לאגודה זו והתישב ליד הירקון בפתח-תקוה. בנה לו בית בין הראשונים, רכש לו מעט צאן ובקר ורעה את עדרו במרעה הדשן שליד הירקון.
+
+ בגלל הקדחת, שתקפה קשה גם אותו בין שאר המתנחלים, הוכרח גם הוא כמוהם לעזוב את המקום ולחזור לירושלים, ובהיותו זקן וחסר פרנסה קיבל עליו עבודת מלמד בתלמוד-תורה.
+
+ כשנסתבך אחד מבניו בעסקיו ברוסיה וביקש ממנו לבוא ולעזור לו בסידור הענינים, היסס אם מותר לו עפ"י התורה לצאת מהארץ, ורק אחרי שהרב <persName>משה יהושע ליב דיסקין</persName> מבריסק התיר לו לצאת זמנית למטרה זו יצא ואחרי ששהה שם כשנה וחצי ועזר לבנו חזר ירושלימה. התמסר כליל ללימוד תורה. נתקבל למושב זקנים בירושלים ושם נפטר ביום כ"ב אייר תרס"ו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 649 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/649</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

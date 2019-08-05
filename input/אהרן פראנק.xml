@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1913 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1913</bibl><bibl>Volume: #4 ,Page: 1914 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1914</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן פראנק</persName>
+
+</head>
+         <div><p> לאביו <persName>תנחום</persName> (מראשוני חדרה, ראה כרך שני, עמוד 576) ולאמו<persName> חינגה (חנקה)</persName> בת<persName> משה (מעשל)</persName>
+
+
+ ליפקיס (מראשוני פתח-תקוה, ראה כרך ג', עמוד 1511).
+
+ נולד בחדרה, י"ט כסלו תרע''א (20.12.1910).
+
+ קיבל חינוך מסורתי וכללי.
+
+ חקלאי ותעשיתן (מגדל כל ענפי החקלאות). חלוץ לגידול הדגים בחדרה ותעשית השימורים מהתוצרת החקלאית העצמית.
+
+ מראשי "המכבי" ועסקניו, ממפקדי ה"הגנה" בחדרה ומפעילי הבטחון במחוז. שירת בנוטרות, יו"ר הנהלת המלוה הלאומי בחדרה.
+
+ בשנת 1939 נשא לאשה את <persName>שרה</persName> בת <persName>נח ברורמן.</persName> חבר מרכז התאחדות האיכרים בישראל, הנהלת "החקלאי" חדרה והנהלת "הסתדרות החקלאים" חדרה וחבר הנהלתה, "מיסדי חדרה בע"מ", חבר הנהלת חברת "עמיר" וחברת האכרים בישראל.
+
+ כיום, מוכתר "חדרה", מייסד ונשיא המועצה המקומית לשטח הכפרי של חדרה. בניו:<persName> נתן, אהוד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1913 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1913</bibl><bibl>Volume: #4 ,Page: 1914 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1914</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

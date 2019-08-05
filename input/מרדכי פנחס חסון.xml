@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1487</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי פנחס חסון</persName>
+
+</head>
+         <div><p> לאביו הרב <persName>חנוך חסון</persName> הי"ד (ראה כרך א', עמוד 322) ולאמו <persName>קלארה</persName> בת הרב <persName>רחמים יוסף פראנקו.</persName>
+
+ נולד ב<placeName>חברון</placeName> כ"ב אייר תרנ"ד (1894).
+
+ קיבל חינוך בחדר ובישיבות והשתלם במסחר באופן פרטי בבירות (סוריה).
+
+ היה חבר ומזכיר "בני ברית", חבר הועד של
+
+ המועדון הציוני "קדימה" בבירות.
+
+ בשנת 1910 נתקבל כפקיד בבנק אפ"ק ב<placeName>חברון</placeName> ומשנת 1915 עד 1918 שירת בצבא התורכי בדמשק. משנת 1918 עבר ליפו ומשם הועבר לסניף הבנק בבירות (1919), שם קיבל את רשות החתימה (1921), בשנת 1922 עבר למרכז הבנק ביפו ומשם לתל-אביב.
+
+ בשנת 1928 נשא לאשה את <persName>שושנה</persName> בת דוד אביטבול מיפו (ראה כרך שני, עמוד 887).
+
+ כיום מנהל משנה בבנק.
+
+ היה חבר פעיל בועד הקהלה ובועד העדה הספרדית במשך שנים רבות בת"א.
+
+ צאצאיו:<persName> לאה, חנוך, מרים, דן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1487</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

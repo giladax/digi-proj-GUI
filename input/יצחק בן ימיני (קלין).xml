@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1479 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1479</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק בן-ימיני (קלין)</persName>
+
+</head>
+         <div><p> נולד בייקאטרינבורג (כיום סברדלוב, בירת חבל אוראל), רוסיה, בראשית תרנ"ט (30.10.1898), לאביו <persName>בנימין קלין </persName> (מהנדס, ציוני ותיק) ולאמו<persName> רחל </persName> בת <persName>יעקב שפטוביצקי </persName> (בעל תעשיה באוקראינה). קיבל חינוך יהודי ועברי, למד בגימנסיה בעיר הולדתו ואח"כ משפטים באוניברסיטאות פטרבורג וטומסק וב-1918 הוסמך למשפטים. היה פעיל ב"צעירי ציון", שירת בצבא הרוסי, ובתקופת המהפכות והמהומות ברוסיה נתגלגל לקצה המזרח הרחוק וב1921 עבד כעורך-דין בוולאדיווסטוק והמשיך שם בפעילות ציונית.
+
+ ב-1922 עלה לארץ דרך שאנחאי ומצרים, התישב בתל-אביב, עבד כפועל בפרדס גולדברג ובפרדסי פתח תקוה והיה חבר הסתדרות הפועלים החקלאים. ב-1923 יצא מההסתדרות, התכונן לבחינות לעורכידין זרים, וב-1924 עבר את הבחינות בהצלחה והחל לעבוד כעו"ד בת"א. באותה שנה הצטרף, יחד עם ד"ר <persName>יעקב</persName> ואחיו <persName>אברהם וינשל,</persName> ד"ר מרדכי <persName>גלעדי</persName> וד"ר <persName>פון ויזל לז'בוטינסקי,</persName> השתתף עמהם בהנחת היסוד לתנועת הצה"ר בארץ ונבחר לועד המרכזי שלה.
+
+ ב-1925 נשא לאשה את <persName>בלהה </persName> בת <persName>מאיר ברלין</persName> מריגה (סוחר עצים, מראשוני חובבי ציון, השתתף בקונגרסים הציוניים הראשונים).
+
+ באותה שנה נבחר לאספת הנבחרים השנית ובשנות 1926-29 היה חבר הועד הפועל של עירית ת"א ויו"ר ועדת המשטרה שלה. ב-1926 השתתף ביסוד "ברית תרומפלדור" (בית"ר) ואח"כ ביסוד הסתדרות העובדים הלאומית. ב-1929 יצא להשתלם במשפטים באוניברסיטת לונדון, גמר ב-1933 ונתקבל כחבר ה"באר" האנגלי. ב-1931 היה ציר בקונגרס הציוני ברשימת הצה"ר. ב-1933 חזר ארצה לבקשת ז'בוטינסקי והשתתף עם עורכי-הדין <persName>הוראס סמואל ויוסף קייזרמן </persName> בסניגוריה
+
+ על <persName>אברהם סטאבסקי </persName> וחבריו, שהיו נאשמים במשפט רצח ד"ר<persName> חיים ארלוזורוב.</persName>
+
+ היה מפעילי הארגון הצבאי הלאומי במחתרת, ואחרי צאתו לאור היום בעקבות הקמת מדינת ישראל והפיכתו לתנועה פוליטית גלויה בשם "תנועת החרות", נבחר לחבר המרכז שלה.
+
+ בתו: <persName>שמעונה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1479 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1479</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

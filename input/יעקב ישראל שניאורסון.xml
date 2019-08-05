@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1264 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1264</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב ישראל שניאורסון</persName>
+
+</head>
+         <div><p> נולד בניז'ין, רוסיה, י"ז אב תרל"ז (1877), לאביו <persName>מרדכי זלמן</persName> (מצאצאי רבי <persName>שניאור זלמן מלאדי,</persName> בעל ה"תניא"), ולאמו <persName>פנינה (פרל)</persName> לבית <persName>שניאורסון.</persName> למד בחדרים ובישיבה ובית-המדרש וקיבל חינוך תורני-חסידי.
+
+ נשא לאשה את <persName>שרה</persName> בת אברהם יפה.
+
+ בעירו עסק במסחר. הצטרף מבחרותו לתנועה הציונית והיה פעיל בכל ענפי העבודה הציונית שחלתה נהוגה בימים ההם.
+
+ בתרס''ד עלה ארצה עם משפחתו, התישב ביפו ויסד בית-חרושת לפקקים, לימד את העבודה לפועלים יהודים והעסיקם במפעלו.
+
+ הצטרף לחברת "אחוזת בית" והשתתף בפועל בבנין שכונת תל-אביב שהיתה הגרעין לעיר העברית הראשונה. בשנים הראשונות לקיום הגימנסיה העברית הרצליה בתל-אביב (אחרי שהועברה מיפו אל השכונה העברית החדישה) שימש בה כמזכיר בהתנדבות. בבי
+
+ תו שבנה בקצה השכונה לצד יפו (נוה צדק), ברחוב אחד העם מספר 1, פתח את חנות-המכולת הראשונה לשרות תושבי השכונה (בשכונה עצמה אסור היה לפתוח חנויות, כי נועדה לעיר-גנים), ובעיקר סיפקה חנותו את צרכי תלמידי הגימנסיה, ושימשה מרכז וכעין מועדון לותיקי השכונה ועסקני העיר ברכוהו על יזמתו, שהוסיפה נופך של חיי-מעשה עירוניים לגרעין העיר העברית.
+
+ היה חבר ב"המכבים הקדמונים" ומסור לכל פעולה צבורית וציונית (הפצת שקלים, מפעלי הקהק"ל, ועוד).
+
+ נפטר בתל-אביב, ו' ניסן תרצ"ח, ונקבר בביתהעלמין בנחלת יצחק.
+
+ צאצאיו:<persName> רחל</persName> אשת משולם לבני (מורה)<persName>, הרצ</persName> <persName>ליה אשת דוד זילברשץ, מרדכי </persName> (בקבוץ רמת הכובש).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1264 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1264</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

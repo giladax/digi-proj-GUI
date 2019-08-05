@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3108 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3108</bibl><bibl>Volume: #8 ,Page: 3109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3109</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה לוטקר</persName>
+
+</head>
+         <div><p> נולד בשנת תרס"ג (11.3.1903) בניז'ין שבפלך צ'רניגוב, אוקראינה.
+
+
+ לאביו <persName>יעקב</persName> (נכדו של הרב <persName>הרש בר לוטקר</persName> , הרב הראשי בהומל) ולאמו <persName>חנה</persName> בת <persName>פסח מריאנצ'יק </persName> מקיוב.
+
+ למד בחדרים ובגימנסיה יהודית בשפה הרוסית, בה למדו גם השפה העברית. היה חבר "צעירי ציון" עמלנים בעירו, שירת בצבא האדום. נאסר בעד פעילות ציונית ב-1919 ואח"כ ב-1922, ובסוף הוחלף לו העונש בשילוח מברית המועצות.
+
+ עלה לארץ ב-1923. הצטרף לקבוצת "מעבר" (אח''כ קיבוץ גבעת-השלשה) שליד פתח תקוה. מ-1925 עבד בפרדס גולדברג ברמת גן (מקום תל-בנימין והסביבה כיום), ומ-1929 ואילך היה שוטר במשטרת תל-אביב.
+
+ ב-1926 נשא לאשה את <persName>דבורה חיה</persName> בת <persName>צבי ויניקוב</persName> (ראה ערכה בכרך זה).
+
+ בהיותו חבר הצה"ר מאז שנת 1925 נחשד בעיני הבולשת הבריטית בקשרים עם המחתרת, ולכן כשנגמרה ב-1937 תקופת החוזה שלו לשרות במשטרה סירב המפקח הכללי של משטרת פלשתינה (א"י) לחדש אתו את החוזה. אז נתקבל לשומר-לילה בבנק אשראי. ב1939 הלשינו עליו שהניח מוקש על פסי הרכבת בין הרחובות אלנבי והרצל בתל-אביב (כתגובה על גזירות החנק שב"ספר הלבן"), נאסר ונדון לשלשה חדשי מאסר אדמיניסטרטיבי ("למען שלום הצבור", בלי משפט) בעכו.
+
+ ב-1940 החחל לעבוד בעירית תל-אביב בתור פקיד ואח"כ בתור מפקח עירוני.
+
+ בראשית התנועה הרביזיוניסטית השתתף ביסוד גוש רביזיוניסטי של פועלים בתוך הסתדרות העובדים הכללית, ואח"כ ביסוד גוש עבודה של הצה"ר, שהיה הגרעין הראשון להסתדרות עובדים לאומית, שהנו חבר בה עד היום. בשנות המחתרת היה חבר פעיל באצ"ל בתפקיד דל"ק (חקירות). מאז קום המדינה הנו חבר תנועת "חרות''.
+
+ על אחיו<persName> צבי גרישה לוטקר</persName> ראה כרך ה', עמוד 2105.
+
+ בניו: <persName>זאב</persName> (עובד בצה"ל), <persName>עמי</persName> (בוגר ביה"ס הגבוה למשפט וכלכלה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3108 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3108</bibl><bibl>Volume: #8 ,Page: 3109 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3109</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

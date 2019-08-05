@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 787 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/787</bibl><bibl>Volume: #2 ,Page: 788 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/788</bibl>
+<bibl>Volume: #2 ,Page: 789 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/789</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שאול יהודה</persName>
+
+</head>
+         <div><p> נולד בבגדאד, בשנת ת"ר (1840), בן בכור לאביו ר' <persName>שלמה בן יחזקאל יהודה</persName> (חסיד ונדיב, גיסו של הנגיד <persName>דוד ששון</persName> , אבי משפחת <persName>ששון</persName> האצילה מבגדאד, הודו, שאנחאי ואנגליה, נצר ממשפחה עתיקה בבבל) ולאמו <persName>רימה</persName> או <persName>ריינה</persName> , ידענית גדולה בתורה, בת ר' <persName>פאראג' חיים</persName> מהעיר עאנה, היא נהרדעא העתיקה (מצאצאי<persName> יוסף בן-ששון</persName> נשיא, שהיה שר בארמונו של אלפונסו השמיני מלך קשטיליה בשנות 1166-1214).
+
+ למד בחדרים ובישיבה בבאגדאד, ומשעלה ארצה בגיל שתים עשרה עם הוריו וכל בית אביו (במסע ממושך על גבי גמלים דרך המדבר) המשיך ללמוד בישיבות הספרדים בירושלים.
+
+ אביו, שהיה שוקד למיזוג שבטי ישראל לעם אחד והשיא אחת מבנותיו לאשכנזי ולקח לבניו נשים אשכנזיות, השיא גם לו לאשה את בתו של ר' <persName>ישעיהו ברדקי</persName> , מראשי עדת האשכנזים הפרושים, ואחרי שנפרד ממנה בגט נשא את בתו של ר'<persName> אליהו</persName> <persName>נבון</persName> , מותיקי ירושלים.
+
+ הוא היה הראשון שנגש להתנחלות חקלאית יהודית בסביבת ירושלים ולצאת מתחום-המושב הצר של היהודים בין חומות העיר העתיקה. בשנות תר"כתרכ"ב השקיע הרבה עמל וכסף בגאולת אדמת הכפר "קולוניה" הוא<persName> מוצא</persName> והיה צריך לשחד ולשדל בסעודות ובתשלומים ובמתנות את כל בעלי זכות השותפות והירושה שיסכימו לאשר את מכירת הקרקע לו ולגיסו ר'<persName> יהושע ילין </persName> (בן ר' <persName>דוד טביא-ילין</persName> מלומזה), נוסף לכך היה עליו לשחד בשלמונים גם את המוכתרים והשייכים והסרסורים שלא יפריעו. אך אחרי הכל לא יכול לקבל תעודת-קנין על הקרקע בגלל נתינותו הבריטית, שלא רצה לוותר עליה, ולפי פקודת הממשלה המרכזית אסור היה להעביר קרקע על שם נתין זר. אז לימד הקונסול הבריטי <persName>ג'יימס פין</persName> את משפחת יהודה כיצד לרכוש קרקעות בדרך עקיפין על-ידי שטרמשכנתא בסכומים ובתנאים כאלה, שהמוכתרים הערבים לעולם לא יוכלו להחזיר את הקרקע לרשותם. אחרי הסידורים האלה התמסר שאול לעבודה, לבנות אכסניה ליד דרך הרוכבים ליפו (דרך לעגלות עוד לא היתה בזמן ההוא) ובית לדירה (הוא הבית ששימש בית-כנסת ובית-ספר לילדי המושבה מוצא עד מהומות תרפ"ט) ולנטוע כרם ועצי פרי. משפוטר הקונסול פין הסית הפחה הירושלמי את השייך מוסטאפה
+
+
+ אבו-גוש להתנגד לבניה ולנטיעה היהודית, ובהיות שייך זה שליט תקיף על כל הכפרים שבסביבה (וגם נטל לעצמו את הזכות לגבות "מכס" מהעוברים ליד כפרו בדרך ירושלים, בלי שהיתה לו הרשאה ממשלתית לכך), היה ממש באיומיו, שלא ישאיר אבן על אבן מכל מה שיבנו היהודים. אז פנו שאול וגיסו יהושע ילין ב"מכתב גלוי" לגדולי היהודים באירופה ולסיר <persName>משה מונטיפיורי</persName> (המכתב נתפרסם ב"הלבנון" שנה א', גליון 7), שיחישו להם עזרה. והנה בא הקונסול הבריטי החדש,<persName> מור</persName> , ובתיווכו הוקם השלום בין משפחת יהודה ובין השיך אבוגוש, ובמחיר 20 רוטל סוכר ו-5 רוטלים קפה הסכים השייך "להרשות" את המשכת העבודה ופקד על פלחי הסביבה לבל יהינו לנגוע לרעה בשכנים היהודים. אז נגש שאול במרץ רב לחדש את עבודת הבניה והנטיעה. בכל ששת ימי המעשה היה שוהה בכפר ועובד ולשבתות היה חוזר העירה. היה גבור חיל ותקיף בדעתו.
+
+ פעם, ביום חורף, בשובו העירה בערב שבת, הפתיעהו גשם שוטף בדרך. הוא נרטב והצטנן וחלה בדלקת-ריאות ובן 24 שנה נפטר ביום כ"ד שבט תרכ"ד.
+
+ אחרי מותו רבו המכשולים מצד הפחה הירושלמי לבנין מוצא היהודית, עד שבשנת תרנ"ד עברה האדמה לרשות לשכת "ירושלים" של "בני ברית", שרכשה שם עוד אדמה ויסדה את המושבה <persName>מוצא</persName> . בתו היחידה <persName>שמחה</persName> (מאשתו השניה) נישאה לר' <persName>בנימין עידו</persName> , ובתם<persName> בכרה</persName> נישאה <persName>לבכור שמואל סידס</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 787 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/787</bibl><bibl>Volume: #2 ,Page: 788 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/788</bibl>
+<bibl>Volume: #2 ,Page: 789 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/789</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

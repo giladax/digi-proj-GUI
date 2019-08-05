@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 185 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/185</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אהרן הכהן אורלנסקי</persName>
+
+</head>
+         <div><p> נולד בביאליסטוק, פולין ה"ליטאית", בשנת תרי"ד (1854) לאביו הרב <persName>שבתי; </persName> נכד הרב<persName> נחמן</persName> מאורלי, מחבר הספר "שבת אחים" (חידושי תורה). למד בישיבה בביאליסטוק ובה הוסמך לרבנות.
+
+ כשבא ר' <persName>אברהם קופלמן</persName> בשנת תרמ"ג לביאליסטוק למכור חלקות אדמה בפתח-תקוה ולהביא משם עולים לחדש את הישוב בה, קנה אף הרב אהרן חלקה אחת. חבריו ב"קבוצת הביאליסטוקאים" הסכימו למנותו לרב בפתח-תקוה. באותו זמן היה בביאליסטוק הגאון רבי <persName>מאיר שמחה הכהן </persName> מדווינסק, שהמליץ עליו במכתב לרבני ירושלים, וכך הסכימו לבחירתו גם המיסדים הראשונים של פתח-תקוה, שעמדו לחזור אליה ולחדש בה את הישוב יחד עם ה"תגבורת" מביאליסטוק, ובשנת תרמ"ג עלה ארצה עם החבורה כרבה של המושבה העומדת להבנות.
+
+ בבואו התישב זמנית בירושלים, ולאחר שנה, בתרמ"ד, כשנגמר הריב בין סיעת "יהודיה" לסיעת פתח-תקוה והוחל בבנין הבתים בפתח-תקוה, בא אל המושבה וכיהן בה כרב במשך 27 שנה עד סוף ימיו.
+
+ כאן היה עליו לברר ולפסוק הלכה למעשה גם במצוות התלויות בארץ (ביחוד בשאלת עבודת האדמה בשמיטה, בה השקיע עבודה תורנית רבה בחליפת מכתבים עם גדולי הרבנים בירושלים ובחוץ-לארץ), בשיפוט בעניני קרקעות ובדיני אישות וממונות לפי דיני ישראל, כי בכל הענינים פנו התושבים אל הרב, מבלי לתת לערכאות דריסת-רגל בשיפוט בין יהודים ליהודים, וכן בהנהגה כללית ובהשפעה צבורית.
+
+ נטע פרדס וכרם על חלקתו, התיחס בחיבה ובענוה כלפי התושבים וזכה לחיבה ולהוקרה כללית.
+
+ הניח אחריו ספר בשם "תקות אהרן", הכולל שאלות ותשובות בדיני-תורה שהובאו לפניו, והספר הוצא על-ידי בנו הרב <persName>אברהם-יעקב</persName> הי"ד.
+
+ נפטר בפתח-תקוה, י"ח חשון תרע"א.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 185 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/185</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

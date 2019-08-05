@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4321 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4321</bibl><bibl>Volume: #13 ,Page: 4322 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4322</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק מיצמכר</persName>
+
+</head>
+         <div><p> נולד ביום כ"ה בכסלו תרצ"ג (24.12.1932) בתל-אביב. לאביו <persName>אנשל מיצמכר</persName> ולאמו <persName>רחל.</persName>
+
+ למד ב"תלמוד תורה" והודות לתפיסתו הטובה ורצונו להמשיך את שלשלת המורשה של בית אביו מצא את מקומו בישיבה המכינה של "היכל התלמוד", בה למד בהצלחה שנים אחדות. כינוי<persName> ישראל.</persName>
+
+ אהבתו למולדת והכאב עת קדושתה המחוללת בידי זרים לא נתנוהו לשבת בשלוה על דפי הגמרא. בעניני עצמו היה ותרן, גם מטבעו וגם כתוצאת חינוכו, אך על כבודו לא יכול לוותר. "על קבר אבותי בחברון ישמרו זרים", "בעיר דוד ישלטו זרים ? לא ולא !" - כך הסביר לחבריו את נימוקי הצטרפותו אל מחתרת לח"י.
+
+ בן 16 כבר הספיק להתאמן יפה בכלי נשק שונים
+
+
+ והשתתף בפעולות ובשמירה בעמדות ואף החל להדריך חברים חדשים, ביניהם גם גדולים ממנו. כשהתקרב האויב המצרי לקרבת מושבות הדרום הותיקות עמד
+
+ לצאת לקורס להשתלמות נוספת בכלי נשק שלא ידעם עד כה, ושמח מראש לסיכוי שאחרי כן יצא להלום באויב. לתקוותיו אלה שמה קץ פצצה שהוטלה ממטוס מצרי על "ראשון לציון" והרגה אותו ואת אביו ביום כ"ה באייר תש"ח (3.6.1948) והובא למנוחת עולמים במושבה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4321 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4321</bibl><bibl>Volume: #13 ,Page: 4322 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4322</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

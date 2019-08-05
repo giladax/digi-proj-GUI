@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1426 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1426</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שרה יפה (מילוסלבסקי)</persName>
+
+</head>
+         <div><p> נולדה באלכסנדרובסקי, פלך יקאטרינוסלאב, אוקראינה, בשנת תרכ"ו (1866), לאביה <persName>דב מילוסלבסקי</persName>
+
+ (סוחר תבואות) ולאמה (ממשפחת עורך-הדין והעסקן הנודע <persName>אוסקר גרוזנברג)</persName> . בילדותה נתיתמה מאמה ונתחנכה על-ידי אמה-חורגתה <persName>גולדה,</persName> שהיתה לה לאם מסורה (ראה כרך שני, עמוד 1042).
+
+ בסוף תרמ"ג עלו ארצה אביה ואשתו גולדה והתישבו בראשון לציון ואחרי כחצי שנה נפטר האב, ואשתו חזרה לרוסיה.
+
+ נישאה לבילויי <persName>שלמה יפה</persName> (מורה), ובשנת תרמ"ו עלתה ארצה עם בעלה, בתה הקטנה (בת 9 חדשים) ואמה-חורגתה, והתישבו בצריפים בפרדסו של <persName>ראובן</persName> לרר ב"נחלת ראובן" (ואדי חנין, אח"כ נס ציונה). אח"כ היו היא (ומשפחתה) ואמה-חורגתה (לחוד) מארבעת הראשונים (יחד עם <persName>אהרן אייזנברג ואברהם</persName> <persName>ילובסקי)</persName> , שיצאו מהפרדס והרחיבו את שטח הבנין והמושב, בבנותם את בתיהם ליד דרך-המלך.
+
+ נשאה במסירות ובאומץ בסבל-הראשונים, בעבודה קשה בבית ובמשק, בדידות ומחלות בנקודה הקטנה, והספיק לה כוחה הנפשי לתת עזרה ועידוד לאחרים, וזכתה לראות בגידול המושבה ובהתרחבות הישוב אף מדרום לה. נתאלמנה בשנת תרס"ה ונתיתמה מאמהחורגתה. בשנת תרס"ז.
+
+ נפטרה בנס ציונה, כ"ז תמוז תר"ע והובאה לקבורה בראשון-לציון.
+
+ צאצאיה:<persName> בתיה</persName> אשת דב מילוסלבסקי (נס ציונה) <persName>יונה (טיבל) </persName> אשת<persName> משה גולדנברג</persName> (קהיר)<persName>: דב </persName> (נסציונה): <persName>מרים</persName> אשת אברהם פלדמן (תל-אביב);<persName> יהודית</persName> אשת נח דוברושין (פ"ת).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1426 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1426</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

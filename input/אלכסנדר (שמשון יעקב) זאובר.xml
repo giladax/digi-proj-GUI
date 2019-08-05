@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2385 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2385</bibl><bibl>Volume: #5 ,Page: 2386 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2386</bibl>
+<bibl>Volume: #5 ,Page: 2387 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2387</bibl>
+<bibl>Volume: #5 ,Page: 2388 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2388</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלכסנדר (שמשון יעקב) זאובר</persName>
+
+</head>
+         <div><p> נולד נאדי-שומקוט (הונגריה), כ' אייר תרס"ג (17.5.1903).
+
+ לאביו <persName>שמואל </persName> (בן רבי <persName>אשר זליג,</persName> מתלמידיו המובהקים של הכתב סופר) ולאמו<persName> בילה</persName> בת <persName>מיכאל שטרנך</persName> (ממשפחת ר' מיכל זלוצ'בר, מתלמידי הבעש"ט הראשונים).
+
+ קיבל חינוך מסורתי בחדר, בישיבה במינקאטש ובבית מדרש לרבנים ע"ש הילדסהיימר בברלין. עתונאי בשפה ההונגרית, יסד עתון בשם "דאס
+
+ אידישע פאלקסבלאט" במונקאטש שברוסיה הקרפאטית, שהיה העתון ההונגרי הציוני הראשון בארץ זו.
+
+ היה פעיל בארגוני הנוער בעירו.
+
+ בשנת 1933 עלה לארץ, ויסד את "עתון מיוחד" עתון לרפורטז'ה (בשני צבעים, הראשון בארץ).
+
+ ב-1934 הפך השבועון "עתון-מיוחד" לעתון יומי בעריכתו של מאיר גרוסמן, וזה היה עתון הערב הראשון בישראל.
+
+ באותה שנה נשא לאשה את<persName> אילנה</persName> בת <persName>ירמיהו ברודי</persName> (נפטרה בתל-אביב, ז' אדר ב' תשי"א - 15.3.51).
+
+ עבד במערכת "דאר היום", והיום הוא חבר מערכת "ידיעות אחרונות".
+
+ ממנהיגי יהדות הונגריה בישראל ופעיל מאד בעבודה צבורית למען עולי הונגריה ביחוד.
+
+ לפני הקמת המדינה, עשה פעולה חשובה בהגשת עזרה לארגוני המחתרת בארץ והציל רבים ממאסר וכו'.
+
+ צאצאיו:<persName> מיכאל, אמיצה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2385 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2385</bibl><bibl>Volume: #5 ,Page: 2386 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2386</bibl>
+<bibl>Volume: #5 ,Page: 2387 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2387</bibl>
+<bibl>Volume: #5 ,Page: 2388 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2388</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

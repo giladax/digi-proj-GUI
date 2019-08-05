@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3165 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3165</bibl><bibl>Volume: #8 ,Page: 3166 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3166</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>קופל ויסוקר</persName>
+
+</head>
+         <div><p> נולד בסוכות תרל"ו (סתיו 1875) בוויסוקה ליטובסק שבפולין.
+
+ לאביו <persName>אייזיק יעקב</persName> (ראה בכרך זה) ולאמו<persName> קיילה</persName> בת <persName>קופל.</persName>
+
+ למד בחדר ובישיבה.
+
+ עלה לארץ עם הוריו וכל ביתם בשנת תר"ן (1890) והשתקעו בפתח-תקוה. התמסר לעבודה חקלאית מנעוריו, עבד גם אצל אחרים, היה חבר בועד אגודת הפועלים שיסדו <persName>חרל"פ ואייזנברג </persName> ברחובות.
+
+ בשנת תרנ"ט (1899) נשא לאשה את <persName>חוה </persName> בת <persName>אליהו</persName> <persName>קנבנהוף</persName> (נפטרה בירושלים, ו' טבת תרע"ו-13.12.1915).
+
+ עבד במשקו בשקידה. טיפח בגינתו זנים חדשים של ירקות ופרחים. התחיל בגידול "חזרת" למרור לעצמו ולקרוביו וידידיו, פיתח את הענף במשך הזמן עד שהגיע לגידול צמח זה בעשרות דונמים אף לצרכי יצוא.
+
+ ב-1913 השתתף בגאולת אדמת כפר אוריה.
+
+
+ נתן הרבה ממרצו לעיסוק בצרכי צבור. היה חבר בועד המושבה ואח"כ במועצה המקומית של פתח-תקוה ברשימה חרדית, וכשזו לא היתה בעיניו תקיפה למדי בהגנה על הדת, היה מופיע ונבחר ברשימה מיוחדת של עצמו, וכן היה לפעמים מתקשר עם גושים אחרים,
+
+ אפילו שמאליים, לתמוך בדרישותיהם תמורת תמיכה מצדם בדרישות הדתיות שלו. אך עם קיצוניותו הדתית היה אזרח נאמן למולדת ונתן יד לכל פעולה צבורית ולאומית לטובת הכלל, וכן היה מוכן לעזור באופן פרטי וצבורי לזקוקים לכך, ללא הפליה לפי מפלגות והשקפות מדיניות ודתיות. היה חבר הנהלת בית הכנסת הגדול וחבר פעיל באגודת גמילות חסד, ועוד. השתתף ביסוד מושב זקנים המקומי והיה ממנהליו הראשונים.
+
+ נפטר בפתח-תקוה, ט"ו טבת תשט"ז (30.12.1955).
+
+ צאצאיו: <persName>אליהו אייזיק סוקר</persName> (מפעילי המכבי וגזבר קופת מלוה חקלאית בפתח-תקוה), <persName>חיים אריה</persName> (חבר ב"דן"), <persName>אברהם צבי </persName> (פקיד במס הכנסה), <persName>רחל</persName> אשת <persName>משה גלילי</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3165 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3165</bibl><bibl>Volume: #8 ,Page: 3166 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3166</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

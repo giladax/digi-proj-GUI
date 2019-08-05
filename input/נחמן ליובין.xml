@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 856 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/856</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחמן ליובין</persName>
+
+</head>
+         <div><p> נולד בהומל, פלך מוהילב (רוסיה הלבנה), בשנת תרנ"ח לאביו שמואל זלמן (בן יואל ליובין, מראשוני חדרה ודרי ה"חאן"), ולאמו חיה בת בן-ציון ברוך מביכוב, פלך מוהילב.
+
+ עלה לא"י בשנת 1903 (שנה אחר עלית אחיו הבכור משה ארצה), התישב בחדרה וקיבל שם חינוך מסורתי. נרתם בגיל צעיר לעבודת המשק בחקלאות ובפרדסנות.
+
+ נשא לאשה את לאה בת אברהם יובל.
+
+ פעיל בעניני השמירה והבטחון במקום. חבר הסתדרות החקלאים חדרה, ממיסדי הקואופרטיב "החקלאי" וחבר הנהלתו מיום הוסדו. ממיסדי האגודה החקלאית לבטוח המקנה "שומרוניה". חבר הלואה וחסכון חדרה.
+
+ צאצאיו: חיה, אברהם.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 856 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/856</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

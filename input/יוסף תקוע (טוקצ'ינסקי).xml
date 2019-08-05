@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4433 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4433</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף תקוע (טוקצ'ינסקי)</persName>
+
+</head>
+         <div><p> נולד ברוסיה, ד' באדר תרפ"ה (4.3.1925).
+
+ לאביו <persName>שאול טוקצ'ינסקי </persName> ולאמו <persName>דבורה </persName> בת יוסף <persName>ברכות.</persName>
+
+ קבל חנוך מסורתי וכללי, בוגר אוניברסיטת הרוורד. במשך זמן כעוזר לפרופסור באוניברסיטת הרוורד.
+
+ בשנות 1947-48 יועץ משפטי למשלחת הסוכנות היהודית באו"ם.
+
+ בשנת 1949 עלה לארץ.
+
+ שירת בצה"ל.
+
+ בשנות 1949-59 סגן יועץ משפטי במשרד החוץ בירושלים.
+
+ יועץ משפטי לרמט"כל בעניני שביתות נשק.
+
+ מנהל עניני שביתות נשק במשרד החוץ 1954-58.
+
+ בשנות 1958-59 סגן ראש משלחת ישראל באו"ם.
+
+ בשנות 1959-60 ראש משלחת ישראל באו"ם בפועל.
+
+ בשנות 62 -1960 שגריר ישראל בברזיל.
+
+ משנת 1962 שגריר ישראל במוסקבה.
+
+ צאצאיו:<persName> מיכל, גלעד.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4433 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4433</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

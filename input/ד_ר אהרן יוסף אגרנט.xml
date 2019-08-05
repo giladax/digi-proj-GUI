@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3035 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3035</bibl><bibl>Volume: #8 ,Page: 3036 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3036</bibl>
+<bibl>Volume: #8 ,Page: 3037 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3037</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אהרן יוסף אגרנט</persName>
+
+</head>
+         <div><p> נולד בכ"א סיון תרמ"א (1881) בחאסלביץ, שבפלך מוהילב, רוסיה הלבנה.
+
+ לאביו <persName>שאול אברהם</persName> (סוחר, מוסמך לרבנות, ממלא מקום הרב בהעדרו) ולאמו <persName>צביה.</persName>
+
+ למד בישיבות מיר וסמיאטיץ והוסמך לרבנות בתרנ"ט. רכש בקיאות מיוחדת בספרות הגאונים וברמב"ם ובמנהגי ישראל בארצות גולת אירופה ובהשתלמותם ההיסטורית. בבחרותו הצטרף לתנועה הציונית בראשיתה, ובהיותו איש-שיחה לוקח לבבות ומטיף כשרוני, השתמש בסגולותיו אלה לעשות נפשות לתנועה הציונית, ובגיל צעיר ביחס, ב-1901, כבר נבחר כציר לועידת-מינסק של ציוני רוסיה.
+
+ ב-1902 היגר לארצות הברית ועסק בהוראת עברית. בו בזמן השתלם בלימודים כלליים, למד באוניברסיטת שיקאגו וב-1914 הוסמך לד"ר לרפואה ולרופא שיניים.
+
+ נשא לאשה את <persName>פנינה</persName> בת <persName>שמעון שניצר.</persName>
+
+ למעלה מ-20 שנה היה באמריקה חבר פעיל ב"פועלי ציון", בה הדגיש יותר את הציונות מאשר את הפועליות והתמיד בהשפעתו התרבותית הלאומית על פשוטי העם. ביתו היה פתוח לשד"רים הציוניים ושימש מרכז לעבודה תרבותית וציונית. היה ממקורבי <persName>ח. נ. ביאליק ושמריהו</persName> <persName>לוין.</persName>
+
+ כתב בעתונים היהודיים באמריקה על החינוך ועל השתלשלות נוסחי התפלה ומנהגיה.
+
+ ב-1923 שהה בארץ כחצי שנה כתייר וב-1929 עלה והשתקע בחיפה. המשיך בעיסוק במקצועו ובעניני צבור והיה זמן מסוים יו"ר הסתדרות רופאי שיניים בחיפה ונבחר גם ליו"ר הסתדרותם הארצית. היה יו"ר "מפעל התורה" בחיפה, יו"ר ועד בנין בית הכנסת על הכרמל, חבר הועד הפועל של "אהל שם" ומרצה בו לפעמים.
+
+ נפטר בחיפה, ג' סיון תש"ו (2.6.1946).
+
+ בניו: ד"ר <persName>שמעון אגרנט</persName> (חבר בית המשפט העליון). ד"ר <persName>שמואל אברהם אגרנט</persName> (רופא שיניים בחיפה).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3035 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3035</bibl><bibl>Volume: #8 ,Page: 3036 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3036</bibl>
+<bibl>Volume: #8 ,Page: 3037 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3037</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

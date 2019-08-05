@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 896 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/896</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה בוזגלו</persName>
+
+</head>
+         <div><p> נולד בחיפה, בשנת תרמ"ה (1885), לאביו <persName>דוד</persName> <persName>בן משה </persName> (שעלה ארצה עם העליה הראשונה ממרוקו והיה מנהל סניף הברת "זינגר" בחיפה וכאן נפטר ביום א' שבט תרנ"ז).
+
+ למד בביה"ס של חברת כי"ח בחיפה ואח''כ נשלח לפאריס ללמוד בבית-המדרש למורים של החברה (להכשרת מורים למוסדותיה בארצות המזרח). אחרי שהוסמך למורה שימש בהוראה בבתי-הספר של החברה בדמשק, חלב וחיפה.
+
+ ניהל את בית-הספר העברי בקאהיר בשנות המלחמה הראשונה ושם השתתף ביסוד ה"מכבי" ופעל בחינוך הנוער לציונות ולהכרה לאומית עברית. אח"כ היה מורה לצרפתית ולערבית בגימנסיה "הרצליה" בתל-אביב. חזר לחיפה, נשא לאשה את <persName>וירג'יניה</persName> בת <persName>יצחק נהון</persName> מנהל ביה"ס של כי"ח בחיפה (אף היא גמרה את בית-המדרש למורים של החברה בפאריס ואח"כ ניהלה את ביה"ס לבנות של החברה בחיפה). עבד כפקיד ראשי בבית-המסחר של <persName>שמואל יוסף פבזנר </persName> ואח"כ כפקיד בבנק עותומן ואחריו בבנק ההולנדי.
+
+ היה מפעילי התנועה הציונית והשקיע מרץ רב בארגון הצבור הספרדי לפעולה תרבותית וצבורית בחיי הישוב החדש ובשרות המפעל הציוני ולהגנה על מעמדו וזכויותיו. היה חבר בועד קהלת חיפה ופעל רבות לטובת הקהלה בכלל ולטובת בני עדתו בפרט. ביחוד עמד על משמר עניני העדה הספרדית כציר באספת הנבחרים ב-1920. היה חביב על בני כל העדות וביחוד על בני כת הבהאיים, שבראש מרכזה בחיפה עמד <persName>עבאס אפנדי אלבהאי.</persName> בתרפ"ב השתתף עם <persName>אברהם כלפון, משה לוי, שמואל בן-שבת, רפאל חכים</persName> ואחרים ביסוד הסתדרות הספרדים, שפעלה גדולות בשטח התרבות ובהגנה על הספרדים מפני קיפוחים.
+
+ היה פעיל גם בעניני צבור כלליים ונואם ידוע בעיר. כתב בעתון האיטלקי "קוריירה דילה סיריה", בעתונות העברית והערבית בארץ ובעתון הצרפתיהמצרי "לא בורס אג'יפסיין".
+
+ בשנותיו האחרונות פרש מכל פעולה צבורית
+
+ והצטמצם בעבודתו בלשכת הבונים החפשים "אליהו הנביא" שעמד בראשה. צאצאיו: <persName>יהודית, דוד, יצחק,</persName> <persName>רחל</persName> אשת<persName> כאתראן.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בחיפה, כ"ב אדר תש"א (21.3.41) (ראה את הערך בעמוד 896, כרך א')
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 896 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/896</bibl>            <bibl>Volume: #3 ,Page: 1535 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1535</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

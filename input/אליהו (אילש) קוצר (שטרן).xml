@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4214 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4214</bibl><bibl>Volume: #13 ,Page: 4215 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4215</bibl>
+<bibl>Volume: #13 ,Page: 4216 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4216</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו (אילש) קוצר (שטרן)</persName>
+
+</head>
+         <div><p> נולד כ' תשרי תרמ"ח (10.10.1887) בסאטמאר, אז בצפון-מזרח הונגריה, וכיום בצפון-מערב רומניה.
+
+ לאביו <persName>יוסף שטרן </persName> ולאמו <persName>בריינה</persName> בת <persName>דוד שלמה רוט</persName> .
+
+ נתחנך בתרבות יהודית מסורתית והונגרית-כללית.
+
+ מגיל צעיר באהו דחף-הכשרון לכתיבה, ובגיל 20 נתקבל לעובד קבוע בעתון יומי הונגרי בעיר הולדתו, וכבש את הקוראים בחוג מתרחב והולך באורח-כתיבתו העצמי - ראיית המתרחש והעבר והצגתם בלבוש בלטריסטי, מקושט ברסיסים של הברקה חזונית ופילוסופית.
+
+ אחרי שנתיים כבר נתקבלה ממנו להצגה קומדיה בחרוזים, וב-1911 נתקבל לעבודה עתונאית-ספרותית במערכת עתון יומי מתקדם בבודאפשט, ובמשך הזמן נעשה שמו הונגרי Kaczer Illesובשם זה הוא חותם על רשימותיו בעתונים ועל ספריו (22 עד עתה). ועם היותו מקובל כסופר מאדיארי, הרי שלא כרוב הסופרים בני ארצו
+
+ ממוצא יהודי לא זו בלבד שלא העלים את היותו יהודי, אלא כמה מחיבוריו נכתבו על רקע יהודי ועל נושאים יהודיים אקטואליים, היסטוריים וחזוניים, מתוך הזדהות טבעית עם עמו, ובכך חיזק בקרב קוראיו היהודיים את התודעה היהודית ואח"כ גם את התודעה הלאומית והציונית.
+
+ ב-1913 נשא לאשה את <persName>דינה </persName> בת <persName>אברהם זלינגר</persName> , וב1948 את <persName>ארה</persName> בת <persName>משה אהרנטאל</persName> .
+
+ עם קום משטר הורטי בהונגריה הוכרחו סופרים מתקדמים מסוגו להגר מהארץ.
+
+ בשנים 1920-1919 עבד בעתון של האמיגרציה ההונגרית בווינה, עד 1923 בעתון הציוני ההונגרי "אוי קלט" בקלוזנבורג, ושוב כשנתיים בווינה, שלוש שנים בבראטיסלאווה, שש שנים בגרמנית בברלין, ושוב חמש שנים בפראג ובבראטיסלאווה, עד שהמשטר ההיטלראי הגיע גם שמה, ובשנים 1959-1939 בלונדון, שם פעל בשנות מלחמת העולם ואחריה גם כעורך להונגרית בשרות השידור הבריטי, ושם כתב גם באנגלית.
+
+ 22 ספריו כוללים סיפורים, רומנים, נובלות ומחזות, מהם שתורגמו לשפות אחרות (אחד מהם לתשע שפות אירופיות). ביניהם על נושאים יהודיים, מקראיים או ציוניים :<persName> חפרית</persName> (רומן על אשתו המצרית של שלמה המלך, יצא בשש מהדורות), <persName>שושנה והזקנים, המשיח בא</persName> (מחזה, תורגם לאידית),<persName> המתנחל בחזון </persName> (קלוזנבורג 1923, פרשת העולה המתערה בארץ תוך מאבק עם השממה, הקשיים והתלאות), <persName>הרעשת חומות יריחו, אל</persName> <persName>תירא עבדי יעקב, שלושת הכוכבים </persName> (תל-אביב, 1955), <persName>היהודי של קישוט לאיוש</persName> (תל-אביב, 1956). A fust verses vigjatek )1909(; Kafrit, az ;egyiptomi asszony )regeny - 1915, 6 kiadas( A kiraly aludni akar )elbesz - 1916(; A fekete kakas )regeny - 1917(; Ezusfuvola )regeny - 1923(; Megjott a Messias )drama 3. felv. - 1921 - Holder Jozsef forditotta
+
+ -jiddisre( ; Zsuzsanna es a venek )regeny 1922(; Az alomtelepes )1923(; )Der Traumsiedler( )1924(; Sarkanyolo tovabbi kalandjai )1924(; Jancsi )1925(; A vakember tukre ; (1926)elbesz. )1925(; Doctor Hulla nevellak A sziami ikrek vigjatek )1926(; Ikongo nem
+
+
+ hal meg )1934 - 1944 - Pozsony es B.pesten es meg mas kilenc nyelven magyar, nemet, holland, dan, orosz, sved( ; Godolye godolyet ;(1937)mese )1936(; Kotojasbol, komadar Ne felj szolgam Jakob )Methuen kiado London - 1947 - magyar, angol, spanyolul, Fear Not My Servant Jacob( ; Jericho ostroma -)kidado London - 1949 - magyar angol The Siege of Jericho( ; The Siege )The Dial Press, New-York 1953(; Harom a csillag )1955 - Tel-Aviv( ; Kossuth Lajos zsidaja .1956 -Tel- Aviv()
+
+ בארצות נדודיו מילא גם תפקידים בתור יו"ר התאחדות הסופרים ההונגריים ברומניה. בצ'כוסלובקיה ובבריטניה, ובלונדון היה מהמיסדים וחבר בנשיאות של התאחדות יהודי הונגריה בבריטניה. ומשנתחדש העתון "אוי קלט" בתל-אביב כתב בו רשימות מלונדון.
+
+ ביקר בארץ בשנים 1952 ו-1958.
+
+ בשנים 1959 עלה עם רעיתו והשתקע בבית קטן ברמת-חן ומקדיש שעות ביום לעבודה בגינה, ועל שום כך נתכנה בתואר "המתבודד מרמת-חן".
+
+ ממשיך בעבודה ספרותית ובכתיבת רשימות ב"אוי קלט", בהן מחבב הוא על קוראי הונגרית את החיים בישראל ועוזר לעולים החדשים ליהפך מבחינה נפשית ממהגרים לאזרחים. משפיע בכיוון זה גם בתור נשיאכבוד ארצי של התאחדות עולי הונגריה וחבר הנשיאות בברית העולמית ליהודי הונגריה. צאצאיו מאשתו הראשונה :<persName> אנה</persName> אשת<persName> תומאס זאדור</persName> , <persName>ינוש, פטר</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4214 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4214</bibl><bibl>Volume: #13 ,Page: 4215 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4215</bibl>
+<bibl>Volume: #13 ,Page: 4216 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4216</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

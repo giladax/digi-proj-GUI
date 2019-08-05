@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1285 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1285</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה (יודל) מוניש אידלביץ</persName>
+
+</head>
+         <div><p> נולד בפוניבז', ליטא, בשנת תרכ"ג (1863), לאביו <persName> שמעון אלעזר</persName> ולאמו<persName> גיטל,</persName> ושניהם מתו עליו בילדותו. בן שבע יצא עם שני אחיו הגדולים ממנו לדרך
+
+ לעלות לארץ-ישראל. הם הלכו ברגל, בלי כסף ובלי תעודות, עד שהגיעו לרומניה. לן בחוצות והתגנב לאניה ונסע בה עד איסטמבול. שם נאסר, ברח מביתהכלא והתגנב לאניה המפליגה ליפו, ואחרי שלש שנות נדודים וטלטולים הגיע ארצה בן עשר. בירושלים
+
+ עזרו לו אנשים טובים בכלכלתו. למד בתלמוד-תורה ובישיבה ואח"כ למד מלאכת חקיקת אותיות באבן והחל עוסק בחקיקת כתבות על מצבות ואבני זכרון של מוסדות והקדשות, וזמן-מה עזר לר' <persName>בינוש סלנט</persName> במסחרו באתרוגים.
+
+ בהשפעת ר' <persName>יוסף ריבלין </persName> קנה לו בית בין הראשונים בשכונת "ימין משה" (מונטיפיורי) בתשלומים של חצי לירה לשבוע והוא שחקק את אבני הזכרון בשכונה. כן חקק את אבני הזכרון בשכונת מאה שערים, בתי אונגארן ועוד. כשחקק בשנת תרמ"ב אבן זכרון בשביל שכונת "כרם אברהם" (שנוסדה בשנת תרי"ב (1852) ע"י הקונסול האנגלי הראשון בירושלים ג'ימס פין ואשתו אלזיבט אנא פין. מטעם חברות שונות אנגליות, לא מסיונריות) נזהר לבלי לחקוק את שם הבורא באותותיו, רק אות ד'', כנהוג מתוך יראת הקודש. והקונסול דרש ממנו לחרות את השם ככתבו, כפי שנמסר לו בנוסח הכתוב, וכשסירב תבע אותו הקונסול לדין, אך יצא זכאי. פעם הזמינוהו לחרות כתבות על מצבות בבית-הקברות הנוצרי ביפו, ואף כי מצבו החמרי היה קשה והמזמינים ויתרו לו שלא הוא יחרות את הצלבים, בבל זאת סירב.
+
+ הציעו לו להשתתף בועדים שונים, ותמיד סירב להתקרב לעסקנות וכיבודים.
+
+ בשנים האחרונות עובד הוא במושב זקנים בירושלים. 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1285 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1285</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

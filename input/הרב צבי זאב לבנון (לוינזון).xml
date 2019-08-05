@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4303 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4303</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב צבי זאב לבנון (לוינזון)</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ג כסלו תר"ע (6.12.1909). לאביו<persName> בן-ציון לוינזון</persName> (ממשפחת רבנים) ולאמו<persName> יוכבד</persName> בת <persName>יעקב יהודה חפץ.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבות והשכלה תיכונית. חניך "עץ חיים", ותלמיד ישיבת "מרכז הרב'' (קוק). הוסמך לשו"ב ע"י הרב<persName> א. י. הכהן קוק</persName> זצ"ל ובשנת תשי"ב (1952) הוסמך לרבנות ע''י הרבנות הראשית לישראל.
+
+ בשנת תרצ"ד (1934) נשא לאשה את <persName>חיה פרידה</persName> בת <persName>אליקים גצל קורלנסקי.</persName>
+
+ בשנים 1956-1935 - מהמתישבים הראשונים ב"קרית מוצקין" (ישוב עירוני, נוסד 1934 בעמק זבולון, בצד הכביש חיפה-עכו, על שם ד"ר <persName>ליאון מוצקין</persName> , מנהיג ציוני ידוע). עסקן ציבורי במקום. מבוני בית הכנסת, מוסדות דת ובית ספר מ"ד.
+
+ שירת בצה"ל.
+
+ נותן שיעורים בלימודי קודש, בתלמוד, נואם ומרצה למבוגרים ולנוער.
+
+ כיום תושב "קרית שמואל" בירושלים.
+
+ מזכיר כללי של המועצה הדתית בירושלים.
+
+ צאצאיו: <persName>יצחק לבנון, רחל</persName> אשת<persName> בנימין ציינוירט,</persName> <persName>יהודית</persName> אשת <persName>יעקב אגרסט, יעקב יהודה לבנון, אליקים</persName> <persName>לבנון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4303 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4303</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

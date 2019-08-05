@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5375 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5375</bibl><bibl>Volume: #18 ,Page: 5376 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5376</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר רובננקו</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ריגה</placeName> (לטביה) בשנת תרע"א (16.5.1911). לאביו <persName>יוסף רובננקו</persName> (ראה את הערך שלו בכרך זה) ולאמו <persName>רבקה</persName> בת<persName> רפאל-מאיר ברקן.</persName> קיבל חינוך מסורתי וכללי.
+
+ באוקטובר 1922 עלה לארץ.
+
+ המשיך ללמוד בת"א, והיה בוגר ביה"ס "אחד העם", ביה"ס התיכוני למסחר "גאולה" ואדמיניסטרציה ציבורית בעיריית תל-אביב.
+
+
+ היה מראשוני "הצופים" (הקהלה), חבר הקבוצה הראשונה של "צופי-ים קשישים" בתל-אביב.
+
+ חבר ה"הגנה", "המשמר האזרחי" ו"מגן דוד אדום".
+
+ בשנת 1932 נשא לאשה את<persName> יהודית</persName> בת הרב<persName> יעקב</persName> <persName>משה שפירא </persName> ז"ל (ראה את הערך שלו בכרך זה).
+
+ בשנת 1932 ממייסדי התאחדות סוכני ביטוח בישראל.
+
+ משנת 1941 חבר הוועד הארצי והוועד הפועל של הנ"ל עד שנת 1969.
+
+ היה ציר בוועידות שונות של הציונים הכלליים.
+
+ משנת 1949 היה חבר המועצה של בנק אשראי וחסכון של הציונים הכלליים עד השתלבות הבנק בבנק זרובבל ב-1965.
+
+ היה ציר בוועידות של הציונים הכלליים מ-1950.
+
+ חבר בית הדין (הוועדה המשפטית) של התאחדות סוכני הביטוח בישראל.
+
+ כתב מאמרים על נושא הביטוח בעיתונים מקצועיים.
+
+ בהגנה היה בהדרכה בשרות הרפואי.
+
+ במלחמת העצמאות (1948-49) שירת בצה"ל.
+
+ כיום, בעל סוכנות לביטוח ומורשה מטעם חברות ביטוח ישראליות: "מנורה", "הפניקס הישראלי", "מגדל ובנין" בע"מ ; "סלע" בע"מ, וכן מנהל בחברת מימון להשקעות.
+
+ צאצאיו:<persName> זמירה</persName> אשת <persName>משה סבא</persName> (בארצות הברית); <persName>יעקב רובננקו</persName> ; 3 נכדות ו-2 נכדים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5375 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5375</bibl><bibl>Volume: #18 ,Page: 5376 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5376</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

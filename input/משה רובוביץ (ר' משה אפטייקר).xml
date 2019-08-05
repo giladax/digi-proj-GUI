@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 366 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/366</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה רובוביץ (ר' משה אפטייקר)</persName>
+
+</head>
+         <div><p> נולד בסובאלקי, פולין, י"א ניסן תקצ"ה (1835), לאביו ר'<persName> יהודה ליב,</persName> סופר סת"ם, ולאמו <persName>חיינה.</persName> נתחנך חינוך מסורתי. נתיתם מאביו בילדותו, ומשנתגלה בו כשרון לציור נסעה אמו אתו למרסייל שבצרפת ושם השתלם בציור פורטרטים. אך בראות אמו, שמלאכתו זו עלולה להביאו לידי חילול שבת והחיים בארצות המערב עלולים להרחיקו מאורח-החיים היהודי, החליטה להעבירו לארץ-ישראל.
+
+ בשנת תרי"א עלו ארצה והתישבו בירושלים, ולהמלצתו של הד"ר <persName>אלברט כהן</persName> נתקבל הצעיר כמתלמד בבית-המרקחת שליד בית-החולים רוטשילד, ובמשך הזמן למד את המקצוע על בוריו ונתמנה למנהל ביתהמרקחת.
+
+ בן 18 נשא את <persName>צפורה (פייגה) </persName> בת הרב<persName> בן-ציון</persName> <persName>שלעז</persName> , מחבר הספר "שיחת חולין", חתנו של הרב <persName>שבתאי יפה</persName> , שנקרא "הרב מווסנע", מצאצאי הגאון רבי <persName>מרדכי יפה</persName> , בעל ה"לבושים".
+
+ בהמלצת הקונסול האוסטרי הכללי נתמנה לניהול מוסדות הצדקה שבפיקוחו.
+
+ פעמים רבות מילא את מקומם של הרופאים מנהלי בית-החולים (ד"ר<persName> ברנרד נוימאן,</persName> ד"ר <persName>בנימין</persName> <persName>לונדון,</persName> ד"ר<persName> בנימין רוטציגל</persName> , ד"ר<persName> שווארץ</persName> וד"ר<persName> ד'אר</persName> <persName>בילא</persName> ) בעת שיצאו לחופשתם.
+
+ כשפרצה מגפת החולירע בעיר עשה לילות כימים בהכנת תרופות לחולים הרבים בני כל הדתות, ובעתונות נתפרסמו דברי תודה והערכה למסירותו.
+
+ כשביקר סיר <persName>משה מונטיפיורי</persName> בירושלים ונודע לו שהרוקח הזה הוא גם מומחה לצייר פורטרטים, ביקש ממנו שיצייר את דמותו.
+
+ בשנת תרנ"ה, אחרי 39/1/2 שנות עבודה במוסד, חלה בשיתוק, וכדי להשלים את שנות עבודתו לארבעים היה בא לבית-החולים ברכיבה על חמור והמשיך לעבוד, ואח"כ ראה את בנו חיים יורש את מקומו ופרש מהשרות. הניח אחריו 3 בנים ושתי בנות.
+
+ נפטר בירושלים, ח' אדר שני תר"ס.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 366 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/366</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

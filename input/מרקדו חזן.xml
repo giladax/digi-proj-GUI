@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1440 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1440</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרקדו חזן</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ז אלול תרל"ט (1879), לאביו הרב <persName>שלמה חזן,</persName> מעולי מארוקו, שהיה רבה של עדת המערבים ביפו, ולאמו<persName> פרחה </persName> בת <persName>יעקב שמול.</persName>
+
+ למד בתלמוד-תורה של העדה בירושלים ואח"כ מפי הרב <persName>ציון הכהן</persName> בצפת.
+
+ נשא לאשה את <persName>שרה</persName> בת <persName>יצחק אלבז</persName> (אחותה של <persName>שרינה</persName> אשת אברהם חיים שלוש).
+
+ בשנת תרנ"ז התישב ביפו והתפרנס מחנות-מכולת. הקדיש מזמנו לפעולה צבורית בחברת "עוזר דלים" ויחד עם <persName>משה אליהו כהן</persName> עשה רבות להקלת מצוקתם של עניי העם בזמנים ההם. כן היה חבר מסור ופעיל בחברה קדישא מראשית הוסדה בשנת תרנ"ח.
+
+ בשנת תרע"ב נסע למארוקו בעניני מסחר ולהחיש את העלאת קרוביו משם לארצנו. התמהמה בסידור הענינים עד קיץ תרע"ד, כשפרצה מלחמת-העולם הראשונה. נשאר תקוע במארוקו במשך כל שנות המלחמה ורק בשנת תרע"ט עלה בידו לחזור ארצה.
+
+ המשיך במסחרו ביפו ואחרי המהומות בניסן תרפ"א עבר לשכונה החדשה "נורדיה" שמצפון לתל-אביב. השתתף בארגון מקדש מעט לתפלה לבני עדתו בסביבה החדשה והנו כיום גבאי בית הכנסת "אבשלום" שברחוב בוגרשוב 63.
+
+ צאצאיו: <persName>תמר, שלמה</persName> (בעל בית מסחר לתמרוקים, 6 רחוב הרצל, תל-אביב).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1440 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1440</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

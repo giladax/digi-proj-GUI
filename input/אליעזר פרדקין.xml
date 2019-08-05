@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3998 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3998</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר פרדקין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>הומל</placeName> (רוסיה) בחנוכה תרע"ז (בסוף 1916). לאביו <persName>אליהו </persName> ולאמו<persName> לאה</persName> בת<persName> נחמיה פייגין.</persName>
+
+ קיבל חינוך מסורתי וכללי בבי"ס עירוני.
+
+ בשנת 1925 עלה לארץ.
+
+ למד בגמנסיה העברית הרצליה ושנתים באוניברסיטה העברית בירושלים.
+
+ היה מדריך בתנועת הצופים, ממיסדי צופי דיזנגוף.
+
+ היה חבר הועד הפועל של הסתדרות הציונים הכלליים וחבר הנהלת סניף הציונים הכלליים בתל-אביב. היה מדריך בהגנה וקצין בצה"ל.
+
+ בשנת 1957 נשא לאשה את<persName> רבקה </persName> בת <persName>אליעזר בוכויץ,</persName> ממיסדי שכונת "מקום חיים" בירושלים (ילידת ירושלים, הימה כמה שנים מורה ומחנכת באיזיר באר-שבע, חברה פעילה בויצ"ו רמת-גן).
+
+ כמה שנים היה מזכירו של הרב י. ל. מימון (פישמן) - ראה כרך ג', עמוד 1155.
+
+ השתתף בהוצאת ספרו של הרב כשר.
+
+ פרסם ספר "המדריך וקבוצתו" (בהוצאת מרכז המכבי בישראל), וספר הדרכה "הנוער והחלוץ" (בהוצאת מחלקת הנוער של הסוכנות היהודית).
+
+ מזכיר העיר רמת-גן.
+
+<persName>צאצאיו : דורית, אלון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3998 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3998</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

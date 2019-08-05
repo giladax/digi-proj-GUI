@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2130 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2130</bibl><bibl>Volume: #5 ,Page: 2131 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2131</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר דוד מראני (שפיגל)</persName>
+
+</head>
+         <div><p> נולד בסקולה, מזרח גליציה, י'ד תשרי תרנ'ז (1896. 21.9.), לאביו <persName>יצחק צבי שפיגל </persName> (סוחר, חניך ישיבות
+
+
+ זולקאוו וברודי; השתתף ב"הצפירה" וב"המצפה") ולאמו <persName>מלכה </persName> בת <persName>זאב קליין </persName> (ראש קהלת סקולה). בילדותו עבר עם הוריו לצ'רנוביץ ושם למד בביה"ס העממי של הקהלה היהודית ובגימנסיה ממשלתית. אח"כ למד באוניברסיטאות וינה וצ'רנוביץ. הפסיק את לימודיו לרגל מלחמת העולם א', בה שרת כקצין בצבא האוסטרי בשנות 1916/18, וב-1920 הוסמך לד"ר לפילוסופיה.
+
+ ב-1922 נשא לאשה את <persName>חיה</persName> בת<persName> זיידה אנגלר.</persName>
+
+ אחרי שובו מהשרות בצבא בסוף המלחמה השתתף עם ד"ר <persName>בנימין פוקס </persName> ז"ל <persName>ושמשון שכטר</persName> ז"ל בארגון תנועת "צעירי ציון" בבוקובינה ועזר בארגון התנועה ביתר חלקי רומניה. עבד בתור מורה בגימנסיה בצ'רנוביץ והיה פעיל בארגון החלוץ והעליה מרומניה וערך את עתון המפלגה "דאס פרייע ווארט" (בגרמנית). היה חבר המשרד הראשי של "התאחדות" (הפועל הצעיר - צעירי ציון), ציר ברשימת "התאחדות" לקונגרסים הציוניים ב-1921, 1923 ו-1925, חבר במרכזים של צעירי ציון והחלוץ ברומניה ובמשרד הא"י בצ'רנוביץ.
+
+ ב-1926 עלה ארצה. היה מורה בביהמ"ד למורות ע"ש לוינסקי בתל-אביב ובו בזמן חבר ועד הסניף של הפועל הצעיר בת"א. עבר להורות בביה"ס הריאלי בחיפה והיה מזכיר ועדת התרבות של מועצת פועלי חיפה ואח"כ מנהל המשרד המחוזי של מחלקת התרבות של הועד הלאומי בחיפה ופעל בעבודה ארגונית ובהרצאות לעם. בשנות 1928/29 פעל בשליחות קרן היסוד בסלובקיה ובטרנסילבניה. פרסם מאמרים ב"הפועל הצעיר", "דבר", "הארץ",
+
+ "מאזנים", "אחדות העבודה" (בעריכת ד''ר חיים ארלוזורוב), "הדור", "דורות''.
+
+ אחרי קום מדינת ישראל נתמנה למפקח ראשי במחלקה להנחלת הלשון ולקליטה תרבותית של. העולים במשרד החינוך והתרבות.
+
+ צאצאיו:<persName> אבישלום</persName> (אסיסטנט במכון ללימודי החקלאות של האוניברסיטה ברחובות ; במלחמת המולדת שרת כסמל בפלוגת "חולדות נגבה"), <persName>תמר</persName> (שרתה בפלמ"ח ; חברה בקיבוץ יראון בגליל העליון).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2130 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2130</bibl><bibl>Volume: #5 ,Page: 2131 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2131</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3067 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3067</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל סבוראי (גולדזייגר)</persName>
+
+</head>
+         <div><p> נולד בי''ז אדר תרנ"ו (3.3.1896) באודיסה שברוסיה. לאביו<persName> מרדכי גולדזייגר</persName> ולאמו<persName> זלדה </persName> בת <persName>אייזיק</persName> <persName>איידלס.</persName>
+
+ למד בבית-ספר יהודי ובבית-ספר למסחר באודיסה. ומשעלה לארץ בראשית שנת תרע"ג (ספטמבר 1912) המשיך וגמר את לימודיו במחזור ג' של גימנסיה הרצליה.
+
+ ב-1919 נשא לאשה את <persName>שרה</persName> בת <persName>יהודה יצקר,</persName> יצא לעבודה חקלאית. הצטרף לגדוד העבודה והתנחל במשק עין חרוד בין ראשוני מיסדיו, עבד בו בעיקר בגידול מטעי עצי פרי והתמחה בענף זה להלכה ולמעשה.
+
+ יצא בשליחויות לגולה לפעולות תרבות ולמחקר מקצועי במטעי עצי פרי.
+
+ במוצאי מלחמת העולם השניה היה מראשוני המחנכים לילדי עלית הנוער במשק.
+
+ יסד ומנהל את המכון לידיעת המולדת "בית חיים שטורמן".
+
+ פרסם מאמרים ב"קונטרס", "דבר", "השדה'', "הפועל הצעיר". תרגם מרוסית את הספר "חיי הצמח" לק. טימירייאזב (הוצאת הקיבוץ המאוחד, תש"ו). ערך את הספר "עצי פרי וגיזומם" (הוצאת "השדה", תש"ה).
+
+ היה פעיל ב"הגנה" ובמלחמת השחרור שירת בתפקיד קצין הסברה וסעד חטיבתי. בשנים האחרונות הנו חבר המועצה ליד אגף העתיקות של משרד החינוך והתרבות.
+
+ צאצאיו: <persName>איה</persName> אשת <persName>שלמה גוזס, יוחי, רחל, דפנה</persName> אשת <persName>גי בונה, ארזה</persName> אשת <persName>דן חולתי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3067 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3067</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

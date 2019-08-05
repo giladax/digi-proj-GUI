@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2342 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2342</bibl><bibl>Volume: #5 ,Page: 2343 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2343</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אסתר פומרנץ</persName>
+
+</head>
+         <div><p> נולדה במרס 1878 (תרל"ח), באחוזה דמארו ע"י בריסק (רוסיה) לאביה <persName>יעקב דב</persName> (ת"ח ועשיר, מצאצאי
+
+ בעל "פנים מאירות ) ולאמה<persName> צביה דבורה</persName> בת <persName>אליהו</persName> <persName>הלרשטיין</persName> (מצאצאי תוספות יו''ט ו"ראש יוסף"). אחותה <persName>חיה </persName> נישאה לרבה של פוניביזש, ר' <persName>יצחק פוניביזשר.</persName>
+
+ בשנת תרס"א (1901) נישאה <persName>לאשר פומרנץ</persName> (ראה בכרך זה, בעמוד 2301).
+
+ בימי הכיבוש הגרמני בפרוזשאני 1915-1919 עמדה בראש הועד לעזרת הפליטים, ניהלה את בית החולים היהודי ואת אגודת הנשים.
+
+ בורשה עמדה בראש בתי התמחוי לפליטי אוקראינה. עלתה עם בעלה ארצה בשנת תרפ"ה.
+
+ בימי הפרעות תרפ"ט היתה ממיסדות השותפות "הירקן" להחדרת התוצרת החקלאית העברית.
+
+ היתה חברה במשמר האזרחי בתל-אביב.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2342 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2342</bibl><bibl>Volume: #5 ,Page: 2343 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2343</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

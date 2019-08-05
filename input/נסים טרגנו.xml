@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4328 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4328</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נסים טרגנו</persName>
+
+</head>
+         <div><p> נולד ביום כ"ה תשרי, תרצ"א (17 באוקטובר, 1930) בברצלונה שבספרד.
+
+ לאביו<persName> משה טרגנו</persName> ולאמו<persName> אסתר.</persName>
+
+ למד בבית-ספר עממי ובן 14 עלה לארץ עם עולי "ניאסה" שנשלחו בעזרת הג'וינט והגיעו לארץ ב-1 בפברואר, 1944.
+
+ כחצי שנה עשה בבן-שמן, אחר כך חזר לבית הוריו שהתיישבו בתל-אביב והחל לעבוד כרפד.
+
+ השתלם בלימודיו בכוחות עצמו.
+
+ הצטרף ללח"י והיה פעיל בה.
+
+ עם התגייסות חברי ארגונו לצה"ל, שירת בקומנדו של לח"י והשתתף בכיבוש "לוד" ו"רמלה", בקרב על "עיראק א-סואידן".
+
+ נפל ב"עוג'ה אל-חפיר" ביום כ"ד כסלו, תש"ט (26.12.1948), בשעה שהיה בזחל הטנק, נפגע והוא קפץ מתוכו כשהוא נטול כוח הראייה, ורץ בטעות לעבר עמדת הערבים שהרגוהו. היה קבור בחלוצה. ביום כ"ג תמוז, תש"ט (20.7.1949) הועברה גופתו לנחלת יצחק בגבעתיים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4328 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4328</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

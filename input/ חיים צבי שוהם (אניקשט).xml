@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/122</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> חיים צבי שוהם (אניקשט)</persName>
+
+</head>
+         <div><p> נולד בעיירה יאסווען ליד קידן, פלך קובנה (ליטא), בשנת תרל"ו, לאביו יוסף מאיר. למד בחדר ואח"כ בישיבת סלובודקה. נמשך לתנועה הציונית והתמסר להוראת השפה העברית ואף השתלם במדעים כלליים ובפדגוגיה והיה אחד מטובי המורים העברים בגולה. היה מזכירו של מ. מ. אוסישקין ביקטרינוסלב עד 1903. בשנת 1903 עלה ארצה והמשיך כאן בעבודתו בתור מורה במושבות: שמונה שנים במלחמיה, שנתים בפתח-תקוה ושלש שנים במטולה.
+
+ הצטרף לראשוני המורים, שהתמסרו לתצפיות בטבע הארץ בסביבתם, כגון מדידת החום וכמות הגשמים, כדי לצרף מהידיעות המקומיות הפעוטות תמונה כללית של תנאי החום וכמות הגשמים בכל הארץ. כן הצטרף לאגודה שנוסדה למען ידיעת ארץישראל.
+
+ ביתו היה פתוח לעולים החדשים, שבאו אל המושבות לשם הכרת הארץ או לבקש עבודה ובמיטב יכלתו השפיע, בגליל התחתון יחד עם חברו יוסף ויתקין, על האכרים שיקבלו פועלים עברים לעבודה
+
+ במשקיהם. ארגן שעורי ערב לעברית לפועלים ולגומרי בתי הספר העממיים.
+
+ במלחמת-העולם הראשונה פגעה בו מגפת טיפוס הבהרות, שהפילה אז חללים רבים בישוב בגלל חוסר-מזון והמחסור הכללי, וממחלה זו נפטר במטולה ביום כ"ו אייר תרע"ו (1916).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/122</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

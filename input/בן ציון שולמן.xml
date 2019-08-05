@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4465 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4465</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בן-ציון שולמן</persName>
+
+</head>
+         <div><p> נולד בצפת, ח' ניסן תרנ"ה (1895).
+
+ לאביו ר' <persName>שמחה שולמן</persName> (ראה כרך א' עמוד 55) ולאמו<persName> פרומה</persName> בת ר'<persName> אברהם רוטנברג.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה בצפת. למד
+
+ בקולג' בבירות (לבנון).
+
+ בשנת 1916 נשא לאשה את<persName> שרה</persName> בת ר'<persName> מאיר</persName> <persName>טויבנהויז</persName> (ראה כרך א', עמוד 441). נפטרה בבולוויה, י"ח תשרי תש"ד (20.10.59).
+
+ במלחמת העולם הראשונה עסק במסירות בחיפוש תבואות למושבים רעבים.
+
+ היה מחלוצי תעשית השעונים והשעונים המעוררים בארץ. בשנת 1948 פתח את בית החרושת הראשון בארץ לתעשית שעונים מעוררים (בחיפה) בשם המסחרי "ג'אז" - ב. שולמן חיפה.
+
+ ממיסדי ביהכ"נ "אוהל שם" בחיפה.
+
+ היה חבר בבני-ברית ובלשכת הבנאים החפשים בחיפה.
+
+ סיפק חומרים איסטרטגיים לצה"ל.
+
+ נפטר בחיפה, כ"ג אלול תשט"ז (30.8.56).
+
+ צאצאיו:<persName> מרים נחמה</persName> אשת<persName> חיים קנפהייס, תקוה</persName> אשת<persName> דוד וולאס, יפה בלה</persName> אשת <persName>צבי בלאו, יעקב</persName> <persName>זאב שולמן</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4465 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4465</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

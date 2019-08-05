@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3271 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3271</bibl><bibl>Volume: #9 ,Page: 3272 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3272</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב מאיר שצ'רנסקי</persName>
+
+</head>
+         <div><p> נולד בשנת תרס"ה (1905) בזגירז' שבפולין. לאביו ר' <persName>בנימין</persName> (מצאצאי הרבי ר' <persName>זכריה מנדיל</persName> מיארוסלאב, שלפי ספר יוחסין ומסורת המשפחה מוצאו מדוד המלך) ולאמו <persName>חוה </persName> בת ר' <persName>נתן נטע היינסדורף.</persName>
+
+
+ למד בחדר ובישיבת "יגדיל תורה" בזגירז' ובשנת תרפ"ד הוסמך לרבנות.
+
+ בשנת תרפ''ט נשא לאשה את<persName> יהודית</persName> בת ר'<persName> אברהם</persName> <persName> פישמן.</persName>
+
+ ניהל בית-חרושת לאריגה "פלשתינה" בזגירז' והיה עסקן פעיל באגודת ישראל ובצעירי אגודת ישראל ויו"ר ומנהל מוסדות החינוך של האגודה בעירו.
+
+ בראשית תרצ"ג עלה ארצה והשתקע בתל-אביב. המשיך בפעילות צבורית כחבר מרכז אגודת ישראל הארצית וחבר הנהלת הסניף המקומי, חבר הנהלת קופת גמ''ח של אגודת ישראל בתל-אביב וחבר הנהלת חברה קדישא. יסד תנועת "בית יעקב" בארץ וחינוך הבנות במגמה דתית שלימה, מיסד ומנהל בית-הספר לבנות והסמינר לגננות ולמורות "בית יעקב" בתל-אביב.
+
+ השתתף בכל הכנסיות של אגודת ישראל בחו''ל ובארץ ובכל הועידות הארציות של אגודת ישראל בפולין ובארץ.
+
+ ספריו: "אור המאיר" (שאלות ותשובות), תש''א ; "דמויות גדולי החסידות", תש''ז ; "העבר הישראלי" (דברי ימי ישראל), תש"ו ; "תולדות החסידות ותורתה", תש''י; "קידוש השם", תש"ב ; "העתיד", תש"ו; "רבל שמשון רפאל הירש'', תש''י; "מתנת אבות", תש''י; "דינים לנוער ולעם", תשי"ז; "אילן הבעש"ט'', תש''ו; "תורת החסידות והמוסר'' (בכתב-יד, מוכן להדפסה).
+
+ צאצאיו;<persName> בנימין, חוה</persName> אשת הרב<persName> שלמה זילברשטיין,</persName> <persName>טובה </persName> אשת ר' <persName>דוד בנדא.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3271 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3271</bibl><bibl>Volume: #9 ,Page: 3272 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3272</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

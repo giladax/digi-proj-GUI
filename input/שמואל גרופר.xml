@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3346 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3346</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל גרופר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רומניה</placeName> באדר תרל"ז (1877). לאביו <persName>משה יהודה </persName> ולאמו <persName>רייזיל</persName> בת<persName> אליעזר אברמוביץ.</persName> עלה לארץ עם הוריו בשנת תרמ"ב (1882). קבל חנוך בביה"ס העממי בזכרון-יעקב. מהחקלאים הראשונים וממניחי היסוד למושבתו זכרון יעקב. בשנת 1914 נשא לאשה את<persName> בתיה </persName> בת <persName>אלתר אידלשטיין,</persName> (נפטרה בזכרון-יעקב, כ"ב אייר תשט"ז).
+
+ נטע כרמים והיה מכובשי אדמות מרח (גבעת עדה).
+
+ מראשוני מיסדי וחבר התזמורת ומכבי-אש במושבה - (הראשונה בארץ).
+
+ ממארגני צעירי בני-בנימין. ממיסדי כרמל מזרחי, אגודת הגדעונים ועזר לנילי. השתייך לתורכים הצעירים שהכריזו את הקונסטיטוציה ב-1908 בתורכיה.
+
+ מעסקני צעירי המושבה בימים ההם, היה חבר ועד המושבה, בועד החקלאי.
+
+ צאצאיו<persName>: משה יהודה, תקוה </persName> אשת<persName> שמעון ליטמן</persName> (מורה),<persName> בלה אשת זכריה רוזנבום </persName> (חקלאי וכורם בזכרוןיעקב).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3346 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3346</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

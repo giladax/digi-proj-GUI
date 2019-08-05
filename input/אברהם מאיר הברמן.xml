@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3051 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3051</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם מאיר הברמן</persName>
+
+</head>
+         <div><p> נולד בשנת תרס"א (7.1.1901) בז'וראבנו שבגליצה.
+
+ לאביו <persName>אורי פייבל </persName> (שו"ב) ולאמו<persName> שרה </persName> בת <persName>נחום</persName> <persName>ברטשפיז.</persName>
+
+ למד בחדר ובישיבה, ואחרי בחינות גמר של בי''ס תיכון למד בשנים 1922-1921 באוניברסיטת וירצבורג שבגרמניה. מ-1923 היה מורה בצוויקאו שבגרמניה ומ1925 החל עוסק בביבליוגרפיה ובחקר הפיוט העברי, ומ-1928 ואילך היה ספרן של בית שוקן בצויקאו ובברלין.
+
+ ב-1928 נשא לאשה את<persName> בלהה</persName> בת<persName> יצחק הברמן.</persName>
+
+ ב-1934 עלה לארץ ונתמנה לעוזר מדעי באוניברסיטה העברית, ואח"כ עבר לעבוד כעוזר מדעי במכון לחקר השירה העברית בירושלים, וכיום הנו מנהל ספריות שוקן בירושלים.
+
+ פרסם וממשיך לפרסם מכתבי-יד שירים ופיוטים מימי הבינים בלווי הארות והערות וכן מאמרים ומחקרים
+
+ בענינים אלה ובביבליוגרפיה וביתר ענפי מדעי היהדות ב"הארץ", "דבר", גליונות", "מזנים", "תרביץ", "סיני" ועוד.
+
+ פרסומיו בחוברות ובספרים מיוחדים: "תפלת מעין שמונה עשרה" (1932), המדפיסים בני פונצינו" (1932), "נשים עבריות בתור מדפיסות" (1932), "גווילוים" (1942), "ברן יחד" (1945), "משלי שועלים" (1946), "גזירות אשכנז וצרפת" (1946), "ניצוצות גאולה" 1949), "עדה ועדות" (1952), "שביבי ירושלים" (1956 - בפסיבדונים "הימן הירושלמי'') ועוד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3051 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3051</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

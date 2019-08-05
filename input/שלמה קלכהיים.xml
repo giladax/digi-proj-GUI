@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4464 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4464</bibl><bibl>Volume: #14 ,Page: 4465 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4465</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה קלכהיים</persName>
+
+</head>
+         <div><p> נולד ברישא (רוסיה) בשנת תרס"ג (21.12.1903). לאביו הרב <persName>יעקב יצחק קלכהיים</persName> (ראה בכרך זה,
+
+
+ לשעבר רב בקליס-מין בארצות הברית. כיום ברמת יצחק) ולאמו<persName> דבורה</persName> בת<persName> יוסף מנחם לאוב</persName> .
+
+ קיבל חינוך מסורתי. בגיל צעיר עבר לאוסטריה ואח"כ לגרמניה. שם למד בבית המדרש אצל רבנים ידועים. למד ב"עדת ישראל" אצל הרב<persName> הילדסהיימר</persName> .
+
+ היה פעיל למען התנועה הציונית בהנהלת ד"ר <persName>אהרן בארט</persName> (לשעבר, מנהל כללי של הבנק הלאומי לישראל בע"מ, ראה כרך א' עמוד 371).
+
+ בשנת 1932 נשא לאשה את<persName> צילה</persName> בת<persName> ישראל</persName> פרבר.
+
+ היה מורה לעברית וגרמנית בגרמניה (מוסמך להוראה ע"י משרד החנוך בגרמניה).
+
+ בין מיסדי תנועת המזרחי והפועל המזרחי במחנות הפליטים באוסטריה.
+
+ היה נציג התנועה העולמית של המזרחי באוסטריה.
+
+ בשנת 1948 עלה לארץ.
+
+ היה פעיל בסניף המפלגה הדתית-לאומית ברמתגן וחבר מועצתה.
+
+ גבאי ראשי בבית הכנסת ביפו, וכעת בבית הכנסת המרכזי ברמת-יצחק.
+
+ פקיד בסוכנות היהודית בת"א.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4464 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4464</bibl><bibl>Volume: #14 ,Page: 4465 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4465</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

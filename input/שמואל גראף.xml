@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2309 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2309</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל גראף</persName>
+
+</head>
+         <div><p> נולד ב<placeName>יאסי</placeName> (רומניה) בשנת תר"ל (1870), לאביו <persName>צבי (הירש) יעקב</persName> (ראה בכרך זה) ולאמו<persName> מלכה</persName> בת<persName> ישראל ניאמצאן - בריל,</persName> מבאקו.
+
+ בן 12 עלה לארץ (1882) עם הוריו שהתישבו כעבור שנה בזכרון-יעקב והיו מראשוני בוניה.
+
+ קיבל חינוך בביה"ס במושבה ואח"כ בביה"ס האליאנס בהנהלתו של נסים בכר כירושלים, והמשיך את למודיו בהנדסה באנגליה וקיבל תואר מהנדס.
+
+ בשובו לארץ נתקבל לעבודה בתור מהנדס המכונות בהיקב בזכרון יעקב והיה ממניחי יסודותיו (1891) לפי תכניתו של המהנדס יוניס.
+
+ נשא לאשה את <persName>אטי </persName> לבית <persName>ווייס.</persName>
+
+ עבר אחר כך לאנגליה והקים שם בית חרושת למכונות ואח"כ קבלן לבנינים בארצות הברית.
+
+ היה פעיל בעניני צבור והציונות באנגליה ובארצות הברית.
+
+ באנגליה עבד בחברתם של ישראל זנגוויל, גולדשמידט ויעקב די האז.
+
+ היה שם גם פעיל באגודת "המכבים הקדמונים".
+
+ נפטר בניו-יורק, ד' טבת תש"ט.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2309 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2309</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

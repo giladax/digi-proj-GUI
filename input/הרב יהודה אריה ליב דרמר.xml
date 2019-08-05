@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4036 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4036</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יהודה אריה ליב דרמר</persName>
+
+</head>
+         <div><p> נולד בויז'ניץ (רומניה), י' סיון תרע"ה (23.5.1915).
+
+ לאביו <persName>אברהם יעקב דרמר</persName> (היה נכדו של הרה''צ ר' <persName>ליב'לה וויזניצר</persName> זצ"ל, המפורסם. מגזע בעל "זרע יצחק" ור' <persName>פאבילי זבריז'ער</persName> , והרב<persName> יצחק משה מאוברטון</persName> זצ"ל) ולאמו<persName> רעכיל </persName> בת ר' <persName>אברהם צבי סאכטער</persName> ז"ל.
+
+ קיבל חינוך מסורתי בבי"ס יסודי דתי ובישיבת ויז'ניץ (רומניה) וכן היה מתלמידיו של הרב <persName>בלנק</persName> (הרב בבאקוי) ותלמידו של הרה"ג המקובל הגדול בחכמת הקבלה, רבי<persName> משה לנדמן</persName> זצ"ל.
+
+ בשנת תרצ"ח (1938) נשא לאשה את<persName> אסתר </persName> בת <persName>יצחק אהרן הלוי גלברד.</persName>
+
+ היה פעיל ביסוד בתי-ספר דתיים ופעולות חינוך בקרב הנוער.
+
+ היה רב אב בית-דין בעיר באקו (רומניה) ורבה הראשי של העיר.
+
+ היה פעיל ברומניה למען עלית היהדות לא"י ע"י שכנוע בקרב הציבור, ובהשתדלות במקומות המתאימים לקדום העליה.
+
+ בשנת 1949 עלה לארץ.
+
+ רב בשכונות רמת עמידר וברה יהושע (פרברי רמת-גן).
+
+ צאצאיו : <persName>לאה</persName> אשת <persName>יהונתן דוד לוינזון, יעקב משה,</persName> <persName>יצחק אהרן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4036 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4036</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

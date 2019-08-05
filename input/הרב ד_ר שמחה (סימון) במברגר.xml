@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4484 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4484</bibl><bibl>Volume: #14 ,Page: 4485 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4485</bibl>
+<bibl>Volume: #14 ,Page: 4486 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4486</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב ד"ר שמחה (סימון) במברגר</persName>
+
+</head>
+         <div><p> נולד בשרים (אז גרמניה, כיום פולין), כ"ה חשון תרנ"ט (1899).
+
+ לאביו הרב <persName>יצחק זעקל במברגר </persName> (רב בק"ק באד קיזינגען בגרמניה. מצאצאי משפחת הרבנים המפורסמים <persName>במברגר)</persName> ולאמו<persName> גננדל</persName> (נאנט) בת<persName> משה אריה</persName> במברגר.
+
+ קיבל חינוך מסורתי וכללי בגמנסיה, אוניברסיטה ובית מדרש לרבנים ע"ש הילרסהיימר בברלין, וקיבל תואר רב, ד"ר.
+
+ בשנת תרפ"ד (1924) נשא לאשה את<persName> גרטרודה</persName> בת<persName> מרדכי דרילסמה </persName> (ממשפחת רבנים). יושבת ראש הליגה למלחמה בשחפת ועסקנית בעבודה צבורית בבני-ברק.
+
+ היה רב בק"ק החרדי בשטוטגרט בגרמניה.
+
+ בשנת תרצ"ט (1939) עלה לארץ.
+
+ היה מזכיר לברית השבת בירושלים.
+
+ מנהל בית ספר עממי ממלכתי-דתי בני-ברק.
+
+ מיסד בי"ס תיכון עירוני דתי, בני-ברק.
+
+ כתב מאמרים: (קרי וכתיב)
+
+ Die Bedeulung des Qeri und Kefib""
+
+ הופיע בשני המשכים
+
+ Jahrbiicher der Judisch-Literarschen Gesellschaft".
+
+ תרגם את הספר "אמריה לבית יעקב" של אבי זקנו הרב יצחק דב במברגר, על הלכות נדה, חלה
+
+
+ והדלקת הנר ומליחה לעברית ירושלים, תש''ה, הוצאה שניה, ירושלים, תש"ך.
+
+ נפטר בבני-ברק, ט' תשרי תשי"ח (4.10.57) והובא לקבורה בפתח-תקוה.
+
+ על שמו נקרא רחוב בבני-ברק.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4484 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4484</bibl><bibl>Volume: #14 ,Page: 4485 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4485</bibl>
+<bibl>Volume: #14 ,Page: 4486 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4486</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

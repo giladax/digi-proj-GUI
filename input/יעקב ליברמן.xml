@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3506 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3506</bibl><bibl>Volume: #10 ,Page: 3507 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3507</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב ליברמן</persName>
+
+</head>
+         <div><p> נולד בשנת תרס"ב (25.5.1902) ברוסיה.
+
+ לאביו <persName>מאיר </persName> (מצאצאי הרב<persName> יהודה ליברמן</persName> מאורנבורג שברוסיה, ידידם ותומכם של הבילויים בראשית דרכם הקשר.) ולאמו<persName> דבורה</persName> בת<persName> אליהו רווזין.</persName>
+
+ גמר בית-ספר עממי ותיכון רוסיים. התחיל ללמוד
+
+
+ באוניברסיטה והיה חבר פעיל בהסתדרות הסטודנטים '"החבר", ובגלל ציוניותו נאסר ב-1920 בסאמארה (קויבישב), ולאחר,זמן הצליח לצאת מרוסיה על מנת לעלות לארץ-ישראל. 
+
+ הגיע לארץ בסוף 1924 ועבד כפועל בבנין ובחקלאות. יצא להשתלם בצרפת, גמר את לימודיו במכון לחקלאות בנאנסי וב-1930 הוסמך לאגרונום.
+
+ ב-1930 נשא לאשה את <persName>יהודית </persName> בת <persName>אהרן קורציק</persName> (מראשוני המתישבים בבאר-טוביה). 
+
+ ניהל משקי מטעים. אח''כ נתקבל למדריך למטעים במחלקה להתישבות של הסוכנות היהודית, ומאז קום המדינה הנו מדריך ראשי למטעים בשרות משרד החקלאות. סייע ליצירת החברה הישראלית למטעי פיקן בע"מ, היה יועצה החקלאי בראשיתה ונסע בשליחותה ללמוד בארה"ב את בעיות הגידול של אגוזי פיקן ; מראשוני היוזמים ביסוד אגודת "נטע" בע"מ וחבר בהנהלתה.
+
+ פירסם בעניני חקלאות ומטעים מאות מאמרים בעתונות המקצועית ("השדה", "המשק הזעיר", "המשק החקלאי", בוסתנאי, הדר, התעשיה) ובעתונים היומיים ("הבוקר", "הארץ" ועוד). וכן את הספר "הקטיף" והאריזה בפרי הדר" (הוצאת ספרית "השדה", תש"ו)
+
+ והחוברות: "קטיף פירות הדרים" (הוצאת המחלקה למטעי הדר שליד התאחדות האכרים), "גינת פירות על-יד הבית" (הוצאת משרד החקלאות), וביחד עם מנהל אגף המטעים <persName>אסף גור</persName> את החוברות "החבוש", "הרימון", "השקד" (הוצאת משרד החקלאות).
+
+ צאצאיו: <persName>צבי, דבורה </persName> אשת<persName> שרגא שרגל </persName> (קרית אונו).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3506 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3506</bibl><bibl>Volume: #10 ,Page: 3507 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3507</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

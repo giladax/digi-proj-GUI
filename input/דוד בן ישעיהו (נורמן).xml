@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3508 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3508</bibl><bibl>Volume: #10 ,Page: 3509 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3509</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד בן-ישעיהו (נורמן)</persName>
+
+</head>
+         <div><p> נולד בטבת תר"ץ (22.12.1929) בעיר סגד שבהונגריה.
+
+ לאביו<persName> יהודה (ג'ורג') נורמן</persName> (סוחר ידוע ועסקן ציוני בעיר זו, שיהודיה היו שקועים בהתבוללות) ולאמו<persName> רחל</persName> <persName>(קורנליה)</persName> לבית<persName> רוט.</persName>
+
+ ב-1944 נלקח מלימודיו בגימנסיה עם הוריו ויתר היהודים לגיטו המקומי ונשלח למחנות הריכוז הנאציים
+
+ באוסטריה ומשם לברגן-בלזן, וגם במחנות ניהל עבודה ציונית בין הנוער.
+
+ אחרי השחרור פעל במחנות בגרמניה באירגון קבוצות עלית-נוער מטעם הסוכנות והעובד הציוני.
+
+ ב-1947 עלה גם הוא באנית-מעפילים, שנתפסה ונוסעיה נלקחו למחנה-ריכוז בריטי בקפריסין, וגם בו המשיך בעבודה ציונית בין הנוער, ורק בסוף 1948 שוחררו והגיעו לארץ.
+
+ סיים את בית-הספר החקלאי של ויצ"ו בנהלל, התגייס לנח"ל ועלה להתישבות בקיבוץ צור מעון בנגב המערבי ושימש בו מרכז ומזכיר-חוץ.
+
+ בקיבוץ נשא לאשה את <persName>עליזה ליטמנוביץ.</persName>
+
+ ב-1952 עזב את הקיבוץ ועבד בהדרכה במושב של עולי פרס בבית נבאללה.
+
+ ב-1953 התנחל במושב תלמי אלעזר, מיסודם של התאחדות האכרים והסתדרות הציונים הכלליים.
+
+ מאז הנו מנהל המושב ויו"ר ועד הכפר, חבר הנהלת התאחדות האכרים כנציג ההתישבות החדשה, חבר הועד הפועל של הסתדרות הציונים הכלליים בישראל, חבר ועדת הארגון של התאחדות האכרים וחבר הנהלת חברת "פטם" (חברה לשחיטה-מריטה והקפאת עופות בע"מ מיסודן של חברת "עמיר-ביעף" ואגודות חקלאיות מסוגפות להתאחדות האכרים).
+
+ פעיל באירגון נקודות-התישבות חדשות של התאחדות האכרים והסתדרות הציונים הכלליים.
+
+ בתו:<persName> עירית.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3508 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3508</bibl><bibl>Volume: #10 ,Page: 3509 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3509</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

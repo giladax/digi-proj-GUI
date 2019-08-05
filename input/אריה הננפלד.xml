@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4005 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4005</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה הננפלד</persName>
+
+</head>
+         <div><p> נולד בבורסלב (פולין) בשנת תרע"א (20.4.1911).
+
+ לאביו ר'<persName> זאב הננפלד</persName> ולאמו <persName>טובה</persName> לבית<persName> קופל.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבת הרב ר'<persName> רפאל</persName> <persName>קיטיגורודסקי</persName> ז"ל. ובבית-ספר מקצועי.
+
+ היה פעיל בתנועת "השומר הצעיר" בבורסלב. בשנת 1933 נשא לאשה את <persName>דבורה</persName> בת ר'<persName> שמואל</persName> <persName>דרפלר</persName> .
+
+ באותה שנה עלו יחד לארץ. עבד בתור מסגר.
+
+ השתלם בהנדסה ולמכונאות. והקים תעשיה. בנה
+
+ תבניות וקונסטרוקציות ברזל לבניני בתי חרושת והעסיק פועלים רבים בתעשיה שלו.
+
+ היה חבר בארגון בעלי מלאכה.
+
+ כל השנים חבר פעיל בהגנה.
+
+ עזר לרבים להסתדר בשיכונים ובעבודה.
+
+ צנוע היה בדרכיו.
+
+ נפטר בעפולה, ט"ו כסלו תשכ"ב (23.11.61) והובא לקבורה בקרית שאול בתל-אביב.
+
+ צאצאיו:<persName> זאב </persName> (היה טייס בחיל האוויר), <persName>ימימה</persName> אשת <persName>אמיתי קרונפלד, רות.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4005 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4005</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

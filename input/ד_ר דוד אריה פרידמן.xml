@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 1020 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1020</bibl><bibl>Volume: #2 ,Page: 1021 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1021</bibl>
+<bibl>Volume: #2 ,Page: 1022 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1022</bibl>
+<bibl>Volume: #2 ,Page: 1023 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1023</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר דוד אריה פרידמן</persName>
+
+</head>
+         <div><p> נולד לאביו <persName>חיים מנחם</persName> (מגדולי הסוחרים בעירו ולמדן מפורסם בסביבה, חניך ישיבת "עץ החיים" בוולוז'ין, תלמיד אהוב על הנצי"ב ואחד ממיסדי אגודת הסתרים "נס-ציונה" שפעלה בתוך היהדות החרדית לטובת בנין א"י. היה ממניחי היסוד למושבה חדרה יחד עם <persName>הרב משה מרדכי אפשטיין</persName> ואחרים, היה ראש הקהילה וראש "המזרחי" בסובאלק וראש כמה מוסדות תרבות תורניים (ת"ת, ישיבה) וכמה מוסדות. כלכליים-עממיים - בנק קואופרטיבי ועוד) ולאמו <persName>מרים</persName> <persName>רבקה</persName> בת <persName>שמואל מעווזאם</persName> , בשני דחוהמ''פ תרמ"ט (1889) בסובאלק. 
+
+ למד בחדר, בישיבה ובגימנסיה העברית-רוסית של כהן בוילנה. גמר בשנת תרע"ה את האוניברסיטה במוסקבה, קיבל שם את התואר ד"ר לרפואה והשתלם בריפוי מחלות עינים בברלין ובוינה (1918-1925).
+
+ במלחמת העולם הראשונה עבד כרופא צבאי בחזית הרוסית וקיבל אותות הצטינות.
+
+ בהיותו במוסקבה היה ממיסדי ועורכי חברת "מדע" להוצאת ספרי למוד בשביל האוניברסיטה העברית (בעתיד) יחד עם <persName>פרופ' רוזנטל, פרופ' מינץ, ד"ר</persName> <persName>י. ל. קצנלוסון</persName> (בוקי בן יגלי), <persName>ד"ר שאול טשרניחוב</persName> <persName>סקי וד"ר י. ה. ייבין</persName> . באותו זמן היה מחברי "אזע", החברה לשמירת הבריאות של היהודים, וממיסדי אגודת הסטודנטים הציונים הראשונה במוסקבה בשם "יבנה"' ששימשה כאחד הגרעינים של "צעירי ציון".
+
+ בזמן המלחמה העולמית הראשונה הרבה להרצות בשאלות תרבות עברית ותחית הגוף בויטבסק, פסקוב, ריגה, סובאלק ועוד.
+
+ אחרי המלחמה שימש כרופא הקהילה בסובאלק וכרופא עינים של המחלקה היהודית בבית החולים העי
+
+
+ רוני שם. בעברו אחרי כן לברלין עבד אצל <persName>פרופ'</persName> <persName>סילקס</persName> כרופא עינים וערך את ה"אונזער פרייהייט" (ברלין), בטאון ההתאחדות, ואת "עין הקורא" (ברלין), העתון הביבליוגרפי-ספרותי - והשתתף בדברי בקורת וספרות יפה ב"צוקונפט" הניו-יורקי. 
+
+ עלה ארצה בשנת 1925. היה בתחילה רופא בגימנסיה "הרצליה'' להיגינה ולמחלות עינים ובאותו זמן שימש כמרצה להיגינה בבית המדרש למורות וגננות ע"ש <persName>לוינסקי </persName> בתל-אביב. באותו זמן היה ממיסדי הפלוגות "לעזרה ראשונה" על יד "הפועל" ומרצה בהן, יו"ר הועדה למונחים רפואיים מטעם ההסתדרות הרפואית העברית בא"י ועורך עתונה המדעי "הרפואה" (דו-שבועון). כיו"ר איגוד רופאי העינים בתל-אביב (שהוא אחד ממיסדיו), השתתף בקונגרס הבין-לאומי לרופאי עינים בקהיר (1937), היה ממארגני הקונגרס העולמי הראשון של רופאים יהודים בתל-אביב (1936) ומחברי הנשיאות בו.
+
+ כסופר השתתף ביותר מארבעים אכסניות ספרותיות חשובות, כמו: "השלח", "התקופה", "העולם", "מעברות", "מקלט", "כנסת", "מאזנים", "כתובים", "דבר" ועוד. עד שנת תש"ח פרסם כארבע מאות מאמרי בקורת ומחקר בשאלות ספרותיות ואמנותיות, רפואיות והיגיניות, בקורות הרפואה ודברי ספרות יפה (בשיר, ספור ודרמה). הרוב בעברית והשאר - באידית ולועזית.
+
+ בהוצאה מיוחדת הוציא ספרים וחוברות על י. ח. ברנר, משה זכות, יש"ר מקנדיא, הרמב"ם, טוביה הרופא ועוד. ערך כמו כן את "עינות'' (בברלין), "בריאות העם" (ירושלים), "לוח רפואי'' (ת"א), "עזרה ראשונה" לד"ר אלוטין (מהדורה א'), "מאסף רפואי", "קובץ רפואי".
+
+ יו"ר המועצה הארצית של הברית העולמית של רופאים יהודים, חבר פאן-קלוב העברי, חבר הועד של החברה לקורות הרפואה ומדעי הטבע והמערכת שלה.
+
+ בזמן האחרון עסוק הוא בהכנת כינוס מבחר כתביו בבקורת ובסוגי הספרות האחרים, חוץ ממקצועו הרפואי במחלות עינים.
+
+ "מחברת העיינין", רשימה ביבליוגרפית לכתביו (תרע"ב-תש"ב) ערוכה בידי בנימין שמואל-, הופיעה בתש"ב בהוצאת "אסיף" תל-אביב.
+
+ רעיתו: <persName>סופיה</persName> בת<persName> אליעזר יזרסקי</persName> מגרודנה.
+
+ בנותיו: <persName>אסתר, מרים</persName> .
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ב' אב תשי"ז (30.7.57)
+
+ (ראה כרך ב', עמוד 1022)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 1020 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1020</bibl><bibl>Volume: #2 ,Page: 1021 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1021</bibl>
+<bibl>Volume: #2 ,Page: 1022 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1022</bibl>
+<bibl>Volume: #2 ,Page: 1023 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1023</bibl>
+            <bibl>Volume: #9 ,Page: 3414 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3414</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

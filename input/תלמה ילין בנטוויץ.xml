@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4105 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4105</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>תלמה ילין-בנטוויץ</persName>
+
+</head>
+         <div><p> נולדה בלונדון, בשנת תרנ"ה (15.3.1895).
+
+ לאביה<persName> צבי (הרברט) בנטוביץ </persName> (עורך דין. מראשי "המכבים הקדמונים" באנגליה) ולאמה<persName> זוזאן </persName> (שושנה) לבית <persName>סולומון.</persName>
+
+ קיבלה חינוך בקולג' מלכותי למוסיקה בלונדון. מנגנת בצ'ילו.
+
+ אביה החדיר בה עוד בנעוריה את האהדה ליהדות ולא"י (היו לו תשע בנות ושני בנים. אחד מהם, פרופ'<persName> נורמן בנטוויץ</persName> , שהיה היועץ המשפטי והתובע הכללי של ממשלת א"י. ראה כרך י"א, עמוד 3858).
+
+ בשנת 1920 עלתה לארץ.
+
+ נישאה למהנדס<persName> אליעזר</persName> בן<persName> דוד ילין</persName> (ראה כרך ב', עמוד 792).
+
+ מורה בקונסרבטוריון בירושלים.
+
+ מיסדת החברה לנגינה בירושלים והרביעית הירושלמית.
+
+ צאצאיה: <persName>שושנה</persName> אשת <persName>אבנר ישראלי, יהודית</persName> <persName>(ניטה), יונה, ויולה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4105 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4105</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

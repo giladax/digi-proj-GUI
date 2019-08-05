@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4333 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4333</bibl><bibl>Volume: #13 ,Page: 4334 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4334</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן גדסי</persName>
+
+</head>
+         <div><p> נולד בחודש מנחם-אב, תרפ"ז (1927) בכפר נידח שבתימן.
+
+ לאביו <persName>יפת גדסי</persName> ולאמו<persName> מרים.</persName>
+
+ אביו היה סוחר בסחורות מכולת, ואמו - תופרת בגדי נשים. בהיותו בן שש נתייתם מאביו, האם המשיכה בעסקי האב ונדדה מכפר לכפר. משחזרה היה <persName>אהרן</persName> עובד בחנות ונושא עמה יחד בעול הפרנסה.
+
+ כמנהג יהודי תימן למד מגיל חמש אצל "מרי" (מלמד דרדקי).
+
+ בהיותו בן 15 החליטה אמו לעלות לארץ.
+
+ אחרי הרפתקאות רבות הגיעו לעדן. כשנה וחצי ישבו במחנה פליטים והוא שימש בתפקיד של שומר המחנה.
+
+ הוא עלה לארץ עם "עליית הנוער" בשנת 1942 והשתקע בכפר מרמורק שעל יד רחובות. שם גרו אחיו הגדולים ממנו שהגיעו לארץ לפניו.
+
+ עברו עליו חבלי הקליטה, חוסר עבודה וסבל ההסתגלות. עבד בפרדסים ואחר כך במחנה הצבא הבריטי ב"בית-נבאלה".
+
+ כשנה היה נוטר בצפון הארץ. אח"כ חזר לאמו ועזר לה בחנותה.
+
+ בשנת 1943 הצטרף ל"לוחמי חירות ישראל" והשתתף בפעולות ארגון זה.
+
+ היה חבלן עם הצטרפות לח"י לצה"ל. התגייס לגדוד אחר והשתתף בקרבות על "טירה", "בית-נבאלה", "קולה" ו"לוד".
+
+ עבר עם גדודו לחזית הדרום ונפל בקרב על הכפר "כרתיה" ביום י' סיון, תש"ח (17.7.1948), והובא לקבורה ברחובות.
+
+ מדבריו אל אמו שחרדה לשלומו: "אין לך מה לבכות, אם יש לך מזל - אני אחיה, אם אין לך מזל אני אמות".
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4333 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4333</bibl><bibl>Volume: #13 ,Page: 4334 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4334</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

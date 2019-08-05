@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5441 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5441</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה זאב מאיר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>מונקץ'</placeName> (צ'כיה), ט"ו תמוז תר"פ (1.7.1920). לאביו <persName>ליפא מאיר</persName> ולאמו <persName>אסתר-מלכה</persName> בת<persName> אפרים</persName> (שו"ב)<persName> רייכמן</persName> (סוואליאוע).
+
+ קיבל חינוך מסורתי בישיבת מונקץ' ובבית-ספר למסחר.
+
+ חניך אירגון בני-עקיבה ופעיל בהמזרחי.
+
+ משנת 1942 עד 1944 במחנות ריכוז בהונגריה ובגרמניה.
+
+ בשנים 1945-49 סוכנות למוצרי טקסטיל בעיר אש (צ'כיה).
+
+ בשנת 1947 נשא לאשה את<persName> גיטה </persName> בת<persName> אברהם</persName> <persName>ברוך פוגל.</persName>
+
+ ב-9 במאי 1949 עלה לארץ.
+
+ מאוקטובר 1949 פקיד בכיר באפוטרופוס לנכסי נפקדים.
+
+ מ-1951 עד 1956 מנהל סניף האפוטרופוס במג'דל - אשקלון.
+
+ מ-1957-60 מנהל בחברת עמיר ביעף בע"מ.
+
+ מינואר 1961 גזבר ומנהל מנגנון באגודת הכורמים של כרמל מזרחי, אגודת הכורמים הקואופרטיבית של יקבי ראשון-לציון וזכרון-יעקב, ומשנת 1969 סגן מנהל כללי.
+
+ חבר הנהלת מכון היין הישראלי בע"מ.
+
+ שירת בצה"ל במבצע סיני וגם במלחמת ששת הימים.
+
+ צאצאיו: <persName>ליפא</persName> (רעיתו: <persName>צביה גולני); יוסף;</persName> <persName>דבורה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5441 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5441</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

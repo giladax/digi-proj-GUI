@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3772 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3772</bibl><bibl>Volume: #11 ,Page: 3773 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3773</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אליעזר קיטיגורודסקי</persName>
+
+</head>
+         <div><p> נולד בשנת תרל"ב (1872). ברווצק שברוסיה.
+
+ לאביו הרב <persName>פנחס </persName> (רב הקהלה, מצאצאי ר' <persName>פנחס מקו</persName> <persName>ריץ</persName> ור' רפאל מברשד, מאבות החסידות) ולאמו <persName>איטה</persName> בת ר' <persName>יהודה.</persName>
+
+ נתיתם מהוריו בנעוריו. בישיבת וולוז'ין נודע בתואר "העילוי מרווצק". למד גם בישיבות מיר וסלובודקה. והוסמך לרבנות. אך למרות ההפצרות של קהילות שונות במשך השנים סירב לשמש בהן ברבנות.
+
+ ב-1893 נשא לאשה את <persName>דבורה</persName> בת הרב<persName> מרדכי הרצברג</persName> (רב בחרסון, ואח"כ בקריוורוג שבאוקראינה, בברז'אן שבגליציה, ובשנותיו האחרונות דיין - ומנהל הישיבה הגדולה בלובלין). בשנים הראשונות, בהיותו סמוך על שולחן חותנו, עסק בתורה ובעבודה ובעזרה לחותנו בעניני הרבנות, לימד עברית בחוג חובבי ציון בקריוורוג, ובהגיע שמה נחשול הפרעות ב-1905 השתתף בהגנה העצמית היהודית, נפצע קשה במערכה נגד הפורעים ונשאר חולני כל ימיו.
+
+ אחרי הפרעות יצאה כל המשפחה המסועפת, וגם חותנו וביתו, לגליציה, ור'<persName> אליעזר</persName> ביחד עם שני אחיו גדולי התורה, הרבנים<persName> אברהם ורפאל קיטיגורודסקי,</persName> יסדו בין השנים 1926-1905 ישיבות בערי גליציה ובוקובינה והוא ניהל שם בית הישיבות. חינך אלפי תלמידים ברוח היהדות הנאמנה והחיבה לציון והיה, להם כמו אב בדאגה לצרכיהם החמריים ובמתן סעד נפשי להם בלבטיהם. היה ממקורבי האדמו"רים משושלת<persName> פרידמן</persName> לבית ר'<persName> ישראל</persName> מריז'ין.
+
+
+ הטיף כל ימיו לציונות הדתית והיה מפעיליה, ועוד ב-1924 שלח לארץ שלשה בנים ושלש בנות, ודוגמתו עודדה רבים לעלות או לשלוח את צאצאיהם לפניהם.
+
+ ב-1931 עלה לארץ עם רעיתו והתישבו ברחובות, והוא עסק בתורה ובעבודה, תמך בישיבות וכבש לבבות בין האבות והבנים למרות השוני שבאורחות חייהם, עסק בגמילות חסדים ובצרכי צבור. ויסד בית כנסת באזור מגוריו ברחובות.
+
+ עוזרת נאמנה בחייו היתה לו רעיתו <persName>דבורה</persName> . היא נולדה בשנת 1874 בחרסון לאביה הרב <persName>מרדכי הרצברג</persName> ולאמה <persName>חוה</persName> ממשפחת האדמו"רים לבית <persName>שניאורסון</persName> . (אחותו של הסופר והמחנך<persName> יצחק הרצברג.</persName> ראה ערכו בכרך זה). חינוכה האצילי היהודי בא לידי ביטוי מתמיד באורח חייה בגולה ובארץ. בעת הפרעות בקריוורוג השתתפה בפועל בפלוגת הנשים של ה"הגנה", בהרתחת מים ושמן לשפיכה על הפורעים. עמלה הרבה לתמוך בבית אביה, כששימש ברבנות בלי משכורת מתאימה והיה מטופל במשפחה גדולה. תמיד היתה מוכנה לעזור לזולת, נוסף לטיפוח משפחתה הגדולה ולשמירה על בריאות בעלה החולני בעקב פצעיו ממערכת ההגנה, כאמור למעלה. חינכה את בניה ובנותיה לציונות ולהגשמתה בפועל וגם להקרבה למען המולדת (בנו<persName> פנחס</persName> נהרג בבנין הארץ, - ואהרן נפצע בהגנה ונשאר נכה לכל ימיו).
+
+ גם בארץ הרבתה לעשות טוב וחסד, נשאה באהבה את קשיי העליה וההתערות והמחסורים ושקדה להיטיב לזולת גם במעשי צדקה-וחסד לפרטים זקוקים וגם בתור חברה בארגון נשי מזרחי, ובאזור מגוריה, בשכונת מרמורק שברחובות, זכתה לחיבה ולהוקרה כללית, בתור האם והסבתא הטובה של כולם. ועם טרדותיה הרבות מצאה פנאי לקרוא ספרים ועתונים ולהיות ערה למתרחש בישוב ובעולם - עד שנפטרה ברחובות ביום ז' כסלו תש"ח (20.11.1947).
+
+ בעלה חי אחריה שנים מספר, עד שגם הוא נפטר ברחובות, א' אייר תשי"ב (26.4.1952).
+
+ צאצאיהם :<persName> רפאל, יוסף </persName> (ראה בכרך זה),<persName> שלמה</persName> ז"ל, <persName>פנחס</persName> ז"ל (ראה כרך זה),<persName> יהודה, אהרן, חדוה </persName> אשת לוי
+
+<persName>קיטינורודסקי, ברכה </persName> אשת<persName> רפאל פלישמן, חוה</persName> אשת <persName>יוסף </persName> קלר).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3772 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3772</bibl><bibl>Volume: #11 ,Page: 3773 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3773</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

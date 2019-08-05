@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4251 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4251</bibl><bibl>Volume: #13 ,Page: 4252 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4252</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל סולניק</persName>
+
+</head>
+         <div><p> נולד בבלשקי, פלך קליש (פולניה) בשנת תרנ"ח (1898).
+
+ לאביו<persName> יואל סולניק</persName> (עסקן ציוני) ולאמו<persName> תמר.</persName>
+
+ קיבל חינוך מסורתי בחדר. היה חבר פעיל בפועלי ציון בעירו.
+
+ אחרי שעירו בלשקי נשרפה עברה המשפחה לגור בקליש. אביו היה יו"ר ההסתדרות הציונית בקליש והסביבה שנים רבות.
+
+ בשנת 1885 הוציא אביו את העתון הראשון באידיש בלונדון. כעבור כמה שנים חזר לפולניה. כשפרצה המלחמה העולמית הראשונה נכנסו הגרמנים לקליש ושרפו את העיר, והתושבים ברחו והתפזרו בסביבה.
+
+<persName>ישראל</persName> נסע לגרמניה ועבד בלייפציג.
+
+ ב-1918, בגמר המלחמה העולמית הראשונה נסע לבלגיה, משם ללונדון. שם הצטרף לאחיו יצחק בעסק פרוות. באותו זמן, קנה אחיו<persName> יצחק </persName> 500 דונם אדמה בבאר-שבע, מתוך שטח אדמה שיהודים מאנגליה רכשו אז בא"י. את השטח הזה מסר אחיו לקרן הקיימת בירושלים.
+
+ בהסכמת האחים הוחלט <persName>שישראל </persName> יעלה לא"י, בתור האח הצעיר ויתיישב בכרכור, יקים משק ובית ויביא אליו לא"י את ההורים מפולניה.
+
+ בשנת 1921 עלה לארץ והתיישב בכרכור. במקום היה מחסור במים והתושבים סבלו ממלריה. שתלו אלפי עצי אקליפטוס במטרה לחסל את המלריה.
+
+ עבר לבנימינה בייסודה ועבד שם, אבל המלריה גברה עליו והועבר לבית-חולים בתל-אביב.
+
+ בתל-אביב, בשנת 1926 נשא לאשה את<persName> רבקה</persName> בת<persName> חנן</persName> <persName>רחלבסקי.</persName>
+
+
+ עבד כפועל בכל מיני עבודות קשות.
+
+ בשנת 1929, בעזרת הלוואות רכש שטח קרקע ברמתגן ועבד בגידול ירקות. רכש פרות ומכר חלב. בנה לו בית, והפך להיות תושב רמת-גן.
+
+ חבר פעיל במוסדות תרבותיים שונים ברמת-גן.
+
+ בנותיו: <persName>אסתר</persName> אשת <persName>דוב שנדר, מינדה</persName> אשת<persName> יעקב</persName> <persName>וייס, יוכבד</persName> אשת <persName>פרדי מזרחי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4251 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4251</bibl><bibl>Volume: #13 ,Page: 4252 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4252</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

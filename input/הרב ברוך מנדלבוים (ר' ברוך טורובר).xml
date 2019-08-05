@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 59 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/59</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב ברוך מנדלבוים (ר' ברוך טורובר)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רוסיה</placeName> בשנת תקצ"ה (1835) לאביו ר' <persName>מרדכי לייב הדיין</persName> , מצאצאי<persName> רבי יואל סירקיס</persName> , בעל הב"ח (פירוש "בית חדש" על ספר-ההלכה ה"טור"), נין ונכד לר'<persName> ליב אמדור</persName> ולר'<persName> שמשון מאוסטרופולי</persName> , ולפי הקבלה במשפחה מגיעה שלשלת יחוסו עד רש"י ועד דוד המלך. למד בישיבות והגיע לדרגת גאון וגדול בתורה ובחסידות ובפילוסופיה הדתית ודרשן מפורסם, שהטיף לעליה לארץ הקודש כדי לחיות בה, ורבני ליטא כינוהו בגלל גאונותו בתואר "החרש והמסגר". היה רב בטורוב (ומכאן כינויו "ר' ברוכל טורובר"), בסטולין ובמאצב. היה יד ימינו של האדמו"ר ר' <persName>אהרן מקארלין</persName> , הנקרא על שם ספרו "בית אהרן".
+
+ משנפטר רבו ר'<persName> אהרן</persName> דבק בבנו ר' <persName>אשר,</persName> האדמו"ר מסטולין, וכשנפטר גם זה לאחר שנה, לא נשאר לו עוד שום דבר שירתק אותו לאדמת-נכר, ואז עלה ארצה בשנת תרל"ד, בהיותו במיטב שנותיו, בן 39, ומטופל במשפחה גדולה של בנים ובנות, התישב בירושלים, יסד וניהל בעיר העתיקה את הישיבה "אור חדש", שהיתה מרכז תורני לחסידים.
+
+ בשנת תרנ"א יצא בשליחות לאירופה. בפראנקפורט ע"מ התארח שבוע ימים בבית הבאתן ר'<persName> שמעון וולף</persName> <persName>רוטשילד</persName> והשפיע עליו לתמוך ביהודי ירושלים ובמוסדות התורה והחסד, והבארון אף בנה בשבילו בית על הר ציון בעיר העתיקה בירושלים.
+
+ חיבר כמה ספרים בהלכה ובאגדה ורק שנים מהם נדפסו בסוף ימיו, והם: "נודע בשערים" (דרשות) ו"קץ הימים".
+
+ בניו היו העסקנים הידועים בירושלים שמחה ויעקב מנדלבוים. נפטר ונקבר בירושלים י"ז אייר תרס"ה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 59 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/59</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

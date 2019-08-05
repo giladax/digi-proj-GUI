@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1514 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1514</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלום וולובלסקי</persName>
+
+</head>
+         <div><p> נולד בבריסק דליטא, פלך גרודנה, א, שבט תרס"ג (29.1.1903), לאביו <persName>אהרן</persName> ולאמו<persName> חנה</persName> בת <persName>דוד הלפרן.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ במלחמת-העולם הראשונה, הגיע בזרם הנמלטים מאזורי החזיתות לרוסיה הפנימית, השתלם בלימודים כלליים, עמד בבחינת בגרות אוניברסיטאית.
+
+ היה פעיל באגודת "בני ציון" בסאראטוב, ע"י הוולגה ואחר כך - משאסר המשטר הסוביטי כל פעילות ציונית -המשיך במחתרת. נאסר ונדון לשלש שנות גלות לסיביר.
+
+ מששוחרר עלה ארצה ב-1924.
+
+ באותה שנה נשא לאשה את<persName> שרה</persName> בת <persName>ראובן</persName> <persName>קרסין.</persName>
+
+ עסק בתל-אביב במסחר הנפט. ב-1933 רכש שטח קרקע גדול על גבול יפו ותל-אביב ויסד עליו מרכז למפעלי מלאכה ותעשיה, הקרוי על שמו - "שכונת מרכז וולובלסקי".
+
+ פעיל בחיים הצבוריים כחבר הנהלת ועד השכונות העבריות ביפו, חבר הנהלת בנק קופת-עם, חבר
+
+ הנהלת המרכז הארצי של התאחדויות בעלי-בתים והיה שופט בבית-המשפט העירוני ביפו.
+
+ צאצאיו:<persName> דוד, רינה, עמירם.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1514 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1514</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

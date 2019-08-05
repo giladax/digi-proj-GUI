@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2294 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2294</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר בנציון אפלמן</persName>
+
+</head>
+         <div><p> נולד בכ"ה תמוז תרנ"ז (1897) בירושלים לאביו <persName>אברהם יצחק</persName> (חלוץ מלאכת כריכת-הספרים המודרנית בירושלים, משכיל ועסקן צבורי מעולה. - ראה עליו ערך מיוחד בכרך זה) ולאמו<persName> שרה בילה</persName> בת ר' <persName>אברהם</persName> <persName>מאיר ליפשיץ-ויגיסר.</persName>
+
+ היה מראשוני התלמידים ב"חדר-תורה תחכמוני" שאביו היה ממיסדיו. אח"כ גמר את ביהמ"ד למורים בירושלים. במלחמת העולם א' התנדב לצבא הטורקי, ואחרי גמרו את ביה"ס לקצינים באיסטנבול שרת כמתורגמן ראשי לגרמנית-טורקית לראש הצבא הגרמני שהשתתף במסע שנכשל לכיבוש תעלת סואץ ואח"כ בהגנה על הגבול הדרומי-המערבי של ארצנו (מול הצבא הבריטי שבמצרים).
+
+ אחרי המלחמה חזר לעבודת ההוראה בביה"ס לבנות בירושלים וב"תחכמוני".
+
+ נשא לאשה את <persName>חנה</persName> בת<persName> זאב וגר</persName> , שהיתה גננת בירושלים, וב-1920 יצא עמה לארה"ב להשתלם בלימודים. למד הוראה וחינוך באוניברסיטאות הארווארד, בוסטון וקולומביה וקיבל את התארים B.A ו- M .A . ופרסם בעתונות מאמרים בבעיות החינוך.
+
+ שש-עשרה שנה היה מורה ומנהל בישיבה דקראון הייטס בברוקלין ואח"כ הרצה במקצועות חינוך, ספרות ותנ"ך בביהמ"ד למורות בניו-יורק, ומ-1947 הנו גם
+
+ מורה בביה"ס הגבוה רמ"ז בניו-יורק והעמיד אלפי תלמידים חדורים רוח עברית וחיבת ארץ-ישראל, המחבבים ומוקירים את רבם. כן פרסם מאמרים וסיפורים ב"בצרון", ב"הדואר לנוער", ב"תקומה" ועוד. גם אשתו המשיכה
+
+ בשרות החינוך והתרבות העברית. מקודם לימדה לימודי עברית ויהדות בישיבה דפלטבוש ובעשרים השנים האחרונות בביה"ס של הישיבה דקראון הייטס.
+
+ בנם : ד''ר<persName> זאב נועם אפלי</persName> , רופא מנתח ומומחה למחלות נשים בניו-יורק.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2294 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2294</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

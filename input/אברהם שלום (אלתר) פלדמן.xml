@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 267 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/267</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם שלום (אלתר) פלדמן</persName>
+
+</head>
+         <div><p> נולד בפינסק, פולין-רוסיה, בשנת תר"ל (1870) לאביו ר'<persName> משה</persName> . למד ב"חדרים" ואצל אביו. כן למד את מלאכת הנגרות.
+
+ בתרמ"ו עלה ארצה עם הוריו והתישבו ביפו. עבד בנגרות במשך 20 שנה ביקב בראשון לציון, וכן עבד בנגרות בנין בבתי מקוה ישראל, פתח תקוה, עקרון וחדרה ואף בבתים הראשונים של "אחוזת בית" (שכונת תל-אביב).
+
+ היה מראשוני המתישבים בשכונת נוה צדק.
+
+ בתרנ"ד נשא את<persName> סריל </persName> בת ר'<persName> נח שרשבסקי</persName> (אחות <persName>גרשון שרשבסקי</persName> , מראשוני המתישבים בעקרון). ילדה לו שתי בנות:<persName> זהבה </persName> שנישאה <persName>ליצחק פופובסקי</persName>
+
+<persName>וחסיה מרים</persName> שנישאה ל<persName>משה פרבר</persName> . היתה פעילה בעניני עזרה וצדקה (נפטרה בירושלים, ד' טבת תש''ד).
+
+ ביתו היה פתוח להכנסת אורחים חסרי מקום ללון וידו היתה פתוחה לעזור לנצרכים. ביחוד היה שוקד לעזור בעצה ובהדרכה לעולים חדשים.
+
+ נפטר בירושלים, כ"ח שבט תרפ"ט.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 267 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/267</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

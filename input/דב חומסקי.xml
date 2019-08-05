@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1641 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1641</bibl><bibl>Volume: #4 ,Page: 1642 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1642</bibl>
+<bibl>Volume: #4 ,Page: 1643 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1643</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב חומסקי</persName>
+
+</head>
+         <div><p> נולד בעיר מינסק, בירת רוסיה הלבנה, 15.10.1913 לאביו<persName> יוסף </persName> (מדקדק, חוקר ספרים עתיקים, ציוני נלהב ומבוני החנוך העברי) ולאמו<persName> חנה</persName> בת<persName> מרדכי</persName> <persName>רבינוביץ </persName> (משפחה בעלת יוחסין וידועה).
+
+ למד בבית ספר עברי מיסודה של "תרבות" בקרטוז-ברזה (פולין). סיים את חוק למודיו בסמינריון
+
+ העברי למורים "תרבות" בוילנה בהנהלת ד"ר זאב שמטרלינג. חניך הפקולטה למדעי הרוח באוניברסיטה העברית בירושלים.
+
+ עסק בפולין בהוראה בבתי ספר עבריים, בערים: ברזנה, רוזישצה, לידה, בשנים 1936--1933.
+
+ הצטיין במקצועות העבריים ומוריו בסמינריון, ביניהם ד"ר אביגדור גרינשפאן וד"ר דוד נייגר, נבאו לו עתיד ספרותי.
+
+ בשנת 1936 עלה ארצה, ועם למודיו באוניברסיטה שמש גם בהוראה, בבתי ספר של כנסת ישראל בירושלים ובתל-אביב.
+
+ במאורעות 1936 היה חבר ההגנה ומלא תפקידי שמירה בפרברי ירושלים. בפרוץ מלחמת העולם השניה התנדב לבריגדה היהודית, השתתף בכל פעולות החטיבה בארץ, באפריקה הצפונית ובארצות אירופה. עם תום המלחמה עבד במחנות הפליטים באוסטריה ובבלגיה. אחרי שחרורו מן הצבא המשיך בהוראה בתל-אביב. בפברואר 1948 נשלח לפולין מטעם קרן-יסוד וערך מסע בקרב השרידים הניצולים ועמד על מצבם. שהה שם למעלה מחצי שנה, ועשה פעולה נרחבת בשטח התעמולה וכמו כן הצליח במגבית. השתתף מטעם מדינת ישראל בקונגרס אנשי-הרוח בוורוצלאב 25.8.1948; ונתקבל לראיון אצל נשיא פולין בולסלב בירוט ואצל כמה מיניסטרים של ממשלת פולין.
+
+ בשנת 1931 התחיל לפרסם מבכורי עטו שירים ב"זרמים" (וילנה, בעריכת מ. ב. שנייצר וש. י. פנואלי), "הדואר" (ניו-יורק), "העולם" (לונדון), "בד
+
+ רך" (וראשה). טפל בהוצאת קובץ שירים, "בסך" שהכיל מדבריהם של משוררים צעירים בפולין.
+
+ בארץ נתפרסמו שיריו בעתונים: "דבר", "הארץ", "מאזנים", "גליונות", "גזית" ובקבצים שונים. רבים משיריו הוקראו ברדיו ירושלים בשדורים המיוחדים לחיילים - "פנת-החייל".
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1641 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1641</bibl><bibl>Volume: #4 ,Page: 1642 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1642</bibl>
+<bibl>Volume: #4 ,Page: 1643 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1643</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

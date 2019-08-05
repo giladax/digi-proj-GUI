@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 449 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/449</bibl><bibl>Volume: #1 ,Page: 450 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/450</bibl>
+<bibl>Volume: #1 ,Page: 451 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/451</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שמעון חיים גראיבסקי</persName>
+
+</head>
+         <div><p> נולד בקליצק, רוסיה, י"ח סיון תרכ"ז (1867), לאביו הרב<persName> אליעזר זלמן</persName> , מצאצאי בעל "פנים מאירות" ובעל "אור חדש" על מסכת פסחים, ולאמו<persName> דינה</persName> בת ר' <persName>אברהם אריה</persName> בן הנגיד ר' <persName>שמעון בראדער</persName> . בילדותו עבר לאורשה כשאביו נבחר לרב שם אחרי רבנותו בקליצק. בתרל"ז נבחר אביו לרב בליברפול, ואז הכניס את בנו ללמוד לימודי חול בקוליג' האנגלי שבעיר, נוסף על לימודי היהדות, שאביו העניק לו בשפע. בקוליג' למד יחד עם כמה נערים שנתפרסמו אח"כ במדיניות הבריטית (ביניהם סיר<persName> ג'ון סימפסון,</persName> שנרשם לאחר זמן גם בתולדות הציונות כחוקר שנשלח מטעם ממשלת אנגליה לקבוע, שאין מקום למתישבים נוספים בארצנו...). אח"כ שלח אותו אביו ללמוד בישיבת הנצי"ב בוולוז'ין, שם הצטיין בתפיסתו ובזכרונו והגיע לדרגה גבוהה בידיעת התורה. בישיבה נקרא בשם ''הלונדוני" וחדשים מספר התאכסן בבית הנצי"ב עצמו. בין חבריו בישיבה היו הגאון ר'
+
+<persName>איסר זלמן מלצר </persName> (ראש ישיבת "עץ חיים" כיום) והרב <persName>ד"ר מ. א. אייזנשטאדט</persName> ז"ל, מי שהיה רב ראשי בפטרבורג. בן עשרים כבר כתב חידושים רבי-ערך בספרות ההלכה, שהוכנסו לתוך ספרי אביו, וביחוד לתוך ספר "גינת אגוז". בתרמ"ח נשא לאשה את <persName>שמחה לאה</persName> בת הרב <persName>שמואל יעקב בראמזון</persName> מרייגורוד. מצאצאי <persName>רבי משה חריף</persName> חברו המובהק של<persName> רבי עקיבא</persName> <persName>אייגר</persName> , התישב ברייגורוד, שקד על התורה ושימש הרב של חברה ש"ס וחברה משניות, דרשן ומגיד שיעורים. באותה תקופה תמך בחיבת ציון ובציונות המדינית. והחליף מכתבים עם<persName> הרצל</persName> בענין ההתישבות בארץישראל.
+
+ בתרס"א ביקר בארץ ודרש בבתי-הכנסיות לטובת חברת "לינת הצדק". בתרע"ג עלה ארצה והתישב בשכונת "מזכרת משה" בירושלים וכנתין בריטי היה נציגם של עולי אנגליה בפני השלטונות. עם פרוץ מלחמת-העולם הראשונה גורש מהארץ מצרימה כ"נתין האויב" ונתמנה לרב צבאי ראשי בצבא שבאזור ים התיכון ובמצרים. בתפקידו זה טיפל בקפטין<persName> סבג' מונטיפיורי</persName> שמת בין זרועותיו באלכסנדריה אחרי שנפצע בחזית. גאליפולי. ערך הלויה מפוארת <persName>לאוולין די רוטשילד,</persName> שנפל בקרב בעת כיבוש הארץ. שימש ברבנות בגדוד המתנדבים היהודים "נהגי הפרדות" והשתתף בחזית גאליפולי. בהשתדלותו הותקנו מחלקות מיוחדות ליהודים בבתי-הקברות של הצבא. וכן השתדל במקרים רבים לטובת החיילים היהודים. סמוך לסוף המלחמה שרת בתפקיד רב צבאי בגדודים העברים מאנגליה ומאמריקה, ובהשתדלותו נתקבלו השבויים היהודים מהצבא הטורקי לגדודים העברים.
+
+ אחרי המלחמה חזר לירושלים והתמסר לשקידה בתורה, ובהתאם לצוואת אביו התרחק מכל עסקנות פומבית חוץ מאשר לטובת לימוד תורה, וכך נשא בעול הגבאות בתלמוד-תורה של שכונת "מזכרת משה". ניצל את קשריו עם אנגלים לטובת עניני ארץ-ישראל ועם ישראל וליוה את הרב <persName>קוק זצ"ל</persName> בכמה מקרים בהופעותיו לפני גדולי השלטון וכדומה. קיים קשרים
+
+
+ במכתבים עם אישים חשובים באנגליה ובהשפעתו הצטרף ציר בית-הנבחרים <persName>סם פינבורג </persName> ממנצ'סטר לועד הפרלמנטרי למען ארץ-ישראל העברית.
+
+ היתה לו בקיאות גדולה בספרות ובתרבות העולמית בשפות הראשיות, אך עיקר שקידתו היה בתורה, בה השאיר חידושים בכתב-יד. שקד להיטיב לזולת ונתחבב על כל יודעיו, ביחוד העריצוהו יהודי מצרים בעת שרותו שם.
+
+ נפטר בירושלים, ד' כסלו תש"ג.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 449 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/449</bibl><bibl>Volume: #1 ,Page: 450 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/450</bibl>
+<bibl>Volume: #1 ,Page: 451 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/451</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

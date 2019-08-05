@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2781</bibl><bibl>Volume: #7 ,Page: 2782 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2782</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלעזר אלישר</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ו תמוז תרמ''ט (1889).
+
+ לאביו<persName> יוסף שאול</persName> (מעסקני ירושלים, ראה כרך שני, עמוד 1009) ולאמו<persName> ריקה</persName> (נכדת הרב חיים נסים ברוך).
+
+ קבל חנוך מסורתי בתלמוד תורה של הספרדים, בישיבת סבו הרב <persName>חיים משה אלישר</persName> ("חמ"א" - ראה כרך ב', עמוד 640) ואצל הרב <persName>נסים אלישר.</persName>
+
+ בן 17 נסע לפריז והשתלם בבי"ס למסחר, ובהשלימו למודיו חזר לארץ.
+
+ עזר במשך כמה שנים לאביו במסחרו.
+
+ בשנת 1925 נשא לאשה את<persName> פאולין</persName> בת<persName> בן ציון</persName> <persName>ולונה בוליסה אמזלג </persName> (ראה כרך ב', עמוד 874).
+
+ נמנה בין מיסדי "קופת אשראי א"י - קרדיט בנק בע"מ", שאח"כ נקרא בשם "בנק קדם לקרדיט בע"מ" והיה ממנהליו.
+
+ בראשית 1932 נבחר לסגן יו"ר "התאחדות הספרדים העולמית" ושל הועד הפועל שלה בירושלים.
+
+ היה חבר ההנהלה של בנק קופת עם בע"מ, בשנת 1924 מיסד לשכת המסחר איטליה-א"י בירושלים ונשיאה עד 1930, היה סגן יו"ר שכונת תלפיות ואח"כ יושב ראש הועד.
+
+ אחרי הכבוש, כשנוסדו העתונים : "דאר-היום", ''בריד אל-יום" ו"פלסטין וויקלי" נתמנה למנהל עניניה. הוא נתן דחיפה לעניני "הסולל" שניהל את העתונים והדפוס הנ"ל.
+
+
+ השתתף בהקמת מלון "לב-הכרמל" בחיפה.
+
+ היה מנהל חברות, בין אלה "לב-הכרמל", חברת פיתוח ירושלים" ועוד.
+
+ היה סגן הנשיא של התאחדות העולמית של היהודים הספרדים (1927) וחבר ועד העדה בירושלים משך שנים אחדות.
+
+ נפטר בחיפה, כ"ב אייר תשט"ו (14.5.55) ונקבר בירושלים.
+
+ צאצאיו: <persName>חיים-שאול, ריקה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2781 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2781</bibl><bibl>Volume: #7 ,Page: 2782 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2782</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

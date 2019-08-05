@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 51 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/51</bibl><bibl>Volume: #1 ,Page: 52 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/52</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב (ברל) ברגר</persName>
+
+</head>
+         <div><p> נולד במאקאלשט, ליד בנדר, פלך בסרביה, רוסיה, בשנת תר"כ (1860), לאביו <persName>יוסף</persName> (סוחר). למד בחדרים ובישיבה ואח"כ עבד בבית-המסחר של אביו, ובו בזמן היה פעיל בחוגי הנוער למען חיבת ציון בראשיתה. בשנת תרמ"א עלה ארצה ונתקבל לעבודה כפועל חקלאי במקוה ישראל, בהנהלתו של<persName> קרל נטר</persName> . אח"כ עבר ליפו ועסק במסחר כנציג פירמות מרוסיה ומרומניה.
+
+ נשא לאשה את<persName> דבורה</persName> בת <persName>נחמן רפפורט</persName> , מראשוני המיסדים של זכרון יעקב. (היא היתה עסקנית פעילה וציונית מובהקת כל ימיה. השתתפה ביסוד "עזרת
+
+
+ נשים" ביפו ות"א ובית-הספר המקצועי לנשים. נפטרה בתל-אביב, ט"ז אלול תרפ"ט).
+
+ במשך הזמן גדלו עסקיו והצליחו עד שהיה לאחד מגדולי הסוחרים הסיטונאים במכולת, בשוק אל-דייר, שהיה אז המרכז המסחרי ביפו. התענין גם בעסקי הצבור. וכשפרצה בשנת תרנ"ט מחלוקת בתוך העדה מתוך טענות נגד הנהגתה, היה הוא מראשי המתנגדים למשטר הקיים ונבחר יחד עם ד"ר<persName> מרק שטיין</persName> <persName>ואפרים יפה</persName> לועד העדה המיוחדת של חסידים שאמרו ליסד והביאו את הרב <persName>שניאור זלמן סלונים</persName> מחברון לרב ואת ר' <persName>יוסף שמרלינג </persName> מירושלים לשוחט.
+
+ אחרי שוך המחלוקת ההיא המשיך לעסוק בצרכי צבור בהבנה הדדית עם כל התושבים. בשנת תרס"ו השתתף באספה הפומבית במועדון "ישורון" ביפו, בה הוחלט על יסוד האגודה "אחוזת בית" לשם הקמת שבונה עברית חדישה (היא השכונה שהיתה הגרעין לעיר תל-אביב), נבחר לועד הזמני של המיסדים ובנה את ביתו בין ששים הראשונים (ברחוב הרצל 4). אח"כ היה שנים אחדות חבר הועד בשכונת תל-אביב וחבר ועדת הבנין.
+
+ נתן לבניו ולבנותיו חינוך עברי לאומי בגימנסיה הרצליה.
+
+ נפטר בתל-אביב, ג' אדר א' תרפ"א, ונקבר בבית העלמין הישן.
+
+ צאצאיו: <persName>יוסף, אברהם, משה, אליעזר, מינה</persName> אשת <persName>יואב צוקרמן, חיה</persName> אשת <persName>רפאל הורביץ, מרים, חנה (ז"ל)</persName> אשת <persName>מישה ברלנט, עדל (ז"ל)</persName> אשת <persName>רפאל ליפנזן, רחל</persName> (ז"ל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 51 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/51</bibl><bibl>Volume: #1 ,Page: 52 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/52</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

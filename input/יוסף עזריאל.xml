@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2897 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2897</bibl><bibl>Volume: #7 ,Page: 2898 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2898</bibl>
+<bibl>Volume: #7 ,Page: 2899 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2899</bibl>
+<bibl>Volume: #7 ,Page: 2900 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2900</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף עזריאל</persName>
+
+</head>
+         <div><p> נולד בירושלים. א' כסלו תרס"ד (20.11.1903).
+
+ לאביו<persName> משה</persName> (ראה כרך ב', עמוד 1054) ולאמו <persName>סולטנה </persName> (מלכה) בת הרב <persName>חיים דוד </persName> (פריסיאדו)<persName> סורנאגה</persName> (מגדולי הרבנים וראב"ד לעדת הספרדים בירושלים).
+
+ קיבל חנוך מסורתי בת''ת של הספרדים, ביה"ס האליאנס ובי"ס לבנים.
+
+ בילדותו התיתם מאביו ונכנס לעבוד בבית דפוס עזריאל שאביו יסדו.
+
+ כשדודו<persName> נסים עזריאל </persName> חזר מהשירות בצבא התורכי, המשיכו לפתח את הדפוס והעלהו לבית דפוס מודרני, בו הדפיסו בזמנו את העתון היומי "דאר היום" ואח"כ "הבקר".
+
+ היה פעיל וחבר ועד "הסתדרות חלוצי המזרח" בירושלים.
+
+ בשנת תרצ"ה (1935) עבר לתל-אביב והקים בה בית דפוס על שמו, בשותפות עם אחיו ואחותו. בשנת ת''ש (1940) נשא לאשה את <persName>שרה</persName> בת <persName>מנדל</persName> <persName>אלשטיין.</persName>
+
+
+ פעל רבות לאחוד הארצי של היהודים הספרדים.
+
+ חבר ועד העדה הספרדית תל-אביב-יפו.
+
+ היה ציר בקונגרסים העולמיים של היהודים הספרדים בפריס (1951) ובירושלים (1954).
+
+ ברחוב אחוזת בית בת"א, הקים בנין (פאסג') גדול למשרדים.
+
+ בתו:<persName> עליזה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2897 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2897</bibl><bibl>Volume: #7 ,Page: 2898 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2898</bibl>
+<bibl>Volume: #7 ,Page: 2899 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2899</bibl>
+<bibl>Volume: #7 ,Page: 2900 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2900</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2863 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2863</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>סנטה יוספטל (פינפוד)</persName>
+
+</head>
+         <div><p> נולדה פירט, באוואריה (גרמניה), כ"ה כסלו תרע"ג (5.12.1912 ).
+
+ לאביה <persName>יעקב פונפוד</persName> ולאמה <persName>הדויג </persName> בת <persName>זיגמונד שילד</persName> .
+
+ גמרה גמנסיה, שנה אחת משפטים באוניברסיטה בגרמניה (1933).
+
+ חמש שנים עבדה במרכז החלוץ בגרמניה.
+
+ בשנת 1936 נישאה לד"ר <persName>גיורא יוספטל</persName> (ראה את הערך שלו בכרך זה).
+
+ בשנת 1938 עלתה עם בעלה לארץ (ביקור קודם ב-1935 בתור מלוה קבוצת חלוצים-עולים למען סיור בארץ).
+
+ היתה ציר בקונגרסים הציונים : הי"ט בלוצרן (אוגוסט 1935) וה-כ' בציריך (אוגוסט 1937).
+
+ חברת קבוץ מיום עלותה לארץ, שנה אחת בגבעתחיים, שש שנים בפלוגת עבודה "הגרעין" - רעננה.
+
+ בשנת 1945 עלתה על הקרקע עם קבוץ ''גלעד" בהרי אפרים.
+
+ חברת ועדת הבקרת המרכזית של ההסתדרות, חברת בין הדין העליון של מפא"י, חברת המזכירות המרכזת של אחוד הקבוצות והקבוצים.
+
+ גזברית קיבוץ "גלעד".
+
+ נבחרה כציר לכנסת השלישית מטעם רשימת מפא"י.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2863 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2863</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1515 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1515</bibl><bibl>Volume: #3 ,Page: 1516 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1516</bibl>
+<bibl>Volume: #3 ,Page: 1517 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1517</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם גיורא (קריצ'בסקי) (היה ידוע ב"שורה" בכינוי דן)</persName>
+
+</head>
+         <div><p> נולד בזולוטונושי, פלך פולטאבה (אוקראינה, כ"ז כסלו תרס"ג (27.12.1902), לאביו <persName>בן-ציון</persName> ולאמו<persName> סוניה</persName> לבית<persName> אברבנאל.</persName>
+
+ קיבל חינוך מסורתי וכללי.הצטרף בגיל צעיר לציונות ולתנועת "החלוץ" ונשאר נאמן לה גם אחרי שהשלטון הבולשבי ברוסיה אסר כל פעילות ציונית והיה פעיל בקבוצת אודיסה.
+
+ יצא מרוסיה ביחד עם חברי קבוצתו בהברחת גבול כדי לעלות ארצה. עבר לפולין ומשם לרומניה,
+
+ ובצ'רנוביץ נזדמן לו להשתתף בהגנה עצמית יהודית נגד סטודנטים פורעים ונפצע באותה התנגשות ובשנת 1922 הגיע לארץ.
+
+ ב-1923 מילא תפקידים ב"הגנה" בירושלים, השתלם בקורסים של הדרכה ופיקוד והגיע לדרגת סגן מפקד ההגנה בירושלים. ב-1929 היה מדריך ההגנה בשומרון ואח"כ בגליל העליון וב-1930 יצא להשתלם בתכניון בברלין.
+
+
+ ב-1931 חל פילוג בהגנה והנוער הלאומי התארגן לבדו בארגון ב'. כשהגיעה ל"דן" הידיעה על הקמת הארגון הלאומי של ההגנה עזב את לימודיו, חזר ארצה והתיצב לשרות ארגון ב'. היה מפקדו בירושלים ואח"כ בתל-אביב. כשהוקם האיחוד מחדש נתמנה לסגן המפקד בהגנה המאוחדת, אך הויכוחים והחיכוכים בין אנשי שני הזרמים, שלא פסקו למרות האיחוד הארגוני, היו למורת רוחו ויחד עם חברו <persName>אברהם תהומי</persName> , פרש מן העבודה בהגנה והסתדר כפקיד בחברת "מסחר ותעשיה" בתל-אביב.
+
+ נשא לאשה את ד"ר <persName>שרה</persName> בת <persName>אברהם קארפ</persName> (רופאה).
+
+ כל ימיו היה חדור הכרה לאומית-ממלכתית. היה אמיץ ומוכן להקרבה. בהליכותיו ובמעשיו היה למופת לחבריו ולחניכיו, שרבים מהם הצטיינו במילוי חובתם למולדת כחברים מן השורה ומפקדים בהגנה, באצ"ל ובלח"י.
+
+ נפטר בתל-אביב, כ"ו סיון תש"ג (29.6.43).
+
+ בנו דן נולד ארבעה ימים לפני מותו, ביום כ"ד מיון תש"ג (25.6.43), ונקרא בשם כינוי-המחתרת של אביו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1515 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1515</bibl><bibl>Volume: #3 ,Page: 1516 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1516</bibl>
+<bibl>Volume: #3 ,Page: 1517 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1517</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

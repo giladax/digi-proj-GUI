@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4021 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4021</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> שלמה בצרי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>בגדד</placeName> (עירק) בשנת תרע"ט (1919). לאביו<persName> יצחק בצרי </persName> (ממשפחת סוחרים ועסקנים) ולאמו <persName>סניורה</persName> בת<persName> יצחק רטינה</persName> (נפטרה ט"ו כסלו תשכ''ב (23.11.61).
+
+ קיבל חינוך בבתי ספר : עממי ותיכון.
+
+ עסק ב<placeName>בגדד</placeName> במסחר.
+
+ היה פעיל בארגוני הנוער בעירו.
+
+ היה בין אסירי ציון עד ששוחרר ועלה לארץ.
+
+ היה פעיל בהעברת יהודים מעירק לישראל.
+
+ בשנת 1947 נשא לאשה את<persName> קיטי</persName> בת<persName> כדורי קר.</persName>
+
+ ב-4 לספטמבר 1950 עלה לארץ.
+
+ שותף למשרד הקבלני לבנין בתים ומוסדות לחברת סלים ג'ורי בע"מ ברמת-גן.
+
+ לחברת הבנין חלק רב בהתפתחות רמת-גן.
+
+ צאצאיו;<persName> יחזקאל, דינה, נוריה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4021 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4021</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

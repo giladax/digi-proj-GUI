@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1211 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1211</bibl><bibl>Volume: #3 ,Page: 1212 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1212</bibl>
+<bibl>Volume: #3 ,Page: 1213 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1213</bibl>
+<bibl>Volume: #3 ,Page: 1214 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1214</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב בן-ציון יאדלר</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרל"ב (1872), לאביו הרב <persName>יצחק זאב גולדברג</persName> , ממיאדיל פלך וילנה (ונקרא על שם עירו <persName>יאדלר)</persName> בן הרב <persName>יהודה דוד</persName> מלאשקוביץ (לפני דורות אחדים עוד היתה בידי משפחת אביו מגילת יוחסין, שלפיה מוצאה משבט אפרים) ולאמו <persName>מלכה</persName> בת הרב<persName> יצחק קרוסניק</persName> מגרודנה.
+
+ הצטיין מילדותו בשקידתו ובידיעתו הרבה בש''ס ובפוסקים ונתגלה כשרונו בדרשנות באגדה ובתוכחת מוסר. בכל פעם שאביו סיים מסכת בש"ס עם קהל שומעי שעוריו בקביעות בבית-המדרש "מנחם ציון" שבחצר ה"חורבה", היה הוא, הנער, דורש את ה"הדרן" וזכה לתהלות מפי גדולי הרבנים שהיו באים לחגיגת הסיום.
+
+ נשא לאשה את <persName>הניה</persName> בת ר' מרדכי הכהן גלויברמן. גדולי הרבנים, ששמעו את דרשותיו בהזדמנויות אלה, המריצוהו להתמסר לדרשנות. דרש בכמה בתיבנסיות בירושלים וברשיונו של הרב <persName>נפתלי הירץ הלוי</persName> דרש בבתי-כנסיות ביפו ואח"כ גם במושבות יהודה. בשבת פרשת זכור בשנת תרס"ב כיבד אותו הרב הראשי ר' <persName>שמואל סלנט </persName> לדרוש בבית-הכנסת הגדול "בית יעקב" שבחורבת ר' יהודה חסיד ואח"כ מינה אותו ל"מגיד מישרים" בירושלים. זאת היתה משרה בלי משכורת, ועיקר מובנו של המינוי היה, שהוא <persName>רשאי</persName> לדרוש בבתי-כנסיות שבעיר.
+
+ התמסר ביחוד לעורר את הקהל לקיום מצוות התלויות בארץ (בעיקר: הפרשת תרומות ומעשרות). בהשפעת דרשותיו החלו אברי המושבות להשגיח על הפרשת תרומות ומעשרות ורבני הערים סדרו השגחה שתוצרת החקלאות היהודית, המובאת לשווקי הערים, תהא מתוקנת וכשרה מבחינה זו, ומטעם ראשי הרבנים האשכנזים והספרדים הוטל עליו לארגן את כשרות היבול בכל הישובים החקלאיים בארץ. לרגל שליחותו זו היה נוסע מכפר לכפר ברכיבה על חמור ששכר מערבי יחד עם בעליו שיחמר אחריו, וכך היה נודד במשך כל ימי השבוע, ולפעמים הוכרח
+
+ להשאר ללון בכפר ערבי. שכר בעד דרשותיו לא היה מקבל ואפילו לא אוכל, כי את אכלו היה מביא אתו משלו, רק כוס טה היה מסכים לקבל, ובזמנים שהסוכר היה בצמצום היה מביא אתו אף סוכר משלו.
+
+ בתרע"ג ארגן את מסע הרבנים במושבות השומרון, העמק והגליל לחיזוק הדת בכלל וקיום מצוות התלויות בארץ בפרט. במסע השתתפו הרב הראשי ר' <persName>א. י. הכהן קוק </persName> מיפו, הרבנים <persName>יוסף חיים זוננפלד</persName> , <persName>יונתן בנימין הורביץ ויעקב משה חרל"פ</persName> מירושלים והוא עצמו ואליהם הצטרפו רבני הערים שבכל אזור ואזור. המסע עשה רושם רב והרבנים הצליחו לפעול לטובת הדת. (בזכרון יעקב השפיעו להעביר בביתהכנסת את הבימה מאצל ארון הקודש, כפי שבנוה פקידי הבארון לפי מנהג הרפורמה שהיה מקובל בצרפת, לאמצע בית-הכנסת בהתאם למסורת). בכל המקומות, ואף בקיבוצים, נתקבלו ברוב כבוד ופאר.
+
+ הטפותיו ע"י הכותל המערבי מושכות תשומת לב קהל רב מהתירים והמבקרים מכל חלקי הארץ והקנו לו שם של מטיף עממי מקורי.
+
+ באחד ממסעותיו בעמק יזרעאל לחיזוק הדת, בשנת תש"ו, הפילתו מכונית קטנה ושברה את ירכו הימנית. שכב כשלשה חדשים בגבס, ומשהבריא חזר לעבודתו הקדושה.
+
+ בשנת תר"ע הוציא לאור חוברת "המעשר והתרומה". עומד להוציא לאור ספר "שיח יצחק" המכיל רוב דרשותיו.
+
+ צאצאיו: <persName>חנה גיטל</persName> (ז"ל), אשת הרב רפאל חיים גולדמן, <persName>איטה פינה</persName> אשת הרב שלמה סובול, <persName>מלכה</persName> (ז"ל) אשת הרב רפאל רבינוביץ, <persName>שושה ברכה</persName> אשת הרב ישראל אשר הלוי וואלס, <persName>חיים לוד, יצחק זאב,</persName> <persName>יהושע ליב, מרים </persName> אשת הרב צבי מיכל הלר.
+
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בירושלים, ט"ז באב תשכ"ב (16.8.62)
+
+ (ראה כרך ג', עמוד 1213)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1211 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1211</bibl><bibl>Volume: #3 ,Page: 1212 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1212</bibl>
+<bibl>Volume: #3 ,Page: 1213 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1213</bibl>
+<bibl>Volume: #3 ,Page: 1214 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1214</bibl>
+            <bibl>Volume: #13 ,Page: 4357 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4357</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

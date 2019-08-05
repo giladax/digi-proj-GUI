@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2250 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2250</bibl><bibl>Volume: #5 ,Page: 2251 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2251</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב משה חסקין</persName>
+
+</head>
+         <div><p> נולד בי"א אב תרל"ד (1874) בצ'רניגוב שברוסיה לאביו<persName> אפרים</persName> (מצאצאי הש"ך; עלה ארצה בתרס"ה, הרביץ תורה בישיבות ירושלים ושם נפטר בי"א טבת תרע"ח) ולאמו <persName>איטה</persName> בת<persName> יצחק פארמט</persName> (גם הוא עלה ארצה בתרס"ה ונפטר בירושלים). בן י"ג כבר ידע יורה דעה חלק ראשון בעל פה. נדד בחוסר כל לוילנה ולמד ב"קלויז" של הגאון. אכל "ימים", חי במחסור ושקד על
+
+ לימודו יומם ולילה. עבר לקובנה והמשיך בשקידתו תוך חיי עוני ומחסור. במקרה הבחין בו ה"חפץ חיים" זצ"ל ולהמלצתו קיבלהו הגאון ר'<persName> יצחק אלחנן </persName> זצ"ל לבן ביתו ומאוכלי שולחנו במשך שלש שנים, ושימש את רבו עד לרגעי חייו האחרונים. הוסמך לרבנות על-ידי ר' יצחק אלחנן, ר'<persName> רפאל שפירא</persName> מוואלוז'ין, ר'<persName> מאיר שמחה</persName> מדווינסק ואחרים.
+
+
+ בשנת תר"ס נשא לאשה את <persName>חנה </persName> בת<persName> יהודה רבינוביץ'</persName> (נפטרה ביום ו' חשון תרצ''ב בפרילוקי: בתש"ד נשא בזיווג שני את <persName>רבקה שפטריך</persName> ).
+
+ נתקבל לרב בקרקינובה שבליטא, ועם גירוש היהודים מאזור הספר בראשית מלחמת העולם א' נדד גם הוא לרוסיה הפנימית ונתקבל לרב ראשי בפרילוקי שבפלך פולטאבה באוקראינה. היה פעיל במוסדות תורניים וציבוריים, כובש לבבות בדרשותיו, חובב את הבריות וחביב עליהם. ב-1917 השתתף בועידת המזרחי ברוסיה. בשנות השלטון הסוביטי סבל רדיפות בגלל ציונותו, נוסף לרדיפה הכללית על אנשי הדת, אך החזיק מעמד בענוה ובגבורת נפש.
+
+ בתרצ"ג עלה ארצה, השתקע בפנה שקטה בזכרוןמשה שבירושלים, המשיך לשקוד על התורה, נפגש מפעם לפעם עם גדולי הרבנים שהכירו והוקירו את גדולתו בתורה ובמדות טובות. היה ממיסדיו ופעיליו של הועד לעזרת הרבנים יוצאי רוסיה ואוקראינה בירושלים.
+
+ בשנת ת"ש הוציא את ספרו "כלכלת שביעית" (אנציקלופדיה לדיני שמיטה) והשאיר אחריו בכת"י ספר "אהל משה" על הירושלמי (נמסר לדפוס) וקובץ דרשות "דרש משה".
+
+ נפטר בירושלים, ל' סיון תש"י.
+
+ צאצאיו;<persName> יצחק</persName> (גזבר הועה"פ של ההסתדרות, ראה עליו ערך מיוחד בכרך זה), <persName>מרים</persName> אשת<persName> נחמן ביברמן</persName> (פועל בנין בתל-אביב).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2250 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2250</bibl><bibl>Volume: #5 ,Page: 2251 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2251</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

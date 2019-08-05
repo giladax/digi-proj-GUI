@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3329 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3329</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל צבי מימוני (זילברוואסר)</persName>
+
+</head>
+         <div><p> נולד ב' אייר תרנ"ג (1893) בווארשה, פולין.
+
+ לאביו <persName>בנימין יעקב זילברוואסר</persName> ולאמו <persName>מרים-גולדה</persName> לבית<persName> שיפרבלאט.</persName>
+
+ למד בחדר, בישיבה ובקורסים למדעי היהדות מיסדו של הרב ד"ר <persName>ש.פוזננסקי</persName> בווארשה.
+
+ ב-1913 השתתף ביסוד אגודת חובבי שפת עבר בווארשה, ב-1916 ביסוד מרכז הצעירים העברים בווארשה. ממארגני צעירי ציון בפולין, חבר הועד המרכזי ומזכירו הכללי
+
+ בשנים 1919-1917, ציר לועידות צעירי ציון בפולין (1917, 1919) ולועידת ההסתדרות הציונית הכל-פולנית (1916), וחבר מערכת "בעפרייאונג".
+
+ ב-1920 נשא לאשה את <persName>שרה </persName> בת <persName>דב אריה גולדברג.</persName>
+
+ באותה שנה עלה לארץ. התחיל לעבוד בלשכת העבודה של הפועל הצעיר. אח"כ עסק בנסיונות לתעשית עורות בארץ עד פרוץ מאורעות מאי 1921. מאז אוגוסט 1921 פקיד ואח"כ מזכיר סניף "הדסה" בתל-אביב, אח"כ מזכיר בית-החולים העירוני הדסה ומ-1946 ואילך סגן מנהל המחלקה לשרותי הרפואה הצבורית של עירית תל-אביב-יפו, ובתוקף תפקידו חבר הועדים המנהלים של בית-הנכים העירוני (שהיה ממיסדיו) ושל מוסד אברהמ'ס לילדים נכים. חבר ההסתדרות ומפא''י מראשיתן. בתרפ"ב היה חבר ועד הקהלת לת"א-יפו. ב-1923 השתכן בין הראשונים בשכונת בורוכוב והיה פעיל בארגון השכונה, ולאחר שנים מספר חזר לדור בתל-אביב, שיוכל להתמסר לעבודתו ולפעילותו הצבורית. היה חבר ועדת התרבות של מועצת פועלי ת"א-יפו (1924), חבר ועדת הספריה על שם ברזלי, מיסד אגודת צרכנים
+
+ של עובדי בית החולים ויו"ר אגודת הצרכנים של עובדי עירית תל-אביב.
+
+ פרסם מאמרים בענינים שבתחום שרותו ב"ידיעות עירית תל-אביב", חוברת בעניני בית החולים ושרותי הרפואה הצבורית וחוברת בעניני בריאות.
+
+ בתו; <persName>מרים</persName> ז"ל (נפטרה בילדותה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3329 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3329</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

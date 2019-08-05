@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2821 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2821</bibl><bibl>Volume: #7 ,Page: 2822 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2822</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> גדליהו וולפנזון</persName>
+
+</head>
+         <div><p> נולד בוילנא, בשנת תר"כ (1860).
+
+ לאביו <persName>זאב</persName> (תלמיד חכם וראש ישיבה, מצאצאי הגאון מוילנא) ולאמו <persName>גולדה</persName> (ממשפחה מיוחסת).
+
+ עלה לארץ עם הוריו - והוא בן שש שנים. נסיעתם ארכה כשנה תמימה, באנית מפרשים רעועה אשר היתה נתונה לטלטולי הרוח.
+
+ קבל חנוך מסורתי בחדר ובישיבה. היה עלוי וגאון בתורה. למד שפות וחימיה. בשעות הפנאי עסק בציור ובמוסיקה.
+
+ נשא לאשה את<persName> חוה</persName> בת <persName>משה שלמה בסאן</persName> (מצאצאי הרב אזולאי) היתה אשה חכמה אצילה וצנועה בהלכותיה (נפטרה בירושלים, ו' ניסן תרפ"ז).
+
+ היה בין הראשונים שיצאו את העיר העתיקה ובנו את שכונת "בית ישראל" בירושלים.
+
+
+ מראשוני בני-ברית ומיסדיו בארץ.
+
+ במשך 30 שנה עבד בתור חובש ויד ימינו של הרופא הראשי בבקור חולים בירושלים.
+
+ הגיש תמיד במסירות עזרה לחולים ועניים ולא חס על כוחותיו וזמנו.
+
+ היה בטבעו ענו ואדם ישר.
+
+ נפטר בירושלים, ט' ניסן תר"ע (18.4.1910).
+
+ בנותיו: <persName>אסתר, יונינה, חמדה</persName> אשת<persName> יצחק צבי</persName> (בן <persName>אברהם שפירא</persName> , גבור פתח-תקוה ומראשוני השומרים בארץ. ראה כרך א'. עמוד 486).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2821 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2821</bibl><bibl>Volume: #7 ,Page: 2822 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2822</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

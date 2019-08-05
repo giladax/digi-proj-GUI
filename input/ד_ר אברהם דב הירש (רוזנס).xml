@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5348 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5348</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אברהם דב הירש (רוזנס)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קוליקוב</placeName> (פולין, כיום רוסיה), כ"ג סיון תרע"ט (14.6.1909).
+
+ לאביו <persName>פתחיה רוזנס-הכהן </persName> (מתקופת תור הזהב בספרד (אנוסים), יצאו מפורטוגל וחזרו ליהדות המעבר לרוסיה) ולאמו <persName>פייגה זיסלה</persName> בת <persName>משה ולדמן.</persName>
+
+ קיבל חינוך בלבוב (כיום רוסיה) וגמר את הגימנסיה היהודית, 3 שנים הראשונות למד רפואה בברטיסלוו (צ'כוסלובקיה) ו-3 השנים האחרונות למד באוניברסיטה בפירנצה (איטליה). את הדיפלומה לתואר רופא קיבל ב-23.10.1936 בעיר בולגניה (איטליה).
+
+ ב-1948 נשא לאשה את <persName>הינדה</persName> בת <persName>אשר גלונסקי.</persName>
+
+ היה רופא בבית חולים יהודי בלבוב.
+
+ שירת כקצין רפואה בצבא האדום במלחמת העולם.
+
+ היה רופא ראשי במחנות בגרמניה: וינדישברגר-דורף, וילסק וגיבלישטאדט.
+
+ היה חבר פעיל באירגונים ציוניים.
+
+ פעיל בהסתדרות הרופאים של רופאים יהודים בגרמניה.
+
+ בשנת 1948 עלה לארץ.
+
+ התגייס במלחמת העצמאות (1948) לצה"ל בדרגת
+
+ קצין רפואה ושירת עד דצמבר 1964 וגמר בדרגת סגן אלוף (קצין רפואה).
+
+ חבר הוועד הפועל במגן דוד אדום.
+
+ בשנים האחרונות - מנהל בית החולים "הדסה"
+
+ תל-אביב-יפו וסגן מנהל בתי החולים העירוניים.
+
+ בנותיו:<persName> נעמי צפורה, מרים יפה.</persName>
+
+ אחותו <persName>מרים בתיה</persName> ואחיו ד"ר<persName> משה הירש</persName> וההורים הושמדו ע"י הנאצים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5348 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5348</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

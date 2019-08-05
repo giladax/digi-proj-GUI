@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2542 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2542</bibl><bibl>Volume: #6 ,Page: 2543 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2543</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פנחס רחמן (ריצמן)</persName>
+
+</head>
+         <div><p> נולד בקיוב (רוסיה), בשנת תרמ"ח (12.1.1888). לאביו<persName> משה </persName> (ראה כרך א', עמוד 159) ולאמו<persName> ריינה</persName> לבית<persName> ריל.</persName>
+
+ קבל חנוך מסורתי וכללי. השתלם בביה"ס לאמנות בקיוב.
+
+ היה פעיל בארגונים הציוניים בעירו. בשנת 1909 עלה ארצה עם אביו ואחיו <persName>נפתלי</persName> (ראה בכרך זה). הביאו מכתב המלצה מאת הפרופסור <persName>מנדל</persName> <persName>שטם</persName> אל <persName>ר' זלמן דוד ליבונטין,</persName> מנהל בנק אנגלופלשטינא ביפו, שיעזור להם להיאחז בארץ. היה החבר השמיני ביסוד המכבי ביפו. מראשוני ההגנה. היה פעיל בהבונים החפשים ביפו.
+
+ הכיר את הפרופ'<persName> בוריס שץ </persName> בירושלים. למד ועבד כמה שנים בבית הספר "בצלאל" בירושלים.
+
+ עבד אצל הצלמים נרינסקי-טומיאן, בעיקר בעיבוד תמונות גדולות.
+
+ עזר לשאר בני המשפחה לעלות לארץ.
+
+ עבר ליפו והקים צלמוניה שבה עבדו שתי אחיותיו ואחיו הצעיר<persName> יהושע.</persName> עבדו כעין קואופרטיב וזה היה מהקואופרטיבים הראשונים בארץ.
+
+ נשא לאשה את <persName>אליזבט</persName> בת <persName>אלתר מטרוס </persName> מארצות הברית.
+
+ ב-1926 נסע לארצות הברית.
+
+ נפטר בניו-יורק, כ"ג טבת תשי"ד (29.12.53).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2542 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2542</bibl><bibl>Volume: #6 ,Page: 2543 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2543</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

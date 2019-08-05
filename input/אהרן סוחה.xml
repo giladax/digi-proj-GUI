@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3974 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3974</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן סוחה</persName>
+
+</head>
+         <div><p> נולד כ' תמוז תר"ע (15.7.1910) ברובנה, פלך ווהלין, רוסיה.
+
+ לאביו <persName>פסח</persName> (המורה העברי הראשון ברובנה) ולאמו <persName>לאה</persName> (ממשפחת רבנים).
+
+ בילדותו נתיתם מהוריו בעקב הפרעות באוקראינה אחרי מלחמת העולם הראשונה ונלקח עם אחיו<persName> משה</persName> על-ידי הג'וינט לווינה ושם נתחנך חינוך יסודי ותיכון.
+
+ היה פעיל ביסוד פועלי-ציון נוער והחלוץ בווינה ואח''כ כחבר הועד וההנהלה בהם.
+
+ אחרי מהומות תרפ"ט בארץ בא בזרם העליה הגדולה מווינה ב-1930. יצא לעבוד בפרדסי ראשון לציון, נלחם על עבודה עברית ובאחת הפעולות נפצע קשה. עבד בארץ בעבודות-כיבוש קשות ובבנין. ממיסדי קבוצת "השדה" (כיום שדה-נחום).
+
+ היה עסקן במועצת הפועלים בראשון לציון ואח"כ בתל-אביב ופעיל במוסדות שונים של ציבור הפועלים. מהפעילים הוותיקים בהגנה השתתף בתפקיד מ''כ בחזיתות מלחמת הקוממיות.
+
+ כיום מרכז הפעולה של הקרנות הלאומיות ברמת-גן.
+
+ בנותיו:<persName> לאה, דליה, אורה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3974 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3974</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

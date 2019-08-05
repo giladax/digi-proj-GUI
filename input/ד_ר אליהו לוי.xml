@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3976 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3976</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אליהו לוי</persName>
+
+</head>
+         <div><p> נולד כ' טבת תרס"ד (8.1.1904) בפ'ירארה שבאיטליה.
+
+ לאביו<persName> שלמה</persName> ולאמו<persName> מזל</persName> בת<persName> רפאל מורדו</persName> .
+
+ כשעברה משפחתו ב-1912 למצרים, המשיך שם את לימודיו בבית-ספר עממי איטלקי ואח"כ בבית-ספר תיכון צרפתי בקאהיר, ובשנים 1926-1921 למד באוניברסיטת מילאנו שבאיטליה והוסמך לד"ר להנדסה, ובשנים 1938-1923 עבד במכון התקנים האיטלקי.
+
+ ב-1931 נשא לאשה את<persName> לואיזה </persName> בת<persName> פנחס קרימה.</persName>
+
+ ב-1926 היה אחד מעשרה הראשונים שיסדו באיטליה את הסתדרות הציונים הרביזיוניסטים בהדרכתו של ד"ר <persName>ליאונה קרסי.</persName>
+
+ ב-1939 עלה לארץ. עבד 4 שנים בתור גנן ואח"כ מצא את דרכו לעיסוק במקצועו, והנו ראש מחלקת התקינה במכון התקנים הישראלי מאז הווסדו.
+
+ היה פעיל במכבי ובאצ"ל, וכעת חבר בתנועת חרות.
+
+ באיטליה השתתף בועידות מדעיות ופירסם עבודות בעתונות המקצועית לטכניקה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3976 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3976</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

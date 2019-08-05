@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 331 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/331</bibl><bibl>Volume: #1 ,Page: 332 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/332</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב זאב וילנר</persName>
+
+</head>
+         <div><p> נולד בניסוויז, פלך מינסק, רוסיה, בשנת תר"ג (1843) לאביו ר'<persName> יהודה ליב</persName> . נתחנך בחדרים ובישיבות, נשא אשה ועסק במסחר משקאות בעיר-הולדתו. פעם הציתו הגויים את רוב בתי היהודים בעיירה ואז בא לידי הכרה כי לא די בהטפה של חובבי ציון לתמוך בעולים לארץ-ישראל. הוא חיסל את עסקיו
+
+ ובשנת תרנ"ז עלה ארצה עם משפחתו.
+
+ שאיפתו היתה להתנחל באחת המושבות ולעבוד את האדמה, אך לא זכה להגיע לכך, כי לא בקלות מצא לו מקום מתאים ותנאים מתאימים, וכך שהה
+
+
+ בירושלים כשנה וחצי עד שחלה ונפטר בירושלים, כ"ד אלול תרנ"ח (30.8.1898).
+
+ פייבל בנו, מהעובדים האמנותיים הראשונים ב"בצלאל" (חתנו של העסקן וחלוץ-המסחר ר'<persName> יצחק ליפקין</persName> ). בתו פניה אשת מר אהרן יעקב לוי, מהנהלת בנק אנגלו-פלשתינה בתל-אביב.
+
+ מובאת בזה תעודת הגבאים בחברה קדישא בירושלים באשורו של הרב שמואל סלנט ומאושרת באופן רשמי ע"י החכם בשי, ראשון לציון, הרב יעקב שאול אלישר (יש"א ברכה) שרק בסמכותו היה לאשר תעודות רשמיות (ומזה מוכח שהרב של העדה האשכנזית לא היה מיופה כח כלפי השלטונות לאשורים רשמיים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 331 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/331</bibl><bibl>Volume: #1 ,Page: 332 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/332</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

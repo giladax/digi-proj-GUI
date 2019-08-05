@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4300 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4300</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ר' יצחק ליב רובוביץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת תרכ"ב (1862).
+
+ לאביו הרוקח ר' <persName>משה רובוביץ </persName> (ראה כרך א', עמוד 366) ולאמו<persName> צפורה</persName> (פייגה) בת הרב<persName> בן-ציון שלעז </persName> (מחבר הספר "שיחת חולים", שהיה חתנו של הרב<persName> שבתאי יפה</persName> זצ"ל. שניהם - קבורים בהר הזיתים ב<placeName>ירושלים</placeName>).
+
+ קיבל חינוך מסורתי. למד אצל הרב <persName>משה יהושע</persName> <persName>יהודה ליב דיסקין</persName> זצ"ל ("הרב מבריסק". ראה כרך ב', עמוד 567) ואח"כ למד רוקחות ונתקבל לרוקח בבית החולים "שערי ציון" ביפו. ואחרי פטירתו של אביו הרוקח נתקבל במקומו בבית החולים רוטשילד ב<placeName>ירושלים</placeName>.
+
+ בהיותו בן חמש-עשרה בשעה שישב בבית הרב מבריסק (הנ"ל) ולמד, נכנס אורח מפריס, מר <persName>ערלינגנר</persName> בלוויית ר' <persName>משה רובוביץ</persName> - אביו. ובראותו יושב ולומד לפני הגאון הגדול, התעניין בו ושאל עליו את מלווהו. ור' <persName>משה</persName> ענה לו - זה בני. האורח התפעל לשמוע שהצעיר מדבר צרפתית צחה. הסביר לאורח את תוכן לימודו. ועוד יותר, התפעל האורח - שצעיר זה פרסם את המאמר "קול ישועה ונחמה" בעתון הירושלמי "שערי ציון" בדבר שיווי זכויות אשר ניתן אז לאחינו ברומניה. האורח הציע לשלוח אותו לבית מדרש לרבנים בפריס ויהיה אורחו לארוחות בביתו. אמו התנגדה להוציא את בנה ל"חוץ לארץ".
+
+ הוציא לאור את הספר "פנה משה" של הרב מ. י. ל. דיסקין זצ"ל (תרצ"ד).
+
+ נשא לאשה את<persName> נחמה</persName> (טשארנא) בת ר'<persName> פנחס כהן</persName> מפרשבורג (הונגריה). (נפטרה ב<placeName>ירושלים</placeName>, י"ד תמוז תרע"ח - 24.6.1918).
+
+ היה ממיסדי שכונת "גבעת שאול" (מול הכפר ליפתא) ב<placeName>ירושלים</placeName>.
+
+ נפטר בפתח-תקוה, ו' אב תרצ"ד (18.7.1934). צאצאיו : <persName>חנה</persName> אשת <persName>צבי למפרט, חיים אברהם, יונה</persName> אשת <persName>דוד ויסוקר, מרדכי מנדל, פנחס, מלכה</persName> אשת <persName>ראובן</persName> <persName>ליברמן, משה יעקב</persName> ז"ל (ראה את הערך שלו בכרך זה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4300 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4300</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

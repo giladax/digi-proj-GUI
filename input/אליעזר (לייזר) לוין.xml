@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4929 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4929</bibl><bibl>Volume: #16 ,Page: 4930 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4930</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר (לייזר) לוין</persName>
+
+</head>
+         <div><p> נולד בהאלאוושטינא, פלך מוהילב (רוסיה הלבנה) ה' חנוכה תרנ"א (31.12.1891).
+
+ לאביו <persName>יעקב לוין</persName> ולאמו <persName>חנה </persName> בת<persName> זימל פרסיץ</persName> (קרובה למשפחת פרסיץ במוסקבה).
+
+ קיבל חינוך מסורתי בבולובצ'ינה ואח"כ בבית ספר עירוני בלודז' (פולין).
+
+ מוותיקי "פועלי ציון" וחבר מרכז פועלי ציון צ. ס. בפולין. היה חבר בועד פועלי ציון צ. ס. בלודז' שנים רבות, מפעילי פטרונט של קיבוץ הכשרה הכי גדול בעולם, קיבוץ בורוכוב וכו'.
+
+ היה חבר הועד ב"אורט" ב"יעיוס", בקהק"ל, בקרן היסוד, במשרד הא"י וכו'.
+
+
+ בשנת 1921 נשא לאשה את <persName>אסתר</persName> בת <persName>אברהם</persName> <persName>לוי </persName> (נספתה בטרבילנקה).
+
+ בשנת 1945 עלה לארץ.
+
+ בשנת 1948 בשליחות למחנות הפליטים בגרמניה.
+
+ היה מזכיר אחדות העבודה בחיפה
+
+ היה ציר בקונגרסים הציוניים, ה-18 בפרג וה-19 בלוצרן ובכל הקונגרסים בישראל.
+
+ חבר מרכז מפ"ם עד הפילוג. ומשנת 1959 אינו פעיל בגלל התעורותו.
+
+ כתב מאמרים וזכרונות בספר לוחמי הגיטאות ובמינכן ב-1948 בעתון המפלגה, ב"מבפנים" וכו'.
+
+ כיום חבר משק יגור.
+
+ בנו:<persName> ישראל לוין </persName> (חבר במשק יגור).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4929 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4929</bibl><bibl>Volume: #16 ,Page: 4930 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4930</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

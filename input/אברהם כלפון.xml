@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 911 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/911</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם כלפון</persName>
+
+</head>
+         <div><p> נולד בטבריה, ט"ז טבת תר"ס, לאביו הרב <persName>משה</persName> בן הרב <persName>אברהם רפאל</persName> שהיה רב בחיפה ולאמו <persName>אסתר</persName> בת הרב <persName>משה בן-נאים</persName> , שהיה רבה של קהלת גיבראלטאר.
+
+ למר ב"חדר", בביה"ס של חברת כי"ח ובביתהספר הריאלי בחיפה. בשנות 22 -1919 היה מזכיר ועד הקהלה בחיפה, ולאחר זמן נבחר לחבר בועד זה.
+
+ נשא לאשה את<persName> צפורה</persName> בת <persName>יחזקאל רוסטובסקי</persName> , (עסקנית פעילה בויצ"ו וחברת המועצה המקומית בקרית מוצקין).
+
+ בשנות 27- 1924 היה מזכיר לעניני הארגון המשותף של פועלים יהודים וערבים בועד הפועל של הסתדרות העובדים הכללית. ב-1932 היה חבר מועצת הלואה וחסכון חיפה. פעל לטובת הקה"ק ולמוסדות התרבות. ממיסדי אגודת "התחיה", "חלוצי המזרח", והסתדרות הספרדים, נשיא מועצת העדה הספרדית בחיפה ופעיל למען יסודם והחזקתם של שבעה גני-ילדים לילדי הספרדים. מ-1927 בתפקיד המזכיר העברי הראשון
+
+ בעירית חיפה ויו"ר בית-הדין לסכסוכי דירות בקריות שבמפרץ חיפה.
+
+ במלאות לו 40 שנה בת"ש רשמוהו ידידיו ומוקיריו בספר הזהב של הקה"ק.
+
+ צאצאיו: <persName>שרה</persName> (חברת בית הערבה), <persName>משה</persName> (חבר בית הקשת), <persName>הדסה</persName> (מורה), <persName>הרצלה, אביבה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 911 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/911</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

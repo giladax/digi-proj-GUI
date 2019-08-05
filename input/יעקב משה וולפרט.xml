@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 461 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/461</bibl><bibl>Volume: #1 ,Page: 462 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/462</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב משה וולפרט</persName>
+
+</head>
+         <div><p> נולד בירושלים. י"ג ניסן תרל"ו (1876), לאביו ר'<persName> מנחם ברוך,</persName> שהיה ידוע בשם ר' <persName>מנדיל וועקס</persName> <persName>נער</persName> . למד בחדרים ובישיבות. נשא לאשה את<persName> חוה</persName> בת<persName> יהושע זאב לוי </persName> מעולי ווהלין.
+
+ בשנת תר"ס עבר ליפו ונתמנה למלמד בתלמודתורה "שערי תורה". היה מהחברים הפעילים בלשכת "אחוד,", וכשנוסד בתרס"ה ביזמת הלשכה "בית הכנסת אורחים" בנוה שלום (כיום "בית עולים") היה חבר בועד הראשון של המוסד, יחד עם <persName>אליהו אהרן</persName> <persName>כהנא, יעקב משה אסיסקוביץ, ישראל מאיר חודורובסקי,</persName>
+
+
+<persName>יחזקאל דנין ודוב רצ'קובסקי (פריזר)</persName> , והשתתף בפעולות לבנין המוסד ושכלולו. בתרע"ב נסע לדרוםאפריקה בשליחות לטובת התלמוד-תורה "שערי תורה" ולטובת בית-החולים "ביקור חולים" שבירושלים. בתרע"ו
+
+ חזר משם, ובגלל המלחמה לא יכול להכנס לארץישראל. נשאר חדשים אחדים באלכסנדריה ומשם נסע ללונדון ושימש גובה לתלמוד תורה מקומי, שלימדו בו עברית בעברית. אח"כ נתמנה לשד''ר באנגליה מטעם "הועד הכללי כנסת ישראל" (איחוד כל כוללות האשכנזים בירושלים).
+
+ בתר''פ חזר ארצה, ולאחר כמה שנים נתמנה מטעם ועד קהלת תל-אביב יפו לנאמן ומשגיח בביתהמטבחים העירוני. בשנותיו האחרונות היה גבאי בתלמוד-תורה "שערי תורה" , שלימד בו לפנים, ופעל למען שכלול המוסד והעלאתו לרמה חינוכית של בית-ספר דתי כדרישות הזמן.
+
+ נפטר בתל-אביב, י"ז תמוז תש"ג, והובא לקבורה בירושלים. צאצאיו : <persName>שמעון, מנחם, יהושע זאב, צפורה</persName> אשת<persName> אריה פרנקנטל, נחמה </persName> אשת<persName> שמעון בנדל, צלה</persName> אשת<persName> מאיר מקייבסקי, אסתר </persName> אשת<persName> אלימלך קלינוב</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 461 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/461</bibl><bibl>Volume: #1 ,Page: 462 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/462</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

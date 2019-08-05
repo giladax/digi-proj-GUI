@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4082 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4082</bibl><bibl>Volume: #12 ,Page: 4083 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4083</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד י. זכאי (זכון)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קובנה</placeName> (ליטא), כ"ב תמוז תרס"ט (1909).
+
+ לאביו<persName> ישראל זכון </persName> (שם המשפחה הרוסי <persName>זכון</persName> משמעו - חוק דת ודין) ולאמו <persName>מריאשל</persName> בת <persName>יצחק-מיכל</persName> <persName>פיין.</persName>
+
+ קיבל חינוך מסורתי בבית, תורני בישיבות ליטא.
+
+ יסודי-כללי בלשון הרוסית בבי''ס.
+
+ בחו"ל המשיך בהשתלמות והוראה בתנ"ך, עברית ובגפ"ת בבתי אולפנא וגם בשעורים פרטיים.
+
+ בשנת 1935 עלה לארץ.
+
+ עבד כפועל בקידוחי-מים, כבישים ובבנין.
+
+ למד בסמינר למורים בירושלים, ובישיבת חברון תוך לימוד ועבודה כנ"ל - במקביל.
+
+ בשנת 1940 נשא לאשה את<persName> שושנה </persName> בת הרב<persName> נתנאל</persName> <persName>יוסף גראז.</persName>
+
+ היה מלמד עברית בקורסים לעולים מטעם ועד
+
+
+ הקהלה בחיפה ו"מפעל המיל" שאירגן אז ד"ר <persName>יהודה</persName> <persName>אבן שמואל קופמן.</persName>
+
+ כתב מאמרים ב''דואר היום" (ירושלים) בתקופתו האחרונה, וב"הארץ" כתב מאמרי ביקורת על ספרו ר' בנימין ועוד.
+
+ צאצאיו:<persName> בתיה, ישראל, רינת.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4082 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4082</bibl><bibl>Volume: #12 ,Page: 4083 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4083</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

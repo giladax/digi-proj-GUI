@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4490 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4490</bibl><bibl>Volume: #14 ,Page: 4491 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4491</bibl>
+<bibl>Volume: #14 ,Page: 4492 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4492</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יהודה צבי ברנדוויין</persName>
+
+</head>
+         <div><p> נולד בצפת, י"א אדר תרס"ג (10.3.1903).
+
+ לאביו הרב <persName>אברהם</persName> (ממשפחת המגיד ממזריטש ומזלאטשוב ומאליקיסטרעטין) ולאמו<persName> חנה </persName> בת הרב משולם א. ווייסבלום (נכדת מליזנסק ומבארדיושוב).
+
+ קיבל חינוך מסורתי בתלמוד תורה ובישיבות חתם סופר והוסמך לרב.
+
+ המשיך ללמוד בישיבה ועסק בתור קבלן לטפסנאות בבנינים.
+
+ נשא לאשה את<persName> מרים הדסה </persName> בת הרב שלמה <persName>וועקסלר </persName> (נפטרה בירושלים) ובזיווג שני נשא לאשה את <persName>לאה</persName> בת הרב <persName>מאיר יוסף אברמוביץ.</persName>
+
+ פרסם ספר מעלות הסולם פירוש לתקוני זהר והגהות ומראה מקומות על כל כתבי האריז"ל (16 כרכים).
+
+ ר"מ ומגיד שיעורים בזהר ובחכמת הקבלה.
+
+ חבר הנהלת המועצה הדתית מטעם הרבנים בת"א.
+
+ יו"ר המחלקה לסיפוק צרכי דת שע"י הועד הפועל של ההסתדרות הכללית בישראל.
+
+ צאצאיו: הרב<persName> משה חיים ברנדוויין</persName> (ירושלים), <persName>אסתר מרים</persName> ז"ל אשת הרב <persName>אריה הלברשטאם, אלטע</persName> <persName>רעכיל</persName> אשת <persName>אשר רובינשטיין, צפורה דבורה </persName> אשת <persName>שלמה פס </persName> (ירושלים),<persName> טובה </persName> אשת הרב <persName>נפתלי ווייס</persName> <persName>בלום</persName> (רבה של "שדה יעקב")<persName>, מנוחה </persName> אשת הרב <persName>אברהם סגל </persName> (ירושלים),<persName> בת-שבע </persName> אשת הרב<persName> מרדכי</persName> <persName>שנברגר </persName> (ירושלים), הרב<persName> אברהם ברנדוויין.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4490 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4490</bibl><bibl>Volume: #14 ,Page: 4491 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4491</bibl>
+<bibl>Volume: #14 ,Page: 4492 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4492</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

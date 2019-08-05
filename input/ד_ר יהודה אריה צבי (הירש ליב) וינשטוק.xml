@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4950 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4950</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יהודה אריה צבי (הירש ליב) וינשטוק</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ווארשה</placeName> (פולין), כ"ה כסלו תר"ע (8.12.1909).
+
+ לאביו יששכר דב (נכדו של ר' יואל וגמיסטר) ולאמו <persName>שרה בלהה</persName> בת <persName>שבתאי הכהן.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבות, באוניברסיטאות - קרקוב ובריסל, וקבל תואר ד"ר למשפטים ולפילוסופיה.
+
+ היה מורה להיסטוריה, פדגוגיה לימודי היהדות בבתי-ספר תיכוניים, אח"כ היה מפקח של בתי הספר "תרבות" בפולניה.
+
+ היה מפעילי "הפועל המזרחי".
+
+ עלה לארץ בשנת 1926.
+
+ עורך דין ונוטריון.
+
+ בשנת 1935 נשא לאשה את<persName> צלה </persName> בת ר' <persName>אלתר</persName> <persName>אטינגון</persName> (ממשפחת אטינגון המפורסמת בנדבנותה ועשרה ברוסיה, פולין וגרמניה) ולאמה<persName> פאניה.</persName>
+
+ עבד במקצועו, כעורך דין בתל-אביב.
+
+ היה פעיל כעסקן ציבורי בעניני קהק"ל, קרן היסוד.
+
+ בארץ התרחק מפעולה צבורית מפלגתית.
+
+ עזר לנצרכים בגמילת חסדים ובכל עזרה שנדרשה ממנו.
+
+ שירת במשטרה המיוחדת, בימי שלטון המנדט בארץ.
+
+ נפטר בתל-אביב, א' אדר א' תשכ"ה (3.2.65) הובא לקבורה בנחלת יצחק.
+
+ בתו: <persName>תקוה</persName> אשת<persName> ירוחם לוריא </persName> (עתונאית כותבת רפורטז'ות ופיליטונים בעתון הערב "מעריב" ראה כרך י"א, עמוד 3754).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4950 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4950</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

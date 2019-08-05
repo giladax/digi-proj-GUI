@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3060 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3060</bibl><bibl>Volume: #8 ,Page: 3061 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3061</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה בנימין פומרוק</persName>
+
+</head>
+         <div><p> נולד בשנת תרס"ב (18.3.1902) בראדום שבפולין.
+
+ לאביו<persName> צבי זאב </persName> ולאמו <persName>לאה שרה</persName> בת <persName>חיים שטיינברג.</persName>
+
+ למד בחדר ובגמנסיה וב-1919 עלה לארץ עם הקבוצה הנודעת "105" והמשיך בלימוד משפטים. עבד ביבוש בצות בביתניה ובחקלאות בדגניה, בשמירה ובסלילות
+
+
+ כביש חיפה-ג'דה. אח"כ ברכבת בלוד והיה חבר מרכז פועלי הרכבת. היה חבר מועצת פועלי תל-אביב והועד הפועל שלה. השתתף בארגונה של חבורת "מעבר", שבתקופת המשבר שלאחר העליה הרביעית יצאה לניהול משק זעיר ולכיבוש עבודת-שכירים בפתח תקוה. עבד כנציג המרכז החקלאי ביהודה ובשומרון והשתקע בחיפה.
+
+ נשא לאשה את<persName> פרדה </persName> בת<persName> טוביהו שפהרד.</persName>
+
+ השתתף בארגונו וביסודו של השיכון הראשון בקרית חיים שבעמק זבולון.
+
+ משנוסדה חברת הביטוח "הסנה" נתמנה למנהלה בחיפה וממשיך בתפקידו. השתתף ביסוד "חבל ימי לישראל" ונבחר למרכזו ולנשיאותו, ופעמים נסע בשליחותו לארה"ב. קנדה, אנגליה וצרפת. וב-1955 השתתף בועידה בינלאומית למען הימאים באנטוורפן.
+
+ ממלא את התפקידים דלהלן: חבר נשיאות "הסנה" ומנהלה בחיפה, חבר המועצה וההנהלה של החברה הישראלית לביטוח-משנה, חבר הועדה הממשלתית לביטוחים ממשלתיים, יו"ר ועד ענף אש של האיגוד הישראלי של חברות לביטוח, חבר נשיאות ארצית של חבל ימי לישראל ויושב-ראשו בחיפה, יו"ר המועדון הימי והכלכלי בחיפה, חבר הנהלה וגזבר-כבוד של ביה"ס לקציני-ים בעכו, סגן יו"ר בית המשפט העירוני בחיפה, יו"ר ועדות השומה של עירית חיפה, יו"ר הועדה הצבורית לבנין בית אמני חיפה, יו"ר קרן הסטיפנדיות של בי"ס לקציניים בעכו.
+
+ פרסם חוברות "מס-הכנסה וביטוח" ו"האשה והביטוח" ומאמרים על נושאים כלכליים וימיים ועניני ביטוח בעתונים יומיים, בשבועונים ובירחונים (ב"דבר" "הארץ", "הפועל הצעיר, ובירחון לקואופרציה).
+
+ בתו:<persName> יעל נחמה</persName> אשת המהנדס<persName> ברוך ונדרוב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3060 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3060</bibl><bibl>Volume: #8 ,Page: 3061 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3061</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

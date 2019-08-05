@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4308 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4308</bibl><bibl>Volume: #13 ,Page: 4309 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4309</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חנינא מזרחי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>טהרן</placeName> (פרס), ט"ו שבט תרמ"ו (1886).
+
+ לאביו ר' <persName>חיים אלעזר</persName> (נולד ב<placeName>טהרן</placeName> בתרי"ח (1858). עלה לארץ בתמוז תרנ"ה (1895), נודע כמשורר והתפרסם ע"י ספר שיריו "חיאת-אל-אראם" (חיי אדם), נדפס בירושלים, תרס"ז (1907). נפטר בירושלים, כ"ט בסיון תרס"ט) ולאמו <persName>קמר</persName> בת<persName> אלעזר אהרן טורק.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ בשנת תרנ"ה (1895) עלה לארץ.
+
+ למד בביה"ס להעציל "למל" וגמר את בית המדרש למורים של חברת "עזרה" (מגרמניה).
+
+ משנת תרס"ז (1907) מורה ומשנת תרפ"א (1921) מנהל בית הספר.
+
+ בשנת תרע"א (1911) נשא לאשה את <persName>שרה</persName> בת הרב <persName>שלום יחזקאל מני</persName> (ראה כרך ב', עמוד 910). נפטרה בירושלים, י' סיון, תשט"ז (20.5.1956).
+
+ בנה בית בזכרון-טוביה, ואח"כ השתתף בהקמת "בית-הכרם" ע"י בנין בית בה.
+
+
+ שנים אחדות עמד בראש הועד הכללי לעדת יהודי פרס, היה חבר בועד העיר, בועד עדת הספרדים בירושלים.
+
+ היה ציר אספת הנבחרים הראשונה ליהודי א"י וחבר הועד הלאומי בירושלים.
+
+ 15 שנה היה מדריך את תלמידי בית המדרש למורים
+
+ מזרחי בירושלים. מנהלו המנוח <persName>אליעזר מאיר ליפשיץ</persName> ז"ל (ראה כרך ג', עמוד 1275) במכתבו אליו מיום ב' תמוז הרצ"ה (1935) מרים את פעולותיו על נס: "אני רואה צורך להביע תודה לאדוני בעד מסירותו לעבודת שעורי הוראה והדרכה, מיום שקיים בית מדרשנו ועד היום. כבודו חינך את המורים במקצוע הכי חשוב בהוראה, ופעולתו ניכרת לברכה בכל בתי הספר בעבודת כל המורים תלמידינו".
+
+ פרסם מאמרים: "החינוך בין יהודי פרס" (ב"התור"), "פורים בפרס" (ב"ציון", שנה א', גליון ג', ל"ג בעומר)
+
+ "בפרס" (כנ''ל, שנה א', גליון ד'), "תשעה באב בפרס" (שם), "פורים בפרס" (ב"ההד"), "עלית חיים אלעזד לארץ ישראל" (שם), "תלמוד התורה של הספרדים וישיבת תפארת" (ירושלים, כנ"ל).
+
+ חיבוריו: "יהודי פרס" (תשי"ט, בהוצאת "דביר לעם"), "חיי אבי מולא חיים אלעזר" (ה' פרקים, נדפס ב"רשומות", הוצאת "דביר", תש"ו), "רשימה היסטורית על יהודי פרס מעלית כורש עד ימינו", "משוררים שקמו מבין יהודי פרס עם תרגום מלקוטים משירתם". תרגום הספר "גולסתאן" של המשורר הפרסי <persName>סעדי</persName> . תרגום כתבי נהוראי מזרחי (אחיו ז"ל) מגרמנית, המכילים מחזות, ספורים, מאמרי בקורת ומחקרים.
+
+ כתב-יד: "יהודי פרס במאה הי"ז והי"ח", על פי הפואימה של באבאי בן לוטף ןבאבאי בן פרחד, לפי מאמרו הצרפתי של פרופ'<persName> בנימין זאב בכר.</persName>
+
+ פעמים נרשם בספר הזהב של הקהק"ל : ע''י מורי ת"ת הספרדים בירושלים העתיקה (תמוז תש"ה), וע"י מתפללי בית הכנסת בית הכרם (שבט תשכ''א).
+
+ כיום, נמצא בפנסיה.
+
+ יו"ר ועד בית הכרם ויו"ר ועדת בית הכנסת בבית הכרם בירושלים.
+
+ צאצאיו:<persName> אלעזר מזרחי, נהוראי אלעזרי</persName> (מזרחי), <persName>עליזה אשת</persName> ד"ר<persName> גרשון ליברך.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4308 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4308</bibl><bibl>Volume: #13 ,Page: 4309 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4309</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 51 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/51</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף ברנבלום</persName>
+
+</head>
+         <div><p> נולד בירושלים, בעיר העתיקה, כ' אלול תרנ"ר (1896), לאביו<persName> אליעזר ליפא</persName> , המכונה <persName>אלתר קוסובר </persName> (על שום מוצאו מהעיירה קוסוב שבפלך גרודנא). החל ללמוד בתלמוד-תורה, עבר ללמוד בבית-הספר של חברת "עזרה" הברלינית, המשיך בבית המדרש למורים של החברה, הוסמך להוראה והשתלם בידיעת עשר שפות על בוריין.
+
+ כשפרצה מלחמת-העולם הראשונה התנדב לצבא הטורקי, גמר את בית-הספר לקצינים ושרת כקצין בחזית הרוסית. רצה להשתלם בטיסה, אך בצבא הטורקי לא נמצאה אפשרות לכך.
+
+ אחרי המלחמה נכנס לעבוד בשרות הממשלה במשרד רישום הקרקעות (ה"טאבו") בטבריה והיה מנהל המשרד, ואחרי כמה שנים הועבר לתפקיד דומה בחיפה, ובסוף הועבר לדרגת פקידות גבוהה במחלקת הקרקעות הממשלתית בירושלים. בינתים גמר את בית-הספר הממשלתי למשפטים, הוסמך כעורך-דין, פרש מהשרות בממשלה ומשנת 1936 עבד כעורך-דין בחיפה ונחשב בין טובי עורכי-הדין בארץ.
+
+ במוצאי שבת, ב' אלול תש"ה (11.8.45), פגעו בו יריות אלמונים בביתו אשר בכרמל הצרפתי בחיפה, הועבר לבית החולים "מולדת" ושם נפטר ביום המחרת.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 51 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/51</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3492 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3492</bibl><bibl>Volume: #10 ,Page: 3493 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3493</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף צבי זלצר</persName>
+
+</head>
+         <div><p> נולד כ' אב תרס"ג (13.8.1903) בעיר מאד, מחוז טוקאי שבהונגריה.
+
+ לאביו <persName>פנחס יעקב</persName> ולאמו <persName>פסל </persName> בת <persName>דוד יצחק טייטלבוים.</persName> קיבל חינוך יהודי מסורתי וגמר בית-ספר תיכון ובית-ספר גבוה ממלכתי לענף הגפן ומוצריו.
+
+ ב-1926 נשא לאשה את <persName>מינדל </persName> בת<persName> חיים ויטריול</persName> (נספתה באושוויץ, כ"ד סיון תש"ד-13.6.1944) וב-1946 נשא את <persName>מרים</persName> בת<persName> ירחמיאל גולדשטיין.</persName>
+
+
+ עסק בגידול גפנים בכרמיו ובייצור יין ביקבו והיה פעיל בעניני הצבור בקהלה היהודית.
+
+ במשפטים בעניני גפן ויין שימש מומחה-כבוד לבתי המשפט.
+
+ בשואת יהודי הונגריה במלחמת העולם נספו אשתו ושני בניו, ואילו הוא ושני בנים ובת אחת שרדו לפליטה. אחרי המלחמה התמסר לפעילות בקימום שארית הפליטה, וביחוד פעל כמקשר בין המפלגות הציוניות ובעזרה להשגת אפשרות-עליה לשרידים שביקשו לעלות לארץ.
+
+ משעלה בנו<persName> אליעזר</persName> (ראה ערכו בכרך זה) כמתנדב למלחמת הקוממיות ונפל בקרב ליד פלוג'ה, עלה לארץ גם הוא ושארית משפחתו בסוף 1948 וניגש להקים לבנו מזכרת חיה, משולבת בפיתוח הארץ וביצירת מקום עבודה ומחיה לרבים. רכש קרקע מוזנח בשטח שלמעלה מ-1200 דונם ונטע כרם גדול ומטופח לפי מיטב ידיעותיו במקצוע, ולעיבוד הענבים יסד את חברת "אליעז" (על שם בנו<persName> אליעזר</persName> ז"ל (בהשמטת האות ר') להעמיד את העוז במקום העזר), שבנתה ומקיימת בניהולו הכללי על "גבעת אליעז" בבנימינה יקב משוכלל לייצור יינות ומשקאות.
+
+ קבע את דירתו בחיפה ונותן מזמנו לשרות הצבור כחבר ועדת הבריאות של העיריה.
+
+ צאצאיו: <persName>חוה</persName> אשת ד"ר <persName>איתן פלדי</persName> (רופא בביתהחולים הממשלתי רמב"ם בחיפה), <persName>משה יהודה</persName> (מהנדס מכונות), <persName>אליעזר</persName> ז"ל (נפל בקרב ליד פלוג'ה, ח' חשון תש''ט, 10.11.48),<persName> דוד-יצחק ועקיבא</persName> הי"ד (נספו באושוויץ).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3492 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3492</bibl><bibl>Volume: #10 ,Page: 3493 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3493</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

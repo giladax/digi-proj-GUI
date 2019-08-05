@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 465 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/465</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם פדרמן (אברהמ'ל סופר)</persName>
+
+</head>
+         <div><p> נולד בקארלין, רוסיה הלבנה, בשנת תר"ו (1846), לאביו ר'<persName> יונה</persName> . למד בחדרים ובישיבות והתמחה במלאכת סופר סת"ם (כותב ספרי-תורה, תפילין ומזוזות). נשא לאשה את <persName>מרים</persName> , בת אחיו של הגאון רבי<persName> יצחק</persName> <persName>אלחנן ספקטור</persName> , רבה של קובנה, התישב בפינסק ועסק במלאכתו.
+
+ בשנת תרל"ז עלה ארצה עם אשתו וארבעת ילדיו (הגדול שבהם,<persName> אשר</persName> , היה אז בן 11, והקטן שבהם,<persName> אהרן,</persName> היה בן 9 חדשים), השתקע בירושלים והמשיך לעסוק במלאכת הקודש ואשתו למדה תפירה ועזרה להקלת עול הפרנסה של המשפחה.
+
+ כל ימיו היה אדם צנוע, שוקד על מלאכתו ועל עבודת הבורא בלימוד תורה ובתפילה ולא נדחק לעס
+
+ קנות צבורית ולרדיפה אחרי כיבודים וטובת-הנאה לעצמו. רק פעם אחת התערב בעניני צבור ועמד לצד
+
+ בנו, ר' <persName>אשר</persName> הסופר, כשזה התיצב בראש בני כולל קארלין המקופחים ודרש שחלוקת כספי התמיכה תעשה לא בידי ממונה מטעם האדמו"ר מקארלין, נשיא הכולל בחו"ל, אלא בידי נבחר שבני הכולל הוגים לו אמון והוא אחראי בפניהם. הריב העז, שפרץ בתוך הכולל בין המסכימים לממונה מטעם הרבי ובין דורשי מנהל נבחר, הגיע גם לידי מהלומות בין הצדדים ואף בין נשיהם, ומרים, אשתו של ר' אברהם עזרה לבעלה ולבנה בריב זה בידים ממש, בכח ובאומץ. ואף כי הרבי מקארלין התרעם על ההתקוממות נגד האיש שהוא בחר בו, הוכרח להודות, שאם אדם צנוע וירא-שמים כר' אברהם אינו מרוצה, בודאי יש יסוד לטענות, ובסוף חוסל הריב בפשרה.
+
+ העמיד דור של בנים ובנות, וצאצאיהם מעורים בחיי הארץ והעבודה.
+
+ נפטר בירושלים, ה' אייר תרע"א.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 465 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/465</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

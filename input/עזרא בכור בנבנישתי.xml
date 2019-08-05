@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1491 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1491</bibl><bibl>Volume: #3 ,Page: 1492 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1492</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עזרא בכור בנבנישתי</persName>
+
+</head>
+         <div><p> לאביו<persName> יצחק</persName> (ראה כרך א', עמיד 402, בן עזרא, שהיה ממשכילי הצבור הספרדי, הוציא זמן מה בפריס את העתון "יהודית" ובשנות תרל"א-ל"ב ערך את ההוצאה המיוחדת של "החבצלת" - מבשרת ירושלים
+
+ בשפת לאדינו - אספניולית, בשביל המוני הספרדים) ולאמו <persName>לאה</persName> בת הרב <persName>יהודה בכר ישראל פאניז'יל</persName> (אחות הרב<persName> אליהו משה פאנז'יל</persName> , שהיה חכם באשי וראשון לציון ב<placeName>ירושלים</placeName>, ראה כרך א', עמוד 63).
+
+ נולד ב<placeName>ירושלים</placeName> בשנת תרמ"ה (1885).
+
+
+ קיבל חינוך מסורתי וכללי ב"אליאנס" ב<placeName>ירושלים</placeName>.
+
+ בשנת תרע"א נשא לאשה את<persName> מרים</persName> בת משה ארואץ (ממנהלי בנק אפ"ק הראשונים בארץ).
+
+ בשנות 1906-23 עבד באפ"ק.
+
+ בשנות 1924-27 עם יודילביץ כסוכנים בחברת "טונגסרם". ואח"כ על חשבונו הפרטי כסוכן החברה.
+
+ היה ציר אסיפת הנבחרים הראשונה, השניה והשלישית.
+
+ היה פעיל בעדה הספרדית וחבר לשכת הבנאים החפשים.
+
+ צאצאיו:<persName> רבקה</persName> אשת <persName>אברהם סטלבוב מלונדון,</persName> <persName>יצחק</persName> (במחלקת הבטחון בצבא הגנה לישראל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1491 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1491</bibl><bibl>Volume: #3 ,Page: 1492 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1492</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1447 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1447</bibl><bibl>Volume: #3 ,Page: 1448 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1448</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר בענעט</persName>
+
+</head>
+         <div><p> נולד בראדום (פולין) בשנת תר"ל (1870), לאביו <persName>יעקב </persName> (חסיד בר-אוריין ואיש-עסקים) ולאמו <persName>הינדה</persName> בת הרב <persName>מאיר בענעט </persName> (משפחת רבנים מפורסמת והתיחסו להרב מרדכי בנעט, מחבר "ספר מרדכי"). קיבל חינוך תורני בישיבות ואף קרא בספרי השכלה.
+
+ בשנת תרנ"ה נשא לאשה את<persName> רבקה מאשה</persName> בת הרב <persName>איתמר יוסף רוטמן,</persName> התישב בעיירה פשיטיק ויסד שם טחנה גדולה, היה מכובד על התושבים היהודים והנוצרים כאחד ונתמנה לנציג העיירה בפני השלטון המחוזי (בדומה ל"מוכתר"). אחרי כמה שנים חזר לראדום, ניהל עסקי-מסחר גדולים, גם עם הממשלה הרוסית, שבסיום החשבונות שילמה לו בשטרי-אוצר, שערכם נתבטל עם תמוטת המשטר הצארי. היה במשך שנים רבות חבר ועד הקהלה בראדום ועסקן במוסדות-חסד שונים, והקדיש הרבה מזמנו וממרצו, ואף מכספו, לצרכי צבור בהצנע-לכת ובמסירות.
+
+ היה חובב ציון מנעוריו ול-5 בניו ול-7 בנותיו נתן חינוך עברי מסורתי-לאומי, ואף חינוך כללי בדרגה גבוהה, על מנת להכשירם לחיים בארץ-ישראל, שאליה נשא את נפשו. אך בגלל קשרי עסקיו ופעילותו לטובת הצבור בראדום קשה היה לו להינתק משם.
+
+ בסוף חורף תרצ"ו התגבר על המעצורים, חיסל את עסקיו, עלה ארצה עם חלק ממשפחתו, התישב
+
+
+ בחדרה ועסק במסחר. הביא ארצה את יתר בני משפחתו.
+
+ בינתים חלה במחלת השיתוק ועל הכל דיכאתו מהלומה איומה כשמת בוארשה בנו בכורו עוה"ד <persName>שמואל צבי בענעט</persName> , מראשי האקדמאים, חבר הנהלת המרכז של הסתדרות הציונים הכלליים, פובליציסט והיסטוריון, שלמרות גילו הצעיר כבר ניבאו לו גדולות בשטח מדעי זה ועבד במחיצתם של גדולי ההיסטוריונים היהודים בפולין. אח"כ באה המלחמה הגדולה, בה נספו שני בניו ושלש בנותיו ומשפחותיהם בידי הנאצים בפולין.
+
+ נפטר בחדרה ו' אב תש"ג (7.8.43), ונקבר ביום המחרת.
+
+ צאצאיו: <persName>שמואל צבי</persName> ז"ל, <persName>מרדכי</persName> ז''ל, <persName>יעקב</persName> (ביחד עם אשתו הד"ר אסתר ובנם אריה נספו ע"י הנאצים בראדום), <persName>איתמר יוסף</persName> (גמר את הסמינריון למורים ולרבנים "תחכמוני" בוארשה, למד באוניברסיטה בירושלים וכיום מזכיר התאחדות האכרים בחדרה וסופר "הבוקר" בשומרון), <persName>דב (חבר</persName> קואופרטיבההובלה האזרחי "איתן" בחדרה, מהמתנדבים לבריגדה העברית במלחמת-העולם השניה, חיל בצבא ישראל),<persName> חיה לאה</persName> אשת משה וינשטוק (ת''א), <persName>רחל</persName> ז"ל, <persName>חוה</persName> אשת זליג מאנעלא (נספו יחד עם בנם <persName>איתמר</persName> <persName>יוסף</persName> ע"י הנאצים בקיעלצה),<persName> הינדה </persName> אשת יעקב זיל<persName>ברברג </persName> (ת"א), <persName>יפה</persName> אשת יעקב שלזינגר (ת"א),<persName> טובה</persName> (גוטשה) אשת מיכאל הירשפלד (חיפה),<persName> שרה</persName> (נרצחה ע"י הנאצים גקיעלצה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1447 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1447</bibl><bibl>Volume: #3 ,Page: 1448 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1448</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

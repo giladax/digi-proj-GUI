@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4749 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4749</bibl><bibl>Volume: #15 ,Page: 4750 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4750</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ענגי מעיני</persName>
+
+</head>
+         <div><p> נולד ב<placeName>תל-אביב</placeName> בשנת תרצ"ו (1936).
+
+ רכש את השכלתו המוסיקאלית בישראל, אצל <persName>פ. בן-חיים </persName> בקומפוזיציה, ואצל <persName>איתן לוסטיג </persName> בניצוח. לאחר עבודת הדרכה וניצוח על תזמרות שונות
+
+ כגון: התזמורת הסימפונית של הגדנ"ע, תזמורת הקונסרבטוריון למוסיקה בחיפה, תזמורת כלי הנשיפה של עירית תל-אביב, פנה ללימודי אדריכלות בטכניון העברי בחיפה בו סיים את חוק למודיו בשנת 1960.
+
+ בתום למודיו בטכניון השתלם בארצות הברית
+
+
+ באוניברסיטת "קולומביה" בניו-יורק ועסק בכתיבת מוסיקה לבלט בבית הספר ג'וליארד.
+
+ יצירתו "טוקאטה לנבל סולו" זיכתה אותו בפרס הראשון לכתיבת יצירה לתחרות הבינלאומית השניה לנבל, 1962, ובוצעה כיצירת החובה בתחרות זו.
+
+ הקונצרט לנבל חובר מיד לאחר התחרות הראשונה לנבל שנערכה בישראל 1959, ונבחרה על-ידי הנהלת הפסטיבל הבינלאומי לנבל 1963, הנערך שנה-שנה בהולאנד, כיצירה המודרנית לביצוע בקונצרט-הפתיחה החגיגי. זוהי היצירה שזכתה ב"פרס אנגל" 1963, ע"י עירית תלאביב.
+
+ יצירותיו כוללות - דיורטימנטו לתזמורת קאמרית, 1958, שבוצעה ושודרה על-ידי תזמורת "קול ישראל" בניצוחו של <persName>גיאורג זינגר.</persName> מוסיקה לכלי מיתרים "השירים אשר לשלמה". מוסיקה לתזמורת סימפונית גדולה, קונצרט לשמיניה. מאקאמת - לנבל סולו ומוסיקה לבלט בוצעו באמריקה 1962. ואריאציות ופרלודים לפסנתר.
+
+ בינואר 1964 קבל פרס ראשון בתחרות ליצירה מוסיקאלית לתזמורת גדנ"ע.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4749 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4749</bibl><bibl>Volume: #15 ,Page: 4750 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4750</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

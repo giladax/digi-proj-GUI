@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 648 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/648</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה (בנימין) זלמן כהן</persName>
+
+</head>
+         <div><p> נולד במזריץ, פלך שדליץ (פולין), לאביו <persName>מרדכי</persName> <persName>צבי הכהן</persName> , בשנת תר"כ (1860).
+
+ קבל חנוך מסורתי. מפעילי חובבי ציון בעירו.
+
+ בשנת תרמ"ב עלה לא"י והתישב ביפו. מראשוני הבונים בשכונת "נוה צדק".
+
+ נשא לאשה את<persName> מלכה </persName> בת <persName>יצחק רוקח</persName> (אבי משפחת רוקח בארץ) ונולדו לו ממנה שתי בנות ובן.
+
+ עסק במסחר חמרי ברזל וצבעים ביפו בשותפות עם גיסו, העסקן שמעון רוקח.
+
+ מבוני שכונת "רמת השרון" בתל-אביב (הרחובות: החשמל, ליבונטין, ברזילי ומקוה ישראל).
+
+ אחרי מות אשתו נשא בשנת תר"ס את<persName> חיה</persName> בת <persName>שלום עזריאל שפירא,</persName> מעיר מיר, פלך מינסק (אם<persName> מינה</persName> אשת<persName> משה שהם)</persName> .
+
+ נפטר י" אב תרפ"ו ונקבר בבית הקברות הישן בתלאביב.
+
+ צאצאיו: <persName>אסתר</persName> אשת המנוח <persName>ישעיהו רוזוב</persName> (פתחתקוה); <persName>חנה</persName> אשת<persName> יוסף רוקח</persName> (תל-אביב);<persName> יצחק</persName> (לונדון).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 648 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/648</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

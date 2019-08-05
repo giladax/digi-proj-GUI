@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1987 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1987</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב חיים מאיר יחיאל שפירא</persName>
+
+</head>
+         <div><p> (האדמו"ר מדרוהוביץ)
+
+ נולד בי' בכסלו תרכ"ד (1863) בסדיגורה. אביו ר' <persName>אבי עזרי זעליג, </persName> נכד המגיד מקוז'יניץ, היה חי כל ימיו הקצרים חיים של קדוש ומסתגף. אמו הרבנית <persName>פייגה,</persName> בתו הבכורה של האדמו"ר ר'<persName> אברהם יעקב</persName> מסדיגורה ונכרת ר' <persName>ישראל מריז'ין,</persName> אשר עלתה עם בנה האדמו"ר בגיל השיבה לארץ ישראל, היתה אשה בעלת מידות תרומיות וכשרונות שכליים נעלים ובז
+
+ כות יראת השמים שלה וצדקת לבה זכתה להערצה גדולה, בקהל החסידים בארץ ובגולה.
+
+ אחרי פטירת אביו עבר מוה"ר <persName>ר' חיים</persName> לגור בסטרי ולבסוף קבע מושבו בדרוהוביץ, אשר שם היה נערץ ואהוב על כל שכבות הקהילה היהודית. ר'<persName> חיים,</persName> או ר' חיימוניו, כפי שנקרא בפי קהל מעריציו, היה האדמו"ר הראשון מבית ריזין שנתן את ידו לתנועה הציונית. הציונות נתעוררה בלבו עוד לפני הופעתו של הרצל, כאשר בא סיר <persName>אוליפנט </persName> אל זקנו האדמו"ר ר' <persName>אברהם יעקב</persName> מסדיגורה, כדי לרכוש את לבו למען תכניות ציון שלו. מאז אותו יום - והוא אז נער קטון - נלחם האדמו"ר ר' חיים בכל נפשו ובבל מאודו למען שיבת ציון. משראה עד כמה המחלוקת הפנימית בישראל מפריעה להתגשמות הרעיון הציוני כינס בספרו "שלום ואחדות" מבחר של אימרות חז"ל, המתארות חשיבותם של השלום והאחדות בישראל.
+
+ בימי שבתו בוינה - לשם עבר עם כל משפחתו בפרוץ המלחמה בשנת התרע"ד - ייסד אחר הצהרת בלפור את האגודה "ישוב ארץ ישראל", שעוררה את תנועת עליית החסידים לארץ ישראל. בשנת תרפ"ב עלה עם כל נפשות ביתו לארץ ישראל לשם חיים של עבודה ויגיע כפים. בימי שבתו בירושלים ייסד את האגודה "בוני הארץ בגופם", שחבריה נתחייבו לעבוד בהתנדבות עבודת כפים ממש בבנינה של ארץ ישראל. והוא עצמו היה בראש המתנדבים, אלא שעד מהרה חלה את חוליו, ואחר ניתוח קשה בוינה חזר
+
+ בסכנת נפשות לארץ ישראל להוציא נשמתו בטהרה.
+
+ בנו הוא האדמו"ר המצייר ר' <persName>אברהם יעקב שפירא</persName> ונכדו הוא המשורר <persName>ש. שלום </persName> (ראה את הערכים שלהם, בכרך זה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1987 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1987</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3576 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3576</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה שקד (מנדל)</persName>
+
+</head>
+         <div><p> נולד בואלען (רוסיה) כ"ד שבט תרס"ה (1905).
+
+ לאביו<persName> אברהם מנדל</persName> (חוכר אחוזות) ולאמו <persName>צפורה</persName> בת <persName>יוסף קשפר.</persName>
+
+ קבל חנוך מסורתי ובי"ס תיכון.
+
+ היה פעיל בארגוני נוער ציוני בעירו.
+
+ בשנת 1924 עלה לארץ.
+
+ היה פועל חקלאי בפתח-תקוה, ממיסדי נתניה ובוניה.
+
+ היה המתישב הראשון שעלה על הקרקע וקדח את הבאר הראשונה במקום.
+
+ בשנת 1930 נשא לאשה את<persName> הדסה</persName> בת <persName>ראובן זכאי</persName> .
+
+ עסק שנים רבות בקבלנות לבנינים, בטרם עבר המשרד לרשות בנו המהנדס <persName>ישעיהו שקד</persName> .
+
+ פרדסן.
+
+ מאז יסוד נתניה פעיל בהנהלתה.
+
+ משנת 1947 סגן ראש עירית נתניה, ובשנת 1958 ראש העיריה.
+
+ חבר ההנהלה הארצית של המפלגה הפרוגרסיבית ויו"ר סניף נתניה.
+
+ חבר לשכת בני ברית. פעיל במוסדות שונים.
+
+ במלאת 25 שנה לעלייתו לנתניה הוצאה לכבודו חוברת בשם "כורה הבאר".
+
+ בניו: <persName>ישעיהו</persName> (מהנדס וקבלן לבנינים), <persName>אברהם</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3576 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3576</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

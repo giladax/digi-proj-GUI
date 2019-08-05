@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 159 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/159</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה רחמן</persName>
+
+</head>
+         <div><p> נולד בקיוב, בשנת תרט"ו (1855), לאביו<persName> יעקב.</persName> למד בחדר ואח"כ מלאכה. הצטרף לתנועת "חיבת ציון" ואחר כך אל הציונות המדינית.
+
+ ב-1909 עלה ארצה עם שני בניו: <persName>פנחס ונפתלי</persName> (נפתלי השתתף אחר-כך ביסוד <persName>בן-שמן </persName> והשתקע שם כעובד-אדמה עד היום), והביא אתו מכתב-המלצה מאת הפרופ'<persName> מנדלשטאם</persName> אל ר'<persName> זלמן דוד ליבונטין </persName> (מנהל בנק אפ"ק) שיעזור לו להאחז בארץ. הוא עזר לבנו בכורו לפתוח צלמניה ביפו ואחרי שנד. הביא אליו את אשתו וששת ילדיו הנותרים, בניו ובנותיו עזרו לו בעבודתו, ובמשך הזמן נעשה ביתו מקום פגישה ויזמה של פעילות לתושבים ותיקים ולעולים חדשים,
+
+ וכן לנוער ה"מכבי", כי בניו ובנותיו היו מפעילי ה"מכבי" ביפו ואח''כ בתל-אביב.
+
+ היה מהחברים הראשונים ב"מרכז בעלי מלאכה" ופעיל ביסוד השכונה של ה"מרכז" (כיום רחוב שיינקין
+
+ והרחובות הסמוכים לו), עזר לחברים בעצה ובהדרכה לקנות מגרשים ואף תמך במחוסרי אמצעים, אך לעצמו לא דאג לרכוש לו מגרש.
+
+ במלחמת-העולם הראשונה היה פעיל בעבודת העזרה של "מרכז בעלי מלאכה" לחברים נגועי המלחמה. בעת הגירוש . מיפו, ביום ז' ניסן תרע"ל יצא לפתחהקוד. וכשגורשו ה"מהגרים" גם משם ומכל מחוז יפו, יצא רק עד כפר סבא, כדי להיות קרוב ליפו/ שיוכל לחזור אליה בהקדם. שם עברו עליו כל יסורי המחסור, המחלות וסכנות-המות אף בעת שהכפר היד. בחזית האש ממש והשתדל לעזור לשאר הסובלים. כשגורשו אחרוני המהגרים מכפר-סבא עבר לחדרה וזכה להיות בין הראשונים שחזרו ליפו ולתל-אביב. אך זמן קצר אחרי כן נפטר ביום כ"א כסלו תרע"ט בתל-אביב ונקבר בבית הקברות הישן.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 159 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/159</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

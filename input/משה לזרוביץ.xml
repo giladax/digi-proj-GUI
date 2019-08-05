@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2543 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2543</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה לזרוביץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פתח-תקוה</placeName> בשנת תרנ"ח (1898). לאביו <persName>אליעזר </persName> ולאמו <persName>חוה.</persName>
+
+ הוא ואחיו ישראל היו יתומים והתחנכו ב<placeName>פתח-תקוה</placeName> אצל הדודים - <persName>יוזפסון ושיינפלד.</persName>
+
+ קיבל חנוך בבית הספר העממי של פיק"א בפתחתקוה.
+
+ עבד כפועל בחקלאות ובפרדסים.
+
+ אחרי הכיבוש הצטרף לפי קריאת המוסדות הלאומיים למשטרה המעולה. הצטיין והועבר למשטרה הא"י.
+
+ היה חבר פעיל בהגנה.
+
+ היה חבר פעיל בבני-ברית.
+
+ בשנת 1924 נשא לאשה את <persName>ברוריה</persName> בת <persName>קדיש</persName> <persName>קירשנר </persName> מראשון לציון <persName>ורחל</persName> בת <persName>יצחק רוזנפלד</persName> מרחובות.
+
+ הצטיין במשטרה והיה אהוב על כולם. הערבים היו קוראים לו "שייך מוסה" (בתור חבה). הקצין <persName>דוגלאס</persName> <persName>דאף</persName> בספרו על המשטרה הא"י מציין לשבח את לזרוביץ בתור קצין מוכשר.
+
+ היה דואג לאסירים ומשתדל להחזירם למוטב. וכן עשתה אשתו.
+
+ נחטף ע"י הכנופיות הערביות מדירתו ליד בתי הסוהר בעטלית יחד עם רעיתו (והילדים הוחזרו אח"כ) ונרצחו ביום כ' אלול תרצ"ח (16.8.38). עד היום לא נמצאו עצמותיהם.
+
+ צאצאיהם: <persName>רחל, יפרח, חגי</persName> (נהרג בשנת 1940 בשעת ההפצצה האיטלקית על תל-אביב).
+
+</p>
+<p>
+
+ תוספות: 
+
+ (המשך לכרך ששי, עמוד 2543)
+
+ עצמותיהם : שלו, של אשתו <persName>ברוריה </persName> וגיס<persName>ו אליהו</persName> <persName>קירשנר </persName> ז"ל נמצאו ע"י משטרת ישראל (נחטפו ע"י השודד <persName>אבו-דורה </persName> וכנופיתו ממשטרת עטלית ביום כ' אלול תרצ"ח 16.8.1938 ונרצחו על ידם) והובאו בקבר משותף בראשון לציון ביום ב' אלול תשכ"ג (22.8.1963).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2543 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2543</bibl>            <bibl>Volume: #13 ,Page: 4357 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4357</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

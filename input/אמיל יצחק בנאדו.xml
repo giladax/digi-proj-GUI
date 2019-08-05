@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4516 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4516</bibl><bibl>Volume: #14 ,Page: 4517 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4517</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אמיל יצחק בנאדו</persName>
+
+</head>
+         <div><p> נולד בורגז (בולגריה), ג' אייר תרפ"א (11.5.1921).
+
+ לאביו <persName>יהושע </persName> ולאמו <persName>מרים</persName> (מרי) בת<persName> יהושע כהן.</persName>
+
+ למד בגמנסיה בבולגריה, סיים פקולטה למשפטים באוניברסיטה העברית בירושלים (מחזור א' - 1953) וקיבל תואר: מוסמך למשפטים.
+
+ היה פעיל בבית"ר בעירו.
+
+ עלה לארץ באוקטובר 1944.
+
+ בשנת 1946 נשא לאשה את<persName> עליזה</persName> בת<persName> אלברט</persName> <persName>דקלו.</persName>
+
+ עבד כפועל חקלאי בקבוץ, פועל בבתי חרושת, שירת בצה"ל ובתור שוטר במשטרת ישראל עד 1953.
+
+ היה פעיל בתפקיד של סגן בארגון הצבאי הלאומי (אצ"ל). 
+
+ חבר ועד סניף ת"א בתנועת החרות.
+
+ חבר המועצה הארצית של תנועת החרות. שופט כבוד בעירית תל-אביב. עובד כיום כעורך דין.
+
+ בניו:<persName> יהושע, אברהם.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4516 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4516</bibl><bibl>Volume: #14 ,Page: 4517 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4517</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

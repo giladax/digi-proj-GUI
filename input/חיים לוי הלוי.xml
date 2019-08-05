@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3706 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3706</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים לוי הלוי</persName>
+
+</head>
+         <div><p> נולד ביפו, ג' אב תרנ"ד (1894).
+
+ לאביו הרב<persName> יוסף צבי הלוי</persName> (ר"ב במשרד הרבנות יפו-ת"א. ראה כרך א'. עמוד 354) ולאמו<persName> הינדה אילה</persName> בת הרב <persName>נפתלי הרץ הלוי</persName> (רבה הראשון של יפו. ראה כרך א', עמוד 102).
+
+ קבל חנוך מסורתי בתלמוד תורה שערי תורה ביפו ותיכוני.
+
+ היה מראשוני מיסדי המכבי ביפו. מעמל וחבר הועד שלו.
+
+ מראשוני מתישבי שכונת אחוזת בית (היא תלאביב).
+
+ בין פעילי הלוחמים נגד המסיון ביפו. מראשוני ופעילי ההגנה ביפו-ת"א. עזר לנילי במלחמת העולם הראשונה.
+
+ נשא לאשה את <persName>לוני </persName> לבית <persName>גולומב</persName> (נפטרה בכפר סבא, טבת תרע"ו).
+
+ פעל בבית לעזרת הפליטים שגורשו מיפו ותל-אביב. היה מפעילי מטבח אחוד. ובתי התה ביפו ובתל-אביב, לעזרת המגורשים לחו"ל.
+
+ נהרג בכפר סבא מהפצצה מאוירון בריסי במלחמת העולם השניה, י"ח כסלו תרע"ו (25.11.1915).
+
+ בתו:<persName> מלכה</persName> אשת <persName>יהושע קצנברג </persName> (רמת-גן).
+
+ נכדיו:<persName> חיים דוד,ענת.</persName>
+
+ אחיו :<persName>שמואל הלוי</persName> (מפעילי המחתרת. ראה כרך י', עמוד 3538).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3706 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3706</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

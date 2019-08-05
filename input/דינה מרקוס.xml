@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3619 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3619</bibl><bibl>Volume: #10 ,Page: 3620 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3620</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דינה מרקוס</persName>
+
+</head>
+         <div><p> נולדה בירושלים, ט"ו כסלו תרס"ז (2.12.1906).
+
+ לאביה <persName>יצחק יואל מרגלית </persName> (מטובי עסקני הישוב הישן בירושלים. ראה כרך ג', עמוד 1397) ולאמה <persName>מרים</persName> בת <persName>משה זילברמן</persName> מצפת (שנקרא "ר' משה מחלק", על שום היותו ממונה מטעם כולל ווהלין לחלוקת כספי התמיכה, והתמסר ביחוד להגיש עזרה ליתומים ולאלמנות ולמוסדות תורה וחסד)
+
+ קבלה חנוך עברי ולאומי בבי"ס יסודי והגמנסיה העברית בירושלים.
+
+ היתה פעילה במכבי ובארגוני הנוער בירושלים.
+
+ בשנת תרפ"ט (1929) נישאה למר <persName>ברוך מרקוס</persName> (בן לראשוני פתח-תקוה, מנהל בנק ברקליס בתל-אביב, לשעבר. ראה כרך א', עמוד 522).
+
+ לוותה בדרכה הקשה את בעלה בעבודתו הצבורית, במסירות ובאמונה.
+
+ היתה פעילה בויצ"ו, הגישה עזרה למוסדות ציוריים וסוציאליים : בתי יתומים וילדים נכשלים וכו'.
+
+ לבה היה פתוח לקשי-יום ותמיד היתה מוכנה לעזור להם בפועל.
+
+ נפטרה בתל-אביב, כ"ג טבת תשי"ט (3.1.1959) והובאה לקבורה בפתח-תקוה.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3619 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3619</bibl><bibl>Volume: #10 ,Page: 3620 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3620</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3758 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3758</bibl><bibl>Volume: #11 ,Page: 3759 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3759</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה יצחק וינברג</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת תרל"ד (1874).
+
+ לאביו<persName> אברהם חיים</persName> .
+
+ קיבל חנוך מסורתי בחדר ובישיבה ב<placeName>ירושלים</placeName>.
+
+ בשנת תרנ"ג עבר ליפו.
+
+ היה מורה בתלמוד תורה שערי תורה בנוה שלום, יפו.
+
+ נשא לאשה את<persName> זלטה </persName> בת <persName>משה ברניקר.</persName> <persName>(נפטרה </persName> בתלאביב, כ"א סיון תרע"ד - 22.6.1914).
+
+ חתם על קול קורא ליסוד ''המזרחי" יחד עם הרב <persName>יצחק יעקב ריינס</persName> . והיה ממיסדי המזרחי (יחד עם ר' שמואל חורגין (מורה בתלמוד תורה ואביו של הסופר יעקב חורגין ואהרן גינזבורג).
+
+ היה פעיל בעניני צבור בעיר.
+
+ הוציא לוח שנתי בשביל הת"ת ש"ת ופרסם שם זכרונות לתולדות הישוב היהודי ביפו.
+
+ עמד בחליפת מכתבים עם הרב <persName>ריינס</persName> ברוסיה.
+
+ בחוזר שהוציא אז מטעם "המזרחי" בא"י חתם בשם :
+
+
+ יצחק משה וינברג ראש המזרחי בארץ-ישראל.
+
+ נפטר ביפו, ז' אייר תרע"ו (10.5.1916).
+
+ צאצאיו :<persName> סימה</persName> אשת<persName> משה סבדלייב, מרים </persName> אשת <persName>זאב זאוברמן, אריה </persName> (ממנהלי הבנק הלאומי בע"מ), <persName>שמחה</persName> <persName>גפני </persName> (מנהל כללי של המכס והבלו בישראל), <persName>נפתלי</persName> (מנהל פנקסים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3758 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3758</bibl><bibl>Volume: #11 ,Page: 3759 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3759</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5200 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5200</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה קולודני</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פינסק</placeName> (רוסיה), כ"ד כסלו תרמ"ח (15.12.1887).
+
+ לאביו <persName>יהושע קולודני</persName> ולאמו<persName> גישה </persName> בת <persName>לייבוש</persName> <persName>גילר.</persName>
+
+ קיבל חינוך מסורתי וכללי, גימנסיה ב<placeName>פינסק</placeName>.
+
+ ממיסדי אגודת "שורש ציון", היה פעיל במפלגת "התחיה" ו"צעירי ציון" ב<placeName>פינסק</placeName>.
+
+ היה בעל בית חרושת לנסירת עצים וטחנת קמח. בשנת תרס"ו (1906) עלה לארץ בעליה השניה. עבד כפועל עברי בגליל - במטולה.
+
+ בשנת 1910 נשא לאשה את <persName>חנה</persName> בת <persName>אברהם</persName> <persName>קרצינל.</persName>
+
+ בשנת 1910 עד 1911 התישב עם אשתו במסחה.
+
+ בשנת 1911 חזר עם אשתו לחו"ל וחזרו אחרי מלחמת העולם הראשונה, בשנת תרפ"א (1921) עם משפחתו לארץ.
+
+ משנת 1921 עסק במסחר בחומרי בנין בתלאביב - עד 1940.
+
+ היה ממיסדיה ומראשוני בוני "שכונת "נורדיה" בתל-אביב. היה חבר הועד של השכונה וחבר ועדת השמירה בה.
+
+ בשנת 1940 עבר לירושלים.
+
+ נפטר בירושלים, כ"ד חשון תשט"ז (9.11.55).
+
+ צאצאיו:<persName> פנחס</persName> (אינג'ינר); <persName>אברהם</persName> (אגרונום) ;<persName> שרה</persName> אשת <persName>חירם דנין</persName> (ראה את הערך שלו בכרך זה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5200 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5200</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

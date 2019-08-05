@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1681 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1681</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>קלמן הופמן</persName>
+
+</head>
+         <div><p> נולד ביקאטרינוסלאב, אוקראינה, ז' תשרי תרל"ה (1874), לאביו <persName>אברהם צבי</persName> (מצאצאי הגאון ר' <persName>חיים</persName> <persName>ברלין </persName> מוולוזיין והמדפיסים ראם מוילנא) ולאמו<persName> פרידה</persName> <persName>בתיה</persName> בת <persName>יוסף חיים כץ.</persName>
+
+ למד בחדרים ובבית-ספר רוסי והשתלם בשפה העברית, השתלם בהנדסה אצל המהנדס א. סינבר. בסוף אב תר''ן עלה לארץ ועבד בחרטות עץ שנתים בירושלים ואח''כ ביפו.
+
+ נשא לאשה את <persName>דבורה</persName> בת ר' <persName>אליהו וינשטיין</persName> (ראה כרך א', עמוד 329).
+
+ בתרס"א נתקבל לעבודה בבית-החרושת למכונות ויציקה של <persName>ליאון שטיין</persName> ביפו (ראה כרך ג', עמוד 1456). התמחה במקצוע עד שהיה לאחד ממנהלי העבודה ומטובי בעלי המקצוע בארץ.
+
+ בתר"ע כשנסגר בית החרשת, פתח לעצמו ביתמלאכה קטן אשר במשך השנים התפתח לתעשית מכונות
+
+ ויציקה ופיתח אותה עד שהיתה לאחד המפעלים החשובים במקצוע זה בארץ ושיתף בו את בניו והמפעל נקרא בשם "ק. הופמן ובניו''. לאחר זמן יסד ביח"ר ליציקה נוסף בקרית אריה, שהתקיים כמה שנים והתנהל בשנים האחרונות על-ידי שלשת בניו.
+
+ היה חבר באגודת "בני ישראל" ביפו, שנלחמה במיסיון. חבר בלשכת "שער ציון" של בני ברית בתל-אביב. היה ממיסדי מרכז מסחרי "מרכלת" בתלאביב וחבר הועד.
+
+ צאצאיו; <persName>שרה</persName> אשת <persName>פאליק גורבן, צבי, זלמן,</persName> <persName>משה, נחמה </persName> אשת <persName>ישראל ספיר, בלה</persName> אשת <persName>אלכסנדר</persName> <persName>מוזס, אהובה</persName> אשת<persName> דוד גפני, בתיה</persName> אשת <persName>משה ברנשטיין.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1681 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1681</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

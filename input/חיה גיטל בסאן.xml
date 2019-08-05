@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1465 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1465</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיה גיטל בסאן</persName>
+
+</head>
+         <div><p> נולדה בירושלים בשנת ת"ר (1940) לאביה<persName> שמואל</persName> פסח ב"ר<persName> יעקב ליאון</persName> (מעסקני ירושלים, נקרא ר' שמואל "גיסר" על שום שהיה יוצק האותיות בדפוס של ר'<persName> ישראל בק,</persName> הדפוס הראשון בירושלים : נפטר בירושלים, ז' אדר תרמ"ב) ולאמה <persName>איטה לאה.</persName>
+
+ בת 14 נישאה<persName> ליהושע השיל יואל בסאן </persName> (בן ר' <persName>אליהו ושלמה זלמן בסאן,</persName> שעלה בילדותו עם בית אביו, ממשפחה שלפי המסורת מוצאה מאמסטרדאם, וקודם לכן אולי אף מספרד, שלפני דורות נתגלגל אחד מסעיפיה לוילנה. תולדותיהם בערכים מיוחדים בכרך זה)
+
+ נטלה על עצמה את העול הכבד של פרנסת המשפחה, החזיקה חנות מכולת קטנה בקרבת מקום המקדש ועבדה בה בעצמה בחברת ילדיה, כדי שבעליה יהיה פנוי לעסוק בתורה ובחכמה, וגם ילדה וגידלה בנים ובנות וניהלה בית, שהתארחו בו הרבה אנשישם וסתם יהודים שביקרו בירושלים.
+
+ האריכה ימים עד 99 שנה, מהן למעלה מ-22 שנה באלמנות אחרי פטירת בעלה. היתה ערה ורעננה עד ימיה האחרונים, עוסקת במלאכת יד ומספרת מתוך האוצר הבלום שבזכרונה הרבה עובדות ופרטים מענינים
+
+ מירושלים היהודית והנכרית למימי ילדותה ואילך.
+
+ נפטרה בירושלים, כ"ה שבט תרצ"ט.
+
+ צאצאיה: <persName>יעקב, משה, מרדכי</persName> (ד"ר לפילולוגיה בבלטימור שבארה"ב),<persName> אסתר</persName> אשת <persName>משה זכרין, חנה</persName> <persName>שרה</persName> אשת <persName>מנחם מנדל הכהן, מרים (מירל)</persName> אשת<persName> לפ</persName> <persName>קוביץ </persName> (בשיקאגו), <persName>צדוק</persName> (צלם בירושלים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1465 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1465</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

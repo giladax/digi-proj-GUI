@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 45 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/45</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יצחק חיים עוזיאל</persName>
+
+</head>
+         <div><p> בן הרב<persName> רפאל יהודה עוזיאל</persName> . נולד בירושלים. מגדולי דייני ירושלים וסגנו של הראש"ל ר' שלמה משה סוזין. בשנים תר"ח-תרי"ב (1848-1852) נסע יחד עם בנו הרב ר' יוסף רפאל עוזיאל לערי תורכיה ועיראק מטעם כוללות עדת הספרדים בירושלים. בנו זה אסף את כל הדרשות וחדושי התורה אשר שמע מפי אביו על פרשיות התורה וקבצם בספר בשם "מוסר אב" (נמצא בידי הראש"ל ר' ב"צ מאיר חי עוזיאל). בשנת תרי"ב מת עליו בנו הבכור משה יהודה המכונה בכור עוזיאל שהיה גדול בתורה ובחכמה. דבר זה גרם לו צער רב ותוך שנה אחת מת גם הוא בירושלים בי"ג בכסלו תרי"ג (1852).
+
+ הניח אחריו בן אחד (יוסף רפאל עוזיאל) ובת נשואה לאחד ממשפחת שפירא. חדושי תורה ממנו נתפרסמו בספר "איש צעיר" לבנו יוסף רפאל, ירושלים תרל"ה.
+
+ היה סבו של הרב הראשי בן ציון מאיר חי עוזיאל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 45 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/45</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

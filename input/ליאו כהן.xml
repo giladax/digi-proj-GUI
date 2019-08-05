@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2365 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2365</bibl><bibl>Volume: #5 ,Page: 2366 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2366</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ליאו כהן</persName>
+
+</head>
+         <div><p> נולד גורקוב (גרמניה) בשנת תרנ"ד (3.8.1894).
+
+ לאביו <persName>אברהם </persName> (סוחר) ולאמו<persName> רוזה </persName> בת <persName>שלמה שחבסקי</persName> .
+
+ קיבל חינוך בגמנסיה, אוניברסיטאות בברלין ובמינכן (משפטים וכלכלה).
+
+
+ בשנים 1914-18 שירת בצבא הגרמני.
+
+ בשנים 1919-21 בחוות הכשרה לחלוצים בבווריה ובאיטליה.
+
+ נשא לאשה את<persName> פרידל </persName> בת <persName>לוי ברו</persName> .
+
+ היה פעיל בחו"ל בארגוני נוער ציוניים ("בלו-וייס") בין מיסדי תנועה זו במינכן.
+
+ בשנת 1921 עלה לארץ ועד שנת 1927 עבד כפועל חקלאי בעמק יזרעאל, בגליל ובמושבות.
+
+ בשנת 1928 חזר לגרמניה לרגלי בריאותו.
+
+ בשנת 1928-33 מנהל בנק אפותיקאי בברלין ובגרייץ (גרמניה).
+
+ בשנת 1939 חזר לארץ. בשנת 1934 בהנהלת בנק האפותיקאי הכללי של
+
+ א"י בע"מ, ת"א, ומשנת 1935 המנהל.
+
+ חבר הנהלת וסגן יו"ר קרן היסוד, גזבר קרן היסוד לא"י, חבר נשיאות "ק.י.פ. (קארטעל אידישע פערבינדונגען) בא"י, חבר ההנהלה ויושב ראש הועדה הכספית והאדמיניסטרטיבית של המועצה הכללית של התעופה העברית בא"י.
+
+ יו"ר ביה"ס הגבוה למשפט וכלכלה בת"א.
+
+ שופט בבית המשפט הממשלתי בעניני תפיסת נכסים.
+
+ היה חבר הועדה הממשלתית לבירור בעיות שכר דירה.
+
+ מנהל מועצת המנהלים של חברת "טפחות" ב"עמ. חבר "קרן בלומנזון" (טרוסט למתן משכנתאות שניות).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2365 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2365</bibl><bibl>Volume: #5 ,Page: 2366 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2366</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

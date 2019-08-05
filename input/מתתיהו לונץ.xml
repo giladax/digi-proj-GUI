@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3485 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3485</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מתתיהו לונץ</persName>
+
+</head>
+         <div><p> נולד בירושלים, ה' תמוז תרנ"ד (5.6.1894).
+
+ לאביו<persName> אברהם משה לונץ</persName> (מראשוני חוקרי ארץישראל - ראה כרך א', עמוד 46) ולאמו<persName> דבורה </persName> בת <persName>עקיבא ריטבסקי.</persName>
+
+ גמר את בית-המדרש למורים בירושלים, השתלם במדעי המסחר ונתקבל לעבודה כפקיד בבנק אפ"ק, והודות לכשרונותיו עלה במהרה בדרגות הפקידות למשרות רבות-אחריות.
+
+ ב-1920 נשא לאשה את <persName>אסתר</persName> בת <persName>משה ברקוף.</persName>
+
+ שנים אחדות היה מנהל סניף הבנק בצפת, אח"כ מנהל הסניף בהדר הכרמל, וזה שנים רבות הנו מנהל הסניף המרכזי של בנק אפ"ק (כיום: בנק לאומי לישראל) בחיפה.
+
+ פעיל בחיי החברה והצבור כחבר לשכת המסחר, יו"ר הועד המחוזי של קרן היסוד, חבר הועד המנהל של בית-הספר הריאלי, גזבר-כבוד של החברה לחקירת ארץ-ישראל ועתיקותיה, שאביו ז"ל בעבודתו המדעית היה מיוצרי החומר ששימש לאחר זמן יסוד לפעולותיה, יו"ר מועדון הבנקאים בחיפה, ועוד.
+
+ צאצאיו: <persName>דבורה</persName> אשת <persName>יעקב גורי</persName> (חיפה), <persName>תרזה</persName> אשת <persName>עמנואל קלמפרר</persName> (עכו), <persName>אברהם משה</persName> (סרן בצה"ל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3485 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3485</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

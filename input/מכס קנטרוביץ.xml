@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 897 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/897</bibl><bibl>Volume: #2 ,Page: 898 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/898</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מכס קנטרוביץ</persName>
+
+</head>
+         <div><p> נולד בלונדון, ד' ניסן תרס"ט (26.3.1909), לאביו חיים (ממשפחה שבאה שמה ממזרח אירופה והמשיבה לשמור את מסורת ישראל) ולאמו <persName>חנה</persName> בת <persName>הירש</persName> <persName>יאסקולקה</persName>
+
+ ב-1919 עלה ארצה עם הוריו והתישבו בירושלים. כאן למד בבתי-ספר עבריים ובבית-הספר הממשלתי למשפט, השתלם באוניברסיטת לונדון ושם הוסמך
+
+
+ למשפטים והורשה לעסוק במקצועו כעורך-דין בארץ.
+
+ נשא לאשה את<persName> טובה</persName> בת <persName>עזרא חיון</persName> .
+
+ ב-1937 נתקבל לשרות ממשלתי כשופט-שלום
+
+ וכיהן בבתי-המשפט כשופט ויו"ר ההוצאה לפועל ובתפקידים שונים ובמשך שנה כשופט בבית-דין מחוזי.
+
+ ב-1944 חיבר את הספר "קובץ פסקי-דין על תורת העדויות" לתועלת אנשי מקצוע המשפט. צאצאיו:<persName> חיים, דליה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 897 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/897</bibl><bibl>Volume: #2 ,Page: 898 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/898</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

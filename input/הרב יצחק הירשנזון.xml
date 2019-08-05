@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1619 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1619</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יצחק הירשנזון</persName>
+
+</head>
+         <div><p> נולד בפינסק, רוסיה הלבנה, בשנת תר"ה (1845), לאביו הרב <persName>יעקב מרדכי</persName> (ראה עליו ערך מיוחד בכרך זה) ולאמו <persName>שרה ביילה</persName> בת ר' <persName>יהודה ליב.</persName>
+
+ בשנת תר"ח עלה לארץ עם הוריו. למד בילדותו בחדרים ובישיבה לקטנים בצפת ואח"כ יצא לפי צו אביו להשתלם בידיעות התורה בישיבות הגדולות ברוסיה ובאמסטרדאם, הוסמך לרבנות והגיע לידיעה רבה גם בחכמת הקבלה.
+
+ בשנת תרכ"ט נשא לאשה את<persName> לאה בת שמעון עלמן</persName> (נפטרה בירושלים, ה' סיון תרפ"ד).
+
+ התישב ליד אביו בירושלים ועזר לו בניהול ישיבת "סוכת שלום" שיסד אביו. נסע בשליחות אביו לצרפת ולגרמניה בעניני הישיבה והישוב, בא בדברים עם <persName>אדולף כרמיה</persName> והרב<persName> צדוק הכהן</persName> בפאריס ועם עוד אישים חשובים בין יהודי ארצות המערב בדבר הרעיון שהגו אז (במדה מסוימת ביזמת אביו) ליסד בירושלים. בית-מדרש עליון לתורה ולחכמה (כעין אוניברסיטה, שיכין מנהיגים רוחניים לכל תפוצות ישראל). בעזרת נדיבים מוקירי אביו יסד ביחד עם אחיו <persName>חיים</persName> בית דפוס בירושלים והשיג רשיון להחזקתו מאת הממשלה הטורקית המרכזית. היה כלפי השלטון העורך האחראי של העתון "הצבי" (בעריכתו הממשית של<persName> אליעזר</persName> <persName>בן-יהודה</persName> ) ואף כתב בו ובעתונים אחרים, -דבר שדרש אומץ רב לרגל הרדיפות מצד הקנאים האשכנזים. את הרשיון להחזקת הדפוס ולהוצאת העתון קיבל בהשתדלות דיפלומטית של ציר גרמניה באיסטמבול, שקיבל הוראות לכך מאת ממשלתו בהשתדלות ידידים ומוקירים של הרבנים לבית הירשנזון, וגם מוקיריו של הרב יצחק, אנשי המדע בואתיקאן, עזרו לכך בהשפעתם בעקיפין. השתתף ביסוד לשכת "בני ברית" ובפעולותיה. חיבר ספרים נדירים במדעי היהדות ואסף לו ספריה שהכילה למעלה מ-1500 ספרים יקריערך. הרבה לחקור בגירסאות התלמוד ובפירושיו עלפי כתבי יד עתיקים ולשם כך ישב זמן רב ועיין באוצרות כתבי-היד שבספריית הואתיקאן ובספרית המוזיאון הבריטי.
+
+ בהיותו בלונדון לרגל חקירותיו חלה ונפטר שם ביום ו' חשון תרנ"ז.
+
+ צאצאיו: <persName>אברהם, מאיר, יהודה ליב, חנה</persName> אשת <persName>צבי גדליהו ארקין </persName> (גדרה) <persName>פייגה טובה</persName> אשת<persName> יעקב</persName> <persName>יצחק חורגין (ברזיליה). בתיה בן-עמי </persName> (רחובות).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1619 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1619</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

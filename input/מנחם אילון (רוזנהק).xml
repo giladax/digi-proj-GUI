@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3477 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3477</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם אילון (רוזנהק)</persName>
+
+</head>
+         <div><p> נולד ב' טבת תרנ"ח (3.1.1898) בנאדבונה שבמזרח גליציה.
+
+ לאביו<persName> אהרן דוד </persName> ולאמו <persName>פרל </persName> בת<persName> שמעון וייסמן.</persName>
+
+ השתלם בהשכלה עברית וכללית ופדגוגית בגליציה,
+
+ בוינה ובצ'כוסלובקיה, וארגן בתי-ספר וקורסים לעברית בצ'כוסלובקיה ובגליציה.
+
+ ב-1920 עלה לארץ ונתמנה למורה בחיפה. שם השתתף ביסוד השכונה נוה שאנן והיה ראש מועצתה בהווסדה. הועבר לתל-אביב והמשיך בעבודתו בתור מורה ואח"כ מנהל, והנו כיום מנהל בית-הספר אחד העם ומנהל סמינר צה"ל למורים.
+
+ ב-1938 נשא לאשה את ד"ר<persName> דבורה </persName> בת<persName> רפאל</persName> <persName>רבינוביץ-סרני.</persName>
+
+ במשך שנים רבות היה חבר מרכז הסתדרות המורים, חבר הועד המפקח על בתי-הספר הכלליים וסגן יו"ר בו, ראש ארגון מורי בתי-הספר הכלליים כל ימי קיומו עד איחוד הזרמים ועמד בראש תנועת המורים להשגת איחוד זה.
+
+ חבר הועד המרכזי של ברית עברית עולמית, השתתף בקונגרס העברי בבאזל ובקונגרסים העקריים בארץ.
+
+ בשנים 1955-1954 פעל בשליחות הסוכנות היהודית כמנהל המחלקה לחינוך עברי בבראזיל, ארגן וניהל שם את רשת החינוך העברי ויסד סמינר למורים ומרכז לתרבות ישראל.
+
+ פרסם מאמרים בעתונים הפדגוגיים "החינוך" (שהנו
+
+ עתה עורכו) ו"הד החינוך", ב"קבצים" ובעתונות היומית. תירגם ספרי יסוד בפדגוגיה ובפסיכולוגיה (של פרויד, וודוורת, גיטס, איזקס). היה קצין תרבות בצה"ל במלחמת. הקוממיות.
+
+ בנו:<persName> שמעון</persName> ז"ל (נפל בהתקפה על מצודת האויב עירק סוידאן במלחמת הקוממיות).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3477 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3477</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

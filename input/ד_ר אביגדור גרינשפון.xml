@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 252 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/252</bibl><bibl>Volume: #1 ,Page: 253 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/253</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אביגדור גרינשפון</persName>
+
+</head>
+         <div><p> בן יעקב משה. - נולד בה' סיון תרמ"ה. (1885) בעיירה ליכוביץ פלך מינסק.
+
+ נתחנך ב"חדר" לכל דרגותיו. למד תלמוד ונושאי כליו בישיבת מיר, בבית מדרשו של הרב בבריסק דליטא, בקבוצי התורה של פינסק וקרלין, ואח"כ בבית מדרשו של הגר"א בוילנה.
+
+ אחרי שהתמשכל התחיל להתכונן לבחינות בגרות במינסק, ובשנת 1913 עמד בבחינות הבגרות.
+
+ באותה שנה (1913) עלה לארץ ישראל ועסק בהוראה. אך בסתיו 1914, אחרי שטורקיה הצטרפה למלחמה לצד גרמניה, נאלץ היה לעזוב את הארץ, מפני שסירב לקבל על עצמו את הנתינות העותומנית.
+
+ כשחזר לגולה היה עוסק בהוראת הספרות העברית ולמודי היהדות בסמינר למורים בוילנה.
+
+
+ אחרי שנסתיימה המלחמה עלה ארצה שנית (בשנת 1920) והיה שומר לילה מטעם חברת "הבונה".
+
+ אח"כ חזר להוראה ולמד בבתי הספר של מתולה וסג'רה.
+
+ בראשית 1922 יצא לוינה לשם השתלמות. שם נכנס לאוניברסיטה בפקולטה לפילוסופיה ובשנת 1926, לאחר הבחינות הממשלתיות ואשור הדיסרטציה, הוכתר בתואר ד"ר לפילוסופיה. בתקופה ההיא היה ממיסוי "גורדוניה" בחו"ל.
+
+ בשנת 1919 התחיל לפרסם שירים, תרגומים ודברי בקורת.
+
+ בין המאמרים שפרסם ראויים לציון המאמרים על: קנט, שפינוזה, הגל, קרל מרכס, רנ"ק, הרמן כהן, אחד העם, ברנה סמולנסקין, שלום עליכם, טגורי, טולסטוי, פושקין, לרמונטוב, גורקי, דוסטויבסקי. ועוד ועוד. המאמרים האלה ראו אור ב"דבר", "הדואר", "הצפירה", "היום" וכו' וכו'.
+
+ לפני שנתים בתש"ה פרסם אנתולוגיה של השירה האירית, בתרגום עברי <persName>שלו</persName> בקובץ הגדול "אחיספר", שיצא לאור בהוצאת קרן לואיס-למד בניויורק, ובהוצאת "גזית" בא"י יצאו לאור "שירי העצב והאור" שלו.
+
+ כעת עסוק בחבור אנתולוגיה של "שירת העולם" וחבור ספר מקורי על "השבתות, החגים והמועדים מבחינה דתית".
+
+ במשך שנים היה מרצה נודד מטעם ועדת התרבות של הסתדרות העובדים ומטעם קרן קיימת לישראל.
+
+ החל משנת 1935 עובד כמורה בכפר הנוער בבן שמן.
+
+ במלאת לו ששים שנה נוסד ועד מיוחד ממוקיריו הסופרים והקוראים לשם הוצאת קובץ כתבים נבחרים שלו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 252 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/252</bibl><bibl>Volume: #1 ,Page: 253 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/253</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

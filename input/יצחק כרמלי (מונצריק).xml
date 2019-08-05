@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4506 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4506</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק כרמלי (מונצריק)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ברשד</placeName> (רוסיה), ט''ו חשון תרנ''ד (25.10.1893),. לאביו ר'<persName> חיים דוד מונצריק</persName> (שו"ב, המתייחס לצאצאיו של ר' <persName>דוד לייקס </persName> מתלמידי הבעש"ט. כמו כן מתייחסת המשפחה לרבי <persName>רפאל</persName> הידוע, הרבי החסיד של <persName>ברשד</persName> . עיר ידועה באוקראינה) ולאמו שרה לבית <persName>אקדשמן.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבת לידא בהנהלת הרב <persName>ריינס</persName> . למד בקיוב בטכניון (לא סיים את לימודיו בגלל המהפכה ברוסיה).
+
+ היה עו"ד ומורה ומחנך ידוע ברוסיה ואח"כ ב"החלוץ" ברומניה.
+
+ היה מפעילי החלוץ בחו"ל ולימד לנוער העברי יהדות ועברית.
+
+ בשנת 1918 נשא לאשה את <persName>חיה</persName> בת <persName>בנימין בוביס</persName> מאומן (רוסיה), (נפטרה ברמת-גן, ט''ז תמוז תשי''ח - 4.7.1958).
+
+ בשנת תרפ''ג (1923) עלה לארץ.
+
+ המשיך בהוראה ובחינוך הדור בתל-אביב, ביבניאל, בירושלים, ברחובות וברמת-גן.
+
+ השתתף ברוב הכינוסים של מחתרת אצ"ל (ארגון
+
+ צבאי לאומי) וכן בכינוס אצ"ל לפני הקמת המדינה.
+
+ במשך שנים רבות ניהל והרצה בחוגי "עונג שבת" ברחובות ואח''כ ברמת-גן עד פטירתו.
+
+ פרסם חוברת "מלכי יהודה" (בבליאוגרפיה על מלכי יהודה) ובן חיבר לוח עברי לתאריכים עברים ולועזים.
+
+ כתב מאמרים בעתוני המחתרת "המעש" (של לוחמי חרות ישראל - לח''י) ובעתון "חרות" של תנועת החרות. וכן בעתונים היומיים "המשקיף" ו"הבוקר''.
+
+ נפטר ברמת-גן, כ''ב טבת תשכ''ד (7.1.1964) והובא לקבורה בקרית שאול.
+
+ בניו: <persName>בנימין</persName> (נפל בערב יום העצמאות בגוש תל-מונד (כפר טירה. ד' אייר תש"ח, השאיר אחריו אשה ושתי בנות),<persName> שאר-ישוב, בן-ציון </persName> (מהנדס אלקטרוניקה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4506 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4506</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3280 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3280</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר חנן (הנס) קאופמן</persName>
+
+</head>
+         <div><p> נולד בפרנקפורט-מיין (גרמניה), ו' ניסן תרס"ט (28.3.1909).
+
+ לאביו <persName>אברהם</persName> (אדולף) ולאמו <persName>סלמה</persName> בת<persName> אריה אב</persName> <persName>רהם אפשטיין.</persName>
+
+ קבל חנוך תיכוני עד 1927. אוניברסיטאות: בפרנקפורט, ברלין וג'נבה.
+
+ בשנת 1931 הוסמך - ד"ר למשפטים.
+
+ בחו"ל עסק במקצועו.
+
+ היה יו"ר של ברית הצה"ר בפרנקפורט-מיין (1930-32).
+
+ בשנת 1933 עלה לארץ.
+
+ בשנת 1946 נשא לאשה את <persName>אילזה</persName> בת <persName>בנימין אוסקרן.</persName>
+
+ היה שותף ומיסד בית החרשת למים מינירליים "קרנה" בחיפה (1934).
+
+ היה פעיל במחתרת אצ"ל.
+
+ כיום בעל משרד לביטוח "בטוחים".
+
+ חבר ועד התאחדות סוכני ביטוח בישראל. חבר מועצת תנועת חרות.
+
+ חבר מועצת עירית רמת-גן. 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3280 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3280</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

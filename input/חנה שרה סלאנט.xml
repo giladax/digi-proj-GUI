@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4501 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4501</bibl><bibl>Volume: #14 ,Page: 4502 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4502</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חנה שרה סלאנט</persName>
+
+</head>
+         <div><p> נולדה בירושלים, י' אב תרפ"ג (23.7.1923).
+
+ לאביה הרב <persName>ישעיהו סלאנט</persName> (ראה בכרך זה) נכד הרב <persName>שמואל סלאנט </persName> זצ"ל רבה של ירושלים (ראה כרך א', עמוד 284) ולאמה <persName>ביילה</persName> בת רבי <persName>שמואל אלעזר וורטמן</persName> . קבלה את חנוכה בבית-הספר אוילנה די-רוטשילד
+
+ ובגמנסיה העברית ע"ש סוקולוב בירושלים.
+
+ מגיל צעיר התמסרה לעסקנות צבורית והיתה מראשוני העסקניות ב"ויצו הצעירה" והצטיינה למרפת בפעולותיה הסוציאליות בשטחים רבים.
+
+
+ היתה בעלת מידות תרומיות וכל ישותה היתה לעזור לזולת. הכל נבאו לה גדולות.
+
+ נקטפה בירושלים בהיותה בת עשרים ואחת ע"י תאונה במעבדה החימית שבה עבדה, ביום כ"ה מנחם אב תש"ד (14.8.1944).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4501 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4501</bibl><bibl>Volume: #14 ,Page: 4502 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4502</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

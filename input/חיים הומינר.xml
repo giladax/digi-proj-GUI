@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2592 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2592</bibl><bibl>Volume: #6 ,Page: 2593 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2593</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים הומינר</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ז ניסן תר"פ (15.4.1920). לאביו הרב <persName>שלמה הומינר</persName> (ראה בכרך ב', עמוד 596 וכן בספר אנשי-שם) ולאמו <persName>צפורה</persName> (ראה בכרך ג', עמוד 1409) בת הרב <persName>אברהם הלוי</persName> (שהיה ראש השוחטים בקובנה) אחות הרה"ג <persName>יוסף צבי הלוי</persName> , ראב"ד ביפו-ת"א (ראה בכרך א', עמוד 354).
+
+ קבל חנוך מסורתי בחדר, בתלמוד תורה "עץ-חיים", אצל אביו ז"ל בישיבות מאה שערים, ב"מרכז הרב" (קוק) ואצל הרה"ג זליג ברורמן ז"ל.
+
+ עסק במסחר.
+
+ בשנת ת"ש (1940) יסד אגודה למען הגשת עזרה לעניים ולחולים, באספת היסוד הוסיף סעיף מיוחד במינו, שכל החברים מחוייבים לעבוד שלא על מנת לקבל פרס. הרבה אנשים נצרכים נעזרו ע"י פעולותיו.
+
+ בעזרתו, הוציא דודו הרה"ג<persName> יוסף צבי הלוי</persName> הנ"ל את ספרו הידוע "נטע הארץ" על דיני ערלה ורבעי.
+
+ הכין בכתב שני ספרים: על "משפחת הומינר" ועל "דרשות".
+
+ כתב בעתונים: הבקר, הצופה, המשקיף, היסוד, קול ישראל, וכן פרסם מאמרים על המשפחה ב"לוח ירושלים" (ד. נ. ברינקר).
+
+ עזר לחוקר פנחס גראייבסקי להוציא לאור את ספרו דיוקנאה דירושלם" שיצא לאור בקרוב.
+
+ תלמיד חכם, איש צנוע ונחבא אל הכלים ובעל מידות טובות.
+
+
+</p>
+<p>
+
+ תוספות: 
+
+ (ראה את הערך שלו בכרך ששי, בעמוד 2592) בשנת תשט"ז (1956) הוציא ספר "יוסיפון" עם הערות ומבוא (מהדורה שניה בתשכ"א-1961 עם מבוא חדש. הקדיש את המהדורה לזכר אביו<persName> ר' שלמה</persName> <persName>הומינר ז"ל</persName> והערכה לזכרו. ראה את הערך שלו בכרך שני, עמוד 596). מהדורה שלישית הוציא בשנת תשכ"ז (1967), מוקדש לזכר אמו<persName> צפורה הומינר</persName> ז"ל (ראה את הערך שלה בכרך שלישי, בעמוד 1409) בסוף המהדורה גליון מיוחד לזכרה.
+
+ בשנת תשכ"ד (1964) תירגם מאידיש את הספר הידוע "שארית שראל", והוא חלק שני מ"יוסיפון", עם הערות ומבוא.
+
+ בשנת תשכ"ו (1966) הוציא את הספר הידוע "צמח דוד השלם" עם מבוא, מקיף על תולדות המחבר ותוכן ספריו, ורשימה ביבליוגרפית על ההוצאות השונות, עם תיאור מפורט.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2592 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2592</bibl><bibl>Volume: #6 ,Page: 2593 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2593</bibl>
+            <bibl>Volume: #18 ,Page: 5412 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5412</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

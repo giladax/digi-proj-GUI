@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2265 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2265</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יונה אייזנשטיין</persName>
+
+</head>
+         <div><p> נולד בכ''ד כסלו תרס"ד (16.12.1903) בסטאניסלאבוב שבמזרח גליציה לאביו <persName>יוסף</persName> (מעסקני המזרחי בחו"ל ובארץ, מצאצאי הב"ח ו"קצות החושן'') ולאמו צפורה בת <persName>בנימין פלדבאו.</persName> למד בבי"ס יהודי, בבי"ס תיכון בסטאניסלאבוב ובטכניון בברלין, שם היה יו"ר אגודת
+
+ הסטודנטים העברים, והוסמך למהנדס חשמלאי ואח"כ עבד במקצוע.
+
+ ב-1933 נשא לאשה את <persName>גרדה</persName> בת <persName>מנדל גדליה</persName> . באותה שנה עלה ארצה והמשיך לעבוד במקצועו כקבלן לעבודות
+
+ חשמל. השתקע ברמת גן ונכנס לפעילות בחיים הצבוריים. נבחר ליו"ר התאחדות בעלי הבתים ברמת גן ולחבר המועצה המקומית (ואח''כ העיריה) והנהלתה מ-1938 ואילך, והנו כיום סגן ראש העיר ויו"ר הועדה הכספית של העיריה, ממיסדי הספריה הצבורית "דביר-ביאליק" ויושב ראשה, ממיסדי לשכת בני ברית ברמת גן ויו"ר הסניף המקומי של הסתדרות הציונים הכלליים. היה חבר מפקדת ה"הגנה" בגוש דן מ-1938 עד 1948. פרסם מאמרים ב"הבוקר" ובירחון העירוני "ידיעות עירית רמת גן''.
+
+ בתו:<persName> רחל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2265 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2265</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

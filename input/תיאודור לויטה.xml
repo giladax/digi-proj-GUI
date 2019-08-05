@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3046 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3046</bibl><bibl>Volume: #8 ,Page: 3047 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3047</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>תיאודור לויטה</persName>
+
+</head>
+         <div><p> נולד בשנת תרע"ט (27.6.1919) בוארשה שבפולין. לאביו <persName>ליאון לויטה</persName> (מגדולי העסקנות והעסקים ביהדות פולין) ולאמו ד"ר<persName> שרה</persName> בת <persName>שמואל קרינסקי,</persName>
+
+ גמר גימנסיה בוארשה ובשנות 1940-1937 למד כלכלה באוניברסיטאות אדינבורג ולונדון.
+
+ עלה ארצה ב-1940. במשך הזמן התחיל מפרסם כתבות בעתוני חוץ והנו כיום כתבם של עתונים בריטיים בישראל (ביניהם של "ניוס כרוניקל" הלונדוני).
+
+ מ-1949 ואילך חבר "מעריב" וכתבו לעניני תחבורה
+
+
+ לתיירות (בחתימת <persName>ת. ירקוני)</persName> וקשר עם הדיפלומטים הזרים בישראל. יצא פעמים רבות לחו"ל בשליחויות מיוחדות מטעם "מעריב".
+
+ אשתו: <persName>אלכסנדרה</persName> בת <persName>שלמה בוראקינסקי.</persName> בנו:<persName> אריאל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3046 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3046</bibl><bibl>Volume: #8 ,Page: 3047 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3047</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

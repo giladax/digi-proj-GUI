@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3778 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3778</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הדסה (הניה) סוקולובסקי</persName>
+
+</head>
+         <div><p> נולדה בקישינייב (בסרביה), י' תמוז תר"ן (1890).
+
+ לאביה <persName>ראובן שרגורודסקי</persName> (ראה את הערך שלו בכרך זה) ולאמה<persName> דבורה</persName> בת ר'<persName> אברהם (שו"ב) שכטמן</persName> (הערך שלה בכרך זה).
+
+ בוגרת הגמנסיה בקישינייב.
+
+ מורה וחברה ב"צעירי ציון" בחו"ל.
+
+ בשנת 1911 עלתה לארץ.
+
+ בשנת 1913 נישאה <persName>למשה סוקולובסקי</persName> (ראה את הערך שלו בכרך ששי, בעמוד 2710).
+
+ היתה פעילה בקבוצת המכביות.
+
+ נפטרה בתל-אביב, י"ח חשון תשי"ג (6.11.52).
+
+ צאצאיה ;<persName> אברהם צבי, ראובן אביגדור-סוקולובכקי,</persName> <persName>נעמי</persName> אשת <persName>משה וינר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3778 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3778</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

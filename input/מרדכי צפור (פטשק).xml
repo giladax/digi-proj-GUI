@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4969 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4969</bibl><bibl>Volume: #16 ,Page: 4970 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4970</bibl>
+<bibl>Volume: #16 ,Page: 4971 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4971</bibl>
+<bibl>Volume: #16 ,Page: 4972 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4972</bibl>
+<bibl>Volume: #16 ,Page: 4973 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4973</bibl>
+<bibl>Volume: #16 ,Page: 4974 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4974</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי צפור (פטשק)</persName>
+
+</head>
+         <div><p> נולד בעיר סטוטשין, (מחוז טרנוב בשנת תרס"א (1901).
+
+ לאביו ר' <persName>יהודה לייב פטשק</persName> ולאמו<persName> אלטע חוה.</persName>
+
+ קבל חנוך תורני וציוני.
+
+ בשנת תר"פ (1929) עלה לארץ.
+
+ בי"ח באייר תרפ"ג (4.5.23) נשא לאשה את <persName>רחל</persName> בת ר' <persName>שלום פטשביץ</persName> ילידת זוברובה (פלך לומזה) שעלתה לארץ עם הוריה בשנת 1910.
+
+ הרבה סבל עבר עליו עד שהסתדר. כל ימי חייו היה מסור לזולת. למרות שהיה בא הביתה עיף. אחרי יום עבודה התמסר בלב ונפש לענינים צבוריים.
+
+ בהיותו גר בשכונת מונטפיורי, תל-אביב, היה ממיסדי בית הספר בשכונה, כעת הוא ביה"ס הממלכתי דתי ע"ש<persName> השר ד. צ. פנקס.</persName>
+
+ היה חדור הכרה דתית לאומית והרוח החיה של "התאחדות בני ציון לשכת משה". (מקודם אגודת "אחים נאמנים").
+
+
+ בעברו לגור בתל אביב התמסר כאח "בלשכת הלל". כל מה שהטילו עליו היה מבצע בעניוות ובהצנע לכת.
+
+ היה מפעילי ההגנה ומלא בה כל מיני תפקידים. שום תפקיד לא היה קשה בעיניו. ורוח זו החדיר בבתו <persName>ברוריה</persName> עד שגפלה על קדושת הארץ בדמי ימיה, ביום כ"ח תמוז תש"ו (27.7.1946)) בקבוצת גבת.
+
+ נפילת בתו דכאה את רוחו, וביום י' אייר תשכ''ה (12.5.65) השיב את נשמתו ליוצרו והובא למנוחת עולמים בחולון.
+
+ צאצאיו: <persName>מתוקה</persName> אשת <persName>זליג נמרי; חוה</persName> אשת <persName>שמחה מיכאלי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4969 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4969</bibl><bibl>Volume: #16 ,Page: 4970 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4970</bibl>
+<bibl>Volume: #16 ,Page: 4971 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4971</bibl>
+<bibl>Volume: #16 ,Page: 4972 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4972</bibl>
+<bibl>Volume: #16 ,Page: 4973 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4973</bibl>
+<bibl>Volume: #16 ,Page: 4974 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4974</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

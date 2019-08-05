@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4096 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4096</bibl><bibl>Volume: #12 ,Page: 4097 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4097</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה מוקדי (ברנדשטטר)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>טרנוב</placeName> (גליציה) בשנת תרס"ב (5.6.1902).
+
+ לאבי<persName>ו אברהם ברנדשטטר</persName> (ממשפחת<persName> מרדכי דוד ברנד</persName> <persName>שטטר) </persName> ולאמו<persName> הלינה</persName> בת<persName> רפאל איסלר</persName> .
+
+ קיבל חינוך בבי''ס עממי ב<placeName>טרנוב</placeName>, חינוך תיכוני בוינה ובציריך. למד אמנות ציור באקדמיות לאמנות בגליציה, וינה, ציריך, פריס וישראל. וכן למד מוסיקה.
+
+
+ בשנת 1920 עלה לארץ.
+
+ היה מורה למוסיקה וציור. לקח חלק בפעולות תרבותיות ואמיותיות רבות, ערך תערוכות רבות וצייר תפאורות רבות עבור כל התיאטרונים הישראליים.
+
+ בשנת 1925 נשא לאשה את<persName> ורד </persName> בת<persName> משה אהרן מכליס</persName> (ראה כרך ג', עמוד 1276) ובזיווג שני נשא בשנת 1935 את <persName>הדי בת יצחק זומר.</persName>
+
+ בשנות 1933-35 הורה באולפן לאמנות בירושלים.
+
+ בשנת 1935 נשלח בשליחות "הבימה" לחו"ל למען "בית הבמה".
+
+ בשנות 1950-51 היה מנהל המדור לאמנות במשרד החינוך והתרבות.
+
+ כותב בספרים וכתבי עת רבים.
+
+ חבר בוועדות שונות. בנאי חפשי.
+
+ צייר, ומנהל המכון לאמנות הציור והפיסול בתלאביב.
+
+ צאצאיו מאשתו הראשונה <persName>: רפאה.</persName>
+
+ מאשתו השנייה : <persName>מיכאל, נינה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4096 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4096</bibl><bibl>Volume: #12 ,Page: 4097 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4097</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

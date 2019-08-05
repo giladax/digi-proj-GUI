@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4322 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4322</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחום גרינברג</persName>
+
+</head>
+         <div><p> נולד ב<placeName>שפולה</placeName> (רוסיה), ה' אייר תרל"ח (1878). לאביו <persName>אברהם יצחק גרינברג</persName> ולאמו <persName>אסתר.</persName>
+
+ קיבל חינוך מסורתי.
+
+ היה בעל טחנות קמח ומסחר בחיטה.
+
+ היה חבר בארגונים הציוניים בעירו.
+
+ היה ממייסדי ההגנה העצמית ב<placeName>שפולה</placeName> אשר חלשה על כל האזור, רכש ואיכסן נשק לחברי ההגנה.
+
+ בשנת תרס"ה (1905) עלה לארץ.
+
+ בשנת תרס"ח (1908) נשא לאשה את <persName>בריינה</persName> בת
+
+<persName>בן-ציון שוורצבארד</persName> (ממשפחת רבנים. ממשפחת שוורצבארד שהרג את פטלורה).
+
+ הקים מאפיה בשכונת שפירא שהיה ממייסדיה וחבר הוועד בהקמתה בתל-אביב.
+
+ בימי המאורעות שימש ביתו מחסן לנשק ומקום פגישה לחברי-ההגנה.
+
+ נפטר בתל-אביב, י"ט שבט תשי"ט (28.1.1959) והובא לקבורה בנחלת יצחק.
+
+ צאצאיו: <persName>זוסיא גרינברג </persName> (נפל בהפצצה בתחנה המרכזית עם הקמת המדינה), <persName>חנה</persName> אשת <persName>אפרים ליש</persName> (ראה כרך ד', עמוד 1835. עסקנית במוסדות ובוועדות בליגה למלחמה בשחפת, שיתוק ילדים, ויצ"ו ועוד).
+
+ ראה תמונתו בעמוד 4360 בכרך זה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4322 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4322</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

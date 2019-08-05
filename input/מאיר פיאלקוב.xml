@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1635 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1635</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר פיאלקוב</persName>
+
+</head>
+         <div><p> נולד בפינסק, רוסיה, בשנת תרכ''ז (1867), לאביו <persName>יוסף שמואל.</persName>
+
+ למד בחדרים ואח"כ עבד בבנאות והתמחה בזריזות ידים בכל עבודה.
+
+ בתרמ"ח עלה ארצה ונכנס לעבוד בבנין בתים בפתח-תקוה.
+
+ נבחר לועד המושבה ופעל לטובת הצבור בכשרון מעשי. בראותו שהתושבים מתענים בשאיבת מים במשיכת הדלי בחבל מתוך הבאר הצבורית היחידה שהיתה אז (היא היתה במקום שהוא כיום בקרן הרחובות רוטשילד וחובבי ציון, ורק לפני שנים אחדות נסתמה), הציע לאסוף כסף ולקנות משאבתיד להקל את השאיבה. כשסירבו התושבים המעטים והדלים "לבזבז" כסף למטרה זו, קנה והעמיד את המשאבה בכספו הפרטי ונעל אותה במנעול עד שיחזירו לו את הוצאותיו. התושבים רגזו, אך הוכרחו לשלם, וכשנוכחו לדעת כי אכן חוסכים הם בעזרת מכשיר זה כח ובריאות, התחרטו על עקשנותם והביעו לו את תודתם בשליחת יין לקידוש בביתו מטעם הצבור.
+
+ בכספים שחסך משכר עבודתו קנה קרקע, נטע פרדס ובנה בית ברחוב פינסקר, ובעבודתו השקדנית היה לאחד האכרים האמידים במושבה. כארבע שנים היה פקיד ראשי בועד המושבה בתפקיד שנקרא אז בכינוי "המוציא מכח אל הפועל" (מבצע הפעילות והמפעלים שהועד החליט עליהם). היה ער לכל מפעל צבורי והרבה תיקונים חשובים במושבה נעשו ביזמתו.
+
+ כשנתים לפני פטירתו נדב לבית-הכנסת הגדול "בית יעקב" ארון קודש מהודר, שעלה בכמה מאות לירות והוא אחד היפים ביותר בכל הארץ. חלק מאבני השיש לציפויו הביא בעצמו מעבר הירדן.
+
+ נפטר בפתח תקוה, כ"ו אייר תרצ"ח (27.5.38).
+
+ צאצאיו: <persName>שמואל, אהובה</persName> אשת <persName>יוסף גלילי, שפרה</persName> אשת<persName> דב גודל, חיים, יהודה. </persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1635 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1635</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

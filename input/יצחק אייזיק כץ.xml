@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 637 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/637</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק אייזיק כץ</persName>
+
+</head>
+         <div><p> נולד בפרוזאני, פלך גרודנה (רוסיה הלבנה) בשנת תרל"א (1871), לאביו<persName> שמו</persName> <persName>אל אביגדור. למד בחדרים</persName> ובישיבות. נשא לאשה את <persName>לאה</persName> בת <persName>יעקב בוטוויניק.</persName> התישב בעיירה ראקוב ועסק במסחר והיה שם בין הראשונים שארגנו את התנועה הציונית בעיר ובסביבה והשתתף בועידה הציונית במינסק בשנת תרס"ב.
+
+ בתרס"ט עלה ארצה עם אשתו והעלה אתו את בני משפחת אחות אשתו והיה להם לאב. התישב ביפו, השתתף ביסוד שכונת<persName> מחנה יוסף</persName> , הקים בה את ביתו ומאפיה מודרנית. עסק בצרכי צבור והשתתף בחיי הישוב המתהוה כאחד הפעילים המסורים. בתרע"ד השתתף במשלחת עם<persName> זלמן דוד ליבונטין</persName> <persName>ויצחק חיותמן</persName> לשם חקירת האפשרויות להרחבת הישוב היהודי בעזה ובסביבתה.
+
+ נרצח בביתו על-ידי גנבים ערבים, אור ליום ה' סיון תרע"ד, והובא לקבורה בבית-העלמין הישן בתלאביב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 637 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/637</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

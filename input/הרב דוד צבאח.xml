@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4558 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4558</bibl><bibl>Volume: #14 ,Page: 4559 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4559</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב דוד צבאח</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רבאט</placeName> (מרוקו), י"ח באב תרכ"ט (25.7.1869).
+
+ לאביו הדיין הרב <persName>מסעוד צבאח</persName> (חוטר ממשפחת רבנים מסועפת. אבותיו התישבו במרוקו עם גרוש ספרד, ואחד מאבות אבותיו, הרה"ג <persName>יצחק צבאח</persName> עלה ירושלימה בשנת תקע"ט (1819), עמד בראש ישיבה גדולה, העמיד תלמידים רבים ונמנה בין דייני ירושלים במשך כחמשים שנה).
+
+ למד תורה מפי אביו שהיה מגדולי הרבנים בעירו,
+
+ ומפי גדולי הרבנים שם וביניהם הרב המפורסם <persName>יוסף</persName> <persName>ברדוגו.</persName>
+
+ בצעירותו היה מחובשי בית המדרש, עשה לילות כימים בלימוד התורה, ושמו יצא לתהלה במרוקו כאחד מגדולי הרבנים.
+
+ בכ"א בשבט תרפ"ט (1.2.1929) מונה לדיין בעיר גדידה ושירת את קהלתו באמונה כעשר שנים רצו
+
+
+ פות עד חודש אייר תרצ"ט (1939), בו נתקבל כדיין ומורה-צדק בפורט-ליוטיי (מרוקו).
+
+ נחשב לאחד מגדולי הפוסקים במרוקו. בשנת תרצ''ה (1935) הדפיס בקאזהבלנקה, בדפוס<persName> יהודה</persName> <persName>ראזון</persName> את חיבורו הגדול "שושנים לדוד" - בשני הלקים, על אבן העזר, חושן משפט, אורח חיים, יורה דעה, הלכות פסוקות (148 עמודים בפורמט גדול). הבקורת על הספרים העלו על נס את בהירות שכלו בפתרון כמה בעיות קשות, ביחוד בעניני גיטין וגירושין.
+
+ בחדש אייר תש"א (1941), מינהו הרב <persName>רפאל</persName> אנקאווה לדיין ומו"צ ב<placeName>רבאט</placeName>, בה שירת את קהלתו באמונה עד יום עלותו לירושלים בשנת תש"ח (1948) להשתקע בה.
+
+ ניסה כוחו גם בחרוזים וחיבר כמה פיוטים מוצלחים, בעברית צחה.
+
+ נפטר בירושלים, י"ח שבט תשט"ז (31.1.1956) השאיר אחריו אלמנה, שני בנים בישראל, שלשה ב<placeName>רבאט</placeName> ושתי בנות במרוקו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4558 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4558</bibl><bibl>Volume: #14 ,Page: 4559 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4559</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

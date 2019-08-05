@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1861 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1861</bibl><bibl>Volume: #4 ,Page: 1862 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1862</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שאול בסקינד</persName>
+
+</head>
+         <div><p> נולד ב<placeName>בוריסוב</placeName> (פלך מינסק, רוסיה), י"ז בתמוז תרמ"ז (27.6.1887), לאביו<persName> צבי אליהו</persName> (אכר בבאר
+
+ יעקב, הסופר<persName> שלום בר מקסימון</persName> מאמריקה הוא שאר בשרו), ולאמו<persName> רחל.</persName>
+
+ קבל חנוך בחדר ובישיבה.
+
+ שרת בצבא הצאר.
+
+ נשא לאשה את <persName>עדינה </persName> בת<persName> מנחם נחום יסינובסקי</persName> (נפטרה ערב סוכות ת"ש).
+
+ עלה ארצה בשנת תר"ע (1910). עבד כפועל ברוחמה. כרכור, שרונה, בית גן, יבניאל, במושבות יהודה, בראשון לציון, בגליל, בבית חרושת "עתיד" בבן שמן.
+
+ עם כיבוש הארץ בידי הבריטים היה מראשוני היהודים שהתגייסו למשטרה. שירת בדרגת סרג'נט.
+
+ בשנת 1921 פתח מלון: "בית המלון בסקינד" בתל-אביב שבו התאכסנו ותיקי הפועלים בארץ.
+
+ עשה למען הקמת המוזיאון בתל-אביב ולמען בית ביאליק. עבד כמתרים.
+
+ פרסם מאמרים ב"דבר" ו"הצופה".
+
+ שני ספריו יצאו לאור: "תמולו של אנוש" (תש''א), "ימים נושרים" (תש"ג). הספרים בעיקרם ספרי זכרונות. נשארו כתבי יד אחריו.
+
+
+ נפטר בתל-אביב בט"ו באב תש"ד (4.8.44).
+
+ צאצאיו: <persName>מלכה</persName> אשת <persName>אריה ניידיץ, נחום</persName> (שרת בצבא הבריטי. אח"כ בפלמ"ח).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1861 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1861</bibl><bibl>Volume: #4 ,Page: 1862 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1862</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

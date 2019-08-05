@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1864 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1864</bibl><bibl>Volume: #4 ,Page: 1865 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1865</bibl>
+<bibl>Volume: #4 ,Page: 1866 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1866</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מיכאל אסף (אוסובסקי)</persName>
+
+</head>
+         <div><p> נולד בלודז, פולין, בשנת תרנ"ו (3.5.1896), לאביו <persName>מנחם</persName> ולאמו <persName>חנה</persName> בת<persName> מיכאל יצחק שומיריי.</persName>
+
+ למד בחדרים, בבית-ספר ובשיעורים פדגוגיים ואח"כ היה מורה ומנהל בבי"ס עברי על שם שלום עליכם בלודז. מפעילי השומר הצעיר, ממיסדי החוה החלוצית סיגניובקה ליד לבוב.
+
+ עלה לארץ ביום ד' אב תר"פ. עבד בסלילת כבישים, בחקלאות בקבוצת גן שמואל ואח"כ נתמנה למזכיר ועדת התרבות של הסתדרות העובדים הכללית.
+
+ נשא לאשה את <persName>מרים</persName> (גננת) בת <persName>יעקב ליכטנשטיין.</persName>
+
+ ב-1925 יצא בשליחות לברלין ושימש מזכיר הועד למען ארץ-ישראל העובדת. שם למד במכון למדעי המזרח מפי הפרופ' <persName>אויגן מיטווך </persName> ואחרים והשתלם בידיעת השפה הערבית וספרותה.
+
+
+ משחזר לארץ נתקבל לעבודה במערכת "דבר" ונמסר לו ניהול המדור הערבי והנו עורך השבועון הערבי "חקיקת אל-אמר" של ההסתדרות, ומאז שלטון ישראל ביפו עורך העתון היומי "אל-יום". כתב גם ב"הפועל הצעיר" ובעתונים יומיים, שבועונים, ירחונים
+
+ וקבצים שונים בארץ ובחו''ל ומרצה בצבור וברדיו בעניני הערבים. חבר בועד אגודת "קדם", בחברה המזרחית הישראלית, במחלקה הערבית של ההסתדרות, סגן יו''ר אגודת העתונאים ויצג אותה בקונגרס העולמי של העתונאים (פראג 1947).
+
+ פרסם חוברות בשפות שונות על הבעיה הערבית ואת הספרים דלהלן: "תולדות השלטון הערבי" (ב-1935 זכה בפרס ביאליק), חלק ב': "ארץ ישראל תחת שלטון הצלבנים, ה"ממלוכים והתורכים"; "לורנס בחיים ובאגדה" (1935). בערבית: "מאת השנים האחרונות בתולדות היהודים"; "האבטוביוגרפיה של פינסקר - מבוא".
+
+ צאצאיו: <persName>תמר</persName> אשת <persName>מנחם צינדר</persName> (ת"א), <persName>אמנון</persName> (מעין-ברוך).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1864 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1864</bibl><bibl>Volume: #4 ,Page: 1865 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1865</bibl>
+<bibl>Volume: #4 ,Page: 1866 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1866</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

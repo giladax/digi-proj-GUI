@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2332 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2332</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר ישראל מאיר וולנשטיין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת תרמ"ט (1889).
+
+ לאביו ר'<persName> אליעזר וולנשטיין</persName> (נכדו של הרב<persName> משה נחום</persName> <persName>וולנשטיין,</persName> אב בית דין לעדת האשכנזים ב<placeName>ירושלים</placeName>. בין חכמי האשכנזים ב<placeName>ירושלים</placeName> ובצפת, מייסדי הישוב
+
+ במחצית השניה של המאה הששית, היה ידוע הרב החסיד ר'<persName> עמרם חסידא</persName> ראש המשפחה, שעלה מהונגריה. היה חברו של "חתם סופר". התישב בצפת ואח"כ ב<placeName>ירושלים</placeName>) ולאמו<persName> דבורה </persName> למשפחת <persName>רייך.</persName>
+
+ קיבל חינוך מסורתי בחדר ב<placeName>ירושלים</placeName>. נמשך ללימודי חול והצטיין בעיקר בלימודי שפות לועזיות. לאחר הכנה עצמית, נסע לבירות (הלבנון) והשתלם ברפואה בפאקולטה הרפואית של האוניברסיטה הצרפתית, וגמר את חוק לימודיו בהצטיינות בשנת 1913.
+
+ בשנת 1915 נשא לאשה את <persName>שרה</persName> בת<persName> לייב אולינסקי</persName> (נפטרה ב<placeName>ירושלים</placeName> ביום כ''ז תשרי ת"ש (10.10.1939).
+
+ חזר לירושלים ועבד כל חייו בתור רופא, בעיקר הקדיש את זמנו לשכבות עניי העיר, והתפרסם כרופא מומחה.
+
+ נפטר ב<placeName>ירושלים</placeName>, י' תמוז תשי"ב (3.7.52).
+
+ צאצאיו:<persName> מרגלית, אריה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2332 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2332</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

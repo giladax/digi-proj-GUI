@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2628 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2628</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אסתר יצחקי (המפל)</persName>
+
+</head>
+         <div><p> נולדה בבנדין (פולין), בשנת תרנ"ב (1892). לאביה <persName>שלמה המפל</persName> (סוחר בתוצרת חלב, בר-אוריין, עלה לארץ בשנת 1925. נפטר בתל-אביב, ד' שבט תרצ"ה 8.1,1935) ולאמה <persName>שרה</persName> בת <persName>אשר וודיסלבסקי</persName> , ממשפחה חסידית נפטרה בבאר-יעקב, ג' טבת תש"י 7.12.1945).
+
+ סיימה את למודיה בבית הספר העממי הממשלתי בבנדין.
+
+ היתה חברה צעירה ב"פועלי ציון" בעירה. בשנת 1905 עזרה<persName> לדבורה בלוך - בלומנפלד</persName> (ראה כרך ג', עמוד 1358) בהעברת מזודות מלאות כרוזים אנטי ליגלים מהפכנים, בשעה שדבורה מצאה בביתם מחסה מפני רדיפות המשטרה החשאית.
+
+ בשנת 1906 עלתה לארץ יחד עם אחיה <persName>אליעזר המפל.</persName> באותה שנה נסעה לבירות (הלבנון) לבקר את אחותה מלכה שניידרמן (שעברה מחיפה לבירות - לרפוי מקדחת). חזרה לארץ ב-1908.
+
+ זמן מה עבדה בתפירה בתל-אביב והיתה פעילה ב"פועלי ציון". בימי המלחמה העולמית הראשונה, עברה לרחובות ועבדה בחקלאות.
+
+ ב-1917 עברה למושבה באר-יעקב, שם נישאה<persName> ליצחק</persName> <persName>יצחקי</persName> (ראה את הערך שלו בכרך זה).
+
+ התמסרה לחקלאות במושבה. פעילה בשטחים סוציאליים שונים.
+
+ צאצאיה: <persName>יעקב </persName> (מכונן בסולל בונה חיפה), <persName>ארנון</persName> (צ.ה.ל.),<persName> נעמי</persName> (שירתה בצבא הבריטי בתור אחות רחמניה ואח"כ בצ.ה.ל.).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2628 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2628</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

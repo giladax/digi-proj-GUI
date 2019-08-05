@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 375 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/375</bibl><bibl>Volume: #1 ,Page: 376 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/376</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב (ג"ק) גולדשטיין</persName>
+
+</head>
+         <div><p> נולד ביפו, כ"ז כסלו תרנ"א (1890), לאביו <persName>יצחק</persName> (מראשוני הבנאים העברים ביפו והסביבה, אשר יד לו בהקמת בנינים פרטיים וצבוריים בנוה שלום, נוה צדק, במושבות ובתל-אביב).
+
+ למד בתלמוד-תורה "שערי תורה" ביפו, בביתהספר של חברת "כל ישראל חברים", ואח"כ השתלם ברוקחות באמריקה.
+
+ כשחזר ארצה ולא מצא אפשרות להסתדר במקצוע ירד מצרימה, עבד שנים אחדות כרוקח שכיר בביתהמרקחת "נורטון" בקאהיר, הצליח בעבודתו ורכש את בית-המרקחת לקנינו ובמשך הזמן פיתח גם עסקי יבוא ומסחר ברפואות. עלה לדרגת מנהל כללי של בתי הרפואות "א-דל-מר" הידועים במצרים.
+
+ נשא לאשה את <persName>שיינדל </persName> בת <persName>ישעיה שטיינברג</persName> מירושלים.
+
+ כל הזמן קיים קשרים עם בית אביו ועם הארץ, ביקר בארץ כמעט בכל שנה, עזר לבני הארץ ולשליחי מוסדות הישוב החדש והישן בתרומות, בעצות ובהמלצות כשבאו מצרימה. בתקופת מלחמת-העולם הראשונה הרבה לעזור למגורשי ארצנו שטולטלו מצרימה. אחרי תום המלחמה היה מהראשונים שהורשו מטעם השלטון הצבאי לבוא ארצה, אסף את בני משפחתו ממקומות הגירוש ועזר להם לקומם את הריסות חייהם, פתח בירושלים בית-מסחר לרפואת והכניס ארצה כמויות גדולות של צרכי אוכל. במצרים פעל כעין "קונסול" של ארץ-ישראל העברית. בהשפעתו התקרבו רבים מיהודי מצרים לארץ-ישראל והשקיעו כספים, בעיקר בגאולת קרקעות. עזר למכבי הארצישראלי ביצירת קשרי ספורט עם המצרים. תמך ביד נדיבה במוסדות הצבור במצרים.
+
+ בעקב ידו הפתוחה בהרחבה ובלי הבחנה קפדנית ירד מנכסיו, וכשהחל מזלו שוב לעלות תיכן תכניות להעלות את בני ביתו ורכושו לארץ בקביעות. רכש בית לחתנו בחיפה כדי "להציב רגל בארץ האבות" וכן רכש לו קרקעות לשם ביצוע תכניותיו.
+
+ באחד מביקוריו אלה בארץ תקפהו שטף דם במוח ונפטר בתל-אביב, ד' אייר תש"ד (28.4.44).
+
+ צאצאיו:<persName> ישעיהו </persName> (שארל),<persName> אסתר</persName> אשת<persName> אלברט</persName> <persName>מוורגנשטרן</persName> (קהיר),<persName> שולמית, יוסף</persName> (זוזו), <persName>רחל</persName> אשת <persName>יהושע גולדנשטיין, יהודית</persName> (דיטה).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 375 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/375</bibl><bibl>Volume: #1 ,Page: 376 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/376</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

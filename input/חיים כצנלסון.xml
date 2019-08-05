@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 2011 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2011</bibl><bibl>Volume: #4 ,Page: 2012 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2012</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים כצנלסון</persName>
+
+</head>
+         <div><p> נולד ב<placeName>דוברובנה</placeName> פלך מוהילוב (רוסיה הלבנה), בכ"א שבט תרכ"ח (1868), למד בחדר, גמר בית-ספר "היותר גבוה" שבעיר.
+
+ משנת תרמ"ה עד תרס"ד עבד בעסקי אביו במוסקבה ובורשה. וכעשר שנים ביקטרינוסלב בבית מסחר ובית חרושת ידוע.
+
+ משנת תרס"ד והלאה עבד: בהנהלת העתון "דער וועג" בורשה; היה מנהל של השבועון של מרכז ציוני רוסיה "דאס יודישע פאלק" בוילנה (באותו הזמן נאסר ביחד עם חברי המרכז ועוד, וישב כחודש ימים במאסר), מנהל זמני של השבועון הציוני "יברייסקאי שזיזן" במוסקבה. מנהל הירחון "השלח" באודיסה ובירושלים. מנהל הוצאת "תורגמן".
+
+ בהיותו במוסקבה בשנת תרמ"ד עד תרנ"ב, היה קרוב לחוגי "בני ציון" ו"חובבי ציון" ומאז בואו ליקטרינוסלב, שזה חל בזמן הקונגרס הציוני הראשון. נכנס תחת השפעתו של אוסישקין, לעבודה ציונית מעשית ועבד במחיצתו של הנ"ל במשך ימי שבתו באותה העיר בצאתו מיקטרינוסלב נרשם על ידי הציונים של עיר זו בספר הזהב של קרן קימת.
+
+ השתתף באספת ציוני-ציון בוילנה בשנת תרס"ה ונבחר שם לחבר הועד ולמזכירו של המרכז של ארגון הנ"ל, שתפקידו היה להכין את "המלחמה" באוגנדא, שעמדה על הפרק בקונגרס השביעי.
+
+ השתתף בתור ציר בקונגרס האמור וגם בועידת פרייבורג שקדמה לקונגרס זה.
+
+ השתתף באספת ציוני רוסיה שהיתה בפטרוגרד בשנת תרע"ג ובעוד ועידות שונות.
+
+ ביקר בארץ בשנת תרע"ב ועבר להשתקע בה
+
+
+ בשנת תר"פ. בא באניה רוסלן, האניה הראשונה שהביאה עולים לארץ.
+
+ משנת תרפ"ג עד תרצ"ז היה מנהל סניף "הארץ" בירושלים וגם סופרו של עתון זה.
+
+ פרסם הרבה פיליטונים ורשימות ב"הארץ" וגם בעתוני חוץ-לארץ: "דער וועג'', "טלגרף" בורשה ועוד. השתתף בהרבה עתונים הומוריסטיים בארץ ובחוץ-לארץ בחתימת:<persName> חאקים, בעל סדר,</persName> ועוד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 2011 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2011</bibl><bibl>Volume: #4 ,Page: 2012 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2012</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

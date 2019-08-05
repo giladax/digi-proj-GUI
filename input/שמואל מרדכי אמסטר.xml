@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3374 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3374</bibl><bibl>Volume: #9 ,Page: 3375 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3375</bibl>
+<bibl>Volume: #9 ,Page: 3376 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3376</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל מרדכי אמסטר</persName>
+
+</head>
+         <div><p> נולד מריאמפול ע" סטניסלבוב (גליציה), ד' אלול תרס"ט (8.9.1909).
+
+ לאביו<persName> אריה</persName> (לפי המסורת המשפחתית מהווה שם המשפחה - ראשי תיבות: "אנו ממשפחה ספרדית טהורה רבנים") ולאמו<persName> מיכל </persName> בת<persName> נתן ב"ל</persName> (בת לוי),
+
+ קבל חנוך מסורתי בחדר, ישיבה, גימנסיה פרטית בסטניסלבוב. בחינות בגרות אקסטרניות. למד 3 שנים רפואה באוניברסיטת פרג, צכוסלובקיה (1933-37).
+
+ חבר הצה"ר משנת 1926. מפקד בית"ר סטניסלבוב, יו"ר הקורפורציה האקדמית-הרביזיוניסטית "בר-ככבא".
+
+ מעורכי העתונים: "נובי טשאס" ו"טריבונה נרודובה" והשתתף בעתון "די וואך" (באידיש).
+
+ בשנת 1934 עלה לארץ.
+
+ למד שנה מדעי הרוח באוניברסיטה העברית בירושלים (1934-35). גמר בהצטיינות את ביה"ס הגבוה למשפט ולכלכלה בתל-אביב (1939) וקיבל תואר עורך דין.
+
+ עבד בהתחלה כפועל חקלאי, בנין ופקיד.
+
+ בשנת 1937 נשא לאשה את <persName>לאה </persName> בת<persName> יעקב לידסקי.</persName> היה יו"ר סניף הצה"ר בפתח-תקוה, מזכיר המפלגה הרביזיוניסטית בא"י (1945-48), חבר עירית פתח-תקוה (1951-55), חבר המועצה הארצית של תנועת החרות וחבר בית הדין העליון של חרות לשעבר,
+
+ בשנות 1936-48 חבר אצ"ל.
+
+ אח בלשכת בני ברית "חבצלת השרון" ואח בלשכת הבנאים החפשים "דוד ילין" בפתח-תקוה,
+
+ בשנות 1943-48 כתב מאמרים ב"המשקיף", "הבקר", "מדריך בית"ר ו"חירות".
+
+ חיבר ספרים: "פני המזרח" (הוצאת "אחיאסף", 1954), "תולדות שחרור העמים" (הוצאת מחלקת התרבות של ברית הצה"ר ת''א, 1948).
+
+ בנותיו: <persName>רנה, מיכל.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3374 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3374</bibl><bibl>Volume: #9 ,Page: 3375 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3375</bibl>
+<bibl>Volume: #9 ,Page: 3376 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3376</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

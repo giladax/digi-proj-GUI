@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5607 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5607</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף טבצ'ניק</persName>
+
+</head>
+         <div><p> נולד בז'יטומיר, ט"ו טבת תרס"א (6.1.1907).
+
+ לאביו <persName>אברהם טבצ'ניק</persName> ולאמו<persName> ברכה</persName> בת <persName>מאיר</persName> <persName>שפירא.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה בעירו. אחרי מהפכת פברואר 1917 למד בעירו בגימנסיה יהודית עם שפת הוראה רוסית. למד באינסטיטוט גבוה פדאגוגי והוצא בסוף השנה השניה ללימודיו, בגלל פעולה ציונית מחתרתית.
+
+ היה מורה בבית הספר באידיש בברית המועצות. היה חבר ועד ארגון "צעירי ציון - התאחדות" בז'יטומיר.
+
+ חבר ועד "החלוץ" ו"צירי ציון" גליל ברדיצוב (במחתרת).
+
+ ב-14 באפריל 1929 עלה לארץ.
+
+ עבד כפועל בחקלאות ב"מקוה ישראל", פועל חקלאי בפתח תקוה, פועל בתעשיה, פקיד, עובד בשטח ההסברה במפא"י בתל-אביב, עובד המחלקה לתרבות ולנוער של מפא"י ת"א-יפו.
+
+ חבר מזכירות סניף מפלגת העבודה, חבר (מזכירות) ועד התאחדות יוצאי ברית המועצות.
+
+ חבר מזכירות "מגן" (אסירי ציון ברוסיה).
+
+ חבר הנהלת יוצאי ווהלין.
+
+ בשנת 1939 נשא לאשה את<persName> מניה</persName> בת<persName> חיים דייבוג.</persName>
+
+ כתב מאמרים ורשימות ב"דבר", "הארץ", "הפועל הצעיר". סיפור בשבועון "מאזנים". סיפורים ב"דבר לילדים" ועוד.
+
+ משנת 1936 חבר ההגנה. נוטר בגדוד הרכבת.
+
+ צאצאיו: <persName>גיורא</persName> (בנותיו:<persName> ענת, אופיר); גילה</persName> אשת <persName>שמואל פרינגרו</persName> (בנם: <persName>אופיר).</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5607 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5607</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

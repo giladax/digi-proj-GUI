@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2310 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2310</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי (הירש) יעקב גראף</persName>
+
+</head>
+         <div><p> נולד ב<placeName>יאסי</placeName> (רומניה) בח' סיון תר"ג (1943) לאביו <persName>אשר</persName> ולאמו<persName> ינטה.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ היה פעיל בתנועת "חובבי ציון" ב<placeName>יאסי</placeName> (רומניה) שמטרתה היתה: "בית יעקב לכו ונלכה" (בילו) המטרד, שהבילויים קבעו בתכניתם.
+
+ נשא לאשה את<persName> מלכה </persName> בת<persName> ישראל ניאמצאן - בריל</persName> מבאקו (אחיו של חיים צבי בריל).
+
+ בשנת 1882 עלה לארץ עם אשתו וחמשת ילדיו והיה מהראשונים שהתישבו בזכרון-יעקב (1883).
+
+ הקים במושבה משק חקלאי ובית מלון, בלי לקבל כל עזרה כספית מהבארון וכו'.
+
+ לקח חלק פעיל במוסדות המושבה. חברת התיירות קוק שבחה מאד את בית המלון שלו, שהתירים מצאו בו אז מנוח ויחס חיובי בשעת בקורם בארץ-ישראל.
+
+ נפטר בזכרון-יעקב, י"ד תמוז תרס"ה (1905).
+
+ צאצאיו :<persName> שמואל</persName> ז''ל, <persName>אלתר פסח</persName> ז''ל,<persName> ג'ענעט </persName> ז''ל אשת<persName> נחמיה קורניי</persName> <persName>, צליק, ברכה</persName> אשת<persName> ישעיהו הויזר,</persName> <persName>רבקה</persName> אשת <persName>משה (מוריס) קורלנד</persName> (ראה את הערבים שלהם בספר זה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2310 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2310</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

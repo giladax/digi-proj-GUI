@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4191 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4191</bibl><bibl>Volume: #13 ,Page: 4192 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4192</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד זלמן צימבר</persName>
+
+</head>
+         <div><p> נולד בפביניץ (פולין) ט"ז ניסן תרנ"ד (מאי 1894).
+
+ לאביו <persName>משה מאיר צימבר</persName> ולאמו <persName>ריצה מרים</persName> בת ר' <persName>יוסף ויטלזון.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ עסק במסחר.
+
+ בשנת 1923 עלה לארץ.
+
+ היה פעיל בעבודה ציונית בארגונים שונים בעירו.
+
+ בשנת 1934 נשא לאשה את<persName> רחל </persName> בת<persName> אברהם ונטורה.</persName>
+
+ היה מיסד ומנהל כללי ויו"ר מועצת המנהלים של חברת הביטוח "מנורה" עד שנת 1958, שהתפתחה לאחת החברות הגדולות בארץ.
+
+ היה פעיל בועד הארצי של "קרן היסוד", ב"מגבית ההתגיסות", בועד למען "הבימה".
+
+
+ היה חבר הועדה המרכזי של האיגוד הישראלי של חברות הביטוח.
+
+ כתב מאמרים מקצועיים בעניני ביטוח.
+
+ נפטר בתל-אביב. ז' סיון תשכ"א (22.5.1961).
+
+ בתו: <persName>מרים.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4191 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4191</bibl><bibl>Volume: #13 ,Page: 4192 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4192</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

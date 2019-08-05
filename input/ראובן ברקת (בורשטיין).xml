@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2888 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2888</bibl><bibl>Volume: #7 ,Page: 2889 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2889</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ראובן ברקת (בורשטיין)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>טבריג</placeName> (ליטא), ה' חשון תרס"ו (סוף 1905).
+
+ לאביו ר' <persName>אברהם אהרן הכהן בורשטיין </persName> (ראש ישיבת בוגורודסק וראש ישיבת "מרכז הרב" קוק בירושלים. המכונה: הגאון מטבריג) ולא<persName> דינה</persName> בת ר' <persName>ליב חריף</persName> מויסוקי בליטא.
+
+ קבל חנוך מסורתי בחדר ובישיבה, בוגר הגמנסיה העברית בפיניביז (ליטא), למד באוניברסיטאות ירושלים, שטרסבורג ופריס (מדעי הרוח ומשפטים).
+
+ היה יו"ר אגודת הסטודנטים באירופה, חבר הנשיאות של ה.ע.צ.ע. (התאחדות עולמית של צעירים עברים), יו"ר הנוער הציוני בליטה.
+
+ בשנת 1926 עלה לארץ.
+
+ בשנת 1933 נשא לאשה את <persName>מרים</persName> בת ד"ר <persName>יעקב שלום</persName> <persName>אנגל </persName> (ראה כרך חמשי, עמוד 2230).
+
+
+ מזכיר מחלקת ההתישבות של המרכז החקלאי, מנהל מחלקת הקשרים הצבוריים ב"העברה", המזכיר הכללי של הועד הארצי למען החיל היהודי.
+
+ חבר מרכז מפא"י, חבר הועד המנהל של הטכניון העברי בחיפה, יו"ר הנהלת "עם-עובד", יו"ר הנהלת קפת הפועלים והפלאחים העמלים, חבר האכסקוטיבה של האינטרנציונל הסוציאליסטי, חבר האכסקוטיבה של הארגון הסוציליסטי האסיתי, חבר ההנהלה של הוצאת הספרים הסוציאליסטית האסיתית.
+
+ חבר הועדה המרכזת של הועד הפועל של הסתדרות העובדים הכללית בישראל, מנהל המחלקה המדינית ומנהל המרכז לתרבות ולחנוך של ההסתדרות.
+
+ ציר לקונגרס הציוני האחרון, ציר לקונגרס השני והשלישי של האינטרנציונל הסוציליסטי, ציר לקונגרס הראשון של המפלגות הסוציאליסטיות באסיה.
+
+ שליחויות בימי מלחמת העולם השניה.
+
+ כתב מאמרים ב"הארץ" (בעריכתו של <persName>מ.גליקסון</persName> ), "דבר" "טורים", ובעתונות בהו"ל בעברית, אידיש וצרפתית, בעיקר בעניני ספרות ובעיות כלליות שונות.
+
+ צאצאיו: <persName>אריאלה, אהרן</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2888 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2888</bibl><bibl>Volume: #7 ,Page: 2889 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2889</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

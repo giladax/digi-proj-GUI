@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4231 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4231</bibl><bibl>Volume: #13 ,Page: 4232 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4232</bibl>
+<bibl>Volume: #13 ,Page: 4233 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4233</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף רייזיס</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פולטאבה</placeName> (אוקראינה, רוסיה), כ''ו טבת תרל''ג (1873).
+
+ לאביו<persName> מיכאל ברוך רייזיס </persName> ולאמו <persName>דבורה</persName> בת<persName> אליהו</persName> <persName>רעזיצע.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ בשנת תרמ"ט (1889) עלה עם משפחתו לארץ.
+
+ המשיך ללמוד תורה בתלמוד תורה שערי תורה בנוהשלום ביפו.
+
+ בשנת תר"ן (1890) נשא לאשה את<persName> עלקה מרים</persName> בת <persName>יחיאל אביגדור שמרלינג</persName> (ראה כרך ג' עמוד 1290) בן ר' <persName>חיים שמואל שמרלינג </persName> (מעסקני יפו הראשונים. ראה כרך א', עמוד 99). נפטרה ברמת-גן, ה' אלול תש"ט (30.8.1949).
+
+ היה מנהל בחברת הטאבק התורכי (רג'י) ביפו.
+
+ בשנת תרס''ב (1902) נסע למלברן (אוסטרליה) וחזר לארץ בשנת תר"ע (1910).
+
+
+ ביפו היה מנהל בית מסחר לבגדים של "טירינג''.
+
+ היה מהראשונים שרכשו 3 מגרשים בתל-אביב, אח''כ רחוב אחד העם הפנות : אלנבי-יבנה. בהעדרו מהארץ הפקיעו שני מגרשים לטובת<persName> יהושע חנקין וזייגר</persName> ונלחם עם העיריה וראש העיר דיזנגוף לתת לו מגרשים אחרים במקומם. השלישי מכר לברקליס בנק.
+
+ יחד עם בנו <persName>נחום אריה רייזיס </persName> (ראה בכרך זה) בנה בשנת 1936 את הקולנוע "רמה" ברמת-גן.
+
+ נפטר ברמת-גן, י"ט אייר תשט"ז (9.5.1947).
+
+ בניו<persName>: נחום אריה </persName> (ראה בכרך זה), ד''ר<persName> חיים דב</persName>
+
+ (נולד ביפו בשנת תרנ"ז-8.6.1897. קיבל חינוך מסורתי ואח''כ בגמנסיה העברית "הרצליה". השתלם באוניברסיטה במלבורן, וקיבל תואר רופא-חירורג (מנתח). היה מנהל בית חולים בקצינה - באוסטרליה הדרומית. ריפא עניים רבים לא על מנת לקבל פרס. היה בנאי חפשי. חבר פעיל במכבי ובארגונים ציוניים שונים. נפטר בכ''ד אב תשכ"ב-24.8.1962),<persName> מיכאל ברוך.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4231 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4231</bibl><bibl>Volume: #13 ,Page: 4232 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4232</bibl>
+<bibl>Volume: #13 ,Page: 4233 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4233</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

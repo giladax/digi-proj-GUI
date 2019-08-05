@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1250 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1250</bibl><bibl>Volume: #3 ,Page: 1251 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1251</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה שמעון ואלין</persName>
+
+</head>
+         <div><p> נולד בסוונציאן, פלך וילנה, ליטא, י"ב אייר תרס"ו (7.5.1906) לאביו הרב <persName>צבי הירש וואלון</persName> ולאמו <persName>שרה</persName> בת <persName>יהודה וילקומירסקי.</persName> למד בחדרים ובישיבות והצטרף לתנועה הציונית ולזרם העליה של הנוער היהודי.
+
+ כשעלה ארצה ב-1926 היה בין המיסדים את קיבוץ "הכובש" (כעת רמת הכובש), ובשנת 1927 הלך אחרי נטיתו האמנותית להיות מחלוצי הבמה העברית. שיחק בתא"י ("התיאטרון הארצישראלי" שקדם כאן ל"הבימה"), ב"קומקום" (במה להומור סאטירה ואמנות זעירה מיסודו של <persName>אביגדור המאירי</persName> ), ערך סיבוב בעולם עם <persName>שרה אסנת הלוי</persName> והפיצו את שירי הארץ בהופיעם על הבמות בלבוש בידואי. חזר ארצה ויצא לעבודה גופנית חלוצית בסלילת כביש למושבה הרצ
+
+
+ ליה. אך יצר הפעולה האמנותית משך אותו חזרה והוא פתח בתל אביב משרד אימפרסאריו לארגון הופעות משעשעות ואמנותיות. ערך נשפים ועזר לכשרונות צעירים ונעלמים להגיע לידי גילוי ופרסום (גילוי "כוכבים"), ובעזרתו נתגלו ונתפרסמו <persName>אסתר גמליאלית</persName> , <persName>שושנה דמארי, ברכה צפירה</persName> ורבים אחרים.
+
+ לפני שנים אחדות יצר את להקת הרביו הארצישראלי "לי-לה-לו", ריכז בה כוחות ותיקים מגידולי הארץ ומהעולים החדשים בעלי ותק אמנותי מחו"ל, וצירף את הסופר נתן אלטרמן והקומפוזיטור מקס וילנסקי, והודות למרצו ולהבנתו בצרכי האמנות ובטעם הקהל עלה בידו לבסס את הלהקה ולכבוש לה מקום קבוע ומקובל בין מפעלי אמנות הבמה בארץ.
+
+ פרסם את זכרונותיו מעשרים שנות פעולתו בארץ בספר "מיומנו של האימפרסריו משה ולין" (1940).
+
+ נשא לאשה את שושנה בת יוסף אוקראינץ. בניו: <persName>יאיר, דניאל</persName> (פרקלין) 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1250 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1250</bibl><bibl>Volume: #3 ,Page: 1251 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1251</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

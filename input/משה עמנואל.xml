@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2188 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2188</bibl><bibl>Volume: #5 ,Page: 2189 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2189</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה עמנואל</persName>
+
+</head>
+         <div><p> נולד בסופיה, בולגריה. בשנת תר"י (1850), לאביו <persName>אליעזר</persName> ולאמו<persName> ריינה (מלכה)</persName> . בגיל רך נתיתם מאביו ואמו חינכה אותו לתורה ולחזון שיבת ציון. משגדל עסק במסחר והצליח והיה למשען לאמו.
+
+
+ משנגזרה גזירה על הסוחרים היהודים לפתוח את בתימסחרם בשבת, החליט להגשים את חלום ילדותו ולעלות ארצה, התגבר על אזהרות קרוביו וידידיו שניסו להפחידו בסכנות הצפויות לו ולאשתו ולילדו בארץ הרחוקה והשוממה, מכר את כל אשר לו וב-1884 עלו ארצה והתישבו בכפר הקטן החדש פתח-תקוה. שם קנה קרקע, חפר מרתף באדמה לדירה ראשונה עד שנבנה הבית, נטע כרם גפנים ועד ליבול התפרנס ממסחר בנוסח הזמן והמקום : קנה גמלים והוביל עליהם סחורות מיפו לירושלים. משהחל הכרם נותן יבול בנה בו סוכה גבוהה ושמר בעצמו
+
+ בלילות עד גמר הבציר. חלק מהענבים הוביל על גמליו ליקב, בראשון לציון וחלק בארגזים למכירה בערים למאכל. עבד קשה מאד לפרנסת משפחתו ומרוב עמל יומם ולילה אבד מאור עיניו לעת זקנה.
+
+ נפטר בשיבה טובה בפתח תקוה, כ"ג אב תרצ"ט (8.8.1939).
+
+ כל דרך חייו הקשה מצא עזרה נאמנה מצד רעיתו <persName>אסתר</persName> , שנולדה בתרי"ח (1858) בסופיה לאביה <persName>יוסף בכר</persName> ולאמה <persName>שרה</persName> . גם היא היתה שוחרת ציון מילדותה ולאשרה נישאה לאיש בעל שאיפה דומה לשלה. יחד נשאו את עול החיים והעמל ונוסף לעזרתה לבעלה בבית, בגידול הילדים ובעבודות הפרנסה היתה משתכרת כספים בתפירה בלילות. לכלות עניות היתה תופרת מלבושי חתונה בחנם, וכן היתה מרבה להאכיל רעבים על שלחנה ולאסוף מאחרים ולתת משלה צדקה לעניים. בלכתה ב-1929 בשליחות מצוה לאסוף כסף לצדקה נפגעה על-ידי מכונית, חלתה חדשים אחדים ונפטרה בפתח תקוה, ג' סיון תרפ"ט.
+
+ מ-13 הילדים שנולדו להם נספו 9 בקדחת ובמחלות. בחיים נשארו : <persName>דוד</persName> (חקלאי וסוחר),<persName> יוסף</persName> (חקלאי וחופר בארות, שהצליח לגלות מעינות מים בכל חלקי הארץ), <persName>שרה</persName> אשת <persName>עקיבא בכר, רחל</persName> אשת <persName>חיים ליבוביץ</persName> (ראה כרך ב', עמוד 829).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2188 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2188</bibl><bibl>Volume: #5 ,Page: 2189 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2189</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

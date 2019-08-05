@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 898 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/898</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחמן שלמה בוטקובסקי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ביאליסטוק</placeName> פלד גרודנה בשנת תרל"ה, לאביו ר' <persName>יהודה דוד</persName> , סוחר נכבד, מפעילי חובבי ציון ו"בני משה" בסובאלקי. קיבל חינוך תורני וכללי ונתחנך ברוח חיבת ציון.
+
+ כשרכש אביו בתרנ"א נחלה בחדרה לעצמו ולחברים אחדים מהאגודה שיסד בסובאלקי להתנחלות בארץ, שלח אותו בראשית תרנ"ב ארצה, כחלוץ המשפחה, להכין את המשק ולבנות בית, כדי שהוריו וביתו יבואו אחריו.
+
+ אחריו בא חברו <persName>ראובן</persName> בן ר' <persName>אליעזר גולדנברג</persName> , שגם הוא היה בעל נחלה בחדרה. שני הצעירים, הידידים מילדותם, השתכנו באחד החדרים של ה"חאן", עבדו קשה בנטיעת עצי שקדים ותות ועוד על
+
+ נחלותיהם, סיכנו את עצמם ביציאה לעבודה בשטח הרחוק ממרכז ישובם וקרוב למחנה בידואים אויבים, סבלו וקדחו והחזיקו מעמד, השתדלו לשפר את החיים בסביבתם העגומה מרוב קדחת ושכול ואלמון, סידרו את חדרם בטוב-טעם וכינסו בו את יתר העובדים לשיחות חברים על כוס תה, כדי לדכא את הדכאון.
+
+ משהביא אליו אביו בתרנ"ד את אחיו הקטן<persName> צבי</persName> <persName>נחמיה </persName> כדי שיתחנך מילדותו במושבתם, התמסר לטפל בו כמו אב ולשקוד על חינוכו ושמירת בריאותו. בגלל התקפות קדחת על הנער הוכרח לשלחו חזרה אל הוריו, אך הוא עצמו הוסיף לשאת את יסורי ההתנחלות בגבורת נפש, לעודד את המיואשים בדברי אמונה ובטחון בעתיד המושבה והארץ, ואף במכתביו הביתה היו רק דברי עידוד ובטחון ולא תלונות.
+
+ בקיץ תרנ"ח גברה מאד הקדחת בחדרה והפילה חולים וחללים לרוב. שני החברים, <persName>נחמן שלמה</persName> <persName>בוטקובסקי וראובן גולדנברג</persName> , התמסרו לטפל בחולים, להקל את יסורי הגוססים, לקבור את המתים ולנחם ולעודד את האבלים. סוף-סוף הפילה הקדחת הצהובה גם אותם. שניהם הובאו בעגלה אחת לבית-החולים היהודי ביפו, ושם נפטרו<persName> נחמן שלמה</persName> בכ"ו אב <persName>וראובן</persName> בה' אלול תרנ"ח, ושניהם נקברו בבית-העלמין הישן מדרום ליפו (עג'מי).
+
+ כשפקד השלטון הצבאי במלחמת-העולם הראשונה לפנות את בית-העלמין ההוא, אחרי שפקד קודם לכן על פינוי התושבים החיים, ובעיקר היהודים, מיפו ומתל-אביב, הועברו עצמות שניהם לחדרה ונקברו יחד ביום כ"ג אייר תרע"ז ועל מצבתם המשותפת חקוק: "בחייהם ובמותם לא נפרדו".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 898 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/898</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

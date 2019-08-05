@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1794 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1794</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אשר ביילין</persName>
+
+</head>
+         <div><p> נולד בקיוב, אוקראינה, אדר תרמ"א (1881), לאביו <persName>נחום</persName> (מורה וסופר עברי, חיבר ספרי השכלה כתב בעתונות העברית) ולאמו <persName>עדה.</persName>
+
+ קיבל חינוך עברי מפי אביו, גמר בית-ספר תיכון בלימוד פרטי ובבחינת בגרות, למד פילוסופיה באוניברסיטאות ברן ופרייבורג. בשנות 05-1901 היה מזכירו של הסופר <persName>שלום עליכם</persName> , ומ-1906 עבד עבודה ספרותית ועתונאית בלונדון.
+
+ נשא לאשה את <persName>צפורה</persName> בת <persName>יעקב גחטמן</persName> , סיפורו הראשון, "התעודה הירוקה'', שכתב להשתתף בהתחרות הספרותית של "הצופה" הוארשאי, עורר תשומת-לב רבה. כמה מסיפוריו העבריים תורגמו
+
+ לאידית ולשפות לועזיות אחרות. כתב גם סיפורים גם באידית (בכינויים ד"ר איגנר ועוד). פרסם סיפורים ב"המעורר" של <persName>י. ח. ברנר</persName> שיצא בלונדון, ב"רשפים" ועוד ונמנה בשעתו על המשמרת הצעירה בספרות העברית. כתב גם אידית וערך עתונים באידית. מאמריו פורסמו בעתונות היהודית ברוסיה, גליציה, אמריקה, אנגליה ועוד.
+
+ במלחמת-העולם הראשונה עזר בעטו ובתעמולתו למען התנדבות יהודי וייטצ'אפל לגדוד העברי, עזר לקבוצת סופרים ועסקנים אשר התכוננו להוציא בלונדון עתון אידי יומי בשם "אונזער טריבונע".
+
+ ב-1920 הוזמן על-ידי <persName>ז. ז'בוטינסקי</persName> לעבוד בלשכת הפרסום והתעמולה של קרן היסוד בלונדון והמשיך בעבודתו זו עד 1933. עבד גם בעתונות היהודית בכתיבת מאמרים ופיליטונים של בקורת ספרותית וצבורית, חיבר מחזות שהוצגו על במות יהודיות בהצלחה.
+
+ ב-1933 עלה לארץ והתישב בירושלים. היה סופרו הקבוע של העתון האידי "צייט" הלונדוני. השתתף בקביעות ב"דבר" בפיליטונים של בקורת צבורית בגישה נועזת ובסגנון קולע של סאטירה מחנכת. פרסם מזכרונותיו על שלום עליכם וי. ח. ברנר וידידיו
+
+ הסופרים מצאו עניו רב בשיחות זכרונותיו בעל פה על שני סופרים אלה, על א. נ. גנסין ועוד. בארץ חיבר את המחזה "בנים לגבולם", שהוצג לפני שנים אחדות ב"הבימה".
+
+ נפטר בתל-אביב, ח' אלול תש"ח (12.9.48).
+
+ צאצאיו: <persName>יעקב</persName> (בלונדון), <persName>סילויה</persName> (בירושלים), <persName>הילדא</persName> אשת האגרונום חנניה <persName>אזרחי-בריסקר</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1794 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1794</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

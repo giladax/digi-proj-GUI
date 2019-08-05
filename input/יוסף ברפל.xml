@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4222 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4222</bibl><bibl>Volume: #13 ,Page: 4223 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4223</bibl>
+<bibl>Volume: #13 ,Page: 4224 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4224</bibl>
+<bibl>Volume: #13 ,Page: 4225 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4225</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף ברפל</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אודסה</placeName> (רוסיה), י"ד חשון תרנ"ז (סוף 1896).
+
+ לאביו <persName>יצחק</persName> ולאמו <persName>חיה</persName> בת <persName>אריה ליב רבינוביץ</persName> .
+
+ קיבל חינוך מסורתי וכללי. השתלם באוניברסיטה ברוסיה.
+
+ היה פעיל במשרד הא"י, ב"החלוץ" ו"צעירי ציון" ברומניה.
+
+ בשנת 1918 נשא לאשה את <persName>סימה</persName> בת<persName> יצחק וינשטיין</persName> (נפטרה ברמת-דוד, כ"ו חשון תש"ו 2.11.1945)ובזיווג שני נשא לאשה בשנת 1958 את<persName> גילה </persName> בת<persName> סולומון</persName> <persName>טרכטנהרץ.</persName>
+
+
+ בשנת 1925 עלה לארץ.
+
+ היה מזכיר פועלי חדרה.
+
+ חבר מפא"י.
+
+ חבר קבוצת "רמת דוד".
+
+ פעיל בחבר הקבוצות וב"קרן הקבוצות".
+
+ ממיסדי "צים" ו"שהם" וחבר הנהלותיהן. יו"ר "נחשון" בע"מ, סגן חבר הועד הפועל של הסתדרות הכללית, חבר הועד המנהל של "חברת העובדים", וחבר המועצה המצומצמת של חברת "אל-על".
+
+ משנת 1934 היה פעיל בארגוני מחתרת של ההגנה והעפלה.
+
+ ארגן את עלית אנית המעפילים הראשונה "ולוס".
+
+ היה מהפעילים המרכזיים ב"מוסד עליה''.
+
+ מנהל כללי של חברת צים.
+
+ חבר ההנהלה של החברות "צים" ו"שהם''.
+
+ השתתף בקונגרסים ציוניים שונים.
+
+ צאצאיו: <persName>אורי ברפל</persName> (בניו :<persName> דורון, עופר), יוכבד</persName> אשת <persName>שמואל בן-מאיר </persName> (בנותה :<persName> סימה, רחל, דבורה)</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4222 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4222</bibl><bibl>Volume: #13 ,Page: 4223 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4223</bibl>
+<bibl>Volume: #13 ,Page: 4224 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4224</bibl>
+<bibl>Volume: #13 ,Page: 4225 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4225</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

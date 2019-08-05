@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4436 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4436</bibl><bibl>Volume: #14 ,Page: 4437 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4437</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהושע ברס</persName>
+
+</head>
+         <div><p> נולד בעיר ניסוויז', פלך מינסק (רוסיה) בשנת תר"ל (1870).
+
+ לאביו <persName>איסר אברהם הכהן ברס,</persName>
+
+ קבל חינוך מסורתי בחדר ובישיבה.
+
+ בשנת תרמ"ח (1888) עלה לארץ.
+
+
+ עבד במושבה "גחלת ראובן" שנוסדה ע"י ראובן <persName>לרר</persName> בשנת תרמ"ב (1883), שבשנת תרץ (1890) נקראה נס-ציונה (ואדי אל-חנין).
+
+ נשא לאשה את <persName>לאה</persName> בת<persName> יעקב מילר.</persName>
+
+ היה חבר באגודת הפועלים הראשונה בראשוןלציון שנוסדה בשנת תרמ''ז (1887) ע"י <persName>מיכאל</persName> <persName>הלפרין</persName> (ראה כרך א', עמוד 275) ועבד כפועל ביקב במושבה והיה חבר הועד שלה.
+
+ בשנת תרס''ה (1905) עבר לנוה-שלום ביפו ופתח חנות למכולת (שכונת "נוה שלום" נוסדה ביפו ע"י ר' <persName>זרח ברנט</persName> בט"ו אב תר"ן 1890). והיה בין בוני השכונה וכן בין בוני התלמוד תורה "שערי-תורה" בנוה שלום.
+
+ היה חבר פעיל באגודה הסודית "אחוה" שרוב הבריה היו חברי המזרחי והתושבים הדתיים ביפו.
+
+ היה בין מיסדי ה"חדר" הדתי לאומי (בהמשך התפתחותו נקרא בשם ביה"ס תחכמוני, שנוסד בחול המועד פסח תרס"ה-1905).
+
+ בפרעות 1921 שימש בית מסחרו למחסן זמני לחברי ההגנה להחזקת נשק. ועשה זאת במסירות רבה.
+
+ נפטר בתל-אביב, ל' בסיון תש"ב (15.6.42).
+
+ צאצאיו:<persName> אברהם </persName> (ברזיל),<persName> יעקב, תמר</persName> אשת <persName>אברהם מיכאלי</persName> ז"ל,<persName> אחיה, אליעזר, מתתיהו, אהרן,</persName> <persName>חיים.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4436 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4436</bibl><bibl>Volume: #14 ,Page: 4437 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4437</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

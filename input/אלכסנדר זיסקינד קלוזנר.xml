@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2169 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2169</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלכסנדר זיסקינד קלוזנר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אולקניקי</placeName> (רוסיה הלבנה), ב' דשבועות תרמ''ב (1882), לאביו<persName> יהודה לייב</persName> ולאמו <persName>ראשה קיילה</persName> בת
+
+<persName>אלכסנדר זיסקינד ברא"ז</persName> . (שני אחיו הם : <persName>פרופ' יוסף</persName> <persName>קלוזנר ובצלאל אליצדק)</persName> .
+
+ קבל חינוך עממי בבית ספר עממי באודיסה בהנהלתו של העסקן הציוני<persName> ליפסקי.</persName>
+
+ בשנת 1906 נשא לאשה את <persName>שלומית</persName> בת<persName> דוד זלמן לוין.</persName> כל השנים פעיל בתנועה הציונית. חבר הנהלת קק"ל וקה"י באודיסה, חבר הקהלה היהודית-הלאומית הראשונה באודיסה, יו"ר הסתדרות הפקידים הציונים, יו"ר הועדה לשמירת השבת. יחד עם <persName>משה לייב לילינבלום</persName> חבר כבוד ב"חברה קדישא" ואחר עברו לוילנה חבר הוער העירוני הציוני, קק"ל וקה"י שם,
+
+ עלה ארצה בשנת תרצ"ב (1932), מאז פעיל במפלגה הריביזיוניסטית. כיום חבר מועצה בתנועת ה"חרות" בירושלים.
+
+ פרסם מאמרים ושירים לאומיים ברוסית ועברית בארץ ובחו"ל. מדבריו נתפרסמו ב"הירדן", "המשקיף", "חרות".
+
+ בנו:<persName> יהודה אריה</persName> (סופר וחוקר).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2169 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2169</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

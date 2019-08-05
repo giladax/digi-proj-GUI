@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4480 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4480</bibl><bibl>Volume: #14 ,Page: 4481 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4481</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>השופט חיים שמחה נחמני (נחמנסון)</persName>
+
+</head>
+         <div><p> נולד בחדרה, חשון תרע"ג (27.10.1912).
+
+ לאביו <persName>יעקב נחמנסון</persName> (לבית ר' <persName>חיים נחמנסון</persName> מדוברובנא ברוסיה) ולאמו <persName>אסתר</persName> בת <persName>שאול רוטמן</persName> .
+
+ קיבל חינוך בבית ספר יסודי בחדרה, בית מדרש למורים העברי בירושלים, בהאוניברסיטאות בלונדון, ובקמברידז באנגליה. קבל התוארים: LL.B., M. Litt., Barrister at Law
+
+ בשנת 1939 נשא לאשה את <persName>לאה</persName> (לילי) בת <persName>יוסף</persName> <persName>דוד בראף</persName> .
+
+ היה המורה הראשון בנתניה.
+
+ שירת בצה"ל.
+
+ פרסם שני ספרים - נובלות בעברית: "הרפתקאות ששון וגיורא" (הוצאת צ'יצ'יק, 1954) זכה
+
+ בפרס למדן. "הנחל היה הגבול" (1956). שני ספרים אלה מתארים חיי שני נערים ממושבה חדרה בתקופות מיד שלפני מלחמת העולם הראשונה על רקע היסטורי ראלי של הישוב העברי באותם הזמנים. הספרים עובדו למחזות לשידור ושודרו פעמים רבות ברדיו הישראלי.
+
+ כן פרסם ספר בהוצאת יהושע צ'יצ'יק, ת"א, בשנת 1963: Human Rights in the Old Testament" (זכויות האדם במקרא). ספר זה נכתב ונדפס באנגלית כספר מחקר בתולדות המשפט - ראשון במינו: המחבר מנסה לגלות בתאוקרטיה העברית במקרא את שרשי זכויות האדם במובנם המודרני של היום; וזה נעשה מתוך השוואת החוק הקודם (במקרא, מצרים, בבל, אשור וארץ ישראל) בינם לבין עצמם וכן בהשואת הקונסטיטוציות המודר
+
+
+ ניות לזו של התיאוקרטיה במקרא. לספר הקדמה מאת הפרופסור <persName>דויד דאובא</persName> מאוניברסיטת אוקספורד באנגליה.
+
+ בשנת 1954 נתמנה שופט - בבית משפט השלום בתל-אביב.
+
+ בתו: <persName>רבקה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4480 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4480</bibl><bibl>Volume: #14 ,Page: 4481 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4481</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

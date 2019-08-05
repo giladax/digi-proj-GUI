@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4520 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4520</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה מיכאל גלין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וולקוביסק</placeName> (רוסיה), כ"ג אב תר"ס (18.8.1900).
+
+ לאביו <persName>ישראל גלין</persName> ולאמו <persName>רחל</persName> בת<persName> אביגדור בלוך.</persName>
+
+ קיבל חינוך מסורתי וכללי. בוגר הגמנסיה של הומל (רוסיה), הטכניון בננסי (צרפת) וקיבל תואר מהנדס.
+
+ בימי החופש הגדול למד בישיבת "מיר" עד הבגרות.
+
+ היה יו"ר הארגון של תלמידי הגמנסיה בהומל (נוכרים ויהודים).
+
+ מו"ל ועורר העתון "תרבות" בטכניון בננסי.
+
+ היה פעיל בחוגי העוסקים באומנות (ספרות, ציור ופסול).
+
+ בראשון למאי 1930 עלה לארץ.
+
+ יחד עם <persName>יוסף חי קסטל</persName> (ראה כרך ג', עמוד 1451) יסד את אגודת "היכל התרבות" לקידום המחזה המקוה. הציגו בשעתו גם מחזה עם לאה גולדברג.
+
+ עסק בארגוני מסיבות והרצאות על עניני דיומא ובקרת הספרות והתרבות.
+
+ ב-11.8.43 קודש בלשכת הבנאים החפשים "ברקאי" בתל-אביב.
+
+ היה חבר פעיל בהגנה, במשמר האזרחי.
+
+ במלחמת השחרור גויס בחי"מ "גבעתי" והיה מכובשי שיך מונס ועוד.
+
+ מנהל מחלקת היבוא בחברה המייצרת מכונות חקלאיות.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4520 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4520</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

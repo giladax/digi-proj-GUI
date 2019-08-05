@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2926 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2926</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל ברוך</persName>
+
+</head>
+         <div><p> נולד ביפו, כ"ה כסלו תרס"ב (6.12.1901).
+
+ לאביו <persName>רפאל</persName> (בן <persName>שמואל ברוך</persName> שעלה מתורכיה לארץ בשנת 1870 ונשא לאשת את<persName> רחל שריזלי </persName> מירושלים ממשפחת רבנים. היה מהראשונים שבנה בתים בגבעת העליה (עג'מי) ביפו לשם ריכוז העולים היהודים בהם. ועד היום נקראים על שמו הבתים "בתי אבו-רפול". היה
+
+ מהחלפנים הראשונים ביפו) ולאמו <persName>לינדה</persName> בת <persName>יהודה בנאדו</persName> (מהעולים הראשונים מסופיה - בולגריה).
+
+ משנת 1918 פעיל במכבי היה מנהל מחסני יצחק כהן ביפו.
+
+ בשנת 1922 נשא לאשה את <persName>רחל </persName> בת<persName> מרקאדו יהודה</persName> <persName>רקיב</persName> (עו"ד) מירושלים ולאמה <persName>שמחה</persName> בת<persName> יוסף סתהון</persName> (קונסול פרס בירושלים לשעבר).
+
+ בשנת 1935 נתקבל בפקידות בועד הקהלה תל-אביב -יפו.
+
+ בשנת 1939 נתמנה לקופאי של המועצה הדתית.
+
+ בשנת 1943 נתמנה למנהל החשבונות הראשי והאחראי על ביצוע התקציב של המועצה הדתית.
+
+ חבר ועד העדה הספרדית והנהלתה, יו"ר ועדת הכספים שלה.
+
+ יו"ר קופת חולים הרמב"ם (ב-10 השנים האחרונות).
+
+ צאצאיו:<persName> רפאל, בלה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2926 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2926</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

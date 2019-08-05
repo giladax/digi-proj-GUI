@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1535 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1535</bibl><bibl>Volume: #4 ,Page: 1556 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1556</bibl>
+<bibl>Volume: #4 ,Page: 1557 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1557</bibl>
+<bibl>Volume: #4 ,Page: 1558 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1558</bibl>
+<bibl>Volume: #4 ,Page: 1559 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1559</bibl>
+<bibl>Volume: #4 ,Page: 1560 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1560</bibl>
+<bibl>Volume: #4 ,Page: 1561 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1561</bibl>
+<bibl>Volume: #4 ,Page: 1562 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1562</bibl>
+<bibl>Volume: #4 ,Page: 1563 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1563</bibl>
+<bibl>Volume: #4 ,Page: 1564 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1564</bibl>
+<bibl>Volume: #4 ,Page: 1565 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1565</bibl>
+<bibl>Volume: #4 ,Page: 1566 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1566</bibl>
+<bibl>Volume: #4 ,Page: 1567 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1567</bibl>
+<bibl>Volume: #4 ,Page: 1568 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1568</bibl>
+<bibl>Volume: #4 ,Page: 1569 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1569</bibl>
+<bibl>Volume: #4 ,Page: 1570 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1570</bibl>
+<bibl>Volume: #4 ,Page: 1571 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1571</bibl>
+<bibl>Volume: #4 ,Page: 1572 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1572</bibl>
+<bibl>Volume: #4 ,Page: 1573 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1573</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק רוקח</persName>
+
+</head>
+         <div><p> נולד בנוה צדק שביפו, ח' אב תרנ"ד (1.8.1894) לאביו<persName> ר' ש</persName> <persName>מעון (יליד ירושלים</persName> , מעסקני הישוב; ראה כרך א', עמוד 68) בן <persName>ר' יצחק</persName> (שעלה ארצה בן עשר עם אביו<persName> ר' יוסף</persName> ; ראה כרך א', עמוד 448) ולאמו
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1535 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1535</bibl><bibl>Volume: #4 ,Page: 1556 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1556</bibl>
+<bibl>Volume: #4 ,Page: 1557 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1557</bibl>
+<bibl>Volume: #4 ,Page: 1558 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1558</bibl>
+<bibl>Volume: #4 ,Page: 1559 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1559</bibl>
+<bibl>Volume: #4 ,Page: 1560 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1560</bibl>
+<bibl>Volume: #4 ,Page: 1561 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1561</bibl>
+<bibl>Volume: #4 ,Page: 1562 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1562</bibl>
+<bibl>Volume: #4 ,Page: 1563 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1563</bibl>
+<bibl>Volume: #4 ,Page: 1564 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1564</bibl>
+<bibl>Volume: #4 ,Page: 1565 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1565</bibl>
+<bibl>Volume: #4 ,Page: 1566 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1566</bibl>
+<bibl>Volume: #4 ,Page: 1567 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1567</bibl>
+<bibl>Volume: #4 ,Page: 1568 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1568</bibl>
+<bibl>Volume: #4 ,Page: 1569 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1569</bibl>
+<bibl>Volume: #4 ,Page: 1570 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1570</bibl>
+<bibl>Volume: #4 ,Page: 1571 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1571</bibl>
+<bibl>Volume: #4 ,Page: 1572 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1572</bibl>
+<bibl>Volume: #4 ,Page: 1573 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1573</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

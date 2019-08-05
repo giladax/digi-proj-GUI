@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1957 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1957</bibl><bibl>Volume: #4 ,Page: 1958 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1958</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יצחק ארנסט נבנצל</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פרנקפורט</placeName> (גרמניה), ט"ז בחשון תרס"ח (24.10.1907), לאביו<persName> ד"ר עקיבא יהודה</persName> (מצאצאי ר' <persName>שמלקה ניקולסבורגר, ר' שמואל הלוי איש הורביץ),</persName> ולאמו<persName> בתיה</persName> בת<persName> יצחק הירש.</persName>
+
+ סיים את הגימנסיה "מוסטרשולה" ב<placeName>פרנקפורט</placeName>. למד משפטים באוניברסיטאות פרנקפורט, ברלין, פרייבורג, קבל תואר ד"ר למשפטים. עסק בחקירות המשפט הרומי (1931). ב-1932 היה מרצה מדריך בחוק האזרחי, באוניברסיטה פראנקפורט.
+
+ היה חבר אירגון הסטודנטים הציונים בגרמניה ק. א. פ. (מאי 1925) ונשיא ארצי של אירגון נוער דתי "עזרא" (1929-1930).
+
+ ב-1933 נשא לאשה את<persName> הילדא </persName> בת <persName>ישעיהו</persName> (יוליוס) <persName>הולנדר.</persName>
+
+ באותה שנה עלה ארצה.
+
+ בשנים 1933-34 השתתף בהקמת הישוב על הכרמל המערבי.
+
+ השתקע בירושלים.
+
+ מנהל "חברת הולנדר ושות' בע"מ". מנהל ויועץ משפטי של "בנק יפת ושות'" בירושלים. מנהל המחלקה לפתוח ירושלים על יד הסוכנות היהודית.
+
+ נשיא לשכת ירושלים של "בני-ברית", חבר הקורטוריום של בית הנכאת "בצלאל", חבר הועד של אגודת האוניברסיטה ושל החברה לחקירת א"י ועתיקותיה.
+
+
+ משנת 1936 חבר ההגנה. במלחמת השחרור היה קצין במטה מחוז ירושלים ובמטה הכללי.
+
+ פרסם מאמרים בעתונים משפטיים וכלכליים, בשנת 1928 ביום השנה לייסוד מדינת גרמניה קבל פרס
+
+ ראשון על הספר "מחקר בחוק הגרמני" (נדפס 1930).
+
+ צאצאיו:<persName> אביגדור יחזקאל, פליאה-שרה, ישיעה,</persName> <persName>שולמית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1957 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1957</bibl><bibl>Volume: #4 ,Page: 1958 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1958</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

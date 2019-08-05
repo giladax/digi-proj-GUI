@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3502 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3502</bibl><bibl>Volume: #10 ,Page: 3503 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3503</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי אריה פופיק</persName>
+
+</head>
+         <div><p> נולד בכסלו תרס"ג (15.12.1902) בסטאניסלאבוב שבמזרח גליציה.
+
+ לאביו <persName>מרדכי ישראל</persName> (סוחר ידוע בגליציה, שבבחרותו נתנסה בהגירה לארגנטינה) ולאמו<persName> פסיה רחל </persName> לבית <persName>גרבר.</persName>
+
+ קיבל רק חינוך חילוני בבית ספר עממי ותיכון ממלכתיים בפולנית, ואת חינוכו העברי והציוני קיבל בתנועת "השומר הצעיר", שהגיע בה לתפקיד מדריך.
+
+ בעקב מהומות ורדיפות נמלט ב-1920 מעיר מולדתו עם חברתו <persName>ברוניה</persName> בת <persName>אברהם פוגל</persName> (גננת נודעת לשבח במקצועה שם), ואחרי הרפתקאות-דרכים רבות הגיעו לארץ כ"בלתי ליגאליים" ב-1921 והתקשרו בנשואין.
+
+ כאן עבד בנטיעת פרדסים ובבנין ואשתו היתה מפועלות הבנין הראשונות בארץ. היו ממיסדי קבוצת השומר הצעיר "תל-עדש", שהתנהלה בבית-אלפא, מראשוני שכונת נחלת יצחק ושכונת בורובוב (גבעתיים). היה חבר מועצת פועלי רמת-גן-גבעתיים ואשתו היתה חברה בועד שכונת בורוכוב. כעת הוא מפקח-בנין בעירית רמת-גן. מראשוני מפלגת הפועלים המאוחדת (מפ"ם).
+
+ כשוחר תחביב הבולאות הנו חבר המועצה באגודתהבולאים הישראלית ועורך המדור הבולאי ב"דבר לילדים". עוסק בשעות הפנאי גם בעבודה ספרותית בלשון האידית. כותב בעתון "נייוועלט" ובמאסף "צוויט" ועוד.
+
+ תרגומים משיריו ומסיפוריו נדפסו ב"דבר לילדים" וב"דבר" נדפס תרגום שירו "בלדה על יהודי שנשכח", שהועתק באנתולוגיות ובמאספים שונים. ספריו: "ליכט און שאטן" (שירים, הוצאת "אייגנס", 1938), "פאר באגין" (הוצאת "צוויט", 1940). ב-1939 יצא תרגומו האידי "פאטער פון די פארפעסטיקטע" לספר "אבי הניגפים" של הסופר הפולני הגדול יוליוש סלוואצקי.
+
+
+ צאצאיו: <persName>אברהם, אוריאל אופק</persName> (ראה בכרך זה), <persName>שולמית</persName> אשת<persName> נתן גורן-גרינר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3502 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3502</bibl><bibl>Volume: #10 ,Page: 3503 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3503</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

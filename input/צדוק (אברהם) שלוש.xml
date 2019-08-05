@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1789 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1789</bibl><bibl>Volume: #4 ,Page: 1790 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1790</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צדוק (אברהם) שלוש</persName>
+
+</head>
+         <div><p> נולד ביפו, ט"ז ניסן תר"ס (1900 15.4), לאביו <persName>יוסף</persName> <persName>אליהו</persName> (עסקן ישובי, מראשוני בוני העיר תל-אביב והשכונות; ראה כרך א', עמוד 386) ולאמו <persName>שמחה</persName> (פרחה) בת <persName>אברהם מויאל</persName> (נציג אגודת "חובבי ציון" מרוסיה ומנהל עניניה בארץ, מגואלי קרקעות ראשון לציון, עקרון וכו'; ראה כרך ג', עמוד 1185). קיבל חינוך מסורתי, למד בביה"ס של חברת כי"ח (אליאנס) ביפו והתחיל ללמוד רפואה בבירות.
+
+ ב-1919 התמנה ע"י שלטונות הכבוש הבריטי בתפקיד בעל חשיבות במחלקת העליה וההגירה הממשלתית ביפו.
+
+
+ ב-1922 נשא לאשה את <persName>שושנה </persName> (רוז) בת האגרונום <persName>מאיר אפלבוים</persName> (ראה כרך א', עמוד 464).
+
+ היה מחשובי הסוחרים וממנהלי חברת <persName>האחים</persName> <persName>שלוש</persName> . יסד את לשכת המסחר רומניה-ארץ ישראל ועמד בראשה עד סוף ימיו. פעל למען הידוק קשרי המסחר בין שתי הארצות ובהשתדלותו נחתם ב-1933 הסכם רשמי לסחר חליפין בין ממשלות שתי הארצות וקיבל בעד זה אות-כבוד גבוה מאת מלך רומניה. חשיבות השליחות לרומניה מוכרת גם על ידי הדין וחשבון של הלורד פיל. בקשריו אלו - הצליח להתיצב לפני המלך הרומני והשיג ממנו את ביטול האיסור להעביר מרומניה את כספי הקרנות לארצנו. ראשי הקה"ק וקרן היסוד הביעו לו את מיטב רחשי התודה שלהם, ברשמם אותו בספר הזהב של הקהק"ל.
+
+ היה פעיל במשך שנים בהנהגה המקומית והארצית של העדה הספרדית, בהנהגה המרכזית של המכבי ובפעולות צבוריות וציוניות שונות, ובשנים האחרונות מילא תפקיד חשוב כחבר ועדת הבטחון הישובית.
+
+ נפטר בתל-אביב, כ"ב כסלו תש"ט (24.12.48).
+
+ צאצאיו: <persName>אביעזר</persName> (מזכיר הצירות הישראלית בבוקרשט),<persName> רות</persName> (עתונאית).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1789 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1789</bibl><bibl>Volume: #4 ,Page: 1790 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1790</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1369 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1369</bibl><bibl>Volume: #3 ,Page: 1370 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1370</bibl>
+<bibl>Volume: #3 ,Page: 1371 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1371</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמעון סאמט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ז'ולקיב</placeName> (עיר בה חי ויצר ר' נחמן קרוכמל) שבגליציה המזרחית (כיום: רוסיה הסובייטית) ב-13 במארס 1904 לאביו ר' <persName>יעקב-יוסף סאמעט.</persName> (יהודי משכיל, בחור ישיבה שבעודו צעיר וחובש ספסל הרבי מבלז התקרב אל הציונות והפך במרוצת שנים לציוני נלהב ולנבחר ציוני במוסדות שונים) ולאמו <persName>לאה לבית</persName> <persName>שפריצר</persName> (שניהם עלו לארץ ישראל לאחר שהעלו הנה את שני הבנים והבת).
+
+ התחנך בימי ילדותו ברוח המסורת הישראלית ובהגיעו לגיל החינוך החילוני הוכנס לבית ספר
+
+ ששפת ההוראה העיקרית היתה פולנית בצד גרמנית, אחר כך לבית-ספר גבוה. למרות הרוח הפולנית הזרה ליהדות ששררה בכתלי חינוך אלה נמנה משחר ימיו על תנועת הנוער הציוני כפעיל בשורות "השומר הצעיר" ו"החלוץ". עם עברו הכשרה שימש מחנך ומדריך נוער יהודי מתבולל לתפיסה ונאמנות ציונית.
+
+ מ-1920 -1922 הכשיר את עצמו בחוות חקלאיות לקראת העליה לא"י. ואחר כך הוזמן להיות מחנך נוער בזלוצ'וב, משם עבר להכשרה עצמית בפלוגות עבודה חלוצית בלבוב, העיר הראשית של גליציה.
+
+ בימי נעוריו השתתף בעתונות הנוער ואף שימש עורך של הוצאת עלוני תלמידים. מזמן לזמן פרסם תאורים ריפורטאז'יים וסקירות חינוכיות בעתוני נוער.
+
+ בשנת 1926 עלה לארץ ישראל ואחר תקופה מסויימת של חברות בקבוץ ה"הכשרה" שבפתח-תקוה (יחד עם מאיר גרבובסקי - כיום מראשי - מפא"י) עבר לעבודה - אותה בחר כמקצוע - בעתונות. נתקבל לעבודת הריפורטאז'ה בעתון "דבר" ומשם עבר לעבוד במערכת "הארץ" כחבר המערכת משנת 1931 ועד היום הזה ללא הפסק.
+
+ במרוצת השנים ביקר פעמים רבות בשליחויות עתונאיות ב-15 ארצות. עליהן, הנעשה בהן ועל מסעותיו בכלל פרסם מאות כתבות וסקירות על דפי "הארץ", "9 בערב", "העולם הזה" והוצאות אחרות, שהוכיחו כשרון ריפורטאז'י-תאורי רב. שנים רבות שימש מא"י סופר מיוחד וקבוע של עתוני חוץ-לארץ בפולנית ובאידיש. מ-1938 השתתף בשידורי "קול ירושלים'' וכעת משדר בקביעות על גלי "קול ישראל''.
+
+ בשנת 1946 היה העתונאי העברי הראשון שביקר בשליחות מיוחדת של "הארץ" בפולין החדשה, זמן קצר לאחר שחרורה מהכיבוש הנאצי, היה שם אורחה של הממשלה הפולנית, פרסם עשרות כתבות על פולין בכלל ועל שרידי יהדות פולין בפרט ובשובו ממסע זה פרסם (בהוצאת הספרים צ. ליינמן) ספר מסעות בשם "בבואי למחרת" שזכה לתפוצה גדולה, לבקורת מצויינת ולפופולאריות בלתי רגילה. בחלקו תורגם הספר ונדפס באנגלית ובאידיש. כעבור שנה שימש
+
+
+ ניספח עתונאי למשלחת הישובית שביקרה במחנות הפליטים בקפריסין.
+
+ ממיסדי אגודת העתונאים בתל אביב וחבר הועד שלה מיום הוסדה. כיום - חבר הנשיאות של אגודת העתונאים.
+
+ נשא לאשה את הגב'<persName> אנדא</persName> בת<persName> מיכאל וויילר.</persName> בנו:<persName> גדעון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1369 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1369</bibl><bibl>Volume: #3 ,Page: 1370 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1370</bibl>
+<bibl>Volume: #3 ,Page: 1371 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1371</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

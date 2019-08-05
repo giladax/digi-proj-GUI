@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3335 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3335</bibl><bibl>Volume: #9 ,Page: 3336 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3336</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים לזר-ליטאי </persName>
+
+</head>
+         <div><p> נולד בשנת תרע"ד (31.5.1914) בפוניבז' שבליטא.
+
+ לאביו <persName>אליהו </persName> ולאמו <persName>בתיה</persName> בת <persName>שמואל דב יפה.</persName>
+
+ השתלם בתורה ובהשכלה כללית ועבד בפקידות והיה פעיל בתנועה הציונית הרביזיוניסטית.
+
+ במלחמת העולם השניה היה מדריך ומפקד במחתרת
+
+
+ הלוחמת בגיטו וילנה ואח"כ ממפקדי הפרטיזאנים ביערות ליטא ורוסיה הלבנה.
+
+ אחרי המלחמה פעל למען ריכוז שארית הפליטה והעלאתה לארץ בתפקידים דלהלן: חבר הועדה העליונה לארגון ה"בריחה" בפולין ובארצות אחרות באירופה, חבר המזכירות הארצית של תנועות הנוער ברומניה, נציב בית"ר באיטליה, חבר המרכז לגולה, חבר הנשיאות והמרכז של ארגון הפליטים באיטליה (בשנים 19451947) ונבחר כציר לקונגרס הציוני הכ"ב ב-1946.
+
+ ב-1944 נשא לאשה את<persName> חיה</persName> בת<persName> דב שפירא.</persName>
+
+ באביב 1947 עלה לארץ, המשיך בפעולות בעניני מפלגתו ושארית הפליטה, עובד בתפקיד מזכיר מרכז קופת חולים לעובדים לאומיים וממלא תפקידים צבוריים דלהלן: חבר המרכז והמזכירות הארצית של ארגון נכי המלחמה בנאצים ושל ארגון הפרטיזאנים ולוחמי הגיטאות, חבר המועצה העולמית של "יד ושם", חבר הנאמנים של מכון ז'בוטינסקי, חבר הנהלת סניף תנועת החרות של מרחב תל-אביב.
+
+ פרסם מאמרים ב"המשקיף'', "חרות", "קול נכי המלחמה בנאצים".
+
+ ואלה ספריו: "חורבן ומרד" (הוצאת "משואות", תש"י); "כיבוש יפו" (תשי"א); "מבצר עכו" (תשי"ג) (שניהם בהוצאת "שלח"), "לתולדות עליה ב' " (תשט"ז); "אף על פי - ספר עליה ב' " (תשי"ז). שניהם בהוצאת מכון ז'בוטינסקי).
+
+ צאצאיו:<persName> שרה, אלידב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3335 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3335</bibl><bibl>Volume: #9 ,Page: 3336 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3336</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

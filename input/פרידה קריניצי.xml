@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 991 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/991</bibl><bibl>Volume: #2 ,Page: 992 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/992</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרידה קריניצי</persName>
+
+</head>
+         <div><p> נולדה בעיירה פופלאני, פלך קובנה, ליטא, בשנת תרנ"ז (8.7.1897), לאביה <persName>נתן נטע אהרונוביץ </persName> ולאמה <persName>חנה פשה </persName> בת<persName> יוסף הרץ גליק.</persName> בילדותה עברה עם הוריה לעיר ליבאו שבלטביה ושם גמרה בית-ספר תיכוני עירוני למסחר ועסקה בפעילות ציונית בין הנוער.
+
+ באביב תרע"ד, חדשים מעטים לפני פרוץ מלחמתהעולם הראשונה, עלתה ארצה עם אמה ואחיה <persName>(ראובן</persName> <persName>אהרני, </persName> כיום סגן מנהל ה"סטלמנט" בת''א) והתישבו בת"א.
+
+ משפרצה המלחמה ובעקבותיה גדלו המשבר והמצוקה התמסרה בשקידה לפעולות עזרה לכושלים במטבח-עם "אחוה", בחנות לממכר לחם לנצרכים ובאגודת ההלבשה, שאספה בגדים ישנים ועסקה בתיקונם ובניקוים ועזרה בהלבשה לנצרכים ולתלמידי בתי-הספר. גם במקומות גלותה בחדרה ובכרכור, אחרי הגירוש הכללי מיפו ות"א באביב תרע"ז, המשיכה לפעול לעזרת הפליטים והמגורשים. ואחרי הכיבוש הוסיפה לעסוק בפעילות צבורית וסוציאלית יחד עם יתר העסקניות בנשי תל-אביב.
+
+ משנישאה ב-1931<persName> לאברהם קריניצי,</persName> נשיא המועצה המקומית ברמת-גן, היתה לו לעזר בעבודתו הצבורית וכבשה שטח-פעולה לעצמה כיושבת-ראש ויצ"ו המקומית והלשכה לעזרה סוציאלית ופעלה רבות לעזרת נצרכים וביחוד לאם ולילד, להזנת הילדים, ולרבים
+
+
+ הגישה עזרה מבלי שידעו כי לה הם חייבים תודה על כך, ורבים ראוה כ"אם רמת-גן".
+
+ אחרי מחלה קשה וממושכת נפטרה בבית-החולים בירושלים ביום י''ח אדר תש"א.
+
+ לפי החלטת מועצת רמת-גן הוקם לה ציון ב"גן אברהם" (לשעבר "גן הנצחון"). זוהי "פנת פרידה" בתוך הגן: מרבד דשא, עץ זית וספסל שיש, ועליו חרותות המלים "גמלה טוב כל ימי חייה".
+
+ בתה (מבעלה הראשון, <persName>חיים חנוך) ; שרה </persName> אשת <persName>אריה מוניץ.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 991 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/991</bibl><bibl>Volume: #2 ,Page: 992 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/992</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

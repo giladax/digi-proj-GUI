@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3858 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3858</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים בוגינסקי</persName>
+
+</head>
+         <div><p> נולד במילניק (פולין) בשנת תרס"ו (1906).
+
+ קיבל חינוך מסורתי.
+
+ משנת 1921 בתנועה החינוכית "השומר הצעיר''. מזכיר תנועת א"י העובדת בעירו.
+
+ עלה לארץ בתרצ"ג (1933).
+
+ פועל בנין ואינסטלציה בחיפה, תל-אביב ובניברק.
+
+ חבר הגנה משנת 1936.
+
+ מזכיר במחנות העבודה בבניית מחנות צבא במשך 8 שנים.
+
+ משנת 1938 חבר סיעה ב' במפא"י, וממארגניה הראשונים בבני-ברק.
+
+ חבר מזכירות מועצת פועלי בני-ברק משנת 1949.
+
+ חבר מועצת עירית בני-ברק משנת 1950.
+
+ חבר ההנהלה הארצית של קרן ביטוח לפועלי בנין משנת 1952.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3858 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3858</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

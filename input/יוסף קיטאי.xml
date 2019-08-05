@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4118 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4118</bibl><bibl>Volume: #12 ,Page: 4119 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4119</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף קיטאי</persName>
+
+</head>
+         <div><p> (ראה כרך י"א, עמוד 3771)
+
+ אני רואה חובה נעימה לעצמי להודות בזה למר <persName>קיטאי </persName> שנתן ידו למפעל -בעיקר, בכרך זה, ע"י אוסף חומר ותמונות מאישים שונים שהיה צורך לעורר אותם בהגשת החומר ולענות על השאלונים.
+
+
+ הוספות ותיקונים
+
+</p>
+<p>
+
+ תוספות: 
+
+ (ראה כרך י"א, עמוד 3771 וכרך י"ב, עמוד 4118)
+
+ גם לכרך זה (ולהכרך הקודם) נתן ידו למפעל, ע"י התענינותו באוסף חומר (ע"י השאלונים) ותמונות מאישים שונים בארץ, שהיה צורך לעוררם ולזרזם בהגשת הערכים. מר קיטאי, כעסקן צבורי במפעלים שונים, עשה את עבודתו בנאמנות ובמסירות רבה. ואני רואה חובה נעימה להודות לו בזה.
+
+
+ הוספות ותיקונים
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4118 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4118</bibl><bibl>Volume: #12 ,Page: 4119 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4119</bibl>
+            <bibl>Volume: #13 ,Page: 4352 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4352</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

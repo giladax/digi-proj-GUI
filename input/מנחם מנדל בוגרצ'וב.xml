@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 617 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/617</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם מנדל בוגרצ'וב</persName>
+
+</head>
+         <div><p> נולד בכפר צ'רניגובקה, ליד ברדיאנסק, פלך טאווריה (קרים), רוסיה, בשנת תרכ"ח (1868), לאביו ר'<persName> דב נחום</persName> (שהיה רב ושו"ב לאכרים היהודים באותו כפר, שהתישבו על הקרקע בהמרצתה ובעזרתה של ממשלת רוסיה הצארית) ולאמו<persName> מוסיה ביילה</persName> בת <persName>חיים קובלנוב</persName> . קיבל חינוך תורני מפי אביו ואח"כ השתלם בלימודי חול, בהשכלה כללית ובידיעת
+
+ הספרות העברית. התמסר לפעילות ציונית וצבורית יהודית, ביחוד בקרב הנוער והפועלים.
+
+ נשא לאשה את<persName> לאה</persName> לבי<persName>ת עזרת</persName> .
+
+ בתרס"ה עלה ארצה בזרם העליה השניה ועבד כפועל חקלאי בפתח-תקוה, וגם כאן מצא לו שטח פעולה צבורית לטובת חבריו הפועלים. שכר העבודה לא הספיק לפרנסת משפחה ולכן ארגן את חבריו
+
+ להתנחלות במשקי-עזר ויחד עם עוד כמה פעילים פנו לועד האודיסאי של חובבי ציון בבקשה לעזור להם בכיוון זה. כתוצאה מכך נוסד מושב-הפועלים הראשון, <persName>עין גנים</persName> , ליד פתח-תקוה וגם הוא היה בין המתנחלים בו, עיצב את דמות המושב על פי עקרונות של עבודה עצמית ועבודה עברית, עזרה הדדית וכו' וטיפל בהנהגת המושב ובהגשמת העיקרונות הללו במציאות, וכן היה שקוד לעזור לחברים במצבים קשים שונים אף באופן פרטי.
+
+ אחיו הוא הד"ר<persName> חיים בוגרשוב</persName> , מנהל הגימנסיה "הרצליה" בתל-אביב.
+
+ נפטר בתל-אביב, ט"ו אלול תרצ"ד ונקבר בנחלת יצחק.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 617 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/617</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

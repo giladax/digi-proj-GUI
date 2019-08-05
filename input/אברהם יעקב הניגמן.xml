@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4575 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4575</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם יעקב הניגמן</persName>
+
+</head>
+         <div><p> (המשך לכרך רביעי, עמוד 1673)
+
+ המאפיה החשמלית הראשונה בת''א הוכנסה על ידו.
+
+ נבחר יחד עם ר'<persName> עקיבא אריה ויס</persName> (ראה כרך א', עמוד 442) להעריך ולמיין בבנק הלאומי את התכשיטים שתרמו ל"קרן הגאולה" (מכשיר כספי זמני של ההסתדרות הציונית העולמית בשנות 1919-1921 במקום "קרן ההכנה". סיפקה את מרבית הכספים (למעלה מ-760 אלף ליש"ט) לעבודות ההנהלה הציונית בא''י, במקומה באה "קרן היסוד").
+
+ יחד עם <persName>אברהם הרצפלד</persName> (ראה כרך ב', עמוד 988) הגישו עזרה לגולים שנפגעו במחלת הטיפוס בדמשק (סוריה) אחרי גירוש יפו-ת"א במלחמת העולם הראשונה.
+
+ יחד עם העסקן ר' <persName>אליהו אהרן כהנא</persName> ז"ל (ראה כרך א', עמוד 392) סירבו מלקבל אפוטרופסות ע''י ועד הקהלה בת"א-יפו, על בתים שבעליהם נמצאו בחו"ל היות ולא רצו להוציא פסקי דין למכירת הרכוש הזה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4575 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4575</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

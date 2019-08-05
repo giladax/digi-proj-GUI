@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3637 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3637</bibl><bibl>Volume: #10 ,Page: 3638 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3638</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יוחנן שורצמן</persName>
+
+</head>
+         <div><p> נולד באנופריבקי, פלך קיוב, בשנת תרע"ה (14.7.1911). לאביו<persName> ישראל שורצמן</persName> ולאמו <persName>חוה</persName> לבית<persName> קניבסקי.</persName> קיבל חינוך מסורתי וכללי בעירו.
+
+ בשנת 1921 עלה לארץ.
+
+ המשיך להשתלם בבית הספר הריאלי בחיפה, בקולג' האמריקאי בבירות (לבנון), באוניברסיטאות של ליז' (בלגיה) ולוזאן (שויצריה).
+
+ קיבל תואר ד"ר (רופא) למחלות פנימיות וילדים. בשנת 1935 נשא לאשה את <persName>יוליה</persName> בת<persName> זוסיה פלקוביץ.</persName> יושב ראש סניף הסתדרות הרופאים הישראלי ברמת-גן.
+
+ כל השנים חבר פעיל בהגנה. היה מרכז השירות הרפואי בהגנה בשנות 1937-41.
+
+ היה קצין רפואי בדרגת קפטן בצבא הבריטי בשנים 1941-1946.
+
+ היה מפקד הגדוד הרפואי בצה"ל בדרגת רב-סרן.
+
+ צאצאיו:<persName> נורה, ליאור.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3637 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3637</bibl><bibl>Volume: #10 ,Page: 3638 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3638</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

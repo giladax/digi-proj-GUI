@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1287 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1287</bibl><bibl>Volume: #3 ,Page: 1288 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1288</bibl>
+<bibl>Volume: #3 ,Page: 1289 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1289</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אברהם צפרוני (ציפרונוביטש)</persName>
+
+</head>
+         <div><p> בן חיים צבי - נולד ב-כ' כסלו תרמ"ג בעיר פרילוקי, פלך פולטבה (אוקראינה). לאחר שגמר את הגימנסיה הרוסית עבר ללמוד באוניברסיטה ב
+
+ חו"ל-בווינה פילולוגיה שמית וקלסית, והוכתר בתואר ד"ר לפילוסופיה. לשם השלמת ידיעותיו ביהדות ובספרות העתיקה, למד גם בבית מדרש לרבנים בווינה. אחרי גמרו את חוק למודיו, התחיל לעסוק בהוראה, בבלשנות ובמחקר היהדות.
+
+
+ החל להתמסר לעבודה ספרותית- מדעית, ופרסם שורת מאמרים על נושאים בחכמת ישראל, ומאמרי בקורת על ספרים מדעיים ב"הצפירה", ב"השלח" וב"מולדת".
+
+ בשנת 1911 הוציאה "בבליותיקה גדולה" של "תושיה" בורשה את "הכוזרי" על פי המלומד השמי <persName>הירשפלד</persName> , לפי הרבה כתבי-יד ישנים בהשוואה למקור הערבי.
+
+ בשנת 1912, אחרי הופעת "הכוזרי", עלה לארץ לפי הזמנת הגמנסיה העברית "הרצליה" בת"א בתור מורה להסטוריה, תנ"ך, תלמוד, לטינית ופילוסופיה. בתפקיד זה עמד במשך עשרים ושתים שנה עד יום פטירתו.
+
+ היה פעיל מאד במוסדות החינוך . בארץ, חבר מרכז המורים, חבר הועד הפועל של מועצת המורים למען הקהק''ל וגם במשך מספר שנים מזכיר הועד הלאומי והשתתף בהכנת חוקת הבחירות לאספת הנבחרים הראשונה ביחד עם בן-צבי וד"ר טהון. בשנים האחרונות היה גם חבר ועד אגודת הסופרים, חבר ועדת השמות לרחובות בתל-אביב.
+
+ ערך לפי הזמנת הוצאת הד"ר יונוביץ את תרגומו של הד"ר יעקב סלע-בלובשטין "מקור חיים" לרשב"ג בעריכה כזו, שהפכה את התרגום הטוב למשובח ביותר. הכין ופרסם בהוצאה הנ"ל את "חובת הלבבות" לרבנו בחיי הספרדי בתרפ"ח. בהוצאה זו שפרסם, חשוב לא רק הפנים המתוקן על פי המקור הערבי, חשובים לא רק ההערות והתיקונים המרובים, אלא גם המבוא המפורט והחשוב. היה בין מיסדי "קופת הספר" ופרסם בה כמה חוברות פופולריות על "פלויוס", "יהושע בן נון" ו"אריאל אקוסטה'', תרגם לעברית את ספר "התלמוד" לפונק, בהוצ' "מדע" ליד הוצאת "קופת הספר".
+
+ היה מורה גם בסמינר למורות ע"ש לוינסקי בת"א.
+
+ נשא לאשה את אסתר בת נח גבריאל צלאל. ביחד עם א. ז. רבינוביץ ודוד שמעונוביץ ערך את "ספר השנה של ארץ ישראל", שיצאו לאור ממנו שני כרכים (תרפ"ג, תרפ"ד-פ"ה). השקיע בעריכת המחלקה שלו - המדעית, הרבה כח, עמל וכשרון.
+
+ כשהתחיל להופיע הרבעון "לשוננו" של "ועד הלשון" נמסרה העריכה לידו, ביזמתו של ח. נ. ביאליק ודוד ילין, וערך אותו במשך ארבע שנים.
+
+ כמו כן פרסם שורה של מאמרים ומחקרים מדעיים בעתונות הספרותית והמדעית בלועזית.
+
+ היה חבר הועדה הממשלתית לבחינות בגרות. חבר "המכבי" בת"א ומפעיליו.
+
+ נפטר בירושלים בי"א אלול תרצ"ג (2.9.1933) והובל לקברות. בתל-אביב בבית הקברות הישן.
+
+ צאצאיו: <persName>גבריאל, צבי, אילה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1287 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1287</bibl><bibl>Volume: #3 ,Page: 1288 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1288</bibl>
+<bibl>Volume: #3 ,Page: 1289 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1289</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

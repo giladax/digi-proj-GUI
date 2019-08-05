@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2662 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2662</bibl><bibl>Volume: #6 ,Page: 2676 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2676</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>סעדיה פז</persName>
+
+</head>
+         <div><p> נולד בכ"ח בטבת תרמ"ב (ראשית 1882) בשאמובו שבפלך מוהילב (רוסיה הלבנה).
+
+ לאביו <persName>אברהם</persName> (מלמד, שעבד ברוב ה"זמנים" במקומות רחוקים באוקראינה, חסיד חב"ד) ולאמו<persName> גנסיה</persName> בת<persName> משה יפה</persName> , במשפחה של דורות בני-תורה, שאחדים מזקניה עלו ארצה בערוב ימיהם ושימשו קשר חי בין המשפחה ובין ארץ-ישראל.
+
+
+ ל"יגורי"), אחיות: בכפר "הדר", ב"אביחיל", בתלאביב ואח מהנדס בקופת חולים של ההסתדרות בת"א.
+
+ צאצאיה. <persName>פנינה</persName> אשת <persName>בצלאל ירקוני, עמוס, יגאל,</persName> <persName>עזריה, רות</persName> (כולם בארץ).
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בחיפה, ה' טבת תשכ"ב (12.12.1961) (ראה כרך ששי, עמוד 2662)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2662 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2662</bibl><bibl>Volume: #6 ,Page: 2676 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2676</bibl>
+            <bibl>Volume: #12 ,Page: 4122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4122</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

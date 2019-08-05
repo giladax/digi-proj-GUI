@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2927 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2927</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אביגדור ענדא</persName>
+
+</head>
+         <div><p> נולד בירושלים, ט' אדר תרנ"א (1891).
+
+ לאביו ר' <persName>אברהם אריה ענדע</persName> (ראה בכרך זה, בעמוד 2883) ולאמו<persName> לאה </persName> בת ר' <persName>זוסמן כהן </persName> (נפטרה בירושלים, י''ד חשון תש"ב 4.11.1941).
+
+ קבל חינוך מסורתי בתלמוד תורה וישיבת "עץ-חיים" בירושלים.
+
+ בשנת תרע''ד נשא לאשה את<persName> רחל</persName> בת<persName> מוניש איזנמן.</persName> משנת 1907 סוחר בירושלים. במשך זמן קצר עלה כאחד היבואנים הגדולים בארץ במקצועו. רכש את אמונם של הסוחרים היהודים והערבים. הודות ליושרו ושיטתו
+
+ הכנה במסחר, שמר תמיד על אטיקה מסחרית, אטיקה שהיה מהראשונים להכניס בארץ, ושעליה היתה גאוותו.
+
+ בשנת תרפ"ח (1928) פרצה מחלוקת בכולל אוסטריה שנמשכה זמן רב, הרב הגאון ר' <persName>דוד שרייבר</persName> , נשיא
+
+ הכולל בחו"ל, מינה אותו בתור חבר בועד הנאמנים, לשם סדור הענינים. היה חבר פעיל בועד זה, שלא על מנת לקבל פרס, ולאחר שסדר את כל הענינים והעמיד את הנהלת הכולל על תלו, התפטר.
+
+ כן נתמנה ע"י הממשלה וחברי ההנהלה למנהל יחיד בבית היתומים דיסקין, לאחר ההשמצות הידועות שהביאו תקלה למוסד. גם בתפקיד צבורי זה הצליח. והנהו כיום חבר הנהלת המוסד הזה, וכן גבאי בבית הכנסת "רחביה" בירושלים.
+
+ צאצאיו:<persName> אברהם אריה</persName> (סוחר ובעל תעשיה)<persName> גמליאל</persName> (מוסמך למדעי הכלכלה, ורואה חשבון מוסמך), <persName>מרגלית</persName> אשת<persName> שלמה בר-אדון</persName> (תלמיד הפקולטה למשפטים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2927 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2927</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

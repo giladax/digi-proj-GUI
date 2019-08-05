@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 89 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/89</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שמעון אשריקי</persName>
+
+</head>
+         <div><p> נולד בעיר סאפי, מארוקו. בשנת תר"כ (1860), לאביו<persName> חיים</persName> , שהיה מעשירי עירו. בהיותו בן חמש עלה ארצה עם הוריו, ואביו, שהיה איש-מסחר, התישב ביפו והצטרף לראשוני הישוב העברי בה, גם הם מעולי מארוקו. כאן התמסר הנער ללימודי התורה והיה תלמיד ותיק להרב<persName> שלמה חזן</persName> . לאחר שנים אחדות, כשנפטר
+
+ אביו, עבר לירושלים, המשיך ללמוד בישיבה של חכמי הספרדים ונתפרסם כעילוי ולמדן מופלג. בהסכמתו נישאה אמו להראשון-לציון רבי<persName> אברהם אשכנזי</persName> , שאימצהו כבן לו.
+
+ נשא לאשה את<persName> בוליסה סול</persName> בת החכם והעשיר ר' <persName>אברהם פינסו</persName> , ממנהיגי העדה. יצא בשליחות הכולל לערי הודו ובבל, צפון-אפריקה וספרד, פעל לטובת העדה ולעצמו הסתפק במועט.
+
+ בשובו ממסעיו נתמנה לחבר בית-הדין של העדה והמשיך במשרתו זו עד טבת תרפ"א; אז הועלה לדרגת ראש-בית-דין במקום הרב <persName>יוסף חיים הכהן</persName> שנפטר, וניהל בכשרון את עניני העדה.
+
+ עסק גם בצרכי צבור כלליים והיה חבר ועד העיר ליהודי ירושלים בשנים הראשונות של מוסד זה. היה מחמיר על עצמו באורח-חיים של חסידות ופרישות, אך לגבי אחרים היה סבלן והתיחס בשלום ובחיבה לכל אדם בלי קנאות מחרחרת-ריב. היה מנעים שיר ושמחת החיים לא עזבתהו אף בשנותיו האחרונות למרות יסורים ופגעים שעברו עליו. לעת זקנה נסתמא וגם נפל למשכב, וכך עברו שתי שנותיו האחרונות תוך יסורים מרים, שקיבלם באהבה.
+
+ בנו<persName> חיים</persName> הוא מורה ראשי לשפה הערבית בגימנסיה הרצליה ובבית-הספר התיכוני למסחר בתל-אביב.
+
+ בתו<persName> וידה</persName> נישאה להסופר החכם והמלומד ר' <persName>יצחק</persName> <persName>יחזקאל יהודה</persName> . היתה הראשונה בבנות עדות המזרח
+
+ שגידלה את ילדיה מקטנותם בשפה העברית והרבתה להיטיב במעשי צדקה וחסד בסתר (נפטרה בירושלים, עוד בחיי אביה, י"ד אדר תרפ"ז). נפטר בירושלים, כ"ו סיון תר"ץ.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 89 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/89</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1520 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1520</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גדליהו ירושלמי (ירוזלימסקי)</persName>
+
+</head>
+         <div><p> נולד בביאליסטוק, פלך גרודנה בשנת תרכ"ז (1867), לאבי<persName>ו דן.</persName> למד בחדרים ובישיבות והתמחה במסחר בעסקי אביו.
+
+ בתר"ן נשא לאשה את <persName>רחל </persName> בת <persName>חיים רבינוביץ.</persName> (נפטרה בתל-אביב, ו' כסלו תרצ"ח).
+
+ עסק במסחר באריגים, נמנה בין הסוחרים ובעליהבתים האמידים בביאליסטוק ותמך במוסדות תורה וחסד.
+
+ אחרי עלות בניו בא לבקר בארץ בשנת תרפ"ח, ובשנת תרצ"א חיסל את עסקיו ורכושו ועלה להשתקע בארץ. השתתף עם בניו בהקמת בית-החרושת לכותנה <persName>האחים ירושלמי </persName> ובניהולו וכן בניהול יתר עסקיהם. השתתף גם בעסקנות דתית והיה מפעם לפעם שליחצבור בבית-הכנסת הגדול בתל-אביב.
+
+ נפטר בתל-אביב, ז' תמוז תרצ"ג (1.7.33).
+
+ צאצאיו :<persName> בצלאל, חיים, זלמן, דן, צילה </persName> אשת <persName>בנימין לוריה, ביילה</persName> אשת<persName> דוב גורזון, רבקה </persName> אשת <persName>יוסף קוטיק, חסיה</persName> אשת<persName> יצחק חנין.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1520 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1520</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

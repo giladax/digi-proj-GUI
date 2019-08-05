@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1813 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1813</bibl><bibl>Volume: #4 ,Page: 1814 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1814</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק קורן</persName>
+
+</head>
+         <div><p> נולד בקישינוב, פלך בסראביה, רוסיה, י"א אדר תרע"א (13.3.1911) לאביו <persName>אברהם</persName> ולאמו<persName> שרה</persName> בת<persName>חיים בארון</persName> מחוטין.
+
+ קיבל חינוך עברי וכללי. גמר לימודי משפטים באוניברסיטת יאסי ופעל כעורך-דין בקישינוב.
+
+ ב-1935 נשא לאשת את <persName>קלרה</persName> בת <persName>משה טלמזסקי.</persName> היה מזכיר מפלגת "צעירי ציון" וחבר הנשיאות של ההסתדרות הציונית בבסראביה. ערך את השבועון "ערד און ארבעט" של "צעירי ציון" במשך 4 שנים יחד עם חברו <persName>מ. קוטיק</persName> וכתב בקביעות ב"אונזער צייט": השתתף כאחד מצירי יהודי בסראביה במושב הקונגרס היהודי העולמי בז'נבה. יסד ב-1935 את אגודת "בוסליה" (על שם <persName>יוסף בוסל</persName> , איש דגניה) וב-1938 יסד בקישינוב את איגוד הסטודנטים וערך והוציא את עתונם "אונזער וועג". באותה שנה השתתף במשלחת יהודי רומניה שבאה לארץ בראשותו של הרב הראשיד"ר<persName> י. נמירובר</persName> ליצג את דרישת יהודי רומניה לאפשר את עלייתם (בימי השלטון האנטישמי המובהק, יותר מהרגיל, של ממשלת גוגא-קוזא). היה ציר בשלשה קונגרסים ציוניים מבסראביה וברביעי מהארץ (האחרונים).
+
+ עלה לארץ במאי 1940. מתש"א עד תש"ג ניהל את מחלקת ההסברה והארגון של המשביר המרכזי ומתש"ד ואילך הנו מזכיר תנועת המושבים והארגונים. השתתף
+
+
+ בפעולות ארגון יוצאי בסרביה (בסביבת גבעת שמואל), יזם מפעל עזרה לפליטים ברוסיה והשתתף בהקמת שכונת יוצאי בסראביה. בתש"ט השתתף ביזמה ובביצוע המפעל ההתישבותי "ממחנות העולים אל הכפר", שבוצע על-ידי מחלקת ההתישבות של הסוכנות ותנועת המושבים.
+
+ מלא תפקידים שונים במשך 8 שנים ב"הגנה". חבר פעיל במפלגת פועלי א"י (מפא"י).
+
+ פרסם מאמרים ב"דבר", "הפועל הצעיר" ו"תלמים". ערך והוציא את כתבי <persName>ד"ר י. ברנשטיין-כהן</persName> והכין לדפוס מונוגרפיה על קהלת קישינוב.
+
+ צאצאיו (שנולדו בארץ):<persName> רות, דן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1813 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1813</bibl><bibl>Volume: #4 ,Page: 1814 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1814</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

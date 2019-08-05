@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2112 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2112</bibl><bibl>Volume: #5 ,Page: 2113 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2113</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי אלון (פיקוביץ)</persName>
+
+</head>
+         <div><p> נולד בראש פנה, ט"ו בשבט תרס''א (1901), לאביו <persName>ראובן יוסף </persName> (מראשוני כפר תבור ומטובי אכריו ומגיניו) ולאמו <persName>חיה</persName> בת <persName>אלתר שווארץ</persName> מצפת (מראשוני ראש פנה). (ראה עליהם בכרך ד' בעמוד 1569).
+
+ התחיל ללמוד בביה"ס בראש פינה. עבר עם הוריו בילדותו לכפר תבור, כשהתנחלו שם בין הראשונים, ושם גמר את לימודיו. אח"כ עבד במשק ההורים והיה פעיל בחיים החברתיים והצבוריים של הנוער המקומי ובקרבות עם השכנים הרעים להגנת המקום והרכוש היהודי.
+
+
+ ב-1921, כשבאו שוסים מעבר הירדן ושדדו מהשדה את העדר של הכפר יצא עם אביו ועם כמה בחורים לרדוף אחדי השודדים. הסתער עליהם ובקרב נפצע קשה בצלעותיו, התגבר על שוטר ערבי שבא לעזרתם כביכול, הוריד אותו מעל סוסו ועלה עליו לרכב אל הכפר לקבל עזרה ראשונה. לבל יגרום צער ובהלה לאמו במראהו כשהוא שותת דם, עבר ליד הבית והמשיך
+
+ את דהירתו עד בית המרקחת. ואחרי שקיבל עזרה ראשונה שכב כמה חדשים עד שהבריא. (באותו קרב נהרג קרובו <persName>משה קלימנטובסקי</persName> - ראה עליו בכרך זה - ונפצע קשה <persName>נחמן קרניאל</persName> ). המשיך להשתתף בשורות ה"הגנה" ובחיים הצבוריים המקומיים כחבר בהסתדרות "בני בנימין" וחבר ועד הסניף המקומי.
+
+ ב-1931 נשא לאשה את <persName>לאה</persName> בת <persName>שלמה גולדמן</persName> (מראשוני כפר תבור. טבעה בימה של נתניה) ובזיווג שני נשא לאשה את <persName>חנה </persName> בת <persName>זונדל חנוך וייסמארק.</persName>
+
+ התישב בנתניה בין ראשוני מיסדיה ועסק בחקלאות. במשך כמה שנים היה חבר הועד, המועצה המקומית ואח"כ העירונית של נתניה ומוכתר המקום עד היום. וכיום הנו מנהל מחלקות הנטיעות והגנים בעירית נתניה. היה יו"ר הסתדרות החקלאים בנתניה, ממיסדי סניף "פרדס", חבר ועד הסניף וחבר המועצה המרכזית של "פרדס", חבר הנהלת החברה המקומית "פרי שרון", ממיסדי בנק הלואה וחסכון המקומי וחבר הנהלתו, חבר מועצת התאחדות האכרים, חבר חברת "בוני נתניה" ו"החקלאי הצעיר" להספקת מים.
+
+ בנו:<persName> שלמה </persName> (הצטיין באליפות נוער מקומית באתלטיקה קלה וכסמל-מדריך בגדנ"ע קיבל כמה פרסי הצטיינות בספורט).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2112 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2112</bibl><bibl>Volume: #5 ,Page: 2113 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2113</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

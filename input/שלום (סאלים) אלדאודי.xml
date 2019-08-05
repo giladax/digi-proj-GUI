@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 207 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/207</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלום (סאלים) אלדאודי</persName>
+
+</head>
+         <div><p> נולד בצפת, בשנת תר"ל (1870) , לאביו הרב <persName>מכלוף אלדאודי</persName> , חכם באשי ורב בעכו ובחיפה, שעלה ארצה בילדותו ממאראקאש, בירת מארוקו, עם הוריו ודודו ר'<persName> שלום </persName> שהשתתף בקימום הישוב בצפת אחרי חורבנו ברעש תקצ"ז ובפרעות תקצ"ח, ולאמו בת הרב<persName> מרדכי עבו</persName> מצפת, שהיה אחי הרב <persName>שמואל עבו</persName> , קונסול צרפת בצפת ובטבריה; ומשפחת אלדאודי היא מגזע הגאון ר' חייא<persName> אלדאודי </persName> מאנדלוסיה (ספרד), שלפי ספר היוחסין לר'<persName> אברהם זכותא</persName> ומקורות אחרים היה מגזע דוד המלך ולפיכך נקראה המשפחה בשם זה וגם בשם<persName> אבן-דאודי</persName> .
+
+ למד תורה מפי אביו וחכמי הספרדים בצפת, ואת שפת ערב וספרותה למד בבית-מדרשו של רבי זכי כהן בבירות. עבד בהוראה בבתי-הספר של חברת כי"ח בטבריה ובירושלים ואח"כ היה מורה בערי מצרים - 
+
+ מורה לעברית בטאנטה, מורה לערבית בקאהיר ובאלכסנדריה. בקאהיר היה מזכיר בית-הדין הרבני בנשיאותו של הרב הראשי <persName>אהרן בן-שמעון.</persName> שם תרגם והוציא לאור את "אהבת ציון" של מאפו בערבית, בשתי מהדורות, ועתוני מצרים וסוריה גמרו עליו את ההלל, ואף הרב בן-שמעון הנ"ל והרב<persName> אברהם</persName> <persName>אבוכזיר, ראב"ד </persName> באלכסנדריה, כתבו עליו דברי שבח במבוא הספר. אח"כ חזר ארצה והיה מורה בבתיהספר של רשת החינוך הכללית ביסוד המעלה, ראש פנה, צפת, עקרון, ראשון לציון ומורה לערבית בגימנסיה הרצליה בתל-אביב ובביה"ס הריאלי בחיפה. כתב בעתונות הערבית במצרים על סגנון וספרות ועל אהבת עם ישראל לארצו. ביקר פעמים במארוקו ונאם בקהלות ישראל שם למען ישוב ארץ-ישראל.
+
+ בנו<persName> אבישי</persName> שרת בצבא במשך כל שנות מלחמתהעולם השנית.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 207 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/207</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

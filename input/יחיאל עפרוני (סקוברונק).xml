@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2501 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2501</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יחיאל עפרוני (סקוברונק)</persName>
+
+</head>
+         <div><p> נולד ורשא (פולניה) כסלו תרס"ב (1901).
+
+ לאביו<persName> דוד צבי סקוברונק </persName> ולאמו <persName>פייגה </persName> בת<persName> יהודה</persName> <persName>ליב פרום.</persName>
+
+ קבל חנוך יהודי לאומי מפי הסופר והמורה אורינובסקי ובגמנסיה הפולנית השתלם למהנדס דרכים.
+
+ היה חבר בתנועת החלוץ בהנהגתו של הפרופ' ריגר בורשה. מדריך בקבוצת צעירי החלוץ.
+
+ בשנת 1921 עלה לארץ.
+
+ עבד כפועל ביבוש הביצות בקברה, בכרמי זכרון יעקב.
+
+ היה פעיל כחבר ההגנה בחיפה ובעמק.
+
+ בשנת תרצ"ד נשא לאשה את אביגיל בת<persName> משולם</persName> <persName>זוסי זמל</persName> מנס-ציונה (ראה בכרך זה).
+
+ על אף הדרכים המשבשות וחזקת הסכנה במקום
+
+ עבודתו במחנה עתליט, המשיך בסלילת כבישים. כשחזר לביתו בירושלים אחרי שפרצו בה פרעות דמים, פגע בו כדור מרצחים בשערי ירושלים, במעלה הר אבוגוש ונהרג ביום כ''ו טבת תרצ"ח (30.12.1937).
+
+ בנו: <persName>רם.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2501 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2501</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3487</bibl><bibl>Volume: #10 ,Page: 3488 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3488</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>טובה מייברג</persName>
+
+</head>
+         <div><p> נולדה בניסן תר"ן (אפריל 1890) בצפת.
+
+ לאביה <persName>יוסף ליבמן</persName> (ר' <persName>יוסל חוטינר</persName> - ראה כרך א', עמוד 235) ולאמה <persName>חיה פייגה </persName> בת ר' <persName>שלמה כץ</persName> , הרב ממוינשט.
+
+ נתחנכה בבית ההורים ברוחם ובדוגמת אורח-חייהם בקיום מסורת האבות ובמעשי צדקה וחסד.
+
+ נישאה לר' <persName>יהודה מייברג</persName> (נפטר בצפת, ט"ו בטבת תשי"ח - 7.1.1958 - ראה כרך א', עמוד 53).
+
+ היתה לו כל ימיה עזר-כנגדו נאמנה ויעילה ביזמה ובפעילות כלכלית וצבורית (כמפורט בערך שלו, כנ"ל), וכשבאו לבקש ממנו עזרה ועצה ולא היה בבית, השכילה למלא את מקומו, שהבאים לפנות אליו לא ישובו ריקם, ואף בדברי עידוד, שמקורם בלב טוב וברצון להיטיב, חיזקה ידים רפות והנעזרים נשאו את שמה על שפתותיהם בברכה. גם לעצמה ולביתה מצאה באמונתה ובחכמתה כח ואומץ לעמוד במצבים קשים. מהאמהות בישראל, ששימשו מקור כח ובסיס איתן לקיום היהודי בבירת הגליל העליון ולהמשך השרשרת המפוארת של הישוב היהודי בצפת ושמירת ערכיו בחומר וברוח, ביחוד הגדילה לעשות לעזרת לומדי תורה.
+
+ בשנים האחרונות של בעלה, כאשר בגלל מחלתו היה זקוק מאד לעזרה, טיפלה בו בכל המסירות, אף כי גם היא עצמה לא היתה עוד בקו הכח והבריאות, ותוך מאמץ להארכת חייו שלו ניתק פתיל חייה שלה. ורק פחות מרבע שנה השאירתו בלעדיה בעולם הזה.
+
+ נפטרה בצפת, כ"ב תשרי תשי"ח (17.10.1957).
+
+
+ צאצאיה: <persName>יעקב </persName> (ראה כרך ד', עמוד 1836), <persName>אילה</persName> אשת <persName>זאב אדלר, שרה</persName> אשת <persName>שלמה פרידמן, מאיר </persName> (ראה כרך ד', עמוד 1675), <persName>יצחק.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3487</bibl><bibl>Volume: #10 ,Page: 3488 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3488</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

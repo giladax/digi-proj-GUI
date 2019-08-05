@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2167 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2167</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי גורדייסקי</persName>
+
+</head>
+         <div><p> נולד במיר (רוסיה), בשנת תרמ"ח (5.9.1888) לאביו <persName>יצחק</persName> ולאמו <persName>נסיה</persName> בת <persName>רינשטין.</persName>
+
+ בתרנ"ה עלה עם הוריו ארצה וקיבל חינוך בבית הספר העממי במושבה.
+
+ אביו התנחל ברחובות, וצבי התערה בחיי משפחת האדמה, ויהי בעצמו לאכר למופת.
+
+ נשא לאשה את <persName>רחל</persName> בת<persName> יונה אליעזר לוינשטין.</persName> התמסר לחקלאות בכלל ולפרדסנות בפרט. בעצמו
+
+ היה לפרדסן ואף גם ניהל את העבודה בפרדסיהם של משה סמילנסקי, חים לוינסון ועוד. לקח חלק פעיל בחיי המושבה. היה חבר המועצה המקומית, קפת-מלוה, ובועד-החקלאי במושבה.
+
+ עיקר מסירותו היתה לחקלאות, לאדמה, לשיח, לעץ ולצמח בכלל. ובעוד סגולה אחת הצטיין: מעולם, אף גם בשעות הדחק היותר קשות והחמורות, מעולם לא נשמעה תלונה מפיו.
+
+ נפטר ברחובות י"ב אדר התש"ז.
+
+ בניו : <persName>יונה אליעזר, יוסף.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2167 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2167</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3519 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3519</bibl><bibl>Volume: #10 ,Page: 3520 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3520</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ברוך בז</persName>
+
+</head>
+         <div><p> נולד בהורודיק (רוסיה) בשנת תרנ"ח (15.2.1898).
+
+ לאביו<persName> הלל </persName> בן <persName>ברוך הכהן</persName> (משפחת רבנים) ולאמו <persName>מנוחה </persName> בת <persName>מיכאל ברקוביץ.</persName>
+
+ קיבל חנוך מסורתי ולאומי תיכוני.
+
+ עבד כמכונאי בבית חרושת לטקסטיל.
+
+ היה חבר בהחלוץ.
+
+ ב-16 לספטמבר 1924 עלה לארץ.
+
+ בשנת 1927 נשא לאשה את<persName> דינה </persName> בת<persName> יוסף שלנגבום.</persName>
+
+ שירת במשטרה המעולה. סמל במשטרה, ו-9 שנים בנוטרות.
+
+
+ כל השנים פעיל בהגנה, ברכישת נשק להגנה ובעליה בלתי ליגלית.
+
+ לחם בעד עבודה עברית.
+
+ היה פעיל בעניני צבור (תרבותית ופוליטית).
+
+ יו''ר המועצה המקומית מטולה.
+
+ בתו:<persName> שולמית</persName> אשת<persName> אריה ליברמן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3519 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3519</bibl><bibl>Volume: #10 ,Page: 3520 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3520</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

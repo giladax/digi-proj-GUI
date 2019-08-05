@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3996 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3996</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר מנחם ליבוביץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וילנה</placeName> (רוסיה), כ' תמוז תרס"א (25.6.1901). לאביו ר'<persName> יחזקאל ליבוביץ </persName> ולאמו <persName>לאה מרים</persName> בת <persName>אברהם אהרן.</persName>
+
+ קיבל חינוך מסורתי. גמנסיה יהודית ב<placeName>וילנה</placeName> ואוניברסיטה ג'נה ובבזל.
+
+ היה פעיל באירגון הסטודנטים.
+
+ בשנת 1928 קיבל תואר רופא כללי באוניברסיטה ג'נה.
+
+ עבד כרופא בבית החולים העירוני באופנבורג.
+
+ בשנת 1930 עלה לארץ.
+
+ בשנות 1930-31 כרופא בבית החולים "עין גדי".
+
+ בשנות 1931-33 כרופא בבאר טוביה.
+
+ בשנות 1933-48 כרופא בבאר-יעקב.
+
+ בשנת 1933 נשא לאשה את<persName> לאה</persName> בת<persName> יהודה ליב מטמון</persName> <persName>כהן,</persName> מיסד הגמנסיה העברית '"הרצליה" בת"א (ראה כרך א', עמוד 468). עסקנית ציבורית, חברת ועד ארגון נשים ליברליות, ויצ"ו, ברית ראשונים ועוד ברמת-גן.
+
+ שירת בתור נוטר והגיש עזרה רפואית לצה"ל במלחמת העצמאות.
+
+ מנהל מרכז הבריאות העירוני בעירית רמת-גן.
+
+ חבר ההנהלה של "מגן דוד אדום" ברמת-גן. כתב מאמרים (בגרמנית) בעניני בריאות. השתתף בכינוסים שונים בעניני רפואה.
+
+ בנו:<persName> עמיצור.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3996 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3996</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

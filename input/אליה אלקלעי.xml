@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4452 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4452</bibl><bibl>Volume: #14 ,Page: 4453 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4453</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליה אלקלעי</persName>
+
+</head>
+         <div><p> נולדה בירושלים בשנת תרס"ד (1904).
+
+ לאביה <persName>יוסף</persName> ולאמה<persName> חנה אלקלעי</persName> (ראה בכרך זה).
+
+ היתה מן הבוגרות הראשונות של בית הספר
+
+
+ לטיפול בתינוקות, מיסודה של הסתדרות נשים ציוניות.
+
+ עבדה כאחות בבית החולים "משגב לדך" בעיר העתיקה בירושלים.
+
+ בשעת המצור על ירושלים, במלחמת הכיבוש, היתה מגוייסת ועוזרת במקצועה בסביבות העיר הנצורה, במקומות המסוכנים ביותר.
+
+ לאחר מכן עבדה כאחות בקופת חולים הכללית של ההסתדרות, בגבעתיים.
+
+ ידועה כאחות למופת הן בטפול תינוקות והן בבוגרים. שמה הטוב הלך לפניה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4452 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4452</bibl><bibl>Volume: #14 ,Page: 4453 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4453</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

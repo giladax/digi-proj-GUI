@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3874 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3874</bibl><bibl>Volume: #11 ,Page: 3875 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3875</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זאב יוסף צוייג.</persName>
+
+</head>
+         <div><p> נולד בתל-אביב, כ"א אייר תרפ"ב (19.5.22).
+
+ לאביו<persName> שמואל</persName> ולאמו<persName> חוה.</persName>
+
+ את ילדותו בילה בעפולה, שבה גמר שש כיתות של בית ספר עממי.
+
+ בשנת 1933 עברו הוריו לגור לתל-אביב וכאן המשיך ללמוד בבית ספר "תחכמוני''. באותה תקופה נכנס לבית"ר והיה פעיל בה. ועבר בה קורס למפקדים.
+
+ כתוצאה מתאונה נקעה רגלו ושנתיים ימים היה מרותק למטה. בהבריאו, החל לעבוד כטכנאי לרדיו, אבל את רוב זמנו הקדיש לארגון הצבאי הלאומי שאליו הצטרף.
+
+ ב-8 בספטמבר 1944 נעצר על ידי הבריטים והיה בין ה-251 הגולים הראשונים אשר נשלחו לאריתריאה.
+
+ בינואר 1946 הוחזר מאריתריאה לארץ ונכלא במחנה המעצר בלאטרון שבה שהה כמה חדשים נוספים עד ששוחרר.
+
+ על אף סבלותיו לא הפסיק את עבודתו במחתרת והמשיך להקדיש לה את רוב זמנו.
+
+ כאשר הארגון הצבאי הלאומי יצא לפעולת ההסתערות על יפו, לשם כיבושה של עיר הפורעים, היה הוא בין ראשוני המסתערים וביום הראשון להסתערות, ט"ז ניסן תש"ח (25.4.1948) נפל חלל מכדורי האויב.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3874 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3874</bibl><bibl>Volume: #11 ,Page: 3875 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3875</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

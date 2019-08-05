@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4705 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4705</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהושע ברזילי (פולמן) </persName>
+
+</head>
+         <div><p> נולד ברמת גן, ל' אב תרצ"ו (18.8.1936).
+
+ לאביו<persName> מרדכי יצחק פולמן </persName> (לפי המסורת של המשפחה, שלשלת היוחסין שלה מגיעה עד ר' <persName>שאול</persName> <persName>ויהאל מפולין)</persName> ולאמו<persName> ברכה אילה</persName> בת<persName> יהושע</persName> <persName>איזנברג</persName> .
+
+ קיבל חינוך יסודי ותיכון בארץ. בשנת תשכ"ד קיבל מטעם האוניברסיטה ע"ש "בר-אילן" ברמת-גן את התואר "בוגר למדעי הרוח" - בספרות עברית ובפילוסופיה יהודית. ממשיך ללמוד לקראת התואר "מוסמך למדעי הרוח" בספרות עברית באוניברסיטה העברית בירושלים. 
+
+ פרסם מאמרים ב"אומר".
+
+ פרסם ספרים "ביבליוגרפיה של רבעון "התקופה" תרע"ח-תש"י, נתפרסם בשנת - תשכ"א); "ביבליוגרפיה של כתביו העבריים של הפרופ'<persName> ברוך</persName> (בנדיקט) <persName>קורצויל"</persName> , תש"ב-תשכ"ב. נתפרסם בשנת תשכ"ד); "ביבליוגרפיה של ירחון השלוח", תשכ"ד.
+
+ עובד כביבליוגרף במכון "גנזים" שליד אגודת הסופרים העברים בת"א.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4705 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4705</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

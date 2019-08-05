@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1415 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1415</bibl><bibl>Volume: #3 ,Page: 1416 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1416</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יעקב פיגנבאום</persName>
+
+</head>
+         <div><p> נולד ביאסי, רומניה, ט' תמוז תרס"ז (21.6.1907), לאביו <persName>אברהם (סוחר) </persName> ולאמו <persName>לאה </persName> לבית<persName> נובאק.</persName> קיבל
+
+ חינוך מסורתי וכללי בבי"ס תיכון ואח"כ למד באוניברסיטת יאסי. היה פעיל שם בהנהלת "המכבי הצעיר" ובאגודות הסטודנטים "חשמונאי".
+
+ ביוני 1930 עלה ארצה והמשיך את לימודיו במחלקה למדעי הטבע של האוניברסיטה העברית בירושלים.
+
+
+ היה מהמוסמכים הראשונים במחלקה זו והדוקטור הראשון ליביאו-חימיה של האוניברסיטה.
+
+ ב-1937 נשא לאשה את <persName>אורה</persName> בת <persName>משה ברזילי</persName> <persName>אייזנשטאדט</persName> , בנו של העסקן הישובי ר' <persName>יהושע ברזילי</persName> אייזנשטאדט (ראה כרך א', עמוד 150).
+
+ עבד כעוזר במעבדות לביאו-חימיה ולחקר הסרטן באוניברסיטת ירושלים וכיועץ מדעי וטכני ומומחה לתעשיות המזון בממשלת המנדט בארץ. במדינת ישראל נתמנה להמשיך בתפקידו כיועץ מדעי וטכני בעניני תעשיות המזון ומנהל מחלקת התעשיה כאגף הפיקוח על המזונות שבמשרד למסחר. תעשיה ואספקה.
+
+ פירסם את הישגי חקירותיו באוניברסיטה העברית במאמרים מדעיים רבים בעתונות בארץ, בארה"ב, אנגליה, צרפת והולנד. ב-1947 הוציא את ספרו "תעשית המזון, מהותה ותהליכיה" (יצאה גם בתרגום אנגלי באמריקה בהוצאה יללו).
+
+ ממשיך בחקירותיו המדעיות לשיפור תעשית המזון ועומד על משמר התפתחות תעשיה זו בישראל.
+
+ בתו: <persName>ניצה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1415 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1415</bibl><bibl>Volume: #3 ,Page: 1416 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1416</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3496 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3496</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר משה (מרטין) זולטן</persName>
+
+</head>
+         <div><p> נולד בשנת תרנ"ב (22.8.1892) בגולוב שבפרוסיה המערבית, גרמניה.
+
+ לאביו <persName>שמעון</persName> ולאמו <persName>רחל </persName> בת<persName> מיכאל לוין.</persName> גמר גימנסיה ריאלית בטורן ואוניברסיטת ברלין והוסמך לד"ר לריפוי שיניים. היה ציוני מגיל 16 ובשנות לימודיו היה חבר באגודות-סטודנטים ציוניות.
+
+ ב-1920 נשא לאשה את <persName>מינה</persName> בת<persName> אברהם זילברשטיין</persName> . עם העיסוק במקצועו התמסר לדאיה ולהשתלמות בבניית דאונים, ועוד ב-1914 זכה בפרס ראשון בינלאומי במודלים של דאונים, וכן התמסר להדרכה בדאיה.
+
+ ב-1935 בא למכביה השניה והביא עמו שני דאונים ו-10 מומחים לדאיה ולתעופה אזרחית, ובכך הניח את היסוד לפיתוח התעופה האזרחית בארץ-ישראל.
+
+ ב-1938 עלה להשתקע בארץ. המשיך בעבודתו המקצועית בתל-אביב ונתן את מיטב זמנו הפנוי לפיתוח הדאיה והתעופה במסגרת קלוב התעופה בישראל ויסד את מועדון הדאיה בישראל. כן שירת במשמר האזרחי, במשטרה המיוחדת ובשנות המאבק במחתרת אצ"ל.
+
+ פרסם בגרמניה מאמרים רבים בעתונות המקצועית בעניני דאיה ותעופה וריפוי-שינים, וגם בעניני הספרות והמדיניות.
+
+ בנו: <persName>יוסף.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ח' כסלו תשכ"ד (24.11.63)
+
+ (ראה כרך עשירי, עמוד 3496)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3496 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3496</bibl>            <bibl>Volume: #14 ,Page: 4577 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4577</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

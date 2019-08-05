@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4995 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4995</bibl><bibl>Volume: #16 ,Page: 4996 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4996</bibl>
+<bibl>Volume: #16 ,Page: 4997 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4997</bibl>
+<bibl>Volume: #16 ,Page: 5000 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/5000</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל פנחס רזיטל (רוזנטל)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קובנה</placeName> (ליטא) בשנת תרס"ח (1908).
+
+ לאביו <persName>אברהם רוזנטל</persName> ולאמו <persName>רחל לאה</persName> לבית <persName>פרידקוט.</persName>
+
+ קיבל חינוך מסורתי בישיבה וכללי בגמנסיה העברית ב<placeName>קובנה</placeName>.
+
+ היה פעיל בתנועת "החלוץ" ב"השומר הצעיר" ב<placeName>קובנה</placeName>. עבד זמן מה בהכשרה, כהכנה לעלייתו לארץ. בשנת 1929 עלה לארץ.
+
+ עבד כפועל במושבה כנרת.
+
+ היה בין בוני "בית-יוסף" בעמק בית-שאן על שם <persName>יוסף אהרונוביץ,</persName> עורך הפועל הצעיר.
+
+ היה חבר המועצה הראשונה בגבעתיים.
+
+ בשנת 1933 נשא לאשה את<persName> צפורה</persName> בת <persName>נחום קופר.</persName>
+
+ עבד שנים רבות בבית החרושת "קשת" בגבעתיים.
+
+ היה חבר בועד של בנק הפועלים בגבעתיים ובועד השכונה של קרית-יוסף.
+
+
+ היה פעיל בעבודה צבורית ולתנועת הפועלים. בין ראשוני תנועת אחדות העבודה.
+
+ כל השנים היה חבר ההגנה. שירת בנוטרות ובצבא.
+
+ היה בעל אופי מקורי, בעל מוסר, נקי כפיים. עבד לטובת הצבור לא על מנת לקבל פרס. הצטיין בחריצות ופשטות בהליכותיו. שאף לעבודה חקלאית.
+
+ נפטר בבית-החולים "בילינסון" (פתח-תקוה), כ' שבט תשי"ח ( 10.2.1958) והובא לקבורה בקרית שאול בת"א.
+
+ בניו: <persName>יעדור רזיטל</persName> (ראה בכרך זה),<persName> נחום רזיטל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4995 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4995</bibl><bibl>Volume: #16 ,Page: 4996 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4996</bibl>
+<bibl>Volume: #16 ,Page: 4997 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4997</bibl>
+<bibl>Volume: #16 ,Page: 5000 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/5000</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 701 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/701</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הניה אורשנסקי</persName>
+
+</head>
+         <div><p> נולדה ברצ'יצ'ה, פלך מינסק (רוסיה הלבנה), ביום ב' תשרי תר"כ לאביה <persName>חיים</persName> .
+
+ קיבלה את החנוך המסורתי הטפוסי לבנות ישראל בימים ההם, והיתה בת "עמך" טובת לב מלאת אמונה ובטחון.
+
+ נישאה לסוחר-היערות <persName>בנדט אורשנסקי</persName> וכשנה לאחר שעלה לארץ והתישב בגדרה, ב-1891, עלתה גם היא עם חמשת ילדיהם שנולדו להם ברוסיה (שלשה בנים ושתי בנות).
+
+ בעלה, שהיה איש-אדמה מובהק והתמסר בכל לבו לפיתוח המשק, מצא בה עקרת-בית למופת. גידלה את הילדים בתנאים קשים ביותר, בלי כל שרותים ועזרה רפואית, ונשאה בכל הסבל שנפל בחלקם של הראשונים. שנים מילדיה נסתמאו בעין אחת בגלל חוסר טיפול רפואי וילדה אחרת היתה פעם בסכנתנפש אחר שנדבקה עלוקה לגרונה בשעה ששתתה ממי הבאר הערבית.
+
+ למרות כל הסבל לא נתיאשה ולעתים קרובות אף נתנה פורקן לחוש ההומור שלה, בהיותה חובבת הלצה ואימרה שנונה.
+
+ לפני כעשרים שנה חלתה במחלת כליות והוכנסה לביה"ח "הדסה" בת"א. והנה קלטו אזניה שיחה בין הרופאים על הסכנה הצפויה לחייה. בשמעה זאת קמה ממטתה ועזבה את בית-החולים - והמשיכה לחיות עוד עשרים שנה.
+
+ ביום מותה. בשנה ה-87 לחייה, אמרה לבני המשפחה ולאנשי המושבה שנתאספו ליד מטתה :
+
+ "יודעת אני כי יש עוד הרבה לראות בארץ, מכל החדש הנבנה והנעשה כאן, ומאד רציתי לראות כל אלה, אבל מה לעשות וה"ויזה" נגמרה ואי אפשר להמשיך במסע".
+
+ נפטרה ונקברה בגדרה ביום ט' תשרי תש"ז.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 701 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/701</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

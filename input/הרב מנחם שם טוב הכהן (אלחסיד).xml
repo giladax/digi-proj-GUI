@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 364 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/364</bibl><bibl>Volume: #1 ,Page: 365 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/365</bibl>
+<bibl>Volume: #1 ,Page: 366 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/366</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב מנחם שם-טוב הכהן (אלחסיד)</persName>
+
+</head>
+         <div><p> נולד בסאלוניקי, בשנת תר"ח (1848), לאביו <persName>שם</persName> <persName>טוב</persName> . בהשפעת הרב<persName> משה בנבנישתי</persName> עלו הוריו ארצה עם הורי אמו ועם ילדיהם בשנת תרי"ג, והוא אז בן חמש, והתישבו בירושלים. נתחנך חינוך תורני מפי מלמד פרטי עד גיל תשע ואח"כ מפי הרב פרדו בביתם ומפי גדולי הרבנים בישיבה. הצטיין עוד מילדותו בידיעות הרבות בתורה, והדרשה בהלכה ובאגדה שהכין לו בעצמו לבר-מצוה היתה לפלא.
+
+ בן 16 נשא לאשה את <persName>לונה</persName> בת הרופא<persName> דוד עראמה</persName> מסאלוניקי.
+
+ המשיך ללמוד וללמד תורה בביתו בישיבה פרטית שהחזיק לו, ואבי-אמו, ר'<persName> אליהו הכהן</persName> (חסיד), שהיה עשיר גדול ומוקיר תורה, קנה לו ספרים לרוב בכל ענפי התורה, וכך נצטברה אצלו ספריה עשירה מאד, וחוקרים במדעי היהדות, וביניהם <persName>אליעזר בן-יהודה,</persName> היו באים לביתו לעיין בספריו לצרכי מחקריהם, והוא בבקיאותו הגדולה בספרים היה עוזר להם למצוא בקלות כל שם או ענין שביקשו.
+
+ עוד מילדותו ראה כיצד שוקד אבי-אמו לעזרת חולים, שהיה מחזיק בביתו כלי-רפואה שונים ומשאילם לנצרכים, וכך הלך גם הוא בדרכי סבא, ובשנת תרל"ט יזם והשתתף ביסוד החברה "משגב לדך" לעזרה לחולי העדה הספרדית בירושלים, שבשתי השנים הראשונות נרשמו בה כ-300 חברים ובשנה השלישית עלה מספרם לכ1300. בתחילה נתנה החברה תמורת דמי-חבר בסכומים פעוטים עזרה רפואית לחולים בבתיהם על-ידי הרופאים <persName>בופלעס</persName> ור'<persName> אברהם </persName> וגם על-ידי הרופא היוני ד"ר <persName>מאזא</persName> <persName>ריקי,</persName> שנטל מחברי האגודה רק רבע השכר, ובן החזיקה החברה בית-מרקחת ושלחה חברים ללינה בבית החולה ולטיפול בו. ובשנת תרמ"ט רכשה החברה מאת ב"כ רוטשילד את הבנין הישן של בית-החולים רוטשילד בעיר העתיקה, כשעבר לבנינו החדש, ויסדה בו את ביתהחולים "משגב לדך", והרב מנחם השקיע הרבה עמל ומרץ בהחזקתו ובפיתוחו, וכשהתפטר לעת זקנה מהנהלת המוסד קיבל מכתב-תודה בחתימת הרבנים <persName>שמואל</persName>
+
+<persName>נסים, שמואל מיוחס, יצחק אשכנזי, אליהו משה פאני</persName> <persName>ז'יל, רפאל ישראל, מרדכי ישראל, יצחק דסא וגבריאל</persName> <persName>שבתי.</persName>
+
+ נפטר בירושלים, כ"א ניסן תרע"א.
+
+ אחד מנכדיו הוא מר <persName>משה כהן אלחסיד</persName> , ששימש פקיד ראשי במחלקת סידור עניני הקרקעות בממשלת א"י. התפטר ממשרתו בהתחלת אפריל 1947 מטעמי מצפון, כי לא הסכים לשרת לפי הקו האנטי-יהודי בשטח העברת קרקעות ליהודים.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 364 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/364</bibl><bibl>Volume: #1 ,Page: 365 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/365</bibl>
+<bibl>Volume: #1 ,Page: 366 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/366</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

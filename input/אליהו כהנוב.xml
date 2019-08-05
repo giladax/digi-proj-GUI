@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3307 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3307</bibl><bibl>Volume: #9 ,Page: 3308 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3308</bibl>
+<bibl>Volume: #9 ,Page: 3309 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3309</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו כהנוב</persName>
+
+</head>
+         <div><p> נולד בכ"ח כסלו תרמ"ז (9.12.1882) בירושלים.
+
+ לאביו העסקן הישובי<persName> שרגא פייבל כהנוב </persName> (ראה כרך א', עמוד 105 - בן הרב<persName> משה נחמיה כהניו,</persName> ממיסדיה ומראשיה של ישיבת "עץ חיים", שהיה נודע בירושלים בכינוי "הרב מחסאלוויץ") ולאמו <persName>שיינה ביילה</persName> בת <persName>צבי זאב מרק</persName> מקאלוואריה (נפטרה בירושלים, כ"ב טבת תרנ"ח).
+
+ למד בתלמוד-תורה ובבית-הספר של כי"ח ביפו, הצטיין בלימודיו, נשלח להשתלמות בבית-המדרש למורים של החברה בפאריס והוסמך למורה.
+
+ היה מנהל בתי-הספר של כי"ח בדמשק, בטבחה, בתל-אביב ובירושלים, מנהל בית-הספר למלאכה של כי"ח בירושלים, ואחרי עשרות שנות שרות חינוכי יצא לפנסיה.
+
+ ב-1910 נשא לאשה את<persName> חנה</persName> בת<persName> אברהם חיים אברבום</persName> (ראה ערכה בכרך זה).
+
+ לאות הוקרה על שרותו לתרבות הצרפתית במזרח הקרוב ניתן לו התואר "קצין האקדמיה הצרפתית".
+
+ זה שנים רבות אח במיסדרים של בני ברית ושל הבנאים החפשים, נשיא לשעבר בלשכות של שניהם וחבר הלשכות הגדולות של שניהם.
+
+ צאצאיו: <persName>יעקב </persName> (מהנדס ראשי של חברת "של" בישראל ובקפריסין), <persName>יצחק</persName> (סוחר בירושלים),<persName> שפרה</persName> אשת<persName> דניאל שר</persName> (עתונאי וסופר).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3307 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3307</bibl><bibl>Volume: #9 ,Page: 3308 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3308</bibl>
+<bibl>Volume: #9 ,Page: 3309 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3309</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

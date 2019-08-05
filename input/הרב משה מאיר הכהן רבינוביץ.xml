@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4045 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4045</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב משה מאיר הכהן רבינוביץ</persName>
+
+</head>
+         <div><p> נולד בשאבעל, מחוז קובנה, בשנת תרל''ט (1879).
+
+ לאביו ר'<persName> אברהם אבא רבינוביץ</persName> (אב''ד בקליקאל, ליטא) ולאמו<persName> אלקה ליבה </persName> בת<persName> יקותיאל זיסל לוין.</persName>
+
+ קיבל חינוך מסורתי אצל ר' <persName>אלי ברוך</persName> בישיבת מיר, אצל ר' <persName>לייזר גורדון </persName> בישיבת טלז ובישיבת שאבעל. הוסמך לרבנות (וכן לשחיטה).
+
+ בשנת תרס"ד (1904) נסע לארצות הברית, ושימש בברונקס כרב במשך 50 שנה.
+
+ יסד שם מוסדות חינוך וצדקה (גמילת חסד) ועוד. עשה שם תעמולה ואסף כספים למוסדות החינוך והצדקה בא"י.
+
+ נשא לאשה את<persName> גיטל דינה</persName> בת ר' <persName>אהרן הלוי</persName> ואחרי שנפטרה נשא בזיווג שני את<persName> מרים מלכה</persName> בת הרב <persName>אברהם אהרן פלדמן</persName> (ממשפחת האדמו"ר מטציסטקוב. נפטרה י''ד שבט תשכ''א).
+
+ בשנת תשט"ו (1955) עלה לארץ.
+
+ מבוני בית הכנסת עבור אגודת צעירי חב"ד בבני-ברק.
+
+ מיוזמי יסוד תלמוד תורה וישיבת "חיי עולם" ובית תבשיל ליתומים בירושלים.
+
+ חבר הישיבות: "חברון" בירושלים, ישיבת לוד וחב"ד.
+
+ צאצאיו: <persName>יקותיאל זיסל, אהרן, אברהם אבא, פסיה</persName> אשת<persName> אהרן ווקסלר, שרה מרים.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4045 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4045</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

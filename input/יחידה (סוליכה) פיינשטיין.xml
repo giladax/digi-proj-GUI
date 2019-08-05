@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3276 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3276</bibl><bibl>Volume: #9 ,Page: 3277 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3277</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יחידה (סוליכה) פיינשטיין</persName>
+
+</head>
+         <div><p> נולדה בטבריה בשנת התרמ"א (1881).
+
+ לאביה<persName> אהרן עטיה</persName> , ולאמה<persName> עישה. </persName> עולים ממארוקו,
+
+ מגיל רך גילתה תשוקה ללימוד ודעת, אך בטבריה של הימים ההם לא היה בית אולפנה לבנות, וב"כותב'' הספרדי לא הסכים ה"חכם" שילדה תלמד יחד עם ילדים. אחד המלמדים האשכנזים הרשה לה לשבת ב"חדר'' שלו, מן הצד, ובך למדה אי-ב'. היא למדה גם ערבית אצל שייך ערבי, קרוא וכתוב.
+
+ היתה מורה בבית-ספר לבנות האנגלי בטבריה, מיסודו של ד"ר<persName> טוראנס</persName> . שם קשרה קשרי ידידות עם בנותיו של <persName>עבאס אפנדי,</persName> מנהיג כת הבהאים. היתה מן הראשונים בטבריה שעסקה בהפצת תוים ציוניים.
+
+ בשנת 1906 נישאה <persName>ליוסף פינשטין </persName> מראש-פנה (ראה את הערך שלו בכרך זה).
+
+ במושבה הסתייעו בידיעותיה בערבית ובאנגלית. כשנכנס חיל החלוץ האוסטרלי למושבה, הוזמנה לשמש מתורגמן בין מפקד הצבא ובין מר<persName> ח. מ. קלווריסקי,</persName> מנהל יק"א (ראה כרך בי, עמוד 801).
+
+ סמוך למותה התחילה לכתוב את זכרונות ילדותה בטבריה, אך לא השלימה את הכתיבה כי מתה לפתע, ביום ג' בחשון התשי"ד (12.10.53).
+
+ צאצאיה:<persName> אהרן אבן-חן </persName> (ראה בכרך זה): <persName>תחיה</persName> אשת קצין המשטרה<persName> דוד ובלמן.</persName>
+
+ בנה הקדיש לה פרק לזכרה ("מותה של אכרה") בספר הגליל, אנתולוגיה בעריכת א. תלמי, הוצאת עמיחי.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3276 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3276</bibl><bibl>Volume: #9 ,Page: 3277 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3277</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

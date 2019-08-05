@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2142 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2142</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יהושע זימן</persName>
+
+</head>
+         <div><p> נולד בסראי (ליטה), בשנת תרנ"ח (9.2.1898). לאביו<persName> זאב</persName> (מורה) ולאמו <persName>אמה </persName> בת<persName> יהושע קליין.</persName>
+
+ אחרי קבלו חינוך יהודי וכללי בבי"ס עממי למד בבית-הספר למסחר בקובנה. בראשית מלחמת-העולם א' גלה עם בית-ספרו לריאזאן שברוסיה הפנימית ושם גמר אותו בהצטיינות ב-1917 .המשיך ללמוד באוניברסיטת סאראטוב וגמר ב-1921 את המחלקה למשפטים וב-1923 את האינסטיטוט למדעי הכלכלה, ולפני קבלת התואר דוקטור הגן על הדיסרטציה על הנושא "פתרונות חוקיים-אדמיניסטרטיביים של השאלה הלאומית". נשאר כעוזר מדעי ליד הפקולטה במחלקה לחוג אדמיניסטרטיבי ואח"כ הוזמן לעבוד כמומחה לכלכלה ב"גוספלאן" (במכון לתיכנון מדיני) של ממשלת ברית המועצות במוסקבה (1923-24).
+
+ המשיך במחתרת בחברותו במפלגת צ"ס (ציונים סוציאליסטים), שלפנים היה חבר בה. ב-1924 נאסר ונכלא בביתהכלא המפורסם "בוטירקי" ב"אשמה" זו ונדון לגירוש לסיביר. העונש הוחלף לו בגירוש מרוסיה וביולי 1924 הגיע ארצה והמשיך בפעילות ציונית-סוציאליסטית מקודם ב"אחדות העבודה" ואח"כ במפא"י.
+
+ בבואו ארצה החל לעבוד במשק קבוצת "מעבר" (כיום גבעת השלשה) ליד פתח תקוה, שנועדה אז להקלת חבלי הקליטה של עולים חדשים ופועלים עירוניים מוב
+
+ טלים. אח"כ עבד במערכת העתון הכלכלי .מסחר ותעשיה" בתל-אביב, ומנובמבר 1926 מנהל המחלקה לסטטיסטיקה בלשכה הראשית של הקהק"ל בירושלים.
+
+ ב-1929 נשא לאשה את <persName>אוליה</persName> בת<persName> אברהם באטייב</persName> <persName>סקאיה</persName> (אחות במכון רנטגן שבבית-החולים "הדסה" בירושלים).
+
+ פרסם מאמרים רבים על נושאים כלכליים וסטטיסטיים בארץ, ברוסיה, בארצות אירופה, בארצות הברית וכו'.
+
+ ספריו: "הכלכלה הארצישראלית" (הוצאת "השומר הצעיר", וארשה, 1932), "ששים שנות בנין הארץ" (הוצאת המכון להשכלה ציונית, ירושלים, 1945), The Revival of Palestine ("תחית ארץ-ישראל", הוצאת "שרון", ניו-יורק 1947). הכין לדפוס ספר על תולדות הקהק"ל ב-50 שנות קיומה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2142 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2142</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3314 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3314</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלעזר מנחם גולדברג</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת תרכ"ה (1865).
+
+ לאביו <persName>צבי הירש </persName> משדליץ ולאמו<persName> יוספה.</persName>
+
+ קיבל חנוך מסורתי בחדר ובישיבות ב<placeName>ירושלים</placeName>.
+
+ התנגד להתקיים מכספי החלוקה ודרש מחבריו לעבוד וליהנות מיגיע כפם. נסע לחו"ל ולמד עבודת הדפוס.
+
+ כשחזר היה מנהל בתי הדפוס הירושלמים :<persName> הירשנ</persName> <persName>זון, צוקרמן, פרומקין ולוי.</persName>
+
+ נשא לאשה את<persName> חנה</persName> בת ר'<persName> דוד משוביש.</persName>
+
+ בשנת תרנ"ז (1897) היה מהמיסדים והפעילים ב"אגודת בני ישראל", שנוסדה ב<placeName>ירושלים</placeName> (וסניפיה : חברון, יפו) במטרה לעבוד לטובת אחדות העדות ומלחמה עם המיסיון, במפעליה ובתי חוליה.
+
+ בשנת תר"ס (1900) הקים בית דפוס לעצמו בשם "דפוס גולדברג" והשיג בימים ההם תעודה רשמית (פירמאן) מספר 222 מהוזרה לענינים הפנימיים, מחלקת הדפוסים בקושטא (תורכיה). בפירמן הנ"ל היה כתוב : "מתוכן המיסמכים השמורים אצלנו, מתברר, כי עפ"י החקירה שניהלה המשטרה, יוצא שהאדון<persName> אליעזר מנחם</persName> <persName>גולדברג </persName> המבקש רשיון לפתוח בית דפוס, ממלא את כל התנאים הדרושים לפי חוק בתי הדפוס. והיות והתחייב לא להדפיס שום דבר הפוגע בזכויותיו הקדושים של הוד מלכותו השולטאן והממלכה העותומנית, וכן ספרים וחוברות שלא נתקבל עליהם רשיון מיוחד מוזרת (שר) ההשכלה להדפיסם. והיות ומסר גם כתב התחייבות לכך בהתאם לדרישת החוק, הננו מוסרים את הרשיון הזה לה'<persName> א. מ .גולדברג</persName> לפתוח את בית הדפוס הנ"ל, בתנאי, שימלא אחרי פקודות של בתי הדפוס (18 צפב 1319). בבית דפוס זה השקיע את כל מרצו וטעמו הטוב והעדין במלאכת ההדפסה.
+
+ גם בימים ההם נאלצו לרשיון. אדמיניסטרציה רקובה וסדר היה...
+
+ בשנת תרע"ד (1914) הוציא לאור בדפוסו את הספר "אלה מסעי" (מאת הרב<persName> משה חאגיז</persName> אשר נדפס בשנת תצ"ג=1733 באלטונה) בו הוא מתאר את תכונות וקדושת הארץ וחיבתה, כדי לזכות את הרבים.
+
+ היה ממיסדי שכונת זכרון-טוביה.
+
+ נפטר ב<placeName>ירושלים</placeName> : י' טבת תרפ"ז (15.12.1926).
+
+ צאצאיו :<persName> רחל</persName> אשת<persName> משה יוסף שלנג, דוד</persName> (ראה בכרך זה),<persName> ינטיל</persName> אשת<persName> חיים הורביץ, יצחק, יעקב, צבי.</persName>
+
+ בשנת תרצ"ד, הקדיש החוקר<persName> פנחס גראייבסקי,</persName> חוברת בשם "חוברת מאה ושבע" - מגנזי ירושלים, לזכרו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3314 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3314</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

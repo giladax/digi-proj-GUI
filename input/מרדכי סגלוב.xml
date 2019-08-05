@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5144 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5144</bibl><bibl>Volume: #17 ,Page: 5145 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5145</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי סגלוב</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קורסון</placeName> (אוקראינה) בשנת תרנ"ד (20.10.1894).
+
+ לאביו<persName> ראובן סגלוב</persName> ולאמו <persName>פייגה</persName> לבית <persName>גלזר.</persName> קיבל חינוך מסורתי ב"חדר", בישיבת ה"חפץ חיים" ברדין, בישיבת "הרב ריינס" בלידה ובי"ס גבוה לחקלאות בברלין. השכלה כללית באופן אקסטרני.
+
+ בדצמבר 1912 עלה לארץ.
+
+
+ כל השנים עבד בחקלאות ואח"כ בפקידות בקופת חולים.
+
+ היה חבר קבוצת הנשארים להגנת תל-אביב, בימי הגירוש ע"י השלטון התורכי (יחד עם <persName>יצחק הוז,</persName> <persName>יצחק אולשנסקי </persName> - אח"כ <persName>יצחק אולשן</persName> , זקן השופטים במדינת ישראל ועוד).
+
+ היה חבר המרכז החקלאי של פועלי יהודה בשנות המלחמה העולמית הראשונה עם החברים <persName>לוי שקול</persName> <persName>ניק </persName> (כיום - <persName>לוי אשכול,</persName> ראש הממשלה),<persName> אברהם</persName> <persName>הרצפלד, נטע הרפז, אהרן פרידמן, משה ירקוני</persName> ועוד.
+
+ בשנת 1925 נשא לאשה את <persName>שרה</persName> בת<persName> גדליהו</persName> <persName>גלגה.</persName>
+
+ ממיסדי מושב "נטעים" ע"י ראשון לציון (1933). היה בין ראשוני העובדים ב"עין חי" (מל"ל), וב"רוחמה".
+
+ כתב מאמרים ב"קונטרס" וב"דבר".
+
+ השתתף בשלוש רשימות בספר "העליה השניה", וכן פירסם רשימה בספר שיצא לאור לזכרו של עסקן תנועת העבודה <persName>דוד בדר</persName> ז"ל (ראה כרך א', עמוד 199).
+
+ חבר ועדת הפנסיונרים ע"י הועד הארצי של עובדי קופת החולים הכללית.
+
+ חבר הנהלת סניף בנק הפועלים בראשון לציון.
+
+ כיום בעל משק חקלאי זעיר במושב "נחלת יהודה" ע"י ראשון לציון.
+
+ בניו: <persName>ד"ר עלי ארבל</persName> (מרצה בכיר לפיסיקה באוניברסיטת תל-אביב); <persName>עמרם ארבל</persName> (מהנדס, המנהל הטכני בכור אטומי בנחל שורק).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5144 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5144</bibl><bibl>Volume: #17 ,Page: 5145 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5145</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

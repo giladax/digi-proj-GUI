@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3995 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3995</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יעקב גולדברג</persName>
+
+</head>
+         <div><p> נולד כ' כסלו תרנ''ד (29.11.1893) בקארלסרוהא שבמערב גרמניה.
+
+ לאביו ר'<persName> משה</persName> (בנקאי, מראשי הקהלת החרדית) ולאמו <persName>אידה </persName> בת ר'<persName> אלעזר מאינץ</persName> (ממשפחת רבנים).
+
+ נתחנך בידיעת היהדות ובהשכלה תיכונית ואוניברסיטאית והוסמך לד"ר לכלכלה.
+
+ ב-1924 נשא לאשת את <persName>שרה-ארנה</persName> בת<persName> מרדכי יוספי</persName> (מצאצאי השל''ה).
+
+ פעל בתור בנקאי, חבר הבורסה לניירות-ערך וחבר הועדים של חברות כלכליות. היה חבר ועד הקהלה, ועד האגודה הציונית, ועד סניף המזרחי וב-1921 נבחר ברשימתו לקונגרס הציוני.
+
+ אחרי ביקור בארץ בפברואר 1933 עלה ב-1936. תחילה עבד בחקלאות, בעזרה לקרובים בכפר ירקונה. אח"כ חזר לעיסוק כלכלי כסוכן לנכסי דלא ניידי והשתקע ברמת-גן. השתתף ביסוד בית הכנסת הגדול, פעיל כחבר המועצה הדתית, חבר ועד סניף המזרחי, חבר ועד בית היתומים, אח בלשכת רמת-גן של בני ברית והיה חבר ועד הפקידים בה.
+
+ שירת במשטרה המיוחדת ובמשמר האזרחי.
+
+ בתו: <persName>מרים</persName> אשת<persName> באזיל רוז</persName> , ושלושה נכדיו בקיבוץ לביא של הפועל המזרחי.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3995 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3995</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3090 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3090</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל מלמד</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סופיה</placeName> (בולגריה) בשנת תרל"ו (1876).
+
+ לאביו<persName> משה</persName> ולאמו<persName> רוזה</persName> בת <persName>אברהם.</persName>
+
+ קבל חנוך מסורתי.
+
+ עלה לארץ בשנת תרנ"ד (1894).
+
+ נשא לאשה את <persName>אסתר</persName> לבית<persName> מירולה</persName> (נפטרה בירושלים, ח' אב תרצ"ט-24.7.1939).
+
+ שימש 15 שנה גבאי ראשי בבית הכנסת של התנאי רבי<persName> יוחנן בן זכאי </persName> בעיר העתיקה בירושלים.
+
+ חבר ועד יתומים ואלמנות. עסקן צבורי באמונה שנדב מאונו ומהונו לכל נזקק ומר נפש בעזרת אשתו אסתר הצדקנית והנדבנית שמנעה טרף מפיה ומבני ביתה ע"מ לעזור לעשוקים.
+
+ חבר בועד העדה הספרדית בראשית הווסדה.
+
+ מיסד המקהלה העברית בבית הכנסת ריב"ז.
+
+ מראשוני הבונים בתל-אביב.
+
+ נפטר בירושלים, י"ג שבט תש"ב (31.1.1942).
+
+ צאצאיו:<persName> שושנה</persName> (רוזה) אשת<persName> יעקב מיו, אברהם</persName> (סמל במשטרת ירושלים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3090 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3090</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

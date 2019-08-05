@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1489 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1489</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר מיכה בן-עמי (רבינוביץ)</persName>
+
+</head>
+         <div><p> נולד באודיסה, רוסיה, ו' סיון תרנ"ה (28.5.1895), לאביו <persName>חיים מרדכי</persName> (הוא הסופר הנודע <persName>בן עמי</persName> מתקופת התחיה הלאומית ברוסיה - ראה כרך ב', עמוד 783, מצאצאי רבי <persName>מיכל</persName> מזלוצ'וב, מאבות החסידות, וממשפחת ר'<persName> נחמן מברסלב</persName> , נין הבעש"ט) ולאמו
+
+<persName>חיה</persName> בת<persName> ירמיהו יפה</persName> (אחותו של הד"ר הלל יפה, מזכרון יעקב, ראה בכרך זה, עמוד 1141).
+
+ קיבל חינוך עברי וכללי בעברית ורוסית באודיסה. יצא בילדותו עם הוריו לשווייץ. שם גמר גימנסיה, למד באוניברסיטת ז'ניבה, הוסמך לד"ר לרפואה והתמחה ביחוד ברנטגנולוגיה. המשיך את קשריו עם השפה והספרות העברית והיה פעיל באגודת סטודנטים ציוניים.
+
+ עלה לארץ בדצמבר 1925 והיה מראשוני הרנטגנולוגים בארץ, וביחוד בתל-אביב, ומאז עוסק הוא במקצועו. הקים מכון רנטגן בת"א.
+
+ בשנת 1934 נשא לאשה את<persName> חנה</persName> בת<persName> משה שמואל</persName> <persName>שטרן מביליץ.</persName>
+
+ היה אחד מהשנים שיסדו את איגוד הרנטגנולוגים, חבר הועד הארצי שלו ויו"ר ומזכיר סניפי התל-אביבי וחבר ועד צרפת-ארץ-ישראל.
+
+ פעל רבות לפיתוח הרנטגנולוגיה בארץ, בהרצאות בכינוסי אנשי המקצוע ובמאמרים בעתונות הרפואית. חיבר מלון רנטגנולוגי עברי, חקר וכתב (ביחד עם הד"ר<persName> אשר גולדשטיין)</persName> בשדה המונחים המדעיים בכלל ורפואיים בפרט ופרסם בענין זה הרבה מאמרים בעתונות הרפואית. כן פרסם מאמרים, מתוצאות נסיונו וחקירותיו, בענפים שונים של הרפואה, ובעתונות הכללית זכרונות על אביו ולקוטים מאמרותיו, חקירה רפואית בקשר לתנ"ך, זכרונות על ביאליק, מכתבים ומאמרים בענינים ספרותיים וצבוריים שונים בארץ וב"הרופא העברי" בניו-יורק.
+
+ אח בלשכת הבונים החפשים "ברקאי".
+
+ בנותיו: <persName>אמרה, הילה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1489 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1489</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

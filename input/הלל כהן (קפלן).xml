@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1347 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1347</bibl><bibl>Volume: #3 ,Page: 1348 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1348</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הלל כהן (קפלן)</persName>
+
+</head>
+         <div><p> נולד בסובאלק, פולין, י"ג טבת תרט"ו (1855), לאביו <persName>שמואל קפלן </persName> (תלמיד-חכם, סוחר) ולאמו <persName>חנה.</persName> הצטיין בלימודיו בחדרים ובישיבה והשתלם בידיעות מסחריות.
+
+
+ נשא לאשה את <persName>רבקה</persName> בת יוסף (נפטרה בפתחתקוה, כ"א ניסן תרע"ה.
+
+ עסק במסחר בסובאלק ואח"כ בעיירה ליק שמעבר לגבול בפרוסיה המזרחית. קבע עתים לתורה ותמך במוסדות צבור, תורה חסד ובתנועת ישוב ארץ-ישראל שקמה בליטא ואגפיה ובמזרח גרמניה (ביזמת הרבנים <persName>צבי קאלישר</persName> מפוזן והאדמו"ר ר' <persName>אליהו גוטמאכר</persName> מגריידיץ ואחרים) ולעצתו של ר' <persName>דוד גורדון</persName> עורך "המגיד" (שבגלל קשיים צנזוריים ברוסיה נדפס בליק שמעבר לגבול ונשלח בעיקר ליהודים בממלכת רוסיה). חיסל את עסקיו, עלה ארצה בשנת תרמ"ב והצטרף למחדשי הישוב בפתחתקוה.
+
+ למרות ידיעותיו ובקיאותו הרבה בעניני מסחר התמסר כליל לחקלאות בפלחה, ואח"כ במטעי גפנים, שקדים והדרים (לפי הסדר הכרונולוגי של ענפים בתולדות ההתישבות העברית בשפלה). בתרמ"ז העלה אליו את אשתו ובניו ובנותיו. בני משפחתו סבלו רבות מחבלי ההתאקלמות בכל המחלות שפקדו אז את המתישבים (קדחת, גרענת ועוד), ואחרי שנים אחדות אבד מאור עיניה של אשתו, אך היא נשאה את סבלה בדומיה והמשיכה לעבוד במסירות בבית ובמשק.
+
+ היה פעיל בחיים הצבוריים של המושבה כחבר הועד במשך שנים רבות, גבאי בבית-הכנסת הגדול "בית "עקב", ממיסדיה וממנהליה של אגודת כורמי "התקוה" וגבאי בגמילות חסדים "זכרון מרדכי" עד יומו האחרון.
+
+ בראשית שנת תר"ע יצא יחד עם שיני חקלאים ותיקים בשליחות חברת-יהודים מרוסיה לחקור את תנאי ההתישיבות החקלאית בסביבות רפיח ואל-עריש. הוכרחו ללון תחת כפת השמים. הצטנן מחמת חוסר מחסה מפני הגשמים וצנת המדבר, חלה בדלקת הריאה ובשובו הביתה נפל למשכב ולא קם עוד.
+
+ נפטר בפתח-תקוה, י"ח שבט תר"ע.
+
+ צאצאיו:<persName> ישראל, יחזקאל, אברהם, יהודית</persName> אשת צבי מרכוס, <persName>לאה </persName> אשת יעקב איסר ביידר.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1347 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1347</bibl><bibl>Volume: #3 ,Page: 1348 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1348</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4748 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4748</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בן-ציון פרנס</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תר''מ (1880).
+
+ לאביו <persName>משה פרנס</persName> ולאמו <persName>אסתר</persName> לבית<persName> אבו</persName> <persName>קאסיס.</persName>
+
+ קיבל חינוך מסורתי בתלמוד תורה של הספררים בעיר העתיקה בירושלים.
+
+ נשא לאשה את<persName> מזל</persName> בת <persName>אברהם בראזני</persName> (נפטרה בירושלים, ט' אלול תש"ה).
+
+ חיה פעיל במלחמה נגד מוסדות המיסיון בירושלים.
+
+ עמד תמיד על משמר ההגנה מפני מתנקשים ערבים מהעיר ומהכפרים.
+
+ לפני פטירתו היה קבלן וקברן לעדה הספרדית בירושלים.
+
+ נפטר בירושלים, י"ח טבת תשי"א (27.10.50).
+
+ צאצאיו:<persName> משה, לונה</persName> אשת <persName>יואב אבסטדו; רג'ינה</persName> אשת <persName>נתן זמירו: אסתר </persName> אשת <persName>רפאל מזרחי;</persName> <persName>ויקטוריה </persName> אשת <persName>ישעיהו נצר; יהודית</persName> אשת<persName> אליהו</persName> <persName>רבוש.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4748 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4748</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

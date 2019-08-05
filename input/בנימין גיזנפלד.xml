@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2662 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2662</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנימין גיזנפלד</persName>
+
+</head>
+         <div><p> נולד בפריז, ב' סיון תרס''ז (15.5.1907).
+
+ לאביו<persName> אפרים </persName> ולאמו<persName> רבקה</persName> בת<persName> בנימין רזניק.</persName>
+
+ בילדותו עברה המשפחה לאנגליה, ושם קבל חנוך בבית ספר תיכוני.
+
+ בשנת 1920 עלה לארץ.
+
+ המשיך בלמודיו בבית ספר "לבנון" בתל-אביב, גמר בי''ס מנטיפיורי (להנדסה),
+
+ היה חבר פעיל במכבי ובהגנה.
+
+ החל לעבוד כפקיד בחברת "מספרו", ביח"ר לסיגריות (מ-1923).
+
+ בשנת 1929 נשא לאשה את <persName>חוה</persName> בת<persName> ניסן חירקיס,</persName> מותיקי הישוב ביפו.
+
+ המשיך בלמודיו בכלכלה ומסחר.
+
+ עלה לדרגת מנהל וחבר ההנהלה לחברה הנ"ל.
+
+ חבר ההנהלה של "החברה הירושלמית לתעשית סגריות בע"מ - בירושלים.
+
+ אח פעיל בלשכות הבנאים החפשים: "ברקאי" ו"ג'ורג' ואשינגטון" - בתל-אביב.
+
+ בניו:<persName> ניסן, אפרים </persName> (קצין בצ.ה.ל.).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2662 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2662</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

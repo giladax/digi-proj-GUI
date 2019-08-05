@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4446 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4446</bibl><bibl>Volume: #14 ,Page: 4447 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4447</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה אשכנזי</persName>
+
+</head>
+         <div><p> נולד ו' כסלו תרס"ה (14.11.1904) בקולוויל שליד וארשה, פולין.
+
+ לאביו ר'<persName> ישראל אלעזר,</persName> רב בסאבין שליד וארשה, מחבר הספר "מגדנות אלעזר", בן ר' <persName>אורי</persName> <persName>יהושע אשר אלחנן,</persName> האדמו"ר מפוריסוב, שנפטר בגיטו וארשה, נצר לשושלות אדמו"ריות נודעות בפולין, ולאמו <persName>יהודית </persName> בת ר' <persName>אלימלך יעקב יצחק</persName> <persName>רבינוביץ </persName> (האדמו"ר מקונסק, מגזע בתי אדמו"רים פפולין).
+
+ למד בחדרים ובישיבות והתכונן לרבנות. למד גם לימודים כלליים.
+
+
+ היה פעיל בתנועת המזרחי, יו"ר "צעירי מזרחי" בווארשה.
+
+ בשנת תרצ"ב (1932) נשא לאשה את<persName> רבקה </persName> בת הרב <persName>יהושע דוד סורוקה,</persName> שהיה רב בגלאזגו, בירת סקוטלנד.
+
+ עלה לארץ בכסלו תרצי'ד (סוף 1933), מילא תפקידים במנגנון הפועל המזרחי, וכעת מנהל דפוס
+
+ הפועל המזרחי, בתל-אביב וחבר המועצה של גוף ציבורי זה.
+
+ מייסד ארגון תורני-מדעי "תבונה", אח במיסדר "בני ברית".
+
+ בפולין כתב מאמרים ב"הצפירה" ובעתונות האידית, ובארץ ב"הצופה", "במישור", "בית הכנסת". "מחניים", "שיחות תלמידי-חכמים", מחקרים בודדים ב"חרות", "שירים", "היסוד", "נתיבה" ועוד.
+
+ ספריו: בווארשה פירסם ב-1930 ספר באידית על זכויות האשה בישראל ובעמים, ובארץ - "נשים למדניות" (הוצאת "תבונה"), "נשי ישראל בגבורתן" (הוצאת י. צ'צ'יק), "האשה באספקלריה היהדות" (הוצאת "יזרעאל", 3 כרכים), "גיבורות בישראל" (הוצאת "יבנה").
+
+ צאצאיו: <persName>ישראל </persName> (ד"ר לביאולוגיה וגנטיקה),<persName> שרה</persName> (ב"א לפסיכולוגיה וספרות) אשת ד"ר<persName> טוביה שרצקי</persName> (מרצה לכימיה באוניברסיטה בפיטסבודג שבארה"ב).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4446 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4446</bibl><bibl>Volume: #14 ,Page: 4447 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4447</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

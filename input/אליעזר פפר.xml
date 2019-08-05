@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1242 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1242</bibl><bibl>Volume: #3 ,Page: 1243 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1243</bibl>
+<bibl>Volume: #3 ,Page: 1244 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1244</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר פפר</persName>
+
+</head>
+         <div><p> נולד במושבה החקלאית היהודית יפה-נהר, פלך חרסון, אוקראינה, ח' חשון תרכ"ב (1861), לאביו <persName>דוד יהודה</persName> (מורה לתלמוד בבאריסלאב, ליד חרסון) ולאמו <persName>חיה</persName> . למד בחדרים ובישיבות, השתלם בשפה ובספרות רוסית ובהשכלה כללית, עמד לבחינה והוסמך למורה עממי באישור השלטון בשנת 1880.
+
+ באותה שנה נתמנה למורה בבית הספר העברי בעיירה גולאיה פריסטאן, פלך טאווריה (קרים) ואח"כ למנהל וב-1896 הוזמן למשרת מנהל כללי של תלמוד התורה בחרסון. היה מראשוני המורים ברוסיה שהנהיגו את שיטת ההוראה "עברית בעברית" והצליח בה.
+
+ נשא לאשה את <persName>שרה </persName> בת<persName> נחום סברדלוב</persName> (רב ושוחט במושבה היהודית לבובה).
+
+ הצלחתו וכשרונו בהוראת השפה העברית נתפרסמו גם מחוץ לחרסון ועד ארץ ישראל הגיע שמו הטוב, וכך הוזמן מטעם הועד האודיסאי של חובבי ציון להורות בבית הספר לבנות שיסד הועד ביפו, ועלה ארצה בתרס"ד עם משפחתו.
+
+ יחד עם חבריו להוראה <persName>מ. אזרחי, י. יחיאלי, ד"ר</persName> <persName>ניסן טורוב</persName> ואחרים השקיע הרבה מרץ, יזמה וכשרון בסלילת דרך לחינוך עברי משוכלל ובהעלאת בית
+
+
+ הספר לרמה גבוהה למופת ולדוגמה ליתר בתי הספר. השתתף ביסוד הסתדרות המזרים והוצאת הספרים ''קוהלת" של צבור המורים, התמסר לחקירות ולנסיונות לשם שיפור ההוראה והחינוך, השתתף עם חבריו יחיאלי ואזרחי בחיבור "תרגילי חשבון", "ספרנו" (לשימוש התלמידים) ו"שעורי הסתכלות" (ספר עזר יסודי, למורים, בהוצאת "קוהלת"), ויחד עם <persName>א. אברונין</persName> חיבר והוציא שש חוברות "נתיבות הדקדוק", שבמשך שנים רבות היו לעזר רב לתלמידים- השתתף בפעילות בחיים הצבוריים והתרבותיים של הישוב החדש ביפו, הופיע יחד עם בניו ובנותיו בתפקידים בהצגות הראשונות של חובבי הבמה העברית וב-1906 השתתף ביסוד אגודה למטרה זו והיה מטובי פעיליה.
+
+ הצטרף לאגודת "אחוזת בית" שיסדה את השכונה בשם זה, הגרעין הראשון של העיר העברית תל-אביב, ובנה בה את ביתו, והיה עובר לפני התיבה בצריףבית התפלה הראשון של השכונה ברחוב יהודה הלוי.
+
+ בעת הגירוש מיפו ות"א במלחמת העולם הראשונה עבר לטבריה וניהל שם את בית הספר העממי שנה אחת ואח"כ היה מנהל ביה"ס בצפת במשך שלש שנים. התמסר לפעילות צבורית, היה הרוח החיה בקהלת צפת, פעיל בעזרה סוציאלית וביחוד לטובת היתומים.
+
+ אחרי המלחמה חזר למשרתו בביה"ס לבנות והוטל עליו גם חלק מעבודת ההנהלה. המשיך בפעילות צבורית וספרותית-מקצועית. היה ממיסדי בית הכנסת הגדול בת"א ואחד מגבאיו. כן המשיך בפעילות סוציאלית, וביחוד באגודה לעזרת יתומים, ואף באופן פרטי שקד לעזור בעצה ובהדרכה ובהמלצה לעולים חדשים ולקשי-יום.
+
+ מת כ"ז סיון תרפ"ו ונקבר בבית העלמין הישן, ת"א.
+
+ צאצאיו:<persName> בלומה</persName> אשת <persName>אליהו ינאי</persName> ממתישבי כפר נהלל, <persName>שלמה</persName> (מכונאי, מנהל ההשקאה בתל מונד; <persName>נחום</persName> (מהנדס בחברת הכשרת הישוב ואח"כ בחברת הנפט העיראקית ; נספה בתאונת אוירון): <persName>רבקה</persName> (מורה ,ממיסדי "אגודת חובבי הבמה העברית" וחברת "התיאטרון הארצישראלי", ת"א, ממיסדות התיאטרון לילדים שליד מרכז הגננות) אשת <persName>מאיר בניהו</persName> (סופר); <persName>רחל </persName> (מורה, בוגרת הגמנסיה הרצליה, נפטרה ברחובות במלחמת העולם הראשונה), <persName>אברהם</persName> (אדריכל, בונה הבתים הראשונים בנהלל, יחד עם המהנדס דצקובסקי).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1242 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1242</bibl><bibl>Volume: #3 ,Page: 1243 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1243</bibl>
+<bibl>Volume: #3 ,Page: 1244 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1244</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

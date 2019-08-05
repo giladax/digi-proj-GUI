@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3366 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3366</bibl><bibl>Volume: #9 ,Page: 3367 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3367</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יצחק ניר (גרוספלד)</persName>
+
+</head>
+         <div><p> נולד בשנת תרע"ו (16.6.1916) בראדום שבפולין.
+
+ לאביו<persName> מנחם </persName> (סוחר ובעל תעשיה) ולאמו<persName> גלה </persName> בת <persName>יהודה זילברברג</persName> (מראדום).
+
+ גמר את הגימנסיה "חובבי דעת" בראדום והתחיל ללמוד מדעי הטבע באוניברסיטת וארשה.
+
+ היה פעיל בתנועת הנוער הציוני הלומד בראדום ואח"כ בווארשה והיה חבר הועד המרכזי של הסטודנטים היהודים בפולין.
+
+ ב-1935 עלה לארץ בתור סטודנט, המשיך את לימודיו באוניברסיטה העברית, וב-1942 קיבל את התואר "מוסמך למדעי הטבע". בינתים השתדל להעלות לארץ את הוריו ואחיותיו ואחיו, אך לא עלה בידו והם נספו בשואה.
+
+ המשיך בעבודת מחקר בביאוכימיה וב-1945 קיבל את התואר ד"ר לפילוסופיה.
+
+ ב-1945 נתמנה למנהל המעבדה לבדיקות תכשירי רפואה במחלקת הבריאות של ממשלת המנדט, ומ-1952 ואילך הנו מנהל. כללי של המכון לתקנים ולבקורת חמרי הרפואה מטעם משרד הבריאות של ממשלת ישראל.
+
+ ב-1951 נשלח מטעם ארגון הבריאות הבינלאומי להשתלמות בפרמקולוגיה ובביאוכימיה בארצות אירופה וארה"ב, ואח"כ פרסם בעתונות הבינלאומית המקצועית כמה עבודות מחקר, שזכו לתהילה מאת אנשי-מדע בעלי שם עולמי. גם מחקריו מהשנים הקודמות נתקבלו כעבודות מעולות.
+
+ ב-1955 הוזמן למרצה קבוע לחמרי הרפואה בביתהספר לרוקחות שבאוניברסיטה העברית בירושלים. 
+
+ ב-1957 קיבל בה גם את התואר ד"ר לרפואה.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3366 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3366</bibl><bibl>Volume: #9 ,Page: 3367 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3367</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

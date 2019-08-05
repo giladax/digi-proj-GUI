@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3624 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3624</bibl><bibl>Volume: #10 ,Page: 3625 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3625</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה שמעון קראוז</persName>
+
+</head>
+         <div><p> נולד באוצ'הורוד (צ'כוסלובקיה) כ"א באב תרפ"ג (1923).
+
+ לאביו <persName>מאיר</persName> (סופר סת"ם, מצאצאי משפחת רבנים מפורסמת. ביניהם הרב<persName> יואל צבי רוט</persName> , בנו הרב<persName> משה</persName> <persName>שמעון רוט, מאיר קרואוז, חיים אליעזר קרואוז.</persName> בן למשפחה זו הוא גם <persName>פרופ' שמואל קרויס</persName> , מחבר "קדמוניות התלמוד") ולאמו<persName> הניה</persName> בת<persName> זאב יוסוביץ</persName> (משפחת שוחטים ומורי-צדק).
+
+ את קולו הערב ירש מאביו שהיה מחסידי ז'ידיצ'ויב ובעל תפלה. בעודו נער השתתף כבר בתפילות לפני הציבור ויצאו לו מוניטין למושה'לה החזן.
+
+ קיבל חינוך תורני בישיבות אוזיהורוד אצל הרב כהנא ואח"כ במונקאץ בישיבת הרב <persName>שפירא</persName> ובקוסוני בישיבת הרבי<persName> רוטנברג</persName> ובחוסט אצל הרב <persName>גיינפלד.</persName>
+
+ קיבל סמיכות לרבנות ויצא לווינה ללמוד חזנות אצל החזן <persName>מילר</persName> ופיתוח הקול אצל פרופ' <persName>וולף.</persName>
+
+ בן 16 נעשה לחזן ראשי בעיר מרמורש סיגט שבהונגריה. בגיל 17 הוא חזן ראשי בבית הכנסת משומרי שבת בבודפסט.
+
+ בשנת 1943 הועבר על ידי הנאצים למחנה השמדה.
+
+
+ בעיר בור שביוגוסלביה, גם שם הוא שר ומתפלל באזני ששים אלף יהודי המחנה, המפקדים הנאציים לוקחים אותו למסיבותיהם ומכריחים אותו לשיר שירים גרמניים, כשהם מאיימים עליו מדי פעם שזהו "שיר הברבור" שלו ומנפנפים באקדוחיהם.
+
+ בשעת העברה להשמדה הוא קופץ מהרכבת ומצליח להגיע לפרטיזנים של טיטו.
+
+ נוסע לבוקרסט ומשמש כחזן ראשי בבית הכנסת "מלבי"ם".
+
+ בתחילת 1946 הוא עובר לגרמניה על מנת לחפש את שרידי משפחתו. הוא מוצא את אחיו <persName>יואל צבי</persName> ואחיותיו <persName>רבקה ואלטה-גיטל</persName> . נתמנה לרב ראשי בעיר הגרמנית הוף.
+
+ בשנת 1947 נתבקש לעבור לאיזור הבריטי ולשמש כמזכיר ראשי לרבנות הראשית וגם כחזן ראשי לכל האיזור.
+
+ בשנת 1949 מתגייס לצבא ההגנה לישראל ועולה לארץ.
+
+ לאחר סיימו את תקופת האימונים נתמנה לחזן ראשי של צה"ל. מאז הוא משתתף גם בשידורי צה"ל ובשידורי "קול ישראל".
+
+ חבר בועד איגוד החזנים בישראל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3624 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3624</bibl><bibl>Volume: #10 ,Page: 3625 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3625</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

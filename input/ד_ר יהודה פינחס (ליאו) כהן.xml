@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1513 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1513</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יהודה פינחס (ליאו) כהן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פראנקפורט</placeName> ענ"מ, גרמניה, ו' תמוז תרנ"ד (10.7.1894), לאביו <persName>מרדכי יצחק</persName> ולאמו <persName>לאה</persName> בת ר' <persName>הודה פנחס נאביאסקי </persName> מקובנה. קיבל חינוך יהודי וכללי בבית-הספר העממי ואח"כ בביה"ס הריאלי של הקהלה היהודית ב<placeName>פראנקפורט</placeName>. למד משפטים באוניברסיטאות שטראסבורג, ברלין, מארבורג והיידלברג, וכאן הוסמך לדוקטור למשפטים.
+
+ היה פעיל באגודת-סטודנטים ציונית ובשנות 1919/31 היה מזכיר המשרד המרכזי של האוניברסיטה העברית ובשנות 1931/33 היה חבר מוסד רוקפלר.
+
+ ב-1930 נשא לאשה את <persName>מרים</persName> בת ר'<persName> מאיר קניגס</persName> <persName>הפר,</persName> ואחרי שילדה בן נפטרה בלונדון ביום 5.3.1930 ובזיווג שני נשא ב-1936 את<persName> מינה </persName> בת <persName>יהודה בארט.</persName>
+
+ עלה והגיע ארצה ביום האחרון של שנת 1934 ובשנות 1935/48 היה מזכיר מדיני של הנהלת הסוכנות היהודית בירושלים, ומשהוקמה מדינת ישראל נתמנה למזכיר מדיני במשרד החוץ.
+
+ פרסם בעתונות הרבה מאמרים על נושאים מדיניים. ב-1932 פרסם בלונדון באנגלית חוברת מחקר על חוקת מדינת איירה החפשית. בתש"ט חיבר את הצעת החוקה למדינת ישראל בלוית דברי הסבר.
+
+ צאצאיו (מאשתו הראשונה:) <persName>מרדכי, יצחק.</persName> (מאשתו השניה) מרים, שלמה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1513 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1513</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

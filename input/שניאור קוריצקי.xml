@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4295 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4295</bibl><bibl>Volume: #13 ,Page: 4296 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4296</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שניאור קוריצקי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וילנה</placeName> (ליטא), י"ג ניסן תר"ס (12.4.1900).
+
+ לאביו<persName> נחום</persName> בן<persName> אברהם קוריצקי</persName> (מחסידי לובאביץ. חי בתל-אביב והוא בן 88) ולאמו<persName> רחל</persName> בת<persName> יעקב לוין</persName> (מצאצאי הרבי מלובלין).
+
+ קיבל חינוך מסורתי וכללי בבי"ס עממי ב<placeName>וילנה</placeName> ובסמינר למורים.
+
+ היה פעיל ב''צעירי-ציון" ו"החלוץ".
+
+ עלה לארץ בשנת 1924.
+
+ בשנת 1925 נשא לאשה את<persName> רחל</persName> בת<persName> מיכאל מגון</persName> (נפטרה בתל-אביב, י' כסלו תשי"ט - 22.11.1958) ובזיווג שני נשא בשנת 1959 את<persName> מאשה</persName> בת <persName>אהרן גלעזר.</persName>
+
+ יסד בשנת 1927 יחד עם אביו את בית החרושת הראשון לתעשיית אוטובוסים "המומחה" בתל-אביב.
+
+
+ מנהל עסקים ותעשיות. אח בבני-ברית משנת 1942.
+
+ ממיסדי המפלגה הפרוגרסיבית ברמת-גן.
+
+ חבר הנהלת המפלגה הליברלית ברמת-גן.
+
+ חבר הההגנה כל השנים. שירת בימי המאורעות בנוטרות.
+
+ צאצאיו:<persName> עדה</persName> אשת <persName>יעקב העברי</persName> (מנהל בנק אגודה חקלאית בפתח-תקוה), <persName>עמיאל</persName> , מהנדס אלקטרוני (אשתו <persName>ציונה</persName> מבית <persName>גסקו,</persName> ארכיטקט).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4295 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4295</bibl><bibl>Volume: #13 ,Page: 4296 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4296</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

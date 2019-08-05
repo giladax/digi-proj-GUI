@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4030 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4030</bibl><bibl>Volume: #12 ,Page: 4034 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4034</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פיבל רייכרט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וארשה</placeName> (פולין) אלול תר''ס (1900).
+
+ לאביו ר'<persName> עזרה</persName> (ממשפחה ידועה בפולין) ולאמו <persName>רחל</persName> בת<persName> יחזקאל גרינגלסס</persName> (נשרפה במחנות ההשמדה בחודש אדר תש"ב-1942).
+
+ קיבל חינוך מסורתי בחדר ובישיבה.
+
+ עבד בבית חרושת לתעשיית צמר גפן של דודו.
+
+ בשנת 1924 עלה לארץ.
+
+ עבד כפועל בבית חרושת של קרובו <persName>רייכרט</persName> , אשר באולמי הרכבת ביפו בימים ההם.
+
+ בשנת 1933 נשא לאשה את <persName>שרה</persName> בת <persName>שלום וינברג</persName> .
+
+ כיום, בעל תעשיה למוצרי מלט, ומעסיק פועלים רבים.
+
+ היה חבר ההגנה.
+
+ חבר פעיל בהסתדרות הליברלים.
+
+ בניו:<persName> עזרא, דן.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4030 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4030</bibl><bibl>Volume: #12 ,Page: 4034 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4034</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

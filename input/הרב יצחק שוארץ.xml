@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 632 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/632</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יצחק שוארץ</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תר"כ (1860), לאביו ר' ברוך מרדכי (שהיה עושה חומץ למכירה ונקרא "דער עסיגמאכר" על שם מלאכתי). למד בחדרים ובישיבות ובעודו צעיר הוסמך לרבנות וקבל קבלה לשחיטה ומוהל ובהיותו בעל קול ערב עסק גם בחזנות. נשא לאשה את <persName>חיה שרה</persName> בת <persName>אהרן נתן לרר</persName> , (סופר סתם מעולי פינסק בירושלים).
+
+ כשהחלה האגודה "למען ציון" בראשותו של <persName>מרדכי אדלמן</persName> לטפח ישובים יהודים בערי הארץ הנידחות שלא היה בהן ישוב יהודי, וברמלה כבר התלקטו כמה עשרות משפחות, נשלח הוא מטעם האגודה לשמש בקהלת רמלה בתור רב, חזן שוחט ומוהל. שם היה המנהיג והפעיל בעניני הקהלה, יסד מקוה ולימד את הילדים כשש שנים. אחר-כך נשלח מטעם האגודה, יחד עם הד"ר <persName>משה קריצ'בסקי</persName> ואחרים ליסד קהלה יהודית בשכם ושרת שם את
+
+ הקהלה כשבע שנים. קשר קשרי ידידות עם הערבים הקנאים שכיבדוהו, וגם עם השומרונים, והתנדב ללמד את ילדיהם עברית. אח"כ הועבר לעזה, שכבר היתה קיימת בה קהלה יהודית ספרדית, ושימש בה בתור שוחט ומוהל. כשפרצה מגפת החולירע בעזה והמיתה ערבים רבים נאלץ להחזיר את משפחתו ירושלימה, אך הוא עצמו נשאר שם עוד שנים אחדות.
+
+ מעזה נשלח בתור שד"ר לדרום-אפריקה לטובת תלמוד-תורה וביקור חולים שבירושלים. הרב הכולל לדרום-אפריקה, הד"ר י. ל. <persName>לאנדוי </persName> רבה הראשי של יוהאניסבורג, ראה צורך שהאיש הזה ישאר בשרות יהודי דרום-אפריקה ובהיות קהלת קייפטאון זקוקה אז למוהל, שו"ב וחזן הציע אותו לקהלה זו, וראשי הקהלה הפצירו בו וממש לא נתנוהו לחזור. ובסוף הוכרח להכנע להפצרותיהם ונשאר בשרות הקהלה, בתקוה שלאחר זמן יוכל לחזור ארצה, אך לא נסתייע בידו.
+
+ נפטר בקייפטאון, כ"ז סידן תרצ"ב.
+
+ צאצאיו: <persName>שלמה לוי, משה, צבי</persName> (ממתנדבי הגדוד העברי בגאליפולי), <persName>בצלאל </persName> (ז"ל), <persName>נחמה </persName> אשת <persName>צבי</persName> <persName>בריל, אסתר מלכה</persName> אשת<persName> יצחק פרלקווארט</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 632 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/632</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

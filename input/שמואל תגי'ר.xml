@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 991 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/991</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל תגי'ר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סופיה</placeName> (בולגריה), ט"ו טבת תרכ"ח, לאביו <persName>חזקיהו</persName> (מעסקני הישוב הישן בירושלים) ולאמ<persName>ו חנה</persName> לבית משיח מורג'ה, בולגריה העתיקה.
+
+ בשנת תרל"ט (1879) העלה אותו רבה של סופיה, הרב<persName> אברהם מבורך </persName> לא"י. 3 ימים נסעו מסופיה עד קושטא ומשם 13 ימים דרך הים ליפו. התאכסנו בבית העולים (דאר-אל-יהוד) ביפו אצל חכם <persName>בכור</persName> <persName>בן-רובי,</persName> ב"כ העדה הספרדית מירושלים. אח"כ עברו לירושלים, וכעבור שנה עלו הוריו לארץ. קבל חנוך בבית ספר כי"ח בהנהלת נסים בכר.
+
+ בתר"ן נשא לאשה את סולטנה בת ישעיהו בכר מסופיה. באותה שנה עבר ליפו ועסק במסחר עורות, וכעבור כמה שנים השתתף יחד עם ר' משה בצלאל טודרסוביץ וישראל מאיר חודורובסקי בתעשית עורות ואח"כ פתח לו עסק של רהיטים.
+
+ בתרנ"ב היה עסקן ועד הקהלה ביפו ביחד עם שמעון רוקח, יהודה שוחט, חכם יוסף משה, נסים חנוך ועוד.
+
+ היה פעיל בועד העדה הספרדית. ממיסדי ובוננית הכנסת "קהלת יעקב" ושערי ציון בנוה שלום, ביחד עם שמואל יוחננוף-כהן והרב בכור פפולה.
+
+ אחד מששים חברי "אחוזת בית" שיסדו את העיר תל-אביב.
+
+ ממיסדי שכונת מרכלת במרכז המסחרי בת"א.
+
+ בשנת תרפ"ב היה חבר מועצת עירית ת"א. 
+
+ בשנים האחרונות ב"כ עדת הספרדים בחברה קדישא בתל-אביב. גבאי בית התמחוי, בהנהלת חברת גמילות חסדים, שמסר בזמנו ביחד עם יחזקאל דנין לחברת עזרת נשים (לגברות : רחל לאה ברנט, ספיר, פורר וכו').
+
+ 4 מבניו ובתו ציונה (הציירת) התגיסו לצבא במלחמה העולמית השניה לפי קריאת המוסדות הלאומיים.
+
+ צאצאיו<persName>: ציונה </persName> (ציירת, התגייסה לא,ט.ס.),<persName> אשר</persName> (סוכן ראשי של ביהח"ר האמריקאי לשנים תותבות בא"י, סרג'נט חיל הנוטרים), <persName>ברוך</persName> (רוקח מוסמך בבית החולים "הדסה" על הר הצופים בירושלים, התגייס לצבא הבריטי במלחמה העולמית השניה), <persName>שושנה</persName> אשת גבריאל הקנברוך (בעל ביח"ר לגומי "תגום" בת"א), <persName>מרים </persName> ז"ל, אשת אברהם אכר (אביחיל), <persName>חזקיהו, שלום</persName> (התגייס לצבא הבריטי. ושירת בו 61/2 שנים),<persName> יוסף ישעיהו </persName> (התגייס לצבא הבריטי, פקיד הואר בת"א).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 991 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/991</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

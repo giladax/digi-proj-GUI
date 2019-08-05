@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5211 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5211</bibl><bibl>Volume: #17 ,Page: 5212 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5212</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עו"ד הרצל בן-ארי (ברגר)</persName>
+
+</head>
+         <div><p> נולד בפלך מינסק (רוסיה), ג' אב תרס"ז (14.7.1907).
+
+ לאביו <persName>יהודה ליב ברגר</persName> (מחובבי-ציון הנלהבים ביותר בשנות האביב הראשונות של הציונות ההרצ
+
+
+ לאית) ולאמו <persName>מייטה</persName> לבית <persName>וולובלסקי.</persName>
+
+ קיבל חינוך מסורתי ועברי עד עליתו לארץ.
+
+ בשנת 1913 עלה לארץ.
+
+ בוגר הגימנסיה העברית "הרצליה". גמר משפטים בארץ וקיבל תואר עורך-דין.
+
+ היה פעיל בתנועת הצופים ובגדוד מגיני השפה. השתלם במשפטים בלונדון.
+
+ בשנת 1934 נשא לאשה את <persName>חסידה</persName> בת <persName>אריה</persName> <persName> טרוצקי.</persName>
+
+ היה פעיל בביטוח לאומי ובלשכת עורכי-הדין. נפטר בתל-אביב, י"ח חשון תשכ"ח (22.11.1967).
+
+ בניו:<persName> גור-יהודה</persName> (רופא מנתח); <persName>חיים-עדו </persName> (תלמיד).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5211 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5211</bibl><bibl>Volume: #17 ,Page: 5212 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5212</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

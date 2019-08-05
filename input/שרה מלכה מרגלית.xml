@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4468 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4468</bibl><bibl>Volume: #14 ,Page: 4469 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4469</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שרה מלכה מרגלית</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ליבאו</placeName> (לטביה) בחודש ניסן תרנ"ח (1898).
+
+ לאביה הרב <persName>יוסף זליגר</persName> (יליד מינסק (רוסיה). למד בישיבות וקיבל סמיכה לרבנות. היגר בשנת 1910 לסינסינטי בארצות הברית) ולאמה<persName> בתיה מרים</persName> בת ר'<persName> שלמה מירקין</persName> (אחותה של ד"ר<persName> יצחק מירקין</persName> ז"ל).
+
+ קבלה חינוך עברי מסורתי ובית ספר גבוה כללי בסינסינטי אוהיו, ארצות הברית.
+
+ היתה חברה פעילה באגודת "עבריה" בסינסינטי, ב"מזרחי הצעיר" בניו-יורק וחברה ותיקה בהסתדרות נשי מזרחי בארצות הברית ונשיאה באגודת נשי מזרחי במחוז ושינגטון -הייטס, בניו-יורק.
+
+ בשנת תר"פ (1920) נישאה<persName> לשמריהו </persName> (ראה כרך י"ב, עמוד 3990) בן הרב <persName>אליהו הכהן מרגלית </persName> (ראה כרך ז' עמוד 2864).
+
+ לקחה חלק רב בפעולות שונות לטובת הקרנות של הקהק"ל והמגבית המאוחדת לישראל, והסתדרות
+
+
+ המזרחי - הפועל המזרחי לשם בנין המוסדות הקיימות בישראל.
+
+ בדצמבר 1947 עלתה לארץ.
+
+ חברה עסקנית בועדים מיוחדים של נציגות נשי מזרחי מארצות-הברית והסתדרות הפועל המזרחי, והחוג יוצאי ארצות המערב של המפד"ל, ירושלים.
+
+ צאצאיה: <persName>אסתר חנה</persName> אשת האדריכל <persName>דוד רפאל</persName> בנעט (כפר הרואה), <persName>יוסף הכהן מרגלית</persName> (כפר סבא), <persName>שלמה הכהן מרגלית</persName> (ירושלים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4468 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4468</bibl><bibl>Volume: #14 ,Page: 4469 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4469</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

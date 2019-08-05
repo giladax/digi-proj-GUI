@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3987 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3987</bibl><bibl>Volume: #12 ,Page: 3988 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3988</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זאב גולדשטרום</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ביאליסטוק</placeName> (פולין) בשנת תר"פ (14.10.1920). לאביו ר'<persName> יצחק אייזיק</persName> (נפטר בכפר סבא, כ' בתמוז תשכ"א) ולאמו<persName> חוה</persName> בת <persName>זאב פינקלשטיין.</persName>
+
+ קיבל חינוך עברי בגמנסיה עברית ב<placeName>ביאליסטוק</placeName>, כלכלה באוניברסיטת פראג.
+
+ היה פעיל בארגוני הנוער בעירו. היה בין אסירי ציון שגורשו לסיביר.
+
+ היה פעיל בעליה ב'.
+
+ לאחר תלאות רבות עלה בשנת 1949 לארץ באניה "טאטי", שעגנה בנמל תל-אביב, כשהוא נושא עמו תעודת עולה מספר 20 אחרי הכרזת המדינה.
+
+
+ סידר 70 דרכונים עבור עולי חב"ד.
+
+ היה פעיל בארגון הבריחה בצ'כיה מטעם המוסדות העליונים.
+
+ עבד כמנהל חשבונות בקופת מלוה של העובדים ברמתיים.
+
+ עבד ב"יכין-חקל" בכפר סבא.
+
+ בשנת 1950 נשא לאשה את<persName> רות</persName> בת <persName>שמואל הרץ.</persName> היה פעיל בהקמת שכונות פועלים במושבות בהיותו מנהל מחלבת המושבות במרכז לשיכון של הסתדרות העובדים.
+
+ חבר המועצה הארצית של מפא"י ויושב ראש אגוד ערים לשירותי כבאות ברחובות.
+
+ כיום, גזבר עירית רחובות.
+
+ צאצאיו:<persName> יגאל, צפנת.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3987 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3987</bibl><bibl>Volume: #12 ,Page: 3988 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3988</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3847 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3847</bibl><bibl>Volume: #11 ,Page: 3848 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3848</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בן-ציסי (נתן) פורדהוז (פריד)</persName>
+
+</head>
+         <div><p> נולד בחודורקוב, פלך קיוב, בשנת תרנ"ו (23.10.1896)
+
+ לאביו<persName> שלום פריד </persName> (סופר סת"ם מקובל).
+
+ קיבל חינוך מסורתי בחדר ובישיבה בברציצ'וב ובירושלים ("עץ חיים"), בית ספר למוסיקה בקיוב, קונסרבטוריון בפטרבורג (קומפוזיציה וניצוח).
+
+ היה מנצח בבית הכנסת בפטרבורג ובקולטורליגה בקיוב.
+
+ בשנת 1924 עלה לארץ.
+
+ נשא לאשה א<persName>ת אסתר </persName> לבית <persName>ברבדה.</persName>
+
+
+ בשנת 1925 מנצח מקהלות ועדת התרבות בירושלים. בשנות 1925-29 סגן מנצח ומנהל האופירה הא"י במשך שנתים.
+
+ מנצח ומיסד האורטוריה הא"י אשר ביצעה לראשונה את הסימפוניה ה-9 לבטהובן וכו'. בשנות 1927-28 יוצר הסימפוניהמשנת 1929 מנצח "הבימה". משנת 1926 יוצר ומנצח האורטוריה הא"י.
+
+ הציג אוראטוריות: רקיים למוצארט, מעשי בראשית להאידן, אליהו למנדלסון, יהודה המכבי להנדל, יהושע בן-נון למיסירגסקי, שמשון להנדל, הסימפוניה התשיעית לבטהובן.
+
+ אופרות: ריגולטו, הספר מסיבילה.
+
+ פאוסט : משא ביאליק.
+
+ חיבר מוסיקה ל-35 הצגות של "הבימה". היה מנצח ומנהל מוסיקלי של "הבימה"
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3847 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3847</bibl><bibl>Volume: #11 ,Page: 3848 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3848</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

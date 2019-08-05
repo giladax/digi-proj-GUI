@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3164 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3164</bibl><bibl>Volume: #8 ,Page: 3165 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3165</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלכסנדר אלכסנדרוני (אלכסנדרוביץ)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וורשה</placeName> (פולין) בשנת תרס"ה (11.9.1905).
+
+ לאביו <persName>שמואל אלכסנזרוביץ</persName> (משפחת רבנים, בעל ביח"ר למשקאות) ולאמו <persName>מלכה</persName> לבית <persName>מלובנצ'יק</persName> מוורשה (משפחת רבנים).
+
+ קבל חנוך בביה"ס התיכוני של<persName> מיכאל קרצ'מר</persName> ב<placeName>וורשה</placeName>, שנתים בבית ספר גבוה לכלכלה - מחלקת העתונות.
+
+ היה כתב ספורט בעתון "פשגלונד ספורטובי'', ממיסדי ועורך משנה של השבועון "ספורטצייטונג", עורך הספורט של עתון "נובה סלובו" ב<placeName>וורשה</placeName>.
+
+ היה חבר הנהלת מרכז המכבי ומנהל מחלקת העתונות וההסברה של המכבי בפולניה.
+
+ במרס 1935 עלה לארץ.
+
+ החל בארץ לעבוד כעתונאי ספורט, עורך הספורט של "הבקר", חדשות ברדיו "קול ירושלים", "השבועון הגלגל", "העולם הזה", "ידיעות אחרונות", ברדיו "קול ישראל", "מעריב'', "ג'רוסלם פוסט", ו"חדשות הספורט",
+
+ בשנת 1945 נשא לאשה את <persName>סימה</persName> בת <persName>יהושע לוי.</persName>
+
+ עם עליתו לארץ החלה מתפתחת עתונות הספורט.
+
+<persName>חבר</persName> : הנהלת מרכז המכבי בישראל, האקסקוטיבה. העולמית של מכבי, ועד תל-אביב של עתונאי ספורט בישראל, המועצה וועד הפועל של הועד למען החיל בישראל, באגודת העתונאים בתל-אביב.
+
+ היה מנהל העתונות והרדיו של שלש המכביות בארץ. השתתף בכל הכינוסים והקונגרסים של המכבי בישראל ובחו''ל.
+
+ מיום עליתו לארץ חבר ההגנה.
+
+ פרסם חוברות שונות על עניני ספורט.
+
+ בתו:<persName> ליאורה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3164 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3164</bibl><bibl>Volume: #8 ,Page: 3165 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3165</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3345 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3345</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרים טל</persName>
+
+</head>
+         <div><p> נולדה ו' תמוז תר"ע (29.6,1910) בסמולנסק שברוסיה.
+
+ לאביה ד"ר<persName> אברהם רוזנטל </persName> (ראה ערכו בכרך זה) ולאמה <persName>חנה</persName> בת<persName> נחמן קרפילוב.</persName>
+
+ התהילה ללמוד במוסקבה, מ-1920 ואילך בגימנסיה גרמנית בברלין (שם היתד, פעילה באגודת-נוער ציונית), המשיכה וגמרה בגימנסיה צרפתית בבריסל והתחילה ללמוד באוניברסיטת ברלין.
+
+ אחרי ביקור אצל ההורים ב-1927 בירושלים עלתה
+
+ לארץ ב-1930. השתלמה באופן יסודי בשפה ובספרות עברית והמשיכה את לימודיה באוניברסיטה העברית ואח"כ עבדה בתור פקידה, מתרגמת (תרגום סימולטני, תרגום ספרותי), סופרת, מבקרת אמנות, ובהיותה נשואה לפסל<persName> דוד מלכין </persName> (1950-1940) עסקה גם במקצוע עקרת בית. עבדה בפקידות ובתרגום בויצ"ו העולמית, במשרד הג'וינט, בלשכה הראשית של הקהק"ל, ובשנים 19531955 בצירות ישראל בבריסל, ובאותן שנים השתלמה שם בתולדות האמנות (במיוחד האמנות המודרנית). מבקרת-אמנות קבועה ב"הבוקר", "בטרם" ובכמה כתביעת עבריים ולועזיים. פרסמה מאמרים רבים על אמנות ישראלית ואמנות בחו"ל, מסות והקדמות וגם סיפורים ורשימות על נושאים אחרים, ואת הרומן "מזייפי החיים" (הוצאת י. צ'צ'יק, 1937), ותרגומים ספרותיים לגרמנית, צרפתית, אנגלית ועברית.
+
+ במלחמת העולם השניה שירתה שנה אחת (1943) בהתנדבות באט''ס, ובמלחמת השחרור שרות חלקי בש"י.
+
+ בתה : <persName>רמה מלכין</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3345 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3345</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

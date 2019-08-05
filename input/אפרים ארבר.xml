@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2351 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2351</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים ארבר</persName>
+
+</head>
+         <div><p> נולד באלכסנדרובסק (רוסיה) בשנת תרמ"ז (13.3.1887).
+
+ לאביו <persName>דוד דב</persName> (ראה עמוד 448, כרך א'), ולאמו <persName>לאה</persName> בת<persName> אברהם זלמן איכילוב</persName> (מאכרי פתח-תקוה ראה כרך ב', עמוד 780).
+
+ קיבל חנוך עברי אצל המורה ישי אדלר, בי"ס עממי,
+
+ בי"ס למסחר ממשלתי ובית ספר גבוה למסחר באנטורפן (בלגיה). היה פעיל בארגונים ציוניים. עזר בחו"ל לאביו במסחר התבואה. .
+
+ בשנת 1907 עלה לארץ.
+
+ ב-1908 עזר לאביו להקים בית חרושת ללבנים באחוזת-בית (תל-אביב) שנוסדה אז.
+
+ עזר לגאול קרקעות רבות מערבים בעיקר בצפון תל-אביב. כ-160 דונם מהכפר מוחזין ע"י גדרה (כיום קבוץ חפץ-חיים).
+
+ היה פעיל בלשכת הבנאים החפשים "ברקאי" בתלאביב.
+
+ נשא לאשה את<persName> רדקה</persName> לבית <persName>בורשטיין.</persName>
+
+ נפטר בתל-אביב, ב' אדר ב' תשי"א (10.3.51).
+
+ בנותיו:<persName> מיה</persName> אשת <persName>גרשון אוריון, דליה </persName> אשת <persName>שמשון</persName> <persName>אמסלם.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2351 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2351</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

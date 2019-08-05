@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 707 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/707</bibl><bibl>Volume: #2 ,Page: 708 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/708</bibl>
+<bibl>Volume: #2 ,Page: 709 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/709</bibl>
+<bibl>Volume: #2 ,Page: 710 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/710</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהושע מאיר רייכמאן</persName>
+
+</head>
+         <div><p> נולד בביאליסטוק, כ"ט כסלו תרכ"ב, לאביו ר' <persName>נתן</persName> האופה, בן האדמו"ר רבי<persName> שלמה</persName> רייכמאן מווארשה, ולאמו <persName>אסתר</persName> בת הרב ר' <persName>יצחק הכהן בריקר</persName> , שהיה דיין בווארשה. למד בחדר והצטיין בידיעותיו בתלמוד עוד בילדותו. בהיותו בן 12, בתרל"ד, עלה ארצה עם אביו ואמו החורגת<persName> גיטל'ה הצדקנית</persName> , ועם
+
+ כל אחיו והתישבו בירושלים. למד בתלמוד תורה "עץ חיים", בישיבת "עץ חיים" בימי הנהלתו של הרב ר' <persName>משה נחמיה כהנוב</persName> מחאסלאביץ ולאחר שהצטיין ביותר בשקידה ובידיעות נתקבל ללמוד בבית מדרשו של הגאון ר' <persName>מאיר אוירבאך</persName> מקאליש, בעל הספר "אמרי בינה".
+
+ בהיותו בן י"ט נשא לאשה את <persName>הדסה פייגא מר</persName> <persName>ים,</persName> יתומתו של הרב ר' <persName>יצחק יעקב הריסון </persName> מקרוק, ואחיה ר'<persName> ישעיה</persName> ור' <persName>מיכל</persName> לימדוהו את מלאכת ניקור הבשר והיה למנקר. עבודה זו לא הספיקה לפרנסתו ולכן נעתר לבקשת כמה עשירים ולימד את בניהם תורה וחסך מהכנסתו ובנה לו בית בשכונת "בית. ישראל" בראשיתה והיה גבאי, חזן ומגיד שיעורים בבית המדרש העליון של השכונה.
+
+ כשנוסדה בירושלים חברת "דגל תורה" במטרה להשיג מקור-פרנסה קבוע להחזקת מוסדות התורה ולומדיהם על-ידי הפצת שטרי-הגרלה (חברה זו יסדה גם את הישיבה ביהודיה, ליד פתח-תקוה, בהנהלת הגאון ר'<persName> מרדכי</persName> גימפל מרוזינוי), ואחד מעסקני החברה
+
+ היה ר' <persName>ישעיה הריסון</persName> , והוא עצמו נסע לפעול למען החברה בדרום-אפריקה, שלח את גיסו ר' יהושע מאיר בשנת תרנ"ב לפעול למען החברה באמריקה. זמן קצר אחרי בואו לאמריקה התמוטטה החברה בירושלים והוא הוכרח לתשאל באמריקה ולהשתכר שם למחיתו ולשלוח למחית בני-ביתו בירושלים, ושהה שפם קרוב לשנתים. בהיותו שם פעם בבית אחד הרבנים ואל הרב הובאה שאלת-הלכה קשה, הציע הוא לו פתרון ישר ונכון. אמר לו הרב בתמימות : "אולי יואיל כבודו לקבל את הרבנות בקהלתי ואני אבקש לי קהלה אחרת ?..." באותו יום הובא מהדואר מכתב לר' יהושע מאיר מאביו ר' נתן מירושלים, ובו כתוב: "בני, הזהר ותשמר שלא תשתקע באמריקה !" - והוא חזר ירושלימה בתרנ"ד, אך מחוסר אפשרות להסתדר בפרנסה יצא שנית לאמריקה. שם למד את מלאכת השחיטה ונבחן והוסמך על-ידי שוחטים ורבנים מפורסמים, אך לא עסק במלאכה זו. כן עזר שם לר' <persName>יעקב משה</persName> <persName>ברוידא</persName> , השד"ר הראשי של המגבית המאוחדת לטובת "עץ חיים" ו"ביקור חולים" (בשם המקוצר: ת"ת
+
+
+ וב"ח). וכשחזר בסוף שנת תרנ"ו לירושלים (בתור נתין אמריקאי) נתמנה למזכיר וסופר המשרד. בתרנ"ח יצא בשליחות משרד ת"ת וב"ח לאפריקה הדרומית, לאחרי שנה וחצי חזר לירושלים ונתמנה למנהל כללי של המשרד ומאז לא יצא עוד מירושלים והמשיך לעסוק בעבודתו, בתורה ובמעשי חסד וגם אשתו הרבתה לעשות צדקה וחסד והצטיינה בצדקנותה. (פעם, כשמת אחד מילדיה בשבת, הסתירה את האסון מבעלה עד אחרי ההבדלה).
+
+ הוא שקד על טובת קרוביו הרבים, דאג ליתומים ולאלמנות, היה יועץ ועוזר לכל פונה אליו, נאמן על הכל, נושא בעול אפוטרופסויות ובוררויות וכדומה. כנציג המוסד ת"ת וב"ח היה חבר "ועד הכללי כנסת ישראל" והשתתף בהנהגת העדה האשכנזית בירושלים ובכל מוסדותיה ושרותיה: בועד השחיטה, בועד העדה האשכנזית, בועד להוצאת העתון החרדי "מוריה", וכן היה הממונה לראשי בכולל הורודנא.
+
+ בימי מלחמת-העולם הראשונה השתמש בנתינותו האמריקאית ובבקיאותו בעניני אמריקה ופעל רבות ובמסירות להבאת עזרה ליהודי ירושלים. אחרי המלחמה השתתף בארגון החיים החדשים בישוב. כחבר "בני ברית" היה במגע ידידותי גם עם טובי הישוב החדש. כן היה חבר פעיל ב"המזרחי''. נבחר לועד העיר היהודי הראשון ולאספת הנבחרים הראשונה. יזם והציע להזמין את הרב <persName>קוק </persName> זצ"ל לראש-הרבנים. השתתף בסידור מעמד הרבנות הראשית לארץ-ישראל ובארגון קהלת ירושלים והמועצה הדתית. נפטר בירושלים ביום ח' ניסן תש"ב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 707 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/707</bibl><bibl>Volume: #2 ,Page: 708 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/708</bibl>
+<bibl>Volume: #2 ,Page: 709 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/709</bibl>
+<bibl>Volume: #2 ,Page: 710 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/710</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

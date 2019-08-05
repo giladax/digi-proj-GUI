@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3269 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3269</bibl><bibl>Volume: #9 ,Page: 3270 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3270</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יצחק אויערבאך</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"ב מנחם אב תרל"ז (1877). לאביו הרב <persName>מנחם נתן</persName> (נטע) (ראה את הערך שלו בכרך זה) ולאמו<persName> צירל יאכט</persName> בת הגאון רבי<persName> יהושע</persName> <persName>פליק אויערבאך</persName> (שהיה אבד"ק קלעטשווע).
+
+ קבל חנוך מסורתי אצל הרבנים : ר'<persName> חיים וייץ</persName> מטרנופיל, ר' <persName>אליעזר דן גבריאלוביץ</persName> (רלב"ג) ור'<persName> משה</persName> <persName>נחמיה כהנוב</persName> ז"ל.
+
+
+ בשנת תרנ"ד נשא לאשה את <persName>סימה</persName> בת<persName> ח"י נפתלי</persName> <persName>זילברברג </persName> (נפטרה בירושלים, כ' תשרי תשי"ז-25.9.56).
+
+ בשנת תר"פ-תר"ץ היה ראש ישיבת בחורים ב"עץ חיים''.
+
+ אחרי פטירתו של אביו (ה' אלול תר"ץ-29.8.30) נתמנה במקומו לרב ומורה צדק בשכונת רוחמה.
+
+ חבר ספר פרוש על שלש בבות - "אוצר הלכה" (חלק א', תרס''ט, חלק ב', תש"י), הגהות על ספר "אורח נאמן".
+
+ העתיק והכין לדפוס והגיה את ספרי אביו: "זכות אבות", "ענף אבות" ו"אורח נאמן" - 3 חלקים.
+
+ נפטר בירושלים, כ"ח אדר א' תשי"א (5.4.1951) ונקבר בסנהדריה.
+
+ בניו: הרב <persName>אברהם בנימין אויערבאך</persName> (רב בברוקלין, ניו-יורק),<persName> שלמה</persName> (ירושלים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3269 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3269</bibl><bibl>Volume: #9 ,Page: 3270 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3270</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

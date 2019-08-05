@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3848 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3848</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים ירושלמי (ירוזלימסקי)</persName>
+
+</head>
+         <div><p> נולד בביאליסטוק, פלך גרודנה, בשנת תרנ"ה (1895).
+
+ לאביו<persName> גדליהו ירוזלימסקי </persName> (ראה כרך ג', עמוד 1520) ולאמו <persName>רחל</persName> בת <persName>חיים רבינוביץ</persName> (נפטרה בתלאביב, ו' כסלו תרצ"ח).
+
+ קיבל חינוך מסורתי ותיכוני.
+
+ עסק בתעשית טקסטיל וחבלים.
+
+ עלה לארץ בשנת 1925.
+
+ יסד חברת האחים ירושלמי בע"מ וניהל כמה מפעלים תעשיתיים.
+
+ יסד ומנהל בללי של : חברה א"י לתעשיית כותנה בא"י בע"מ, חברת האחים ירושלמי בע"מ, חברת חיים ירושלמי בע"מ, חברת חבלים וטכסטיל בע"מ, תעשיית יוטה ישראל בע"מ.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, י' שבט תשכ"ה (13.1.65)
+
+ (ראה כרך י"א, עמוד 3848)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3848 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3848</bibl>            <bibl>Volume: #14 ,Page: 4577 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4577</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

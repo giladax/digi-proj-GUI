@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1177 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1177</bibl><bibl>Volume: #3 ,Page: 1178 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1178</bibl>
+<bibl>Volume: #3 ,Page: 1179 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1179</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה פיינשטיין</persName>
+
+</head>
+         <div><p> נולד בביאליסטוק, פלך גרודנה, י"ד ניסן תרכ"ג (1863), לאביו ר' <persName>גדליה מיכל</persName> (תלמיד חכם, סוחר, בעל מדות תרומיות, מגזע רבנים, מפעילי חובבי ציון) ולאמו<persName> חיה</persName> (אשת חיל ועסקנית במפעלי צדקה וחסד) בת ר'<persName> פייבל קרשם</persName> (למדן מופלג וחובב ציון נלהב, פרנס של ביאליסטוק, אך כשהגיע לחוף יפו ונדרש
+
+ לתת "בקשיש" סירב לטמא את ידו במתן שוחד על סף ארץ הקודש והוכרח לחזור לביאליסטוק ושם נפטר; היה מצאצאי השל"ה ורבנים אחרים). למד בחדרים ובישיבה, היה פעיל בתנועת חיבת ציון.
+
+ בתרמ"ב קנה אביו נחלה בפתח תקוה מאת ר' <persName>אברהם קופלמן </persName> שבא בשליחות לרכוש מתנחלים להחיאת המושבה שנעזבה, אך לפתע מת האב. בתרמ"ג עלה ארצה עם אמו ועם אחותו <persName>פרידה גיטל</persName> (נישאה לר' משה קרצמן, נפטרה בפ"ת, ה' טבת תר"ס), שהביאה עמה 20.000 רובל ובנתה ביפו מקוה-טהורה. משה
+
+
+ עצמו התישב תחילה בכפר יהודיה - בין יתר המתנחלים, מ"קבוצת הביאליסטוקאים" ושאר מחדשי המושבת - ואח"כ בפתח תקוה. בתרמ"ג נשא לאשה בכפר יהודיה את <persName>חוה </persName> בת
+
+ ר' <persName>משה צבי מוולקוביסק </persName> (מדקדק ומתימתיקאי ידוע) שאירס לו עוד מביאליסטוק ,אחרי שהכיר אותה שם באספות של חובבי ציון. החתונה נערכה ביהודיה בטכס צנוע ובפשטות עם לחם שחור וזיתים.
+
+ בבואו ארצה הביא אתו כלי-עבודה חקלאיים חדישים, התמסר לעבודה בשקידה מבוקר עד ערב ועל 500 הדונמים של נחלתו פיתח משק למופת: פלחה, כרמי גפנים ושקדים, זיתים, ירקות ופרדס בן 50 דונם. השתתף באומץ ובגבורה בקרבות ההגנה על המושבה ופעם נאבק לבדו עם עשרה רועים ערבים, שהתנפלו עליו בדרכו הביתה מיפו, וגבר עליהם, ומאז ידעו הערבים לכבדו כגבור חיל וקראו לו "מוסה, חייעס" (על שם אמו). גם אשתו נשאה באומץ את תלאות הראשונים, ופעם הגנה בגופה ותינוקת בזרועותיה על הרב <persName>אריה ליב פרומקין </persName> כשערבים התנפלו עליו.
+
+ המלריה פגעה קשה בכל בני ביתו ואחדים מצאצאיו הוכרחו לעזוב את הארץ והסתדרו בצרפת. אף רעיתו הוכרחה בפקודת הרופאים לנסוע לצרפת להתרפא ונפטרה בפריס (ט' כסלו תרע"ט 14.11.1918), ובתרפ"ב נשא בזיווג שני את<persName>ברכה פניה</persName> בת ר'<persName> יצחק</persName> <persName>פוגרונד</persName> מאבלי פלך קובנה (ת"ח ועסקן צבורי).
+
+ באומץ ובדממה נשא אף הוא את פגעי המלריה, מחלת עינים קשה עם ניתוחים ועוד מחלות, ואחרי 40 שנות עמל מכר את משקו ועבר לתל-אביב. כאן היה <persName>שוקד על הספרות והחכמה</persName> והיה בין הראשונים ללכת להרצאות ולשיעורים בבית הכנסת הגדול, בבית העם וביתר המקומות הצבוריים, ותרם ביד רחבה למוסדות, אך געגועיו משכוהו תמיד חזרה אל האדמה.
+
+ נפטר בתל אביב ט' תשרי תש"ח (23.9.47).
+
+ צאצאיו (כולם מאשתו הראשונה): <persName>שיינה דבורה</persName> <persName>אשת שמעון פפירמייסטר</persName> בראשון לציון, <persName>חיה רבקה</persName> אשת<persName> מוריס קריסטל</persName> בעיר קסטר (צרפת),<persName> מרים </persName> (רופאת
+
+ שינים בפאריס), <persName>רפאל מיכל</persName> (עו"ד בת"א), <persName>אברהם פייבל</persName> הי"ד (נספה עם משפחתו בידי המרצחים הנאצים בפאריס).
+
+ אחיו: הרב <persName>שמואל פיינשטיין</persName> ז"ל והסופר<persName> זלמן</persName> <persName>פיינשטיין.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1177 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1177</bibl><bibl>Volume: #3 ,Page: 1178 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1178</bibl>
+<bibl>Volume: #3 ,Page: 1179 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1179</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

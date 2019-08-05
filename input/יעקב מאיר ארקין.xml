@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3104 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3104</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב מאיר ארקין</persName>
+
+</head>
+         <div><p> נולד בפלבקה (ליטא) בשנת תרכ"ג (1863). לאביו <persName>צבי ארקין</persName> (ראה כרך א', עמוד 404) ולאמו <persName>חנה.</persName> קבל חנוך מסורתי בחדר ובישיבה.
+
+ בשנת תרמ"א (1881) נשא לאשה את <persName>חיה</persName> בת<persName> צבי</persName> <persName>צפניק (</persName> נפטרה בעקרון, י"ז סיון תרצ"ד-31.5.1934).
+
+ בשנת תרמ"ד (1884) עלה לארץ.
+
+ ממיסדי המושבה עקרון (מזכרת בתיה). התמסר לחקלאות ולשמירה במושבה. היה חבר וגזבר הועד המקומי במושבה.
+
+ שימש משך הרבה שנים בתור גבאי בית הכנסת במושבה.
+
+ נפטר בעקרון, כ' חשון תרצ"ג (19.11.1932). צאצאיו :<persName> יוסף, צביה</persName> אשת <persName>שלום זילברשטיין.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3104 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3104</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5390 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5390</bibl><bibl>Volume: #18 ,Page: 5391 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5391</bibl>
+<bibl>Volume: #18 ,Page: 5392 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5392</bibl>
+<bibl>Volume: #18 ,Page: 5393 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5393</bibl>
+<bibl>Volume: #18 ,Page: 5394 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5394</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דבורה (דורה) רוזנפלד</persName>
+
+</head>
+         <div><p> נולדה בירוסילוב (רוסיה), כ"ד תשרי תרע"ד (25.10.1913).
+
+ לאביה<persName> אשר קופסקי</persName> (קרובי משפחה לפייטן <persName>אשר</persName> <persName>שווארטסמן</persName> ול"אחד העם" -<persName> אשר צבי גינצבורג</persName> , ראה את הערך שלו בכרך חמישי, בעמודים 2348-50) ולאמה<persName> רחל</persName> בת <persName>זאב גזינסקי</persName> .
+
+ קיבלה חינוך עברי וכללי.
+
+ עברה מרוסיה לקנדה.
+
+ ביום 18 לפברואר 1940 נישאה לד"ר <persName>הירש (צבי)</persName> <persName>רוזנפלד </persName> (רופא ידוע ועסקן ציבורי בקנדה ובפרט לענייני ישראל (ראה את הערך שלו בכרך זה).
+
+ יושבת ראש של עליית הנוער לישראל בקנדה. פעילה בכמה ארגוני נשים למען ישראל ("הדסה", ויצ"ו). .(1966-67)Past Chairman NTL, Israel Bonds Chairman Laidies Auxiliary A.P.T. of Israel .(1961)Medical Association בביתם מדברים עברית. מבקרת בקביעות בארץ.
+
+ מקובלת מאוד בחוג העסקניות הציבוריות והציבור היהודי בקנדה.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5390 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5390</bibl><bibl>Volume: #18 ,Page: 5391 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5391</bibl>
+<bibl>Volume: #18 ,Page: 5392 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5392</bibl>
+<bibl>Volume: #18 ,Page: 5393 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5393</bibl>
+<bibl>Volume: #18 ,Page: 5394 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5394</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

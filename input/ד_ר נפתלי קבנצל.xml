@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2184 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2184</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר נפתלי קבנצל</persName>
+
+</head>
+         <div><p> נולד באומן שבאוקראינה (רוסיה) בשנת תרל"ט (1879) לאביו<persName> יוסף </persName> (היה תלמיד חכם והתפרנס ממסחר במנופקטורה).
+
+ אחרי למודים בחדר המקומי באומן וסיום גמנסיה נסע לקיוב וגמר שם בהצלחה ובהצטיינות את הפקולטה לרפואה והוסמך כרופא.
+
+ בשנת 1913 נשא לאשה את <persName>עלינה </persName> לבית <persName>יושפה</persName> מברדיצ'ב.
+
+ בהיותו ציוני פעיל במחתרת הרוסית נאסר פעמים מספר בימי המהפכה ואחריה, בביתו נערכו חפושים אחרי מכתבים מארץ-ישראל וספריתו העברית הגדולה, שנאספה בשקידה ואהבה, נפגעה קשה ע"י הג.פ.או.
+
+ בזמן המלחמה העולמית היה רופא צבאי ואחרי כן עבר לעבודה באיזור הכפרי של פלך ויניצה שבאוקראינה. בביתו המשיך לרכז את הציונים ואספם לאספות חשאיות עד שיצא בשנת 1925 לארץ ישראל. לקומוניסטים מסר על מטרת נסיעתו לאיטליה - לשם רפוי, אולם בא ליפו וירד לחוף הארץ.
+
+ בארץ שמש יו"ר ההסתדרות הרפואית בפתח-תקוה, בה פתח חוג קלינטים גדול, ביחוד בקרב הערבים שהיו באים אליו ממרחקים. בשנה הראשונה לבואו היה רופאה של קפת חולים של "ההסתדרות" שהיתה עדין בצריף הקטן שברחוב נורדוי בפתח-תקוה. ספריתו העברית המצוינת (שהביא דרך אודיסה) נמסרה לספריה העירונית בפתח-תקוה.
+
+ נפטר בירושלים, בראש חדש אדר תש''ג (1943). בנו : <persName>יוסף</persName> (עתונאי והמזכיר הכללי של הסתדרות הציונים הכלליים. ראה את הערך שלו בספר זה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2184 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2184</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

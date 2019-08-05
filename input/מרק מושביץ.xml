@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5470</bibl><bibl>Volume: #18 ,Page: 5471 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5471</bibl>
+<bibl>Volume: #18 ,Page: 5472 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5472</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרק מושביץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רוסטוב</placeName> (רוסיה), י"ח באב תר"פ (22.8.1920).
+
+ לאביו <persName>דוד מושביץ</persName> ולאמו <persName>פאולינה </persName> לבית<persName> פבזנר.</persName>
+
+ קיבל חינוך מסורתי וכללי בדולביטש, קולג' בלונדון, ג'יזוס קולג' קמברידז'.
+
+ בשנת 1940 עלה לארץ.
+
+ התחיל לעבוד כפועל ייצור בבית החרושת "עלית" - חברה ישראלית לתעשיית שוקולדה וסוכריות בע"מ ברמת גן, שאביו נמנה על מייסדיו.
+
+ נשא לאשה את <persName>יהודית </persName> בת<persName> מאיר באמאל</persName> .
+
+ בשנת 1946 היה ציר למועצת המזונות בשם מדינת ישראל בלונדון.
+
+ יו"ר המכון הישראלי לייצוא.
+
+ יו"ר מועצת המנהלים של בנק ישראלי לתעשיה בע"מ.
+
+ חבר אגודת ישראל-אמריקה.
+
+ כל השנים היה חבר ההגנה. ואח"כ במחלקה המדינית של משרד החוץ,
+
+ יו"ר מועצת המנהלים של חברת "עלית" בע"מ הנ"ל.
+
+ כיהן כיו"ר הועד הפועל של התאחדות בעלי התעשיה בישראל.
+
+ מהראשון ליוני 1969 נשיא התאחדות בעלי התעשיה בישראל.
+
+ בניו: <persName>דניאל, דוד.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5470</bibl><bibl>Volume: #18 ,Page: 5471 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5471</bibl>
+<bibl>Volume: #18 ,Page: 5472 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5472</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1379 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1379</bibl><bibl>Volume: #3 ,Page: 1380 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1380</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלכסנדר סנדר הלוי-אפשטיין</persName>
+
+</head>
+         <div><p> נולד בשקלוב, מחוז מוהילוב, רוסיה הלבנה, בשנת תקצ"ח (1838), לאביו <persName>דוד משה </persName> (ממשפחת <persName>הלוי</persName> <persName>אפשטיין </persName> הנודעת עוד מרוסיה, קרוב למשפחת האדמו"רים לבית <persName>שניאורזון </persName> מליובאוויטש ולמשפחות<persName> גינז</persName> <persName>בורג, אלכסנדרוב, ריבלין, צייטלין</persName> , וכו' וכו') ולאמו <persName>העניה</persName> בת ר' <persName>נחום אלכסנדרוב</persName> . נתיתם מאביו בגיל רך מאד ועבר לבית אבי-אמו שהיה, כמו חתנו ר' דוד משה, מותיקי חסידי חב"ד.
+
+ לפקודת "האדמו"ר האמצעי" ר'<persName> מנחם מנדיל</persName> (בעל <persName>"צמח צדק</persName> ") מליובאוויטש, מיסד הישוב החב"די בחברון, עלה הסבא ר' נחום בשנת תר"ד ארצה והתישב בחברון והעלה עמו גם את נכדו אלכסנדר סנדר בן השש. כאן גדל ולמד בחדרים, בישיבה ובבית-המדרש
+
+
+ ש''ס ופוסקים, וביחוד חיבב להגות בתנ"ך ובמדרשים (נטיה שירש מאבותיו) ובספרי חסידות.
+
+ נשא לאשה את <persName>מלכה</persName> , ילידת צ'רניגוב, בת ר' <persName>שלמה זלמן רבינוביץ</persName> הקרובה למשפחת <persName>ריבלין (ממיס</persName> די הישוב הפרושי בירושלים), שעלתה ארצה בילדותה עם אמה האלמנה והשתקעו בירושלים.
+
+ עסק קצת במסחר לפרנסת ביתו, אך את רוב זמני הקדיש ללימוד תורה ולהכנסת אורחים והיה מטובי עדת החסידים בחברון, טוב ומיטיב לבריות.
+
+ נפטר בירושלים, כ"ח שבט תרס"ד.
+
+ אחרי פטירתו עברה אלמנתו מחברון לירושלים, ושם נפטרה בת שמונים וארבע אחרי ראותה בנים לניניה.
+
+ צאצאיו: <persName>שלמה זלמן, דוד משה</persName> (לשעבר, בעל מלון "הרצליה" בחיפה), <persName>ליפשא</persName> ז"ל אשת <persName>אלכסנדר</persName> <persName>רבינוביץ, אסתר</persName> ז"ל, <persName>חסיה</persName> ז"ל, <persName>לאה גיטל </persName> אשת<persName> ירח</persName> <persName>מיאל אמדורסקי</persName> (ירושלים), <persName>צפורה</persName> אשת המנוח<persName> מנחם</persName> <persName>עמנואל זקס</persName> ז"ל,<persName> שמואל</persName> ז"ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1379 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1379</bibl><bibl>Volume: #3 ,Page: 1380 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1380</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

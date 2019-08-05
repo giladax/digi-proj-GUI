@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1481 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1481</bibl><bibl>Volume: #3 ,Page: 1482 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1482</bibl>
+<bibl>Volume: #3 ,Page: 1483 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1483</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שלמה גורונצ'יק</persName>
+
+</head>
+         <div><p> נולד בזמברוב, פולין, כ"א שבט תרע"ח (7.2.1918), לאביו ר'<persName> אברהם</persName> (מוסמך לרבנות, מדפיס, בן אחותו של הרב <persName>אברהם מנדל ברושבסקי,</persName> שעלה ארצה סמוך לפני מלחמת-העולם הראשונה והיה ראש ישיבת החסידים "חיי עולם" בירושלים) ולאמו <persName>חיה צפורה</persName> בת ר' <persName>אליעזר נחום ציביאק.</persName>
+
+ בתרפ"ה עלה ארצה עם הוריו, בזרם עלית החסידים מפולין שיסדו את המושב בפר חסידים במבוא המערבי של עמק יזרעאל ועמלו ביבוש הבצות להכשרת הקרקע ולהבראת הסביבה. התחיל ללמוד בבית-הספר של הכפר (בפיקוח "המזרחי"). משעבר עם הוריו לירושלים ואביו פתח שם בית-דפוס, המשיך את לימודיו בישיבת "עץ חיים" ואח"כ בישיבת חברון, ראה ברכה בלימודו ובשנת תרצ"ה הוסמך לרבנות. למד גם מדעי היהדות במחלקה למדעי הרוח של האוניברסיטה העברית.
+
+ נשא לאשה את<persName> צפיה</persName> בת הרב<persName> דוד כהן,</persName> מהמנהלים הרוחניים של ישיבת "מרכז הרב" (מיסודו של <persName>הגראי"ה קוק)</persName> בירושלים.
+
+ התמסר למחקר תלמודי. פרסם בירחון "הפרדס" באמריקה מאמרים בחקר תלמוד ירושלמי. חיבר ופירסם ספר "נזר הקודש" על הרמב"ם בעניני הלכות מקדש וקדשיות (ירושלים, תרצ"ה). יזם וארגן בשנת ת"ש
+
+ את המפעל להוצאה חדשה של תלמוד ירושלמי בתיקוני נוסחו המשובש בהוצאות הקודמות, עפ"י כתבי-יד שנתגלו, עם פירוש וציון מקורות (ההוצאה החלה על-ידי "מכון בצלאל" שנוסד ביזמתו והמשך הפעולה עבר ליד "מוסד הרב קוק"). מחקרו על הגר"א והירושלמי פורסם בספר האזכרה להגר"א בהוצאת "מוסד הרב קוק". אסף את השקלא-וטריא התלמודית על המשניות של מסכת מקואות, הפזורה בש"ס בבלי וירושלמי, וריכז אותה בגמרא ערוכה באופן שיטתי לפי סדר המשניות, וכך יצא מתחת ידו תלמוד שלם למסכת מקואות והוסיף עליו פירושים וחידושים בשם "שערי טהרה" (ירושלים, ת"ש). בעד יצירה זאת קיבל מאת עירית תל-אביב את הפרס על שם הרב קוק לספרות תורנית, כשחולק בראשונה בשנת תש"ג.
+
+ פעיל גם בעניני צבור כחבר המועצה למען השבת, וב"הצופה" פרסם סדרת מאמרים על הנושא "חוקה תורנית כיצד ?".
+
+ אחרי פטירת<persName> הרמ"א עמיאל</persName> היה אחד המועמדים לכהונת הרב הראשי לתל-אביב ויפו. ובתופעותיו ובהרצאותיו בהלכה ובאגדה ובמחשבה זכה להוקרה ולאהדה מצד רבים כגדול בתורה ובחכמה מגידולי הארץ, המוכשר להשפעה ברוח התורה והמסורת אף על הדור החדש.
+
+ בשעות חירום וסכנה לישוב לא רצה ליהנות מהיתרונות ומההנחות המגיעים לתלמידי-חכמים שתורתם אומנותם. במהומות תרצ"ו-צ"ז הגן על הישוב
+
+ בשרות הנוטרות ובמלחמה על ירושלים שרת כחייל מן השורה בהגנה על קוי היהודים והשתתף בצבאות המתנדבים הלוחמים לחרות ישראל בכיבוש קטמון ומלחה. על סמך כל אלה היתה מוצלחת בחירתו לכהונת הרב הראשי לצבא ההגנה לישראל באביב תש"ח, ואכן הכניס שכלולים בשרות הרבנות בצבא. בתו: <persName>תחיה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1481 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1481</bibl><bibl>Volume: #3 ,Page: 1482 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1482</bibl>
+<bibl>Volume: #3 ,Page: 1483 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1483</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

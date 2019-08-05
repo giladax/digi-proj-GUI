@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 43 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/43</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי שכטר</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תר"כ (1860), לאביו ר' <persName>אליעזר </persName> (מראשוני השוחטים בירושלים). למד בחדרים ובישיבות והוסמך לשחיטה ובדיקה.
+
+ נשא לאשה את <persName>חיה מרים</persName> בת ר' <persName>דוד כהנא</persName> מצפת.
+
+ עבד כשוחט בירושלים ומשנת תרמ"ט ואילך ביפו ובנה את ביתו בין הראשונים בשכונת נוה שלום.
+
+ בשנת תרע"ג הוזמן למשרת רב ושוחט ביוהאניסבורג ויצא שמה. בתרפ"ה החליט לחזור ארצה, הגיע עד מצרים, חלה ונפל למשכב.
+
+ נפטר בקהיר, י"ח תמוז תרפ"ו (30.6.26) ונקבר שם, ובשנת תרצ"ו העלו בניו <persName>מיכאל</persName> והרב <persName>ברוך</persName> את עצמותיו לקבורה ליד אביו בהר הזיתים בירושלים.
+
+ צאצאיו: <persName>אליעזר, מיכאל </persName> (בעל טחנה בתל-אביב), <persName>רחל</persName> אשת <persName>הנרי אזגור</persName> ,<persName> ברוך</persName> (רב ביוהאניסבורג), אברהם (סוחר ביוהאניסבורג).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 43 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/43</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

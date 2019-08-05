@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3137 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3137</bibl><bibl>Volume: #8 ,Page: 3138 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3138</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו טורקניץ</persName>
+
+</head>
+         <div><p> נולד בפלך פינסק (רוסיה) בשנת תרל"ד (1874).
+
+ לאביו <persName>אברהם ברוך</persName> ולאמו <persName>רחל.</persName>
+
+ קבל חנוך מסורתי.
+
+ היה חבר בתנועת נוער ציוני בעירו.
+
+ עלה לארץ בשנת תר"ן (1890). אחיו - <persName>שלמה ויצחק</persName> עליו לפניו והתישבו בפתח-תקוה.
+
+ עבד כפועל חקלאי בפתח-תקוה, בשמירה ברחובות, כפועל בפרדסי הבארון רוטשילד ובפרדסי "בחריה" בפתח-תקוה.
+
+ נשא לאשה את<persName> חוה </persName> בת ר' <persName>מרדכי דב ברויטמן.</persName> (מראשוני הסוחרים בחומרי בנין ביפו).
+
+ הקים בפתח-תקוה משק חקלאי, נטע פרדס ועסק במסירות גם בלול ובפרות.
+
+ פרדסו שהיה במקום נמוך, סבל משיטפון בימי חורף אחד והעצים נעקרו. בשנת תר"ס (1900) מכר את המשק ועבר ליפו.
+
+ לפי עצת חותנו, קנה את בית מסחרו של הסוחר <persName>זילבר, </persName> שעזב את הארץ. בית המסחר עסק במכירת קמח בסיטונות- בשוק אל-דיר ביפו. ולשותף לקח את מכירו <persName>יעקב פרלשטיין</persName> (ראה כרך א', עמוד 315) והם פיתחו את העסק לאחד הגדולים לסיטונות בארץ.
+
+ היה חבר פעיל באגודת "אחוה".
+
+ מראשוני בונה העיר תל-אביב.
+
+ בשנת 1922 גאל יחד עם שותפו שטחי קרקע גדולים מידי הערבים. בדרום ת"א גאלו 20.000 דונם (כיום "חולון") וכן יסדו את שכונת מנורה ב' בבת ים, והשכונות מנורה א' וג' מעבר למקוה ישראל (כיום חולון).
+
+ ביזמתם נרכשו קרקעות להרחבת בת-ים וחולון, ע"י "חברת הכשרת הישוב" (עולי פולין, אגרו-בנק וקרית עבודה), ושטחים שונים בשביל השכונה "צל-צח" ועוד.
+
+ נפטר בתל-אביב, כ"ז שבט תש"ה (10.2.1945).
+
+ צאצאיו: <persName>אריה (ליפא) גיל, דבורה</persName> אשת <persName>יואל טשרנוב</persName> ז"ל, <persName>אברהם, ברכה</persName> אשת המהנדס<persName> דוד גוגול, אבשלום,</persName> <persName>עזריה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3137 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3137</bibl><bibl>Volume: #8 ,Page: 3138 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3138</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

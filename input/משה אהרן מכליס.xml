@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1275 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1275</bibl><bibl>Volume: #3 ,Page: 1276 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1276</bibl>
+<bibl>Volume: #3 ,Page: 1277 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1277</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה אהרן מכליס</persName>
+
+</head>
+         <div><p> נולד בדומצאווה, מחוז בריסק דליטה, (רוסיה הלבנה) בשנת תרל"ג (1873), לאביו<persName> אביגדור</persName> (סוחר) ולאמו <persName>הינדה</persName> בת <persName>יהודה ליב כץ</persName> . למד בחדרים ובישיבות בסלונים ובמקומות אחרים.
+
+ ב-1898 נשא לאשה את <persName>הנה </persName> בת <persName>נחמן ארליאנסקי.</persName> ענק במסחר עצים והיה מפעילי חובבי ציון והציונות בכל ענפי העבודה ברוסיה ובפולין. יסד חדרים מתוקנים לחינוך עברי דתי-לאומי בוארשה, היה חבר בועדי השקל למן הקונגרס הציוני השני ואילך, חבר הועד בפועל להפצת מניות "אוצר התישבות היהודים" לפני הקונגרס החמישי, שאליו נבחר כציר והש
+
+
+ תתף בו בבאזל. כן היה ציר לועידה השניה של חובבי ציון בקאטוביץ ולועידה הציונית שנקראה "כנסת ישראל" במינסק בתרס''ב.
+
+ בתר"ן בא לביקור בארץ ושהה כאן שנה תמימה ובתר"פ עלה ארצה, התישב עם משפחתו בחיפה והחל לעסוק במסחר בחמרי בנין ובפעילות ציונית וצבורית כללית כחבר ועד קרן היסוד מראשיתו, פעיל בציונות הכללית ובכל העבודות הציוניות, חבר ועד קהלת חיפה במשך 12 שנה, חבר המועצה הדתית שליד הקהלה ויו"ר מושב זקנים בחיפה.
+
+ פרסם מאמרים בשאלות הציונות הכללית ובענינים צבוריים ולאומיים ב"הארץ".
+
+ למרות גילו שרת בהג"א בימי מלחמת העולם השניה ואח"כ ב"משמר העם".
+
+ צאצאיו: <persName>תקוה</persName> אשת המהנדס הממשלתי <persName>משה</persName> <persName>לדיזנסקי</persName> (ז''ל),<persName> ורד מוקדו, יהודית </persName> אשת האדריכל <persName>עמנואל וילנסקי </persName> (מרצה בתכניון בחיפה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1275 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1275</bibl><bibl>Volume: #3 ,Page: 1276 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1276</bibl>
+<bibl>Volume: #3 ,Page: 1277 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1277</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4799 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4799</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עבודות ספרותיות שונות-מקור תרגום, מחקר וכיוצ"ב, שטרם ראו אור:</persName>
+
+</head>
+         <div><p> (ונמצאות בכתובים)
+
+ מלחמת משה - מאת רמח"ל - הקדים באר ופרש (יצא לאור בהוצאת "מחברות לספרות").
+
+<persName>חי בן יקצן - מאת אבן טפיל האנדלוסי </persName> תרגם מערבית (יצא לאור בהוצאת "מחברות לספרות", ת"א).
+
+<persName>ספורי חסידים ופרושים על א"י והגאולה </persName> מוכן לדפוס (נדפס כבר בחלקו בשנת התש"ח).
+
+<persName>שבחי א''י מפי ישמאל</persName> - לקט, (עריכה ותרגום מערבית) - פורסם בחלקו הגדול בירחון אגודת הסופרים בישראל "מאזנים" (בכרך י"ז חוברת א', סיון התשכ"ג - יוני 1963)
+
+<persName>יצירה ועבודה מאת תומאס קרליל </persName> - תרגם מאנגלית.
+
+<persName>מחלות הזכרון מאת ריבו </persName> - תרגם מצרפתית.
+
+<persName>הדמיון היוצר ודרכי פתוחן</persName> - (שיחה) מאמר.
+
+<persName>ספר האהבה למחמד אלעד אלי</persName> - תורגם מערבית.
+
+<persName>לקוטים מכתביו של מחמד אלעד אלי</persName> - תורגם מערבית.
+
+<persName>ספורי הפלחים</persName> - הערביים.
+
+<persName>רשימות מעבר לתחום החיים</persName> - מעין שיחות עם בנו עודד הי"ד לאחר נפילתו במלחמת השחרור.
+
+<persName>זמרת הארץ </persName> - (אגדות ארץ-ישראל).
+
+<persName>פורטטרסקון</persName> - מאת<persName> אלפונס רודה</persName> - תורגם מצרפתית (נדפס בשנת התרצ"ב, בעתונים היומיים, "דאר היום" ו"הארץ" - חלק מטרילוגיה).
+
+<persName>שירים שונים.</persName>
+
+<persName>ירושלים באגדה העממית</persName> - מאמר גדול שיופיע בקובץ השני על ירושלים, (ע"י "מוסד ביאליק").
+
+ השתתף ברוב העתונים העברים (היומיים, השבועונים, הירחונים והחוברות לעניני ספרות, מחקר, בקורת, חנוך וכיוצ"ב.
+
+<persName>כתבי יד שונים ורבים הכוללים מאמרים,</persName> <persName>הרצאות, תרגומים ועבודות מחקר שטרם מויינו</persName> <persName>וסודרו, נמצאים בעזבונו הספרותי.</persName>
+
+ השתתף ברוב העתונים העברים (היומיים השבועונים הירחונים והחוברות לעניני ספרות, מחקר בקורת, חנוך וכיו"ב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4799 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4799</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5483 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5483</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלוף (מיל.) יהושפט הרכבי</persName>
+
+</head>
+         <div><p> (המשך לערך שלו בכרך ח', עמוד 3119)
+
+ לפני כמה שנים קיבל תואר<persName> אלוף</persName> במקום <persName>אלוף</persName> <persName>משנה.</persName>
+
+ כיום הוא אלוף (מילואים).
+
+ ממונה על חקר אסטרטגי במשרד הבטחון.
+
+ ספריו תורגמו (בהוצאת "מערכות" של משרד הבטחון): "מלחמה גרעינית ושלום גרעיני" (להבנת היחסים הבינלאומיים בתקופה המודרנית, בשלום ובמלחמה. בעברית הופיעה כבר המהדורה השלישית. הספר בתרגומו האנגלי משמש כספר לימוד באוניברסיטאות ובאקדמיות צבאיות בחו"ל); "כיצד הוסברה העמדה הערבית נגד ישראל בצבא המצרי" (תרגם מבחר קטעים מהוראות "מנהלת האינדוקטרינציה, כולל הרצאה שהרצה עוזרו של<persName> נאצר</persName> והוסיף הסברים על המשתמע מטכסים מזה); "בין ישראל לערב" (לקט מאמריו בנושא זה מסייעים להכרת הנסיבות בהן אנו חיים, ראייתן הנכונה והבנתן והוא תרומה מועילה לראיית המצב נכונה ולהבנתו).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5483 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5483</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

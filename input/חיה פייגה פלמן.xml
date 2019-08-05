@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1481 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1481</bibl><bibl>Volume: #3 ,Page: 1482 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1482</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיה פייגה פלמן</persName>
+
+</head>
+         <div><p> נולדה בפלוצק (רוסיה), בשנת תרל"ד (1874), לאביה <persName>יצחק</persName> בן ר' <persName>הירש ליב לדרברג </persName> (למדן, סוחר) ולאמה <persName>פנינה</persName> (פרל).
+
+ כבת שנה עלתה ארצה עם כל בית אביה ואבי-אביה והתישבו בירושלים. הלדרברגים, שנקראו בירושלים <persName>פלוצקר</persName> על שם מקום מוצאם, יסדו את בית-המסחר המודרני הראשון לכלי זכוכית וחרסינה, ומכשירי כתיבה, הצליחו בעסקם ועזרו לנצרכים ולכל דבר טוב ומועיל לכלל, והיא גדלה בבית הוריה ונתחנכה לפי מסורת הימים ההם בירושלים.
+
+ בשנת תרנ"ב נישאה <persName>לחיים </persName> בן <persName>דב דוד ושרה</persName> <persName>איטה פלמן</persName> ("אם הפרדסנות") ממזריץ' וירדה מירושלים לדור בבית היהודי הבודד של המשפחה בכפר הערבי סומל, ליד הפרדס, שהיה במרחק רב מהישוב היהודי הקטן שביפו העיר. היתה לעזר לחמותה האלמנה בניהול הבית והפרדס ובינתים ילדה וגידלה בנים ובנות בתנאים חלוציים קשים (ראה כרך ב' עמודים: 568, 785).
+
+
+ לאחר כמה שנים עברה כל המשפחה ליפו, כאן היתה עזר לבעלה בפעולותיו הצבוריות ביסוד שכונת "אחוה", יסוד בית-הספר "תחכמוני" ובמפעלי צדקה וחסד - בהם המשיכה עד סוף ימיה.
+
+ נדבה ספר תורה לבית-הכנסת של מושב זקנים בתל-אביב, ואחרי מותה אמרו עליה שהיתה מרבה לעשות צדקה בסתר.
+
+ נפטרה בירושלים, א' תמוז תש"ה והובאה לקבורה בחלקת משפחת לדרברג בהר הזיתים.
+
+ צאצאיה (ראה בערך של בעלה בכרך שני, עמודים 745-744).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1481 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1481</bibl><bibl>Volume: #3 ,Page: 1482 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1482</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 988 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/988</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק דוד מן</persName>
+
+</head>
+         <div><p> נולד בירושלים, ט"ז אדר תרמ"ה (1885), לאביו הרב <persName>יעקב</persName> (מחלוצי תעשית סיד וקבלנות-בנין עברית בירושלים).
+
+ למד בתלמוד-תורה ובישיבת "עץ חיים", וביחוד מאביו הרב יעקב מן וכן למד מפי מורים פרטים שפות ומדעים. נשא לאשה את חיה בת ר' אליעזר יצחק הרבובסקי, רוקח ברחובות.
+
+ בשנת תרס"ז יסד יחד עם בן-דודו<persName> נחמיה ברמן</persName> את בית-המסחר לחמרי-בנין של הפירמה השיתופית מן-וברמן בע"מ, שבמשך הזמן פתחו לו סניפים ביפו, תל-אביב וחיפה ותופס מקום בין העסקים הגדולים בענף זה.
+
+ עם פעילותו המסחרית עוסק הוא זה עשרות שנים גם בפעילות צבורית כחבר לשכת "אחוה" בירושלים ואח"כ גם נשיאה, חבר ואח"כ נשיא לשכת בני ברית, חבר קרן הנאמנים לבנין בתים של בני ברית וממיסדי השכונות בית וגן וקרית משה (מונטיפיורי) בירושלים, היה חבר הנהלת "ביקור חולים", חבר מועצת בנק קופת עם ובנק המזרחי, חבר הועד הראשי והארצי של המזרחי, יו"ר מגבית ההתגייסות בירושלים, חבר ועד לשכת המסחר, יו"ר "קרן נחמיה".
+
+ כתב מאמרים בעניני כלכלה ב"הארץ".
+
+ צאצאיו: <persName>ד"ר יעקב </persName> (רופא מומחה ללב וריאות במכון למחקר מחלות הריאות),<persName> אברהם, דינה </persName> אשת <persName>חנוך </persName> (הנרי) טשול (פלורידה),<persName> לאה </persName> אשת יהודה גרינבלט (מהנדס חקלאי)<persName>, רחל</persName> אשת יצחק כהנוב (נכד ר' פיבל כהנוב).
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בירושלים, י"א אייר תשכ"ג (5.5.63)
+
+ (ראה כרך ב', עמוד 988)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 988 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/988</bibl>            <bibl>Volume: #13 ,Page: 4357 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4357</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

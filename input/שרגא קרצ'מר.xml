@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2470</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שרגא קרצ'מר</persName>
+
+</head>
+         <div><p> נולו בפתח-תקוה, ב' סיון תרנ"ז (2.6.1897). לאביו <persName>משה שמואל</persName> (ראה כרך ג', עמוד 1438) ולאמו <persName>פרידה גיטל</persName> בת <persName>גדליהו מיכל פיינשטיין.</persName>
+
+ קיבל חנוך מסורתי בחדר, בבי"ס "נצח ישראל" פתחתקוה, בסימינר למסחר של חברת עזרא בירושלים.
+
+ בתרפ"ג נשא לאשה את<persName> לאה</persName> בת <persName>שאול נחום זיל</persName> <persName>ברפניג </persName> (ראה כרך ד', עמוד 1780).
+
+ היה מפעילי הסתדרות "בני-בנימין".
+
+ היה פקיד בחברת פרדס, עבר למסחר בפחמי אבן, וכן עמק במסחר בשותפות עם הסוחר אליעזר מיכל הויזדורף בשקדים, זבל חימי וסוכני חברת "השקד" מפתח-תקוה ורחובות.
+
+ בשנת תר"ץ הקים ייחד עם יעקב סלונים ואשר ברלוי מחצבות במגדל-צדק. הקימו שם מחצבות וכבשן מודרני. גאלו שם 150 דונם אדמה. היו חלוצים בעבודה עברית במקצוע זה. יסדו חברת מפעלי מגדל צדק לסיד וחצץ בע''מ ביחד עם תעשית אבן סיד (בת סולל בונה).
+
+ במאורעות תש"ו ותש"ח נהרסו ע"י הערבים המפעלים הנ"ל.
+
+ אחרי הקמת המדינה הקים מחדש את המפעל הנ"ל.
+
+ בנותיו : <persName>חיה עליזה</persName> אשת <persName>דוד זילברפניג, נחמה</persName> אשת<persName> מרדכי פטוביץ, סימה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2470 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2470</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

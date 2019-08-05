@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2792 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2792</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה קופרמן</persName>
+
+</head>
+         <div><p> נולד בריצנה (בסרביה רומניה) בשנת תרנ"ו (8.6.1896).
+
+ לאביו<persName> דוד</persName> (נפטר בתל-אביב. ה' כסלו תר"פג ) ולאמו <persName>חנה</persName> בת<persName> ישראל רזניק.</persName>
+
+ קבל חנוך מסורתי בחדר מתוקן ובגמנסיה באודיסה. היה חבר פועלי ציון.
+
+ בשנת 1913 עלה לארץ.
+
+ המשיך ללמוד בגמנסיה העברית "הרצליה" בתלאביב (בוגר המחזור החמשי), והשתלם באוניברסיטה ויקטוריה במנצסטר (אנגליה) וקבל תואר של: Bachelor of Technical Science.
+
+ שומר ברחובות וגדרה, ועבד בחקלאות בגדרה. מכובשי העבודה במשמר הירדן.
+
+ בסוף מלחמת העולם הראשונה התגייס לגדוד העברי הא"י.
+
+ בשנת 1920 נשא לאשה את <persName>מרים</persName> בת <persName>שלמה ברסקי</persName> (ראה כרך ב', עמוד 779).
+
+ בשנות 1926-32 מהנדס התחנה של הדיזלים בחברת החשמל.
+
+ בשנות 1940-41 היה מנהל המחלקה לתקוני אניות בנמל חיפה מטעם מחלקת העבודות הצבוריות.
+
+ בשנות 1941-45 היה סגן מפקח על התעשיה הכבדה בממשלת המנדט.
+
+ בהקמת המדינה, נתמנה על חלוקת הבנזין במשרד התחבורה.
+
+ היה מנהל מחלקת השירותים במחלקת מסחר ותעשיה ואח"כ מנהל המחלקה לציוד טכני במשרד הבטחון.
+
+ מנהל מפעלים מטעם האפוטרופוס הכללי
+
+ בנו: <persName>עמיאל.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, י"ט חשון תשכ"ו (14.11.65) (ראה כרך ז', עמוד 2792)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2792 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2792</bibl>            <bibl>Volume: #15 ,Page: 4805 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4805</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

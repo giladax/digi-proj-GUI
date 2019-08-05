@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 2011 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2011</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה רבינוביץ (שכטמן)</persName>
+
+</head>
+         <div><p> נולד בפילשט (בסרביה) בשנת תרכ"ב (1862) לאביו <persName>פנחס שכטמן</persName> (שו"ב) ולאמו <persName>חנה גולדה לבית רבינוביץ</persName> .
+
+ את שם משפחתו<persName> שכטמן</persName> - החליף ברוסיה. כשנקרא לצבא, בשם<persName> רבינוביץ</persName> .
+
+ קיבל חינוך מסורתי.
+
+ נשא לאשה את<persName> פייגה</persName> בת<persName> מנחם מנדל ליפבסקי</persName> (אביו של <persName>יצחק ליפבסקי</persName> , מנהל אפ"ק, ראה כרך א', עמוד 496).
+
+ עלה לא"י בשנת תרמ"ח (1888) ע"י התעמולה של הבארון רוטשילד. עבד כחצי שנה בראשון לציון בחקלאות. עבר לירושלים ופתח בית מלאכה לתעשית גרבים. היה בין האומנים הראשונים בירושלים אז שלימד פועלים רבים בתעשיה מודרנית של גרבים (לפניו עסק ר' יצחק הורביץ בתור מפתל (פתל) גרבים). מחלקת המלאכה בבתי הספר "התורה והמלאכה" לחברת כל ישראל חברים בירושלים (ביה"ס נוסד בירושלים בשנת תרמ"ג ע"י נסים בכר, בתור בי"ס ללמוד ובי"ס למלאכה) למדה לתלמידיה כל מיני מלאכות, רק לא בתעשית גרבים. שאז בימים ההם היתה דרושה תעשיה זו לתושבים.
+
+ נפטר בירושלים, י' ניסן תרע"ו (13.4.1916).
+
+ צאצאיו:<persName> ישראל</persName> (מנהל אפ"ב בצפת),<persName> שאול</persName> ז"ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 2011 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2011</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

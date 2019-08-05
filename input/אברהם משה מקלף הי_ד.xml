@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 383 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/383</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם משה מקלף הי"ד</persName>
+
+</head>
+         <div><p> נולד בפתח תקוה, בשנת תרס"ז (1907), למד ב"חדר" בפתח תקוה ומשעלו הוריו להתנחל במוצא המשיך ללמוד בבית-הספר למל בירושלים, ואח"כ שנ
+
+ תים בבית-המדרש למורים. עבר לבית-הספר התיכוני למסחר בתל-אביב, ומשגמר בו את לימודיו נכנס לעבודה במשרד הדואר הראשי בירושלים, הצטיין בעבודתו והועלה בדרגה. הקדיש מזמנו למתן שיעורים בהתנדבות לילדי עניים במוצא ובירושלים, רכש לו ספרים רבים והשאילם לבני המושבה. התענין במשק הוריו והשתתף בהתיעצויות לפיתוחו, ותקותו היתרו, שברבות הימים יוכל לשוב לעבודה חקלאית בפועל.
+
+ בערב שבת, י"ז אב תרפ"ט, כשהחלו המהומות הערביות בירושלים, נסע לפנות ערב ירושלימה, הודיע למשטרה על הכנות הערבים להתנפל על מוצא וביקש עזרה ואכן ביום המחרת, בשבת, י"ח אב תרפ"ט, באו למוצא שלש מכוניות משורינות של הצבא, אבל זה היה כבר אחרי שהפורעים טבחו אותו ואת הוריו ואחיותיו, ורק את אמו הגוססת ואת הגופות המתות שלו ושל אביו ושתי אחיותיו הספיקו להוציא מהבית השרוף ולהביאן. ירושלימה.
+
+ מבית-החולים "ביקור חולים" הובא לקבורה בהר הזיתים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 383 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/383</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

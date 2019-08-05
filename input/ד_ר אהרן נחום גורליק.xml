@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2523 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2523</bibl><bibl>Volume: #6 ,Page: 2524 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2524</bibl>
+<bibl>Volume: #6 ,Page: 2525 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2525</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אהרן נחום גורליק</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אלכסנדריה</placeName> (מצרים) ג' אב תרס"א (19.7.1901). לאביו ר' <persName>נחום הלוי גורליק</persName> (ראה כרך א', עמוד 459) ולאמו<persName> רבקה לאה</persName> בת<persName> אהרן אוקנער.</persName> עלה עם משפחתו לארץ בשנת 1911. היה פעיל באגודת "חבצלת השרון" של תלמידי הגמנסיה "הרצליה" בתל-אביב.
+
+ למד בגמנסיה "הרצליה" בתל-אביב, ובשנת 1914 גורש (בפרוץ מלחמת העולם הראשונה) למצרים. שם למד עד שנת 1918 בביה"ס של הבארון מנשה. משנת 1918 עד 1920 למד באוניברסיטה סן-ג'וסף בבירות (לבנון), מ-1920-1925 באוניברסיטה האמריקאית בבירות וגמר דוקטור לרפואה, עבר Cours de perfectionnement באוניברסיטה של פריז ב-1936.
+
+ ב-1928 נשא לאשה את בת דודתו, <persName>שרה </persName> בת<persName> נחמן</persName> <persName>הורביץ</persName> מניו-יורק.
+
+
+ ב-1927 נסע לארצות-הברית. שם המשיך לעבוד כרופא וגם עבר קורסים שונים וקבל תוארים: Fellow of the International College of Surgeon, Fellow of the American College of Cardiolog.
+
+ התמחה בעיקר ברפואה ומנתח ניתוחי-לב. בשנים האחרונות התפרסם מאד בעולם הרפואה בניתוחי הלב המיוחדים שלו, ולפי בקשות ארגוני רפואה וכו' הוא מרצה כמעט בכל שנה בארצות שונות על הניתוחים שלו על הלב.
+
+ היה פעיל ומראשי המארגנים בארצות-הברית את ה"עליה ב'" - עליה בלתי ליגלית לא"י בימי המנדט הבריטי בא"י. עשה רבות באוסף כספים למוסדות הלאומיים, וכן הרצה לטובת המגבית המאוחדת.
+
+ כתב וכותב מאמרים בעתונות הרפואה על התפתחות מדע הרפואה וניתוחי-הלב.
+
+ השפיע על האמריקאי-גרמני-נוצרי מר קירטצר לבקר בישראל, וכך קרבהו לתנועה הציונית ובנין הארץ. ע"י השפעה זו הקים את בית החרושת האמריקאי לנעלים בירושלים, את בית המלאכה לעבודות מיוחדות ועדינות של Bulovaבתל-אביב (ליד גשר יד-אליהו) ואת הבית שבמגרשי הגמנסיה הרצליה בתל-אביב. מסר לסולל-בונה את בנין שדות התעופה בתורכיה המוצאים לפועל בתמיכת ממשלת ארצות הברית.
+
+ הוזמן לצרפת, איטליה, בלגיה, ברזיל, ספרד, סלוודור ועוד להרצות על התפתחות מחלות וניתוחי הלב.
+
+ לפי שיטתו בניתוחי-לב החלו בבלגיה, צרפת, ארצות הברית וישראל לבצע ניתוחים אלו בהצלחה מרובה. ביצע בקיץ 1953 ניתוח לב בישראל.
+
+ הראשון אשר מצא את השיטה לריפוי פצעים בלתי נרפאים Fistola().
+
+ הראשון אשר עשה חקירות על Pancreas ועל מחלות המרה והיחידי אשר התנגד להוצאת המרה ומצא שיטה לניתוח המרה.
+
+ שיטתו לביצוע ניתוחי-לב רומטיים הולכת ומתקבלת ע"י גדולי הרפואה בעולם המאשרים לו זאת. במכתביהם.
+
+ בקונגרס של "אינטרנשיונל קולג' אוף סירג'נט'' בניו-יורק, אשר התקיים בספטמבר 1953, הרצה על התפתחות והוצאה לפועל של ניתוחי-הלב שלו.
+
+ בבית החולים הצבאי בתל-ליטוינסקי מבצעים בהצלחה את ניתוחיו בהתאם להוראותיו.
+
+ צאצאיו: <persName>אליהו, רנה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2523 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2523</bibl><bibl>Volume: #6 ,Page: 2524 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2524</bibl>
+<bibl>Volume: #6 ,Page: 2525 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2525</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

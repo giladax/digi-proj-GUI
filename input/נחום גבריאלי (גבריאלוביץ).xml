@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4764 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4764</bibl><bibl>Volume: #15 ,Page: 4765 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4765</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחום גבריאלי (גבריאלוביץ)</persName>
+
+</head>
+         <div><p> נולד בתשרי תר"ס (ספטמבר 1899) בירושלים.
+
+ לאביו<persName> בנימין גבריאלוביץ.</persName>
+
+ קיבל את השכלתו היסודית והעל-יסודית תחילה בסמינר של "עזרה" ואחר כך בבית המדרש למורים העברי בירושלים. עם סיום למודיו בתר''ף
+
+
+ (1920), נכנס להוראה בבית הספר היסודי בטבריה, בתרפ"ב-תרפ"ג (1923-1922) למד פדגוגיה בברלין ובלייפציג.
+
+ בתרפ"ד-תרצ"ג (1933-1924) שימש כמורה בבית הספר היסודי וגם בסמינר למורות "לוינסקי" בתל
+
+ אביב.
+
+ בתרצ"ג-תרצ"ה (1935-1933) שימש כמנהל בית ספר. מאז 1935 הוא עובד בהדרכה ובפיקוח תחילה כמדריך אחר כך כמפקח, מחוז תל-אביב, פרט לשנים 1953-1940 שבהן שימש כמנהל הסמינר ע"ש לוינסקי בתל-אביב.
+
+ למן 1960 הוטל עליו התפקיד של יו"ר המזכירות הפדגוגית לחינוך היסודי ולהכשרת מורים והשתלמותם.
+
+ למן תרפ"ד (1924) עסק גם בעבודה ספרותית: פירסם כמה סיפורים לילדים ולנוער (יצאו לאור ב"מגילות" לבתי הספר, בהוצאת אמנות והקהק"ל), ספרי לימוד (ידיעת המולדת, מקרא לילד, תורה לילד), בעניני פדגוגיה פירסם מאמרים רבים בספרות הפריודית, יוכן כמה ספרים: דרכים בהוראה (הוצאת נ. טברסקי, תש"ז) ; כתב וספר בבית הספר (ההוצאה הנ"ל, תש"ט); עולם ומלואו בבית הספר (ההוצאה הנ"ל, תשי"ג) ; אורחות חנוך (הוצאת "אוצר המורה", תשכ"ג).
+
+ זכה ב"פרס לחינוך של עירית ת"א (1963) על ספרו "אורחות חנוך".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4764 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4764</bibl><bibl>Volume: #15 ,Page: 4765 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4765</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

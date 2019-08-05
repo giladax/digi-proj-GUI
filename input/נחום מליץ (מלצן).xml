@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2178 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2178</bibl><bibl>Volume: #5 ,Page: 2179 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2179</bibl>
+<bibl>Volume: #5 ,Page: 2180 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2180</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחום מליץ (מלצן)</persName>
+
+</head>
+         <div><p> נולד בכ' אייר תרנ"א (1891) בסלבודקה, פרבר קובנה (ליטא), לאביו הרב <persName>יצחק מלצן</persName> (גאון מפורסם, תלמיד ר'<persName> ישראל סלנטר</persName> , מחבר ספרים רבים בהלכה, ביחוד בהלכות שבת, ופירוש על סידור התפילה, בן הרב ר' <persName>שמואל</persName> "המגיד מסלוצק"), ולאמו <persName>לאה דבורה</persName> בת הרב <persName>צבי שור</persName> (ראש ישיבה בביאליסטוק ומחבר ספר צבי
+
+ וחמוד" בהלכה). למד בחדרים ושנים אחדות בישיבת ראדין.
+
+ ב-1906 עלה ארצה עם אביו ולמד כשנתיים בישיבות ירושלים. התחיל לכתוב בעילום שם בעתון "ההשקפה" של <persName>א. בן-יהודה.</persName> נספח בסתר למפלגת "הפועל הצעיר" וניהל מטעמה בין בחורי הישיבה עבודה תרבותית ותעמולה ליציאה לעבודה.
+
+ תעמולתו לא עשתה פרי, אך הוא עצמו לא הסתפק בדיבורים, אלא עשה מעשה. ב-1908 ברח מהישיבה ומאביו ויצא לעבוד ברחובות, בעיקר בפרדסי חברת "מנוחה ונחלה" בניהולו של <persName>אהרן אייזנברג</persName> . שם גר בחדר אחד עם <persName>אהרן דוד גורדון ונח נפתולסקי</persName> והתידד עם<persName> יוסף אהרונוביץ, צבי סוכובולסקי וא. גולני.</persName>
+
+ בשנים 1911-1910 היה חבר הועד ב"קלוב הפועלים" הראשון בירושלים, יחד עם <persName>ד. בן-גוריון, זרובבל,</persName> <persName>רחל ינאית</persName> ועוד.
+
+ ב-1911 נשא לאשה את<persName> טובה </persName> בת <persName>משה יוסף גול</persName> <persName>צבסקי,</persName> ואחרי שנפטרה בירושלים בא' אדר א' תרצ"ה נשא בסיון תרצ''ז את <persName>אממה</persName> בת <persName>זימל מינץ</persName> .
+
+ אחר מלחמת העולם הראשונה היה יחד עם<persName> א. בן</persName> <persName>יהודה, מ. לדרר, ד"ר קריגר</persName> ממיסדי אגודת "שפתנו" בירושלים וחבר הועד בה. אגודה זאת שמה לה למטרה חיזוק השפה העברית והשלטתה בחיים. במשך שנים אחדות היה חבר ועדת התרבות וחבר משפט החברים ליד מועצת פועלי ירושלים. בזמן שבתו בנתניה כסופר "דבר" (1949-1938) היה לסירוגין חבר בועדות התרבות מטעם עירית נתניה ומ. פ. נתניה, חבר במשפט השלום ליד עירית נתניה ויו"ר ועדת השקל המקומית.
+
+ אחרי נסיונו הראשון כפועל חקלאי עבד במקצועות שונים: בתור פועל דפוס, מגיה, מורה, מורה-דרך, מתרגם (הרבה לתרגם מאמרי עתונות וספרות יפה בשביל המוסדות הלאומיים ולעתונים שונים בארץ), ובעיקר כעתונאי: כתב מאמרים ב"השקפה", "החרות" "הפרדס", "הד ליטא" (דו-שבועון שיצא בקובנה), "המצפה" (שבועון שיצא בקרקוב), הדואר ו"התורן" (ניויורק), "הפועל הצעיר", "הארץ", "דבר", "הגה", "מזרח
+
+
+ ומערב", (הירחון של <persName>א. אלמליח)</persName> . היה כתב "דבר'' בפתח-תקוה ובנתניה ואח"כ נתקבל לעבודה במערכת "דבר" כמתרגם ועוזר בסידור הארכיון.
+
+ מהספרים שתרגם: "הקבוצה והמושב" <persName>לב. רוב</persName> <persName>שטיין</persName> , "השחקנית"<persName> להיינריך מאן,</persName> "הייתי פליטה" <persName>לפרידה זרובבל</persName> , "האדם המת"<persName> לשלום אש</persName> , "ילדי הסערה" <persName>לליאון קוברין</persName> , "המשפחה" <persName>לה. ד. נומברג.</persName> <persName>פסיבדונימים;</persName>
+
+ ב"השקפה" : ירושלמי, בחור ישיבה, נחמן, ועוד. ב"הפועל הצעיר": פליט הישיבה, חבר ועוד. ב"החרות". עמנואל ועוד.
+
+ צאצאיו: <persName>יחיעם מלצן</persName> (בעל מסעדה בנשר ליד חיפה), <persName>דבורה</persName> אשת<persName> בנימין חצרוני</persName> (חבר בקואופרטיב "שחר" בחיפה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2178 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2178</bibl><bibl>Volume: #5 ,Page: 2179 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2179</bibl>
+<bibl>Volume: #5 ,Page: 2180 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2180</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

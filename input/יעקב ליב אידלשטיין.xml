@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3285 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3285</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב ליב אידלשטיין</persName>
+
+</head>
+         <div><p> נולד בשנת תרל"ז (1877) ברומניה. לאביו<persName> זאב</persName> ולאמו<persName> הניה.</persName>
+
+ בגיל חמש עלה לארץ עם הוריו, ממיסדי זכרון יעקב. למד בבית-הספר המקומי ועבד במשק החקלאי של הוריו,
+
+ ואח"כ נתקבל לעבודה קבועה בתעשית היינות ביקב זכרון יעקב והתמיד בעבודתו כששים שנה רצופות.
+
+ ב-1899 נשא לאשה את<persName> חיה רבקה</persName> בת<persName> יוסף לייטנר</persName> (נפטרה בזכרון יעקב, כ"ד אלול תש"ט).
+
+ היה אדם ישר ומצניע לכת וחביב על הבריות. נתן מזמנו גם לשרות הצבור בכל הענינים המקומיים וכמה שנים היה חבר ועד המושבה.
+
+ נפטר בזכרון יעקב, ה' אדר א' תשי"ז (6.2.1957).
+
+ צאצאיו: <persName>אפרים</persName> (מהנדס בפריז),<persName> רחל </persName> אשת<persName> יהודה </persName> <persName>שפק </persName> (בחדרה. ראה כרך ששי, עמוד 2556), <persName>טובה</persName> אשת <persName>שלום ברונשטיין</persName> (זכרון יעקב). <persName>פרידה</persName> אשת<persName> שאול גלאנץ</persName> (תל-אביב), <persName>רוחמה</persName> אשת<persName> מרדכי זינגר </persName> (תל-אביב),<persName> גאולה</persName> אשת <persName>אריה סמסונוב</persName> (חיפה).<persName> יוסף</persName> (חיפה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3285 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3285</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

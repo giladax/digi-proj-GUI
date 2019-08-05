@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3285 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3285</bibl><bibl>Volume: #9 ,Page: 3286 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3286</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יששכר רם</persName>
+
+</head>
+         <div><p> נולד בי"ד טבת תרס"א (5.1.1901) בחדרה. לאביו <persName>נחמן</persName> (מראשוני המיסדים את המושבה כרך א', עמוד 114) ולאמו <persName>חיה לאה</persName> בת <persName>ברוך שמואלזון</persName> (גם הוא מראשוני המיסדים - כרך שני עמוד 933).
+
+ גמר את בית הספר המקומי. עבד במשק הוריו והיה פעיל במכבי המקומי ובהגנת המושבה, מטובי הלוחמים בתגרות הרבות עם ערביי הסביבה כשניסו לגזול קרקעות ולהעלות עדרים על השדות, וביחוד בהתנפלות הגדולה על חדרה ב-1921.
+
+
+ נשא לאשה את<persName> שרה</persName> בת הרב<persName> יוסף רודניק </persName> (רב בבליצה שבפלך וילנא).
+
+ פיתח משק חקלאי למופת והיה פעיל בהנהלת הסתדרות "בני בנימין" בזמנה, ואח"כ בהסתדרות החקלאים המקומית, בהתאחדות האכרים, בועד החקלאי,
+
+ בארגון ה"הגנה" (בו מילא תפקידים אחאים במפקדה המחוזית) והמשיך בעסקנותו בנוער וב"מכבי".
+
+ הצטיין במדות תרומיות ובנכונות לעזור לזולת מתוך מאור פנים, והתענין גם בהתפתחות תרבות הרוח של האומה.
+
+ נפטר בחדרה, י"ג אב תש"ה (23.7.1945).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3285 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3285</bibl><bibl>Volume: #9 ,Page: 3286 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3286</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

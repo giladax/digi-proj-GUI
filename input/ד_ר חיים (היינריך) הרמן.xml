@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1921 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1921</bibl><bibl>Volume: #4 ,Page: 1922 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1922</bibl>
+<bibl>Volume: #4 ,Page: 1923 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1923</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר חיים (היינריך) הרמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קניגסברג</placeName> (גרמניה) בשנת תרנ"ב (.18.8 1892), לאביו <persName>לואי,</persName> ולאמו <persName>הנרייטה</persName> למשפחת <persName>רוזנר</persName> .
+
+ בוגר גימנסיה הומניסטית ב<placeName>קניגסברג</placeName>. למד רפואה באוניברסיטאות קניגסברג, ברלין, מינכן, פרייבורג. קבל תואר ד"ר לרפואה. התמחה במחלות עצבים ורוח.
+
+ בימי מלחמת העולם הראשונה היה בחזית ונפצע. אחרי המלחמה עבד במקצועו ב<placeName>קניגסברג</placeName>.
+
+ היה יו"ר האגודה הציונית שם, חבר ק.י.פ.
+
+ בשנת 1918 נשא לאשה את <persName>גרדה </persName> בת <persName>ברונו</persName> <persName>רוזנטל.</persName> עלה ארצה בשנת 1924 ועבד במקצועו. היה רופא עצבים, נוירולוג ופסיכיטר. מנהל בית החולים לחולי רוח "עזרת נשים" בירושלים.
+
+ שימש יו"ר החברה הנורולוגית-פסיכאטרית בארץ והשתתף מטעמה בשנת 1938 כציר בקונגרס הבינלאומי לפסיכיטריה בלונדון.
+
+ היה חבר הועד וחבר בית הדין של הסתדרות הרופאים בארץ. מרצה למחלות רוח בבית החולים לאחיות של "הדסה". נתמנה למומחה משפטי לשאלות מחלות רוח בבתי המשפט של ממשלת המנדט. ייסד ושימש יו"ר של "החברה הא"י להיגיינה רוחנית".
+
+ היה חבר ה"הגנה" ויועצו המקצועי. פרסם מאמרים מקצועיים ב"הרפואה" וכתב ספר לימוד לפסיכיטריה בשביל בית הספר לאחיות.
+
+ נפטר בירושלים י"ח בחשון תש"ט (20.11.48).
+
+ צאצאיו:<persName> מרים, דניאל.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1921 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1921</bibl><bibl>Volume: #4 ,Page: 1922 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1922</bibl>
+<bibl>Volume: #4 ,Page: 1923 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1923</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

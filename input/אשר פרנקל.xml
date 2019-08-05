@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2368 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2368</bibl><bibl>Volume: #5 ,Page: 2385 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2385</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אשר פרנקל</persName>
+
+</head>
+         <div><p> נולד ב<placeName>לודז'</placeName> בשנת תרס"ד (29.7.1904).
+
+ לאביו,<persName> שמריה בונים</persName> ולאמו <persName>הדסה </persName> בת<persName> יצחק שרגא</persName> <persName>קירשטין</persName> .
+
+ קיבל חינוך מסורתי וכללי.
+
+ היה פעיל בארגוני הנוער הציוני וממיסדי "החלוץ" ב<placeName>לודז'</placeName>.
+
+ בשנת 1921 עלה לארץ.
+
+ הקים תעשית הקרטונז', בין מיסדי חברה א"י לתעשית כותנה (טקסטיל).
+
+ בשנת 1926 נשא לאשה את<persName> פנינה </persName> בת <persName>יונתן מנדלבוים.</persName>
+
+ ע''י תעשית הקרטונז' שהקים, הקל מאד על בעלי התעשיה והדפוס, אחרי שמצרך זה היה חסר בארץ.
+
+ חבר ועד הפועל ב"התאחדות בעלי התעשיה בישראל", חבר ועדת התעסוקה של החילים המשוחררים - מטעם משרד הבטחון.
+
+ היה פעיל ב"הגנה".
+
+ נתמנה לקונסול כבוד מהרפובליקה הבוליבאנית לא"י - ת"א.
+
+ צאצאיו; <persName>אריה </persName> (מהנדס לטקסטיל),<persName> עדה.</persName>
+
+ המשך הערכים - בעמוד 2385
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2368 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2368</bibl><bibl>Volume: #5 ,Page: 2385 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2385</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2181 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2181</bibl><bibl>Volume: #5 ,Page: 2182 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2182</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד שלוש</persName>
+
+</head>
+         <div><p> נולד בשנת תרנ"ה (1895) ביפו לאביו אברהם חיים (ראה כרך א', עמוד 504) ולאמו<persName> שרה (שרינה</persName> ) בת <persName>יצחק</persName> <persName>אלבז.</persName>
+
+ קיבל חינוך מסורתי. למד בבית הספר של חברת כי"ח ביפו. גמר קורס של בי"ס תיכוני ולמד שנתים בפקולטה לרפואה של האוניברסיטה האמריקאית בבירות. שם היה
+
+ בין מיסדיהן ופעיליהן של תנועות הנוער הציוני והמכבי, וגם אח"כ היה חבר במכבי בארץ עד סוף ימיו.
+
+ משחזר הביתה מילא תפקידים חשובים בבנק אפ"ק ביפו ובתל-אביב. בשנות מלחמת-העולם הראשונה עבד במצרים בבנק Credit Foncier Egyptien וגם שם היה פעיל בעבודה מכבית וציונית.
+
+
+ ב-1921 נשא לאשה את <persName>ז'וליה</persName> לבית בחבוט.
+
+ השתתף בכל פעולות משפחת שלוש בגאולת קרקעות ובהקמת מפעלי תעשיה ועבודה צבורית וציונית בכלל. כ-20 שנה היה אחד ממנהלי הטחנות הגדולות בחיפה. שם היה חבר ועד העדה הספרדית, ממיסדיו ותומכיו של בית-הכנסת "היכל עמנואל". עזר לנצרכים בהסתר, בלי רדיפה אחרי הכבוד. היה מעודד ותומך בהרבה מפעלים צבוריים בלי התבלטות.
+
+ נפטר בחיפה והובא לקבורה בת"א, כ"ב תשרי תש"י (15.10.49).
+
+ צאצאיו: <persName>אהרן</persName> (אדריכל מוסמך מהטכניון העברי בחיפה והשתלם בבנין ערים באוניברסיטת קולומביה בניויורק), <persName>אדית</persName> אשת <persName>בנימין קריגר, רינה, חנה</persName> . 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2181 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2181</bibl><bibl>Volume: #5 ,Page: 2182 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2182</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

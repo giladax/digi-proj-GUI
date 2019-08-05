@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3136 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3136</bibl><bibl>Volume: #8 ,Page: 3137 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3137</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב סעדיה בנבנישתי (מכונה: הרב רבינו בן-וינישטי)</persName>
+
+</head>
+         <div><p> נולד בירושלים, ד' אדר תרל"ו (1876).
+
+ לאביו הרב <persName>בכור יוסף בן-וינישטי</persName> (ראה בכרך זה)
+
+ קבל חנוך מסורתי בביה"ס "דורש ציון", בישיבת תפארת ירושלים ושמע שעורים מפי הרב<persName> יצחק אשכנזי</persName> והרב <persName>בן-ציון קואינקה.</persName>
+
+ בן י"ח שנה גמר את חוק לימודיו ונתקבל בתור מורה לדקדוק, לעברית ולתלמוד בתלמוד תורה של הספרדים, שהתנהל אז ע"י הרב<persName> נסים אלישר.</persName>
+
+ נשא לאשה את<persName> יוכבד </persName> בת העסקן <persName>אברהם מזרחי </persName> בת אחות הרב <persName>נחמן בטיטו,</persName> שישב זמן מה על כסא הרבנות בירושלים. אשתו היתה עסקנית פעילה באגודת "בנות ירושלים" והשתדלה להיטיב לכל עניי עדתה.
+
+ לאחר עבודה מאמצת של הוראה בת"ת הנ"ל, ב"דורשציון" וב"בית היתומים", נסע לחו"ל להורות שם את השפה העברית.
+
+ בשנת תרע"א (1911) ביקר במוסקבה, אח"כ נסע לקוקנד והיה שם מורה בבית הספר הגדול של העדה היהודית במשך שבע שנים. הוא מילא שם גם בתפקידים של שוחט ומוהל.
+
+ משם עבר לבוכארה, והיה שם שתי שנים.
+
+ בשנת תר"פ (1920) חזר לירושלים, אולם הוזמן מיד ע"י הרב <persName>חזקיהו שבתי </persName> רבה של ארם-צובא (חלב) בעת ההיא, לשמש שם מורה עברי בבית הספר של חברת כי"ח (האליאנס) ובת"ת. לאחר ארבע שנים נסע לבירות (הלבנון) וגם שם מילא תפקיד דומה במשך שנתים.
+
+ בשנת תרפ"ז (1927) נסע לארגנטינה והיה שם כמנהיג רוחני של הקהלה הספרדית בקוריינטיס עד שנת תרצ"ז (1937).
+
+ באותה שנה חזר לארץ ונתמנה לחבר בבית-הדין של העדה הספרדית בירושלים.
+
+ צאצאיו: <persName>אברהם חיים </persName> ז"ל, <persName>רחל, רוזה, מזל</persName> (שלשתן נשואות בבואינוס-איירס, ארגנטינה).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3136 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3136</bibl><bibl>Volume: #8 ,Page: 3137 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3137</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

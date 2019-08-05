@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3590 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3590</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף דקל (קרסנר)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ליטין</placeName> שבאוקראינה, ד' אייר תרנ"ט (16.4.1899).
+
+ לאביו משה (מחסידי סקווירה, סוחר) ולאמו<persName> שיינדל</persName> בת <persName>שמואל גיטלמן.</persName>
+
+ קיבל חינוך מסורתי, גמר גימנסיה רוסית.
+
+ היה פעיל בהחלוץ באוקראינה.
+
+ בראשון למאי 1921 הגיע לחופי יפו והאניה הוחזרה לאלכסנדריה, מצרים, נאסרו לכמה ימים והמשיכו לקונסטינטינופול (תורכיה).
+
+ באוגוסט 1921 עלה לארץ.
+
+ בשנת 1921 נשא לאשה את <persName>עדינה</persName> בת<persName> משה יוסף</persName> <persName>זמושץ.</persName>
+
+ עבד כשנה בנמל חיפה בתור סבל, בפרדסי פתחתקוה ואח"כ כפועל בנין בתל-אביב.
+
+ משנת 1923 עד 1932 שירת במשטרת תל-אביב כשוטר ואח"כ כחוקר מוסמך.
+
+ משנת 1921 חבר ההגנה, ומשנת 1932 עד הקמת המדינה חבר המפקדה בתל-אביב.
+
+ היה פעיל ב"כופר הישוב" וכן במפעלי בטחון רבים בימי ה"הגנה".
+
+ אחרי הקמת המדינה היה מנהל אגף ההנצחה במשרד הבטחון.
+
+ כיום, פקיד משרד הבטחון, עוזר המנהל הכללי לתפקידים מיוחדים: מנהל מוזיאון צה"ל, פיתוח נצרת, פיתוח מצפה רמון ומנהל מערכות - הוצאת ספרים של צה"ל.
+
+ בנו:<persName> יוחנן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3590 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3590</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

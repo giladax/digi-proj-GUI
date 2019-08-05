@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4691 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4691</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ברוך גרינברג</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קילץ</placeName> (פולין), ב' כסלו תרס"ג (2.12.1902).
+
+ לאביו <persName>בנימין גרינברג </persName> ולאמו <persName>חוה</persName> בת<persName> זאב</persName> <persName>סולוביץ.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ היה פעיל בארגוני הנוער הציוני בעירו. בשנת 1920 עלה לארץ.
+
+ עבד כפועל חקלאי בכרמים, כפועל בכביש צמח-טבריה ואח"כ במושבה פוריה בנטיעת עצים.
+
+ עבר לת"א והיה בין הראשונים שנהג במכוניות בין ירושלים-ת"א.
+
+ היה בין מיסדי התאחדות הנהגים (אגד).
+
+ בשנת 1927 נשא לאשה את<persName> שולמית</persName> בת <persName>יצחק</persName> <persName>דוידוביץ.</persName>
+
+ בשנת 1934 פתח עסק למסחר בחלקי חלוף של מכוניות בתל-אביב.
+
+ הצליח להגדיל את עסקיו במקצוע זה.
+
+ חבר בהתאחדות הסוחרים ויו"ר בה של הסקציה במקצועו.
+
+ חבר לשכת המסחר יפו-ת"א.
+
+ אח בלשכת הבונים החפשים - לשכת "ברקאי" בת"א.
+
+ צאצאיו: <persName>אביבה</persName> אשת ד"ר <persName>פנחס לרמן, יוסף</persName> <persName>גרינברג.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4691 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4691</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

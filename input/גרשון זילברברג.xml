@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4751 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4751</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גרשון זילברברג</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וורשא</placeName> (פולין), ט"ו אב תרס"ז (16.7.1907).
+
+ לאביו<persName> ישראל דוד זילברברג</persName> ולאמו <persName>שרה רעכיל</persName> כת <persName>גרשון פדרמסר</persName> .
+
+ קיבל חינוך מסורתי וכללי.
+
+ היה חבר בארגונים ציוניים בעירו.
+
+ כשנת 1933 נשא לאשה את <persName>ברכה</persName> בת<persName> יצחק</persName> <persName>פפרברג</persName> .
+
+ בשנת 1934 עלה לארץ.
+
+ פרסם שני ספרים: "המלה המודפסת בישראל" (1961); "תורת הדפוס" (1966).
+
+ פרסם מאמרים ב"דבר", "הארץ", "הד הדפוס" ו"עולם הדפוס".
+
+ חבר מערכת "הד-הדפוס" ועורך הירחון "עולם הדפוס".
+
+ בשנת 1951 המציא את שיטת הניקוד, שאיפשרה
+
+ הופעת העתון היומי המנוקד "אומר" בדפוס "דבר".
+
+ היה ציר בקונגרס הבין-לאומי מטעם האיגוד הארצי של פועלי הדפוס בישראל. כל השנים היה חבר ההגנה. שירת במשטרת הישובים העבריים.
+
+ חבר בועד המנהל של מוזיאון לאמנות הדפוס בצפת.
+
+ מנהל ארכיון מערכת "דבר" בתל-אביב.
+
+ צאצאיו: <persName>רות</persName> אשת <persName>אברהם מיסקין; דוד זיק</persName> ; <persName>ירון-יצחק</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4751 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4751</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

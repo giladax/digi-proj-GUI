@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1148 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1148</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה דננברג</persName>
+
+</head>
+         <div><p> נולד בפינסק, רוסיה הלבנה, טבת תרכ"ד (1.1.1864), לאביו<persName> יהודה ליב</persName> (גוזר עצים) ולאמו <persName>לאה</persName> . למד בחדרים ואח"כ את מלאכת הנגרות.
+
+ בשנת תרמ"ד עלה ארצה עם הוריו ועסק במלאכת הנגרות ביפו.
+
+ בתרמ"ו נשא לאשה את<persName> בתיה</persName> בת <persName>צבי פלורנץ</persName> מטלז.
+
+ בשנת 1906 נסע לאפריקה הדרומית, עבד והשתלם במקצועו במשך שלש שנים וכשחזר ארצה החלה הקמת השכונה החדשה "אחוזת בית" (היא תלאביב), פתח נגריה מסודרת וביצע את עבודות הנגרות בהרבה מהבנינים הראשונים של תל-אביב. רכש לו מגרש גדול ברחוב הרצל (ליד בית "הלואה וחסכון") ובנה לו בית ובמלחמת-העולם הראשונה יסד בית-חרושת ללבנים בת"א.
+
+ נפטר בתל-אביב, כ"ג אדר ב' תש"ח (3.4.48).
+
+ בנותיו :<persName> אסתר </persName> (ז"ל) אשת <persName>חיים איסר דננברג</persName> (מתה בימי גרוש יפו-ת"א בטבריה), <persName>סימה</persName> אשת <persName>צבי בינדר</persName> .
+
+ נכדו הנהג <persName>צבי דננברג</persName> (בן בתו אסתר) נפצע עלידי כנופיה ערבית מזוינת ביום כ"ג ניסן תרצ"ו בנסעו מחיפה לת"א, יחד עם<persName> ישראל חזן</persName> , בין נור-שמש ובין ענבתא (לפני גמירת כביש חיפה בשפלת החוף, כשהיו נוסעים דרך הרי השומרון) ואחרי יסורים קשים מת בבית-החולים "הדסה" בת"א ביום כ"ח ניסן תרצ"ו,
+
+ - והתקפה זו היתה הפתיחה למהומות שפרצו אז בארץ ונמשכו קרוב לשלש שנים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1148 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1148</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

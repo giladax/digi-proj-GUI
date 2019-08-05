@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2547 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2547</bibl><bibl>Volume: #6 ,Page: 2548 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2548</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם מנדל הכהן ליפבסקי</persName>
+
+</head>
+         <div><p> נולד בדרוהיצין, פלך גרודנא, בשנת ת"ר (1840). לאביו <persName>שמאי</persName> (המכונה ר' שמאלע) ולאמו<persName> איטה.</persName>
+
+ קיבל חינוך מסורתי.
+
+ כל חייו היה גר בפולטה ועסק במסחר.
+
+ נשא לאשה את <persName>גולדה</persName> בת <persName>אברהם חיים פרידמן</persName> מפינסק.
+
+ עלה לארץ בשנת תרנ"א והתישב בירושלים.
+
+ נכדתו, אולגה בתו של יצחק ליפבסקי נשאה לסופר אשר ברש (ראה כרך ב', עמוד 720).
+
+ לקח חלק פעיל בין עסקני הישוב הישן בעבודה ציבורית. עזר לתלמידי חכמים ועסק בדברי תורה.
+
+ נפטר בירושלים, בשנת תר"פ (1920). 
+
+
+ צאצאיו:<persName> פרידל</persName> אשת <persName>ברל פוזזינסקי</persName> מבריסק, <persName>יצחק</persName> <persName>צבי </persName> (ממנהלי אנגלו-פלשתינה בנק בע"מ, תל-אביב. ראה כרך א', עמוד 496),<persName> אלכסנדר זיסקינד, רחל</persName> אשת מרקוזה,<persName> פייגה</persName> אשת <persName>משה רבינוביץ</persName> (ראה כרך ד', עמוד 2011).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2547 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2547</bibl><bibl>Volume: #6 ,Page: 2548 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2548</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

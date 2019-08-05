@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2466 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2466</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב יקותיאל קיסילוב</persName>
+
+</head>
+         <div><p> נולד בקיסילובקה (רוסיה) בשנת תרמ"ה (1885). לאביו<persName> שמואל</persName> ולאמו<persName> ביילה</persName> לבית <persName>צייטלין.</persName>
+
+ קיבל חינוך מסורתי.
+
+ עלה לארץ בשנת תרס"ט (1909).
+
+ זמן קצר אחרי בואו לארץ, הלך לגליל התחתון ונתקבל לעבוד בחוות כנרת שנוסדה ע"י הקק"ל. אולם הקדחת תקפה אותו מזמן לזמן ועפ''י פקודת הרופאים הוכרח לעזוב את הארץ. בשנת 1913 נסע לארגנטינה, פרצה המלחמה העולמית הראשונה, ורק בשנת 1919 חזר.
+
+ בשנת 1920 נשא לאשה את <persName>לאה</persName> בת <persName>אהרן ליפה</persName> <persName>קמיניץ-מנדלבוים</persName> (דור חמישי בארץ).
+
+ עם התחלת מלחמת השחרור, היה מראשוני המתנדבים לצבא הגנה לישראל, למרות גלו - למעלה מששים שנה, וקבל אות הקוממיות.
+
+ היה ער לכל פעולה צבורית וסוציאלית. כתב ספורים וציורים - באידיש מחיי ומנהגי היהודים בארצות פזורם ופרסם אותם בעתונות בארגנטינה,
+
+ נפטר ברמת-גן, ה' תמוז תשי"ב (28.6.1952).
+
+ צאצאיו: <persName>אלישבע</persName> אשת <persName>חיים אשכנזי</persName> (רמת-גן), <persName>דינה</persName> אשת <persName> שלמה בובנבסקי </persName> (אבן-יהודה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2466 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2466</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

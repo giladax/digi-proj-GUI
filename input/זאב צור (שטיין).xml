@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2902 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2902</bibl><bibl>Volume: #7 ,Page: 2903 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2903</bibl>
+<bibl>Volume: #7 ,Page: 2904 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2904</bibl>
+<bibl>Volume: #7 ,Page: 2905 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2905</bibl>
+<bibl>Volume: #7 ,Page: 2906 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2906</bibl>
+<bibl>Volume: #7 ,Page: 2907 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2907</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זאב צור (שטיין)</persName>
+
+</head>
+         <div><p> נולד קרייקי, פלך גרודנה (פולין) י"ח אלול תרע''א (1911).
+
+ לאביו<persName> שניאור זלמן שטיין </persName> ולאמו <persName>צפורה</persName> בת<persName> משה</persName> <persName>אפרימזון.</persName>
+
+ קבל חנוך בבי"ס עברי וטכניון.
+
+ בשנת 1931 עלה לארץ.
+
+ חבר קבוצת "השדה" בראשון לציון (מ-1931).
+
+ ממיסדי משק "שדה-נחום" וחבר המשק (משנת 1937).
+
+
+ חבר פעיל במזכירות הקבוץ המאוחד.
+
+ חבר המרכז החקלאי (עובד המוסד הזה בשנים 1945-49).
+
+ היה ציר הקונגרס הציוני הכ"ב בבזל (1946).
+
+ פעל בועדת הנגב בזמן מלחמת השחרור.
+
+ חבר המועצה הכלכלית ע"י משרד ראש הממשלה.
+
+ בדצמבר 1955 נתמנה סגן שר החקלאות במדינת ישראל.
+
+ כתב מאמרים ב"מבפנים" וב''למרחב".
+
+ בנותיו: <persName>צפרירה, עבריה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2902 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2902</bibl><bibl>Volume: #7 ,Page: 2903 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2903</bibl>
+<bibl>Volume: #7 ,Page: 2904 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2904</bibl>
+<bibl>Volume: #7 ,Page: 2905 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2905</bibl>
+<bibl>Volume: #7 ,Page: 2906 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2906</bibl>
+<bibl>Volume: #7 ,Page: 2907 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2907</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3302 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3302</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן אבן-חן (פיינשטיין)</persName>
+
+</head>
+         <div><p> נולד בי"א אלול תרס"ח (7.9.1908) בראש פנה.
+
+ לאביו<persName> יוסף </persName> (ראה בכרך זה) בן ר' <persName>אהרן-דב פיינ</persName> <persName>שטיין</persName> (ממיסדי ראש פנה; ראה כרך ג', עמוד 1320) ולאמו <persName>יחידה (סוליכה)</persName> בת<persName> אהרן עטייה</persName> (ראה בכרך זה).
+
+ למד בבית-הספר המקומי ובקולג' הסקוטי בצפת. עבד במשק הפלחה של הוריו, באריזת הטבק ובסלילת כביש ראש-פינה-מטולה.
+
+ התחיל מפרסם ב"דואר היום" כתבות מהגליל העליון, הוזמן לעבודה קבועה בו כחבר המערכת ובשנים 1935/6 כמזכיר המערכת.
+
+ נשא לאשה את<persName> עטרה </persName> בת <persName>אריה לרמן.</persName>
+
+ בשנים 1950-1936 היה מזכיר מחלקת התרבות של המועצה המקומית ואח"כ העיריה בנתניה והמשיך גם בפעולה עתונאית.
+
+ בשנים האחרונות הנו חבר מערכת "מעריב" (משתתף בפיליטונים וברפוטאז'ות בחתימת ג. שרוני) וסופר "הארץ" בשרון, וכתושב נתניה הנו חבר ועדת השמות לרחובות העיר.
+
+ קיבל פרס ראשון בתחרות הארצית לרפוטאז'ה מטעם אגודת העתונאים בתל-אביב לשנת 1946.
+
+ ספרו "שוורים חרשו בהר" פורסם בהוצאת נ. טברסקי (תשי"ד).
+
+ חבר ההגנה כל השנים.
+
+ בנותיו:<persName> עדנה, אריאלה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3302 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3302</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

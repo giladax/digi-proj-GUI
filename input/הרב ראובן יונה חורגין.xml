@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2937 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2937</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב ראובן יונה חורגין</persName>
+
+</head>
+         <div><p> נולד קלצק (רוסיה) בשנת תרט''ז (1856). לאביו הרב אליהו חיים (למשפחת רבנים, יודעי
+
+ תורה וחובבי ציון)ולאמו <persName>בתיה </persName> בת <persName>הרב יצחק יעקב</persName> <persName>שיף.</persName>
+
+ קבל חנוך מסורתי והיה מתלמידיה המובהקים של ישיבת וולוזין ובה נסמך לרב.
+
+ נשא לאשה את<persName> דבשה</persName> בת הרב<persName> משה צבי הוכשטיין</persName> (נפטרה בתל-אביב, יט' אייר תש''ז (9.5.1947).
+
+ רב בפוהוסט ומיסד ישיבה שם. עלה לארץ עם משפחתו בשנת תרס"ה (1905). מיסד ופעיל במושב זקנים בירושלים. עסק בתורה ובעבודה.
+
+ נפטר בירושלים, כ"ח כסלו תרע"ז (23.12.1916).
+
+ צאצאיו: פרופ' <persName>פנחס</persName> (נשיא האוניברסיטה בר-אילן בירושלים, ראה את הערך שלו בכרך זה),<persName> גרשון</persName> (פרופ' בישיבה אוניברסיטה בניו-יורק) <persName>יעקב </persName> (סוחר, בקמפינסברזיל)<persName> מלכה, שרה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2937 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2937</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

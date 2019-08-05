@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5652 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5652</bibl><bibl>Volume: #19 ,Page: 5653 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5653</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי אפרים רוזנטל</persName>
+
+</head>
+         <div><p> נולד ב<placeName>חוטין</placeName> (בסרביה, רוסיה), י"ד תמוז תרמ"ח (יולי 1888).
+
+ לאביו הרב<persName> יוסף יהודה רוזנטל</persName> מחוטין ולאמו <persName>אטיה</persName> בת<persName> אהרן גלרמן</persName> (דיין).
+
+ קיבל חינוך תורני ומסורתי בחדר ובישיבות בויאן ועוד.
+
+ עבד כקופאי בבנק "ברזין" ב<placeName>חוטין</placeName>.
+
+ ממונה על סניף קק"ל וקרן היסוד בבסרביה.
+
+ נשא לאשה את <persName>דינה</persName> בת <persName>חיים שכטמן-יפה</persName> (נפטרה בתל-אביב, ג' תשרי תשי"ב (3.10.1951) ובזיווג שני נשא לאשה את <persName>הניה</persName> בת <persName>אליהו זרסקי.</persName>
+
+ בשנת 1925 עלה לארץ.
+
+ מפעילי תנועת "הפועל המזרחי".
+
+ עבד כמתרים לקק"ל וקרן היסוד.
+
+ עבד בתור גובה מטעם עיריית תל-אביב.
+
+ רוב השנים עבד כפקיד במשרד האוצר, במחלקת הניכויים, באגף מס-הכנסה.
+
+ כיום בפנסיה.
+
+
+ היה חבר ההגנה. השתתף בשמירה על תל-אביב והסביבה בימי המאורעות.
+
+ מהפעילים להקמת ישובים וקיבוצי התנועה הדתית "הפועל המזרחי" בארץ.
+
+ ראש קבוצת לומדי תורה בבית הכנסת הגדול ב"יד-אליהו" בתל-אביב.
+
+ עוסק בקופות צדקה ובמתן בסתר.
+
+ צאצאיו: <persName>בתיה</persName> אשת <persName>יהושע בויארסקי</persName> ז"ל;<persName> יוסף</persName> <persName>דינאי - רוזנטל</persName> , חשבונאי מוסמך (ראה את הערך שלו בכרך זה, בעמוד 5650).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5652 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5652</bibl><bibl>Volume: #19 ,Page: 5653 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5653</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 689 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/689</bibl><bibl>Volume: #2 ,Page: 690 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/690</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ר' מנחם מנכין-היילפרין</persName>
+
+</head>
+         <div><p> נולד בגרודנה, רוסיה הלבנה, בשנת תר"ד (1844), לאביו ר' <persName>שלום</persName> . למד ב"חדר" ובישיבות אצל גאוני פולין וליטא והשתלם בדרגה גבוהה בש"ס ופוסקים וקבלה והתנהג בפרישות ובחסידות כאחד הגדו
+
+ לים מדורות קדומים. סירב לקבל משרת רבנות וליהנות הנאה חמרית כל-שהיא מתורתו, רק התפרנס ממסחר בספרי קודש ובאתרוגים מארץ-ישראל, ולשם כך ביקר כמה פעמים בארץ להביא אתרוגים. אך את עיקר זמנו הקדיש ללימוד תורה וקבלה יומם ולילה.
+
+ בגרודנה עיר מגוריו היה מפורסם כגאון ומקובל. הוציא בתרמ"ה את הספר "עץ חיים" לר'<persName> חיים ויטאל</persName> , תלמיד האר"י, עם הוספות, הגהות וביאורים. אח"כ פרסם בירושלים בדפוס <persName>הרי"ד פרומקין </persName> את ספרו "כבוד חכמים", בו סתר את דעת ר' <persName>יעקב עמדן</persName> שבספרו "הקנאות" יחס את הספר (בעניני קבלה) "חמדת הימים" לנתן העזתי, מתלמידי שבתי צבי, ופסל את תכנו כמינות שבתאית, ור' מנחם הוכיח, כי הספר המדובר נתחבר על-ידי איש צדיק וחסיד ידוע בזמנו על יסוד קבלת האר"י ואין לו כל שייכות לשבתאות. כן היה ידוע בגרותה כצדיק ועושה נפלאות, אף כי לא התנהג כדרך האדמו"רים החסידיים ולא קיבל לא פתקאות ולא פדיונות או מתנות בצורה אחרת.
+
+ ר'<persName> ישראל צרבינסקי</persName> מרמת-גן מספר מעשה שראה במו עיניו בבחרותו כשלמד בישיבה בגרותה והלך פעם יחד עם רבים אחרים לבית המדרש של "חברת אלשיך" שהתנהל על-ידי ר' מנחם לראות, כיצד הוא מגרש "דיבוק" מנערה יתומה. לפי דבריו אמר הדיבוק, שבחייו היה מראשי ה"חוטפים" ומסר מאות ילדי ישראל לצבא ולשמד, ולפני מותו עשה חוזה עם
+
+
+ איש אחד, שההוא יאמר אחריו קדיש לתיקון נשמתו, ומאחר שהאיש לא עמד בהתחייבותו, נכנס החוטא בתור דיבוק אל בתו. ור' מנחם עשה לו "תיקון" על-ידי לימוד משניות בצבור, אמירת קדיש ותפלת השכבה ואז יצא הדיבוק מהנערה.
+
+ כל ימיו השתוקק לקדושת ארץ-ישראל ובשנת תרס"א עלה ארצה והתישב בירושלים והיה מכובד מאד בחוגי המקובלים וכן בבית מדרשו של <persName>הגראי"ה</persName> <persName>קוק </persName> וניהל אתו שיחות רבות בתורת הנגלה והנסתר. נפטר במעונו שבבתי מחסה בעיר העתיקה שבירושלים ביום ו' ניסן תרפ"ד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 689 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/689</bibl><bibl>Volume: #2 ,Page: 690 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/690</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

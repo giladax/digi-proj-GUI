@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4952 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4952</bibl><bibl>Volume: #16 ,Page: 4953 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4953</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים קישון (קישהוגט)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>בודפסט</placeName> (הונגריה), כ"ג אב תרפ"ד (23.8.1924).
+
+ לאביו<persName> דזי הופמן</persName> ולאמו<persName> אלישבע </persName> לבית <persName>שטיינר.</persName>
+
+ קבל חינוך מסורתי וכללי בהונגריה: גימגסיה, בית ספר גבוה לאומנות פלסטית ליד האוניברסיטה לתולדות האמנויות.
+
+ עבד כעתונאי - מחזאי.
+
+ בשנת 1949 עלה לארץ.
+
+ היה חבר ב"כפר החורש".
+
+ הקים מוסך לתיקון מכוניות בפרדס חנה.
+
+ היה עורך לילה של העתון ההונגרי "אוי קלט". כתב בעתונות: "אומר", "דבר" ובקביעות משנת 1952 ב"מעריב" (חד-גדיא).
+
+ בימוי מחזות וסרטים.
+
+
+ כתב כעשרים ספרים ושלשה מהם תורגמו לעשר שפות.
+
+ ספריו: "העולה היורד לחיינו" (סאטירות); "אלף גדיא וגדיא" (סאטירות); "עין כמונים" (רומן); "לא נורא" (סאטירות); "מערכונים"; "הכל תלוי" (סאטירות); "הוא והיא" (מערכונים); "שמיניות באוויר" (סאטירות): "באחד האמשים" (סאטירות).
+
+<persName>מחזות:</persName> "שמו הולך לפניו" (הבימה וזווית); "אתה מספר לי?" (המטאטא); "שחור על גבי לבן" (הבימה); "אף מלה למורגנשטיין (בצל ירוק); "הכתובה" (אהל); "תוציא את השטקר המיים רותחים" (הקמרי); "הוא והיא" התיאטרון האינטימי).
+
+<persName>סרט</persName> : סאלח שבתי".
+
+ שם ספרותי: <persName>"חד גדיא".</persName>
+
+ נשא לאשה את<persName> שרה</persName> בת <persName>יצחק ליפוביץ.</persName>
+
+ קבל פרס נורדאו, פרס ע"ש סוקולוב ועוד.
+
+ בניו: <persName>רפאל</persName> (מאמו - חוה לבית קלמר); <persName>עמיר</persName> (מאמו - שרה ליפוביץ).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4952 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4952</bibl><bibl>Volume: #16 ,Page: 4953 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4953</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

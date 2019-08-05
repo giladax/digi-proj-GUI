@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3508 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3508</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה רסקין</persName>
+
+</head>
+         <div><p> נולד בשנת תרל"ח (1878) ברוסיה.
+
+ לאביו<persName> זלמן לוי יצחק </persName> ולאמו <persName>פרידה</persName> בת <persName>פנחס</persName> <persName>רבינוביץ.</persName>
+
+ קיבל חינוך מסורתי, אח"כ התמחה במלאכת הבורסקאות ועבד בה.
+
+ ב-1904 עלה לארץ ונתקבל כמומחה במקצוע לעבודה ולהדרכה בבית-החרושת לעורות של ר' <persName>משה בצלאל</persName> <persName>טורדוסוביץ </persName> ז"ל (ראה כרך א', עמוד 412) אביו של <persName>דוד תדהר.</persName>
+
+ ב-1905 נשא לאשה את<persName> שושנה</persName> בת ר' <persName>אליהו ויינשטיין</persName> (ראה כרך א', עמוד 329).
+
+ ממיסדיה וראשוניה של תל-אביב. מחלוצי חרושת העורות בארץ. בהדרכתו נתן הכשרה מקצועית טובה לפועלים תימנים שעבדו תחת ידו והכין עתודה של עובדים מאומנים לפיתוח החרושת בארץ. המשיך במלאכתו ואח"כ במסחר והיה מטובי האזרחים בישוב.
+
+ נפטר בתל-אביב, א' אייר תשי"ח (21.4.1958).
+
+ צאצאיו:<persName> דבורה </persName> אשת <persName>לוי שוחט, פנחס</persName> (גובה המכס בתל-אביב-יפו), <persName>שולמית</persName> אשת<persName> אליהו קנטי, יהושע, זלפה</persName> אשת <persName>יעקב רכבי, יפה</persName> אשת<persName> אריה ליפשיץ.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3508 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3508</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

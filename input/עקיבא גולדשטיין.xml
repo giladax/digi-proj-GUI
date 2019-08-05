@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1793 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1793</bibl><bibl>Volume: #4 ,Page: 1794 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1794</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עקיבא גולדשטיין</persName>
+
+</head>
+         <div><p> נולד באודיסה, רוסיה, י"ג אדר תרס"ג (1903), לאביו <persName>אברהם</persName> ולאמו <persName>ברכה</persName> בת<persName> מרדכי רבינוביץ.</persName>
+
+ למד בחדרים ואח"כ בבי"ס תיכוני ובאוניברסיטה באודיסה. השתתף בפעולות הסתדרות הנוער הציוני באודיסה ונבחר ליושב-ראשה; השתתף בגרעיני ההכשרה הראשונים של "החלוץ" בדרום רוסיה ובאודיסה והיה פעיל בהגנה העצמית של הנוער היהודי בשנות המהפכה וחילופי השלטון בדרום רוסיה.
+
+ עלה לארץ באפריל 1921, ועוד בהיותו בביתהעולים בחיפה נזדמן לו לחזור למלאכת ההגנה, כשהוטל עליו לארגן את ההגנה בבית-העולים בעת מהומות ראשית חודש מאי (שביפו יפתחו בטבח, בבית-העולים). עבד זמן-מה בכביש חיפה-ג'דה, אח"כ התגייס לעבודה במחנה צבא והיה ראש גדוד העובדים המצרים השכירים בלוד. בסוף 1922 עבד בקבוצת בנין על הכרמל בחיפה ועד 1924 השתתף. בהנהגת
+
+
+ מועצת פועלי חיפה. בשנות 1924-26 עבד בחדרה והיה פעיל בארגונה ובניהולה של חבורת "השומרון", שהתארגנה להתישבות ובינתים עבדו חבריה בחדרה, זכרון יעקב, בנימינה וגבעת עדה.
+
+ ב-1925 נשא לאשה את <persName>צפורה</persName> בת <persName>אברהם בת-עמי.</persName> ב-1926 עלה על הקרקע עם קבוצת "השרון" בעיןבדה (כיום רמת דוד) ליד נהלל. מאז עובד הוא במשק,
+
+ פעיל בהסתדרות החקלאית, משנות מהומות 1936-38 בארגונם ובניהולם של עניני הבטחון והנציגות בגוש נהלל, בהקמת התאים של שלטון עצמי בישוב הכפרי ובהנהגתם כנשיא המועצה האזורית בעמק המערבי, ובשנות מלחמת-העולם השניה קיים קשרים עם הצבאות והשלטונות מטעם הישוב הכפרי.
+
+ נסע כמה פעמים בשליחויות לחו"ל:
+
+ ב-1927-28 למרכז "החלוץ" בפולין, ב-1928-29 ל"החלוץ" ברומניה, ב-1939 לגליציה ומשם נבחר לקונגרס הציוני הכ''א, ב-1947 נסע בשליחות ההסתדרות לבריטניה, השתתף כציר בקונגרס הציוני הכ"ב.
+
+ פרסם בזמנים שונים ב"הפועל הצעיר" מאמרים ורשימות מחיי הפועל בעיר ובמושבה.
+
+ צאצאיו: <persName>חיים, אורה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1793 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1793</bibl><bibl>Volume: #4 ,Page: 1794 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1794</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

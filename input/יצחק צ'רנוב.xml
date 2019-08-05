@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4911 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4911</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק צ'רנוב</persName>
+
+</head>
+         <div><p> נולד בעיר הרקוב (רוסיה), י"ד ניסן תרכ"א (אפריל 1861).
+
+ קיבל חינוך מסורתי, גמר גימנסיה בעירו. מראשוני החברים בתנועת חובבי ציץ.
+
+ בשנת תרמ"ב (1882) החליט לעלות לא"י ונסע לקונסטנטיפול (תורכיה). כשעברה שיירת הבילו"יים הראשונים באותה שנה דרך תורכיה לא"י עלה גם הוא אתם על אותה האניה, והגיע ליפו בי"ט תמוז תרמ"ב (1882).
+
+ הצטרף לבילויים לעבודה בביה"ס מקוה ישראל,
+
+ ומשם עבר לעבוד בראשון לציון. כעבור שנים רכש מאה ושנים דונם קרקע ונהיה לאכר במושבה.
+
+ נשא לאשה את <persName>גולדה</persName> לבית <persName>שינברג </persName> (בת אחות <persName>משה </persName> (מוריץ) <persName>שינברג,</persName> ראה כרך א' עמוד 421).
+
+ נפטר בראשון לציון, כ"ט חשון תרצ"ו (25.11.35).
+
+ צאצאיו: <persName>יוסף, אריה, אברהם, יואל, ישעיהו, צבי,</persName> <persName>מתתיהו,</persName> משה,<persName> תמר אשת סולומון פילבר, יהודית</persName> אשת<persName> יוסף בירנבוים, רבקה, שושנה</persName> אשת<persName> ליאון</persName> <persName>אלמאליח, רחל</persName> אשת<persName> בנימין בן-בסט.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נולד בעיר חרקוב (רוסיה), י"ד ניסן תרכ"א (אפריל 1861).
+
+ קיבל חינוך מסורתי, גמר גימנסיה בעירו.
+
+
+ מראשוני החברים בתנועת "חובבי ציון" ברוסיה.
+
+ בשנת תרמ"ב (1882) החליט לעלות לא"י ונסע לקונסטנטינופול (תורכיה).
+
+ כשעברה שיירת הביל"ויים הראשונים באותה שנה דרך תורכיה לא"י עלה גם הוא אתם על אותה האניה,
+
+ והגיע ליפו בי"ט תמוז תרמ"ב (1882).
+
+ הצטרף לביל"ויים לעבודה בבית-הספר "מקוה ישראל", ומשם עבר לעבוד במושבה "ראשון-לציון".
+
+ נשא לאשה את<persName> גולדה </persName> לבית <persName>שינברג </persName> (בת אחות של
+
+<persName>משה</persName> (מוריץ)<persName> שיינברג.</persName> ראה את הערך שלו בכרך ראשון, עמוד 421).
+
+ כעבור שנים רכש מאה ושני דונם קרקע ונהיה לאכר במושבה.
+
+ נפטר בראשון לציון, כ"ט חשון תרצ"ו (25.11.35).
+
+ צאצאיו: <persName>יוסף, אריה, אברהם, יואל, ישעיהו,</persName> <persName>צבי, מתתיהו, משה, תמר אשת סולומון פילברט,</persName> <persName>יהודית</persName> אשת <persName>יוסף בירנבום, רבקה, שושנה אשת</persName> <persName>ליאון אלמאליח, רחל אשת בנימין בן-בסט.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4911 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4911</bibl>            <bibl>Volume: #18 ,Page: 5444 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5444</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

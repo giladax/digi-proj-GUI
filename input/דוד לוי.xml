@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3174 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3174</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד לוי</persName>
+
+</head>
+         <div><p> נולד ברוסצוק (בולגריה), ניסן תרנ''ח (4.1898 4).
+
+ לאביו<persName> חיים</persName> ולאמו <persName>לבנה</persName> בת<persName> דוד ציפרט.</persName>
+
+ למד בגימנסיה העברית בפלובדיב-פיליפופול (בולגריה) שבהנהלתו של המורה והמחנך <persName>אשר זליג ארליך</persName> (ראה כרך ב', עמוד 946).
+
+ היה חבר באגודה ספורטיבית עברית "מקרא" ברוסציק.
+
+ בשנת תרע"ג (1913) עלה לארץ.
+
+ חניך ביה"ס החקלאי "מקוה ישראל".
+
+ בפרוץ המלחמה העולמית הראשונה (1914) גורש כנתין זר למצרים. משם חזר לבולגריה. שירת בצבא. נלקח בשבי ביון, משם ברח לתורכיה וחזר לארץ בשנת 1918.
+
+ היה שומר במושב כנרת עד 1921.
+
+ בראשון למאי 1921 בביקורו בתל-אביב השתתף בהגנה בנוה-שלום בפרוץ המאורעות.
+
+ באותה שנה התגייס למשטרה בתל-אביב ושירת עד 1937. מלא כל מיני תפקידים בהגנת הארץ.
+
+ בשנת 1937 נשלח מטעם ההגנה לגבעת עדה ועבר שם קורס מ. מ.
+
+ עבר לרשפון בתור מאמן בכיתת הרוכבים (עד 1939).
+
+ בשנת 1940 יסד יחד עם <persName>מאיר אהרנזון</persName> (ראה ערכו בכרך זה) משרד "שמירה ובטחון" בתל-אביב והעלהו לארגון משמר פרטי על הרכוש בעיר ובסביבה.
+
+ מאות אנשים, ברובם "מזדקנים" מצאו אצלם עבודה והתחנכו על שמירה והגנה.
+
+ בימי המאורעות הביאו תועלת רבה לעיר.
+
+ בניו: <persName>מרדכי, משה יעקב</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3174 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3174</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

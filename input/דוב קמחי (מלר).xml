@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1264 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1264</bibl><bibl>Volume: #3 ,Page: 1265 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1265</bibl>
+<bibl>Volume: #3 ,Page: 1266 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1266</bibl>
+<bibl>Volume: #3 ,Page: 1267 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1267</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוב קמחי (מלר)</persName>
+
+</head>
+         <div><p> בן <persName>מנחם-מנדל</persName> מלר (סוחר ומחבר ספרים) ולאמו <persName>איטה</persName> בת ישראל יוסט.
+
+ נולד בכ"ו כסלו תר"ן (1889) בעיר יאסלו שבגליציה. למד בחדר ואח"כ בבית-המדרש בעירו. אירגן שם את הסתדרות בחורי בית-המדרש לשם חיבתציון והציונות בשם "השחר". הוציא גם עתון עברי בשם הנ"ל בשנת 08- 1907.
+
+ עלה ארצה בכ"ג תמוז תרס"ח והשתקע בירושלים ומאז ועד היום הוא גר בה. למד וגמר את בית המדרש למורים של חברת "עזרה".
+
+ בשנת 1912 נעשה מורה וגס סופר. מאז פירסם את יצירותיו לעשרות ומאמרים למאות בכל העתונות העברית בארץ ובחוץ-לארץ.
+
+ בין הרומנים והסיפורים שלו: "על בלימה" (נתפרסם ב"מקלט"), "מעברות" (תרפ"ב), "אמש" (תרפ"ז), "על שבעה ימים" (תרצ"ד), "ספר הכליונות" (תרצ"ו) וסיפור "ניקסו", שנדפס קודם ב"מולדת". בכתובים נמצא בידו רומאן בשם "בית חפץ".
+
+ נשא לאשה את<persName> ריינה </persName> בת הרב יהושע-ציון הלוי. ברומאנו הראשון "על בלימה" מבליט הוא בהבלטה יתירה את הקרע שבין האנשים המוטלטלים בין העולם, שהיה פעם בבית אבא ואמא ובין המציאות כיום. גישתו בסיפוריו, בדרך כלל, גישה רומאנטיתלירית וספג מספרות המערב והושפע בעיקר מקנוט האמסון. מקובצי סיפוריו אפשר לציין: "אחרית", "סיפורים קטנים", "עשרה סיפורים", כן הוציא "ספר המסות", מסות קטנות על סופרים ועסקנים, וספר מסות בתנ"ך בשם "בין השיטין של התנ"ך".
+
+ ערך את "מולדת" (יחד עם יעקב פיכמן), "שולמית" (שבועון מצויר), "הד החנוך" (שמונה שנים), "ספר היובל של הסתדרות המורים", "דפים" והשבועון הממשלתי של רדיו ירושלים "הגלגל".
+
+ תרגם עשרות כרכים של ספרים, בהם מכתבי תיאודור הרצל, סטיפן צווייג וביירנסון.
+
+ בנו<persName> יגאל קמחי,</persName> גם הוא סופר עברי ומספר.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1264 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1264</bibl><bibl>Volume: #3 ,Page: 1265 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1265</bibl>
+<bibl>Volume: #3 ,Page: 1266 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1266</bibl>
+<bibl>Volume: #3 ,Page: 1267 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1267</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

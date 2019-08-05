@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3277 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3277</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלתר משה גונצר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וילקומיר</placeName> (ליטא) בשנת תרל"ט (8.2,1879). לאביו <persName>פרץ </persName> (סופר סת"ם, תלמיד חכם וירא שמים, בעל צדקה ידוע. היגר עם הוריו לברלין בתחילת המאה)
+
+ קבל חינוך מסורתי ושמע פילוסופיה באוניברסיטת ברן.
+
+ מיסד ופעיל של חברת "שפה ברורה" בברלין, ללימוד והפצת השפה העברית בברלין, שהיה מזכירה זמן רב (הארכיון של החברה נשרף בנובמבר 938נ ע''י הנאצים).
+
+ נשא לאשה, את <persName>רחל</persName> בת ר' <persName>לייזר מסברג</persName>
+
+ היה העורך של החלק העברי של ה"אידישע פרעסע" בברלין. ערך את "העברי", מיסודי של הרב<persName> מאיר בר</persName> <persName>אילן</persName> (ברלין). גם אחרי שהעברי עבר לאמריקה היה כתבו הקבוע מגרמניה. השתתף ב"אוסט אונד ווסט" מיסדו של <persName>ליאו וינס</persName> , השתתף בקביעות ב"העולם", היה חבר המערכת של "הקשת" בברלין בהשתתפות <persName>יוסף לין, ר' בנימין ופרופיסור ד"ר פישל שניאורסון.</persName> <persName>ראובן בריינין </persName> הוקיר מאד את הפיליטוניסטן והפובליציסטן גונצר (שחתם על יצירותיו בשמו ובשמות מדומים כגון: "ד"ר<persName> אשכנזי"</persName> וכו').
+
+ בית המסחר לספרים העברי שלו בברלין היה בית ועד לחכמים, וכל מהגר, סטודנט או סופר צעיר, שהגיע ברלינה, עמד <persName>גונצר</persName> לימינו ועזר לו בחומר וברוח. ממיסדי הפועל הצעיר, ביחד עם<persName> ישראל רייכרט</persName> וד"ר <persName>חיים ארלוזורוב.</persName>
+
+ היה הנפש החיה של ארגון הציונים ממזרח אירופה בגרמניה, השתתף בקונגרסים ציוניים.
+
+ משאת נפשו היתה לעלות לארץ, ואמנם, אחרי שעבר בברלין את כל שבעת מדורי הגיהינום (הנאצים שרפו -את בית-מסחרו שהיה בו אוצר ספרים עברים עתיקים ויקרי ערך) הגיע בפברואר 1939 לתל-אביב, ויסד בית מסחר ספרים "היכל הספרים". התאקלם רוחנית מהר והתחיל לכתוב ולהשתתף ב"הבקר", "דבר", הארץ", "הצופה" ו"מאזניים" שפורסמו ברצון את יצירותיו.
+
+ ניסה בהומור העדין המיוחד לו להתגבר על חבלי
+
+ הקליטה הקשים, אך דאגות פרנסה ומשפחה דיכאו את נפשו העדינה ובאב ת"ש חלה ולא קם ממחלתו עוד.
+
+ נפטר בתל-אביב, כ"ז באב ת"ש (31.8.1940).
+
+ צאצאיו:<persName> ישראל, רות</persName> (נספו בידי הנאצים), <persName>יהודה</persName> <persName>ליאו</persName> (נפטר בארץ),<persName> יוסף</persName> (מדריך בבית הספר העירוני למלאכה בת"א).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3277 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3277</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

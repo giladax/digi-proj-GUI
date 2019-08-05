@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2790 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2790</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמריהו אשכנזי</persName>
+
+</head>
+         <div><p> נולד בקמיניץ-ליטובסק, בשנת תרל''א (1871).
+
+ לאביו<persName> דוד מאיר</persName> ולאמו<persName> גרוניה</persName> בת <persName>שבח צבי.</persName>
+
+ קבל חנוך מסורתי.
+
+ עלה לארץ בשנת תר"ן (1890) והתישב בירושלים.
+
+ בשנת תרנ"ד (1894) נשא לאשה את<persName> רחל</persName> בת ר' <persName>צבי בוטנסקי </persName> (נפטרה בירושלים, י"ג אדר תרנ"ט) ובשנת תר"ס (1900) נשא לאשה בזיווג שני את <persName>אסנה</persName> בת ר'<persName> צבי ליברמן.</persName>
+
+ באותו פרק זמן היו רוב הבנאים, הסתתים, הנגרים וכו' מן העדה הערבית-הנוצרית (מבית-לחם ומבית אללה). הרב <persName>יעקב מן </persName> (ראה כרך ב', עמוד 1029) שעסק בקבלנות בנין והכין בעלי מקצוע מבין היהודים (היה הראשון שהכניס את עולי תימן לעבודה בבנין ובסיתות אבנים), קירב את <persName>שמריהו אשכנזי </persName> הכניס אותו לעבודות הבנין, שלמד במשך זמן קצר ברוב שקידה, עד שהיה לאחד מבעלי המלאכה המומחים בירושלים.
+
+ בתקופת עבודתו שארכה כחמשים שנה הדריך ואימן בעבודה דור שלם של מומחים מכל העדות. השתתף בהקמת הבנינים: בימין משה, שכונת הבוכרים.בית החולים וולאך, ישיבת "פורת יוסף", זכרון משה, אחוה, מושב זקנים ורוב השכונות מחוץ לחומה בירושלים.
+
+ היה גבאי בית הכנסת "בית יהודה" שבשכונת "ביתיעקב'', הקים תלמוד תורה ע"י בית הכנסת בשנת תרס"ה (1905) יסד גמילות חסד ע"י בית הכנסת. היה ממיסדי מרכז בעלי מלאכה (1919).
+
+ היה בורר יחידי בין נותני עבודה לבין העובדים, ופסק דינו נתקבל ברצון ע"י שני הצדדים.
+
+ נפטר בירושלים, ד' תשרי תש"י (27.9.1949).
+
+ צאצאיו:<persName> משה, צבי, למל, גרוניה </persName> אשת <persName>דוד גלובסקי,</persName> <persName>חיים, יהושע, יעקב, דוד, גאולה</persName> אשת <persName>שלום אייזנברג,</persName> <persName>יוסף.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2790 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2790</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

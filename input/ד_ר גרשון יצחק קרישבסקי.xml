@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 884 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/884</bibl><bibl>Volume: #2 ,Page: 885 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/885</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר גרשון יצחק קרישבסקי</persName>
+
+</head>
+         <div><p> נולד ביקטרינוסלב, אוקראינה, בח' סיון תרכ"ח (1868) לאביו<persName> חיים-יעקב</persName> , חוכר משרפות ליי"ש וחסיד אדוק. בהיותו בן שנה עברו הוריו לפלך פולטבה לרגל עסקיהם ורק כעבור שנים אחדות התישבו ישיבתקבע בפולטבה עצמה. קיבל חנוך מסורתי אצל טובי המלמדים בעיר והצטיין בכשרונותיו. בגיל בר-מצוה כבר היה בקיא בתנ"ך ובתלמוד וידע כל סדר נזיקין על פה. נתפס להשכלה והחל ללמוד בסתר את הלשון הרוסית וספרותה והתכונן לבחינת כניסה לגימנסיה. כשנודע הדבר לאביו התנגד לתכניות בנו, אבל השלים אתו לאחר שהבטיח שלא יחלל את השבת. נבחן
+
+
+ בלובני לשם קבלת תעודת-בגרות, אבל בינתיים יצא חוק שהגביל את קבלת היהודים לאוניברסיטה עד 5 אחוזים ולכן חזר לפולטבה ונכנס לבית-הספר לחובשים.
+
+ בתרמ"ח עלה אביו לארץ וכעבור שנה עלה גם הוא ואחיו משה (שהיה אח"כ רופא במצרים). תחילה שימש כחובש ורוקח בפתח-תקוה וכעבור זמן עבר לעקרון. כיון ששאף להשתלם בתורת הרפואה, נסע בתרנ"א (1891) לגרמניה ואחר שנבחן באוניברסיטת שטרסבורג נתקבל כתלמיד מן המנין במחלקת הרפואה. בתרנ"ד קיבל תעודת רופא, נסע לקושטא ושם עמד שוב בבחינה וקיבל רשיון לעסוק ברפואה בכל ארצות תורכיה. נתמנה לרופא בירושלים מטעם החברה "למען ציון" ושימש במשרתו זו כשתי שנים. נתחבב על הצבור העברי בטוב לבו וביחסו האבהי לכל הזקוק למרפא, ריפא חולים עניים בחנם ולעתים אף היה ממציא תרופות לנצרכים.
+
+ בתרס"ב חלה אחיו, הד"ר משה קרישבסקי במצרים, והוא יצא לקהיר לטפל בו. אחר מות האח נשאר במצרים ועסק שם ברפואה כשמונה שנים. גם שם קנה לו שם טוב ונתחבב על כל יודעיו.
+
+ בתר"ע חזר לארץ והשתקע בירושלים כרופא פרטי. כעבור שלוש שנים עבר לפתח-תקוה. משפרצה המלחמה העולמית ב-1914 גויס ונשלח כרופא לביה"ח בירושלים. בתקופה זו סבל מאד למראה חוסר-הנקיון ואי-הסדרים במוסד שעבד בו, אך ידו קצרה מהושיע.
+
+ חלה בטיפוס-בהרות שפשט אז בצבא התורכי ונפטר בערב כ"ט אדר ב' תרע"ו בירושלים.
+
+ צאצאיו: מאשתו הראשונה (בתיה לבית הירשפלד) -<persName> רחל</persName> אשת המורה יצחק קרישבסקי (בן מרדכי אזרחי-קרישבסקי),<persName> גרו </persName> (גרונימוס) גרא (שימש כקצין-משטרה ביפו, טבריה וצפת והגיע לדרגת סגןמושל בירושלים), <persName>יהודית </persName> אשת יחיאל ויצמן (אחי פרופ. חיים ויצמן), <persName>מרדכי </persName> (מזכיר ביהח"ר למלט "נשר") <persName>אברהם </persName> המכונה אלברט (שירת בגדוד העברי במלחמת העולם הראשונה וכעת תושב כפר אביחיל); מאשתו השניה (חנה לבית גוסקוב) - <persName>פנינה</persName> (נינה) אשת
+
+ המורה פרח,<persName> יעקב</persName> (התנדב לצבא במלחמה האחרונה. ושירת בדרגת סרג'נט, כעת פקיד באפ"ק ירושלים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 884 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/884</bibl><bibl>Volume: #2 ,Page: 885 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/885</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3875 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3875</bibl><bibl>Volume: #11 ,Page: 3876 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3876</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>לאה אברמוביץ</persName>
+
+</head>
+         <div><p> נולדה בשנת תרל"ב (1872).
+
+ לאביה <persName>נתן אברהם ברניצקי </persName> (איכר - נפח, שבעמל כפיי הקשים הקים את ביתו ומשקו
+
+ בשנת תרמ"א (1881) והיא בת תשע, עלתה עם משפחתה לארץ.
+
+ חניכת בית הספר הראשון בראשון לציון.
+
+ היתה פעילה בארגוני הנוער במושבה.
+
+ נישאה <persName>למרדכי אברמוביץ </persName> (ראה כרך ב', עמוד 666).
+
+ היתה פעילה בהסתדרות הנשים המקומית.
+
+ נשיאת כבוד של ויצ''ו בראשון לציון.
+
+ בשנות השלטון התורכי היה בעלה מוכתר המושבה, ועליה היה לכבד ולקבל את פקידי הממשלה, הצבור מהמושבה והערבים מהכפרים. ידעה לשאת את העבודה הקשה במסירות והיתה מכובדת בפי כל.
+
+ נפטרה בראשון לציון, י''ד חשון תש''ז (1946. 8.11).
+
+ בניה : <persName>שלמה, משה, צבי, נחמיה, נתן.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3875 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3875</bibl><bibl>Volume: #11 ,Page: 3876 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3876</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

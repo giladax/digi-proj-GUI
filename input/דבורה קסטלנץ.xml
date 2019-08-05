@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2178 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2178</bibl><bibl>Volume: #5 ,Page: 2179 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2179</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דבורה קסטלנץ</persName>
+
+</head>
+         <div><p> נולדה בסטולין (רוסיה הלבנה), כ"ט אלול תרס"ה (1905), לאביה <persName>פנחס </persName> (תלמיד-חכם וחסיד, סוחר יערות) ולאמה <persName>דוברושה</persName> בת<persName> אברהם צבי גרייבר</persName> ; (במשפחתה היו רבנים ומוסיקאים נודעים. בת אחותה היא הפסנתר
+
+
+ נית פנינה זלצמן). גמרה בהצטיינות גימנסיה רוסית ממשלתית בחארקוב ולמדה היסטוריה ופילולוגיה בקורסים גבוהים לנשים בקיוב. למדה עברית וגמרה קורס לגננות בקיוב ועבדה במשך שנה במוסד לילדי הפקר. למדה בסטודיה דרמטית "אמנות"<persName> ומשה הלוי </persName> בחן אותה והזמינה לבוא ארצה ולהשתתף בתיאטרון הפועלים "אהל" שהוא יזם ליסד.
+
+ עלתה ארצה באוקטובר 1925 והשתתפה כחברה בס
+
+ טודיה "אהל". מ-1926 ועד 1931 עבדה כגננת בגן-ילדים של עירית תל-אביב ובמגרשי-המשחק לילדים בחדשי הקיץ, חברה בועדה הפנימית לבחירת הרפרטואר ובמרכז "אהל" מטעם הועד הפועל של ההסתדרות.
+
+ נישאה <persName>לזאב ברבן</persName> , חבר בלהקת "אהל" (ראה עליו ערך מיוחד בכרך זה).
+
+ השתתפה עד עתה ב-50 מחזות ב"אהל". מתפקידיה המרכזיים : ב"נשפי פרץ", <persName>גב' פיצ'וס</persName> ב"אופרה בגרוש", <persName>פילאר</persName> ב"למי צלצלו הפעמונים" להמינגווי, גב'<persName> פייג</persName> , ב"נשי וינדזור העליזות" לשכספיר, הדודה <persName>חנה</persName> ב"בסמטאות ירושלים" ליהושע בר-יוסף, <persName>שרה</persName> ב"שומרי החומות" להנ"ל, <persName>בלה הכושית </persName> ב"שרשים עמוקים", <persName>אגנס</persName> ב"מי חכם וידע".
+
+ מופיעה בנשפי קריאה בערים ובהתישבות העובדת וגם ברדיו. הופיעה בנשפי מערכונים עם<persName> זאב ברבן</persName> בפני חיילינו במלחמת העולם ב" ובמלחמת המולדת.
+
+ השתתפה בסיבוב "אהל" ב-1934 בארצות אירופה המזרחית והמערבית וב-1950 בסיבוב "אהל" וגם בנשפיקריאה בארצות מערב-אירופה.
+
+ בתה :<persName> יעל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2178 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2178</bibl><bibl>Volume: #5 ,Page: 2179 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2179</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

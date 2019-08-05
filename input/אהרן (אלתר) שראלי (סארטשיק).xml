@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3973 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3973</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן (אלתר) שראלי (סארטשיק)</persName>
+
+</head>
+         <div><p> נולד ז' אייר תרמ''ח (1888) במאלטש שבליטא. לאביו<persName> אליהו סאראטשיק</persName> (סוחר, בר-אוריין, מורשה הועד האודיסאי של חובבי ציון לאיסוף הכספים) ולאמו <persName>איטה</persName> בת <persName>שמשון באס</persName> .
+
+ למד בישיבות מאלטש, וולוז'ין ומיר והשתלם באכסטרנית בלימודים כלליים ובהנהלת חשבונות.
+
+ ב-1917 נשא לאשה את <persName>שפרה בת חייקל מילנר.</persName>
+
+ השתקע בדרוהיצ'ין שבפולסיה, בחלקה שסופח לפולין, עסק במסחר-מזון בסיטונות ובבית-חרושת לייצור משקאות. המשיך בפעילות ציבורית וציונית, שהתחיל בה בנעוריו כדוגמת אביו. פעל באירגון הפעולות למען הקרנות הלאומיות בעירו ובסביבה, אירגון הנוער הציוני, קבוצת הכשרה חלוצית "גרינבוימיה" ועזרה סידורית לעליה, היה יו"ר "תרבות" ומנהל בית-ספרה, נציג הציבור היהודי בפני השלטונות המקומיים בענינים לאומיים וציבוריים, חבר הנהלת הועד לעניני היתומים "צנטיוס" בפינסק ובווארשה.
+
+ ב-1933 עלה לארץ ופנה לעבוד בפנקסנות וזה שנים רבות הנו מנהל חשבונות בבנק קופת עם בע"מ ברמתגן. פעל באירגון "העובד הציוני" בארץ ונבחר לועד המרכזי. כיום הנו סגן יו"ר המועצה הדתית ברמת-גן, אח ונשיא לשעבר בלשכת בני ברית "רמת-גן", חבר בברית ראשונים ובמפלגה הליברלית, פעיל בסעד ובעבודה סוציאלית.
+
+ צאצאיו: <persName>שושנה</persName> אשת<persName> עזריאל בנצינברג, משה, אלה</persName> אשת<persName> ירחמיאל הלר, מירה</persName> אשת <persName>יצחק אבישי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3973 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3973</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

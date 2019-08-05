@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 2005 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2005</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר חנינא ליפא שפירא</persName>
+
+</head>
+         <div><p> נולד ב<placeName>דרז'נה</placeName> (אוקראינה), ז' אדר תרנ"ה (1895), לאביו ר'<persName> מרדכי </persName> (דור ששי לר' <persName>פנחס מקוריץ,</persName> מאבות החסידות, דור רביעי לר' <persName>שמואל אבא שפירא</persName> , הרב המדפיס, בשותפות עם אחיו, מסלאבוטה, שנתענה על קידוש השם) ולאמו<persName> שיינדל</persName> בת <persName>שלום ברנזון</persName> . למד עד גיל 13 בחדר מתוקן, התכונן באודיסה לבחינה אכסטרנית וב-1917 גמר בהצטיינות את הגימנסיה בייקאטרינוסלאב. למד באוניברסיטת קיוב וב-1923 הוסמך לד"ר לרפואה. (אח"כ השתלם בוינה ב-1931). היה חבר ועד "צעירי ציון'' בקיוב וב-1922 ישב זמןמה בכלא בגלל פעולה ציונית. עסק בהוראה וברפואה. בספטמבר 1924 עלה לארץ מרוסיה. עבד עשר שנים מטעם "הדסה" במושבות הגליל התחתון והעליון
+
+ (יבנאל ובנותיה, מתולה ואזור החולה) כרופא כללי ולהיגיינה צבורית ונלחם במלריה וביתר מחלות הארץ. כרופא בבתי-הספר בחיפה ביער מהם את מחלת הגזזת. אח"כ השתקע בירושלים ופעיל שם כרופא פרטי.
+
+ ב1927 נשא לאשה את <persName>רבקה </persName> בת <persName>אלכסנדר ברוכוב</persName> (נכדתו של הרב <persName>אבא יעקב ברוכוב,</persName> אביו של הסופר <persName>א. מ. ברכיהו)</persName> .
+
+ פעיל בחיי הצבור כחבר ועד הציונים הכלליים בירושלים, חבר מועצת הסתדרות הרופאים בירושלים ויו"ר ועד ההורים של ביה"ס הדתי-הכללי "תחכמוני". השתתף כציר מארץ-ישראל בקונגרס לרפואה טרופית (קהיר, 1928). עבד כשנה בשרות רפואי מטעם הסוכנות במחנות שארית הפליטה בגרמניה.
+
+ כתב מאמרים רבים על נושאים שונים ב"דאר היום'', "הבוקר", "הד ירושלים" וכו', מאמרים רפואיים ב"הרפואה" ובכתבי-עת מקצועיים בחו"ל, ואת הספרים "מדריך בהזנה לחולים כרוניים" (1931), "בקלחת הרוסית" (זכרונות מרוסיה, יצא ב-1940).
+
+ בניו:<persName> מרדכי, יעקב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 2005 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2005</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

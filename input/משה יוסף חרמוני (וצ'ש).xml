@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4931 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4931</bibl><bibl>Volume: #16 ,Page: 4932 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4932</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה יוסף חרמוני (וצ'ש)</persName>
+
+</head>
+         <div><p> נולד בדרוהיצין (פולין) בשנת תרנ"ט (1899).
+
+ לאביו ר' <persName>חיים מרדכי הכהן וצ'ס</persName> (בעל משק חקלאי לתוצרת חלב) ולאמ<persName>ו פנינה </persName> (פרל).
+
+ קיבל חינוך מסורתי בחדר ובישיבת וולוז'ין המפורסמת. משם עבר לוורשה ושימש שם כמורה לעברית ותנ"ך בביה"ס ע''ש הרב קלישר.
+
+ היה פעיל ומדריך באגודת "צעירי-ציון".
+
+ בשנת 1920 נשא לאשה את<persName> לאה</persName> בת <persName>יוסף</persName> <persName>מאיר הכהן </persName> (סוחרים).
+
+ בשנת 1924 עלה לארץ עם משפחתו.
+
+ התישב בנוה צדק ע"י ת''א.
+
+ עבד כפועל בנין ובסלילת כבישים בישובים החדשים שנוסדו אז.
+
+
+ המשיך אח"כ בהשתלמותו בבית המדרש למורים של המזרחי בירושלים, והוסמך להוראה בשנת תרצ"א (1931).
+
+ נתמנד. כמורה בביה"ס הדתי "תחכמוני" בחדרה. והיה מראשוני מוריו. שם עבד כשנתים ועבר לביה"ס הדתי "יבנה" בכפר סבא, שם כיהן כ-4 שנים, ומשם עבר לשמש כמורה בבי"ס דתי "מוריה" בת"א, ואח"כ עבר לשמש כמורה וכסגן מנהל בביה"ס הממלכתי-דתי בבני-ברק.
+
+ לבסוף נתמנה כמנהל ביה"ס ע"ש "יוסף קארו" ביפו שהיה מבוניו ומיסדיו. שם עבד עד יום פטיותו. כ"ח אב תשכ"ה (26.8.65).
+
+ היה אח פעיל בלשכת הבונים החדשים, "הכוכב" בת"א, והיה מבקר בקביעות ברוב הלשכות ומרצה בהם על נושאים שונים, בעיקר - דברי תורה.
+
+ חבר ב"הפועל המזרחי".
+
+ מורה ומדריך בחוגים שונים ומפיץ תורת ישראל ברבים.
+
+ היה תלמיד חכם מובהק, נואם בעל כשרון, חבר חביב למופת, אדם דגול וצנוע בכל הליכותיו.
+
+ בניו: <persName>חיים, עמוס.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4931 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4931</bibl><bibl>Volume: #16 ,Page: 4932 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4932</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

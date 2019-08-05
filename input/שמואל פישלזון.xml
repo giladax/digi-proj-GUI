@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2326 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2326</bibl><bibl>Volume: #5 ,Page: 2327 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2327</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל פישלזון</persName>
+
+</head>
+         <div><p> נולד בשנת תרנ"ד (5.12.1894) בראשון-לציון. לאביו<persName> יצחק</persName> (ראה עמוד 1050, כרך ב') ולאמו <persName>שרה</persName> בת <persName>אברהם זלמן איכילוב</persName> (מפתח-תקוה, ראה עמוד 780, כרך ב').
+
+ קיבל חינוך בבי"ס עממי בראשון לציון. תיכוני ומקצועי בהנובר (גרמניה) בבי"ס לחקלאות מיסודו של הברון רוטשילד, אקדמאי - בבי"ס גבוה לחקלאות בקליפורניה עי" לוס-אנג'לוס (1914-1919).
+
+ ב-15.8.1921 נתקבל בשירות הממשלה בא"י כקצין חקלאי - במחלקת היעור והחקלאות בהדרכה מעשית בכפרים ובמושבות במחוזות הצפון והדרום - בכל ענפי החקלאות לסוגיה, בגידול ירקות, בזבול, בטיפול בעצי הדר והפרדסנות.
+
+ בשנת 1928 התמנה בתור Senior officer מפקח בבקורת פרי הממשלה בכל תחנות הרכבת, מזכרון יעקב (צפונה) עד יבנה (בדרום) - באיזור הפרדסים היהודי.
+
+ כ-9 מיליון ארגזים תפוחי זהב לשנה עברו תחת הבקורת שלו (1938-39).
+
+ בשנת 1921 נשא לאשה את<persName> הדסה</persName> בת <persName>יחזקאל אריה</persName> <persName>חודורובסקי</persName> (ממיסדי אגודת קובנה, שהשתתפה ברכישת אדמת המושבה חדרה. אחות ישראל מאיר חודורובסקי, מעסקני יפו. ראה עמוד 480, כרך א'). נפטרה בתל-אביב, י"ט שבט תש"ט (18.2.49).
+
+ חבר פעיל בבני-ברית.
+
+ בשנת 1939 נשלח ע"י הממשלה בצ'כוסלובקיה, צרפת ואנגליה, וייצג את הממשלה בכינוסים שונים.
+
+ בנו:<persName> יחזקאל</persName> (בוגר הרצליה, מוסמך הקוליג' האמריקאי בבירות בכלכלה והשתלם בסורבונה - צרפת).
+
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, י''ג טבת תשי"ז (17.12.56) (ראה כרך ה', עמוד 2326)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2326 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2326</bibl><bibl>Volume: #5 ,Page: 2327 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2327</bibl>
+            <bibl>Volume: #8 ,Page: 3190 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3190</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

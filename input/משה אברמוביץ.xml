@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3544 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3544</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה אברמוביץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וילנה</placeName> (ליטר,), כ"ז חשון תרמ"ה (סוף 1884).
+
+ לאביו <persName>שלמה אברמוביץ מוילנה.</persName>
+
+ קבל חנוך מסורתי וכללי.
+
+ ממיסדי אגודת "התחיה" ב<placeName>וילנה</placeName>.
+
+ בשנת 1905 עלה לארץ.
+
+ נשא לאשה את<persName> הינדה</persName> בת ר' <persName>ליב צייטלין.</persName>
+
+ החל לעבוד באותה שנד. במםבנה של ביהח''ר "עתיד" בבן-שמן (שנוסד ע"י המהנדס <persName>נחום וילבוש</persName> (וילבושביץ), <persName>אליהו ברלין ושמואל פבזנר)</persName> . עבר עם המפעל את הלבטים שלפני מלחמת העולם הראשונה.
+
+ בשנות משבר יצא לכיבוש עבודה בחקלאות, עבד בסג'ירה, כפר תבור, בזכרון-יעקב ובעטלית. אח"כ חזר לעבוד בביהח''ר הנ"ל שעבר לחיפה בשם "עתיד-שמן". היה גם מפעילי בנין הטכניון בחיפה. מראשוני המתישבים בהדר-הכרמל בחיפה. נפטר בחיפה, כ''ג אב תש"ו (20.8.1946). בנותיו:<persName> שולמית</persName> אשת<persName> דב</persName> (ארנסט)<persName> גלסנר, נעמי</persName> אשת<persName> רמי ברוולד, יהודית</persName> אשת<persName> משה גלבע</persName> (שיסל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3544 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3544</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

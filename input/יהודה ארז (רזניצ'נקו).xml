@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1706 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1706</bibl><bibl>Volume: #4 ,Page: 1707 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1707</bibl>
+<bibl>Volume: #4 ,Page: 1708 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1708</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה ארז (רזניצ'נקו)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>נובומירגורוד</placeName> (רוסיה), א' אייר תר"ס (30.4.1900), לאביו<persName> ירוחם פישל</persName> (ממשפחת רבנים וכלי-קודש) ולאמו<persName> רבקה</persName> בת<persName> משה צבי פוסק</persName> . למד בחדרים ובישיבות בקורסון, קרמנצ'וג, סלובודקה ולומז'ה. החל להשתלם בהשכלה כללית ולהשתתף בתנועת העבודה הציונית-הסוציאליסטית והיה מזכיר הועד המחוזי של צ. ס. ושל החלוץ בייליסאבטגראד ובניקולאייב בתקופת התסיסה והמהפכות והתהפוכות באוקראינה. כדרך חלוצים אחרים מרוסיה עבר את הגבול. לפולין בהרפתקאות ובסכנות, ובשנות תרפ"בפ"ג היה מזכיר מרכז החלוץ בפולין.
+
+ באייר תרפ"ג עלה ארצה. עבד ביבוש הבצות בבלפוריה, נהלל, תל יוסף. מתרפ"ד ואילך היה חבר משק תל-יוסף ובתרצ"ח עבר לקיבוץ גבעת חיים שבעמק חפר.
+
+ ב-1932 נשא לאשה את <persName>אניה</persName> בת<persName> יצחק אייזיק</persName> <persName>איסקוביץ.</persName>
+
+ חוץ מעבודתו במשק כאופה, רועה צאן, רפתן וכו' עסק ועוסק גם בעבודה צבורית וספרותית, בחבר מזכירות הקיבוץ המאוחד, חבר המועצה של
+
+ מפלגת פועלי א"י ושל הקיבוץ המאוחד, ציר לקונגרסים הציוניים ה-16, 20 ו-21, שליח ההסתדרות לחו"ל בשנות 1928/29 ו-1933/34 ושליח האיחוד העולמי בשנות 1937/38; פרסם מאמרים ב"קונטרס", "דבר", "הפועל הצעיר", "במעלה", "העתיד", "מולד", "מבפנים", "צרור מכתבים" ובעתונות חו"ל ; ליקט והכין לדפוס 5 חלקי הספר "במערכה" של ד. בן-גוריון; פרסם כמה חוברות, ביניהן "העליה השלישית" שתורגמה לכמה שפות, החוברות "די
+
+
+ הכשרה", "אין וועג", "וואס טון ?" באידית, ועוד; עורך הוצאת הספרים של מפלגת פועלי א"י, וחבר מערכת הספרים של הקיבוץ המאוחד - וכן עורך את כתבי <persName>אליהו גולומב </persName> "חביון עוז" (ההגנה והבטחון), עורך "צרור מכתבים" וחוברות וקבצים שונים.
+
+ צאצאיו;<persName> גד, רבקה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1706 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1706</bibl><bibl>Volume: #4 ,Page: 1707 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1707</bibl>
+<bibl>Volume: #4 ,Page: 1708 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1708</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

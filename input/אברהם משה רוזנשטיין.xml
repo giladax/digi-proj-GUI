@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3876 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3876</bibl><bibl>Volume: #11 ,Page: 3877 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3877</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם משה רוזנשטיין</persName>
+
+</head>
+         <div><p> קיבל חינוך מסורתי בחדר ובישיבות
+
+ כשוחר התרבות העברית ותחיתו החמרית והרוחנית של עמו, ציוני מובהק וער לשאלות צבור, ראה כיעוד קדוש את עיסוקו בחנותו במכירת ספרים ותוי-נגינה ובהשאלת ספרים, למען ירבו טיפוח הדעת והיופי בישראל.
+
+ בשנת 1924 עלה לארץ ופתח בתל-אביב חנות למכירת ספרים והשאלתם ויסד את הוצאת הספרים "אחיעבר" והתמסר במיוחד להוצאתם ולהפצתם של ספרים רבי-ערך בשטח היהדות (14 הכרכים של "תולדות ישראל" לר'<persName> זאב יעבץ,</persName> "ערוך השלם"<persName> לאלכסנדר</persName> <persName>קוהוט,</persName> "אוצר הגאונים" לר'<persName> שמחה אסף,</persName> הקונקורדנציות של הרב<persName> חיים יהושע קוסובסקי </persName> למשנה, לתוספתא ולתרגום אונקלוס, ועוד). ביחוד נתן את דעתו לפתוח לדור הצעיר פתח להבנת התלמוד ולשם כך ניגש להוציא את התלמוד בניקוד ובפיסוק ובשילוב פירוש מבהיר, שחיבר בעצמו על יסוד פירוש רש"י ופרושים אחרים, בתוך הטכסט, אבל באותיות אחרות, לשם
+
+
+ היכר בין גוף התלמוד ובין הביאורים. במפעלו זה, בשם "תלמוד לעם", הספיק לחבר ולהוציא את הביאור למסכתות. סייע לו המלומד ר' <persName>אריה קרלין.</persName>
+
+ מפעם לפעם פרסם בעתונות מאמרים בשאלות מוסר וחברה שהעיקו על לבו, מתוך מגמה להעלות את הרמה המוסרית של החיים בישראל.
+
+ נפטר בתל-אביב, ב' אייר תשט"ו (24.4.1955).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3876 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3876</bibl><bibl>Volume: #11 ,Page: 3877 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3877</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

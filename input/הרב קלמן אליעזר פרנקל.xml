@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1788 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1788</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב קלמן אליעזר פרנקל</persName>
+
+</head>
+         <div><p> נולד בשדליץ, פולין, ט"ו אלול תרנ"ה (1895), לאביו הרב <persName>אברהם אבא</persName> (מצאצאי ר' <persName>אבלע חריף</persName> מקאליש, נכדו של בעל "מאור ושמש", "מגן אברהם"
+
+ והקדוש ר' <persName>יחיאל מיכל הי"ד</persName> מנמירוב ולפי מסורת המשפחה - מזרע בית דוד) ולאמו <persName>נחמה</persName> בת ר' <persName>ישראל סיני זיידנצייג.</persName>
+
+ למד בחדרים ובישיבות והוסמך לרבנות ובשנת תרע"ח נשא לאשה את <persName>ברכה אסתר</persName> בת ר' <persName>יקותיאל</persName> <persName>ליכטנשטיין.</persName>
+
+ התמסר לעסקנות ב"מזרחי" והיה חבר הועד הפועל הארצי שלו בפולין, ממיסדי תנועת צעירי המזרחי בפולין ומנהל מרכזה מתר"פ ועד תרפ"ד וסגן יו"ר ועד הקהלה בראדזין.
+
+ בחורף תרפ"ד עלה ארצה עם משפחתו וניהל את מחלקת העליה והעבודה של המזרחי במרכזו העולמי בירושלים. אח"כ עבר ביו הראשונים ל"הפועל המזרחי" וניהל בו את מרכז הקואופרציה וכיום את המרכז שלו לקופות גמילות-חסדים, וכן, הנו חבר הנהלת המועצה הדתית לקהלת ת"א ויפו. השתתף כציר בקונגרסים הציוניים י"ג, י"ד, ט"ו, ט"ז וי"ז ובשנות תר"ץ-צ"ב היה חבר ועדת העליה של הסוכנות היהודית.
+
+ תשובות בהלכה מפרי עטו משנות תרע"ד-ע"ו נדפסו בספר "שם עולם" של הרב <persName>סטול </persName> מבוסק, וכן פרסם דברי תורה במאספים "שערי תורה", "אהל יצחק", "תל תלפיות" (בהונגריה), "המאסף" (ירושלים), ובזמן האחרון בירחון "הפוסק" בת"א: מאמרים פובליציסטיים ב"דאר היום", "התור''. "היסודי/ "הצופה", "נתיבה", אמרות חסידיות בסדרת "פסוק לי פסוקיך" ב"הבוקר" הוציא לאור חוברת "המזרחי מהותו וחוקתו" (תרפ"ו), "אל הקונגרס" (תרפ"ז), הספר "שמועות ראיה" על חסידות (תרצ"ט). מכין לדפוס ספר אמרות חסידיות לפי פרשיות השבוע.
+
+ צאצאיו:<persName> מנחם</persName> (תלמיד ישיבת מרכז הרב, חייל בצבא ישראל), <persName>נחמה</persName> אשת<persName> משה דוד ישקינר, דינה</persName> אשת <persName>יהושע משה ונגוש.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1788 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1788</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

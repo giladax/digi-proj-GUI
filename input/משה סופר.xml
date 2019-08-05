@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3830 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3830</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה סופר</persName>
+
+</head>
+         <div><p> לאביו <persName>מנשה.</persName>
+
+ נולד ב<placeName>בגדאד</placeName> בשנת תרס"ד (1904).
+
+ בהיותו בן שנתיים עלה יחד עם הוריו לארץ ישראל ונשתקעו בירושלים.
+
+ נתחנך בביה"ס "דורש ציון" ובביה"ס העירוני לבנים ואח"כ בבית המדרש למורים העברי. בהשלימו את חוק לימודיו נסע לבגדאד ושימש בהוראה בביה"ס של הקהילה שם במשך חמש שנים (תרפ"ד - תרפ"ט).
+
+ מבגדאד עבר לבירות וניהל שם את הת''ת של הקהילה היהודית עד סוף שנת תרצ''ד (1934).
+
+ כאשר עבר הת''ת לרשות חכי''ח עזב את תפקידו זה ועבר להורות בא"י.
+
+ בשנת תרצ"ה (1935) הורה בביה"ס בגבעת-עדה. בשנים תרצ"ו - ת"ש ניהל את הת"ת החרדי "יסוד הדת" בחיפה. בשנת תש"א (1941) ניהל את בית הספר העממי והתיכוני בצפת.
+
+ בתש"ב עבר להורות בירושלים בבתי ספר שונים בזרם ה''מזרחי''.
+
+ ידוע כעסקן ציבורי ובכל מקום הימצאו השתתף במפעלים חינוכיים ותרבותיים. דרשן מובהק.
+
+ הרצה הרצאות רבות במסיבות עונג-שבת, ברדיו וב"בית העם" בירושלים. בפרי עטו השתתף בעתונים; דאר היום, העולם, התור, המכבי, הד החינוך, הדי המזרח, בדרך, הבוקר, הצופה, לוח המורה, ועוד.
+
+ בשנת תש"ה (1945) נבחר לחבר ועד עדת הבבלים בירושלים.
+
+ בשנת תש"ז נבחר לחבר הועדה לחינוך ולתרבות שעל יד ועד עדת הספרדים בירושלים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3830 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3830</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

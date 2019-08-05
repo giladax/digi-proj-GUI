@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1102 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1102</bibl><bibl>Volume: #3 ,Page: 1103 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1103</bibl>
+<bibl>Volume: #3 ,Page: 1104 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1104</bibl>
+<bibl>Volume: #3 ,Page: 1105 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1105</bibl>
+<bibl>Volume: #3 ,Page: 1106 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1106</bibl>
+<bibl>Volume: #3 ,Page: 1107 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1107</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה יהודה ליב מן (פרידלנד)</persName>
+
+</head>
+         <div><p> נולד ברז'יצה, פלך ויטבסק (רוסיה הלבנה), בשנת תקפ"ה (1825), בן הבכור לאביו הרב <persName>יונה</persName> (דיין בקהלת רז'יצה ובעל בית-מסחר לאשלג, פוטאש באידית, שניהלה אשתו, ועל שם מסחרו קראו לו ר' <persName>יונה</persName> <persName>פוטאשנא</persName> ) ולאמו <persName>גיטל</persName> בת ר' <persName>אליעזר פרידלנד</persName> מדווינסק (לפי מסורת המשפחה הגיעה שלשלת יחוסו <persName>לשמעא</persName> <persName>בן ישי</persName> , אחי <persName>דוד המלך</persName> : עסקן ונדבן בירושלים לעת זקנתו). (נקרא גם <persName>פרידלנד </persName> בשם משפחת אמו). למד בחדרים ובישיבות. נשא לאשה את<persName> לאה</persName> לבית<persName> רייזיס</persName> , עסק במסחר של אביו וקבע עתים לתורה.
+
+ בשנת תר"ז עבר עם אביו ועם אחיו <persName>דוד</persName> לחרסון, כי הגיע זמנם לשרת בצבא, והממשלה הרוסית, שהיתה מעונינת למשוך מתישבים לחבלי הדרום השוממים, הבטיחה להם שחרור מהצבא. אביו היה דיין בקהלת חרסון והוא ואחיו עסקו בחקלאות בכפר סמוך וחברו את שרות הנקיון של עירית חרסון, ואח"כ עסקו בתעשית סיד ולבנים וסיפקו חמרי בנין אף לממשלה.
+
+ האב ושני הבנים השאירו את נשיהם וילדיהם בעיירה קאמינקה שברוסיה הלבנה, ושם נספו כולם
+
+
+ במגפה, מלבד הילד<persName> יעקב </persName> בן השנתיים, כנו של <persName>משה יהודה ליב</persName> . נשא לאשה בזיווג שני את <persName>הנה (חנה)</persName> בת ר' <persName>יוסף</persName> מפלונגיאן (היה אח"כ גבאי בבית-המדרש "שערי ציון" בירושלים).
+
+ אחרי סיום מלחמת קרים החליטו לעלות ארצה וביום א' חשון תרי"ט הגיעו אביו ואחיו ומשפחותיהם לחוף יפו, עלו ירושלימה ואחיו <persName>דוד פרידלנד</persName> (גם הוא נקרא על שם משפחת אמו) החל לעסוק בתעשית סיד, - והוא נשאר בחרסון לחסל את עסקי המשפחה.
+
+ בשנת תר"כ עלה גם הוא עם אשתו וילדיו ובידו הון המשפחה שחיסל מרכושם והצטרף לאחיו בעסק הסיד ובתעשית לבנים ורעפים, שנתפרסמה לשבח בארץ, בסוריה ובמצרים. והוא ואחיו ביקרו בארצות ההן בעניני העסק, ויחד עם <persName>פתחיה</persName> בנו ביקר במקומות שונים בארץ לשם מציאת עפר מתאים לתעשית רעפים. ואשתו עסקה יחד עם אשת אביו בעשית יין למכירה ליהודי ירושלים (נפטרה בעת ביקורה בחרסון, י' אדר תר"מ).
+
+ בתרכ"ו נסע לחרסון ועשה שם עסקי מסחר מוצלחים יחד עם גיסו <persName>ליב אלשויינג</persName> . בתרכ"ח חזר והחל לסחור בקמח. הקים בעיר העתיקה טחנה פרימיטיבית וכשהחלו לבנות את שכונת מאה שעורים בנה טחנה משוכללת ליד השכונה.
+
+ למרות טרדותיו הרבות בעסקים קבע עתים ללמוד תורה לעצמו וגם בצבור.
+
+ הצטיין באומץ-רוח ובגבורה וכח, היה קוצץ בשיניו חבל עבה, הפיל פחדו על הערבים שניסו לגנוב מהיהודים ולהפריע בבנין השכונות מחוץ לחומה.
+
+ נפטר בירושלים, א' אייר תרמ"ט.
+
+ צאצאיו: (מאשתו הראשונה) הרב <persName>יעקב מן)</persName> . מאשתו השניה - <persName>אליעזר, אסתר דבורה, יונה, פתחיה</persName> <persName>ליואי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1102 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1102</bibl><bibl>Volume: #3 ,Page: 1103 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1103</bibl>
+<bibl>Volume: #3 ,Page: 1104 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1104</bibl>
+<bibl>Volume: #3 ,Page: 1105 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1105</bibl>
+<bibl>Volume: #3 ,Page: 1106 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1106</bibl>
+<bibl>Volume: #3 ,Page: 1107 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1107</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

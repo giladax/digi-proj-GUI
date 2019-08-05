@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3276 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3276</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף פיינשטיין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>בירות</placeName> (לבנון) בחודש תשרי תר"מ. לאביו<persName> אהרן דב פינשטין</persName> , ממייסדי המושבה ראשפנה בגליל-העליון (ראה כרך ג', דף 1320) ולאמו <persName>שרה</persName> בת<persName> אברהם חלפון</persName> מטריפולי שבסוריה.
+
+ בגיל רך עבר עם הוריו לכפר שפרעם, ליד עכו, שם רכש אביו חלקת אדמה וצמד גמלים ויהי לעובד אדמה. כעבור שנתיים, בתרמ"ג (1883) עברה המשפחה לראש-פנה.
+
+ למד בבית הספר המקומי, בהנהלת ר' <persName>דוד שו"ב</persName> (כרך א', עמוד 76), מן הראשונים בישוב שהנהיגו לימוד עברית בעברית. אח"כ היה תלמידו של המורההחלוץ ד''ר<persName> יצחק אפשטין </persName> (ראה כרך ב', עמוד 822).
+
+ לאחר גמרו את ביה"ס בהצטיינות, נבחר על-ידי שליח הברון<persName> רוטשילד</persName> , מר <persName>אליהו שייד,</persName> כדי לנסוע לפאריס להשלים את חוק למודיו שם, אך בשל התנגדותו של אביו לא נסע. האב טען: "אנו מגדלים ילדים כדי שיהיו חקלאים ולא דוקטורים".
+
+ היה מראשוני החורשים את אדמת ניז'מת אל-צובח (אילת-השחר) עם גאולתה על-ידי הברון, ואח"כ התאכר במקום.
+
+ במלחמת העולם הראשונה שירת בצבא התורכי, ועם נסיגת הצבא בשנת 1918, נלקח עם עגלתו וסוסיו להובלת מטען של הצבא והגיע עד בעלבק שבלבנון. משם ברח עם סוסיו תחת מטר יריות והגיע לראשפנה למחרת כיבוש המקום על-ידי הצבא האנגלי.
+
+ בשנת 1906 נשא לאשה את<persName> יחידה (סוליכה) עטייה</persName> מטבריה.
+
+ כל ימיו דבק לאדמתו, הצטיין בבדיחות דעתו בהכנסת אורחים ובגמילות חסדים ובהושטת עזרה לכל דורש. עד סוף ימיו עסק בגמילות חסד של אמת והיה מראשי החברה קדישא במושבה.
+
+ נפטר בראש-פינה, א'באדר תשי"ג (12.2.53).
+
+ צאצאיו: <persName>אסתר (מאשתו הראשונה).</persName>
+
+<persName>אהרן אבן-חן (</persName> ראה את הערך שלו בכרך זה: <persName>תחיה</persName> אשת קצין המשטרה דוד ובלמן.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3276 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3276</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

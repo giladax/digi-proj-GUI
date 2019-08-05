@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4434 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4434</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יוסף בנטואיץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>לונדון</placeName> (אנגליה) כ"ו שבט תרס"ב (3.2.1902). לאביו <persName>צבי </persName> (הרברט) <persName>בנטוויץ</persName> (עורך דין, מראשי "המכבים הקדמונים" באנגליה) ולאמו <persName>זוזאן</persName> (שושנה) בת<persName> יוסף סולומון.</persName>
+
+ קיבל חינוך יהודי. מוסמר האוניברסיטה בקמברידז (אנגליה) מ. א. (1923) ובמכון לחינוך באוניברסיטת לונדון (1925).
+
+ בשנת 1924 עלה לארץ.
+
+ ב-11 ספטמבר 1924 נשא לאשה את<persName> שרה</persName> בת ד"ר<persName> הלל יפה</persName> מזכרון-יעקב (ראה כרך שלישי, עמוד 1141).
+
+ הורה בגמנסיה העברית הרצליה בת''א ובבית הספר הריאלי בחיפה (1925-28).
+
+ היה מפקח (1928-43) וסגן מנהל המחלקה לחנוך של ממשלת המנדט (1943-48).
+
+ בשנות 1948-55 מנהל ביה"ס הריאלי בחיפה.
+
+ בשנות 1955-58 מרצה לחינוך באוניברסיטה העברית בירושלים.
+
+ מפקח. חבר ועדת הקבע לחינוך על-יסודי במשרד החינוך והתרבות.
+
+ יו"ר חוג "אמנה".
+
+ כתב מאמרים רבים ושונים בשטחי החינוך והדת.
+
+ ספרים: "צופיות לנערים" (1926), "החינוך במדינת ישראל", ספרי לימוד ודקדוק - אנגלית (1932), חשבון והנדסה (1934) ושיטת המדע,
+
+ (1949)HOW THE ENGLISH LIVE
+
+ עורך: "עקרי היהדות" (1950), "ילקוט הדתות"
+
+ צאצאיו :<persName> שושנה</persName> אשת<persName> זכריה קיני, רחל</persName> אשת <persName>נחמיה שביט, מיכאל, צבי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4434 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4434</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2204 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2204</bibl><bibl>Volume: #5 ,Page: 2205 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2205</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב למפרט</persName>
+
+</head>
+         <div><p> נולד בלאחוביץ', ליטא-פולין, בשנת תרנ"א (1891), לאביו<persName> יוסף מיכל</persName> ולאמו <persName>רחל פייגה</persName> בת <persName>יהודה שוורניק.</persName> בתרס"ה עלה ארצה עם ההורים וכל ביתם והשתקעו
+
+ ביפו. למד בנאות ועבד בה והשתתף בעבודתו בהקמת בתי הישוב היהודי ביפו ואח"כ בתל-אביב.
+
+ ב-1907 השתתף עם שני אחיו<persName> משה ודוד</persName> בפעולות הראשונות של האגודה להתעמלות "ראשון לציון", שנוסדה ביפו על-ידי הד"ר <persName>ליאו כהן</persName> ושהיתה אח"כ לאגודת "מכבי". הטה שכם לכל לבטיה ונדודיה מדירה לדירה והיה מראשוני המתעמלים בה.
+
+
+ ב-1909 היה ממיסדי תזמורת החובבים "כנור ציון" ביפו שבראשה עמד אחיו<persName> דוד למפרט</persName> (ראה את הערך שלו בכרך זה).
+
+ במכבי ובנוער המקומי היה פעיל בכל ההכנות לארגון ההגנה על הישוב, במלחמה במיסיון ובבתי בושת, במלחמה בעד עבודה עברית והשפה העברית, וביחוד בטיולים ברגל ובשיט בסירות על הים, שהוא וחבריו החשיבו אותם לא רק כספורט לשם פיתוח יכולת אישית, אלא בעיקר כהפעלת הבעלות הישראלית על הארץ והים, בתרגילים לחוש העזרה ולהגנה בשעת הצורך, וההתאמנות בשיט נועדה, לרכישת יכולת מעשית להעלאת עולים מחוסרי ויזה טורקית אל החוף בעקיפת המשמרות ושלטונות הנמל,
+
+ נשא לאשה את<persName> טובה גיטל</persName> בת<persName> ברוך גולנבורסקי.</persName>
+
+ צאצאיו:<persName> חסידה </persName> אשת<persName> שמואל קירשנר, יוסף, ירחמיאל,</persName> <persName>שולמית.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2204 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2204</bibl><bibl>Volume: #5 ,Page: 2205 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2205</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

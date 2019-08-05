@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3341 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3341</bibl><bibl>Volume: #9 ,Page: 3342 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3342</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן קוריס (חקלאי)</persName>
+
+</head>
+         <div><p> נולד בעיירה וואהלין, בשנת תרכ"ה (1865). לאביו <persName>דוד צבי.</persName>
+
+ קבל חנוך מסורתי בחדר ובישיבה. מחסידי קרלין.
+
+ היה חובב ציון בעירו.
+
+ נשא לאשה את <persName>חיה</persName> בת<persName> שמואל דוד טופוליס</persName> (נפטרה בשכונת בורוכוב, י''ז אדר ב' תשי"ז-20.3.57).
+
+ מורה. בין תלמידיו ר'<persName> יחיאל רבינוביץ</persName> (מנהל בנק אשראי בע"מ. ראה כרך ב', עמוד 997) ועוד.
+
+ עלה לארץ בשנת 1921.
+
+ הקים תלמידים רבים בשאיפה לציון, ורובם מפוזרים בארץ ותפסו עמדות חשובות בכל השטחים בבנין הארץ.
+
+ נפטר בשכונת בורוכוב, כ' תשרי תרצ"ב (1.10.1931).
+
+ צאצאיו:<persName> בת-שבע</persName> אשת <persName>זלמן גינצבו</persName> <persName>רג, מרדכי</persName> <persName>חקלאי </persName> (ראה בכרך זה).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3341 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3341</bibl><bibl>Volume: #9 ,Page: 3342 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3342</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

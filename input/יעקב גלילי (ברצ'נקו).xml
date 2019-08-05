@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1913 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1913</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב גלילי (ברצ'נקו)</persName>
+
+</head>
+         <div><p> נולד בבראילוב, ליד ז'מרינקה, אוקראינה, ט"ו בשבט תרס"ח (1908), לאביו <persName>גרשון ברצ'נקו</persName> ולאמו <persName>לאה</persName> בת <persName>משה שו"ב-פריסטב</persName> (דור שמיני לר' <persName>ליב</persName> <persName>שרה'ס</persName> , מתלמידי הבעש"ט).
+
+ עלה לארץ עם הוריו ביוני 1914. קיבל חינוך תורני
+
+ וכללי, הוסמך לד"ר למשפטים באוניברסיטה ליאון (צרפת) בשנת 1945.
+
+ נתקבל לעבודת פקידות בבנק אנגליה-פלשתינה, ובתפקידו זה השתתף בפעולה משפטית, במשפטי אריסים לגאולת אדמת רוחמה, ונבחר ליו"ר הארגון הארצי של פקידי הבנק.
+
+ ב-1935 נשא לאשה את <persName>חנה</persName> בת <persName>צבי קריביצקי.</persName>
+
+ הצטרף לארגון ההגנה ב-1921 ומ-1929 ואילך מילא בה תפקידי פיקוד. במהומות תרפ"ט היה מפקד שכונת שפ"ק בתל-אביב (רחוב בילו וסביבתו), שהיתה אז שכונת-ספר קיצונית מול שרונה הגרמנית, ובשנות 1936/39 היה מפקד השכונות נוה-שאנן וגבעת משה ב'. ב-1942 התנדב לארגן את פלוגת פלמ"ח התל-אביבית, שהתארגנה בעמק יזרעאל, וקיבל לצורך זה חופשה מעבודתו בבנק לחצי שנה.
+
+ במלחמת המולדת היה נשיא ביה"ד הצבאי למחוזות ירושלים ותל-אביב, השפלה והנגב ושימש בתפקיד שופט בביה"ד הצבאי שעסק במשפט ראשי לח"י בעכו ב-1949.
+
+ פרסם מאמרים בשאלות משפטיות.
+
+ בנו: <persName>יהורם</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1913 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1913</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4465 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4465</bibl><bibl>Volume: #14 ,Page: 4466 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4466</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה שמואל מרדכי בנדרלי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>צפת</placeName> בשנת תר"מ (1880).
+
+ לאביו <persName>שלמה</persName> ולאמו <persName>לאה</persName> בת<persName> משה לבר</persName> .
+
+ קבל חינוך מסורתי בחדר ובישיבות.
+
+
+ בשנת תרנ"ח (1898) נשא לאשה את<persName> יוכבד </persName> בת יהושע פוקס.
+
+ היה סוחר מכלת ותבואה בסיטונות, היה קונה מכל מושבות הגליל ובסוריה את התבואה והירקות.
+
+ היה סוכן ראשי למכירת מלח למצרים.
+
+ היה ידוע כעסקן צבורי באמונה והגיש עזרה לנצרכים.
+
+ עשה רבות להתפתחות צפת.
+
+ נפטר ב<placeName>צפת</placeName>, ז' אלול תשכ"ד (6.9.1962).
+
+ צאצאיו:<persName> יוסף</persName> (ראה כרד זה), <persName>איטה פייגע</persName> ז"ל, <persName>דוד, פנינה</persName> אשת<persName> יצחק אמתי</persName> (ורהפטיג), <persName>אסתר </persName> ז"ל, <persName>יהושע, לאה</persName> אשת<persName> יצחק מיבר </persName> (צפת).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4465 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4465</bibl><bibl>Volume: #14 ,Page: 4466 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4466</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

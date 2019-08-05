@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4930 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4930</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחמן עזרוני (הלפמן)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פרוסקורוב</placeName> (רוסיה) בשנת תרס"ז (13.3.1907).
+
+ לאביו<persName> יעקב הלפמן</persName> ולאמו<persName> חיה </persName> בת <persName>מנדל.</persName>
+
+ קיבל חינוך מסורתי בישיבה וכללי בגמנסיה רוסית.
+
+ היה מפקד צופים בעירו, מנהל מחלקת התרבות במועדון הא"י בפריז (1931) שהיה מיוזמיו ומקימיו.
+
+ עבד בועד הפועל הציוני בלבוב (גליציה) כעוזר מזכיר (1921).
+
+ בשנת 1922 עלה לארץ.
+
+ עבד בחקלאות בפרדסי<persName> פשצינר</persName> ואחרים בפתחתקוה (1922).
+
+ עבד בבנין, והיה מהראשונים בבנין הבתים בשכונת תלפיות בירושלים, אח"כ בשכונת נורדיה בתל-אביב.
+
+ היה מזכיר קהילת הצופים בת''א ומנהל הצופים (1925). היה פעיל ומזכיר המכבי בת''א וכן היה מנהל מחלקת התרבות וחבר ועדת הארגון.
+
+ עבד זמן ידוע בבית חרושת ליציקה של <persName>כנצינברג</persName> ועוד עד שנת 1931.
+
+ משנת 1931 עבד בפקידות: בהוצאת ספרים "אמנות", "שטיבל" ובהפצת הספר העברי. עבד בעירית ת"א בכופר הישוב במחלקת האימפורט והערכת היבוא.
+
+ בשנת 1937 נשא לאשה את <persName>חנה </persName> בת<persName> ינטה</persName> פינגולד.
+
+ מזכיר אירגון יוצאי פרוסקורוב בתל-אביב. חבר איגוד שוחרי בריאות.
+
+ היה חבר ההגנה, הגן ב-1929 על שכונת ברנר. וכן היה פעיל בהגנה במאורעות בשנת 1936. עבד "בהכשרת הישוב", בחלוקת האדמה להקמת המושבה "הרצליה" במדידות, בסלילת כביש פתחתקוה מהתחלה עד הסוף.
+
+ במלחמת העצמאות נפצע בתפקיד ליד קפה לורנץ בתל-אביב (1948).
+
+ חבר פעיל במשמר האזרחי.
+
+ כותב מאמרים ב"מעריב".
+
+ מורה מתנדב להנחלת הלשון וביעור הבערות בקרב העולים.
+
+ ראש גדוד בצופים.
+
+ עובד כיום במשרד הבטחון.
+
+ בניו:<persName> יעקב </persName> (חבר ב"מצפה יודפת" - התנחלות):<persName> גדליהו </persName> (גידי).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4930 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4930</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

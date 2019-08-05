@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4499 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4499</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה אלטמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סדיגורה</placeName> (אז - אוסטריה-בוקובינה. כיום, רומניה) בשנת תרנ"ג (13.11.1893).
+
+ לאביו <persName>אליעזר</persName> ולאמו<persName> מרים</persName> בת <persName>שלמה ברענדער</persName> (ראה הערך של <persName>אליעזר </persName> בכרך י"ג, בעמוד 4295).
+
+ קבל חינוך מסורתי-חסידי אצל אביו, ראש קהילת סדיגורה. למד בישיבה הגדולה "רבינאט-שולע" בצ'רנוביץ אצל הרבנים אליעזר (ראה כרך י"א, עמוד 3772) <persName>ורפאל קיטיגורדסקי </persName> (ראה כרך י"ג, עמוד 4239) וגמנסיה באותה ישיבה אצל פרופ' <persName>שואל</persName> .
+
+ נשא לאשה את<persName> רוזה</persName> בת<persName> רודה ונפתלי גולדברג</persName> (עסקה בעניני צבור ועזרה לבעלה בכל דרכיו. נפטרה בתל-אביב, ט' אלול תשכ"ד - 17.8.1954).
+
+ עבר לעסוק במסחר והצליח.
+
+ במלחמת העולם הראשונה עבר לגור בעיר ברין ויסד שם חברה למסחר בטקסטיל.
+
+ יסד שם מוסדות צדקה לעזרת הפליטים שברחו מגליציה לברין.
+
+ היה בברין יו"ר הקהק''ל.
+
+ בשנת 1939 עלה עם משפחתו לארץ.
+
+ בנה בית גדול ופתח בית מסחר.
+
+ היה פעיל ברוב המגביות בעיר.
+
+ השתייך בין הראשונים לחסידי וידידי האדמו"ר מסדיגורה הרב<persName> מרדכי שלום יוסף פרידמן</persName> בת"א (ראה כרך י"ג, עמוד 4185).
+
+ נפטר בתל-אביב, י"ז תשרי תשכ"ה (23.9.1964) והובא לקבורה בנחלת יצחק.
+
+ צאצאיו: ד"ר <persName>ראובן אלטמן</persName> ז"ל (ראה כרך י"ג, עמוד 4293),<persName> מרים פרדר</persName> .
+
+ נכדה: <persName>רות בארי</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4499 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4499</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2900 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2900</bibl><bibl>Volume: #7 ,Page: 2901 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2901</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק קירשנבוים</persName>
+
+</head>
+         <div><p> נולד בראדום (פולין) בשנת תרל"ג (1873).
+
+ לאביו ר' <persName>אברהם יחיאל קירשנבוים</persName> ולאמו<persName> ינטה</persName> לבית<persName> צוקר</persName> (מצאצאי המקובל ר'<persName> שמשון</persName> הרב מאוסטרופוליה, שנפל על קידוש השם בגזירות ת"ח פרעות <persName>בוגדן חמילניצקי.</persName> מצאצאי ר'<persName> יחזקאל לנדא</persName> ה"נודע ביהודה". דודו, אחי אמו, ר'<persName> שמשון </persName> הרב מזוהלין, בן דודו - ר' יחזקאל הרב מזווהלין).
+
+ קבל חנוך מסורתי בחדר, בישיבה, מחסידי גרודזיסק וקוזניץ המובהקים.
+
+ נשא לאשה את<persName> ציפה</persName> בת ר'<persName> דוד לברטובסקי </persName> ולאמה <persName>חנה שרה</persName> לבית<persName> הורביץ </persName> (מצאצאי הגאון ר'<persName> שבתי כהן</persName> - מחבר "שפתי כהן", הש"ך). היתה האם הראשונה בעירה, שהחדירה את הרעיון של לימוד העברית החדישה כשפה מדוברת בפי הילדים. שלט היה קבוע בביתה: "יהודי, דבר עברית". ביתה היה ידוע כבית עברי, לא רק לאנשי המקום, שהיו בחלקם מתבוללים, אלא אף לשליחי התנועה החלוצית מא"י, שהיו מבקרים באיזור לצורך פעולתם ומחפשים אוירה עברית. בתלאביב היתה מהעסקניות המסורות למוסדות צדקה:
+
+
+ מושב זקנים, בית היתומים ועוד (נפטרה בתל-אביב, ד' אב תשי"ד-4.8.54).
+
+ לאחר נשואיו עבר לקילץ.
+
+ היה ידוע כסוחר ישר וכעסקן צבורי מסור (פרנס הקהלה, גבאי ביהכנ"ס הגדול, חבר ועד "המזרחי" ועוד).
+
+ בשנת 1933 עלה עם משפחתו לארץ.
+
+ בתקופת מגוריו בתל-אביב היה מקדיש את עתותיו לעבודה צבורית ולתורה.
+
+ נפטר בתל-אביב, ער"ח ניסן תשי"ג (15.3.53).
+
+ צאצאיו:<persName> אלי יעקב אלראי</persName> (עו''ד. ראה את הערך שלו בכרך ששי, עמוד 2475),<persName> אברהם, אריה, משה,</persName> <persName>עדה </persName> אשת <persName>קלמן זכאי, צלה</persName> אשת <persName>יעקב זילברשטין, סימה</persName> אשת <persName>ישראל בלאט</persName> הי''ד (שניהם נפלו במרד גיטו ורשה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2900 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2900</bibl><bibl>Volume: #7 ,Page: 2901 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2901</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3610 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3610</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה מנחם משה</persName>
+
+</head>
+         <div><p> נולד בעדן, בשנת תרי"ט (1859).
+
+ לאבי<persName>ו מנחם </persName> ולאמו <persName>חמאמה.</persName>
+
+ נתחנך ברוח המסורת הישראלית ונהג לפיה כל ימי חייו. השתלם גם בהשכלה אנגלית ובמדעי המסחר ובגיל צעיר נכנס לפעולה בעסקי אביו, במשלוח סחורות תימן וחבש וערב ללונדון. נסע כמה פעמים לרגל מסחרו ללונדון ובאחד ממסעיו נשא שם לאשה את<persName> מרים </persName> בת <persName>שלמה הורביץ</persName> , שבית-מסחרו הגדול היה קשור בעסקיו עם הפירמה העדנית של בית מנחם משה.
+
+ היה מכובד בעדן ובעולם המסחר באנגליה ובאמריקה ראש לחברי העיריה, נתמנה לקונסול אמריקה בעדן, אך ויתר על הכבוד לבל יצטרך לכתוב בשבת.
+
+ שמר על אורח-חיים מסורתי. הלך יום-יום בבוקר ובערב לבית-הכנסת וקבע עתים לתורה, והשבתות ומועד ישראל נשמרו בביתו ברוב פאר. תמך בנצרכים ובמוסדות הצבור ויהודי עדן כיבדוהו בכינוי "ר' יהודה הנשיא". אחרי שקיבל את תפקידיו של אחיו מנחם משה כנין ז"ל.
+
+ כארבעים שנה חי עם רעיתו <persName>מרים </persName> מלונדון, ואחר פטירתה נשא את<persName> רבקה</persName> בת <persName>מנחם מורי.</persName>
+
+ ביקר כמה פעמים בארץ והיה גם בקשרי מסחר עם הפירמה האחים <persName>שלוש</persName> . בביקורו האחרון, בראשיתה של השכונה תל-אביב, קנה לו בית בה וגר בו חדשים אחדים. השתתף בגאולת קרקעות להרחבת תל-אביב בשטחים רחוקים, שהמיסדים לא העיזו להאמין אף
+
+ בחלום כי שכונתם תתרחב אי-מתי עד המקומות ההם, ואף בתים בנה בתל-אביב וצאצאיו המשיכו בהשקעת הרבה כספים ויזמה בבנין בתים רבים בעיר.
+
+ נפטר בעדן, ח' תשרי תרפ"ז (16.9.1926)
+
+ צאצאיו (מאשתו הראשונה <persName>מרים </persName> בת <persName>שלמה הור</persName> <persName>ביץ) : שרה </persName> אשת<persName> משה בנ</persName> <persName>ין, רחל </persName> אשת<persName> משה טוב,</persName> <persName>חנה </persName> אשת <persName>יעקב מהלא</persName> ז"ל, <persName>יונה </persName> אשת<persName> יצחק אייזקס,</persName> <persName>מזל </persName> אשת<persName> סעוד מו</persName> <persName>זס, חנון </persName> אש<persName>ת משה מורי, משה</persName> <persName>יהודה </persName> ז"ל (נפטר בניורק. גופתו הועברה להר-הזיתים כי חשון תש"ח- 3.11.47).
+
+ (מאשתו השניה :<persName> רבקה</persName> בת<persName> מנחם מורי)</persName> :<persName> ציון, מרים.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3610 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3610</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

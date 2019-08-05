@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4885 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4885</bibl><bibl>Volume: #16 ,Page: 4886 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4886</bibl>
+<bibl>Volume: #16 ,Page: 4887 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4887</bibl>
+<bibl>Volume: #16 ,Page: 4888 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4888</bibl>
+<bibl>Volume: #16 ,Page: 4889 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4889</bibl>
+<bibl>Volume: #16 ,Page: 4890 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4890</bibl>
+<bibl>Volume: #16 ,Page: 4891 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4891</bibl>
+<bibl>Volume: #16 ,Page: 4892 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4892</bibl>
+<bibl>Volume: #16 ,Page: 4893 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4893</bibl>
+<bibl>Volume: #16 ,Page: 4894 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4894</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שושנה בר-נתן (רוזנפלד)</persName>
+
+</head>
+         <div><p> נולדה בשנת תרס"ג (15.3.1903) בעיירה ציחנוביץ (מחוז ביאליסטוק, פולין), שנכחדה בידי הצורר הנאצי וזכתה לספר-זיכרון רב איכות וכמות, אשר הופיע בישראל (1964).
+
+ לאביה <persName>יצחק שטיינברג </persName> (ראה את הערך שלו בכרך זה) ולאמה<persName> יוכבד</persName> בת <persName>הרשל גוטרמן</persName> (מצאצאי רבנים בפולין).
+
+ למדה ב"חדר מתוקן" לבנים ולבנות (שפת הלימודים "עברית בעברית") שבעיירתה, אשר הפך ברבות הימים לבית-ספר עברי מיסודה של "תרבות", המשיכה בבית-ספר רוסי תיכוני למלאכה והשתלמה
+
+ בסמינר לגננות בווארשה על"יד "תרבות", בו הרצה, בין יתר המורים ידועי-שם, גם המחנך והפדאגוג, <persName>יאנוש קורצ'אק,</persName> מנהל בית-היתומים בווארשה, שניספה בשואה יחד עם חניכיו.
+
+ בסיימה את הסמינר, התכוננה לעלות לארץ ישראל יחד עם כמה גננות, אך לפי דרישת הנהלת הסמינר נאלצו להשאר בגולה, למען הקניית השפה והחינוך העברי לילדי ישראל, כי היה מחסור בכוחות פדאגוגיים. עבדה כגננת בחלם ובלודמיר, וכאשר נפתח גן-ילדים עברי בזאבירצ'ה (פלך קילצה) הוזמנה לשם כגנגת. אחרי שנתיים עבודה בגן השפיעה על עסקני המקום לאפשר לילדים להמשיך חינוכם בביתספר עברי, שאמנם נוסד, ובו לימדה 3 שנים (את זכרונותיה מהימים ההם כמחנכת היא מעלה ב"ספר זאבירצ'ה", שראה אור בישראל). כאן מצאה כר נרחב לפעולה צבורית ועסקה בארגון נשים ציוניות "וויצו", בקרנות הלאומיות ובארגוני נוער כמורה לעברית בהתנדבות. היתה בין מייסדות "וויצו" הצעירה וכיהנה כמה שנים כיושבת-ראש של הארגון בעיר-מגוריה.
+
+ ב-1932 השתתפה כצירה בועידת "וויצו" בווארשה. בדבריה שהשמיעה תבעה מהועידה 2 דברים עיקריים: א) הקניית השפה העברית לחברות "וויצו"; ב) פנייה למשרד הארצישראלי, שיקציב סרטיפיקטים גם לבחורות, השואפות לעלות לארץ, אך נבצר מהן להגשים משאת-נפשן בשל מחסור ברשיונות-עליה, אשר חולקו רק לחלוצים ואליהם נצטרפו בחורות כ"נשיהם" (פיקטיביות). אכן, המשרד הארצישראלי חילק מספר סרטיפיקטים ל"וויצו", והיא זכתה באחד מהם ועלתה לארץ ב-1933 וסודרה בתור גננת בהדר (השרון).
+
+ באותה השנה נישאה <persName>ליצחק ספיבק,</persName> מראשוני התושבים במגדיאל (כעת: הוד-השרון). יחד עם בעלה המנוח (נפטר בשנת תרצ"ט-1939) בנו את ביתם ונטעו פרדס קטן, שטיפלה בו לאחר עבודתה.
+
+ בשנת 1935 היתה גננת בכפר-סבא, וכעבור שנתיים המשיכה לעבוד כגנגת במגדיאל.
+
+ פעילה בחיי הצבור. בין מייסדות "וויצו" ומטעם ארגון זה נבחרה למוסדות שונים וגם כחברה בועד המושבה (האישה היחידה) ולאחר-מכן במועצה המקומית הראשונה, בנשיאותו של "אלוף מגדיאל" <persName>שמואל</persName> <persName>זקיף</persName> (ראה ערכו בכרך ב ו-ד').
+
+ ב-1941 נישאה שנית לד"ר <persName>שמואל</persName> (וואלטר) <persName>בר-נתן </persName> (ריזנפלד), יוצא גרמניה (ברסלוי, לאחר מלחמת העולם השניה נספחה לפולין), שהספיק בעוד מועד להימלט על נפשו מאדמתה העקובה מדם והגיע לחוף-מבטחים בארץ ישראל (1934). עובד כרופא במגדיאל (עד היום הזה), בקופת-חולים של הסתדרות העובדים, רכש במהרה את השפה העברית על בוריה (נמנה עם החוג ללומדי התנ"ך במקום), התחבב על הציבור והדריך את התושבים בהגשת עזרה ראשונה. שניהם, היא והוא, מילאו במסירות את תפקידם בעזרה ראשונה, במאורעות-הדמים
+
+
+ (1936-39) ובמלחמת השחרור, כאשר ערבי קלקיליה, הסמוכה למגדיאל, המטירו כדורי-מות על המושבה, ולא מעטים מבניה נפלו על משמרתם.
+
+ מסיבות משפחתיות הפסיקה את עבודתה כגננת לתקופה של כמה שנים.
+
+ ב-1952 פנה משרד החנוך והתרבות למורים ולגננות לשעבר להכנס מחדש לעבודה, בגלל הביקוש הרב למחנכים עם התגברות העליה ההמונית לישראל. היא נענתה לקריאה זו ושימשה מורה בבית-הספר במגדיאל. לפי בקשתה נמסרה לה כיתה של ילדי עולים, שרובם היו פרובלימתיים ואף מפגרים בהתפתחותם השכלית. העבודה עם תלמידים נחשלים אלה במשך שנתיים זכתה להערכה טובה ונתנה לה סיפוק נפשי רב.
+
+ המשיכה כמורה בבית-הספר במגדיאל.
+
+ מטעמי בריאות הפסיקה את ההוראה שנתיים לפני הגיעה לגיל הפרישה.
+
+ פעילה כמתנדבת להנחלת הלשון העברית. חברה בשורות ה"הגנה".
+
+ צאצאיה: <persName>חוה </persName> (מורה, אשת <persName>ישראל גור</persName> , בן<persName> צבי,</persName> שערכו פורסם בכרך ט"ו),<persName> נתן</persName> (סטודנט לרפואה).
+
+ נכדיה: <persName>מיכל, איתי.</persName>
+
+ (מ. ה.)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4885 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4885</bibl><bibl>Volume: #16 ,Page: 4886 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4886</bibl>
+<bibl>Volume: #16 ,Page: 4887 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4887</bibl>
+<bibl>Volume: #16 ,Page: 4888 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4888</bibl>
+<bibl>Volume: #16 ,Page: 4889 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4889</bibl>
+<bibl>Volume: #16 ,Page: 4890 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4890</bibl>
+<bibl>Volume: #16 ,Page: 4891 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4891</bibl>
+<bibl>Volume: #16 ,Page: 4892 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4892</bibl>
+<bibl>Volume: #16 ,Page: 4893 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4893</bibl>
+<bibl>Volume: #16 ,Page: 4894 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4894</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

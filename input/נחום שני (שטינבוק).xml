@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3545 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3545</bibl><bibl>Volume: #10 ,Page: 3546 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3546</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחום שני (שטינבוק)</persName>
+
+</head>
+         <div><p> נולד בדנציג, ג' שבט תרפ"ה. (28.1.1925). לאביו האדריכל<persName> יהושע שני-שטינבוק</persName> (ראה בכרך זה.) ולאמו <persName>גוטה</persName> בת <persName>יעקב ליכטנשטיין.</persName>
+
+ בשנת 1926 עלה עם משפחתו לארץ. קיבל חינוך תיכוני ובוגר הטכניון בחיפה. קיבל תואר : דיפל' מהנדס .B.Sc. היה חבר ההגנה וחי"ש ת"א.
+
+ בשנת 1944 במשטרת הישובים העברים בשומרון.
+
+
+ בשנת 1948 בחטיבת חיל רגלים שהשתתפה בכיבוש הגליל העליון, פריצת הדרך לנגב וכיבוש הגליל המערבי.
+
+ עובד בתור אדריכל עצמאי בתל-אביב.
+
+ בנה ובונה בנינים צבוריים: סניפי הבנק הלאומי לישראל בע"מ בארץ, בית מערכת העתון "למרחב", בית
+
+ הוצאת האנציקלופדיה העברית "מסדה", תחנות אוטובוסים שונות וכו'.
+
+ בשנת 1951 נשא לאשה את <persName>כרמלה</persName> בת <persName>יוסף בנאי.</persName> בנאי חפשי בלשכת "בצלאל" בת''א.
+
+ צאצאיו:<persName> אהוד, מיכל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3545 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3545</bibl><bibl>Volume: #10 ,Page: 3546 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3546</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

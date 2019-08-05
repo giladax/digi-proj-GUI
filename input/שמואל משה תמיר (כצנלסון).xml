@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2853 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2853</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל משה תמיר (כצנלסון)</persName>
+
+</head>
+         <div><p> נולד בירושלים, כ"ב אדר תרפ"ג (10.3.23). לאביו<persName> ד"ר ראובן כצנלסון</persName> - אחיו: אברהם, יוסף ורחל אשת זלמן שזר. (ראה כרך א', עמוד 305) ולאמו <persName>בת-שבע</persName> בת<persName> ישראל דב נגל</persName> (ראה כרך ב', עמוד 653).
+
+ בוגר הגמנסיה העברית (רחביה), האוניברסיטה העברית ובית הספר למשפטים בירושלים וקבל תואר עורךדין.
+
+ נשא לאשה את <persName>רות</persName> בת <persName>דוד גורביץ</persName> (מי שהיה מנהל המחלקה הסטטיסטית של הסוכנות היהודית בירושלים). היה מפקד בפועל של הארגון הצבאי הלאומי בירושלים.
+
+ היה מעצורי המחנות: לאטרון, רפיה ובבתי הכלא : בירושלים, רם-אללה, בית-לחם וטבריה, וכן בגלות קניה.
+
+ היה קריין "קול ירושלים", מזכיר מערכת השבועון "הגלגל", כתב מאמרים ב"הבקר", "חרות" ועוד.
+
+ היה חבר מרכז תנועת החרות ומנהל לשכת ההסברה שלה.
+
+ בשנת 1952 פרש מתנועת החרות בעקבות מחלוקת אידיאולוגית עם הצמרת.
+
+ התפרסם בתור פרקליטו של <persName>מלכיאל גרינוואלד</persName> במשפט הידוע "קסטנר-גרינוואלד" שבו זכה במשפט.
+
+ צאצאיו :<persName>דוד דב, ליאורה-פזיה, נוגה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2853 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2853</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

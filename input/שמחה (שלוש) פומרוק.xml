@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4942 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4942</bibl><bibl>Volume: #16 ,Page: 4943 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4943</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמחה (שלוש) פומרוק</persName>
+
+</head>
+         <div><p> גולדה בנוה צדק (יפו) בניסן תר"ס (1900).
+
+ לאביה <persName>אברהם חיים שלוש</persName> (יליד יפו. בנו של ר' אהרן שלוש. ממיסדי נוה צדק. מראשוני סוחרי חומרי בנין לתעשיה לבנים וכו'. ראה כרך א' עמוד 504) <persName>ולאמה שרה</persName> (שריינה) בת <persName>יצחק אלבז</persName> (שעלה ממרוקו לארץ בשנת תקצ"ח (1838). מעסקני יפו בימים ההם. ראה כרך עשירי, עמוד 3612).
+
+ קבלה חנוך עברי בבית הספר לבנות בנוה צדק.
+
+ היתה פעילה בארגונים שדאגו לבתי תה ועזרה לנצרכים בימי מלחמת העולם הראשונה.
+
+ נישאה לד"ר <persName>יוסף פומרוק</persName> (מי שהיה חבר מועצת עירית תל-אביב. ראה כרך א', עמוד 205) הוא היה מראשי התאחדות עולי פולניה בא"י. עזרה לו בעבודתו בארגון זה ועשתה הרבה למענם.
+
+ היה ממיסדי וראשי התאחדות בעלי בתים והסתדרות רופאי שניים.
+
+ ערכה בביתה ברחוב אחד-העם 56 בתל-אביב תערוכות ציור לעדוד ולטובת ציירים ישראליים.
+
+ יסדה בשנת 1944 בביתה את אגודת "ירון", אגודה לטפוח אמנות בא"י, ומדי פעם ניתנו קונצרטים בטרקליה שכל הכנסתם היו לטובת אמנים הזקוקים לכך.
+
+ הפסנתר הידוע מסיינה שנרכש בארץ, מעודפי הצבא הבריטי והתגלה - שזהו הפסנתר המפורסם
+
+
+ מסייגי. לאחר שהורדה ממנו שכבת הביטון, הוצג בטרקלנה זמן רב ונתנו עליו קונצרטים ע"י פסנתרנים גדולים עד שנשלח ע"י בעליו לחוץ לארץ.
+
+ פעילה ב"יעל" (יד עזר לחולים), שליד בית
+
+ החולים איכילוב בת"א, וכן פעילה ב"אורט" ת"א.
+
+<persName>צאצאיה: אנינה </persName> אשת<persName> יונה קפלן,</persName> העורך-דין צבי אברהם פומרוק (נשוי לדליה בת ישראל וצביה דננברג. ראה כרך חמשי, עמוד 2185).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4942 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4942</bibl><bibl>Volume: #16 ,Page: 4943 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4943</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

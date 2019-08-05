@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2503 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2503</bibl><bibl>Volume: #6 ,Page: 2504 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2504</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> יעקב ישראל שוובל</persName>
+
+</head>
+         <div><p> נולד בשנת תר"ע (19.4.1910) בלבוב שבגליציה.
+
+ לאביו <persName>משה קראוס</persName> ולאמו<persName> עטרה</persName> (קריינה) בת ר' <persName>יצחק שוובל</persName> (נקרא בכינוי ר' <persName>איציקל ז'ולקובר</persName> , מגזע הבעש"ט ומטובי תלמידיו של רבי מנחם מנדל מליובאוויץ בעל ה'"צמח צדק", מהמצוינים שבחסדי חב"ד במדות ובעמקות המחשבה).
+
+ בשנתו הרביעית נתיתם מאמו ומאז נתחנך בבית הסבא הנ"ל. למד תורה ויהדות מפיו ומהליכותיו. למד גם בבית-ספר עממי ואח"כ בבי"ס תיכון, אך עיקר חינוכו קיבל מהסבא וממנו. למד גם את האהבה לארץישראל ופנה להגשימה בהתאם לתנאים החדישים שבזמנו, בפעילות בארגוני-הנוער הציוניים: תחילה ב'"השומר הצעיר" ואח"כ הצטרף למיסדי קן בית"ר בלבוב, בו היה פעיל ומפעיל והגיע לדרגת פיקוד בתנועה זו בגליציה, וכן יצג את ארגונו במוסדות הציוניים בעיר, כגון קק"ל, קרן היסוד, ועוד.
+
+
+ ב-1929 עלה ארצה בין ארבעת העולים הראשונים של קן בית"ר לבוב ונכנס מיד לפעילות בשורות בית"ר בתל-אביב. השתתף ביסוד הסתדרות העובדים הלאומית ומוסדותיה והיה חבר הועד הפועל שלה, חבר מרכז המועצה של תנועת החרות.
+
+ ב-1935 נשא לאשה את<persName> חנה </persName> בת <persName>זכריהו איבשקובסקי.</persName>
+
+ נפטר בהרצליה, א' סיון תשי"א (5.6.51).
+
+ בנו:<persName> משה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2503 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2503</bibl><bibl>Volume: #6 ,Page: 2504 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2504</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

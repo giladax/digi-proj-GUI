@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4075 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4075</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>קובא (יעקב) קרייזמן</persName>
+
+</head>
+         <div><p> גולד בווארשא (פולין) בשנת תרפ"ז (4.3.1927).
+
+ לאביו<persName> דוד</persName> ולאמו <persName>גניה</persName> בת <persName>ליפא שיפר.</persName>
+
+ בשנת 1932 עלה לארץ.
+
+ קיבל חינוך בבית החינוך לילדי עובדים בצפון ת''א.
+
+ גמנסיה "שלוה", ובוגר הפקולטה למשפטים באוניברסיטר. L.L.B.ומנהל ציבורי.
+
+ היה חבר מנגנון הקבע של ההגנה, מדריך בקורסים של ההגנה, קצין בצה"ל, מפקד משמר-נע של נוטרים.
+
+ בשנת 1952 נשא לאשה את <persName>רעות</persName> בת <persName>יוסף שחורי.</persName>
+
+ עבד במשרד האוצר ת''א, היה מזכיר שר העבודה ומרכז לשכתו (1959).
+
+ חבר מפלגת פועלי א"י (מפא"י) במועצת סניף גבעתיים.
+
+ חבר "הרוטרי" בגבעתיים.
+
+ סגן וממלא מקום קבוע לראש עיריית גבעתיים.
+
+ צאצאיו: <persName>גיורא, עמרי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4075 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4075</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

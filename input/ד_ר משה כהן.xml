@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3142 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3142</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר משה כהן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רוסטוב</placeName> ע"נ דון (רוסיה) בשנת תרמ"ח (24.9.1888).
+
+ לאביו <persName>צדוק </persName> ולאמו <persName>שרה שיינדל</persName> בת <persName>יעקב יבנוביץ.</persName>
+
+ קבל חנוך מסורתי בתלמוד-תורה, גמנסיה ובאוניברסיטאות בזל (שווייץ), ברלין והיידלברג (גרמניה).
+
+ בשנת 1916 קבל תואר ד"ר לרפואה. רופא פנימי.
+
+ בשנת 1902 מיסד ויו"ר אגודת "פרחי-ציון" ב<placeName>רוסטוב</placeName>.
+
+ עלה לארץ בשנת תר"פ (1920).
+
+ עבד כרופא בבית-החולים "הדסה", בגמנסיה "הרצליה" ובקופת-חולים (1923-26),
+
+ מאז רופא פרטי.
+
+ נשא לאשה את רחל בת נחמיה נסל.
+
+ היה חבר "הפועל הצעיר" וחבר ועדת התרבות של מועצת פועלי תל-אביב (1922).
+
+ משנת 1922 חבר מועצת עירית תל-אביב (נבחר כחבר המועצה הראשונה ע"י הסתדרות השכנים).
+
+ ב-1930 ממיסדי שותפות "הירקן" והתאחדות "הביצור", לפיתוח הירקנות ולתוצרת הארץ.
+
+ משנת 1931 פעיל בתנועת הצה"ר (הציונים הרביזיוניסטים).
+
+ פרסם מאמרים רבים בשאלות צבוריות וכו' בעתונים : "דבר", "האור", "הארץ", "במערכה", "חזית העם", "הצפון", "הירדן", "החברה", "המשקיף", "חרות", "סלם" ובירחון המדיני-ספרותי "בית"ר" בעריכתו של הפרופ' <persName>י. קלוזנר.</persName>
+
+ נאסר ע"י הבריטים ב-5.8.47 בימי מאסרי "האנשים מאד חשובים" יחד עם ראשי העיריות: <persName>י. רוקח,</persName> <persName>א. קריניצי, וע. בן-עמי</persName> ועוד, והועבר ללטרון.
+
+ חבר מרכז תנועת החרות.
+
+ סגן ראש עירית תל-אביב.
+
+ תרגם לעברית מיצירותיו של<persName> בירון, ה. היינה, שמעון</persName> <persName>פרוג </persName> ואחרים.
+
+ בניו : <persName>בנימין כהן</persName> (שופט מחוזי),<persName> רפאל, אוריאל.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ג' תשרי תש"ך (5.10.59)
+
+ (כרך ח', עמוד 3172)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3142 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3142</bibl>            <bibl>Volume: #11 ,Page: 3882 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3882</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

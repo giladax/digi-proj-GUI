@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3948 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3948</bibl><bibl>Volume: #12 ,Page: 3949 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3949</bibl>
+<bibl>Volume: #12 ,Page: 3950 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3950</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמעון פינקל</persName>
+
+</head>
+         <div><p> נולד בגרותה, פולין-רוסיה, בשנת תרס"ו (8.12.1905).
+
+ לאביו <persName>צבי</persName> (סוחר) ולאמו <persName>חיה</persName> בת<persName> אלכסנדר שפירא.</persName>
+
+ למד בחדר ואח"כ בגימנסיה. בגיל 12 נתקבל לחוג חובבי התיאטרון בגרודנה ומילא תפקידים. בהצגותיו. אביו התנגד להתמסרותו לעיסוק זה, שאין בו "תכלית", שמא ידבק בו יותר מכדי "מישחק חולף" ויתקשר לבחור בו למקצוע-חייו אף לכשיגדל. אך התנגדות דהורים לא יכלה עוד להסירו מדרך-יעודו. משנוסד בגרודנה תיאטרון-ממש בשם "הפינה האמנותית", קטן בממדיו אבל גדול בשאיפותיו, הצטרף אליו ומילא בו תפקידים-ראשיים במחזות של סופרים נודעים. סוף-סוף השלימו הוריו עם הבלתי-ניתן לשינוי, וב-1920 נסע. בהסכמתם, לברלין, להשתלם באמנות התיאטרון בסטודיה המפורסמת של<persName> מאכס ריינהארדט.</persName>
+
+ ב-1923 הצטרף ללהקת "התיאטרון הארצישראלי", שאורגנה על-ידי ישראל הנבנית.
+
+ ב-1924 בא לארץ עם הלהקה ומילא תפקיד<persName> דניאל</persName> במחזה "בלשאצר", שהוצג באולם הראינוע "עדן", שהיה אז בנין-התיאטרון היחיד בתל-אביב. אך הישוב לא הגיע עדיין בגידולו ליכולת להחזיק תיאטרון-קבע, והלהקה חזרה להציג בקיבוצי היהודים בחו"ל. ב-1927 נפגשו בברלין להקת התא"י ולהקת "הבימה" שנוסדה במוס
+
+
+ קבה, התאחדו בשם "הבימה" ועלו לארץ, ותוך מאבקים חלוצים קשים עם תנאי המציאות הגיעה הבימה למה שהיא ביום: התיאטרון הלאומי לישראל.
+
+ נשא לאשה את <persName>בת עמי </persName> בת <persName>שניאור זלמן פוגצ'וב</persName> (כרך י"א, עמוד 3787).
+
+ הופיע ב"הבימה" בתפקידים ראשיים במחזות:
+
+ האמלט, אותלו, האב, קיסר וקליאופטרה, המלך ליר, פאוסט ועוד, ועיצב בהופעותיו את אמנות-הבמה הקלאסית בעברית. בשנים האחרונות עוסק גם בבימוי ובניהול הצגות.
+
+ ב-1946 זכה בפרס יהושע גורדון של הסוכנות היהודית על עיצוב דמותו של "המלך ליר".
+
+ בתו:<persName> מרחא</persName> אשת<persName> עדני אבינועם.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3948 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3948</bibl><bibl>Volume: #12 ,Page: 3949 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3949</bibl>
+<bibl>Volume: #12 ,Page: 3950 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3950</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

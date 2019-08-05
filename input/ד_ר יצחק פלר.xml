@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5140 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5140</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יצחק פלר</persName>
+
+</head>
+         <div><p> נולד בעיירה זבניץ (פודוליה), י"ג אדר תרמ"ט (8.2.1889).
+
+ לאביו <persName>אברהם פלר</persName> (סוחר) ולאמו<persName> שרה</persName> בת<persName> יעקב.</persName>
+
+ קיבל חינוך מסורתי וכללי בבי"ס.
+
+ עסק בהוראה כמורה.
+
+ בשנת 1911 עלה לארץ.
+
+ השתלם בקורסים עונתיים להוראה.
+
+ עסק בהוראה בעטלית - בתור מורה ומנהל (1914-17).
+
+ בשנים 1918-25 מורה ומנהל בתי ספר בצפת ובירושלים.
+
+ בשנת 1925 היה חבר הנהלת משפט השלום העברי בירושלים.
+
+ בשנים 1921-25 מפקח שעורי ערב בירושלים. בשנת 1926 היה מזכיר הסתדרות המורים וחבר המרכז.
+
+ משנת 1929 היה מנהל בית הספר תל-נורדוי. נשא לאשה את <persName>תמר</persName> (ילידת עקרון. ראה כרך ט', עמוד 3381) בת <persName>בנימין פוכס</persName> (מהבילויי"ם הראשונים ומייסדי גדרה. ראה כרך שני, עמוד 702). נפטרה בגדרה.
+
+ בזיווג שני נשא לאשה את <persName>דבורה</persName> בת<persName> ניסן לו</persName> <persName>זוביק</persName> .
+
+ היה חבר פעיל במפא"י.
+
+ פירסם ספרי לימוד: "החשבון המעשי"; "מתמטיקה שימושית"; "הנדסה מעשית"; "נתיבות"; "חברי"; "מקראות"; "זאת מולדתנו" (שני ספרים א, ב) והרבה חוברות לימי החופש עבור התלמידים.
+
+ נפטר בתל-אביב, ד' כסלו תשכ"ח, (6.12.67). בתו (מאשתו הראשונה): זיוה אשת <persName>דב ספקטור.</persName> ראה בעמוד 5126 דברי <persName>דוד זכאי</persName> ב"דבר".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5140 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5140</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

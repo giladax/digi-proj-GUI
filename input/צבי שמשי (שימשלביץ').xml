@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 637 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/637</bibl><bibl>Volume: #2 ,Page: 638 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/638</bibl>
+<bibl>Volume: #2 ,Page: 639 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/639</bibl>
+<bibl>Volume: #2 ,Page: 640 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/640</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי שמשי (שימשלביץ')</persName>
+
+</head>
+         <div><p> נולד בסמורגון, פלך וילנה, ט"ו כסלו תרכ"ג (1862), לאביו <persName>ראובן ישראל</persName> (ממשפחה מיוחסת של דורות רבנים ועסקנים כגון: הצדיק ר' <persName>משה אשכנזי</persName>
+
+ הלפרין שנקרא "איוויער", ר' <persName>אליהו חיים מייזל</persName> הרב מלודז, ר' <persName>אליקום שלמה שפירא</persName> הרב בגרודנה, ולפי הקבלה שבמשפחה מגיעה שלשלת יחוסה עד רש"י ועד דוד המלך ; נכד ר' <persName>יחיאל היילפרין</persName> בעל "סדר הדורות" ; בן-דודם של הפרופ' <persName>נחום סלושץ</persName> והסופר<persName> א. א. קבק</persName> ; תלמיד-חכם, חוכר-אחוזה ואח"כ מנהל תחנת הדואר בעיירה ווארונובה), ולאמו <persName>אסתר</persName> . למד בחדר תנ"ך, תלמוד ופוסקים והשתלם בהשכלה כללית וברוסית. בן י"ח נסע להשתלם בלימודים במינסק ואח"כ בפולטאבה. שם נשא לאשה בתרמ"ד את <persName>עטרה</persName> (קריינה) בת ר' ישראל ליב <persName>קופילביץ</persName> , נכדת הרב ר'<persName> מאיר הלוי-אפשטיין</persName> מוילנא, והתפרנס כסוכן לטחנות-קמח בפולטאבה. הצטרף לתנועת חיבת ציון מראשיתה, והיה חבר חברת "בני ציון" בפולטאבה משנת תרמ"ד ומשנת תרמ"ו היה מזכירה. השתתף בפעילות בעבודת חובבי ציון. בתרמ"ח ביקר מטעם "בני ציון" שבפולטאבה את כל אגודות חו"צ בליטא ובאוקראינה לשם יצירת קשרים עמהן. השתתף בכינוסים ובועידות של חו"צ בתור ציר פולטאבה וחרקוב בשנות תרמ"ט - תרנ"ו. עם הופעת <persName>הרצל </persName> הצטרף להסתדרות הציונית המדינית והיה מזכיר הועד הציוני בפולטאבה ופעיל בכל העבודות הציוניות. היה חבר אגודת "בני משה". ביקר בארץ בתרנ"א בשליחות ארגון
+
+ מתנחלים לשם קנית אדמה ביקנעם ל-40 משפחות (אך בגלל גזירות השלטון הטורקי שהבשילו אז את הקניה הגדולה של<persName> יהושע חנקין </persName> בעמק יזרעאל בטלה גם קניה זו), ובפעם השניה בתרס"ה לרגל נסיעתו מרוסיה מצרימה בעניני מסחר.
+
+ בקיץ תרס"ו התנקמה המשטרה הרוסית בו ובמשפחתו בגלל ציוניותם וארגון ההגנה היהודית נגד הפורעים הרוסים ואסרה אותו ואת אשתו<persName> דבורה </persName> (אחות אשתו הראשונה, שנישאה לו בתרס"ו, אחרי שהראשונה נפטרה בתרס"ה) ואת בנו <persName>אהרן </persName> ובתו <persName>שולמית</persName> והאשימה אותם במרד, ואחרי שנתים נדונו הוא ובנו אהרן לשילוח לסיביר לכל ימי חייהם. אהרן נמלט דרך המזרח הרחוק והגיע ארצה בתר"ע, והוא עצמו שוחרר בעת נפילת המשטר הצארי, נשאר תקוע ברוסיה הסוערת במהפכות ובמלחמת-אזרחים ואח"כ במשטר החדש שדיכא את הציונות
+
+
+ ונושאיה. אחרי הרפתקאות רבות הצליח להחלץ משם ובט"ז חשון תרפ"ג הגיע ירושלימה עם אשתו ובתו דינה, ובמשך שלש שנים עבד בתור גזבר "המשכיר" בירושלים.
+
+ פרסם הרבה מאמרים ורשימות בעתונות העברית והציונית אף בלועזית למן העתון "הלבנון" ועד עתה (ב"הלבנון" - תרל"ט, מ', מ"א ; "ווסחוד" - תרמ"ד ; "המליץ"; "כתבים לתולדות חבת ציון" - תרמ"ו-מ"ט; "רשומות" ג' - ו' ; "על המשמר"; "בוסתנאי"; "דאר היום"; "הארץ"; "דבר"; "הבקר"; "הציוני הכללי"; "העולם"; "די צייט"), ביחוד זכרונות על אישים ומאורעות וכן ספר "זכרונות" (ירושלים, תרצ"ח) וספר מגלת יוחסין למשפחות שמשי, בן-צבי, ראובני, קלוגאי, מייזלר, סלושץ, כרמון, קבק, קויפמן, ליברמן והקרובות אליהן (ירושלים, ת"ש).
+
+ צאצאיו:<persName> יצחק בן-צבי (</persName> העסקן והסופר-החוקר הידוע, נשיא הועד הלאומי של כנסת ישראל); <persName>אהרן</persName> ראובני (סופר וחוקר); <persName>שולמית </persName> אשת ד"ר<persName> יצחק קלוגאי;</persName> <persName>דינה</persName> אשת ד"ר<persName> בנימין מייזלר</persName> (פרופיסור לארכיאולוגיה באוניברסיטה העברית).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 637 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/637</bibl><bibl>Volume: #2 ,Page: 638 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/638</bibl>
+<bibl>Volume: #2 ,Page: 639 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/639</bibl>
+<bibl>Volume: #2 ,Page: 640 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/640</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

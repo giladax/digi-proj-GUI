@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3765 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3765</bibl><bibl>Volume: #11 ,Page: 3766 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3766</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אביגדור קרמר</persName>
+
+</head>
+         <div><p> נולד בחודש שבט תרנ"ח (1898) בעיירה לנצן שבמזרח גליציה לאביו<persName> אברהם</persName> ולאמו<persName> הניה</persName> לבית <persName>ברטפלד.</persName>
+
+ למד בחדר ובבית המדרש והשתלם בלימודי חול. מבחרותו היה פעיל בתנועה הציונית הדתית, עסקן קרן הקיימת בגליציה, ממיסדי המזרחי הצעיר ומעסקני ה
+
+
+ מזרחי בסטאניסלאבוב, ממיסדי הכשרה שם ופעיל בעניני עלית החלוץ המזרחי הצעיר מגליציה.
+
+ בשנת 1923 נשא לאשה את<persName> אסתר</persName> בת<persName> משה קרצנר.</persName>
+
+ בשנת 1935 עלה לארץ. ניהל את לשכת הקה''ק ברמת גן, ומילא תפקידים צבוריים בתור חבר המזכירות של סניף המפלגה הדתית-לאומית, ממיסדי קופת
+
+ גמ"ח שליד הפועל המזרחי ברמת גן, וחבר מרכז הפועל המזרחי וציר בועידותיו בחו"ל ובארץ.
+
+ בשנים 1955-1950 היה חבר מועצת העיר רמת גן, ומאז ואילך יו''ר המועצה הדתית, פעיל בעניני קמחא דפסחא ובעניני סעד בכלל.
+
+ נפטר ברמת גן, ה' אייר תשי"ט (13.5.1959).
+
+ בתו :<persName> ברכה</persName> (אשת<persName> שמואל קיטאי).</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3765 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3765</bibl><bibl>Volume: #11 ,Page: 3766 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3766</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

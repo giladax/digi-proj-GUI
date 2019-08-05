@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3511 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3511</bibl><bibl>Volume: #10 ,Page: 3512 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3512</bibl>
+<bibl>Volume: #10 ,Page: 3513 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3513</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמריהו כלב</persName>
+
+</head>
+         <div><p> נולד י"ב אדר תרמ"ט (מרס 1889) בירושלים.
+
+ לאביו <persName>יצחק </persName> (בן הרב <persName>משה כלב</persName> , ממנהיגיה הרוחניים של יהדות בולגריה ובכח-המשיכה של חיבת ציון עלה עם ביתו לירושלים, ובאמצעות <persName>יצחק </persName> בנו התקשר בקשרי חיתון עם משפחות<persName> פינס, ילין ויוסף מיוחס</persName> , חלוצי מיזוג שבטי הספרדים והאשכנזים לעם ישראל אחיד), ולאמו <persName>שרה רחל</persName> בת הרב <persName>יחיאל מיכל פינ</persName> <persName>ס (ראה</persName> כרך ב', עמוד 562).
+
+ נתחנך בבית הסבא אבי אמו ולמד בבית הספר למל, ובשנת 1908 למד רוקחות בבית הרפואות הגדול של חברת "למען ציון" בירושלים.
+
+ ב-1909 נשא לאשה את<persName> רחל </persName> בת<persName> אליהו ברכות </persName> מקובנה (נפטרה בירושלים, ט"ו תמוז תש"ה - 27.6.1945).
+
+ עבד 46 שנה בתור פקיד ורוקח בבית החולים לחולי נפש של "עזרת נשים", מהן 17 שנה גם בבית הרפואות במושב-זקנים המאוחד.
+
+ סמוך לסוף מלחמת העולם הראשונה הוזמן על-ידי ועד ההגירה לנהל בטבריה את בית המרקחת של השרות הרפואי לעזרת המהגרים, המגורשים מיפו והסביבה.
+
+ בנה את ביתו בשכונת קרית משה. היה חבר ועד השכונה וזמן-מה סגן יושב-ראשה ומנהל עניניה בפועל, בזמן המאורעות יו"ר ועדת הבטחון של השכונה, וב-1940 נתמנה על-ידי השלטונות למוכתר השכונה וסביבתה.
+
+ כתב מאמרים על חובת הצבור לעזרת חולי הנפש.
+
+ משפרש מעבודתו לפנסיה מכר את ביתו בקרית משה והסתדר ב"בתי אבות" בחולון.
+
+ צאצאיו:<persName> יוסף, מיכל, צפורה </persName> אלמגת<persName> שמואל צור </persName> ז"ל. <persName>יצחק.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3511 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3511</bibl><bibl>Volume: #10 ,Page: 3512 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3512</bibl>
+<bibl>Volume: #10 ,Page: 3513 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3513</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

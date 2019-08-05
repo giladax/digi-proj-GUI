@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 521 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/521</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אוברי הריס (צבי) סילבר</persName>
+
+</head>
+         <div><p> נולד בלונדון, 6 ב-ספטמבר 1894, לאביו <persName>עוזיאל,</persName> ממשפחה שומרת המסורת הישראלית אף בסביבה הנכרית והרחוקה ממרכזי יהדות שרשית. קיבל חינוך מסורתי וגם כללי בבי"ס תיכוני ובקונסרבטוריון למוסיקה בלונדון. היה פעיל כמוסיקאי בלונדון והיה מתנדב לערוך קונצרטים לטובת מוסדות חסד יהודיים.
+
+ התנדב בין הראשונים לגדוד העברי האנגלי במלחמת-העולם הראשונה, בא ארצה עם גדודו ב-1918: ואחרי שחרורו נשאר בארץ והתגייס למשטרה. התמסר ליסוד התזמורת של המשטרה בירושלים, הועמד בראשה בדרגת קפטין ופעל למען גידולה והתפתחותה.
+
+ נשא לאשה את <persName>שרה </persName> בת <persName>שמואל רפאלי</persName> (רפאלוביץ), חוקר העתיקות והמטבעות העבריות העתיקות בירושלים.
+
+ בשנות המהומות 1936/38 מילא תפקידים אדמיניסטרטיביים נוסף על שרותו כאיש-מוסיקה, התנדב יחד עם חבר המנגנים של תזמרתו לשרות בנשק לשמירה ולהגנה במסירות ובמשך שנים היה האחראי לבטחון באזור היהודי שבעיר העתיקה בירושלים. על פעולותיו אלה זכה להוקרת הצבור ולאות-הצטיינות מאת הממשלה.
+
+ ב-1939 היה הממונה על חיל הנוטרים העברים במחוז ירושלים.
+
+ השתתף ביסוד בית הכנסת "ישורון" בירושלים, קיבל כל אדם בסבר פנים יפות, שקד לעזור לפונים אליו והרגיש את עצמו שותף לשאיפות העם העברי לחרות וקוממיות בארצו.
+
+ נפטר בירושלים, כ"ו כסלו תש"ה (12.12.44). בנו <persName>רענן</persName> הוא קצין מחוז בירושלים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 521 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/521</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

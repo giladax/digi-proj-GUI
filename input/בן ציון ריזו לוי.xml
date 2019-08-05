@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2546 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2546</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בן ציון ריזו לוי</persName>
+
+</head>
+         <div><p> נולד ביפו בשנת תרמ"ה (1885). 
+
+ לאביו<persName> נחום</persName> ולאמו<persName> זמבול</persName> בת <persName>רפאל מהודר.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ היה פעיל בארגוני הנוער ביפו, ומראשי אגודת "המכבי" ביפו. בין הלוחמים נגד המ סיון ביפו.
+
+ נשא לאשה את <persName>שרה</persName> בת <persName>רחל ובנימין מהודר</persName> (רחל היא בת <persName>אהרן שלוש,</persName> אבי משפחת שלוש בישראל. ראה כרך א', עמ' 499).
+
+ היה מתפקידים הראשונים בבנק אנגלו-פלשתינא בע"מ ביפו (כיום הבנק הלאומי לישראל).
+
+ ידע לקרב לקוחות מהשכנים הערבים לבנק.
+
+ נפטר ביפו, כ' ניסן תרס"ט (11.4.1909).
+
+ בתו:<persName> בת-ציון</persName> אשת <persName>יצחק</persName> בן<persName> חיים יהודה מלמד</persName> (ראה כרך א', עמ' 318).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2546 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2546</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

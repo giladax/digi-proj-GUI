@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4286 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4286</bibl><bibl>Volume: #13 ,Page: 4287 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4287</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אהרן מרשוב</persName>
+
+</head>
+         <div><p> נולד ב<placeName>פרילוקי</placeName> (רוסיה), ג' ניסן, תרל"ט (28.3.1879). לאביו<persName> אליעזר מרשוב</persName> ולאמו<persName> ביילה חיה</persName> בת<persName> זלמן</persName> <persName>מרשוב.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבות פרילוקי והומל עד גיל 16. בגיל 25 קיבל תעודת בגרות בעירו. למד רפואה באונברסיטאות : בקינגסברג (שנה) בוינה אוסטריה 1/2 3 שנים ובבזל חצי שנה. קיבל תואר ד"ר
+
+
+ לרפואה באוניברסיטת בזל, ואח"כ בחרקוב.
+
+ היה פעיל בתנועת ההשכלה וחיבת ציון. פעולה ציונית ענפה.
+
+ היה רופא בויטקה ובקונוטופ עד 1924 וראש הקהילה בעיר זו.
+
+ אירגון פועלי ציון ב<placeName>פרילוקי</placeName>. היה יו"ר הוועד הציוני הגלילי בקונוטופ. היה פעיל בווינה במרכז.
+
+ ב-1907 נשא לאשה את<persName> רוזה</persName> בת <persName>שמואל פרידמן</persName> (נפטרה בהרצליה) ובזיווג שני נשא לאשה בשנת 1935 את<persName> אולגה</persName> בת <persName>מאיר לבנטובסקי-לבנון,</persName> ובזיווג שלישי את <persName>צילה</persName> בת <persName>אליעזר שיפמן-נורדורף.</persName>
+
+ עלה לארץ בשנת 1924.
+
+ היה פעיל ב"הפועל הצעיר" ואח"כ במפא"י.
+
+ ממייסדי הליגה למלחמה בשחפת וסניף מגן דוד אדום ברחובות.
+
+ היה ציר בקונגרס הציוני השביעי בפרג.
+
+ כתב בעתון "דער אידישע ארבייטער", מטעם מרכז "פועלי ציון" בווינה (1904-06). תירגם מרוסית לאידיש חוברת פסמיק.
+
+ פירסם חוברת "דער פועלי ציוניזם". שירת את ההגנה ע''י מגן דוד אדום.
+
+ רופא עיריית רחובות וקופת חולים עממית, רחובות. חבר מזכירות מפא"י יו"ר מרכז הליגה למלחמה בשחפת ויו"ר סניף רחובות. חבר המועצה הארצית של קרן היסוד.
+
+ חבר הנהלת מגן דוד אדום ברחובות.
+
+ צאצאיו: <persName>יהודית</persName> אשת<persName> פסח יפהר</persName> (הרצליה), <persName>שושנה,</persName> <persName>תמר</persName> אשת<persName> אליהו אורן</persName> (משמר השבעה),<persName> זהר </persName> אשת <persName>עדי</persName> <persName>לרנר</persName> (רחובות),<persName> שמואל</persName> (קדימה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4286 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4286</bibl><bibl>Volume: #13 ,Page: 4287 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4287</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

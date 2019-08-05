@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 194 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/194</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ר' יהושע בורלא</persName>
+
+</head>
+         <div><p> בנו הצעיר של הרב בכור יהודה בורלא. נולד ב<placeName>ירושלים</placeName> בשנת תרי"ב (1852). בן למשפחת רבנים היושבת בארץ למעלה ממאתים שנה. מיוצאי ספרד. מקום מגוריהם באנטוליה באזמיר. משם עלו אבות המשפחה לא"י. בהיותו בן שש שנים התיתם מאביו. למד בת"ת הספרדים בעיר העתיקה ב<placeName>ירושלים</placeName> ובישיבות של הספרדים. מחמת דוחק הפרנסה עסק במלאכת כריכת ספרים.
+
+ כל ימיו היה איש ירא אלהים וסר מרע. אהב וכיבד את לומדי התורה והיה מתאבק במושב של ה"חכמים". ביתו היה פתוח תדיר לחברת תלמידי החכמים. היה ידוע כל ימיו כ"חזרן במצוות". כבנם של רבנים גדולים כיהן כמשגיח וכגבאי בקברות הקדושים: קבר רחל אמנו, <persName>וקבר שמ</persName> <persName>עון הצדיק.</persName> מפתחות בתי הקברים האלה היו מופקדים בידיו במשך 50 שנה והוא דאג לתיקונם ולשלמותם של בתי הקברות. כן היה שנים רבות גבאי באחד מארבעת
+
+ בתי הכנסת העתיקים, הוא ק"ק איסטמבוליס. שמר מתוך דאגה על מנהגים מסורתיים בחיי העדה: בבית משפחת בורלא היו נערכים "למודים" לעתים תכופות, בפרט למודי "שבוע ששי" (לספירת העומר). תלמידי
+
+ חכמים מצויינים היו עוסקים בלימודים מפולפלים כל לילה עד חצות במשך השבוע הששי ובלילה האחרון לשבוע למדו כל הלילה. כן נערכו בבית המשפחה "הילולות" של ל"ג בעומר ושל שבעה באדר (יום לידתו ופטירתו של משה רבנו) בלימודים במשך הלילה ובסעודה גדולה ביום.
+
+ בנו הוא הסופר<persName> יהודה בורלא.</persName>
+
+ נפטר ב<placeName>ירושלים</placeName>, י"ט אייר תרצ"ט.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 194 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/194</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

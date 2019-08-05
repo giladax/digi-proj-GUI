@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4802 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4802</bibl><bibl>Volume: #15 ,Page: 4803 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4803</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רב אלוף יעקב דורי (דוסטרובסקי)</persName>
+
+</head>
+         <div><p> (המשך לערך שלו בכרך שלישי, עמוד 1120)
+
+ לאחר מלחמת השחרור קיבל חופשה מן הצבא, בגלל מצב בריאותו שהתערער, ונתמנה לראש המועצה המדעית שעל-יד משרד ראש-הממשלה.
+
+ עם פטירתו של מנהל הטכניון, אינג' שלמה קפלנסקי, נתמנה רב-אלוף דורי למנהל הטכניון. מאז כניסתו לתפקידו החדש חלו שינויים רבים במוסד. תכניותיו היו נועזות, להרחבת הטכניון, הן בשטח הלמודים והן בשטח המחקר. כדי לצאת למרחב דאג להקמת "קרית הטכניון", הנמצאת בבניה, והיכולה כבר היום לשמש דוגמה גם למוסדות רבים בחוץ-לארץ. וכך הגדיר ר"א דורי את תפקיד המוסד, עם כניסתו לעבודה: "הכשרת כחות טכניים מעולים, אנשי-מדע יוצרים והכשרת
+
+
+ מהנדסים לשרות המדינה והעם, מטילות על המכון הטכנולוגי בישראל תפקיד ממלכתי ראשונה במעלה במפעל ביסוסה ופיתוחה של מדינת ישראל". ואת התגשמות תכניותיו אפשר לראות כבר היום.
+
+ בתשכ"ה (1965) פרש מהנהלת הארכיון, מטעמי בריאות.
+
+ בתשי"ח (1958) הוענק לו "פרס דב הוז" של עירית תל-אביב על זכויותיו ב"הגנה".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4802 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4802</bibl><bibl>Volume: #15 ,Page: 4803 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4803</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

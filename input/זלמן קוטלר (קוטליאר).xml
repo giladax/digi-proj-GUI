@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1487</bibl><bibl>Volume: #3 ,Page: 1488 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1488</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זלמן קוטלר (קוטליאר)</persName>
+
+</head>
+         <div><p> נולד במונאסטירשצ'ה, אוקראינה, ט"ו חשון תרל"ה (1874), לאביו <persName>יצחק</persName> (סוחר עצים, ממשפחת אדמו"רים) ולאמו <persName>צירל</persName> בת <persName>יוסף סורקס.</persName>
+
+ למד בחדרים ובישיבה. התכונן להכנס לאוניברסיטה באודיסה אך לא נתקבל בגלל הגבלות המכסה ליהודים ("נומרוס קלאוזוס"). היה במשך שנים רבות הספרן של המחלקה העברית בספריה של אגודת עוזרי-בתיהמסחר היהודים באודיסה ומנהלה, ערך את הקטלוג שלה בהשגחת הסופרים <persName>אחד העם וש. דובנוב </persName> (יצא בתרס"ד), ערך שם עתון באידיש וחיבר באידית את הספרים "משלוח מנות", "אבנים זועקות" ו"סגולה נגד פוגרומים", שיצאו בהוצאת "פרייהייט" באודיסה, וחוברת על השקל הציוני של ההסתדרות הציונית באודיסה נתנה לו פרם בעדה ופרסמתה בדפוס באידית ובתרגום רוסי. נבחר לציר ציוני אודיסה לקונגרסים הציוניים הששי והשביעי.
+
+
+ אחרי פרעות 1905 יצא לאמריקה. עבד במערכות העתונים "יידישעס טאגבלאט" ו"יידישע גאזעטן", היה ספרן בספרית ישיבת ר' יצחק אלחנן וערך בה את רשימת ספרי הפוסקים. פרסם את ספרו (באידית) "בימים אדומים ושחורים" (תמונות וציורים מימי המהפכה והפרעות ברוסיה ב-1905) בהוצאת "אידישער פערלאג" וחוברת "החלוץ" (על "צעירי ציון", שהיה ממיסדיה באמריקה), תרגם ספרים שונים לאידית והשתתף במאמרים באנציקלופדיה העברית '"אוצר ישראל" של <persName>י. ז. אייזנשטיין</persName> ובלכסיקון האידי. השתתף בפעי
+
+ לות ציונית כאחד מבוני ההסתדרות הציונית בניו-יורק וסגן יושב-ראשה, יו"ר הסתדרות הציונים בברונקס, ממיסדי מיסדר "בני ציון" וחברת הביטוח "יהודה". יחד עם עמנואל ניומן והפרופסור קאלען יצר ויסד את הסתדרות "צעירי-ציון" בארצות הברית והיה היו"ר הראשון שלה בניו-יורק. השתתף בקונגרס יהודי ארצות הברית ב-1917 כציר יהודי ניו-יורק, ובקונגרסים הציוניים י"ב, י"ג וי"ד כציר הציונים ו"בני ציון" מאמריקה.
+
+ בתשרי תרפ"ב עלה ארצה, התישב בירושלים והיה סופר מיוחד של ה"טאג" ואח"כ של ה"פארווערטס" הניו-יורקיים".
+
+ ב-1922 נשא לאשה את <persName>רחל</persName> בת<persName> ברוך משה</persName> <persName>מאלין.</persName>
+
+ פרסם מאמרים לאלפים בעשרות עתונים ומאספים בעברית ובאידית. עובד זה כמה שנים במחלקת התעמולה של הלשכה הראשית של הקהק"ל בירושלים ומאמריו שכתב בשירותה תורגמו ונדפסו בשפות שונות בעתונים היהודיים בארצות אירופה ואמריקה הצפונית והדרומית.
+
+ פסוידונימים: <persName>זלמן איצ'יס, ז. איציקוביץ, ז.</persName> <persName>צירל'ס, זלמניו, זלמן, ז. ק-י</persName> ועוד.
+
+ היה יו"ר בית העם בירושלים ובשנות מלחמתהעולם השנית יו"ר ארגון הורי החיילים בירושלים, והנו חבר בית-הדין של אגודת העתונאים בירושלים.
+
+ נרשם כמה פעמים בספר הזהב של הקהק"ל על-ידי ארגונים שונים בארה"ב ובארץ.
+
+ צאצאיו:<persName> יצחק</persName> (גמר את ביה"ס לחקלאות של כדורי, כיום משתלם בנטיעות ופיתוח עצי פרי בפקולטט לחקלאות של ברקלי -- בקליפורניה), <persName>רינה</persName> (למדה בביה"ס לחקלאות של צ'יזיק, כיום חילת בצבא ישראל).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1487 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1487</bibl><bibl>Volume: #3 ,Page: 1488 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1488</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

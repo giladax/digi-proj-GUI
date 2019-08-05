@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 517 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/517</bibl><bibl>Volume: #1 ,Page: 518 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/518</bibl>
+<bibl>Volume: #1 ,Page: 519 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/519</bibl>
+<bibl>Volume: #1 ,Page: 520 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/520</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רבי יצחק פראג (אופלטקה</persName>
+
+</head>
+         <div><p> )
+
+ נולד בפראג, בשנת תק"פ (1820), לאביו ר' <persName>מרדכי אופלטקה</persName> . למד בחדרים ובישיבת רבי <persName>משה</persName> <persName>סופר</persName> (ה"חתם סופר") בפרסבורג, שכיבד אותו כתלמיד מובהק ונאמן וקרא לו בשם "ר' איציקל פראג". קיבל ברצינות את הוראת רבו, שלמרות התקוות וההבטחות למתן "שויון" ליהודים בארצות הגולה אין מקום ליהודי נאמן אלא בארץ-ישראל.
+
+ בן שמונה עשרה עלה ארצה בשנת תקצ"ח והוא אז כבר גדול בתורה, התישב בירושלים, למד והורה בישיבות הספרדים, נספח אל עדת הספרדים בלבוש ובמנהגים וחי בחברתם. נשא לאשה את <persName>וידה חנה</persName> בת הרב הראשי וראשון-לציון רבי<persName> יעקב</persName>
+
+<persName>משה עייאש</persName> (נפטרה בירושלים, י"ח ניסן תרנ"ב).
+
+ היה ידידו ואיש-סודו של ר'<persName> יהוסף שווארץ</persName> מגרמניה, חלוץ חקירת ארץ-ישראל, והשתתף אתו בפעולות לטובת הישוב, אך בהצנע-לכת. השתתף ביסוד "כולל אונגארן שומרי החומות" (שנשיאו בחו"ל היה הרב מפרסבורג) בשנת תרכ"ב ביחד עם הרב משה נובומסטא (המבורגר), משה בוימגרטן ושמעיהו גינצלר. היה מכובד בצבור האשכנזי וקראו לו בכינוי "הארי מפראג".
+
+ אחרי מגפת החולירע בשנת תרכ"ו בירושלים, שהפילה למעלה מאלף חללים ונשארו בעקבותיה יתומים עזובים רבים, יעץ לחברה הפאריסאית "דורשי שלום ירושלים" (שהיתה אוספת כספים מיהודי
+
+ צרפת ושולחת לעזרת יהודי ארץ הקודש), שתקים בירושלים מוסד חינוכי שיספק את צרכי בני העוני בחומר וברוח ויתן להם חינוך יהודי טוב והכשרה מקצועית. ראשי החברה (הרב הראשי <persName>צדוק הכהן,</persName> הרבנים <persName>וייסקופף ואיזידור,</persName> ומר <persName>יוסף בלומנטאל </persName> נציג החברה להעברת הכספים ארצה) הסכימו להצעה ושלחו כסף לרכישת חצר גדולה עם גינה ליד "בתי מחסה" בעיר העתיקה שקנה בשנת תרכ"ט בסך 17000 פרנק, ומילאו ואת ידו לארגן ולנהל בבנין זה מוסד חינוכי בשם "דורש ציון". צירף אליו את חבריו ר' <persName>יונה ליב מנדלסון ור'. משה אהרן</persName> <persName>קרמזיר</persName> (בוימגארטן, מישיבת החתם סופר), שעזרו לו בארגון המוסד ואח"כ גם הורו בו, ונוסף עליהם מינה את טובי המורים והמחנכים להוראה במוסד, ולתלמידים בני העניים נתנו בו אף ארוחות צהרים וערב והלבשה.
+
+ לפי הצעת <persName>יוסף בלומנטאל</persName> לימדו במוסד אף את השפה הערבית, שנחשבה אז כשפת המדינה וידיעתה היתה נחוצה בחיי המעשה. דבר זה העלה עליו את חמתם של קנאי האשכנזים, שהכריזו חרם על המוסד ועליו ואף שלחו להעמיד ליד פתח ביתו את מטת הקבורה של החברה-קדישא (רמז, שיענש במיתה חטופה בגלל עוון חמור זה - הוראת שפה נכרית לילדי ישראל ומרידה בשיטת החינוך המקובלת אז ללמד רק תורה בלי "דרך ארץ"). אולם חכמי הספרדים לא מצאו שום פגם במוסד ובהוראתו, ובלי אישורו של החכם-באשי לא היה תוקף לחרם. היה אמיץ לב ועמד בתוקף על דעתו, ונוסף לכך היה "ספרדי" לפי קשרי משפחתו ומעמדו בצבור, לא נרתע מהחרמות והנסיונות-לרדיפה מצד קנאי האשכנזים, והמשיך לשקוד על חיזוק המוסד ושכלולו, אלא שילדי האשכנזים לא יכלו ליהנות מעזרת המוסד בגלל החרמות, ולכן למדו בו אך ורק מבני העדות הספרדית והמערבית, והמוסד התנהל תחת פיקוח רבני העדה הספרדית ובחסותם. ברבות הימים השלימו האשכנזים עם קיומו כמוסד ספרדי ור' <persName>יואל משה</persName> <persName>סלומון </persName> אף הקדיש לו רשימת הערכה בעתונו "יהודה וירושלים".
+
+ היה אחד מראשי ישיבת הבבלים "כנסת יחזקאל", שיסד ר' <persName>שלמה יחזקאל יהודה</persName> , הגביר הנדיב שעלה מבגדאד, על שם אביו ר' <persName>יחזקאל יהודה.</persName>
+
+ היה ידידו הנאמן של הרב <persName>אריה ליב פרומקין</persName> וסיפק לו הרבה חומר, ידיעות והערות בשביל ספרו "תולדות חכמי ירושלים".
+
+ פעל כל ימיו לטובת בית המדרש "דורש ציון" ולטובת הישיבה. הרבה לתת צדקה לעניים והפריש לכך מעשר מכל הכנסותיו. שקד יומם ולילה על התורה והשאיר אחריו הרבה חידושי תורה בכתב-יד.
+
+ מיום בואו לארץ לא עזב אותה אפילו בשליחות.
+
+ נפטר בירושלים, י"א שבט תר"ס.
+
+ צאצאיו: <persName>הרב רחמים יוסף חיים,</persName> הרב <persName>אברהם.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 517 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/517</bibl><bibl>Volume: #1 ,Page: 518 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/518</bibl>
+<bibl>Volume: #1 ,Page: 519 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/519</bibl>
+<bibl>Volume: #1 ,Page: 520 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/520</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

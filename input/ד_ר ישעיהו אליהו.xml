@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4530 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4530</bibl><bibl>Volume: #14 ,Page: 4531 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4531</bibl>
+<bibl>Volume: #14 ,Page: 4532 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4532</bibl>
+<bibl>Volume: #14 ,Page: 4533 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4533</bibl>
+<bibl>Volume: #14 ,Page: 4534 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4534</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר ישעיהו אליהו</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קורפו</placeName> (יוון) ד' טבת תרנ"ב (1892).
+
+ לאביו <persName>אברהם</persName> (סוחר) ולאמו<persName> מלכה</persName> בת <persName>דוד בללי</persName> .
+
+ קיבל חינוך מסורתי וכללי.
+
+ היה פעיל בארגוני הנוער הציוני בעירו.
+
+ עלה לארץ בשנת 1914 וחזר להשתלם בברלין ברפואה. ב-1917 קיבל תואר ד"ר לרפואה ובשנת 1918 חזר לארץ.
+
+ היה הראשון שפתח מכון רנטגן בת"א.
+
+ היה מפעילי העדה הספרדית.
+
+ מראשוני ופעילי הצה"ר.
+
+ מפעילי ומיסדי "מגן דוד אדום", "מכבי-אש" ועוד.
+
+ בשנת 1921 נתן יד לד"ר<persName> יהודה ליב מטמון</persName> <persName>כהן,</persName> ממנהלי הגמנסיה העברית "הרצליה" (ראה כרך א', עמוד 468) להגשים את תכניתו שהכריז עליה עוד בשנת 1913 להקים "עיר גנים" על שטח קרקע שנרכשה מעבר לנחל מוצררה, שהוקמה על גבעות כורכר בגבולה המזרחי של ת"א, בה עובר הכביש תל-אביב-פתח-תקוה. עיר גנים נקראה אח"כ רמת-גן. על גבעת כורכר במרכזה בנה ד"ר אליהו על שטח של 5 דונם את דירתו. בשנת 1950 הוכרזה רמת-גן - לעיר כשהיא מוקפת שכונות ואזורי תעשיה, ומפורסמת בגניה הציבוריים הרבים, שראש העיריה <persName>אברהם קריניצי</persName> השקיע בעיר זו מרץ רב להתפתחותה. ד"ר <persName>אליהו</persName> היה שנים רבות חבר מועצת העיריה וסגן ראש העיריה.
+
+ על נחלתו ברמת-גן גידל צמחי רפואה שונים והיה מביא מרפא לחולים רבים שלא על מנת לקבל פרס.
+
+ נפטר ברמת-גן, י"ט אדר ב' תשכ"ה (23.3.1965).
+
+ בנו:<persName> גדעון</persName> .
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4530 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4530</bibl><bibl>Volume: #14 ,Page: 4531 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4531</bibl>
+<bibl>Volume: #14 ,Page: 4532 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4532</bibl>
+<bibl>Volume: #14 ,Page: 4533 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4533</bibl>
+<bibl>Volume: #14 ,Page: 4534 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4534</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

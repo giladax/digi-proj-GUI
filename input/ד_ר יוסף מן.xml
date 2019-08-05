@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3970 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3970</bibl><bibl>Volume: #12 ,Page: 3971 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3971</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יוסף מן</persName>
+
+</head>
+         <div><p> נולד כ"ב ניסן תרס"א (11.4.1901) ברומשובקה שבמזרח גליציה.
+
+ לאביו<persName> משה</persName> ולאמו פרידה בת אייזיק<persName> נויברגר-האוזנר</persName> .
+
+ למד באוניברסיטאות צ'רנוביץ וקלויזנבורג והוסמך לדוקטור למשפטים וכלכלה, ואח"כ עבד בצ'רנוביץ, תחילה כרואה-חשבון ואח"כ כעורך-דין. היה פעיל בתנועה הציונית בבוקובינה כחבר הנהלת המוסדות הציוניים ושל קרן היסוד מראשיתה, ציר לקונגרסים ציוניים, יו"ר מפלגת "המדינה העברית" וחבר הנהלת הקהילה היהודית בצ'רנוביץ.
+
+ ב-1940 נשא לאשה את<persName> נעמי-שושנה</persName> בת <persName>אברהם טלר</persName> .
+
+ ב-1944 עלה לארץ. עבר את הבחינות לעורכי-דין זרים והורשה לעסוק במקצוע בארץ. עבד 4 שנים בלשכת קרן היסוד בתל-אביב, ומאז קום המדינה בשרות הממשלה, בתור ממונה על יחידת תשלומי-חובה, מטעם משרי האוצר, בבית המכס ביפו.
+
+ בארץ הצטרף להסתדרות הציונים הכלליים (כעת
+
+
+ המפלגה הליברלית) והנו חבר פעיל במוסדותיה, חבר הנהלת סניפה המקומי והועד הפועל שלה אח בלשכת "מנורה" של בני ברית וסגן יו"ר התאחדות עולי בוקובינה.
+
+ היה ציר לקונגרסים הציוניים ה-18 בפרג וה-20 בציריך.
+
+ בשנת 1936 היה ציר בקונגרס היהודי העולמי בג'נבה ובשנת 1956 בירושלים.
+
+ כתב מאמרים רבים בשבועון הציוני "אוסטיודישה צייטונג" שיצא בגרמנית בצ'רנוביץ, כמה מאמרים ב"הארץ" וכותב לעתים קרובות ב"די שטימה".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3970 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3970</bibl><bibl>Volume: #12 ,Page: 3971 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3971</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

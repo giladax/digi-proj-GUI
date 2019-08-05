@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1153 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1153</bibl><bibl>Volume: #3 ,Page: 1154 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1154</bibl>
+<bibl>Volume: #3 ,Page: 1155 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1155</bibl>
+<bibl>Volume: #3 ,Page: 1156 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1156</bibl>
+<bibl>Volume: #3 ,Page: 1157 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1157</bibl>
+<bibl>Volume: #3 ,Page: 1158 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1158</bibl>
+<bibl>Volume: #3 ,Page: 1159 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1159</bibl>
+<bibl>Volume: #3 ,Page: 1160 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1160</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מאיר בלקינד</persName>
+
+</head>
+         <div><p> נולד בלאהויסק, פלך מינסק, (רוסיה הלבנה), כ"ו אלול תקפ"ז (1827), לאביו<persName> אליהו</persName> . קיבל חינוך תורני והיה תלמיד-חכם, משכיל ולאומי עוד לפני היות תנועת "חיבת ציון" מקובלת בצבור היהודי.
+
+ נשא לאשה את <persName>שפרה</persName> בת <persName>שמעון דב גלסטוך</persName> (נפטרה בראשון לציון בט"ו חשון תר"ע, בגיל 80 שנה).
+
+
+ היה מורה עברי בלאהויסק, ואף את בניו ובנותיו חינך במסורת היהודית ובלימודי התנ"ך, ותוצאות חינוכו נתגלו במעשי צאצאיו שהיו ראשוני תנועת ביל"ו ובמכתבי בנותיו<persName> אולגה ופאני </persName> בעברית יפה ומלאת רגש, שפורסמו ב"המליץ" בראשית ימי ביל"ו וחיבת ציון ועוררו תשומת-לב רבה כתופעה נדירה בימים ההם.
+
+ אחרי עלות צאצאיו ארצה בזרם עלית ביל"ו עלה גם הוא אחריהם והתישב ביפו.
+
+ בתרמ"ח פתחו קנאי העדה האשכנזית בירושלים במערכת השמצה על בני ביל"ו שהתישבו בגדרה והפיצו את דיבתם רעה במכתבים לחו"ל, שהם מהרסים את דת ישראל. המכתבים עוררו רעש גדול בין יהודי רוסיה ואף בין טובי חובבי הישוב ממקורבי הבארון<persName> רוטשילד</persName> בפאריס. הדברים הגיעו לידי כך, שהרב <persName>נפתלי צבי יהודה ברלין</persName> (הנצי"ב) מוולוז'ין, שגדולתו בתורה וכבודו הרב בעולם היהדות הדתית היו לסעד מוסרי רב-ערך לתנועת חיבת ציון, הציע למרכז חובבי ציון שיתנו כסף לבני גדרה להוצאות נסיעתם מהארץ ויושיבו במקומם מבני ירושלים. ואף <persName>מ. אוסישקין</persName> נטה לתת אמון בדיבות הללו ולפעול לפיהן, והפולמוס הזה היה עלול להביא לנישול הבילויים מאדמתם ולפילוג בתנועת חובבי ציון.
+
+ הדברים הגיעו לידיעת מאיר בלקינד, וכדי לברר לעצמו את האמת יצא בלי הודעה מוקדמת לגדרה בערב שבת, ר"ח שבט תרמ"ח, והנה ראה כי השבת נשמרת כהלכתה והאכרים העייפים מעמל ששת ימי המעשה נחים מעבודתם ושומרים את השבת ושאר קדשי ישראל. אז פרסם מכתב ב"המליץ" (גליון 44 משנת 1888), בו הרס את הטענות והדיבות של המשקרים "לשם שמים", ובהיותו מכובד וידוע כתלמיד-חכם וירא-שמים הצליח בדבריו לשכך את הסערה ולמנוע את הנישול וההרס.
+
+ אחרי שבנו<persName> ישראל</persName> גורש מראשון לציון (בעקב
+
+ התפקיד המרכזי שמילא במרד האכרים נגד הפקידות) ובמשקו בגדרה לא הצליח, עבר בתרמ"ט ליפו ויסד בית-ספר עברי. בעבודתו הקשה עזרו לו אחותו <persName>אולגה</persName> ואביו שנסיונו הרב בהוראה הביא תועלת רבה במפעל החינוכי החלוצי ביפו. וכשנוסדה בתרנ"ב "ברית המורים" (שהיתה הגרעין להסתדרות המורים) היה גם הוא אחד החברים, יחד עם מורי הזמן ההוא:<persName> יצחק אפשטיין, יהודה גרזובסקי (גור), זאב</persName> <persName>יעבץ, דוד ילין, מרדכי לובמן, יוסף בר"נ מיוחס,</persName> <persName>אליהו ספיר </persName> ועוד.
+
+ נפטר ביפו, ב' שבט תרנ"ח ונקבר בבית-העלמין הישן שמדרום לעיר (בעג'מי), וכשגזר השלטון במלחמת-העולם הראשונה לפנות את בית-הקברות ההוא העבירו בניו את עצמותיו לקבורה בצל השקמה בבית-העלמין בראשון לציון,
+
+ צאצאיו:<persName> אולגה (אלקה חיינה)</persName> אשת <persName>יהושע</persName> <persName>חנקין, פאני (שרה פייע)</persName> אשת <persName>ישראל (לוליק) פיינ</persName> <persName>ברג, אלכסנדרה (שצ'ירה)</persName> היא הרופאה ד"ר<persName> אלכסנ</persName> <persName>דרה בלקינד </persName> אשת <persName>מנחם חנקין, ישראל</persName> (יוזם רעיון ביל"ו וממיסדי התנועה),<persName> שמשון </persName> (חבר ביל"ו, ממיסדי ראשון לציון).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1153 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1153</bibl><bibl>Volume: #3 ,Page: 1154 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1154</bibl>
+<bibl>Volume: #3 ,Page: 1155 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1155</bibl>
+<bibl>Volume: #3 ,Page: 1156 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1156</bibl>
+<bibl>Volume: #3 ,Page: 1157 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1157</bibl>
+<bibl>Volume: #3 ,Page: 1158 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1158</bibl>
+<bibl>Volume: #3 ,Page: 1159 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1159</bibl>
+<bibl>Volume: #3 ,Page: 1160 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1160</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

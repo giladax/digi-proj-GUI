@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4472 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4472</bibl><bibl>Volume: #14 ,Page: 4473 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4473</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה לבנון (ויס)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>היבנוב</placeName> ע"י בלז (גליציה) בשנת תרנ"א (11.9.1891).
+
+ לאביו<persName> מרדכי יוסף ויס</persName> ולאמו<persName> רחל</persName> .
+
+ קיבל חינוך מסורתי בחדר ובישיבה ובוגר בית ספר תיכון (אביטוריענט).
+
+ היה פעיל בתנועה הציונית "בר-כוכבא".
+
+ יצרן בענף הטכסטיל.
+
+ בשנת תרפ"א (1921) נשא לאשה את<persName> פני</persName> בת <persName>מרים</persName> <persName>וקהתי אשכנזי</persName> (מצאצאי חכם צבי), נספתה בשואה.
+
+ בשנת תרצ"ג (1933) עלה לארץ.
+
+ עבד כפועל בנין, שומר לילה, מורה, פקיד.
+
+
+ בשנות "הצנע" היה מפקח ממשלתי.
+
+ היה פעיל במשמר האזרחי.
+
+ אח בלשכת בני ברית, "יצחק ילין" ובלשכת הבונים החפשים "ברקאי" בתל-אביב. כתב על נושאים שונים בעתונים: "דבר", "הארץ",
+
+ "הצופה" ו"הבוקר" ובירחונים שונים. בתו:<persName> לבנה לבנון</persName> אשת<persName> מקס בוהם</persName> . נכדו: <persName>יורם </persName> (בן 15).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4472 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4472</bibl><bibl>Volume: #14 ,Page: 4473 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4473</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

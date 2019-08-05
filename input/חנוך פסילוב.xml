@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5408 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5408</bibl><bibl>Volume: #18 ,Page: 5409 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5409</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חנוך פסילוב</persName>
+
+</head>
+         <div><p> נולד ב<placeName>הומל</placeName> (רוסיה), י"ז ניסן תרנ"ג (אפריל 1893).
+
+ לאביו<persName> טוביה פסילוב</persName> ולאמו <persName>חסיה </persName> לבית<persName> לוין.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה, והשכלה כללית בבית-ספר תיכוני עירוני.
+
+ היה חבר בצה"ר.
+
+ בעל בית-חרושת לסיגריות בעירו.
+
+ בשנת 1920 נשא לאשה את <persName>חיה</persName> בת<persName> יעקב אריה</persName> <persName>אסנין.</persName>
+
+ בראשון לינואר 1925 עלה לארץ.
+
+ היה בהתחלה חקלאי, בעל משק, בעל מסעדה ובעל מלון. 
+
+ היה מראשונה המתיישבים בעפולה.
+
+ ציר המועצה המקומית בעפולה מטעם "תנועת חרות".
+
+ ממניחי היסוד של הצה"ר בא"י.
+
+ היה חבר במחתרת אצ"ל (אירגון צבאי לאומי).
+
+ היה ממארגני ומראשי תנועת ה"חרות" בעמק.
+
+
+ ממניחי היסוד להקמת בית-הכנסת. בעשר השנים האחרונות היה גבאי בו.
+
+ עסק בצרכי ציבור באמונה.
+
+ בנותיו;<persName> חסיה</persName> אשת<persName> מאיר הריט</persName> ; <persName>טובה אשת חיים</persName> <persName>אידלשטיין; רוחמה אשת יצחק ברוקמן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5408 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5408</bibl><bibl>Volume: #18 ,Page: 5409 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5409</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

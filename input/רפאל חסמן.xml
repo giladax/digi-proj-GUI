@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1734 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1734</bibl><bibl>Volume: #4 ,Page: 1735 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1735</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>רפאל חסמן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קלם</placeName> (ליטה), ח' בחשון תרנ"ה (1895) לאביו הרב ר'<persName> יהודה ליב חסמן</persName> (אב"ד ור''מ בשטוציין, פלך וילנה. ומשנת תרפ''ה המנהל הרוחני בישיבת חברון וירושלים, תלמיד מובהק לר' <persName>יצחק בלאזר</persName> (ר' איצל פטרבורגר) ולר' <persName>שמחה זיסל זיוו</persName> מקלם. (מראשי תנועת המוסר) ולאמו<persName> טויבה מלכה</persName> בת ר' <persName>אברהם יבנה</persName> (מקלם, ליטה).
+
+
+ קיבל חינוכו בחדר מתוקן ובישיבות שטוצ'ין וראדון, השכלתו הכללית רכש בלימוד עצמי. למד באוניברסיטת יורייב בוורונייזש (רוסיה) מדעי הטבע ופילולוגיה וזמן ידוע עסק בהוראה.
+
+ משנת 1921 עוסק בעתונאות. חבר המערכת ואח"כ סגן העורך של העתון "אידישע שטימע" בקובנה, ליטה. עורך שבועון המזרחי "דאס אידישע ווארט" והוצאות
+
+ פריאודיות אחרות. היה סופרם הליטאי של "הארץ" בארץ ישראל ו"טאג" ו"פארווערטס" האמריקאניים. הרצה על תורת העתונאות באוניברסיטה העממית בקובנה. נשא לאשה את <persName>פרומה</persName> בת ר' <persName>מאיר יצחק יודלביטש</persName> משאוול (ליטה).
+
+ סייר בארץ לראשונה בשנת 1929 מטעם מערכת "אידישע שטימע" וביקר אצל הוריו בחברון כמה חדשים לפני מאורעות תרפ"ט. פירסם סידרת מאמרים ורשימות על ארץ-ישראל .באלול תרצ"ה בא להשתקע.
+
+ עבד כשנתיים כחבר מערכת "הארץ" ועבר ל"הצופה" משנת יסודו (תרצ"ח) כעורך לילה. משנת תש"ה - מזכיר המערכת.
+
+ השתתף בקונגרס העתונאים הבינלאומי בפראג עם המשלחת של אגודת העתונאים, היה במשך כמה שנים חבר הוועד של האגודה ומשמש כחבר בית דין החברים שלה. חבר הועדה להנצחת זכרה של יהדות ליטה.
+
+ שטח פעילותו העתונאית: מאמרים ראשיים, פובליציסטיים, עריכה, סקירות מדיניות, פיליטונים, ריפורטאג'ים. ביקורת ספרותי ותיאטראלית, תירגומים ועיבודים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1734 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1734</bibl><bibl>Volume: #4 ,Page: 1735 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1735</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

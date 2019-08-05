@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3836 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3836</bibl><bibl>Volume: #11 ,Page: 3837 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3837</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו מרגלית</persName>
+
+</head>
+         <div><p> מחכמי פולניה.
+
+ נולד בשנת ת"צ (1730).
+
+ היה רב ואב-בית-דין בעיר באלטי.
+
+ בשנת ת"ק (1770) עלה לארץ-ישראל והתיישב בצפת. שם חי חיי דוחק ועוני והתקיים מתמיכות ששלחו לו ידידיו בפולניה וביחוד בני קהילתו הנ"ל.
+
+ בצפת "ישב על התורה והעבודה" והתנהג כל ימיו בחסידות ופרישות מענייני העולם-הזה. כעשרים שנה לאחר בואו לצפת פסקו תומכיו לשלוח לו כסף "מחמת רעש המלחמות ומלכיות מתגרות זו בזו" ולא היה לו במה להתפרנס. הקהילה האשכנזית בצפת החליטה לשגר אותו כשליח לערי פולניה. בשנת תקמ"ח יצא לדרכו. כהיותו סמוך לאיזמיר נטרפה הספינה בים ואנשיה עם כל החפצים והרכוש טבעו בים. הוא ניצול בדרך נס והגיע אחר הרפתקאות ועינויים רבים לאיזמיר. היה תשוש-כוח וסובל ממחלה כבדה וע"כ לא יכל לצאת לפולניה. מאיזמיר שלח מכתב לצפת והודיע כי אין הוא יוצא בשליחותם מטעמי-בריאות. לאחר שישב באיזמיר למעלה משנה יצא "לסובב נתיבות אחינו בני ישראל ולעורר לב המתנדבים בעם למען יתעוררו רחמים עליו".
+
+ בשנת תק"ן ביקר בצפון-אפריקה וקיבל המלצות מרבני תוניס ואלג'יר המפליגים בשבחו מאד. משם
+
+
+ יצא לאיטליה. בהיותו בליוורנו קיבל מבית-הדין של הספרדים אגרת אל נציגי ישראל שיתמכו בו. כאיגרת זו נמסרו גם הפרטים הביוגרפים עליו. כל התעודות הללו (והן ארבע במספר) נדפסו על דף בודד בליוורנו בשנת תק"פ (1820).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3836 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3836</bibl><bibl>Volume: #11 ,Page: 3837 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3837</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

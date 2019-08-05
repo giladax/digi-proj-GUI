@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 335 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/335</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב מאיר שמואל קסטל הי"ד</persName>
+
+</head>
+         <div><p> נולד בחברון, בשנת תר"כ (1860), לאביו ר'<persName> אלי</persName> <persName>עזר</persName> ממשפחת <persName>קסטל</persName> , ממגורשי קסטיליה שבספרד, שעלתה ארצה לפני דורות רבים והתישבה בעזה וכשכבש נפוליון את עזה ב-1799 עבר חלק מהמשפחה לחברון. למד בתלמוד-תורה ובישיבות הספרדים שבעיר. בן 18 נתפרסם כבקי בש"ס ופוסקים ונשא לאשה את בתו של ר' <persName>כלב מירקאדו מאיר</persName> , מנכבדי הספרדים בירושלים, תלמיד-חכם וסוחר אמיד, ואחותו של הרב <persName>יעקב</persName> <persName>מאיר</persName> , שהיה אח"כ ראשון-לציון ורב ראשי לארץ-ישראל. המשיך ללמוד בשקידה ונודע כגדול בתורה ודרשן רב-השפעה.
+
+ בתרמ"ד יצא בשליחות העדה לארם-נהרים, פרס והודו ואסף כספים לטובת מוסדות הספרדים בחברון. כשחזר המשיך לעסוק בתורה ולקרוא שיעורים לפני תלמידי-חכמים. אח"כ החל לעסוק במסחר והגיע לעושר רב והמשיך לקבוע עתים לתורה.
+
+ בתר"ע נתמנה לרב, חבר בית-הדין של העדה הספרדית. עסק בפעילות בצרכי הצבור. התקרב לרעיון הציוני ותרם לקרנות הציוניות. נבחר לראש ועד העדה הספרדית ובתרפ"א נבחר לראש ועד העיר של יהודי חברון, ספרדים ואשכנזים יחד. 
+
+ בפרוץ המהומות בחברון ביום ו', י"ז אב תרפ"ט, ניפצו הערבים את חלונותיו. הערבי שהיה שותפו בעסקים שלח את בנו ללון בביתו להיות למגן לו וממחרת בא אף הוא עצמו לבית הרב והבטיח להגן עליו ואף נטל ממנו את הכסף וחפצי הערך להצילם מפני המתנפלים. ביום השבת בצהרים, כשהפורעים הלמו על הדלתות המבוצרות בציפוי-ברזל, ירד השותף הערבי ופתח להם, כאילו כדי להרחיקם בדבריו. הפורעים פרצו פנימה, הרב ואשתו נמלטו אל החדר האחרון, סגרו את דלתו והחזיקו בה בכל כוחותיהם. אך הפורעים פרצו גם שמה, פצעו בחניתות את הרבנית ואת הרב הרגו בביתו, ביום י"ח אב תרפ"ט. 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 335 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/335</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 2017 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2017</bibl><bibl>Volume: #4 ,Page: 2018 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2018</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יעקב ברוך</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"ג סיון תר"ן (1890), לאביו <persName>יצחק</persName> (שעלה בילדותו מאדרינופולי שבטורקיה ביחד עם אחיו, שאחד מהם<persName> נסים,</persName> היה אח"כ רב בירושלים) ולאמו <persName>רחל</persName> בת <persName>יעקב מטלון</persName> (צדיק).
+
+ למד בת"ת הספרדים, בישיבת "תפארת ירושלים", בישיבת הרב חזן, בבית המדרש למורים של חברת "עזרה'' ובבית המדרש לרבנים באיסטמבול.
+
+ בשנת תרס"ו נשא לאשה את <persName>וידה</persName> בת הרב <persName>אהרן</persName> <persName>אלנקוה.</persName>
+
+ בתרס"ט יצא לטורקיה. שימש ברבנות בקהלות טוקאט שבאנאטוליה. אח"כ היה חבר בית-הדין הרבני באיסטמבול ומרכז הענינים ברבנות הראשית של הממלכה, שכללה אז גם את ארצנו. בתקופה אחרת היה מורה ראשי לעברית במדרשת "יבנה" באיסטמבול, השתתף ביסוד חברת "התחיה" והסתדרות המורים העברים, היה יו"ר אגודת "שיבת ציון" וארגון הנוער "צעירי ציון" וחבר הנשיאות של הפדרציה הציונית למזרח ב-1921. חיבר את ספרי הלימוד "המורה" (לארבע שנות לימוד, יצא מ-1920 בכמה מהדורות), "המדבר" (ספר שיחות בעברית), דקדוק לתלמידים, מלון עברי-צרפתי, וכתב בעתונים היהודיים "איל טיימפו", "איל ג'ודיאו" ו"המבשר".
+
+ ב-1924 חזר לארץ והיה מורה בת"ת הספרדים ומזכיר ביה"ד של העדה הספרדית בירושלים, ואח"כ נתמנה למזכיר כללי של הרבנות הראשית לא"י ולמנהל משרד הרבנות המקומי.
+
+ השתתף בפעילות צבורית ביסוד ההסתדרות הדתיתהלאומית "על המשמר" של היהודים הספרדים בירושלים ונבחר ליו"ר הועד שלה, היה סגן יו"ר ועד העדה
+
+ הספרדית ,ארגן "עליה לרגל" המונית לעיר העתיקה בחנוכה, נבחר כחבר למועצת סניף הציונים הכלליים. יצא פעם בשליחות למצרים לטובת מוסדות העדה. השתתף בפעולות ארגוניות למען גאולת קרקעות ונבחר ליו"ר ועד "נחלת דוד" (שנועד להיות כפר בעלי מלאכה על שטח בן 700 דונם ליד נוה יעקב) ויו"ר ועד "נחלת יעקב" (ליסוד שכונה על 39 דונם ליד קטמון). בזמן האחרון השתתף ביסוד הסניף הירושלמי של הליגה הבינלאומית להצלת יהודי ערב ונבחר לחבר מרכזה וליו"ר סניפה הירושלמי.
+
+ צאצאיו: <persName>אהרן, יצחק, דבורה</persName> אשת<persName> מאיר רחם, משה,</persName> <persName>רחל</persName> אשת ד"ר<persName> דב גוט, נסים.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 2017 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2017</bibl><bibl>Volume: #4 ,Page: 2018 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2018</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

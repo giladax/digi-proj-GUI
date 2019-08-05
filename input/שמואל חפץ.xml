@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4318 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4318</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל חפץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סיאנה</placeName> (רוסיה), כ""ג אדר תרס"ה (28.2.1905). לאביו <persName>שמעון חפץ</persName> ולאמו<persName> חסיה לבית צלליכין.</persName> קיבל חינוך מסורתי בחדר.
+
+ עלה לארץ בשנת תרע"ב (1912).
+
+ בוגר בית הספר למסחר "גאולה" בתל-אביב. כלכלה מדינית למד בפלורנץ (איטליה).
+
+ בשנת 1934 נשא לאשה את<persName> דינה </persName> בת <persName>אריה גרוסמן.</persName>
+
+ היה חבר בהנהלת מודיעין של עתון הערב ("מעריב") ובחברת המלח בע''מ ועוד.
+
+ היה יו"ר ארגון טחנות הקמח שע"י התאחדות בעלי התעשיה בישראל וחבר הועד הפועל של ההתאחדות.
+
+ היה חבר ההגנה.
+
+ חבר מערכת "מעריב". <persName>ש. ר</persName> . כתב ליום השבעה למותו : היתה בו מזיגה מופלאה של שכל ולב, תבונה ורגש, מעוף של איש עסקים רב צדדי ודאגה מפוקחת לפריטים קטנים של יום-יום אפור... היו לו <persName>לחפץ </persName> פקחות של איש מעשה וטאקט של דיפלומאט מלידה ולב יהודי חם. כזה יהודי "עמך", ששום הון לא יצליח להפכו לסנוב או לגבור מתנשא.
+
+ נפטר בחיפה, י''ח אייר תשי''ח (8.5.1958).
+
+ צאצאיו: <persName>עלי חפץ, שמעון חפץ.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4318 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4318</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

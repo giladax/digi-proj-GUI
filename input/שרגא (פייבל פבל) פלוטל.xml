@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2836 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2836</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שרגא (פייבל פבל) פלוטל</persName>
+
+</head>
+         <div><p> היה ידוע בין מכיריו בשם:<persName> פבל.</persName>
+
+ נולד ב<placeName>רוסטוב</placeName> (רוסיה) בשנת תרמ"ד (1884).
+
+ לאביו <persName>יצחק פלוטל.</persName>
+
+ קבל חנוך מסורתי וכללי בבי''ס לטכניקה ברוסיה..
+
+ היה פעיל ב"פועלי ציון'' ברוסיה ואח"כ בארץ.
+
+ בשנת 1904 עלה לארץ.
+
+ בשנת 1919 נשא לאשה את<persName> רחל </persName> בת<persName> דוד דב ארבר</persName> (ראה כרך א', עמוד 448).
+
+ עבד כמכונאי בבית החרשת של<persName> ליאון שטיין </persName> ביפו.
+
+ היה מחלוצי העליה השניה.
+
+ היה בין מישרי חולות אחוזת בית (תל-אביב) כשנוסדה העיר.
+
+ עבד יחד עם גיסיו האחים<persName> ארבר,</persName> בביח"ר למזאיקה.
+
+ היה ענו כל ימיו והיה מפעילי ההגנה - ביסודה ייפו - תל-אביב.
+
+ נפטר בתל-אביב, ג' חשון תשי"ג (22.10.52).
+
+ צאצאיו: <persName>עמנואל, רות </persName> אשת <persName>אברהם בוברובסקי</persName> (מהנדס בחברת "חרות" שע"י "סולל בונה").
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2836 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2836</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3085 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3085</bibl><bibl>Volume: #8 ,Page: 3086 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3086</bibl>
+<bibl>Volume: #8 ,Page: 3087 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3087</bibl>
+<bibl>Volume: #8 ,Page: 3088 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3088</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר רפאל זליגמן</persName>
+
+</head>
+         <div><p> נולד בשנת תרל"ה (1875) במינסק שברוסיה.
+
+ לאביו<persName> יעקב</persName> (חרשתן, ממשפחת רבנים וחסידים) ולאמו (אחות הסופר העברי<persName> יהל"ל - יהודה</persName> <persName>ליב לוין).</persName>
+
+ למד בחדר, בבית-ספר ובאוניברסיטאות ברן וג'נבה והוסמך לד"ר לפילוסופיה. חזר לרוסיה והקדיש את הדיאלקטיקה הפילוסופית-הפובליציסטית שלו בספרותי האידית להעלאת הרמה התרבותית של המוני היהודים
+
+
+ על רקע חיי ההווה בגולה, ללא זיקה לעבר ולעתיד לאומי בארץ רחוקה באסיה. ב-1914 יצא לברלין, שם עבד בפקידות במוסדות יהודיים, בעריכה ובעבודה ספרותית ב"די יידישע וועלט", "צוקונפט" "פוסישה צייטונג", "סוציאליסטישה מונאטסהפטה", "פראנקפורטר צייטונג" ועוד.
+
+ פרסם בגרמנית את ספריו "בעיות היהדות" (1919), "האדם והעולם" (1921), "רוח העם הרוסי" (1921) ועוד. תירגם לאידית וערך ספרי פילוסופיה עתיקים, ספרי מדע וספרות יפה מגרמנית, צרפתית ואנגלית, פרסם מסות ומאמרים פילוסופיים וספרותיים בגרמנית ובאידית. משהגיע להכרה ציונית ניסה את כוחו בכתיבה בעברית ולשמחתו הרבה נתגלה לו, שמשקידתו בנעוריו במקורות היהדות נשאר לו מסד איתן ונרחב של שליטה בלשון העברית עד כדי יכולת להביע הגיגים פילוסופיים, פובליציסטיים וספרותיים בעושר לשוני, בבהירות ובדייקנות, ובמאמריו ב"העולם" נתגלה כהוגה דעות עברי שהיה נסתר עד עתה, שהביא אתו לספרות העברית מעין מתגבר של רעיונות מקוריים וחוש בקרתי לוחם נגד בטלנות, מליצות נבובות ואונאה עצמית והונאת הזולת.
+
+ התקרב לחוג האינטלקטואלי הציוני-הסוציאליסטי, שהיה נפגש במסיבות ליל שבת בבית<persName> ארלוזורוב </persName> בברלין ובהשתדלותו ובערבותו האישית של ד"ר<persName> חיים ארלוזורוב</persName> קיבל רשיון-עליה ועלה ארצה בשנת 1933.
+
+ פרסם מאמרים, פילוסופיים בעיקר, ב"דבר", ב"העולם", ב"הבוקר", ב"בוסתנאי", ב"הארץ", בירחון "מאזנים''.
+
+ נפטר ערירי בתל-אביב, א' סיון תש"ג (4.6.43).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3085 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3085</bibl><bibl>Volume: #8 ,Page: 3086 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3086</bibl>
+<bibl>Volume: #8 ,Page: 3087 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3087</bibl>
+<bibl>Volume: #8 ,Page: 3088 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3088</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 820 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/820</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>לינה (רחל-לאה) הופנקו</persName>
+
+</head>
+         <div><p> נולדה בפולטאווה (רוסיה), א' חשון תרמ"ח, לאביה המורה והסופר <persName>מרדכי אזרחי (קרישבסקי)</persName> , ולאמה <persName>בתיה</persName> . בית הוריה היה ספוג תרבות יהודית ואהבה עזה לער
+
+ כי הלאום, ובאוירה זו קיבלה את חנוכה הראשון. בהיותה בת שמונה עלתה עם הוריה לארץ. המשפחה השתקעה בבאר-טוביה ואביה שימש שם בהוראה. כעבור כמה שנים עברה לירושלים ולמדה בבית הספר ע"ש אוולינה דה-רוטשילד. עברה ליפו ועם היווסד במת
+
+ החובבים ע"י מנחם גנסין, רבקה פפר, חיה ברוידא, פרץ קומה מיכאל טייטלמן, יעקב מושלי, ז'וברק ועוד נצטרפה ללהקה ונתנה את חלקה לפיתוח התיאטרון העברי. שיחקה בתפקידי הנערה ב"מזל טוב" לשלום עליכם, הכלה ב"נשואין" לגוגול, יהודית ב"אוריאל דאקוסטה" לגוצ'קוב והקסימה ביופיה ומשחקה רוויהרגש.
+
+ ב-1910 היתה התלמידה הראשונה בבית-הספר הראשון לנגינה בארץ שנוסד ע"י גב' שולמית רופין. שם הכירה את הכנר והפדגוג <persName>משה הופנקו</persName> וכעבור זמן נישאה לו. נשלחה לוינה להשתלם במוסיקה ובשובה היתה מורה בקונסרבטוריון.
+
+ יחד עם בעלה תרמה תרומה חשובה לפיתוח החיים המוסיקליים בארץ. מביתם בקעו תמיד צלילי הנגינה ובפעולתם הפדגוגית והארגונית יצרו אוירה מתאימה להחדרת המוסיקה. בסוף מלחמת העולם הראשונה, לאחר שהאנגלים כבשו את הארץ, ערכה יחד עם בעלה שורת קונצרטים במחנות הצבא בא"י. במסורת זו המשיכה גם במלחמת העולם השניה.
+
+ נפטרה בשנת ה-55 לחייה בז' כסלו תש"ג ונקברה בבית העלמין הישן בתל-אביב ליד קבר אמה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 820 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/820</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

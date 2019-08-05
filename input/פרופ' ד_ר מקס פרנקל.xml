@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4761 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4761</bibl><bibl>Volume: #15 ,Page: 4762 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4762</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' ד"ר מקס פרנקל</persName>
+
+</head>
+         <div><p> נולד בגרוס, סילוויטץ (אוסטריה), ח' חשון תרס"א (31.10.1900).
+
+ לאביו<persName> זיגפריד </persName> (ד"ר)<persName> פרנקל</persName> ולאמו <persName>לאה</persName> . (רוזה) בת<persName> מאיר חיות</persName> .
+
+ בוגר האובירסיטאות ברונו, וינה ובכמה אוניברסיטאות שונות בגרמניה.
+
+ קיבל תואר <persName>Ph.D.</persName> פרופ' ד"ר לכימיה אורגנית.
+
+ עבד ככימאי - חוקר במוסדות מדע שונים ובמפעלי תעשיה חשובים.
+
+ בשנות 1920-24 היה אסיסטנט באוניברסיטה בוינה.
+
+ היה חבר הועד המרכזי של אירגון הגג של
+
+
+ הסטודנטים היהודים בוינה (וקודם ב"תכלת-לבן" בברונו C.J.R.())
+
+ בשנת 1925 עלה לארץ.
+
+ משנת 1925 - כל השנים קשור לאוניברסיטה ב"ם
+
+ בשנת 1930 נשא לאשה את <persName>הלנה</persName> בת <persName>יוסף</persName> <persName>המרמן</persName> .
+
+ פרופ' מן המנין ומנהל המחלקה לכימיה אורגנית.
+
+ כתב מאמרים רבים - עבודות מדעיות בירחונים בינלאומיים וספרים מדעיים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4761 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4761</bibl><bibl>Volume: #15 ,Page: 4762 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4762</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

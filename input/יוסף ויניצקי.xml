@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1969 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1969</bibl><bibl>Volume: #4 ,Page: 1970 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1970</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף ויניצקי</persName>
+
+</head>
+         <div><p> הכנוי הספרותי:<persName> י. נץ.</persName>
+
+ נולד בפתח תקוה, י"ט בתמוז תרע"ד (13.7.1914),
+
+
+ לאביו <persName>ליפא</persName> (מעסקניה הותיקים של אם המושבות, ראה כרך א', עמוד 174), ולאמו<persName> מרים</persName> בת <persName>משה</persName> <persName>לישבסקי.</persName>
+
+ קבל חינוך דתי ותיכוני.
+
+ הצטרף למפלגת הצה"ר והיה פעיל במוסדות המפלגה כחבר הועד העליון של הצ"ח, עבד ב"הירדן". מנהל העתון "המשקיף".
+
+ התמסר לעבודה עתונאית וביחוד בכתיבת פיליטונים-סטיריים שהושמעה בהם בקורת חריפה על ממשלת המנדט ועל המשטר הפנימי בישוב העברי. חתם וחותם עד היום בשם<persName> י. נץ.</persName>
+
+ בשנת תרצ"ה נשא לאשה את <persName>יוכבד</persName> בת<persName> דוד</persName> <persName>וביילה וקסלר.</persName>
+
+ ב-17 באפריל 1944 נאסר ליד שולחן עבודתו במערכת "המשקיף", שהיה מנהלו. הועבר לבית הסוהר ביפו. משם למחנה המעצר בלטרון. ב-19 באוקטובר הוגלה יחד עם 250 עצורים אחרים מהארץ בדרך האויר לאריטריאה ועבר את כל פרשת הגולה: אריטריאה סודאן \_ אליטריאה - קניה. היה עצור 4 שנים וחצי עד לחיסול הגולה עם הקמת המדינה והחזרת הגולים ארצה.
+
+ בשנות המעצר המשיך בעבודה העתונאית. היה עורך העתון היומי של מחנה הגולים שהופיע בשמות שונים: "ידיעות אסמרה", "בגלות סודן", "בגלות אסמרה", "בדרכי גולה", "בגלות קניה". היה חבר בועדות פעולה שונות במחנה.
+
+ מיום שובו ארצה 13.7.1948, פעיל בעתונות.
+
+ כיום, מזכיר מערכת "חרות" ועורך המדור הערבי בו.
+
+ כתב גם רשימות בלטריסטיות.
+
+ בניו: <persName>משה, שלמה, זאב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1969 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1969</bibl><bibl>Volume: #4 ,Page: 1970 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1970</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

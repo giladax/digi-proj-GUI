@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1136 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1136</bibl><bibl>Volume: #3 ,Page: 1137 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1137</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר דוד טיטל</persName>
+
+</head>
+         <div><p> נולד בואסילקוב, פלך קיוב (אוקראינה), בשנת תרנ"ג (1.7.1893), לאביו <persName>קלמן </persName> ולאמו <persName>רייזל</persName> בת <persName>מרדכי גאליאנסקי.</persName> למד בחדרים, בגימנסיה רוסית ובמחלקה לרפואה באוניברסיטת רוסטוב ע"נ דון, היה חבר ועד הסטודנטים העבריים, הוסמך לדוקטור לרפואה והתמחה ביחוד בריפוי ילדים, היה חבר ועד "צעירי ציון" ובאגודות ציוניות אחרות.
+
+ ב-1916 נשא לאשה את <persName>שרה </persName> בת <persName>צבי מיליקובסקי.</persName>
+
+ עלה לארץ ב-1925 וממשיך לעסוק במקצוע כרופא ילדים בתל-אביב וברמת גן והנו יו"ר ועד הסניף המקומי של ההסתדרות הרפואית הישראלית וחבר הועד המרכזי שלה. ב-1936 היה ממארגניו ומזכירו של הקונגרס העולמי של הרופאים העבריים שהתכנס בארץ.
+
+ פרסם את ספרו "התינוק" (הוצאת "אמנות", ת"א, 1930) ומאמרים ומחקרים בעניני ריפוי ילדים בכתביעת לועזיים (בצרפתית ובגרמנית) ובעברית ב"הרפואה".
+
+ בנותיו:<persName> רחל</persName> אשת עוה"ד<persName> א. שעיוביץ, צפורה</persName> אשת <persName>יצחק מסרי.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1136 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1136</bibl><bibl>Volume: #3 ,Page: 1137 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1137</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

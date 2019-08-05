@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 655 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/655</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה ליובין</persName>
+
+</head>
+         <div><p> נולד בהומל, פלך מוהילב (רוסיה הלבנה), בשנת תרמ"ט (18.12.1888) לאביו <persName>שמואל זלמן </persName> (בן <persName>יואל ליובין,</persName> מראשוני חדרה ודרי ה"חאן") ולאמו <persName>חיה</persName> . קיבל חינוך מסורתי. בן 14 עלה ארצה עם הוריו בסוף שנת 1902, התישבו בחדרה ורכשו אדמה נוספת על הנחלה שקנה הסבא יואל בעת יסוד המושבה. נרתם בגיל צעיר לעבודות המשק בחקלאות ובפרדסנות וממשיך בכך עד היום.
+
+ נשא לאשה את<persName> ימימה </persName> בת <persName>שמשון בלקינד</persName> הבילויי מראשון לציון.
+
+ עסקן ומסור ופעיל בצבור החקלאים והפרדסנים, מעורב בין הבריות ומקובל על כל החוגים.
+
+ השתתף ביסודם ופעיל בניהולם של מוסדות החקלאים בחדרה: חבר במועצת הסתדרות החקלאים, "החקלאי", במועצה הארצית של "פרדס-סינדיקט", בהנהלת הלואה וחסכון חדרה, ממיסדי אגודת נטעים וניהל אותה במשך עשרות שנים, וכיום מנהל חברת "פרדס" חדרה. היה חבר ועד המושבה והמו
+
+ עצה המקומית ופעיל בעניני השמירה והבטחון במקום.
+
+ צאצאיו: <persName>שמואל, נעמה, אבשלום</persName> .
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בחדרה, כ"ה אייר תשכ"ה (23.5.68) (ראה כרך שני, עמוד 655)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 655 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/655</bibl>            <bibl>Volume: #17 ,Page: 5246 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5246</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

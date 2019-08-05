@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1435 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1435</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם דב שרגרודסקי</persName>
+
+</head>
+         <div><p> נולד בברדיצ'ב, רוסיה, בשנת תרי"ד (1854), לאביו<persName> ישראל </persName> (מצאצאי רבי <persName>לוי יצחק</persName> מברדיצ'ב) ולאמו <persName>אסתר חיה.</persName> למד בחדרים ובישיבות. נשא
+
+ לאשה את<persName> חנה רחל</persName> בת <persName>יוסף מרדכי אידלוין </persName> (נפטרה בחדרה בשנת תרצ"ד).
+
+ עסק בחכירת כרמים ובעל יקב גדול, מומחה לתעשית יינות ומשקאות ומראשוני חובבי ציון בברדיצ'ב.
+
+ בתרנ"ג עלה ארצה עם אשתו וארבעה בנים ושתי בנות והתישב בחדרה. רכש משק ונתנסה יחד עם יתר ראשוני המתישבים בפגעי הקדחת הצהובה ויתר התלאות .
+
+ היה נודע כתלמיד-חכם וירא-שמים, חבר ועד המושבה במשך שנים רבות, בורר ושופט צדק.
+
+ נפטר בחדרה, כ"א אב תרצ"ג.
+
+ צאצאיו: <persName>צפורה</persName> אשת <persName>אברהם שמרלינג, זאב,</persName> <persName>יהושע ז"ל, צבי ,שלמה ז"ל, טובה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1435 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1435</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

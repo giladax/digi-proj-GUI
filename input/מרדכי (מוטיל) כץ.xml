@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1177 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1177</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי (מוטיל) כץ</persName>
+
+</head>
+         <div><p> נולד במוינשטי, מולדבה, רומניה, בשנת ת"ר (1840), לאביו <persName>אליעזר</persName> ולאמו<persName> שיינה.</persName> למד בחדרים ובבית המדרש והשתלם באופן פרטי בלימודי חול. 
+
+ נשא לאשה את <persName>שושנה</persName> בת <persName>חיים יעקב יענקוביץ'</persName> (אחותו של ר'<persName> דוד שוב</persName> ) והיה מנהל בית זיקוק הנפט של הגביר <persName>יוסף טיילור</persName> במוינשטי.
+
+ הצטרף לאגודה להתנחלות בארץ ישראל שנוסדה ביזמת גיסו ר' דוד שוב, ובשנת תרמ"ב עלה ארצה עם משפחתו בחבורת מיסדי ראש פנה. התישבו זמנית בצפת ובימות החול עבדו את אדמתם בהדרכת שני פלחים ואח"כ בנו בעזרת הבארון<persName> בנימין רוט</persName> <persName>שילד</persName> את בתיהם ופיתחו את משקיהם במושבה. נוסף לעבודתו החקלאית עסק גם במלאכת נגרות לבנין וביצע בקבלנות מטעם פקידות הבארון את עבודות נגרות הבנין בבתי ראש פנה ובבית-הכנסת, את עבודת הבנין של כיפת בית-הכנסת שנחשבה כמלאכת אמנות, וכן את עבודות הנגרות ביסוד המעלה, במטולה ואף במושבות הבארון בגולן שבאדמת סוריה מעבר לירדן והיה רוכב יחידי על סוסו למקומות עבודתו בדרכים שוממות ומשובשות בשודדים ערבים.
+
+ נבחר באספת המתישבים הראשונה שהתקיימה
+
+ בצפת במוצאי שבת שובה תרמ"ב לראש הועד הראשון ולגזברו. נשא בעול המושבה בעניניה הצבוריים והגן עליה בחרוף נפש, מעריצותם של פקידי הבארון, ובאי כח השלטונות התורכים.
+
+ הראשון לחתומים על תקנות החברה לעזרה הדדית ,"זרע אברהם", ע"ש אברהם (אדמונד רוטשילד), שנוסדה בראש פינה, בי"ז סיון תרמ"ו.
+
+ היה כמה פעמים ראש הועד של ראש פנה.
+
+ כעבור כמה שנים אחרי עלותו ארצה הביא אליו את הוריו.
+
+ נפטר בראש פנה, א' אלול תר"ע.
+
+ צאצאיו:<persName> שמואל, יעקב (ז"ל), רחל </persName> אשת <persName>מנחם</persName> <persName>מנדל ברגמן </persName> (אבי קצין המחוז <persName>יעקב ברגמן</persName> מחיפה והסבא של הקצין <persName>אברהם ברגמן </persName> מירושלים), <persName>לאה</persName> אשת <persName>חיים יונה סגל</persName> (השוחט מראש פינה), <persName>ביילה </persName> אשת <persName>צבי ברוכשטיין.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1177 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1177</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

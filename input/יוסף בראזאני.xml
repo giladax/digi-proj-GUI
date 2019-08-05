@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 136 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/136</bibl><bibl>Volume: #1 ,Page: 137 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/137</bibl>
+<bibl>Volume: #1 ,Page: 138 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/138</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף בראזאני</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"ג חשון תרל"א, לאביו <persName>אברהם</persName> ולאמו<persName> ריינה</persName> , והוא במשפחתו הדור החמישי בארץ. ראש המשפחה,<persName> חכם דוד ביראזאן</persName> , עלה ארצה בשנת תק"א (1741), השתקע בצפת והיה נוסע בשליחות לבבל למען מוסדות התורה. בניו היו: חכם <persName>יוסף</persName> (נפטר בשנת תק"ע) וחכם <persName>אהרן</persName> (נפטר בשבת תק"פ). ובני אהרן:<persName> שלמה</persName> (נפטר בתקצ"א)<persName> ויוסף</persName> . יוסף עבר מצפת לירושלים, נשא אשה ונולדו לו שלשה בנים : <persName>עובדיה</persName> (עבדאללה),<persName> שלמה</persName> (סלימן) שעברו להתישב ביפו ושם נפטר שלמה בי"ח אייר תרנ"ח,<persName> ואברהם</persName> , אבי יוסף בראזאני, שנולד בירושלים בשנת תר"ח, עסק במסחר מכולת ודגים, נפטר בירושלים, ח' טבת תרס"ב.
+
+ יוסף למד בת''ת הספרדים, בבית-המדרש "דורש ציון" ובישיבות, וממורים פרטיים למד ערבית וצרפתית והגיע בהן לידיעה הגונה.
+
+ בקיץ תרנ"ו נתמנה למנהל גבית המסים בעירית ירושלים ולאחר ארבע שנים נתמנה לגזבר העיריה והמשיך במשרה זו עד 29.3.1938. כן מילא בשנות שרותו תפקידים רשמיים ואחראיים, הן בתקופת השלטון הטורקי והן מאז הכיבוש הבריטי.
+
+ הקדיש מזמנו ומכוחו לפעולות בצרכי הצבור היהודי, וביחוד בעדה הספרדית בירושלים. השתתף ביסוד "חסד של אמת" ובארגון חברה קדישא של עדת הספרדים ובניהול המוסדות הללו. היה במשך עשר שנים גבאי בית הכנסת בשכונת "משכנות שאננים",
+
+
+ גבאי הצדקה לעניים, גבאי התמחוי הכללי, שבו היו עניי עדות המזרח בירושלים מקבלים ארוחות לשבת. השתתף ביסוד בית-הזקנים הספרדי והיה אחד מגבאיו. בתרס"ח נבחר בפעם הראשונה לועד עדת הספרדים בירושלים ולגבאי בבית-הכנסת סעידוף בשכונת "שערי צדק". בתרפ"א נבחר שנית לועד העדה ומאז ועד עתה הוא חבר הועד הכללי של עדת הספרדים, חבר ועדת השחיטה של העדה וחבר במועצת ההנהלה של עזבון בליליוס.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בירושלים, ה' ניסן תשכ''ד (18.3.61)
+
+ (ראה כרך א', עמוד 137)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 136 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/136</bibl><bibl>Volume: #1 ,Page: 137 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/137</bibl>
+<bibl>Volume: #1 ,Page: 138 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/138</bibl>
+            <bibl>Volume: #14 ,Page: 4577 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4577</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

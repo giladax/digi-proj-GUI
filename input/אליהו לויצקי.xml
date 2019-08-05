@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1788 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1788</bibl><bibl>Volume: #4 ,Page: 1789 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1789</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו לויצקי</persName>
+
+</head>
+         <div><p> נולד ברומני, פלך פולטאבה, אוקראינה, כ"ג אייר תרמ"ח (1888), לאביו <persName>ישראל</persName> (סוחר אריגים) ולאמו <persName>פסיה</persName> . למד עברית בעברית ותורה מפי מלמדים עד גיל 17, והצטרף לאגודת הצעירים הציונים "התחיה".
+
+ ב-1906 עלה לארץ ועבד בחקלאות בנס-ציונה, ברחובות - שם הצטרף ל"הפועל הצעיר", ומשנוסדה "אחדות העבודה" אחרי המלחמה הצטרף אליה, בפרדסי פתח תקוה, בחות כנרת, במנחמיה, אח"כ כחבר בין הראשונים בחבורת "החורש", השתתף בהגנת סג'רה, עבר לחדרה ועבד בחפצי-בה. בחילופי מקומות אלה התנסה במשך כארבע שנים ועבד יחד עם טובי אנשי העליה השניה, מהם כיום בצמרת השלטון במדינה, בהסתדרות הציונית ובתנועת העבודה. מסוף 1910 עבד חדשים אחדים כשומר בשכונת "אחוזת בית" (תל-אביב) על חשבון ועד השכונה ביחד עם שכירים ערבים מוגרבים בהנהגת קבלןהשמירה האחראי אבן-חמודי.
+
+ ב-1911 עבר לפתח תקוה, נשא לאשה את <persName>שרה</persName> בת <persName>דוד קושניר</persName> (אחותם של <persName>שמעון ומרדכי (שניר)</persName> <persName>קושניר)</persName> , עבד בפרדסי <persName>פרץ פסקל וזלמן פישצ'נר,</persName> התמחה בטיפול בעצי הדר ובאריזת הפרי והיה מה
+
+ אורזים העברים הראשונים- עבד גם כמכונאי אצל <persName>יעקב קרול.</persName> היה מהחברים הראשונים בעין גנים והשתתף בהגנת פתח תקוה, וכן היה פעיל ב"הגנה" ביתר המקומות.
+
+ ב-1921 קיבל בקבלנות את אריזת פרי ההדר במקוה ישראל. אח"כ הצטרף לקבוצת "עבודה" של "סולל בונה", למד בנאות, עבד ב-1922 כבנאי אחראי בהקמת בניני חברת החשמל בתל-אביב, ומ-1923 הנו פועל קבוע בחברת החשמל והשתתף בהקמת העמודים הראשונים לקו החשמל בתל-אביב, יפו וכו'. בשנות
+
+
+ שבתו בתל-אביב היה חבר הועד בשכונת העובדים שגר בה. ב-1932 הצטרף לראשוני המושב ירקונה, התישב שם ומאז הוא פעיל בחיי המושב כחבר הועד.
+
+ צאצאיו:<persName> יפה</persName> אשת <persName>יואל שווארץ</persName> (מגדיאל),<persName> גואל</persName> (חבר באלונים),<persName> ראובן </persName> (עובד בחברת החשמל),<persName> הדסה</persName> אשת<persName> נחמיה בן-יואב</persName> (פתח תקוה), <persName>ישראל</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1788 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1788</bibl><bibl>Volume: #4 ,Page: 1789 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1789</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

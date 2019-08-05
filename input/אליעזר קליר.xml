@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5172 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5172</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר קליר</persName>
+
+</head>
+         <div><p> נולד באמסטיבובה, ליד וילקוביסק (פולין), כ"א טבת תרנ"ג (9.1.1893).
+
+ לאביו<persName> בנימין קליר </persName> ולאמו <persName>רחל </persName> בת <persName>יצחק דובין.</persName>
+
+ קיבל חינוך מסורתי וכללי.
+
+ עבד בפקידות והיה סופר בעתון "וואלקוביסקער לעבן".
+
+ היה פעיל במוסדות: בתי יתומים ולינת חולים.
+
+ חבר באגודת הסוחרים.
+
+ בשנת 1918 נשא לאשה את <persName>פועה</persName> בת <persName>אברהם</persName> <persName>אליהו מרקוס.</persName>
+
+ בשנת 1934 עלה לארץ והתיישב בפתח-תקוה.
+
+ רוב שנותיו עבד כפקיד בבנק קרדיט גומלין ואח"כ בנק זרובבל בתל-אביב.
+
+ היה פעיל בארגון "יד לבנים" בפתח-תקוה ובארץ. כאב שכול הקדיש את חייו למען הנצחת זכרם של הבנים שנפלו למען המולדת.
+
+ פרסם שירים ורשימות בעברית ובאידיש בעתונות בארץ ובחו"ל.
+
+ ספריו (בעברית): "אבותיהם של הנאצים" (פרקי זכרונות מהכיבוש הגרמני בפולין בימי מלחמת העולם הראשונה, תש"ג) ; "עולמות" (תש"ח); "מקרב" (שירים לזכר בנו שנפל בקרב על לטרון במלחמת השחרור <persName>ולצבי מרכוס,</persName> תש"י); "בשוא גלים" (תשי"ח).
+
+ בשנת 1966 הוציא לאור בסטנסיל ילקוט תגובות לספר השירים על בנו "בלומען פון ישראל".
+
+ נפטר בפתח-תקוה, כ"ב בניסן תשכ"ח (20.4.1968).
+
+ צאצאיו: <persName>יצחק, שושנה, צלה, משה יהודאי ז"ל,</persName> <persName>מתתיהו אילן.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5172 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5172</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1186 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1186</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה ליב בארסקי</persName>
+
+</head>
+         <div><p> נולד בחארול (רוסיה), בחודש אלול תרכ"ח (22.8.1868), לאביו<persName> חיים צבי הלוי </persName> (סוחר) ולאמו <persName>חיה שרה</persName> בת <persName>משה בוכבינדר.</persName> למד בחדרים ואח"כ התמחה במסחר.
+
+ בתרנ"ה נשא לאשה את <persName>קיסיה (זיסה) </persName> בת<persName> מיכאל</persName> פרטקין.
+
+ עסק במסחר ובתעשיה של בירה וטבק והיה פעיל בעניני צבור כגבאי חברת "לחם עניים".
+
+ בערב פסח תרע"ד הגיע ארצה עם משפחתו ורכושו והתישב בתל אביב. עסק בקבלנות-בנין, בנה את אולם "עדן" (כיום קולנוע על שפת פרבר נוה צדק ואז אולם צבורי גדול בתל אביב הקטנה).
+
+ בעת הגירוש הכללי מיפו ות"א במלחמת העולם הראשונה נמלט עם משפחתו לחלק שבצפון סוריה ועסק בתעשית מוצרי חלב להספקה לצבא. הודות לקשריו עם ראשי הצבא עזר לשחרור שבויים ואסירים יהודים ואף לחיילים יהודים מארץ ישראל שערקו מהצבא הטורקי. בפעולות אלה השקיע הרבה כספים ועמל ולא פעם אף סיכן את עצמו ואת בני משפחתו.
+
+ אחרי המלחמה חזר לתל אביב והמשיך בפעילותו הכלכלית והצבורית. הקים בארץ את בית החרושת הראשון לנקניקים, מאפיה משוכללת למצות, עסק במסחר-מכולת בסיטונות, ובקבלנות בנין, השתתף ביסוד חברת התחבורה "אגד" ועוד. היה בזמנים שונים יו"ר השכונות "מחנה יוסף", "יהודה" (אזור רחוב שבזי) ו"אהל משה'', וב-1921 השתתף בסיפוח השכונות לתל אביב כשקיבלה מעמד של עיריה, ובזה השתתף בהנחת יסוד לעיריה ונבחר למועצתה הראשונה.
+
+ השתתף ביסוד שכונת מחוסרי דירות (נורדיה), היה גבאי בית התבשיל בנוה שלום, יו"ר אגודת ביקור חולים ולינת הצדק ביפו-ת"א, וכיום הוא גבאי בבית הכנסת "עין יעקב - שלש סעודות" בת"א.
+
+ צאצאיו:<persName> חיים צבי, מיכל, משה, שרה לאה</persName> אשת <persName>אברהם אליהו, שושנה</persName> אשת <persName>ברוך צרבינסקי, דבורה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1186 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1186</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

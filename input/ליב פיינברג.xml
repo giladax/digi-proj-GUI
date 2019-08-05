@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2183 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2183</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ליב פיינברג</persName>
+
+</head>
+         <div><p> נולד בירושלים, י"ט כסלו תרנ"ט (1898), לאביו ר' <persName>נחמן</persName> (מראשוני החלוצים מרוסיה) ולאמו <persName>תמרה </persName> בת ר' <persName>יהודה ליב גינזבורג </persName> (המגיד ממינסק). למד בת"ת "עץ חיים" ובבית-היתומים דיסקין, תורה ומלאכת הדפוס. בשנת תרע''ח נשא לאשת את<persName> רחל לאה</persName> בת<persName> אברהם</persName>
+
+<persName>יעקב ליברמן</persName> , ואחרי שנפטרה בירושלים, כ"ו סיון תש"ב, נשא את <persName>מלכה</persName> בת <persName>יעקב גוטליב.</persName>
+
+ התחיל לעבוד כפועל דפוס והיה מראשוני הפעילים בין פועלי הדפוס בירושלים. בשנת תר"פ יסד את דפוס הפועלים. מהחברים הראשונים בהסתדרות העובדים הכללית. בתרפ"ח יסד את דפוס ארץ-ישראל ובתרפ"ט יסד את דפוס "הספר", הקיים בבעלותו ובהנהלתו עד היום.
+
+ השתתף ביסוד ברית בני מלאכה בירושלים וחבר הועד בה במשך הרבה שנים. היה חבר במועצת הלואה וחסכון במשך 14 שנה, חבר המועצה שליד בנק ברקליס במחלקת ההלואות לסוחרים ולבעלי מלאכה. חבר הנהלת בית-החולים ביקור חולים, חבר (פעיל, בהתנדבות) בהנהלת כולל מינסק.
+
+ בתרצ"ב יסד את שכונת הלואה וחסכון ליד בית החולים שערי צדק ביחד עם תשעה חברים שארגן. כל אחד השקיע רק מאה לירות במזומנים, והבנק הלואה וחסכון עזר להם בהלואות לשתים-עשרה שנה בתנאים נוחים.
+
+ בתש"ב יסד על שם אשתו הראשונה קופת גמ"ח ליד בית הכנסת "בית יהודה", שעוזרת לנצרכים בהלואות בלי רבית והונה גדל והולך.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2183 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2183</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

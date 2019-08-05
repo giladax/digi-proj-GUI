@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3861 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3861</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי כהן</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ווילקוביסק</placeName> ברוסיה בשנת תר"י (1850).
+
+ אחיו של ר' אריה ליב מווילקובישק (מנכבדי כולל סובולק ולומזה ושד"ר לטובת מוסדות ירושלים במסעיו לאירופה. בניו:<persName> אפרים כהן - רייס </persName> (כרך ג', עמוד 1154) <persName>וחיים </persName> (שארל) <persName>כהן-רייס </persName> (כרך ג', עמוד 1502).
+
+ קיבל חינוך מסורתי.
+
+ בילדותו עלה לארץ והתישב בירושלים.
+
+ נשא לאשה את <persName>חיה טויבה</persName> .
+
+ מירושלים עבר ליפו לנהל את ענף סחר העורות וכל צרכי הסנדלרות של הסוחר<persName> בן-ציון ליאון</persName> מירושלים.
+
+ כפרנסה צדדית פתח בית מלון בחומת העיר העתיקה ביפו בקרבת הנמל, וקרא לבית המלון בשם "מלון אשל". את המלון ניהלה אשתו החרוצה, הוא רק ניהל את החשבונות עם האורחים.
+
+ כעבור שנים העביר בנו <persName>משה</persName> (ראה כרך י', עמוד 3505) את המלון המרכז העיר יפו, ברחוב סיקסיק, וקרא לו בשם: "מלון משה כהן". בית המלון הפך בימים ההם להיות למרכז פגישות בין העולים החדשים עם בני המושבות והיישוב הישן מירושלים וכו'.
+
+ היה איש ישר ובעל מזג טוב.
+
+ בשנת תרמ"ה (1885) כשנוסדה ביפו "אגודת בניציון" (לעזור לנצרכים בני העיר ועוברי דרך) ע"י <persName>שמעון רוקח</persName> , שעבר מירושלים ליפו, הצטרף גם <persName>צבי כהן</persName> לאגודה והיה פעיל בה מאד. בביתו נערכו אסיפות ופגישות חברים, לשם גביית מס חברים לצרכי האגודה, ובעיקר להתאחד ולדאוג למתישבים. וזאת היתה ראשית יסוד הקהילה ביפו. נפטר בירושלים בשנת תרס"ב (1902).
+
+ צאצאיו:<persName> אהרן כהן, דינה הופמן, בתיה בוקששר</persName> , <persName>אסתר</persName> ז"ל, <persName>משה כהן</persName> (כרך י', עמוד 3505).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3861 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3861</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

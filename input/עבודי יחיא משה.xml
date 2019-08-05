@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3624 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3624</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>עבודי יחיא משה</persName>
+
+</head>
+         <div><p> נולד ב<placeName>בגדאד</placeName> בשנת תר"ד (1844). חונך בבית המדרש לרבנים ב<placeName>בגדאד</placeName> הנקרא בשם "מדרש בית זלכה" והצטיין בשקידתו והתמדתו. נשא לאשה את <persName>מסעודה</persName> בת ר' <persName>אברהם יהושע</persName> <persName>אליעזר.</persName>
+
+ בשנת תרל"ה (1875) הוזמן להודו והיה שו"ב בבית הגביר<persName> יחזקאל בן יהושע גבאי</persName> ומורה לבניו. משם נסע לשנגהאי וכעבור מספר שנים חזר ירושלימה ונשא אשה שניה.
+
+ כאן עסק במסחר ובשעות הפנאי הגה בתורה. פרסם כמה ספרים על ש"ס, הלכה ודרש. כתב חידושי תורה רבים בירחונים תורניים, כמו "המאסף" הירושלמי, "תורה מציון" ו"אור תורה". נמנה בין גדולי חכמי ירושלים בזמנו. בשנים תרס"ז-תרס"ט (1907-1909) נסע כשד"ר כוללות הספרדים לערי הודו - מקום שנמצאו לו תומכים רבים.
+
+ חיבוריו: א) "מגן בעדי" ב' חלקים - הערות על מגן אברהם וטורי זהב, ח"א - ירושלים תרס"ד; ח"ב - ירושלים תרע"ג ; "דורש בעדי" - דרושים על פרשיות התורה, על החגים והמועדים, ירושלים תרע"ג ; "יגמור בעדי" - על הש"ס, ירושלים תרס"ד ; "שומר בעדי" \_ חידושים על התורה וקצת הערות על פרקי אבות (בכ"י); "משרא קטרין" - על התוספות (בכ"י); "הדר זקנים" - חידושים על הש"ס (בכ"י) ; "מורה דרכים" - פתגמי חז"ל לפי סדר הא"ב עד אות כ' (בכ"י).
+
+ נפטר בירושלים ב' שבט תרע"ה (17.1.1915).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3624 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3624</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

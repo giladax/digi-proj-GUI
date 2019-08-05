@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4317 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4317</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שאול דב ריין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>דווינסק</placeName> (לטביה), כ"ו אב תר"ס (26.8.1900).
+
+ לאביו <persName>נחום</persName> בן<persName> שאול ריין </persName> ולאמו<persName> לאה מלכה</persName> בת <persName>ישעיהו קיל.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה בוילנה. עבד כפועל בבית חרושת לספירט.
+
+ היה חבר המרכז של צעירי המזרחי, וממיסדי ויו"ר החלוץ בוילנה.
+
+ בניסן תרפ"א (1921) עלה לארץ. עבד בחקלאות בפתח-תקוה, והיה אח"כ בעל משק בכפר אברהם.
+
+ היה חבר המועצה המקומית, חבר סניף הפועל המזרחי בפתח-תקוה.
+
+ בשנת תרפ"ד (1924) נשא לאשה את <persName>בתיה ציונה</persName> בת <persName>חיה</persName> ור' <persName>שלמה אולקניצקי </persName> (נולדה בשנת 1899 בעיירה וסלישק, פלך וילנה. עבדה כעוזרת לרוקח בגרודנא. עלתה לארץ בשנת 1922 במסגרת החלוץ המזרחי בוילנה, בארץ נתקבלה כחברה בקבוצת <persName>ריינס.</persName>
+
+ השתתף בציר בועדות המפד"ל 13, 1-8.
+
+ בשנת תרפ"ז (1927) התישב בכפר חסידים ושימש שם כיו"ר.
+
+ ממיסדי קבוצת "ריינס", קבוצת הכשרה חקלאית מעולי צעירי המזרחי בוילנה (1922).
+
+ כיום, מנהל מחלבות רענן בע"מ בפתח-תקוה.
+
+ חבר מועצת החלב, חבר הנהלת איגוד יצרני חלב.
+
+ משנת תרפ"ב (1922) היה חבר הגנה ובימי המאורעות התגייס כנוטר.
+
+ צאצאיו :<persName> חנה</persName> אשת<persName> ראובן לסקר, נתנה </persName> אש<persName>ת גדליה</persName> <persName>חלפון, אשר</persName> ז"ל (נפל במלחמת השחרור).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4317 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4317</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

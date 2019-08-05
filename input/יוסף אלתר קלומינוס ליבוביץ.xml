@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3784 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3784</bibl><bibl>Volume: #11 ,Page: 3785 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3785</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף אלתר קלומינוס ליבוביץ</persName>
+
+</head>
+         <div><p> נולד בירושלים, בעיר העתיקה בשנת תרכ"א (1861).
+
+ לאביו <persName>יצחק,</persName> ולאמו<persName> בריינה.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה.
+
+ פתח חנות בעיר העתיקה, ובהיווסד המושבה פתחתקוה עזב את ירושלים ועבר עם אשתו ליהודיה ועבד כשכיר בחקלאות אצל ר' <persName>יהושע שטמפר </persName> ואח"כ במשק הבארון רוטשילד.
+
+ נשא לאשה את<persName> חנה</persName> בת<persName> שלמה אזולאי</persName> (ממשפחת הרב <persName>חיים יוסף אזולאי-חיד"א,</persName> ראה כרך שני, עמוד 555). בן הישיבה הפך לפועל חקלאי מסור. רכש מגרש במושבה ובנה בעצם ידיו בית קטן, סידר לו משק קטן, רכש עופות, פרה, ועסק גם בבנאות ובנגרות. במשך
+
+
+ הזמן נטע כרם בן 10 דונם והיה למופת לכל נוטעי הכרמים במושבה.
+
+ הגן על המושבה בכל מקרה התנפלות השכנים הערבים. בשנת 1890 בעלות הערבים על אדמת היהודים במטרה לחרשה, השתטח על אדמתה לפני השוורים ולא נתן להם לחרוש. בעת המעשה לא הרגיש במהלומות שחילקו לו הערבים. אחרי זמן מה חלה וסבל כל השנים מכאבים.
+
+ היה ידוע במושבה בשם ר' <persName>אלתר מיהודיה.</persName>
+
+ נפטר בפתח-תקוה, י"ד כסלו תרס"ד (3.12.1903).
+
+ צאצאיו: <persName>אסתר</persName> אשת <persName>אליעזר בסין, משה, הניה</persName> אשת<persName> אליהו ירקוני גרינפלד</persName> (ראה כרך ג', עמוד 1523).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3784 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3784</bibl><bibl>Volume: #11 ,Page: 3785 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3785</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

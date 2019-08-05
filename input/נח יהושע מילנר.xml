@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 874 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/874</bibl><bibl>Volume: #2 ,Page: 875 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/875</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נח יהושע מילנר</persName>
+
+</head>
+         <div><p> נולד בראדוביץ, בוקובינה (אז אוסטריה), בשנת תרל"ה (1875), לאביו ר'<persName> שלמה הכהן מילנר</persName> (מנהל טחנה גדולה בראדוביץ, אח"כ חלוץ תעשית הטחינה בירושלים ומיסד שכונת "אגודת שלמה" או "בתי מילנר").
+
+ בן תשע עלה ארצה ביום ד' טבת תרמ"ד עם הוריו וכל ביתם (משפחה בת 10 נפשות), אחרי שאביו, שעלה בתרמ"ג, קיבל נחלה במושבה הר-טוב, והתישבו שם. החל ללמוד אצל המלמד של המושבה ר' <persName>משה פרידלס</persName> ואח"כ אצל קרובו הבחור<persName> יקותיאל</persName> <persName>סגל</persName> שעלה ארצה עמהם, ובסוף שלח אותו אביו ללמוד בירושלים אצל המלמד ר' <persName>זיידל סופר</persName> . משנודע לאביו, שהחברה התומכת במושבה הר-טוב היא מיסיונרית ורוצה לקנות באמצעות ההתישבות על הקרקע
+
+ את המתנחלים היהודים לדת הנוצרית, עזב את הנחלה ועלה עם משפחתו בחוסר-כל לירושלים והחל להאבק קשה לבסס לו את קיומו הכלכלי ואת בנו זה הכניס לבית-הספר למל בהנהלת הד"ר<persName> זאב הרצברג</persName> . אך הקנאים משכונת "בתי אונגארן", ובראשם הרב <persName>בנימין שטאמפר </persName> (אביו של ר' יהושע <persName>שטאמפר,</persName> ממיסדי פתח תקוה), לחצו על אביו במשך חצי שנה, לא נתנוהו לעלות לתורה ולדוכן וכדומה, עד שהוכרח להוציאו מה"שקולה" המוחרמת על-ידי הקנאים ולהכניסו ל"חדר" של ר' <persName>זרח ראקובר,</persName> מטובי המלמדים, ואח"כ לישיבה.
+
+ נשא לאשה את <persName>ליבה רחל</persName> בת ר' <persName>יהודה אריה</persName> <persName>הורביץ</persName> (המכונה "ר' יודיל מעלער", לפנים שותפו של אביו בנסיון ליסד תעשית מצות לפסח, עסק שלא הצליח בידם), ועבד כעוזר למנהל הפנקסים בטחנה הגדולה שניהל אביו.
+
+ כשחזר חותנו מביקור בטבריה סיפר לו על החטים שחורות-הפה (אם אינן נרחצות היטב מקבל הלחם הנאפה מהן צבע כחלחל, ובעיקר עושים מהן גריסי-בורגול בעבודת-יד של נשים בנפות של קלף) שהן נמכרות בצפת בזיל הזול. מיד ראה בכך הזדמנות לעסק טוב. התפטר ממשרתו אצל אביו, לקח את נדוניתו ויחד עם חותנו רכשו מכונות והקימו בצפת טחנה לעשית הגריסים. אולם מאחר שחטים אלה נמצאו בשוק רק כחדשיים אחרי הגורן, לא היה להם
+
+ חומר מספיק להעסקת המפעל והוכרחו לבטלו.
+
+ עבר ליפו ופתח בית-מסחר למכולת בסיטונות בשוק אל-דר ועסק בצרכי צבור. השתתף (בתרנ"ח) עם ר' <persName>יעקב משה אסיסקוביץ</persName> ור'<persName> אליהו אהרן כהנא</persName> ואחרים ביסוד לשכת "אחוה" ושכונת "אחוה" ליד נוה צדק, כן השתתף ביסוד "הכנסת אורחים", "ביקור חולים ולינת הצדק" והחדר הדתי לאומי (ואח"כ "תחכמוני").
+
+ ביום ט"ו אלול תרס"ה נפטרה אשתו ביפו אחרי שילדה לו שלש בנות ושני בנים, ובשנת תר"ע נשא את<persName> חיה רחל</persName> אלמנת <persName>מנחם מנדל נחומובסקי,</persName> ממיסדי המושבה חדרה, ועבר אל המושבה וניהל
+
+
+ את המשק של אשתו וגם כאן התמסר לעסוק בצרכי צבור. היה מהעסקנים המסורים למען החינוך החרדי, ממיסדי הבנק הקואופרטיבי של אכרי המושבה, חבר ועד המושבה ובשנות מלחמת-העולם הראשונה קיבל עליו את התפקיד הקשה והמסוכן של מוכתר המושבה. עזר ל"פררים" (משתמטים ובורחים מהשרות בצבא ובגדודי עבודה באזור החזית), לאסירים ולמגורשי יפו ותל-אביב והגן במסירות על עניני המושבה בפני השלטונות. גם אחרי המלחמה הוסיף לפעול לטובת הצבור בהצנע-לכת.
+
+ נפטר בתל-אביב, ו' ניסן תרצ"ז, והובא לקבורה בחדרה.
+
+ צאצאיו (מאשתו הראשונה): <persName>יפת, אחיטוב, מלכה</persName> אשת<persName> דוד נוביק, לאה</persName> אשת<persName> אפרים ויזלר, אביגיל</persName> אשת <persName>ראובן גורדון </persName> ; (מאשתו השניה):<persName> שרה</persName> אשת <persName>יחיאל נוביקוב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 874 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/874</bibl><bibl>Volume: #2 ,Page: 875 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/875</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

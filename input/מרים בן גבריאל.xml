@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2225 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2225</bibl><bibl>Volume: #5 ,Page: 2226 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2226</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרים בן-גבריאל</persName>
+
+</head>
+         <div><p> נולדה בביליץ (אוסטריה), 1.12.1898 לאבי<persName>ה משה</persName> (מוריץ)<persName> שנובל</persName> ולאמה <persName>שרה </persName> (שרלוטה) בת<persName> עמנואל רוגר.</persName>
+
+ קבלה חינוך בית ספר עממי, תיכוני, אקדמיה למוסיקה ובית ספר דראמתי בביליץ ואח"כ בוינה.
+
+ היתה ידועה כקריינית-ספרות בוינה.
+
+ היתה מזכירת התאחדות הסופרים והאמנים היהודיים "הרוח" בוינה, ופעילה ב"הפועל הצעיר".
+
+ בשנת 1921 נישאה<persName> למשה יעקב</persName> בן-גבריאל (ראה כרך ד, עמוד 1948).
+
+ ב-1.10.1925 עלתה לארץ.
+
+ בשנות 1927-29- שחקנית ב"התיאטרון הלאומי" וקריינית-ספרות (היתה תלמידת ד"ר יצחק אפשטיין ז"ל).
+
+ מלמדת מקצוע חדיש בארץ : פוניטיקה מעשית (תורת ההיגוי) והראשונה שחיברה אימונים שטתיים לצורך לימוד זה.
+
+ מפרסמת מאמרים הקשורים למקצועה, לרוב - הופיעו ב"הארץ".
+
+
+ משנת 1934 מזכירתו של פרופ' טור-סיני, ומשנת תש"י היא מלמדת תורת היגוי באוניברסיטה העברית בירושלים.
+
+ עסקנית בהרבה מוסדות. בשנת-תש"ט היתה נשיאת לשכת בני-ברית "בת-ציון".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2225 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2225</bibl><bibl>Volume: #5 ,Page: 2226 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2226</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2245 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2245</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד''ר חיים מרדכי (מארק) שרלאג</persName>
+
+</head>
+         <div><p> נולד בשנת תרל"ח (3.7.1878) בחורוסטקוב שבמזרח גליציה לאביו <persName>פנחס </persName> ולאמו <persName>איידל </persName> בת <persName>יוסף גלמאן.</persName> למד בגימנסיה בעיר סטרי ומשפטים באוניברסיטת וינה והוסמך לד"ר למשפטים ולעורך דין.
+
+ ב-1906 נשא לאשה את <persName>גולדה מלכה </persName> בת <persName>מלך שטרנ</persName> <persName>באך</persName> . השתקע בוינה כעו"ד ועסק בפעולה ציונית ונבחר
+
+ כציר לועידות ציוניות שונות, ובעבודה עתונאית וספרותית כללית וציונית בכתב ובהרצאות. ב-1908 היה מזכיר הועד האזורי של ההסתדרות הציונית באוסטריה. יסד את כתבי-העת הציוניים "אונזערע האפנונג'' ב-1903 ו"נוי צייט" ב-1915. תרם והתרים לקרנות ולמוסדות
+
+ הציוניים. כתב מאמרים ב"נויע פרייע פרעסע", "די צייט", "נויעס וינר ז'ורנאל", "וינר מורגנצייטונג", "די וועלט", "שטימע" (כל אלה עתונים בגרמנית ; שלושת הראשונים כלליים ושלושת האחרונים ציוניים), "חווילה" (עתון יומי ציוני בפולנית בלבוב), ועוד. מ-1901 ואילך כתב בשנתון היהודי שיצא בפולנית בלבוב. תרגם את כתבי אדולף שטאנד וכמה ממאמריו תורגמו והופיעו בעברית בארץ. פרסם בגרמנית שלשה ספרי שירים: "בדידות" (דרזדן 1900), "בנכר" (שירים יהודיים, ברלין 1914 ו-1918), "אדמת מולדת" (וינה 1927).
+
+ בספטמבר 1939 עלה ארצה והשתקע בחיפה. כאן נפטרה רעיתו ב-5.2.46 וב-20.10.46 נשא את<persName> ברטה</persName> בת <persName>מרדכי קמינר.</persName>
+
+ עוסק בעבודה ספרותית ופעיל בועד "ברית ראשונים - עסקנים ציונים ותיקים".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2245 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2245</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

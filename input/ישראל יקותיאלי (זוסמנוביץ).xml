@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1422 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1422</bibl><bibl>Volume: #3 ,Page: 1423 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1423</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל יקותיאלי (זוסמנוביץ)</persName>
+
+</head>
+         <div><p> נולד בסלונים, רוסיה הלבנה, אדר תרנ"ב (מרס 1892), לאביו<persName> ברוך יקותיאל זוסמנוביץ </persName> (ראה כרך א', עמוד 203) ולאמו יונה מרים בת<persName> חיים דב קלצקי</persName> (נפטרה בתל-אביב, ח' אלול תרצ"ב). למד בחדרים המתוקנים שניהל אביו בגולה והשתלם בהשכלה עברית וכללית.
+
+ בשנת תר"ע עלה ארצה עם הוריו וכל ביתם ועבד כפועל חקלאי בזכרון יעקב ובסביבה.
+
+ השתתף ביסוד המכבי בארץ, היה פעיל באגודת "ראשון לציון" ביפו, במלחמה במיסיון (פעולה שאביו התמסר לה במיוחד), והשתתף במאמצי <persName>מנחם שיינקין</persName> וחבריו לארגון ועד הקהלה ביפו מחדש על יסודות דמוקרטיים. השתתף ביסוד אגודת הפקידים הראשונה ביפו ות"א.
+
+
+ בראשית מלחמת-העולם הראשונה הוכרח לצאת מהארץ בגלל נתינותו הרוסית. היה מפעילי ההסתדרות הציונית באמריקה וממיסדי "צעירי ציון" וההסתדרות העברית באמריקה, ואחרי המלחמה חזר ארצה.
+
+ ב-1921 נתקבל לעבודה במשרד מחלקת העליה של ועד הצירים בסידורי העזרה לעולים בנמל חיפה. המשיך בשרותו זה בחילוף רשויות - בהנהלה הציונית, בסוכנות היהודית, וכיום פקיד ראשי במשרד העליה המחוזי של מדינת ישראל בחיפה.
+
+ בתרפ"ב נשא לאשה את<persName> שולמית</persName> בת<persName> יחזקאל דנין</persName> <persName>(סוכובולסקי)</persName> מעסקני יפו וסוחריה, ממיסדי תל-אביב (ראה כרך א', עמוד 480).
+
+ ב-1921 השתתף ביסוד סניף הסתדרות הפקידים בחיפה והנו חבר ועד הסניף, היה חבר מועצת פועלי חיפה בראשיתה, חבר המועצה הארצית של הסתדרות הפקידים, חבר משפט החברים בהסתדרות הכללית, חבר מועצת מפלגת פועלי ארץ-ישראל בחיפה. השתתף ביסוד שכונת בת גלים בחיפה.
+
+ פרסם מאמרים בעתון היומי "החרות" (לפני מלחמת-העולם הראשונה), ב"אידישע פאלק" וב"פארן פאלק" באמריקה ובירחון "מכבי" בארץ.
+
+ צאצאיו: <persName>ברוך יקותיאל</persName> (עובד בקהק"ל בגאולת הקרקע),<persName> חנה </persName> (חברה בקיבוץ בנגב).
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בחדרה בי"ז בניסן תשכ"ט (5.4.1969) והובא לקבורה בחיפה. (ראה כרך שלישי, עמוד 1422)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1422 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1422</bibl><bibl>Volume: #3 ,Page: 1423 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1423</bibl>
+            <bibl>Volume: #18 ,Page: 5491 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5491</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

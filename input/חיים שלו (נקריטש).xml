@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2473 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2473</bibl><bibl>Volume: #6 ,Page: 2474 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2474</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים שלו (נקריטש)</persName>
+
+</head>
+         <div><p> נולד בלנין, פלך מינסק (רוסיה), י' באלול תרנ"ג (1893).
+
+ לאביו <persName>ישראל איסר</persName> סוחר ותלמיד חכם מובהק, נפטר בת"א, כ' בטבת תרצ''ז), ולאמו<persName> חנה </persName> לבית
+
+
+<persName>גראייב</persName> (נפטרה בת"א, כ"א במרחשון תשי"ד).
+
+ קיבל חינוך מסורתי בחדרים ובישיבות. ביחוד נמשך אחר התנ"ך, הלשון העברית ודקדוקה. שימש מורה לעברית בבית-ספר מתוקן.
+
+ עלה לארץ כ"ה חשון תרפ"א.
+
+ עבד כפועל שחור בעבודות חקלאיות ובנין בעמק, בירושלים ובתל-אביב.
+
+ בשנת 1924 ייסד את "<persName>מרצפיה"</persName> , בית-חרושת למוצרי מלט ותעשיית אבן ושיש, הגדול והמשוכלל ביותר בארץ, שהוכתר באותות הצטיינות על עבודותיו וטיב תוצרתו.
+
+ בשנת תרפ"ט נשא לאשה את <persName>שרה</persName> בת<persName> ר' אברהם</persName> <persName>אהרן אייזנברג</persName> , שו"ב בפינסק.
+
+ פעיל בחוגי בעלי התעשיה ובחיים הציבורייםהמסורתיים בתל-אביב. היה חבר הועד הפועל של התאחדות בעלי התעשיה ויו"ר בית-הכנסת "בית אל", בתל-אביב. עכשיו הוא משמש : סגן יו"ר של הנהלת הבנק "קרדיט למלאכה'', סגן יו"ר בית-הכנסת "ביתאל", יו"ר החברה המאוחדת לפיתוח מחצבות שיש וגרניט בא"י ויו''ר הסקציה למרצפות שליד התאחדות בעלי התעשיה.
+
+ צאצאיו: <persName>פועה</persName> (מוסמכת האוניברסיטה העברית, משוררת ומתרגמת), אשת הסופר <persName>חיים תורן </persName> (ירושלים), <persName>אברהם</persName> (סטודנט בטכניון העברי בחיפה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2473 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2473</bibl><bibl>Volume: #6 ,Page: 2474 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2474</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

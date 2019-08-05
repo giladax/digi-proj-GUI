@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3147 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3147</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב לרר</persName>
+
+</head>
+         <div><p> נולד בנס ציונה (הראשון שנולד במושבה זו), ב' תשרי תרמ"ט (סוף 1888).
+
+ לאביו<persName> משה</persName> בן <persName>ראובן,</persName> הם<persName> ראובן ומשה לרר </persName> שהתישבו בואדי חנין, בעת שבכל הסביבה לא היה עוד ישוב עברי, חוץ משני אהלים ב"עיון-קרא", בהם חנו ראשוני מיסדיה של ראשון לציון (אחד האהלים היה של<persName> ז. ד.</persName> <persName>ליבונטין).</persName>
+
+ למד בבית-הספר של המושבה, בתלמוד-תורה שערי תורה ביפו ובבית-הספר למל בירושלים, ואת העבודה החקלאית למד במשק המגוון והמפותח של המשפחה, שאביו ואבי-אביו ניהלוהו במיטב יכלתם הרבה שרכשו להם עוד בניהול אחוזה גדולה ברוסיה, ליד אודיסה.
+
+ נשא לאשה את<persName> ברכה</persName>
+
+ התמסר לעבודה חקלאית ולנסיעות ופיתח משק נאה בנס ציונה. השתתף בתרס"ז ביסוד המושבה באר יעקב (עם הרב <persName>יעקב יצחקי</persName> ועוד) שממזרח לנס ציונה וסייע למתישבים בזמן הראשונים ביצירת יחסי ידידות ושלום עם הסביבה. לאחר עשרים שנה, בתרס"ז, השתתף ביסוד המושבה "כפר אהרן" ממערב לנס ציונה והיה נציגת כלפי השלטונות בתור מוכתר. השתתף ביסוד אגודת המכבי בנס ציונה והיה אחד מפעיליה.
+
+ אחרי מלחמת-העולם הראשונה הצטרף להסתדרות "בני בנימין" של בני אכרי המושבות ונבחר לחבר המרכז שלה. אח"כ הצטרף להתאחדות האברים ונבחר לחבר המרכז שלה. נבחר לחבר ועד המושבה בנס ציונה ובכפר אהרן.
+
+ בתקופות המהומות בשנת 1921 התנדב להיות שוטר נוסף בלי קבלת משכורת, כדי להגביר את הבטחון הצבורי בסביבה.
+
+ כתב ב"הישוב" כתבות על בנינה והתפתחותה של המושבה כפר אהרן.
+
+ נפטר בנס ציונה, כ"ח סיון תשט"ז (7.6.1956).
+
+ בנותיו: <persName>רבקה</persName> אשת<persName> זיסקינד קפלן, מאירה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3147 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3147</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

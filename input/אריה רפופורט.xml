@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 157 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/157</bibl><bibl>Volume: #1 ,Page: 158 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/158</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה רפופורט</persName>
+
+</head>
+         <div><p> נולד בי"ב טבת תרמ"ח בשאוולי (ליטא) לאביו הרב <persName>יעקב דב</persName> , רבה של קהלת זימל, ולאמו<persName> חיה</persName> , בת הרב המפורסם <persName>יוסף זכריה שטרן</persName> , רבה של שאוולי, ונכדת הרב <persName>מרדכי גימפל יפה </persName> (מראשוני המתישבים ביהודיה). למד תורה בבית אביו הרב, בישיבת פלונגיאן, בישיבת לוצין (אצל דוד אמו הרב<persName> יעקב רבינוביץ</persName> , בן ר' מרדכי גימפל יפה), ושנתים בישיבת "כנסת ישראל" בסלובודקה.
+
+ משנשא אשה יסד בית-חרושת לסוכריות בשאוולי ועסק גם בצרכי צבור. בתרע"ב קנה על-ידי אחיו <persName>נתן דוד</persName> נחלה בבפר-סבא: כרם גמור, 25 דונם גפנים ו-25 דונם שקדים, ומסר את הטיפול בנחלה לאחיו, על-מנת להכין לו מחיה לכשיעלה ארצה.
+
+
+ במלחמת-העולם הראשונה, כשהחזית היתה בכפרסבא, נחרב הכרם לחלוטין, ובתרפ"א נפל האח נתן דוד בהגנת פ''ת, והוא נשאר בשאוולי, המשיך בעסקו ונשא בעול העבודה הציונית בעיר. בהמרצת אביו עלה גם הוא ארצה עם משפחתו (4 ילדים קטנים) והתישב בכפרסבא. כאן נטע פרדס על אדמתו וחפר באר ונשא
+
+ בעול החיאת המושבה בעבודה עברית, ותוך כך נאבק קשה על הקיום, כי הפרדס דרש השקעת הון רב וההכנסה היתד, מועטת. נבחר לחבר ועד המושבה, חבר הועד החקלאי, מנהל הלואה וחסכון המקומי, חבר ועד בית-הכנסת, ועדת הבנין של בית-הכנסת, ועד בית-הספר (בתפקידו זה השתדל ליתן כיוון מסורתי לבית-הספר הכללי של המושבה, ומשלא עלה הדבר בידו בגלל התנגדותם של חוגים שפעלו דוקא בכיוון שכנגד, פעל בעד הקמת בית-ספר דתי "יבנה" מיוחד).
+
+ אחרי מאבקים קשים במצב הכלכלי והכללי עבר לתל-אביב בשנת תש"א.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 157 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/157</bibl><bibl>Volume: #1 ,Page: 158 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/158</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

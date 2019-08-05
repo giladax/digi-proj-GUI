@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3465 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3465</bibl><bibl>Volume: #10 ,Page: 3466 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3466</bibl>
+<bibl>Volume: #10 ,Page: 3467 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3467</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו ישעיהו הומינר</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרל''ח (1878). לאביו הרב <persName>שמואל הומינר</persName> (ראה כרך שני, עמוד 599) ולאמו <persName>בריינה רבקה </persName> בת הרב החסיד ר' <persName>דוד הלוי</persName> <persName>זלדוביץ</persName> ממינסק (ממשפחת האדמו"רים מליובאוויטש).
+
+ קיבל חינוך מסורתי בת"ת ובישיבת "עץ-חיים" בירושלים.
+
+ היה מבאי ביתו של הרב <persName>שמואל סלנט</persName> רבה של ירושלים (ראה כרך א', עמוד 284).
+
+ נשא לאשה. את<persName> רחל</persName> בת ר' <persName>אברהם קרצ'מר</persName> (סוחר באריגים, מראשוני תושבי יפו). 
+
+
+ נולדה בביאליסטוק בשנת תרל"ח. עשתה רבות למען מוסדות צדקה וסעד בסתר. נפטרה בירושלים, י"ז שבט תש"ט (16.2.1949).
+
+ עסק בבנקאות ועזר רבות להתפתחות ירושלים.
+
+ במלחמת העולם הראשונה, הגיש עזרה רבה למחוסרי אמצעים בעיר. נעזר בפספורט "הספרדי" שהיה בידו. בעיקר עזר לתלמידי הישיבות שהעזרה מהחוץ נמנעה מהם בימים ההם.
+
+ מפעילי ויו"ר ועד שכונת מאה שערים בירושלים. בהשפעתו בנו בשכונה את החנויות במקום הצריפים. היה עסקן חרוץ ועשה מלאכתו באמונה.
+
+ היה מבאי ביתם של הרבנים <persName>שמואל סלאנט וא. י</persName> . <persName>הכהן קוק</persName> זצ"ל.
+
+ היה בעל זכרון נפלא, וידע את תולדות ירושלים ותושביה.
+
+ נפטר בירושלים, כ"ב אב, תשט"ז (30.7.1956).
+
+ צאצאיו:<persName> רבקה</persName> אשת הרב <persName>מרדכי רבינוביץ</persName> זצ"ל, <persName>משה, אברהם, חיה</persName> אשת <persName>יצחק וכטנברג, יהושע.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3465 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3465</bibl><bibl>Volume: #10 ,Page: 3466 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3466</bibl>
+<bibl>Volume: #10 ,Page: 3467 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3467</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

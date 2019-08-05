@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4014 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4014</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה ברזילי (זליז'נאק)</persName>
+
+</head>
+         <div><p> נולד בחודש סיון תרס''ב (1902). בעיירה יורביץ, פלך מינסק שברוסיה הלבנה.
+
+ לאביו <persName>צוריאל זליז'נאק </persName> ולאמו <persName>פרידה</persName> בת ר' <persName>יהושע</persName> <persName>פרידמן</persName> (ציוני נלהב, מחסידי חב''ד).
+
+ אחרי פרעות 1905 ברוסיה היגרו הוריו והסבא ר' <persName>יהושע </persName> למושבה של יק"א בארגנטינה ולקחוהו עמהם.
+
+ אך האב והסבא, שהיו ציונים, לא יכלו להשתקע באדמת הנכר, וב-1908 מכרו את הרכוש שם, עלו לארץ והשתקעו ביפו.
+
+ למד ב"חדר-תורה תחכמוני", בתלמוד תורה "שערי תורה'', בבית-הספר "תחכמוני", בבית הספד של חברת "עזרה" הברלינית והיה מראשוני בוגריו של בית-הספר למסחר הראשון בתל-אביב.
+
+ עבד בתור מזכיר מערגת הירחון "האזרח", שהוציא וערך הסופר <persName>ש. בן-ציון</persName> בהשתתפות העתונאי <persName>בר-דרורא.</persName> מוותיקי "הפועל הצעיר" ומראשוני פעיליה של ההסתד רות. עזר בעיבוד התקנות למוסדות ההסתדרות, לחברת הביטוח "הסנה", לבנק הפועלים ולקופת חולים. מוותיקי ההגנה, שעזר לחבריה בסידורים שונים ומשרדו שימש מטה לחלק מפעולותיה עד קום המדינה.
+
+ נשא לאשא את <persName>רחל</persName> בת ר' <persName>יעקב שמואל רופמן</persName> ז''ל (שו''ב ומוהל ברחובות, ובשנים קודמות רופא-חובש ורוקח למושבות הדרום - ראה כרך ח', עמד 3054).
+
+ ב-1919 נתקבל לעבודה בוועד הקהלה של יפו-תלאביב כמנהל מחלקת הרישום, ובמשך הזמן הגיע למעמד פקיד ראשי וריכז בידו את ארכיון הקהילה ורישום הלידות, ובזכרונו הנפלא בכל פרטי העניינים שעברי תחת ידו היה לעזר בבירורים לכל המנגנון המתרחב והולך של הקהלה. עזר לעולים רבים בסידורם בעבודת קבע. השתתף גם בפעולות כלליות לטובת האזרחים, כאחד מראשוני החברים בבנק הלואה וחסכון וחבר ההנהלה של שכונת השכנים ב' בקצה הצפון של תלאביב באמצע שנות ה-20.
+
+ עם מיזוג הקהלה והעיריה ב-1939 עבר לעבוד במזכירות עיריית תל-אביב, וכיום מזכיר משרד ההוצאהלפועל של העיריה.
+
+ צאצאיו: <persName>יהושע, יגאל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4014 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4014</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

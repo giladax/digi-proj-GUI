@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #16 ,Page: 4899 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4899</bibl><bibl>Volume: #16 ,Page: 4900 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4900</bibl>
+<bibl>Volume: #16 ,Page: 4901 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4901</bibl>
+<bibl>Volume: #16 ,Page: 4902 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4902</bibl>
+<bibl>Volume: #16 ,Page: 4903 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4903</bibl>
+<bibl>Volume: #16 ,Page: 4904 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4904</bibl>
+<bibl>Volume: #16 ,Page: 4905 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4905</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל יונה דאום</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קאליש</placeName> (פולין), כ"ה בשבט תרמ''א (1881).
+
+ לאביו <persName>יהושע </persName> (סוחר וחרשתן, חסיד ומחובביציון הנלהבים. בשלהי המאה הקודמת ובתחילת מאת העשרים ביקר בארץ ישראל) ולאמו <persName>רויזה</persName> לבית <persName>ברקוביץ.</persName>
+
+ התחנך ברוח מסורתית, למד בישיבה ונסמך לרבנות. באופן עצמאי רכש לו השכלה כללית וכמה שפות לועזיות.
+
+ "בימי שחרותו נסחף עם הרעיון הציוני. בהיווסד בשנת תרס"ב (1902) תנועת "המזרחי", הצטרף אליה והיה מעסקניה בווארשה יחד עם <persName>לוי לוין-אפשטיין</persName> (ראה בכרך ח', <persName>יהושע פארבשטיין</persName> (ראה בכרך א'), המטיף הציוני הנודע, הרב <persName>יצחק ניסנבוים</persName> (ניספה בשואה) ועוד.
+
+ היה מקוראי "המליץ", "הצפירה", "השלח", "העולם" וכתבי-עת עבריים אחרים. (כל כרכי "העולם" נמסרו לאחר מותו לספריה הצבורית במגדיאל יחד עם ספריתו הפרטית).
+
+ בשנת תרנ"ט (1899) נשא לאשה את <persName>טויבע</persName> בת <persName>נתן דוד ליפשיץ</persName> (מורה-הוראה בלודז' מצאצאי ר' <persName>שלמה זלמן ליפשיץ</persName> , מחברי ספרי "חמדת שלמה", רבה כראשון של ווארשה, אב בית-דין וראש-מתיבתא שם).
+
+ שלש שנים לאחר נשואיו נפטרה אשתו בווארשה ונשא בשנית את אחותה, <persName>הינדה</persName> , שנפטרה בי"ז בתמוז, תש"ג (1943) והובאה לקבורה במגדיאל (הוד-השרון).
+
+ עסק במסחר. בווארשה היה מעורה בחיים הצבוריים-הציוניים. התמסר רובו ככולו לתנועת "מזרחי" והיה חבר הועד המרכזי בווארשה, ייצג את מפלגתו בדירקטוריון של הקרן הקיימת לישראל וכיהן כסגן-ראש שלו, היה חבר הדירקטוריון של קרן-היסוד בפולין.
+
+ השתתף כציר בקונגרסים הציונים בקרלסבאד,
+
+ בשנים 1921 ו-1923.
+
+ בשנת תרפ"ד (1924) עלה לארץ מתוך מגמה להתיישב על הקרקע ולעסוק בחקלאות. כאשר <persName>יהושע חנקין</persName> (ראה בכרך ב') גאל את האדמה במגדיאל (כיום: הוד השרון) ונעשו ההכנות לייסד המושבה, רכש לו שם אדמה. באיסרו-חג של סוכות תרפ"ה עלה עם המתיישבים הראשונים להתנחל
+
+ במגדיאל. ביתו, שבנה היה הראשון בכפר. הקים משק חקלאי (רפת גדולה), אך לא הצליח והפסיד את כספו מתיך חוסר-נסיון בחקלאות והתנאים הקשים דאז. משפחתו רצתה לחזור לפולין, אך סירב מתוך חיבתו העזה לארץ-הקודש ולמגדיאל, בה התגורר כל שנות חייו בארץ.
+
+ ניהל שנים אחדות את סניף הדואר במגדיאל. חבר ועד המושבה והמועצה המקומית הראשונה. פעיל במוסדות צבוריים שונים. מן היוזמים להקמת בית-הספר של "מזרחי" במגדיאל ובית-הכנסת הגדול, המתנוסס במרכז המושבה, ודאג להחזקתם.
+
+ נפטר במגדיאל, ל' בתשרי תשי"ד (9.10.1953) ושם נטמן.
+
+ צאצאיו: <persName>עליזה</persName> אשת <persName>יצחק אופטובסקי</persName> ז"ל, פנינה ז"ל אשת <persName>דניאל רבין, אביגדור </persName> (חקלאי, אשתו חיה בת <persName>אברהם יצחק דריאנסקי), שלמה</persName> (עובד מדינה, אשתו הדסה לבית מושקלביץ),<persName> יהושע</persName> (חבר "אגד", אשתו <persName>טובה בת חיים קלמנוביץ), חנוך</persName> (חקלאי ומורה, אשתו <persName>פנינה </persName> בת<persName> חיים יהודה דאום).</persName>
+
+ נכדיו: <persName>יונה</persName> אשת<persName> דוד פריימן, שרה</persName> אשת<persName> בנימין</persName> <persName>מונטר</persName> , מנחם רבין, רבקה (עובדת סוציאלית, אשת <persName>ישראל טפר</persName> ), נתן (אשתו <persName>ברוריה</persName> לבית<persName> אכסלרד</persName> ), <persName>אברהם, אלי, אבישי, פנחס, חנה, יונה, אילה</persName> (מורה, אשת <persName>חיים פומרנץ), יחזקאל</persName> (בוגר מדרשית "נועם" בפרדס-חנה ותלמיד ישיבת "מרכז הרב" בירושלים, אשתו<persName> רחל</persName> לבית <persName>רוז'ה</persName> ), אילנה, מרים, ברכה.
+
+ ניניו: <persName>שמואל ותמי פרימן, טובה, דורית ורקפת</persName> <persName>מונטר. </persName> (מ. ה.)
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #16 ,Page: 4899 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4899</bibl><bibl>Volume: #16 ,Page: 4900 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4900</bibl>
+<bibl>Volume: #16 ,Page: 4901 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4901</bibl>
+<bibl>Volume: #16 ,Page: 4902 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4902</bibl>
+<bibl>Volume: #16 ,Page: 4903 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4903</bibl>
+<bibl>Volume: #16 ,Page: 4904 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4904</bibl>
+<bibl>Volume: #16 ,Page: 4905 ,URL: http://www.tidhar.tourolib.org/tidhar/view/16/4905</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

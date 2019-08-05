@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4318 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4318</bibl><bibl>Volume: #13 ,Page: 4319 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4319</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליהו מאיר הירשפלד</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ריגה</placeName> (לטביה) בשנת תרי"ב (1852).
+
+ לאביו <persName>שמואל הירשפלד </persName> ולאמו <persName>גרונה.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה ב<placeName>ריגה</placeName>. עסק במסחר תבואות.
+
+ היה פעיל באגודת "חובבי-ציון" בעירו.
+
+ בשנת תרל''ה (1875) נשא לאשה את <persName>חיה מלכה</persName> (נולדה בטלז, כ"ג טבת, תרט"ו-1855) בת הרב <persName>אברהם</persName> <persName>אבא ורנר</persName> (רבה של אגודת "מחזיקי הדת" בלונדון. קודם הרב הראשי בפינלנד) ולאמה <persName>סימה גיטל</persName> בת ר'<persName> ישעיהו</persName> <persName>ליפשיץ.</persName> קיבלה חינוך מסורתי. נפטרה בירושלים, כ''ה אייר, תרפ"ג (11.5.1923) ונקברה בהר-הזיתים בירושלים.
+
+ בשנת תרמ"ו (1886) נסע לרגל מסחרו לאנגליה ומשם לביקור בא"י. נתקשר בנפשו אל הארץ והיישוב המתהווה בה. רכש 600 דונם קרקע בראשון-לציון. משחזר לריגה החל מפציר באשתו שיעלו לארץ לישיבת קבע, וכשסירבה במשך חדשים אחדים המציא תחבולה מקורית לשבור את סירובה. הוא הציע לאביו <persName>שמואל בן אברהם</persName> (שהיה בעל בית חרושת לזכוכית ב<placeName>ריגה</placeName>), שיעלה לארץ ויתנחל על הקרקע שקנה, בתנאי שיקח אתו את נכדתו (בתו של <persName>אליהו מאיר) איטה יהודית</persName> , בת 11 (נישאה אח"כ <persName>לשמעון הכהן שווארץ)</persName> . אביו הסכים ועלה בשנת תרמ"ז (1887) עם אשתו <persName>גרונה</persName> , שתי בנותיו:<persName> בתיה</persName> <persName>וביילה-גיטה</persName> ונכדתו הנ"ל.
+
+
+ מרוב געגועים לבת הקטנה שבא''י, הסכימה רעיתו <persName>חיה מלכה</persName> לרצון בעלה, ובשנת תרמ"ט (1889) עלתה עם בנה <persName>צבי</persName> בן השבע ובנותיה.
+
+ הוא נשאר ב<placeName>ריגה</placeName> עד שחיסל את עסקיו. ובשנת תר"ן (1890) עלה גם הוא לארץ.
+
+ השתקע בראשון-לציון, ועיבד את האדמה בלי עזרת האדמיניסטרציה של הבארון <persName>רוטשילד</persName> (יק"א). חינכה את ילדיה לפי המסורת. מאז פטירת בעלה נשאה בעול הכבד של ההתיישבות הראשונה במושבה, והיא בת 37. עזרה לגב' <persName>חיה צפורה פינס </persName> (ראה כרך ב', עמוד 763) בהקמת המוסד לחולי נפש בירושלים.
+
+ חלה בקדחת צהובה ונפטר בראשון-לציון, י' תשרי (ביום כיפור), תרנ"ג (באוקטובר 1892).
+
+ צאצאיו: <persName>איטה</persName> אשת <persName>שמעון שווארץ </persName> (ראשון-לציון), <persName>צבי הירשפלד</persName> (נשא לאשה את <persName>ברכה קריצבסקי</persName> , ראה כרך ג', עמודים 159, 1464), <persName>בתיה </persName> אשת<persName> יוסף עזרה</persName> חומה, <persName>רחל </persName> אשת<persName> יעקב מייזל </persName> (לונדון),<persName> חנה</persName> אשת<persName> מרדכי ריגבי</persName> (ריגובסקי) - רמת-גן.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4318 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4318</bibl><bibl>Volume: #13 ,Page: 4319 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4319</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

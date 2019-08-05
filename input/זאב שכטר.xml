@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4023 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4023</bibl><bibl>Volume: #12 ,Page: 4024 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4024</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>זאב שכטר</persName>
+
+</head>
+         <div><p> נולד באוברטון (פולין). ד' ניסן תרס"ד (22.4.1904). לאביו ר' <persName>דוד שכטר</persName> ולאמו <persName>פרידה ליבע</persName> בת ר'<persName> טוביא</persName> <persName>גלצר.</persName>
+
+ קיבל חינוך מסורתי וכללי-תיכון.
+
+ עסק במסחר בעירו.
+
+ היה פעיל בהסתדרות הציונים הכלליים. יו"ר קק"ל וקרן היסוד בעירו.
+
+ ב-14.5.1930 עלה לארץ.
+
+ עבר כפועל בפרדסים ובנינים.
+
+ בשנת 1935 נשא לאשה את<persName> חנה</persName> בת<persName> מרדכי מלך</persName> <persName>נכואלגר</persName> (עסקנית, מהפעילות בארגון נשים ליברליות).
+
+ היה בין היוזמים לאירגון פועלים ציונים כלליים.
+
+
+ ממיסדי קופת חולים של הציונים הכלליים ברמת-גן. היה חבר המועצה הארצית של הציונים הכלליים. מהקבלנים הראשונים שבנה את הבתים המשותפים ברמת-גן.
+
+ מיום שעלה לארץ חבר ההגנה ומילא תפקידים שונים שהוטלו עליו.
+
+ צאצאיו; <persName>מרדכי</persName> (אשתו <persName>איה </persName> בת ד"ר<persName> דוד דויטש).</persName> <persName>חדוה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4023 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4023</bibl><bibl>Volume: #12 ,Page: 4024 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4024</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

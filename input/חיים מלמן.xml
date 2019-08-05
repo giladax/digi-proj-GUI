@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 305 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/305</bibl><bibl>Volume: #1 ,Page: 306 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/306</bibl>
+<bibl>Volume: #1 ,Page: 307 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/307</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים מלמן</persName>
+
+</head>
+         <div><p> נולד בבוקארשט, רומניה, בשנת תרל"ד (1874) לאביו <persName>יוסף.</persName> עבר בילדותו עם הוריו לאוסטריה ושם גדל. קיבל חינוך יהודי וכללי והשתלם בנגינה.
+
+ בתרנ"א עלה ארצה, עבד במושבות שונות כפועל חקלאי ובסוף נשאר לעבוד בקביעות בזכרון יעקב, ובערבים היה מלמד את הפועלים שירה ונגינה.
+
+ . בתרנ"ז נשא לאשה את מלכה בת יוסף חרטון.
+
+ בתרנ"ח עבר ליפו והחל לתת שיעורים פרטיים בנגינה בכנור. נתקבל כמורה לנגינה בבית-הספר של "האחים" הצרפתים, ואח"כ גם בבית-הספר של
+
+ המושבה הגרמנית ביפו. כשנוסדה בתרס"ו הגמנסיה העברית ביפו, "הרצליה", נתקבל בה להוראת מקצוע זה והיה מראשוני המורים לשירה ונגינה בארץ, וגם בבית-הספר תחכמוני נתקבל לתפקיד זה. תלמידיו בני כל העדות אהבוהו וכיבדוהו, ורבים מהם תופסים כיום עמדות הנהגה ועסקנות בישוב. כשמצא כשרונות מוסיקליים בילדים מחוסרי אמצעים היה מלמדם בחנם ועוזר להם להשתלם במקצוע המוסיקלי שנמצאו מוכשרים לו. הוא הראשון שיסד בית-מסחר לכלי-נגינה בארץ.
+
+ בתרפ"א עבר למצרים, השתקע באלכסנדריה והמשיך בהוראת מוסיקה ובמסחר בכלי-נגינה. היה פעיל
+
+
+ למען הציונות וארץ-ישראל וסייע לבני הארץ ולעולים שנזדמנו בדרכם לעיר ההיא.
+
+ נפטר בקאהיר, כ"ט חשון תש"ו (3.11.45). הניח אחריו ארבעה בנים: <persName>משה, אבנר, אריח</persName> <persName>ודוד,</persName> ובת אחת, <persName>לאה</persName> , שנישאה לד"ר <persName>נחום קורקידי</persName> מירושלים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 305 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/305</bibl><bibl>Volume: #1 ,Page: 306 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/306</bibl>
+<bibl>Volume: #1 ,Page: 307 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/307</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

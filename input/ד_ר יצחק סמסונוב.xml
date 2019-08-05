@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 249 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/249</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יצחק סמסונוב</persName>
+
+</head>
+         <div><p> נולד בהומל, רוסיה הלבנה, בשנת תרמ"ד לאביו ר'<persName> אריה ליב,</persName> ממיסדי חדרה. התחיל ללמוד ב"חדר" בהומל.
+
+ בן שבע עלה ארצה עם הוריו וחמשת אחיו בתרנ"א והשתכנו ב"חאן" של חדרה. שנים אחדות למר ב"חדר" שנוסד ב"חאן" ועם בנין בתי המושבה עבר לבנין מיוחד ונעשה בית-ספר. אח"כ למד בבית הספר של חברת כי"ח (אליאנס) ביפו ומשם עבר ללמוד במקוה ישראל. כשגמר שם את לימודיו
+
+ נתקבל לעבודת פקידות אצל חברת יק"א בהנהלתו של<persName> חיים מרגלית-קאלוואריסקי</persName> . אך לא מצא סיפוק בעבודת-שיגרה של פקיד, כי הרגיש בתוכו יכולת להועיל יותר לישוב. נסע לצרפת ולמד רפואת-בהמות וב1908 חזר ארצה מוכתר כדוקטור ורופא וטרינרי מוסמך. נתקבל לעבודה בשרות הממשלה הטורקית בתפקיד וטרינר ראשי לסוריה בדמשק. במלחמתהעולם הראשונה גויס לצבא הטורקי ושרת בדמשק בתפקיד קצין רפואי.
+
+ אחרי המלחמה חזר ארצה ונתקבל לשרות ממשלת א"י בתפקיד וטרינר ראשי למחוז הצפון בחיפה. היה ראשון לרופאים הווטרינריים בארץ ויועץ לחברת פיק"א. פעל למען שיבוח גזעי הבהמות בארץ ושקד על בריאות המקנה של החקלאים היהודים והערבים בכל המחוז. יעץ והדריך את הצעירים היהודים בני הארץ, שהחליטו ללמוד את המקצוע הזה, ולעצתו גמרו רבים בהצלחה באותו בית-ספר בצרפת שבו למד הוא, ובהשתדלותו נתקבלו רופאים יהודים לא מעטים לשרות הווטרינרי הממשלתי.
+
+ לא עסק בפוליטיקה, אך עשה למען יצירת יחסי הבנה וידידות עם התושבים הערבים בארץ. היה פעיל במפעלי עזרה קונסטרוקטיבית ובבניה החפשית בארץ. פרסם בעתונים ובכתבי-עת מאמרים בעניני שמירת בריאות המקנה וריפוי בהמות.
+
+ אחרי 22 שנות שרות בממשלה בהצטיינות יצא לפנסיה.
+
+ נפטר בחיפה והובא לקבורה בחדרה, א' אייר תש"ד. 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 249 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/249</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

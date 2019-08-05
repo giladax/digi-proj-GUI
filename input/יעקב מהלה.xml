@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 139 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/139</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב מהלה</persName>
+
+</head>
+         <div><p> (בשמו הספרותי; "מהלל העדני"), נולד בעיר עדן, כ"ח כסלו תרמ"ה לאביו ר'<persName> שלום</persName> , שהיה בקשרי קירבת חיתון עם משפחת <persName>בנין </persName> הידועה, שהשקיעה הון רב בבנין תל-אביב בראשיתה ואח"כ בחיי הכלכלה בארץ בעסקים שונים, ולאמו אסתר בת יוסף מנחם. נתחנך ב"חדר" לפי נוסח יהודי תימן אצל ר' שלמר, יחיה אלג'אמל, טפוס מיוחד של מחנך נאמן שהשריש בתלמידיו. חבה מיוחדת לתנ"ך. כשגדל יסד בעדן בית-חרושת
+
+ לסיגריות ובית-חרושת לקרח והשתתף בפעולות הצבוריות והלאומיות של העדה היהודית בעיר ובעזרה לעולים מתימן ולפליטים היהודים שנמלטו מפני הגזירות והרדיפות שבתימן. השתתף באופן פעיל ביסודו ובניהולו של "הועד העברי" (בתרע"ב), שהחזיק אולםקריאה וספריה עברית ברחוב הראשי, רחוב הפרסים. כן עסק במתן שיעורים והרצאות לנוער בהלכה ובאגדה זכאותו חוג ניתנו שיעורים אף בחסידות. היה פעיל גם בועד אגודת "סוכת שלום", שעסקה במעשי-חסד בענפים שונים: סיוע לנצרכים, סיוע מיוחד לחגים, עזרה רפואית והחלמת חולים אחרי הריפוי, עזרה ליולדות (לשם כך הביאו מילדת מארץ-ישראל), עזרה ליתומים ולנשואי זוגות צעירים מחוסרי אמצעים.
+
+ ביקר בארץ ב-1895 וב-1903, וב-1930 עלה ארצה עם שבעה בנים ובנות והתישב בתל-אביב. יסד ביתחרושת "עונג" למשקאות מרעננים בתל-אביב, ואחרכך בית-חרושת לסריגה "שריון" ברמת-גן. נתן לבניו ולבנותיו חינוך עברי לאומי. (יעקב, בנו, מבוגרי הגימנסיה "הרצליה", שגמר בהצטיינות את המחלקה לרוקחות בלוזאן שבשווייץ, התנדב לצבא בראשית מלחמת העולם השניה ב-1940, נפל חלל ב-1942 ונקבר בירושלים).
+
+ כתב פירוש על התנ"ך בסגנון פשוט וקל ובקירוב הבנת הדברים לבני דורנו. פירושו על ספר קהלת בשם "אור החוזר" יצא בשנת ת"ש. מוכנים לדפוס כפריו "רעיון רוח" ו"הנפש החיה". נתקבל להדפסה בהוצאת "עם עובד'' ספרו "מסתרי תימן" בשלשה חלקים, ובו תיאורי חיי היהודים בתימן ובעדן וקורותיהם בדורות האחרונים, וביחוד בדור העליה לארצנו.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 139 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/139</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

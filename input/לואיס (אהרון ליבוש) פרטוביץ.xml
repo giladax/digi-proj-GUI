@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3520 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3520</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>לואיס (אהרון ליבוש) פרטוביץ</persName>
+
+</head>
+         <div><p> נולד באייר תרנ"ט (10.5.1899) בוארשה, פולין.
+
+ לאביו <persName>דוד</persName> (ראה בכרך זה) ולאמו<persName> שרה רבקה</persName> בת <persName>ליב ברוקלה.</persName>
+
+ למד בחדר ובבית-ספר ובשנת 1912 יצא עם המשפחה אל אביו שהיגר לפני שנה לוויניפג שבקנדה, ואח"כ עבר עם הוריו לדטרויט שבארה''ב. למד פחחות, ובשנת 1920 פתח בית חרושת לתעשית
+
+ תנורי חימום וקרור שהתפתח לתעשיה מודרנית חשובה.
+
+ ב-31.5.1917 נשא לאשה את <persName>פשה </persName> בת<persName> ירחמיאל בריף.</persName> (נפטרה בדטרויט, ט' חשון תשי"ז - 14.10.1956 ; לזכרה תרם בבית החולים הדסה בירושלים מחלקה רפואית).
+
+ חבר בארגונים שונים: אודסה פרוגרסיב אייד סוסייטי, בני-ברית "לואיס ברנדיס'' לודז.
+
+ עזר לכמה מבני משפחתו ברוסיה לעלות לארץ והגיש להם עזרה חומרית רצויה.
+
+ בקר כמה פעמים בארץ. ופעל בהתרמות לטובת ישראל ומוסדותיה.
+
+ צאצאיו: <persName>שרה </persName> אשת <persName>הנרי רוזנברג</persName> (בנם ; נוברט), <persName>מורי </persName> (מרדכי) <persName>פרטוביץ</persName> נשוי <persName>לרחל</persName> בת <persName>יוסף רוזבלום</persName> (בניהם :<persName> מלוין </persName> (מאיר), <persName>ג'ודי).</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3520 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3520</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

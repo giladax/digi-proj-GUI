@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3505 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3505</bibl><bibl>Volume: #10 ,Page: 3506 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3506</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אברהם יקותיאל אהרונוב</persName>
+
+</head>
+         <div><p> נולד בניסן תרמ"ו (אפריל 1886) בסרדינה-בודה שברוסיה.
+
+ לאביו הרב <persName>יעקב חיים</persName> (הרב שם) ולאמו<persName> מאשה.</persName>
+
+ למד בישיבות, ובעיקר בישיבת "תומכי תמימים" בליובאוויטש. גמר בית-ספר תיכון בבחינות אכסטרניות, למד באוניברסיטת דורפאט באסטוניה (אז פלך רוסי), הוסמך לד"ר לרפואה והתמחה במחלות פנימיות.
+
+ ב-1914 נשא לאשה את ד"ר<persName> מרים מטליה</persName> (רופאה למחלות נשים - ראה בכרך זה) בת <persName>שמואל דוד צודקוב.</persName>
+
+
+ היה רופא פרטי בצ'רניגוב, פעל בתנועה הציונית וניהל אגודת-נוער ציונית והשתתף כציר נבחר בועידה הציונית הכל-רוסית באביב 1917 בפטרוגראד. מ-1921 היה רופא במרפאות שליד בתי-חרושת בבריאנסק.
+
+ עלה לארץ עם רעיונו בראשית 1929 והחליט להיות חקלאי, בהיותו סבור שעיסוק זה נחוץ יותר לבנין הארץ,
+
+ כי ברופאים אין מחסור. התחיל לעבוד כפועל חקלאי בבנימינה, אך בראותו שעבודתו לא תקדם את החקלאות ואילו ברפואה יכול הוא להועיל יותר, חזר למקצועו והיה רופא בקופת חולים בגוש חרוד&gt; ובימי מהומות תדפיס היה מלווה את חברי המשק לעבודתם בשדה, שיוכל להגיש עזרה מיד במקרה שמישהו ייפגע מהתקפה ערבית, שהיו אז תדירות בסביבה, ומ-1930 ואילך היה רופא קופת חולים בתל-אביב.
+
+ השתתף בחוגים מדעיים רבים, ביניהם בחוג בלשנירפואי "חבר" לשיפור הסגנון והמינוח הרפואיים בעברית.
+
+ היה יוזם ותורם ומפעיל לטובת מפעלים סוציאליים.
+
+ תרם סכום גדול לבנין אולם מכונות לבית-הספר למלאכת הדפוס בכפר-חב"ד.
+
+ יסד קרן סטיפנדיות למשתלמים בחקלאות, תרם ל"בתי אבות", לבנין "בית הרופא'', לעזרה לנפגעי שיתוק ילדים ועוד.
+
+ כל ימיו היה פעיל למען גאולת הארץ, ועוד לפני קום המדינה מסר יחד עם רעיתו את ביתם שבתל-אביב (רחוב פרישמן 50) ביחד עם סכום ניכר במזומנים כעזבון בחיים לקרן הקיימת לישראל.
+
+ נפטר בתל-אביב, כ"א אדר תשי"ח (12.3.1958) ונקבר בנחלת יצחק.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3505 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3505</bibl><bibl>Volume: #10 ,Page: 3506 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3506</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

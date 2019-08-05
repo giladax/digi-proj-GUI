@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 202 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/202</bibl><bibl>Volume: #1 ,Page: 203 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/203</bibl>
+<bibl>Volume: #1 ,Page: 204 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/204</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שימל (שם) מצא</persName>
+
+</head>
+         <div><p> נולד ביאנינה, יון, בשנת תר"ה (1848), לאביו <persName>יהודה</persName> , שהיה חתנו של רב הקהלה ביאנינה, ר'<persName> חיים</persName> <persName>לוי.</persName> (הוריו קראו את שמו "שם" לזכר שם בן נח, אבי הגזע העברי, כפי שנהגו אז יהודים בערי יון לקרוא לבניהם שם זה, כדי לציין בו את שייכותם לגזע בני שם). קיבל חינוך יהודי מסורתי והשכלה מסחרית. היה סוחר אמיד ומכובד בעיר מגוריו.
+
+ עוד לפני התחלת תנועת חבת ציון ברוסיה, כבר פעלה בחוג היהודים הללו המשיכה לציון, אולי בעקב השפעת התעמולה של הרב <persName>יהודה חי אלקלעי </persName> על יהודי ארצות הבלקן. ובשנת תר"מ עלו ארצה מיאנינה שימו מצא ומשפחתו והוריו וגיסו אחי אשתו, <persName>מאיר גאני</persName> ומשפחתו, והתישבו בירושלים.
+
+ פתח חנות מכולת בעיר העתיקה וחי שם 17 שנה. בתרנ"ז עבר ליפו ופתח חנות-מכולת בקרבת הנמל, ולאחר כמה שנים יסד בית-מסחר לכלי-זכוכית בסיטונות בשוק-אל-דייר ביפו.
+
+ בחנותו מצאו עבודה וסעד והדרכה עולים חדשים, שכמה מהם הסתדרו יפה בארץ בעזרתו ותופסים כיום עמדות בעסקנות צבורית. במכתביו למכריו ביון עודד והמריץ אותם לבוא ולהתישב בארץ. היה פעיל בעדה הספרדית ובמוסדותיה ותמך בכל מפעל ישובי וצבורי טוב ומועיל.
+
+ נפטר בתל-אביב ונקבר בבית-הקברות הישן, א' שבט תרפ"א.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 202 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/202</bibl><bibl>Volume: #1 ,Page: 203 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/203</bibl>
+<bibl>Volume: #1 ,Page: 204 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/204</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

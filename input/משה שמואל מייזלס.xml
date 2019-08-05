@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3053 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3053</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>משה שמואל מייזלס</persName>
+
+</head>
+         <div><p> נולד בה' בסיון תרע"ט (6.6.1919) בוינה שבאוסטריה. לאביו <persName>חנניה </persName> (ממשפחת-הרבנים<persName> מייזלס </persName> שהיתה ידועה
+
+ בגליציה ובפולין, בן ר'<persName> משה מייזלס,</persName> רבה של פשמישל) ולאמו <persName>אסתר</persName> בת <persName>אלעזר דילר.</persName>
+
+ למד בגימנסיה העברית על שם <persName>צבי פרץ חיות</persName> בוינה.
+
+ ב-1938 עלה לארץ ואחרי התמצאו בתנאי הארץ פנה
+
+ לעסוק בעתונאות. כתב ב"חדשות הערב", "הבוקר'", "ידיעות חדשות", וב-1941 התנדב לצבא הבריטי ושירת בחיל הקשר עד 1946 במצרים. שם כתב בגרמנית את הפואימה "פרפרי לילה", שנדפסה ב-1944 בקאהיר.
+
+ ב-1944 נשא לאשה את<persName> ברטה</persName> בת<persName> מיכאל אייזנברגר.</persName>
+
+ למד במחלקה למדעי הרוח באוניברסיטה העברית בירושלים וקיבל את התואר מוסמך למדעי הרוח.
+
+ מ-1948 ואילך חבר קבוע במערכת "מעריב".
+
+ בתו:<persName> רמונה. </persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3053 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3053</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

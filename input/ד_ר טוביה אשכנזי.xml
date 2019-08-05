@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3638 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3638</bibl><bibl>Volume: #10 ,Page: 3639 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3639</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר טוביה אשכנזי</persName>
+
+</head>
+         <div><p> נולד ב<placeName>דובוסרי</placeName> (בסרביה), י' תשרי תרס''ד (19.9.1904).
+
+ לאביו <persName>ראובן</persName> ולאמו <persName>פנינה </persName> בת <persName>אליעזר הורביץ-הלוי.</persName> בשנת 1907 עלה לארץ עם הוריו.
+
+ קבל חנוך עברי בארץ. למד במצרים, ובסורבונה (צרפת) בשנות 1932-38.
+
+ בשנת 1938 קיבל תואר ד"ר לפילוסופיה באוניברסיטה בסורבונה (צרפת).
+
+ מזרחן, סופר ומרצה.
+
+ בשנות 1926-27 שירת ב"חיל הספר לעבר הירדן" בשנות 1927-28 עם <persName>צבי ניסנוב</persName> , מחלקת הבטחון של מפעל החשמל על הירדן.
+
+ בשנות 1929-30 כתב "דבר" ו"הארץ" לארצות הסמוכות (עבר הירדן, סוריה והלבנון).
+
+ בשנות 1930-31 בשירות המחלקה המדינית של הסוכנות היהודית לארץ-ישראל, בירושלים. וכן בשירות המשרד הראשי של הקהק''ל בירושלים.
+
+ בשנת 1932-38 השתלם באוניברסיטה בסורבונה (צרפת).
+
+ בשנות 1940-42 קצין בצבא הבריטי, במלחמת העולם השניה. שירת במצרים, עבר הירדן וא"י.
+
+ בשנות 1945-49 ביקר בארצות-הברית.
+
+ בשנות 1949-50 קצין הרמטכ"ל בצה"ל.
+
+ בשנת 1950 חזר לארצות-הברית.
+
+ בשנות 1951-52 נציג הקהק"ל לחמשת מדינות הדרום.
+
+
+ בשנות 1952-53 בשירות משרד החוץ האמריקאי, מחלקת המזרח התיכון, דרום אסיה ואפריקה.
+
+ חבר: החברה האסיאתית (פריס), החברה האמריקאית המזרחנית, המכון לעניני המזרח (ואשינגטון ד. ס.), הסתדרות הסופרים העברים בישראל.
+
+ כתב מאמרים בעתונות הישראלית היומית והפריודית, וכן בשפות - אנגלית וצרפתית בעתונות המדעית בצרפת, ארצות-הברית ושויצריה.
+
+ ספרים :"רעיונות צופיים" (ת"א, 1920); "שערי המזרח" (ת"א, 1920); "התורכומנים בא"י" (ת"א, 1930); "דאי קיסריה וואדי - ל-חוורת" (ת"א, 1931); "המזרח הקרוב" (ת"א, 1932); "אהלי קדר למן הירקון עד הכרמל" (ת"א, 1932) ;"הבדויים מספרים..." (ת"א, 1940); "הבדויים למחצה בצפונה של א"י" (פריס, 1938, בצרפתית); "ארץ-ישראל: דוקומנטים פוליטיים" (פיטצבורג, 1947, אנגלית).
+
+ פרסום מדעיים: "פרס לורד פלומר למדעי ערב" מאת האוניברסיטה העברית (ירושלים, 1937).
+
+ פרס מחקר מאת "האקדמיה היהודית למחקר היהדות" (ניו-יורק, 1950).
+
+ בתו:<persName> ראמה</persName> (לאמה : ד"ר שרה בת פנחס שיפמןבן-סירה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3638 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3638</bibl><bibl>Volume: #10 ,Page: 3639 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3639</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

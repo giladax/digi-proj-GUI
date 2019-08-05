@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4007 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4007</bibl><bibl>Volume: #12 ,Page: 4008 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4008</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמחה בונים הבר</persName>
+
+</head>
+         <div><p> נולד בדינדיש (הונגריה) כ"ה ניסן תרע"ג (2.5.1913). לאביו <persName>ישעיהו זאב הבר</persName> (שוחט בדינדיש ואח"כ סוחר בקומתם) ולאמו <persName>לימוט</persName> בת <persName>מרדכי צבי וסרברגר.</persName>
+
+ הסבא שלו היה ר'<persName> אלעזר ראב</persName> ממיסדי פתח-תקוה (ראה כרך א', עמוד 55).
+
+
+ קיבל חינוך מסורתי בחדר ובישיבה הרמה פרסבורגטשכוסלובקיה, ובי''ס תיכון.
+
+ היה פעיל בארגוני הנוער של המזרחי בצפון הונגריה, חבר הועד של המזרחי במישקולץ (הונגריה).
+
+ בשנת 1939 עלה לארץ באנית מעפילים.
+
+ למד בישיבה "היכל התלמוד" בתל-אביב.
+
+ בשנת 1943 נשא לאשה את<persName> אסתר</persName> בת <persName>אברהם אליהו</persName> <persName>ארנפרינד</persName> .
+
+ עבד בתור מתרגם בבית-המשפט.
+
+ חבר ועד המנהלים של שיכון מזרחי ברמת-גן.
+
+ שירת בצה''ל.
+
+ חבר הסתדרות המורים.
+
+ מנהל בית-הספר "אושה" ברמת-גן.
+
+ בניו; <persName>שמואל יעקב, ישעיהו זאב.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4007 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4007</bibl><bibl>Volume: #12 ,Page: 4008 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4008</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

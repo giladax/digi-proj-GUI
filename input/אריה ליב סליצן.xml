@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1200 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1200</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה ליב סליצן</persName>
+
+</head>
+         <div><p> נולד בצ'סניק, ליד ויטבסק, רוסיה הלבנה, בשנת תרכ"ג (1863), לאביו <persName>ישראל יהודה</persName> ולאמו <persName>נחמה.</persName> קיבל חינוך מסורתי. נשא לאשה את<persName> בת-שבע</persName> בת <persName>יצחק </persName> גרפונק מבסניקוביץ (לטביה) ועסק במסחר.
+
+ מנעוריו היה חובב ציון ופעיל בכל עניני ארץישראל. השתתף בקונגרס הציוני הראשון בתור ציר נבחר מווארשה ובועידת ציוני רוסיה במינסק (1902). בימי המהפכה הרוסית לקח חלק פעיל בעבודה הציונית בקנה-מידה גדול ונבחר למרכז ציוני רוסיה. כשהשתתף כציר בועידה הציונית הכל-רוסית השמינית באפריל 1920 במוסקבה נאסר ביחד עם כל חברי הועידה והיה כלוא בג.פ.או. ובבית-הכלא בוטירקי.
+
+ מששוחרר קיבל רשיון לצאת מרוסיה ובראשית תרפ"א עלה ארצה, השתקע בחיפה והתמסר לפעולות למען בנין הארץ ופיתוח העיר חיפה ויצירת מקורות פרנסה בה לשם קליטת עליה גדולה. השפיע על <persName>אליהו פינסון </persName> ליסדי את בית-החרושת "שמן" בחיפה,
+
+ היה ממיסדי בית-החרושת "שמן" ומנהלו במשך שנים רבות, מפעילי תנועת הקואופרציה בארץ וממיסדי בנק קרדיט עממי בחיפה, מבוני הדר הכרמל וחבר פעיל בועד השכונה. בהשתדלותו נתן הבארון <persName>בנימין</persName> <persName>רוטשילד</persName> מגרש לבנין בית-הכנסת המרכזי בהדר הכרמל. פרסם בעתונות האזרחית מאמרים ותגובות לשאלות השעה.
+
+ נפטר בחיפה, ט"ז שבט תרצ"ג.
+
+ צאצאיו: <persName>שמואל, רחל</persName> ,אשת <persName>משה רוזנבוים</persName> (חיפה.)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1200 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1200</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

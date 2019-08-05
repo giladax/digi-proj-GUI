@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4237 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4237</bibl><bibl>Volume: #13 ,Page: 4238 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4238</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם (אלברט) קיוסו</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סופיה</placeName> (בולגריה) בשנת תרנ"ח (19.4.1898).
+
+ לאביו<persName> יוסף קיוסו </persName> ולאמו<persName> סולטנה</persName> בת<persName> יעקב יונתן.</persName>
+
+ קיבל חינוך מסורתי וכללי. תיכוני בגמנסיה ומשפטים באוניברסיטה ב<placeName>סופיה</placeName>.
+
+ היה פעיל ונשיא הסתדרות "מכבי" בבולגריה.
+
+ מפעילי התנועה הציונית והארגונים הלאומיים בבולגריה.
+
+ בשנת 1929 נשא לאשה את<persName> מילקה</persName> בת <persName>עזרא קינפינג.</persName>
+
+
+ היה ציר בקונגרס המכבי העולמי בבודפסט וכן השתתף בכינוסים בארץ.
+
+ עמד בראש המשלחות של מכבי בולגריה למכביה הראשונה והשניה. רוב המשתתפים מבולגריה במכביות נשארו בארץ הודות להשפעתו. אחריהם עלו מאות ואלפים מבני משפחותיהם ואחרים.
+
+ באפריל 1943 עלה לארץ.
+
+ מיסד סניף מכבי יפו מבין העולים הבולגרים ונבחר לנשיא האגודה מיום הוסדה.
+
+ היה חבר המועצה העולמית של מכבי וחבר מרכז המכבי בישראל.
+
+ היה חבר המועצה של "בנק קופת עליה" בתל-אביב.
+
+ היה חבר מרבז מפלגת הציונים הכלליים בארץ. עסק כמנהל חשבונות.
+
+ היה מקובל בכל החוגים כאדם ישר וכציוני נלהב.
+
+ נפטר בתל-אביב, י"ד ניסן תשכ"ג (8.4.1963) והובא לקבורה במושב בית חנן שבדרום.
+
+ צאצאיו:<persName> רות</persName> אשת <persName>יצחק גלקין</persName> (רב סרן בצה"ל), <persName>יוסף קיוסו </persName> (נשוי <persName>לאביבה </persName> לבית<persName> שפייזמן)</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4237 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4237</bibl><bibl>Volume: #13 ,Page: 4238 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4238</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

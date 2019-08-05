@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3636 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3636</bibl><bibl>Volume: #10 ,Page: 3637 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3637</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שמואל יעקב בכר</persName>
+
+</head>
+         <div><p> נולד בפתח-תקוה, ד' בכסלו תר"ס (6.11.1899). לאביו ר' <persName>משה בכר</persName> (ראה בכרך זה) ולאמו <persName>מזל-ברכה.</persName> למד בחדר ובתלמוד תורה "נצח-ישראל" בפתח-תקוה. עם גמר ביה"ס החל לעבוד בפרדסי הסביבה בתור מנהל עבודה.
+
+ היה מבעלי המקצוע הראשונים בארץ לעבודות האריזה והנגרות בענף ההדרים. וכן היה הראשון שארגן ועמד בראש ארגון נגרי האריזה בארץ-ישראל.
+
+ את מקצוע הנגרות למד מן הנגרים הערבים הנוצרים שהיו בזמנו המומחים היחידים למקצוע זה בארץ.
+
+
+ מפרי עמלו כמנהל פרדסים רכש לעצמו שני פרדסים ובהם עבד והשקיע את כל מרצו וכספו.
+
+ בשנות השפל של הפרדסנות לא יכול היה להחזיק מעמד ובשנת 1944 מכר את פרדסיו. את כספו השקיע בקידוחי-בארות, אשר גם בו היה מומחה. היה והינו אחד המומחים לקידוח בארות ולתיקון משא
+
+ בות מים, ומנסיונו תרם לקידוחים שונים שנעשו ברחבי הארץ. כל ימיו תושב בפ"ת.
+
+ נשא לאשה את<persName> רחל</persName> בת הרב <persName>אליעזר וולנשטיין</persName> מירושלים, בנו של הרב משה נחום וולנשטיין (רב וראש בית דין בירושלים שעלה ארצה מהונגריה).
+
+ השתתף בהגנת פתח-תקוה, כאשר התנפלו עליה הערבים (1921).
+
+ עסקן צבורי במפלגת "חרות" במושבה.
+
+ צאצאיו:<persName> אריה ויעל</persName> המתגוררים בפ"ת.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בפתח תקוה, כ"ב ניסן תשכ"ב (26.4.62) (ראה כרך עשירי, עמוד 3636)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3636 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3636</bibl><bibl>Volume: #10 ,Page: 3637 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3637</bibl>
+            <bibl>Volume: #12 ,Page: 4120 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4120</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

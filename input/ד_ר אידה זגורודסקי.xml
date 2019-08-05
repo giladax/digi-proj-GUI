@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1203 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1203</bibl><bibl>Volume: #3 ,Page: 1204 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1204</bibl>
+<bibl>Volume: #3 ,Page: 1205 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1205</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אידה זגורודסקי</persName>
+
+</head>
+         <div><p> בת <persName>אברהם וולוביק</persName> , סוחר יערות ותבואות ואמה <persName>סופיה</persName> בת<persName> אליהו ליפשיץ</persName> , נולדה בשנת 15.7,1879
+
+ בבוברויסק. קבלה חנוך כללי בבתי ספר ברוסיה וסיימה את למודיה בבית הגבוה לרפוי שנים בחרקוב. היתה רופאת שנים בפלך חרקוב במשך כמה שנים.
+
+
+ ב-1905 נישאה לד"ר אלימלך מלך זגורודסקי. עם עלותה לא"י בשנת 1912 הפסיקה את עבודתה כרופאת שינים ומסרה את כל כלי הרפואה שלה למרפאה לתלמידי בתי הספר, שיסדה יחד עם רופאי שנים נובקוב, גב' זוסמן ועוד שעזרו לה בעבודות הרפוי.
+
+ כשהמוסד עבר לעירית תל אביב, הפסיקה את עבודתה ברפוי שנים ויחד עם גבירות אחרות יסדה את בית התינוקות הראשון ברחוב בוגרצ'וב בתלאביב, הקיים עד היום ברשות העיריה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1203 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1203</bibl><bibl>Volume: #3 ,Page: 1204 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1204</bibl>
+<bibl>Volume: #3 ,Page: 1205 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1205</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

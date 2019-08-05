@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4214 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4214</bibl><bibl>Volume: #13 ,Page: 4215 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4215</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב בן ציון פירר</persName>
+
+</head>
+         <div><p> נולד א' ניסן תרע"ד (28.3.1914) בקרוסנו שבמערב גליציה, פולין.
+
+ לאביו הרב<persName> יוסף משה</persName> , בן הרב הגדול ר'<persName> שמואל</persName> הי"ד (רב במילובקה, ראש ישיבה בקראקוב, ובסוף רבה של קהילת קרוסנו, שמחיבוריו רבים בהלכה, שאבדו בשואה, נשאר לפליטה ספרו "הר שפר" על מסכת הוריות, שהופיע בדפוס), ולאמו <persName>גיטל</persName> בת הרב <persName>בן-ציון וסטריך</persName> .
+
+ למד תורה אצל אבי אביו והוסמך להוראה על ידי שלושה מגדולי הרבנים בגליציה.
+
+ בשנת תרצ"ו (1936) נשא לאשה את <persName>פרידה </persName> בת הרב <persName>יצחק זאב גולדמן.</persName>
+
+ מאותה שנה ואילך עד מלחמת העולם היה ראב"ד ברימאנוב, ראש ישיבה ועורך ומו"ל כתב-עת תורני "תלפיות".
+
+ נשאר בחיים מהשואה והסבל במחנות, ואחרי המלחמה היה סגן מנהל מטעם אונרר"א במחנה העקורים
+
+
+ בעיר אולם שבדרום גרמניה המערבית, שם פעל הרבה לטובת עליה ב' וגח"ל.
+
+ עלה לארץ אחרי קום המדינה בשנת תש"ח (1948), וכעת הוא רב במושב ניר-גלים שבמועצה האזורית חוף אשדוד, מרצה שיעורים בהוראה רבנית בישיבת כרם ביבנה, מרצה שיעורים ביהדות במדרשה למורים בגבעתושינגטון, חבר מועצת חבר הרבנים שליד המפלגה הדתיתלאומית.
+
+ מאמרי הגות ופובליציסטיקה פירסם בשנים תשי"אתשי"ג ב"המודיע'', ומאז ואילך בעתונים "הצופה" ו"שערים".
+
+ ספריו: "ישראל והזמנים", חלק א' (בהוצאת המחבר, תשט"ז; חלק ב', בהוצאת "ספרייתי", ת"א, תשי"ז): "חמדת ציון" - בהלכה (בהוצאת המחבר, תשט"ז"); "יעקב ובניו" - סיפור מקראי - (בהוצאת "ספרייתי",
+
+ תשי"ח) ; "משה" - סיפור מקראי, ובו דברי הערכה מאת<persName> ש"י עגנון </persName> - (בהוצאת מושב ניר גלים, תש"ך) ; "חגים וזמנים" (בהוצאת א. ציוני, ת"א, תשכ"א).
+
+ צאצאיו: <persName>יוסף-משה, חנה</persName> אשת <persName>צבי ארנברג, טובה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4214 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4214</bibl><bibl>Volume: #13 ,Page: 4215 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4215</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

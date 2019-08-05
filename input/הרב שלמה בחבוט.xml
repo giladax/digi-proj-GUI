@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4541 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4541</bibl><bibl>Volume: #14 ,Page: 4542 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4542</bibl>
+<bibl>Volume: #14 ,Page: 4543 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4543</bibl>
+<bibl>Volume: #14 ,Page: 4544 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4544</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שלמה בחבוט</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רבט</placeName> (מרוקו) בשנת תקפ"ג (1823). בצעירותו עלה לארץ והתישב ביפו.
+
+ הרביץ תורה ברבים. בין תלמידיו נמנו אנשים שאחר-כך התפרסמו בשמם הטוב; הרבנים<persName> מסעוד</persName> <persName>הכהן אלחדאד</persName> (ראש ק"ק חסידים "בית-אל"),<persName> שמעון</persName> <persName>אשריקי</persName> (ראה כרך א', עמוד 98) - ראב"ד לעדת המערבים ואחרים.
+
+ הובר כאחד הרבנים הגדולים בדורו, ונודע במדותיו התרומיות ובתכונות נפשו הנעלות, בו התמזגו כל המעלות אשר מנו חכמים באנשי המופת, הצטיין בדרשותיו ונועם אמריו.
+
+ התעסק במסחר שעות אחדות ביום וממנו מצא מחיתו.
+
+ נשא לאשה את <persName>אסתר</persName> לבית<persName> גרזיס.</persName>
+
+ כאשר כהו עיניו מזוקן, בעיקר מרוב עיונו בספרים בלילות. עלה לירושלים ונחשב בין יחידי ישיבת ''חסד-אל".
+
+ חיבר ספר "קהלת שלמה" - באור אגדות על
+
+
+ התנ"ך (כ"י זה השאיר ביני בנו הרב<persName> שבתי בחבוט</persName> ,
+
+ נפטר בירושלים, י"א תשרי תרס"א (4.10.1900).
+
+ צאצאיו: הרב <persName>שבתי בחבוט </persName> (היה רבה הראשי בבירות, לבנון. ראה כרן ה', עמוד 233),<persName> יוסף, רוזה</persName> אשת <persName>שלמה</persName> (סלים) <persName>בטש, דונה</persName> אשת חכם <persName>בחבוט.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4541 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4541</bibl><bibl>Volume: #14 ,Page: 4542 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4542</bibl>
+<bibl>Volume: #14 ,Page: 4543 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4543</bibl>
+<bibl>Volume: #14 ,Page: 4544 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4544</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

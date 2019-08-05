@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3542 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3542</bibl><bibl>Volume: #10 ,Page: 3543 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3543</bibl>
+<bibl>Volume: #10 ,Page: 3544 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3544</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים פרומקס</persName>
+
+</head>
+         <div><p> נולד בגרודנא (רוסיה) בשנת תרל"ו (1876). לאביו<persName> הלל</persName> ולאמו<persName> לאה</persName> .
+
+ קבל חנוך מסורתי. היה קבלן בצבעות. חבר "חובבי ציון" בעירו.
+
+
+ נשא לאשה את רחל בת<persName> אהרן פרידוביץ.</persName>
+
+ בשנת 1922 מכר את רכושו בחו"ל - שערכו ירד, ועלה מחוסר כל לארץ.
+
+ החל לעבוד כפועל במקצועו ובמשך זמן נהיה לקבלן בצבעות בצבא הבריטי בסרפנד.
+
+ אחריו עלתה המשפחה לארץ.
+
+ עשה רבות בהכנסת פועלים יהודים במקצועו למחנות הצבא הבריטי. אף שהיתר, התנגדות מקבלנים זרים. וכן עלה בידו לשחררו מעבודה בשבת.
+
+ נפטר בתל-אביב, כ"ו כסלו תרצ"ב (6.12.1931).
+
+ צאצאיו:<persName> פניה</persName> אשת <persName>בצלאל מנס, יעקב</persName> (ראה בכרך זה), <persName>גניה</persName> אשת<persName> וולף גינסוצקי, שרה</persName> אשת<persName> משה אפל,</persName> <persName>אריה</persName> (ראה בכרך זה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3542 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3542</bibl><bibl>Volume: #10 ,Page: 3543 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3543</bibl>
+<bibl>Volume: #10 ,Page: 3544 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3544</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

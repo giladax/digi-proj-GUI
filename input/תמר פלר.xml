@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3381 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3381</bibl><bibl>Volume: #9 ,Page: 3382 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3382</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>תמר פלר</persName>
+
+</head>
+         <div><p> נולדה בעקרון, י"ב תמוז תרמ"ח (1888). לאביה<persName> בנימין פוכס</persName> מהבילויים הראשונים - ממיסדי גדרה (ראה כרך ב', עמוד 702) ולאמה <persName>מינה</persName> (מינצה) (ראה כרך ב', עמוד 771) בת<persName> מרדכי ניימן</persName> (ראה כרך א', עמוד 319).
+
+ אחרי הולדתה בבית הסב בעקרון חזרה עם אמה לביתם בגדרה, שם גדלה ונתחנכה בתנאי המצוקה של ימי בראשית.
+
+ השכלתה הראשונה והיסודית קנתה בבית הספר היסודי בגדרה.
+
+ עוד בילדותה דבקה באדמת גדרה והשתתפה באהבה בכל עבודה בשדה ובכרם.
+
+ במשך הזמן הרחיבה את השכלתה ועברה להוראה באחד מבתי הספר של חברת כל ישראל חברים בבירות.
+
+
+ בראשית תרע"ג (סוף 1912) נישאה למורה<persName> יצחק פלר.</persName> נפטרה בתל-אביב, י"ח טבת תרצ"ח (19372112) והופלה לקבורה בגדרה.
+
+ בתה: <persName>זיוה</persName> אשת <persName>דב ספקטור</persName> .
+
+ נכדיה :<persName> תמר, יחיאל, אבנר</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3381 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3381</bibl><bibl>Volume: #9 ,Page: 3382 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3382</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

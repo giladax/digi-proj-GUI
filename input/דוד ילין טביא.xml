@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 527 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/527</bibl><bibl>Volume: #2 ,Page: 555 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/555</bibl>
+<bibl>Volume: #2 ,Page: 556 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/556</bibl>
+<bibl>Volume: #2 ,Page: 557 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/557</bibl>
+<bibl>Volume: #2 ,Page: 558 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/558</bibl>
+<bibl>Volume: #2 ,Page: 559 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/559</bibl>
+<bibl>Volume: #2 ,Page: 560 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/560</bibl>
+<bibl>Volume: #2 ,Page: 561 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/561</bibl>
+<bibl>Volume: #2 ,Page: 562 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/562</bibl>
+<bibl>Volume: #2 ,Page: 563 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/563</bibl>
+<bibl>Volume: #2 ,Page: 564 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/564</bibl>
+<bibl>Volume: #2 ,Page: 565 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/565</bibl>
+<bibl>Volume: #2 ,Page: 566 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/566</bibl>
+<bibl>Volume: #2 ,Page: 567 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/567</bibl>
+<bibl>Volume: #2 ,Page: 568 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/568</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד ילין-טביא</persName>
+
+</head>
+         <div><p> נולד בלומז'ה, פולין, בשנת תקס"ג (1803), לאביו ר' <persName>יהושע ילין</persName> . קיבל חינוך תורני בחדרים ובישיבות. נשא לאשה את ליבה בת ר' ירחמיאל מיעדואבנה
+
+ המכונה "ר' ירחמיאל הצדיק". ועסק במסחר ובצרכי צבור, קבע עתים לתורה והיה מכובד על הכל כתלמיד-חכם וירא-שמים, נגיד ונדבן.
+
+ אשתו ילדה בת חוה ועמדה מלדת במשך שנים רבות ואז החליט לעלות לארץ-ישראל, כדי שבזכות הישיבה בה יפקד בבנים זכרים. קרוביו וידידיו ניסו להניאו ממחשבתו, בהצביעם על הסכנה שבנסיעה. דרך רחבי רוסיה ומכל-שכן בדרכי הים ובארץישראל, אך הוא לא שם לב לכל זה, ובשנת תקצ"ד חיסל את עסקיו, הצטייד ב-4000 רובל התמורה מרכושו ועלה ארצה עם אשתו ובתו באנית-מפרש לחוף עכו. משם עלו לצפת, בה היה רוב הישוב האשכנזי מעדת החסידים, ולכן החליט לעבור ירושלימה, בה התבצרו הפרושים מתלמידי הגר"א מוילנה והבאים אחריהם. בעודו ממתין לשיירה שתעלה ירושלימה ויצטרף אליה פשטו שמועות על התכוננות הכפריים מסביב לעלות על צפת לשם הרג ושוד ומרד בשלטון המצרי של מחמד עלי ונציבו ובנוחורגו אברהים פחה, וכן על המרד שפרץ בירושלים ובסביבתה ושם כבר דוכא ביד חזקה. אז התאספו רבים, והוא וביתו ביניהם, שכרו חמורים ופרדים ועלו בשיירה דרך שכם לירושלים והתישבו ברובע "באב חוטא", במזרח העיר, ליד שער האריות, שם גר אז הקיבוץ האשכנזי, ומשהתחיל הישוב בירושלים להתרחב משנת תקצ"ו ואילך עברו לרחוב היהודים.
+
+ עסק בתורה, במסחר ובבנין הישוב ונמנה בין ראשי העדה ופרנסיה וחתימתו עמהם נמצאה על כמה תעודות משנות תר"ח, תרי"א ותרט"ו. השתתף ביסוד תלמוד תורה "עץ חיים" והיה המשגיח על קיום התקנות. יסד ''אגודה מסחרית" במניות ועמד בראשה, היה מנהל הבנק הפרטי הראשון בירושלים שנקרא "בנק ירושלמי" והמעורר הראשון לרכישת מגרשים מחוץ לחומה.
+
+ עמד בקשרי ידידות עם הקונסול האנגלי הראשון בארץ, הוא<persName> ג'מס פין</persName> שנתמנה בשנת תקצ"ט, והיה ראש אגודה לונדונית לתמיכה בעניי ירושלים מכל הדתות, קנה בשבילם את אדמת ארטאס (ליד בריכות שלמה) ואדמת שכונת כרם אברהם והעסיק פועלים יהודים בעבודה.
+
+ היה חבר בחברת "משמורים" שנוסדה בתר"ז. כשנפרדו עולי פולין מהכולל הוילנאי (בגלל העדפת עולי ליטא בחלוקה) ויסדו כולל מיוחד בשם "כולל וארשה-פולין" היה אחד הממונים וניהלו כעשר שנים. ולמנהלי הכולל נתמנו הרב<persName> מרדכי מאיר</persName> מביאלה, שהיה חבר בית-הדין בירושלים והרב <persName>ברוך וולף</persName> מצד החסידים.
+
+ כשעלה ארצה החליט להחליף את שם משפחתו לעברי. "יעלין" בפולנית פירושו "צבי", ומאחר ששם זה בתור שם פרטי אינו מתאים לשם-משפחה בחר בתרגומו הארמי<persName> טביא</persName> וכך היה חותם:<persName> דוד טביא</persName> <persName>מלאמזא</persName> , ויהודי ירושלים היו קוראים לו על שם מקום מוצאו: ר'<persName> דוד לומזר</persName> .
+
+
+ שכר בשותפות עם <persName>בן-ציון ליאון</persName> חצר גדולה וקנה את זכות ה''חזקה" על חצר סמוכה (שתיהן ברחוב העמק), ומשתיהן היתה לו הכנסה כ-2000 גרוש לשנה.
+
+ במגפת החולירע בשנת תקצ"ז מתו בשכונתם איש ואשתו מעולי גרודנה ונשאר אחריהם תינוק בן חדשים אחדים, שאיש לא העיז לאספו אל ביתו מאימת התדבקות במחלה. אז התאזרה מרת <persName>ליבה</persName> אשתו, לקחה את היתום לביתם וגידלוהו כבנם (הוא ר' <persName>אריה ליב הורביץ</persName> , שנקרא על שם הוריו-מאמציו ר'<persName> ליב לומזר</persName> (חתן הרב יוסף אליהו ריבלין מחברון), אחד משבעת מיסדי השכונה נחלת שבעה). לאחר שש שנים, בתר"ג, אחרי שעמדה מלדת למעלה מ-20 שנה, ילדה את בנם יחידם <persName>יהושע</persName> , שפעל אחרי-כך רבות בפיתוח הישוב בירושלים ומחוצה לה, אביו של הפרופ'<persName> דוד ילין</persName> .
+
+ מרת ליבה עזרה לבעלה גם בפרנסה. יחד עם אשת הרב<persName> יוסף זונדל סלנט</persName> עסקה במשך שנים אחדות (עד פטירת הרבנית סלנט), בתעשיה ומסחר סיטוני של יין ויין-שרף.
+
+ בלכתו בחול-המועד פסח להקיף את חומת ירושלים (בהתאם למנהג קדום על סמך הכתוב "סובו ציון והקיפוה") נכשל באבן ונפל על פניו וחלה במחלת ה"שושנה" ובתוצאתה נפטר ונקבר בירושלים, ז' אייר תרכ''ג.
+
+ לזכרו ולעילוי נשמתו הוציא בנו יהושע בתרכ"ד את הספר "שערי צדק" על המצוות התלויות בארץ מאת מחבר שלחן-ערוך "חיי אדם".
+
+ צאצאיו:<persName> יהושע</persName> (אבי הפרופ' דוד ילין), <persName>חוה</persName> אשת יצחק פח-רוזנטל בזיווג ראשון (בתה רבקה אשת ר' דוד כהן, שחבר לוח שנתי בגימטריאות. בניו: <persName>סנדר כהן</persName> , מסוחרי יפו הראשונים ומ-60 הראשונים מיסדי "אחוזת בית"-תל-אביב,<persName> לוי כהן</persName> , אחד מחמשת המורים המוסמכים הראשונים מסמינר למורים של עזרה), בזיווג שני אשת ר' יהודה בלומנפלד (ר' יודל לומזר), שילדה לו שתי בנות שמתו בזמן המגפה באודסה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 527 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/527</bibl><bibl>Volume: #2 ,Page: 555 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/555</bibl>
+<bibl>Volume: #2 ,Page: 556 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/556</bibl>
+<bibl>Volume: #2 ,Page: 557 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/557</bibl>
+<bibl>Volume: #2 ,Page: 558 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/558</bibl>
+<bibl>Volume: #2 ,Page: 559 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/559</bibl>
+<bibl>Volume: #2 ,Page: 560 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/560</bibl>
+<bibl>Volume: #2 ,Page: 561 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/561</bibl>
+<bibl>Volume: #2 ,Page: 562 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/562</bibl>
+<bibl>Volume: #2 ,Page: 563 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/563</bibl>
+<bibl>Volume: #2 ,Page: 564 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/564</bibl>
+<bibl>Volume: #2 ,Page: 565 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/565</bibl>
+<bibl>Volume: #2 ,Page: 566 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/566</bibl>
+<bibl>Volume: #2 ,Page: 567 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/567</bibl>
+<bibl>Volume: #2 ,Page: 568 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/568</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

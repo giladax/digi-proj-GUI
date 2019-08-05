@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4663 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4663</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' אנדור פודור</persName>
+
+</head>
+         <div><p> נולד ב<placeName>בודפסט</placeName> (הונגריה) בשנת תרמ"ד (3.3.1884).
+
+ לאביו<persName> יוסף פודור</persName> (סוחר) ולאמו<persName> לינה</persName> בת<persName> מרקוס</persName> <persName>שפיצר.</persName>
+
+ קיבל חינוך בבי"ס, פוליטכניון בציריך .P.H.D.
+
+ מוסמך להנדסה, ד''ר לפילוסופיה משנת 1909. פרופ' משנת 1922.
+
+ בשנות 1907-19 היה אסיסטנט באוניברסיטאות : ציריך, שטוקהולם ובשנת 1911 באוניברסיטה האלה: עוזר מרצה ב-1919 ופרופ' ב-1922.
+
+ בשנת תר"ע (1910) נשא לאשה את <persName>מריה</persName> בת <persName>פרדיננד פוטוק.</persName>
+
+ בשנת 1923 עלה לארץ.
+
+ משנת 1923-54 פרופ', מנהל המכון הביוכימי והיה הפרופ' הראשון באוניברסיטה העברית בירושלים.
+
+ פרופ' מן המנין, ד''ר פיל' בכבוד
+
+ כיום בפנסיה.
+
+ בשנות 1951-53 היה נשיא גדול של הבנאים החפשים בישראל.
+
+ היה עורך ידיעות חקירת א"י. פרסם מחקרים רבים וספרים בביוכימיה ובכימיה קולואידית בגרמניה, אנגליה, ספרד וישראל.
+
+ בשנת 1955 קיבל מעירית תל-אביב "פרסכבוד על שם ד"ר ח. וייצמן".
+
+ בנו: ד''ר פאול יוסף פודור ז"ל (היה פרופ' חבר של "קורנל אוניברסיטה" בניו-יורק).
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בירושלים, ט' בטבת תשכ"ט (30.12.68) (ראה כרך ט"ו, עמוד 4663)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4663 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4663</bibl>            <bibl>Volume: #18 ,Page: 5491 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5491</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

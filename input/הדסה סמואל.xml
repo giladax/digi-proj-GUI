@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1124 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1124</bibl><bibl>Volume: #3 ,Page: 1125 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1125</bibl>
+<bibl>Volume: #3 ,Page: 1126 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1126</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הדסה סמואל</persName>
+
+</head>
+         <div><p> לאביה <persName>יהודה גור-גרזובסקי </persName> (ראה כרך א', עמוד 244) ולאמה <persName>רחל</persName> בת<persName> מרדכי ניימן </persName> (ראה כרך א', עמוד 319). נולדה ביפו, י' סיון תרנ''ז (1897).
+
+ קיבלה חינוך בבי"ס, בית מדרש למורות ע"ש לוינסקי בת''א וקורסים בז'נבה.
+
+ היתה פעילה במכבי ובארגוני העזרה הסוציאלית בימי המלחמה העולמית הראשונה.
+
+ בתרע"ח, בימי הגיוס לגדוד העברי, לקחה חלק פעיל בתעמולה לגיוס.
+
+ בחנוכה תר"פ נישאה לאדוין בן סיר (כיום לורד) הרברט סמואל, הנציב הראשון ליהודה (ראה כרך שני, עמוד 768). בחתונה השתתפו גם השייכים של באר שבע, ואדוין הוכתר על ידם לראש השיכים. מימין
+
+
+ בתמונה: הוריה - יהודה גור ורעיתו, ומשמאל סיר הרברט סמואל ורעיתו.
+
+ חברת הועד הפועל הציוני, הועד המנהל של עלית הנוער והועד למען החיל
+
+ יושבת ראש הסתדרות עולמית לנשים ציוניות ויצ"ו.
+
+ היתה בשליחויות רבות בשם ויצ"ו וקרן היסוד לארצות שונות וציר לועידות ויצ"ו. את כל זמנה היא מקדישה למפעלי ויצ"ו.
+
+ בניה : <persName>דוד</persName> , דן.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1124 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1124</bibl><bibl>Volume: #3 ,Page: 1125 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1125</bibl>
+<bibl>Volume: #3 ,Page: 1126 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1126</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

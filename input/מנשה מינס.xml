@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5386 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5386</bibl><bibl>Volume: #18 ,Page: 5387 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5387</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנשה מינס</persName>
+
+</head>
+         <div><p> נולד בנוה צדק (יפו), כ"ה אייר תרס"ג (22.5.1903).
+
+ לאביו<persName> יוסף מינס-צברי</persName> (ראה כרך שמיני, עמוד 3184) ולאמו <persName>סעידה</persName> בת הרב <persName>יחיה לוי</persName> (ראה בכרך י"ז, עמוד 5240).
+
+ קיבל חינוך מסורתי וכללי בבי"ס האליאנס (של חברת "כל ישראל חברים" מפריס) בנוה צדק.
+
+ היה מהמשפיעים לאחד את קבוצת הספורט והכדור-רגל של צעירי התימנים לאגודת המכבי שאיחדה
+
+
+ מלפני מלחמת העולם הראשונה את הצעירים מכל העדות.
+
+ החל לעבוד בסנדלרות במשך זמן קצר ואח"כ עסק בנכסי דלא ניידי, והצליח ע"י קשריו עם השכנים הערבים לגאול שטחים ניכרים בחולון במטרה להקים שכונה לעדה התימנית בשם שכונת "צעירי המזרח" ויחד עם חברו, העסקן וראש התאחדות התימנים בא"י המנוח <persName>זכריה גלוסקא </persName> ז"ל (ראה כרך שלישי, עמוד 1515) גאלו שטחים רבים עבור הקהק"ל ומוסדות אחרים.
+
+ בשנת 1936 נשא לאשה את<persName> מרגה</persName> בת <persName>פליכס בלו</persName> <persName>מנפלד</persName> ובזיווג שני נשא בשנת 1945 את <persName>שולמית</persName> בת <persName>יעקב רוקבן.</persName>
+
+ היה פעיל בהגנה ואח"כ עזר יחד עם חבריו למחתרות אצ"ל ולח"י.
+
+ נבחר פעמיים ע"י התאחדות התימנים בא"י לציר באסיפת הנבחרים בירושלים.
+
+ במשך 40 שנה היה יד ימינו של יו"ר התאחדות התימנים בא"י המנוח זכריה גלוסקא ז"ל הנ"ל. עזר להתאחדות לעליית עולים מתימן במשך כל השנים וסידורם בארץ.
+
+ ביקר כמה פעמים בארצות הברית לנהל תעמולה לטובת מגבית לתנועת התימנים ועלייתם וסידורם בארץ. לשם זה פתחו משרד מיוחד בניו-יורק.
+
+ צאצאיו: מאשתו הראשונה : <persName>אמנון.</persName> מאשתו השניה: <persName>יוסף.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5386 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5386</bibl><bibl>Volume: #18 ,Page: 5387 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5387</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

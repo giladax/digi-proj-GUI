@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2948 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2948</bibl><bibl>Volume: #7 ,Page: 2949 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2949</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אהרן רבנו עזריאל</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ירושלים</placeName> בשנת התקע"ט (1818).
+
+ לאביו הרב <persName>קונורטי עזריאל </persName> (מגדולי רבני ירושלים במאה הקודמת, נכד הרב אביגדור עזריאל בע''ס "זמרת
+
+ הארץ" ו"כסף הכפורים") ולאמו<persName> לונה</persName> בת הרב<persName> אהרן</persName> <persName>הלוי </persName> (בע"ס "מטה אהרן").
+
+ קבל חנוך מסורתי אצל הרב<persName> נסים שמואל יהודה</persName> <persName>ארואץ</persName> (המכונה<persName> נשיא</persName> , בע"ס "דרכי איש") ורבו בקבלה
+
+
+ היה הרב החסיד <persName>רפאל ידידיה אבולעפיה </persName> (שנודע בשם היר"א).
+
+ היה חתנו של הרב <persName>אליעזר פאפו.</persName>
+
+ כמה מפיוטיו נתקבלו ברוב ערי המזרח הקרוב והם מושרים בשמחות משפחה וכו'. שיריו היפים "אומר לה' מחסי" ו"אימא רחל" - הובאו בראש ספרו "כפי אהרן", ח"א. אחדים משיריו נדפסו בספר "יצחק ירנן" לר' <persName>רפאל יצחק אלטאראס</persName> (ירושלים, תרמ"ו) וכן בספר יגל יעקב ל"נעים זמירות ישראל" לר' <persName>יעקב חי בורלא</persName> (ירושלים, תרמ"ה), כן הדפיס ספר בשם "אזן אהרן".
+
+ נפטר ביפו, ט' סיון תרל"ט (1879).
+
+ צאצאיו: <persName>משה</persName> , הרב<persName> רפאל, יהודה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2948 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2948</bibl><bibl>Volume: #7 ,Page: 2949 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2949</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

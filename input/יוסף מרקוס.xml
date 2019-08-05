@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2219 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2219</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף מרקוס</persName>
+
+</head>
+         <div><p> נולד בפתח-תקוה, י''ח אלול תרס"ה (18.9.1905), לאביו <persName>משה </persName> (ראה כרך א' עמוד 474), פרדסן ועסקן, בן התורני החסיד ר' <persName>נחמן </persName> (כרך א' עמוד 418), מעולי רומניה ומותיקי פתח-תקוה, ולאמו <persName>מרים</persName> בת ר' <persName>שמואל מי</persName>
+
+<persName>ליס </persName> (כרך ב', עמוד 583), מראשוני-חובבי ציון ברומניה וחלוץ נטיעת האתרוגים בפתח-תקוה.
+
+ גמר את בית-הספר העממי של פיק"א בפ"ת ולמד בבית-הספר למסחר מיסודו של ד"ר <persName>ויינברג</persName> בתל-אביב. התמנה בעבודה חקלאית במשק אביו ותחת ידו. 
+
+ נשא לאשה את <persName>רבקה</persName> בת ר' <persName>בנימין יהלום,</persName> העסקן הידוע שהתמסר להוציא את ענין כפר-גנים מן הסבך ומהסכנה שגאולת האדמה תבוטל, ונכדת הרב <persName>אריה ליב</persName> <persName>פרומקין</persName> הסופר וההוגה, שהיה חלוץ הבנין והישוב על אדמת פתח-תקוה במקומה הנוכחי אחרי שהמתישבים נמלטו לדור ביהודיה בגלל הקדחת (כרך א', עמוד 258).
+
+ עוסק בחקלאות ובשווק פרי-הדר. בנה את ביתו בכפר גנים בין הראשונים ושמש יו''ר במועצה המקומית כפר גנים.
+
+ פעיל בהגנת פתח-תקוה והישוב עוד משנת ההתקפה
+
+ הגדולה 1921. פעיל בנוטרות מעת מהומות 1936. חבר ותומך במכבי. חבר בהתאחדות האכרים וציר בועידותיה השנתיות.
+
+ צאצאיו: <persName>שמואל</persName> (עורך "חבר הקבוצות" ותסכיתים ב"קול ישראל"),<persName> יעל, אריאל.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2219 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2219</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4748 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4748</bibl><bibl>Volume: #15 ,Page: 4749 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4749</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ברוך בג</persName>
+
+</head>
+         <div><p> (ראה תמונתו בעמוד 4758)
+
+ נולד ב<placeName>ריגה</placeName> (רוסיה, אח"כ לטביה) כ"ז כסלו תרס"א (19.12.1901). לאביו <persName>שלום בג.</persName>
+
+ קיבל חינוך מסורתי וכללי. חניך האוניברסיטה הלטבית ב<placeName>ריגה</placeName>, בוגר האינסטיטוט הממשלתי לחינוך גופני ב<placeName>ריגה</placeName> (1926).
+
+ שימש מורה לחינוך גופני ב<placeName>ריגה</placeName>.
+
+ היה פעיל בארגונים ציוניים שונים ובארגוני ספורט.
+
+ בתרפ"ט (1929) עלה לארץ.
+
+ גומר מחזור ד' בטכניון - המכון הטכנולוגי בישראל (1931) וקיבל תואר של מהנדס בנין.
+
+ חבר אגודת האינג'ינרים והארכיטקטים בישראל, מתכנן מיתקני ספורט במקומות שונים בארץ.
+
+ נשא לאשה את<persName> פרידל</persName> בת <persName>יצחק ניטקמן.</persName>
+
+ בונה "מכון וינגייט" לחינוך הגופני ומכהן כמנהלו האדמיניסטרטיבי 1957.
+
+ היה חבר מרכז "הפועל", התאחדות לתרבות הגוף.
+
+
+ שליח ההסתדרות בפולין (1934-35).
+
+ נציג ישראל בועידות בינלאומיות לחינוך הגופני (בזל, 1946, פראג 1947, פאריס 1951. מוסקבה 1935) וראש משלחת ישראל בהתחרויות בינלאומיות בכדור-עף וכדור-סל.
+
+ מרכז חברת השיכון של ההסתדרות בחיפה.
+
+ מחבר מאמרים וחוברות רבים בבעיות החינוך הגופני בעתונות הספורטיבית והיומית.
+
+ בשנים 1939-57 כיהן כמזכיר - מארגן של המחלקה להכשרה גופנית של "הועד הלאומי לכנסת א"י". אחר-כך במשרד החינוך והתרבות של הממשלה.
+
+ חבר ועדת המתקנים ברשות הספורט שבמשרד החנוך והתרבות.
+
+ חובב בולים (בעיקר-בולי ספורט).
+
+ זכה בפרס דב הוז, של "עירית תל-אביב" לשנת תשכ"ה (1965) על פעולתו לטיפול הספורט בישראל במשך כ-35 שנה.
+
+ צאצאיו:<persName> נורית, רם</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4748 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4748</bibl><bibl>Volume: #15 ,Page: 4749 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4749</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

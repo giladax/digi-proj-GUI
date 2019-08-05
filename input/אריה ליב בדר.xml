@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3532 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3532</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אריה-ליב בדר</persName>
+
+</head>
+         <div><p> נולד ט''ו אלול תרל"ז (1877) באסטראחאן שעל הוולגה ברוסיה.
+
+ לאביו <persName>מאיר</persName> ולאמו<persName> חיה שרה</persName> בת <persName>יהושע האנטשר</persName> .
+
+ למד בחדר ואח"כ למד להכיר את החיים ולמצוא בהם את דרכו, התמחה בעסקי אביו ורכש את הידיעות הכלליות הנחוצות.
+
+ ב-1891 נשא לאשה את <persName>חיה פרידה </persName> בת <persName>קלמן מנדלביץ</persName> .
+
+ השתקע בעיר קאזאן שעל הוולגה, עסק במסחר והצליח בו, וגם אצל הרוסים תושבי העיר היה "לב מארקוביץ'" נחשב כאחד מנכבדי העיר. היה מראשי הקהלה היהודית, וביחד עם עסקנים אחדים יסד שם את ההסתדרות הציונית, תרם ביד רחבה והתרים למגביות ציוניות ויהודיותכלליות, וביחוד לקהק''ל, ונבחר על-ידי הציונים בקאזאן לאחד מהקונגרסים הציוניים הראשונים. גם בנו <persName>יוסף</persName> פעל שם בתנועה הציונית בקרב הנוער ויסד את האגודות "קדימה" ו"החבר''.
+
+ במלחמת העולם הראשונה פעל רבות, ביחד עם רעיתו, לעזרת הפליטים היהודים שהגיעו מאזורי החזית המערבית (ליטא, וילנה וכו') עד קאזאן, ויסד בית-ספר עברי לילדיהם.
+
+ אחרי הצהרת בלפור ארגן יהודים בעירו במסגרת "האחוזה הקאזאנאית, חברה קואופרטיבית להתישבות בארץ-ישראל", שבאמצעות מרכז ציוני רוסיה העבירה סכומים ניכרים לרכישת קרקעות בארץ בשביל חבריה. אך המשטר הבולשבי הקפיא את הפעילות הציונית, מנע את יציאתם של חברי האחוזה, ורק אחדים הצליחו לבוא. המשטר החרים את רכושו של מר בדר והעסיק אותו בתור פקיד בבית-חרושת צבאי. וכשהשתתף בועידה ציונית במוסקבה כציר ציוני קאזאן, נאסר ביחד עם כל הצירים והוחזק חדשים מספר בכלא "בוטירקי".
+
+ בתלאות רבות הצליח לצאת עם משפחתו מברית המועצות והגיעו לארץ באוקטובר 1921. מחוסר אמצעים למחיה עבד אז כפועל בבנין בית-הכנסת הגדול בתלאביב, והוא אז כבר בן 54. במשך הזמן נשתפר מצבו הכלכלי והשיגה ידו לבנות בית ולנטוע פרדס.
+
+ זכה לשיבה טובה, ובמלאות לו 90 בירכוהו עולי קאזאן במסיבה שערך לו בנו.
+
+ צאצאיו: <persName>שושנה</persName> (רופאת שינים) אשת ד"ר<persName> וורנר</persName> <persName>לבה</persName> (רופא שינים), <persName>יוסף</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3532 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3532</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

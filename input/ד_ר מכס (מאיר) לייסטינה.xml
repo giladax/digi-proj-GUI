@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4016 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4016</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר מכס (מאיר) לייסטינה</persName>
+
+</head>
+         <div><p> גולד בזולינה (פולין) בשנת תרל"ד (21.9.1874). לאביו ר' <persName>יוסף לייסטינה</persName> (מצאצאי דון אברבנאל מספרד) ולאמו <persName>אסתר מלכה</persName> בת<persName> יהושע ולד.</persName>
+
+ קיבל חינוך מסורתי, גמנסיה בפרג ואוניברסיטה בוינה, והוסמך לרופא נשים.
+
+ היה פעיל בארגונים הציונים בפרג ובוינה. בשנת 1894 התגייס לצבא האוסטרי. ואז התכתב עם ד"ר הרצל, בראשית התנועה הציונית.
+
+ במלחמת העולם הראשונה גויס כקצין-רופא ונפצע בחזית הרוסים בבסרביה. שוחרר בשנת 1920.
+
+ נשא לאשה את <persName>צביה-רוזה</persName> בת <persName>אברהם ורחל לאה</persName> <persName>הלמן</persName> (נפטרה בתל-אביב 30.1.46).
+
+ עלה לארץ בשנת 1920.
+
+ בימי המאורעות השתתף עם חברי ההגנה בגבול גבעת רמבם להגן על הסביבה מחדירתם של אנשי הכנופיות שטעמו מהכדורים של הקשיש-הצלף הותיק והמנוסה.
+
+ במלחמת העולם השניה התנדב לצבא הבריטי. הקצין הבריטי הממונה על הגיוס ענה על בקשתו - אצלנו אין "מושב זקנים", אך בראותו את עקשנותו, מרצו ואומץ לבו של הקשיש, המליץ על קבלתו למשטרה המיוחדת.
+
+ במלחמת העצמאות רצה להתגייס לצה"ל (והוא אז בן 74), בת"א לא הסכימו לגייסו, נסע לחיפה, ושם שירת בהגנה כחיל מסור ועמד עם רובהו על המשמר. הועלה לדרגת רב-סרן עבור פעולות מיוחדות.
+
+ השתתף בהעברת נשק ובכיבוש מחנה צבאי גדול.
+
+ השתתף בהגנת עין-גב.
+
+ ברמת-גן נתמנה כאחראי על מצוד משתמטים והצליח להעביר לצה"ל כמה מאות מהם.
+
+ צאצאיו: ד"ר<persName> אברהם</persName> (ארתור) בארצות-הברית, <persName>פרידה</persName> אשת<persName> שרגא רוזינג</persName> במלבורון,<persName> דבורה נעמי</persName> אשת העו"ד <persName>בן-שמש, מרים</persName> אשת <persName>אריה סמולנסקי, עדית</persName> אשת ד"ר <persName>ביכלר</persName> (רמת-גן),<persName> יחזקאל יואכים.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4016 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4016</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

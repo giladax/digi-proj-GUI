@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2291 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2291</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם חלפי</persName>
+
+</head>
+         <div><p> נולד בפורים תרס''ד בעיר לודז שבפולין לאביו <persName>שמואל</persName> ולאמו <persName>רחל (אולגה</persName> ) בת<persName> אשר יבלונסקי.</persName>
+
+ גמר גימנסיה באומן (רוסיה), שם הופיע ב-1920 כחובב על הבמה. נכנס לקורס הראשון של הפוליטכניקום והפסיק עם שובו לפולין.
+
+ ב-1924 עלה ארצה והצטרף לחבורת "הדרום" ברחובות, ואח"כ עבד "בגדוד העבודה" בנס-ציונה, בתלאביב ובזכרון יעקב.
+
+ חבר להקת התיאטרון "אהל" מיום היוסדו ב-1925. בין תפקידיו: <persName>באראנד ודירק</persName> ב"הדייגים",<persName> נל</persName> ב"כובשי הביצה'', <persName>רוביו </persName> ב"שבתאי צבי", <persName>אליושקה</persName> ב"בשפל", <persName>אר</persName> <persName>קאשקה סצ'אסטליבצב</persName> ב"היער", <persName>סמיון פירצ'אטקין (סניצ'</persName> <persName>קה)</persName> ב"הילד איננו'', <persName>הוצמך</persName> ב"המכשפה", <persName>הרשלה או</persName> <persName>סטרופולר</persName> במחזה בשם זה,<persName> פאטו</persName> ב"משי ולחם", <persName>הסמר</persName> <persName>טוטר</persName> ב"משוגעת משאיו", ועוד.
+
+ השתתף במסע "אהל" בארצות אירופה ב-1934 וב1950.
+
+ פרסם משיריו ב"דבר", "כתובים" ,טורים". "עתים", "הארץ", "משמר", "על המשמר" וכו'.
+
+ ספרי שיריו: "מזוית לזוית", הוצ' "יחדיו" תרצ"ט ו"שירי האני העני", הוצ' "הקיבוץ המאוחד" תשי"ב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2291 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2291</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

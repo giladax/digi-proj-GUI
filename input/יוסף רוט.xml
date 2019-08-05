@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4293 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4293</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף רוט</persName>
+
+</head>
+         <div><p> נולד בברקובי (קרפוטו-רוסיה), ט"ז ניסן תרפ''א (24.4.1921).
+
+ לאביו <persName>מרדכי רוט </persName> ולאמו <persName>רבקה</persName> בת<persName> יהודה בק.</persName>
+
+ קיבל חינוך מסורתי וציוני.
+
+ חניך בית"ר בעירו.
+
+ בשנת 1939 עלה לארץ באניה ''קטינה".
+
+ היה חבר פלוגות בית"ר בבאר-יעקב.
+
+ היה חבר באצ"ל (ארגון צבאי לאומי). עם הפילוג עבר ללח"י (לוחמי חירות ישראל - קבוצת ''שטרן").
+
+ בשנת 1941 נאסר, וישב בבתי-הסוהר : טול-כרם, עכו, מזרע, לטרון, אריטריה וסודן עד 1946.
+
+ עם שחרורו המשיך בפעולות חבלה בלח"י עד התגייסותו עם גדוד לח"י לצה"ל.
+
+ בשנת 1948 נשא לאשה את <persName>שרה</persName> בת<persName> נחום חיאל</persName> (מותיקי חסידי באיאן).
+
+ כיום, בעל בית מסחר לזכוכית וזיגוג בנינים. חבר בהתאחדות בעלי מלאכה. אח בלשכת בני-ברית בנתניה.
+
+ צאצאיו :<persName> נחום, רבקה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4293 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4293</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

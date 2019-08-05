@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3999 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3999</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר מאיר דוד</persName>
+
+</head>
+         <div><p> נולד ז' אדר תרע''ב (25.2.1912) בבגדאד (עיראק).
+
+ לאביו <persName>שאול </persName> (ממשפחת<persName> ששון</persName> בן דודו סיר<persName> ששון</persName> היה שר האוצר בממשלת עיראק הראשונה. דודו מעסקני העדה הבבלית, שיסד את בית החולים הגדול ביותר בבגדד) ולאמו <persName>נעימה</persName> בת <persName>ראובן אליהו-שאול.</persName>
+
+ למר בבית-הספר של אליאנס בבגדאד, אח''כ למד באוניברסיטה האמריקאית בביירות (שם היה יו''ר אגודת "קדימה" של הסטודנטים היהודים), ואחרי שהוסמך לד"ר לרפואה השתלם באוניברסיטת לונדון בריפוי מחלות טרופיות והוסמך גם לכך.
+
+ בשנים 1932-35 היה פעיל בעבודה ציונית בלתיליגאלית בעיראק.
+
+ ב-1947 נשא לאשה את <persName>זלמה</persName> בת <persName>יצחק גרינברג.</persName> עלה לארץ בשנת 1950 והשתלב בחיים המקצועיים והציבוריים.
+
+ היה יו"ר ועדת התברואה והבריאות בעירית רמתגן, חבר הועד המרכזי המצומצם של ההסתדרות הרפואית בישראל, רופא בלשכת-הגיוס המחוזית לגוש דן, חבר הנהלת מגן-דוד אדום לגוש דן, - וכעת הנו רופא ראשי של קופת חולים מכבי, גוש דן, יו''ר המועצה הלאומית למניעת תאונות ברמת-גן וסגן ראש עירית רמת-גן.
+
+ צאצאיו:<persName> שמואל, דליה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3999 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3999</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

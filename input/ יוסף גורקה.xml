@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3972 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3972</bibl><bibl>Volume: #12 ,Page: 3973 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3973</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName> יוסף גורקה</persName>
+
+</head>
+         <div><p> נולד כ''ח כסלו תרע"ד (1.12.1913) בגובורובה, פלך לומז'ה, פולין.
+
+ לאביו<persName> מרדכי יהודה</persName> (בר-אוריין, מחסידי גור) ולאמו <persName>דבורה</persName> בת <persName>אשר פוטאש</persName> .
+
+ למד בחדרים ומגיל 12 בישיבות, בעיקר בישיבות מטפוס "בית יוסף" מנובהרדוק, עד שבגיל 21 הוסמך להוראת איסור והיתר על-ידי הרב <persName>שלמה דוד כהנא</persName> , רבה האחרון של ווארשה.
+
+ עוד בהיותו תלמיד-ישיבה פנה לפעילות ציונית בתנועות צעירי והחלוץ המזרחי, בפעולה למען הקהק"ל בחוגי החרדים, בפעולת תנועתו בווארשה לייסוד ישיבה חקלאית להכשרת בחורי ישיבות לעליה, פעיל וזמן-מה גם יו"ר בסניף החלוץ המזרחי בעיר גובורובה.
+
+ במלחמת העולם הצליח להמלט מהכיבוש הנאצי לרוסיה. אחרי המלחמה פעל באירגון החיים הציבוריים של שארית הפליטה, תחילה בפולין ומשנת 1946 במחנות האליין-זאלצבורג שבאוסטריה כנציג המזרחי והפועל המזרחי ומנהל המחלקה לתרבות וחינוך. כתב בקביעות בעתון של שארית הפליטה וסידרת
+
+
+ מאמרים על נושא זה בעתון המכסיקאי "דער וועג".
+
+ ב-1948 נשא לאשה את<persName> הדסה</persName> בת <persName>חיים זליג גרינשפאן</persName> מפולטורק.
+
+ בשנת 1949 עלה לארץ. עבד כ-10 שנים בתור מזכיר סניף הפועל המזרחי בגבעתיים, ואח''כ מנהל לשכת המס של הפועל המזרחי ברמת-גן והסביבה, סגן חבר המרכז הארצי של הפועל המזרחי ופעיל בעניני ציבור בסביבתו. כותב בקביעות ב"הצופה" וב"ידיעות רמת-גן".
+
+ פעיל במשמר אזרחי.
+
+ בתו: <persName>שרה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3972 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3972</bibl><bibl>Volume: #12 ,Page: 3973 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3973</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

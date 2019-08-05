@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 582 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/582</bibl><bibl>Volume: #2 ,Page: 583 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/583</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אהרן מנדיל הכהן</persName>
+
+</head>
+         <div><p> נולד בטבריה, י"א ניסן תרכ"ו (1866), לאביו ר' <persName>נתן</persName> ב"ר <persName>בנימין</persName> מקוסוב. למד בישיבות טבריה והוסמך לרבנות.
+
+ בשנת תרנ"ז נענה להזמנת העדה האשכנזית בקאהיר, שהיתה או בראשית התלכדותה, וקיבל בה את כהונת הרב הראשי, שהתמיד בה כשלשים שנה.
+
+
+ ארגן את הקהלה ויסד בה מוסדות חינוך וחסד הקיימים עד היום.
+
+ הספרים שחיבר ופרסם: "כלילת חתנים" (ריכוז דינים ומנהגים בחיי הנשואין), "אבל מצרים" (אוסף הספדים), "הנשמה והקדיש" (מחקר על רעיון השארת הנפש ברוח הקבלה), חוברת "הקדיש" (על מקור הקדיש, דיניו ומנהגיו), והניח בכתב-יד "ספר תרוכין" על שלשים שאלות מסובכות בדיני גיטין.
+
+ ספרו העיקרי הוא "סמיכת חכמים", בו הביע את הדרישה לחידוש הסנהדרין בישראל, כדי לחזק את סמכות הרבנות. לרעיונו זה התמסר במרץ רב, דרש לכונן מועצה בשם "כנסת הגדולה", יסד אגודת רבנים, שמנתה למעלה מ-500 חברים בכל תפוצות ישראל, וכתוצאה מפעולה זו נתכנס באב תרס"ג בקראקוב קונגרס עולמי של רבנים "לטכס עצה להרמת דגל התורה ולבקש אופן נאות ורצוי לגדור הפרצות ולבנות הנדחות".
+
+ הרב הראשי באלכסנדריה רבי בכור אליהו חזן היה הראשון אשר תמך בו, ועפ"י השתדלותו החליטו ראשי הקהלה באלכסנדריה תתת נשיאות הברון ז'אק די-מנשה לנדב סכום הגון לצורך הוצאות הקונגרס.
+
+ את פרטי הקונגרס הזה פרסם הרב ב"ספר כנסת הגדולה מחברת אגודת הרבנים", וכן כתוב עליהם בפרוטרוט במחברת "ארוכת בת עמי" לאפרים דיינארד באמריקה ובאנציקלופדיה "אוצר ישראל", ועוד.
+
+ במצרים ארגן קונים לרכישת שטחים לשיכון בין אדמות בית הכרם ובין בית וגן ליד ירושלים, בזמן שעוד לא היה ישוב שם ונעשו ביזמתו הצעדים הראשונים ליסד שם שכונה בשם "כנסת ישראל", ובדעתו היה לבנות שם את בית המוסד הדתי העליון.
+
+ בתרפ"ז חזר ארצה עייף וחולה ונפטר בחיפה, ח' חשון תרפ"ח.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 582 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/582</bibl><bibl>Volume: #2 ,Page: 583 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/583</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

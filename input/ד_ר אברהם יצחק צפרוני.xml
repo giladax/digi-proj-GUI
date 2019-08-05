@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2229 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2229</bibl><bibl>Volume: #5 ,Page: 2230 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2230</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר אברהם יצחק צפרוני</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ביאליסטוק</placeName> (פולין) בשנת תרס"ז (10.8.1907), לאביו <persName>עקיבא גימפל </persName> (מראשי ארגון בעלי מלאכה שם)
+
+ ולאמ<persName>ו חנה </persName> בת <persName>משה אלפרט,</persName> למד במחזור הראשון של ביה"ס העברי העממי "תרבות" ובמחזור הראשון של הגימנסיה העברית ב<placeName>ביאליסטוק</placeName> וגמר בגימנסיה העברית על שם הד"ר <persName>אפשטיין</persName> בוילנה. בשנות לימודיו אלה היה חבר-מיסד וראש קן "השומר הצעיר" המקומי, ראש הג
+
+
+ ליל וחבר המועצה הראשית של התנועה בפולין, וחבר הועד המקומי של הקהק"ל.
+
+ יצא ללמוד רפואה באוניברסיטת באזל והיה שם יו"ר אגודת האקדמאים העברים. ב-1934 הוסמך לד"ר לרפואה. באותה שנה נשא לאשה את<persName> פאני </persName> בת<persName> ישראל דניאל פב</persName> זנר מבאזל ושניהם עלו ארצה.
+
+ שנתים היה רופא עוזר בבית-החולים "הדסה" בירושלים ומ-1936 רופא מומחה למחלות ריאה ושחפת ובזמן האחרון גם מנהל בפועל בבית-החולים "הדסה" בצפת.
+
+ תפקידיו הצבוריים בצפת : יו''ר הועד המקומי של הקהק"ל ונציג הגליל העליון בועד הארצי, יו"ר סניף הגליל העליון של ההסתדרות הרפואית, מיסד ויו"ר האגודה המקומית של מגן דוד אדום, האחראי לשרות הרפואי של ועד הבטחון (ה"הגנה") וקצין רפואי ליד המטה האזרחי בימי מלחמת צפת, יו"ר לשכת הסעד העירונית; חבר ועדת התרבות העירונית ויו"ר ועדת בית התרבות "בית גדעון".
+
+ מרצה בקביעות על נושאים רפואיים בענף השחפת בסניפי ההסתדרות הרפואית בארץ ופרסם עליהם מאמרים בירחון "הרפואה".
+
+ בחדשי קיומו של העתון היומי "הזמן" (בעריכת <persName>מ. אינדלמן)</persName> היה סופרו הקבוע מהגליל ופרסם בו סקירות ורפורטז'ות.
+
+ בנותיו : <persName>יעל, ענת.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2229 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2229</bibl><bibl>Volume: #5 ,Page: 2230 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2230</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

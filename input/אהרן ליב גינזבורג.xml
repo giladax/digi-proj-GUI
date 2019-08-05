@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 820 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/820</bibl><bibl>Volume: #2 ,Page: 821 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/821</bibl>
+<bibl>Volume: #2 ,Page: 822 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/822</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן ליב גינזבורג</persName>
+
+</head>
+         <div><p> נולד במיר, פלך מינסק, רוסיה, בשנת תרכ"ד (1864), לאביו <persName>אליעזר ליפא </persName> ולאמו<persName> רבקה</persName> . למד בחדרים ובישיבת מיר עד שנתו העשרים ואח"כ עבר למוסקבה ועסק שם במסחר ובעשית מסגרות אמנותיות. היה פעיל בתנועת חיבת ציון מראשיתה במיר.
+
+ נשא לאשה את <persName>גישה</persName> בת <persName>אברהם ליב פרדקין</persName> משקלוב.
+
+ בתר"ן עלה ארצה עם אשתו וארבעה ילדיו ויתר בני משפחתו על מנת לעבוד את האדמה. יצא לעבוד כפועל חקלאי בואדי הנין (נס ציונה) והתגורר שם עם משפחתו באהלים. בגלל צרות שונות ומחלת הילדים בקדחת הוכרחו לעזוב את הארץ. יצאו לאודיסה, אך הגעגועים אל הארץ גברו עליהם ובשנת תרנ"ה חזרו ארצה. עבד זמן-מה כפועל ביקבי ראשון לציון וזכרון יעקב ואח"כ התישב ביפו ופתח בית-מלאכה וחנות למסגרות אמנותיות.
+
+ בנה את ביתו בנוה שלום. נתן לבניו חינוך עברי לאומי ופעל כל ימיו למען הקרן הקימת לישראל בתרומה ובהתרמה כעסקן צנוע ומסור.
+
+ נהרג בשבתו בבית-הכנסת שברחוב חברון בתל
+
+
+ אביב, כשפגעה בו פצצה בעת שאוירונים איטלקיים הרעישו את העיר, ביום ב' ו' אלול ת"ש (9.9.40).
+
+ צאצאיו: <persName>משה</persName> (לשעבר בהנהלת פיק"א, חתנו של העסקן <persName>יצחק אייזיק בן-טובים), זכריה </persName> (זליג), <persName>דוד, חסיה</persName> (מהגננות הראשונות בארץ, אשת <persName>בנימין</persName> <persName>גבר), עקיבא</persName> (מהמחזור הראשון של גומרי הגימנסיה הרצליה בת"א, כיום באמריקה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 820 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/820</bibl><bibl>Volume: #2 ,Page: 821 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/821</bibl>
+<bibl>Volume: #2 ,Page: 822 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/822</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

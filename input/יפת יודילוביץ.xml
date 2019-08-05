@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5168 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5168</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יפת יודילוביץ</persName>
+
+</head>
+         <div><p> נולד בראשון-לציון, כ"ח תמוז תרנ"ה (20.7.1895).
+
+ לאביו<persName> דוד יודילוביץ</persName> (איש ביל"ו ומהמורים הראשונים בארץ. מחבר הספר "ראשון לציון" ועוד, ראה את הערך שלו בכרך שני, עמוד 570) ולאמו <persName>צפורה </persName> בת <persName>אהרן מרדכי ומרים פריימן </persName> (ממיסדי המושבה "ראשון-לציון". ראה כרך שלישי, עמוד 1435).
+
+ קיבל חינוך עברי בביה"ס במושבתו, בית הספר החקלאי "מקוה ישראל", בית הספר התיכוני באלכסנדריה (מצרים) והשתלמות בארצות הברית.
+
+ בשנת תר"פ (1920) נשא לאשה את<persName> יהודית</persName> בת <persName>יהודה </persName> <persName>אריה ברניצקי ומניה מדליה.</persName> נולדה בראשון לציון, כ"ט טבת תרנ"ט.
+
+ בהיותו בארצות הברית ובמצרים, היה פעיל בהסתדרות הציונית.
+
+ אח בלשכת הבונים החפשים ואח בלשכת בני ברית.
+
+ מתוך תפקידיו השונים, הדריך רבים להקמת תעשיות וניהל חברות שונות הקשורות בתעשיות שונות בארץ.
+
+ לרגלי עבודותיו בתפקיד והן לשם השתלמות ומחקר, ביקר בארצות הברית, באפריקה ובאסיה ובאירופה.
+
+ פרסם מאמרים רבים בעתוני הארץ וביוגרפיות שונות על אישים שונים.
+
+ בימי מלחמת העולם הראשונה בהיותו בסןפרנסיסקו (קליפורניה) התגייס לגדודים העברים שהוקמו בארצות הברית להלחם עם הצבא הבריטי לכיבוש א"י (1917-18).
+
+ צאצאיו:<persName> נגה</persName> אשת <persName>יצחק פדרמן; תמרה</persName> אשת <persName>אמנון אורמן; אריה; ישבעם.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5168 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5168</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

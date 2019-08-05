@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1528 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1528</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל לישאנסקי</persName>
+
+</head>
+         <div><p> נולד בקיוב, אוקראינה, בשנת תרי"ט (1859), לאביו הרב <persName>יעקב טוביה</persName> (רב בקיוב).
+
+ קיבל חינוך תורני וכללי.
+
+ נשא לאשה את <persName>עטרה</persName> בת שמואל <persName>צ'קרסקי.</persName>
+
+ חכר אחוזות ועסק במשק חקלאי. התמחה בכל ענפי עבודת המשק וביחוד בריפוי בהמות. הצטרף
+
+ לחובבי ציון ושאף להפעיל את ידיעותיו החקלאיות בארץ-ישראל, אך קשה היה לו לחסל את המשק ולאסוף מזומנים בסכום שיספיק לביסוס עתידו בחקלאות בארץ.
+
+ השלטון הצארי הקל עליו את הפרידה מאדמת רוסיה, כשגזר קשות על היהודים, אסר עליהם את חכירת האחוזות והישיבה בכפרים, וכך הוכרח להעקר ממקור מחיתו, ובמקום לנסות את מזלו בחיי אויר בעיר העדיף לעזוב את רוסיה ולהתחיל את חייו מחדש בארץ האבות.
+
+ בתרנ"א אסף את. משפחתו ושרידי רכושו ועלה ארצה. ישב כשנה ביפו ואח"כ בחיפה ובזכרון יעקב. ניסה להסתדר במשק חקלאי, אך לא עלה בידו. בסוף נתקבל בהמלצת הד"ר <persName>הלל יפה </persName> לרופא-בהמות בפתח תקוה, ובעבדותו זו המשיך עד סוף ימיו והיה לעזר לחקלאות העברית.
+
+ נפטר ביפו, כ"א תשרי תרנ"ט (1898).
+
+ צאצאיו:<persName> מרים </persName> אשת מאיר<persName> ימפולסקי </persName> (ממיסדי מתולה), <persName>פנינה </persName> אשת <persName>יעקב גולדברג </persName> ז"ל (ממיסדי מתולה),<persName> חיה </persName> אשת<persName> יעקב סחין </persName> ז"ל (מראשוני יבנאל), <persName>חנה </persName> (גרה בשאנחאי, סין),<persName> מרדכי </persName> (גר באנגליה), <persName>יוסף </persName> ז"ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1528 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1528</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2147 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2147</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פנינה גורדון</persName>
+
+</head>
+         <div><p> נולדה ברחובות, י"ז תמוז תרנ"ג, לאביה<persName> צבי הירש</persName> <persName>קליינרט </persName> ולאמה<persName> גיטל </persName> בת <persName>אברהם משה הרשנזון.</persName>
+
+ קבלה חנוך בבית הספר העממי ברחובות.
+
+ מוריה היו: יש"י אדלר, יוסף אהרונוביץ, א. ד. גורדון, ש. צמח, ש. יבנאלי. מדריכה הרוחני היה משה סמילנסקי.
+
+ היא נישאה למתתיהו גורדון, מזכיר "הועד החקלאי'' של חקלאי רחובות.
+
+ לפני כ-35 שנה היתה האשה הראשונה שנבחרה לועד המושבה.
+
+ בשעת מלחמת 1914/17, כאשר עשה הרעב שמות בארץ, התנדבה עם עוד שלוש מחברותיה, ביניהן דבורה שחור, לעבודה ובשול במטבח הפועלים, לשם הוזלת מחירי הארוחות למחוסרי עבורה ופרנסה.
+
+ באותם הימים היה הנוער הרחובותי מעורב עם שורות הפועלים העבריים ומנהיגיהם, יוסף אהרונוביץ, ש. צמח, ש. לביא, מאיר רוטברג, אהרן כהנוביץ. השפעתם היתה רבה על הנוער, שהושפע באופן מיוחד מרוחם.
+
+ היתה פעילה ביסוד "המכבי" ברחובות. ועד היום, מזה עשרים שנה, היא פעילה ב"ויצו".
+
+ צאצאיה : <persName>גדעון</persName> (אלרוב), מפקד כנף בחיל האויר של צבא ההגנה לישראל, <persName>טובה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2147 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2147</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

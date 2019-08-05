@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1453 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1453</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אהרן קלאוס</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ז'וסלה</placeName> (ליטא), בח' טבת תרע"ד, לאביו <persName>משה יוסף</persName> ולאמו<persName> איידל</persName> בת<persName> אהרן אלישע קרייאר</persName> (נרצחו בידי הנאצים).
+
+ למד ב"חדר" ואח"כ בבית ספר בעיירתו ובפרוגימנסיה עברית באוטיאן. בוגר הגימנסיה העברית בווילקומיר (תרצ"א). היה פעיל בחוגים להפצת הלשון העברית. הצטרף לבית"ר והשתתף בעבודתה התרבותית ובכנוסיה. עם הפילוג בהצה"ר בי1933 עבר לבית"ר א' (כפי שנקרא תחילה האגף שנפרד מבית"ר בליטא), שנעשה אח"כ חלק בלתי-נפרד של ברית הקנאים, ארגון
+
+ הנוער של מפלגת המדינה העברית. היה מראשי ארגוןנוער זה בליטא, חבר המפקדה הארצית ומזכירה הכללי. השתתף בעתונות של המדינתיים וערך את הדו-שבועון "דער אידנשאט" שהופיע בקובנה.
+
+ ב-1936 עלה לארץ ונכנס לקבוץ המדינתיים בהרצליה. כעבור חדשים אחדים הוזמן לעבור למזכירות מפלגת המדינה העברית בתל-אביב ושימש בה עד מחצית 1939. היה מזכיר המפקדה העליונה של ברית הקנאים.
+
+ ב-1939 החל לעבוד במערכת "המשקיף" והנהו עורך-הלילה של העתון. כן הוא משמש כעורך-החדשות של "ידיעות אחרונות".
+
+ ערך יחד עם יוסף מלחי ז"ל קובץ של הסתדרות העובדים הלאומית וכן כתבי-עת שונים. השתתף בעריכת "במחנה", בטאון של חיילים לאומיים בבריגדה. היה חבר מועצת עובדי ה.ע.ל. בת"א.
+
+ חבר הועד של אגודת העתונאים בתל-אביב, היה שנים אחדות מזכיר המערכת של "ספר השנה" של העתונאים וכן השתתף באנציקלופדיה לחלוצי הישוב ובוניו (א' וב').
+
+ ב-1939 נשא לאשר, את <persName>חוה</persName> בת<persName> אלכסנדר (סנ</persName> <persName>דר) לויט.</persName>
+
+ צאצאיו:<persName> חסונה (חסיה-זאבה), עמירם.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ה' תמוז תשכ"א (19.6.61) (ראה כרך ג', עמוד 1453)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1453 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1453</bibl>            <bibl>Volume: #12 ,Page: 4122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4122</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

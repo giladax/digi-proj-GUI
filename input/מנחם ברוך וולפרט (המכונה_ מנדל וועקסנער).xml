@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3103 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3103</bibl><bibl>Volume: #8 ,Page: 3104 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3104</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מנחם ברוך וולפרט (המכונה: מנדל וועקסנער)</persName>
+
+</head>
+         <div><p> נולד בוועקסנע ע"י קובנה, בשנת ת"ר (1840). לאביו ר'<persName> נתן.</persName>
+
+ קבל חנוך מסורתי בחדר ובישיבות, והיה ידוע כתלמיד חכם גדול.
+
+ נשא לאשה את<persName> איידל </persName> לבית<persName> יעקובזון </persName> (נפטרה בירושלים בשנת תרע"ו-1916).
+
+ בשנת תר''ל (1870) עלה לארץ.
+
+ אחד מארבעת חברת אגודת "שבת אחים" מירושלים שהתישבו ב"יהודיה" (פתח תקוה) על החלקה שקנה (1880) <persName>סידני מ. סמואל</persName> מלונדון (ראה ספר היובל של פתח-תקוה, עמוד קנ"ג).
+
+ בשנת תרמ"ז (1887) נסע ביחד עם ר' <persName>שלמה זלמן</persName> <persName>פרוש</persName> , ר'<persName> אליעזר חפץ-סלנטר</persName> ור' <persName>ישעיהו הריסון</persName> <persName>מנקר</persName> (אחיו של ר' <persName>מיכל הריסון-מנקר)</persName> בשליחות הועד הכללי לאפריקה.
+
+ ממיסדי ועסקני "דגל תורה" בירושלים. מטרת החברה היתה לייסד ישיבה של אברכים נשואים שילמדו אצל הרב <persName>נפתלי הרץ</persName> מביאליסטוק, שעלה לא"י להתגורר בירושלים, בשכונת מאה שערים. הישיבה סודרה סמוך לדירתו.
+
+
+ ההכנסה לכסוי הוצאות הישיבה באה מהוצאת שטרי גורלות בחמש הוצאות. מנהלי ההגרלה היו: ר' <persName>מנדל</persName> <persName>וולפרט</persName> (מנהל הפנקסאות ומסדר רשימת הזוכים), ר'<persName> ישעיהו</persName> ור'<persName> מיכל הריסון-מנקר</persName> היו האחראים. כל השלושה חתמו על שטרי ההגרלות. בישיבה למדו הרבה אברכים מצויינים מהעיר העתיקה.
+
+ שימש בגבאות בבית הכנסת הגדול לעדת האשכנזים בחורבה "בית יעקב" לאחר פטירתו של ר' <persName>אריה נאמן.</persName>
+
+ נפטר בירושלים, כ"ט תמוז תר"ס (26.7.1900).
+
+ צאצאיו:<persName> יעקב משה חיים</persName> (ראה כרך א', עמוד 461), <persName>בן-ציון</persName> (באנגליה), <persName>חיה טובה</persName> אשת <persName>יעקב דליצקי</persName> (נפטרה בכפר סבא, בימי הגרוש מיפו-תל-אביב.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3103 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3103</bibl><bibl>Volume: #8 ,Page: 3104 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3104</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

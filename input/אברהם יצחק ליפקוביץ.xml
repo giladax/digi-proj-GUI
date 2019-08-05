@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1194 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1194</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם יצחק ליפקוביץ</persName>
+
+</head>
+         <div><p> נולד בסלונים, פלך גרודנה, פולין-רוסיה הלבנה, ט"ו שבט תרל"ב (1872), לאביו <persName>רפאל הלל</persName> (קבלן ובנאי) ולאמו<persName> ביילה מינדל</persName> בת<persName> גרשון</persName> מקרינקי.
+
+ למד בחדרים ובישיבות, ובן 18, בשנת תר"ן, עלה ארצה עם הוריו וארבעת אחיו. הוריו התישבו ברחובות. אביו המשיך במלאכתו והקים את הבנינים הראשונים במושבה ואמו היתה המילדת הראשונה ברחובות, והוא עבד בשנתיים כפועל חקלאי בזכרון יעקב ואח"כ כפועל בנין בעבודות אביו ברחובות.
+
+ נשא לאשה את <persName>שיינה</persName> בת<persName> יעקב ארקין</persName> (אחד מ"11 העבאיות", מיסדי המושבה עקרון. ראה כרך א', עמוד 403).
+
+ בשנות תרע"ב - תר"ץ היה מורה בתלמוד תורה (שנקרא אח"כ בית ספר מזרחי) ברחובות, ואח"כ נתמנה לחזן בבית הכנסת הגדול.
+
+ חבר פעיל ב"מזרחי", ראש האגודה והמוסד "הכנסת אורחים" וש"ץ (חזן) בבית הכנסת "שוני הלכות" ברחובות.
+
+ צאצאיו:<persName> גרשון </persName> (בארצות הברית), <persName>אליהו</persName> (ברחובות), <persName>מרים</persName> אשת חנוך ניימן (מורה בבית הספר "תחכמוני" בירושלים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1194 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1194</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

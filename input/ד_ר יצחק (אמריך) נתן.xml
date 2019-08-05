@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4080 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4080</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יצחק (אמריך) נתן</persName>
+
+</head>
+         <div><p> נולד בנובזמקי (צ'כוסלובקיה), י"א תמוז תרס"ב (16.7.1902).
+
+ לאביו <persName>יוסף נתן</persName> ולאמו<persName> לאה </persName> בת<persName> עמנואל קליין.</persName>
+
+ קיבל חינוך תיכון ואוניברסיטה בפרג. קליניקה אוניברסיטאות בוינה. התמחה כרופא נשים (מנתח).
+
+ עבד כרופא נשים, מנהל מחלקה בבית חולים ממשלתי בנובזמקי בצ'כוסלובקיה.
+
+ היה יו"ר הקהילה היהודית, יו"ר האירגון הציוני, נשיא האירגון של נרדפי הנאציזם, חבר מועצת העיריה בנובזמקי.
+
+ ברח ממחנה ריכוז (יחד עם אשתו ושתי בנותיו) והסתתר במשך זמן במחבוא תחת הקרקע.
+
+ בשנת 1938 נשא לאשה את<persName> מרים </persName> בת <persName>איזידור לינקנ</persName> <persName>ברג.</persName>
+
+ בשנת 1948 עלה לארץ.
+
+ עבד בבית החולים בילינסון ובקופת חולים של ההסתדרות.
+
+ היה ציר בקונגרס הציוני בקרלסבד (1946).
+
+ מייסד ועורך של עתון ציוני "המדריך".
+
+ חבר עולי צ'כוסלובקיה והונגריה.
+
+ בנותיו:<persName> יפה, מלכה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4080 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4080</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

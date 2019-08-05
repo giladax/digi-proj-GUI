@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5432 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5432</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה אידלשטיין</persName>
+
+</head>
+         <div><p> נולד בכפר יוד, מחוז מארמורוש (הונגריה, אח"כ טרנסילבניה שברומניה), ד' תשרי תרנ"ה (4.10.1894).
+
+ לאביו<persName> ר' נחום</persName> (כורך-ספרים, בן-תורה בדרגה גבוהה) ולאמו<persName> פעריל </persName> בת<persName> ישראל אינדיג.</persName>
+
+ קיבל חינוך תלמודי בישיבה ותיכון אסטרני (בהונגרית).
+
+ דיבר עברית משחר ילדותו, כפי שהרגילו אביו לדבר בלשון הקודש.
+
+ בגיל קשיש, מאז פרישתו לגימלאות בארץ, ממשיך להשתלם בתלמוד ובהיסטוריה של עם ישראל. תלמיד באוניברסיטה העברית בירושלים ואח"כ באוניברסיטת תל-אביב.
+
+ בחו"ל המשיך ללמוד ובשנים 1920-25 מורה לעברית וללימודי יהדות בגימנסיה "תרבות" בקלוזנבורג, וכן עבד בעזרה למורים להסתגל להוראת מקצועותיהם בעברית.
+
+ בשנת 1920 נשא לאשה את <persName>אסתר </persName> בת הרב<persName> יעקב</persName> <persName>כץ</persName> (סוהר, מוסמך לרבנות).
+
+ השתתף בכתב ובעל-פה בפעולת העזרה ליהודי טרנס בניה, שבמוצאי מלחמת העולם הראשונה נושלו מלאומיות-ההונגרית, למצוא את דרכם ללאומיות היהודים ולשותפות בכינון מולדת חדשה ליהודים בארצם העתיקה, כמתואר מהלך הפעולה בערך של <persName>ד"ר חיים וייסבורג</persName> ז"ל - (ראה בכרך שביעי, עמוד 2943).
+
+ בקיץ 1925 ביקר בארץ כתייר, נשאר בה בקביעות, וב-1926 עלתה משפחתו אחריו.
+
+ בשנים תרפ"ו-תרצ"א (1926-1931) היה מורה בבתי-ספר דתיים ציבוריים שבפיקוח ה"מזרחי".
+
+ עסק עוד זמן מה בהוראה בקורסים עבריים לעולים דוברי הונגרית.
+
+ אח"כ התמסר לעבודה ספרותית ועתונאית, תירגומים, עריכות, כתיבת מאמרים, חוברות, ספרים. התמחה במיוחד בעבודות ביאוגרפיות על רקע תולדות הישוב. כתב עיונים ומחקרים בתולדות התלמוד ובתולדות עם ישראל, ומקצתם פירסם בהזדמנויות שונות בכתבי-עת ובמאספים מדעיים ובעתונים.
+
+ עבד בתור עתונאי במערכת "הבוקר" במשך 24 שנים, עד שבספטמבר 1959 יצא לגימלאות והתמסר ללימודים אוניברסיטאיים, אבל מפעם לפעם הוסיף לכתוב מאמרים ב"הבוקר" ואחריו ב"היום".
+
+ אח במיסדר בני-ברית "לשכת יצחק ילין" בתלאביב.
+
+ צאצאיו: <persName>נעמי </persName> אשת<persName> גרשון גולן </persName> (שניהם בשרות המנגנון של עירית תל-אביב);<persName> משה שמואל</persName> (בשמו המחתרתי "עמוס". כיום מורה, מנהל בית הספר אוסישקין בנתניה ; (אברהם)<persName> שלמה </persName> (בשם המחתרתי "חגי") עתונאי. חבר מערכת "דבר" (שמו הרשמי כיום: <persName>חגי אש''ד)</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5432 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5432</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

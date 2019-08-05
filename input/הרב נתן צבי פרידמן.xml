@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3997 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3997</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב נתן צבי פרידמן</persName>
+
+</head>
+         <div><p> נולד כ"ה תמוז תרע"ד (19.7.1914) באודווארי (הונגריה).
+
+ לאביו ר' <persName>מנחם גרשון</persName> (רבה של הקהילה שם, ממש
+
+ פחת רבנים בקהילות חשובות) ולאמו <persName>אסתר הדסה</persName> בת הרב<persName> יצחק יוסף בליך</persName> , רב בגאווע.
+
+ למד בישיבות בהונגריה והוסמך לרבנות. מו"ל של הירחון "שביל".
+
+ בשנת תרצ"ה נשא לאשה את <persName>שרה </persName> בת <persName>מנחם צבי</persName> <persName>ויליגר.</persName>
+
+ היה בחברה-ש''ס וכיהן כרב אזורי בבודאפשט ומורה הוראה ברבנות של הקהילה האורתודוכסית שם. אחרי השואה שימש ברבנות לשארית הפליטה במחנה פרנוואלד שבבאוואריה, חבר מועצת היהודים המשוחררים במינכן ומנציגי שארית הפליטה בקונגרס הציוני הכ"ב.
+
+ בשנת תש"ז (1947) עלה לארץ עם משפחתו ונתמנה לרב בשיכון ה' בבני ברק, ובתור חבר ותיק ופעיל בהמזרחי והפועל המזרחי ושולט יפה בשפה העברית ונמצא מוכשר להדרכה והשפעה רוחנית בדיבור ובכתב בישוב הוותיק והחדש כאחד, הן בתור מורה הוראה בשאלות שהזמן גרמן והן בתור מרצה ברוח המסורת ובטעם הזמן. הנו חבר הרבנות של העיר בני ברק, חבר ועדת החינוך של הרבנות הראשית לישראל וחבר המזכירות והועדה המרכזת של חבר הרבנים של הפועל המזרחי.
+
+ ספריו: <persName>שביל משמיע ישועה, שפתי צדיק, ויהי</persName> <persName>בנסוע</persName> (בודאפשט תרצ''ד-צ''ח)<persName>, נצר מטעי</persName> (בירורי הלכות בשאלות אקטואליות, תוך השתדלות להתחשב בנסיבות הזמן, - יצא בתשי"ז), וכן השתתף בכתיבת
+
+ הפירוש העממי להרמב"ם ספר זמנים, בסידרת "רמב''ם לעם" שבהוצאת מוסד הרב קוק, תשי''ז).
+
+ כתב בעתונים, בירחונים ובקבצים: הצופה, נתיבה, סיני, קול תורה, התורה והמדינה, נועם, שנה בשנה, ועוד.
+
+ צאצאיו:<persName> אהובה </persName> (מורה בבית-ספר ממלכתי-דתי) אשת הרב<persName> דב זרצקי, יעקב פרץ</persName> (ממצויני ישיבת פוניבז').
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3997 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3997</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

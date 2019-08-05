@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #19 ,Page: 5652 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5652</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב נחום הלוי לוין</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רקוב</placeName> (רוסיה) בשנת תר"ל (1870). לאביו<persName> נח הלוי-לוין </persName> ולאמו<persName> צפורה.</persName>
+
+ קיבל חינוך מסורתי בהדר ובישיבה במינסק (רוסיה הלבנה) וקיבל סמיכות לרבנות בוולוזין מהרב <persName>הירש-ליב ברלין.</persName>
+
+ היה ראש ישיבה בערים שונות ברוסיה ובאוקראינה.
+
+ בשנת תרנ"ו (1896) נשא לאשה את <persName>סימה רחל</persName> בת הרב <persName>יהודה מלצר</persName> (נפטר בעפולה, ד' שבט תרי"ח - 25.1.1958).
+
+ בשנת 1925 עלה לארץ והתיישב בין המתיישבים הראשונים בעפולה. משנת 1925, עם עלייתו לכס הרבנות, התפרנס
+
+ מגידול בקר בעפולה.
+
+ משנת 1928 כיהן כרבה של עפולה וכל הישובים היהודיים בעמק המרכזי - גוש עין-חרוד.
+
+ סייע להקמת בית הכנסת המרכזי בעפולה והקמת מוסדות תורניים שונים.
+
+ ביום ג' מנחם אב תרצ"ו (22.7.1936) נפטר בעפולה.
+
+ צאצאיו:<persName> נחמה</persName> אשת המנוח<persName> יעקב רוסק</persName> ז"ל; <persName>נח לוין</persName> (ראה את הערך שלו בכרך זה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #19 ,Page: 5652 ,URL: http://www.tidhar.tourolib.org/tidhar/view/19/5652</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

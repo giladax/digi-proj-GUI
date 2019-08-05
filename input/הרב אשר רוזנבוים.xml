@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4101 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4101</bibl><bibl>Volume: #12 ,Page: 4102 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4102</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אשר רוזנבוים</persName>
+
+</head>
+         <div><p> נולד ב<placeName>ביאליסטוק</placeName> (פולין), כ"ח תמוז תר"ס (1900).
+
+ לאביו הרב <persName>אברהם</persName> ב"ר<persName> אהרן דב </persName> ולאמו<persName> לאה </persName> בת ר' <persName>אשר טפר.</persName> קיבל חינוך מסורתי בחדר ובישיבות לומזשה, ביאליסטוק, ראדין, אישישאק ועוד. וקיבל תואר רב ע"י גאוני ישראל.
+
+ עשה תעמולה למען ישוב א"י בין החרדים.
+
+ היה ראש ישיבה.
+
+ נשא לאשה את הרבנית<persName> רבקה מרים</persName> בת הרב<persName> מנחם</persName> <persName>דרוזדובסקי.</persName>
+
+ בשנת תרצ"ג (1933) עלה לארץ.
+
+ נתמנה לרב בשכונת נורדיה ובבית הכנסת ברחוב בוגרשוב 63 בתל-אביב.
+
+ כתב וכותב בקביעות בעתונים: "הצופה", "שערים'', "המודיע", "היסוד", "הנאמן" ועוד.
+
+ פרסם את הספרים: "מעדני אשר" (על התורה, חלק א' וחלק בי תשט"ז-תשי"ז); "מטעמי אשר" (על הש"ס); "מעדני אשר" (על ש"ס בבלי וירושלמי, תשי"חתשי"ט); "דבר אשר" (על פרשת השבוע, ש"ס וזוה"ק, תש"ך) ; "שבילי אשר" (בתורת הרמב"ם ז"ל, תשכ"א) ; "פניני אשר" (על תורה שבכתב ובע"פ, תשכ"א); "הגיגי אשר" (בערכי תורה ומוסר, תשכ"ב).
+
+ צאצאיו:<persName> דבורה </persName> אשת <persName>נפתלי הכהן בלס, שרה</persName> אשת <persName>מרדכי הולצבלט, מנחם</persName> .
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4101 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4101</bibl><bibl>Volume: #12 ,Page: 4102 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4102</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

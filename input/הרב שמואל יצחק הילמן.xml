@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1796 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1796</bibl><bibl>Volume: #4 ,Page: 1797 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1797</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב שמואל יצחק הילמן</persName>
+
+</head>
+         <div><p> נולד בשאדובו, מחוז קובנה (ליטא), י"ב תמוז תרכ"ח (1868), לאביו הרב <persName>אברהם חיים</persName> (מגזע הגאון ר' <persName>שמואל הילמן</persName> רבה של מיץ) ולאמו <persName>פאיע רבקה</persName> (דור חמישי להגאון בעל "כנסת יחזקאל"). למד בישיבות ליטא והוסמך לרבנות.
+
+<persName>בתר"ן נשא לאשה את חיה שיינה</persName> בת <persName>יצחק צבי</persName> <persName>קמפנר</persName> והמשיך להשתלם בתורה.
+
+ בתרנ"ז נבחר לרב בקהלת ברזין, פלך מינסק. בתרס"ח הוזמן לרב-ראשי בקהלת גלאזגוי (סקוטלנד, בריטניה) ובתרע"ד נתמנה לראש בית-הדין הרבני בלונדון. הקדיש את כל זמנו הפנוי ללימוד תורה ולהעלאת חידושיו על הכתב, ובשעת הצורך נתן מזמנו גם לצרכי צבור. כך פעל במסירות לטובת יהודי בלגיה
+
+
+ שהתגוררו כפליטים באנגליה במלחמת-העולם הראשונה, ועל כך קיבל מדלית זהב מאת אלברט מלך בלגיה ורשיון מאת בריטניה לקבלה ולשאתה.
+
+ בתרצ"ד עלה לארץ והשתקע בירושלים, ומאז הוא ראשה ומנהלה של ישיבת "אוהל תורה" ברחביה, שחבריה הם אברכים גדולי תורה.
+
+ פרסם עד עתה י"ח כרכים מספרו "אור הישר" חידושים, הערות וציונים על תנ"ך, על ש"ס בבלי וירושלמי ועל משניות סדרי זרעים וטהרות שאין עליהם תלמוד בבלי. הכין לדפוס ספר על כל "היד החזקה" להרמב"ם.
+
+ בשנת תש"ח קיבל את פרס הרב קוק של עירית תל-אביב בעד שני הכרכים מספרו "אור הישר" על ירושלמי, שיצאו בשנות תש"ז-תש"ח.
+
+ צאצאיו: <persName>שרה</persName> אשת הרב הראשי לארץ-ישראל רבי<persName> יצחק אייזיק הלוי הרצוג, דוד</persName> (בלונדון).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1796 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1796</bibl><bibl>Volume: #4 ,Page: 1797 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1797</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

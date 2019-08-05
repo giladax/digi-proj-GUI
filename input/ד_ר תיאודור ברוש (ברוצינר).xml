@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2839 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2839</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר תיאודור ברוש (ברוצינר)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קניגסברג</placeName> (גרמניה), א' שבט תר"ס (1.1.1900).
+
+ לאביו<persName> סמואל</persName> (סוחר) ולאמו<persName> הינדה </persName> (הנרייטה) בת <persName>אברהם לאוב.</persName>
+
+ חנוך: גמנסיה, אוניברסיטאות: קניגסברג וברלין וגמר בשנת 1923 ד"ר יוריסט למשפטים וכלכלה מדינית.
+
+ היה פקיד בתעשיה "קופפער את מסינגווערג" בברלין.
+
+ היה מפעילי התנועה הציונית "בלוי-וייס" וארגוני הסטודנטים קאיפו K.I.V.().
+
+ בשנת 1925 נשא לאשה את<persName> אדית</persName> בת<persName> אוסקר מנדלסון</persName> מברלין.
+
+ עלה לארץ במרץ 1939.
+
+ עבד כמנהל חשבונות בחברת "ציטרוס מרקטינג בורד".
+
+ בשנת 1940 נתקבל בשרות הממשלה.
+
+ בשנת 1954 נתמנה נציב מס הכנסה,
+
+ בתו; <persName>מרים</persName> אשת רב סרן <persName>אורי אבין.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2839 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2839</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

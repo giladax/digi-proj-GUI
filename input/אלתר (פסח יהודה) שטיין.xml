@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3386 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3386</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אלתר (פסח יהודה) שטיין</persName>
+
+</head>
+         <div><p> נולד בשנת תרל''ב (1872) בטבריה.
+
+ לאביו יעקב, שאבות-אבותיו באו מגליציה בעלית החסידים בראשית המאה הי''ט והשתייכו לכולל קוסוב.
+
+ למד בחדר ובבית המדרש.
+
+ נשא לאשה (אחותו של הרב <persName>נתן סגל</persName> , ראש ישיבת "'בית חתם סופר" בצפת) והשתקע שם.
+
+ בראשית יסוד המושבה ראש פנה עבד שם בסיקול האבנים, ביחד עם עוד כמה אנשים מצפת, והיו הולכים וחוזרים כל יום ברגל, והתפרנס בדוחק, כי החלוקה של כולל קוסוב היתה מצומצמת, ולא פעם השתתף בהגנה על יהודי צפת מפני התגרויות הערבים בהם.
+
+ כשיסד הבארון<persName> רוטשילד</persName> את תעשית המשי בראש פנה, היה ר' <persName>אלתר</persName> בין הפועלים המצטיינים בבית-החרושת ואחראי לאיכות התוצרת. השתלם באריגת טליתות, צעיפים ומטפחות של משי. משנסגר בית-החרושת רכש לו נול-יד ועסק בבית-מלאכתו בצפת באריגת מפות שלחן, מגבות ובדים שונים מחוטי-כותנה קנויים, והדריך ללא תשלום כמה מבחורי צפת במלאכה זו, וכן עסק (בעזרת אשתו) בסריגת גרבים ובצביעתם.
+
+ במלחמת העולם הראשונה גויס לצבא וסירב ללכת, ולכן גורש לחלב, לבגדאד ולבצרה. בתום המלחמה היה באפשרותו לצאת לחו"ל ולהסתדר כבעל מקצוע, אך מתוך חיבת הארץ חזר לעבודתו בצפת, למרות ההכנסה המצומצמת, ועסק בה עד שכהו עיניו מזקנה. ואז הלך לעבודה ב"חברה קדישא". התמיד כל ימיו במצוות ומעשים טובים, ממתפללי בית-הכנסת של חסידי צאנז כל ימיו, ושעל קלה לפני מותו, כשלשונו כבר היתה משותקת, עוד רמז בידיו, שעדיין לא הניח היום תפילין.
+
+ נפטר בצפת, ט''ז אדר תש"ט (17.3.1949). צאצאיו:<persName> יעקב</persName> (סוחר בבראזיל), <persName>רבקה</persName> אשת <persName>דוד</persName> <persName>גרוס</persName> (יליד טבריה),<persName> מלכה</persName> אשת<persName> יצחק סלומון</persName> (אכר ביסוד המעלה, ממשפחת <persName>פישל סלומון</persName> , ממיסדי המושבה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3386 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3386</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

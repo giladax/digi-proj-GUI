@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1374 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1374</bibl><bibl>Volume: #3 ,Page: 1375 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1375</bibl>
+<bibl>Volume: #3 ,Page: 1376 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1376</bibl>
+<bibl>Volume: #3 ,Page: 1377 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1377</bibl>
+<bibl>Volume: #3 ,Page: 1378 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1378</bibl>
+<bibl>Volume: #3 ,Page: 1379 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1379</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ישראל מרדכי לוינסקי</persName>
+
+</head>
+         <div><p> לאביו <persName>אפרים-יהודה</persName> ולאמו<persName> רחל</persName> בת <persName>יום-טוב</persName> <persName>לוויטאן</persName> (מצאצאי בעל ה"תוספות יום-טוב"). נולד בכפר קאדז'ידלו ע"י אוסטרולנקו (פולין), ז' אדר תרל"א.
+
+ למד בישיבת לומזה, גלה למקומות תורה בסקידל, אוראני, ווילנה. כאן נתפס לתנועת החופש וההשכלה של הפועלים היהודים והיה פעיל ב"וועדים ז'רגוניים", יחד עם חברו לישיבה הלפאנט-ליטיואק (שהיה אחרכך ממנהיגי ה"בונד") והחל ללמוד בשקידה מתחת לגמרא בבית המדרש רוסית, גרמנית ומתמטיקה.
+
+ לאחר נשואיו בזאמברוב <persName>לצפורה</persName> בת נחמן-יעקב רוטברג, התמסר לעבודה ציונית ולחינוך עברי לאומי. קבל תואר מורה בגימנסיה הרוסית בפולטוסק ועסק בהוראת השפות עברית ורוסית. מ-1910 - מייסד ומנהל בית-הספר העברי "תורה ודעת" בלומזה במשך 25 שנה עד עלותו ארצה, בשנת 1935. מראשי התנועה הציונית בלומזה, ומעסקניה המובהקים. יותר מ-20 שנה בראש הקק"ל בלומזה, חבר בועד למען קרן היסוד, חבר הועד של מרכז הציונים "התחיה", ציר כמה כינוסים וועידות ציוניות בורשה, ציר לכינוטי מורים ו"תרבות" בפולין, בוועד כית-הכנסת הגדול ובכמה מוסדות צדקה. בתו בית וועד לחלוצים ולתנועות ההכשרה לארץ-ישראל.
+
+ יושב ראש ארגון עולי לומזה בארץ-ישראל (נרשם על ידם בספר הזהב, במסיבת היובל שערכו לכבודו, במלאות לו 75 שנה), חבר ב"ברית ראשונים". תרגם
+
+
+ דברי ספרות ומדע מגרמנית, פולנית, רוסית, יידיש לעברית, כתב זכרונותיו וכמה סיפורים,
+
+ צאצאיו : <persName>ד"ר יום-טוב, מאיר, צבי, הניה</persName> אשת צבי מצמן, <persName>נחמן.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ט"ז אדר ב' תשכ"ב (20.2.62) (ראה כרך ג', עמוד 1378)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1374 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1374</bibl><bibl>Volume: #3 ,Page: 1375 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1375</bibl>
+<bibl>Volume: #3 ,Page: 1376 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1376</bibl>
+<bibl>Volume: #3 ,Page: 1377 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1377</bibl>
+<bibl>Volume: #3 ,Page: 1378 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1378</bibl>
+<bibl>Volume: #3 ,Page: 1379 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1379</bibl>
+            <bibl>Volume: #12 ,Page: 4122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4122</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

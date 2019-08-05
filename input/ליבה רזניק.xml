@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1801 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1801</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ליבה רזניק</persName>
+
+</head>
+         <div><p> נולדה בקלצק, פלך מינסק (רוסיה הלבנה), בשנת תרל"ג (1873), לאביה הרב<persName> אברהם יצחק סטוזנסקר</persName> (רב
+
+ ואח"כ, משעלה ארצה, מראשי ישיבת מאה שערים בירושלים) ולאמה <persName>שרה.</persName>
+
+ עלתה ארצה עם הוריה. נישאה <persName>לישעיהו רזניק</persName> (ראה כרך ראשון, עמוד 43).
+
+ בתרנ"ו עברה עם בעלה לראשון לציון, שם פתח בית-מלאכה. ובראשית תר"ס עברו ליפו, שם ניהל בעלה בית מלאכה ברחוב בוסטרוס והשתמש בקשריו עם נכבדי הערבים ופקידי השלטון הטורקים שבין לקוחותיו להשתדלויות לטובת היהודים. בנו להם ביו בשכונת נוה צדק ואחרי שנים מספר מכרוהו ובנו להם בית ברחוב זרח ברנט שבנוה שלום. 
+
+ היתה שוקדת מאד בקיום מצות הכנסת אורחים וביתה היה פתוח לאכסן עולים-חדשים ושאר עובריאורח נצרכים, וכן עסקה במסירות במצוות גמילות חסדים והכנסת כלה.
+
+ בעת מגפת הדבר ביפו לפני כ-35 שנה החליט זקני העדה לקיים מנהג ישן מתפוצות ישראל, לעצור את המגפה על ידי הפיכת האבל לששון: לערוך
+
+ בבית הקברות חופה וקדושין של זוג יתומים עניים. הזוג הדרוש נמצא, אך היה צורך בהשתדלות לסידור פרנסתו של הזוג והוצאות החתונה, - ומרת ליבה רזניק נטלה על עצמה את הטיפול במצוה זו והצליחה. ואכן נערכה בבית-הקברות הישן שבתל-אביב חתונה מפוארת "עם כלי זמר", ואם כי גם הרופאים ושלטונות הבריאות עשו מה שביכלתם למלחמה במגפה, הרי בשכונות היהודיות ביפו לא נשאר כל ספק, כי גם למרת ליבה רזניק היה חלק גדול בעצירת המגפה בזכות המצוה הגדולה שהשתדלה בה.
+
+ נפטרה בתל-אביב, י"ז כסלו תש"ו (22.12.45), והובאה לקבורה בירושלים.
+
+ צאצאיה: <persName>שרה</persName> אשת <persName>ברוך רוזינאי </persName> (עסקנים ציונים בניו-יורק) <persName>שמואל</persName> (מותיקי עובדי הדואר בתקופת השלטון הזר ומפקח ראשי בדואר של מדינת ישראל), <persName>משה</persName> (בהנהלת "אגד"),<persName> זרח, ישראל, אברהם</persName> (מטובי הכדורגלנים בארץ), <persName>רבקה </persName> אשת<persName> שמואל ליפטין</persName> (עסקנית ציונית בקנדה). 
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1801 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1801</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3835 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3835</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב חוצין</persName>
+
+</head>
+         <div><p> לאביו <persName>רפאל-שלום</persName> ב"ר <persName>שמואל</persName> ב"ר <persName>משה </persName> ב"ר <persName>צדקה חוצין.</persName>
+
+ נולד בבגדאד. דור חמישי להרב ר' <persName>צדקה חוצין</persName> בעל הספר "צדקה ומשפט" ששימש בכתר הרבנות בבגדאד בשנים תק"ג-תקל"ג (1743-1773).
+
+ אמו היתה <persName>עזיזה</persName> בת <persName>ר' עבדאללה</persName> ב"ר <persName>משה חיים.</persName>
+
+ בשנת תקצ"ב (1832) נסע יחד עם הוריו לדמשק וכעבור זמן קצר עלו לארץ ישראל. בשנת תר"ב (1842) מת עליו אביו. בשנת תר"י (1850) מתה עליו אמו. בגלל מצוקת הפרנסה הוכרח לחזור לבגדאד בערב פורים תרי"ב (1852) יחד עם אחיו <persName>משה</persName> ואחותו <persName>צלחה</persName> . כעבור זמן קצר חזר שנית לא"י, כאן עסק גם בצרכי-ציבור וכתלמיד-חכם היתה לו השפעה גדולה. בשנת תרכ"ח )1S68(נסע לבגדאד מטעם כוללות ירושלים, שליחותו זאת הוכתרה בהצלחה רבה. הכולל בקשהו שימשיך את דרכו עד הודו, למען ישפיע על בני בבל בהודו שיתרמו תרומות גדולות לעניי א"י.
+
+ בכ"ו באייר תרכ"ט עזב את בגדאד ובא עד בומביי. כאן חלה לפתע פתאום ונפטר באלול תרנ"ט (1899).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3835 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3835</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

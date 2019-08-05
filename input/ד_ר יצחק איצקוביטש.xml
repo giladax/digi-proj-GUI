@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5443 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5443</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר יצחק איצקוביטש</persName>
+
+</head>
+         <div><p> נולד ב<placeName>באקו</placeName> (רוסיה), בשנת תר"ן (9.12.1891). לאביו <persName>ליפמן איצקוביטש</persName> , ולאמו<persName> סופי </persName> בת <persName>ישראל</persName> <persName>יונוביץ.</persName>
+
+ קיבל חינוך מסורתי וכללי. למד רפואה באוניברסיטת מינכן (בגרמניה). גמר לימודיו הרפואיים בשנת 1914 והגיש בחינות ממשלתיות בסרטוב (רוסיה), לשם קבלת רשיון לעסוק ברפואה ברוסיה.
+
+ עבד ברוסיה במקצועו כרופא רנטגנולוג.
+
+ בשנת 1922 ביקר אצל הוריו, ובשנת 1926 עלה לארץ.
+
+ בשנת 1924 נשא לאשה את <persName>עליזה</persName> בת <persName>יעקובוס קן.</persName> יוזם "בית הרופא" הראשון בישראל בחיפה, וכן "מעון הרופא" (לרופאים קשישים) הראשון בארץ.
+
+ יו"ר משלחת רשמית בכינוס רנטגן בין-לאומי. בשטוקהולם, פריז, לונדון, קופנהגן, מינכן, רומה וכן נציג ישראל בכינוס British Medical Ass. Newcastle.
+
+ נציג הסתדרות הרפואית בישראל, בכינוסים של ההסתדרות הרפואית העולמית בהאג ובמדריד (ספרד).
+
+ התעסקותו הקבועה: רופא רנטגנולוג.
+
+ מכהן סגן יו"ר הועד המרכזי של הסתדרות הרפואית בישראל, סניף חיפה.
+
+ כל השנים היה חבר ההגנה.
+
+ צאצאיו : <persName>דוד, איתמר, יונה</persName> אשת <persName>ד"ר אגון ריסס.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5443 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5443</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

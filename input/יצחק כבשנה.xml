@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2806 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2806</bibl><bibl>Volume: #7 ,Page: 2807 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2807</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יצחק כבשנה</persName>
+
+</head>
+         <div><p> נולד בפלונסק, פלך פלוצק (פולין), כ' שבט תרמ''ח (1888).
+
+ לאביו<persName> יוסף חיים</persName> (חקלאי, סוחר יערות) ולאמו רחל בת<persName> משה שיטקו </persName> (שניהם עלו לארץ בשנת 1920).
+
+ אחרי למדו בחדרים בפלונסק (יחד עם דוד גרין בן גוריון ועוד) והצטרפותו לאגודת "עזרא" - דוברי עברית, עלה לארץ בשנת 1905.
+
+ עבד כפועל בחקלאות בפתח-תקוה. כעבור שנה נתמנה לנהל את פרדס "בחריה" (שהיה שייך למשפחות : שמעון רוקח, מויאל וכו') צפונית לפתח-תקוה.
+
+ ממיסדי "עין-גנים" ו"עין-חי".
+
+ ממיסדי הפועל הצעיר בארץ.
+
+
+ בשנת 1910 בקר ברוסיה לשם התיצבות פורמלית לצבא וחזר לארץ.
+
+ עבד ביער הרצל בבן-שמן, ומשם למנהל עבודה בחולדה.
+
+ אחרי מקרה רצח ערבי בבן-שמן, הטילו את האשמה עליו ונאלץ לעבור לגליל. רכש משק במושבה כנרת, ומאז הוא תושב קבוע בכנרת.
+
+ במלחמה העולמית הראשונה נתמנה לאחראי כלפי הצבא התורכי מטעם אכרי הגליל על העובדים בהעגלות והסוסים המוחרמים למלחמה במדבר והגיע עם הצבא עד תעלת סואץ.
+
+ נשא לאשה את<persName> חנה</persName> בת <persName>חנוך סוקולובר.</persName>
+
+ חבר הנהלת התאחדות אכרי הגליל מיום יסודה, ממיסדי החקלאית - חברה לאחריות מקנה.
+
+ צאצאיו:<persName> יורם, אבנר, יהושע, שרה</persName> אשת<persName> אריה</persName> <persName>נחמקין </persName> (נהלל),<persName> עוזי</persName> (כולם חקלאים בארץ).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2806 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2806</bibl><bibl>Volume: #7 ,Page: 2807 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2807</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

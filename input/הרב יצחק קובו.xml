@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4544 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4544</bibl><bibl>Volume: #14 ,Page: 4545 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4545</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יצחק קובו</persName>
+
+</head>
+         <div><p> נולד ב<placeName>סלוניקי</placeName> בשנת תק"ל (1770).
+
+ לאביו<persName> חזקיה יוסף</persName> .
+
+ עליתו לארץ-ישראל היתה כנראה בימי נעוריו.
+
+ אחר שהשתקע בירושלים החליט לצאת בשליחות לעצמו - ע"י סבה לקבלת גלות בטלטולא דגברא" - לערי פולין. נראה מזה גם שמצבו החומרי היה ברע. בשנת תר"ח (1848) נפטר בירושלים "החכם באשי" ר' <persName>חיים אברהם גאגין</persName> , והוא נבחן לראש הרבנים במקומו, אף-על-פי שהיה אז כבר זקן מופלג, כבן שבעים ושמונה שנים.
+
+ בימיו סבלה העדה בירושלים מעול המסים ונגישית שונות. נוסף לכן היה אז זרם עליה גדול לארץ של יהודים עניים.
+
+ הוא נתבקש מאת ראשי העדה לצאת בשליחות לחוץ-לארץ למרות גילו המופלג. הוא נשלח במיוחד ללונדון ולמצרים ונתבקש לפעול גם למען הגדלת בתי-הכנסיות ותיקונם.
+
+ הרב <persName>יעקב שאול אלישר</persName> , שהיה אח"כ "ראשון לציון", ליווה אותו עד יפו. במצרים הצליח לקבל סכום הגון, ארבע מאות לישי'ט, אולם בהיותו באלכסנדריה חלה ומת ביום כ"ד אב תרי"ד (1854)
+
+ חיבר כמה ספרים והם שמורים בכתב-יד בגנזיו של נכדו הרב <persName>יצחק באדהב</persName> בירושלים. (ראה כרך ב', עמוד 622).
+
+ בקטלוג של ספריתו הוא מציין את הספרים הללו שחיבר: "אסופי" - על המשנה והש"ס; "דגל מחנה" - שאלות ותשובות על הספר "מחנה אפרים" נבון ; "הדר זקנים" מאמרים בודדים (אלף וס"ה) במקצועות התורה ; "ויזרע יצחק" על השלחן-ערוך;
+
+
+ "תלי תלים" דרשות על תהלים ; "יצחק לשיח" דרשות על התורה ; "ידו בכל" - על השלחן-ערוך ועוד.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4544 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4544</bibl><bibl>Volume: #14 ,Page: 4545 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4545</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

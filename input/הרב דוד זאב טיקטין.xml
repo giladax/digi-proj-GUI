@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4346 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4346</bibl><bibl>Volume: #13 ,Page: 4347 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4347</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב דוד זאב טיקטין</persName>
+
+</head>
+         <div><p> נולד בטיקטין, ליד ביאליסטוק, בשנת תרכ"ו (1866).
+
+ לאביו ר'<persName> יצחק יעקב טיקטין</persName> ולאמו<persName> שרה חאשה</persName> בת ר' <persName>אפרים.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבת ולוזין, ונחשב לעילוי.
+
+ בשנת תרמ"ד (1884) עלה לארץ.
+
+ המשיך ללמוד בישיבת "עץ-חיים" בעיר העתיקה בירושלים.
+
+ נתחנך בבית היתומים דיסקין, והיה לאחד מבקיאי סמיכות לרבנות מגאוני הדור בא"י, ובראשם הגאון <persName>הרידב"ז </persName> (הרב<persName> יעקב דוד ווילאבסקי </persName> זצ"ל. ראה כרך ג', עמוד 1466), הגאון רבי<persName> חיים ברלין </persName> ועוד, שסמכו את הש"ס והפוסקים, ביחוד יו"ד וחו"מ. בעודו צעיר, קיבל ידיהם עליו להוראה.
+
+ אם כי לא קיבל עליו משרת ההוראה בקביעות, שמשו אותו בהוראה.
+
+ אחרי פטירת הרב הגאון <persName>אפרים בנימין פויארשטיין</persName> זצ"ל, נתמנה הוא לראש וראשון בישיבה וחבר ההנהלה של התלמוד-תורה וישיבת "עץ-חיים" בירושלים.
+
+ נשא לאשה את <persName>רבקה חיה </persName> בת ר'<persName> צמח הכהן </persName> (נפטרה
+
+
+ בירושלים, י"ב אב תשכ"ב - 12.8.1952).
+
+ הקדיש כל ימיו "ללמוד וללמד", מתוך דחקות ועניות, כמנהג תלמידי החכמים האמתיים בימים ההם.
+
+ מדת השקדנות לא רפתה אצלו.
+
+ היה יושב בדינות במושב הבית-דין צדק בחורבת ר'<persName>יהודה החסיד.</persName>
+
+ בימי המלחמה העולמית הראשונה, כשהיה מחסור במורי הוראה לרגלי הגרושים מהארץ (נתינים זרים), קיבל עליו להיות מורה הוראה באחת משכונות ירושלים.
+
+ נפטר בירושלים, ג' ניסן תרפ''ה (28.3.1925).
+
+ בנותיו:<persName> מרים</persName> אשת<persName> בנימין</persName> בן <persName>זיידל בנזימן</persName> (ראה כרך ששי, עמוד 2506),<persName> לאה.</persName>
+
+ אחיו: הרב <persName>שמואל אפרים טיקטין</persName> (עורך ה"אנציקלופדיה לתולדות הרבנות בניו-יורק. ראה כרך א', עמוד 278), <persName>אברהם טיקטין </persName> (ראה כרך ג', עמוד 1406<persName>) ונתן</persName> <persName>נטע טיקטין</persName> (בפריס).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4346 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4346</bibl><bibl>Volume: #13 ,Page: 4347 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4347</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

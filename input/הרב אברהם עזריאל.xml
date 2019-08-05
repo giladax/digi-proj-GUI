@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2941 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2941</bibl><bibl>Volume: #7 ,Page: 2942 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2942</bibl>
+<bibl>Volume: #7 ,Page: 2943 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2943</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב אברהם עזריאל</persName>
+
+</head>
+         <div><p> נולד בי"ח חשון תרכ''ב (1861) בירושלים.
+
+ לאביו <persName>משה בכור </persName> (משושלת של רבנים ומקובלים לבית <persName>עזריאל</persName> בירושלים) ולאמו<persName> מזל</persName> בת<persName> יעקב פינצ'י</persName> מסארייבו (בוסניה, יוגוסלביה, בימים ההם פלך טורקי באירופה). בילדותו למד חמש שנים בבית-הספר "דורש ציון", בניהול מיסדו הרב <persName>יצחק אופלאטקה</persName> ז"ל מפראג (ראה
+
+ כרך א' עמוד 519). בתרל"ה יסד דודו הנדיב משה פינצ'י מוינה ישיבת "שבת אחים" בירושלים ושלח מוינה את הרב <persName>מנחם פאפו</persName> , שיהיה מורה מיוחד להנער<persName> אברהם</persName> בן אחותו ויכין ויכשיר אותו ללימוד בישיבה הזאת, שדודו הועידה בשבילו שישקוד בה על התורה, ואחרי פטירת הרב <persName>פאפו</persName> למד עם הרב <persName>יעקב מאיר</persName> , שהיה מיחידי הישיבה הזאת.
+
+ בשנת תרל''ח נשא לאשה את בת-שבע, נכדת הרב <persName>יוסף יהושע קאריו</persName> (מטובי עסקני הכוללות ומראשי העדה הספרדית והיה ראב"ד ונשיא העדה בירושלים למעלה מעשרים שנה), והמשיך ללמוד בישיבת "שבת אחים", שאביו זקנו הרב <persName>אהרן עזריאל</persName> (ראב"ד בירושלים וראש בית-מדרש החסידים-המקובלים "בית אל, חתנו של רבי <persName>אליעזר פאפו</persName> מחבר ספר-המוסר "פלא יועץ") היה אפוטרופסה מטעם המיסד הנדיב, וכשנפטר הרב <persName>אהרן</persName> נתמנה האברך הרב <persName>אברהם</persName> לאפוטרופסה ומחלק תמיכות דודו הנדיב ללומדיה הקבועים. משנתפזרו לומדי הישיבה בעקב מות תומכה, נכנס ללמוד בישיבת "בית גדליה" בהנהגת אביה-זקנה של אשתו, ובשנת תרמ''ו, בהיותו בן 24, נתמנה לדיין שלא מן המנין בבית דינו של הרב<persName> נסים ברוך</persName> , אח"כ הועלה לדיין מן המנין ואח"כ לדרגת ראב"ד, ובתפקיד זה שימש עד ימיו האחרונים. בתקופה מאוחרת היה מהלומדים והמתפללים הקבועים בקהל חסידים (המקובלים) "בית אל" ומתרפ"א ואילך היה ממנהליו, והיה קורא בו בתורה בשנותיו האחרונות, ובשנים הראשונות של ישיבת "פורת יוסף" היה מלומדיה.
+
+ מצעירותו נטל עליו עול של עסקנות בצרכי צבור. עוד בתרמ"ו יסד עם ידידו ר' <persName>יצחק באדהב</persName> חברת "שומרי מצוה ומלבישי ערומים, לעזרת עניים ויתומים, לבדיקת כשרות המזוזות בבתים, וכן היו מקיימים שיעורי תורה בשבתות לנערים בעלי מלאכה (פעולת תרבות לנוער העובד), ומחלקים להם פרסים ובגדים, וקראו למפעל זה "שומר שבת''. בתרנ"ג נתמנה מטעם הראשון לציון ר' <persName>רפאל מאיר פאניז'יל </persName> לפקיד וגבאי של קופת הכנסת כלה וממונה על ענין הכתובות, חיבב במיוחד לסדר חופה וקידושין ותמיד נתן את ביתו ברצון ובחנם לעריכת חתונות ושמחות-מצוה. בתרס"ג אסף למעונו עשרה יתומים וטיפל בהם ובחינוכם, ובזה הניח את היסוד לבית-היתומים הספרדי, שפעל רבות למען ביסוסו והקמת בנינו והיה מגבאיו, וכן היה גבאי בקופת התמחוי שליד עדת הספרדים. בתרס"ט נבחר לועד העדה הספרדית ונתמנה למנהל עניני חברה קדישא ובית העלמין, עד שבגלל זקנתו מסר בתרפ"ט את עניניהם לצעירים ממנו.
+
+ לפי הוראותיו יסד <persName>משה</persName> בנו בית-דפוס, שממנו נסתעפו אחר-כך בתי-הדפוס <persName>עזריאל בירושלים ובתל-אביב</persName> . כאן הדפיסו את ספרי הרבנים לבית <persName>עזריאל</persName> מהדורות הקודמים, ומאות ספרים בדברי תורה של יתר חכמי הספרדים, ומפאת גודל בקיאותו של הרב <persName>אברהם עזרי</persName> <persName>אל</persName> בכל הספרות התורנית לכל ענפיה הפצירו בו המחברים והמו"לים שהוא יהיה המגיה את ספריהם, והוא נעתר להם ועשה את מלאכת הקודש במסירות ובאמונה, ומחלקו בהכנסה מהדפוס היה מקיים בכבוד את משמרת דייניו היושבים עמו בדין. חיבב את הספרים ואסף בביתו כאלפים ספרים בדפוס ובכתבי-יד.
+
+ שמר על ביתו כעיר העתיקה שלא יעבור לידי זרים, וכשנתמעט הישוב בעיר העתיקה בעקב מהומות 19361939 והפצרות המשפחה אילצוהו לצאת לעיר החדשה,
+
+
+ מסר את חצרו רבת הדירות והקומות לדיור-חנם לעשרות משפחות עניות.
+
+ מזגו היה טוב לכל אדם וחובב היה את הבריות. אך נזהר מדיבור מיותר וביחוד שמר על שלות מזגו שלא יתלקח באש הויכוחים בפלפול בהלכה ואף לא במילי דעלמא.
+
+ נפטר בירושלים, ה' סיון תש"ד (24.5.47).
+
+ צאצאיו: <persName>משה</persName> (ראה כרך ב' עמוד 1054), <persName>מזל</persName> אשת הרב <persName>רבנו אבולעפיה</persName> מטבריה,<persName> שרה</persName> אשת <persName>אהרן פאפולה,</persName> <persName>נסים, רבנו</persName> , אביגדור (בעל דפוס עזריאל בירושלים).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2941 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2941</bibl><bibl>Volume: #7 ,Page: 2942 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2942</bibl>
+<bibl>Volume: #7 ,Page: 2943 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2943</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

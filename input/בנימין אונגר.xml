@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3964 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3964</bibl><bibl>Volume: #12 ,Page: 3965 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3965</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בנימין אונגר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>יאסלו</placeName> (פולניה. בזמנו - אוסטריה) ט''ז תשרי תרס"ח (24.9.1907).
+
+ לאביו<persName> משה אונגר</persName> (ממשפחת האדמו"ר מזבנה) ולאמי <persName>רייזל</persName> בת <persName>יהודה פייאר.</persName>
+
+ קיבל חינוך מסורתי בחדר ובישיבה, תיכון ומסחר.
+
+ קיבל חינוך מוסיקלי כללי וחזני.
+
+ עסק במסחר וחזנות.
+
+ בשנת 1933 נשא לאשה את<persName> הניה</persName> בת<persName> אפרים הנדלר.</persName>
+
+ ניהל משק הכשרה של עלית נוער ע''י ברלין (1937-38).
+
+ מיסד תנועת נוער דתי-לאומי במגדבורג (גרמניה).
+
+ היה חבר ועד המקום של הסתדרות הציונית וחבר הנהלת בית-ספר עברי במגדבורג (גרמניה).
+
+ בחדש תשרי תרצ''ט (אוקטובר 1938) עלה לארץ.
+
+ עבד כפועל בפרדסים ובבנינים.
+
+ כעבור שנתים עבר לעבוד בחברת תוצרת מזון (בלובנד), ובו בזמן הופיע כחזן במקומות שונים. השתתף כחזן וזמר בשידורי "קול-ישראל", "קול ציון לגולה" ו"גלי צה"ל".
+
+ פעמים הוזמן לשבדיה בתפילות הימים הנוראים. ערך סבוב קונצרטים : בלונדון, פריס, וינה, מילנו ועוד.
+
+ סגן יו''ר אררגון החזנים בישראל.
+
+ יו"ר ועד ההורים בבי''ס "שלמה המלך".
+
+ אח בלשכת בני-ברית "יצחק ילין" ובלשכת הבנאים החפשים "ברקאי" בתל-אביב.
+
+ היה חבר ההגנה. שירת בצה''ל.
+
+ פקיד בכיר בחברת תוצרת מזון א"י בע"מ.
+
+ חזן ראשי של בית הכנסת הגדול בתל-אביב.
+
+ בנותיו:<persName> מרים</persName> אשת <persName>שאול טויבר, ורדה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3964 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3964</bibl><bibl>Volume: #12 ,Page: 3965 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3965</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2814 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2814</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פרופ' יהודה ליאו פיקרד</persName>
+
+</head>
+         <div><p> נולד בואנגן (גרמניה), ו' סיון תר"ס (3.6.1900).
+
+ לאביו<persName> יעקב</persName> (סוחר).
+
+ קבל חנוך באוניברסיטאות: פרייבורג, ברלין, לונדון ופריז. קיבל תואר: ;Ph. D. )Feiburg) D. Se. London; D.I.C.
+
+ היה עוזר לגיאולוגיה באוניברסיטת פלורנץ.
+
+ היה פעיל ומארגן בתנועת בלוי-ווייס בגרמניה הדרומית ובשוויץ. בשנת 1924 עלה לארץ (ביקור קודם ב-1922). נתמנה בתור מנהל המכון הגיאולוגי באוניברסיטה העברית בירושלים. עסק בגיאולוגיה, בחפוש מים ובפליאונטולוגיה של א"י.
+
+ בשנת 1926 נשא לאשה את <persName>אהובה</persName> בת פרופ' <persName>דוד</persName> <persName>ילין </persName> (ראה כרך שני ב', עמוד 569).
+
+ ישב ראש בסקציה "גאולוגיה כללית" בקונגרס הבין לאומי של הגיאולוגים באלג'יר (ב-1952).
+
+ מציאות מי-תהום ע"י קביעת קדוחים בכל שטחי הארץ בהצלחה.
+
+ מחנך דור גיאולוגים ומומחים לקדוח בארץ.
+
+ פרופסור ומנהל המכון לגיאולוגיה באוניברסיטה העברית בירושלים ויועץ גיאולוגי של הממשלה.
+
+ היה חבר בהגנה מיום בואו לארץ. כתב מאמרים רבים במקצועו וכן חיבר ספר "התפתחות הגיאולוגית של א"י" - 1943.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2814 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2814</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2460 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2460</bibl><bibl>Volume: #6 ,Page: 2461 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2461</bibl>
+<bibl>Volume: #6 ,Page: 2462 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2462</bibl>
+<bibl>Volume: #6 ,Page: 2463 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2463</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהושע גוברניק</persName>
+
+</head>
+         <div><p> נולד בצ'יטה (סיביריה) בשנת תר"ס (17.11.1910). לאביו<persName> יעקב </persName> ולאמו <persName>פרידה</persName> בת <persName>שלמה קארוקעס.</persName>
+
+ בשנת 1921 עלה לארץ.
+
+ סיים את הגמנסיה "הרצליה" ת"א ואת הפקולטה המשפטית של האוניברסיטה הלונדונית. עמד בבחינות לעורכי-דין זרים בארץ.
+
+ בשנת 1930 היה מזכיר אגודת הסטודנטים היהודים באנגליה.
+
+
+ בשנת 1938 נשא לאשה את <persName>עליזה</persName> בת <persName>יהודה אושר.</persName> היה פעיל בהגנה.
+
+ בשנת 1937 נתמנה קצין מחוז באזור נתניה, שירת גם במושבות הדרום, ומשנת 1945 ועד הקמת המדינה קצין מחוז של העיר תל-אביב.
+
+ ב-1951 קבל סטיפנדיה מטעם או"ם ללמוד בעיות שונות של השלטון המקומי.
+
+ ב-1952 נתמנה מושל מחוז מרכז הארץ.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נהרג בתאונת דרכים, ט"ז שבט תשכ"ט (4.2.69) והובא לקבורה בבית העלמין בסביון (ראה כרך ששי, עמוד 2462)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2460 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2460</bibl><bibl>Volume: #6 ,Page: 2461 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2461</bibl>
+<bibl>Volume: #6 ,Page: 2462 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2462</bibl>
+<bibl>Volume: #6 ,Page: 2463 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2463</bibl>
+            <bibl>Volume: #18 ,Page: 5490 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5490</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

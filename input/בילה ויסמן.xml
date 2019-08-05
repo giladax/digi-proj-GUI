@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 699 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/699</bibl><bibl>Volume: #2 ,Page: 700 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/700</bibl>
+<bibl>Volume: #2 ,Page: 701 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/701</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>בילה ויסמן</persName>
+
+</head>
+         <div><p> נולדה במינסק, רוסיה, בכ"ו ניסן תרמ"ו (1886) לאביה<persName> יהושע-דוב בנינסון</persName> , מראשוני חובבי-ציון, ולאמה<persName> יהודית</persName> , בתו של ר' מרדכי לוין, ראש ישיבה במינסק.
+
+ בפעם הראשונה באה לארץ ישראל בשנת 1897 יחד עם אמה, אחותה הצעירה ואחיה שבא ללמוד במקוה ישראל. בגדרה היתה לה אחות, אשתו של הבילו"יי צבי הורביץ, ובראשון-לציון - דודה, אשת הבילו"יי יהודה צלליכין. למדה שלש שנים בביתהספר בגדרה; מורה לתנ"ך ולעברית היה יוסף ויתקין. ב-1900 חזרה למינסק והמשיכה להשתלם בעברית אצל הבלשן אברהם אברונין והשכלה כללית רכשה בגימנסיה לבנות שבעירה.
+
+ ב-1905 עלתה לארץ על מנת להשתקע בה. התישבה קודם בגדרה, אבל לאחר שבאו הוריה עברה לראשון לציון ועבדה כפקידה במשרדי היקבים הגדולים במושבה. הצטרפה ל"הפועל הצעיר" והיתה מחברותיו הפעילות של ארגון זה.
+
+ בהיותה בגדרה הכירה את יעקב ויסמן, שהיה אז מורה שם, ולאחר כמה שנים נישאה לו ויצאה יחד עמו למצרים. המשיכה בפעילותה הציונית ביתר מסירות וביקרה מדי שנה בשנה יחד עם משפחתה בארץ ישראל. בקאהיר ובאלכסנדריה שימשה בתפקידים ה..אים: נשיאת הועד לעלית הנוער לא"י, מורשה מטעם הקרן הקימת לישראל ואף היתה חברה בועד הפועל הציוני.
+
+ ביחוד הגדילה לעשות למען החיילים העבריים בתקופת מלחמת-העולם השניה. ביתה היה אכסניה לחיילים העבריים שעברו במצרים, היא סידרה למענם נשפים וקבלות-פנים בערבי-שבתות וחגים. הקימה את ועד הנשים למען החייל העברי בקאהיר ועמדה בראשו, היתה ממייסדות המועדון למען החיילים. בביתה ביקרו גם חיילים שלא מבני-ברית וקיבלו הסברות ברוח יהודית-לאומית. הגנרל וינגייט התארח אצלה פעמים אחדות. שנים מבניה התגייסו לצבא ואחד מהם נשבה בפעולת-קומנדו נועזת בטריפולי.
+
+
+ צאצאיה: <persName>עמרם</persName> (נולד בראשון לציון: היה אלפיניסט ידוע, למד בצרפת ונספה בשעת טיול בהרי האלפים), <persName>אביבה, יגאל וגוריון</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 699 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/699</bibl><bibl>Volume: #2 ,Page: 700 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/700</bibl>
+<bibl>Volume: #2 ,Page: 701 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/701</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

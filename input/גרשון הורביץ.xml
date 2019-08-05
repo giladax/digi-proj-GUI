@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 1007 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1007</bibl><bibl>Volume: #2 ,Page: 1008 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1008</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>גרשון הורביץ</persName>
+
+</head>
+         <div><p> נולד בלידה, פלך וילנה, בשנת תרט"ו (1855), לאביו<persName> מיכל.</persName> למד בתלמוד-תורה ובישיבות ליחוביץ,
+
+ קיידאן, מיר ומינסק. השתלם בשפה העברית ובשפות רוסית, גרמנית וצרפתית ולמד בבי''ס חקלאי ליד וארשה.
+
+
+ בתרמ"ה בחר ועד חובבי ציון ברוסיה בששה צעירים מוכשרים, שיעלו ארצה ויתמחו בחקלאות ליד המומחים והמדריכים של הבארון <persName>בנימין רוטשילד</persName> על מנת שיהיו אח"כ מדריכים מומחים לאכרים במושבות. הששה היו:<persName> ליאון איגליי, יצחק אפשטיין</persName> (שהיה אח"כ המורה וחוקר-הלשון ד"ר יצחק אפשטיין),<persName> אב</persName> <persName>רהם הלפרין, משה וארהאפטיג, מיכל זלמן פוחצ'בסקי</persName> והוא. עבד זמן-מה בזכרון יעקב בהדרכת הגנן הצרפתי ואח"כ נשלח ליסוד המעלה, סידר שם את המשתלה הראשונה, שהיתה למופת. בגלל מלריה חזקה שתקפתו וסיכנה את חייו הועבר לראשון לציון ועבד שם כגנן. נשלח לבאר טוביה ועבד שם כמדריך האכרים ובסידור המשתלות וערביי הסביבה כינוהו בתואר "אבי האקליפטוס". חזר לראשון לציון ויחד עם חברו <persName>מ. ז.</persName> <persName>פוחצ'בסקי </persName> עבד בנטיעת פרדס הבארון, ובתרנ"ו קיבל מאת הפקידות ששים דונם אדמה נחלת שדה וכרם והיה לאחד מטיבי האכרים במושבה.
+
+ בתרנ"ז היה חבר ועד "בית העם" במושבה ביחד עם דב לובמן, מנשה מאירוביץ ושמשון בלקינד.
+
+ נשא לאשה את<persName> רחל </persName> בת אהרן <persName>פפירמייסטר</persName> , מראשוני המושבה.
+
+ משנוסדה חברת "כרמל מזרחי" ניהל את משרדה המרכזי יחד עם<persName> יעקב זאב שמוליצנסקי,</persName> ביקר את הסניפים בארץ ובארצות השכנות ורכש שווקים חדשים בארצות קרובות ורחוקות ליינות ולשקדים של ארצנו, ניהל את חליפת המכתבים בצרפתית עם הסניפים בחו"ל ושקד ביחוד על הגביה, שתתנהל בסדר ובלי פיגורים, והודות לפעולתו זאת במשך 30 שנה ומעלה היה לו חלק רב בביסוס מעמדם של החברה ושל חבריה הכורמים העברים בארץ.
+
+ היה במשך שנים רבות חבר ועד המושבה ופעיל ב"בני ברית" ובמוסדות התרבות ("ערבי קריאה", הספריה הצבורית ועוד) ובשנים האחרונות חבר ועדת הבקורת של היקב.
+
+ נפטר בראשון לציון, ט"ו אלול תרצ"ח.
+
+ בנותיו : <persName>שולמית </persName> אשת ד"ר <persName>זלמן ליטוואק, רבקה.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 1007 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1007</bibl><bibl>Volume: #2 ,Page: 1008 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/1008</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

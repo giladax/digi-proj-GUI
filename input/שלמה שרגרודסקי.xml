@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1432 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1432</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה שרגרודסקי</persName>
+
+</head>
+         <div><p> נולד בלודז, פולין, בשנת תרמ"ד (1884), לאביו <persName>אברהם דב</persName> (סוחר יינות וחובב ציון בברדיצ'ב ואח"כ מראשוני המתישבים בחדרה) ולאמו<persName> חנה רחל</persName> בת <persName>יוסף מרדכי אידלוין</persName> מברדיצ'ב.
+
+ אחרי למדו שנים אחדות בחדרים בברדיצ'ב עלה ארצה בתרנ"ג עם הוריו, שלשה אחיו ושתי אחיותיו וגרו בראשונה ב"חאן" ולמד בבית-הספר של המושבה שהיה בראשיתו ב"חאן". אח"כ עבד במשק המשפחה
+
+ ובתור פועל בגן שמואל בהכנת שתילי אקליפטוס ובנטיעתם ונהיה למומחה חקלאי.
+
+ נשא לאשה את<persName> רחל</persName> בת דוד אחי אמו<persName> יעקב</persName> <persName>ישראל אידלוין </persName> מראשוני חדרה (שרידה יחידה מכל משפחתה ,שנספתה בקדחת הצהובה; נפטרה בחדרה, ד' אדר תרצ"ח), ראה את הערך שלו, בכרך זה.
+
+ טיפל רבות בקביעת גבולות המושבה, בפעולתו זו הסתבך בסכסוך קרקעות עם הערבים מכפר שכן, ובתגרה שפרצה נהרגו מספר ערבים. משום כך הוכרח ב-1914 לברוח מצרימה. שם ניהל משק בו 16.000 דונם שהיה שייך להאחים<persName> מוצרי </persName> ולחברה מצרית-אנגלית ונהיה למומחה בגידול כותנה ואורז ועציפרי טרופיים וסוב-טרופיים, ביתו במצרים היה מקום
+
+ כינוס לבני ארץ-ישראל. כל מה שחסך משכרו במצרים השקיע באדמתו בחדרה. נטע כרם זיתים ושקדים, נטע פרדס בין הראשונים באדמת עטה ובנה בית בחיפה וכל שנה היה בא לבלות את חופשתו בחדרה ועזה היתה תשוקתו לחזור ארצה ולעבוד את אדמתו, - ואכן ב-1936 השתחרר מקשריו במצרים וחזר.
+
+ נפטר בחיפה, ט' תשרי תש''ח (23.9.47), והובא לקבורה בחדרה.
+
+ צאצאיו: <persName>אסתר </persName> אשת <persName>אליאב פייקוביץ, יעקב,</persName> <persName>צביה </persName> אשת <persName>פסח חיימי, יוסף</persName> ז"ל (היה חבר ההנהלה הארצית של "המכבי הצעיר", מחנך ומדריך, איש ההגנה; נפטר בן 17), <persName>שרה</persName> אשת <persName>שלום גולדשטיין.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1432 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1432</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

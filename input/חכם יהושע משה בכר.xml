@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 2016 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2016</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חכם יהושע משה בכר</persName>
+
+</head>
+         <div><p> נולד ביינישר (יון), בשנת תקצ"ח (1838), לאביו <persName>משה.</persName>
+
+ בגיל צעיר עלה לארץ עם הוריו והתישבו בירושלים. קיבל חינוך תורני בתלמוד-תורה ובישיבות.
+
+ עסק בחלפנות ובעסקי בנקאות, שהיו אז חלק מהחלפנות (כי בנקים עוד לא היו בארץ) ובדאר פרטי (כי דאר רשמי מהימן עוד לא היה אז בארץ), ובעסקים אלה בין ירושלים ליפו, ובאמצעות יפו עם ארצות חוץ פעל בקשרים עם אחיו חכם<persName> יוסף משה בכר</persName> ביפו (ראה כרך א', עמוד 162). שני האחים היו שולחים זה לזה בעגלות שבשיירות מלוות משמר מזויין מעטפות גדולות ובהן מכתבים של לקוחות והעברות כספים. נשא ונתן באמונה ולמוסדות תורה וחסד ואף לנצרכים פרטיים עשה את השרותים בלי תשלום.
+
+ שנים אחדת היה חבר ועד כוללות הספרדים ובו הקדיש הרבה מזמנו למוסדות החסד בירושלים ותמך בכל מפעל לתועלת הצבור.
+
+ נפטר בירושלים, י"ט חשון תרצ"ד (8.11.33).
+
+ צאצאיו: <persName>שמואל יהושע משה בכר</persName> (אביהם של מרת <persName>ונציה</persName> אשת מר <persName>יוסף חכמי</persName> מנהל ברקליס בנק בת"א <persName>ויהושע יש "י (בכר) </persName> המנהל הכללי של משרד העליה במדינת ישראל),<persName> שרינה </persName> אשת<persName> יעקב שמעון</persName> <persName>סימון, רבקה </persName> אשת <persName>יהודה קפלי.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 2016 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/2016</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

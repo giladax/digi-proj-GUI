@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5203 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5203</bibl><bibl>Volume: #17 ,Page: 5204 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5204</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים גואטה (גויטע)</persName>
+
+</head>
+         <div><p> נולד בטריפולי (לוב) בשנת תרס"ד (1904).
+
+ לאביו <persName>שלום גויטע</persName> ולאמו<persName> ואסי </persName> לבית <persName>סרוסי.</persName>
+
+
+ קיבל חינוך מסורתי וכללי. בהגיעו לבר-מצוה התמסר לענייני חינוך וחזנות.
+
+ בן 18 החל בפעילותו כמורה וחזן.
+
+ עשרות שנים הרביץ תורה לתינוקות של ביתרבן בלוב, שכבר אז החלו ללמד עברית ובמרוצת הזמן גם חינוך ציוני, לנטיעת חלוציות וחיבת הארץ בדור הצעיר.
+
+ היה מראשוני המורים, מפיצי הלשון העברית ותרבות ישראל המקורית ב"תלמוד תורה".
+
+ נשא לאשה את <persName>עליזה (ליזה</persName> ) בת <persName>שמואל בובליל.</persName> בתקופת הכיבוש האיטלקי נבחר מבין המורים המעטים שנמצאו ראויים להורות דת ולשון עברית בבתי הספר הרשמיים של המדינה, ששפת ההוראה בהם היתה איטלקית. התחבב על השלטונות הידועים לשימצה בשנאתם ליהודים בעת משטרו הדיקטאטורי של <persName>בניטו מוסוליני</persName> . באותו זמן הורה לימודי קודש מטעם קהילת יהודי טריפוליטאניה.
+
+ לא הסכים מעולם להיבחר לשום תפקיד של שררה. חי בצנעה, התרחק מזרקורי הפירסומת, ברח מהכבוד, והכבוד רדף אחריו.
+
+ כשנתיים לאחר קום המדינה (1950) עלה לארץ. נתקבל כמורה מוסמך בבית הספר הממלכתיהדתי באור-יהודה.
+
+ כחזן ותיק - שלא על מנת לקבל פרס, בבית הכנסת לעדת טריפולי באור יהודה, הפכוהו לדמות נערצת בעיני כל מכריו המרובים הפזורים בכל רחבי הארץ. הוא גם יו"ר בית הכנסת לעדת לוב.
+
+ משתתף במועצה הדתית באור יהודה.
+
+ צאצאיו: <persName>שלום, יוסף</persName> (עסק במשך 12 שנה בהוראה בישראל בתור מורה מוסמך, ואח"כ פנה לעסקי בנקאות על מנת לפתח כשרונו בשטחים נוספים). <persName>שמואל, ויקטור, לידיה </persName> אשת <persName>אפרים ארביב, רנה</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5203 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5203</bibl><bibl>Volume: #17 ,Page: 5204 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5204</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

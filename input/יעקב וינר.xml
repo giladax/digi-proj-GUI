@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #17 ,Page: 5158 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5158</bibl><bibl>Volume: #17 ,Page: 5159 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5159</bibl>
+<bibl>Volume: #17 ,Page: 5160 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5160</bibl>
+<bibl>Volume: #17 ,Page: 5161 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5161</bibl>
+<bibl>Volume: #17 ,Page: 5162 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5162</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב וינר</persName>
+
+</head>
+         <div><p> ידוע בשם "הדוד יאשה".
+
+ נוסד בסרביה (רוסיה), ט"ז כסלו תרמ"ט (20.12.1888).
+
+ לאביו <persName>שמואל וינר </persName> ולאמו<persName> רבקה </persName> בת<persName> זאב מיל</persName> שטיין.
+
+ קיבל חינוך מסורתי וכללי.
+
+ היה חקלאי ומגדל טבק בבסרביה.
+
+
+ שירת 7 שנים בחיל התותחנים הרוסי במלחמת העולם הראשונה.
+
+ בשנת 1920 נשא לאשה את<persName> בת-שבע</persName> בת <persName>אברהם</persName> <persName>אלתר.</persName>
+
+ בשנת 1924 עלה לארץ, בהתאם לתעמולתו הציונית של מ. מ. אוסישקין בבסרביה, שהסביר בנאומו שהארץ זקוקה למומחים - מגדלי טבק.
+
+ בהתחלה עבד בראשון לציון ב"מחצבה", ב"יקב" ובגידול טבק אצל איכרי המושבה. בשנת 1929 נמנה עם המנין הראשון של המת
+
+ ישבים בנתניה. עבד בחפירת הבארות והקמת רשת המים הראשונה.
+
+ במלחמת העולם השניה התגייס לפי צו המוסדות הלאומיים לצבא הבריטי. אף שעבר את גיל הגיוס מצא לנכון להתגייס ולהלחם באוייב הגרמני הנאצי. לבני משפחתו אמר : "רעמי התותחים במדבר המערבי מדגדגים אותי"...
+
+ בלכתו ללשכת הגיוס זייף את גיל תעודת הזיהוי שלו ו"נעשה צעיר" ב-6 שנים... ביקש לצרפו לחיל התותחנים בחזית הצפון אפריקנית, אך משאלתו זו לא נתמלאה בגלל גילו הקשיש.
+
+ נזכר בספרו של הסופר והעתונאי<persName> אהרן אבן-חן</persName> "יונים על הגג".
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #17 ,Page: 5158 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5158</bibl><bibl>Volume: #17 ,Page: 5159 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5159</bibl>
+<bibl>Volume: #17 ,Page: 5160 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5160</bibl>
+<bibl>Volume: #17 ,Page: 5161 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5161</bibl>
+<bibl>Volume: #17 ,Page: 5162 ,URL: http://www.tidhar.tourolib.org/tidhar/view/17/5162</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3998 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3998</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>וילהלם הקר</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קרקוב</placeName> בשנת תרל"ו (1876).
+
+ קיבל חינוך מסורתי וכללי.
+
+ בראשית ימיו עסק במסחר בוינה ובהמבורג.
+
+ ורק בשנת השלושים לחייו החל להשתלם במדעי הטכניקה וקיבל תואר מהנדס לבנינים.
+
+ בשנת 1913 עלה לארץ והיה מן הראשונים שבנו בניני בטון מחוסן.
+
+ במלחמת העולם הראשונה שירת בצבא התורכי והגיע לדרגת מאיור.
+
+ בהיותו לרגל תפקידו בדמשק הצטרף לועד ההגירה
+
+ עם ד"ר <persName>דוד ילין </persName> ועלה בידו להציל הרבה יהודים מסכנת מות וגירוש לפנים תורכיה.
+
+ לאחר גמר המלחמה הראשונה התיישב בירושלים וקיים במשך עשרים וחמש שנים שותפות עם ידיד נעוריו המהנדס <persName>אליעזר ילין</persName> (ראה כרך ב', עמוד 792), שותפות זו חוסלה עם מות שני השותפים בחודש אחד.
+
+ היה בין מתבני תכניות, לבנין כמה מושבות (הרצליה וכו').
+
+ נפטר בירושלים א' באב תש"ה (11.7.45).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3998 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3998</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

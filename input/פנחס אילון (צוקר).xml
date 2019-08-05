@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3050 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3050</bibl><bibl>Volume: #8 ,Page: 3051 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3051</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>פנחס אילון (צוקר)</persName>
+
+</head>
+         <div><p> נולד בי"ד בניסן תרס"ט (6.4.1909) באופוצ'נה שבפולין.
+
+ לאביו <persName>יחזקאל צוקר</persName> (מצד אמו מצאצאי הגר"א מוילנה) ולאמו<persName> חיה</persName> בת <persName>שמואל שפייזמן.</persName>
+
+ למד בישיבה ובבי"ס תיכון פולני ואח"כ עבד בפקידות. הצטרף למפלגת העבודה הציונית "התאחדות" (שהיתה קשורה עם "הפועל הצעיר" שבארץ), נבחר לחבר המרכז שלה בפולין והיה פעיל בעניני "החלוץ'' ו"תרבות"
+
+ ב-1930 נשא לאשה את <persName>מרים </persName> בת<persName> יצחק לנדסברג.</persName>
+
+ באותה שנה עלה לארץ והתחיל לעבוד כפועל חקלאי בהרצליה ואח"כ במערכת הירחון החקלאי "השדה". המשיך בפעילות בעניני ההסתדרות ומפלגת פועלי ארץ-ישראל וביתר שטחי החיים הצבוריים בארץ. היה מיוזמיה ובוניה של השכונה ההסתדרותית <persName>קרית</persName> <persName>עבודה,</persName> מדרום למקוה ישראל, שממנה צמחה אח"כ העיר חולון. נבחר למועצת העיר וב-1953 נבחר לראשה.
+
+
+ כמו כן הנו חבר המועצה הארצית של מפלגת פועלי א"י, חבר מועצת ההסתדרות הכללית וחבר המחלקה המוניציפלית שלה, וכן חבר הנהלת חבר השלטון המקומי.
+
+ מפרסם מפעם לפעם מאמרים ב"דבר", "הפועל הצעיר" וכתבי-עת ומאספים בענינים מוניצפליים.
+
+ צאצאיו:<persName> חגי </persName> (חבר משק חצרים בנגב),<persName> דרורה</persName> (תלמידה במדרשה למוסיקה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3050 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3050</bibl><bibl>Volume: #8 ,Page: 3051 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3051</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

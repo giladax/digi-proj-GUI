@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3047 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3047</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף לפיד (לאמפל)</persName>
+
+</head>
+         <div><p> נולד י''ז טבת תרצ"ב (27.12.1931) בנובי-סאד שבצפון יוגוסלביה (חבל וויוודינה שהיה שייך לפנים להונגריה).
+
+ לאביו ד"ר<persName> מאיר (בלה) לאמפל</persName> (שהיה מזכירה הראשון של ההסתדרות הציונית בחבל וויוודינה, סופר ועתונאי) ולאמו <persName>קתרינה </persName> בת<persName> אדולף בירמן.</persName>
+
+ אחרי מלחמת העולם השנית למד בגימנסיה היהודית של קהלת בודאפשט, בה קיבל ראשית ידיעות ביהדות ובשפה העברית.
+
+ הגיע לארץ בדצמבר 1948, ביום מלאות לו 17 שנה, בו ביום התנדב לשרות בצה"ל.
+
+ אחרי שחרורו עמד בבחינת-בגרות ישראלית ולמד משפטים בבית-הספר הגבוה למשפט וכלכלה בתל-אביב.
+
+ עבד שנים אחדות במערכת העתון "אוי קלט" (בהונגרית), ומ-1955 ואילך במערכת "מעריב", בה שימש גם מזכירו האישי של העורך ד"ר<persName> עזריאל קרליבך</persName> ז"ל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3047 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3047</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

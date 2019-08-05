@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #18 ,Page: 5347 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5347</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר רודולף זק"ש</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קהיר</placeName> (מצרים), כ"ה חשון תרע"א (27.11.1910).
+
+ לאביו ד"ר <persName>ברוך זק"ש</persName> (יליד ירושלים, רופא עיניים מפורסם. ראה את הערך שלו בכרך זה) ולאמו רגינה בת הרב ד"ר <persName>אליעזר גרינהוט</persName> , שעלה לארץ בשנת 1893 וניהל את בית היתומים שנבנה ע"י היהודים החרדים מפרנקפורט (ראה את הערך שלו בכרך ראשון, בעמודים 169-70). רעיתו נפטרה ביום י"ד אדר ב' תשי"ד (19.3.1954).
+
+ קיבל חינוך בבתי ספר בשפה הצרפתית ב<placeName>קהיר</placeName>. רכש תעודת הבגרות הצרפתית (באקלוריא) וחלק שני בגימנסיה בשטרסבורג (צרפת), ואח"כ בלימודי רפואה בפקולטה לרפואה של אוניברסיטת שטרסבורג ופקולטה לרפואה של אוניברסיטת פריס.
+
+ היה כמה שנים רופא עיניים ומנהל מחלקת העיניים יחד עם אחיו <persName>וילי </persName> (רופא עיניים) בבית החולים היהודי ב<placeName>קהיר</placeName> (מצרים).
+
+ בשנת 1937 נשא לאשה את זרמין בת <persName>יצחק ששון.</persName>
+
+ היה אח פעיל במיסדר בני ברית וחבר בהסתדרות הציונית במצרים.
+
+ ביקורים בא"י : 1925, 1927, 1930, 1945, 1946 לשם ביקורי המשפחה בארץ.
+
+ ביום 27.11.1952 עלה לארץ עם בני משפחתו לישיבת קבע.
+
+ נתמנה למנהל מחלקת עיניים כרופא וכמנתח בבית החולים הממשלתי "אסף הרופא", צריפין (סרפנד).
+
+ היה ציר בכינוס בישראל של החברה הצרפתית לאונללמולוגיה.
+
+ כתב מאמרים מדעיים ברפואה ובאנלידיאוקוליסטיק.
+
+ חבר אנ"י.
+
+ התפרסם בארץ בין היהודים והערבים כאחד המנתחים ורופא העיניים מהמוכשרים ביותר.
+
+ צאצאיו: <persName>מלוינה</persName> אשת <persName>מיכאל בר; מרים </persName> אשת <persName>שמואל בלום, דן יצחק, דב ברוך.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #18 ,Page: 5347 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5347</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

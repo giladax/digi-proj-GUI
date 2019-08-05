@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2578 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2578</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד"ר ירמיהו יפה</persName>
+
+</head>
+         <div><p> נולד ביפו, י"א כסלו תרנ"ט (24.11.1898). לאביו ד"ר <persName>הלל יפה</persName> (ראה כרך ג', עמוד 1141) ולאמו <persName>רבקה</persName> בת <persName>אריה גליקשטיין</persName> (אחות <persName>אסתר </persName> אשת <persName>חיים מרגלית קלווריסקי)</persName> .
+
+ קיבל חנוך עברי לאומי, בראשונה למד בבית הספר העממי בזכרון-יעקב, בגמנסיה "הרצליה" בתלאביב, עד הגירוש מתל-אביב-יפו במלחמה העולמית הראשונה.
+
+ לאחר הכיבוש הבריטי התגייס לגדוד העברי ושירת בו עד שנת 1920.
+
+ אחרי שנשתחרר מהצבא יצא לחוץ-לארץ ולמד באוניברסיטה בג'נבה במחלקה הכימית וסיים חוק למודיו ב"מכון לבחינת חמרים" בקבלת תואר ד"ר לכימיה.
+
+ חזר לארץ ונכנס לעבודה במקצוע שלו, מתחילה עבד בתחנת הנסיון החקלאות, אחר כך עבד בבית החרשת "שמן" בחיפה, משם עבר ל-י. סי. י., באנגליה, סוריה וא"י. עבד ב"ים המלח" ומשנת 1933 הועמד בראש המחלקה החימית של "מכון התקנים הישראלי" (מת"י) בתל-אביב.
+
+ היה פעיל בועד החיילים המשוחררים מהמלחמה העולמית הראשונה, חבר בהסתדרות הכימאים ובאגודת האינג'ינרים והארכיטקטים, מפעילי "התאחדות בני הישוב בא"י", היה חבר במרכז "למען תוצרת הארץ" (עד 1939), חבר בועדות שונות.
+
+ נשא לאשה את <persName>תמר</persName> בת הסופר <persName>חיים מרדכי בן-עמי</persName> (רבינוביץ) (ראה כרך ג' עמוד 783).
+
+ ערך את ספרו של אביו "דור מעפילים" (זכרונות, מכתבים ויומן - הוצאת דביר, תרצ"ט).
+
+ הוציא ספר על "האטום והאנרגיה האטומית" (תש"ו). פרסם מאמרים על הגדוד העברי ועל נושאים כלליים ומקצועיים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2578 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2578</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

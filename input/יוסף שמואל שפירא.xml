@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3089 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3089</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף שמואל שפירא</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וורשה</placeName> (פולין), י''א תשרי תרנ''ה (בסוף 1894).
+
+ לאביו<persName> נח הכהן שפירא</persName> (חובב ציון, שותף בהוצאת הספרים "האחים לוין-אפשטיין ושותפם") ולאמו<persName> הנה</persName> <persName>נחה</persName> בת <persName>שמואל הלוי לוין-אפשטיין </persName> (דור שמיני להמהרש"א, היתה אחותם של<persName> אליהו זאב הלוי-אפשטיין,</persName> ראה כרך א', עמוד 78)<persName> ולוי הלוי לוין-אפשטיין</persName> (מראשי המזרחי וחבר הועד הפועל הציוני) נפטרה בתל-אביב, י''ד ניסן תרפ"א (22.4.1921).
+
+ קיבל חינוך בחדר מתוקן של המשורר <persName>אהרן</persName> <persName>לובושיצקי.</persName>
+
+ בשנת תרע"ג (1913) עלה לארץ והמשיך בלמודיו בגמנסיה העברית "הרצליה" בתל-אביב.
+
+ בפרוץ מלחמת העולם הראשונה (1914) נאלץ לעזוב את הארץ כנתין רוסי וגורש למצרים.
+
+ באלכסנדריה המשיך ללמוד בבית הספר הצרפתי "מיסון לאיק" וגמר אותו. עסק זמן מה בהוראה.
+
+ בשנת תרע''ט (1919) חזר לארץ, עבד בהנהלת ביהח"ר ליציקה של המהנדס <persName>ליאון שטיין </persName> ביפו (ראה כרך ג', עמוד 1455).
+
+ בשנת תרפ"ב (1922) עבר להנהלת חברת החשמל
+
+ לא''י בע"מ בתל-אביב ונתמנה למנהל החברה לתלאביב והמחוז, ובתפקיד זה הוא ממשיך עד היום.
+
+ היה חבר בועדות שונות בממשלת המנדט.
+
+ בפרוץ מלחמת העולם השניה, נתמנה למנהל המשרד של הספקה צבאית. ולשם זה שוחרר ע"י<persName> פנחס רוטנברג</persName> מתפקידו בחברת החשמל זמנית.
+
+ חבר הועדה הצבורית והנהלת "הבימה".
+
+ חבר הנהלת "אורט" במדינת ישראל.
+
+ מחברי הקורוטוריום של מוזיאון תל-אביב.
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ח' שבט תשכ"ד (22.1.64) (ראה כרך ה', עמוד 3089)
+
+
+<h2 direction="rtl" lang="he">פרופדור צבי פרץ חיות</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3089 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3089</bibl>            <bibl>Volume: #14 ,Page: 4577 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4577</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

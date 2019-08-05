@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3575 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3575</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>נחא הומינר</persName>
+
+</head>
+         <div><p> נולדה בירושלים, בשנת תרע"ג (1913).
+
+ לאביה ר' אליהו<persName> אהרן קניגסברג </persName> ולאמה<persName> גיטל </persName> בת ר'<persName> חיים</persName> .
+
+ קבלה חינוך מסורתי.
+
+ נישאה לר'<persName> אליהו הומינר</persName> (עסקן נכבד ב"תפארת בחורים", בן ר' <persName>שלמה הומינר</persName> ).
+
+ הגישה עזרה לנצרכים, לעוברים ושבים ומחוסרי עבודה, מצאו אצלה עזרה ועצה. כל אחד מהם נתקבל בסבר פנים יפות.
+
+ הצטיינה ביושרה, במידות נעלות ובמיוחד במידת הרחמנות, להשכיל אל דל ולתמוך בצנעה.
+
+ הגשימה בחייה את קדושת חיי המשפחה היהודית והיתה אם למופת לילדיה שגידלה באהבה אין קץ.
+
+ גידלה בביתה יתומים קטנים במסירות אמהית.
+
+ במלחמת העצמאות, ביום השבת, ט"ז אדר ב' תש"ח (27.3.1949) נהרגה בביתה, ליד מאה שערים מיריות הערבית מהסביבה, כשבנה<persName> פנחס</persName> בן 6 חדשים (נקרא על שם דודו ר' <persName>פנחס הומינר</persName> ז"ל, שנרצח בשנת תש''ו ע"י חיילים בריטיים בירושלים, ראה כרך ו', עמוד 2594) היה על זרועותיה. הילד נפל על הרצפה ונשאר בחיים.
+
+ צאצאיה :<persName> אהובה</persName> אשת<persName> יעקב למברגר, צבי, חיים,</persName> <persName>יהושע, יוסף, יעקב, פסיה, אסתר, פנחס.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3575 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3575</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

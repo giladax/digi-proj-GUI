@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4347 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4347</bibl><bibl>Volume: #13 ,Page: 4348 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4348</bibl>
+<bibl>Volume: #13 ,Page: 4349 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4349</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב יהושע דוד סרוקה</persName>
+
+</head>
+         <div><p> נולד בביאלה (פולין) בשנת תר"ן (1890).
+
+ לאביו הרב <persName>יעקב מאיר סרוקה </persName> מביאלה (נצר לשושלת רבנים).
+
+ קיבל חינוך מסורתי אצל סבו שהיה חבר בית דין צדק ובישיבות מינסק-מאזובייצק, פילוב ועוד, והוסמך לרבנות ע''י גדולי הרבנים בפולין.
+
+ בשנת תרס"ז (1907) נשא לאשה את <persName>שאשא </persName> בת הרב <persName>מרדכי אייזיק גורפינקל</persName> (נפטרה בווראשה).
+
+ בוורשה עסק במסחר והתעשר. נתפרסם כלמדן, משכיל, איש המעשה ועסקן בצרכי ציבור. היה בעל צדקה ומכניס אורחים.
+
+ בתרצ"ט (1939) נתקבל כרב בעיר גלזגו בסקוטלנד, בה שימש כאחד משלושת חברי בית-הדין בעיר.
+
+ בשנת תש"י (1950) ביקר בארץ בפעם הראשונה, ומאז היה מבקר מזמן לזמן, קנה דירה בת"א והתחיל לחסל את רכושו בגלזגו.
+
+ החל בתעמולה לייסד ישיבה גבוהה בישראל ועשה תעמולה לעלייה לישראל. השתתף בכל המגביות לישראל והגיש עזרה לשליחים שביקרו בסקוטלנד.
+
+ פירסם הרבה מאמרים תורניים במאספים שונים.
+
+ אולם פטירתו שמה קץ לכל תכניותיו.
+
+ כמה מצאצאיו עלו מזמן לארץ.
+
+ נפטר בגלזגו (סקוטלנד), ביום כ"ט תמוז תשכ"ב (31.7.1962) והובא לקבורה בנחלת יצחק בגבעתיים.
+
+
+ צאצאיו:<persName> חיים סרוקה </persName> (עסקן ותעשיין בלונדון),<persName> אלי</persName> <persName>עזר סרוקה </persName> (סוחר. מטעם הליברלים נבחר למועצת עיריית תל-אביב), <persName>נח סרוקה </persName> (סוחר ויבואן בתל-אביב)<persName>, חוה </persName> אשת הרב<persName> שלמה מורגנשטרן</persName> (האדמו"ר מקוצק בשיקגוארה"ב ז"ל),<persName> רבקה</persName> אשת<persName> שלמה אשכנזי </persName> (למדן וסופר).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4347 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4347</bibl><bibl>Volume: #13 ,Page: 4348 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4348</bibl>
+<bibl>Volume: #13 ,Page: 4349 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4349</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

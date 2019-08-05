@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #15 ,Page: 4783 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4783</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>ד''ר שאול כוכבא (ראה תמונתו בתמונה הכללית)</persName>
+
+</head>
+         <div><p> נולד בתרע"ה (1915) בוינה, אוסטריה. קיבל חינוך תיכוני בלבוב.
+
+ עלה לארץ בשנת 1934 וגמר את הפקולטה למדעי-הטבע של האוניברסיטה העברית בירושלים בביוכימיה, בקטריולוגיה ופרזיטולוגיה.
+
+ בשנת 1940 קיבל תואר M.Sc. ואחר כך Ph.D.
+
+ בשנים 1943-1940 היה עוזרו של הפרופ' אוליצקי במחלקה לבקטריולוגיה של בית הספר לרפואה.
+
+ בשנים 1945-1943 עבד ככימאי ראשי בתעשיה במסגרת המאמץ המלחמתי של השנים ההן.
+
+ בשנים 1947-1945 נהל את המעבדה הרפואית של בי"ח "בקור חולים" בירושלים,
+
+ בשנים 1955-1947 שרת בצה"ל כקצין-היגיאנה ראשי, בדרגת רב-סרן. בתקופה זו נשלח גם להשתלמות לארצות הברית, שם קיבל תואר M.P.H. באוניברסיטת הארווארד. מאז 1955 הוא חבר במכון ע"ש רוגוף למחקר רפואי בבי"ח ביילינסון בתפקיד סגן-מנהל וכמנהל המעבדה לאימונוכימיה. בשנת 1958 נסע למכון-פסטר בפריס, והדריך את חיסון הסוסים לשם הפקת הנסיוב הספציפי נגד ארס-הצפע, לפי השיטה שעובדה במכון למחקר רפואי על-שם רוגוף. נתמנה לחבר האגודה המלכותית לרפואה בלונדון ולחבר האקדמיה למדעים בניו-יורק.
+
+ זכה ב-1960 יחד עם פרופ'<persName> דה-פריס</persName> ועם ד''ר <persName>שמעון גיטר</persName> ב"פרס סולד" של עירית תל-אביב, על עבודת מחקר ארסי וחשוב בישראל.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #15 ,Page: 4783 ,URL: http://www.tidhar.tourolib.org/tidhar/view/15/4783</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

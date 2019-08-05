@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #10 ,Page: 3509 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3509</bibl><bibl>Volume: #10 ,Page: 3510 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3510</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>חיים יהושע שפירא</persName>
+
+</head>
+         <div><p> נולד ב<placeName>רוסיה</placeName> בשנת תר''ל (1870).
+
+ לאביו <persName>ישראל איסר שפירא.</persName>
+
+ למד בחדרים ובישיבות ואח"כ התחיל עוסק בהוראת לימודי היהדות.
+
+
+ נשא לאשת את <persName>ראשה (רוזה)</persName> בת ר' <persName>שניאור זלמן</persName> (נפטרה בפתח תקוה, י"א אדר תרצ"ו).
+
+ היה מורה בבתי-ספר מטיפוס "חדר מתוקן" ועשה תעמולה לשפה העברית, לעליה לארץ ולעבודת אדמה בה ברוח הציונות הדתית. באחרונה היה בחו"ל מנהל "החדר המתוקן" בייקאטרינוסלאב, שנוסד ופעל ביזמתו ובהדרכתו של <persName>מ. מ. אוסישקין</persName> ז''ל.
+
+ לפני עלותו לארץ היה פעיל עם בני ביתו בהגנה העצמית היהודית, לרגל הפרעות ביהודי רוסיה באותה שנה.
+
+ ב-1905 עלה לארץ והיה מורה בתלמוד תורה בפתח תקוה ומשיסד הרב ד"ר <persName>משה אורבאך </persName> את בית הספר הדתי-הלאומי "נצח ישראל" הוזמן להורות בו והיה יד ימינו של המנהל עד סוף ימיו.
+
+ נפטר בפתח תקוה, ג' טבת תרע"ט (6.12.1918).
+
+ צאצאיו: ב<placeName>רוסיה</placeName> נשארו שתי בנות <persName>(שיינדל, פייגה,</persName> ושתיהן מתו) ושני בנים ;<persName> זלמן</persName> (כנר בפילהרמוניה בניו-יורק),<persName> דניאל </persName> (צורף בניו-יורק),<persName> נחמן</persName> (פרופסור לצ'לו באינדונזיה),<persName> בנימין</persName> (בכפר-אונו), <persName> רחל</persName> אשת<persName> אבא</persName> <persName>פובזנר</persName> (יצאה מהארץ במלחמת העולם הראשונה וכעת היא באמריקה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #10 ,Page: 3509 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3509</bibl><bibl>Volume: #10 ,Page: 3510 ,URL: http://www.tidhar.tourolib.org/tidhar/view/10/3510</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

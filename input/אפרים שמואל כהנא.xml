@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1168 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1168</bibl><bibl>Volume: #3 ,Page: 1169 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1169</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים שמואל כהנא</persName>
+
+</head>
+         <div><p> נולד בווינה, בירת אוסטריה, בשנת תרל"ד (1874), לאביו<persName> יהויכין </persName> (סוחר תכשיטי זהב) ולאמו<persName> עליזה</persName> . קיבל חינוך כבן אזרח אמיד בבית-ספר תיכוני, הצטיין בכשרונותיו בספורט, בלימודים ובכתיבת שירים בגרמנית, היה בעל אופי עצמאי ולעומת שאיפת הוריו לראותו גדל לאזרח אמיד ומכובד בעל השכלה אוניברסיטאית שאף הוא למעשי אומץ וגבורה. לאזניו הגיעו שמועות מפי סטודנטים ציונים בווינה על מעללי הגבורה והחלוציות של האכרים והפועלים במושבות העבריות בארץ ולבו משכו להצטרף אליהם.
+
+ אחרי גמרו את הגימנסיה ב-1892 ברח מבית הוריו לטריאסט, התגנב לתוך אניה והגיע לפורט
+
+ סעיד. בשמעו שבגלל מגפת הדבר הוטל הסגר על חופי הארץ המשיך את מסעו להודו והצליח להסתדר שם בתנאים טובים. לאחר שנתים וחצי יצא משם לעלות ארצה, הגיע מצרימה ובשמעו שהשלטון הטורקי אינו מרשה כניסת יהודים לארץ ישראל יצא עם בחור אחד לבוא ארצה ברגל בדרך המדבר. בדרך התנפלו עליהם שודדים בידואים והם התגברו על השודדים, הפילו אחד מהם והגיעו ארצה. עבד כפועל חקלאי בזכרון יעקב, בנטיעת היערות בבצות חדרה, בעקרון ואח"כ בראשון לציון בחקלאות וביקב.
+
+ נשא לאשה את <persName>מרים</persName> בת<persName> בנימין בלקינד</persName> (דודו ש.ל הבילויי <persName>ישראל בלקינד</persName> ) החזיק פרות והתפרנס ממכירת חלב. ניסה להתנחל בסג'רה ולא הצליח וחזר לעסוק בחלבנות בראשון לציון. הצטיין ברכיבה ובקליעה למטרה, באומץ וגבורה ובידיעת לשון הערבים ומנהגיהם ובסגולותיו אלה השתמש לפיתוח כושר ההתגוננות העברית בשמירה, בהדיפת התנפלויות, בנטיעות והובלות בדרכים משובשות בשודדים ובאנשיהפקר ובהברחת ערבים לכבד את הכח היהודי, וגם את בניו חינך לאומץ ולמעשי גבורה.
+
+ במלחמת-העולם הראשונה עזר לאנשי המחתרת העברית "נילי" בפעולותיהם, נאסר פעמים אחדות כחשוד אך לא נמצא חומר-אשמה נגדו ושוחרר. בסתיו 1917, בעת גילוי "נילי" ומאסר חבריה ורבים בישוב נאסרו גם הוא ואשתו והובלו לכלא על מנת לשלחם לדמשק, אלא שבגלל כניסת הצבא הבריטי לא הספיק השלטון הטורקי לשלחם. שני בניו הגדולים התנדבו לגדוד העברי וגם הוא רצה ללכת עמהם, אך משפחתו עיכבתו. במהומות האחרונות שלפני מלחמת-העולם השניה התנדב בגיל 63 לשרות כשומר רוכב ביערות הכרמל והצליח.
+
+ בשנותיו האחרונות היה בעל בית-מסחר לנשק ברשיון בתל אביב.
+
+ נפטר בתל אביב, י"ב אדר א' תש"ג (17.2.43). צאצאיו:<persName> מאיר</persName> (חלוץ המכוניות בארץ) <persName>אלישיב</persName> , <persName>יהודית, בנימין</persName> (חלוץ הטיס העברי בארץ).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1168 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1168</bibl><bibl>Volume: #3 ,Page: 1169 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1169</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #5 ,Page: 2265 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2265</bibl><bibl>Volume: #5 ,Page: 2266 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2266</bibl>
+<bibl>Volume: #5 ,Page: 2267 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2267</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>קלמן כצנלסון</persName>
+
+</head>
+         <div><p> נולד בי' חשון תרס"ח (18.10.1907) בבוברויסק שברוסיה הלבנה לאביו <persName>שמואל</persName> (סוחר, בן תורה, למד בבי''ס גבוה למסחר בלייפציג) ולאמ<persName>ו רוצה</persName> בת<persName> קלמן ברקוביץ</persName> (מורה בבי"ס תיכוני לבנות). למד בחדר ובבי"ס תיכוני. ב-1918 נפטר אביו בקיוב, ב-1921 נמלטה המשפחה מרוסיה לפולין וב-1923 עלו ארצה.
+
+ למד שלוש שנים במקוה ישראל ואח"כ עבד שנתים כפועל חקלאי בעמק הירדן ובבנימינה, ומ-1929 ואילך עוסק במקצועות עירוניים ובעתונאות. ב-1930 השתתף בקביעות ב"דאר היום" בכתיבת מאמרים פובליציסטיים ואח''כ עבד ב"הירדן", "חזית העם", "המשקיף" וכיום ב"חרות" ו"יזמה" בכינויים "בן צרויה" ו"ק. מסתכל".
+
+ ב-1827 הצטרף למפלגה הרביזיוניסטית (הצה"ר). ב-1931 נדון לחודש מאסר (יחו עם <persName>בנימין גורביץ</persName> <persName>ועקיבא בראון)</persName> על פעולות נגד מפקד האוכלוסין שמטעם ממשלת המנדט והיה בכך מחלוצי האסירים הפוליטיים על מלחמה בשלטון הזר. ב-1932 נאסר לרגל הפגנה ונדון לערבות להתנהגות טובה. ב-1928- 1933 היה פעיל בסיעה מכסימליסטית שבהנהגת <persName>אב''א אחימאיר, א. צ.</persName> <persName>גרינברג</persName> וד"ר <persName>י. ה. ייבין.</persName> בדצמבר 1933 נדון לחודש מאסר על השתתפות בהפגנה נגד ציד העולים "הבלתיחוקיים". ב-40- 1939 השתתף בסיעות הרביזיוניסטיות "קטרוג ואמונה" ו"שחרור העם" וב-1943 השתתף ביסוד סיעת "התנערות" בצה"ר. עם התחלת פעולות המחתרת האנטי-בריטית נעצר ונכלא בלאטרון מאפריל 1944 עד אפריל 1945. אחרי פיצוץ מלון "המלך דוד" נעצר ונכלא לחודש ימים. נמנה על 50 "האישים החשובים מאד'' שנעצרו באוגוסט 1947 ושוחרר ממעצרו האחרון על סף עצמאות ישראל ביום 5.3.48.
+
+ אשתו: <persName>פיה </persName> בת <persName>יוסף ברלד.</persName>
+
+ צאצאיו : <persName>יוסף, שרה.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #5 ,Page: 2265 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2265</bibl><bibl>Volume: #5 ,Page: 2266 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2266</bibl>
+<bibl>Volume: #5 ,Page: 2267 ,URL: http://www.tidhar.tourolib.org/tidhar/view/5/2267</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

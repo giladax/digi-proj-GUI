@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #9 ,Page: 3271 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3271</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דניאל חורין (חורושצ'נסקי)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>קובנו</placeName> (ליטא) בשנת תרס"ו (30.9.1906).
+
+ לאביו<persName> יעקב יהודה חורושצ'נסקי</persName> (ת"ח, מוסמך לרבנות, ממשפחת רבנים ומשכיל ציוני. התנגד לתת לילדיו חנוך בחדרים הותיקים, והזמין באופן מיוחד שני מורים. אחד ללימודי קודש ואחד ללמודי חול) ולאמו <persName>צפורה</persName> בת <persName>אליעזר אולקניצקי.</persName>
+
+ את לימודיו התיכונים למד וגמר בגמנסיה גרמנית ב<placeName>קובנו</placeName>. למד שנה בפקולטה לכלכלה באוניברסיטה ב<placeName>קובנו</placeName> ועבר לעבוד בבנק יהודי "אידישער צענטראל באנק" ב<placeName>קובנו</placeName>.
+
+ היה פעיל בארגון ציוני לאומי וניהל סניף המפלגה בשבלי (ליטא) במחיצתו של<persName> זאב ז'בוטינסקי,</persName> כיו"ר המפלגה.
+
+ ב-28 למרס 1931 נשאה את <persName>בלמה </persName> בת<persName> משה שיפמן</persName> (סוחר ידוע בשבלי-ליטא).
+
+ ב-2 למרס 1933 עלה לארץ ונתקבל בתור פקיד בבנק אשראי תל-אביב וכעבור כמה חדשים בתור גזבר ראשי של הבנק.
+
+ בשנת 1940 עבר לעסוק בשטח הביטוח באופן עצמאי. בשם "חסות" משרד לעסקי ביטוח ופיננסים בע"מ, תל-אביב.
+
+ אח פעיל בלשכת הבנאים החפשים "ברקאי" בת"א. לשנת 1957 נבחר לנשיא הלשכה.
+
+ צאצאיו: <persName>תלמה</persName> (לומדת רפואה באוניברסיטה העברית בירושלים),<persName> יעקב אילן.</persName>
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, כ"ה אדר תשכ"ט (15.3.69) (ראה כרך תשיעי, עמוד 3271)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #9 ,Page: 3271 ,URL: http://www.tidhar.tourolib.org/tidhar/view/9/3271</bibl>            <bibl>Volume: #18 ,Page: 5491 ,URL: http://www.tidhar.tourolib.org/tidhar/view/18/5491</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

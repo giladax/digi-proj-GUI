@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #11 ,Page: 3758 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3758</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אפרים גוזמן</persName>
+
+</head>
+         <div><p> נולד בתל-אביב, כ"א אב תרע"א (15.8.1911).
+
+ לאביו <persName>שמואל גוזמן</persName> (ראה כרך ב', עמוד 717) ולאמו <persName>צפורה</persName> בת<persName> צבי קורנפלד</persName> .
+
+ בוגר הגמנסיה העברית "הרצליה" בתל-אביב ובי"ס גבוה למסחר בברלין (גרמניה).
+
+ נשא לאשה את ד"ר <persName>בתיה</persName> בת <persName>צבי טננבוים-ארזי</persName> (ראה כרך ד', עמוד 1692).
+
+ היה פעיל במכבי ובארגוני הספורט בתל-אביב.
+
+ מנהל "ש. גוזמן ובנו בע"מ".
+
+ מנהל החברה "ש. גוזמן (הספקה טכנית) בע"מ".
+
+ חבר ועד המועדון המסחרי - תעשיתי בתל-אביב.
+
+ חבר ועד לשכת המסחר בתל אביב - יפו.
+
+ חבר ועד לשכת המסחר בריטניה - ישראל.
+
+ היה נשיא לשכת בני-ברית "שמעון רוקח".
+
+ יו"ר לשכת המסחר ישראל - שוודיה.
+
+ אח בלשכת הבנאים חפשים "שרון" בת"א.
+
+ כותב מאמרים על בעיות כלכליות.
+
+ חבר מועצת הביטוח של מדינת ישראל.
+
+ גזבר כבוד של אגוד היבואנים של מכונות, ציוד טכני, וחומרי בנין ומתכות.
+
+ צאצאיו :<persName> מרים, עודד</persName> .
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #11 ,Page: 3758 ,URL: http://www.tidhar.tourolib.org/tidhar/view/11/3758</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

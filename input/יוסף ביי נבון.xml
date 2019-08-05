@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 70 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/70</bibl><bibl>Volume: #1 ,Page: 71 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/71</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יוסף ביי נבון</persName>
+
+</head>
+         <div><p> נולד בירושלים, בשנת תרי"ח (1858), לאביו ר' <persName>אליהו נבון אפנדי,</persName> מגזע דורות רבים של רבנים, מנהיגים ועסקנים ונציג העדה היהודית במועצת פלך ירושלים, ולאמו אסתר בת <persName>יוסף אמזלג</persName> ואחות <persName>חיים</persName> <persName>אמזלג</persName> , שהיה סגן-קונסול בריטי ביפו. למד בתלמודתורה של העדה הספרדית, ובן י"ג שלח אותו אביו ללמוד בבית-ספר תיכוני במרסיל שבצרפת. חזר ארצה ועסק במסחר ובבנקאות בשותפות עם הבנקאי הגרמני <persName>פרוטינגר</persName> . נשא לאשה את אחותו של <persName>הרי"ד פרומקין</persName> בעל "החבצלת" (בוליסה בת ר' סנדר פרומקין).
+
+ יחד עם דודו חיים אמזלג עזר ברכישת הקרקעות ליסוד פתח-תקוה וראשון לציון ובהסרת המכשולים לרישום הקרקעות בספר-האחוזה. השתתף עם גיסו הרי"ד פרומקין ביסוד חברת "עזרת נדחים" לבנין בתי-דירה לעולים עניים מתימן ותרם בית בן 2 קומות לצורך זה. ביזמתו ובעזרתו נוסדו השכונות "בית יוסף" (על שמו), "מחנה יהודה-' (על שם אחיו המנוח), "סוכת שלום" ו"בתי נבון" לדיור עניים מול מגרש שמעון הצדיק. פרסם קריאה ב/,החבצלת" לאיחוד עדות הספרדים והאשכנזים לעדה יהודית יחידה.
+
+ בתרמ"ה הגה תכנית לסלילת מסלת-ברזל בין יפו לירושלים. עבר לגור שנים אחדות באיסטמבול,
+
+
+ דפק על כל הדלתות הגבוהות והתמיד בהשתדלותו עד כי בתשרי תרמ"ח קיבל סוף-סוף בדבר-מלכות את הזכיון לסלילת קו הרכבת מיפו לירושלים ולשני קוים שיסתעפו ממנה, לשכם ולעזה ולביצוע השקאה חקלאית ביהודה. אחרי קבלת הזכיון חזר לירושלים והחל בפעולה להשגת ההון הדרוש לביצוע המפעל. אך ההון לא הושג במהרה, ובינתים הפסיד חלק גדול מהונו הפרטי. לבסוף הצליח בהשתדלותו ליסד בפאריס חברה צרפתית, שקנתה ממנו את הזכיון ואף סללה את הקו והנהיגה את קשר הרכבת בין יפו לירושלים. כן הגה תכניות לבנין נמל ביפו ולהשקאת עמק השרון והכשרתו לנטיעות, אך מחוסר הון מספיק לא יכול להגשימן.
+
+ לאות הוקרה לפעולותיו לטובת הצבור העניקה לו ממשלת תורכיה את התואר "ביי" ואותות-כבוד שונים, וכן קיבל אותות-כבוד מאת ממשלות צרפת, אנגליה ופורטוגאל (שהיה הקונסול שלה בירושלים. במשך שנים אחדות, וכן היה גם קונסול הולנדי ובלגי).
+
+ אחרי אבדן הון רב במפעל קו הרכבת וכשלונות בתכניותיו האחרות בגלל אי-השתתפות של בעלי-הון יצא לפאריס והתגורר שם שנים רבות. בפאריס נפגש עם הד"ר <persName>הרצל</persName> בראשית צעדיו ביסוד ההסתדרות הציונית והציע לו את עזרתו בפיתוח הארץ. היה מראשי המיסדים של ליגה עולמית למען השלום בשנת תרס"ח בפאריס, שמרכזה היה בלונדון וסניפיה בכל הערים הגדולות בעולם.
+
+ פרסם זכרונות וחליפת-מכתבים עם אישים גדולים ועסקנים צבוריים ולאומיים ועם מוסדות בענינים של פיתוח הישוב והארץ.
+
+ נפטר בפאריס, כ"ג ניסן תרצ"ד.
+
+ צאצאיו:<persName> לאה</persName> אשת שמעיה ברוך,<persName> רוזה</persName> אשת יצחקשמעיה אלישר <persName>ורחל בת-שבע</persName> אשת מורנו אלישר.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 70 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/70</bibl><bibl>Volume: #1 ,Page: 71 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/71</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

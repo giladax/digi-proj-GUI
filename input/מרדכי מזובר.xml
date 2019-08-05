@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4481 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4481</bibl><bibl>Volume: #14 ,Page: 4482 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4482</bibl>
+<bibl>Volume: #14 ,Page: 4483 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4483</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי מזובר</persName>
+
+</head>
+         <div><p> נולד בשנת תרל"ב (1872) בעיר גרודנו אז רוסיה.
+
+ לאביו <persName>יחזקאל מזובר</persName> (סוחר תבואות) ולאמו <persName>שרה.</persName>
+
+ קיבל חינוך מסורתי.
+
+ עלה ארצה בשנת 1905 והתישב בראשון לציון. בתור אומן במקצוע הנגרות לרהיטים, הסתדר במקצועו ובמשך זמן קצר התמחה גם בנגרות בנין והצליח במהרה להשתרש ולהתבסס בארץ. כעבור שנה לעלותו העלה גם את משפחתו לארץ.
+
+ נשא לאשה את <persName>צפורה</persName> בת <persName>שמואל אברמוביץ</persName> .
+
+ בשנת תרס"ז (1907) כשנרכשה אדמת "בירסלם" מעירית רמלה היה הוא אחד ממיסדיה ואך היה הראשון שחרש את אדמת המולדת במושבה שנקראה אחר-כך "באר-יעקב". התגשמה משאת נפשו להיות אכר בארץ אבות. נטע כרם שקדים, התמחה בנטיעה ובהרכבה, עבד זמן מה גם אצל בעלי מטעים בראשון לציון. המשיך לעבוד במקצוע הנגרות, היות ובזמנים ההם ההכנסה מהחקלאות בלבד לא הספיקה לכלכלת בני משפחתו שגדלה בינתיים. בכל שעה פנוייה מעבודת הנגרות היה ממהר ברגל לבאר יעקב, לראות את כרמו האהוב עליו ושהיה למופת במושבה. בהגיע זמנים קשים לענף השקדים נאלץ באין ברירה לעקור את הכרם ונעשה לפרדסן טוב.
+
+ חריצותו היתה להפליא, אהב את העבודה ושנא את הבטלנות. לרכושו הגיע אך ורק מיגיע כפיו. בעל סדר ודייקן היה, אף בהגיעו לשיבה. בזמנים הקשים ידע להסתפק במועט ותמיד היה שמח בחלקו.
+
+ ממיסדי בית הכנסת של הפועלים ומגבאיה היה.
+
+ לזכר אשתו צפורה ז"ל תרם ספר תורה לבית הכנסת (אשר היתה עוזרת נאמנה במשך כל דרך חייו).
+
+ נפטר בראשון לציון ביום ד' כסלו תשט"ו (29.11.1954) והובא למנוחת עולמים בבית העלמין הישן בראשון לציון.
+
+ צאצאיו:<persName> רבקה </persName> אשת<persName> הרצל גפני, יוהנה</persName> אשת <persName>ירמיה כהן </persName> (ראה כרך ז' עמוד 2801),<persName> שמואל, משה</persName> ז"ל,<persName> מרים</persName> אשת <persName>שלמה זילברשטיין, חיה</persName> אשת<persName> אברהם</persName> <persName>הרשקוביץ.</persName>
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4481 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4481</bibl><bibl>Volume: #14 ,Page: 4482 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4482</bibl>
+<bibl>Volume: #14 ,Page: 4483 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4483</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

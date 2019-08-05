@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 580 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/580</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דוד נוביק</persName>
+
+</head>
+         <div><p> נולד בקארטוז ברזה, פולין, בשנת תרכ"ב (1862), לאביו <persName>שמואל</persName> . למד ב"חדר" ואחרי "בר מצוה" החל ללמוד נגרות.
+
+ בתרל"ח עלה ארצה והחל לעבוד כפועל חקלאי שכיר בפתח-תקוה בראשית הוסדה. כשפסק הישוב בפתח-תקוה עבר לעבוד בנגרות במקוה ישראל ובמקומות אחרים, וכשנתחדש הישוב בכפר יהודיה חזר גם הוא שמה ועבד בנגרות-בנין בבתים שהוקמו, ואח"כ המשיך במלאכתו זו מטעם פקידות הבארון ובונים פרטיים בבנין הבתים בפתח-תקוה, וכן עשה את עבודות הנגרות בבנין בית-הכנסת הגדול יחד עם <persName>שלמה לויטה</persName> ועבד בהקמת צריפים ונגרות בנין גם בגדרה, עקרון, באר טוביה ועוד.
+
+ נשא לאשה את שרה בת יוסף לינקובסקי.
+
+ בתרנ"ה רכש 75 דונם קרקע בפתח-תקוה ונטע זיתים וכרם גפנים והמשיך לעבוד בנגרות עד שנת תרע"ד, ומאז עבד רק בחקלאות.
+
+ נבחר כמה פעמים לועד המושבה, לועדת המשפטים וכן היה חבר באגודת "השקד" ובהנהלת "כורמי התקוה".
+
+ בהגנה על המושבה הצטיין מנעוריו ועד זקנה. פעם, בשנים הראשונות של פתח-תקוה המחודשת, הוביל בעגלה מיפו סחורות ושתי נשים, ובלילה התנפלו עליהם שלשה שודדים ערבים בין סאקיה לכפר ענה, והוא נאבק עם השודדים עד שהנשים הצליחו להמלט ולהגיע ליהודיה, ואח"כ יצא יחידי
+
+ אחרי השודדים והציל מידיהם את הסוסים והעגלה. והמטען. מאז השתתף פעמים רבות במערכות הגנה. נגד שוסים ומתנפלים. בעת ההתקפה הגדולה על פתח-תקוה, במאי 1921, בהיותו כבר קרוב לשנתו הששים, נכנס למערכה בתוך ברד הכדורים, עודד את
+
+ הלוחמים, הוציא לבית-החולים את הפצועים, וביניהם אף את<persName> משה </persName> בנו, ואח"כ הסתכן שוב בנסיעה בכרכרה מהמושבה הנצורה לתחנת הרכבת ראש-העין והביא. משם לעזרה את פלוגות הרוכבים ההודיים, שנשלחו עוד בבוקר על פי פקודה מגבוה בפיקוד קצינים בריטיים לעזרת פתח-תקוה, אך מסיבות שלא נחקרו ולא נתגלו נשארו להם בראש העין ולא זזו אל המושבה הנתקפת עד שהוא בא וקרא להם.
+
+ נפטר בפתח-תקוה, כ"ב אייר תרפ"ה.
+
+ צאצאיו:<persName> יהודה</persName> (ז"ל),<persName> יוסף</persName> (ז"ל),<persName> מרים</persName> אשת אהרן טולצינסקי,<persName> יואב, משה, פלטיאל, דבורה</persName> אשת חיים יחיאלי,<persName> הניה</persName> אלמנת ישה קרמר.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 580 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/580</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

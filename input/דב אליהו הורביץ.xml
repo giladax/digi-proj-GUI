@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #6 ,Page: 2656 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2656</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>דב אליהו הורביץ</persName>
+
+</head>
+         <div><p> נולד ב<placeName>מינסק</placeName> (רוסיה), ה' תמוז תר''ס (1900). לאביו <persName>משולם שרגא פייבוש</persName> ולאמו <persName>רבקה</persName> בת ר' <persName>ישעיהו הורביץ.</persName>
+
+ קבל חנוך מסורתי בחדר.
+
+ בשנת 1913 עלה לארץ ונתקבל כתלמיד בגמנסיה העברית "הרצליה" בתל-אביב.
+
+ עבר את הקורס של ההנהלה הציונית - להכשרת פקידים יהודים בממשלת המנדט.
+
+ היה בקבוצת ההגנה בהנהלת זבוטינסקי בירושלים ב-1920.
+
+ ב-1921 נתקבל כפקיד במשרד העבודות הצבוריות, אח"כ במחלקת החקלאות, במשרדי שלטון המחוז חיפה, ירושלים ותל-אביב.
+
+ בשנת 1925 נשא לאשה את<persName> יהודית</persName> בת<persName> משה לזרסון.</persName>
+
+ אח במסדר הבנאים החפשים - לשכת "חירם" בתלאביב.
+
+ היה בין קבוצת התלמידים שנשלחו לסג'רה להגנה. אחרי ההתקפה על תל-חי.
+
+ עוזר אדמיניסטרטיבי במשרד מס הכנסה, תל-אביב.
+
+ צאצאיו: <persName>עידן </persName> ז"ל (נפל במלחמת השחרור),<persName> ארנה</persName> אשת<persName> אליעזר שווימר.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #6 ,Page: 2656 ,URL: http://www.tidhar.tourolib.org/tidhar/view/6/2656</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #4 ,Page: 1843 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1843</bibl><bibl>Volume: #4 ,Page: 1844 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1844</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שלמה שפאן</persName>
+
+</head>
+         <div><p> נולד בירמולינצי (פלך פודוליה, אוקראינה), א' בשבט תרנ"ח (1898) לאביו <persName>אליעזר</persName> (סוחר) ולאמו <persName>חיה</persName> בת<persName> ר' יעקב ריפניצר.</persName>
+
+ קבל חינוך עברי מסורתי וחינוך כללי בבי"ס תיכון ובאוניברסיטה. שמש כמנהל וכמורה בבי"ס של "תרבות" "תושיה" (קמניץ-פוד') ובגמנסיה היהודית לנערים (לודז', פולין). חבר דים ציוניים בעיר מולדתו ובקמניץ-פוד'. עבד ביחוד בשטחי הפצת הלשון והתרבות העברית.
+
+ עלה ארצה בראשית תרפ"ד. המשיך להשתלם
+
+
+ באוניברסיטה העברית בירושלים והוסמך בתואר M.A מוסמך למדעי הרוח, בשנת תרצ"ג.
+
+ סגן מנהל הגמנסיה "בלפור" בתל-אביב, מורה בבית-המדרש למורים וגננות על שם לוינסקי בת"א.
+
+ כיום מפקח על בתי הספר התיכוניים במחלקת החנוך של מדינת ישראל.
+
+ חוץ מעבודתו המקצועית עוסק הוא בעבודה ספרותית, מקור (שירים, ספורים, מאמרי בקורת) ותרגום. ענין מיוחד נודע ממנו לתרגומים מהשירה היונית. הקלסית. קבל פרס טשרניחובסקי של עירית תל-אביב לשנת תש"ח בעד תרגומו "ההמנונות החומריים" (שיצא בהוצאת האוניברסיטה העברית בירושלים, תש"ו, בצרוף מבוא מאת פרופ' מ. שובה).
+
+ בשנת תש"ה הוציא יחד עם ה' יעקב בקר את "מבחר המסה העברית" (הוצאת גזית"): בתש"ח הופיע תרגומו "ליציאת מצרים" של יחזקאל ההלניסטן (הוצאת "יבנה").
+
+ אח בלשכת הבנאים החפשים "ברקאי" בת"א.
+
+ בתרצ"ג נשא לאשה את ד"ר<persName> רחל גבריאלית</persName> בת ר'<persName> חיים רלבג</persName> מזכירה מקצועית במחלקת הגנת הצומח במשרד החקלאות של מדינת ישראל).
+
+</p>
+<p>
+
+ תוספות: 
+
+ נפטר בתל-אביב, ה' שבט תשכ"ב (10.1.62) (ראה כרך ד', עמוד 1843)
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #4 ,Page: 1843 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1843</bibl><bibl>Volume: #4 ,Page: 1844 ,URL: http://www.tidhar.tourolib.org/tidhar/view/4/1844</bibl>
+            <bibl>Volume: #12 ,Page: 4122 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4122</bibl></listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

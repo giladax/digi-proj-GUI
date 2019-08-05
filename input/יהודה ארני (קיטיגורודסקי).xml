@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 4003 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4003</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יהודה ארני (קיטיגורודסקי)</persName>
+
+</head>
+         <div><p> נולד בשנת תרס"ה (5.4.1905) בצ'רקאסי שבאוקראינה.
+
+ לאביו ר' <persName>אליעזר קיטיגורודסקי </persName> ולאמו <persName>דבורה</persName> בת הרב <persName>מרדכי הרצברג</persName> (עליהם ועל יחוסם ראה כרך י"א, עמוד 3772).
+
+ בעודו תינוק יצאה המשפחה לגליציה והוא גדל בבית הוריו בסחודניצה שליד דרוהוביץ'. למד בחדרים ובביתספר עברי.
+
+ בבחרותו הצטרף להחלוץ ואחרי הכשרה בכפר ליד סטרי עלה לארץ ב-1925. הצטרף לקבוצה בגליל התחתון ועבד בשדות הטבק ואח"כ עבודת-שכיר בחקלאות בכלל.
+
+ בשנים 1930-1927 למד בבית-המדרש למורים בבית
+
+ הכרם, ומיד אחרי שגמר בהצלחה נשלח לשנתיים ללמד ספרות עברית ותולדות ישראל בגימנסיה עברית בדווינסק שבלטביה.
+
+ שם נשא לאשה ב-1930 את <persName>רחל</persName> בת <persName>אפרים אוורבוך.</persName> בשנים 1947-1932 שימש בתפקידי מנהל או מורה בבתי-ספר בפתח תקוה, זכרון יעקב ותל-אביב. בשנים 1953-1947 היה מפקח על בתי-ספר מטעם המרכז לחינוך של העובדים. באותן שנות העליה ההמונית עסק בעיקר בייסוד בתי-ספר (למעלה מ-80) לילדי העולים במעברות, במחנות ובכפרי-עולים מחיפה ועד באר-שבע, לספק ציוד ולהדריך למשימה החדשה בסוגה את המורים, ברובם הם עצמם עולים חדשים. ב-1955-1953 פעל בשליחות המחלקה. לחינוך בגולה של הסוכנות היהודית בתור מפקח על בתי-הספר העברים בצ'ילי ולביקורי בתי-הספר גם בארגנטינה, אורגוואי ופרו. באותה תקופה פירסם מאמרים על החינוך בגולה בעתונים האידיים שבאותן ארצות.
+
+ משחזר לארץ חזר לתפקידו כמפקח על בתי-ספר ממלכתיים, וב-1961 קיבל ממשרד החינוך מענק-לימודים לשם השתלמות באוניברסיטה העברית לקראת תואר אקדמי.
+
+ מאמריו הרבים בענייני חינוך והוראה נדפסו ב"הד החינוך", "החינוך", "דבר", "הארץ", "אורים", "דבר
+
+ לילדים", '"הפועל הצעיר" בחתימות י. א., בן אליעזר, אבי-ניצה, קיטאי, ארני ועוד, ורבים ממאמריו נכנסו לביבליוגרפיה של ספרות החינוך ומשרד החינוך הציעם בהמלצתו למורים לקרוא ולעיין בהם.
+
+ בנותיו: <persName>אפרת </persName> (בוגרת סמינר למורות) אשת <persName>יהושע</persName> <persName>שפיגל, ניצה</persName> (מורה וסטודנטית).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 4003 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/4003</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

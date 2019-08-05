@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 190 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/190</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אליעזר אלחנן שליט</persName>
+
+</head>
+         <div><p> נולד בפוניבז', ליטא, י"ד אדר תר"ו (1846), לאביו <persName>אריה יום-טוב ליפמן,</persName> ממשפחת רבנים בוונציה שבאיטליה, שנצר אחד ממנה נקלע לפני דורות מספר לליטא. למד בחדר ובישיבות והגיע לידיעה מרובה בתורה וגם בספרות העברית החדשה. נשא לאשה את שרה בת משה אהרן פוגלמן, ממשפחה נכבדה ואמידה בפולטאבה שבאוקראינה, השתקע שם, עסק במסחר תבואות והגיע לאמידות.
+
+ כשהתחוללו הפרעות הראשונות בדרום רוסיה ("סופות בנגב") פגעו גם בו והרסו את מעמדו ורכושו. רבים ניסו לקומם את הריסותיהם ולהתחיל מחדש, אך הוא לא רצה עוד לבסס לו מעמד בארץ הפרעות, ובתרמ"ב עלה ארצה.
+
+ ביפו נפגש עם מיסדי ראשון לציון והצטרף אליהם. נשא את חלקו בכל יסורי הראשונים ונשם עמהם לרווחה כשפרש<persName> הבארון רוטשילד</persName> את כנפי חסותו על המושבה. גם הוא לא נשא בלב שקט את עול השלטון הקשה והעריץ של פקידי הבארון, אך התמרד לא בדבורים ובנאומים אלא במעשים פוריים. בעוד שהפקידות אמרה לבסס בראשונה את המושבה אך ורק על משק הגפן, שקד הוא גם על הפלחה וגידול שקדים וזיתים (בגידול זיתים היה אחד הראשונים בין היהודים), התמחה בכל פרטי העבודה ושדותיו ונטיעותיו הצטיינו בשכלול למופת כאילו היתה בידו מסורת של דורות אכרים מושרשים בארץ. מטעיו היו מן המובחר ובעונג רב היה נותן לכל דורש "רכב" מעצי שקדיו וזיתיו, רכב מבורר ומנוסה, שיגדל אך ורק לעץ נושא פרי לברכה,
+
+ ושכרו היחיד היה בראותו אחרים הולכים בדרכיו בגיוון המטעים ומצליחים בכך.
+
+ כאדם בעל מזג עליז ומלא וגדוש ידיעות יהודיות וכלליות וחכמת-חיים בריאה היה מוקף תמיד חוג של נהנים משיחותיו ומבדיחותיו, ולא מנע עצה ועזרה מהפונים אליו. בשיחותיו ובבקרתו על המתרחש במושבה ובעולם היהודי היה כמו "עתון חי" ובבית-הכנסת היה לו חוג של שומעי שיעוריו בתלמוד.
+
+ גם הערבים כיבדוהו וחיבבוהו ועמהם היה מאריך בשיחות על ביאת המשיח ומשכנע אותם בכך בדרך ידידותית, כי למרות כל המניעות וההפרעות עתיד עם ישראל לחדש את מלכות ישראל בארצו.
+
+ את הגזוזטרא של ביתו היו מכנים בשם "הפרלמנט הקטן".
+
+ בנו<persName> אריה יום-טוב ליפמן, </persName> אגרונום, חיבר שירים שאחדים מהם נפוצו בקהל בימים ההם (אחד מהם כעין הימנון מקומי של ראשון לציון), נפטר בפאריס. בנו <persName>משה אהרן</persName> - רופא באוסטרליה. בנו<persName> אליהו</persName> <persName>אריה </persName> - גנן באמריקה. בנו<persName> ישראל מרדכי </persName> - רופא בלונדון. בתו<persName> חיה </persName> נישאה לרופא ד"ר<persName> אהרנהיים,</persName> לפנים בברלין וכיום באמריקה. בתו <persName>שפרה</persName> נישאה למר <persName>סמי קרסו,</persName> סוחר בצרפת. בתו <persName>רחל </persName> נישאה למר<persName> מנחם גורדון,</persName> כורם ופרדסן ברחובות. בתו <persName>מלכה </persName> נישאה לד"ר יהודה לואי ויינברג, עו"ד בתל-אביב. בתו<persName> לאה </persName> נישאה לד"ר <persName>אסף ציפרין,</persName> מהנדס בחיפה. - וכך נשארו מצאצאיו גם בארץ.
+
+ לפני פרוץ מלחמת-העולם הראשונה חלה במחלה אנושה. נסע לברלין אל בתו וחתנו לבקש שם מרפא. הוכנס לבית-חולים ונותח <persName>ושם </persName> נפטר זמן מועט אחרי פרוץ המלחמה, ביום י"ד כסלו תרע"ה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 190 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/190</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

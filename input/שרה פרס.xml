@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 287 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/287</bibl><bibl>Volume: #1 ,Page: 288 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/288</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>שרה פרס</persName>
+
+</head>
+         <div><p> נולדה בוויטבסק שברוסיה הלבנה, באייר תר"ב (1842), לאביה ר'<persName> יעקב הכהן</persName> , חסיד חבד"י נלהב, מקרובי משפחתו של ר' <persName>מנחם מנדיל מוויטבסק</persName> , מראשוניה וממנהיגיה של עלית החסידים בתקופת תלמידי הבעש"ט וממניחי היסוד לישוב האשכנזי בארץ. בשנת תרי"ט, בהיותו עוד במיטב שנותיו עלה ארצה עם אשתו ובתו היחידה שרה והתישבו בירושלים, בה היו מחלוצי הישוב של חסידי חב"ד. נסיעתם מוויטבסק לירושלים ארכה אז שנה תמימה בעגלות עד אודיסה,
+
+ בספינות מפרש וקיטור עד חוף הארץ ובחמורים עד ירושלים. לאחר שנה נישאה שרה לחיים <persName>פרס</persName> , יליד ביאליסטוק שהועלה ארצה בן שש עם הוריו, שהיה צעיר ממנה בשנה אחת (הוא היה בן 17 והיא בת 18 בעת חתונתם), אחד מראשוני המשכילים הנאמנים למסורת בירושלים. היא החלה לעבוד בתור מורה לבנות ישראל ולימדה אותן קריאה וכתיבה בעברית, חשבון, תפירה וגזירה בבית-הספר שיסד<persName> משה מונטי</persName> <persName>פיורי</persName> בירושלים. כשביקר מונטיפיורי בתרל"ה בפעם ה-7 בירושלים הזמין אותה ואת יתר שתי המורות לבנות ירושלים לבקר אצלו. היא הביאה לפניו את 25 תלמידותיה ומונטיפיורי ביקש ממזכירו הד"ר<persName> לוי</persName> לבחון אותן. הבחינה עלתה יפה ומונטיפיורי הקציב לבית-הספר שלה פרס שנתי, שהיה ניתן בקביעות כל ימי חייו של הנדיב.
+
+ הגיעה לזקנה מופלגת וזכתה לראות את מפעלה החלוצי, חינוך הבנות, מתפתח בבתי-ספר חדישים ודור של מורות עבריות, חניכות מוסדות עבריים בארץ, ממשיך את מפעלה. בנה<persName> ישעיהו</persName> הוא אחד מטובי המחנכים, חוקרי הארץ ועסקני הצבור.
+
+ נפטרה בירושלים, י"ב טבת תרצ"ח.
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 287 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/287</bibl><bibl>Volume: #1 ,Page: 288 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/288</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

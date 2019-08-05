@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #13 ,Page: 4265 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4265</bibl><bibl>Volume: #13 ,Page: 4266 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4266</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מרדכי נצח (פומרנץ)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>אודיסה</placeName> (רוסיה), י' תמוז, תרס"ב (15.7.1902).
+
+ לאביו<persName> יצחק פומרנץ </persName> ולאמו <persName>סוניה </persName> לבית<persName> שולמן.</persName>
+
+ חינוכו הראשון קיבל בבית-ספר נוצרי למתחילים בקהיר, לשם עברה המשפחה.
+
+ בשנת 1909 עלו לארץ. גדל בבית דודו<persName> אברהם</persName> <persName>ליטבק.</persName>
+
+ למד בבית-ספר "עזרא" בתל-אביב, ב"סמינר למורים" של חברת עזרא בירושלים, המשיך ללמוד חקלאות בבי"ס מקוה ישראל, בית-ספר לטבעונות, בית מדרש לחילוץ עצמות ואוניברסיטה לרפואה טבעית.
+
+ קיבל תואר דוקטור לטבעונות, חירופקטיבה וצמחי מרפא.
+
+ כיום דוקטור לטבעונות וחקלאי.
+
+ בשנת 1930 נשא לאשה את<persName> בתיה</persName> בת <persName>אלישע קו</persName>
+
+
+<persName>ריכמן </persName> ובזיווג שני נשא לאשה בשנת 1947 את<persName> מרים</persName> בת <persName>יעקב דרייפוס</persName> (מניצולי משפחת קפטן<persName> אלפרד דרייפוס</persName> מצרפת).
+
+ מהראשונים שהפיצו בארץ רעיון הצמחונות, הטבעונות והרפואה הטבעית.
+
+ בונה חפשי.
+
+ מרצה בנושאי בריאות על הצמחונות והטבעונות.
+
+ בשנת 1950 עזב את תל-אביב והיה מראשוניה של התנועה "מהעיר אל הכפר" והתיישב במושב עובדים "משמר השבעה" (משמאל הדרך ת"א-יפו - לרמלה).
+
+ כתב מאמרים בירחון "טבע ובריאות" ובעתונות היומית בארץ.
+
+ חיבר ספרים: "רפא עצמך" (1940), "אמנות התזונה" (1961), "תפריט יומי לישראל" (1963).
+
+ צאצאיו מאשתו הראשונה :<persName> יצחק</persName> (עובד בשדה דב שדה התעופה), <persName>דבורה.</persName>
+
+ מאשתו השניה;<persName> ישראל, שלומית, אביב, זוהר, אלי</persName> <persName>שע, חזון, הדר.</persName>
+
+ אחותו<persName> מרים פומרנץ</persName> נהרגה מהפצצת האנגלים על בית החולים בכפר סבא בשנת 1917 במילוי תפקידה כאחות רחמניה בבית-החולים.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #13 ,Page: 4265 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4265</bibl><bibl>Volume: #13 ,Page: 4266 ,URL: http://www.tidhar.tourolib.org/tidhar/view/13/4266</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

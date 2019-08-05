@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #3 ,Page: 1185 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1185</bibl><bibl>Volume: #3 ,Page: 1186 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1186</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>צבי הירש הכהן ליבונטין</persName>
+
+</head>
+         <div><p> בן זאב הכהן, נולד בשנת התקצ"ב בעיר ניקולייב שבאוקראינה (מוצאו ממשפחה, המתיחסת לרבנו יהודה ליאונטין מבעלי התוספות).
+
+ חנוכו היה יהודי-מסורתי. כשנשא אשה נהיה לסוחר, ומסחרו הצליח בידו ונהיה עשיר ובעל נכסים. היה חשוך בנים ולפי הצעתו של שאר בשרו ז. ד. ליבונטין, שנמצא אז בארץ ישראל, בא לארץ, כדי לעשות דבר מה לטובת ישוב ארץ ישראל, למען ישאיר אחריו זכרון ושם טוב (1882).
+
+ בעברו את הארץ לארכה ולרחבה נוכח, שהצעתו של ז. ד. ליבונטין היא הצעה נבונה, ומכיון שהביא עמו סכום כסף הגון, הסכים לקנות אותה כברת הארץ שהציע לפניו ז. ד, ל. כדי למסרה אח"כ בלי כל ריוח לאנשים שימצאו מתאימים לאותה מושבה
+
+
+ שעמד באותה שעה ליסדה. הכסף ששילם בעד כל השטח הספיק כדי לתת גם למחוסרי אמצעים וגם לבעלי אמצעים את האפשרות להתישב על האדמה. המושבה שנוסדה באמצעיו הפרטיים נקראה בשם "ראשון לציון". מחצית השטח נמכרה על ידו לחברי ועד "חלוצי יסוד המעלה" במחיר שעלה לו, ומחציתו
+
+ השני של השטח השאיר לעצמו, וממנו הפריש שטח של 360 דונם בשביל שש משפחות מחוסרות אמצעים, בתשלומיו לשעורין במשך חמש שנים, והתמורה שתתקבל במשך הזמן הנ"ל הקדיש לבנין בית הכנסת במושבה. על פעולתו לטובת המושבה החדשה נתכבד באסיפה הכללית של חברי המושבה בג' תמוז תרמ"ב בתואר "חבר נכבד" של הועד, וגם הוגשה לו תעודה מיוחדת, המביעה לו הוקרה.
+
+ אחרי שנוסדה ראשון לציון, והמתישבים הראשונים עלו על הקרקע, יצא לזמן-מה לרוסיה לשם חסול עסקיו. ואמנם כעבור זמן קצר חזר מרוסיה והתישב בראל"צ. מפני שלא יכול היה להסתגל לסדרי והפקידות של הבארון, שהונהגו אחרי שראשון לציון עברה לחסותו של הבארון, מכר את רכושו לבארון רוטשילד, ונשאר לגור בראל"צ עד סוף ימיו.
+
+ נפטר בעשרה בטבת תרנ"ח ונקבר בבית הקברות בראשון לציון.
+
+ את כל רכושו צוה לטובת מוסדות צבור שונים במושבה.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #3 ,Page: 1185 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1185</bibl><bibl>Volume: #3 ,Page: 1186 ,URL: http://www.tidhar.tourolib.org/tidhar/view/3/1186</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

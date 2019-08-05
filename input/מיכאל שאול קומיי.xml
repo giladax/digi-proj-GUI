@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #8 ,Page: 3071 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3071</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>מיכאל שאול קומיי</persName>
+
+</head>
+         <div><p> נולד בכ"ב בתשרי תרס"ט (17.10.1908) בקייפטאון שבדרום אפריקה.
+
+ לאביו <persName>אוריאל</persName> ולאמו <persName>חיה</persName> בת<persName> יהודה הוכברג</persName> למד משפטים באוניברסיטת קייפטאון והוסמך במדעים כלליים ולעורך-דין בדרגה גבוהה (מורשה להופיע בפני בית-הדין העליון).
+
+ נשא לאשה את <persName>ז'אן </persName> בת <persName>אהרן סולומון.</persName>
+
+ מ-1931 עבד כעו"ד והיה פעיל בעניני הקהלה היהודית ובתנועה הציונית.
+
+ לרגל מלחמת העולם שירת בצבא הדרום-אפריקאי מ-1940 עד 1946 והגיע בו לדרגת מייג'ור.
+
+ ב-1946 עלה לארץ ושימש ליד הנהלת הסוכנות היהודית כנציג ההסתדרות הציונית הדרום-אפריקאית ובתפקידים מדיניים במחלקה המדינית של הסוכנות בארץ ובחו"ל.
+
+ עם קום המדינה המשיך את שרותו במשרד החוץ כמנהל המחלקה לעניני חברה העמים הבריטי, ובאפריל 1952 נתמנה לסגן המנהל הכללי של המשרד. ביולי 1953 נשלח כציר ישראל לקנדה וביולי 1954 הועלה לדרגת שגריר.
+
+ בעצרת האו"ם ב-1955 השתתף כחבר המשלחת הישראלית בועדה המדינית.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #8 ,Page: 3071 ,URL: http://www.tidhar.tourolib.org/tidhar/view/8/3071</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #14 ,Page: 4489 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4489</bibl><bibl>Volume: #14 ,Page: 4490 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4490</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>תיאדור התלגי (שניברג)</persName>
+
+</head>
+         <div><p> נולד ב<placeName>וורשה</placeName> (פולין), בשנת תרע"ז (19.11.1917).
+
+ לאביו<persName> קארול-קופל שניברג</persName> ולאמו<persName> פליציה-פייגה</persName> בת ר' <persName>משה פערשט.</persName>
+
+ את חנוכו קבל בפולין, צרפת וגרמניה. בשנת 1939 סיים את חוק לימודיו במדעי החברה באוניברסיטת וורשה בתואר מ. א.
+
+ היה יו"ר איגוד הסטודנטים הציוניים באוניברסיטת וורשה (1936-39).
+
+
+ היה פעיל במחתרת בפולין בימי הכיבוש הנאצי במלחמת העולם השניה.
+
+ היה פעיל בתנועת "הבריחה" באיטליה (1945-47).
+
+ בשנת 1947 עלה לארץ.
+
+ בשנת 1942 נשא לאשה את <persName>נעמי </persName> בת<persName> השל הלפרן.</persName>
+
+ פרסם סיפורים, בקורת ספרותית ושירים בעתונות הספרותית; תרגומים ספרותיים מצרפתית ומפולנית לעברית ; שליחויות צבוריות ועתונאיות למזרח הקרוב. לאירופה ולאמריקה.
+
+ עורר הרבעון "עם ואדמתו".
+
+ פרסם קובץ שירים "העיר האחרת" (בהוצאת מחברות לספרות, ת"א, תשכ"ג).
+
+ חבר ההנהלה ומנהל אגף ההסברה של הקרן הקימת לישראל.
+
+ בנו:<persName> רון.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #14 ,Page: 4489 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4489</bibl><bibl>Volume: #14 ,Page: 4490 ,URL: http://www.tidhar.tourolib.org/tidhar/view/14/4490</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

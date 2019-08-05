@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #2 ,Page: 967 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/967</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב גרין</persName>
+
+</head>
+         <div><p> נולד ביפו, בשנת תרי''א (1851), לאביו<persName> אברהם</persName> <persName>חיים</persName> ולאמו<persName> סלובה</persName> , מהאשכנזים הראשונים ביפו. למד תורה ביפו ובירושלים ואח"כ למד את מלאכת החייטות, השתקע ביפו ועסק במלאכתו, מהראשונים
+
+ במקצוע בעיר זו, ועבד בשביל היהודים הספרדים שהחלו להתישב בעיר ובשביל נכבדי הערבים. הודות לקשריו הטובים עם ערביי יפו ניתן לו לעזור בהבאת נוסעים ועולים יהודים בסירות מהאניות אל החוף.
+
+ בשנת תרל"ה נסע פעם בסירה לקראת עולים, שמילאו אח"כ תפקיד נכבד בבנין הישוב, <persName>אלעזר</persName> <persName>ראב </persName> (מראשוני מיסדי פתח-תקוה, אבי משפחת <persName>ראב </persName> <persName>בן-עזר</persName> ) ומשפחתו שעלו אז מהונגריה. בדרך אל החוף נפלה בתו טויבה מהסירה, והוא, יעקב גרין, קפץ אחריה הימה והצילה, ובהסכמת ההורים נישאה לו לאשה.
+
+ עסק במשך עשרות שנים במלאכה ובמסחר בבגדים מוכנים (הראשון במקצוע זה ביפו), היה לעזר לעולים הבאים ארצה ולמשתקעים ביפו.
+
+ נפטר בתל-אביב, א' ניסן תרצ"ה.
+
+ צאצאיו:<persName> שלמה</persName> (מיסד שכונת גרין), דרומית-מזרחית ליפו, שהיתה גרעין ראשון ליסוד <persName>חולון), דב</persName> (ברנרד), <persName>יצחק </persName> (ממיסדי הפירמה המסחרית הגדולה<persName> האחים גרין</persName> במצרים), <persName>יהושע </persName> (שותף ראשי בפירמה הנ"ל ובעיקר בחלקה הארצישראלי הידוע בשם<persName> י. גרין ושות' א"י</persName> <persName>בע"מ)</persName> , ד"ר <persName>אברהם חיים</persName> (רופא בצפת, שנפטר שם בדמי ימיו תוך עזרה מסורה לנגועי המצוקה והמגפות במלחמת-העולם הראשונה).
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #2 ,Page: 967 ,URL: http://www.tidhar.tourolib.org/tidhar/view/2/967</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

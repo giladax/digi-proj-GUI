@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #1 ,Page: 147 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/147</bibl><bibl>Volume: #1 ,Page: 148 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/148</bibl>
+<bibl>Volume: #1 ,Page: 149 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/149</bibl>
+<bibl>Volume: #1 ,Page: 150 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/150</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>אברהם מרדכי ברזילי</persName>
+
+</head>
+         <div><p> נולד באודיסה, כ' אייר תרמ"א (1881), לאביו <persName>יוסף.</persName> קיבל חינוך מסורתי בחדרים ובישיבות. נמשך עוד מבחרותו לציונות והיה פעיל בעבודות למען ארץ-ישראל וגם בעניני-צבור יהודיים במקומו. עסק במסחר עצים ויערות. בשנת תרע"ג עזב את עסקיו המצליחים ועלה ארצה עם משפחתו (הגיע לחוף יפו ביום ח' ניסן תרע"ג).
+
+ מיד אחרי הגיעו ארצה התקרב אל העסקנים הפעילים בישוב והקדיש את מרצו ויכלתו לקידום הפעולה הישובית והציונית. ביחוד נתן את דעתו לתקן פגם גדול מלפני עשרים שנה ומעלה, כשנכשל הנסיון הראשון של <persName>יהושע חנקין</persName> לגאול את אדמת עמק יזרעאל מידי סורסוק, משום שיהודי הגולה שנתנו דמיקדימה על חלקות קרקע נבהלו מפני גזירות ההגבלה של השלטון הטורקי והפסיקו את תשלומיהם, וכך ירדו דמי-הקדימה לטמיון והקניה נתבטלה. וכעת אמר ברזילי ללכד מחדש את הכוחות לגאול את האדמה ההיא. הוא היה מראשי הפעילים באספה בבית הרב <persName>א. י. קוק</persName> , שהיה אז רבה של יפו, והשתתף במרץ ובכח-השפעה רב ביסוד "אגודת המתנחלים", שבעזרת חברת "הכשרת הישוב" גאלה כעשרים אלף דונם במבוא עמק יזרעאל עוד לפני מלחמת העולם הראשונה ובזה פתחה שער לגאולת העמק כולו. כן השתתף עם<persName> מנחם שיינקין</persName> ועם<persName> יוסף אליהו שלוש</persName> בניהול "חברה חדשה", שגאלה קרקעות ליד צפת.
+
+ במלחמת-העולם הראשונה ויתר על נתינותו הרוסית ונשאר בארץ, המשיך לעסוק בצרכי צבור ועזר למפעלי הסיוע לנצרכים בשל מצוקות המלחמה. כשגורשו יהודי יפו-ת"א בז' ניסן תרע"ז ונוסד ועד ההגירה המרכזי לעזרת המגורשים (בהרכב חברי ועד הסיוע וועד העיר ליהודי יפו ובראשות<persName> מאיר דיזנגוף ושמעון</persName> <persName>רוקח) </persName> היה הוא הגזבר-בפועל של ועד זה.
+
+ אחרי המלחמה התמסר לפיתוח ענף גידול הטבק בראש-פנה ובמושבות הגליל העליון, התישב בראש-פנה והיה יו"ר הסינדיקט של מגדלי הטבק ובמשך כמה
+
+
+ שנים אף יו''ר ועד המושבה ועסקן צבורי בעניני מושבות הגליל העליון. ביזמתו נרכש שוק למכירת הטבק לממשלת פולין. באותה תקופה יסד את הנקודה הקטנה "צופיה" ליד הדרך מראש פנה לצפת ואת המקום הזה הועיד בצוואתו לבית-מרגוע ליהודים שומרי תורה. פרסם מאמרים בעניני צבור ובנין הארץ בעתונים "הארץ" ו"דאר היום".
+
+ נפטר בתל-אביב, כי אלול תרצ"ה, ונקבר בבית הקברות הישן.
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #1 ,Page: 147 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/147</bibl><bibl>Volume: #1 ,Page: 148 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/148</bibl>
+<bibl>Volume: #1 ,Page: 149 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/149</bibl>
+<bibl>Volume: #1 ,Page: 150 ,URL: http://www.tidhar.tourolib.org/tidhar/view/1/150</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

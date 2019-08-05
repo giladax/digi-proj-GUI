@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #7 ,Page: 2951 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2951</bibl><bibl>Volume: #7 ,Page: 2952 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2952</bibl>
+<bibl>Volume: #7 ,Page: 2953 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2953</bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>יעקב זלמן זלצר</persName>
+
+</head>
+         <div><p> נולד קלצק (רוסיה הלבנה), בשנת תרי''ז (1857).
+
+ לאביו<persName> יהושע</persName> ולאמו <persName>דבורה</persName> בת <persName>יעקב</persName> .
+
+ קבל חנוך מסורתי בישיבה.
+
+ היה חקלאי בעירו.
+
+ בשנת תרס"ד (1904) עלה לארץ עם משפחתו.
+
+ בשנת תרל"ו (1876) נשא לאשה את<persName> פייגה</persName> בת <persName>אליעזר ליפמן גלות</persName> , ולאמה<persName> חיה</persName> בת ר' <persName>שמואל זבול</persName> <persName>קנטרוביץ</persName> (נולדה בכפר ליד קלצק. י"ד אדר תרי"ד (1854). ביתה ברחובות היה כעין "כלבא שבוע". קרבה את אנשי תנועת העבודה. בנתה בית ותרמה אותו לצרכי צבור -לפועל המזרחי. נפטרה ברחובות, י"ט תמוז תשי"ד-20.7.1954).
+
+ מימין - חתנה :<persName> בנציון ישראלי </persName> (ראה כרך ו', עמוד 2570).
+
+<persName>פייגה זלצר, נח נפתולסקי</persName> (ראה כרך ד', עמוד 1595).
+
+ לקח חלק בהגנת המושבה.
+
+ צאצאיו:<persName> ליבה</persName> אשת<persName> אליהו חיים ורטיצקי, דוד, חיה</persName> אשת בן-ציון ישראלי (ראה כרך ו', עמוד 2577).
+
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #7 ,Page: 2951 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2951</bibl><bibl>Volume: #7 ,Page: 2952 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2952</bibl>
+<bibl>Volume: #7 ,Page: 2953 ,URL: http://www.tidhar.tourolib.org/tidhar/view/7/2953</bibl>
+            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

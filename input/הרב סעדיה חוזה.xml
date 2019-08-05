@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+         <titleStmt>
+            <title level="a" xml:lang="eng">Tidhar - Encyclopedia of the founders and builders of Israel </title>
+           <respStmt>
+               <resp>
+                  <name>Snir Cohen</name>
+                  <name>Snir Burkush</name>
+               </resp>
+               <orgName>BGU</orgName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>DH CS Course in BGU year of 2019 semester alef</p>
+         </publicationStmt>
+         <sourceDesc>
+<bibl>Volume: #12 ,Page: 3977 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3977</bibl>         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+   <text xml:lang="heb">
+      <body>
+     <head> <persName>הרב סעדיה חוזה</persName>
+
+</head>
+         <div><p> נולד כ"ז אב תרע"ז (15.8.1917) בעיר מנזל שבמחוז תעז בתימן.
+
+ לאביו<persName> יפת-רצון חוזה</persName> (שהיה רבם של יהודי מחוז תעז והתפרנס בעבודה במקצוע צורף כסף וזהב) ולאמו <persName>חנה </persName> בת הרב <persName>יפת יעקב</persName> .
+
+ למר תורה מפי אביו ורבנים אחרים ובשנתו ה-16 הוסמך לשחיטה, ואחרי לימוד נוסף הוסמך לרבנות. נסע לעדן, המשיך ללמוד בישיבת<persName> משה בנין שילה</persName> והוסמך גם על-ידי הרב הראשי וחברי בית-הדין של קהילת עדן.
+
+ בשנת תרצ"ג נשא לאשה את<persName> לאה</persName> בת<persName> סעדיה יפה</persName>
+
+<persName>צאירי</persName> ובשנת תש"א את<persName> יונה</persName> בת<persName> אברהם צאירי</persName> (שתיהן ממשפחת<persName> צאירי</persName> , המתיחסת על המקובל-המשורר רבי <persName>שלום שבזי)</persName> .
+
+ התפרנס מעבודה במקצוע של אביו ושירת כמוהו את בני עדתו בתור שוחט ומוהל ורב ומנהל שיעורי תורה בציבור, וכן שיתף פעולה עם העוסקים בחשאי בארגון העליה מתימן.
+
+ בשנת תש"ב (1942) עלה לארץ עם משפחתו. עבד שנה אחת בפרדסי הרצליה ובערבים מילא תפקידי רבנות והדרכה רוחנית לבני עדתו. המשיך שנתיים באבן יהודה בשני עיסוקיו ויסד בית-כנסת לבני עדתו, ששכנו תחילה במחנה אהלים ואח"כ בשיכון "עין יעקב". בשנת תש"ה עבר לרמת-גן והתמסר למתן שרותי דת לבני עדתו לפי תנאי העבודה בשכר הנהוגים בארצנו. עבר בחינות בהלכה אצל רבנים גדולים בירושלים ובתל-אביב וברמתגן וקיבל אישורים לסמיכות לרבנות שהביא מתימן. השקיע עבודה ארגונית ביסוד ששה בתי-כנסת לעולי תימן בשכונות שונות של רמת-גן, הנהיג שעורי תורה בהברה תימנית.
+
+ נבחר (בשנת תשי"ב) להנהלת המועצה הדתית, לועד העדה התימנית, למועצה המרכזית של עדות המזרח לבית הכנסת הגדול, ליו"ר מועצת העדה התימנית. ובתפקידו הקבוע בתור רב ומדריך כללי מקומי הנו נותן לבני עדתו הדרכה דתית והשגחה כללית ורבנית.
+
+ שירת בהגנה ובמלחמת הקוממיות שירת בצבא.
+
+ צאצאיו: <persName>סגולה </persName> אשת<persName> סעדיה שרעבי, שלום</persName> (למד בישיבה חקלאית וגמר במקוה ישראל),<persName> יחיאל, נצח</persName> , <persName>חבצלת.</persName>
+
+</p></div>
+         <div type="bibliogrphy">
+            <listBibl>
+<bibl>Volume: #12 ,Page: 3977 ,URL: http://www.tidhar.tourolib.org/tidhar/view/12/3977</bibl>            </listBibl>
+         </div>
+      </body>
+  </text>
+</TEI>

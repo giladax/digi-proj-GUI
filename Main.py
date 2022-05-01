@@ -16,3 +16,4 @@ view = View(fm, wrapper, HEIGHT, WIDTH)
 
 view.init_view()
 
+shal = 1

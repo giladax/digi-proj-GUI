@@ -6,9 +6,8 @@ app_version: 0.8.6-0
 ---
 
 <!-- Steps - Do not remove this comment -->
-1. [v](v.bzvlp.sw.md)
-2. [https://www.youtube.com/watch?v=zI383uEwA6Q](https://www.youtube.com/watch?v=zI383uEwA6Q)
-3. [drjhnt](drjhnt.ia0ri.sw.md)
+1. [https://www.youtube.com/watch?v=zI383uEwA6Q](https://www.youtube.com/watch?v=zI383uEwA6Q)
+2. [drjhnt](drjhnt.ia0ri.sw.md)
 
 
 <br/>

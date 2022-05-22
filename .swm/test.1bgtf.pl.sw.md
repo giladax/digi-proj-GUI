@@ -6,7 +6,7 @@ app_version: 0.8.6-0
 ---
 
 <!-- Steps - Do not remove this comment -->
-1. [https://www.youtube.com/watch?v=zI383uEwA6Q](https://www.youtube.com/watch?v=zI383uEwA6Q)
+1. [12](https://www.youtube.com/watch?v=b-FaU4TbaeY)
 2. [drjhnt](drjhnt.ia0ri.sw.md)
 
 
